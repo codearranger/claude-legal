@@ -1,0 +1,30 @@
+{
+  "name": "wa-court-docs",
+  "version": "0.6.1",
+  "description": "Draft and format pleadings, declarations, motions, notes for motion docket, and proposed orders for Washington courts. Applies GR 14 formatting; includes KCDC specifics; supports pro se workflows. Architected as matter-neutral civil-procedure skills (civil rules, evidence rules, fees and costs, local rules, citation format, online sources, discovery, first-30-days response, hearings, filing packets, post-judgment, fact-checking, deadlines) plus subject-matter bundles that plug into the procedural skills. The first subject-matter bundle, wa-consumer-debt, covers FDCPA, Reg F, RCW 19.16, the Washington CPA, chain-of-title doctrine, fact-pattern triage, and synthetic example filings for debt-buyer defense. The architecture leaves clean slots for future bundles (landlord-tenant, family, personal injury, etc.). All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/wa-court-docs-marketplace",
+  "repository": "https://github.com/codearranger/wa-court-docs-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "washington",
+    "legal",
+    "pleadings",
+    "pro-se",
+    "gr-14",
+    "king-county",
+    "civil-rules",
+    "evidence-rules",
+    "discovery",
+    "hearings",
+    "post-judgment",
+    "fact-check",
+    "fdcpa",
+    "reg-f",
+    "consumer-protection",
+    "debt-collection"
+  ]
+}

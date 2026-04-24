@@ -1,0 +1,37 @@
+{
+  "name": "wa-court-docs-marketplace",
+  "owner": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "metadata": {
+    "description": "Marketplace for Washington State court document plugins. Helps pro se litigants and practitioners draft GR 14-compliant pleadings, declarations, motions, and proposed orders; manage discovery; prepare for hearings; and handle post-judgment procedure. Architected as matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense).",
+    "version": "0.4.0"
+  },
+  "plugins": [
+    {
+      "name": "wa-court-docs",
+      "source": "./plugins/wa-court-docs",
+      "description": "Draft and format pleadings, declarations, motions, notes for motion docket, and proposed orders for Washington courts. Applies GR 14 formatting; includes KCDC specifics; supports pro se workflows. Architected as matter-neutral civil-procedure skills (civil rules, evidence rules, fees and costs, local rules, citation format, online sources, discovery, first-30-days response, hearings, filing packets, post-judgment, fact-checking, deadlines) plus subject-matter bundles that plug into the procedural skills. The first subject-matter bundle, wa-consumer-debt, covers FDCPA, Reg F, RCW 19.16, the Washington CPA, chain-of-title doctrine, fact-pattern triage, and synthetic example filings for debt-buyer defense. The architecture leaves clean slots for future bundles (landlord-tenant, family, personal injury, etc.). All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+      "category": "legal",
+      "keywords": [
+        "washington",
+        "legal",
+        "pleadings",
+        "pro-se",
+        "gr-14",
+        "king-county",
+        "civil-rules",
+        "evidence-rules",
+        "discovery",
+        "hearings",
+        "post-judgment",
+        "fact-check",
+        "fdcpa",
+        "reg-f",
+        "consumer-protection",
+        "debt-collection"
+      ]
+    }
+  ]
+}
