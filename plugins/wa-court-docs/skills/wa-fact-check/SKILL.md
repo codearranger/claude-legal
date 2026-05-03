@@ -90,6 +90,19 @@ For each citation:
    - CFR → `https://www.ecfr.gov/current/title-XX/...`
    - U.S.C. → `https://www.law.cornell.edu/uscode/text/XX/XXXX`
    - Cases → CourtListener / Google Scholar
+
+   For programmatic verification (preferred when fact-checking
+   many cites), use the APIs in
+   `wa-law-references/references/legal-data-apis.md`:
+   - **CourtListener citation-lookup** —
+     `POST https://www.courtlistener.com/api/rest/v3/citation-lookup/`
+     with `{"text": "<citation>"}` returns the case + opinion text.
+     This is the cleanest path for batch cite-checking.
+   - **eCFR Versioner API** —
+     `https://www.ecfr.gov/api/versioner/v1/full/<date>/title-<N>.xml?part=<P>`
+     returns the in-force CFR text on a given date.
+   - **USC USLM XML** — bulk download per release point from
+     `uscode.house.gov` for offline cite verification at scale.
 2. **Confirm the cite resolves** — the URL returns content that
    matches the cite
 3. **Read the proposition the document attributes to the source**

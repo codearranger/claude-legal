@@ -7,6 +7,13 @@ the reference files. The reference files in this plugin are
 interpretive aids; when quoting or citing specific subsections in a
 filing, fetch from the canonical source and confirm the text.
 
+> **For programmatic / structured lookup**, see the companion
+> [`legal-data-apis.md`](./legal-data-apis.md) — covers the USLM
+> XML release-point downloads, the eCFR Versioner XML/JSON API, and
+> the CourtListener REST API for case-law lookup and citation
+> verification. Prefer those APIs when an agent needs machine-readable
+> output (cite-checking, bulk extraction, change detection).
+
 ## How to use this file
 
 When a drafting skill needs the current text of a rule, statute, or

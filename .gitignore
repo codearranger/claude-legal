@@ -5,3 +5,5 @@ node_modules/
 *.swp
 *.bak
 ~$*
+__pycache__/
+*.pyc

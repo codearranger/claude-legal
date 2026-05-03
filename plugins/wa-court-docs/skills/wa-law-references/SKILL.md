@@ -55,6 +55,10 @@ Ask: *what is the user trying to establish procedurally?*
 - **Canonical URL or citation verification** → start with
   `references/online-sources.md` and hand off to `wa-fact-check`
   for per-filing verification
+- **Programmatic / structured lookup** (USC XML, eCFR API,
+  CourtListener for cite-checking, bulk extraction, change
+  detection) → `references/legal-data-apis.md`. Prefer the APIs
+  listed there over HTML scraping when the result will be parsed
 - **A general civil case** (SJ standard, lodestar,
   default-vacation) → start with `references/key-cases.md`
 - **Subject-matter law** (FDCPA, Reg F, consumer protection,
