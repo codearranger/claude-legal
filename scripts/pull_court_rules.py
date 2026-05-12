@@ -28,7 +28,7 @@ from pathlib import Path
 
 BASE = "https://www.courts.wa.gov"
 LIST_URL = BASE + "/court_rules/?fa=court_rules.list&group={group}&set={set}"
-USER_AGENT = "wa-court-docs-marketplace/1.0 (+https://github.com/) court-rules-puller"
+USER_AGENT = "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) court-rules-puller"
 
 # (group, set, full_title) — taken from the rule-set index pages
 RULE_SETS: list[tuple[str, str, str]] = [

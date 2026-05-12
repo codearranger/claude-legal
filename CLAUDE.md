@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-A Claude Code / Cowork **marketplace** that ships one plugin today: `wa-court-docs`, a drafting/format/research toolkit for Washington State court filings (consumer-debt focus, with clean slots for future subject bundles). Output is documents, not advice; everything is bracketed by a "not legal advice" disclaimer that downstream skills repeat.
+The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state. It ships one plugin today: `wa-court-docs`, a drafting/format/research toolkit for Washington State court filings (consumer-debt focus, with clean slots for future subject bundles); the structure leaves clean slots for plugins covering additional states. Output is documents, not advice; everything is bracketed by a "not legal advice" disclaimer that downstream skills repeat.
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify against current rules and case law before filing.
 

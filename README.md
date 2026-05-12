@@ -1,6 +1,6 @@
-# wa-court-docs-marketplace
+# claude-legal
 
-A Claude Code / Cowork marketplace for preparing documents for Washington State courts.
+A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents. The first plugin covers Washington State courts; the structure leaves clean slots for additional states.
 
 ## What's in here
 
@@ -8,21 +8,21 @@ One plugin today:
 
 - **wa-court-docs** — Drafts and formats pleadings, declarations, motions, notes for motion docket, and proposed orders for Washington courts. Applies GR 14 formatting, covers King County District Court (all three divisions — East/Redmond, South/Burien, West/Seattle), and supports pro se workflows. Architected as matter-neutral civil-procedure skills plus subject-matter bundles (starting with `wa-consumer-debt` for FDCPA / Reg F / WA CPA debt-defense).
 
-More plugins can be added under `plugins/` as the marketplace grows.
+The marketplace is organized one plugin per state; more state plugins can be added under `plugins/` as it grows.
 
 ## Install
 
 Add this marketplace to Claude Code or Cowork, then install `wa-court-docs`:
 
 ```
-/plugin marketplace add https://github.com/codearranger/wa-court-docs-marketplace
-/plugin install wa-court-docs@wa-court-docs-marketplace
+/plugin marketplace add https://github.com/codearranger/claude-legal
+/plugin install wa-court-docs@claude-legal
 ```
 
 ## Repo layout
 
 ```
-wa-court-docs-marketplace/
+claude-legal/
 ├── .claude-plugin/
 │   └── marketplace.json              # Marketplace manifest
 ├── plugins/

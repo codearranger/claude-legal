@@ -1,12 +1,12 @@
 {
-  "name": "wa-court-docs-marketplace",
+  "name": "claude-legal",
   "owner": {
     "name": "codearranger",
     "url": "https://github.com/codearranger"
   },
   "metadata": {
-    "description": "Marketplace for Washington State court document plugins. Helps pro se litigants and practitioners draft GR 14-compliant pleadings, declarations, motions, and proposed orders; manage discovery; prepare for hearings; and handle post-judgment procedure. Architected as matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense).",
-    "version": "0.4.0"
+    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state. The first plugin, wa-court-docs, covers Washington State: GR 14-compliant pleadings, declarations, motions, and proposed orders; discovery; hearing prep; post-judgment procedure — architected as matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense). The structure leaves clean slots for plugins covering additional states.",
+    "version": "0.5.0"
   },
   "plugins": [
     {
