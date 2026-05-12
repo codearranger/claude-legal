@@ -47,10 +47,16 @@ For *any* county court, these are the authoritative starting points:
   judges, and links for every court in the state. Use this to confirm a
   courthouse address or division before you put it in a caption.
 - **Local rules (LCR for superior courts, LCRLJ / LCR for district
-  courts)** — indexed at `https://www.courts.wa.gov/court_rules/` and
-  mirrored under `wa-law-references/references/court-rules/`. Read the
-  county's local rules for filing format, working-copy requirements,
-  motion-confirmation deadlines, and the civil motion calendar.
+  courts)** — the `https://www.courts.wa.gov/court_rules/` page links out
+  to "Superior Court Rules" / "District Court Rules" / "Municipal Court
+  Rules", and *those* pages list the local-rule sets court by court; many
+  courts also post their own local rules on their own site, and the clerk
+  of court keeps the authoritative copy. Read the county's local rules
+  for filing format, working-copy requirements, motion-confirmation
+  deadlines, and the civil motion calendar. (Note: the in-repo
+  `wa-law-references/references/court-rules/` corpus carries the
+  **statewide** rule sets — CR, CRLJ, ER, GR, RAP, etc. — not the
+  per-county local rules; pull those live.)
 - The **county court's own website** (linked from each entry below) for
   the live e-filing portal, current civil-calendar dates, and
   division-specific note/scheduling forms.
@@ -149,9 +155,11 @@ Things that genuinely vary county to county, and where to find them:
   case-management system (LINX in Pierce, Odyssey/JIS elsewhere). Copy the
   format from the served pleadings or the clerk; don't construct one.
 
-When in doubt, the controlling text is that county's local rules in
-`wa-law-references/references/court-rules/` (or the live copy at
-`courts.wa.gov/court_rules/`), read alongside the statewide CRLJ / CR.
+When in doubt, the controlling text is that county's local rules — pull
+the current set from `courts.wa.gov/court_rules/` (District / Superior /
+Municipal Court Rules link → court-by-court list) or the court's own site
+— read alongside the statewide CRLJ / CR (which *are* mirrored in
+`wa-law-references/references/court-rules/`).
 
 ## References
 

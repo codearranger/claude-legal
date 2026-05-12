@@ -21,10 +21,12 @@ King County District Court, which is covered by the `wa-kcdc` skill.**
   account required). E-filing and e-service are **mandatory** for most
   filers under **PCLGR 30 / PCLR 30**; read that rule before your first
   filing.
-- Local rules: Pierce County District Court LCR — indexed at
-  `https://www.courts.wa.gov/court_rules/` and mirrored under
-  `wa-law-references/references/court-rules/`. Check the current civil
-  motion docket and confirmation requirements there.
+- Local rules: Pierce County District Court LCR — from
+  `https://www.courts.wa.gov/court_rules/` follow "District Court Rules"
+  to the court-by-court list, or use the county site. Check the current
+  civil motion docket and confirmation requirements there. (The in-repo
+  court-rules corpus has the statewide CR/CRLJ/etc., not Pierce's local
+  rules.)
 - Records / clerk contact: `PCDCRecords@piercecountywa.gov`.
 
 **Pierce County Superior Court** (general jurisdiction)
@@ -174,7 +176,9 @@ court for the two counties)
 This skill covers the most populous counties. For any other Washington
 county, go straight to the Washington Courts directory
 (`https://www.courts.wa.gov/court_dir/`) for the address and judges, and
-to `courts.wa.gov/court_rules/` (mirrored in
-`wa-law-references/references/court-rules/`) for that court's local rules.
+to `courts.wa.gov/court_rules/` → "Superior / District / Municipal Court
+Rules" for the court-by-court list of local rules (the in-repo
+`wa-law-references/references/court-rules/` corpus has the statewide rule
+sets, not the local ones).
 The cross-county workflow in `references/filing-and-service.md` still
 applies.
