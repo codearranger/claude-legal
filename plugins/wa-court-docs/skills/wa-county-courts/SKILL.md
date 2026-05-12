@@ -156,7 +156,7 @@ Things that genuinely vary county to county, and where to find them:
   format from the served pleadings or the clerk; don't construct one.
 
 When in doubt, the controlling text is that county's local rules — pull
-the current set from `courts.wa.gov/court_rules/` (District / Superior /
+the current set from `https://www.courts.wa.gov/court_rules/` (District / Superior /
 Municipal Court Rules link → court-by-court list) or the court's own site
 — read alongside the statewide CRLJ / CR (which *are* mirrored in
 `wa-law-references/references/court-rules/`).

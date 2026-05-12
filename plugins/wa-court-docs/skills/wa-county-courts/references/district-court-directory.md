@@ -48,7 +48,7 @@ the division assigned to the case**:
   (court divisions / locations: `https://snohomishcountywa.gov/524/Court-Divisions`).
 - E-filing: Snohomish County e-filing portal — link from the county page.
 - Local rules: Snohomish County District Court local rules — see
-  `courts.wa.gov/court_rules/` and the county site for the current civil
+  `https://www.courts.wa.gov/court_rules/` and the county site for the current civil
   calendar and any confirmation requirement.
 
 **Snohomish County Superior Court**
@@ -67,7 +67,7 @@ the division assigned to the case**:
   99260 (mailing: PO Box 2352, Spokane, WA 99210-2352).
 - E-filing: Spokane County e-filing portal — link from the county page.
 - Local rules: Spokane County District Court local rules at
-  `courts.wa.gov/court_rules/`.
+  `https://www.courts.wa.gov/court_rules/`.
 
 **Spokane County Superior Court**
 - Clerk: Spokane County Clerk, 1116 W Broadway Ave, Spokane, WA 99260.
@@ -84,7 +84,7 @@ the division assigned to the case**:
 - E-filing: Clark County e-filing portal (Odyssey-based) — link from the
   district court page.
 - Local rules: Clark County District Court local rules at
-  `courts.wa.gov/court_rules/`.
+  `https://www.courts.wa.gov/court_rules/`.
 
 **Clark County Superior Court**
 - Clerk: Clark County Clerk — `https://clark.wa.gov/clerk` (contact:
@@ -100,7 +100,7 @@ the division assigned to the case**:
 - Courthouse: Building 3, 2000 Lakeridge Dr SW, Olympia, WA 98502.
 - E-filing: Thurston County e-filing portal — link from the county page.
 - Local rules: Thurston County District Court local rules at
-  `courts.wa.gov/court_rules/`.
+  `https://www.courts.wa.gov/court_rules/`.
 
 **Thurston County Superior Court**
 - Clerk: Thurston County Clerk, 2000 Lakeridge Dr SW, Olympia, WA 98502.
@@ -114,7 +114,7 @@ the division assigned to the case**:
 - Courthouse: 614 Division St, MS-25, Port Orchard, WA 98366.
 - E-filing: Kitsap County e-filing portal — link from the county page.
 - Local rules: Kitsap County District Court local rules at
-  `courts.wa.gov/court_rules/`.
+  `https://www.courts.wa.gov/court_rules/`.
 
 **Kitsap County Superior Court**
 - Clerk: Kitsap County Clerk, 614 Division St, Port Orchard, WA 98366
@@ -132,7 +132,7 @@ the division assigned to the case**:
   (all courts: `https://www.yakimacounty.us/410/Yakima-County-Courts`).
 - E-filing: Yakima County e-filing portal — link from the county page.
 - Local rules: Yakima County District Court local rules at
-  `courts.wa.gov/court_rules/`.
+  `https://www.courts.wa.gov/court_rules/`.
 
 **Yakima County Superior Court**
 - Clerk: Yakima County Clerk, 128 N 2nd St, Yakima, WA 98901
@@ -147,7 +147,7 @@ the division assigned to the case**:
 - Courthouse: 311 Grand Ave, Suite 401, Bellingham, WA 98225.
 - E-filing: Whatcom County e-filing portal — link from the county page.
 - Local rules: Whatcom County District Court local rules at
-  `courts.wa.gov/court_rules/`.
+  `https://www.courts.wa.gov/court_rules/`.
 
 **Whatcom County Superior Court**
 - Clerk: Whatcom County Clerk, 311 Grand Ave, Bellingham, WA 98225.
@@ -162,7 +162,7 @@ the division assigned to the case**:
   (civil fees can be paid via the county's NCourt portal).
 - E-filing: Benton County e-filing portal — link from the county page.
 - Local rules: Benton County District Court local rules at
-  `courts.wa.gov/court_rules/`.
+  `https://www.courts.wa.gov/court_rules/`.
 
 **Superior Court — Benton & Franklin Counties** (a single shared superior
 court for the two counties)
@@ -176,7 +176,7 @@ court for the two counties)
 This skill covers the most populous counties. For any other Washington
 county, go straight to the Washington Courts directory
 (`https://www.courts.wa.gov/court_dir/`) for the address and judges, and
-to `courts.wa.gov/court_rules/` → "Superior / District / Municipal Court
+to `https://www.courts.wa.gov/court_rules/` → "Superior / District / Municipal Court
 Rules" for the court-by-court list of local rules (the in-repo
 `wa-law-references/references/court-rules/` corpus has the statewide rule
 sets, not the local ones).
