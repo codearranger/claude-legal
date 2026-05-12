@@ -18,7 +18,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date
 from pathlib import Path
 
-USER_AGENT = "wa-court-docs-marketplace/1.0 (+https://github.com/) wa-rcw-puller"
+USER_AGENT = "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) wa-rcw-puller"
 BASE = "https://app.leg.wa.gov"
 CHAPTER_URL = BASE + "/RCW/default.aspx?cite={chapter}"
 SECTION_URL = BASE + "/RCW/default.aspx?cite={cite}"

@@ -314,9 +314,9 @@ Reference implementation: `scripts/pull_ucc.py`.
 
 These services are free and run on government / non-profit infrastructure. To stay welcome:
 
-- **Send a User-Agent string identifying yourself** (e.g., `wa-court-docs-marketplace/1.0 (+url) <purpose>`). All four scripts in `scripts/pull_*.py` do this.
+- **Send a User-Agent string identifying yourself** (e.g., `claude-legal/1.0 (+url) <purpose>`). All four scripts in `scripts/pull_*.py` do this.
 - **Cap concurrency at ~12 workers** when scraping (the four pullers default to 8–12).
-- **Cache aggressively** when iterating. The federal puller caches the USC zip in `/tmp/wa-court-docs-cache/` so repeated runs don't re-download 30 MB.
+- **Cache aggressively** when iterating. The federal puller caches the USC zip in `/tmp/claude-legal-cache/` so repeated runs don't re-download 30 MB.
 - **Back off on 5xx**. Don't hammer if a service is having a bad day; retry with exponential delay.
 - **Don't scrape PACER** without explicit user authorization (it's paywalled per page; CourtListener's RECAP archive has most of it for free).
 
