@@ -1,7 +1,7 @@
 {
   "corpus": "or-ors-debt",
-  "version": "0.0.0",
-  "last_pulled": null,
+  "version": "0.1.0",
+  "last_pulled": "2026-05-13",
   "source": "https://www.oregonlegislature.gov/bills_laws/ors/",
   "chapters": [
     {"chapter": 12, "subject": "Limitations of actions", "file": "ORS-12.md"},
