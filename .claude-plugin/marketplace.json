@@ -6,13 +6,13 @@
   },
   "metadata": {
     "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state. The first plugin, wa-court-docs, covers Washington State: GR 14-compliant pleadings, declarations, motions, and proposed orders; discovery; hearing prep; post-judgment procedure — architected as matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense). The structure leaves clean slots for plugins covering additional states.",
-    "version": "0.5.0"
+    "version": "0.5.2"
   },
   "plugins": [
     {
       "name": "wa-court-docs",
       "source": "./plugins/wa-court-docs",
-      "description": "Draft and format pleadings, declarations, motions, notes for motion docket, and proposed orders for Washington courts. Applies GR 14 formatting; includes KCDC specifics; supports pro se workflows. Architected as matter-neutral civil-procedure skills (civil rules, evidence rules, fees and costs, local rules, citation format, online sources, discovery, first-30-days response, hearings, filing packets, post-judgment, fact-checking, deadlines) plus subject-matter bundles that plug into the procedural skills. The first subject-matter bundle, wa-consumer-debt, covers FDCPA, Reg F, RCW 19.16, the Washington CPA, chain-of-title doctrine, fact-pattern triage, and synthetic example filings for debt-buyer defense. The architecture leaves clean slots for future bundles (landlord-tenant, family, personal injury, etc.). All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+      "description": "Draft and format pleadings, declarations, motions, notes for motion docket, and proposed orders for Washington courts. Applies GR 14 formatting; includes King County District Court and King County Superior Court specifics plus a county-court roll-up for the other most-populous counties (Pierce, Snohomish, Spokane, Clark, Thurston, Kitsap, Yakima, Whatcom, Benton); supports pro se workflows. Architected as matter-neutral civil-procedure skills (civil rules, evidence rules, fees and costs, local rules, citation format, online sources, discovery, first-30-days response, hearings, filing packets, post-judgment, fact-checking, deadlines) plus subject-matter bundles that plug into the procedural skills. The first subject-matter bundle, wa-consumer-debt, covers FDCPA, Reg F, RCW 19.16, the Washington CPA, chain-of-title doctrine, fact-pattern triage, and synthetic example filings for debt-buyer defense. The architecture leaves clean slots for future bundles (landlord-tenant, family, personal injury, etc.). All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
       "category": "legal",
       "keywords": [
         "washington",
@@ -21,6 +21,10 @@
         "pro-se",
         "gr-14",
         "king-county",
+        "king-county-superior-court",
+        "pierce-county",
+        "snohomish-county",
+        "county-courts",
         "civil-rules",
         "evidence-rules",
         "discovery",

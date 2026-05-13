@@ -18,12 +18,16 @@ Three layers, three things to know:
 
 3. **Matter-neutral procedural skills + subject-matter bundles.** The procedural skills (`wa-statewide-format`, `wa-discovery`, `wa-hearings`, `wa-fact-check`, `wa-deadlines`, draft-* skills, etc.) know nothing about a specific area of law. Subject-matter bundles (`wa-consumer-debt` is the first; landlord-tenant / family / PI are the future slots) plug into them via composition. Don't bake subject-matter law into procedural skills.
 
-## Skills index (19 skills)
+**County coverage is skills inside the state plugin, not separate plugins.** One plugin per state; within it, a high-volume court can get its own skill (`wa-kcdc` for King County District Court, `wa-kcsc` for King County Superior Court), and the long tail of counties is carried as a single roll-up skill plus reference data (`wa-county-courts`, with `references/district-court-directory.md`). Name court skills `<state>-<court>` (e.g., `wa-kcdc`, `wa-kcsc`) or use the state-level roll-up (`wa-county-courts`). Don't create a plugin or a skill per county — that doesn't scale to 3,000+ U.S. counties; add detail to the roll-up's reference files on demand.
+
+## Skills index (21 skills)
 
 | Skill | Role |
 |---|---|
 | `wa-statewide-format` | GR 14 + statewide drafting conventions |
 | `wa-kcdc` | King County District Court (East/Redmond, South/Burien, West/Seattle) |
+| `wa-kcsc` | King County Superior Court (Seattle / Kent — MRJC); LCR 82 case assignment, LCR 4 case schedule, LCR 7 motions + working copies |
+| `wa-county-courts` | Other most-populous counties' district/superior courts (Pierce, Snohomish, Spokane, Clark, Thurston, Kitsap, Yakima, Whatcom, Benton) |
 | `wa-pro-se` | Pro se workflows; Parker framework; service |
 | `wa-law-references` | Civil rules, evidence, citation format, fees, local rules — **canonical reference corpora live here** |
 | `wa-discovery` | RFPs, interrogatories, RFAs, meet-and-confer, motion to compel |
