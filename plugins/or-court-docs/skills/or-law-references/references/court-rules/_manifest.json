@@ -1,7 +1,7 @@
 {
   "corpus": "or-court-rules",
-  "version": "0.0.0",
-  "last_pulled": null,
+  "version": "0.1.0",
+  "last_pulled": "2026-05-13",
   "source": "OJD courts.oregon.gov + Council on Court Procedures",
   "rules": [
     {

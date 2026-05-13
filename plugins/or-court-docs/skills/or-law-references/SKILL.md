@@ -1,5 +1,6 @@
 ---
 name: or-law-references
+version: 0.2.0
 description: >
   This skill should be used when the user needs to cite, apply, or
   research law that bears on Oregon civil court practice across any

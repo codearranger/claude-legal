@@ -128,9 +128,11 @@ claude-legal/
 │   ├── lint-skills.py                # Frontmatter + name/dir-match linter
 │   ├── hooks/pre-commit              # Symlink target for git hook
 │   ├── pull_court_rules.py           # courts.wa.gov → wa court rules
-│   ├── pull_federal_debt_laws.py     # Federal law (shared content)
-│   ├── pull_ucc.py                   # Model UCC (shared content)
-│   └── pull_wa_rcw.py                # app.leg.wa.gov → wa RCW chapters
+│   ├── pull_wa_rcw.py                # app.leg.wa.gov → wa RCW chapters
+│   ├── pull_ca_court_rules.py        # courts.ca.gov → ca court rules
+│   ├── pull_ca_statutes.py           # leginfo.legislature.ca.gov → ca statute chapters
+│   ├── pull_federal_debt_laws.py     # Federal law (shared content; FDCPA, FCRA, TILA, ECOA, Reg F/V/Z/B)
+│   └── pull_ucc.py                   # Model UCC (shared content; Articles 1, 2, 3, 9)
 ├── LICENSE
 └── README.md
 ```
