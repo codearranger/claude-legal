@@ -17,10 +17,12 @@ King County District Court, which is covered by the `wa-kcdc` skill.**
 **Pierce County District Court**
 - County page: `https://www.piercecountywa.gov/101/District-Court`
 - Courthouse: County-City Building, 930 Tacoma Ave S, Tacoma, WA 98402.
-- E-filing: **LINX** — `https://linxonline.co.pierce.wa.us/` (free LINX
-  account required). E-filing and e-service are **mandatory** for most
-  filers under **PCLGR 30 / PCLR 30**; read that rule before your first
-  filing.
+- E-filing: **LINX** (Pierce County's Legal Information Network
+  eXchange) — start from the county's e-filing page,
+  `https://www.piercecountywa.gov/374/E-Filing`, which links to the LINX
+  portal; a free LINX account is required. E-filing and e-service are
+  **mandatory** for most filers under **PCLGR 30 / PCLR 30**; read that
+  rule before your first filing.
 - Local rules: Pierce County District Court LCR — from
   `https://www.courts.wa.gov/court_rules/` follow "District Court Rules"
   to the court-by-court list, or use the county site. Check the current
@@ -79,8 +81,9 @@ the division assigned to the case**:
 **Clark County District Court**
 - County page: `https://clark.wa.gov/district-court` (contact:
   `https://clark.wa.gov/district-court/contact-information`).
-- Courthouse: Public Service Center, 1300 Franklin St, Suite 160,
-  Vancouver, WA 98660 (mailing: PO Box 9806, Vancouver, WA 98666-8806).
+- Courthouse: 210 E 13th St, Vancouver, WA 98660 (the court relocated
+  here effective Feb. 2, 2026 — confirm the current address and mailing
+  address on the contact page above before using them).
 - E-filing: Clark County e-filing portal (Odyssey-based) — link from the
   district court page.
 - Local rules: Clark County District Court local rules at
@@ -166,8 +169,10 @@ the division assigned to the case**:
 
 **Superior Court — Benton & Franklin Counties** (a single shared superior
 court for the two counties)
-- `https://www.bentoncountywa.gov/pview.aspx?id=55107`. Benton County
-  Justice Center, 7122 W Okanogan Pl, Kennewick, WA 99336.
+- Benton County Justice Center, 7122 W Okanogan Pl, Kennewick, WA 99336.
+  For the current page and judges, use the Washington Courts directory
+  (`https://www.courts.wa.gov/court_dir/`) — the Benton County site's
+  page paths have changed; the directory is the stable link.
 
 ---
 

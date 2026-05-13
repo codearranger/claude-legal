@@ -99,7 +99,7 @@ and known local-practice notes — live in
 | County (≈2025 pop.) | District court seat | E-filing system | Notes |
 |---|---|---|---|
 | **King** (2.29M) | — | — | **Use the `wa-kcdc` skill.** |
-| **Pierce** (930k) | Tacoma | **LINX** (`linxonline.co.pierce.wa.us`) — e-filing is mandatory under PCLGR 30 / PCLR 30 for most filers | County General Order; check current civil motion docket |
+| **Pierce** (930k) | Tacoma | **LINX** (reached from `piercecountywa.gov/374/E-Filing`) — e-filing is mandatory under PCLGR 30 / PCLR 30 for most filers | Check the current civil motion docket / confirmation rule |
 | **Snohomish** (844k) | Everett (plus South/Lynnwood, Evergreen/Monroe, Cascade/Arlington divisions) | County e-filing portal | File in the **division** assigned to the case |
 | **Spokane** (549k) | Spokane (Public Safety Bldg) | County e-filing portal | — |
 | **Clark** (517k) | Vancouver | Clark County Odyssey/eFile portal | — |
