@@ -4,11 +4,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state. It ships **three** plugins:
+The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state. It ships **four** plugins:
 
 - **`wa-court-docs`** — Washington State (GR 14 formatting, King County District + Superior + populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt bundle).
 - **`or-court-docs`** — Oregon (UTCR 2.010 formatting, Multnomah + Washington County Circuit Court + populous-counties roll-up, ORS 697 / UTPA consumer-debt bundle).
 - **`ca-court-docs`** — California (CRC 2.100-2.119 formatting, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA consumer-debt bundle). All 21 SKILL.md files authored with CA-specific substance; reference corpora include the shared `federal-debt-laws/` + `ucc-model/` content (copied from `wa-court-docs` per the per-plugin shared-content convention), the CA-specific `ca-statutes-debt/` (Rosenthal Act, FDBPA, CDCLA, UCL, CLRA, CCP procedural sections, Cal. Comm. Code UCC enactments), and the CA `court-rules/` corpus (CRC Titles 2/3/5/7/8, Cal. Evid. Code, LASC + SFSC + OCSC local rules).
+- **`co-court-docs`** — Colorado (C.R.C.P. 10 + Chief Justice Directive 11-01 formatting with the two-block caption + case-number/division/courtroom box, Denver District Court / 2nd JD + Arapahoe County District Court / 18th JD + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt bundle, **plus a Colorado-specific family-law bundle** — `co-family-law` — covering UDMA dissolution / annulment, child support under C.R.S. § 14-10-115 with the 93-overnight rule, parental responsibilities under C.R.S. § 14-10-124, maintenance under C.R.S. § 14-10-114, and common-law marriage under *People v. Lucero* / *Hogsett & Neale*). Colorado is the **first state plugin to ship with two subject-matter bundles in its initial release** — consumer-debt and family-law — for a total of **22 SKILL.md files**.
 
 All plugins are architected identically: matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense in each state). The structure leaves clean slots for plugins covering additional states.
 
@@ -99,6 +100,32 @@ Mirrors the WA / OR 21-skill shape; substantive CA content authored across SKILL
 | `ca-submit-order` | Post-hearing signed-order transmittal under CRC 3.1312 (5-day proposed-order rule) |
 | `ca-consumer-debt` | Subject bundle: FDCPA, Reg F, **California Rosenthal Act (Cal. Civ. Code §§ 1788 et seq.)**, **California Debt Collection Licensing Act (Fin. Code § 100000 et seq.)**, chain of title, fact-pattern triage, RFP/RFA banks, synthetic example filings |
 
+## Skills index — Colorado (`co-court-docs`, 22 skills)
+
+| Skill | Role |
+|---|---|
+| `co-statewide-format` | C.R.C.P. 10 + Chief Justice Directive 11-01; two-block Colorado caption with case-number / division / courtroom box |
+| `co-denver` | Denver District Court (2nd Judicial District) — Lindsey-Flanigan Courthouse; CCEFS; chambers practice standards |
+| `co-arapahoe` | Arapahoe County District Court (18th Judicial District) — Centennial / Aurora / Littleton; Word-format chambers-copy convention |
+| `co-county-courts` | Roll-up: 1st (Jefferson), 4th (El Paso), 17th (Adams + Broomfield), 20th (Boulder), 8th (Larimer), 19th (Weld), 10th (Pueblo), 21st (Mesa), Douglas (currently 18th, future 23rd JD); county-court limited-jurisdiction practice under C.R.C.P. 301-411; small claims under C.R.C.P. 501-521 |
+| `co-pro-se` | Parker framework; "Self-Represented" designation; CCEFS Pro Se; JDF forms catalog; Self-Help Center directory |
+| `co-law-references` | C.R.C.P., CRE, fees and costs, citation format, local rules — **canonical reference corpora live here** |
+| `co-discovery` | C.R.C.P. 26-37; 25-interrogatory presumptive cap; C.R.C.P. 121 § 1-15(8) and § 1-12 conferral; county-court C.R.C.P. 311 simplified discovery |
+| `co-hearings` | Oral argument; Cisco Webex statewide protocol; tentative rulings; evidentiary-hearing prep |
+| `co-post-judgment` | C.R.C.P. 59 / 60(b); C.R.S. § 13-54.5 garnishment regime; expanded SB22-086 exemptions including $250k homestead; C.R.C.P. 69 supplemental proceedings |
+| `co-first-30-days` | 21-day answer under C.R.C.P. 12(a)(1); *Warne v. Hall* Twombly/Iqbal-equivalent pleading standard; affirmative defenses catalog; compulsory counterclaims |
+| `co-fact-check` | Citation verification; Colorado neutral-citation format (post-2012 `[YEAR] CO [###]` / `[YEAR] COA [###]`); packet consistency; sworn-vs-argued alignment |
+| `co-deadlines` | C.R.C.P. 6 with C.R.S. § 24-11-101 holidays (including Juneteenth added 2022 by SB22-228 and Frances Xavier Cabrini Day replacing Columbus Day in 2020 by H.B. 20-1031) |
+| `co-draft-motion` / `-declaration` / `-note` / `-order` | Scaffolders; C.R.C.P. 121 § 1-15 page limits (15/15/10); C.R.S. § 13-27-104 declaration verification language |
+| `co-quality-check` | Pre-filing format + content QC (CJD 11-01 + Parker framework) |
+| `co-schedule-hearing` | Chambers-email / JA contact templates per JD; court issues Notice of Setting (parties do not self-schedule) |
+| `co-file-packet` | CCEFS workflow; document codes; C.R.S. art. 32 of title 13 filing-fee schedule; JDF 205/206 fee waiver |
+| `co-submit-order` | Post-hearing signed-order transmittal; Word-format chambers-copy email protocol; agreed-form orders |
+| `co-consumer-debt` | Subject bundle: FDCPA, Reg F, **CFDCPA (C.R.S. art. 16 of title 5, recodified from Title 12 in 2022)**, **Colorado Consumer Protection Act (C.R.S. art. 1 of title 6) with treble damages + mandatory fees**, **Uniform Consumer Credit Code (C.R.S. art. 1-9 of title 5)**, Colorado collection-agency licensure under C.R.S. § 5-16-115, chain-of-title under Colorado UCC Article 9, 6-year SOL on liquidated debt under C.R.S. § 13-80-103.5(1)(a) (Hassler v. Account Brokers, 2012 CO 24) |
+| `co-family-law` | Subject bundle: UDMA (C.R.S. art. 10 of title 14); 91-day residency + 91-day waiting period under § 14-10-106; dissolution / legal separation under § 14-10-106; declaration of invalidity (annulment) under § 14-10-111 with the narrow grounds catalog; C.R.C.P. 16.2 mandatory financial disclosures with Sworn Financial Statement (JDF 1111); allocation of parental responsibilities under § 14-10-124 with decision-making and parenting time; § 14-10-115 income-shares child-support guideline with the 93-overnight rule, JDF 1820 E worksheet, and imputation-of-income standard; maintenance under § 14-10-114 (2014 + 2024 reforms); modification under § 14-10-122 (10% threshold for child support); common-law marriage under *People v. Lucero* (1987) as modernized by *In re Marriage of Hogsett & Neale*, 2021 CO 1; UCCJEA at C.R.S. art. 13 of title 14 |
+
+Colorado is the first state plugin to ship with **two** subject-matter bundles in its initial release (consumer-debt + family-law) and therefore has 22 skills rather than the 21-skill default.
+
 ## Reference corpora — Washington (`wa-law-references/references/`)
 
 Verbatim text pulled from official sources, organized by domain:
@@ -133,6 +160,22 @@ Mirrors the WA/OR corpora structure:
 - **`ca-statutes-debt/`** — California statute chapters most relevant to civil practice and consumer debt: CCP §§ 312-366 (SOL framework), §§ 412.10-417.40 (service), §§ 425.10-440 (pleadings + demurrer + summary judgment), §§ 1005-1020 (motions / notices), §§ 2016.010-2036.050 (Civil Discovery Act), §§ 683-708 (enforcement), §§ 703.140 / 704.010-995 (exemptions); Cal. Civ. Code §§ 1788-1788.33 (Rosenthal Act), §§ 1788.50-1788.66 (FDBPA), §§ 1750-1784 (CLRA), § 1717 (reciprocal attorney's fees); Cal. Bus. & Prof. Code §§ 17200-17210 (UCL); Cal. Fin. Code §§ 100000-100027 (CDCLA); Cal. Comm. Code §§ 2101-2725, 3101-3605, 9101-9809 (UCC Articles 2, 3, 9 as enacted in CA).
 
 CA pull scripts: `scripts/pull_ca_court_rules.py` fetches CRC Titles 1-10 from courts.ca.gov; `scripts/pull_ca_statutes.py` fetches the configured CCP / Civ. Code / B&P / Fin. Code / Comm. Code sections from leginfo.legislature.ca.gov. Both follow the same pattern as the WA pullers (`pull_court_rules.py`, `pull_wa_rcw.py`).
+
+## Reference corpora — Colorado (`co-law-references/references/`)
+
+Mirrors the WA/OR/CA corpora structure:
+
+- **`court-rules/`** — Colorado court rules (C.R.C.P. with the streamlined Chapter 18 county-court rules and Chapter 25 small-claims rules, CRE, C.A.R., Colorado Rules of Professional Conduct, Chief Justice Directives including CJD 11-01) — to be populated by a future `pull_co_court_rules.py` against the Colorado Judicial Branch publication source.
+- **`federal-debt-laws/`** — FDCPA, FCRA, TILA, ECOA, Reg F/V/Z/B (federal law; identical content to the WA/OR/CA corpora — populated by `pull_federal_debt_laws.py`).
+- **`ucc-model/`** — Model UCC Articles 1, 2, 3, 9 (Cornell LII; identical to WA/OR/CA).
+- **`co-statutes-debt/`** — Colorado statute chapters most relevant to civil practice and consumer debt: C.R.S. § 13-80-101 through § 13-80-115 (SOL framework, including § 13-80-103.5's 6-year provision for liquidated debt), C.R.S. § 13-54 (exemptions) and § 13-54.5 (garnishment), C.R.S. art. 27 of title 13 (declarations under § 13-27-104), C.R.S. § 13-52 (judgment enforcement / lien / revival), C.R.S. art. 16 of title 5 (CFDCPA — recodified from Title 12 in 2022), C.R.S. art. 1 of title 6 (CCPA), C.R.S. art. 1-9 of title 5 (UCCC), C.R.S. art. 9 of title 4 (Colorado UCC Article 9 enactment), C.R.S. art. 10 of title 14 (UDMA — dissolution, parental responsibilities, child support, maintenance), C.R.S. art. 13 of title 14 (UCCJEA), C.R.S. art. 11 of title 24 (legal holidays).
+
+CO pull scripts (to be added in a follow-up PR):
+
+- `scripts/pull_co_court_rules.py` would fetch C.R.C.P., CRE, C.A.R., and CJDs from coloradojudicial.gov.
+- `scripts/pull_co_statutes.py` would fetch the configured C.R.S. chapters from leg.colorado.gov.
+
+Both will follow the same pattern as the existing WA / CA pullers.
 
 ## Common commands
 
@@ -172,6 +215,11 @@ python3 scripts/pull_ca_statutes.py --workers 8 \
 # California scripts
 python3 plugins/ca-court-docs/scripts/format-check.py <file>   # CRC 2.100-2.119 compliance
 python3 plugins/ca-court-docs/scripts/case-calendar.py ...     # CCP § 12 deadline arithmetic with Govt. Code § 6700 holidays
+
+# Colorado scripts
+python3 plugins/co-court-docs/scripts/format-check.py <file>   # C.R.C.P. 10 + CJD 11-01 compliance
+python3 plugins/co-court-docs/scripts/case-calendar.py ...     # C.R.C.P. 6 deadline arithmetic with C.R.S. § 24-11-101 holidays
+python3 plugins/co-court-docs/scripts/case-calendar.py --rules # List Colorado named deadline rules
 ```
 
 The lint also runs in CI on every push/PR (`.github/workflows/lint-skills.yml`).
@@ -273,6 +321,14 @@ plugins/ca-court-docs/              # scaffolded stubs (lint-clean; awaiting sub
   scripts/format-check.py           # copied from or-court-docs; TODO-marked for CRC 2.100-2.119 adaptation
   scripts/case-calendar.py          # copied from or-court-docs; TODO-marked for CCP § 12 / Govt. Code § 6700
   evals/                            # empty drafting/formatting/procedural/subject-matter/integration dirs + stub README
+plugins/co-court-docs/              # 22 skills (21 standard + co-family-law)
+  .claude-plugin/plugin.json        # plugin manifest (version: 0.1.0)
+  skills/<skill>/SKILL.md           # 22 SKILL.md files with substantive Colorado content
+  skills/co-law-references/references/{court-rules,federal-debt-laws,ucc-model,co-statutes-debt}/README.md
+  skills/co-family-law/references/examples/   # synthetic example filings dir
+  scripts/format-check.py           # C.R.C.P. 10 + CJD 11-01 compliance
+  scripts/case-calendar.py          # C.R.C.P. 6 deadline arithmetic with C.R.S. § 24-11-101 holidays
+  evals/                            # five eval categories (drafting/formatting/procedural/subject-matter/integration); empty dirs + stub README
 scripts/
   lint-skills.py                    # frontmatter + name/dir-match linter
   hooks/pre-commit                  # symlink target for .git/hooks/pre-commit
