@@ -1,135 +1,52 @@
-# UCC Model Articles — California Plugin Pointer
+# Uniform Commercial Code — Model Text
 
-The Uniform Commercial Code is enacted in every U.S. state
-with state-by-state variations. California has enacted UCC
-Articles 1, 2, 3, 4, 4A, 5, 7, 8, and 9 in the **California
-Commercial Code (Com. Code)**.
+The **model** UCC as drafted by the American Law Institute and
+Uniform Law Commission. The version actually in force in
+California is in [`../ca-statutes-debt/`](../ca-statutes-debt/)
+under Cal. Comm. Code — cite the Cal. Comm. Code for state-
+court matters and reference the model + comments only when
+interpreting uniform language.
 
-## California UCC by article
+- Pulled: 2026-05-02
+- Source: [Cornell Legal Information Institute](https://www.law.cornell.edu/ucc)
 
-| UCC Article | Subject | California Com. Code |
-|-------------|---------|---------------------|
-| Article 1 — General Provisions | Definitions, scope | Com. Code §§ 1101-1310 |
-| Article 2 — Sales | Sale of goods | Com. Code §§ 2101-2725 |
-| Article 2A — Leases | Leases of goods | Com. Code §§ 10101-10532 |
-| Article 3 — Negotiable Instruments | Notes, drafts, checks | Com. Code §§ 3101-3605 |
-| Article 4 — Bank Deposits | Banking operations | Com. Code §§ 4101-4504 |
-| Article 4A — Funds Transfers | Wire transfers | Com. Code §§ 11101-11507 |
-| Article 5 — Letters of Credit | Letters of credit | Com. Code §§ 5101-5118 |
-| Article 6 — Bulk Sales (repealed) | — | repealed |
-| Article 7 — Documents of Title | Bills of lading, warehouses | Com. Code §§ 7101-7603 |
-| Article 8 — Investment Securities | Securities | Com. Code §§ 8101-8511 |
-| Article 9 — Secured Transactions | Liens, security interests | Com. Code §§ 9101-9809 |
+## Articles
 
-## What lives here
+| File | Article | Title | CA equivalent |
+|---|---|---|---|
+| [Article-1.md](Article-1.md) | UCC art. 1 | General Provisions | Cal. Comm. Code § 1101 et seq. |
+| [Article-2.md](Article-2.md) | UCC art. 2 | Sales | Cal. Comm. Code § 2101 et seq. |
+| [Article-3.md](Article-3.md) | UCC art. 3 | Negotiable Instruments | Cal. Comm. Code § 3101 et seq. |
+| [Article-9.md](Article-9.md) | UCC art. 9 | Secured Transactions | Cal. Comm. Code § 9101 et seq. |
 
-The **Model UCC** text from the Uniform Law Commission (ULC)
-and Cornell Legal Information Institute (LII), for quick
-reference to the uniform language before California's
-enactment. California's enacted Commercial Code text controls
-in California courts.
+## California enactment specifics
 
-| File | Subject |
-|------|---------|
-| `Article-1.md` | General Provisions |
-| `Article-2.md` | Sales |
-| `Article-3.md` | Negotiable Instruments |
-| `Article-9.md` | Secured Transactions |
+California enacted Articles 1, 2, 3, and 9 of the UCC into the
+Cal. Comm. Code. California's enactment is generally faithful
+to the Model UCC but with state-specific variations:
 
-## How to populate
+- **Cal. Comm. Code § 9101 et seq.** (Art. 9) — California's
+  enactment includes specific California modifications
+  affecting deficiency judgments after non-judicial foreclosure
+  (interaction with CCP § 580a, § 580b, § 580d), the "one
+  action rule" (CCP § 726), and the anti-deficiency rules.
+- **Cal. Comm. Code § 3118** — California's enactment of UCC
+  § 3-118 (limitation of actions on negotiable instruments) is
+  cited as the 6-year statute of limitations for notes and
+  drafts.
+- **Cal. Comm. Code § 2725** — California's enactment of UCC
+  § 2-725 (4-year SOL on contracts for the sale of goods).
 
-Re-use the existing WA plugin script:
+For day-to-day consumer-debt practice, the most relevant
+California UCC provisions are Cal. Comm. Code § 9101 et seq.
+(secured transactions, including holder-in-due-course analysis
+for assigned debt-buyer claims) and §§ 3118 / 2725 (statutes
+of limitation). See [`../../../ca-consumer-debt/references/ucc-article-9.md`](../../../ca-consumer-debt/references/ucc-article-9.md)
+for the debt-buyer chain-of-title analysis under Cal. Comm.
+Code Art. 9.
 
-```bash
-python3 scripts/pull_ucc.py --workers 8 \
-  --output plugins/ca-court-docs/skills/ca-law-references/references/ucc-model/
+## Re-pulling
+
 ```
-
-The script extracts UCC text from Cornell LII
-(law.cornell.edu/ucc).
-
-## California Commercial Code text
-
-For California's **enacted** Commercial Code text (which
-controls in California courts), pull from leginfo:
-
-- Com. Code Article 1 (§§ 1101-1310):
-  https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=COM
-
-Navigate to the Commercial Code table of contents; divisions
-correspond to UCC articles.
-
-The California Commercial Code is available at:
-**https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=COM**
-
-## California-specific UCC deviations
-
-California has adopted several non-uniform amendments to the
-model UCC:
-
-### Article 2 (Sales)
-
-California has not adopted the 2003 amendments to UCC Article
-2 (which were proposed to address software transactions).
-California's Article 2 is the pre-2003 version.
-
-### Article 9 (Secured Transactions)
-
-California enacted revised Article 9 (2000 ULC version) with
-minor non-uniform amendments. Key for debt collection:
-
-- **Com. Code § 9317** — Buyers and lessees in ordinary
-  course of business; lien creditors; when security interest
-  is cut off
-- **Com. Code § 9320** — Buyers of goods; protection from
-  perfected security interest
-- **Com. Code § 9601-9629** — Default; enforcement of
-  security interest; self-help repossession; deficiency
-  and surplus
-
-**California-specific Article 9 issue**: California prohibits
-deficiency judgments on purchase-money security interests
-in consumer goods (except motor vehicles) under Com. Code
-§ 9626(b). This is a significant deviation from the Model
-UCC and from the WA/OR approach; a consumer who loses personal
-property to repossession on a purchase-money loan may not owe
-a deficiency balance.
-
-### Article 3 (Negotiable Instruments)
-
-California has adopted revised Article 3 (1990 ULC version)
-substantially as uniform. Key for debt cases:
-
-- **Com. Code § 3301** — Person entitled to enforce instrument
-- **Com. Code § 3308** — Proof of signatures; defenses
-- **Com. Code § 3309** — Enforcement of lost, destroyed, or
-  stolen instrument
-- **Com. Code § 3415** — Obligation of indorser
-
-## Why both model UCC and California Commercial Code?
-
-- **Model UCC** is the citation courts use in inter-state
-  cases, or when discussing underlying doctrine and history
-  of a rule
-- **California Commercial Code** is the actual law that
-  California judges apply
-
-In a debt-collection case involving a credit card charge-off
-and assignment to a debt buyer, citing both is often useful:
-
-> Cal. Com. Code, § 9203 (governing attachment and
-> perfection of security interests under California's
-> enactment of UCC Article 9).
-
-## Cross-references
-
-- `../ca-statutes-debt/README.md` — California statutes
-  governing debt, including UCC Article 9 as enacted
-- `../../ca-consumer-debt/` — California consumer-debt
-  subject-matter bundle, which addresses chain-of-title
-  issues under Article 3 and Article 9
-- Cornell LII UCC: https://www.law.cornell.edu/ucc
-
-## Status
-
-Empty in the initial PR — only this README.
+python3 scripts/pull_ucc.py
+```
