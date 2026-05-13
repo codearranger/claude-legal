@@ -185,6 +185,21 @@ When adding a new state plugin, the WA / OR pair establishes the pattern:
 6. **Federal law is shared content but per-plugin copies**: the FDCPA/FCRA/TILA text is identical across all states; mirror it into each plugin's `federal-debt-laws/` corpus rather than cross-linking (keeps each plugin self-contained for downstream installers).
 7. **Procedural quirks should be flagged prominently** in the relevant skill descriptions: Oregon's no-interrogatories quirk is in `or-discovery`; California's CCP 437c summary judgment timing differs from FRCP, etc.
 
+### Project skill for adding new states
+
+A project-scoped skill lives at `.claude/skills/scaffold-state-plugin/`. When the user asks to add a new state plugin (California, Texas, Florida, New York, etc.), this skill is what the coding agent invokes. It contains:
+
+- The 21-skill pattern derived from `wa-court-docs` and `or-court-docs`
+- A scaffolder script (`scripts/scaffold-state.py`) that generates a lint-clean directory tree, plugin.json, copied scripts with TODO markers, and stubs for every SKILL.md
+- A checklist for the manual content-authoring phase (`references/checklist.md`)
+- A research protocol for gathering state-specific procedural rules (`references/state-research-protocol.md`)
+- A cross-state quirks catalog so the agent knows which procedural distinctives to flag in the new plugin (`references/cross-state-quirks.md`)
+- Skill templates for the highest-variance roles (`references/skill-templates/`)
+
+The skill is **project-scoped** (in `.claude/skills/`), not a marketplace plugin — it is tooling for the coding agent maintaining the repo, not a deliverable for end users.
+
+The scaffolder produces a lint-clean skeleton. The substantive law content for each SKILL.md and reference file must be researched and authored after scaffolding — do NOT search-and-replace from WA or OR.
+
 ## Repo layout (at a glance)
 
 ```
