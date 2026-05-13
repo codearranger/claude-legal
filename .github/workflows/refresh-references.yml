@@ -18,7 +18,7 @@ jobs:
   refresh:
     name: Refresh reference corpora
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
     env:
       RUN_ID: ${{ github.run_id }}
     steps:
@@ -33,9 +33,12 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y poppler-utils
 
-      # Each pull is its own step so a partial network failure produces
-      # a clear "this one died" signal in the run log instead of a whole-
-      # job abort. `continue-on-error: true` lets remaining pulls run.
+      # Each pull is its own step with its own timeout-minutes cap so a
+      # slow upstream (e.g., Cornell LII throttling pull_ucc.py) can't sink
+      # the whole job. `continue-on-error: true` lets remaining pulls run
+      # if one bails. Per pull_ucc.py's design, the article markdown is
+      # only written after all sections are fetched — so a step that times
+      # out leaves the existing file untouched rather than half-written.
       #
       # Excluded:
       #   - pull_ca_statutes.py — known regression (leginfo extractor
@@ -47,58 +50,69 @@ jobs:
 
       - name: WA — court rules (GR 14, CR/CRLJ/ER/RAP, etc.)
         continue-on-error: true
+        timeout-minutes: 15
         run: |
           python3 scripts/pull_court_rules.py --workers 12 \
             --manifest plugins/wa-court-docs/skills/wa-law-references/references/court-rules/_manifest.json
 
       - name: WA — RCW debt chapters
         continue-on-error: true
+        timeout-minutes: 10
         run: python3 scripts/pull_wa_rcw.py --workers 12
 
       - name: CA — court rules (CRC titles + local rules + Rules of Pro. Conduct)
         continue-on-error: true
+        timeout-minutes: 10
         run: python3 scripts/pull_ca_court_rules.py --workers 8
 
       - name: Federal debt laws — WA copy
         continue-on-error: true
+        timeout-minutes: 10
         run: python3 scripts/pull_federal_debt_laws.py
 
       - name: Federal debt laws — OR copy
         continue-on-error: true
+        timeout-minutes: 10
         run: |
           python3 scripts/pull_federal_debt_laws.py \
             --out plugins/or-court-docs/skills/or-law-references/references/federal-debt-laws
 
       - name: Federal debt laws — CA copy
         continue-on-error: true
+        timeout-minutes: 10
         run: |
           python3 scripts/pull_federal_debt_laws.py \
             --out plugins/ca-court-docs/skills/ca-law-references/references/federal-debt-laws
 
       - name: Federal debt laws — CO copy
         continue-on-error: true
+        timeout-minutes: 10
         run: |
           python3 scripts/pull_federal_debt_laws.py \
             --out plugins/co-court-docs/skills/co-law-references/references/federal-debt-laws
 
       - name: Model UCC — WA copy
         continue-on-error: true
+        timeout-minutes: 8
         run: python3 scripts/pull_ucc.py --workers 8
 
       - name: Model UCC — OR copy
         continue-on-error: true
+        timeout-minutes: 8
         run: |
           python3 scripts/pull_ucc.py --workers 8 \
             --out plugins/or-court-docs/skills/or-law-references/references/ucc-model
 
       - name: Model UCC — CA copy
         continue-on-error: true
+        timeout-minutes: 8
         run: |
           python3 scripts/pull_ucc.py --workers 8 \
             --out plugins/ca-court-docs/skills/ca-law-references/references/ucc-model
 
       - name: Model UCC — CO copy
         continue-on-error: true
+        timeout-minutes: 8
         run: |
           python3 scripts/pull_ucc.py --workers 8 \
             --out plugins/co-court-docs/skills/co-law-references/references/ucc-model
