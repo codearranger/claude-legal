@@ -1,29 +1,29 @@
-# TODO: Adapt this script for California.
-# Source: or-court-docs/scripts/case-calendar.py
-# Update format-rule references, holidays, and named rules for California.
-
 #!/usr/bin/env python3
 """
-case-calendar.py — Compute Oregon court deadlines.
+case-calendar.py — Compute California court deadlines.
 
-Supports calendar-day and court-day counting with Oregon state
-holidays (ORS 187.010) excluded for court-day mode.
+Supports calendar-day and court-day counting with California state
+legal holidays (Cal. Govt. Code §§ 6700, 6701; Cal. Code Civ. Proc.
+§ 135) excluded for court-day mode.
+
+Time computation per CCP § 12 (exclude first day, include last;
+extend if last day is a holiday) and CCP § 12a (any holiday observed
+under Govt. Code § 6700 + judicial holidays).
 
 Usage:
-    case-calendar.py --from YYYY-MM-DD --days N --mode [calendar|court] \
-                     [--jurisdiction oregon|federal]
+    case-calendar.py --from YYYY-MM-DD --days N --mode [calendar|court]
     case-calendar.py --from YYYY-MM-DD --rule RULE_KEY
     case-calendar.py --rules
 
 Examples:
-    # Answer due — 30 calendar days from service 2025-04-15
-    case-calendar.py --from 2025-04-15 --days 30 --mode calendar
+    # Answer due — 30 calendar days from service 2026-04-15
+    case-calendar.py --from 2026-04-15 --days 30 --mode calendar
 
-    # SOL on contract — 6 years from last activity 2019-03-15
-    case-calendar.py --from 2019-03-15 --rule sol-written-contract
+    # SOL on written contract — 4 years from breach 2022-03-15
+    case-calendar.py --from 2022-03-15 --rule sol-written-contract
 
     # Apply a named rule
-    case-calendar.py --from 2025-04-15 --rule answer-due
+    case-calendar.py --from 2026-04-15 --rule answer-due
 
     # List known rules
     case-calendar.py --rules
@@ -35,230 +35,370 @@ import sys
 from typing import Optional
 
 
-# Oregon legal holidays (ORS 187.010)
-# Holidays falling on Saturday are observed on Friday; Sunday -> Monday
-# (ORS 187.020).
+# California legal holidays (Cal. Govt. Code §§ 6700-6701).
 #
-# NOTE: Oregon does NOT recognize the Friday after Thanksgiving as a
-# statewide legal holiday (Washington does).
+# For "judicial holiday" purposes, CCP § 135 incorporates Govt. Code
+# § 6700 plus any other day judges declare. NOTE: CCP § 135 has been
+# amended several times — practitioners should confirm specific
+# holidays for the year against the Judicial Council's annual calendar
+# at courts.ca.gov.
+#
+# Holidays falling on Saturday are observed on Friday; Sunday is
+# observed on Monday (Govt. Code § 6700(a) general rule for state
+# holidays).
+#
+# NOTE: California DOES recognize the Friday after Thanksgiving as a
+# state holiday (Govt. Code § 6700(a)(14)). Oregon does NOT.
 FIXED_HOLIDAYS = [
-    (1, 1),    # New Year's Day
-    (6, 19),   # Juneteenth
-    (7, 4),    # Independence Day
-    (11, 11),  # Veterans Day
-    (12, 25),  # Christmas Day
+    (1, 1),    # New Year's Day (Govt. Code § 6700(a)(1))
+    (2, 12),   # Lincoln's Birthday (Govt. Code § 6700(a)(3); some
+               # courts observe, others do not — included by default
+               # because CCP § 135 incorporates Govt. Code § 6700)
+    (3, 31),   # Cesar Chavez Day (Govt. Code § 6700(a)(13); judicial
+               # holiday per Stats. 2014, ch. 310)
+    (6, 19),   # Juneteenth (added by Stats. 2022, ch. 33)
+    (7, 4),    # Independence Day (Govt. Code § 6700(a)(7))
+    (11, 11),  # Veterans Day (Govt. Code § 6700(a)(11))
+    (12, 25),  # Christmas Day (Govt. Code § 6700(a)(15))
 ]
 
-# Week-based holidays (n-th weekday of month)
+# Week-based holidays (n-th weekday of month).
+# CA has a heavier mid- to late-year week-holiday calendar than many
+# states because of the day-after-Thanksgiving holiday.
 WEEK_HOLIDAYS = [
     # (month, weekday [0=Mon], ordinal [1=first, -1=last])
-    (1, 0, 3),   # MLK — 3rd Monday of January
-    (2, 0, 3),   # Presidents' Day — 3rd Monday of February
-    (5, 0, -1),  # Memorial Day — last Monday of May
-    (9, 0, 1),   # Labor Day — 1st Monday of September
-    (11, 3, 4),  # Thanksgiving — 4th Thursday of November
+    (1, 0, 3),   # MLK Day — 3rd Monday of January (Govt. Code § 6700(a)(2))
+    (2, 0, 3),   # Presidents' Day — 3rd Monday of February (Govt. Code § 6700(a)(4))
+    (5, 0, -1),  # Memorial Day — last Monday of May (Govt. Code § 6700(a)(6))
+    (9, 0, 1),   # Labor Day — 1st Monday of September (Govt. Code § 6700(a)(9))
+    (11, 3, 4),  # Thanksgiving — 4th Thursday of November (Govt. Code § 6700(a)(12))
 ]
 
 
-# Named rules: (days, mode, description, authority)
+# Named rules: (days, mode, description, authority).
+#
+# California's hallmark distinction from most states is the heavy use
+# of "court days" rather than calendar days for motion practice (e.g.,
+# CCP § 1005(b) sets motion notice at 16 court days, opposition at 9
+# court days before hearing, reply at 5 court days before).
 RULES = {
     # Initial response
     "answer-due": (
         30, "calendar",
-        "Answer due after personal service in Oregon",
-        "ORCP 7 C(2)",
+        "Answer due after personal service in California",
+        "Code Civ. Proc., § 412.20(a)(3)",
     ),
-    "answer-due-mail": (
-        33, "calendar",
-        "Answer due after service by mail (+3 mail days)",
-        "ORCP 7 C(2), 10 C",
+    "answer-due-norf": (
+        30, "calendar",
+        "Answer due after service by mail w/ NORF "
+        "(time runs from completed service date, then 30 days)",
+        "Code Civ. Proc., §§ 412.20(a)(3), 415.30",
     ),
-    "return-of-service": (
-        63, "calendar",
-        "Return of Service must be filed within 63 days of service",
-        "ORCP 7 D(3)",
+    "demurrer-due": (
+        30, "calendar",
+        "Demurrer due (same as answer; CCP § 430.40 also permits at "
+        "any time before answer)",
+        "Code Civ. Proc., § 430.40",
     ),
-    "response-amended": (
-        14, "calendar",
-        "Response to amended complaint",
-        "ORCP 23 A (typical)",
+    "meet-confer-demurrer": (
+        -5, "calendar",
+        "Meet-and-confer required at least 5 days before filing "
+        "demurrer (CCP § 430.41)",
+        "Code Civ. Proc., § 430.41(a)(2)",
+    ),
+    "meet-confer-strike": (
+        -5, "calendar",
+        "Meet-and-confer required at least 5 days before filing "
+        "motion to strike (CCP § 435.5)",
+        "Code Civ. Proc., § 435.5(a)(2)",
+    ),
+    "anti-slapp-window": (
+        60, "calendar",
+        "Anti-SLAPP motion must be filed within 60 days of service "
+        "of complaint",
+        "Code Civ. Proc., § 425.16(f)",
     ),
 
     # Discovery
     "rfp-response": (
         30, "calendar",
-        "RFP response due (ORCP 43 B)",
-        "ORCP 43 B",
+        "RFP response due (CCP § 2031.260) — 30 days from service "
+        "of the request",
+        "Code Civ. Proc., § 2031.260",
     ),
-    "rfp-response-with-summons": (
-        45, "calendar",
-        "RFP response due (served with summons; ORCP 43 B)",
-        "ORCP 43 B",
+    "rog-response": (
+        30, "calendar",
+        "Interrogatory response due (CCP § 2030.260) — 30 days from "
+        "service of the rogs",
+        "Code Civ. Proc., § 2030.260",
     ),
     "rfa-response": (
         30, "calendar",
-        "RFA response due (ORCP 45 B); failure deems admitted",
-        "ORCP 45 B",
+        "RFA response due (CCP § 2033.250) — 30 days from service; "
+        "failure to respond may deem admissions under § 2033.280",
+        "Code Civ. Proc., § 2033.250",
     ),
-    "rfa-response-with-summons": (
+    "discovery-response-mail-add": (
+        5, "calendar",
+        "Mail extension for in-state mail service (add to 30-day "
+        "response window)",
+        "Code Civ. Proc., § 1013(a)",
+    ),
+    "motion-compel-further": (
         45, "calendar",
-        "RFA response due (served with summons; ORCP 45 B)",
-        "ORCP 45 B",
+        "Motion to compel further responses — 45 days from service "
+        "of the verified responses; JURISDICTIONAL deadline",
+        "Code Civ. Proc., §§ 2030.300(c), 2031.310(c), 2033.290(c)",
     ),
     "deposition-notice-party": (
-        5, "calendar",
-        "Deposition notice — party (5 days)",
-        "ORCP 39 B",
+        10, "calendar",
+        "Deposition notice — party (10 days; CCP § 2025.270)",
+        "Code Civ. Proc., § 2025.270",
     ),
-    "deposition-notice-nonparty": (
-        7, "calendar",
-        "Deposition notice — non-party (7 days; subpoena required)",
-        "ORCP 39 B, 55",
+    "deposition-subpoena-nonparty": (
+        20, "calendar",
+        "Deposition subpoena for non-party records — 20 days for "
+        "consumer notice (CCP § 1985.3) and 15 days for objection",
+        "Code Civ. Proc., §§ 1985.3, 2020.410",
+    ),
+    "discovery-cutoff": (
+        -30, "calendar",
+        "Discovery cutoff — 30 days before trial date (motions to "
+        "compel must be HEARD 15 days before trial; § 2024.020)",
+        "Code Civ. Proc., § 2024.020(a)",
+    ),
+    "discovery-motion-cutoff": (
+        -15, "calendar",
+        "Discovery motions must be heard (not just filed) 15 days "
+        "before trial",
+        "Code Civ. Proc., § 2024.020(a)",
     ),
 
-    # Summary judgment (ORCP 47 C)
-    "sj-motion": (
-        -60, "calendar",
-        "SJ motion filed before trial (at least 60 days before)",
-        "ORCP 47 C",
+    # Motion practice — CCP § 1005(b)
+    "motion-notice-min": (
+        -16, "court",
+        "Minimum notice period for motions: 16 court days before "
+        "the hearing (CCP § 1005(b))",
+        "Code Civ. Proc., § 1005(b)",
     ),
-    "sj-response": (
-        20, "calendar",
-        "SJ response due (20 days after service)",
-        "ORCP 47 C",
+    "motion-notice-mail-add": (
+        5, "calendar",
+        "Extra time for in-state mail service of motion papers "
+        "(add 5 calendar days; CCP § 1013(a))",
+        "Code Civ. Proc., § 1013(a)",
+    ),
+    "motion-notice-eservice-add": (
+        2, "court",
+        "Extra time for electronic service of motion papers "
+        "(add 2 court days; CCP § 1010.6(a)(3)(B))",
+        "Code Civ. Proc., § 1010.6(a)(3)(B)",
+    ),
+    "motion-opposition": (
+        -9, "court",
+        "Opposition to motion due 9 court days before hearing",
+        "Code Civ. Proc., § 1005(b)",
+    ),
+    "motion-reply": (
+        -5, "court",
+        "Reply to motion due 5 court days before hearing",
+        "Code Civ. Proc., § 1005(b)",
+    ),
+
+    # Summary judgment / adjudication (CCP § 437c)
+    "sj-notice-min": (
+        -75, "calendar",
+        "MSJ/MSA notice — 75 calendar days before hearing",
+        "Code Civ. Proc., § 437c(a)(2)",
+    ),
+    "sj-opposition": (
+        -14, "calendar",
+        "Opposition to MSJ/MSA due 14 calendar days before hearing",
+        "Code Civ. Proc., § 437c(b)(2)",
     ),
     "sj-reply": (
-        5, "calendar",
-        "SJ reply due (5 days after service of response)",
-        "ORCP 47 C",
+        -5, "calendar",
+        "Reply to MSJ/MSA opposition due 5 calendar days before "
+        "hearing",
+        "Code Civ. Proc., § 437c(b)(4)",
     ),
-    "sj-hearing": (
-        11, "calendar",
-        "SJ hearing must be at least 11 days after reply filing",
-        "ORCP 47 C",
-    ),
-
-    # Motion practice
-    "response-motion-typical": (
-        14, "calendar",
-        "Motion response (typical Oregon local SLR)",
-        "Local SLR; ORCP 36, 46",
-    ),
-    "reply-motion-typical": (
-        7, "calendar",
-        "Motion reply (typical Oregon local SLR)",
-        "Local SLR",
+    "sj-trial-cutoff": (
+        -30, "calendar",
+        "MSJ/MSA must be HEARD no later than 30 days before trial",
+        "Code Civ. Proc., § 437c(a)(3)",
     ),
 
-    # Post-judgment
-    "vacation-cap": (
-        365, "calendar",
-        "ORCP 71 B(1)-(3) — outer 1-year deadline",
-        "ORCP 71 B",
+    # Case management (CRC 3.700-3.770)
+    "cmc-statement-due": (
+        -15, "calendar",
+        "Case Management Conference Statement due 15 calendar days "
+        "before CMC (CRC 3.725)",
+        "Cal. Rules of Court, rule 3.725",
     ),
-    "appeal-circuit": (
-        30, "calendar",
-        "Notice of Appeal — circuit to Court of Appeals",
-        "ORS 19.255, ORAP 5.30",
+
+    # Post-judgment / relief
+    "ccp-473-relief": (
+        180, "calendar",
+        "CCP § 473(b) relief from default/order — up to 6 months "
+        "(approx. 180 calendar days)",
+        "Code Civ. Proc., § 473(b)",
     ),
-    "amend-judgment": (
-        10, "calendar",
-        "Motion to amend judgment",
-        "ORCP 64",
+    "new-trial-motion": (
+        15, "calendar",
+        "Notice of intention to move for new trial — 15 days after "
+        "service of notice of entry of judgment (or 180 days after "
+        "filing of judgment, whichever first)",
+        "Code Civ. Proc., § 659",
     ),
-    "garnishment-challenge": (
-        30, "calendar",
-        "Challenge to Writ of Garnishment — exemption claim",
-        "ORS 18.700+",
+    "appeal-civil": (
+        60, "calendar",
+        "Notice of appeal — 60 days after notice of entry of "
+        "judgment (or 180 days after entry; whichever first)",
+        "Cal. Rules of Court, rule 8.104(a)",
+    ),
+    "memorandum-of-costs": (
+        15, "calendar",
+        "Memorandum of Costs (Form MC-010) — 15 days after notice "
+        "of entry of judgment or service of judgment (CRC 3.1700(a))",
+        "Cal. Rules of Court, rule 3.1700(a)",
+    ),
+    "motion-tax-costs": (
+        15, "calendar",
+        "Motion to tax costs — 15 days after service of Memorandum "
+        "of Costs (CRC 3.1700(b))",
+        "Cal. Rules of Court, rule 3.1700(b)",
     ),
     "judgment-life": (
-        3653, "calendar",  # 10 years (approx; 3652 + 1 leap)
-        "Judgment lifespan (10 years, renewable)",
-        "ORS 18.182",
-    ),
-    "fee-statement-orcp-68": (
-        14, "calendar",
-        "Statement of Attorney Fees and Costs (ORCP 68 C(2))",
-        "ORCP 68 C(2)",
-    ),
-    "cost-bill": (
-        14, "calendar",
-        "Cost bill under ORCP 68",
-        "ORCP 68 C",
+        3653, "calendar",  # ~10 years (3652 calendar + leap)
+        "Money judgment enforceability — 10 years; renewable for "
+        "additional 10 years under CCP § 683.110",
+        "Code Civ. Proc., §§ 683.020, 683.110",
     ),
 
-    # Arbitration
-    "arbitration-trial-de-novo": (
-        20, "calendar",
-        "Trial de novo request from arbitration award",
-        "ORS 36.425",
+    # Garnishment / exemptions
+    "claim-of-exemption": (
+        15, "calendar",
+        "Claim of Exemption (Form EJ-160) — 15 days from service of "
+        "Notice of Levy or Earnings Withholding Order",
+        "Code Civ. Proc., § 703.520",
     ),
 
-    # Statutes of limitation (defenses)
+    # Proposed orders (CRC 3.1312)
+    "proposed-order-serve": (
+        5, "court",
+        "Prevailing party must serve proposed order within 5 court "
+        "days of ruling",
+        "Cal. Rules of Court, rule 3.1312(a)",
+    ),
+    "proposed-order-object": (
+        5, "court",
+        "Opposing party has 5 court days to object to form of "
+        "proposed order",
+        "Cal. Rules of Court, rule 3.1312(a)",
+    ),
+
+    # Statutes of limitations (defenses)
     "sol-written-contract": (
-        2191, "calendar",  # 6 years (approx; account for leap years as ~365.25)
-        "SOL — written contract (6 years)",
-        "ORS 12.080(1)",
+        1461, "calendar",  # 4 years (3 * 365 + 366 leap)
+        "SOL — written contract (4 years)",
+        "Code Civ. Proc., § 337",
     ),
-    "sol-open-account": (
-        2191, "calendar",
-        "SOL — open account (6 years)",
-        "ORS 12.080(2)-(4)",
+    "sol-oral-contract": (
+        730, "calendar",
+        "SOL — oral contract (2 years)",
+        "Code Civ. Proc., § 339",
+    ),
+    "sol-open-book-account": (
+        1461, "calendar",
+        "SOL — open book account (4 years from last entry)",
+        "Code Civ. Proc., § 337(a)",
+    ),
+    "sol-personal-injury": (
+        730, "calendar",
+        "SOL — personal injury (2 years)",
+        "Code Civ. Proc., § 335.1",
+    ),
+    "sol-fraud": (
+        1095, "calendar",
+        "SOL — fraud (3 years; discovery rule per § 338(d))",
+        "Code Civ. Proc., § 338(d)",
     ),
     "sol-statutory-liability": (
-        2191, "calendar",
-        "SOL — statutory liability (6 years; UTPA repose; ORS 697)",
-        "ORS 12.080(2)",
-    ),
-    "sol-tort-personal-injury": (
-        730, "calendar",  # 2 years
-        "SOL — personal injury (2 years)",
-        "ORS 12.110",
-    ),
-    "sol-fraud-discovery": (
-        730, "calendar",
-        "SOL — fraud (2 years from discovery; 10-year repose)",
-        "ORS 12.110(1)",
+        1095, "calendar",
+        "SOL — statutory liability where no other period specified "
+        "(3 years)",
+        "Code Civ. Proc., § 338(a)",
     ),
     "sol-real-property": (
-        3653, "calendar",
-        "SOL — real property (10 years)",
-        "ORS 12.040",
+        1826, "calendar",
+        "SOL — recovery of real property (5 years)",
+        "Code Civ. Proc., § 318",
+    ),
+    "sol-ucc-art-2": (
+        1461, "calendar",
+        "SOL — sale of goods (UCC Art. 2; 4 years from breach)",
+        "Cal. Comm. Code, § 2725",
+    ),
+    "sol-ucc-art-3": (
+        2191, "calendar",
+        "SOL — negotiable instrument (UCC Art. 3; 6 years from due "
+        "date)",
+        "Cal. Comm. Code, § 3118",
     ),
 
     # Consumer-protection SOLs
-    "sol-utpa-discovery": (
+    "sol-rosenthal": (
         365, "calendar",
-        "SOL — UTPA from discovery (1 year; 6-year repose)",
-        "ORS 646.638(6)",
+        "SOL — Rosenthal Fair Debt Collection Practices Act (1 year "
+        "from violation)",
+        "Civ. Code, § 1788.30(f)",
     ),
-    "sol-utpa-repose": (
-        2191, "calendar",
-        "SOL — UTPA outer repose (6 years from violation)",
-        "ORS 646.638(6)",
+    "sol-fdbpa": (
+        365, "calendar",
+        "SOL — Fair Debt Buying Practices Act (1 year from violation)",
+        "Civ. Code, § 1788.62",
+    ),
+    "sol-ucl": (
+        1461, "calendar",
+        "SOL — Unfair Competition Law (4 years)",
+        "Bus. & Prof. Code, § 17208",
+    ),
+    "sol-clra": (
+        1095, "calendar",
+        "SOL — Consumers Legal Remedies Act (3 years)",
+        "Civ. Code, § 1783",
     ),
     "sol-fdcpa": (
         365, "calendar",
         "SOL — FDCPA (1 year from violation)",
-        "15 USC § 1692k(d)",
+        "15 U.S.C. § 1692k(d)",
     ),
     "sol-fcra-discovery": (
         730, "calendar",
         "SOL — FCRA (2 years from discovery; 5-year repose)",
-        "15 USC § 1681p",
+        "15 U.S.C. § 1681p",
     ),
     "sol-tila": (
         365, "calendar",
         "SOL — TILA (1 year from violation)",
-        "15 USC § 1640(e)",
+        "15 U.S.C. § 1640(e)",
     ),
 
     # FDCPA / Reg F window
     "fdcpa-validation-period": (
         30, "calendar",
         "Consumer's window to dispute debt (FDCPA validation)",
-        "15 USC § 1692g; 12 CFR § 1006.34",
+        "15 U.S.C. § 1692g; 12 C.F.R. § 1006.34",
     ),
+
+    # CLRA pre-suit notice
+    "clra-pre-suit-notice": (
+        30, "calendar",
+        "CLRA pre-suit notice — 30 days before damages claim filed",
+        "Civ. Code, § 1782",
+    ),
+
+    # FDBPA pleading / chain-of-title window (no deadline per se,
+    # but relevant timing rules under § 1788.58 et seq.)
 }
 
 
@@ -280,13 +420,40 @@ def _nth_weekday(year: int, month: int, weekday: int, n: int) -> datetime.date:
         return last_day - datetime.timedelta(days=offset)
 
 
-def or_holidays(year: int) -> set:
-    """Return set of Oregon state legal holidays for a year (ORS 187.010)."""
+def _day_after_thanksgiving(year: int) -> datetime.date:
+    """Return the Friday after Thanksgiving (4th Thursday of November)
+    for a given year. CA recognizes this as a state holiday under
+    Govt. Code § 6700(a)(14)."""
+    thanksgiving = _nth_weekday(year, 11, 3, 4)  # 4th Thursday Nov
+    return thanksgiving + datetime.timedelta(days=1)
+
+
+def ca_holidays(year: int) -> set:
+    """Return the set of California state legal holidays for a year.
+
+    Sources:
+      - Cal. Govt. Code §§ 6700, 6701 (state holidays)
+      - Cal. Code Civ. Proc. § 135 (judicial holidays incorporate
+        Govt. Code holidays)
+      - Stats. 2022, ch. 33 (Juneteenth)
+      - Stats. 2014, ch. 310 (Cesar Chavez Day judicial holiday)
+
+    For "court day" purposes, the function returns the days CCP § 12a
+    treats as non-court days. Some practical caveats:
+      - Cesar Chavez Day (March 31) is observed by state agencies but
+        treated as a judicial holiday only in years when courts
+        choose to observe; default behavior is to include it.
+      - Lincoln's Birthday (Feb 12) — many CA courts observe; included
+        by default.
+      - Individual Superior Courts may close on additional days;
+        verify against the court's own calendar.
+    """
     holidays = set()
 
     for m, d in FIXED_HOLIDAYS:
         date = datetime.date(year, m, d)
-        # Observed-day shift per ORS 187.020
+        # Observed-day shift (CCP § 10 / general practice):
+        # Saturday → previous Friday; Sunday → next Monday.
         if date.weekday() == 5:   # Saturday → Friday
             date -= datetime.timedelta(days=1)
         elif date.weekday() == 6:  # Sunday → Monday
@@ -296,29 +463,29 @@ def or_holidays(year: int) -> set:
     for m, wd, n in WEEK_HOLIDAYS:
         holidays.add(_nth_weekday(year, m, wd, n))
 
-    # Oregon does NOT recognize the day after Thanksgiving as a
-    # statewide legal holiday (unlike Washington's Native American
-    # Heritage Day under RCW 1.16.050).
+    # Day after Thanksgiving — Govt. Code § 6700(a)(14). California
+    # observes this; Oregon (where the OR plugin was scaffolded from)
+    # does not.
+    holidays.add(_day_after_thanksgiving(year))
+
     return holidays
 
 
 def is_court_day(d: datetime.date) -> bool:
-    """True if d is a court day (not a weekend or Oregon legal holiday)."""
+    """True if d is a court day (not a weekend or CA legal holiday)."""
     if d.weekday() >= 5:   # Saturday or Sunday
         return False
-    if d in or_holidays(d.year):
+    if d in ca_holidays(d.year):
         return False
     return True
 
 
 def add_calendar_days(start: datetime.date, n: int) -> datetime.date:
-    """Add calendar days. Apply ORCP 10 A end-of-period rule:
-    if the final day falls on weekend or holiday, extend to next business
-    day."""
+    """Add calendar days. Apply CCP § 12 / § 12a end-of-period rule:
+    if the final day falls on a weekend or holiday, extend to the next
+    business day (only for forward computation)."""
     end = start + datetime.timedelta(days=n)
     if n != 0:
-        # ORCP 10 A: if last day is weekend or holiday, extend to next
-        # business day (only for forward computation).
         step = 1 if n > 0 else -1
         while not is_court_day(end):
             end += datetime.timedelta(days=step)
@@ -326,7 +493,11 @@ def add_calendar_days(start: datetime.date, n: int) -> datetime.date:
 
 
 def add_court_days(start: datetime.date, n: int) -> datetime.date:
-    """Count n court days forward (if n>0) or backward (if n<0)."""
+    """Count n court days forward (if n>0) or backward (if n<0).
+
+    CCP § 12c — "court day" means any day other than Saturday,
+    Sunday, or a judicial holiday.
+    """
     if n == 0:
         return start
     step = 1 if n > 0 else -1
@@ -399,7 +570,7 @@ def parse_date(s: str) -> datetime.date:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Compute Oregon court deadlines"
+        description="Compute California court deadlines"
     )
     parser.add_argument("--from", dest="from_date", help="Triggering date (YYYY-MM-DD)")
     parser.add_argument("--days", type=int, help="Number of days (negative = before)")
