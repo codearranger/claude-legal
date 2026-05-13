@@ -4,12 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state. It ships **two** plugins today:
+The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state. It ships **three** plugins:
 
 - **`wa-court-docs`** — Washington State (GR 14 formatting, King County District + Superior + populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt bundle).
 - **`or-court-docs`** — Oregon (UTCR 2.010 formatting, Multnomah + Washington County Circuit Court + populous-counties roll-up, ORS 697 / UTPA consumer-debt bundle).
+- **`ca-court-docs`** — California (CRC 2.100-2.119 formatting, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA consumer-debt bundle). All 21 SKILL.md files authored with CA-specific substance; reference corpora include the shared `federal-debt-laws/` + `ucc-model/` content (copied from `wa-court-docs` per the per-plugin shared-content convention), the CA-specific `ca-statutes-debt/` (Rosenthal Act, FDBPA, CDCLA, UCL, CLRA, CCP procedural sections, Cal. Comm. Code UCC enactments), and the CA `court-rules/` corpus (CRC Titles 2/3/5/7/8, Cal. Evid. Code, LASC + SFSC + OCSC local rules).
 
-Both plugins are architected identically: matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense in each state). The structure leaves clean slots for plugins covering additional states.
+All plugins are architected identically: matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense in each state). The structure leaves clean slots for plugins covering additional states.
 
 Output is documents, not advice; everything is bracketed by a "not legal advice" disclaimer that downstream skills repeat.
 
@@ -73,6 +74,31 @@ Three layers, three things to know:
 | `or-submit-order` | Post-hearing signed-order transmittal; UTCR 5.100 3-court-day service |
 | `or-consumer-debt` | Subject bundle: FDCPA, Reg F, **ORS 697 collection-agency registration**, **Oregon UTPA (ORS 646.605)**, chain of title, 5 fact-pattern triage, RFP/RFA banks, synthetic example filings |
 
+## Skills index — California (`ca-court-docs`, 21 skills)
+
+Mirrors the WA / OR 21-skill shape; substantive CA content authored across SKILL.md bodies and references.
+
+| Skill | Role |
+|---|---|
+| `ca-statewide-format` | CRC 2.100-2.119 + statewide drafting conventions |
+| `ca-lasc` | Los Angeles Superior Court (statewide's highest-volume civil court); LASC local rules + Court Reservation System |
+| `ca-sfsc` | San Francisco Superior Court; SFSC local rules + Department 302 law-and-motion |
+| `ca-county-courts` | Other most-populous California counties' superior courts (Orange, San Diego, Riverside, San Bernardino, Santa Clara, Alameda, Sacramento, Contra Costa, Fresno) |
+| `ca-pro-se` | Pro se workflows; Parker framework adapted for California; service under CCP §§ 1010-1020 |
+| `ca-law-references` | CCP civil rules, CEC evidence rules, Cal. Civ. Code, CRC, fees, local rules — **canonical reference corpora live here** |
+| `ca-discovery` | RFPs (CCP § 2031), interrogatories (CCP §§ 2030.010 form/special — **35-question limit on specials w/o declaration**), RFAs (CCP § 2033), depositions, meet-and-confer, motion to compel under CCP § 2031.310 et seq. |
+| `ca-hearings` | Oral argument, tentative-ruling regime (CRC 3.1308), remote appearances, courtroom etiquette |
+| `ca-post-judgment` | CCP § 473 relief, CCP § 663 motion to vacate, EJ 195 etc. garnishment, CCP § 703 exemptions, debtor exam (CCP § 708.110), satisfaction (CCP § 724) |
+| `ca-first-30-days` | Answer (30 days from service per CCP § 412.20(a)(3)), CCP § 430.10 demurrer triage, CCP § 435 motion to strike, affirmative defenses, cross-complaints |
+| `ca-fact-check` | Citation verification against canonical sources; California Style Manual conventions |
+| `ca-deadlines` | CCP § 12 / § 12a / § 12c time computation with state holidays (Govt. Code § 6700) |
+| `ca-draft-motion` / `-declaration` / `-note` / `-order` | Scaffolders ("draft-note" maps to California's **Notice of Motion** under CCP § 1010) |
+| `ca-quality-check` | Pre-filing format + content QC (CRC 2.100-2.119 + Parker framework) |
+| `ca-schedule-hearing` | LASC Court Reservation System / SFSC Department 302 reservation / per-county routing |
+| `ca-file-packet` | Assemble + preflight a packet for e-filing (mandatory in many CA courts) |
+| `ca-submit-order` | Post-hearing signed-order transmittal under CRC 3.1312 (5-day proposed-order rule) |
+| `ca-consumer-debt` | Subject bundle: FDCPA, Reg F, **California Rosenthal Act (Cal. Civ. Code §§ 1788 et seq.)**, **California Debt Collection Licensing Act (Fin. Code § 100000 et seq.)**, chain of title, fact-pattern triage, RFP/RFA banks, synthetic example filings |
+
 ## Reference corpora — Washington (`wa-law-references/references/`)
 
 Verbatim text pulled from official sources, organized by domain:
@@ -96,6 +122,17 @@ Mirrors the WA corpora structure; populated by future pull scripts (initial PR s
 - **`online-sources.md`** — canonical URLs for Oregon law.
 
 Each corpus dir has its own `README.md` with citation tables and a "re-pull" command. The `scripts/pull_*.py` are reusable across plugins; they are wired into the quarterly remote-agent routine (`trig_018yahbiUwS1uTUJSuDNrCqG`) which runs Jan/Apr/Jul/Oct 1 at 17:00 UTC and opens a single PR if anything changed.
+
+## Reference corpora — California (`ca-law-references/references/`)
+
+Mirrors the WA/OR corpora structure:
+
+- **`court-rules/`** — California Rules of Court (CRC) Titles 2, 3, 5, 7, 8 + the California Evidence Code summary + LASC / SFSC / OCSC / other-county local rules + California Rules of Professional Conduct. Authored substantively; a future `scripts/pull_ca_court_rules.py` will refresh from courts.ca.gov.
+- **`federal-debt-laws/`** — FDCPA, FCRA, TILA, ECOA, Reg F/V/Z/B (federal law; identical content to the WA/OR corpora — populated by `pull_federal_debt_laws.py`).
+- **`ucc-model/`** — Model UCC Articles 1, 2, 3, 9 (Cornell LII; identical to WA/OR).
+- **`ca-statutes-debt/`** — California statute chapters most relevant to civil practice and consumer debt: CCP §§ 312-366 (SOL framework), §§ 412.10-417.40 (service), §§ 425.10-440 (pleadings + demurrer + summary judgment), §§ 1005-1020 (motions / notices), §§ 2016.010-2036.050 (Civil Discovery Act), §§ 683-708 (enforcement), §§ 703.140 / 704.010-995 (exemptions); Cal. Civ. Code §§ 1788-1788.33 (Rosenthal Act), §§ 1788.50-1788.66 (FDBPA), §§ 1750-1784 (CLRA), § 1717 (reciprocal attorney's fees); Cal. Bus. & Prof. Code §§ 17200-17210 (UCL); Cal. Fin. Code §§ 100000-100027 (CDCLA); Cal. Comm. Code §§ 2101-2725, 3101-3605, 9101-9809 (UCC Articles 2, 3, 9 as enacted in CA).
+
+CA pull scripts: `scripts/pull_ca_court_rules.py` fetches CRC Titles 1-10 from courts.ca.gov; `scripts/pull_ca_statutes.py` fetches the configured CCP / Civ. Code / B&P / Fin. Code / Comm. Code sections from leginfo.legislature.ca.gov. Both follow the same pattern as the WA pullers (`pull_court_rules.py`, `pull_wa_rcw.py`).
 
 ## Common commands
 
@@ -125,6 +162,16 @@ python3 plugins/wa-court-docs/scripts/format-check.py <file>   # GR 14 complianc
 python3 plugins/wa-court-docs/scripts/case-calendar.py ...     # CR 6 deadline arithmetic
 python3 plugins/or-court-docs/scripts/format-check.py <file>   # UTCR 2.010 compliance
 python3 plugins/or-court-docs/scripts/case-calendar.py ...     # ORCP 10 deadline arithmetic with ORS 187 holidays
+
+# Refresh reference corpora — California
+python3 scripts/pull_ca_court_rules.py --workers 8 \
+  --out plugins/ca-court-docs/skills/ca-law-references/references/court-rules
+python3 scripts/pull_ca_statutes.py --workers 8 \
+  --out plugins/ca-court-docs/skills/ca-law-references/references/ca-statutes-debt
+
+# California scripts
+python3 plugins/ca-court-docs/scripts/format-check.py <file>   # CRC 2.100-2.119 compliance
+python3 plugins/ca-court-docs/scripts/case-calendar.py ...     # CCP § 12 deadline arithmetic with Govt. Code § 6700 holidays
 ```
 
 The lint also runs in CI on every push/PR (`.github/workflows/lint-skills.yml`).
@@ -219,6 +266,13 @@ plugins/or-court-docs/
   scripts/format-check.py           # UTCR 2.010 compliance
   scripts/case-calendar.py          # ORCP 10 deadline arithmetic with ORS 187 holidays
   evals/
+plugins/ca-court-docs/              # scaffolded stubs (lint-clean; awaiting substantive content)
+  .claude-plugin/plugin.json
+  skills/<skill>/SKILL.md           # 21 stubs
+  skills/ca-law-references/references/{court-rules,federal-debt-laws,ucc-model,ca-statutes-debt}/README.md
+  scripts/format-check.py           # copied from or-court-docs; TODO-marked for CRC 2.100-2.119 adaptation
+  scripts/case-calendar.py          # copied from or-court-docs; TODO-marked for CCP § 12 / Govt. Code § 6700
+  evals/                            # empty drafting/formatting/procedural/subject-matter/integration dirs + stub README
 scripts/
   lint-skills.py                    # frontmatter + name/dir-match linter
   hooks/pre-commit                  # symlink target for .git/hooks/pre-commit
@@ -226,6 +280,8 @@ scripts/
   pull_federal_debt_laws.py         # uscode.house.gov + ecfr.gov → federal-debt-laws/ (shared content; copied to each state plugin)
   pull_ucc.py                       # law.cornell.edu/ucc → ucc-model/ (shared)
   pull_wa_rcw.py                    # app.leg.wa.gov → wa-rcw-debt/
+  pull_ca_court_rules.py            # courts.ca.gov → ca court-rules/
+  pull_ca_statutes.py               # leginfo.legislature.ca.gov → ca-statutes-debt/
   # TODO: pull_oregon_rules.py       # counciloncourtprocedures.org + courts.oregon.gov → or court-rules/
   # TODO: pull_oregon_ors.py         # oregonlegislature.gov → or-ors-debt/
 ```
