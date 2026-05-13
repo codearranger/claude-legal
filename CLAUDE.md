@@ -132,7 +132,7 @@ Mirrors the WA/OR corpora structure:
 - **`ucc-model/`** — Model UCC Articles 1, 2, 3, 9 (Cornell LII; identical to WA/OR).
 - **`ca-statutes-debt/`** — California statute chapters most relevant to civil practice and consumer debt: CCP §§ 312-366 (SOL framework), §§ 412.10-417.40 (service), §§ 425.10-440 (pleadings + demurrer + summary judgment), §§ 1005-1020 (motions / notices), §§ 2016.010-2036.050 (Civil Discovery Act), §§ 683-708 (enforcement), §§ 703.140 / 704.010-995 (exemptions); Cal. Civ. Code §§ 1788-1788.33 (Rosenthal Act), §§ 1788.50-1788.66 (FDBPA), §§ 1750-1784 (CLRA), § 1717 (reciprocal attorney's fees); Cal. Bus. & Prof. Code §§ 17200-17210 (UCL); Cal. Fin. Code §§ 100000-100027 (CDCLA); Cal. Comm. Code §§ 2101-2725, 3101-3605, 9101-9809 (UCC Articles 2, 3, 9 as enacted in CA).
 
-CA pull scripts (`pull_ca_court_rules.py`, `pull_ca_statutes.py`) are tracked as a TODO alongside the Oregon scripts.
+CA pull scripts: `scripts/pull_ca_court_rules.py` fetches CRC Titles 1-10 from courts.ca.gov; `scripts/pull_ca_statutes.py` fetches the configured CCP / Civ. Code / B&P / Fin. Code / Comm. Code sections from leginfo.legislature.ca.gov. Both follow the same pattern as the WA pullers (`pull_court_rules.py`, `pull_wa_rcw.py`).
 
 ## Common commands
 
@@ -163,9 +163,15 @@ python3 plugins/wa-court-docs/scripts/case-calendar.py ...     # CR 6 deadline a
 python3 plugins/or-court-docs/scripts/format-check.py <file>   # UTCR 2.010 compliance
 python3 plugins/or-court-docs/scripts/case-calendar.py ...     # ORCP 10 deadline arithmetic with ORS 187 holidays
 
-# California scripts (scaffolded from OR; TODO marker prepended — adapt before relying on)
-python3 plugins/ca-court-docs/scripts/format-check.py <file>   # CRC 2.100-2.119 compliance (not yet adapted)
-python3 plugins/ca-court-docs/scripts/case-calendar.py ...     # CCP § 12 deadline arithmetic with Govt. Code § 6700 holidays (not yet adapted)
+# Refresh reference corpora — California
+python3 scripts/pull_ca_court_rules.py --workers 8 \
+  --out plugins/ca-court-docs/skills/ca-law-references/references/court-rules
+python3 scripts/pull_ca_statutes.py --workers 8 \
+  --out plugins/ca-court-docs/skills/ca-law-references/references/ca-statutes-debt
+
+# California scripts
+python3 plugins/ca-court-docs/scripts/format-check.py <file>   # CRC 2.100-2.119 compliance
+python3 plugins/ca-court-docs/scripts/case-calendar.py ...     # CCP § 12 deadline arithmetic with Govt. Code § 6700 holidays
 ```
 
 The lint also runs in CI on every push/PR (`.github/workflows/lint-skills.yml`).
@@ -274,6 +280,8 @@ scripts/
   pull_federal_debt_laws.py         # uscode.house.gov + ecfr.gov → federal-debt-laws/ (shared content; copied to each state plugin)
   pull_ucc.py                       # law.cornell.edu/ucc → ucc-model/ (shared)
   pull_wa_rcw.py                    # app.leg.wa.gov → wa-rcw-debt/
+  pull_ca_court_rules.py            # courts.ca.gov → ca court-rules/
+  pull_ca_statutes.py               # leginfo.legislature.ca.gov → ca-statutes-debt/
   # TODO: pull_oregon_rules.py       # counciloncourtprocedures.org + courts.oregon.gov → or court-rules/
   # TODO: pull_oregon_ors.py         # oregonlegislature.gov → or-ors-debt/
 ```
