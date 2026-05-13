@@ -5,8 +5,8 @@
     "url": "https://github.com/codearranger"
   },
   "metadata": {
-    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state. Three plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt defense bundle), or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle), and ca-court-docs (California — CRC 2.100-2.119-compliant pleadings, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA / UCL consumer-debt defense bundle). All plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense in each state). The structure leaves clean slots for plugins covering additional states.",
-    "version": "0.8.0"
+    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state. Four plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt defense bundle), or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle), ca-court-docs (California — CRC 2.100-2.119-compliant pleadings, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA / UCL consumer-debt defense bundle), and co-court-docs (Colorado — C.R.C.P. 10 + CJD 11-01-compliant pleadings, Denver + Arapahoe + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt defense bundle, plus a UDMA-based family-law bundle covering dissolution, annulment, child support, parental responsibilities, and maintenance). All plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles. The structure leaves clean slots for plugins covering additional states.",
+    "version": "0.9.0"
   },
   "plugins": [
     {
@@ -97,6 +97,53 @@
         "rosenthal-act",
         "consumer-protection",
         "debt-collection"
+      ]
+    },
+    {
+      "name": "co-court-docs",
+      "source": "./plugins/co-court-docs",
+      "description": "Draft and format pleadings, declarations, motions, notices, and proposed orders for Colorado courts. Applies C.R.C.P. 10 + Chief Justice Directive 11-01 statewide formatting (uniform 1-inch margins, double-spaced 12-point text, the two-block Colorado caption with the case-number / division / courtroom box, Colorado attorney-registration number for licensed counsel under C.R.C.P. 11(a)); includes Denver District Court (2nd Judicial District — Lindsey-Flanigan Courthouse) and Arapahoe County District Court (18th Judicial District — Centennial, Aurora, Littleton) specifics plus a county-courts roll-up for the other most-populous counties (Jefferson, El Paso, Adams, Boulder, Larimer, Douglas, Weld, Pueblo, Mesa, Broomfield); supports pro se / self-represented workflows including CCEFS Pro Se and the Colorado Judicial Branch JDF (Judicial Department Forms) catalog. Architected as matter-neutral civil-procedure skills (C.R.C.P. civil rules with the 21-day answer window under Rule 12(a)(1) and the C.R.C.P. 121 § 1-15 motion-practice timing — 21-day response, 7-day reply, 15-page motion / 10-page reply limits, certificate of conferral under § 1-15(8); CRE evidence rules; fees and costs under C.R.S. art. 16 of title 13; local rules and Chief Justice Directives; Colorado neutral-citation conventions for post-2012 cases at the Colorado Supreme Court and Court of Appeals; deadline arithmetic under C.R.C.P. 6 with C.R.S. § 24-11-101 holidays including Frances Xavier Cabrini Day (replaced Columbus Day in 2020 via H.B. 20-1031) and Juneteenth; hearings under the Cisco Webex statewide remote-appearance protocol with division-by-division practice standards; first-30-days response under C.R.C.P. 12 including the Twombly/Iqbal-equivalent pleading standard adopted in Warne v. Hall, 2016 CO 50; post-judgment under C.R.C.P. 59/60 and the C.R.S. § 13-54.5 garnishment regime with the expanded SB22-086 exemption table including the $250,000 homestead) plus subject-matter bundles. Two subject-matter bundles ship: (1) co-consumer-debt covering FDCPA, Regulation F, the Colorado Fair Debt Collection Practices Act (CFDCPA — C.R.S. art. 16 of title 5, recodified from Title 12 in 2022 by HB22-1024), the Colorado Consumer Protection Act (CCPA — C.R.S. art. 1 of title 6 with treble damages and mandatory fees under C.R.S. § 6-1-113, subject to the Hall v. Walter 'significant public impact' element), the Uniform Consumer Credit Code (UCCC — C.R.S. art. 1-9 of title 5 administered by the Colorado AG), Colorado collection-agency licensure under C.R.S. § 5-16-115 and the AG's Collection Agency Board, chain-of-title doctrine under Colorado UCC Article 9 (C.R.S. art. 9 of title 4) including the bill-of-sale-and-assignment foundation, the 6-year SOL on liquidated debt under C.R.S. § 13-80-103.5(1)(a) as settled in Hassler v. Account Brokers of Larimer Cnty., the 5-pattern fact-pattern triage (stale credit-card debt, debt buyer with original-creditor contract, medical-debt collection under HB23-1126, default-judgment attack under C.R.C.P. 60(b), FDCPA/CCPA counterclaim package), and synthetic example filings; and (2) co-family-law covering the Uniform Dissolution of Marriage Act (UDMA — C.R.S. art. 10 of title 14) with the 91-day residency requirement under § 14-10-106(1)(a)(I) and the 91-day waiting period under § 14-10-106(1)(a)(III), dissolution of marriage / legal separation under § 14-10-106, declaration of invalidity of marriage (annulment) under § 14-10-111 with the narrow grounds (lack of capacity, impotence, underage, bigamy, prohibited-by-law, jest), C.R.C.P. 16.2 mandatory financial-disclosure regime including the Sworn Financial Statement (JDF 1111) due 42 days after service, allocation of parental responsibilities (replaced 'custody' terminology in 1998) under § 14-10-124 with decision-making and parenting-time allocation, the C.R.S. § 14-10-115 income-shares child-support guideline with the 93-overnight rule and the statewide online worksheet (JDF 1820 E) and imputation of income under § 14-10-115(5)(b), modification of child support requiring a substantial-and-continuing change of >= 10% under § 14-10-122(1)(b), maintenance under the C.R.S. § 14-10-114 guideline framework as amended in 2014 and 2024, common-law marriage under People v. Lucero (1987) as modernized by In re Marriage of Hogsett & Neale, 2021 CO 1, and UCCJEA jurisdiction over children at C.R.S. art. 13 of title 14. All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+      "category": "legal",
+      "keywords": [
+        "colorado",
+        "legal",
+        "pleadings",
+        "pro-se",
+        "c.r.c.p.",
+        "cre",
+        "ccefs",
+        "denver",
+        "arapahoe",
+        "second-judicial-district",
+        "eighteenth-judicial-district",
+        "lindsey-flanigan-courthouse",
+        "county-courts",
+        "civil-rules",
+        "evidence-rules",
+        "discovery",
+        "hearings",
+        "post-judgment",
+        "fact-check",
+        "deadlines",
+        "fdcpa",
+        "reg-f",
+        "cfdcpa",
+        "ccpa",
+        "uccc",
+        "consumer-protection",
+        "debt-collection",
+        "family-law",
+        "udma",
+        "dissolution-of-marriage",
+        "divorce",
+        "annulment",
+        "declaration-of-invalidity",
+        "child-support",
+        "parental-responsibilities",
+        "parenting-time",
+        "maintenance",
+        "spousal-support",
+        "common-law-marriage"
       ]
     }
   ]
