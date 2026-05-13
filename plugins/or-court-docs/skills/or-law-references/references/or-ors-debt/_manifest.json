@@ -1,0 +1,27 @@
+{
+  "corpus": "or-ors-debt",
+  "version": "0.0.0",
+  "last_pulled": null,
+  "source": "https://www.oregonlegislature.gov/bills_laws/ors/",
+  "chapters": [
+    {"chapter": 12, "subject": "Limitations of actions", "file": "ORS-12.md"},
+    {"chapter": 14, "subject": "Jurisdiction; venue", "file": "ORS-14.md"},
+    {"chapter": 18, "subject": "Judgments; execution; garnishment", "file": "ORS-18.md"},
+    {"chapter": 19, "subject": "Appeals", "file": "ORS-19.md"},
+    {"chapter": 20, "subject": "Fees and costs", "file": "ORS-20.md"},
+    {"chapter": 21, "subject": "Court fees", "file": "ORS-21.md"},
+    {"chapter": 36, "subject": "Mandatory arbitration", "file": "ORS-36.md"},
+    {"chapter": 40, "subject": "Evidence Code (OEC)", "file": "ORS-40.md"},
+    {"chapter": 71, "subject": "UCC Article 1 (general)", "file": "ORS-71.md"},
+    {"chapter": 72, "subject": "UCC Article 2 (sales)", "file": "ORS-72.md"},
+    {"chapter": 73, "subject": "UCC Article 3 (negotiable instruments)", "file": "ORS-73.md"},
+    {"chapter": 79, "subject": "UCC Article 9 (secured transactions)", "file": "ORS-79.md"},
+    {"chapter": 82, "subject": "Interest; usury", "file": "ORS-82.md"},
+    {"chapter": 90, "subject": "Residential landlord and tenant", "file": "ORS-90.md"},
+    {"chapter": 105, "subject": "Property rights; FED", "file": "ORS-105.md"},
+    {"chapter": 174, "subject": "Construction of statutes", "file": "ORS-174.md"},
+    {"chapter": 187, "subject": "Holidays", "file": "ORS-187.md"},
+    {"chapter": 646, "subject": "Trade practices; UTPA", "file": "ORS-646.md"},
+    {"chapter": 697, "subject": "Collection agencies", "file": "ORS-697.md"}
+  ]
+}

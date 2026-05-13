@@ -5,8 +5,8 @@
     "url": "https://github.com/codearranger"
   },
   "metadata": {
-    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state. The first plugin, wa-court-docs, covers Washington State: GR 14-compliant pleadings, declarations, motions, and proposed orders; discovery; hearing prep; post-judgment procedure — architected as matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense). The structure leaves clean slots for plugins covering additional states.",
-    "version": "0.5.2"
+    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state. Two plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, consumer-debt defense bundle) and or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle). Both plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense in each state). The structure leaves clean slots for plugins covering additional states.",
+    "version": "0.6.0"
   },
   "plugins": [
     {
@@ -35,6 +35,38 @@
         "reg-f",
         "consumer-protection",
         "debt-collection"
+      ]
+    },
+    {
+      "name": "or-court-docs",
+      "source": "./plugins/or-court-docs",
+      "description": "Draft and format pleadings, declarations, motions, notes for hearing, and proposed orders for Oregon circuit courts. Applies UTCR 2.010 statewide formatting; includes Multnomah County Circuit Court (Portland) and Washington County Circuit Court (Hillsboro) specifics plus a county-court roll-up for the other most-populous counties (Clackamas, Lane, Marion, Jackson, Deschutes, Linn, Benton, Yamhill, Polk, Douglas); supports pro se workflows. Architected as matter-neutral civil-procedure skills (ORCP civil rules, OEC evidence rules, ORS 20 fees and costs, local SLR rules, citation format per the Oregon Appellate Courts Style Manual, online sources, discovery, first-30-days response, hearings, filing packets, post-judgment, fact-checking, deadlines under ORCP 10 + ORS 187.010 holidays) plus subject-matter bundles that plug into the procedural skills. The first subject-matter bundle, or-consumer-debt, covers FDCPA, Reg F, ORS 697 (Collection Agency Registration), the Oregon Unlawful Trade Practices Act (UTPA, ORS 646.605 et seq.), chain-of-title doctrine, fact-pattern triage, and synthetic example filings for debt-buyer defense. The architecture leaves clean slots for future bundles (landlord-tenant under ORS 90, family, personal injury, etc.). All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+      "category": "legal",
+      "keywords": [
+        "oregon",
+        "legal",
+        "pleadings",
+        "pro-se",
+        "utcr",
+        "orcp",
+        "oec",
+        "multnomah-county",
+        "washington-county-oregon",
+        "circuit-court",
+        "county-courts",
+        "civil-rules",
+        "evidence-rules",
+        "discovery",
+        "hearings",
+        "post-judgment",
+        "fact-check",
+        "fdcpa",
+        "reg-f",
+        "utpa",
+        "consumer-protection",
+        "debt-collection",
+        "ojd-ecourt",
+        "ors-697"
       ]
     }
   ]
