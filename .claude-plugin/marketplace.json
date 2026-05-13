@@ -5,8 +5,8 @@
     "url": "https://github.com/codearranger"
   },
   "metadata": {
-    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state. Two plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, consumer-debt defense bundle) and or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle). Both plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense in each state). The structure leaves clean slots for plugins covering additional states.",
-    "version": "0.6.0"
+    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state. Three plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, consumer-debt defense bundle), or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle), and ca-court-docs (California — scaffolded; CRC 2.100-2.119 formatting, LASC + SFSC + populous-counties roll-up, Rosenthal Act / CCP consumer-debt defense bundle, content authoring in progress). All plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense in each state). The structure leaves clean slots for plugins covering additional states.",
+    "version": "0.7.0"
   },
   "plugins": [
     {
@@ -67,6 +67,36 @@
         "debt-collection",
         "ojd-ecourt",
         "ors-697"
+      ]
+    },
+    {
+      "name": "ca-court-docs",
+      "source": "./plugins/ca-court-docs",
+      "description": "Draft and format pleadings, declarations, motions, notices, and proposed orders for California superior courts. Applies California Rules of Court 2.100-2.119 statewide formatting; includes Los Angeles Superior Court (LASC) and San Francisco Superior Court (SFSC) specifics plus a county-court roll-up for the other most-populous counties; supports pro se workflows. Architected as matter-neutral civil-procedure skills (CCP civil rules, CEC evidence rules, fees and costs, local rules, citation format per the California Style Manual) plus subject-matter bundles. The first subject-matter bundle, ca-consumer-debt, covers FDCPA, Reg F, the California Rosenthal Fair Debt Collection Practices Act (Cal. Civ. Code §§ 1788 et seq.), the California Debt Collection Licensing Act, chain-of-title doctrine, and synthetic example filings. NOTE: this plugin is currently scaffolded — every SKILL.md and reference file is a stub with TODO markers; substantive content authoring is in progress. All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+      "category": "legal",
+      "keywords": [
+        "california",
+        "legal",
+        "pleadings",
+        "pro-se",
+        "crc",
+        "ccp",
+        "cec",
+        "los-angeles-county",
+        "san-francisco-county",
+        "superior-court",
+        "county-courts",
+        "civil-rules",
+        "evidence-rules",
+        "discovery",
+        "hearings",
+        "post-judgment",
+        "fact-check",
+        "fdcpa",
+        "reg-f",
+        "rosenthal-act",
+        "consumer-protection",
+        "debt-collection"
       ]
     }
   ]
