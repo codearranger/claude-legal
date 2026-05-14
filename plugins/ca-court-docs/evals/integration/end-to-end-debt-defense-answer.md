@@ -69,7 +69,7 @@ days and draft my answer.
 
 - [ ] "In Pro Per" in signature block
 - [ ] No bar number
-- [ ] Parker framework adapted for pro per
+- [ ] pro-se drafting framework adapted for pro per
 
 ### Filing logistics
 

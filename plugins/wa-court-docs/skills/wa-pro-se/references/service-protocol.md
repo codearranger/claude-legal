@@ -41,7 +41,7 @@ of the foregoing [document name] to be served on:
    [X] By email to: [email addresses]
    [X] By USPS Certified Mail, Article No. [number]
 
-DATED this ___ day of __________, 20__, at Auburn, Washington.
+DATED this ___ day of __________, 20__, at [CITY], Washington.
 
                                  ______________________________
                                  [Name], pro se

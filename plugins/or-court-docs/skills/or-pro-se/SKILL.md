@@ -6,7 +6,7 @@ description: >
   se", "self-represented", "I'm representing myself", "Parker
   framework", "draft without an attorney", or when the user
   describes themselves as the defendant or plaintiff directly.
-  Covers the Brian Parker / KillDebt drafting framework, service
+  Covers the pro-se drafting framework, service
   protocols for pro se filers, common pitfalls specific to Oregon
   practice (including the no-interrogatories quirk and the OSB#
   signature-block convention), and Oregon-specific pro se
@@ -18,12 +18,12 @@ version: 0.1.0
 # Pro Se Drafting for Oregon Courts
 
 Use this skill when drafting court documents for a pro se
-litigant in an Oregon circuit court. It encodes the Brian Parker
-(KillDebt.com) drafting framework adapted to Oregon procedural
+litigant in an Oregon circuit court. It encodes the 
+ drafting framework adapted to Oregon procedural
 conventions and the practical service and filing protocols pro
 se filers need.
 
-## The Parker framework
+## The pro-se drafting framework
 
 Every motion and declaration follows four principles:
 
@@ -192,7 +192,7 @@ Priority Mail with tracking) — belt and suspenders.
 
 ## References
 
-- `references/parker-framework.md` — full drafting guide with
+- `references/pro-se-drafting-framework.md` — full drafting guide with
   Oregon-flavored examples
 - `references/service-protocol.md` — service, postmark
   preservation, Certificate of Service templates per UTCR 1.090

@@ -130,10 +130,10 @@ ______________________________________
 
 ## Length and structure rules
 
-- **Length cap**: 6 pages for the memorandum (Parker framework).
+- **Length cap**: 6 pages for the memorandum (pro-se drafting framework).
   Anything longer should split fact-narrative into the
   declaration and keep argument tight in the memo.
-- **Sections I–VII are required** in the Parker framework. Skip
+- **Sections I–VII are required** in the pro-se drafting framework. Skip
   none. Empty placeholders teach the judge what the structure is
   on the first page.
 - **Bold lead-ins** in Argument (Section VI) let the judge skim

@@ -252,7 +252,7 @@ reasonable expenses under ORCP 46 A(4)(a).
 ## Key features illustrated
 
 1. **Cite the rule first**: "Pursuant to ORCP 46 A..."
-2. **Sections I–VII** in strict Parker framework
+2. **Sections I–VII** in strict pro-se drafting framework
 3. **Detailed statement of facts** with citation to
    declaration paragraphs and exhibits
 4. **Statement of Issues** as yes/no questions

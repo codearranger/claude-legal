@@ -2,7 +2,7 @@
 
 These are **synthetic** example filings for a fictional
 Oregon debt-buyer-defense fact pattern. They illustrate the
-Parker framework applied to debt-defense practice in
+pro-se drafting framework applied to debt-defense practice in
 Multnomah Circuit Court.
 
 > **NOT LEGAL ADVICE.** The parties and facts are fictional.
@@ -38,7 +38,7 @@ Multnomah Circuit Court.
 
 For a real case:
 
-1. **Read each example** to see how the Parker framework
+1. **Read each example** to see how the pro-se drafting framework
    applies in debt-defense practice
 2. **Adapt the structure** to your fact pattern — keep the
    sections (I–VII for motions; numbered paragraphs for
@@ -51,7 +51,7 @@ For a real case:
 
 - **Caption format** per UTCR 2.100 (use "v.", numbered
   exhibits, Multnomah County header)
-- **Parker framework sections** (Relief, Facts, Issues,
+- **pro-se drafting framework sections** (Relief, Facts, Issues,
   Evidence, Authorities, Argument, Conclusion)
 - **Oregon-specific citations** (ORCP, OEC, ORS, UTCR — no
   Bluebook periods)
@@ -77,7 +77,7 @@ For a real case:
 - `or-consumer-debt` SKILL — main bundle
 - `or-statewide-format/references/templates/` — generic
   drafting scaffolds
-- `or-pro-se/references/parker-framework.md` — the
+- `or-pro-se/references/pro-se-drafting-framework.md` — the
   drafting framework these examples apply
 - Each example links back to the relevant procedural and
   substantive references

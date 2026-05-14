@@ -229,7 +229,7 @@ This bundle composes with:
   format
 - `wa-statewide-format` — GR 14 formatting
 - `wa-kcdc` — King County District Court specifics
-- `wa-pro-se` — Parker framework, service protocol
+- `wa-pro-se` — pro-se drafting framework, service protocol
 - `wa-fact-check` — citation verification before filing
 - `wa-file-packet` — packet assembly
 - `wa-draft-motion`, `wa-draft-declaration`, `wa-draft-order`,

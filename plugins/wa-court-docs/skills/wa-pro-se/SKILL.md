@@ -3,9 +3,9 @@ name: wa-pro-se
 description: >
   This skill should be used when drafting Washington court documents for
   a self-represented (pro se) litigant. Triggers include "pro se",
-  "self-represented", "I'm representing myself", "Parker framework",
+  "self-represented", "I'm representing myself", "pro-se drafting framework",
   "draft without an attorney", or when the user describes themselves as
-  the defendant or plaintiff directly. Covers the Brian Parker / KillDebt
+  the defendant or plaintiff directly. Covers the  / 
   drafting framework, service protocols for pro se filers, common
   pitfalls, and signature block conventions. Layer on top of
   wa-statewide-format and (if applicable) wa-kcdc.
@@ -15,10 +15,10 @@ version: 0.1.0
 # Pro Se Drafting for Washington Courts
 
 Use this skill when drafting court documents for a pro se litigant. It
-encodes the Brian Parker (KillDebt.com) drafting framework and practical
+encodes the pro-se drafting framework and practical
 service and filing protocols that pro se filers need.
 
-## The Parker framework
+## The pro-se drafting framework
 
 Every motion and declaration follows four principles:
 
@@ -103,7 +103,7 @@ Express with tracking). Always:
 
 ## References
 
-- `references/parker-framework.md` — full drafting guide with examples
+- `references/pro-se-drafting-framework.md` — full drafting guide with examples
 - `references/service-protocol.md` — service, postmark preservation,
   Certificate of Service templates
 - `references/pro-se-toolkit.md` — common motion types and how to draft

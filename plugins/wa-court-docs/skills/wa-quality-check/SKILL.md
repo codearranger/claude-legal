@@ -8,7 +8,7 @@ description: >
   a compliance check", "check my declaration". Runs a two-pass check:
   (1) a GR 14 **format** pass via `scripts/format-check.py` (paper
   size, margins, fonts, color, pagination) and (2) a **content** pass
-  applying the Parker framework checklist, citation form, caption
+  applying the pro-se drafting framework checklist, citation form, caption
   accuracy, and common pro se red flags. Also auto-detects motion
   type and runs motion-specific checks (CR 12(b)(6), CR 37, CR 56,
   CR 60). Composes with `wa-statewide-format`, `wa-kcdc`, and
@@ -70,7 +70,7 @@ for recent `.docx` files and ask which one to check.
 - [ ] GR 14.1 / GR 22 — confidential personal data (SSN, medical IDs,
       financial-account numbers) redacted
 
-### Structure (Parker framework, for motions)
+### Structure (pro-se drafting framework, for motions)
 
 - [ ] **I. Relief Requested** — one paragraph, specific relief
 - [ ] **II. Statement of Facts** — numbered paragraphs, each with

@@ -149,7 +149,7 @@ specific law.
 
 ### `<abbr>-pro-se/references/`
 
-- [ ] `parker-framework.md` — Parker framework adapted for
+- [ ] `pro-se-drafting-framework.md` — pro-se drafting framework adapted for
       the state
 - [ ] `service-protocol.md` — state's service rules under
       the state's civil rules

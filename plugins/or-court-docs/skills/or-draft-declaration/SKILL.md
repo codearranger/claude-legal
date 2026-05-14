@@ -307,7 +307,7 @@ Before filing:
   full template
 - `or-statewide-format/references/exhibit-handling.md` —
   exhibit conventions
-- `or-pro-se/references/parker-framework.md` — drafting
+- `or-pro-se/references/pro-se-drafting-framework.md` — drafting
   principles
 - `or-draft-motion` — companion motion
 - `or-law-references/references/evidence-rules.md` — OEC

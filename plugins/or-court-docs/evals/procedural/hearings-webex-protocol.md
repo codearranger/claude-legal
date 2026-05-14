@@ -33,7 +33,7 @@ My motion to compel hearing is on WebEx in Multnomah on July
 
 ### Argument prep
 
-- [ ] References the Parker framework — 2-3 main points
+- [ ] References the pro-se drafting framework — 2-3 main points
 - [ ] Anticipate judge questions
 - [ ] Concede appropriate points
 - [ ] Have outline and key exhibits printed

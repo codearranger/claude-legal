@@ -8,7 +8,7 @@ description: >
   reconsideration", "motion for default", "motion to strike",
   "new motion". Scaffolds a motion with supporting memorandum
   that complies with UTCR 2.010, statewide motion practice, and
-  the Parker framework for concise, fact-forward drafting.
+  the pro-se drafting framework for concise, fact-forward drafting.
   Composes with `or-statewide-format` (always), `or-multcc` /
   `or-wccc` / `or-county-courts` (court-specific), `or-pro-se`
   (if pro se), and `or-discovery` / `or-post-judgment` depending
@@ -20,7 +20,7 @@ version: 0.1.0
 
 Scaffold a motion and companion memorandum that complies with
 UTCR 2.010, ORCP / UTCR statewide motion practice, and the
-Parker framework.
+pro-se drafting framework.
 
 ## What this skill produces
 
@@ -30,7 +30,7 @@ A motion with the following sections, ready for filling in:
    title)
 2. **MOTION** — short, declaratory: "Pursuant to ORCP [N],
    [party] respectfully moves the Court for an order [relief]."
-3. **MEMORANDUM** — sections I–VII (Parker framework):
+3. **MEMORANDUM** — sections I–VII (pro-se drafting framework):
    - I. Relief Requested
    - II. Statement of Facts
    - III. Statement of Issues
@@ -57,7 +57,7 @@ A motion with the following sections, ready for filling in:
 - **Hearing mode**: in-person, WebEx, telephone (per
   assigned court's standing order)
 
-## The Parker framework (in detail)
+## The pro-se drafting framework (in detail)
 
 ### I. Relief Requested (one paragraph)
 
@@ -315,7 +315,7 @@ This skill ALWAYS composes with:
 
 It typically composes with:
 
-- **`or-pro-se`** — Parker framework details, pro se
+- **`or-pro-se`** — pro-se drafting framework details, pro se
   signature block, service protocol
 - **`or-draft-declaration`** — to draft the supporting
   declaration
@@ -358,7 +358,7 @@ Before filing.
 - `or-statewide-format` — caption + UTCR 2.010
 - `or-statewide-format/references/templates/motion-with-memo.md`
   — full scaffold template
-- `or-pro-se/references/parker-framework.md` — Parker
+- `or-pro-se/references/pro-se-drafting-framework.md` — Parker
   drafting principles
 - `or-multcc` / `or-wccc` / `or-county-courts` — local
   motion practice

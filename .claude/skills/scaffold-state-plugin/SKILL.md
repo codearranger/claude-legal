@@ -83,7 +83,7 @@ plugins/<abbr>-court-docs/
     <abbr>-<court1>/           # primary high-volume court
     <abbr>-<court2>/           # secondary high-volume court
     <abbr>-county-courts/      # rest-of-state roll-up
-    <abbr>-pro-se/             # Parker framework adaptation
+    <abbr>-pro-se/             # pro-se drafting framework adaptation
     <abbr>-law-references/     # civil rules, evidence, citation,
                                #   fees, local rules, online sources,
                                #   legal-data-apis, key cases

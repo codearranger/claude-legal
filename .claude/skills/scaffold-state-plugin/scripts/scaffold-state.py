@@ -220,7 +220,7 @@ ROLE_DESCRIPTIONS = {
     ),
     "draft-motion": (
         "Scaffold a motion + supporting memorandum for a {state}"
-        " court. Applies the Parker framework adapted to {state}."
+        " court. Applies the pro-se drafting framework adapted to {state}."
     ),
     "draft-declaration": (
         "Scaffold a declaration (or affidavit, per {state}"

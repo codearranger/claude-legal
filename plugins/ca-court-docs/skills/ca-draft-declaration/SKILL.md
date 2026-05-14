@@ -425,7 +425,7 @@ Before filing:
 
 - `ca-statewide-format/references/exhibit-handling.md` —
   exhibit conventions
-- `ca-pro-se` — Parker framework and pro se signature block
+- `ca-pro-se` — pro-se drafting framework and pro se signature block
 - `ca-draft-motion` — companion motion
 - `ca-law-references/references/evidence-rules.md` —
   Cal. Evid. Code references

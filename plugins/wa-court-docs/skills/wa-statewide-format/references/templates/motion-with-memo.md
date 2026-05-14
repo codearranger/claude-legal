@@ -1,6 +1,6 @@
 # Motion + Supporting Memorandum Template
 
-A motion with a companion memorandum. Follows the Parker framework:
+A motion with a companion memorandum. Follows the pro-se drafting framework:
 concise, fact-forward, ≤ 6 pages total.
 
 ## Option A — Self-contained motion (no separate memo)

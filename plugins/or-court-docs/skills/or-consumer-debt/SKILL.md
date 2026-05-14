@@ -363,7 +363,7 @@ example filings for a debt-buyer-defense fact pattern:
   Service
 
 The examples are **fictional** but procedurally complete.
-They illustrate the Parker framework applied to debt-defense
+They illustrate the pro-se drafting framework applied to debt-defense
 practice in Oregon.
 
 ## Companion procedural skills
@@ -373,7 +373,7 @@ This subject-matter bundle composes with:
 - **`or-statewide-format`** — UTCR 2.010 formatting
 - **The relevant court skill** — `or-multcc` / `or-wccc` /
   `or-county-courts`
-- **`or-pro-se`** — Parker framework
+- **`or-pro-se`** — pro-se drafting framework
 - **`or-law-references`** — citation conventions, online
   sources
 - **`or-discovery`** — discovery framework; layer the

@@ -55,7 +55,7 @@ claude-legal/
 │       │   ├── or-multcc/            # Multnomah Circuit Court (Portland)
 │       │   ├── or-wccc/              # Washington Co Circuit Court (Hillsboro)
 │       │   ├── or-county-courts/     # Clackamas, Lane, Marion, Jackson, Deschutes, etc.
-│       │   ├── or-pro-se/            # Parker framework adapted for Oregon
+│       │   ├── or-pro-se/            # pro-se drafting framework adapted for Oregon
 │       │   ├── or-law-references/    # ORCP, OEC, ORS, citation format, local SLRs
 │       │   ├── or-discovery/         # RFPs, RFAs, depositions, ORCP 46 (no interrogatories!)
 │       │   ├── or-hearings/          # Oral argument, WebEx, etiquette
@@ -83,7 +83,7 @@ claude-legal/
 │       │   ├── ca-lasc/              # Los Angeles Superior Court
 │       │   ├── ca-sfsc/              # San Francisco Superior Court (Dept. 302)
 │       │   ├── ca-county-courts/     # Orange, San Diego, Riverside, Santa Clara, etc.
-│       │   ├── ca-pro-se/            # Parker framework adapted for California ("In Pro Per")
+│       │   ├── ca-pro-se/            # pro-se drafting framework adapted for California ("In Pro Per")
 │       │   ├── ca-law-references/    # CCP, CEC, CRC, citation format (California Style Manual), local rules
 │       │   ├── ca-discovery/         # CCP §§ 2016+ (Civil Discovery Act); 35-rog cap; 45-day jurisdictional motion-to-compel-further
 │       │   ├── ca-hearings/          # Tentative-ruling regime (CRC 3.1308); LACourtConnect
@@ -111,7 +111,7 @@ claude-legal/
 │       │   ├── co-denver/            # Denver District Court (2nd JD — Lindsey-Flanigan)
 │       │   ├── co-arapahoe/          # Arapahoe County District Court (18th JD — Centennial)
 │       │   ├── co-county-courts/     # Jefferson, El Paso, Adams, Boulder, Larimer, Douglas, etc.
-│       │   ├── co-pro-se/            # Parker framework; "Self-Represented"; CCEFS Pro Se; JDF forms
+│       │   ├── co-pro-se/            # pro-se drafting framework; "Self-Represented"; CCEFS Pro Se; JDF forms
 │       │   ├── co-law-references/    # C.R.C.P., CRE, citation format, fees, local rules, CJDs
 │       │   ├── co-discovery/         # C.R.C.P. 26-37 (interrogatories under Rule 33 ARE available, 25-cap); county-court Rule 311
 │       │   ├── co-hearings/          # Webex statewide; tentative-ruling regime; chambers practice standards
@@ -123,7 +123,7 @@ claude-legal/
 │       │   ├── co-draft-declaration/ # C.R.S. § 13-27-104 declaration (no notary required)
 │       │   ├── co-draft-note/        # Notice of Hearing / Substitution / Address Change / Dismissal
 │       │   ├── co-draft-order/       # Proposed order with separate findings + ordering clause; Word-copy chambers protocol
-│       │   ├── co-quality-check/     # CJD 11-01 format + Parker framework content QC
+│       │   ├── co-quality-check/     # CJD 11-01 format + pro-se drafting framework content QC
 │       │   ├── co-schedule-hearing/  # Chambers / JA email templates per JD
 │       │   ├── co-file-packet/       # CCEFS workflow; document codes; fee schedule; JDF 205/206 waiver
 │       │   ├── co-submit-order/      # Post-hearing transmittal; Word-format chambers copy; agreed-form orders

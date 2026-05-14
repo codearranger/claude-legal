@@ -274,7 +274,7 @@ claim under ORS 18.700+ in parallel.
 - `or-deadlines` — 1-year and reasonable-time calculations
 - `or-draft-motion` — motion structure
 - `or-draft-declaration` — declaration structure
-- `or-pro-se/references/parker-framework.md` — drafting
+- `or-pro-se/references/pro-se-drafting-framework.md` — drafting
   principles
 - `or-law-references/references/civil-rules.md` — ORCP 71
   verbatim

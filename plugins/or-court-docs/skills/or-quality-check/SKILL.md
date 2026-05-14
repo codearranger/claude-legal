@@ -80,7 +80,7 @@ workspace for recent `.docx` files and ask which one to check.
       last 4 only; account numbers last 4; minor children
       initials; etc.)
 
-### Structure (Parker framework, for motions)
+### Structure (pro-se drafting framework, for motions)
 
 - [ ] **MOTION** section is short and declarative
 - [ ] **I. Relief Requested** — one paragraph, specific
@@ -237,7 +237,7 @@ substantive content).
 
 - `scripts/format-check.py` — the Pass 1 checker
 - `or-statewide-format` — UTCR 2.010 baseline
-- `or-pro-se` — Parker framework
+- `or-pro-se` — pro-se drafting framework
 - `or-fact-check` — substantive verification pass
 - `or-law-references/references/citation-format.md` —
   Oregon Style Manual rules

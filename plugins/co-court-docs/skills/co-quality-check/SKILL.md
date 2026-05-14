@@ -65,7 +65,7 @@ manually:
 
 ## Pass 2 — Content
 
-The content check applies the **Parker framework**:
+The content check applies the **pro-se drafting framework**:
 
 ### For a motion / brief:
 
@@ -170,7 +170,7 @@ Before clicking "submit" on CCEFS:
 ## References
 
 - `references/format-checklist.md`
-- `references/content-checklist.md` — Parker framework satisfaction
+- `references/content-checklist.md` — pro-se drafting framework satisfaction
   checks
 - `references/packet-consistency-checklist.md`
 - `references/preflight-checklist.md`
