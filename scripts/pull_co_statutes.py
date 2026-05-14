@@ -100,16 +100,38 @@ class Article:
     lines: List[str]
 
 
+def http_get_bytes(url: str, *, retries: int = 3, sleep: float = 1.5,
+                   timeout: float = 120) -> bytes:
+    """Fetch a URL with exponential-backoff retries. Mirrors the pattern
+    used by pull_wa_rcw.py and pull_ucc.py — leg.colorado.gov can return
+    transient 5xx / reset connections on large PDF downloads, and we'd
+    rather sleep and retry than abort a quarterly refresh."""
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    last_exc: Optional[Exception] = None
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return resp.read()
+        except Exception as exc:  # noqa: BLE001 — any urllib/socket failure should retry
+            last_exc = exc
+            time.sleep(sleep * (2 ** attempt))
+    assert last_exc is not None
+    raise last_exc
+
+
 def download_pdf(title: int, dest: Path) -> Path:
-    """Download one C.R.S. title PDF. Returns the local path."""
+    """Download one C.R.S. title PDF. Returns the local path. Writes
+    atomically via a `.part` sidecar then rename, so an interrupted
+    download never leaves a half-written PDF that the next run would
+    skip-via-cache."""
     url = PDF_URL.format(tt=title)
     out = dest / f"crs2024-title-{title:02d}.pdf"
     if out.exists() and out.stat().st_size > 0:
         return out
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=120) as resp:
-        data = resp.read()
-    out.write_bytes(data)
+    data = http_get_bytes(url)
+    tmp = out.with_suffix(out.suffix + ".part")
+    tmp.write_bytes(data)
+    tmp.rename(out)
     return out
 
 
@@ -190,7 +212,22 @@ def clean_lines(raw: List[str]) -> List[str]:
 
 def write_article(out_dir: Path, title: int, article: str, label: str,
                   lines: List[str]) -> Path:
-    """Write one article as a Markdown file."""
+    """Write one article as a Markdown file.
+
+    Output convention matches the WA / OR state corpora: each statutory
+    section gets a `## § NN-N-NNN. Title` heading with the body
+    underneath as prose markdown (no fenced wrapping). Any prelude
+    content before the first section header (editor's notes, cross-
+    references, law-review citations attached to the article as a whole)
+    is emitted as plain text under the file's H1.
+
+    Indentation: the pdftotext `-layout` output uses leading whitespace
+    to convey the hanging-indent structure of `(1)(a)(I)(A)` nested
+    subsections. We keep that whitespace as-is inside each section body
+    — markdown renderers treat lines with >=4 leading spaces as an
+    indented code block, which actually preserves the visual indentation
+    while still leaving the text grep-able and indexable for citation
+    scanning downstream skills do."""
     # File naming: CRS-13-80.md, CRS-13-54-5.md (decimal -> dash).
     suffix = article.replace(".", "-")
     fname = f"CRS-{title}-{suffix}.md"
@@ -199,28 +236,96 @@ def write_article(out_dir: Path, title: int, article: str, label: str,
     today = date.today().isoformat()
     src_url = PDF_URL.format(tt=title)
 
-    header = [
-        f"# C.R.S. Title {title}, Article {article} — {label}",
-        "",
-        f"> **Source:** {src_url}",
-        f"> **Fetched:** {today}",
+    out: List[str] = []
+    out.append(f"# C.R.S. Title {title}, Article {article} — {label}")
+    out.append("")
+    out.append(f"> **Source:** {src_url}")
+    out.append(f"> **Fetched:** {today}")
+    out.append(
         "> **Format:** verbatim text extracted from the official "
         "Colorado General Assembly C.R.S. PDF (2024 edition, "
-        "\"Uncertified Printout\") via `pdftotext -layout`.",
-        "",
+        '"Uncertified Printout") via `pdftotext -layout`.'
+    )
+    out.append("")
+    out.append(
         "> **NOT LEGAL ADVICE.** Statute text is reproduced verbatim "
         "as published by the Colorado Office of Legislative Legal "
         "Services. Verify against the current official text before "
-        "citation.",
-        "",
-        "---",
-        "",
-        "```",
-    ]
-    footer = ["```", ""]
+        "citation."
+    )
+    out.append("")
+    out.append("---")
+    out.append("")
 
-    body = "\n".join(header + lines + footer) + "\n"
-    fpath.write_text(body, encoding="utf-8")
+    # Split into per-section blocks keyed by SECTION_RE. Anything before
+    # the first matching section is the article prelude (editor's notes,
+    # etc.) and gets emitted under a "Prelude / editor's notes" heading.
+    current_num: Optional[str] = None
+    current_label: Optional[str] = None
+    current_body: List[str] = []
+    prelude: List[str] = []
+    saw_first_section = False
+
+    def flush() -> None:
+        nonlocal current_num, current_label, current_body
+        if current_num is None:
+            return
+        out.append(f"## § {current_num}. {current_label}".rstrip())
+        out.append("")
+        # Strip leading/trailing blank lines from the body but keep
+        # internal whitespace intact (hanging-indent structure matters).
+        body = list(current_body)
+        while body and body[0].strip() == "":
+            body.pop(0)
+        while body and body[-1].strip() == "":
+            body.pop()
+        out.extend(body)
+        out.append("")
+        current_num = None
+        current_label = None
+        current_body = []
+
+    for raw in lines:
+        m = SECTION_RE.match(raw)
+        if m:
+            if not saw_first_section and any(s.strip() for s in prelude):
+                out.append("## Prelude / editor's notes")
+                out.append("")
+                # Trim blank lines around prelude.
+                while prelude and prelude[0].strip() == "":
+                    prelude.pop(0)
+                while prelude and prelude[-1].strip() == "":
+                    prelude.pop()
+                out.extend(prelude)
+                out.append("")
+                prelude = []
+            saw_first_section = True
+            flush()
+            current_num = m.group("num")
+            # Take the section title as the rest-of-line after `NUM. `,
+            # trimmed. If `rest` is empty (title runs onto next line),
+            # leave label empty — the heading will just be `## § NUM.`.
+            current_label = m.group("rest").strip()
+            continue
+        if not saw_first_section:
+            prelude.append(raw)
+        else:
+            current_body.append(raw)
+    flush()
+
+    # If the article had NO section headers at all (e.g., a fully-
+    # repealed stub or a one-section article), emit whatever we
+    # accumulated as a single body.
+    if not saw_first_section and any(s.strip() for s in prelude):
+        out.extend(prelude)
+        out.append("")
+
+    body_text = "\n".join(out).rstrip() + "\n"
+    # Atomic write: write to .tmp then rename so an interrupted run
+    # never leaves a half-written file in the corpus.
+    tmp = fpath.with_suffix(".md.tmp")
+    tmp.write_text(body_text, encoding="utf-8")
+    tmp.rename(fpath)
     return fpath
 
 

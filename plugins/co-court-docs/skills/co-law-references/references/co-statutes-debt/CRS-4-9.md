@@ -8,7 +8,8 @@
 
 ---
 
-```
+## Prelude / editor's notes
+
                                             ARTICLE 9
 
                                         Secured Transactions
@@ -37,15 +38,16 @@ Property", see 32 Colo. Law. 85 (April 2003).
 
                                      GENERAL PROVISIONS
 
+## § 4-9-101. Short title. This article may be cited as the "Uniform Commercial Code -
 
-       4-9-101. Short title. This article may be cited as the "Uniform Commercial Code -
 Secured Transactions".
 
        Source: L. 2001: Entire article R&RE, p. 1313, § 1, effective July 1.
 
        Editor's note: This section is similar to former § 4-9-101 as it existed prior to 2001.
 
-        4-9-102. Definitions and index of definitions. (a) In this article 9:
+## § 4-9-102. Definitions and index of definitions. (a) In this article 9:
+
         (1) "Accession" means goods that are physically united with other goods in such a
 manner that the identity of the original goods is not lost.
         (2) "Account", except as used in "account for", "account statement", "account to",
@@ -519,7 +521,8 @@ they existed prior to 2012.
 
        Cross references: For offenses relating to account, see § 18-5-502.
 
-        4-9-103. Purchase-money security interest - application of payments - burden of
+## § 4-9-103. Purchase-money security interest - application of payments - burden of
+
 establishing - definitions. (a) In this section:
         (1) "Purchase-money collateral" means goods or software that secures a purchase-money
 obligation incurred with respect to that collateral; and
@@ -578,7 +581,8 @@ apply established approaches.
 
        Editor's note: This section is similar to former § 4-9-107 as it existed prior to 2001.
 
-        4-9-104. Control of deposit account. (a) A secured party has control of a deposit
+## § 4-9-104. Control of deposit account. (a) A secured party has control of a deposit
+
 account if:
         (1) The secured party is the bank with which the deposit account is maintained;
         (2) The debtor, secured party, and bank have agreed in a signed record that the bank will
@@ -598,7 +602,8 @@ the debtor retains the right to direct the disposition of funds from the deposit
         Source: L. 2001: Entire article R&RE, p. 1328, § 1, effective July 1. L. 2023: (a)(2) and
 (a)(3) amended and (a)(4) added, (SB 23-090), ch. 136, p. 544, § 43, effective August 7.
 
-        4-9-105. Control of electronic copy of record evidencing chattel paper. (a) A
+## § 4-9-105. Control of electronic copy of record evidencing chattel paper. (a) A
+
 purchaser has control of an authoritative electronic copy of a record evidencing chattel paper if a
 system employed for evidencing the assignment of interests in the chattel paper reliably
 establishes the purchaser as the person to which the authoritative electronic copy was assigned.
@@ -661,7 +666,8 @@ section amended, (HB 12-1262), ch. 170, p. 596, § 2, effective July 1, 2013. L.
 (b)(1), (b)(2), (b)(3), and (b)(4) amended and (c), (d), (e), (f), and (g) added, (SB 23-090), ch.
 136, p. 544, § 44, effective August 7.
 
-         4-9-106. Control of investment property. (a) A person has control of a certificated
+## § 4-9-106. Control of investment property. (a) A person has control of a certificated
+
 security, uncertificated security, or security entitlement as provided in section 4-8-106.
          (b) A secured party has control of a commodity contract if:
          (1) The secured party is the commodity intermediary with which the commodity contract
@@ -678,7 +684,8 @@ commodity account.
        Editor's note: The provisions of this section are similar to former §§ 4-9-115 (e) and 4-
 8-106 as they existed prior to 2001.
 
-        4-9-107. Control of letter-of-credit right. A secured party has control of a letter-of-
+## § 4-9-107. Control of letter-of-credit right. A secured party has control of a letter-of-
+
 credit right to the extent of any right to payment or performance by the issuer or any nominated
 
 
@@ -687,7 +694,8 @@ of credit under section 4-5-114 (c) or otherwise applicable law or practice.
 
        Source: L. 2001: Entire article R&RE, p. 1330, § 1, effective July 1.
 
-        4-9-107.5. Control of controllable electronic record, controllable account, or
+## § 4-9-107.5. Control of controllable electronic record, controllable account, or
+
 controllable payment intangible. (a) A secured party has control of a controllable electronic
 record as provided in section 4-12-105.
         (b) A secured party has control of a controllable account or controllable payment
@@ -697,7 +705,8 @@ controllable account or controllable payment intangible.
       Source: L. 2023: Entire section added, (SB 23-090), ch. 136, p. 546, § 45, effective
 August 7.
 
-        4-9-108. Sufficiency of description. (a) Except as otherwise provided in subsections
+## § 4-9-108. Sufficiency of description. (a) Except as otherwise provided in subsections
+
 (c), (d), (e), and (f) of this section, a description of personal or real property is sufficient,
 whether or not it is specific, if it reasonably identifies what is described.
         (b) Except as otherwise provided in subsection (d) of this section, a description of
@@ -737,7 +746,8 @@ determined by use of a numerical or other code included in forms and formats ado
 to time by the secretary of state;" in subsection (b)(2), added a new paragraph (3) to subsection
 (e), and added a new subsection (f).
 
-         4-9-109. Scope. (a) Except as otherwise provided in subsections (c), (d), and (e) of this
+## § 4-9-109. Scope. (a) Except as otherwise provided in subsections (c), (d), and (e) of this
+
 section, this article applies to:
          (1) A transaction, regardless of its form, that creates a security interest in personal
 property or fixtures by contract;
@@ -823,7 +833,8 @@ provides authority for", and substituted the phrase "tax liens" for the phrase "
 created by this State or a governmental unit of this State". Colorado added new paragraphs
 (13.5), (14), and (15) to subsection (d).
 
-        4-9-110. Security interests arising under article 2 or 2.5. A security interest arising
+## § 4-9-110. Security interests arising under article 2 or 2.5. A security interest arising
+
 under section 4-2-401, 4-2-505, 4-2-711 (3), or 4-2.5-508 (5) is subject to this article. However,
 until the debtor obtains possession of the goods:
         (1) The security interest is enforceable, even if section 4-9-203 (b)(3) has not been
@@ -844,7 +855,8 @@ debtor.
                         ATTACHMENT OF SECURITY INTEREST;
                      RIGHTS OF PARTIES TO SECURITY AGREEMENT
 
-         4-9-201. General effectiveness of security agreement. (a) Except as otherwise
+## § 4-9-201. General effectiveness of security agreement. (a) Except as otherwise
+
 provided by this title, a security agreement is effective according to its terms between the parties,
 against purchasers of the collateral, and against creditors.
          (b) A transaction subject to this article 9 is subject to any applicable rule of law that
@@ -876,7 +888,8 @@ amended, p. 937, § 2, effective August 7. L. 2017: (b) amended, (HB 17-1238), c
 subsections (b) and (c) in 2001 when this article was repealed and reenacted. The phrase was
 subsequently adopted in 2002.
 
-        4-9-202. Title to collateral immaterial. Except as otherwise provided with respect to
+## § 4-9-202. Title to collateral immaterial. Except as otherwise provided with respect to
+
 consignments or sales of accounts, chattel paper, payment intangibles, or promissory notes, the
 provisions of this article with regard to rights and obligations apply whether title to collateral is
 in the secured party or the debtor.
@@ -885,7 +898,8 @@ in the secured party or the debtor.
 
        Editor's note: This section is similar to former § 4-9-202 as it existed prior to 2001.
 
-        4-9-203. Attachment and enforceability of security interest; proceeds; supporting
+## § 4-9-203. Attachment and enforceability of security interest; proceeds; supporting
+
 obligations; formal requisites. (a) A security interest attaches to collateral when it becomes
 enforceable against the debtor with respect to the collateral, unless an agreement expressly
 postpones the time of attachment.
@@ -953,7 +967,8 @@ former sections as they existed prior to 2001. For a detailed comparison, see th
 tables located in the back of the index.
         (2) Colorado legislative change: Colorado added a new subsection (j).
 
-        4-9-204. After-acquired property - future advances. (a) Except as otherwise provided
+## § 4-9-204. After-acquired property - future advances. (a) Except as otherwise provided
+
 in subsection (b) of this section, a security agreement may create or provide for a security
 interest in after-acquired collateral.
 
@@ -978,7 +993,8 @@ amended and (b.1) added, (SB 23-090), ch. 136, p. 547, § 47, effective August 7
 
        Editor's note: This section is similar to former § 4-9-204 as it existed prior to 2001.
 
-        4-9-205. Use or disposition of collateral permissible. (a) A security interest is not
+## § 4-9-205. Use or disposition of collateral permissible. (a) A security interest is not
+
 invalid or fraudulent against creditors solely because:
         (1) The debtor has the right or ability to:
         (A) Use, commingle, or dispose of all or part of the collateral, including returned or
@@ -996,7 +1012,8 @@ party.
 
        Editor's note: This section is similar to former § 4-9-205 as it existed prior to 2001.
 
-        4-9-206. Security interest arising in purchase or delivery of financial asset. (a) A
+## § 4-9-206. Security interest arising in purchase or delivery of financial asset. (a) A
+
 security interest in favor of a securities intermediary attaches to a person's security entitlement if:
         (1) The person buys a financial asset through the securities intermediary in a transaction
 in which the person is obligated to pay the purchase price to the securities intermediary at the
@@ -1021,7 +1038,8 @@ to make payment for the delivery.
 
        Editor's note: This section is similar to former § 4-9-116 as it existed prior to 2001.
 
-        4-9-207. Rights and duties of secured party having possession or control of
+## § 4-9-207. Rights and duties of secured party having possession or control of
+
 collateral. (a) Except as otherwise provided in subsection (d) of this section, a secured party
 shall use reasonable care in the custody and preservation of collateral in the secured party's
 possession. In the case of chattel paper or an instrument, reasonable care includes taking
@@ -1065,7 +1083,8 @@ amended, p. 500, § 35, effective September 1. L. 2023: IP(c) amended, (SB 23-09
 
        Editor's note: This section is similar to former § 4-9-207 as it existed prior to 2001.
 
-        4-9-208. Additional duties of secured party having control of collateral. (a) This
+## § 4-9-208. Additional duties of secured party having control of collateral. (a) This
+
 section applies to cases in which there is no outstanding secured obligation and the secured party
 is not committed to make advances, incur obligations, or otherwise give value.
         (b) Within five business days after receiving a signed demand by the debtor:
@@ -1113,7 +1132,8 @@ business" for the word "10" in the introductory portion to subsection (b), added
 the request of the debtor," and "providing sufficient information so that the debtor can access the
 deposit account" in subsection (b)(2)(B), and added a new subsection (b)(2.5).
 
-        4-9-209. Duties of secured party if account debtor has been notified of assignment.
+## § 4-9-209. Duties of secured party if account debtor has been notified of assignment.
+
 (a) Except as otherwise provided in subsection (c) of this section, this section applies if:
         (1) There is no outstanding secured obligation; and
         (2) The secured party is not committed to make advances, incur obligations, or otherwise
@@ -1128,7 +1148,8 @@ chattel paper, or payment intangible.
       Source: L. 2001: Entire article R&RE, p. 1340, § 1, effective July 1. L. 2023: (b)
 amended, (SB 23-090), ch. 136, p. 549, § 50, effective August 7.
 
-        4-9-210. Request for accounting - request regarding list of collateral or statement of
+## § 4-9-210. Request for accounting - request regarding list of collateral or statement of
+
 account - definitions. (a) In this section:
         (1) "Request" means a record of a type described in paragraph (2), (3), or (4) of this
 subsection (a).
@@ -1189,7 +1210,8 @@ regarding a statement of account", changed the fee from $25 to $15, and added th
 
                                   PERFECTION AND PRIORITY
 
-         4-9-301. Law governing perfection and priority of security interests. Except as
+## § 4-9-301. Law governing perfection and priority of security interests. Except as
+
 otherwise provided in sections 4-9-303 to 4-9-306.7, the following rules determine the law
 governing perfection, the effect of perfection or nonperfection, and the priority of a security
 interest in collateral:
@@ -1216,13 +1238,15 @@ amended, p. 501, § 37, effective September 1. L. 2023: IP and IP(3) amended, (S
 
        Editor's note: This section is similar to former § 4-9-103 as it existed prior to 2001.
 
-        4-9-302. Law governing perfection and priority of agricultural liens. While farm
+## § 4-9-302. Law governing perfection and priority of agricultural liens. While farm
+
 products are located in a jurisdiction, the local law of that jurisdiction governs perfection, the
 effect of perfection or nonperfection, and the priority of an agricultural lien on the farm products.
 
        Source: L. 2001: Entire article R&RE, p. 1342, § 1, effective July 1.
 
-         4-9-303. Law governing perfection and priority of security interests in goods
+## § 4-9-303. Law governing perfection and priority of security interests in goods
+
 covered by a certificate of title. (a) This section applies to goods covered by a certificate of
 title, even if there is no other relationship between the jurisdiction under whose certificate of title
 the goods are covered and the goods or the debtor.
@@ -1242,7 +1266,8 @@ certificate of title until the goods cease to be covered by the certificate of t
 
        Editor's note: This section is similar to former § 4-9-103 as it existed prior to 2001.
 
-         4-9-304. Law governing perfection and priority of security interests in deposit
+## § 4-9-304. Law governing perfection and priority of security interests in deposit
+
 accounts. (a) The local law of a bank's jurisdiction governs perfection, the effect of perfection
 or nonperfection, and the priority of a security interest in a deposit account maintained with that
 bank even if the transaction does not bear any relation to the bank's jurisdiction.
@@ -1267,7 +1292,8 @@ jurisdiction is the jurisdiction in which the chief executive office of the bank
 amended, p. 938, § 3, effective August 7. L. 2023: (a) amended, (SB 23-090), ch. 136, p. 550, §
 53, effective August 7.
 
-        4-9-305. Law governing perfection and priority of security interests in investment
+## § 4-9-305. Law governing perfection and priority of security interests in investment
+
 property. (a) Except as otherwise provided in subsection (c) of this section, the following rules
 apply:
         (1) While a security certificate is located in a jurisdiction, the local law of that
@@ -1318,7 +1344,8 @@ added, (SB 23-090), ch. 136, p. 550, § 54, effective August 7.
 
        Editor's note: This section is similar to former § 4-9-103 (6) as it existed prior to 2001.
 
-        4-9-306. Law governing perfection and priority of security interests in letter-of-
+## § 4-9-306. Law governing perfection and priority of security interests in letter-of-
+
 credit rights. (a) Subject to subsection (c) of this section, the local law of the issuer's
 jurisdiction or a nominated person's jurisdiction governs perfection, the effect of perfection or
 nonperfection, and the priority of a security interest in a letter-of-credit right if the issuer's
@@ -1332,7 +1359,8 @@ to the letter-of-credit right as provided in section 4-5-116.
 
        Source: L. 2001: Entire article R&RE, p. 1344, § 1, effective July 1.
 
-         4-9-306.5. Law governing perfection and priority of security interests in chattel
+## § 4-9-306.5. Law governing perfection and priority of security interests in chattel
+
 paper. (a) Except as provided in subsection (d) of this section, if chattel paper is evidenced only
 by an authoritative electronic copy of the chattel paper or is evidenced by an authoritative
 electronic copy and an authoritative tangible copy, the local law of the chattel paper's
@@ -1373,7 +1401,8 @@ a security interest in chattel paper by filing.
       Source: L. 2023: Entire section added, (SB 23-090), ch. 136, p. 550, § 55, effective
 August 7.
 
-        4-9-306.7.     Law governing perfection and priority of security interests in
+## § 4-9-306.7. Law governing perfection and priority of security interests in
+
 controllable accounts, controllable electronic records, and controllable payment
 intangibles. (a) Except as provided in subsection (b) of this section, the local law of the
 controllable electronic record's jurisdiction specified in section 4-12-107 (c) and (d) governs
@@ -1389,7 +1418,8 @@ created by a sale of the controllable payment intangible.
       Source: L. 2023: Entire section added, (SB 23-090), ch. 136, p. 550, § 55, effective
 August 7.
 
-        4-9-307. Location of debtor. (a) In this section, "place of business" means a place
+## § 4-9-307. Location of debtor. (a) In this section, "place of business" means a place
+
 where a debtor conducts its affairs.
         (b) Except as otherwise provided in this section, the following rules determine a debtor's
 location:
@@ -1441,7 +1471,8 @@ amended, (HB 12-1262), ch. 170, p. 597, § 3, effective July 1, 2013.
         Editor's note: This section is similar to former § 4-9-103 (3)(d) as it existed prior to
 2001.
 
-         4-9-308. When security interest or agricultural lien is perfected - continuity of
+## § 4-9-308. When security interest or agricultural lien is perfected - continuity of
+
 perfection. (a) Except as otherwise provided in this section and section 4-9-309, a security
 interest is perfected if it has attached and all of the applicable requirements for perfection in
 sections 4-9-310 to 4-9-316 have been satisfied. A security interest is perfected when it attaches
@@ -1470,7 +1501,8 @@ interest in the commodity contracts carried in the commodity account.
        Editor's note: The provisions of this section are similar to former §§ 4-9-115 (2) and 4-
 9-303 as they existed prior to 2001.
 
-        4-9-309. Security interest perfected upon attachment. The following security interests
+## § 4-9-309. Security interest perfected upon attachment. The following security interests
+
 are perfected when they attach:
         (1) A purchase-money security interest in consumer goods, except as otherwise provided
 in section 4-9-311 (b) with respect to consumer goods that are subject to a statute or treaty
@@ -1508,7 +1540,8 @@ tables located in the back of the index.
         (2) Colorado legislative change: Colorado substituted the reference to § 4-5-117.5 for
 the uniform act's reference to § 4-5-118 in paragraph (8).
 
-         4-9-310. When filing required to perfect security interest or agricultural lien -
+## § 4-9-310. When filing required to perfect security interest or agricultural lien -
+
 security interests and agricultural liens to which filing provisions do not apply. (a) Except
 as otherwise provided in subsection (b) of this section and section 4-9-312 (b), a financing
 statement must be filed to perfect all security interests and agricultural liens.
@@ -1539,7 +1572,8 @@ added, (SB 23-090), ch. 136, p. 552, § 56, effective August 7.
 
         Editor's note: This section is similar to former § 4-9-302 as it existed prior to 2001.
 
-        4-9-311. Perfection of security interests in property subject to certain statutes,
+## § 4-9-311. Perfection of security interests in property subject to certain statutes,
+
 regulations, and treaties. (a) Except as otherwise provided in subsection (d) of this section, the
 filing of a financing statement is not necessary or effective to perfect a security interest in
 property subject to:
@@ -1580,7 +1614,8 @@ not apply to a security interest in that collateral created by that person.
 to a statute specified in paragraph (2) of subsection (a) of this section" and did not adopt the
 phrase "or leasing" after the word "selling" or the phrase "as debtor" at the end of the sentence.
 
-         4-9-312. Perfection of security interests in chattel paper, controllable accounts,
+## § 4-9-312. Perfection of security interests in chattel paper, controllable accounts,
+
 controllable electronic records, controllable payment intangibles, deposit accounts,
 documents, goods covered by documents, instruments, investment property, letter-of-credit
 rights, and money - perfection by permissive filing - temporary perfection without filing or
@@ -1633,7 +1668,8 @@ amended, p. 501, § 39, effective September 1. L. 2023: (a) and (e) amended, (SB
        Editor's note: The provisions of this section are similar to former §§ 4-9-115 (4) and 4-
 9-304 as they existed prior to 2001.
 
-        4-9-313. When possession by or delivery to secured party perfects security interest
+## § 4-9-313. When possession by or delivery to secured party perfects security interest
+
 without filing. (a) Except as otherwise provided in subsection (b) of this section, a secured
 party may perfect a security interest in goods, instruments, negotiable tangible documents, or
 money by taking possession of the collateral. A secured party may perfect a security interest in
@@ -1686,7 +1722,8 @@ ch. 136, p. 552, § 58, effective August 7.
 and 4-9-305 as they existed prior to 2001.
        (2) Colorado legislative change: Colorado added subsection (j).
 
-        4-9-314. Perfection by control. (a) A security interest in controllable accounts,
+## § 4-9-314. Perfection by control. (a) A security interest in controllable accounts,
+
 controllable electronic records, controllable payment intangibles, deposit accounts, electronic
 documents, investment property, or letter-of-credit rights may be perfected by control of the
 collateral under section 4-7-106, 4-9-104, 4-9-106, 4-9-107, or 4-9-107.5.
@@ -1715,7 +1752,8 @@ ch. 136, p. 553, § 59, effective August 7.
 
        Editor's note: This section is similar to former § 4-9-115 (4) as it existed prior to 2001.
 
-        4-9-314.5. Perfection by possession and control of chattel paper. (a) A secured party
+## § 4-9-314.5. Perfection by possession and control of chattel paper. (a) A secured party
+
 may perfect a security interest in chattel paper by taking possession of each authoritative
 tangible copy of the record evidencing the chattel paper and obtaining control of each
 authoritative electronic copy of the electronic record evidencing the chattel paper.
@@ -1728,7 +1766,8 @@ authoritative tangible copy of a record evidencing chattel paper.
       Source: L. 2023: Entire section added, (SB 23-090), ch. 136, p. 553, § 60, effective
 August 7.
 
-        4-9-315. Secured party's rights on disposition of collateral and in proceeds. (a)
+## § 4-9-315. Secured party's rights on disposition of collateral and in proceeds. (a)
+
 Except as otherwise provided in this article and in section 4-2-403 (2):
         (1) A security interest or agricultural lien continues in collateral notwithstanding sale,
 lease, license, exchange, or other disposition thereof unless the secured party authorized the
@@ -1764,7 +1803,8 @@ or is terminated under section 4-9-513; or
 
        Editor's note: This section is similar to former § 4-9-306 as it existed prior to 2001.
 
-         4-9-316. Continued perfection of security interest following change in governing
+## § 4-9-316. Continued perfection of security interest following change in governing
+
 law. (a) A security interest perfected pursuant to the law of the jurisdiction designated in section
 4-9-301 (1), 4-9-305 (c), 4-9-306.5 (d), or 4-9-306.7 (b) remains perfected until the earliest of:
          (1) The time perfection would have ceased under the law of that jurisdiction;
@@ -1852,7 +1892,8 @@ amended, (SB 23-090), ch. 136, p. 554, § 61, effective August 7.
 
        Editor's note: This section is similar to former § 4-9-103 as it existed prior to 2001.
 
-        4-9-317. Interests that take priority over or take free of security interest or
+## § 4-9-317. Interests that take priority over or take free of security interest or
+
 agricultural lien. (a) A security interest or agricultural lien is subordinate to the rights of:
         (1) A person entitled to priority under section 4-9-322; and
         (2) Except as otherwise provided in subsection (e) of this section, a person that becomes
@@ -1908,7 +1949,8 @@ ch. 136, p. 554, § 62, effective August 7.
 phrases "the earlier of the time" after the word "before" and "or a financing statement covering
 the collateral is filed" at the end of the sentence.
 
-        4-9-318. No interest retained in right to payment that is sold - rights and title of
+## § 4-9-318. No interest retained in right to payment that is sold - rights and title of
+
 seller of account or chattel paper with respect to creditors and purchasers. (a) A debtor that
 has sold an account, chattel paper, payment intangible, or promissory note does not retain a legal
 or equitable interest in the collateral sold.
@@ -1919,7 +1961,8 @@ account or chattel paper identical to those the debtor sold.
 
        Source: L. 2001: Entire article R&RE, p. 1356, § 1, effective July 1.
 
-       4-9-319. Rights and title of consignee with respect to creditors and purchasers. (a)
+## § 4-9-319. Rights and title of consignee with respect to creditors and purchasers. (a)
+
 Except as otherwise provided in subsection (b) of this section, for purposes of determining the
 
 rights of creditors of, and purchasers for value of goods from, a consignee, while the goods are
@@ -1932,7 +1975,8 @@ priority over the rights of the creditor.
 
        Source: L. 2001: Entire article R&RE, p. 1356, § 1, effective July 1.
 
-         4-9-320. Buyer of goods. (a) Except as otherwise provided in subsection (e) of this
+## § 4-9-320. Buyer of goods. (a) Except as otherwise provided in subsection (e) of this
+
 section, a buyer in ordinary course of business, other than a person buying farm products from a
 person engaged in farming operations, takes free of a security interest created by the buyer's
 seller, even if the security interest is perfected and the buyer knows of its existence.
@@ -1955,7 +1999,8 @@ possession of the secured party under section 4-9-313.
 
        Editor's note: This section is similar to former § 4-9-307 as it existed prior to 2001.
 
-        4-9-321. Licensee of general intangible and lessee of goods in ordinary course of
+## § 4-9-321. Licensee of general intangible and lessee of goods in ordinary course of
+
 business. (a) In this section, "licensee in ordinary course of business" means a person that
 becomes a licensee of a general intangible in good faith, without knowledge that the license
 violates the rights of another person in the general intangible, and in the ordinary course from a
@@ -1977,7 +2022,8 @@ knows of its existence.
        Editor's note: The provisions of this section are similar to former §§ 4-2.5-103 (1)(o)
 and 4-2.5-307 (3) as they existed prior to 2001.
 
-         4-9-322. Priorities among conflicting security interests in and agricultural liens on
+## § 4-9-322. Priorities among conflicting security interests in and agricultural liens on
+
 same collateral. (a) Except as otherwise provided in this section, priority among conflicting
 security interests and agricultural liens in the same collateral is determined according to the
 following rules:
@@ -2028,7 +2074,8 @@ provides.
 
          Editor's note: This section is similar to former § 4-9-312 as it existed prior to 2001.
 
-        4-9-323. Future advances. (a) Except as otherwise provided in subsection (c) of this
+## § 4-9-323. Future advances. (a) Except as otherwise provided in subsection (c) of this
+
 section, for purposes of determining the priority of a perfected security interest under section 4-
 9-322 (a)(1), perfection of the security interest dates from the time an advance is made to the
 extent that the security interest secures an advance that:
@@ -2072,7 +2119,8 @@ amended, p. 938, § 5, effective August 7. L. 2023: IP(d) and IP(f) amended, (SB
 sections as they existed prior to 2001. For a detailed comparison, see the comparative tables
 located in the back of the index.
 
-         4-9-324. Priority of purchase-money security interests. (a) Except as otherwise
+## § 4-9-324. Priority of purchase-money security interests. (a) Except as otherwise
+
 provided in subsection (g) of this section, a perfected purchase-money security interest in goods
 other than inventory or livestock has priority over a conflicting security interest in the same
 goods, and, except as otherwise provided in section 4-9-327, a perfected security interest in its
@@ -2141,7 +2189,8 @@ amended, (SB 23-090), ch. 136, p. 555, § 64, effective August 7.
 
        Editor's note: This section is similar to former § 4-9-312 as it existed prior to 2001.
 
-        4-9-325. Priority of security interests in transferred collateral. (a) Except as
+## § 4-9-325. Priority of security interests in transferred collateral. (a) Except as
+
 otherwise provided in subsection (b) of this section, a security interest created by a debtor is
 subordinate to a security interest in the same collateral created by another person if:
         (1) The debtor acquired the collateral subject to the security interest created by the other
@@ -2157,7 +2206,8 @@ interest:
 
        Source: L. 2001: Entire article R&RE, p. 1362, § 1, effective July 1.
 
-        4-9-326. Priority of security interests created by new debtor. (a) Subject to
+## § 4-9-326. Priority of security interests created by new debtor. (a) Subject to
+
 subsection (b) of this section, a security interest that is created by a new debtor in collateral in
 which the new debtor has or acquires rights and is perfected solely by a filed financing statement
 that would be ineffective to perfect the security interest but for the application of section 4-9-316
@@ -2172,7 +2222,8 @@ according to priority in time of the new debtor's having become bound.
         Source: L. 2001: Entire article R&RE, p. 1362, § 1, effective July 1. L. 2012: Entire
 section amended, (HB 12-1262), ch. 170, p. 599, § 7, effective July 1, 2013.
 
-        4-9-326.5. Priority of security interest in controllable account, controllable
+## § 4-9-326.5. Priority of security interest in controllable account, controllable
+
 electronic record, and controllable payment intangible. A security interest in a controllable
 account, controllable electronic record, or controllable payment intangible held by a secured
 party having control of the account, electronic record, or payment intangible has priority over a
@@ -2181,7 +2232,8 @@ conflicting security interest held by a secured party that does not have control
       Source: L. 2023: Entire section added, (SB 23-090), ch. 136, p. 556, § 65, effective
 August 7.
 
-        4-9-327. Priority of security interests in deposit account. The following rules govern
+## § 4-9-327. Priority of security interests in deposit account. The following rules govern
+
 priority among conflicting security interests in the same deposit account:
         (1) A security interest held by a secured party having control of the deposit account
 under section 4-9-104 has priority over a conflicting security interest held by a secured party that
@@ -2197,8 +2249,8 @@ a security interest held by the bank with which the deposit account is maintaine
 
        Source: L. 2001: Entire article R&RE, p. 1363, § 1, effective July 1.
 
+## § 4-9-328. Priority of security interests in investment property. The following rules
 
-        4-9-328. Priority of security interests in investment property. The following rules
 govern priority among conflicting security interests in the same investment property:
         (1) A security interest held by a secured party having control of investment property
 under section 4-9-106 has priority over a security interest held by a secured party that does not
@@ -2238,7 +2290,8 @@ is governed by sections 4-9-322 and 4-9-323.
 
        Editor's note: This section is similar to former § 4-9-115 (5) as it existed prior to 2001.
 
-       4-9-329. Priority of security interests in letter-of-credit right. The following rules
+## § 4-9-329. Priority of security interests in letter-of-credit right. The following rules
+
 govern priority among conflicting security interests in the same letter-of-credit right:
        (1) A security interest held by a secured party having control of the letter-of-credit right
 under section 4-9-107 has priority to the extent of its control over a conflicting security interest
@@ -2249,7 +2302,8 @@ priority in time of obtaining control.
 
        Source: L. 2001: Entire article R&RE, p. 1364, § 1, effective July 1.
 
-        4-9-330. Priority of purchaser of chattel paper or instrument. (a) A purchaser of
+## § 4-9-330. Priority of purchaser of chattel paper or instrument. (a) A purchaser of
+
 chattel paper has priority over a security interest in the chattel paper which is claimed merely as
 proceeds of inventory subject to a security interest if:
         (1) In good faith and in the ordinary course of the purchaser's business, the purchaser
@@ -2290,7 +2344,8 @@ and (f) amended, (SB 23-090), ch. 136, p. 556, § 66, effective August 7.
 
        Editor's note: This section is similar to former § 4-9-308 as it existed prior to 2001.
 
-        4-9-331. Priority of rights of purchasers of controllable accounts, controllable
+## § 4-9-331. Priority of rights of purchasers of controllable accounts, controllable
+
 electronic records, controllable payment intangibles, documents, instruments, and
 securities under other articles - priority of interests in financial assets and security
 entitlements and protection against assertion of claim under articles 8 and 12. (a) This
@@ -2310,7 +2365,8 @@ amended, p. 938, § 6, effective August 7. L. 2023: (a) and (b) amended, (SB 23-
 
         Editor's note: This section is similar to former § 4-9-309 as it existed prior to 2001.
 
-        4-9-332. Transfer of money - transfer of funds from deposit account. (a) A
+## § 4-9-332. Transfer of money - transfer of funds from deposit account. (a) A
+
 transferee of money takes the money free of a security interest if the transferee receives
 possession of the money without acting in collusion with the debtor in violating the rights of the
 secured party.
@@ -2321,7 +2377,8 @@ the debtor in violating the rights of the secured party.
         Source: L. 2001: Entire article R&RE, p. 1366, § 1, effective July 1. L. 2023: Entire
 section amended, (SB 23-090), ch. 136, p. 557, § 68, effective August 7.
 
-         4-9-333. Priority of certain liens arising by operation of law. (a) In this section,
+## § 4-9-333. Priority of certain liens arising by operation of law. (a) In this section,
+
 "possessory lien" means an interest, other than a security interest or an agricultural lien:
          (1) Which secures payment or performance of an obligation for services or materials
 furnished with respect to goods by a person in the ordinary course of the person's business;
@@ -2336,7 +2393,8 @@ lien is created by a statute that expressly so provides.
         (2) Colorado legislative change: Colorado substituted the word "if" for "unless" and
 substituted the phrase "so provides" for "provides otherwise" in subsection (b).
 
-        4-9-334. Priority of security interests in fixtures and crops. (a) A security interest
+## § 4-9-334. Priority of security interests in fixtures and crops. (a) A security interest
+
 under this article may be created in goods that are fixtures or may continue in goods that become
 fixtures. A security interest does not exist under this article in ordinary building materials
 incorporated into an improvement on land.
@@ -2399,7 +2457,8 @@ amended, (SB 23-090), ch. 136, p. 557, § 69, effective August 7.
 
        Editor's note: This section is similar to former § 4-9-313 as it existed prior to 2001.
 
-        4-9-335. Accessions. (a) A security interest may be created in an accession and
+## § 4-9-335. Accessions. (a) A security interest may be created in an accession and
+
 continues in collateral that becomes an accession.
         (b) If a security interest is perfected when the collateral becomes an accession, the
 security interest remains perfected in the collateral.
@@ -2422,7 +2481,8 @@ performance of the obligation to reimburse.
 
        Source: L. 2001: Entire article R&RE, p. 1368, § 1, effective July 1.
 
-        4-9-336. Commingled goods. (a) In this section, "commingled goods" means goods
+## § 4-9-336. Commingled goods. (a) In this section, "commingled goods" means goods
+
 that are physically united with other goods in such a manner that their identity is lost in a product
 or mass.
         (b) A security interest does not exist in commingled goods as such. However, a security
@@ -2446,7 +2506,8 @@ commingled goods.
 
         Source: L. 2001: Entire article R&RE, p. 1368, § 1, effective July 1.
 
-         4-9-337. Priority of security interests in goods covered by certificate of title. If,
+## § 4-9-337. Priority of security interests in goods covered by certificate of title. If,
+
 while a security interest in goods is perfected by any method under the law of another
 jurisdiction, this state issues a certificate of title that does not show that the goods are subject to
 the security interest or contain a statement that they may be subject to security interests not
@@ -2460,7 +2521,8 @@ the conflicting secured party's knowledge of the security interest.
 
         Source: L. 2001: Entire article R&RE, p. 1369, § 1, effective July 1.
 
-        4-9-338. Priority of security interest or agricultural lien perfected by filed financing
+## § 4-9-338. Priority of security interest or agricultural lien perfected by filed financing
+
 statement providing certain incorrect information. If a security interest or agricultural lien is
 perfected by a filed financing statement providing information described in section 4-9-516
 (b)(5) which is incorrect at the time the financing statement is filed:
@@ -2476,14 +2538,16 @@ documents, goods, instruments, or a security certificate, receives delivery of t
       Source: L. 2001: Entire article R&RE, p. 1369, § 1, effective July 1. L. 2006: (2)
 amended, p. 502, § 43, effective September 1.
 
-       4-9-339.    Priority subject to subordination. This article does not preclude
+## § 4-9-339. Priority subject to subordination. This article does not preclude
+
 subordination by agreement by a person entitled to priority.
 
        Source: L. 2001: Entire article R&RE, p. 1370, § 1, effective July 1.
 
        Editor's note: This section is similar to former § 4-9-316 as it existed prior to 2001.
 
-         4-9-340. Effectiveness of right of recoupment or set-off against deposit account. (a)
+## § 4-9-340. Effectiveness of right of recoupment or set-off against deposit account. (a)
+
 Except as otherwise provided in subsection (c) of this section, a bank with which a deposit
 account is maintained may exercise any right of recoupment or set-off against a secured party
 that holds a security interest in the deposit account.
@@ -2496,7 +2560,8 @@ under section 4-9-104 (a)(3), if the set-off is based on a claim against the deb
 
        Source: L. 2001: Entire article R&RE, p. 1370, § 1, effective July 1.
 
-        4-9-341. Bank's rights and duties with respect to deposit account. Except as
+## § 4-9-341. Bank's rights and duties with respect to deposit account. Except as
+
 otherwise provided in section 4-9-340 (c), and unless the bank otherwise agrees in a signed
 record, a bank's rights and duties with respect to a deposit account maintained with the bank are
 not terminated, suspended, or modified by:
@@ -2507,7 +2572,8 @@ not terminated, suspended, or modified by:
       Source: L. 2001: Entire article R&RE, p. 1370, § 1, effective July 1. L. 2023: IP
 amended, (SB 23-090), ch. 136, p. 557, § 70, effective August 7.
 
-        4-9-342. Bank's right to refuse to enter into or disclose existence of control
+## § 4-9-342. Bank's right to refuse to enter into or disclose existence of control
+
 agreement. This article does not require a bank to enter into an agreement of the kind described
 in section 4-9-104 (a)(2), even if its customer so requests or directs. A bank that has entered into
 such an agreement is not required to confirm the existence of the agreement to another person
@@ -2519,7 +2585,8 @@ unless requested to do so by its customer.
 
                                  RIGHTS OF THIRD PARTIES
 
-         4-9-401. Alienability of debtor's rights. (a) Except as otherwise provided in subsection
+## § 4-9-401. Alienability of debtor's rights. (a) Except as otherwise provided in subsection
+
 (b) of this section and sections 4-9-406, 4-9-407, 4-9-408, and 4-9-409, whether a debtor's rights
 in collateral may be voluntarily or involuntarily transferred is governed by law other than this
 article.
@@ -2535,7 +2602,8 @@ otherwise be a violation of law.
        Editor's note: (1) This section is similar to former § 4-9-311 as it existed prior to 2001.
        (2) Colorado legislative change: Colorado added subsection (c).
 
-        4-9-402. Secured party not obligated on contract of debtor or in tort. The existence
+## § 4-9-402. Secured party not obligated on contract of debtor or in tort. The existence
+
 of a security interest, agricultural lien, or authority given to a debtor to dispose of or use
 collateral, without more, does not subject a secured party to liability in contract or tort for the
 debtor's acts or omissions.
@@ -2544,7 +2612,8 @@ debtor's acts or omissions.
 
        Editor's note: This section is similar to former § 4-9-317 as it existed prior to 2001.
 
-        4-9-403. Agreement not to assert defenses against assignee. (a) In this section,
+## § 4-9-403. Agreement not to assert defenses against assignee. (a) In this section,
+
 "value" has the meaning provided in section 4-3-303 (a).
         (b) Except as otherwise provided in this section, an agreement between an account
 debtor and an assignor not to assert against an assignee any claim or defense that the account
@@ -2576,7 +2645,8 @@ to assert a claim or defense against an assignee.
 
        Editor's note: This section is similar to former § 4-9-206 as it existed prior to 2001.
 
-        4-9-404. Rights acquired by assignee; claims and defenses against assignee. (a)
+## § 4-9-404. Rights acquired by assignee; claims and defenses against assignee. (a)
+
 Unless an account debtor has made an enforceable agreement not to assert defenses or claims,
 and subject to subsections (b) to (e) of this section, the rights of an assignee are subject to:
         (1) All terms of the agreement between the account debtor and assignor and any defense
@@ -2604,7 +2674,8 @@ amended, (SB 23-090), ch. 136, p. 558, § 71, effective August 7.
 
        Editor's note: This section is similar to former § 4-9-318 (1) as it existed prior to 2001.
 
-        4-9-405. Modification of assigned contract. (a) A modification of or substitution for
+## § 4-9-405. Modification of assigned contract. (a) A modification of or substitution for
+
 an assigned contract is effective against an assignee if made in good faith. The assignee acquires
 corresponding rights under the modified or substituted contract. The assignment may provide
 that the modification or substitution is a breach of contract by the assignor. This subsection (a) is
@@ -2624,7 +2695,8 @@ personal, family, or household purposes.
 
        Editor's note: This section is similar to former § 4-9-318 (2) as it existed prior to 2001.
 
-        4-9-406. Discharge of account debtor - notification of assignment - identification
+## § 4-9-406. Discharge of account debtor - notification of assignment - identification
+
 and proof of assignment - restrictions on assignment of accounts, chattel paper, payment
 intangibles, and promissory notes ineffective. (a) Subject to subsections (b) to (i) and (m) of
 this section, an account debtor on an account, chattel paper, or a payment intangible may
@@ -2711,7 +2783,8 @@ August 7.
 "general" in subsection (b)(3)(A), added the phrase "assignment or transfer or the" in subsection
 (d)(2), and added subsections (k) and (l).
 
-        4-9-407. Restrictions on creation or enforcement of security interest in leasehold
+## § 4-9-407. Restrictions on creation or enforcement of security interest in leasehold
+
 interest or in lessor's residual interest. (a) Except as otherwise provided in subsection (b) of
 this section, a term in a lease agreement is ineffective to the extent that it:
         (1) Prohibits, restricts, or requires the consent of a party to the lease to the assignment or
@@ -2737,7 +2810,8 @@ actually results in a delegation of material performance of the lessor.
 
        Editor's note: This section is similar to former § 4-2.5-303 as it existed prior to 2001.
 
-        4-9-408. Restrictions on assignment of promissory notes, health-care-insurance
+## § 4-9-408. Restrictions on assignment of promissory notes, health-care-insurance
+
 receivables, and certain general intangibles ineffective. (a) Except as otherwise provided in
 subsection (b) of this section, a term in a promissory note or in an agreement between an account
 debtor and a debtor which relates to a health-care-insurance receivable or a general intangible,
@@ -2814,7 +2888,8 @@ amended, (HB 12-1262), ch. 170, p. 599, § 9, effective July 1, 2013. L. 2016: I
 provided in sections 8-80-103 and 8-42-124, C.R.S.," to subsection (c) and added subsections (f)
 and (g).
 
-         4-9-409. Restrictions on assignment of letter-of-credit rights ineffective. (a) A term
+## § 4-9-409. Restrictions on assignment of letter-of-credit rights ineffective. (a) A term
+
 in a letter of credit or a rule of law, statute, regulation, custom, or practice applicable to the letter
 of credit which prohibits, restricts, or requires the consent of an applicant, issuer, or nominated
 person to a beneficiary's assignment of or creation of a security interest in a letter-of-credit right
@@ -2843,7 +2918,8 @@ payment or other performance from the secured party.
 
                                                FILING
 
-         4-9-501. Filing office. (a) Except as otherwise provided in subsection (b) of this
+## § 4-9-501. Filing office. (a) Except as otherwise provided in subsection (b) of this
+
 section, if the local law of this state governs perfection of a security interest or agricultural lien,
 the office in which to file a financing statement to perfect the security interest or agricultural lien
 is:
@@ -2866,7 +2942,8 @@ this title is the office of the secretary of state.
 
        Editor's note - Colorado legislative change: Colorado added subsection (c).
 
-        4-9-502. Contents of financing statement - record of mortgage as financing
+## § 4-9-502. Contents of financing statement - record of mortgage as financing
+
 statement - time of filing financing statement. (a) Subject to subsection (b) of this section, a
 financing statement is sufficient only if it:
         (1) Provides the name of the debtor;
@@ -2901,7 +2978,8 @@ interest otherwise attaches.
 
        Editor's note: This section is similar to former § 4-9-402 as it existed prior to 2001.
 
-         4-9-503. Name of debtor and secured party. (a) A financing statement sufficiently
+## § 4-9-503. Name of debtor and secured party. (a) A financing statement sufficiently
+
 provides the name of the debtor:
          (1) Except as otherwise provided in paragraph (3) of this subsection (a), if the debtor is a
 registered organization or the collateral is held in a trust that is a registered organization, only if
@@ -2970,7 +3048,8 @@ record.
 amended and (f), (g), and (h) added, (HB 12-1262), ch. 170, p. 600, § 10, effective July 1, 2013.
 L. 2013: (a)(4)(C) amended, (HB 13-1284), ch. 379, p. 2222, § 1, effective July 1.
 
-        4-9-504. Indication of collateral. A financing statement sufficiently indicates the
+## § 4-9-504. Indication of collateral. A financing statement sufficiently indicates the
+
 collateral that it covers if the financing statement provides:
         (1) A description of the collateral pursuant to section 4-9-108; or
         (2) An indication that the financing statement covers all assets or all personal property.
@@ -2979,7 +3058,8 @@ collateral that it covers if the financing statement provides:
 
        Editor's note: This section is similar to former § 4-9-402 (1) as it existed prior to 2001.
 
-        4-9-505. Filing and compliance with other statutes and treaties for consignments,
+## § 4-9-505. Filing and compliance with other statutes and treaties for consignments,
+
 leases, other bailments, and other transactions. (a) A consignor, lessor, or other bailor of
 goods, a licensor, or a buyer of a payment intangible or promissory note may file a financing
 statement, or may comply with a statute or treaty described in section 4-9-311 (a), using the
@@ -2997,7 +3077,8 @@ buyer which attaches to the collateral is perfected by the filing or compliance.
 
        Editor's note: This section is similar to former § 4-9-408 as it existed prior to 2001.
 
-         4-9-506. Effect of errors or omissions. (a) A financing statement substantially
+## § 4-9-506. Effect of errors or omissions. (a) A financing statement substantially
+
 satisfying the requirements of this part 5 is effective, even if it has minor errors or omissions,
 unless the errors or omissions make the financing statement seriously misleading.
          (b) Except as otherwise provided in subsection (c) of this section, a financing statement
@@ -3014,7 +3095,8 @@ this section means the correct name of the new debtor.
 
        Editor's note: This section is similar to former § 4-9-402 (8) as it existed prior to 2001.
 
-        4-9-507. Effect of certain events on effectiveness of financing statement. (a) A filed
+## § 4-9-507. Effect of certain events on effectiveness of financing statement. (a) A filed
+
 financing statement remains effective with respect to collateral that is sold, exchanged, leased,
 licensed, or otherwise disposed of and in which a security interest or agricultural lien continues,
 even if the secured party knows of or consents to the disposition.
@@ -3041,7 +3123,8 @@ amended, (HB 12-1262), ch. 170, p. 602, § 11, effective July 1, 2013.
 
        Editor's note: This section is similar to former § 4-9-402 (7) as it existed prior to 2001.
 
-        4-9-508. Effectiveness of financing statement if new debtor becomes bound by
+## § 4-9-508. Effectiveness of financing statement if new debtor becomes bound by
+
 security agreement. (a) Except as otherwise provided in this section, a filed financing
 statement naming an original debtor is effective to perfect a security interest in collateral in
 which a new debtor has or acquires rights to the extent that the financing statement would have
@@ -3061,7 +3144,8 @@ remains effective against the new debtor under section 4-9-507 (a).
 
        Source: L. 2001: Entire article R&RE, p. 1382, § 1, effective July 1.
 
-         4-9-509. Persons entitled to file a record. (a) A person may file an initial financing
+## § 4-9-509. Persons entitled to file a record. (a) A person may file an initial financing
+
 statement, amendment that adds collateral covered by a financing statement, or amendment that
 adds a debtor to a financing statement only if:
          (1) The debtor authorizes the filing in a signed record or pursuant to subsection (b) or (c)
@@ -3097,7 +3181,8 @@ IP(b) amended, (SB 23-090), ch. 136, p. 559, § 74, effective August 7.
        Editor's note - Colorado legislative change: Colorado added the phrase "or pursuant to
 subsection (b) or (c) of this section" to subsection (a)(1).
 
-         4-9-510. Effectiveness of filed record. (a) A filed record is effective only to the extent
+## § 4-9-510. Effectiveness of filed record. (a) A filed record is effective only to the extent
+
 that it was filed by a person that may file it under section 4-9-509.
          (b) A record authorized by one secured party of record does not affect the financing
 statement with respect to another secured party of record.
@@ -3119,7 +3204,8 @@ because it failed to include a statement that the original financing statement i
 section 4-9-528 and subsection (d) of this section," to subsection (c) and added subsections (d)
 and (e).
 
-         4-9-511. Secured party of record. (a) A secured party of record with respect to a
+## § 4-9-511. Secured party of record. (a) A secured party of record with respect to a
+
 financing statement is a person whose name is provided as the name of the secured party or a
 representative of the secured party in an initial financing statement that has been filed. If an
 initial financing statement is filed under section 4-9-514 (a), the assignee named in the initial
@@ -3133,7 +3219,8 @@ financing statement which deletes the person.
 
         Source: L. 2001: Entire article R&RE, p. 1384, § 1, effective July 1.
 
-        4-9-512. Amendment of financing statement. (a) Subject to section 4-9-509, a person
+## § 4-9-512. Amendment of financing statement. (a) Subject to section 4-9-509, a person
+
 may add or delete collateral covered by, continue or terminate the effectiveness of, or, subject to
 subsection (e) of this section, otherwise amend the information provided in, a financing
 statement by filing an amendment that:
@@ -3161,7 +3248,8 @@ amendment relates to an initial financing statement filed [or recorded] in a fil
 in Section 9-501(a)(1), provides the date and time that the initial financing statement was filed or
 recorded and the information specified in Section 9-502 (b)."
 
-        4-9-513. Termination statement. (a) A secured party shall cause the secured party of
+## § 4-9-513. Termination statement. (a) A secured party shall cause the secured party of
+
 record for a financing statement to file a termination statement for the financing statement if the
 financing statement covers consumer goods and:
         (1) There is no obligation secured by the collateral covered by the financing statement
@@ -3200,7 +3288,8 @@ IP(c) amended, (SB 23-090), ch. 136, p. 559, § 75, effective August 7.
        Editor's note: (1) This section is similar to former § 4-9-404 as it existed prior to 2001.
        (2) Colorado legislative change: Colorado added the last sentence of subsection (d).
 
-        4-9-514. Assignment of powers of secured party of record. (a) Except as otherwise
+## § 4-9-514. Assignment of powers of secured party of record. (a) Except as otherwise
+
 provided in subsection (c) of this section, an initial financing statement may reflect an
 assignment of all of the secured party's power to authorize an amendment to the financing
 statement by providing the name and mailing address of the assignee as the name and address of
@@ -3232,7 +3321,8 @@ August 5.
        (2) Colorado legislative change: Colorado added the phrase "and the name of one of
 the debtors" to subsection (b)(2).
 
-        4-9-515. Duration and effectiveness of financing statement - effect of lapsed
+## § 4-9-515. Duration and effectiveness of financing statement - effect of lapsed
+
 financing statement. (a) Except as otherwise provided in subsections (b), (e), (f), and (g) of this
 section and section 4-9-528, a filed financing statement is effective for a period of five years
 after the date of filing.
@@ -3276,7 +3366,8 @@ amended, (HB 12-1262), ch. 170, p. 602, § 12, effective July 1, 2013.
 subsection (a) and the phrase "or the five-year period specified in section 4-9-528 (a)(1)" in
 subsection (d).
 
-         4-9-516. What constitutes filing - effectiveness of filing. (a) Except as otherwise
+## § 4-9-516. What constitutes filing - effectiveness of filing. (a) Except as otherwise
+
 provided in subsection (b) of this section, communication of a record to a filing office and tender
 of the filing fee or acceptance of the record by the filing office constitutes filing.
          (b) Filing does not occur with respect to a record that a filing office refuses to accept
@@ -3330,12 +3421,14 @@ gives value in reasonable reliance upon the absence of the record from the files
 IP(b)(3)(B), (b)(3)(C), IP(b)(5), (b)(5)(A), and (b)(5)(B) amended and (b)(5)(C) repealed, (HB
 12-1262), ch. 170, p. 602, § 13, effective July 1, 2013.
 
-        4-9-517. Effect of indexing errors. The failure of the filing office to index a record
+## § 4-9-517. Effect of indexing errors. The failure of the filing office to index a record
+
 correctly does not affect the effectiveness of the filed record.
 
        Source: L. 2001: Entire article R&RE, p. 1389, § 1, effective July 1.
 
-       4-9-518. Claim concerning inaccurate or wrongfully filed record. (a) (1) Any person
+## § 4-9-518. Claim concerning inaccurate or wrongfully filed record. (a) (1) Any person
+
 named as a debtor may file in the filing office an information statement with respect to a record
 indexed there under the debtor's name if the person believes that the record is inaccurate or was
 wrongfully filed.
@@ -3377,7 +3470,8 @@ ch. 419, p. 2063, § 6, effective August 11. L. 2012: Entire section amended, (H
 170, p. 603, § 14, effective July 1, 2013. L. 2013: (a)(2), (a)(3), and (f) repealed, (HB 13-1284),
 ch. 379, p. 2222, § 2, effective July 1.
 
-        4-9-519.    Numbering, maintaining, and indexing records - communicating
+## § 4-9-519. Numbering, maintaining, and indexing records - communicating
+
 information provided in records. (a) For each record filed in a filing office, the filing office
 shall:
         (1) Assign a unique number to the filed record;
@@ -3433,8 +3527,8 @@ repealed, (SB 09-084), ch. 141, p. 603, § 3, effective August 5.
        Editor's note: (1) This section is similar to former § 4-9-403 as it existed prior to 2001.
        (2) Colorado legislative change: Colorado did not adopt subsection (i).
 
+## § 4-9-520. Acceptance and refusal to accept record. (a) A filing office shall refuse to
 
-         4-9-520. Acceptance and refusal to accept record. (a) A filing office shall refuse to
 accept a record for filing for a reason set forth in section 4-9-516 (b) and may refuse to accept a
 record for filing only for a reason set forth in section 4-9-516 (b).
          (b) If a filing office refuses to accept a record for filing, it shall communicate to the
@@ -3455,7 +3549,8 @@ than one debtor, this part 5 applies as to each debtor separately.
 the phrase "in the case of a filing office described in section 4-9-501(a)(2)," after the word "but"
 and changed "two" to "five".
 
-        4-9-521. Uniform form of written financing statement and amendment. (a) A filing
+## § 4-9-521. Uniform form of written financing statement and amendment. (a) A filing
+
 office that accepts written records may not refuse to accept a written initial financing statement
 in the form and format adopted from time to time by the secretary of state, except for a reason
 set forth in section 4-9-516 (b).
@@ -3469,7 +3564,8 @@ set forth in section 4-9-516 (b).
 format adopted from time to time by the secretary of state," for the phrase "following form and
 format" in subsections (a) and (b).
 
-        4-9-522. Maintenance and destruction of records. (a) The filing office shall maintain
+## § 4-9-522. Maintenance and destruction of records. (a) The filing office shall maintain
+
 a record of the information provided in a filed financing statement for at least one year after the
 effectiveness of the financing statement has lapsed under section 4-9-515 with respect to all
 secured parties of record. The record must be retrievable by using the name of the debtor and the
@@ -3488,7 +3584,8 @@ of the financing statement which complies with subsection (a) of this section.
 phrase "debtor and" and added the phrase "and the date that the record was filed or recorded" in
 subsection (a).
 
-         4-9-523. Information from filing office - sale or license of records. (a) If a person
+## § 4-9-523. Information from filing office - sale or license of records. (a) If a person
+
 that files a written record requests an acknowledgment of the filing, the filing office shall send to
 the person an image of the record showing the number assigned to the record pursuant to section
 4-9-519 (a)(1), the name of the debtor and the date and time of the filing of the record. However,
@@ -3535,7 +3632,8 @@ and" in subsection (a), added a reference to "federal tax lien notice" in subsec
 and (c)(3), changed "two" to "five" in subsection (e), and substituted the phrase "such digital or
 electronic medium as is" for the phrase "every medium" in subsection (f).
 
-        4-9-524. Delay by filing office. Delay by the filing office beyond a time limit prescribed
+## § 4-9-524. Delay by filing office. Delay by the filing office beyond a time limit prescribed
+
 by this part 5 is excused if:
         (1) The delay is caused by interruption of communication or computer facilities, war,
 emergency conditions, failure of equipment, or other circumstances beyond control of the filing
@@ -3544,7 +3642,8 @@ office; and
 
        Source: L. 2001: Entire article R&RE, p. 1393, § 1, effective July 1.
 
-        4-9-525. Fees. (a) Except as otherwise provided in subsection (f) of this section and
+## § 4-9-525. Fees. (a) Except as otherwise provided in subsection (f) of this section and
+
 subject to section 24-75-402, C.R.S., fees for services rendered by the secretary of state under
 this part 5 shall be determined and collected pursuant to section 24-21-104, C.R.S.
         (b) Except as otherwise provided in subsection (f) of this section, the fee for filing and
@@ -3580,7 +3679,8 @@ amended, p. 267, § 3, effective August 5.
        Editor's note - Colorado legislative change: This section contains numerous alterations
 from the uniform act.
 
-         4-9-526. Filing-office rules. (a) The secretary of state shall adopt and publish rules to
+## § 4-9-526. Filing-office rules. (a) The secretary of state shall adopt and publish rules to
+
 implement this article. The filing-office rules must be:
          (1) Consistent with this article; and
          (2) Adopted and published in accordance with the "State Administrative Procedure Act",
@@ -3601,13 +3701,14 @@ offices in other jurisdictions that enact substantially this part 5.
       Source: L. 2001: Entire article R&RE, p. 1394, § 1, effective July 1. L. 2008: (b)(2)
 amended, p. 267, § 4, effective August 5.
 
-        4-9-527. Duty to report. (Repealed)
+## § 4-9-527. Duty to report. (Repealed)
 
         Source: L. 2001: Entire article R&RE, p. 1395, § 1, effective July 1. L. 2008: (2)
 amended, p. 267, § 5, effective August 5. L. 2017: Entire section repealed, (HB 17-1133), ch.
 75, p. 236, § 1, effective March 23.
 
-        4-9-528. Refiling required. (a) (1) The effectiveness of a financing statement that was
+## § 4-9-528. Refiling required. (a) (1) The effectiveness of a financing statement that was
+
 filed before July 1, 1996, and that has not otherwise lapsed by December 31, 1997, shall lapse in
 the manner provided in section 4-9-403 (2) of former article 9 of this title on December 31,
 1997, unless a continuation statement was filed on or after July 1, 1996, but on or before
@@ -3639,7 +3740,8 @@ as in effect immediately before July 1, 2001.
 
         Editor's note - Colorado legislative change: Colorado added this section.
 
-        4-9-529. Electronic and other filings. (a) (Deleted by amendment, L. 2008, p. 268, §
+## § 4-9-529. Electronic and other filings. (a) (Deleted by amendment, L. 2008, p. 268, §
+
 6.)
         (b) The secretary of state shall ensure that presentation for filing may be accomplished
 electronically, without the necessity for the presentation of a physical original document or the
@@ -3665,14 +3767,15 @@ and (e) amended, p. 268, § 6, effective February 29, 2012.
 
        Editor's note - Colorado legislative change: Colorado added this section.
 
-       4-9-530. Proper office to file certain amendments. (Repealed)
+## § 4-9-530. Proper office to file certain amendments. (Repealed)
 
         Source: L. 2001: Entire article R&RE, p. 1397, § 1, effective July 1. L. 2002: Entire
 section repealed, p. 938, § 7, effective August 7.
 
        Editor's note - Colorado legislative change: Colorado added this section.
 
-         4-9-531. Removal of social security numbers from financing statements in the
+## § 4-9-531. Removal of social security numbers from financing statements in the
+
 custody of the secretary of state. (a) As soon as feasible, but no later than July 1, 2003, the
 secretary of state shall remove social security numbers from the publicly accessible electronic
 records of all financing statements in the custody of the secretary that were filed with a filing
@@ -3694,7 +3797,8 @@ secretary of state before, on, or after June 1, 2009.
 
                                            DEFAULT
 
-        4-9-601. Rights after default - judicial enforcement - consignor or buyer of
+## § 4-9-601. Rights after default - judicial enforcement - consignor or buyer of
+
 accounts, chattel paper, payment intangibles, or promissory notes. (a) After default, a
 secured party has the rights provided in this part 6 and, except as otherwise provided in section
 4-9-602, those provided by agreement of the parties. A secured party:
@@ -3739,7 +3843,8 @@ amended, p. 503, § 44, effective September 1. L. 2023: (b) amended, (SB 23-090)
        Editor's note: (1) This section is similar to former § 4-9-501 as it existed prior to 2001.
        (2) Colorado legislative change: Colorado added subsection (h).
 
-        4-9-602. Waiver and variance of rights and duties. Except as otherwise provided in
+## § 4-9-602. Waiver and variance of rights and duties. Except as otherwise provided in
+
 section 4-9-624, to the extent that they give rights to a debtor or obligor and impose duties on a
 secured party, the debtor or obligor may not waive or vary the rules stated in the following listed
 sections:
@@ -3773,7 +3878,8 @@ failure to comply with this article.
 
         Editor's note: This section is similar to former § 4-9-501 (3) as it existed prior to 2001.
 
-        4-9-603. Agreement on standards concerning rights and duties. (a) The parties may
+## § 4-9-603. Agreement on standards concerning rights and duties. (a) The parties may
+
 determine by agreement the standards measuring the fulfillment of the rights of a debtor or
 obligor and the duties of a secured party under a rule stated in section 4-9-602 if the standards
 are not unreasonable.
@@ -3788,7 +3894,8 @@ the duty under section 4-9-609 to refrain from breaching the peace.
 the word "unreasonable" in subsection (a) and substituted the phrase "empower the parties to set
 standards affecting" for the phrase "apply to" in subsection (b).
 
-        4-9-604. Procedure if security agreement covers real property or fixtures. (a) If a
+## § 4-9-604. Procedure if security agreement covers real property or fixtures. (a) If a
+
 security agreement covers both personal and real property, a secured party may proceed:
         (1) Under this part 6 as to the personal property without prejudicing any rights with
 respect to the real property; or
@@ -3818,7 +3925,8 @@ party gives adequate assurance for the performance of the obligation to reimburs
        (2) Colorado legislative change: Colorado did not adopt the phrase "other than the
 debtor" after the word "property" in the first sentence in subsection (d).
 
-        4-9-605. Unknown debtor or secondary obligor. (a) Except as provided in subsection
+## § 4-9-605. Unknown debtor or secondary obligor. (a) Except as provided in subsection
+
 (b) of this section, a secured party does not owe a duty based on its status as secured party:
         (1) To a person that is a debtor or obligor, unless the secured party knows:
         (A) That the person is a debtor or obligor;
@@ -3840,14 +3948,15 @@ to or logically associated with the collateral, or the system in which the colla
       Source: L. 2001: Entire article R&RE, p. 1400, § 1, effective July 1. L. 2023: IP
 amended and (b) added, (SB 23-090), ch. 136, p. 559, § 77, effective August 7.
 
-       4-9-606. Time of default for agricultural lien. For purposes of this part 6, a default
+## § 4-9-606. Time of default for agricultural lien. For purposes of this part 6, a default
+
 occurs in connection with an agricultural lien at the time the secured party becomes entitled to
 enforce the lien in accordance with the statute under which it was created.
 
        Source: L. 2001: Entire article R&RE, p. 1401, § 1, effective July 1.
 
+## § 4-9-607. Collection and enforcement by secured party. (a) If so agreed, and in any
 
-        4-9-607. Collection and enforcement by secured party. (a) If so agreed, and in any
 event after default, a secured party:
         (1) May notify an account debtor or other person obligated on collateral to make
 payment or otherwise render performance to or for the benefit of the secured party;
@@ -3888,7 +3997,8 @@ amended, (HB 12-1262), ch. 170, p. 604, § 15, effective July 1, 2013.
 
        Editor's note: This section is similar to former § 4-9-502 as it existed prior to 2001.
 
-       4-9-608. Application of proceeds of collection or enforcement - liability for
+## § 4-9-608. Application of proceeds of collection or enforcement - liability for
+
 deficiency and right to surplus. (a) If a security interest or agricultural lien secures payment or
 performance of an obligation, the following rules apply:
 
@@ -3925,7 +4035,8 @@ amended, (SB 23-090), ch. 136, p. 560, § 78, effective August 7.
 9-607" for the phrase "this section" in subsections (a)(1) and (a)(3) and added the word
 "reasonable" in subsection (a)(1)(A).
 
-         4-9-609. Secured party's right to take possession after default. (a) After default, a
+## § 4-9-609. Secured party's right to take possession after default. (a) After default, a
+
 secured party:
          (1) May take possession of the collateral; and
          (2) Without removal, may render equipment unusable and dispose of collateral on a
@@ -3957,7 +4068,8 @@ amended, (SB 22-212), ch. 421, p. 2965, § 11, effective August 10.
        Editor's note: (1) This section is similar to former § 4-9-503 as it existed prior to 2001.
        (2) Colorado legislative change: Colorado added subsections (d) and (e).
 
-         4-9-610. Disposition of collateral after default. (a) After default, a secured party may
+## § 4-9-610. Disposition of collateral after default. (a) After default, a secured party may
+
 sell, lease, license, or otherwise dispose of any or all of the collateral in its present condition or
 following any commercially reasonable preparation or processing.
          (b) Every aspect of a disposition of collateral, including the method, manner, time, place,
@@ -3989,7 +4101,8 @@ disposition" or uses words of similar import.
         (2) Colorado legislative change: Colorado added the phrase "prior to completion of the
 transaction," to subsection (e)(2).
 
-         4-9-611. Notification before disposition of collateral - definition. (a) In this section,
+## § 4-9-611. Notification before disposition of collateral - definition. (a) In this section,
+
 "notification date" means the earlier of the date on which:
          (1) A secured party sends to the debtor and any secondary obligor a signed notification
 of disposition; or
@@ -4043,7 +4156,8 @@ August 7.
        (2) Colorado legislative change: Colorado added the phrase "as provided in section 4-
 9-624 (a)" to subsection (a)(2) and added the references to good faith in subsection (d).
 
-        4-9-612. Timeliness of notification before disposition of collateral. (a) Except as
+## § 4-9-612. Timeliness of notification before disposition of collateral. (a) Except as
+
 otherwise provided in subsection (b) of this section, whether a notification is sent within a
 reasonable time is a question of fact.
         (b) In a transaction other than a consumer transaction, a notification of disposition sent
@@ -4052,7 +4166,8 @@ notification is sent within a reasonable time before the disposition.
 
         Source: L. 2001: Entire article R&RE, p. 1405, § 1, effective July 1.
 
-        4-9-613. Contents and form of notification before disposition of collateral: general.
+## § 4-9-613. Contents and form of notification before disposition of collateral: general.
+
 (a) Except in a consumer-goods transaction, the following rules apply:
         (1) The contents of a notification of disposition are sufficient if the notification:
         (A) Describes the debtor and the secured party;
@@ -4114,7 +4229,8 @@ damages to a person who relies on the information" for the phrase "seriously mis
 subsection (a)(3)(B). Colorado added the phrase "or writing us at [address]" at the end of the
 notification form contained in subsection (a)(5).
 
-         4-9-614. Contents and form of notification before disposition of collateral:
+## § 4-9-614. Contents and form of notification before disposition of collateral:
+
 consumer-goods transaction. (a) In a consumer-goods transaction, the following rules apply:
          (1) A notification of disposition must provide the following information:
          (A) The information specified in section 4-9-613 (a)(1);
@@ -4211,8 +4327,8 @@ exact amount the debtor must pay. The uniform act's form regarding explanations 
 will charge you $          for the explanation if we sent you another written explanation of the
 amount you owe us within the last six months."
 
+## § 4-9-615. Application of proceeds of disposition; liability for deficiency and right to
 
-         4-9-615. Application of proceeds of disposition; liability for deficiency and right to
 surplus. (a) A secured party shall apply or pay over for application the cash proceeds of
 disposition under section 4-9-610 in the following order to:
          (1) The reasonable expenses of retaking, holding, preparing for disposition, processing,
@@ -4276,7 +4392,8 @@ the introductory portion to subsection (a), added the word "reasonable" before t
 in subsection (a)(1), and substituted the phrase "section 4-9-610" for "this section" in subsection
 (c).
 
-        4-9-616. Explanation of calculation of surplus or deficiency - definitions. (a) In this
+## § 4-9-616. Explanation of calculation of surplus or deficiency - definitions. (a) In this
+
 section:
         (1) "Explanation" means a record that:
         (A) States the amount of the surplus or deficiency;
@@ -4341,7 +4458,8 @@ the phrase "do not cause damages to a person who relies on the information" for 
 not seriously misleading" in subsection (d), and substituted the phrase "three responses" for "one
 response" and reduced the charge from $25 to $15 in subsection (e).
 
-        4-9-617. Rights of transferee of collateral. (a) A secured party's disposition of
+## § 4-9-617. Rights of transferee of collateral. (a) A secured party's disposition of
+
 collateral after default:
         (1) Transfers to a transferee for value all of the debtor's rights in the collateral;
         (2) Discharges the security interest under which the disposition is made; and
@@ -4360,7 +4478,8 @@ of this section, the transferee takes the collateral subject to:
 
        Editor's note: This section is similar to former § 4-9-504 (4) as it existed prior to 2001.
 
-        4-9-618. Rights and duties of certain secondary obligors. (a) A secondary obligor
+## § 4-9-618. Rights and duties of certain secondary obligors. (a) A secondary obligor
+
 acquires the rights and becomes obligated to perform the duties of the secured party after the
 secondary obligor:
         (1) Receives an assignment of a secured obligation from the secured party;
@@ -4375,7 +4494,8 @@ rights and assume the duties of the secured party; or
 
        Editor's note: This section is similar to former § 4-9-504 (5) as it existed prior to 2001.
 
-        4-9-619. Transfer of record or legal title. (a) In this section, "transfer statement"
+## § 4-9-619. Transfer of record or legal title. (a) In this section, "transfer statement"
+
 means a record signed by a secured party stating:
         (1) That the debtor has defaulted in connection with an obligation secured by specified
 collateral;
@@ -4399,7 +4519,8 @@ does not of itself relieve the secured party of its duties under this article.
       Source: L. 2001: Entire article R&RE, p. 1413, § 1, effective July 1. L. 2023: IP(a)
 amended, (SB 23-090), ch. 136, p. 567, § 84, effective August 7.
 
-        4-9-620. Acceptance of collateral in full or partial satisfaction of obligation -
+## § 4-9-620. Acceptance of collateral in full or partial satisfaction of obligation -
+
 compulsory disposition of collateral. (a) Except as otherwise provided in subsection (g) of this
 section, a secured party may accept collateral in full or partial satisfaction of the obligation it
 secures only if:
@@ -4458,7 +4579,8 @@ August 7.
 
         Editor's note: This section is similar to former § 4-9-505 as it existed prior to 2001.
 
-        4-9-621. Notification of proposal to accept collateral. (a) A secured party that desires
+## § 4-9-621. Notification of proposal to accept collateral. (a) A secured party that desires
+
 to accept collateral in full or partial satisfaction of the obligation it secures shall send its proposal
 to:
         (1) Any person from which the secured party has received, before the debtor consented
@@ -4482,7 +4604,8 @@ amended, (SB 23-090), ch. 136, p. 568, § 86, effective August 7.
 
         Editor's note: This section is similar to former § 4-9-505 as it existed prior to 2001.
 
-        4-9-622. Effect of acceptance of collateral. (a) A secured party's acceptance of
+## § 4-9-622. Effect of acceptance of collateral. (a) A secured party's acceptance of
+
 collateral in full or partial satisfaction of the obligation it secures:
         (1) Discharges the obligation to the extent consented to by the debtor;
         (2) Transfers to the secured party all of a debtor's rights in the collateral;
@@ -4496,7 +4619,8 @@ section, even if the secured party fails to comply with this article.
 
        Source: L. 2001: Entire article R&RE, p. 1416, § 1, effective July 1.
 
-        4-9-623. Right to redeem collateral. (a) A debtor, any secondary obligor, or any other
+## § 4-9-623. Right to redeem collateral. (a) A debtor, any secondary obligor, or any other
+
 secured party or lienholder may redeem collateral.
         (b) To redeem collateral, a person shall tender:
         (1) Fulfillment of all obligations secured by the collateral; and
@@ -4515,7 +4639,8 @@ section 4-9-622.
        (2) Colorado legislative change: Colorado added the word "reasonable" before the
 word "attorney's" in subsection (b)(2).
 
-         4-9-624. Waiver. (a) A debtor or secondary obligor may waive the right to notification
+## § 4-9-624. Waiver. (a) A debtor or secondary obligor may waive the right to notification
+
 of disposition of collateral under section 4-9-611 only by an agreement to that effect entered into
 and signed after default.
          (b) A debtor may waive the right to require disposition of collateral under section 4-9-
@@ -4533,8 +4658,8 @@ tables located in the back of the index.
         (2) Colorado legislative change: Colorado added the phrase "Any such waiver must be"
 in subsection (c).
 
+## § 4-9-625. Remedies for secured party's failure to comply with article. (a) If it is
 
-        4-9-625. Remedies for secured party's failure to comply with article. (a) If it is
 established that a secured party is not proceeding in accordance with this article, a court may
 order or restrain collection, enforcement, or disposition of collateral on appropriate terms and
 conditions.
@@ -4609,7 +4734,8 @@ amended, p. 939, § 8, effective August 7.
 under section 4-9-210" after the word "comply" in the second sentence of subsection (b), added
 the phrase "list or" in subsection (g), and added subsections (h) through (j).
 
-         4-9-626. Action in which deficiency or surplus is in issue. (a) In an action arising
+## § 4-9-626. Action in which deficiency or surplus is in issue. (a) In an action arising
+
 from a transaction, other than a consumer transaction, in which the amount of a deficiency or
 surplus is in issue, the following rules apply:
          (1) A secured party need not prove compliance with the provisions of this part 6 relating
@@ -4649,7 +4775,8 @@ established approaches.
 subsections (a)(3) and (a)(4) and added the phrase "Subject to section 5-5-103, C.R.S.," to
 subsection (b).
 
-        4-9-627. Determination of whether conduct was commercially reasonable. (a) The
+## § 4-9-627. Determination of whether conduct was commercially reasonable. (a) The
+
 fact that a greater amount could have been obtained by a collection, enforcement, disposition, or
 acceptance at a different time or in a different method from that selected by the secured party is
 not of itself sufficient to preclude the secured party from establishing that the collection,
@@ -4674,7 +4801,8 @@ commercially reasonable.
 
        Editor's note: This section is similar to former § 4-9-507 (2) as it existed prior to 2001.
 
-        4-9-628. Nonliability and limitation on liability of secured party - liability of
+## § 4-9-628. Nonliability and limitation on liability of secured party - liability of
+
 secondary obligor. (a) Subject to subsection (f) of this section, unless a secured party knows
 that a person is a debtor or obligor, knows the identity of the person, and knows how to
 communicate with the person:
@@ -4726,7 +4854,8 @@ subsection (c)(2), and did not adopt subsection (d) of the uniform act. The unif
 subsection (e) states: "A secured party is not liable under section 4-9-625(c)(2) more than once
 with respect to any one secured obligation."
 
-         4-9-629. Secured party's liability when taking possession after default - legislative
+## § 4-9-629. Secured party's liability when taking possession after default - legislative
+
 declaration - fund. (a) The general assembly recognizes that, in the past, certain debtors may
 have been disadvantaged by the actions of repossessors and that such debtors were then unable
 to obtain just redress for their losses in the courts, especially in cases in which the creditor who
@@ -4788,7 +4917,8 @@ subsection (e), see section 1 of chapter 318, Session Laws of Colorado 2002.
 
                                            TRANSITION
 
-        4-9-701. Effective date. This act takes effect on July 1, 2001. References in this part 7
+## § 4-9-701. Effective date. This act takes effect on July 1, 2001. References in this part 7
+
 to "this act" refer to the repealed and reenacted article 9 of this title as contained in Senate Bill
 01-240, enacted at the first regular session of the sixty-third general assembly. References in this
 part 7 to "former article 9" are to article 9 of this title as in effect immediately before July 1,
@@ -4799,7 +4929,8 @@ part 7 to "former article 9" are to article 9 of this title as in effect immedia
         Editor's note - Colorado legislative change: The uniform act (e) states: "This act takes
 effect on July 1, 2001."
 
-        4-9-702. Saving clause. (a) Except as otherwise provided in this part 7, this act applies
+## § 4-9-702. Saving clause. (a) Except as otherwise provided in this part 7, this act applies
+
 to a transaction or lien within its scope, even if the transaction or lien was entered into or created
 before July 1, 2001.
         (b) Except as otherwise provided in subsection (c) of this section and sections 4-9-703 to
@@ -4819,7 +4950,8 @@ had not taken effect.
       Source: L. 2001: Entire article R&RE, p. 1423, § 1, effective July 1. L. 2002: IP(b)
 amended, p. 940, § 11, effective August 7.
 
-        4-9-703. Security interest perfected before effective date. (a) A security interest that
+## § 4-9-703. Security interest perfected before effective date. (a) A security interest that
+
 is enforceable immediately before July 1, 2001, and would have priority over the rights of a
 person that becomes a lien creditor at that time is a perfected security interest under this act if,
 on July 1, 2001, the applicable requirements for enforceability and perfection under this act are
@@ -4843,7 +4975,8 @@ creditor at that time, shall remain enforceable and continue to have such priori
 
        Editor's note - Colorado legislative change: Colorado added subsection (c).
 
-        4-9-704. Security interest unperfected before effective date. A security interest that is
+## § 4-9-704. Security interest unperfected before effective date. A security interest that is
+
 enforceable immediately before July 1, 2001, but that would be subordinate to the rights of a
 person that becomes a lien creditor at that time:
         (1) Remains an enforceable security interest for one year after July 1, 2001;
@@ -4858,7 +4991,8 @@ satisfied after July 1, 2001.
 
        Source: L. 2001: Entire article R&RE, p. 1424, § 1, effective July 1.
 
-        4-9-705. Effectiveness of action taken before effective date. (a) If action, other than
+## § 4-9-705. Effectiveness of action taken before effective date. (a) If action, other than
+
 the filing of a financing statement, is taken before July 1, 2001, and the action would have
 resulted in priority of a security interest over the rights of a person that becomes a lien creditor
 had the security interest become enforceable before July 1, 2001, the action is effective to perfect
@@ -4894,7 +5028,8 @@ requirements of part 5 of this article for an initial financing statement.
 
        Source: L. 2001: Entire article R&RE, p. 1424, § 1, effective July 1.
 
-        4-9-706. When initial financing statement suffices to continue effectiveness of
+## § 4-9-706. When initial financing statement suffices to continue effectiveness of
+
 financing statement. (a) The filing of an initial financing statement in the office specified in
 section 4-9-501 continues the effectiveness of a financing statement filed before July 1, 2001, if:
         (1) The filing of an initial financing statement in that office would be effective to perfect
@@ -4921,7 +5056,8 @@ financing statement; and
       Source: L. 2001: Entire article R&RE, p. 1425, § 1, effective July 1. L. 2002: (a)(2)
 amended, p. 940, § 12, effective August 7.
 
-        4-9-707. Amendment of pre-effective-date financing statement. (a) As used in this
+## § 4-9-707. Amendment of pre-effective-date financing statement. (a) As used in this
+
 part 7, "pre-effective-date financing statement" means a financing statement filed before July 1,
 2001.
         (b) After July 1, 2001, a person may add or delete collateral covered by, continue or
@@ -4956,7 +5092,8 @@ provided in part 3 of this article as the office in which to file a financing st
         Editor's note - Colorado legislative change: Colorado added this section; the uniform
 act's section 707 is codified at section 4-9-708.
 
-        4-9-708. Persons entitled to file initial financing statement or continuation
+## § 4-9-708. Persons entitled to file initial financing statement or continuation
+
 statement. A person may file an initial financing statement or a continuation statement under
 this part 7 if:
         (1) The secured party of record authorizes the filing; and
@@ -4969,7 +5106,8 @@ this part 7 if:
         Editor's note - Colorado legislative change: The uniform act codified this section as
 section 707.
 
-         4-9-709. Priority. (a) This act determines the priority of conflicting claims to collateral.
+## § 4-9-709. Priority. (a) This act determines the priority of conflicting claims to collateral.
+
 However, if the relative priorities of the claims were established before July 1, 2001, former
 article 9 determines priority.
          (b) For purposes of section 4-9-322 (a), the priority of a security interest that becomes
@@ -4984,7 +5122,8 @@ financing statement.
         Editor's note - Colorado legislative change: The uniform act codified this section as
 section 708.
 
-        4-9-710. Effectiveness of filing in clerk and recorders' offices. Except as provided in
+## § 4-9-710. Effectiveness of filing in clerk and recorders' offices. Except as provided in
+
 this section, a pre-effective-date financing statement filed with respect to a security interest in
 the office of any clerk and recorder in this state shall be treated as if it had been filed in the
 office of the secretary of state. The preceding sentence does not apply to a financing statement to
@@ -4998,13 +5137,15 @@ the extent that the financing statement:
 
                    TRANSITION PROVISIONS FOR 2010 AMENDMENTS
 
-        4-9-801. Effective date. House Bill 12-1262, enacted in 2012, takes effect on July 1,
+## § 4-9-801. Effective date. House Bill 12-1262, enacted in 2012, takes effect on July 1,
+
 2013.
 
         Source: L. 2012: Entire part added, (HB 12-1262), ch. 170, p. 604, § 16, effective July 1,
 2013.
 
-       4-9-802. Saving clause. (a) Except as otherwise provided in this part 8, House Bill 12-
+## § 4-9-802. Saving clause. (a) Except as otherwise provided in this part 8, House Bill 12-
+
 1262, enacted in 2012, applies to a transaction or lien within its scope even if the transaction or
 lien was entered into or created before July 1, 2013.
        (b) House Bill 12-1262, enacted in 2012, does not affect an action, case, or proceeding
@@ -5013,7 +5154,8 @@ commenced before July 1, 2013.
         Source: L. 2012: Entire part added, (HB 12-1262), ch. 170, p. 605, § 16, effective July 1,
 2013.
 
-         4-9-803. Security interest perfected before effective date. (a) A security interest that
+## § 4-9-803. Security interest perfected before effective date. (a) A security interest that
+
 is a perfected security interest immediately before July 1, 2013, is a perfected security interest
 under this article, as amended, if, when House Bill 12-1262, enacted in 2012, takes effect, the
 applicable requirements for attachment and perfection under this article, as amended by House
@@ -5030,7 +5172,8 @@ July 1, 2013.
         Source: L. 2012: Entire part added, (HB 12-1262), ch. 170, p. 605, § 16, effective July 1,
 2013.
 
-        4-9-804. Security interest unperfected before effective date. (a) A security interest
+## § 4-9-804. Security interest unperfected before effective date. (a) A security interest
+
 that is an unperfected security interest immediately before July 1, 2013, becomes a perfected
 security interest:
         (1) Without further action, on July 1, 2013, if the applicable requirements for perfection
@@ -5043,7 +5186,8 @@ satisfied after July 1, 2013.
         Source: L. 2012: Entire part added, (HB 12-1262), ch. 170, p. 605, § 16, effective July 1,
 2013.
 
-         4-9-805. Effectiveness of action taken before effective date. (a) The filing of a
+## § 4-9-805. Effectiveness of action taken before effective date. (a) The filing of a
+
 financing statement before July 1, 2013, is effective to perfect a security interest to the extent the
 filing would satisfy the applicable requirements for perfection under this article, as amended by
 House Bill 12-1262, enacted in 2012.
@@ -5093,7 +5237,8 @@ enacted in 2012.
         Source: L. 2012: Entire part added, (HB 12-1262), ch. 170, p. 605, § 16, effective July 1,
 2013.
 
-        4-9-806. When initial financing statement suffices to continue effectiveness of
+## § 4-9-806. When initial financing statement suffices to continue effectiveness of
+
 financing statement. (a) The filing of an initial financing statement in the office specified in
 section 4-9-501 continues the effectiveness of a financing statement filed before July 1, 2013, if:
         (1) The filing of an initial financing statement in that office would be effective to perfect
@@ -5121,7 +5266,8 @@ financing statement; and
         Source: L. 2012: Entire part added, (HB 12-1262), ch. 170, p. 607, § 16, effective July 1,
 2013.
 
-        4-9-807. Amendment of pre-effective-date financing statement. (a) In this section,
+## § 4-9-807. Amendment of pre-effective-date financing statement. (a) In this section,
+
 "pre-effective-date financing statement" means a financing statement filed before July 1, 2013.
         (b) On or after July 1, 2013, a person may add or delete collateral covered by, continue
 or terminate the effectiveness of, or otherwise amend the information provided in, a pre-
@@ -5155,7 +5301,8 @@ which to file a financing statement.
         Source: L. 2012: Entire part added, (HB 12-1262), ch. 170, p. 607, § 16, effective July 1,
 2013.
 
-       4-9-808. Person entitled to file initial financing statement or continuation statement.
+## § 4-9-808. Person entitled to file initial financing statement or continuation statement.
+
 (a) A person may file an initial financing statement or a continuation statement under this part 8
 if:
        (1) The secured party of record authorizes the filing; and
@@ -5166,11 +5313,10 @@ if:
         Source: L. 2012: Entire part added, (HB 12-1262), ch. 170, p. 608, § 16, effective July 1,
 2013.
 
-        4-9-809. Priority. House Bill 12-1262, enacted in 2012, determines the priority of
+## § 4-9-809. Priority. House Bill 12-1262, enacted in 2012, determines the priority of
+
 conflicting claims to collateral. However, if the relative priorities of the claims were established
 before July 1, 2013, this article, as it existed before July 1, 2013, determines priority.
 
         Source: L. 2012: Entire part added, (HB 12-1262), ch. 170, p. 609, § 16, effective July 1,
 2013.
-```
-

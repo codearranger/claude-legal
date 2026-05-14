@@ -8,7 +8,8 @@
 
 ---
 
-```
+## Prelude / editor's notes
+
                                            ARTICLE 1
 
                                Colorado Consumer Protection Act
@@ -28,12 +29,14 @@ of the Colorado Consumer Protection Act to Attorneys", 79 U. Colo. L. Rev. 295 (
         Law reviews: For article, "The Showpiece Homes Decision: From Caveat Emptor to
 Insurer Beware?", see 31 Colo. Law. 73 (April 2002).
 
-      6-1-101. Short title. This article shall be known and may be cited as the "Colorado
+## § 6-1-101. Short title. This article shall be known and may be cited as the "Colorado
+
 Consumer Protection Act".
 
        Source: L. 69: p. 376, § 13. C.R.S. 1963: § 55-5-13.
 
-        6-1-102. Definitions. As used in this article 1, unless the context otherwise requires:
+## § 6-1-102. Definitions. As used in this article 1, unless the context otherwise requires:
+
         (1) "Advertisement" includes the attempt by publication, dissemination, solicitation, or
 circulation, visual, oral, or written, to induce directly or indirectly any person to enter into any
 obligation or to acquire any title or interest in any property.
@@ -204,7 +207,8 @@ June 3.
 43, Session Laws of Colorado 2020. For the legislative declaration in SB 22-139, see section 1
 of chapter 149, Session Laws of Colorado 2022.
 
-         6-1-103. Attorney general and district attorneys concurrently responsible for
+## § 6-1-103. Attorney general and district attorneys concurrently responsible for
+
 enforcement. The attorney general and the district attorneys of the several judicial districts of
 this state are concurrently responsible for the enforcement of this article 1. Until the Colorado
 supreme court adopts a venue provision relating to this article 1, actions instituted pursuant to
@@ -219,7 +223,8 @@ impact.
 section R&RE, p. 348, § 1, effective July 1. L. 87: Entire section amended, p. 357, § 2, effective
 July 1. L. 2019: Entire section amended, (HB 19-1289), ch. 268, p. 2515, § 1, effective May 23.
 
-         6-1-104. Cooperative reporting. The district attorneys may cooperate in a statewide
+## § 6-1-104. Cooperative reporting. The district attorneys may cooperate in a statewide
+
 reporting system by receiving, on forms provided by the attorney general, complaints from
 persons concerning deceptive trade practices listed in section 6-1-105 or part 7 or 13 of this
 article 1 and transmitting the complaints to the attorney general.
@@ -229,7 +234,8 @@ section R&RE, p. 348, § 2, effective July 1. L. 86: Entire section amended, p. 
 April 17. L. 99: Entire section amended, p. 652, § 4, effective May 18. L. 2021: Entire section
 amended, (SB 21-190), ch. 483, p. 3465, § 2, effective July 1, 2023.
 
-         6-1-105. Unfair or deceptive trade practices - definitions. (1) A person engages in a
+## § 6-1-105. Unfair or deceptive trade practices - definitions. (1) A person engages in a
+
 deceptive trade practice when, in the course of the person's business, vocation, or occupation, the
 person:
          (a) Either knowingly or recklessly passes off goods, services, or property as those of
@@ -533,7 +539,7 @@ of chapter 157, Session Laws of Colorado 2019. For the legislative declaration i
 see section 1 of chapter 447, Session Laws of Colorado 2023. For the legislative declaration in
 SB 24-011, see section 1 of chapter 402, Session Laws of Colorado 2024.
 
-       6-1-105.5. Hearing aid dealers - deceptive trade practices. (Repealed)
+## § 6-1-105.5. Hearing aid dealers - deceptive trade practices. (Repealed)
 
          Source: L. 86: Entire section added, p. 443, § 1, effective April 17. L. 87: (2)(e)(III)
 amended, p. 358, § 5, effective July 1. L. 88: (2)(e)(II) amended, p. 343, § 3, effective July 1. L.
@@ -542,7 +548,8 @@ amended, p. 358, § 5, effective July 1. L. 88: (2)(e)(II) amended, p. 343, § 3
 amended, p. 1573, § 2, effective July 1. L. 95. IP(2) and (2)(e) amended and (3) added, p. 1331,
 § 2, effective July 1. L. 99: Entire section repealed, p. 655, § 14, effective May 18.
 
-        6-1-106. Exclusions. (1) This article does not apply to:
+## § 6-1-106. Exclusions. (1) This article does not apply to:
+
         (a) Conduct in compliance with the orders or rules of, or a statute administered by, a
 federal, state, or local governmental agency;
         (b) Publishers, including outdoor advertising media, advertising agencies, broadcasters,
@@ -558,7 +565,8 @@ otherwise lawful except for the provisions of this article.
 
        Source: L. 69: p. 373, § 3. C.R.S. 1963: § 55-5-3.
 
-         6-1-107. Powers of attorney general and district attorneys. (1) When the attorney
+## § 6-1-107. Powers of attorney general and district attorneys. (1) When the attorney
+
 general or a district attorney has reasonable cause to believe that any person, whether in this state
 or elsewhere, has engaged in or is engaging in any deceptive trade practice listed in section 6-1-
 105 or part 7 or 13 of this article 1, the attorney general or district attorney may:
@@ -594,7 +602,8 @@ effective May 18. L. 2013: IP(1) amended, (SB 13-248), ch. 270, p. 1417, § 1, e
 L. 2017: IP(1) amended, (HB 17-1023), ch. 64, p. 204, § 2, effective March 20. L. 2021: IP(1)
 amended, (SB 21-190), ch. 483, p. 3465, § 4, effective July 1, 2023.
 
-       6-1-108. Subpoenas - hearings - rules. (1) When the attorney general or a district
+## § 6-1-108. Subpoenas - hearings - rules. (1) When the attorney general or a district
+
 attorney has reasonable cause to believe that a person, whether in this state or elsewhere, has
 
 engaged in or is engaging in a deceptive trade practice listed in section 6-1-105 or part 7 or 13 of
@@ -623,7 +632,8 @@ amended, (HB 17-1023), ch. 64, p. 204, § 1, effective March 20. L. 2021: (1) am
 
        Cross references: For service of subpoena, see C.R.C.P. 45 (b).
 
-        6-1-109. Remedies. (1) If any person fails to cooperate with any investigation pursuant
+## § 6-1-109. Remedies. (1) If any person fails to cooperate with any investigation pursuant
+
 to section 6-1-107 or fails to obey any subpoena pursuant to section 6-1-108, the attorney
 general or a district attorney may apply to the appropriate district court for an appropriate order
 to effect the purposes of this article 1. The application shall state that there are reasonable
@@ -639,7 +649,8 @@ person.
         Source: L. 69: p. 374, § 6. C.R.S. 1963: § 55-5-6. L. 77: IP(1) amended, p. 349, § 5,
 effective July 1. L. 2018: IP(1) amended, (HB 18-1028), ch. 42, p. 467, § 1, effective March 15.
 
-      6-1-110. Restraining orders - injunctions - assurances of discontinuance. (1)
+## § 6-1-110. Restraining orders - injunctions - assurances of discontinuance. (1)
+
 Whenever the attorney general or a district attorney has cause to believe that a person has
 engaged in or is engaging in any deceptive trade practice listed in section 6-1-105 or part 7 or 13
 
@@ -696,7 +707,8 @@ effective June 7. L. 2007: (3) amended, p. 1723, § 11, effective June 1. L. 200
 2230, § 2, effective July 1. L. 2021: (1) and (2) amended, (SB 21-190), ch. 483, p. 3466, § 6,
 effective July 1, 2023.
 
-        6-1-111. Information and evidence confidential and inadmissible - when. (1) Any
+## § 6-1-111. Information and evidence confidential and inadmissible - when. (1) Any
+
 testimony obtained by the attorney general or a district attorney pursuant to compulsory process
 under this article or any information derived directly or indirectly from such testimony shall not
 be admissible in evidence in any criminal prosecution against the person so compelled to testify.
@@ -715,7 +727,8 @@ a local, statewide, regional, or nationwide basis.
 § 7, effective July 1. L. 81: (1) amended, p. 401, § 1, effective April 30. L. 88: (2) amended, p.
 344, § 5, effective July 1.
 
-        6-1-112. Civil penalties - definition. (1) The attorney general or a district attorney may
+## § 6-1-112. Civil penalties - definition. (1) The attorney general or a district attorney may
+
 bring a civil action on behalf of the state to seek the imposition of civil penalties as follows:
         (a) Except as provided in subsection (3) of this section, any person who violates or
 causes another to violate any provision of this article 1 shall forfeit and pay to the general fund
@@ -791,7 +804,8 @@ effective August 6. L. 2016: (1)(f) added, (HB 16-1129), ch. 262, p. 1075, § 1,
 L. 2023: (1)(a), (1)(b), and (1)(c) amended and (3) added, (HB 23-1257), ch. 376, p. 2256, § 3,
 effective June 5.
 
-         6-1-113. Civil actions - damages - other relief - class actions. (1) The provisions of
+## § 6-1-113. Civil actions - damages - other relief - class actions. (1) The provisions of
+
 this article shall be available in a civil action for any claim against any person who has engaged
 in or caused another to engage in any deceptive trade practice listed in this article. An action
 under this section shall be available to any person who:
@@ -847,7 +861,8 @@ IP(2) amended and (2.5) added, p. 748, § 3, effective August 5. L. 99: Entire s
 March 5. L. 2019: IP(2), (2)(a)(I), and (3) amended, (HB 19-1289), ch. 268, p. 2517, § 4,
 effective May 23. L. 2022: (2.9) added, (HB 22-1071), ch. 36, p. 190, § 1, effective August 10.
 
-        6-1-114. Criminal penalties. Any person who promotes a pyramid promotional scheme
+## § 6-1-114. Criminal penalties. Any person who promotes a pyramid promotional scheme
+
 in this state commits a class 1 misdemeanor, as defined in section 18-1.3-501. Any person who
 violates article 230 of title 12 or section 6-1-701 or 6-1-717 commits a class 2 misdemeanor.
 
@@ -869,7 +884,8 @@ harmonized.
         Cross references: For the legislative declaration contained in the 2002 act amending this
 section, see section 1 of chapter 318, Session Laws of Colorado 2002.
 
-        6-1-115. Limitations. All actions brought under this article must be commenced within
+## § 6-1-115. Limitations. All actions brought under this article must be commenced within
+
 three years after the date on which the false, misleading, or deceptive act or practice occurred or
 
 the date on which the last in a series of such acts or practices occurred or within three years after
@@ -881,7 +897,8 @@ calculated to induce the plaintiff to refrain from or postpone the commencement 
 
        Source: L. 87: Entire section added, p. 360, § 10, effective July 1.
 
-        6-1-116. Investigation of unfair business practices by regulated persons - district
+## § 6-1-116. Investigation of unfair business practices by regulated persons - district
+
 attorney requests for records from licensing authorities - interagency agreements with
 attorney general - legislative declaration - definitions. (1) The general assembly hereby finds,
 determines, and declares that:
@@ -955,7 +972,8 @@ August 10.
 
              AUTO RENTAL CONTRACTS - COLLISION DAMAGE WAIVERS
 
-       6-1-201. Definitions. As used in this part 2, unless the context otherwise requires:
+## § 6-1-201. Definitions. As used in this part 2, unless the context otherwise requires:
+
        (1) "Collision damage waiver" means any contract or contractual provision, whether
 separate from or a part of a motor vehicle rental agreement, whereby the lessor agrees, for a
 charge, to waive any and all claims against the lessee for any damages to the rental motor
@@ -977,14 +995,16 @@ upon execution of a rental agreement, is made available to a lessee for its use.
 
        Source: L. 89: Entire part added, p. 361, § 1, effective January 1, 1990.
 
-        6-1-202. Prohibited act. No lessor engaged in renting motor vehicles may sell to any
+## § 6-1-202. Prohibited act. No lessor engaged in renting motor vehicles may sell to any
+
 lessee renting a motor vehicle in this state a collision damage waiver as part of the rental contract
 unless the lessor first gives the lessee written disclosure, as provided in section 6-1-203, of the
 terms and provisions of such waiver.
 
        Source: L. 89: Entire part added, p. 361, § 1, effective January 1, 1990.
 
-        6-1-203. Collision damage waiver form - requirements - failure to comply. (1) Any
+## § 6-1-203. Collision damage waiver form - requirements - failure to comply. (1) Any
+
 collision damage waiver form shall conform to the following requirements:
         (a) It shall be understandable and written in simple and readable plain language;
         (b) The terms of such collision damage waiver, including, but not limited to, any
@@ -1015,7 +1035,8 @@ trade practice under the provisions of this article.
 
        Source: L. 89: Entire part added, p. 362, § 1, effective January 1, 1990.
 
-        6-1-204. Prohibited exclusion. (1) No collision damage waiver subject to this part 2
+## § 6-1-204. Prohibited exclusion. (1) No collision damage waiver subject to this part 2
+
 shall contain an exclusion from the waiver for damages caused by the ordinary negligence of the
 lessee. Any such exclusion in violation of this section will be void and is a deceptive trade
 practice under this article. This section shall not be deemed to prohibit an exclusion from the
@@ -1038,7 +1059,8 @@ speedometer or odometer is tampered with or disconnected.
       Source: L. 89: Entire part added, p. 362, § 1, effective January 1, 1990. L. 94: (1)(b)
 amended, p. 2544, § 15, effective January 1, 1995.
 
-        6-1-205. Information to be disclosed in advertisements for rental agreements for
+## § 6-1-205. Information to be disclosed in advertisements for rental agreements for
+
 rental motor vehicles. In any advertisement to the public for a rental agreement for a rental
 motor vehicle that includes a rental rate, the lessor shall prominently disclose on the face of any
 such advertisement the daily charge of any collision damage waiver offered, a statement
@@ -1051,7 +1073,8 @@ vehicle or other such privilege of membership.
         Source: L. 89: Entire part added, p. 363, § 1, effective January 1, 1990. L. 2006: Entire
 section amended, p. 427, § 1, effective August 7.
 
-       6-1-206. Additional mandatory charges - required disclosures - definitions. (1) If a
+## § 6-1-206. Additional mandatory charges - required disclosures - definitions. (1) If a
+
 motor vehicle rental company imposes additional mandatory charges, the rental company shall:
        (a) Provide a good-faith estimate of the total charges for the entire rental, including all
 additional mandatory charges, whenever a quote is provided to a potential customer. The good-
@@ -1079,7 +1102,8 @@ vehicle rental company to license, title, register, plate, or inspect a rental v
         Source: L. 2018: Entire section added, (SB 18-100), ch. 36, p. 392, § 2, effective August
 8. L. 2019: (2)(b) amended, (SB 19-241), ch. 390, p. 3462, § 2, effective August 2.
 
-        6-1-207. Adaptive equipment in rental motor vehicles - requirements - failure to
+## § 6-1-207. Adaptive equipment in rental motor vehicles - requirements - failure to
+
 comply - legislative declaration - definitions. (1) (a) The general assembly hereby finds and
 declares that:
         (I) The federal "Americans with Disabilities Act of 1990", 42 U.S.C. sec. 12182 (a),
@@ -1168,7 +1192,8 @@ August 10.
 
                         PREVENTION OF TELEMARKETING FRAUD
 
-       6-1-301. Legislative declaration. The general assembly hereby finds, determines, and
+## § 6-1-301. Legislative declaration. The general assembly hereby finds, determines, and
+
 declares that the use of telephones for commercial solicitation is rapidly increasing; that this
 form of communication offers unique benefits, but entails special risks and poses the potential
 for abuse; that the general assembly finds that the widespread practice of fraudulent and
@@ -1180,7 +1205,8 @@ the commercial use of telephones.
 
        Source: L. 93: Entire part added, p. 944, § 3, effective July 1.
 
-        6-1-302. Definitions. As used in this part 3, unless the context otherwise requires:
+## § 6-1-302. Definitions. As used in this part 3, unless the context otherwise requires:
+
         (1) "Commercial telephone seller" or "seller" means a person who, in the course of such
 person's business, vocation, or occupation, on the person's own behalf or on behalf of another
 person, causes or attempts to cause a commercial telephone solicitation to be made; except that
@@ -1305,7 +1331,8 @@ effective May 9, 2002. L. 2003: (1)(g) amended, p. 613, § 2, effective July 1.
        Cross references: For the federal "Commodity Exchange Act", see Pub.L. 74-675,
 codified at 7 U.S.C. § 1 et seq.
 
-         6-1-303. Registration of commercial telephone sellers. (1) No commercial telephone
+## § 6-1-303. Registration of commercial telephone sellers. (1) No commercial telephone
+
 seller shall conduct business in this state without having registered with the attorney general at
 least ten days prior to the conduct of such business. Individual employees of the commercial
 telephone seller are not required to register. A commercial telephone seller conducts business in
@@ -1358,7 +1385,8 @@ attorney general.
 
        Source: L. 93: Entire part added, p. 947, § 3, effective July 1.
 
-         6-1-304. Unlawful telemarketing practices. (1) A commercial telephone seller
+## § 6-1-304. Unlawful telemarketing practices. (1) A commercial telephone seller
+
 engages in an unlawful telemarketing practice when, in the course of any commercial telephone
 solicitation, the seller:
          (a) Conducts business as a commercial telephone seller without having registered with
@@ -1422,8 +1450,8 @@ the cellular telephone.
 654, § 8, effective May 18. L. 2000: (1)(c)(II) amended, p. 244, § 2, effective March 30. L.
 2005: (4) added, p. 630, § 1, effective August 8.
 
+## § 6-1-305. Penalties. (1) In addition to the remedies available under sections 6-1-110, 6-
 
-        6-1-305. Penalties. (1) In addition to the remedies available under sections 6-1-110, 6-
 1-112, and 6-1-113:
         (a) Any person who, after receiving written notice of noncompliance from the attorney
 general or a district attorney, conducts business as a commercial telephone seller without having
@@ -1445,7 +1473,7 @@ amended, p. 1465, § 12, effective October 1. L. 2005: (1)(c) added, p. 630, § 
        Cross references: For the legislative declaration contained in the 2002 act amending
 subsections (1)(a) and (1)(b), see section 1 of chapter 318, Session Laws of Colorado 2002.
 
-       6-1-306. Repeal. (Repealed)
+## § 6-1-306. Repeal. (Repealed)
 
        Source: L. 93: Entire part added, p. 951, § 3, effective July 1. L. 96: Entire section
 repealed, p. 788, § 2, effective July 1.
@@ -1454,7 +1482,8 @@ repealed, p. 788, § 2, effective July 1.
 
                     WARRANTIES FOR ASSISTIVE TECHNOLOGY ACT
 
-        6-1-401. Legislative intent. (1) It is the intent of the general assembly to encourage and
+## § 6-1-401. Legislative intent. (1) It is the intent of the general assembly to encourage and
+
 promote independent living and self-sufficiency for persons with disabilities and to reduce their
 need to rely on publicly funded supports. Of an estimated forty-nine million Americans with
 disabilities, approximately seventy percent of them are unemployed or underemployed. Having
@@ -1471,7 +1500,8 @@ part 4.
 
        Source: L. 97: Entire part added, p. 604, § 1, effective July 1.
 
-        6-1-402. Definitions. As used in this part 4, unless the context otherwise requires:
+## § 6-1-402. Definitions. As used in this part 4, unless the context otherwise requires:
+
         (1) "Collateral costs" means expenses incurred by a consumer in connection with the
 repair of a nonconformity in a wheelchair, including the cost of an alternative wheelchair, if a
 loaner, as that term is defined in subsection (8) of this section, was not offered to the consumer,
@@ -1551,7 +1581,8 @@ transfer of in this state for the purposes of mobility assistance.
 
        Source: L. 97: Entire part added, p. 605, § 1, effective July 1.
 
-        6-1-403. Express warranty required - authorized servicers. (1) (a) Except as
+## § 6-1-403. Express warranty required - authorized servicers. (1) (a) Except as
+
 provided in subsection (2) of this section, a consumer who purchases or leases a new wheelchair
 either directly or indirectly through a dealer or lessor shall receive an express warranty for such
 wheelchair. The manufacturer shall issue this express warranty that shall extend for not less than
@@ -1588,7 +1619,8 @@ service provider pursuant to the provisions of this subsection (5).
 
        Source: L. 97: Entire part added, p. 607, § 1, effective July 1.
 
-        6-1-404. Remedies. (1) If a new wheelchair does not conform to the applicable express
+## § 6-1-404. Remedies. (1) If a new wheelchair does not conform to the applicable express
+
 warranty and the consumer reports the nonconformity to the manufacturer, the lessor, the selling
 dealer, or the alternative warranty service provider, and makes the wheelchair available for
 repair within the warranty period, the nonconformity shall be repaired at no charge to the
@@ -1646,7 +1678,8 @@ right to costs, that the consumer would have had under this part 4.
 
        Source: L. 97: Entire part added, p. 608, § 1, effective July 1.
 
-        6-1-405. Remedies for consumers of purchased wheelchairs - conditions. (1) To
+## § 6-1-405. Remedies for consumers of purchased wheelchairs - conditions. (1) To
+
 receive a refund or a replacement wheelchair, the consumer of a purchased wheelchair shall first
 offer to transfer the wheelchair with the nonconformity to the manufacturer, selling dealer, or
 alternative warranty service provider.
@@ -1664,7 +1697,8 @@ dealer, the manufacturer or dealer shall be responsible for the return of the wh
 
        Source: L. 97: Entire part added, p. 610, § 1, effective July 1.
 
-        6-1-406. Remedies for consumers of leased wheelchairs - conditions. (1) To receive a
+## § 6-1-406. Remedies for consumers of leased wheelchairs - conditions. (1) To receive a
+
 refund due on a leased wheelchair, a consumer shall first offer to return the wheelchair with the
 nonconformity to the lessor.
         (2) Within thirty business days after receipt of the offer described in subsection (1) of
@@ -1679,14 +1713,16 @@ dealer with the endorsements necessary to transfer possession to the manufacture
 
        Source: L. 97: Entire part added, p. 610, § 1, effective July 1.
 
-       6-1-407. Resale of a returned wheelchair - disclosure required. A wheelchair
+## § 6-1-407. Resale of a returned wheelchair - disclosure required. A wheelchair
+
 returned pursuant to this part 4 by a consumer in this state, or by a consumer in another state
 under a similar law of that state, shall not be sold or leased again in this state unless full
 disclosure is made to the prospective consumer of the reasons for the return.
 
        Source: L. 97: Entire part added, p. 611, § 1, effective July 1.
 
-        6-1-408. Other remedies - waiver of rights void. (1) This part 4 shall not limit the
+## § 6-1-408. Other remedies - waiver of rights void. (1) This part 4 shall not limit the
+
 rights or remedies available to a consumer under any other law of this state.
         (2) If a consumer waives the rights granted to consumers pursuant to this part 4, such
 waiver shall be void as against public policy.
@@ -1698,7 +1734,8 @@ attorney fees. The consumer may be awarded collateral costs and punitive damages
 
        Source: L. 97: Entire part added, p. 611, § 1, effective July 1.
 
-        6-1-409. Fraudulent acts. Any manufacturer, dealer, or lessor that engages in conduct
+## § 6-1-409. Fraudulent acts. Any manufacturer, dealer, or lessor that engages in conduct
+
 to delay making a final repair that is required as a consequence of the enforcement of warranties
 or duties under this part 4 with the intention of requiring payment of the cost of such repair to be
 made by a publicly funded program of public assistance, medical assistance, or rehabilitation
@@ -1713,14 +1750,16 @@ amended, p. 1465, § 13, effective October 1.
         Cross references: For the legislative declaration contained in the 2002 act amending this
 section, see section 1 of chapter 318, Session Laws of Colorado 2002.
 
-        6-1-410. Arbitration. Disputes among manufacturers, dealers, and lessors concerning
+## § 6-1-410. Arbitration. Disputes among manufacturers, dealers, and lessors concerning
+
 the enforcement of rights or remedies of consumers under this part 4 shall be subject to
 arbitration pursuant to the Colorado rules of civil procedure. The award of the arbitration panel
 shall be binding upon the parties and shall only be subject to court review by trial de novo.
 
        Source: L. 97: Entire part added, p. 611, § 1, effective July 1.
 
-       6-1-411. Defect notification. (1) A manufacturer shall be responsible for providing
+## § 6-1-411. Defect notification. (1) A manufacturer shall be responsible for providing
+
 written notification to an owner, user, purchaser, dealer, lessor, or consumer of any known or
 discovered inherent defect in a wheelchair that affects the safety, usability, or reliability of that
 wheelchair. The manufacturer shall send such notification by first-class mail to the last-known
@@ -1733,7 +1772,8 @@ described in subsection (1) of this section.
 
        Source: L. 97: Entire part added, p. 611, § 1, effective July 1.
 
-        6-1-412. Disclosures. (1) Prior to the sale of any wheelchair, the seller shall disclose
+## § 6-1-412. Disclosures. (1) Prior to the sale of any wheelchair, the seller shall disclose
+
 whether the wheelchair is new or used and whether any warranty applies to such wheelchair.
         (2) Upon delivery of a new or used wheelchair, the seller shall advise the buyer of any
 warranty rights under this part 4 and the wheelchair's maintenance schedule and operating
@@ -1750,7 +1790,8 @@ legal custodian, or primary caregiver of such person.
 
                   WARRANTIES FOR FACILITATIVE TECHNOLOGY ACT
 
-         6-1-501. Definitions. As used in this part 5, unless the context otherwise requires:
+## § 6-1-501. Definitions. As used in this part 5, unless the context otherwise requires:
+
          (1) "Collateral costs" means expenses incurred by a consumer in connection with the
 repair of a nonconformity in a facilitative device, including the cost of an alternative facilitative
 device or other facilitative device or service.
@@ -1834,8 +1875,8 @@ the use and maintenance of the facilitative device.
 and (7)(a) amended, (SB 13-039), ch. 288, p. 1536, § 3, effective May 24. L. 2019: (7)(a)
 amended, (HB 19-1172), ch. 136, p. 1644, § 10, effective October 1.
 
+## § 6-1-502. Express warranty required - authorized servicers. (1) A consumer who
 
-         6-1-502. Express warranty required - authorized servicers. (1) A consumer who
 purchases or leases a new facilitative device either directly or indirectly through a dealer or
 lessor shall receive an express warranty for such facilitative device. The manufacturer shall issue
 this express warranty that shall extend for not less than one year after first delivery to the
@@ -1861,7 +1902,8 @@ alternative warranty service provider.
 
        Source: L. 98: Entire part added, p. 197, § 1, effective July 1.
 
-        6-1-503. Remedies. (1) If a new facilitative device does not conform to the applicable
+## § 6-1-503. Remedies. (1) If a new facilitative device does not conform to the applicable
+
 express warranty and the consumer reports the nonconformity to the manufacturer, the lessor, the
 selling dealer, or the alternative warranty service provider and makes the facilitative device
 available for repair within the warranty period, the nonconformity shall be repaired at no charge
@@ -1906,7 +1948,8 @@ right to costs, that the consumer would have had under this part 5.
 
        Source: L. 98: Entire part added, p. 198, § 1, effective July 1.
 
-         6-1-504. Remedies for consumers of purchased facilitative devices - conditions. (1)
+## § 6-1-504. Remedies for consumers of purchased facilitative devices - conditions. (1)
+
 To receive a refund or a replacement facilitative device, the consumer of a purchased facilitative
 device shall first offer to transfer the facilitative device with the nonconformity to the
 manufacturer, selling dealer, or alternative warranty service provider.
@@ -1920,7 +1963,8 @@ manufacturer or dealer.
 
        Source: L. 98: Entire part added, p. 199, § 1, effective July 1.
 
-         6-1-505. Remedies for consumers of leased facilitative devices - conditions. (1) To
+## § 6-1-505. Remedies for consumers of leased facilitative devices - conditions. (1) To
+
 receive a refund due on a leased facilitative device, a consumer shall first offer to return the
 facilitative device with the nonconformity to the lessor.
          (2) Within thirty business days after receipt of the offer described in subsection (1) of
@@ -1937,14 +1981,16 @@ dealer with the endorsements necessary to transfer possession to the manufacture
 
        Source: L. 98: Entire part added, p. 199, § 1, effective July 1.
 
-        6-1-506. Resale of a returned facilitative device - disclosure required. A facilitative
+## § 6-1-506. Resale of a returned facilitative device - disclosure required. A facilitative
+
 device returned pursuant to this part 5 by a consumer in this state, or by a consumer in another
 state under a similar law of that state, shall not be sold or leased again in this state unless full
 disclosure is made to the prospective consumer of the reasons for the return.
 
        Source: L. 98: Entire part added, p. 200, § 1, effective July 1.
 
-        6-1-507. Other remedies - waiver of rights void - limitation of coverage. (1) This
+## § 6-1-507. Other remedies - waiver of rights void - limitation of coverage. (1) This
+
 part 5 shall not limit the rights or remedies available to a consumer under any other law of this
 state.
         (2) This part 5 shall be in addition to and shall not limit the rights or remedies available
@@ -1963,7 +2009,8 @@ wheelchairs described in part 4 of this article.
 
        Source: L. 98: Entire part added, p. 200, § 1, effective July 1.
 
-        6-1-508. Fraudulent acts. Any manufacturer, dealer, or lessor that engages in conduct
+## § 6-1-508. Fraudulent acts. Any manufacturer, dealer, or lessor that engages in conduct
+
 to delay making a final repair that is required as a consequence of the enforcement of warranties
 or duties under this part 5 with the intention of requiring payment of the cost of such repair to be
 made by a publicly funded program of public assistance, medical assistance, or rehabilitation
@@ -1979,14 +2026,16 @@ amended, p. 1465, § 14, effective October 1.
         Cross references: For the legislative declaration contained in the 2002 act amending this
 section, see section 1 of chapter 318, Session Laws of Colorado 2002.
 
-        6-1-509. Arbitration. Disputes among manufacturers, dealers, and lessors concerning
+## § 6-1-509. Arbitration. Disputes among manufacturers, dealers, and lessors concerning
+
 the enforcement of rights or remedies of consumers under this part 5 shall be subject to
 arbitration pursuant to the Colorado rules of civil procedure. The award of the arbitration panel
 shall be binding upon the parties and shall only be subject to court review by trial de novo.
 
        Source: L. 98: Entire part added, p. 200, § 1, effective July 1.
 
-        6-1-510. Defect notification. (1) A manufacturer shall be responsible for providing
+## § 6-1-510. Defect notification. (1) A manufacturer shall be responsible for providing
+
 written notification to an owner, user, purchaser, dealer, lessor, or consumer of any known or
 discovered inherent defect in a facilitative device that affects the safety, usability, or reliability
 of that facilitative device. The manufacturer shall send such notification by first-class mail to the
@@ -1999,7 +2048,8 @@ described in subsection (1) of this section.
 
        Source: L. 98: Entire part added, p. 201, § 1, effective July 1.
 
-         6-1-511. Disclosures. (1) Prior to the sale of any facilitative device, the seller shall
+## § 6-1-511. Disclosures. (1) Prior to the sale of any facilitative device, the seller shall
+
 disclose whether the facilitative device is new or used and whether any warranty applies to such
 facilitative device.
          (2) Upon delivery of a new or used facilitative device, the seller shall advise the
@@ -2033,7 +2083,8 @@ parent, legal custodian, or primary caregiver of such person.
       Editor's note: This part 7 was added with relocations in 1999. Former C.R.S. section
 numbers are shown in editor's notes following those sections that were relocated.
 
-        6-1-701. Dispensing hearing aids - deceptive trade practices - definitions. (1) As
+## § 6-1-701. Dispensing hearing aids - deceptive trade practices - definitions. (1) As
+
 used in this section, unless the context otherwise requires:
         (a) "Dispense", with regard to a hearing aid, means to sell or transfer title, possession, or
 the right to use by lease, bailment, or any other method. The term does not apply to wholesale
@@ -2195,7 +2246,8 @@ ch. 300, p. 1492, § 3, effective September 1.
        (2) Amendments to subsections (2)(c) and (2)(c)(I) by HB 20-1218 and HB 20-1219
 were harmonized.
 
-        6-1-702. Unsolicited facsimiles - deceptive trade practice - definitions. (1) A person
+## § 6-1-702. Unsolicited facsimiles - deceptive trade practice - definitions. (1) A person
+
 engages in a deceptive trade practice when, in the course of such person's business, vocation, or
 occupation, such person:
         (a) Uses a telephone facsimile machine, computer, or other device to send an unsolicited
@@ -2239,7 +2291,8 @@ May 4.
          Editor's note: This section is similar to former § 6-1-105 (1)(p.3), (1)(p.5), and (1)(p.7),
 as it existed prior to 1999.
 
-       6-1-702.5. Commercial electronic mail messages - deceptive trade practice -
+## § 6-1-702.5. Commercial electronic mail messages - deceptive trade practice -
+
 remedies - definitions - short title - legislative declaration. (1) This section shall be known
 and may be cited as the "Spam Reduction Act of 2008".
        (2) A person engages in a deceptive trade practice when, in the course of such person's
@@ -2326,7 +2379,8 @@ federal preemption provisions of 15 U.S.C. sec. 7707 (b).
 
        Source: L. 2008: Entire section added, p. 593, § 1, effective August 5.
 
-        6-1-703. Time shares and resale time shares - deceptive trade practices. (1) A
+## § 6-1-703. Time shares and resale time shares - deceptive trade practices. (1) A
+
 person engages in a deceptive trade practice when, in the course of the person's business,
 vocation, or occupation, the person engages in one or more of the following activities in
 connection with the advertisement or sale of a time share or the provision of a time share resale
@@ -2397,7 +2451,8 @@ Entire section amended, (SB 13-182), ch. 166, p. 541, § 2, effective August 7.
         Editor's note: This section is similar to former § 6-1-105 (1)(s), as it existed prior to
 1999.
 
-        6-1-703.5. Time share resale transfer agreements - deceptive trade practices. (1) A
+## § 6-1-703.5. Time share resale transfer agreements - deceptive trade practices. (1) A
+
 time share resale entity engages in a deceptive trade practice when the entity fails to include in a
 time share resale transfer agreement the following information:
         (a) The name, telephone number, and physical address of the time share resale entity and
@@ -2480,7 +2535,8 @@ act may bring a private civil action pursuant to section 6-1-113.
       Source: L. 2013: Entire section added, (SB 13-182), ch. 166, p. 543, § 3, effective
 August 7.
 
-         6-1-704. Health clubs - deceptive trade practices. (1) A person engages in a deceptive
+## § 6-1-704. Health clubs - deceptive trade practices. (1) A person engages in a deceptive
+
 trade practice when, in the course of such person's business, vocation, or occupation, such person
 engages in one or more of the following activities in connection with the advertisement or sale of
 a membership in a health club:
@@ -2562,7 +2618,8 @@ services.
         Editor's note: This section is similar to former § 6-1-105 (1)(t), as it existed prior to
 1999.
 
-       6-1-705. Dance studios - deceptive trade practices. (1) A person engages in a
+## § 6-1-705. Dance studios - deceptive trade practices. (1) A person engages in a
+
 deceptive trade practice when, in the course of such person's business, vocation, or occupation,
 such person engages in one or more of the following activities or practices in connection with
 the advertisement, sale, or performance of contracts for dance studio services in which the total
@@ -2633,7 +2690,8 @@ of the purchaser.
         Editor's note: This section is similar to former § 6-1-105 (1)(w), as it existed prior to
 1999.
 
-        6-1-706. Buyers' clubs - deceptive trade practices. (1) A person engages in a
+## § 6-1-706. Buyers' clubs - deceptive trade practices. (1) A person engages in a
+
 deceptive trade practice when, in the course of such person's business, vocation, or occupation,
 such person engages in one or more of the following activities or practices in connection with
 the advertisement, sale, or performance of any contract of membership in a buyers' club in which
@@ -2662,7 +2720,8 @@ days after the buyers' club receives notice of cancellation from the purchaser.
         Editor's note: This section is similar to former § 6-1-105 (1)(bb), as it existed prior to
 1999.
 
-        6-1-707. Use of title or degree - deceptive trade practice. (1) A person engages in a
+## § 6-1-707. Use of title or degree - deceptive trade practice. (1) A person engages in a
+
 deceptive trade practice when, in the course of the person's business, vocation, or occupation, the
 person:
         (a) (I) Claims, either orally or in writing, to possess either an academic degree or an
@@ -2768,7 +2827,8 @@ L. 2024: (1)(f) added, (HB 24-1174), ch. 388, p. 2691, § 8, effective August 7.
        Editor's note: This section is similar to former § 6-1-105 (1)(dd), (1)(ee.5), (1)(ee.7),
 and (1)(ee.8), as it existed prior to 1999.
 
-         6-1-708. Vehicle sales and leases - deceptive trade practice - definition. (1) A person
+## § 6-1-708. Vehicle sales and leases - deceptive trade practice - definition. (1) A person
+
 engages in a deceptive trade practice when, in the course of the person's business, vocation, or
 occupation, such person:
          (a) Commits any of the following acts pertaining to the sale or lease of a motor vehicle,
@@ -2818,7 +2878,8 @@ amended, p. 2018, § 5, effective June 1. L. 2017: (1) amended, (SB 17-240), ch.
          (2) Amendments to subsection (1)(a) by Senate Bill 00-080 and House Bill 00-1463
 were harmonized.
 
-        6-1-709. Sales of manufactured and tiny homes - deceptive trade practices. A person
+## § 6-1-709. Sales of manufactured and tiny homes - deceptive trade practices. A person
+
 engages in a deceptive trade practice when, in the course of the person's business, vocation, or
 occupation, the person engages in conduct that constitutes an unlawful manufactured home sales
 practice or an unlawful tiny home sales practice, as either sales practice is described in section
@@ -2833,7 +2894,8 @@ to 1999.
        (2) Section 6-1-105 (1)(qq) as amended by House Bill 99-1270 was harmonized with
 Senate Bill 99-143 and relocated to this section.
 
-        6-1-710. Trafficking of false airbag - deceptive trade practices - criminal liability -
+## § 6-1-710. Trafficking of false airbag - deceptive trade practices - criminal liability -
+
 definitions. (1) A person engages in a deceptive trade practice when the person knowingly or
 intentionally manufactures, imports, distributes, sells, offers for sale, installs, or reinstalls a
 device intended to replace a supplemental restraint system component if the device is:
@@ -2873,7 +2935,8 @@ model, and year of the motor vehicle.
 amended and (3) added, (HB 21-1193), ch. 148, p. 865, § 1, effective September 7; (2) amended,
 (SB 21-271), ch. 462, p. 3134, § 57, effective March 1, 2022.
 
-        6-1-711. Restrictions on credit card receipts - legislative declaration - application -
+## § 6-1-711. Restrictions on credit card receipts - legislative declaration - application -
+
 definitions. (1) The general assembly hereby finds, determines, and declares that credit,
 particularly the use of credit cards, is an important tool for consumers in today's economy.
 Unscrupulous persons often fraudulently use the credit card accounts of others by stealing the
@@ -2909,7 +2972,8 @@ more than five million dollars annually in revenues from the person's business a
       Source: L. 2002: Entire section added, p. 379, § 1, effective April 25. L. 2006: (2)
 amended, p. 1324, § 10, effective July 1.
 
-        6-1-712. Discount health plan and cards - deceptive trade practices - definitions. (1)
+## § 6-1-712. Discount health plan and cards - deceptive trade practices - definitions. (1)
+
 A person engages in a deceptive trade practice when, in the course of such person's business,
 vocation, or occupation, such person:
         (a) Solicits, markets, advertises, promotes, or sells to a consumer residing in Colorado a
@@ -2953,7 +3017,8 @@ Modernization Act of 2003", Public Law 108-173.
 (3)(a), and (3)(b) amended, (HB 13-1266), ch. 217, p. 984, § 38, effective May 13. L. 2023:
 (2)(b) amended, (HB 23-1301), ch. 303, p. 1815, § 3, effective August 7.
 
-        6-1-713. Disposal of personal identifying information - policy - definitions. (1) Each
+## § 6-1-713. Disposal of personal identifying information - policy - definitions. (1) Each
+
 covered entity in the state that maintains paper or electronic documents during the course of
 business that contain personal identifying information shall develop a written policy for the
 destruction or proper disposal of those paper and electronic documents containing personal
@@ -2990,7 +3055,8 @@ and (3) amended, (HB 18-1128), ch. 266, p. 1632, § 1, effective September 1.
         Editor's note: This section was originally numbered as § 6-1-712 in House Bill 04-1311,
 but has been renumbered on revision for ease of location.
 
-        6-1-713.5. Protection of personal identifying information - definition. (1) To protect
+## § 6-1-713.5. Protection of personal identifying information - definition. (1) To protect
+
 personal identifying information, as defined in section 6-1-713 (2), from unauthorized access,
 use, modification, disclosure, or destruction, a covered entity that maintains, owns, or licenses
 personal identifying information of an individual residing in the state shall implement and
@@ -3026,8 +3092,8 @@ covered entity.
       Source: L. 2018: Entire section added, (HB 18-1128), ch. 266, p. 1633, § 2, effective
 September 1.
 
+## § 6-1-714. Unfair drug pricing practice - deceptive trade practice - definitions. (1) As
 
-         6-1-714. Unfair drug pricing practice - deceptive trade practice - definitions. (1) As
 used in this section, unless the context otherwise requires:
          (a) "Emergency" means a declaration made by the department of public health and
 environment pursuant to section 25-1.5-101 (1)(aa), C.R.S., after the department has determined
@@ -3045,7 +3111,8 @@ business, vocation, or occupation, the person engages in the practice of unfair 
 
        Source: L. 2005: Entire section added, p. 372, § 2, effective April 22.
 
-        6-1-715. Confidentiality of social security numbers. (1) Except as provided in
+## § 6-1-715. Confidentiality of social security numbers. (1) Except as provided in
+
 subsections (2) to (4) of this section, a person or entity may not do any of the following:
         (a) Publicly post or publicly display in any manner an individual's social security
 number. "Publicly post" or "publicly display" means to intentionally communicate or otherwise
@@ -3096,7 +3163,8 @@ Accountability Act of 1996", as amended, 42 U.S.C. secs. 1320d to 1320d-9.
         Source: L. 2006: Entire section added, p. 274, § 1, effective January 1, 2007. L. 2010:
 (4)(b) amended, (HB 10-1422), ch. 419, p. 2063, § 8, effective August 11.
 
-        6-1-716. Notification of security breach. (1) Definitions. As used in this section,
+## § 6-1-716. Notification of security breach. (1) Definitions. As used in this section,
+
 unless the context otherwise requires:
         (a) "Biometric data" means unique biometric data generated from measurements or
 analysis of human body characteristics for the purpose of authenticating the individual when he
@@ -3284,7 +3352,8 @@ criminal violations of section 18-5.5-102.
 (2), (3), and (4) amended, and (5) added, (HB 18-1128), ch. 266, p. 1634, § 3, effective
 September 1.
 
-        6-1-717. Influencing a real estate appraisal - deceptive trade practice. (1) A person
+## § 6-1-717. Influencing a real estate appraisal - deceptive trade practice. (1) A person
+
 engages in a deceptive trade practice when, in the course of such person's business, vocation, or
 occupation, the person:
         (a) Knowingly submits a false or misleading appraisal in connection with a dwelling
@@ -3302,8 +3371,8 @@ conclusion; or
 
        Source: L. 2007: Entire section added, p. 1727, § 4, effective June 1.
 
+## § 6-1-718. Ticket sales and resales - prohibitions - unlawful conditions - definitions.
 
-        6-1-718. Ticket sales and resales - prohibitions - unlawful conditions - definitions.
 (1) As used in this section and in section 6-1-720, unless the context otherwise requires:
         (a) "Operator" means a person or entity who owns, operates, or controls a place of
 entertainment or who promotes or produces entertainment and that sells a ticket to an event for
@@ -3377,7 +3446,8 @@ may revoke or restrict tickets:
 2024, provides that the act changing this section applies to conduct occurring on or after August
 7, 2024.
 
-        6-1-719. Truth in music advertising. (1) Definitions. As used in this section, unless
+## § 6-1-719. Truth in music advertising. (1) Definitions. As used in this section, unless
+
 the context otherwise requires:
         (a) "Performing group" means a vocal or instrumental group seeking to use the name of
 a recording group.
@@ -3425,7 +3495,8 @@ performance or production that violates this section constitutes a separate viol
 
        Source: L. 2008: Entire section added, p. 364, § 1, effective August 5.
 
-        6-1-720. Ticket sales - deceptive trade practice - definitions. (1) A person engages in
+## § 6-1-720. Ticket sales - deceptive trade practice - definitions. (1) A person engages in
+
 a deceptive trade practice when, in the course of the person's business, vocation, or occupation,
 the person:
         (a) Uses or causes to be used a software application that runs automated tasks over the
@@ -3500,7 +3571,8 @@ August 7.
 2024, provides that the act changing this section applies to conduct occurring on or after August
 7, 2024.
 
-         6-1-721. Like-kind exchanges by exchange facilitators - deceptive trade practice -
+## § 6-1-721. Like-kind exchanges by exchange facilitators - deceptive trade practice -
+
 definitions. (1) Legislative declaration. The general assembly hereby:
          (a) Finds that, absent enactment of this section, Colorado has no requirements for the
 protection of taxpayers who engage persons or entities that facilitate like-kind exchanges
@@ -3688,7 +3760,8 @@ facie evidence of the conviction or plea.
        Source: L. 2009: Entire section added, (HB 09-1254), ch. 116, p. 487, § 1, effective
 April 16.
 
-        6-1-722. Gift certificates - validity - exemptions - definitions. (1) (a) As used in this
+## § 6-1-722. Gift certificates - validity - exemptions - definitions. (1) (a) As used in this
+
 section, "gift card" means a prefunded tangible or electronic record of a specific monetary value
 evidencing an issuer's agreement to provide goods, services, credit, money, or anything of value.
 A "gift card" includes, but is not limited to, a tangible card; electronic card; stored-value card; or
@@ -3713,7 +3786,8 @@ section 6-1-105 (1)(ccc).
       Source: L. 2010: Entire section added, (SB 10-155), ch. 180, p. 647, § 1, effective
 August 11.
 
-       6-1-723. Cathinone bath salts - deceptive trade practice. (1) It is unlawful for any
+## § 6-1-723. Cathinone bath salts - deceptive trade practice. (1) It is unlawful for any
+
 person or entity to distribute, dispense, manufacture, display for sale, offer for sale, attempt to
 
 sell, or sell to a purchaser any product that is labeled as a bath salt or any other trademark if the
@@ -3730,7 +3804,8 @@ subsection (1) of this section.
 June 7. L. 2014: Entire section amended, (HB 14-1037), ch. 358, p. 1683, § 5, effective August
 6.
 
-        6-1-724. Unlicensed alternative health-care practitioners - deceptive trade practices
+## § 6-1-724. Unlicensed alternative health-care practitioners - deceptive trade practices
+
 - short title - legislative declaration - definitions. (1) This section shall be known and may be
 cited as the "Colorado Natural Health Consumer Protection Act".
         (2) The general assembly hereby finds and declares that:
@@ -3939,7 +4014,8 @@ the nutritionist from providing nutritional information to the consumer.
        Cross references: For the legislative declaration in HB 16-1320, see section 1 of chapter
 265, Session Laws of Colorado 2016.
 
-        6-1-725. Synthetic cannabinoids - incense - deceptive trade practice. (1) Except in
+## § 6-1-725. Synthetic cannabinoids - incense - deceptive trade practice. (1) Except in
+
 accordance with article 10 of title 44 or article 4 of title 25, it is unlawful for any person or entity
 to distribute, dispense, manufacture, display for sale, offer for sale, attempt to sell, or sell to a
 purchaser any product that contains any amount of any synthetic cannabinoid, as defined in
@@ -3956,7 +4032,8 @@ subsection (1) of this section.
       Source: L. 2014: Entire section added, (HB 14-1037), ch. 358, p. 1681, § 1, effective
 August 6. L. 2023: (1) amended, (SB 23-271), ch. 444, p. 2617, § 9, effective June 7.
 
-        6-1-726. Sale of public services - deceptive trade practice - definition. (1) A person
+## § 6-1-726. Sale of public services - deceptive trade practice - definition. (1) A person
+
 engages in a deceptive trade practice when, in the course of the person's business, vocation, or
 occupation, the person does any of the following with respect to a government service or an
 appointment to receive a government service and if a government entity makes the service or
@@ -3979,7 +4056,8 @@ Colorado.
           Source: L. 2016: Entire section added, (HB 16-1335), ch. 246, p. 1015, § 3, effective
 July 1.
 
-       6-1-727. Immigration-related services provided by nonattorneys - deceptive trade
+## § 6-1-727. Immigration-related services provided by nonattorneys - deceptive trade
+
 practice - definitions. (1) Legislative declaration. The general assembly hereby finds and
 determines that the practice by some nonattorneys of providing legal advice or services in
 immigration matters negatively impacts the people who use their services and the public interest
@@ -4067,7 +4145,8 @@ effective August 9; (3)(e)(III)(A) amended, (SB 17-132), ch. 207, p. 808, § 5, 
 Bill 17-294 to change the effective date of Senate Bill 17-132 from August 9, 2017, to July 1,
 2018.
 
-         6-1-728. Solicitation of fee for a deed or deed of trust - definitions. (1) As used in
+## § 6-1-728. Solicitation of fee for a deed or deed of trust - definitions. (1) As used in
+
 this section:
          (a) "Local government" means a political subdivision of this state, a special purpose
 district in this state, an instrumentality or corporation of such a political subdivision or special
@@ -4107,7 +4186,8 @@ who violates this section. The penalties specified in section 6-1-112 apply to t
       Source: L. 2018: Entire section added, (HB 18-1154), ch. 136, p. 892, § 1, effective
 August 8.
 
-        6-1-729. Assisted living residence referral - disclosures - penalty - fine - definitions.
+## § 6-1-729. Assisted living residence referral - disclosures - penalty - fine - definitions.
+
 (1) As used in this section, unless the context otherwise requires:
         (a) (I) "Assisted living residence" means a residential facility that makes available to
 three or more adults not related to the owner of the facility, either directly or indirectly through
@@ -4166,7 +4246,8 @@ continuance of the violation by the referral agency.
 August 2. L. 2020: (1)(a), (2), and (3) amended, (HB 20-1101), ch. 54, p. 186, § 1, effective
 September 14.
 
-        6-1-730. Price gouging during declared disaster prohibited - deceptive trade
+## § 6-1-730. Price gouging during declared disaster prohibited - deceptive trade
+
 practice - legislative declaration - definitions. (1) The general assembly hereby:
         (a) Finds and determines that:
         (I) Under ordinary conditions, the pricing of consumer goods and services generally is
@@ -4239,7 +4320,8 @@ by a person that:
        Source: L. 2020: Entire section added, (HB 20-1414), ch. 305, p. 1552, § 1, effective
 July 14. L. 2023: (5)(f) amended, (HB 23-1192), ch. 427, p. 2509, § 1, effective June 7.
 
-        6-1-731. Contracts for dating services and online dating services - right of
+## § 6-1-731. Contracts for dating services and online dating services - right of
+
 cancellation - remedy for violations - required notice regarding fraud bans - definitions. (1)
 As used in this section, unless the context otherwise requires:
         (a) "Banned member" means a member whose account or profile is the subject of a fraud
@@ -4438,7 +4520,8 @@ the protections afforded in 47 U.S.C. sec. 230.
        Source: L. 2021: Entire section added, (HB 21-1239), ch. 410, p. 2711, § 1, effective
 January 1, 2022.
 
-       6-1-731.5. Online dating services - deceptive trade practice - safety policy required -
+## § 6-1-731.5. Online dating services - deceptive trade practice - safety policy required -
+
 report - rules - definitions. (1) As used in this section, unless the context otherwise requires:
        (a) "Member" and "member in this state" have the same meaning set forth in section 6-1-
 731.
@@ -4545,7 +4628,8 @@ after August 7, 2024.
        Cross references: For the legislative declaration in SB 24-011, see section 1 of chapter
 402, Session Laws of Colorado 2024.
 
-         6-1-732. Automatic renewal contracts - unlawful acts - required disclosures - right
+## § 6-1-732. Automatic renewal contracts - unlawful acts - required disclosures - right
+
 to cancel - trial period offers - exemptions - definitions. (1) As used in this section, unless the
 context otherwise requires:
          (a) "Automatic renewal contract" means a plan or arrangement in which a paid
@@ -4665,7 +4749,8 @@ enforce this section.
        Source: L. 2021: Entire section added, (HB 21-1239), ch. 410, p. 2711, § 1, effective
 January 1, 2022.
 
-        6-1-733. Solicitations to file a secretary of state document or retrieve a copy of a
+## § 6-1-733. Solicitations to file a secretary of state document or retrieve a copy of a
+
 public record for a fee - requirements - deceptive trade practice - definition. (1) As used in
 this section, "solicit" or "solicitation" means to directly advertise to a person with a form or
 notice that could reasonably be considered a bill, invoice, or compliance obligation but that is
@@ -4695,7 +4780,8 @@ local government or that appears to impose a legal duty on the person being soli
        Source: L. 2023: Entire section added, (SB 23-037), ch. 61, p. 218, § 2, effective August
 7.
 
-        6-1-734. Access to abortion services and emergency contraception - deceptive trade
+## § 6-1-734. Access to abortion services and emergency contraception - deceptive trade
+
 practice - definitions. (1) As used in this section, unless the context otherwise requires:
         (a) "Abortion" has the meaning set forth in section 25-6-402 (1).
         (b) "Emergency contraceptive" means a drug or device approved by the food and drug
@@ -4717,7 +4803,8 @@ person does not provide those specific services.
        Cross references: For the legislative declaration in SB 23-190, see section 1 of chapter
 70, Session Laws of Colorado 2023.
 
-        6-1-735. Rental price gouging during declared disaster prohibited - definitions. (1)
+## § 6-1-735. Rental price gouging during declared disaster prohibited - definitions. (1)
+
 A person engages in an unfair and unconscionable act or practice when, during a disaster period
 and within the designated area if a disaster declaration specifically declares a material decrease
 in residential housing units, the person engages in price gouging in the provision of or offer to
@@ -4756,7 +4843,8 @@ disaster.
           Source: L. 2024: Entire section added, (HB 24-1259), ch. 415, p. 2847, § 1, effective
 June 5.
 
-       6-1-736. Organized youth athletic activities - notice of requirements. The attorney
+## § 6-1-736. Organized youth athletic activities - notice of requirements. The attorney
+
 general shall draft a notice that explains the requirements of part 4 of article 4 of title 26.5 and
 shall make the notice available to all youth sports organizations, as defined in section 26.5-4-
 401, for a youth sports organization to post on its website or provide to parents or legal
@@ -4769,7 +4857,8 @@ August 7.
 
                                SWEEPSTAKES AND CONTESTS
 
-        6-1-801. Legislative finding, declaration, and intent. (1) The general assembly hereby
+## § 6-1-801. Legislative finding, declaration, and intent. (1) The general assembly hereby
+
 finds, determines, and declares that a vast number of sweepstakes and contests have been and are
 
 being directed to Colorado consumers; that Colorado consumers may have paid millions of
@@ -4790,7 +4879,8 @@ achieve this purpose.
 
        Source: L. 2000: Entire part added, p. 861, § 1, effective August 2.
 
-         6-1-802. Definitions. As used in this part 8, unless the context otherwise requires:
+## § 6-1-802. Definitions. As used in this part 8, unless the context otherwise requires:
+
          (1) "Contest" means any game, puzzle, competition, or plan that holds out or offers to
 prospective participants the opportunity to receive or compete for gifts, prizes, or gratuities as
 determined by skill or any combination of chance and skill; except that "contest" shall not be
@@ -4844,7 +4934,8 @@ amended, (SB 18-034), ch. 14, p. 237, § 6, effective October 1; (1) and (10) am
        Editor's note: Amendments to subsections (1) and (10) by HB 18-1027 and SB 18-034
 were harmonized.
 
-         6-1-803. Prohibited practices and required disclosures. (1) No sponsor shall require
+## § 6-1-803. Prohibited practices and required disclosures. (1) No sponsor shall require
+
 a person to pay the sponsor money or any other consideration as a condition of awarding the
 person a prize, or as a condition of allowing the person to receive, use, compete for, or obtain a
 prize or information about a prize.
@@ -4980,7 +5071,8 @@ insurance may not be acquired from the sponsor.
         Source: L. 2000: Entire part added, p. 863, § 1, effective August 2. L. 2002: (17) added,
 p. 383, § 1, effective April 25.
 
-        6-1-804. Exemptions. (1) The requirements of section 6-1-803 (5) and (6) shall not
+## § 6-1-804. Exemptions. (1) The requirements of section 6-1-803 (5) and (6) shall not
+
 apply to solicitations or representations made in connection with the sale of goods:
         (a) By a catalog seller that derives at least thirty-seven and one-half percent of its annual
 revenues from the sale of products sold in connection with the distribution of catalogs of at least
@@ -4998,13 +5090,14 @@ CFR 425.1 concerning the use of negative option plans by sellers in commerce.
 
                                COLORADO NO-CALL LIST ACT
 
+## § 6-1-901. Short title. This part 9 shall be known and may be cited as the "Colorado No-
 
-        6-1-901. Short title. This part 9 shall be known and may be cited as the "Colorado No-
 Call List Act".
 
        Source: L. 2001: Entire part added, p. 1454, § 1, effective August 8.
 
-        6-1-902. Legislative declaration. (1) The general assembly hereby finds, determines,
+## § 6-1-902. Legislative declaration. (1) The general assembly hereby finds, determines,
+
 and declares that:
         (a) The use of the telephone and telefacsimile ("fax") to market goods and services is
 widespread;
@@ -5019,7 +5112,8 @@ citizens of this state can decide whether or not to receive telephone solicitati
 
        Source: L. 2001: Entire part added, p. 1454, § 1, effective August 8.
 
-        6-1-903. Definitions. As used in this part 9, unless the context otherwise requires:
+## § 6-1-903. Definitions. As used in this part 9, unless the context otherwise requires:
+
         (1) "Caller identification service" means a type of telephone service that permits
 telephone subscribers to see the telephone number of incoming telephone calls.
         (2) "Colorado no-call list" means the database of Colorado residential subscribers and
@@ -5096,7 +5190,8 @@ wireless telephones on the same customer account.
 
        Cross references: For the "Gramm-Leach-Bliley Act", see Pub.L. 106-102.
 
-        6-1-904. Unlawful to make telephone solicitations to subscribers on the Colorado
+## § 6-1-904. Unlawful to make telephone solicitations to subscribers on the Colorado
+
 no-call list - requirements for telephone solicitations generally. (1) (a) No person or entity
 shall make or cause to be made any telephone solicitation to the telephone of any residential
 subscriber or wireless telephone service subscriber in this state who has added his or her
@@ -5121,7 +5216,8 @@ whichever is earlier.
 and (3) amended, p. 772, § 2, effective March 25. L. 2007: (2) repealed, p. 2018, § 6, effective
 June 1.
 
-         6-1-905. Establishment and operation of a Colorado no-call list. (1) The Colorado
+## § 6-1-905. Establishment and operation of a Colorado no-call list. (1) The Colorado
+
 no-call list program is hereby created for the purpose of establishing a database to use when
 verifying residential subscribers and wireless telephone service subscribers in this state who
 have given notice, in accordance with rules promulgated under paragraph (b) of subsection (3) of
@@ -5221,7 +5317,8 @@ call list without the authorization of the person to whom the number is assigned
 IP(3)(b), (3)(b)(I), (3)(b)(III), (3)(b)(VIII), (3)(c), and (6) amended, p. 773, § 3, effective March
 25. L. 2004: (8) repealed, p. 585, § 1, effective August 4.
 
-        6-1-906. Enforcement - penalties - defenses. (1) On and after July 1, 2002, violation of
+## § 6-1-906. Enforcement - penalties - defenses. (1) On and after July 1, 2002, violation of
+
 any provision of this part 9 constitutes a deceptive trade practice under the provisions of section
 6-1-105 (1) and may be enforced under sections 6-1-110, 6-1-112, and 6-1-113. No state
 enforcement action under this part 9 may be brought against a person or entity for fewer than
@@ -5243,13 +5340,15 @@ violations of this part 9 committed by other persons or entities.
 
        Source: L. 2001: Entire part added, p. 1460, § 1, effective August 8.
 
-       6-1-907. Acceptance of gifts, grants, and donations. The public utilities commission
+## § 6-1-907. Acceptance of gifts, grants, and donations. The public utilities commission
+
 may accept and expend moneys from gifts, grants, and donations for purposes of administering
 the provisions of this part 9.
 
        Source: L. 2001: Entire part added, p. 1460, § 1, effective August 8.
 
-        6-1-908. Severability. If any provision of this part 9 or the application thereof to any
+## § 6-1-908. Severability. If any provision of this part 9 or the application thereof to any
+
 person or circumstances is held invalid, such invalidity shall not affect other provisions or
 applications of this part 9 which can be given effect without the invalid provision or application,
 and to this end the provisions of this part 9 are declared to be severable.
@@ -5260,7 +5359,8 @@ and to this end the provisions of this part 9 are declared to be severable.
 
           RESTRICTIONS ON USE OF LOAN INFORMATION - SOLICITATIONS
 
-         6-1-1001. Restrictions on use of loan information for solicitations - definition. (1) A
+## § 6-1-1001. Restrictions on use of loan information for solicitations - definition. (1) A
+
 person shall not reference the trade name or trademark of a lender or a trade name or trademark
 confusingly similar to that of a lender in a solicitation for the offering of services or products
 without the consent of the lender unless the solicitation clearly and conspicuously states in bold-
@@ -5320,13 +5420,14 @@ amended, (SB 13-154), ch. 282, p. 1468, § 22, effective July 1.
 
                                     GENERAL PROVISIONS
 
+## § 6-1-1101. Short title. This part 11 shall be known and may be cited as the "Colorado
 
-       6-1-1101. Short title. This part 11 shall be known and may be cited as the "Colorado
 Foreclosure Protection Act".
 
        Source: L. 2006: Entire part added, p. 1330, § 1, effective May 30.
 
-        6-1-1102. Legislative declaration. The general assembly hereby finds, determines, and
+## § 6-1-1102. Legislative declaration. The general assembly hereby finds, determines, and
+
 declares that home ownership and the accumulation of equity in one's home provide significant
 social and economic benefits to the state and its citizens. Unfortunately, too many home owners
 in financial distress, especially the poor, elderly, and financially unsophisticated, are vulnerable
@@ -5343,7 +5444,8 @@ purposes.
 
        Source: L. 2006: Entire part added, p. 1330, § 1, effective May 30.
 
-         6-1-1103. Definitions. As used in this part 11, unless the context otherwise requires:
+## § 6-1-1103. Definitions. As used in this part 11, unless the context otherwise requires:
+
          (1) "Associate" means a partner, subsidiary, affiliate, agent, or any other person working
 in association with a foreclosure consultant or an equity purchaser. "Associate" does not include
 a person who is excluded from the definition of an "equity purchaser" or a "foreclosure
@@ -5494,7 +5596,8 @@ ch. 136, p. 1645, § 13, effective October 1.
 
                                FORECLOSURE CONSULTANTS
 
-        6-1-1104. Foreclosure consulting contract. (1) A foreclosure consulting contract shall
+## § 6-1-1104. Foreclosure consulting contract. (1) A foreclosure consulting contract shall
+
 be in writing and provided to and retained by the home owner, without changes, alterations, or
 modifications, for review at least twenty-four hours before it is signed by the home owner.
         (2) A foreclosure consulting contract shall be printed in at least twelve-point type and
@@ -5565,7 +5668,8 @@ contract does not begin to run until the foreclosure consultant has complied wit
       Source: L. 2006: Entire part added, p. 1334, § 1, effective May 30. L. 2010: (4)
 amended, (HB 10-1133), ch. 350, p. 1616, § 3, effective January 1, 2011.
 
-        6-1-1105. Right of cancellation. (1) In addition to any right of rescission available
+## § 6-1-1105. Right of cancellation. (1) In addition to any right of rescission available
+
 under state or federal law, the home owner has the right to cancel a foreclosure consulting
 contract at any time.
         (2) Cancellation occurs when the home owner gives written notice of cancellation of the
@@ -5587,7 +5691,8 @@ percent per year, from the date of expenditure until repaid by the home owner.
 
        Source: L. 2006: Entire part added, p. 1336, § 1, effective May 30.
 
-        6-1-1106. Waiver of rights - void. (1) A provision in a foreclosure consulting contract
+## § 6-1-1106. Waiver of rights - void. (1) A provision in a foreclosure consulting contract
+
 is void as against public policy if the provision attempts or purports to:
         (a) Waive any of the rights specified in this subpart 2 or the right to a jury trial;
         (b) Consent to jurisdiction for litigation or choice of law in a state other than Colorado;
@@ -5597,7 +5702,8 @@ or
 
        Source: L. 2006: Entire part added, p. 1337, § 1, effective May 30.
 
-        6-1-1107. Prohibited acts. (1) A foreclosure consultant may not:
+## § 6-1-1107. Prohibited acts. (1) A foreclosure consultant may not:
+
         (a) Claim, demand, charge, collect, or receive any compensation until after the
 foreclosure consultant has fully performed each and every service the foreclosure consultant
 contracted to perform or represented that the foreclosure consultant would perform;
@@ -5619,13 +5725,15 @@ contract that does not comply in all respects with this subpart 2.
 
        Source: L. 2006: Entire part added, p. 1337, § 1, effective May 30.
 
-       6-1-1108. Criminal penalties. A person who violates section 6-1-1107 is guilty of a
+## § 6-1-1108. Criminal penalties. A person who violates section 6-1-1107 is guilty of a
+
 misdemeanor, as defined in section 18-1.3-504, C.R.S., and shall be subject to imprisonment in
 county jail for up to one year, a fine of up to twenty-five thousand dollars, or both.
 
        Source: L. 2006: Entire part added, p. 1338, § 1, effective May 30.
 
-         6-1-1109. Unconscionability. (1) A foreclosure consultant or associate may not
+## § 6-1-1109. Unconscionability. (1) A foreclosure consultant or associate may not
+
 facilitate or engage in any transaction that is unconscionable given the terms and circumstances
 of the transaction.
          (2) (a) If a court, as a matter of law, finds a foreclosure consultant contract or any clause
@@ -5645,7 +5753,8 @@ associate.
 
        Source: L. 2006: Entire part added, p. 1338, § 1, effective May 30.
 
-        6-1-1110. Language. A foreclosure consulting contract, and all notices of cancellation
+## § 6-1-1110. Language. A foreclosure consulting contract, and all notices of cancellation
+
 provided for therein, shall be written in English and shall be accompanied by a written
 translation from English into any other language principally spoken by the home owner, certified
 by the person making the translation as a true and correct translation of the English version. The
@@ -5657,7 +5766,8 @@ translated version shall be presumed to have equal status and credibility as the
 
                                    EQUITY PURCHASERS
 
-        6-1-1111. Written contract required. Every contract shall be written in at least nine-
+## § 6-1-1111. Written contract required. Every contract shall be written in at least nine-
+
 point, legible type and fully completed, signed, and dated by the home owner and equity
 purchaser prior to the execution of any instrument quit-claiming, assigning, transferring,
 conveying, or encumbering an interest in the residence in foreclosure.
@@ -5665,7 +5775,8 @@ conveying, or encumbering an interest in the residence in foreclosure.
         Source: L. 2006: Entire part added, p. 1338, § 1, effective May 30. L. 2010: Entire
 section amended, (HB 10-1133), ch. 350, p. 1616, § 4, effective January 1, 2011.
 
-        6-1-1112. Written contract - contents - notice. (1) Every contract shall contain the
+## § 6-1-1112. Written contract - contents - notice. (1) Every contract shall contain the
+
 entire agreement of the parties and shall include the following terms:
         (a) The name, business address, and telephone number of the equity purchaser;
         (b) The street address and full legal description of the residence in foreclosure;
@@ -5700,7 +5811,8 @@ the parties to the contract or affect title to the residence in foreclosure.
       Source: L. 2006: Entire part added, p. 1339, § 1, effective May 30. L. 2010: IP(1)(j)
 amended, (HB 10-1133), ch. 350, p. 1617, § 5, effective January 1, 2011.
 
-        6-1-1113. Cancellation. (1) In addition to any right of rescission available under state
+## § 6-1-1113. Cancellation. (1) In addition to any right of rescission available under state
+
 or federal law, the home owner has the right to cancel a contract with an equity purchaser until
 12 midnight of the third business day following the day on which the home owner signs a
 contract that complies with this part 11 or until 12 noon on the day before the foreclosure sale of
@@ -5719,7 +5831,8 @@ purchaser.
 
        Source: L. 2006: Entire part added, p. 1340, § 1, effective May 30.
 
-         6-1-1114. Notice of cancellation. (1) (a) The contract shall contain, as the last
+## § 6-1-1114. Notice of cancellation. (1) (a) The contract shall contain, as the last
+
 provision before the space reserved for the home owner's signature, a conspicuous statement in
 at least twelve-point bold-faced type, as follows:
 
@@ -5754,7 +5867,8 @@ cancel the contract.
         Source: L. 2006: Entire part added, p. 1340, § 1, effective May 30. L. 2010: IP(2) and
 IP(2)(c) amended, (HB 10-1133), ch. 350, p. 1617, § 6, effective January 1, 2011.
 
-        6-1-1115. Options through reconveyances. (1) A transaction in which a home owner
+## § 6-1-1115. Options through reconveyances. (1) A transaction in which a home owner
+
 purports to grant a residence in foreclosure to an equity purchaser by an instrument that appears
 to be an absolute conveyance and reserves to the home owner or is given by the equity purchaser
 an option to repurchase shall be permitted only where all of the following conditions have been
@@ -5786,7 +5900,8 @@ foreclosure.
 
        Source: L. 2006: Entire part added, p. 1341, § 1, effective May 30.
 
-       6-1-1116. Waiver of rights - void. (1) A provision in a contract between an equity
+## § 6-1-1116. Waiver of rights - void. (1) A provision in a contract between an equity
+
 purchaser and home owner is void as against public policy if it attempts or purports to:
        (a) Waive any of the rights specified in this subpart 3 or the right to a jury trial;
        (b) Consent to jurisdiction for litigation or choice of law in a state other than Colorado;
@@ -5796,7 +5911,8 @@ or
 
        Source: L. 2006: Entire part added, p. 1342, § 1, effective May 30.
 
-        6-1-1117. Prohibited conduct. (1) The contract provisions required by sections 6-1-
+## § 6-1-1117. Prohibited conduct. (1) The contract provisions required by sections 6-1-
+
 1111 to 6-1-1114 shall be provided and completed in conformity with such sections by the
 equity purchaser.
         (2) Until the time within which the home owner may cancel the transaction has fully
@@ -5821,7 +5937,8 @@ concerning the sale of the residence in foreclosure to the equity purchaser.
 
        Source: L. 2006: Entire part added, p. 1342, § 1, effective May 30.
 
-        6-1-1118. Criminal penalties. A person who violates section 6-1-1117 (2) or (3) or who
+## § 6-1-1118. Criminal penalties. A person who violates section 6-1-1117 (2) or (3) or who
+
 intentionally violates section 6-1-1117 (4) is guilty of a misdemeanor, as defined in section 18-
 1.3-504, C.R.S., and shall be subject to imprisonment in county jail for up to one year, a fine of
 up to twenty-five thousand dollars, or both.
@@ -5829,7 +5946,8 @@ up to twenty-five thousand dollars, or both.
 
        Source: L. 2006: Entire part added, p. 1343, § 1, effective May 30.
 
-         6-1-1119. Unconscionability. (1) An equity purchaser or associate may not facilitate or
+## § 6-1-1119. Unconscionability. (1) An equity purchaser or associate may not facilitate or
+
 engage in any transaction that is unconscionable given the terms and circumstances of the
 transaction.
          (2) (a) If a court, as a matter of law, finds an equity purchaser contract or any clause of
@@ -5848,7 +5966,8 @@ associate.
 
        Source: L. 2006: Entire part added, p. 1343, § 1, effective May 30.
 
-       6-1-1120. Language. (1) Any contract, rental agreement, lease, option or right to
+## § 6-1-1120. Language. (1) Any contract, rental agreement, lease, option or right to
+
 repurchase, and any notice, conveyance, lien, encumbrance, consent, or other document or
 instrument signed by a home owner, shall be written in English; except that, if the equity
 purchaser has actual or constructive knowledge that the home owner's principal language is other
@@ -5867,7 +5986,8 @@ document accompanying the written contract required by section 6-1-1111.
         Source: L. 2006: Entire part added, p. 1343, § 1, effective May 30. L. 2010: Entire
 section amended, (HB 10-1133), ch. 350, p. 1617, § 7, effective January 1, 2011.
 
-        6-1-1121. Short sales - subsequent purchaser - definition. (1) With respect to any
+## § 6-1-1121. Short sales - subsequent purchaser - definition. (1) With respect to any
+
 short sale transaction in which an equity purchaser intends to resell the residence in foreclosure
 to a subsequent purchaser, the equity purchaser shall:
         (a) Provide full disclosure to the home owner and to the holders of the evidence of debt
@@ -5897,13 +6017,15 @@ January 1, 2011.
 
                             PEER-TO-PEER CAR SHARING ACT
 
-       6-1-1201. Short title. The short title of this part 12 is the "Colorado Peer-to-peer Car
+## § 6-1-1201. Short title. The short title of this part 12 is the "Colorado Peer-to-peer Car
+
 Sharing Act".
 
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3492, § 1, effective January
 1, 2020.
 
-        6-1-1202. Definitions. As used in this part 12, unless the context otherwise requires:
+## § 6-1-1202. Definitions. As used in this part 12, unless the context otherwise requires:
+
         (1) "Car" means a motor vehicle as defined in section 42-1-102 (58).
         (2) "Car sharing" means the authorized use of a shared car by persons other than the
 shared car's owner, facilitated by a car sharing program.
@@ -5946,7 +6068,8 @@ possession and control of the shared car.
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3492, § 1, effective January
 1, 2020. L. 2020: (5) amended, (HB 20-1402), ch. 216, p. 1041, § 3, effective June 30.
 
-        6-1-1203. Insurance coverage during car sharing period. (1) (a) Except as provided
+## § 6-1-1203. Insurance coverage during car sharing period. (1) (a) Except as provided
+
 in subsection (1)(b) of this section, a car sharing program shall assume the liability of a shared
 car owner for any bodily injury or property damage to third parties, or uninsured and
 underinsured motorist or personal injury protection losses, during the sharing period up to an
@@ -6017,7 +6140,8 @@ caused by a breach of the terms and conditions of the car sharing agreement.
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3494, § 1, effective January
 1, 2020. L. 2020: (8)(a) amended, (HB 20-1402), ch. 216, p. 1041, § 4, effective June 30.
 
-        6-1-1204. Notification of implications of lien. When a car owner registers as a shared
+## § 6-1-1204. Notification of implications of lien. When a car owner registers as a shared
+
 car owner on a car sharing program and before the shared car is made available for car sharing,
 the car sharing program shall notify the shared car owner that, if the shared car has a lien against
 it, the use of the shared car through a car sharing program, including use without physical
@@ -6026,7 +6150,8 @@ damage coverage, may violate the terms of the contract with the lienholder.
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3496, § 1, effective January
 1, 2020.
 
-        6-1-1205. Liability - exclusions for personal automobile liability insurance policy -
+## § 6-1-1205. Liability - exclusions for personal automobile liability insurance policy -
+
 indemnification. (1) An authorized insurer may exclude coverage and the duty to defend or
 indemnify for any claim under a shared car owner's personal automobile liability insurance
 policy. This part 12 does not invalidate or limit an exclusion contained in an automobile liability
@@ -6042,7 +6167,8 @@ during the sharing period; and
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3496, § 1, effective January
 1, 2020. L. 2020: IP(2) amended, (HB 20-1402), ch. 216, p. 1041, § 5, effective June 30.
 
-        6-1-1206. Prohibition on exclusion of coverage for car sharing. An automobile
+## § 6-1-1206. Prohibition on exclusion of coverage for car sharing. An automobile
+
 insurance company shall not exclude otherwise applicable uninsured or underinsured motorist
 coverage from a shared car driver's or passenger's personal automobile insurance policy because
 of the person's participation in car sharing.
@@ -6050,7 +6176,8 @@ of the person's participation in car sharing.
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3496, § 1, effective January
 1, 2020.
 
-        6-1-1207. Record keeping. A car sharing program shall collect and verify records
+## § 6-1-1207. Record keeping. A car sharing program shall collect and verify records
+
 concerning the use of a vehicle, including times used, fees paid by the shared car driver, and
 revenues received by the shared car owner. A car sharing program shall provide these records
 upon request to the shared car owner; to facilitate a claim investigation, to the shared car owner's
@@ -6062,14 +6189,16 @@ injury statute of limitations.
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3496, § 1, effective January
 1, 2020.
 
-        6-1-1208. Federal law - vicarious liability. A car sharing program and a shared car
+## § 6-1-1208. Federal law - vicarious liability. A car sharing program and a shared car
+
 owner are exempt from vicarious liability in accordance with 49 U.S.C. sec. 30106 and under
 any state or local law that imposes liability based only on vehicle ownership.
 
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3497, § 1, effective January
 1, 2020.
 
-        6-1-1209. Insurable interest. (1) A car sharing program shall have an insurable interest
+## § 6-1-1209. Insurable interest. (1) A car sharing program shall have an insurable interest
+
 in a shared car during the sharing period. This section does not create liability for a car sharing
 program for failure to maintain the insurance coverage required in section 6-1-1203 if insurance
 coverage is maintained in compliance with section 6-1-1203 by the shared car driver or the
@@ -6086,7 +6215,8 @@ for:
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3497, § 1, effective January
 1, 2020.
 
-        6-1-1210. Required disclosures and notices. (1) A car sharing program shall, for each
+## § 6-1-1210. Required disclosures and notices. (1) A car sharing program shall, for each
+
 shared car participating in a car sharing agreement on its platform, do all of the following:
         (a) Provide the shared car owner and the shared car driver with the terms and conditions
 of the car sharing agreement;
@@ -6119,7 +6249,8 @@ car in order to drive a shared car.
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3497, § 1, effective January
 1, 2020.
 
-        6-1-1211. Driver's license verification and data retention. (1) A car sharing program
+## § 6-1-1211. Driver's license verification and data retention. (1) A car sharing program
+
 shall not enter into a car sharing agreement with a shared car driver unless the driver:
         (a) Holds a driver's license, issued under article 2 of title 42, that authorizes the driver to
 operate cars of the class of the shared car; or
@@ -6132,7 +6263,8 @@ operate cars of the class of the shared car; or
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3498, § 1, effective January
 1, 2020. L. 2020: IP(1) amended, (HB 20-1402), ch. 216, p. 1041, § 6, effective June 30.
 
-        6-1-1212. Shared car equipment. A car sharing program is responsible for any
+## § 6-1-1212. Shared car equipment. A car sharing program is responsible for any
+
 equipment, including a GPS system, that is put in or on the car to monitor or facilitate the car
 sharing transaction. A car sharing program shall indemnify and hold harmless the shared car
 owner for any damage to or theft of the equipment during the sharing period, unless caused by
@@ -6142,7 +6274,8 @@ car driver for any loss or damage to the equipment that occurs during the sharin
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3498, § 1, effective January
 1, 2020.
 
-       6-1-1213. Safety recalls. (1) When a shared car owner registers a shared car with a car
+## § 6-1-1213. Safety recalls. (1) When a shared car owner registers a shared car with a car
+
 sharing program and before the shared car is available for car sharing, the car sharing program
 shall:
 
@@ -6166,7 +6299,8 @@ the safety recall.
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3498, § 1, effective January
 1, 2020.
 
-        6-1-1214. Enabling operation at airport. (1) A car sharing program shall enter into an
+## § 6-1-1214. Enabling operation at airport. (1) A car sharing program shall enter into an
+
 airport concession agreement before enabling car sharing at the airport, unless the airport
 explicitly and in writing waives the right to require an agreement.
         (2) A car sharing program is enabling car sharing at an airport if the car sharing program
@@ -6187,7 +6321,8 @@ program.
        Source: L. 2019: Entire part added, (SB 19-090), ch. 391, p. 3499, § 1, effective January
 1, 2020.
 
-         6-1-1215. Shared car accessibility. (1) Effective January 1, 2028, at the time a shared
+## § 6-1-1215. Shared car accessibility. (1) Effective January 1, 2028, at the time a shared
+
 car is first made available through a car sharing program, the program must enable the shared car
 owner to indicate whether the shared car has been modified for accessibility for individuals with
 disabilities.
@@ -6211,12 +6346,13 @@ June 3.
 Comply with the Colorado Privacy Act", see 52 Colo. Law. 24 (Oct. 2023); "Data Controllers as
 Data Fiduciaries: Theory, Definitions & Burdens of Proof", see 95 U. Colo. L. Rev. 175 (2024).
 
-          6-1-1301. Short title. The short title of this part 13 is the "Colorado Privacy Act".
+## § 6-1-1301. Short title. The short title of this part 13 is the "Colorado Privacy Act".
 
           Source: L. 2021: Entire part added, (SB 21-190), ch. 483, p. 3445, § 1, effective July 1,
 2023.
 
-        6-1-1302. Legislative declaration. (1) The general assembly hereby:
+## § 6-1-1302. Legislative declaration. (1) The general assembly hereby:
+
         (a) Finds that:
         (I) The people of Colorado regard their privacy as a fundamental right and an essential
 element of their individual freedom;
@@ -6288,7 +6424,8 @@ prevent future violations.
 provides that the act changing this section applies to conduct occurring on or after October 1,
 2025.
 
-        6-1-1303. Definitions. As used in this part 13, unless the context otherwise requires:
+## § 6-1-1303. Definitions. As used in this part 13, unless the context otherwise requires:
+
         (1) [Editor's note: This version of subsection (1) is effective until October 1, 2025.]
 "Affiliate" means a legal entity that controls, is controlled by, or is under common control with
 another legal entity. As used in this subsection (1), "control" means:
@@ -6503,7 +6640,8 @@ biometric identifiers and biometric data on and after July 1, 2025.
 68, Session Laws of Colorado 2024. For the legislative declaration in HB 24-1130, see section 1
 of chapter 313, Session Laws of Colorado 2024.
 
-        6-1-1304. Applicability of part. (1) [Editor's note: This version of subsection (1) is
+## § 6-1-1304. Applicability of part. (1) [Editor's note: This version of subsection (1) is
+
 effective until July 1, 2025.] Except as specified in subsection (2) of this section, this part 13
 applies to a controller that:
         (a) Conducts business in Colorado or produces or delivers commercial products or
@@ -6711,7 +6849,8 @@ biometric identifiers and biometric data on and after July 1, 2025.
        Cross references: For the legislative declaration in HB 24-1130, see section 1 of chapter
 313, Session Laws of Colorado 2024.
 
-        6-1-1305. Responsibility according to role. (1) Controllers and processors shall meet
+## § 6-1-1305. Responsibility according to role. (1) Controllers and processors shall meet
+
 their respective obligations established under this part 13.
         (2) Processors shall adhere to the instructions of the controller and assist the controller to
 meet its obligations under this part 13. Taking into account the nature of processing and the
@@ -6781,7 +6920,8 @@ with applicable obligations under this part 13.
         Source: L. 2021: Entire part added, (SB 21-190), ch. 483, p. 3455, § 1, effective July 1,
 2023.
 
-        6-1-1305.5. Responsibility according to role - processing data of minors. [Editor's
+## § 6-1-1305.5. Responsibility according to role - processing data of minors. [Editor's
+
 note: This section is effective October 1, 2025.] (1) A processor shall adhere to the instructions
 of a controller and shall assist the controller to meet the controller's obligations under sections 6-
 1-1308.5 and 6-1-1309.5, taking into account the nature of the processing and the information
@@ -6812,7 +6952,8 @@ October 1, 2025.
        Editor's note: Section 6(2) of chapter 296 (SB 24-041), Session Laws of Colorado 2024,
 provides that the act adding this section applies to conduct occurring on or after October 1, 2025.
 
-        6-1-1306. Consumer personal data rights. (1) Consumers may exercise the following
+## § 6-1-1306. Consumer personal data rights. (1) Consumers may exercise the following
+
 rights by submitting a request using the methods specified by the controller in the privacy notice
 required under section 6-1-1308 (1)(a). The method must take into account the ways in which
 consumers normally interact with the controller, the need for secure and reliable communication
@@ -6918,7 +7059,8 @@ attorney general if the consumer has concerns about the result of the appeal.
         Editor's note: Subsection (1)(a)(IV)(A) provided for the repeal of subsection
 (1)(a)(IV)(A), effective July 1, 2024. (See L. 2021, p. 3457.)
 
-       6-1-1307. Processing de-identified data. (1) This part 13 does not require a controller
+## § 6-1-1307. Processing de-identified data. (1) This part 13 does not require a controller
+
 or processor to do any of the following solely for purposes of complying with this part 13:
        (a) Reidentify de-identified data;
        (b) Comply with an authenticated consumer request to access, correct, delete, or provide
@@ -6949,7 +7091,8 @@ that prevent the controller from accessing the information.
         Source: L. 2021: Entire part added, (SB 21-190), ch. 483, p. 3460, § 1, effective July 1,
 2023.
 
-        6-1-1308. Duties of controllers. (1) Duty of transparency. (a) A controller shall
+## § 6-1-1308. Duties of controllers. (1) Duty of transparency. (a) A controller shall
+
 provide consumers with a reasonably accessible, clear, and meaningful privacy notice that
 includes:
         (I) The categories of personal data collected or processed by the controller or a
@@ -6998,7 +7141,8 @@ guardian.
         Source: L. 2021: Entire part added, (SB 21-190), ch. 483, p. 3460, § 1, effective July 1,
 2023.
 
-        6-1-1308.5. Duties of controllers - duty of care - rebuttable presumption. [Editor's
+## § 6-1-1308.5. Duties of controllers - duty of care - rebuttable presumption. [Editor's
+
 note: This section is effective October 1, 2025.] (1) (a) A controller that offers any online
 service, product, or feature to a consumer whom the controller actually knows or willfully
 disregards is a minor shall use reasonable care to avoid any heightened risk of harm to minors
@@ -7070,7 +7214,8 @@ October 1, 2025.
        Editor's note: Section 6(2) of chapter 296 (SB 24-041), Session Laws of Colorado 2024,
 provides that the act adding this section applies to conduct occurring on or after October 1, 2025.
 
-        6-1-1309. Data protection assessments - attorney general access and evaluation -
+## § 6-1-1309. Data protection assessments - attorney general access and evaluation -
+
 definition. (1) A controller shall not conduct processing that presents a heightened risk of harm
 to a consumer without conducting and documenting a data protection assessment of each of its
 processing activities that involve personal data acquired on or after July 1, 2023, that present a
@@ -7110,7 +7255,8 @@ generated after July 1, 2023, and are not retroactive.
         Source: L. 2021: Entire part added, (SB 21-190), ch. 483, p. 3462, § 1, effective July 1,
 2023.
 
-        6-1-1309.5. Data protection assessments - heightened risk of harm to minors.
+## § 6-1-1309.5. Data protection assessments - heightened risk of harm to minors.
+
 [Editor's note: This section is effective October 1, 2025.] (1) A controller that, on or after
 October 1, 2025, offers any online service, product, or feature to a consumer whom such
 controller actually knows or willfully disregards is a minor shall conduct a data protection
@@ -7169,7 +7315,8 @@ October 1, 2025.
        Editor's note: Section 6(2) of chapter 296 (SB 24-041), Session Laws of Colorado 2024,
 provides that the act adding this section applies to conduct occurring on or after October 1, 2025.
 
-         6-1-1310. Liability. (1) Notwithstanding any provision in part 1 of this article 1, this
+## § 6-1-1310. Liability. (1) Notwithstanding any provision in part 1 of this article 1, this
+
 part 13 does not authorize a private right of action for a violation of this part 13 or any other
 provision of law. This subsection (1) neither relieves any party from any duties or obligations
 imposed, nor alters any independent rights that consumers have, under other laws, including this
@@ -7181,7 +7328,8 @@ parties according to principles of comparative fault.
         Source: L. 2021: Entire part added, (SB 21-190), ch. 483, p. 3463, § 1, effective July 1,
 2023.
 
-        6-1-1311. Enforcement - penalties - repeal. (1) (a) Notwithstanding any other
+## § 6-1-1311. Enforcement - penalties - repeal. (1) (a) Notwithstanding any other
+
 provision of this article 1, the attorney general and district attorneys have exclusive authority to
 enforce this part 13 by bringing an action in the name of the state or as parens patriae on behalf
 of persons residing in the state to enforce this part 13 as provided in this article 1, including
@@ -7225,7 +7373,8 @@ take effect due to the repeal of subsection (1)(d)(I), effective January 1, 2025
         (2) Section 6(2) of chapter 296 (SB 24-041), Session Laws of Colorado 2024, provides
 that the act changing this section applies to conduct occurring on or after October 1, 2025.
 
-       6-1-1312. Preemption - local governments. This part 13 supersedes and preempts laws,
+## § 6-1-1312. Preemption - local governments. This part 13 supersedes and preempts laws,
+
 ordinances, resolutions, regulations, or the equivalent adopted by any statutory or home rule
 municipality, county, or city and county regarding the processing of personal data by controllers
 or processors.
@@ -7233,7 +7382,8 @@ or processors.
         Source: L. 2021: Entire part added, (SB 21-190), ch. 483, p. 3464, § 1, effective July 1,
 2023.
 
-        6-1-1313. Rules - opt-out mechanism. (1) The attorney general may promulgate rules
+## § 6-1-1313. Rules - opt-out mechanism. (1) The attorney general may promulgate rules
+
 for the purpose of carrying out this part 13.
         (2) By July 1, 2023, the attorney general shall adopt rules that detail the technical
 specifications for one or more universal opt-out mechanisms that clearly communicate a
@@ -7267,7 +7417,8 @@ violation of this part 13. The rules must become effective by July 1, 2025.
         Source: L. 2021: Entire part added, (SB 21-190), ch. 483 p. 3464, § 1, effective July 1,
 2023.
 
-        6-1-1314. Biometric data and biometric identifiers - controllers - duties and
+## § 6-1-1314. Biometric data and biometric identifiers - controllers - duties and
+
 requirements - written policy - prohibited acts - right to correct biometric identifiers -
 right to access biometric identifiers - remedies and civil actions - rules - definitions.
 [Editor's note: This section is effective July 1, 2025.] (1) As used in this section, unless the
@@ -7440,7 +7591,8 @@ use of biometric identifiers and biometric data on and after July 1, 2025.
 
                                    ONLINE MARKETPLACES
 
-        6-1-1401. Definitions. As used in this part 14, unless the context otherwise requires:
+## § 6-1-1401. Definitions. As used in this part 14, unless the context otherwise requires:
+
         (1) "Consumer product" means any tangible personal property that is distributed in
 commerce and that is normally used for personal, family, or household purposes, including any
 such property intended to be attached to or installed in any real property without regard to
@@ -7488,7 +7640,8 @@ marketplace to reliably determine that any information and documents provided:
        Source: L. 2022: Entire part added, (HB 22-1099), ch. 21, p. 137, § 1, effective January
 1, 2023.
 
-        6-1-1402. Disclosure of information by online marketplaces to inform consumers.
+## § 6-1-1402. Disclosure of information by online marketplaces to inform consumers.
+
 (1) Collection required. An online marketplace shall require a high-volume third-party seller
 participating in the online marketplace to provide the online marketplace with the following
 information within ten days after qualifying as a high-volume third-party seller:
@@ -7607,7 +7760,8 @@ future sales activity of such seller until the seller complies with the requirem
        Source: L. 2022: Entire part added, (HB 22-1099), ch. 21, p. 139, § 1, effective January
 1, 2023.
 
-        6-1-1403. Enforcement. (1) (a) The attorney general and district attorneys have
+## § 6-1-1403. Enforcement. (1) (a) The attorney general and district attorneys have
+
 exclusive authority to enforce this part 14 by bringing an action in the name of the state or as
 parens patriae on behalf of persons residing in the state to enforce this part 14 as provided in part
 1 of this article 1.
@@ -7621,7 +7775,8 @@ deceptive trade practice pursuant to section 6-1-105 (1)(ooo).
        Source: L. 2022: Entire part added, (HB 22-1099), ch. 21, p. 142, § 1, effective January
 1, 2023.
 
-        6-1-1404. Preemption. (1) A political subdivision shall not establish, mandate, or
+## § 6-1-1404. Preemption. (1) A political subdivision shall not establish, mandate, or
+
 otherwise require online marketplaces to:
         (a) Verify information from high-volume third-party sellers on a one-time or ongoing
 basis; or
@@ -7634,14 +7789,16 @@ basis; or
 
                                CONSUMER RIGHT TO REPAIR
 
-       6-1-1501. Short title. The short title of this part 15 is the "Consumer Repair Bill of
+## § 6-1-1501. Short title. The short title of this part 15 is the "Consumer Repair Bill of
+
 Rights Act".
 
        Source: L. 2022: Entire part added, (HB 22-1031), ch. 327, p. 2307, § 2, effective
 January 1, 2023. L. 2023: Entire section amended, (HB 23-1011), ch. 107, p. 383, § 1, effective
 January 1, 2024.
 
-        6-1-1502. Definitions - repeal. As used in this part 15, unless the context otherwise
+## § 6-1-1502. Definitions - repeal. As used in this part 15, unless the context otherwise
+
 requires:
         (1) (a) "Agricultural equipment" means equipment that is primarily designed for use in a
 farm or ranch operation.
@@ -7902,7 +8059,8 @@ IP(5), (5.5), (7.2), (7.3), (7.5), (7.7), (7.8), (10.3), and (15) added, (HB 24-
 1702, § 1, effective January 1, 2026; (4)(c) and (4.3)(b) added by revision, (HB 24-1121), ch.
 258, pp. 1702, 1710, §§ 1, 3.
 
-        6-1-1503. Manufacturer obligations regarding services - exemptions. (1) [Editor's
+## § 6-1-1503. Manufacturer obligations regarding services - exemptions. (1) [Editor's
+
 note: This version of subsection (1) is effective until January 1, 2026.] Except as provided in
 subsection (2) of this section:
         (a) For the purpose of providing services for equipment in the state, an original
@@ -8109,7 +8267,8 @@ added, (HB 23-1011), ch. 107, p. 386, § 3, effective January 1, 2024. L. 2024: 
 IP(3), (3)(a), and (3)(c) amended and (5) to (10) added, (HB 24-1121), ch. 258, p. 1706, § 2,
 effective January 1, 2026.
 
-       6-1-1504. Limitations. (1) Subject to subsection (2) of this section, nothing in this part
+## § 6-1-1504. Limitations. (1) Subject to subsection (2) of this section, nothing in this part
+
 15:
        (a) Alters the terms of any contract or other arrangement in force between an original
 equipment manufacturer and an authorized repair provider, including the performance or
@@ -8153,7 +8312,8 @@ understanding is still obligated to meet the requirements established in this pa
 January 1, 2023. L. 2023: (1)(a.5) added and (2) amended, (HB 23-1011), ch. 107, p. 387, § 4,
 effective January 1, 2024.
 
-        6-1-1505. Federal legislation on right to repair agricultural equipment - repeal -
+## § 6-1-1505. Federal legislation on right to repair agricultural equipment - repeal -
+
 notice to revisor. This part 15, as amended by House Bill 23-1011, enacted in 2023, will be
 repealed if the United States congress enacts federal legislation establishing a right to repair
 agricultural equipment. The attorney general shall notify the revisor of statutes in writing of the
@@ -8177,7 +8337,8 @@ referred to in this section.
        Cross references: For the legislative declaration in HB 24-1136, see section 1 of
 chapter 460, Session Laws of Colorado 2024.
 
-        6-1-1601. Social media platform - youth users - definition. (1) On or after January 1,
+## § 6-1-1601. Social media platform - youth users - definition. (1) On or after January 1,
+
 2026, a social media platform must establish a function that either:
         (a) Meets the criteria in subsection (2) of this section and be informed by the standards
 established in subsection (5) of this section; or
@@ -8269,7 +8430,8 @@ August 7.
 
                                   ARTIFICIAL INTELLIGENCE
 
-         6-1-1701. Definitions. As used in this part 17, unless the context otherwise requires:
+## § 6-1-1701. Definitions. As used in this part 17, unless the context otherwise requires:
+
          (1) (a) "Algorithmic discrimination" means any condition in which the use of an
 artificial intelligence system results in an unlawful differential treatment or impact that disfavors
 an individual or group of individuals on the basis of their actual or perceived age, color,
@@ -8370,7 +8532,8 @@ basis to make a consequential decision concerning the consumer.
 
        Source: L. 2024: Entire part added, (SB 24-205), ch. 198, p. 1199, § 1, effective May 17.
 
-        6-1-1702.     Developer duty to avoid algorithmic discrimination - required
+## § 6-1-1702. Developer duty to avoid algorithmic discrimination - required
+
 documentation. (1) On and after February 1, 2026, a developer of a high-risk artificial
 intelligence system shall use reasonable care to protect consumers from any known or
 reasonably foreseeable risks of algorithmic discrimination arising from the intended and
@@ -8465,7 +8628,8 @@ of the privilege or protection.
 
        Source: L. 2024: Entire part added, (SB 24-205), ch. 198, p. 1203, § 1, effective May 17.
 
-        6-1-1703. Deployer duty to avoid algorithmic discrimination - risk management
+## § 6-1-1703. Deployer duty to avoid algorithmic discrimination - risk management
+
 policy and program. (1) On and after February 1, 2026, a deployer of a high-risk artificial
 intelligence system shall use reasonable care to protect consumers from any known or
 reasonably foreseeable risks of algorithmic discrimination. In any enforcement action brought on
@@ -8659,7 +8823,8 @@ privilege or protection.
 
        Source: L. 2024: Entire part added, (SB 24-205), ch. 198, p. 1205, § 1, effective May 17.
 
-        6-1-1704. Disclosure of an artificial intelligence system to consumer. (1) On and
+## § 6-1-1704. Disclosure of an artificial intelligence system to consumer. (1) On and
+
 after February 1, 2026, and except as provided in subsection (2) of this section, a deployer or
 other developer that deploys, offers, sells, leases, licenses, gives, or otherwise makes available
 an artificial intelligence system that is intended to interact with consumers shall ensure the
@@ -8672,7 +8837,8 @@ intelligence system.
 
        Source: L. 2024: Entire part added, (SB 24-205), ch. 198, p. 1211, § 1, effective May 17.
 
-         6-1-1705. Compliance with other legal obligations - definitions. (1) Nothing in this
+## § 6-1-1705. Compliance with other legal obligations - definitions. (1) Nothing in this
+
 part 17 restricts a developer's, a deployer's, or other person's ability to:
          (a) Comply with federal, state, or municipal laws, ordinances, or regulations;
          (b) Comply with a civil, criminal, or regulatory inquiry, investigation, subpoena, or
@@ -8781,7 +8947,8 @@ demonstrating that the action qualifies for the exemption.
 
        Source: L. 2024: Entire part added, (SB 24-205), ch. 198, p. 1211, § 1, effective May 17.
 
-         6-1-1706. Enforcement by attorney general. (1) Notwithstanding section 6-1-103, the
+## § 6-1-1706. Enforcement by attorney general. (1) Notwithstanding section 6-1-103, the
+
 attorney general has exclusive authority to enforce this part 17.
          (2) Except as provided in subsection (3) of this section, a violation of the requirements
 established in this part 17 constitutes an unfair trade practice pursuant to section 6-1-105
@@ -8819,7 +8986,8 @@ action for violations of this part 17 or any other law.
 
        Source: L. 2024: Entire part added, (SB 24-205), ch. 198, p. 1215, § 1, effective May 17.
 
-        6-1-1707. Rules. (1) The attorney general may promulgate rules as necessary for the
+## § 6-1-1707. Rules. (1) The attorney general may promulgate rules as necessary for the
+
 purpose of implementing and enforcing this part 17, including:
         (a) The documentation and requirements for developers pursuant to section 6-1-1702
 (2);
@@ -8836,5 +9004,3 @@ including the process by which the attorney general will recognize any other nat
 internationally recognized risk management framework for artificial intelligence systems.
 
        Source: L. 2024: Entire part added, (SB 24-205), ch. 198, p. 1216, § 1, effective May 17.
-```
-

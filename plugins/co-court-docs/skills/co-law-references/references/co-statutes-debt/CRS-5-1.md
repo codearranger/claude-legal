@@ -8,7 +8,8 @@
 
 ---
 
-```
+## Prelude / editor's notes
+
                                           ARTICLE 1
 
                                General Provisions and Definitions
@@ -28,14 +29,16 @@ the comparative tables located in the back of the index.
                               SHORT TITLE, CONSTRUCTION,
                                  GENERAL PROVISIONS
 
-       5-1-101. Short title. Articles 1 to 9 of this title shall be known and may be cited as the
+## § 5-1-101. Short title. Articles 1 to 9 of this title shall be known and may be cited as the
+
 "Uniform Consumer Credit Code", referred to in said articles as the "code".
 
        Source: L. 2000: Entire article R&RE, p. 1178, § 1, effective July 1.
 
        Editor's note: This section is similar to former § 5-1-101, as it existed prior to 2000.
 
-        5-1-102. Purposes - rules of construction. (1) This code shall be liberally construed
+## § 5-1-102. Purposes - rules of construction. (1) This code shall be liberally construed
+
 and applied to promote its underlying purposes and policies.
         (2) The underlying purposes and policies of this code are:
         (a) To simplify, clarify, and modernize the law governing retail installment sales,
@@ -63,7 +66,8 @@ rule of the administrator adopted pursuant to this code.
        Cross references: For the definitions and federal statutory cites of the "Truth in Lending
 Act" and the "Consumer Leasing Act", see § 5-1-302.
 
-        5-1-103. Supplementary general principles of law applicable. Unless displaced by the
+## § 5-1-103. Supplementary general principles of law applicable. Unless displaced by the
+
 particular provisions of this code, the "Uniform Commercial Code" and the principles of law and
 equity, including the law relative to capacity to contract, principal and agent, estoppel, fraud,
 misrepresentation, duress, coercion, mistake, bankruptcy, or other validating or invalidating
@@ -75,7 +79,8 @@ cause, supplement the provisions of this code.
 
        Cross references: For the "Uniform Commercial Code", see title 4.
 
-       5-1-104. Construction against implicit repeal. This code being a general act intended
+## § 5-1-104. Construction against implicit repeal. This code being a general act intended
+
 as a unified coverage of its subject matter, no part of it is deemed to be impliedly repealed by
 subsequent legislation if such construction can reasonably be avoided.
 
@@ -83,7 +88,8 @@ subsequent legislation if such construction can reasonably be avoided.
 
        Editor's note: This section is similar to former § 5-1-104, as it existed prior to 2000.
 
-        5-1-105. Severability clause. If any provision of this code or the application thereof to
+## § 5-1-105. Severability clause. If any provision of this code or the application thereof to
+
 any person or circumstances is held invalid, such invalidity shall not affect other provisions or
 applications of this code which can be given effect without the invalid provision or application,
 and to this end the provisions of this code are declared to be severable.
@@ -92,7 +98,8 @@ and to this end the provisions of this code are declared to be severable.
 
        Editor's note: This section is similar to former § 5-1-105, as it existed prior to 2000.
 
-        5-1-106. Waiver - agreement to forego rights - settlement of claims. (1) Except as
+## § 5-1-106. Waiver - agreement to forego rights - settlement of claims. (1) Except as
+
 otherwise provided in this code, a consumer may not waive or agree to forego rights or benefits
 under this code.
         (2) A claim by a consumer against a creditor for an excess charge, other violation of this
@@ -110,7 +117,8 @@ consumer, and the value of the consideration are relevant to the issue of uncons
 
        Editor's note: This section is similar to former § 5-1-107, as it existed prior to 2000.
 
-         5-1-107. Effect of code on powers of organizations. (1) This code prescribes
+## § 5-1-107. Effect of code on powers of organizations. (1) This code prescribes
+
 maximum charges for all creditors extending consumer credit except lessors and those excluded
 in sections 5-1-202 and 5-2-213 and displaces existing limitations on the powers of those
 creditors based on maximum charges.
@@ -142,7 +150,8 @@ amended, (SB 13-154), ch. 282, p. 1468, §19, effective July 1. L. 2023: (1) ame
 
                                  SCOPE AND JURISDICTION
 
-         5-1-201. Territorial application - definitions. (1) Except as otherwise provided in this
+## § 5-1-201. Territorial application - definitions. (1) Except as otherwise provided in this
+
 section, this code applies to consumer credit transactions made in this state and to modifications,
 including refinancing, consolidations, and deferrals, made in this state, of consumer credit
 transactions, wherever made. For purposes of this code, a consumer credit transaction is made in
@@ -203,7 +212,8 @@ consumer insurance premium loan made to a resident of this state.
 
        Editor's note: This section is similar to former § 5-1-201, as it existed prior to 2000.
 
-         5-1-202. Exclusions. (1) This code does not apply to:
+## § 5-1-202. Exclusions. (1) This code does not apply to:
+
          (a) Extensions of credit to government or governmental agencies or instrumentalities;
          (b) Except as otherwise provided in article 4 of this title, the sale of insurance if there is
 no legal obligation to pay installments of the premium and the insurance may terminate or be
@@ -239,7 +249,8 @@ amended, (SB 17-228), ch. 246, p. 1041, § 4, effective August 9.
 article 2 of title 10; for regulation of pawnbrokers, see article 11.9 of title 29; for regulation of
 securities brokers, see article 51 of title 11; for credit unions, see article 30 of title 11.
 
-         5-1-203. Jurisdiction and service of process. (1) The court of record of any judicial
+## § 5-1-203. Jurisdiction and service of process. (1) The court of record of any judicial
+
 district in this state may exercise jurisdiction over any creditor with respect to any conduct in
 this state governed by this code or with respect to any claim arising from a transaction subject to
 this code. In addition to any other method provided by the Colorado rules of civil procedure or
@@ -267,7 +278,8 @@ further time the court allows.
 
                                           DEFINITIONS
 
-         5-1-301. General definitions. In addition to definitions appearing in subsequent articles,
+## § 5-1-301. General definitions. In addition to definitions appearing in subsequent articles,
+
 as used in this code, unless the context otherwise requires:
          (1) "Actuarial method" means the method, defined by rules promulgated by the
 administrator in accordance with article 4 of title 24, C.R.S., of allocating payments made on a
@@ -641,7 +653,8 @@ section, see § 24-11-101.
 Laws of Colorado 2020. For the legislative declaration in SB 22-139, see section 1 of chapter
 149, Session Laws of Colorado 2022.
 
-        5-1-302. Definitions - federal "Truth in Lending Act" and federal "Consumer
+## § 5-1-302. Definitions - federal "Truth in Lending Act" and federal "Consumer
+
 Leasing Act". In this code, federal "Truth in Lending Act", 15 U.S.C. sec. 1601 et seq., and
 federal "Consumer Leasing Act", 15 U.S.C. sec. 1667 et seq., mean chapters of the "Consumer
 Credit Protection Act" (Public Law 90-321; 82 Stat. 146), as amended from time to time, and
@@ -653,7 +666,8 @@ include regulations issued pursuant to those acts.
       (2) "Consumer Leasing Act", referred to throughout this title, means the federal
 "Consumer Leasing Act of 1976", Pub.L. 94-240.
 
-       5-1-303. Index of definitions in code. Definitions in this code and the sections in which
+## § 5-1-303. Index of definitions in code. Definitions in this code and the sections in which
+
 they appear are:
 
 "Actuarial method"section 5-1-301 (1)
@@ -722,5 +736,3 @@ section amended, (HB 23-1229), ch. 375, p. 2245, § 5, effective July 1, 2024.
 
 
        Editor's note: This section is similar to former § 5-1-303, as it existed prior to 2000.
-```
-
