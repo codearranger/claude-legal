@@ -160,7 +160,7 @@ def render_article_md(article: str, title: str, sections: list[tuple[str, str, s
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default="plugins/wa-court-docs/skills/wa-law-references/references/ucc-model")
+    ap.add_argument("--out", default="plugins/claude-legal-federal-laws/references/ucc-model")
     ap.add_argument("--workers", type=int, default=8)
     ap.add_argument("--only", nargs="*", help="Optional list of article numbers to limit to.")
     args = ap.parse_args()

@@ -1,0 +1,28 @@
+{
+  "name": "claude-legal-federal-laws",
+  "version": "0.1.0",
+  "description": "Shared reference corpus for federal U.S. debt-collection and consumer-finance law (FDCPA, FCRA, TILA, ECOA, Reg B/F/V/Z) plus the model Uniform Commercial Code (Articles 1, 2, 3, 9 — ALI/ULC model text). Data-only plugin: no skills, no slash commands. Other plugins in the claude-legal marketplace declare this as a dependency and symlink into its `references/` tree so federal/UCC content lives in one place instead of being duplicated per state. The marketplace runtime auto-installs this plugin whenever a dependent state plugin is installed and dereferences the symlinks at install time, so each installed state plugin still gets the federal content locally.",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/claude-legal",
+  "repository": "https://github.com/codearranger/claude-legal",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "federal-law",
+    "fdcpa",
+    "fcra",
+    "tila",
+    "ecoa",
+    "reg-f",
+    "reg-z",
+    "reg-b",
+    "reg-v",
+    "ucc",
+    "uniform-commercial-code",
+    "shared-references",
+    "data-only"
+  ]
+}

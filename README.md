@@ -4,14 +4,15 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 
 ## What's in here
 
-Four plugins today:
+Five plugins today — four state plugins plus one shared data-only plugin they all depend on:
 
+- **`claude-legal-federal-laws`** — Shared, data-only plugin. Holds the canonical copy of federal U.S. debt-collection and consumer-finance law (FDCPA, FCRA, TILA, ECOA, Reg B/F/V/Z) and the model Uniform Commercial Code (Articles 1, 2, 3, 9). Every state plugin below declares it as a `dependencies:` entry in `plugin.json` and reaches it via in-tree symlinks; the Claude Code marketplace runtime auto-installs the dependency and dereferences the symlinks at install time, so each installed state plugin still has federal content locally available.
 - **`wa-court-docs`** — Washington State. Drafts and formats pleadings, declarations, motions, notes for motion docket, and proposed orders for Washington courts. Applies GR 14 formatting; covers King County District Court (all three divisions — East/Redmond, South/Burien, West/Seattle), King County Superior Court (Seattle / Kent — MRJC), and the most-populous counties' roll-up (Pierce, Snohomish, Spokane, Clark, Thurston, Kitsap, Yakima, Whatcom, Benton). Supports pro se workflows. The `wa-consumer-debt` subject-matter bundle covers FDCPA / Reg F / WA CPA debt-defense.
 - **`or-court-docs`** — Oregon. Drafts and formats pleadings, declarations, motions, notices of hearing, and proposed orders for Oregon circuit courts. Applies UTCR 2.010 formatting; covers Multnomah County Circuit Court (Portland / Central Courthouse), Washington County Circuit Court (Hillsboro), and the most-populous counties' roll-up (Clackamas, Lane, Marion, Jackson, Deschutes, Linn, Benton, Yamhill, Polk, Douglas). Supports pro se workflows. The `or-consumer-debt` subject-matter bundle covers FDCPA / Reg F / Oregon UTPA (ORS 646.605) / ORS 697 Collection Agency Registration / chain-of-title doctrine.
 - **`ca-court-docs`** — California. Drafts and formats pleadings, declarations, motions, notices of motion, and proposed orders for California superior courts. Applies California Rules of Court 2.100-2.119 formatting; covers Los Angeles Superior Court (LASC — Stanley Mosk Courthouse + the LASC district courthouses), San Francisco Superior Court (SFSC — Civic Center Courthouse, Dept. 302 law-and-motion), and the most-populous-counties roll-up (Orange, San Diego, Riverside, San Bernardino, Santa Clara, Alameda, Sacramento, Contra Costa, Fresno, Kern). Supports pro se ("In Pro Per") workflows. The `ca-consumer-debt` subject-matter bundle covers FDCPA / Reg F / Rosenthal Fair Debt Collection Practices Act (Cal. Civ. Code §§ 1788 et seq.) / Fair Debt Buying Practices Act (Cal. Civ. Code §§ 1788.50 et seq.) / California Debt Collection Licensing Act (Cal. Fin. Code §§ 100000 et seq., 2022) / chain-of-title doctrine under Cal. Comm. Code Art. 9.
 - **`co-court-docs`** — Colorado. Drafts and formats pleadings, declarations, motions, notices, and proposed orders for Colorado courts. Applies C.R.C.P. 10 + Chief Justice Directive 11-01 formatting (uniform 1-inch margins, 12-point font, double-spaced, the two-block Colorado caption with the case-number / division / courtroom box); covers Denver District Court (2nd Judicial District — Lindsey-Flanigan Courthouse), Arapahoe County District Court (18th Judicial District — Centennial / Aurora / Littleton), and the most-populous-counties roll-up (Jefferson, El Paso, Adams, Boulder, Larimer, Douglas, Weld, Pueblo, Mesa, Broomfield). Supports pro se / "Self-Represented" workflows including the CCEFS Pro Se portal and the Colorado Judicial Branch JDF (Judicial Department Forms) catalog. **Two subject-matter bundles** ship in the initial release: (1) `co-consumer-debt` covers FDCPA / Reg F / Colorado Fair Debt Collection Practices Act (C.R.S. art. 16 of title 5, recodified from Title 12 in 2022) / Colorado Consumer Protection Act (C.R.S. art. 1 of title 6 with treble damages and mandatory fees) / Colorado UCCC / collection-agency licensure under the AG's Collection Agency Board / chain-of-title doctrine under Colorado UCC Article 9; (2) `co-family-law` covers the Uniform Dissolution of Marriage Act (C.R.S. art. 10 of title 14), the 91-day residency and 91-day waiting-period requirements, dissolution / legal separation / declaration of invalidity (annulment) under C.R.S. § 14-10-111, allocation of parental responsibilities (C.R.S. § 14-10-124 — Colorado replaced "custody" terminology in 1998), the income-shares child-support guideline (C.R.S. § 14-10-115 with the 93-overnight rule), maintenance (C.R.S. § 14-10-114), common-law marriage under *People v. Lucero* as modernized by *In re Marriage of Hogsett & Neale*, and the C.R.C.P. 16.2 mandatory financial-disclosure regime with the Sworn Financial Statement (JDF 1111). Colorado is the first state plugin to ship with two subject-matter bundles at the initial release for a total of **22 SKILL.md files** (vs. 21 in WA / OR / CA).
 
-All four plugins are architected the same way: matter-neutral civil-procedure skills (statewide format, civil rules, evidence rules, fees and costs, local rules, citation format, online sources, discovery, first-30-days response, hearings, filing packets, post-judgment, fact-checking, deadlines) plus subject-matter bundles that plug into the procedural skills.
+All four state plugins are architected the same way: matter-neutral civil-procedure skills (statewide format, civil rules, evidence rules, fees and costs, local rules, citation format, online sources, discovery, first-30-days response, hearings, filing packets, post-judgment, fact-checking, deadlines) plus subject-matter bundles that plug into the procedural skills. They share federal/UCC reference content via the `claude-legal-federal-laws` dependency rather than copying it into each plugin.
 
 The marketplace is organized one plugin per state; more state plugins can be added under `plugins/` as it grows.
 
@@ -27,6 +28,8 @@ Add this marketplace to Claude Code or Cowork, then install the plugins:
 /plugin install co-court-docs@claude-legal
 ```
 
+Each state plugin declares `claude-legal-federal-laws` as a `dependencies:` entry, so the marketplace runtime installs the shared plugin automatically — no need to install it explicitly.
+
 ## Repo layout
 
 ```
@@ -34,6 +37,12 @@ claude-legal/
 ├── .claude-plugin/
 │   └── marketplace.json              # Marketplace manifest
 ├── plugins/
+│   ├── claude-legal-federal-laws/    # SHARED data-only plugin (depended on by every state plugin)
+│   │   ├── .claude-plugin/plugin.json
+│   │   ├── README.md
+│   │   └── references/
+│   │       ├── federal-debt-laws/    # FDCPA, FCRA, TILA, ECOA, Reg B/F/V/Z (canonical)
+│   │       └── ucc-model/            # Model UCC Articles 1, 2, 3, 9 (canonical)
 │   ├── wa-court-docs/                # Washington State plugin (21 skills)
 │   │   ├── .claude-plugin/plugin.json
 │   │   ├── skills/                   # GR 14, KCDC, KCSC, county roll-up, etc.

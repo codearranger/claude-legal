@@ -376,7 +376,7 @@ def render_cfr_part(part_xml: bytes, part: str, short_name: str, full_title: str
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default="plugins/wa-court-docs/skills/wa-law-references/references/federal-debt-laws")
+    ap.add_argument("--out", default="plugins/claude-legal-federal-laws/references/federal-debt-laws")
     ap.add_argument("--cache", default="/tmp/claude-legal-cache")
     ap.add_argument("--only", nargs="*", help="Optional list of short names to limit to (e.g., FDCPA Reg-F).")
     args = ap.parse_args()

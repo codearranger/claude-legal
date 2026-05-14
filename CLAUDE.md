@@ -4,14 +4,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state. It ships **four** plugins:
+The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state, plus a shared data-only plugin for federal law. It ships **five** plugins:
 
+- **`claude-legal-federal-laws`** — Shared, data-only plugin holding the canonical copy of federal U.S. debt-collection and consumer-finance law (FDCPA, FCRA, TILA, ECOA, Reg B/F/V/Z) and the model Uniform Commercial Code (Articles 1, 2, 3, 9). No skills. Every state plugin below declares this as a dependency and symlinks into its `references/` tree, so federal content lives in one place rather than being copy-pasted per state.
 - **`wa-court-docs`** — Washington State (GR 14 formatting, King County District + Superior + populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt bundle).
 - **`or-court-docs`** — Oregon (UTCR 2.010 formatting, Multnomah + Washington County Circuit Court + populous-counties roll-up, ORS 697 / UTPA consumer-debt bundle).
-- **`ca-court-docs`** — California (CRC 2.100-2.119 formatting, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA consumer-debt bundle). All 21 SKILL.md files authored with CA-specific substance; reference corpora include the shared `federal-debt-laws/` + `ucc-model/` content (copied from `wa-court-docs` per the per-plugin shared-content convention), the CA-specific `ca-statutes-debt/` (Rosenthal Act, FDBPA, CDCLA, UCL, CLRA, CCP procedural sections, Cal. Comm. Code UCC enactments), and the CA `court-rules/` corpus (CRC Titles 2/3/5/7/8, Cal. Evid. Code, LASC + SFSC + OCSC local rules).
+- **`ca-court-docs`** — California (CRC 2.100-2.119 formatting, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA consumer-debt bundle). All 21 SKILL.md files authored with CA-specific substance; reference corpora include the shared `federal-debt-laws/` + `ucc-model/` content via the `claude-legal-federal-laws` dependency, the CA-specific `ca-statutes-debt/` (Rosenthal Act, FDBPA, CDCLA, UCL, CLRA, CCP procedural sections, Cal. Comm. Code UCC enactments), and the CA `court-rules/` corpus (CRC Titles 2/3/5/7/8, Cal. Evid. Code, LASC + SFSC + OCSC local rules).
 - **`co-court-docs`** — Colorado (C.R.C.P. 10 + Chief Justice Directive 11-01 formatting with the two-block caption + case-number/division/courtroom box, Denver District Court / 2nd JD + Arapahoe County District Court / 18th JD + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt bundle, **plus a Colorado-specific family-law bundle** — `co-family-law` — covering UDMA dissolution / annulment, child support under C.R.S. § 14-10-115 with the 93-overnight rule, parental responsibilities under C.R.S. § 14-10-124, maintenance under C.R.S. § 14-10-114, and common-law marriage under *People v. Lucero* / *Hogsett & Neale*). Colorado is the **first state plugin to ship with two subject-matter bundles in its initial release** — consumer-debt and family-law — for a total of **22 SKILL.md files**.
 
-All plugins are architected identically: matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense in each state). The structure leaves clean slots for plugins covering additional states.
+All four state plugins are architected identically: matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense in each state). The structure leaves clean slots for plugins covering additional states.
 
 Output is documents, not advice; everything is bracketed by a "not legal advice" disclaimer that downstream skills repeat.
 
@@ -131,8 +132,8 @@ Colorado is the first state plugin to ship with **two** subject-matter bundles i
 Verbatim text pulled from official sources, organized by domain:
 
 - **`court-rules/`** — 1,233 WA court rules across 35 sets (CR, CRLJ, ER, GR, RAP, etc.) extracted from courts.wa.gov PDFs.
-- **`federal-debt-laws/`** — FDCPA, FCRA, TILA, ECOA + Reg F/V/Z/B from `uscode.house.gov` USLM XML and the eCFR Versioner API.
-- **`ucc-model/`** — Model UCC Articles 1, 2, 3, 9 (Cornell LII).
+- **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`. FDCPA, FCRA, TILA, ECOA + Reg F/V/Z/B from `uscode.house.gov` USLM XML and the eCFR Versioner API.
+- **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`. Model UCC Articles 1, 2, 3, 9 (Cornell LII).
 - **`wa-rcw-debt/`** — 477 sections across 21 debt-relevant RCW chapters from `app.leg.wa.gov`.
 - **`legal-data-apis.md`** — agent-facing index of the structured APIs above.
 - **`online-sources.md`** — canonical human-facing URLs for the same sources.
@@ -142,8 +143,8 @@ Verbatim text pulled from official sources, organized by domain:
 Mirrors the WA corpora structure; populated by future pull scripts (initial PR ships scaffolding + READMEs + manifests):
 
 - **`court-rules/`** — Oregon court rules (ORCP, UTCR, OEC, ORAP, Multnomah SLR, Washington Co SLR) from counciloncourtprocedures.org and courts.oregon.gov.
-- **`federal-debt-laws/`** — FDCPA, FCRA, TILA, ECOA, Reg F/V/Z/B (federal law; identical content to the WA corpus — re-populate from `pull_federal_debt_laws.py`).
-- **`ucc-model/`** — Model UCC Articles 1, 2, 3, 9.
+- **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`.
+- **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`.
 - **`or-ors-debt/`** — Oregon Revised Statutes chapters most relevant to civil practice (ORS 12, 14, 18, 19, 20, 21, 36, 40, 71-79, 82, 90, 105, 174, 187, 646, 697).
 - **`legal-data-apis.md`** — Oregon-flavored agent-facing API index (oregonlegislature.gov, CourtListener Oregon courts, etc.).
 - **`online-sources.md`** — canonical URLs for Oregon law.
@@ -155,8 +156,8 @@ Each corpus dir has its own `README.md` with citation tables and a "re-pull" com
 Mirrors the WA/OR corpora structure:
 
 - **`court-rules/`** — California Rules of Court (CRC) Titles 2, 3, 5, 7, 8 + the California Evidence Code summary + LASC / SFSC / OCSC / other-county local rules + California Rules of Professional Conduct. Authored substantively; a future `scripts/pull_ca_court_rules.py` will refresh from courts.ca.gov.
-- **`federal-debt-laws/`** — FDCPA, FCRA, TILA, ECOA, Reg F/V/Z/B (federal law; identical content to the WA/OR corpora — populated by `pull_federal_debt_laws.py`).
-- **`ucc-model/`** — Model UCC Articles 1, 2, 3, 9 (Cornell LII; identical to WA/OR).
+- **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`.
+- **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`.
 - **`ca-statutes-debt/`** — California statute chapters most relevant to civil practice and consumer debt: CCP §§ 312-366 (SOL framework), §§ 412.10-417.40 (service), §§ 425.10-440 (pleadings + demurrer + summary judgment), §§ 1005-1020 (motions / notices), §§ 2016.010-2036.050 (Civil Discovery Act), §§ 683-708 (enforcement), §§ 703.140 / 704.010-995 (exemptions); Cal. Civ. Code §§ 1788-1788.33 (Rosenthal Act), §§ 1788.50-1788.66 (FDBPA), §§ 1750-1784 (CLRA), § 1717 (reciprocal attorney's fees); Cal. Bus. & Prof. Code §§ 17200-17210 (UCL); Cal. Fin. Code §§ 100000-100027 (CDCLA); Cal. Comm. Code §§ 2101-2725, 3101-3605, 9101-9809 (UCC Articles 2, 3, 9 as enacted in CA).
 
 CA pull scripts: `scripts/pull_ca_court_rules.py` fetches CRC Titles 1-10 from courts.ca.gov; `scripts/pull_ca_statutes.py` fetches the configured CCP / Civ. Code / B&P / Fin. Code / Comm. Code sections from leginfo.legislature.ca.gov. Both follow the same pattern as the WA pullers (`pull_court_rules.py`, `pull_wa_rcw.py`).
@@ -166,8 +167,8 @@ CA pull scripts: `scripts/pull_ca_court_rules.py` fetches CRC Titles 1-10 from c
 Mirrors the WA/OR/CA corpora structure:
 
 - **`court-rules/`** — Colorado court rules (C.R.C.P. with the streamlined Chapter 18 county-court rules and Chapter 25 small-claims rules, CRE, C.A.R., Colorado Rules of Professional Conduct, Chief Justice Directives including CJD 11-01) — to be populated by a future `pull_co_court_rules.py` against the Colorado Judicial Branch publication source.
-- **`federal-debt-laws/`** — FDCPA, FCRA, TILA, ECOA, Reg F/V/Z/B (federal law; identical content to the WA/OR/CA corpora — populated by `pull_federal_debt_laws.py`).
-- **`ucc-model/`** — Model UCC Articles 1, 2, 3, 9 (Cornell LII; identical to WA/OR/CA).
+- **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`.
+- **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`.
 - **`co-statutes-debt/`** — Colorado statute chapters most relevant to civil practice and consumer debt: C.R.S. § 13-80-101 through § 13-80-115 (SOL framework, including § 13-80-103.5's 6-year provision for liquidated debt), C.R.S. § 13-54 (exemptions) and § 13-54.5 (garnishment), C.R.S. art. 27 of title 13 (declarations under § 13-27-104), C.R.S. § 13-52 (judgment enforcement / lien / revival), C.R.S. art. 16 of title 5 (CFDCPA — recodified from Title 12 in 2022), C.R.S. art. 1 of title 6 (CCPA), C.R.S. art. 1-9 of title 5 (UCCC), C.R.S. art. 9 of title 4 (Colorado UCC Article 9 enactment), C.R.S. art. 10 of title 14 (UDMA — dissolution, parental responsibilities, child support, maintenance), C.R.S. art. 13 of title 14 (UCCJEA), C.R.S. art. 11 of title 24 (legal holidays).
 
 CO pull scripts (to be added in a follow-up PR):
@@ -277,7 +278,7 @@ When adding a new state plugin, the WA / OR pair establishes the pattern:
 3. **Subject-matter bundles**: `<state>-<topic>` (e.g., `ca-consumer-debt`).
 4. **Reference structure**: mirror the corpus directories (`court-rules/`, `federal-debt-laws/`, `ucc-model/`, `<state>-statutes-debt/`).
 5. **Scripts**: `format-check.py` and `case-calendar.py` per plugin, parameterized to the state's format requirements and holidays.
-6. **Federal law is shared content but per-plugin copies**: the FDCPA/FCRA/TILA text is identical across all states; mirror it into each plugin's `federal-debt-laws/` corpus rather than cross-linking (keeps each plugin self-contained for downstream installers).
+6. **Federal law is shared content in a dedicated plugin**: the FDCPA/FCRA/TILA text and model UCC live once in `plugins/claude-legal-federal-laws/references/`. Each state plugin's `references/federal-debt-laws/` and `references/ucc-model/` are **symlinks** into that shared plugin, and each state plugin's `plugin.json` declares `"dependencies": ["claude-legal-federal-laws"]`. The Claude Code marketplace runtime auto-installs the dependency and dereferences symlinks within a marketplace at install time (copying target content into the install cache), so each installed state plugin still has the federal content locally available. When adding a new state plugin, copy this dependency declaration + symlink pattern; do **not** copy the federal-debt-laws or ucc-model content directly.
 7. **Procedural quirks should be flagged prominently** in the relevant skill descriptions: Oregon's no-interrogatories quirk is in `or-discovery`; California's CCP 437c summary judgment timing differs from FRCP, etc.
 
 ### Project skill for adding new states
@@ -299,18 +300,29 @@ The scaffolder produces a lint-clean skeleton. The substantive law content for e
 
 ```
 .claude-plugin/marketplace.json     # marketplace manifest (metadata.version)
-.github/workflows/lint-skills.yml   # CI: runs lint on push/PR
+.github/workflows/lint-skills.yml          # CI: runs lint on push/PR
+.github/workflows/refresh-references.yml   # Quarterly cron + workflow_dispatch refresh
+plugins/claude-legal-federal-laws/  # SHARED data-only plugin; depended on by every state plugin
+  .claude-plugin/plugin.json        # version 0.1.0
+  references/federal-debt-laws/     # FDCPA, FCRA, TILA, ECOA, Reg B/F/V/Z — canonical source
+  references/ucc-model/             # Model UCC Articles 1, 2, 3, 9 — canonical source
 plugins/wa-court-docs/
-  .claude-plugin/plugin.json        # plugin manifest (version)
+  .claude-plugin/plugin.json        # plugin manifest (version); declares dependencies: [claude-legal-federal-laws]
   skills/<skill>/SKILL.md           # one per skill (version: in frontmatter)
-  skills/<skill>/references/*.md    # reference content the skill cites
+  skills/wa-law-references/references/
+    federal-debt-laws -> ../../../../claude-legal-federal-laws/references/federal-debt-laws  (symlink)
+    ucc-model         -> ../../../../claude-legal-federal-laws/references/ucc-model          (symlink)
+    court-rules/, wa-rcw-debt/, etc.   # state-specific content stays in-plugin
   scripts/format-check.py           # GR 14 compliance
   scripts/case-calendar.py          # CR 6 deadline arithmetic
   evals/                            # drafting / formatting / procedural / subject-matter / integration
-plugins/or-court-docs/
-  .claude-plugin/plugin.json        # plugin manifest (version)
+plugins/or-court-docs/              # same shape; declares dependencies: [claude-legal-federal-laws]
+  .claude-plugin/plugin.json
   skills/<skill>/SKILL.md
-  skills/<skill>/references/*.md
+  skills/or-law-references/references/
+    federal-debt-laws -> ../../../../claude-legal-federal-laws/references/federal-debt-laws  (symlink)
+    ucc-model         -> ../../../../claude-legal-federal-laws/references/ucc-model          (symlink)
+    court-rules/, or-ors-debt/, etc.
   scripts/format-check.py           # UTCR 2.010 compliance
   scripts/case-calendar.py          # ORCP 10 deadline arithmetic with ORS 187 holidays
   evals/
@@ -333,8 +345,8 @@ scripts/
   lint-skills.py                    # frontmatter + name/dir-match linter
   hooks/pre-commit                  # symlink target for .git/hooks/pre-commit
   pull_court_rules.py               # courts.wa.gov → wa court-rules/
-  pull_federal_debt_laws.py         # uscode.house.gov + ecfr.gov → federal-debt-laws/ (shared content; copied to each state plugin)
-  pull_ucc.py                       # law.cornell.edu/ucc → ucc-model/ (shared)
+  pull_federal_debt_laws.py         # uscode.house.gov + ecfr.gov → plugins/claude-legal-federal-laws/references/federal-debt-laws/
+  pull_ucc.py                       # law.cornell.edu/ucc → plugins/claude-legal-federal-laws/references/ucc-model/
   pull_wa_rcw.py                    # app.leg.wa.gov → wa-rcw-debt/
   pull_ca_court_rules.py            # courts.ca.gov → ca court-rules/
   pull_ca_statutes.py               # leginfo.legislature.ca.gov → ca-statutes-debt/

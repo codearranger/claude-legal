@@ -5,10 +5,32 @@
     "url": "https://github.com/codearranger"
   },
   "metadata": {
-    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state. Four plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt defense bundle), or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle), ca-court-docs (California — CRC 2.100-2.119-compliant pleadings, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA / UCL consumer-debt defense bundle), and co-court-docs (Colorado — C.R.C.P. 10 + CJD 11-01-compliant pleadings, Denver + Arapahoe + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt defense bundle, plus a UDMA-based family-law bundle covering dissolution, annulment, child support, parental responsibilities, and maintenance). All plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles. The structure leaves clean slots for plugins covering additional states.",
-    "version": "0.9.0"
+    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state, plus a shared data-only plugin for federal law. Four state plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt defense bundle), or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle), ca-court-docs (California — CRC 2.100-2.119-compliant pleadings, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA / UCL consumer-debt defense bundle), and co-court-docs (Colorado — C.R.C.P. 10 + CJD 11-01-compliant pleadings, Denver + Arapahoe + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt defense bundle, plus a UDMA-based family-law bundle covering dissolution, annulment, child support, parental responsibilities, and maintenance). All four state plugins depend on the shared claude-legal-federal-laws plugin for FDCPA / FCRA / TILA / ECOA / Reg B-F-V-Z and model UCC content — declared in their plugin.json and dereferenced from in-tree symlinks at install time, so the federal corpora live in one canonical place. All state plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles. The structure leaves clean slots for plugins covering additional states.",
+    "version": "0.10.0"
   },
   "plugins": [
+    {
+      "name": "claude-legal-federal-laws",
+      "source": "./plugins/claude-legal-federal-laws",
+      "description": "Shared reference corpus for federal U.S. debt-collection and consumer-finance law (FDCPA, FCRA, TILA, ECOA, Reg B/F/V/Z) plus the model Uniform Commercial Code (Articles 1, 2, 3, 9). Data-only — no skills, no slash commands. State plugins declare this as a dependency; the marketplace runtime auto-installs it and dereferences the symlinks each state plugin uses to point into this directory.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "federal-law",
+        "fdcpa",
+        "fcra",
+        "tila",
+        "ecoa",
+        "reg-f",
+        "reg-z",
+        "reg-b",
+        "reg-v",
+        "ucc",
+        "uniform-commercial-code",
+        "shared-references",
+        "data-only"
+      ]
+    },
     {
       "name": "wa-court-docs",
       "source": "./plugins/wa-court-docs",
