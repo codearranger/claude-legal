@@ -4,7 +4,7 @@
 - USC Subchapter: SUBCHAPTER III— CREDIT REPORTING AGENCIES
 - Release point: Public Law 119-84
 - Source: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-chapter41-subchapteriii&edition=prelim
-- Pulled: 2026-05-13
+- Pulled: 2026-05-14
 
 > Verbatim text from the Office of the Law Revision Counsel USLM XML.
 > Cross-references and parts/subparts hierarchy preserved.

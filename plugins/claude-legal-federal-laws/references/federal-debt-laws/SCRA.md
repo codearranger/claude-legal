@@ -4,7 +4,7 @@
 - USC Chapter: CHAPTER 50— SERVICEMEMBERS CIVIL RELIEF
 - Release point: Public Law 119-84
 - Source: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-chapter50&edition=prelim
-- Pulled: 2026-05-13
+- Pulled: 2026-05-14
 
 > Verbatim text from the Office of the Law Revision Counsel USLM XML.
 > Cross-references and parts/subparts hierarchy preserved.
