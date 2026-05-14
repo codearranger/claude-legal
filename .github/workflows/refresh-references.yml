@@ -2,24 +2,73 @@ name: refresh-references
 
 on:
   schedule:
-    # Jan / Apr / Jul / Oct 1 at 17:00 UTC — quarterly cadence
+    # Jan / Apr / Jul / Oct 1 at 17:00 UTC — quarterly cadence.
+    # Cron fires the workflow with target="all" (handled by the
+    # matrix-selector job below), so all four states refresh in
+    # parallel.
     - cron: "0 17 1 1,4,7,10 *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "Which plugin's references to refresh"
+        type: choice
+        required: true
+        default: all
+        options:
+          - all
+          - wa
+          - or
+          - ca
+          - co
 
 permissions:
   contents: write
   pull-requests: write
 
 concurrency:
-  group: refresh-references
+  # One run per (workflow, target) so a manual run for a single
+  # state doesn't cancel a cron-triggered "all" run already in flight.
+  group: refresh-references-${{ github.event.inputs.target || 'all' }}
   cancel-in-progress: false
 
+env:
+  PR_REVIEWER: codearranger
+
 jobs:
-  refresh:
-    name: Refresh reference corpora
+  pick-states:
+    name: Pick states to refresh
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    outputs:
+      states: ${{ steps.pick.outputs.states }}
+    steps:
+      - id: pick
+        # `target` is only set on workflow_dispatch; cron runs leave it
+        # empty, which we treat as "all". Selecting a single state emits
+        # a one-element matrix.
+        env:
+          TARGET: ${{ github.event.inputs.target }}
+        run: |
+          case "${TARGET:-all}" in
+            all) states='["wa","or","ca","co"]' ;;
+            wa)  states='["wa"]' ;;
+            or)  states='["or"]' ;;
+            ca)  states='["ca"]' ;;
+            co)  states='["co"]' ;;
+            *)   echo "unexpected target: $TARGET" >&2; exit 1 ;;
+          esac
+          echo "states=$states" >> "$GITHUB_OUTPUT"
+
+  refresh:
+    name: Refresh ${{ matrix.state }} references
+    needs: pick-states
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        state: ${{ fromJSON(needs.pick-states.outputs.states) }}
     env:
+      STATE: ${{ matrix.state }}
       RUN_ID: ${{ github.run_id }}
     steps:
       - uses: actions/checkout@v4
@@ -33,22 +82,22 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y poppler-utils
 
-      # Each pull is its own step with its own timeout-minutes cap so a
-      # slow upstream (e.g., Cornell LII throttling pull_ucc.py) can't sink
-      # the whole job. `continue-on-error: true` lets remaining pulls run
-      # if one bails. Per pull_ucc.py's design, the article markdown is
-      # only written after all sections are fetched — so a step that times
-      # out leaves the existing file untouched rather than half-written.
+      # Per-state pulls. Each script invocation is its own step with a
+      # `timeout-minutes` cap so a slow upstream (e.g. law.cornell.edu/ucc
+      # throttling pull_ucc.py) can't sink the whole state's refresh.
+      # `continue-on-error: true` lets the rest of the state's pulls run
+      # if one bails. pull_ucc.py and the other pullers only write their
+      # output files after every section in a unit completes, so a
+      # timeout leaves existing files untouched rather than half-written.
       #
-      # Excluded:
-      #   - pull_ca_statutes.py — known regression (leginfo extractor
-      #     emits "(empty extraction)" stubs and overwrites curated
-      #     cross-reference / overview blocks). Re-enable once fixed.
-      #   - OR-specific pullers (pull_oregon_rules.py, pull_oregon_ors.py)
-      #     and CO-specific pullers — scripts not yet written; see
-      #     CLAUDE.md TODO list.
+      # Excluded everywhere:
+      #   - pull_ca_statutes.py — known content regression
+      #   - OR-specific pullers (pull_oregon_rules.py / pull_oregon_ors.py)
+      #   - CO-specific pullers (pull_co_court_rules.py / pull_co_statutes.py)
 
-      - name: WA — court rules (GR 14, CR/CRLJ/ER/RAP, etc.)
+      # ---- WA ----
+      - name: WA — court rules
+        if: matrix.state == 'wa'
         continue-on-error: true
         timeout-minutes: 15
         run: |
@@ -56,125 +105,130 @@ jobs:
             --manifest plugins/wa-court-docs/skills/wa-law-references/references/court-rules/_manifest.json
 
       - name: WA — RCW debt chapters
+        if: matrix.state == 'wa'
         continue-on-error: true
         timeout-minutes: 10
         run: python3 scripts/pull_wa_rcw.py --workers 12
 
-      - name: CA — court rules (CRC titles + local rules + Rules of Pro. Conduct)
-        continue-on-error: true
-        timeout-minutes: 10
-        run: python3 scripts/pull_ca_court_rules.py --workers 8
-
-      - name: Federal debt laws — WA copy
+      - name: WA — federal debt laws
+        if: matrix.state == 'wa'
         continue-on-error: true
         timeout-minutes: 10
         run: python3 scripts/pull_federal_debt_laws.py
 
-      - name: Federal debt laws — OR copy
+      - name: WA — Model UCC
+        if: matrix.state == 'wa'
+        continue-on-error: true
+        timeout-minutes: 8
+        run: python3 scripts/pull_ucc.py --workers 4
+
+      # ---- OR ----
+      - name: OR — federal debt laws
+        if: matrix.state == 'or'
         continue-on-error: true
         timeout-minutes: 10
         run: |
           python3 scripts/pull_federal_debt_laws.py \
             --out plugins/or-court-docs/skills/or-law-references/references/federal-debt-laws
 
-      - name: Federal debt laws — CA copy
+      - name: OR — Model UCC
+        if: matrix.state == 'or'
+        continue-on-error: true
+        timeout-minutes: 8
+        run: |
+          python3 scripts/pull_ucc.py --workers 4 \
+            --out plugins/or-court-docs/skills/or-law-references/references/ucc-model
+
+      # ---- CA ----
+      - name: CA — court rules
+        if: matrix.state == 'ca'
+        continue-on-error: true
+        timeout-minutes: 10
+        run: python3 scripts/pull_ca_court_rules.py --workers 8
+
+      - name: CA — federal debt laws
+        if: matrix.state == 'ca'
         continue-on-error: true
         timeout-minutes: 10
         run: |
           python3 scripts/pull_federal_debt_laws.py \
             --out plugins/ca-court-docs/skills/ca-law-references/references/federal-debt-laws
 
-      - name: Federal debt laws — CO copy
+      - name: CA — Model UCC
+        if: matrix.state == 'ca'
+        continue-on-error: true
+        timeout-minutes: 8
+        run: |
+          python3 scripts/pull_ucc.py --workers 4 \
+            --out plugins/ca-court-docs/skills/ca-law-references/references/ucc-model
+
+      # ---- CO ----
+      - name: CO — federal debt laws
+        if: matrix.state == 'co'
         continue-on-error: true
         timeout-minutes: 10
         run: |
           python3 scripts/pull_federal_debt_laws.py \
             --out plugins/co-court-docs/skills/co-law-references/references/federal-debt-laws
 
-      - name: Model UCC — WA copy
-        continue-on-error: true
-        timeout-minutes: 8
-        run: python3 scripts/pull_ucc.py --workers 8
-
-      - name: Model UCC — OR copy
+      - name: CO — Model UCC
+        if: matrix.state == 'co'
         continue-on-error: true
         timeout-minutes: 8
         run: |
-          python3 scripts/pull_ucc.py --workers 8 \
-            --out plugins/or-court-docs/skills/or-law-references/references/ucc-model
-
-      - name: Model UCC — CA copy
-        continue-on-error: true
-        timeout-minutes: 8
-        run: |
-          python3 scripts/pull_ucc.py --workers 8 \
-            --out plugins/ca-court-docs/skills/ca-law-references/references/ucc-model
-
-      - name: Model UCC — CO copy
-        continue-on-error: true
-        timeout-minutes: 8
-        run: |
-          python3 scripts/pull_ucc.py --workers 8 \
+          python3 scripts/pull_ucc.py --workers 4 \
             --out plugins/co-court-docs/skills/co-law-references/references/ucc-model
+
+      # ---- Finalize ----
 
       - name: Lint after refresh
         run: python3 scripts/lint-skills.py
 
-      # Build the PR body in a file so we never interpolate command
-      # output into a `run:` block or into an action `with:` template —
-      # avoids any workflow-injection risk and keeps the body readable.
+      # Build PR body in a file so we never interpolate command output
+      # into a `run:` block or action `with:` template — avoids any
+      # workflow-injection surface from `git diff` output.
       - name: Build PR body
         run: |
           {
-            echo "Automated quarterly refresh of reference corpora."
+            echo "Automated quarterly refresh of **\`${STATE}\`** reference corpora."
             echo
-            echo "## What ran"
-            echo
-            echo "- \`pull_court_rules.py\` — WA court rules"
-            echo "- \`pull_wa_rcw.py\` — WA RCW chapters"
-            echo "- \`pull_ca_court_rules.py\` — CA Rules of Court + local rules"
-            echo "- \`pull_federal_debt_laws.py\` — federal law, mirrored into WA / OR / CA / CO"
-            echo "- \`pull_ucc.py\` — Model UCC, mirrored into WA / OR / CA / CO"
-            echo
-            echo "## What did NOT run (known gaps)"
-            echo
-            echo "- \`pull_ca_statutes.py\` — currently regresses curated content; re-enable once the leginfo extractor is fixed."
-            echo "- \`pull_oregon_rules.py\` / \`pull_oregon_ors.py\` — not yet written. OR court-rules and \`or-ors-debt\` corpora stay frozen until pullers exist."
-            echo "- \`pull_co_court_rules.py\` / \`pull_co_statutes.py\` — not yet written. CO state-specific corpora stay empty."
+            echo "Triggered by: \`${{ github.event_name }}\`"
             echo
             echo "## Diff summary"
             echo
             echo '```'
             git -c color.ui=never diff --stat \
-              -- 'plugins/*/skills/*-law-references/references/**' \
+              -- "plugins/${STATE}-court-docs/skills/${STATE}-law-references/references/**" \
               | tail -200
             echo '```'
             echo
-            echo "## Reviewer checklist — @codearranger"
+            echo "## Reviewer checklist — @${PR_REVIEWER}"
             echo
-            echo "- [ ] Confirm the diff is a routine pull (no unexpected file deletions or extractor regressions)."
-            echo "- [ ] Decide PATCH vs MINOR version bump for affected \`*-law-references\` SKILL.md per CLAUDE.md \"Reference-corpus refresh discipline\"."
-            echo "- [ ] Spot-check one updated rule and one updated statute for verbatim source fidelity before merging."
+            echo "- [ ] Diff is a routine pull (no unexpected deletions or extractor regressions)."
+            echo "- [ ] Decide PATCH vs MINOR version bump for the affected \`*-law-references\` SKILL.md per CLAUDE.md \"Reference-corpus refresh discipline\"."
+            echo "- [ ] Spot-check one updated rule or statute for verbatim source fidelity before merging."
             echo
             echo "---"
-            echo "🤖 Generated by \`.github/workflows/refresh-references.yml\`. Triggers: cron \`0 17 1 1,4,7,10 *\` and manual \`workflow_dispatch\`."
+            echo "🤖 Generated by \`.github/workflows/refresh-references.yml\`. Triggers: cron \`0 17 1 1,4,7,10 *\` (all states) and manual \`workflow_dispatch\` (per-state selector)."
           } > /tmp/pr-body.md
 
-      - name: Open PR with refreshed corpora
+      - name: Open PR for ${{ matrix.state }} refresh
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: auto/quarterly-refs-${{ env.RUN_ID }}
+          branch: auto/refresh-${{ matrix.state }}-${{ env.RUN_ID }}
           delete-branch: true
           commit-message: |
-            chore(refs): quarterly reference-corpus refresh
+            chore(refs): refresh ${{ matrix.state }} reference corpora
 
-            Automated refresh of WA + CA reference corpora and shared
-            federal / UCC content (mirrored into every plugin).
-          title: "chore(refs): quarterly reference-corpus refresh"
-          assignees: codearranger
-          reviewers: codearranger
+            Automated refresh of ${{ matrix.state }}-court-docs reference
+            content (court rules, statutes where scripted, federal-debt-laws,
+            ucc-model).
+          title: "chore(refs): refresh ${{ matrix.state }} reference corpora"
+          assignees: ${{ env.PR_REVIEWER }}
+          reviewers: ${{ env.PR_REVIEWER }}
           labels: |
             auto-refresh
             references
+            state:${{ matrix.state }}
           body-path: /tmp/pr-body.md
