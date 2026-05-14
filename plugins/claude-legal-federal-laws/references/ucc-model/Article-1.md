@@ -2,7 +2,7 @@
 
 - Citation: U.C.C. art. 1 (model text)
 - Source: https://www.law.cornell.edu/ucc/1
-- Pulled: 2026-05-02
+- Pulled: 2026-05-14
 - Sections: 24
 
 > Verbatim text from Cornell Legal Information Institute. The *model* UCC

@@ -2,7 +2,7 @@
 
 - Citation: U.C.C. art. 9 (model text)
 - Source: https://www.law.cornell.edu/ucc/9
-- Pulled: 2026-05-02
+- Pulled: 2026-05-14
 - Sections: 135
 
 > Verbatim text from Cornell Legal Information Institute. The *model* UCC
