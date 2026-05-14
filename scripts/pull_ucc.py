@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import argparse
 import html
+import random
 import re
 import sys
 import time
@@ -34,16 +35,39 @@ ARTICLES: list[tuple[str, str]] = [
 ]
 
 
-def http_get(url: str, *, retries: int = 3, sleep: float = 1.0) -> bytes:
+# Cornell LII rate-limits aggressive scrapers. Past runs saw a burst of ~128
+# successful requests followed by systematic `urlopen error timed out` on the
+# next batch. Defaults below are tuned to stay under that limit:
+#
+#   - low concurrency (workers=2) so we don't hit them with parallel salvos
+#   - per-request jittered delay before submission
+#   - jittered exponential backoff between retries
+#   - 30s request timeout (was 60s) so a single hung connection doesn't burn
+#     too much of the per-step budget
+#   - inter-article cool-off so the rate-limit window can reset
+def http_get(
+    url: str,
+    *,
+    retries: int = 3,
+    sleep: float = 3.0,
+    timeout: float = 30.0,
+    rate_delay: float = 0.5,
+) -> bytes:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     last_exc: Exception | None = None
+    # Jittered pre-request delay spreads concurrent worker submissions
+    # across [0, rate_delay] seconds instead of a thundering herd at T=0.
+    if rate_delay > 0:
+        time.sleep(random.uniform(0, rate_delay))
     for attempt in range(retries):
         try:
-            with urllib.request.urlopen(req, timeout=60) as r:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.read()
         except Exception as e:
             last_exc = e
-            time.sleep(sleep * (2**attempt))
+            # Jittered exponential backoff: 50%-150% of sleep * 2^attempt.
+            backoff = random.uniform(0.5, 1.5) * sleep * (2**attempt)
+            time.sleep(backoff)
     assert last_exc is not None
     raise last_exc
 
@@ -161,7 +185,15 @@ def render_article_md(article: str, title: str, sections: list[tuple[str, str, s
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="plugins/claude-legal-federal-laws/references/ucc-model")
-    ap.add_argument("--workers", type=int, default=8)
+    # workers=2 (was 8) to avoid tripping Cornell LII's rate limiter
+    ap.add_argument("--workers", type=int, default=2)
+    ap.add_argument(
+        "--article-delay",
+        type=float,
+        default=30.0,
+        help="Seconds to sleep between articles, letting Cornell's rate-limit"
+             " window reset. Set to 0 to disable.",
+    )
     ap.add_argument("--only", nargs="*", help="Optional list of article numbers to limit to.")
     args = ap.parse_args()
 
@@ -169,10 +201,9 @@ def main() -> int:
     out_dir.mkdir(parents=True, exist_ok=True)
 
     only = set(args.only) if args.only else None
+    selected = [(a, t) for a, t in ARTICLES if not only or a in only]
 
-    for article, title in ARTICLES:
-        if only and article not in only:
-            continue
+    for i, (article, title) in enumerate(selected):
         print(f"\n=== UCC Article {article} — {title} ===", flush=True)
         section_ids = fetch_section_list(article)
         print(f"  found {len(section_ids)} sections", flush=True)
@@ -194,6 +225,11 @@ def main() -> int:
         path = out_dir / f"Article-{article}.md"
         path.write_text(md, encoding="utf-8")
         print(f"  wrote {path} ({len(md):,} bytes)", flush=True)
+
+        # Cool-off between articles so Cornell's rate-limit bucket can refill.
+        if args.article_delay > 0 and i + 1 < len(selected):
+            print(f"  sleeping {args.article_delay:g}s before next article", flush=True)
+            time.sleep(args.article_delay)
 
     return 0
 
