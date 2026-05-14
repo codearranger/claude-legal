@@ -1,6 +1,9 @@
 {
   "name": "wa-court-docs",
   "version": "0.9.0",
+  "dependencies": [
+    "claude-legal-federal-laws"
+  ],
   "description": "Draft and format pleadings, declarations, motions, notes for motion docket, and proposed orders for Washington courts. Applies GR 14 formatting; includes King County District Court and King County Superior Court specifics plus a county-court roll-up for the other most-populous counties (Pierce, Snohomish, Spokane, Clark, Thurston, Kitsap, Yakima, Whatcom, Benton); supports pro se workflows. Architected as matter-neutral civil-procedure skills (civil rules, evidence rules, fees and costs, local rules, citation format, online sources, discovery, first-30-days response, hearings, filing packets, post-judgment, fact-checking, deadlines) plus subject-matter bundles that plug into the procedural skills. The first subject-matter bundle, wa-consumer-debt, covers FDCPA, Reg F, RCW 19.16, the Washington CPA, chain-of-title doctrine, fact-pattern triage, and synthetic example filings for debt-buyer defense. The architecture leaves clean slots for future bundles (landlord-tenant, family, personal injury, etc.). All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
   "author": {
     "name": "codearranger",
