@@ -13,11 +13,15 @@ description: >
   federal-debt-laws, ucc-model, <state>-statutes-debt), copies
   the format-check and case-calendar scripts parameterized to
   the new state's holidays and format rule, registers the plugin
-  in marketplace.json, and updates CLAUDE.md and README.md.
+  in marketplace.json, and updates CLAUDE.md and README.md. The
+  scaffolder declares "dependencies: [claude-legal-federal-laws]"
+  in the new plugin.json and lays down symlinks at references/
+  federal-debt-laws and references/ucc-model pointing into the
+  shared plugin — federal corpora are NOT duplicated per state.
   This is a **project-scoped skill** — it lives in .claude/
   skills/ and runs against the marketplace repo as a whole. It
   is NOT a marketplace plugin.
-version: 0.1.0
+version: 0.2.0
 ---
 
 # Scaffold a New State Plugin
@@ -200,9 +204,15 @@ dive. Each `<state>-law-references` skill needs:
 - `legal-data-apis.md` — programmatic-access index
 - `court-rules/` — verbatim rule text (populated by future
   pull script; README + manifest for now)
-- `federal-debt-laws/` — federal law (shared content; copied
-  from WA/OR plugins)
-- `ucc-model/` — Model UCC (shared content)
+- `federal-debt-laws/` *(symlink)* — points into the shared
+  `claude-legal-federal-laws/references/federal-debt-laws/`
+  plugin via `../../../../claude-legal-federal-laws/...`. Do
+  NOT create a real directory here. The scaffold script lays
+  this symlink down automatically; if you author the plugin by
+  hand, declare `"dependencies": ["claude-legal-federal-laws"]`
+  in plugin.json and run `ln -s` for the symlink.
+- `ucc-model/` *(symlink)* — same shared plugin; same symlink
+  target convention. Same dependency.
 - `<state>-statutes-debt/` — state's debt-relevant statute
   chapters (e.g., for CA: CCP §§ 337, 337a (4-year SOL on
   contracts); Civil Code §§ 1788 et seq. (Rosenthal Act))
@@ -213,8 +223,13 @@ The `<state>-consumer-debt` skill is the substantive
 centerpiece. Mirror the OR pattern:
 
 - `SKILL.md` — overview with 5 fact-pattern triage
-- `references/fdcpa.md` — federal FDCPA (shared content)
-- `references/reg-f.md` — Regulation F (shared content)
+- `references/fdcpa.md` — state-specific framing / cites to the
+  FDCPA verbatim text. The verbatim text itself lives in
+  `<state>-law-references/references/federal-debt-laws/FDCPA.md`
+  (symlinked into the shared plugin), so cross-reference it
+  with a relative path rather than duplicating content.
+- `references/reg-f.md` — same: state-specific framing; verbatim
+  Reg F text lives in the shared plugin via the symlink.
 - `references/<state>-utpa-or-equiv.md` — state UTPA analog
   (Rosenthal Act for CA; Tex. Bus. & Com. Code Ch. 17 for TX;
   etc.)

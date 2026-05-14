@@ -362,6 +362,13 @@ def render_plugin_json(cfg: StateConfig) -> str:
         {
             "name": f"{cfg.abbr}-court-docs",
             "version": "0.1.0",
+            # State plugins depend on the shared federal-laws plugin
+            # rather than embedding federal-debt-laws / ucc-model
+            # content. The marketplace runtime auto-installs the
+            # dependency and dereferences the in-tree symlinks at
+            # install time. See ../../symlink wiring in
+            # create_state_plugin() below.
+            "dependencies": ["claude-legal-federal-laws"],
             "description": (
                 f"Draft and format pleadings, declarations, motions,"
                 f" notices, and proposed orders for {cfg.name} courts."
@@ -499,13 +506,35 @@ def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool
     (plugin_dir / "skills" / f"{cfg.abbr}-statewide-format" /
      "references" / "templates").mkdir(parents=True, exist_ok=True)
 
-    # law-references corpora
+    # law-references corpora — state-specific only. federal-debt-laws
+    # and ucc-model are NOT state-specific; they live in the shared
+    # claude-legal-federal-laws plugin and are reached via symlinks
+    # laid down further below.
     corpora_root = plugin_dir / "skills" / f"{cfg.abbr}-law-references" / "references"
-    for corpus in ["court-rules", "federal-debt-laws", "ucc-model",
-                   f"{cfg.abbr}-statutes-debt"]:
+    for corpus in ["court-rules", f"{cfg.abbr}-statutes-debt"]:
         corpus_dir = corpora_root / corpus
         corpus_dir.mkdir(parents=True, exist_ok=True)
         write(corpus_dir / "README.md", render_corpus_readme(corpus, cfg))
+
+    # Symlinks into the shared claude-legal-federal-laws plugin.
+    # Relative path from corpora_root (5 levels deep under repo root)
+    # back up to plugins/ then down into the shared plugin.
+    if not dry_run:
+        corpora_root.mkdir(parents=True, exist_ok=True)
+    shared_target_prefix = Path("../../../../claude-legal-federal-laws/references")
+    for corpus in ["federal-debt-laws", "ucc-model"]:
+        link_path = corpora_root / corpus
+        target = shared_target_prefix / corpus
+        if dry_run:
+            print(f"  SYMLINK {link_path.relative_to(root)} -> {target}")
+        else:
+            # Remove a pre-existing dir/file if present (idempotent rerun).
+            if link_path.is_symlink() or link_path.exists():
+                if link_path.is_symlink() or link_path.is_file():
+                    link_path.unlink()
+                else:
+                    shutil.rmtree(link_path)
+            link_path.symlink_to(target)
 
     # consumer-debt examples/
     (plugin_dir / "skills" / f"{cfg.abbr}-consumer-debt" /

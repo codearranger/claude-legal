@@ -92,10 +92,10 @@ plugins/ca-court-docs/
 │   ├── ca-law-references/
 │   │   ├── SKILL.md
 │   │   └── references/
-│   │       ├── court-rules/README.md
-│   │       ├── federal-debt-laws/README.md
-│   │       ├── ucc-model/README.md
-│   │       └── ca-statutes-debt/README.md
+│   │       ├── court-rules/README.md          # real dir
+│   │       ├── federal-debt-laws -> ../../../../claude-legal-federal-laws/references/federal-debt-laws  (symlink)
+│   │       ├── ucc-model         -> ../../../../claude-legal-federal-laws/references/ucc-model          (symlink)
+│   │       └── ca-statutes-debt/README.md     # real dir
 │   ├── ca-discovery/...
 │   ├── ca-hearings/...
 │   ├── ca-post-judgment/...
@@ -122,8 +122,13 @@ plugins/ca-court-docs/
     └── integration/
 ```
 
-That's 21 SKILL.md files, 4 corpus READMEs, 1 plugin.json,
-1 evals README, 2 copied scripts, and ~30 empty directories.
+That's 21 SKILL.md files, 2 corpus READMEs (only the state-specific
+corpora — `court-rules/` and `<state>-statutes-debt/` — get a real
+directory with a README; `federal-debt-laws` and `ucc-model` are
+created as symlinks into the shared `claude-legal-federal-laws`
+plugin), 1 plugin.json declaring
+`"dependencies": ["claude-legal-federal-laws"]`, 1 evals README,
+2 copied scripts, and ~30 empty directories.
 
 ## What the script does NOT do
 
