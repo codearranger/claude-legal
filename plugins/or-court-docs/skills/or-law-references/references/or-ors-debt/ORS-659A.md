@@ -1,4 +1,4 @@
-# ORS Chapter 659A — Employment discrimination
+# ORS Chapter 659A — Unlawful discrimination — employment, public accommodations, real property
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html
 > **Fetched:** 2026-05-14

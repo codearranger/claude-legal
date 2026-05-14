@@ -1,7 +1,7 @@
 # ORPC — Oregon Rules of Professional Conduct
 
 > **Source:** https://www.osbar.org/_docs/rulesregs/orpc.pdf
-> **Fetched:** 2026-05-13
+> **Fetched:** 2026-05-14
 > **Format:** verbatim conversion of the official PDF source
 
 ---
@@ -78,8 +78,6 @@ RULE 4.1 TRUTHFULNESS IN STATEMENTS TO OTHERS ......... 22
 RULE 4.2 COMMUNICATION WITH PERSON REPRESENTED BY
    COUNSEL ....................................................................... 22
 RULE 4.3 DEALING WITH UNREPRESENTED PERSONS ........... 23
-
-
 
 Oregon Rules of Professional Conduct (February 1, 2026)                                                                                                                     Page 1
 
@@ -231,10 +229,8 @@ eliminated as being unnecessary.                             jurisdiction, the l
                                                              regarding such conflict and the potential legal
                                                              consequences.
 
-
                                                              Adopted 01/01/05.
                                                              Amended 02/19/15: Paragraph (d) added.
-
 
 Oregon Rules of Professional Conduct (February 1, 2026)                                                     Page 3
 
@@ -557,7 +553,6 @@ client unless the client gives informed consent,               unless:
 confirmed in writing, except as permitted or required
                                                                    (1) the client gives informed consent;
 under these Rules.
-
 
 Oregon Rules of Professional Conduct (February 1, 2026)                                                       Page 7
 
@@ -967,7 +962,6 @@ to the provisions of Rule 1.7. If the organization's              “Substantial
 consent to the dual representation is required by Rule
 1.7, the consent may only be given by an appropriate                         Comparison to Oregon Code
 
-
 Oregon Rules of Professional Conduct (February 1, 2026)                                                     Page 13
 
 Paragraph (b) is similar to DR 7-101(C), but offers more     (f) Every lawyer who receives notification from a
@@ -1042,7 +1036,6 @@ dispute is resolved. The lawyer shall promptly distribute
 all portions of the property as to which the interests are   Amended 01/01/12: Requirement for annual certification,
 not in dispute.                                              formerly paragraph (m), deleted and obligation moved to
                                                              ORS Chapter 9.
-
 
 Oregon Rules of Professional Conduct (February 1, 2026)                                                    Page 14
 
@@ -1594,7 +1587,6 @@ This rule has no counterpart in the Oregon Code.
                                                              the phrase “or on directly related subjects” has been
                                                              deleted. The application of the rule to a lawyer acting in
 
-
 Oregon Rules of Professional Conduct (February 1, 2026)                                                      Page 22
 
 the lawyer’s own interests has been moved to the               Adopted 01/01/05.
@@ -2132,7 +2124,6 @@ connection with a disciplinary matter, shall not:
     this rule does not require disclosure of information     election or appointment to a judicial or other
     otherwise protected by Rule 1.6.                         adjudicatory office.
 
-
 Oregon Rules of Professional Conduct (February 1, 2026)                                                    Page 29
 
 (b) A lawyer who is a candidate for judicial office shall                    Defined Terms (see Rule 1.0):
@@ -2291,7 +2282,6 @@ Conduct to be applied shall be as follows:                      shall be availab
     tribunal provide otherwise; and
                                                                 about these Rules.
 
-
 Oregon Rules of Professional Conduct (February 1, 2026)                                                        Page 31
 
 (b) In considering alleged violations of these Rules, the   Adopted 01/01/05.
@@ -2311,9 +2301,6 @@ the Disciplinary Board or the Oregon Supreme Court          .
 from considering any other evidence of either good
 faith or basis for mitigation in a bar disciplinary
 proceeding.
-
-
-
 
 Oregon Rules of Professional Conduct (February 1, 2026)                                                     Page 32
 
@@ -2497,5 +2484,3 @@ Rule 7.1(d)       DR 2-101(F)       Rule 7.5(e)   DR 2-102(E)
                                                                    Rule 8.4(b)          DR 1-102(D)
 Rule 7.1(e)       DR 2-101(G)       Rule 7.5(f)   DR 2-102(F)
                                                                    Rule 8.6             DR 1-105
-
-

@@ -1,7 +1,7 @@
-# ORS Chapter 79 — UCC Article 9 (secured transactions)
+# ORS Chapter 79 — UCC Article 9 (pre-2025 renumbering snapshot)
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors079.html
-> **Fetched:** 2026-05-13
+> **Fetched:** 2026-05-14
 > **Format:** verbatim conversion of the official HTML source
 
 ---

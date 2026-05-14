@@ -1,7 +1,7 @@
 # Washington-SLR — Washington County (Oregon) Supplementary Local Court Rules
 
-> **Source:** https://www.courts.oregon.gov/rules/Documents/Washington_SLR_2026.pdf (linked from https://www.courts.oregon.gov/courts/washington/go/Pages/rules.aspx and https://www.courts.oregon.gov/rules/Pages/slr.aspx)
-> **Fetched:** 2026-05-13
+> **Source:** https://www.courts.oregon.gov/rules/Documents/Washington_SLR_2026.pdf
+> **Fetched:** 2026-05-14
 > **Format:** verbatim conversion of the official PDF source
 
 ---
@@ -14,13 +14,7 @@
 
         Oregon Judicial Department
 
-
-
-
                   Effective February 1, 2026
-
-
-
 
  STATE OF OREGON – WASHINGTON COUNTY
 
@@ -30,11 +24,7 @@
  DATED: November 18, 2025
  Court Administrator for Washington County Circuit Court:
 
-
         /s/ Richard E. Moellmer
-
-
-
 
 This document has no copyright and may be reproduced.
 
@@ -71,7 +61,6 @@ Proceedings in Criminal Cases
              Counsel      …………………………………………………………………                                        5
  4.021……...Criminal Case Management          …………………………………………                              5
 
-
 Chapter 5
 Proceedings in Civil Cases
  5.021……...Judgment Debtor Exams …………………………………………………                                       6
@@ -81,9 +70,6 @@ Proceedings in Civil Cases
  5.051……...Scheduling Civil Show Cause Motion Hearings …………………………                          6
  5.055……...Confirmation Cards and Conformed Copies         …………………………                      7
  5.061……...Ex Parte Matters      …………………………………………………………                                    7
-
-
-
 
                                                      Washington County, 20th Judicial District
                                                                           February 1, 2026
@@ -134,8 +120,6 @@ Juvenile Court Proceedings
  11.005……..Termination of Parental Rights (TPR)   ………………………………… 24
  11.021……..Motions for Substitution of Counsel    ………………………………… 24
 
-
-
                                                   Washington County, 20th Judicial District
                                                                        February 1, 2026
 
@@ -183,9 +167,6 @@ Post-Conviction Relief
  24.071…… Post Conviction Relief Proceedings Before the Court
              by Simultaneous Electronic Transmission    ………………………… 34
 
-
-
-
                                                       Washington County, 20th Judicial District
                                                                            February 1, 2026
 
@@ -205,19 +186,14 @@ Chapter 9
 Probate Proceedings
  FORM 9.051………Acknowledgment of Restriction of Assets………………..…….… 46
 
-
-
-
                                                   Washington County, 20th Judicial District
                                                                        February 1, 2026
 
 CHAPTER 1 – GENERAL PROVISIONS
 
-
 1.051 FORMS REQUIRED BY SLR ON COURT WEBSITE
 
 https://www.courts.oregon.gov/courts/washington/help/Pages/Forms.aspx
-
 
 1.161 FILING OF DOCUMENTS IN COURT
 
@@ -238,7 +214,6 @@ https://www.courts.oregon.gov/courts/washington/help/Pages/Forms.aspx
         the Law Enforcement Center, 215 SW Adams Avenue, Hillsboro, Oregon
         97123.
 
-
 1.165 COPY REQUESTS
 
 Court records requests may be submitted electronically or requested in person at the
@@ -246,13 +221,9 @@ Circuit Court Records Office located on the first floor of the Justice Services 
 150 N. First Avenue, Hillsboro, Oregon, 97124.
 https://www.courts.oregon.gov/courts/washington/records/Pages/default.aspx
 
-
 1.171 COURT WEBSITE ADDRESS
 
 https://www.courts.oregon.gov/courts/washington/Pages/default.aspx
-
-
-
 
                                                                                    Page 1 of 46
                                                          Washington County, 20th Judicial District
@@ -260,13 +231,11 @@ https://www.courts.oregon.gov/courts/washington/Pages/default.aspx
 
 CHAPTER 2 – STANDARDS FOR PLEADINGS AND DOCUMENTS
 
-
 2.018 EXHIBITS FOR REMOTE HEARINGS AND TRIALS
 
 Exhibits for remote hearings and trials must be submitted in conformance with the
 Remote Hearings Litigant Guide referenced in Chief Justice Order No. 23.028 and
 Washington County Presiding Judge Order No. 343.
-
 
 2.031 DESIGNATION OF KNOWN PARTIES BY FICTITIOUS NAME
 
@@ -282,9 +251,6 @@ If ordered, the designation of such party shall be by use of such party’s init
 fictitious name other than “Jane Doe” or “John Doe.” The name “Jane Doe” or “John
 Doe” is reserved to be used for a party whose identity is unknown and the party is being
 designated as provided in ORCP 20 H.
-
-
-
 
                                                                                 Page 2 of 46
                                                       Washington County, 20th Judicial District
@@ -316,15 +282,11 @@ conventionally and may not be electronically filed, except as provided in subsec
        (e) Postponements for hearings set within two weeks of the date of motion
        (f) Warrant in lieu of Habeas Corpus
 
-
-
-
                                                                                 Page 3 of 46
                                                       Washington County, 20th Judicial District
                                                                            February 1, 2026
 
 CHAPTER 3 – DECORUM IN PROCEEDINGS
-
 
 3.141 RESIGNATION OF ATTORNEYS IN DOMESTIC RELATIONS PROCEEDINGS
 
@@ -354,21 +316,16 @@ CHAPTER 3 – DECORUM IN PROCEEDINGS
       Attorney, copy the former attorney and the opposing party or their attorney if
       they are represented.
 
-
-
-
                                                                                 Page 4 of 46
                                                       Washington County, 20th Judicial District
                                                                            February 1, 2026
 
 CHAPTER 4 – PROCEEDINGS IN CRIMINAL CASES
 
-
 4.011 SUBSTITUTION OF COUNSEL
 
 Any substituting counsel must file a Notice of Substitution which includes a certification
 or notice to the current counsel, together with an Order Allowing Substitution.
-
 
 4.021 CRIMINAL CASE MANAGEMENT
 
@@ -397,15 +354,11 @@ or notice to the current counsel, together with an Order Allowing Substitution.
        assignment and then the requirements of ORS 14.250-279 and SLR 1.161(2)
        must be followed.
 
-
-
-
                                                                                   Page 5 of 46
                                                         Washington County, 20th Judicial District
                                                                              February 1, 2026
 
 CHAPTER 5 – PROCEEDINGS IN CIVIL CASES
-
 
 5.021 JUDGMENT DEBTOR EXAMS
 
@@ -414,7 +367,6 @@ through Friday, at the Civil Filing Counter (located on the first floor of the J
 Services Building). At the designated time, a clerk will swear the judgment debtor for
 the exam.
 
-
 5.032 CIVIL TRIAL DATES WITHIN 9 MONTHS FROM CASE INITIATION
 
    (1) Civil stipulated trial dates need to be within 9 months from case initiation.
@@ -422,7 +374,6 @@ the exam.
    (2) Any proposed trial dates beyond 9 months from case initiation require a motion,
        affidavit and proposed order, which will be reviewed and ruled on by the
        Presiding Judge.
-
 
 5.041 MOTIONS
 
@@ -433,7 +384,6 @@ the exam.
        hearing shall be emailed or delivered to the chambers of the civil motion judge
        simultaneous with filing the originals.
 
-
 5.042 MOTION AND ORDER TO SET ASIDE CIVIL DEFAULT OR DISMISSAL
 
 When filing a motion and order to set aside a civil default judgment or dismissal
@@ -442,14 +392,12 @@ effort to notify the opposing parties of their opportunity to object. Requests t
 civil default judgments or dismissals will be returned to the moving party unless the
 certification appears in the body of the motion.
 
-
 5.051 SCHEDULING CIVIL SHOW CAUSE MOTION HEARINGS
 
 Reserve a hearing date and time with the Case Management Department and have the
 order signed by a judge. Proof of Service must be filed with the court 48 hours prior to
 the reserved hearing date. Upon receipt of the Proof of Service, the Case Management
 Department will schedule the hearing.
-
 
                                                                                   Page 6 of 46
                                                         Washington County, 20th Judicial District
@@ -461,7 +409,6 @@ Unless required by law or rule, conformed copies of orders and judgments will no
 provided. Signed copies of orders and judgments may be obtained from the Circuit
 Court Records Office by completing the court records request online web form:
 https://www.courts.oregon.gov/courts/washington/records/Pages/CaseFiles.aspx
-
 
 5.061 EX PARTE MATTERS
 
@@ -497,15 +444,11 @@ https://www.courts.oregon.gov/courts/washington/records/Pages/CaseFiles.aspx
 
       If no service, explain why.
 
-
-
-
                                                                                     Page 7 of 46
                                                           Washington County, 20th Judicial District
                                                                                February 1, 2026
 
 CHAPTER 6 – TRIALS
-
 
 6.012 CIVIL ADR AND JUDICIAL SETTLEMENT CONFERENCES
 
@@ -547,9 +490,6 @@ sanction under UTCR 1.090 that the court deems appropriate.
             unanimously consent to the Settlement Judge acting as the Trial Judge in
             the event the case does not settle.
 
-
-
-
                                                                                   Page 8 of 46
                                                         Washington County, 20th Judicial District
                                                                              February 1, 2026
@@ -567,7 +507,6 @@ sanction under UTCR 1.090 that the court deems appropriate.
           case present or readily available, by simultaneous electronic transmission
           (e.g., telephone, video) or other means, at the time of the Judicial
           Settlement Conference.
-
 
 6.015 CRIMINAL SUBPOENAS FOR PRETRIAL PRODUCTION OF RECORDS
 
@@ -598,9 +537,6 @@ sanction under UTCR 1.090 that the court deems appropriate.
       (f) A proposed Order authorizing the issuance of subpoenas duces tecum (or
           a proposed Protective Order when appropriate).
 
-
-
-
                                                                                  Page 9 of 46
                                                        Washington County, 20th Judicial District
                                                                             February 1, 2026
@@ -617,7 +553,6 @@ sanction under UTCR 1.090 that the court deems appropriate.
        explanation to the court. The letter of explanation shall be copied to all
        opposing parties.
 
-
 6.021 REMOVING HEARINGS AND TRIALS FROM DOCKET AFTER SETTLEMENT
 
 Appearance is required for scheduled hearings and trials which have settled unless the
@@ -631,7 +566,6 @@ following has occurred:
 
    (3) A motion to remove the case from the docket has been filed two business days
        prior to hearing or trial.
-
 
 6.031 RESETS
 
@@ -694,21 +628,17 @@ following has occurred:
             (vi) Factors which were known or should have been anticipated but were
                    not brought to the court's attention until shortly before trial.
 
-
 6.051 SUBMISSION OF TRIAL MEMORANDA AND JURY INSTRUCTIONS
 
 If a trial memorandum is to be submitted, it must be received by the assigned trial judge
 by noon prior to the day of trial. Jury instructions must be received by the assigned trial
 judge on the first day of trial, unless requested earlier.
 
-
-
                                                                                  Page 11 of 46
                                                         Washington County, 20th Judicial District
                                                                              February 1, 2026
 
 CHAPTER 8 – DOMESTIC RELATIONS PROCEEDINGS
-
 
 8.012 FAMILY LAW CASE SETTLEMENT CONFERENCES
 
@@ -751,9 +681,6 @@ CHAPTER 8 – DOMESTIC RELATIONS PROCEEDINGS
       settlement judge or by any of the parties to the subsequent trial judge, except
       for evidence of offers to recover attorney fees that are made and rejected.
 
-
-
-
                                                                                 Page 12 of 46
                                                        Washington County, 20th Judicial District
                                                                             February 1, 2026
@@ -766,7 +693,6 @@ CHAPTER 8 – DOMESTIC RELATIONS PROCEEDINGS
 
   (9) All required court fees shall be paid prior to commencement of the settlement
       conference.
-
 
 8.013 FAMILY LAW CASE STATUS CONFERENCES
 
@@ -803,8 +729,6 @@ CHAPTER 8 – DOMESTIC RELATIONS PROCEEDINGS
       (i) A certification that after good-faith consultation with the other party, in the
             party’s opinion, a status conference would not serve any useful purpose.
 
-
-
                                                                                 Page 13 of 46
                                                        Washington County, 20th Judicial District
                                                                             February 1, 2026
@@ -835,9 +759,6 @@ CHAPTER 8 – DOMESTIC RELATIONS PROCEEDINGS
     exception to SLR 8.015. All other resets not handled at the status conference
     in this manner shall be made in compliance with SLR 8.015.
 
-
-
-
                                                                               Page 14 of 46
                                                      Washington County, 20th Judicial District
                                                                           February 1, 2026
@@ -865,7 +786,6 @@ CHAPTER 8 – DOMESTIC RELATIONS PROCEEDINGS
        protective order) the proposed order shall include an express waiver by the
        party entitled to the statutory timeframe for good cause.
 
-
 8.021 CANCELING DOMESTIC RELATIONS TRIALS AND HEARINGS
 
 Trials and hearings in domestic relations cases shall not be canceled until the court
@@ -876,15 +796,11 @@ confirmation means providing an envelope number and copy of the stipulated judgm
 and/or order to judicial staff. Failure to appear will result in dismissal without prejudice
 of the petition or motion.
 
-
 8.041 MOTIONS
 
 A bench copy of documents filed within one week of a scheduled domestic relations
 motion hearing shall be emailed or delivered to the chambers of the domestic relations
 motion judge simultaneous with filing the originals.
-
-
-
 
                                                                                   Page 15 of 46
                                                          Washington County, 20th Judicial District
@@ -914,14 +830,10 @@ motion judge simultaneous with filing the originals.
 
    (5) Any motion filed without a proposed show cause order will be rejected.
 
-
 8.051 SUBMISSION OF TRIAL AND HEARING MEMORANDA
 
 If a trial or hearing memorandum is to be submitted, it must be received by the assigned
 trial judge by noon prior to the day of trial.
-
-
-
 
                                                                                Page 16 of 46
                                                       Washington County, 20th Judicial District
@@ -946,7 +858,6 @@ trial judge by noon prior to the day of trial.
       12.013(5). Failure to file said motion shall result in the court rejecting the
       motion to modify.
 
-
 8.061 EX PARTE AND OTHER MATTERS NOT DOCKETED FOR HEARING,
       INCLUDING FAMILY, ELDER, AND DISABLED PROTECTIVE ORDERS,
       EXTREME RISK PROTECTIVE ORDERS, EMERGENCY CUSTODY, WRITS
@@ -968,9 +879,6 @@ trial judge by noon prior to the day of trial.
       OR 97006 or Family Law Assistance Program located on the 1st floor of the
       Justice Services Building before 10:30 A.M., to be added to the same day 1:00
       P.M. docket.
-
-
-
 
                                                                               Page 17 of 46
                                                      Washington County, 20th Judicial District
@@ -996,7 +904,6 @@ trial judge by noon prior to the day of trial.
         [time]                                                     AM / PM (circle one)
         by [method of service/notice]                                                  ."
 
-
 8.071 FAMILY ABUSE PREVENTION ACT PROCEDURES
 
 Violations of restraining orders shall be processed in the following manner:
@@ -1019,9 +926,6 @@ Violations of restraining orders shall be processed in the following manner:
        petitioner’s counsel to represent such interests, but in any event may act as co-
        counsel representing the client’s interests.
 
-
-
-
                                                                                     Page 18 of 46
                                                            Washington County, 20th Judicial District
                                                                                 February 1, 2026
@@ -1034,7 +938,6 @@ Violations of restraining orders shall be processed in the following manner:
   (2) The court shall not order a custody and parenting time evaluation under ORS
       107.425 unless the parties are in compliance with the requirements to mediate
       or have had this requirement waived by the court for good cause shown.
-
 
 8.091 APPOINTMENT OF LEGAL COUNSEL FOR MINOR CHILDREN
 
@@ -1068,9 +971,6 @@ Violations of restraining orders shall be processed in the following manner:
       contribute toward the fees and costs incurred, even if the attorney agreed to
       represent the child on a pro bono or reduced fee basis.
 
-
-
-
                                                                                 Page 19 of 46
                                                        Washington County, 20th Judicial District
                                                                             February 1, 2026
@@ -1082,7 +982,6 @@ modification or collection action before filing the motion to transfer. The moti
 transfer shall be scheduled as a show cause hearing and the moving party shall assure
 proper service under ORCP 7. This rule does not apply to the District Attorney or
 Attorney General.
-
 
 8.102 FAMILY EDUCATION PROGRAM
 
@@ -1120,8 +1019,6 @@ Attorney General.
        contested hearing. A judge may waive the requirement of a written motion and
        affidavit or declaration.
 
-
-
                                                                                 Page 20 of 46
                                                        Washington County, 20th Judicial District
                                                                             February 1, 2026
@@ -1145,7 +1042,6 @@ Attorney General.
         107.425 unless the parties are in compliance with the requirements to
         participate in family law education or have had this requirement waived by the
         court for good cause shown.
-
 
 8.111 SUPERVISED PARENTING TIME
 
@@ -1172,7 +1068,6 @@ parties to the case and the supervisor must comply with the following:
    (3) The custodial parent is not allowed to be present or to impose additional rules
        or to make additional demands concerning supervised parenting time.
 
-
                                                                                 Page 21 of 46
                                                        Washington County, 20th Judicial District
                                                                             February 1, 2026
@@ -1198,7 +1093,6 @@ parties to the case and the supervisor must comply with the following:
    (7) The supervisor is required to keep the supervised parent within view and within
        hearing range for the duration of the supervised parenting time.
 
-
 8.121 INFORMAL DOMESTIC RELATIONS TRIAL
 
 Pursuant to UTCR 8.120, parties to domestic relations cases who wish to elect to
@@ -1206,7 +1100,6 @@ participate in an Informal Domestic Relations Trial shall file a Trial Process S
 and Waiver in substantially the form specified in Form SLR 8.121 at or before the time
 of the status conference set by the court, or at such time as the court directs prior to the
 commencement of trial. See Form SLR 8.121.
-
 
 8.122 TIMELY DISPOSITION OF DOMESTIC RELATIONS CASES
 
@@ -1217,21 +1110,16 @@ continuing review should occur, Washington County Circuit Court may dismiss any
 pleading that is not resolved within one year. Parties will be given notice and an
 opportunity to be heard before a dismissal is entered.
 
-
-
-
                                                                                   Page 22 of 46
                                                          Washington County, 20th Judicial District
                                                                               February 1, 2026
 
 CHAPTER 9 – PROBATE PROCEEDINGS
 
-
 9.051 RESTRICTION OF ASSETS
 
 Any assets restricted by court order require filing of an acknowledgment of restriction of
 assets. See Form SLR 9.051.
-
 
 9.081 PROTECTIVE PROCEEDINGS OBJECTIONS
 
@@ -1244,22 +1132,17 @@ A Respondent or Protected Person may, as authorized by ORS 125.075(2), make an
 oral objection with the appointed Court Visitor. The Court Visitor must convey the
 objection in the Visitor’s Report.
 
-
 9.161 ACCOUNTINGS
 
 Accountings filed under ORS 125.475 and ORS 116.083 shall be in the form specified
 in Form 9.160 of the UTCR Appendix of Forms including the requirement, absent prior
 court order, to file vouchers as set out in UTCR 9.180.
 
-
-
-
                                                                                  Page 23 of 46
                                                         Washington County, 20th Judicial District
                                                                              February 1, 2026
 
 CHAPTER 11 – JUVENILE COURT PROCEEDINGS
-
 
 11.005 TERMINATION OF PARENTAL RIGHTS (TPR)
 
@@ -1277,7 +1160,6 @@ CHAPTER 11 – JUVENILE COURT PROCEEDINGS
        discuss trial status and all pretrial issues. Negotiation, trial scheduling and all
        other pretrial issues shall be resolved prior to trial.
 
-
 11.021 MOTIONS FOR SUBSTITUTION OF COUNSEL
 
 Motions for substitution of counsel must be heard by the judge of the case. The motion
@@ -1286,15 +1168,11 @@ declaration and proposed order allowing for the withdrawal, along with a propose
 appointing new counsel. The Motion must contain: the most recent name, address,
 email address and phone number of the client.
 
-
-
-
                                                                                   Page 24 of 46
                                                          Washington County, 20th Judicial District
                                                                               February 1, 2026
 
 CHAPTER 12 - MEDIATION
-
 
 12.005 CUSTODY AND PARENTING TIME MEDIATION COMMISSION
 
@@ -1313,7 +1191,6 @@ CHAPTER 12 - MEDIATION
        the pleasure of the Presiding Judge. The Presiding Judge may appoint
        additional members.
 
-
 12.011 DOMESTIC RELATIONS MATTERS SUBJECT TO MEDIATION
 
    (1) Mandatory Mediation: Any action filed in the court involving a controversy over
@@ -1321,7 +1198,6 @@ CHAPTER 12 - MEDIATION
 
    (2) Other Matters: If both parties agree, the mediator may deal with other matters
        at issue, such as property distribution and support.
-
 
 12.012 SCOPE OF AUTHORITY
 
@@ -1332,9 +1208,6 @@ accept, modify or reject any agreement reached in mediation. In order to preserv
 promote the integrity of mediation as a dispute resolution technique, the court will
 endeavor to include all reasonable agreements reached by the parties in formulating its
 orders in the case.
-
-
-
 
                                                                                 Page 25 of 46
                                                        Washington County, 20th Judicial District
@@ -1381,9 +1254,6 @@ orders in the case.
       without completion of mediation, the hearing will be reset and the parties sent to
       mediation.
 
-
-
-
                                                                                Page 26 of 46
                                                       Washington County, 20th Judicial District
                                                                            February 1, 2026
@@ -1407,7 +1277,6 @@ orders in the case.
        has been made to Conciliation Services, they shall comply with SLR 12.014(2)
        and send a copy of the stipulation to Conciliation Services.
 
-
 12.015 PRIVACY, CONFIDENTIALITY AND RECORDS
 
 Subject to the exceptions in ORS 36.220:
@@ -1420,15 +1289,11 @@ Subject to the exceptions in ORS 36.220:
        shall not be used in any civil or criminal action without the consent of the parties
        to the mediation.
 
-
-
-
                                                                                  Page 27 of 46
                                                         Washington County, 20th Judicial District
                                                                              February 1, 2026
 
 CHAPTER 13 – ARBITRATION
-
 
 13.121 ARBITRATOR FEE
 
@@ -1469,9 +1334,6 @@ CHAPTER 13 – ARBITRATION
       receiving the motion. The motion may be resolved by the court without a
       hearing.
 
-
-
-
                                                                                 Page 28 of 46
                                                        Washington County, 20th Judicial District
                                                                             February 1, 2026
@@ -1482,7 +1344,6 @@ CHAPTER 13 – ARBITRATION
       required under subsection (2) of this rule, or received a deferral or waiver of
       payment, may be sanctioned by the arbitrator under UTCR 13.110(4) and by
       the court under UTCR 1.090.
-
 
 13.161 TIME FOR ARBITRATION HEARING
 
@@ -1507,15 +1368,11 @@ CHAPTER 13 – ARBITRATION
 
   (4) UTCR 13.160 applies except as specified by this local rule.
 
-
-
-
                                                                               Page 29 of 46
                                                      Washington County, 20th Judicial District
                                                                           February 1, 2026
 
 CHAPTER 14 – REFERENCE JUDGES
-
 
 14.012 SCHEDULING OF PROCEEDINGS AND SUBMISSION OF
 JUDGEMENTS/ORDERS FOR MATTERS ASSIGNED TO REFERENCE JUDGE
@@ -1537,22 +1394,17 @@ PURSUANT TO ORS 3.305 AND ORS 3.135
       order for entry of judgment. That order shall be routed to the assigned circuit
       court judge for review and signature.
 
-
-
-
                                                                                 Page 30 of 46
                                                        Washington County, 20th Judicial District
                                                                             February 1, 2026
 
 CHAPTER 18 – FORCIBLE ENTRY AND DETAINER
 
-
 18.005 FORCIBLE ENTRY AND DETAINER (FED) RETURNS OF SERVICE
 
 Returns of service and declarations in support of default order and judgment in Forcible
 Entry and Detainer cases must be filed with the court not later than two (2) judicial days
 prior to the first scheduled appearance date.
-
 
 18.015 FORCIBLE ENTRY AND DETAINER (FED) TRIAL
 
@@ -1562,15 +1414,11 @@ Defendant must file an Answer and pay the filing fee, unless deferred or waived,
 p.m. the day of the first appearance. If they do not, the Plaintiff may be entitled to
 immediately move for an order of default.
 
-
-
-
                                                                                  Page 31 of 46
                                                         Washington County, 20th Judicial District
                                                                              February 1, 2026
 
 CHAPTER 19 – CIVIL CONTEMPT
-
 
 19.005 REMEDIAL AND PUNITIVE CONTEMPT ACTIONS
 
@@ -1598,9 +1446,6 @@ CHAPTER 19 – CIVIL CONTEMPT
   (6) If the plaintiff fails to appear for any hearing (excepting for appearance at LEC
       after issuance of a bench warrant), the contempt action will be dismissed.
 
-
-
-
                                                                                  Page 32 of 46
                                                         Washington County, 20th Judicial District
                                                                              February 1, 2026
@@ -1608,21 +1453,16 @@ CHAPTER 19 – CIVIL CONTEMPT
 CHAPTER 21 – FILINGS AND SERVICE BY ELECTRONIC MEANS; ELECTRONIC
 FILES OF THE COURT
 
-
 21.075 PROBATE EMERGENCY, TEMPORARY PROTECTIVE PROCEEDINGS
 
 When filing an emergency, temporary protective proceeding using File & Serve, call the
 Probate Department at 503-846-2366 to alert clerks of need for expedited processing.
-
-
-
 
                                                                               Page 33 of 46
                                                      Washington County, 20th Judicial District
                                                                           February 1, 2026
 
 CHAPTER 24 – POST-CONVICTION RELIEF
-
 
 24.071 POST CONVICTION RELIEF PROCEEDINGS BEFORE THE COURT BY
        SIMULTANEOUS ELECTRONIC TRANSMISSION
@@ -1650,9 +1490,6 @@ proceedings shall be deemed to be taking place at the Washington County Courthou
 in Hillsboro, Oregon. Administrative case processing and pretrial motions are handled
 by and at the Washington County Circuit Court.
 
-
-
-
                                                                                 Page 34 of 46
                                                        Washington County, 20th Judicial District
                                                                             February 1, 2026
@@ -1667,10 +1504,8 @@ by and at the Washington County Circuit Court.
 
        and                                           SETTLEMENT CONFERENCE REQUEST
 
-
                                               ,
                               Respondent
-
 
 I am the □ Petitioner □ Respondent □ Other                                  in this case. I have
 conferred with the other attorney/party and can confirm they are stipulating to a settlement
@@ -1700,8 +1535,6 @@ There □ is □ is not a court-ordered restraining order between the parties. C
 There □ is □ is not a stalking order between the parties. Case #
 There □ is □ is not a no contact order between the parties. Case #
 
-
-
 SETTLEMENT CONFERENCE REQUEST —Page 1 of 2
 
                                                                                       Page 35 of 46
@@ -1713,7 +1546,6 @@ Necessary Accommodations:
 □ One or more of the parties will require ADA reasonable accommodation. The following ADA
 accommodations are needed:
 □ One or more of the parties requests, if available, the following case presentation technology:
-
 
 Declarations:
 □ I attest both parties stipulate to a settlement conference.
@@ -1732,13 +1564,9 @@ setting. If trial or a hearing is reset:
 I hereby declare that the above statement is true to the best of my knowledge and belief. I
 understand it is made for use as evidence in court, and is subject to penalty for perjury.
 
-
 □ Petitioner □ Respondent □ Attorney, Signature              Print Name (and OSB# if applicable)
 
-
 Contact Address              City, State, Zip                Contact Telephone
-
-
 
 □ Petitioner’s □ Respondent’s □ Other Party’s motion for settlement conference order is
 hereby:
@@ -1751,9 +1579,7 @@ hereby:
 DATED:
                                                 Circuit Court Judge
 
-
                                                 Print Name
-
 
 SETTLEMENT CONFERENCE REQUEST —Page 2 of 2
                                                                                       Page 36 of 46
@@ -1773,7 +1599,6 @@ SETTLEMENT CONFERENCE REQUEST —Page 2 of 2
 
                                              ,
                                Respondent
-
 
                                               Motion
 
@@ -1799,9 +1624,6 @@ The pending court date was requested on (date) _______________________ by:
                                             Declaration
 I am requesting a reset because:
 
-
-
-
 MOTION AND DECLARATION FOR RESET—Page 1 of 2
 
                                                                                       Page 37 of 46
@@ -1823,20 +1645,13 @@ MOTION AND DECLARATION FOR RESET—Page 1 of 2
 
        The other party □ agrees □ objects to my reset request.
 
-
 I hereby declare that the above statements are true and complete to the best of my knowledge
 and belief. I understand they are made for use in court, and I am subject to penalty for perjury.
-
-
 
 Signature: □ Petitioner □ Respondent                 Print Name                 Email Address
 □ Attorney (OSB# if applicable)
 
-
 Contact Address                       City, State, Zip                          Contact Telephone
-
-
-
 
 MOTION AND DECLARATION FOR RESET—Page 2 of 2
                                                                                          Page 38 of 46
@@ -1853,10 +1668,8 @@ MOTION AND DECLARATION FOR RESET—Page 2 of 2
 
        and                                             ORDER REGARDING RESET
 
-
                                              ,
                               Respondent
-
 
 □ Petitioner’s □ Respondent’s □ Other Party’s motion for order to reset is hereby:
 
@@ -1867,9 +1680,7 @@ MOTION AND DECLARATION FOR RESET—Page 2 of 2
 
 Judge Signature:
 
-
 Date                                             Circuit Court Judge
-
 
 Certificate of Readiness for Judicial Signature Under UTCR 5.100
 
@@ -1901,39 +1712,26 @@ proposed order and □ a Notice of Proposed Judgment or Order (if the other part
 represented by an attorney), in the United States mail to
 (name)                                       at (address)
 
-
-
-
 Submitted By:
-
 
 Signature: □ Petitioner □ Respondent                 Print Name               Email Address
 □ Attorney (OSB# if applicable)
 
-
 Contact Address                   City, State, Zip            Contact Telephone
-
 
 If applicable:
 
 □ Petitioner stipulates (agrees) to the terms of this Order
 
-
 Petitioner’s Signature                                        Date
-
 
 Petitioner’s Name (printed)
 
 □ Respondent stipulates (agrees) to the terms of this Order
 
-
 Respondent’s Signature                                        Date
 
-
 Respondent’s Name (printed)
-
-
-
 
 ORDER REGARDING RESET—Page 2 of 2
                                                                                        Page 40 of 46
@@ -1954,12 +1752,10 @@ ORDER REGARDING RESET—Page 2 of 2
                                                ,
                                Respondent
 
-
 THIS MATTER came before the court:
 □ at the request of the children referenced below.
 □ at the request of counsel for the petitioner/respondent.
 □ on the court’s own motion.
-
 
 IT IS HEREBY ORDERED that:
 
@@ -1980,9 +1776,6 @@ IT IS HEREBY ORDERED that:
    representation is more appropriate, the attorney shall move the court to modify the type of
    appointment (in cases involving a child age 12 or older, the court presumes at the outset
    that a traditional, advocacy attorney is appropriate).
-
-
-
 
 ORDER APPOINTING LEGAL COUNSEL FOR MINOR CHILDREN—Page 1 of 3
 
@@ -2025,15 +1818,9 @@ ORDER APPOINTING LEGAL COUNSEL FOR MINOR CHILDREN—Page 1 of 3
    wsh.familylaw.ojd.state.or.us to request link) and has reviewed the training video prepared
    by the Washington County Family Law Bench/Bar Committee.
 
-
 Judge Signature:
 
-
-
 Date                                           Circuit Court Judge
-
-
-
 
 ORDER APPOINTING LEGAL COUNSEL FOR MINOR CHILDREN—Page 2 of 3
 
@@ -2059,9 +1846,6 @@ This proposed order is ready for judicial signature because (check all that appl
 4. □ Service is not required pursuant to subsection (3) of this rule, or by statute, rule, or
    otherwise.
 
-
-
-
 ORDER APPOINTING LEGAL COUNSEL FOR MINOR CHILDREN—Page 3 of 3
 
                                                                                       Page 43 of 46
@@ -2082,7 +1866,6 @@ ORDER APPOINTING LEGAL COUNSEL FOR MINOR CHILDREN—Page 3 of 3
                                               ,      □ Petitioner
                               Respondent             □ Respondent
                                                      □ Child/Other____________ __
-
 
 The parties to a domestic relations case must choose how they want the trial to be conducted.
 There are two options:
@@ -2129,24 +1912,16 @@ Dated: _________________________
 
 Signature: _________________________ Printed Name: _________________________
 
-
 I certify that on (date):                             I placed a true and complete copy of this
 document to the other party or the other party’s attorney, in the United States mail to
 (name)                                        at (address)
 
-
-
 Submitted By:
-
 
 Signature: □ Petitioner □ Respondent                 Print Name              Email Address
 □ Attorney (OSB# if applicable)
 
-
 Contact Address                   City, State, Zip           Contact Telephone
-
-
-
 
 TRIAL PROCESS SELECTION AND WAIVER FOR IDTR—Page 2 of 2
 
@@ -2163,8 +1938,6 @@ In the Matter of the Conservatorship
                                                       ACKNOWLEDGMENT OF
                                                       RESTRICTION OF ASSETS
 
-
-
         We acknowledge receipt of a copy of the court order signed on ___________________
 that restricts access to the assets of the above conservatorship and assets described below.
 We will not allow any withdrawal of principal or income from these assets or use of the assets
@@ -2174,9 +1947,6 @@ as security of any obligation without specific, prior order of the court.
 ordered by the court are:
 
 Account Number                 Value of Account Assets        Type of Account         Maturity
-
-
-
 
 The name of the holder of the account show on our records is: __________________________
 
@@ -2188,7 +1958,6 @@ with us subject to the restrictions stated above.
         We agree to abide by the restrictions set out in the court order. We understand that if
 assets are removed from a restricted account without prior court order, this financial institution
 shall be required to pay the value of those assets to the conservatorship.
-
 
 Dated: ______________________________                 ___________________________________
                                                       Name and Title
@@ -2206,5 +1975,3 @@ ACKNOWLEDGEMENT OF RESTRICTION OF ASSETS—Page 1 of 1
                                                                                        Page 46 of 46
                                                               Washington County, 20th Judicial District
                                                                                    February 1, 2026
-
-

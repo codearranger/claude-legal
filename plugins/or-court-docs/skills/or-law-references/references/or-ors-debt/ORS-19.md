@@ -1,7 +1,7 @@
 # ORS Chapter 19 — Appeals
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors019.html
-> **Fetched:** 2026-05-13
+> **Fetched:** 2026-05-14
 > **Format:** verbatim conversion of the official HTML source
 
 ---

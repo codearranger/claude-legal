@@ -1,7 +1,7 @@
 # ORS Chapter 12 — Limitations of actions
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors012.html
-> **Fetched:** 2026-05-13
+> **Fetched:** 2026-05-14
 > **Format:** verbatim conversion of the official HTML source
 
 ---
