@@ -14,7 +14,7 @@ description: >
   authorities; the heavy reference corpora (court-rules, federal-debt-
   laws, ucc-model, co-statutes-debt) live in this skill's
   `references/` subdirectory.
-version: 0.1.0
+version: 0.2.0
 ---
 
 # Colorado Law References
