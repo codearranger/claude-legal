@@ -38,7 +38,7 @@ Three layers, three things to know:
 | `wa-kcdc` | King County District Court (East/Redmond, South/Burien, West/Seattle) |
 | `wa-kcsc` | King County Superior Court (Seattle / Kent — MRJC); LCR 82 case assignment, LCR 4 case schedule, LCR 7 motions + working copies |
 | `wa-county-courts` | Other most-populous counties' district/superior courts (Pierce, Snohomish, Spokane, Clark, Thurston, Kitsap, Yakima, Whatcom, Benton) |
-| `wa-pro-se` | Pro se workflows; Parker framework; service |
+| `wa-pro-se` | Pro se workflows; pro-se drafting framework; service |
 | `wa-law-references` | Civil rules, evidence, citation format, fees, local rules — **canonical reference corpora live here** |
 | `wa-discovery` | RFPs, interrogatories, RFAs, meet-and-confer, motion to compel |
 | `wa-hearings` | Oral argument, Zoom, courtroom etiquette |
@@ -61,7 +61,7 @@ Three layers, three things to know:
 | `or-multcc` | Multnomah County Circuit Court (Portland / Central Courthouse); JA-based scheduling; SLR 5.025 / 5.045 / 5.100 |
 | `or-wccc` | Washington County Circuit Court (Hillsboro); Civil Division scheduling; SLR 5.045 simultaneous-Notice rule, 15-page working-copy threshold |
 | `or-county-courts` | Other most-populous Oregon counties (Clackamas, Lane, Marion, Jackson, Deschutes, Linn, Benton, Yamhill, Polk, Douglas); 36-county directory |
-| `or-pro-se` | Pro se workflows; Parker framework adapted for Oregon; signature block omits OSB#; service under ORCP 9 |
+| `or-pro-se` | Pro se workflows; pro-se drafting framework adapted for Oregon; signature block omits OSB#; service under ORCP 9 |
 | `or-law-references` | ORCP civil rules, OEC evidence rules, ORS 20 fees, Oregon Style Manual citation format, local SLRs — **canonical reference corpora live here** |
 | `or-discovery` | RFPs, RFAs, depositions, meet-and-confer (SLR 5.045/5.046), motion to compel under ORCP 46 A. **Key Oregon distinction: no written interrogatories under ORCP without court order.** |
 | `or-hearings` | Oral argument, WebEx, courtroom etiquette, hearing-day checklist |
@@ -70,7 +70,7 @@ Three layers, three things to know:
 | `or-fact-check` | Citation verification against canonical sources; Oregon Style Manual conventions |
 | `or-deadlines` | ORCP 10 time computation with ORS 187.010 holidays (note: no day-after-Thanksgiving in Oregon) |
 | `or-draft-motion` / `-declaration` / `-note` / `-order` | Scaffolders |
-| `or-quality-check` | Pre-filing format + content QC (UTCR 2.010 + Parker framework) |
+| `or-quality-check` | Pre-filing format + content QC (UTCR 2.010 + pro-se drafting framework) |
 | `or-schedule-hearing` | JA date-request email (Multnomah) / Civil Division (Washington Co) / per-county routing |
 | `or-file-packet` | Assemble + preflight a packet for OJD File and Serve |
 | `or-submit-order` | Post-hearing signed-order transmittal; UTCR 5.100 3-court-day service |
@@ -86,7 +86,7 @@ Mirrors the WA / OR 21-skill shape; substantive CA content authored across SKILL
 | `ca-lasc` | Los Angeles Superior Court (statewide's highest-volume civil court); LASC local rules + Court Reservation System |
 | `ca-sfsc` | San Francisco Superior Court; SFSC local rules + Department 302 law-and-motion |
 | `ca-county-courts` | Other most-populous California counties' superior courts (Orange, San Diego, Riverside, San Bernardino, Santa Clara, Alameda, Sacramento, Contra Costa, Fresno) |
-| `ca-pro-se` | Pro se workflows; Parker framework adapted for California; service under CCP §§ 1010-1020 |
+| `ca-pro-se` | Pro se workflows; pro-se drafting framework adapted for California; service under CCP §§ 1010-1020 |
 | `ca-law-references` | CCP civil rules, CEC evidence rules, Cal. Civ. Code, CRC, fees, local rules — **canonical reference corpora live here** |
 | `ca-discovery` | RFPs (CCP § 2031), interrogatories (CCP §§ 2030.010 form/special — **35-question limit on specials w/o declaration**), RFAs (CCP § 2033), depositions, meet-and-confer, motion to compel under CCP § 2031.310 et seq. |
 | `ca-hearings` | Oral argument, tentative-ruling regime (CRC 3.1308), remote appearances, courtroom etiquette |
@@ -95,7 +95,7 @@ Mirrors the WA / OR 21-skill shape; substantive CA content authored across SKILL
 | `ca-fact-check` | Citation verification against canonical sources; California Style Manual conventions |
 | `ca-deadlines` | CCP § 12 / § 12a / § 12c time computation with state holidays (Govt. Code § 6700) |
 | `ca-draft-motion` / `-declaration` / `-note` / `-order` | Scaffolders ("draft-note" maps to California's **Notice of Motion** under CCP § 1010) |
-| `ca-quality-check` | Pre-filing format + content QC (CRC 2.100-2.119 + Parker framework) |
+| `ca-quality-check` | Pre-filing format + content QC (CRC 2.100-2.119 + pro-se drafting framework) |
 | `ca-schedule-hearing` | LASC Court Reservation System / SFSC Department 302 reservation / per-county routing |
 | `ca-file-packet` | Assemble + preflight a packet for e-filing (mandatory in many CA courts) |
 | `ca-submit-order` | Post-hearing signed-order transmittal under CRC 3.1312 (5-day proposed-order rule) |
@@ -109,7 +109,7 @@ Mirrors the WA / OR 21-skill shape; substantive CA content authored across SKILL
 | `co-denver` | Denver District Court (2nd Judicial District) — Lindsey-Flanigan Courthouse; CCEFS; chambers practice standards |
 | `co-arapahoe` | Arapahoe County District Court (18th Judicial District) — Centennial / Aurora / Littleton; Word-format chambers-copy convention |
 | `co-county-courts` | Roll-up: 1st (Jefferson), 4th (El Paso), 17th (Adams + Broomfield), 20th (Boulder), 8th (Larimer), 19th (Weld), 10th (Pueblo), 21st (Mesa), Douglas (currently 18th, future 23rd JD); county-court limited-jurisdiction practice under C.R.C.P. 301-411; small claims under C.R.C.P. 501-521 |
-| `co-pro-se` | Parker framework; "Self-Represented" designation; CCEFS Pro Se; JDF forms catalog; Self-Help Center directory |
+| `co-pro-se` | pro-se drafting framework; "Self-Represented" designation; CCEFS Pro Se; JDF forms catalog; Self-Help Center directory |
 | `co-law-references` | C.R.C.P., CRE, fees and costs, citation format, local rules — **canonical reference corpora live here** |
 | `co-discovery` | C.R.C.P. 26-37; 25-interrogatory presumptive cap; C.R.C.P. 121 § 1-15(8) and § 1-12 conferral; county-court C.R.C.P. 311 simplified discovery |
 | `co-hearings` | Oral argument; Cisco Webex statewide protocol; tentative rulings; evidentiary-hearing prep |
@@ -118,7 +118,7 @@ Mirrors the WA / OR 21-skill shape; substantive CA content authored across SKILL
 | `co-fact-check` | Citation verification; Colorado neutral-citation format (post-2012 `[YEAR] CO [###]` / `[YEAR] COA [###]`); packet consistency; sworn-vs-argued alignment |
 | `co-deadlines` | C.R.C.P. 6 with C.R.S. § 24-11-101 holidays (including Juneteenth added 2022 by SB22-228 and Frances Xavier Cabrini Day replacing Columbus Day in 2020 by H.B. 20-1031) |
 | `co-draft-motion` / `-declaration` / `-note` / `-order` | Scaffolders; C.R.C.P. 121 § 1-15 page limits (15/15/10); C.R.S. § 13-27-104 declaration verification language |
-| `co-quality-check` | Pre-filing format + content QC (CJD 11-01 + Parker framework) |
+| `co-quality-check` | Pre-filing format + content QC (CJD 11-01 + pro-se drafting framework) |
 | `co-schedule-hearing` | Chambers-email / JA contact templates per JD; court issues Notice of Setting (parties do not self-schedule) |
 | `co-file-packet` | CCEFS workflow; document codes; C.R.S. art. 32 of title 13 filing-fee schedule; JDF 205/206 fee waiver |
 | `co-submit-order` | Post-hearing signed-order transmittal; Word-format chambers-copy email protocol; agreed-form orders |

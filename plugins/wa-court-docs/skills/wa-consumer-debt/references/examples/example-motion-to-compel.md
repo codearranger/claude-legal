@@ -1,7 +1,7 @@
 # Example: Motion to Compel Discovery
 
 > **SYNTHETIC EXAMPLE.** Names and facts fictional. Illustrates
-> the Parker framework, the CR 26(i) certification, and the
+> the pro-se drafting framework, the CR 26(i) certification, and the
 > mandatory fee-shifting request under CR 37.
 
 ---

@@ -24,7 +24,7 @@ The file is at ./motion-to-compel.docx
 
 - [ ] Checks caption (court header, case number, parties,
       "v." not "vs.")
-- [ ] Checks Parker framework sections (I–VII)
+- [ ] Checks pro-se drafting framework sections (I–VII)
 - [ ] Checks citation format (Oregon Style Manual — no
       periods)
 - [ ] Checks pro se signature block (no OSB#)

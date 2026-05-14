@@ -1,6 +1,6 @@
-# The Parker Framework — Adapted for California
+# The Pro-Se Drafting Framework — Adapted for California
 
-The "Parker framework" is a drafting discipline for pro se litigants
+The "pro-se drafting framework" is a drafting discipline for pro se litigants
 focused on persuading a busy judge efficiently. It is not a court
 rule — it is best practice that aligns with what California civil
 judges actually respond to when reading pro se motions.

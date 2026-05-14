@@ -10,7 +10,7 @@ description: >
   "CCP 1005 notice period", "motion to compel arbitration CCP
   1281.2", "new California motion". Scaffolds a complete motion
   packet that complies with CRC 3.1113, CCP § 1005, and the
-  Parker framework adapted for California superior court practice.
+  pro-se drafting framework adapted for California superior court practice.
   Composes with `ca-statewide-format` (always), `ca-lasc` /
   `ca-sfsc` / `ca-county-courts` (court-specific), `ca-pro-se`
   (if pro se), and `ca-discovery` / `ca-post-judgment` depending
@@ -21,7 +21,7 @@ version: 0.1.0
 # Draft a California Motion Packet
 
 Scaffold a complete California motion packet that complies with
-CRC 3.1113, CCP § 1005, and the Parker framework adapted for
+CRC 3.1113, CCP § 1005, and the pro-se drafting framework adapted for
 California superior court practice.
 
 ## What this skill produces
@@ -131,7 +131,7 @@ The Memorandum is the substantive brief. Key requirements:
   margins); double-spaced body (CRC 2.108(b))
 - **Separate from Notice**: Memorandum begins on its own page
 
-Structure (Parker framework for California):
+Structure (pro-se drafting framework for California):
 
 ```
 MEMORANDUM OF POINTS AND AUTHORITIES
@@ -268,9 +268,9 @@ The caption appears at the top of every document:
 - Case information goes in the **upper-right block**
 - Line numbers (1–28) appear on the left margin per CRC 2.108
 
-## The Parker framework — California adaptation
+## The pro-se drafting framework — California adaptation
 
-California judges are busy. Apply the Parker framework:
+California judges are busy. Apply the pro-se drafting framework:
 
 **Lead with the strongest legal point**. The Introduction
 should not recite procedural history — it should state the
@@ -552,7 +552,7 @@ This skill ALWAYS composes with:
 
 It typically composes with:
 
-- **`ca-pro-se`** — Parker framework details, pro se
+- **`ca-pro-se`** — pro-se drafting framework details, pro se
   signature block, service protocol
 - **`ca-draft-declaration`** — to draft the supporting
   declaration
@@ -590,7 +590,7 @@ Before filing.
 ## Cross-references
 
 - `ca-statewide-format` — caption + CRC 2.100–2.119 format
-- `ca-pro-se` — Parker framework and pro se conventions
+- `ca-pro-se` — pro-se drafting framework and pro se conventions
 - `ca-lasc` / `ca-sfsc` / `ca-county-courts` — local rules
   and department procedures
 - `ca-discovery` — discovery motion practice including

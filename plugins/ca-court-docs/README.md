@@ -11,7 +11,7 @@ Draft and format documents for California Superior Courts.
 - Covers **Los Angeles Superior Court (LASC)** specifics — Stanley Mosk Courthouse + district courthouses (Spring Street, Norwalk, Pomona, Van Nuys, Pasadena, Long Beach, Compton), Court Reservation System (CRS), Local Rule 3.31 tentative-ruling regime, Odyssey eFileCA portal
 - Covers **San Francisco Superior Court (SFSC)** specifics — Civic Center Courthouse at 400 McAllister, Department 302 law-and-motion calendar, SFSC Local Rules, File and ServeXpress portal
 - Covers a **most-populous-counties roll-up** — Orange, San Diego, Riverside, San Bernardino, Santa Clara, Alameda, Sacramento, Contra Costa, Fresno, Kern — courthouse addresses, e-filing vendors (Tyler / One Legal / various), per-county tentative-ruling and case-management practices
-- Supports **pro per ("In Pro Per")** workflows using the Brian Parker drafting framework adapted for California (no bar number; self-represented signature block; CCP § 2015.5 declaration form)
+- Supports **pro per ("In Pro Per")** workflows using the pro-se drafting framework adapted for California (no bar number; self-represented signature block; CCP § 2015.5 declaration form)
 - Guides the **first 30 days** after service — CCP § 412.20(a)(3) 30-day answer window; meet-and-confer requirements for demurrer (CCP § 430.41) and motion to strike (CCP § 435.5); demurrer triage under CCP § 430.10; anti-SLAPP analysis under CCP § 425.16 (60-day window); cross-complaints under CCP §§ 426.10-426.50
 - Provides matter-neutral **discovery procedure** under the Civil Discovery Act (CCP §§ 2016.010-2036.050) — RFPs, RFAs, depositions, the 35-special-interrogatory cap under CCP § 2030.030(a), the 45-day jurisdictional motion-to-compel-further deadline under CCP §§ 2030.300(c) / 2031.310(c) / 2033.290(c), separate-statement requirement under CRC 3.1345, mandatory sanctions under CCP § 2023.030
 - Guides **hearing preparation** under California's distinctive **tentative-ruling regime** (CRC 3.1308 + per-court local rules) — judge posts tentative day before; contesting party calls by 4:30 p.m.; oral argument 5-10 minutes per side; remote appearances via LACourtConnect (LASC) / Zoom / Microsoft Teams depending on court
@@ -40,7 +40,7 @@ All functionality is exposed as **skills**. There are no slash commands — the 
 | `ca-lasc` | Los Angeles Superior Court specifics — Stanley Mosk Courthouse + district courthouses, CRS reservation system, Local Rule 3.31 tentatives, e-filing via Odyssey eFileCA |
 | `ca-sfsc` | San Francisco Superior Court specifics — Civic Center Courthouse, Department 302 law-and-motion, e-filing via File and ServeXpress |
 | `ca-county-courts` | Most-populous counties' Superior Courts (Orange, San Diego, Riverside, San Bernardino, Santa Clara, Alameda, Sacramento, Contra Costa, Fresno, Kern), with addresses, e-filing systems, local-rule pointers |
-| `ca-pro-se` | Parker framework adapted for California — fact-front-loaded, written to the judge; "In Pro Per" signature; service protocols under CCP §§ 412.10-417.40, § 1010.6 |
+| `ca-pro-se` | pro-se drafting framework adapted for California — fact-front-loaded, written to the judge; "In Pro Per" signature; service protocols under CCP §§ 412.10-417.40, § 1010.6 |
 | `ca-law-references` | Civil rules (CCP), Evidence Code (CEC), fees and costs (CCP §§ 1032-1033.5, § 1717, § 1021.5, § 998), local rules (LASC, SFSC, OCSC, other counties), citation format per the California Style Manual, canonical online sources, general-civil key cases (*Aguilar*, *Howell*, *Reid v. Google*, *Riverisland*) |
 | `ca-discovery` | Matter-neutral discovery framework under the Civil Discovery Act — RFPs, interrogatories (35-special cap), RFAs, depositions, meet-and-confer, motion to compel further (45-day jurisdictional deadline), separate statement (CRC 3.1345), sanctions (CCP § 2023.030) |
 | `ca-hearings` | Tentative-ruling regime (CRC 3.1308), oral argument structure, remote appearances (LACourtConnect, Zoom, Teams), courtroom etiquette, hearing-day checklist |
@@ -51,7 +51,7 @@ All functionality is exposed as **skills**. There are no slash commands — the 
 | Skill | Triggers on | Does |
 |-------|-------------|------|
 | `ca-first-30-days` | "I was just served", "answer deadline", "demurrer triage" | From-service-through-response workflow — CCP § 412.20(a)(3) 30-day deadline math, demurrer vs. answer vs. anti-SLAPP triage, meet-and-confer requirements (CCP § 430.41 / § 435.5), affirmative defenses checklist, compulsory cross-complaint analysis |
-| `ca-draft-motion` | "draft a motion", "motion to compel / strike / demurrer / SJ" | Scaffolds a motion + Notice of Motion + Memorandum of P&A (Parker framework adapted for CA), Separate Statement for compel-further / SJ motions, Declaration under CCP § 2015.5 |
+| `ca-draft-motion` | "draft a motion", "motion to compel / strike / demurrer / SJ" | Scaffolds a motion + Notice of Motion + Memorandum of P&A (pro-se drafting framework adapted for CA), Separate Statement for compel-further / SJ motions, Declaration under CCP § 2015.5 |
 | `ca-draft-declaration` | "draft a declaration", "declaration in support" | Scaffolds a declaration with numbered paragraphs, CCP § 2015.5 penalty-of-perjury attestation (with date AND place of execution), exhibit references |
 | `ca-draft-note` | "Notice of Motion", "draft my motion notice" | Scaffolds the Notice of Motion under CCP § 1010 (separate document from the memo, with date / time / department / nature / grounds / supporting papers) |
 | `ca-draft-order` | "proposed order", "order granting" | Scaffolds a `[PROPOSED]` order with recitals, specific operative language, CRC 3.1312 5-court-day service compliance |
@@ -70,7 +70,7 @@ All functionality is exposed as **skills**. There are no slash commands — the 
 
 ## Composition examples
 
-- A typical debt-buyer defense flow: `ca-first-30-days` composes with `ca-consumer-debt` for subject-matter triage, then with `ca-draft-motion` / `ca-draft-declaration` / `ca-draft-note` / `ca-draft-order` for the filings, `ca-law-references` for civil and evidence rules and fee authorities, `ca-pro-se` for voice and the Parker framework, `ca-statewide-format` for CRC 2.100-2.119 compliance, `ca-lasc` or `ca-sfsc` for venue specifics, `ca-fact-check` before filing, and `ca-file-packet` for assembly.
+- A typical debt-buyer defense flow: `ca-first-30-days` composes with `ca-consumer-debt` for subject-matter triage, then with `ca-draft-motion` / `ca-draft-declaration` / `ca-draft-note` / `ca-draft-order` for the filings, `ca-law-references` for civil and evidence rules and fee authorities, `ca-pro-se` for voice and the pro-se drafting framework, `ca-statewide-format` for CRC 2.100-2.119 compliance, `ca-lasc` or `ca-sfsc` for venue specifics, `ca-fact-check` before filing, and `ca-file-packet` for assembly.
 - A general civil answer flow without subject-matter specifics: `ca-first-30-days` runs with just the procedural layer — `ca-law-references`, `ca-draft-*`, `ca-fact-check`, `ca-file-packet`.
 
 ## Installing

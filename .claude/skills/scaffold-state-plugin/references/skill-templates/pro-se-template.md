@@ -4,9 +4,9 @@ description: >
   This skill should be used when drafting {{STATE_NAME}} court
   documents for a self-represented (pro se) litigant.
   Triggers include "pro se", "self-represented",
-  "I'm representing myself", "Parker framework", "draft
-  without an attorney". Covers the Brian Parker / KillDebt
-  drafting framework adapted to {{STATE_NAME}} procedural
+  "I'm representing myself", "pro-se drafting framework", "draft
+  without an attorney". Covers the pro-se drafting framework
+  adapted to {{STATE_NAME}} procedural
   conventions and the practical service and filing protocols
   pro se filers need. Layer on top of
   {{ABBR}}-statewide-format and (if applicable) the relevant
@@ -17,11 +17,11 @@ version: 0.1.0
 # Pro Se Drafting for {{STATE_NAME}} Courts
 
 Use this skill when drafting court documents for a pro se
-litigant in a {{STATE_NAME}} court. It encodes the Brian
-Parker (KillDebt.com) drafting framework adapted to
-{{STATE_NAME}} procedural conventions.
+litigant in a {{STATE_NAME}} court. It encodes the pro-se
+drafting framework adapted to {{STATE_NAME}} procedural
+conventions.
 
-## The Parker framework
+## The pro-se drafting framework
 
 Every motion and declaration follows four principles:
 
@@ -136,6 +136,6 @@ ____________________________________
 
 ## References
 
-- `references/parker-framework.md` — full drafting guide
+- `references/pro-se-drafting-framework.md` — full drafting guide
 - `references/service-protocol.md` — service templates
 - `references/pro-se-toolkit.md` — common motion types

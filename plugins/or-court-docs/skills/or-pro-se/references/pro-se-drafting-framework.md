@@ -1,7 +1,7 @@
-# The Parker Framework — Adapted for Oregon
+# The Pro-Se Drafting Framework — Adapted for Oregon
 
-The "Parker framework" is a drafting discipline developed by
-Brian Parker (KillDebt.com) for pro se litigants. It is rule-of-
+The "pro-se drafting framework" is a drafting discipline developed by
+  for pro se litigants. It is rule-of-
 thumb best practice and unrelated to any specific court rule, but
 its conventions match what Oregon civil judges expect when
 reading pro se motions.

@@ -204,5 +204,5 @@ the court that you are.
   rules
 - `or-hearings/references/zoom-hearings.md` — WebEx-specific
   techniques
-- `or-pro-se/references/parker-framework.md` — drafting
+- `or-pro-se/references/pro-se-drafting-framework.md` — drafting
   principles that also apply to oral argument

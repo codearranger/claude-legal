@@ -5,7 +5,7 @@ description: >
   for a self-represented (pro se) litigant. Triggers include "pro se",
   "self-represented", "in pro per", "drafting a pro se motion in
   Colorado", "drafting an answer without a lawyer", "filing without a
-  lawyer in Colorado". Covers the Parker framework adapted for
+  lawyer in Colorado". Covers the pro-se drafting framework adapted for
   Colorado civil practice, the C.R.C.P. 5 service rules and CCEFS
   Pro Se workflow, the JDF (Judicial Department Forms) catalog, the
   Self-Help Center resources at major courthouses, and Colorado's
@@ -26,9 +26,9 @@ filer is unrepresented. Colorado uses the terms "pro se" and
 "self-represented" interchangeably; "in pro per" is also accepted but
 less common.
 
-## The Parker framework — adapted for Colorado
+## The pro-se drafting framework — adapted for Colorado
 
-The Parker framework (from *Parker v. Dist. Court for City & County
+The pro-se drafting framework (from *Parker v. Dist. Court for City & County
 of Denver*, 173 Colo. 537 (1971), and its successors) sets out the
 two-track standard Colorado courts use when reviewing pro se filings:
 
@@ -217,7 +217,7 @@ charges.
 
 ## References
 
-- `references/parker-framework.md` — case law on pro se construction
+- `references/pro-se-drafting-framework.md` — case law on pro se construction
 - `references/jdf-forms-index.md` — annotated JDF catalog
 - `references/self-help-centers.md` — directory and hours
 - `references/limited-scope-representation.md` — "unbundled" legal

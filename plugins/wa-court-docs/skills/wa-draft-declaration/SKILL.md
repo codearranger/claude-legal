@@ -43,7 +43,7 @@ are unclear):
    for the template. If the court is KCDC, also read
    `skills/wa-kcdc/SKILL.md`. If the declarant is pro se, also read
    `skills/wa-pro-se/SKILL.md` and
-   `skills/wa-pro-se/references/parker-framework.md`.
+   `skills/wa-pro-se/references/pro-se-drafting-framework.md`.
 
 2. **Draft in markdown first.** Produce a markdown draft that the user
    can review and edit. Use the structure from `declaration.md`:
@@ -57,7 +57,7 @@ are unclear):
    - Exhibit list (if exhibits)
    - Exhibit cover pages (one per exhibit)
 
-3. **Apply the Parker framework** if the declarant is pro se:
+3. **Apply the pro-se drafting framework** if the declarant is pro se:
    - Single best fact up front
    - Every factual assertion tied to an exhibit or personal knowledge
    - No argument in the declaration — save that for the brief

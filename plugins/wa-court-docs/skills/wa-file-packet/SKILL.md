@@ -71,7 +71,7 @@ order, note for motion docket, and certificate of service.
 
    | Component | Required | Notes |
    |-----------|----------|-------|
-   | Motion (with memorandum) | ✅ | Parker framework |
+   | Motion (with memorandum) | ✅ | pro-se drafting framework |
    | Supporting Declaration | ✅ | Each factual assertion |
    | Exhibits | If referenced | Labeled A, B, C... |
    | Proposed Order | ✅ | Specific relief |

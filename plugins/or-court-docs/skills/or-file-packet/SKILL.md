@@ -61,7 +61,7 @@ For each document, use the relevant draft-* skill:
 Run `or-quality-check` against each document:
 
 - UTCR 2.010 format compliance
-- Parker framework content checks
+- pro-se drafting framework content checks
 - Citation format
 
 Fix any FAILs before proceeding.
@@ -263,7 +263,7 @@ counsel's. Common pro se shortcuts to avoid:
 
 Run before assembling packet:
 - `or-statewide-format` — formatting baseline
-- `or-pro-se` — Parker framework
+- `or-pro-se` — pro-se drafting framework
 - The relevant draft-* skills
 
 Run during packet assembly:

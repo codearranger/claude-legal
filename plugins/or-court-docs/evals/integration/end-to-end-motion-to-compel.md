@@ -21,7 +21,7 @@ Many skills should chain together:
 - `or-file-packet` (packet assembly)
 - `or-statewide-format` (UTCR 2.010 baseline)
 - `or-multcc` (Multnomah specifics)
-- `or-pro-se` (Parker framework)
+- `or-pro-se` (pro-se drafting framework)
 - `or-quality-check` (final QC)
 - `or-fact-check` (citation verification)
 
@@ -29,7 +29,7 @@ Many skills should chain together:
 
 ### Packet components produced
 
-- [ ] Motion + Memorandum (Parker framework I–VII)
+- [ ] Motion + Memorandum (pro-se drafting framework I–VII)
 - [ ] Declaration of Defendant
 - [ ] Exhibits (numbered)
 - [ ] [PROPOSED] Order

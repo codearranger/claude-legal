@@ -25,7 +25,7 @@ How should my filings differ from what an attorney would do?
       phone + email + "In Pro Per"
 - [ ] No "Esq." after name
 
-### Parker framework adapted
+### pro-se drafting framework adapted
 
 - [ ] Short introduction (3-5 sentences)
 - [ ] Lead with strongest legal point
@@ -51,5 +51,5 @@ How should my filings differ from what an attorney would do?
 - Including a bar number / "Esq." for an unrepresented party
 - Importing OR's "self-represented litigant" only — CA accepts
   both terms; "In Pro Per" is more common
-- Citing Washington Parker framework cases verbatim
+- Citing Washington pro-se drafting framework cases verbatim
 - Failing to note fee-waiver forms

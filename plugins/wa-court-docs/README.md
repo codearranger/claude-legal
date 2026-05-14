@@ -9,7 +9,7 @@ Draft and format documents for Washington State courts.
 - Scaffolds common document types: **declarations** (with exhibits), **motions + supporting memoranda**, **notes for motion docket**, and **proposed orders**
 - Handles **exhibit lists and cover pages** with consistent pagination and footers
 - Covers **King County District Court** (including South Division / Burien) local practice
-- Supports **pro se** workflows using the Brian Parker (KillDebt.com) drafting framework
+- Supports **pro se** workflows using the pro-se drafting framework
 - Guides the **first 30 days** after service — deadline computation, motion-to-dismiss vs. answer triage, affirmative-defense and counterclaim planning
 - Provides **discovery procedure** (matter-neutral) and subject-matter request banks (currently debt-buyer)
 - Guides **hearing preparation** for in-person and Zoom — oral argument structure, courtroom etiquette, day-of checklist
@@ -36,7 +36,7 @@ All functionality is exposed as **skills**. There are no slash commands — the 
 |-------|---------|
 | `wa-statewide-format` | GR 14 formatting rules, caption structure, signature blocks, exhibit handling, the four document templates |
 | `wa-kcdc` | King County District Court specifics — divisions, civil motion docket, filing procedures |
-| `wa-pro-se` | Parker framework for drafting (fact-front-loaded, concise, written to the judge), service protocols, common pro se pitfalls |
+| `wa-pro-se` | pro-se drafting framework for drafting (fact-front-loaded, concise, written to the judge), service protocols, common pro se pitfalls |
 | `wa-law-references` | Civil rules (CR/CRLJ), Evidence Rules (ER), fees and costs (RCW 4.84, CR 37), local rules (KCLCR, KCDCLCR), citation format, canonical online sources, general-civil key cases |
 | `wa-discovery` | Matter-neutral discovery framework — RFPs, interrogatories, RFAs, meet and confer, motion to compel |
 | `wa-hearings` | Courtroom etiquette, oral argument structure, remote hearings, hearing-day checklist |
@@ -47,7 +47,7 @@ All functionality is exposed as **skills**. There are no slash commands — the 
 | Skill | Triggers on | Does |
 |-------|-------------|------|
 | `wa-first-30-days` | "I was just served", "answer deadline", "affirmative defenses" | From-service-through-answer-filed workflow — deadline math, MTD vs. answer triage, general affirmative-defenses checklist, compulsory-counterclaim analysis, evidence preservation, initial discovery plan |
-| `wa-draft-motion` | "draft a motion", "motion to compel / dismiss / vacate / strike" | Scaffolds a motion + supporting memorandum (Parker framework) |
+| `wa-draft-motion` | "draft a motion", "motion to compel / dismiss / vacate / strike" | Scaffolds a motion + supporting memorandum (pro-se drafting framework) |
 | `wa-draft-declaration` | "draft a declaration", "declaration in support" | Scaffolds a declaration with numbered paragraphs, verification clause, exhibit list |
 | `wa-draft-note` | "note for motion docket", "schedule the motion" | Scaffolds the Note for Motion Docket (KCDC variant when applicable) |
 | `wa-draft-order` | "proposed order", "order granting" | Scaffolds a proposed order with findings and enforceable relief |
@@ -66,7 +66,7 @@ All functionality is exposed as **skills**. There are no slash commands — the 
 
 ## Composition examples
 
-- A typical debt-buyer defense flow: `wa-first-30-days` composes with `wa-consumer-debt` for subject-matter triage, then with `wa-draft-motion` / `wa-draft-declaration` / `wa-draft-order` for the filings, `wa-law-references` for civil and evidence rules and fee authorities, `wa-pro-se` for voice and the Parker framework, `wa-statewide-format` for GR 14, `wa-kcdc` for King County District Court specifics, `wa-fact-check` before filing, and `wa-file-packet` for assembly.
+- A typical debt-buyer defense flow: `wa-first-30-days` composes with `wa-consumer-debt` for subject-matter triage, then with `wa-draft-motion` / `wa-draft-declaration` / `wa-draft-order` for the filings, `wa-law-references` for civil and evidence rules and fee authorities, `wa-pro-se` for voice and the pro-se drafting framework, `wa-statewide-format` for GR 14, `wa-kcdc` for King County District Court specifics, `wa-fact-check` before filing, and `wa-file-packet` for assembly.
 - A general civil answer flow without subject-matter specifics: `wa-first-30-days` runs with just the procedural layer — `wa-law-references`, `wa-draft-*`, `wa-fact-check`, `wa-file-packet`.
 
 ## Installing

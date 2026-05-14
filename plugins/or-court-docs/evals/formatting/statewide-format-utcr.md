@@ -36,7 +36,7 @@ it's formatted to comply with the Oregon court rules.
 - [ ] References "Page X of Y" footer with PAGE / NUMPAGES
       fields
 
-### Parker framework (motion structure)
+### pro-se drafting framework (motion structure)
 
 - [ ] Cites ORCP 46 A as the procedural authority at the top
       of the MOTION section

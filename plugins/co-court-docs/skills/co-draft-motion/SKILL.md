@@ -8,7 +8,7 @@ description: >
   judgment", "draft a motion under C.R.C.P. 60(b)", "draft a Colorado
   motion in limine", "draft a C.R.C.P. 121 § 1-15 motion". Produces a
   motion plus supporting memorandum in the Colorado statewide format
-  applying the Parker framework (clear relief, cite the rule or
+  applying the pro-se drafting framework (clear relief, cite the rule or
   statute, state supporting facts, conclude with signature and
   required certificates). Composes with `co-statewide-format` for
   format, `co-draft-declaration` for sworn facts, `co-draft-order`
@@ -132,7 +132,7 @@ When the motion is finalized:
 
 ## Argument structure — the Parker approach
 
-Pro se filers should follow the **Parker framework**:
+Pro se filers should follow the **pro-se drafting framework**:
 
 1. **State the relief clearly** in the opening sentence
 2. **Cite the rule or statute** that grants the court power to award
@@ -161,4 +161,4 @@ construction, but the court will not draft the argument for you.
 
 - `references/motion-template.md` — annotated template
 - `references/121-1-15-motion-practice.md` — full text of the rule
-- `references/argument-structure.md` — Parker framework applied
+- `references/argument-structure.md` — pro-se drafting framework applied

@@ -8,7 +8,7 @@ description: >
   vacate", "motion for reconsideration", "motion for default", "motion
   to strike", "new motion". Scaffolds a motion with supporting
   memorandum that complies with GR 14, statewide motion practice, and
-  the Parker framework for concise, fact-forward drafting. Composes
+  the pro-se drafting framework for concise, fact-forward drafting. Composes
   with `wa-statewide-format` (always), `wa-kcdc` (if KCDC),
   `wa-pro-se` (if pro se), and `wa-discovery` / `wa-post-judgment`
   depending on the motion type.
@@ -18,7 +18,7 @@ version: 0.1.0
 # Draft a Washington Motion + Supporting Memorandum
 
 Scaffold a motion and companion memorandum that complies with GR 14,
-statewide motion practice, and the Parker framework for concise,
+statewide motion practice, and the pro-se drafting framework for concise,
 fact-forward drafting.
 
 ## Inputs to gather
@@ -45,7 +45,7 @@ that are unclear):
    - `skills/wa-statewide-format/SKILL.md`
    - `skills/wa-statewide-format/references/templates/motion-with-memo.md`
    - `skills/wa-pro-se/SKILL.md` and
-     `skills/wa-pro-se/references/parker-framework.md` if pro se
+     `skills/wa-pro-se/references/pro-se-drafting-framework.md` if pro se
    - `skills/wa-kcdc/SKILL.md` and
      `skills/wa-kcdc/references/civil-motion-docket.md` if KCDC
 
@@ -55,7 +55,7 @@ that are unclear):
    - **Option B (motion + memo)**: for complex motions — short motion
      with grounds, plus a separate 3–5 page memorandum
 
-3. **Apply the Parker framework:**
+3. **Apply the pro-se drafting framework:**
    - Lead with the single best fact
    - Argument headings state the conclusion, not the topic
      (e.g., "A. The chain of title is missing" not "A. Chain of title")

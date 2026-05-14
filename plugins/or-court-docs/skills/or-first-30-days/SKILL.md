@@ -323,6 +323,6 @@ race.
   21, 22 verbatim
 - `or-consumer-debt` — debt-defense-specific affirmative
   defenses and counterclaims
-- `or-pro-se` — Parker framework for the response
+- `or-pro-se` — pro-se drafting framework for the response
 - `or-post-judgment` — if default has already been entered,
   motion to vacate under ORCP 71

@@ -1,8 +1,9 @@
-# Brian Parker / KillDebt.com Drafting Framework
+# Pro-Se Drafting Framework
 
 A concise drafting framework for pro se litigants in consumer debt and
-general civil matters. Named for attorney Brian Parker, whose free pro se
-materials (killdebt.com) promote a disciplined, fact-forward style.
+general civil matters. The framework promotes a disciplined, fact-forward
+style: lead with the strongest fact, keep motions lean, and write to the
+judge rather than to opposing counsel.
 
 ## The four principles
 

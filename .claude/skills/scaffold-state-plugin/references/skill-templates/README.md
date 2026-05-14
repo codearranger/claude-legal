@@ -21,7 +21,7 @@ state requires substantial research and adaptation):
 - `statewide-format-template.md` — state pleading-format rule
 - `law-references-template.md` — civil rules, evidence, citation,
   fees, local rules, key cases
-- `pro-se-template.md` — Parker framework + state pro se
+- `pro-se-template.md` — pro-se drafting framework + state pro se
   conventions
 - `discovery-template.md` — discovery framework (note the OR
   no-interrogatories quirk pattern)

@@ -4,7 +4,7 @@ description: >
   Use when drafting California court documents for a self-represented
   (pro se / "In Pro Per") litigant. Triggers include "pro se",
   "in pro per", "self-represented", "representing myself",
-  "Parker framework", "draft without an attorney", "pro se California",
+  "pro-se drafting framework", "draft without an attorney", "pro se California",
   "Judicial Council forms", "fee waiver", "FW-001", "how do I serve",
   "CCP 415", "CCP 1013", "Self-Help Center", "In Pro Per", or when the
   user describes themselves as the plaintiff or defendant directly.
@@ -47,7 +47,7 @@ California uses both terms, but each has a distinct context:
 
 Both terms mean the same thing; neither is wrong in either context.
 
-## The Parker Framework — adapted for California
+## The Pro-Se Drafting Framework — adapted for California
 
 Every motion and declaration follows four principles:
 
@@ -248,7 +248,7 @@ including fee waiver forms.
 
 ## References
 
-- `references/parker-framework.md` — full drafting guide with
+- `references/pro-se-drafting-framework.md` — full drafting guide with
   California-flavored examples and style citations
 - `references/service-protocol.md` — CCP §§ 412.10-417.40 service
   of summons; CCP §§ 1010-1020 service of motions; POS-030/POS-040
