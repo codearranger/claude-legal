@@ -19,15 +19,24 @@ The URL patterns and HTML structure may evolve. If parsing fails,
 update the BASE / INDEX_URL / parser below. The site presents the
 California Rules of Court at:
 
-  https://courts.ca.gov/rules-forms/courtrules
+  https://courts.ca.gov/forms-rules/rules-court
 
-Per-Title pages live at:
+Per-Title indexes live at:
 
-  https://courts.ca.gov/rules-forms/courtrules/title-<N>-...
+  https://courts.ca.gov/cms/rules/index/<word>      (one, two, three, ...)
 
 And per-rule pages have URLs like:
 
-  https://courts.ca.gov/rules-forms/courtrules/title-three/...rule-3-1113
+  https://courts.ca.gov/cms/rules/index/three/rule3_1113
+
+Each Title index contains a nested list with Division/Chapter
+headings (each a `<li class="list__item paragraph--type--rule-section--default">`
+containing a `<div>Division N. ...</div>` or `<div>Chapter N. ...</div>`)
+and rule links (`<li class="list__item"><a href="...rule3_X">Rule N.M. Caption</a></li>`).
+
+Each rule page wraps the verbatim rule body inside
+`<div class="container jcc-rulesformatting stack">` inside
+`<div class="box roc__rule__content">` inside `<article class="roc__rule">`.
 
 This script is intentionally conservative — it caches the
 discovered URLs and prints them in dry-run mode for verification.
@@ -47,7 +56,8 @@ from datetime import date
 from pathlib import Path
 
 BASE = "https://courts.ca.gov"
-INDEX_URL = BASE + "/rules-forms/courtrules"
+INDEX_URL = BASE + "/forms-rules/rules-court"
+TITLE_INDEX_FMT = BASE + "/cms/rules/index/{slug}"
 USER_AGENT = (
     "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) "
     "ca-court-rules-puller"
@@ -58,21 +68,24 @@ USER_AGENT = (
 
 # Each entry maps an OUTPUT FILE to a Title number and a description.
 # Titles 1-10 of the California Rules of Court cover the main civil-
-# practice content. Titles 5 and 7 (family law, probate) are included
-# at smaller scope; titles 9 (criminal) and 10 (Judicial Council
-# administration) are omitted because this plugin is civil-only.
+# practice content. All 9 published titles (1-5, 7-10 — Title 6 is
+# reserved by the Judicial Council) are pulled so the corpus is
+# complete; the consumer-debt skill cites mostly Titles 2-3 and 8,
+# but Titles 1, 4, 9, 10 are present for cross-reference.
 
 TITLES: list[tuple[str, str, str]] = [
     # (output_stem, title_slug, description)
-    ("CRC-Title-1-General-Rules",       "title-one",   "General Rules"),
-    ("CRC-Title-2-Trial-Court-Rules",   "title-two",   "Rules Applicable in All Trial Courts"),
-    ("CRC-Title-3-Civil-Rules",         "title-three", "Civil Rules"),
-    ("CRC-Title-4-Criminal-Rules",      "title-four",  "Criminal Rules"),
-    ("CRC-Title-5-Family-Law-Rules",    "title-five",  "Family and Juvenile Rules"),
-    ("CRC-Title-7-Probate-Rules",       "title-seven", "Probate Rules"),
-    ("CRC-Title-8-Appellate-Rules",     "title-eight", "Appellate Rules"),
-    ("CRC-Title-9-Attorney-Rules",      "title-nine",  "Rules on Law Practice, Attorneys, and Judges"),
-    ("CRC-Title-10-Judicial-Admin",     "title-ten",   "Judicial Administration Rules"),
+    # The slug is the URL-path word the site uses for the title — bare
+    # ordinals ("one", "two", ...), not "title-one". Title 6 is reserved.
+    ("CRC-Title-1-General-Rules",       "one",   "General Rules"),
+    ("CRC-Title-2-Trial-Court-Rules",   "two",   "Rules Applicable in All Trial Courts"),
+    ("CRC-Title-3-Civil-Rules",         "three", "Civil Rules"),
+    ("CRC-Title-4-Criminal-Rules",      "four",  "Criminal Rules"),
+    ("CRC-Title-5-Family-Law-Rules",    "five",  "Family and Juvenile Rules"),
+    ("CRC-Title-7-Probate-Rules",       "seven", "Probate Rules"),
+    ("CRC-Title-8-Appellate-Rules",     "eight", "Appellate Rules"),
+    ("CRC-Title-9-Attorney-Rules",      "nine",  "Rules on Law Practice, Attorneys, and Judges"),
+    ("CRC-Title-10-Judicial-Admin",     "ten",   "Judicial Administration Rules"),
 ]
 
 
@@ -135,51 +148,99 @@ def html_to_text(s: str) -> str:
 
 # ---- Index parsing -----------------------------------------------------------
 
-def parse_title_index(html_text: str, title_slug: str) -> list[tuple[str, str, str]]:
-    """Returns [(rule_number, rule_caption, rule_url)] for a CRC Title.
+# Each entry in the parsed index is one of:
+#   ("rule",     rule_num, caption, url)
+#   ("division", "",       heading, "")
+#   ("chapter",  "",       heading, "")
+# The order preserves the natural document ordering of the Title.
+IndexEntry = tuple[str, str, str, str]
 
-    Looks for anchor tags whose href contains the title-slug and a
-    rule-N-N pattern. Caption is the link text (or the next text node
-    when the link text is just the rule number).
+
+def parse_title_index(html_text: str, title_slug: str) -> list[IndexEntry]:
+    """Returns an ordered list of index entries for a CRC Title.
+
+    The site renders each Title index as a nested list:
+
+        <li class="list__item paragraph--type--rule-section--default">
+          <div>Division N. Caption</div>
+          <ul ...>
+            <li class="list__item paragraph--type--rule-section--default">
+              <div>Chapter N. Caption</div>
+              <ul ...>
+                <li class="list__item">
+                  <a href="/cms/rules/index/<slug>/rule3_1113">Rule 3.1113. Memorandum</a>
+                </li>
+                ...
+              </ul>
+            </li>
+            ...
+          </ul>
+        </li>
+
+    This walker emits a flat ordered sequence of (kind, num, text, url)
+    tuples so the renderer can faithfully reproduce the Division /
+    Chapter / Rule structure.
     """
-    out: list[tuple[str, str, str]] = []
-    seen: set[str] = set()
+    out: list[IndexEntry] = []
+    seen_rules: set[str] = set()
 
-    # Anchors pointing to per-rule pages under this title
-    pat = re.compile(
-        r"<a\s+href=['\"]([^'\"]*"
-        + re.escape(title_slug)
-        + r"[^'\"]*rule[-_](\d+[-_]\d+[A-Za-z0-9]*)[^'\"]*)['\"][^>]*>(.*?)</a>",
+    # Pattern matching either:
+    #   (A) a "rule-section" <li> (Division or Chapter) with its <div> caption, OR
+    #   (B) a "list__item" <li> with a rule anchor inside.
+    # We iterate over the union, preserving document order.
+    href_prefix = f"/cms/rules/index/{title_slug}/rule"
+
+    section_re = re.compile(
+        r'<li\s+class="list__item\s+paragraph--type--rule-section--default">\s*'
+        r'\s*<div>([^<]+)</div>',
+        re.IGNORECASE,
+    )
+    rule_re = re.compile(
+        r'<a\s+href="(' + re.escape(href_prefix) + r'(\d+[A-Za-z0-9_]*))"\s*'
+        r'[^>]*>\s*(.*?)\s*</a>',
         re.IGNORECASE | re.DOTALL,
     )
-    for m in pat.finditer(html_text):
-        url = m.group(1)
-        rule_num = m.group(2).replace("_", ".").replace("-", ".")
-        # Normalize: rule "3-1113" → "3.1113"
-        if rule_num in seen:
-            continue
-        seen.add(rule_num)
-        caption = re.sub(r"<[^>]+>", "", m.group(3))
-        caption = html.unescape(caption).strip()
-        # If caption is just the rule number, attempt to find the next
-        # adjacent text (the rule title); fall back to "Rule N.N".
-        if not caption or re.match(r"^Rule\s+[\d.]+$", caption, re.IGNORECASE):
-            caption = f"Rule {rule_num}"
-        # Make absolute URL
-        if url.startswith("/"):
-            url = BASE + url
-        elif not url.startswith("http"):
-            url = BASE + "/" + url.lstrip("/")
-        out.append((rule_num, caption, url))
 
-    # Sort by rule number (numerically when possible)
-    def key(item: tuple[str, str, str]) -> tuple:
-        parts = item[0].split(".")
-        try:
-            return tuple(int(p) for p in parts)
-        except ValueError:
-            return (0,)
-    out.sort(key=key)
+    # Run both patterns and merge by position in the document
+    section_hits = [(m.start(), "section", m) for m in section_re.finditer(html_text)]
+    rule_hits = [(m.start(), "rule", m) for m in rule_re.finditer(html_text)]
+    hits = sorted(section_hits + rule_hits, key=lambda t: t[0])
+
+    for _pos, kind, m in hits:
+        if kind == "section":
+            heading = html.unescape(m.group(1)).strip()
+            low = heading.lower()
+            if low.startswith("division"):
+                out.append(("division", "", heading, ""))
+            elif low.startswith("chapter"):
+                out.append(("chapter", "", heading, ""))
+            elif low.startswith("part"):
+                out.append(("chapter", "", heading, ""))
+            else:
+                # Generic section heading (e.g., "Standards", "Appendix") — keep
+                out.append(("division", "", heading, ""))
+        else:  # rule
+            href = m.group(1)
+            raw = m.group(2)  # e.g., "3_1113" or "3_1113a"
+            # Normalize: rule "3_1113" → "3.1113"; "3_1113a" → "3.1113a"
+            rule_num = raw.replace("_", ".")
+            if rule_num in seen_rules:
+                continue
+            seen_rules.add(rule_num)
+            caption = re.sub(r"<[^>]+>", "", m.group(3))
+            caption = html.unescape(caption).strip()
+            # Strip a leading "Rule N.M. " prefix if present in the anchor text
+            caption = re.sub(
+                r"^Rule\s+" + re.escape(rule_num) + r"\.?\s*",
+                "",
+                caption,
+                flags=re.IGNORECASE,
+            ).strip()
+            if not caption:
+                caption = f"Rule {rule_num}"
+            url = BASE + href
+            out.append(("rule", rule_num, caption, url))
+
     return out
 
 
@@ -187,29 +248,65 @@ def parse_title_index(html_text: str, title_slug: str) -> list[tuple[str, str, s
 
 def parse_rule(html_text: str) -> tuple[str, str]:
     """Returns (caption, body_md). Looks for the main content area
-    of a rule page on courts.ca.gov."""
+    of a rule page on courts.ca.gov.
+
+    Each rule page has the verbatim text inside:
+        <div class="container jcc-rulesformatting stack">...</div>
+    sitting inside:
+        <div class="box roc__rule__content">...</div>
+    The page title is rendered as:
+        <h1 class="hangover__title ..."><span>Rule N.M. Caption</span></h1>
+    """
     caption = ""
     body = ""
 
-    # Page heading: typically <h1> with rule number
-    cap_m = re.search(r"<h1[^>]*>(.*?)</h1>", html_text, re.IGNORECASE | re.DOTALL)
+    # Page heading: <h1 class="hangover__title ..."><span>Rule N.M. Caption</span></h1>
+    cap_m = re.search(
+        r'<h1[^>]*class="[^"]*hangover__title[^"]*"[^>]*>\s*(?:<span[^>]*>)?\s*(.*?)\s*(?:</span>)?\s*</h1>',
+        html_text,
+        re.IGNORECASE | re.DOTALL,
+    )
     if cap_m:
         caption = re.sub(r"<[^>]+>", "", cap_m.group(1))
         caption = html.unescape(caption).strip()
+    if not caption:
+        # Fallback to a generic <h1>
+        cap_m = re.search(r"<h1[^>]*>(.*?)</h1>", html_text, re.IGNORECASE | re.DOTALL)
+        if cap_m:
+            caption = re.sub(r"<[^>]+>", "", cap_m.group(1))
+            caption = html.unescape(caption).strip()
 
-    # Main content area — try a few common markup patterns
+    # Main rule body — primary selector first, then progressively looser fallbacks.
     body_re_candidates = [
-        re.compile(r"<main[^>]*>(.*?)</main>", re.IGNORECASE | re.DOTALL),
+        # Innermost container that holds only the rule body markup
+        re.compile(
+            r'<div\s+class="container\s+jcc-rulesformatting\s+stack"[^>]*>(.*)',
+            re.IGNORECASE | re.DOTALL,
+        ),
+        # Slight variation: classes in different order
+        re.compile(
+            r'<div\s+class="[^"]*jcc-rulesformatting[^"]*"[^>]*>(.*)',
+            re.IGNORECASE | re.DOTALL,
+        ),
+        # Outer wrapper if the inner div is missing
+        re.compile(
+            r'<div\s+class="[^"]*roc__rule__content[^"]*"[^>]*>(.*)',
+            re.IGNORECASE | re.DOTALL,
+        ),
         re.compile(r"<article[^>]*>(.*?)</article>", re.IGNORECASE | re.DOTALL),
-        re.compile(r"<div[^>]+id=['\"]main-content['\"][^>]*>(.*?)</div>\s*<footer", re.IGNORECASE | re.DOTALL),
-        re.compile(r"<div[^>]+class=['\"][^'\"]*(?:rule-body|rule-content)[^'\"]*['\"][^>]*>(.*?)</div>\s*(?:<footer|<aside)", re.IGNORECASE | re.DOTALL),
     ]
     for body_re in body_re_candidates:
         m = body_re.search(html_text)
-        if m:
-            body = html_to_text(m.group(1))
-            if body:
-                break
+        if not m:
+            continue
+        frag = m.group(1)
+        # Close at the next </article> or </main>, whichever comes first
+        close = re.search(r"</article>|</main>", frag, re.IGNORECASE)
+        if close:
+            frag = frag[: close.start()]
+        body = html_to_text(frag)
+        if body:
+            break
 
     return caption, body
 
@@ -230,39 +327,66 @@ def render_title_md(
     stem: str,
     description: str,
     title_slug: str,
-    rules: list[tuple[str, str, str]],
+    entries: list[IndexEntry],
     fetched: dict[str, tuple[str, str, str, str | None]],
 ) -> str:
     today = date.today().isoformat()
+    rule_count = sum(1 for kind, *_ in entries if kind == "rule")
+
     out: list[str] = []
     out.append(f"# California Rules of Court — {description}")
     out.append("")
     out.append(f"- Citation: Cal. Rules of Court, {description}")
-    out.append(f"- Source: {BASE}/rules-forms/courtrules/{title_slug}")
+    out.append(f"- Source: {TITLE_INDEX_FMT.format(slug=title_slug)}")
     out.append(f"- Pulled: {today}")
-    out.append(f"- Rules: {len(rules)}")
+    out.append(f"- Rules: {rule_count}")
     out.append("")
     out.append("> Verbatim rule text scraped from courts.ca.gov.")
     out.append("> The Judicial Council periodically amends these rules.")
     out.append("> Verify against the current text before relying.")
     out.append("")
 
+    # Table of contents — preserves Division / Chapter hierarchy.
     out.append("## Contents")
     out.append("")
-    for rule_num, caption, _url in rules:
-        anchor = f"rule-{rule_num.replace('.', '-')}"
-        cap = caption.rstrip(".")
-        out.append(f"- [Rule {rule_num} — {cap}](#{anchor})")
+    for kind, rule_num, text, _url in entries:
+        if kind == "division":
+            out.append("")
+            out.append(f"**{text}**")
+            out.append("")
+        elif kind == "chapter":
+            out.append(f"- *{text}*")
+        else:  # rule
+            anchor = f"rule-{rule_num.replace('.', '-')}"
+            cap = text.rstrip(".")
+            out.append(f"  - [Rule {rule_num} — {cap}](#{anchor})")
     out.append("")
 
-    for rule_num, list_caption, _url in rules:
+    # Rule bodies in order, with Division / Chapter section headings.
+    for kind, rule_num, text, _url in entries:
+        if kind == "division":
+            out.append(f"## {text}")
+            out.append("")
+            continue
+        if kind == "chapter":
+            out.append(f"### {text}")
+            out.append("")
+            continue
+        # kind == "rule"
         if rule_num not in fetched:
             continue
         url, caption, body, err = fetched[rule_num]
-        caption = caption or list_caption
+        caption = caption or text
+        # Strip a redundant "Rule N.M." prefix from caption if present
+        caption = re.sub(
+            r"^Rule\s+" + re.escape(rule_num) + r"\.?\s*",
+            "",
+            caption,
+            flags=re.IGNORECASE,
+        ).strip()
         anchor = f"rule-{rule_num.replace('.', '-')}"
         out.append(f'<a id="{anchor}"></a>')
-        out.append(f"## Rule {rule_num} — {caption}")
+        out.append(f"#### Rule {rule_num}. {caption}")
         out.append("")
         out.append(f"Source: {url}")
         out.append("")
@@ -275,8 +399,8 @@ def render_title_md(
         else:
             out.append(body)
             out.append("")
-    text = "\n".join(out).rstrip() + "\n"
-    return re.sub(r"\n{3,}", "\n\n", text)
+    text_out = "\n".join(out).rstrip() + "\n"
+    return re.sub(r"\n{3,}", "\n\n", text_out)
 
 
 def render_local_rules_pointer(
@@ -347,7 +471,7 @@ def main() -> int:
     for stem, title_slug, description in TITLES:
         if only and stem not in only:
             continue
-        index_url = f"{BASE}/rules-forms/courtrules/{title_slug}"
+        index_url = TITLE_INDEX_FMT.format(slug=title_slug)
         print(f"\n=== {stem} — {description} ===", flush=True)
         print(f"  index: {index_url}", flush=True)
 
@@ -360,10 +484,16 @@ def main() -> int:
         except Exception as e:
             print(f"  ! index failed: {e}", flush=True)
             continue
-        rules = parse_title_index(idx_html, title_slug)
-        print(f"  found {len(rules)} rules", flush=True)
+        entries = parse_title_index(idx_html, title_slug)
+        rule_entries = [e for e in entries if e[0] == "rule"]
+        print(
+            f"  found {len(rule_entries)} rules "
+            f"({sum(1 for e in entries if e[0] == 'division')} divisions, "
+            f"{sum(1 for e in entries if e[0] == 'chapter')} chapters)",
+            flush=True,
+        )
 
-        if not rules:
+        if not rule_entries:
             (out_dir / f"{stem}.md").write_text(
                 f"# {description}\n\n_No rules extracted from {index_url}._\n",
                 encoding="utf-8",
@@ -374,7 +504,7 @@ def main() -> int:
         with ThreadPoolExecutor(max_workers=args.workers) as ex:
             futs = {
                 ex.submit(fetch_rule, rule_num, url): rule_num
-                for rule_num, _cap, url in rules
+                for _kind, rule_num, _cap, url in rule_entries
             }
             done = 0
             for fut in as_completed(futs):
@@ -383,16 +513,16 @@ def main() -> int:
                 fetched[rule_num] = (url, caption, body, err)
                 if err:
                     print(
-                        f"    [{done}/{len(rules)}] Rule {rule_num} FAIL: {err}",
+                        f"    [{done}/{len(rule_entries)}] Rule {rule_num} FAIL: {err}",
                         flush=True,
                     )
                     grand_failed += 1
 
-        md = render_title_md(stem, description, title_slug, rules, fetched)
+        md = render_title_md(stem, description, title_slug, entries, fetched)
         out_path = out_dir / f"{stem}.md"
         out_path.write_text(md, encoding="utf-8")
         print(f"  wrote {out_path} ({len(md):,} bytes)", flush=True)
-        grand_total += len(rules)
+        grand_total += len(rule_entries)
 
     if not args.skip_local:
         for stem, court_name, url in LOCAL_RULE_COURTS:

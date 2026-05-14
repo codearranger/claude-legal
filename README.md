@@ -140,7 +140,7 @@ claude-legal/
 │   ├── pull_wa_rcw.py                # app.leg.wa.gov → wa RCW chapters
 │   ├── pull_ca_court_rules.py        # courts.ca.gov → ca court rules
 │   ├── pull_ca_statutes.py           # leginfo.legislature.ca.gov → ca statute chapters
-│   ├── pull_federal_debt_laws.py     # Federal law (shared content; FDCPA, FCRA, TILA, ECOA, Reg F/V/Z/B)
+│   ├── pull_federal_debt_laws.py     # Federal law (shared content; FDCPA, FCRA, TILA, ECOA, EFTA, RESPA, SCRA, FHA, FTC Telemarketing Sales Rule + Reg B/E/F/M/N/P/V/X/Z/DD + CCPA-Garnishment + Title 11 Bankruptcy)
 │   └── pull_ucc.py                   # Model UCC (shared content; Articles 1, 2, 3, 9)
 ├── LICENSE
 └── README.md

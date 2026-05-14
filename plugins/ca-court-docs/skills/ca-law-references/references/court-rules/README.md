@@ -2,7 +2,7 @@
 
 - Source: courts.ca.gov, leginfo.legislature.ca.gov, calbar.ca.gov, individual court websites
 - Authored: 2026-05-13
-- Coverage: 12 files covering California Rules of Court, procedural CCP, Evidence Code, local rules for 11 superior courts, and professional conduct
+- Coverage: 16 files covering California Rules of Court (Titles 1–5, 7–10 — Title 6 is reserved), procedural CCP, Evidence Code, local rules for 11 superior courts, and professional conduct
 
 > Authored from canonical California sources; verify against current
 > official sources before relying. CRC amendments are effective
@@ -12,13 +12,17 @@
 
 ### California Rules of Court (CRC)
 
-| File | Rule Set | Topic | Lines |
+| File | Rule Set | Topic | Source |
 |---|---|---|---|
-| [CRC-Title-2-Trial-Court-Rules.md](CRC-Title-2-Trial-Court-Rules.md) | CRC Title 2 | Document format (2.100–2.119), electronic filing (2.250–2.261), caption (2.111), redaction (1.20) | ~300 |
-| [CRC-Title-3-Civil-Rules.md](CRC-Title-3-Civil-Rules.md) | CRC Title 3 | Complex cases (3.400–3.403), case management (3.700–3.740), ADR (3.850–3.898), law and motion (3.1100–3.1390), tentative rulings (3.1308), 15-page memo limit (3.1113), separate statements (3.1345, 3.1350), 75-day SJ notice | ~420 |
-| [CRC-Title-8-Appellate-Rules.md](CRC-Title-8-Appellate-Rules.md) | CRC Title 8 | 60-day appeal clock (8.104), extensions (8.108), clerk's and reporter's transcripts (8.120–8.130), brief format (8.204), unpublished opinion prohibition (8.1115) | ~300 |
-| [CRC-Title-5-Family-Law-Rules.md](CRC-Title-5-Family-Law-Rules.md) | CRC Title 5 | Family law overview — ATROs, disclosure obligations, RFO procedure | ~130 |
-| [CRC-Title-7-Probate-Rules.md](CRC-Title-7-Probate-Rules.md) | CRC Title 7 | Probate overview — estates, conservatorships, trusts; creditor claims cross-reference | ~120 |
+| [CRC-Title-1-General-Rules.md](CRC-Title-1-General-Rules.md) | CRC Title 1 | General provisions; rule construction (1.5); citation format (1.200); preemption of local rules; emergency local rules; access-to-justice rules. 27 rules. | Puller (verbatim) |
+| [CRC-Title-2-Trial-Court-Rules.md](CRC-Title-2-Trial-Court-Rules.md) | CRC Title 2 | Document format (2.100–2.119), electronic filing (2.250–2.261), caption (2.111), redaction (1.20). | Hand-authored (curated commentary) |
+| [CRC-Title-3-Civil-Rules.md](CRC-Title-3-Civil-Rules.md) | CRC Title 3 | Complex cases (3.400–3.403), case management (3.700–3.740), ADR (3.850–3.898), law and motion (3.1100–3.1390), tentative rulings (3.1308), 15-page memo limit (3.1113), separate statements (3.1345, 3.1350), 75-day SJ notice. | Hand-authored (curated commentary) |
+| [CRC-Title-4-Criminal-Rules.md](CRC-Title-4-Criminal-Rules.md) | CRC Title 4 | Criminal procedure rules — arraignment, pretrial, trial, sentencing, post-conviction, traffic, juvenile delinquency. 99 rules. (Included for cross-reference; civil-practice skills do not invoke Title 4 directly.) | Puller (verbatim) |
+| [CRC-Title-5-Family-Law-Rules.md](CRC-Title-5-Family-Law-Rules.md) | CRC Title 5 | Family law overview — ATROs, disclosure obligations, RFO procedure. | Hand-authored (curated commentary) |
+| [CRC-Title-7-Probate-Rules.md](CRC-Title-7-Probate-Rules.md) | CRC Title 7 | Probate overview — estates, conservatorships, trusts; creditor claims cross-reference. | Hand-authored (curated commentary) |
+| [CRC-Title-8-Appellate-Rules.md](CRC-Title-8-Appellate-Rules.md) | CRC Title 8 | 60-day appeal clock (8.104), extensions (8.108), clerk's and reporter's transcripts (8.120–8.130), brief format (8.204), unpublished opinion prohibition (8.1115). | Hand-authored (curated commentary) |
+| [CRC-Title-9-Attorney-Rules.md](CRC-Title-9-Attorney-Rules.md) | CRC Title 9 | Rules on law practice, attorneys, and judges — admissions, pro hac vice (9.40), discipline, MCLE, attorney advertising oversight, judicial conduct. 49 rules. | Puller (verbatim) |
+| [CRC-Title-10-Judicial-Admin.md](CRC-Title-10-Judicial-Admin.md) | CRC Title 10 | Judicial Council and judicial administration rules — court budget and finance, Judicial Council advisory committees, judicial education, court technology and CMS, court interpreter program. 185 rules. | Puller (verbatim) |
 
 ### Procedural California Codes
 
@@ -104,22 +108,22 @@ After first full citation, abbreviate: `Rule 3.1308` or `LASC rule 3.21`.
 
 ## How to Re-Pull
 
-A future `scripts/pull_ca_court_rules.py` script will handle bulk extraction. To run (once created):
+The `scripts/pull_ca_court_rules.py` puller refreshes Titles 1, 4, 9, 10 directly from `courts.ca.gov/cms/rules/index/<word>`. It walks each Title's nested index, captures Division/Chapter/Article structure, then fetches each rule page (`/cms/rules/index/<word>/rule<N>_<NN>`) and emits one markdown file per Title with verbatim rule bodies extracted from the `<div class="container jcc-rulesformatting stack">` container.
 
 ```bash
-python3 scripts/pull_ca_court_rules.py \
-  --workers 8 \
-  --manifest plugins/ca-court-docs/skills/ca-law-references/references/court-rules/_manifest.json
+# Refresh the verbatim-pulled titles only (preserves hand-authored 2, 3, 5, 7, 8)
+python3 scripts/pull_ca_court_rules.py --workers 4 --skip-local \
+  --only CRC-Title-1-General-Rules CRC-Title-4-Criminal-Rules \
+         CRC-Title-9-Attorney-Rules CRC-Title-10-Judicial-Admin
 ```
 
-The script should:
-1. Fetch the CRC consolidated PDF from courts.ca.gov
-2. Extract text using `pdfplumber`
-3. Segment by Title and Rule number
-4. Write individual markdown files
-5. For local rules, fetch from each court's website and convert PDF to markdown
+To refresh every published title (this will overwrite the hand-authored Titles 2/3/5/7/8 with verbatim text — only do this if curated commentary is no longer needed):
 
-For ad hoc extraction without the script, use WebFetch against the canonical URLs listed in each file.
+```bash
+python3 scripts/pull_ca_court_rules.py --workers 8 --skip-local
+```
+
+Local-rule pages (LASC, SFSC, OCSC, Other-County) vary too widely in markup to scrape generically; the puller skips them when `--skip-local` is set and writes only a pointer stub otherwise.
 
 ---
 
