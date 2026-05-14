@@ -4197,16 +4197,24 @@ schedule.
                                            Answering and Cross-
                                                                                                                                                       The opening brief due date is calculated by
 
-                                                                                  Answering Brief to   Cross-Respondent's
+                                                                                                       Cross-Respondent's
+                                                                                  Answering Brief to
                                                                                                                                                       counting from the date that any of the
-                                                                                                                                                      following has occurred. See chart for
 
-                           Opening Brief   Opening Brief                                                                    Brief
+                                                                                                       Answering Brief
+                                                                                                                                                      following has occurred. See chart for
+                           Opening Brief
+
+                                           Opening Brief
                                                                                                                                                       appropriate number of days. The answering
 
-                                                                  Reply Brief     Cross-               Answering Brief
+                                                                  Reply Brief
                                                                                                                                                       brief due date is calculated by counting from
+
+                                                                                  Cross-
                                                                                                                                                       the date the opponent's brief was filed. See
+
+                                                                                                                            Brief
                                                                                                                                                       ORAP 1.35(1)(d) regarding the date of filing.
     Violations               49                 49                       0            21                                                              Date transcript has been deemed settled,
     Habeas Corpus                                                                                                                                     ORS 19.370(7);
@@ -4249,25 +4257,39 @@ in pretrial custody on felony charges, see ORAP 10.25 and ORAP 12.07.
 CASE TYPE                                                                                                  DATE FROM WHICH SCHEDULE IS
                                                                                                            CALCULATED
                                                                                                            The opening brief due date is calculated by counting
+
                                                             Answering Brief to Cross-
-                                                                                        Response to Petition
+
+                                                                                        Reply Brief on the Merits
                                                                                                            from the date that any of the following has occurred.
-                                                                                        for Review
                                                                                                            See chart for appropriate number of days. The
-                                      Answering and                                     Petitioner's Brief
+                                      Cross-Opening Brief
+
                                                             Assignment of Error
+
+                                                                                        Response to Petition
+                                                            Petition for Review
+
+                                                                                        Respondent's Brief
                                                                                                            answering brief due date is calculated by counting
-                                                                                                                    Petition for
+
+                                                                                        Petitioner's Brief
+
+                                                                                                                    Reconsideration
+                                      Answering and
+                      Opening Brief
+
+                                                                                                           from the date the opponent's brief was filed. See
+
                                                                                         on the Merits
 
-                      Opening Brief
-                                      Cross-Opening Brief
-                                                                                                           from the date the opponent's brief was filed. See
-                                                                                        Respondent's Brief
-                                                                                                           ORAP 1.35(1)(d) regarding the date of filing.
-                                                            Petition for Review                                     Reconsideration
                                                                                         on the Merits
-                                      Reply Brief                                       Reply Brief on the Merits
+                                      Reply Brief
+
+                                                                                                                    Petition for
+                                                                                        for Review
+                                                                                                           ORAP 1.35(1)(d) regarding the date of filing.
+
 Judicial Review of       49 49 21 21                      Date record has been deemed settled. ORAP 4.22.
  all other Agency
  Action
