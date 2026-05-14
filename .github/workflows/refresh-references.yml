@@ -20,6 +20,7 @@ on:
           - or
           - ca
           - co
+          - in
 
 permissions:
   contents: write
@@ -46,12 +47,13 @@ jobs:
           TARGET: ${{ github.event.inputs.target }}
         run: |
           case "${TARGET:-all}" in
-            all)     targets='["federal","wa","or","ca","co"]' ;;
+            all)     targets='["federal","wa","or","ca","co","in"]' ;;
             federal) targets='["federal"]' ;;
             wa)      targets='["wa"]' ;;
             or)      targets='["or"]' ;;
             ca)      targets='["ca"]' ;;
             co)      targets='["co"]' ;;
+            in)      targets='["in"]' ;;
             *)       echo "unexpected target: $TARGET" >&2; exit 1 ;;
           esac
           echo "targets=$targets" >> "$GITHUB_OUTPUT"
@@ -159,6 +161,28 @@ jobs:
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_co_court_rules.py --workers 4
+
+      # ---- IN ----
+      # Indiana's five state-wide rule sets (Trial, Evidence, Appellate,
+      # Professional Conduct, Administrative) plus Marion County and Lake
+      # County local-rule PDFs all come from rules.incourts.gov and
+      # in.gov/courts/files. The statute puller targets the IGA Hypermedia
+      # API at api.iga.in.gov; when the `IGA_API_KEY` secret is unset (the
+      # current state) the script emits well-formed stubs so the corpus
+      # mirrors the article shape until access is wired in.
+      - name: IN — court rules (state-wide + Marion/Lake local rules)
+        if: matrix.target == 'in'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_indiana_rules.py --workers 4
+
+      - name: IN — Indiana Code (civil-practice articles)
+        if: matrix.target == 'in'
+        continue-on-error: true
+        timeout-minutes: 15
+        env:
+          IGA_API_KEY: ${{ secrets.IGA_API_KEY }}
+        run: python3 scripts/pull_indiana_statutes.py --workers 4
 
       # ---- Finalize ----
 

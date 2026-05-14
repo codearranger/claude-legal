@@ -5,8 +5,8 @@
     "url": "https://github.com/codearranger"
   },
   "metadata": {
-    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state, plus a shared data-only plugin for federal law. Four state plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt defense bundle), or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle), ca-court-docs (California — CRC 2.100-2.119-compliant pleadings, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA / UCL consumer-debt defense bundle), and co-court-docs (Colorado — C.R.C.P. 10 + CJD 11-01-compliant pleadings, Denver + Arapahoe + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt defense bundle, plus a UDMA-based family-law bundle covering dissolution, annulment, child support, parental responsibilities, and maintenance). All four state plugins depend on the shared claude-legal-federal-laws plugin for FDCPA / FCRA / TILA / ECOA / Reg B-F-V-Z and model UCC content — declared in their plugin.json and dereferenced from in-tree symlinks at install time, so the federal corpora live in one canonical place. All state plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles. The structure leaves clean slots for plugins covering additional states.",
-    "version": "0.10.0"
+    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state, plus a shared data-only plugin for federal law. Five state plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt defense bundle), or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle), ca-court-docs (California — CRC 2.100-2.119-compliant pleadings, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA / UCL consumer-debt defense bundle), co-court-docs (Colorado — C.R.C.P. 10 + CJD 11-01-compliant pleadings, Denver + Arapahoe + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt defense bundle, plus a UDMA-based family-law bundle), and in-court-docs (Indiana — Ind. Trial R. 5(E) pleadings under Indiana Trial Rules with the Jarboe burden-shifting and T.R. 59 motion-to-correct-error quirks, Marion Superior Court / Lake Superior Court + populous-counties roll-up, IUCCC / DCSA consumer-debt defense bundle leaning on chain-of-title + FDCPA since Indiana has no collection-agency licensing regime). All five state plugins depend on the shared claude-legal-federal-laws plugin for FDCPA / FCRA / TILA / ECOA / EFTA / Garnishment + Reg B-F-V-Z-DD-E-M-N-P-X + RESPA + SCRA + FHA + FTC Telemarketing Sales Rule + Title 11 Bankruptcy + model UCC content — declared in their plugin.json and dereferenced from in-tree symlinks at install time, so the federal corpora live in one canonical place. All state plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles. The structure leaves clean slots for plugins covering additional states.",
+    "version": "0.11.0"
   },
   "plugins": [
     {
@@ -166,6 +166,41 @@
         "maintenance",
         "spousal-support",
         "common-law-marriage"
+      ]
+    },
+    {
+      "name": "in-court-docs",
+      "source": "./plugins/in-court-docs",
+      "description": "Draft and format pleadings, declarations, motions, notices, and proposed orders for Indiana courts. Applies Indiana Trial Rule 5(E) formatting (Indiana lacks a single consolidated format rule like GR 14 / UTCR 2.010 / CRC 2.100; the formatting requirements live across T.R. 5(E), T.R. 11, and county local rules); covers Marion Superior Court (Indianapolis, statewide's highest civil-case-volume court — 36 numbered courtrooms in the City-County Building) and Lake Superior Court (Crown Point, with Hammond and East Chicago branches in Indiana's second-largest county), plus a populous-counties roll-up (Allen, Hamilton, St. Joseph, Vanderburgh, Elkhart, Tippecanoe, Porter, Madison); supports pro se workflows under the *Goossens v. Goossens* same-standard rule. Architected as matter-neutral civil-procedure skills (Indiana Trial Rules — incl. T.R. 6 time, T.R. 12 motions, T.R. 26-37 discovery with T.R. 33(A)'s 25-interrogatory cap, T.R. 56 summary judgment under the *Jarboe v. Landmark* affirmative-negation standard, the unique T.R. 59 motion-to-correct-error procedure, T.R. 60 relief), Indiana Rules of Evidence (IRE — incl. 803(6) business records, 902(11) self-authentication), Indiana Code citation conventions, fees and costs under IC 33-37, local rules for Marion (LR49) and Lake (LR45), IC 1-1-9-1 holiday-calendar deadline arithmetic (including Indiana-specific Good Friday and even-year primary/general election days), Odyssey statewide e-filing) plus subject-matter bundles. The first subject-matter bundle, in-consumer-debt, covers FDCPA, Reg F, the Indiana Uniform Consumer Credit Code (IUCCC, IC 24-4.5), the Deceptive Consumer Sales Act (DCSA, IC 24-5-0.5 — Indiana's UDAP/UTPA analog with treble damages + fees on uncured deceptive acts), chain-of-title doctrine under Indiana UCC Article 9 (IC 26-1-9.1), the four debt SOLs at IC 34-11-2-7/-9/-11/-13, and the fact that Indiana does NOT require collection-agency licensing (a distinct posture from Oregon's ORS 697 and California's CDCLA — defense focus shifts to chain of title + FDCPA + DCSA). All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+      "category": "legal",
+      "keywords": [
+        "indiana",
+        "legal",
+        "pleadings",
+        "pro-se",
+        "indiana-trial-rules",
+        "trial-rule-56",
+        "marion-county",
+        "lake-county-indiana",
+        "marion-superior-court",
+        "indianapolis",
+        "lake-superior-court",
+        "county-courts",
+        "civil-rules",
+        "evidence-rules",
+        "discovery",
+        "hearings",
+        "post-judgment",
+        "fact-check",
+        "fdcpa",
+        "reg-f",
+        "iuccc",
+        "dcsa",
+        "indiana-deceptive-consumer-sales-act",
+        "consumer-protection",
+        "debt-collection",
+        "odyssey-efile",
+        "ic-34-11"
       ]
     }
   ]
