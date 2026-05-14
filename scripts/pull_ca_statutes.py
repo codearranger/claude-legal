@@ -360,6 +360,308 @@ COM_ART9 = [
     ("COM", "9626",   "Burden of proof — commercial reasonableness"),
 ]
 
+# ---- Civil-practice expansion (Phase 5) -------------------------------
+# New groups covering civil-practice topics beyond the original
+# debt-collection scope: contract formation/damages, consumer warranties,
+# trial-conduct motions, writs, unlawful detainer, family law, probate,
+# and labor-wages enforcement.
+
+CCP_TRIAL_NEW = [
+    # New trial / JNOV / vacate-after-judgment
+    ("CCP", "657",    "Grounds for new trial"),
+    ("CCP", "658",    "Time to move for new trial"),
+    ("CCP", "659",    "Notice of intention to move"),
+    ("CCP", "659a",   "Time to file affidavits"),
+    ("CCP", "660",    "Hearing on motion; time to rule"),
+    ("CCP", "660.5",  "Effect of failure to rule"),
+    ("CCP", "662",    "Trial-court alternatives in lieu of new trial"),
+    ("CCP", "662.5",  "Conditional new-trial order"),
+    ("CCP", "663",    "Motion to vacate judgment"),
+    ("CCP", "663a",   "Time to move to vacate"),
+]
+
+CCP_WRITS = [
+    ("CCP", "1085",   "Writ of mandate — issuance"),
+    ("CCP", "1086",   "Mandamus by interested party"),
+    ("CCP", "1087",   "Form / contents of writ"),
+    ("CCP", "1088",   "Alternative writ vs. peremptory"),
+    ("CCP", "1089",   "Answer and reply"),
+    ("CCP", "1090",   "Trial on issues of fact"),
+    ("CCP", "1094",   "Costs"),
+    ("CCP", "1094.5", "Administrative mandamus — review of agency decisions"),
+    ("CCP", "1094.6", "90-day SOL for admin mandamus"),
+    ("CCP", "1095",   "Prohibition writ"),
+    ("CCP", "1097",   "Contempt for disobedience"),
+]
+
+CCP_UNLAWFUL_DETAINER = [
+    ("CCP", "1159",   "Forcible entry defined"),
+    ("CCP", "1161",   "Unlawful detainer — grounds and notice periods"),
+    ("CCP", "1161.1", "Pre-judgment notice — commercial"),
+    ("CCP", "1161.2", "Sealed records pending judgment"),
+    ("CCP", "1162",   "Service of notice to quit"),
+    ("CCP", "1166",   "Complaint — required allegations"),
+    ("CCP", "1167",   "Summons — 5-day response"),
+    ("CCP", "1170",   "Answer and verification"),
+    ("CCP", "1170.5", "Trial setting — 20-day rule"),
+    ("CCP", "1170.7", "Summary judgment in UD actions"),
+    ("CCP", "1171",   "Set-off / counterclaim limits"),
+    ("CCP", "1174",   "Judgment for plaintiff"),
+    ("CCP", "1179",   "Relief from forfeiture"),
+]
+
+CCP_ARBITRATION = [
+    # California Arbitration Act
+    ("CCP", "1280",   "Definitions"),
+    ("CCP", "1281",   "Validity of agreement"),
+    ("CCP", "1281.2", "Petition to compel arbitration; defenses"),
+    ("CCP", "1281.4", "Stay of court action pending arbitration"),
+    ("CCP", "1281.6", "Selection of arbitrator"),
+    ("CCP", "1281.91", "Arbitrator disqualification — disclosures"),
+    ("CCP", "1281.97", "Forfeiture for non-payment of fees (consumer/employment)"),
+    ("CCP", "1281.98", "Employer fee-payment timing"),
+    ("CCP", "1282.2", "Conduct of hearing"),
+    ("CCP", "1283.05", "Discovery in arbitration"),
+    ("CCP", "1284.2", "Allocation of arbitration costs"),
+    ("CCP", "1285",   "Petition to confirm award"),
+    ("CCP", "1286.2", "Grounds to vacate award"),
+    ("CCP", "1286.6", "Grounds to correct award"),
+    ("CCP", "1294",   "Appealable orders"),
+    ("CCP", "1294.2", "Stay pending appeal"),
+]
+
+CIV_CONTRACTS = [
+    # General contract formation and interpretation
+    ("CIV", "1549",   "Definition of contract"),
+    ("CIV", "1550",   "Essential elements"),
+    ("CIV", "1556",   "Who may contract"),
+    ("CIV", "1565",   "Mutual consent essentials"),
+    ("CIV", "1568",   "Apparent consent"),
+    ("CIV", "1571",   "Fraud — types"),
+    ("CIV", "1572",   "Actual fraud"),
+    ("CIV", "1573",   "Constructive fraud"),
+    ("CIV", "1605",   "Consideration defined"),
+    ("CIV", "1622",   "Oral contracts valid except as noted"),
+    ("CIV", "1624",   "Statute of frauds — writings required"),
+    ("CIV", "1636",   "Interpretation goal"),
+    ("CIV", "1638",   "Plain meaning"),
+    ("CIV", "1639",   "Reduced to writing"),
+    ("CIV", "1641",   "Whole-contract reading"),
+    ("CIV", "1644",   "Ordinary meaning"),
+    ("CIV", "1647",   "Circumstances considered"),
+    ("CIV", "1654",   "Ambiguity construed against drafter"),
+    ("CIV", "1668",   "Contracts exempting fraud / willful injury are void"),
+    ("CIV", "1670.5", "Unconscionability"),
+    ("CIV", "1689",   "Rescission grounds"),
+    ("CIV", "1691",   "Rescission procedure"),
+    ("CIV", "1692",   "Restoration on rescission"),
+]
+
+CIV_DAMAGES = [
+    # Damages framework — Civ Code §§ 3274-3361
+    ("CIV", "3274",   "Damages — general"),
+    ("CIV", "3281",   "Damages defined"),
+    ("CIV", "3282",   "Detriment defined"),
+    ("CIV", "3283",   "Detriment includes future losses"),
+    ("CIV", "3287",   "Prejudgment interest on liquidated damages"),
+    ("CIV", "3288",   "Discretionary interest in tort"),
+    ("CIV", "3289",   "Interest on contract obligations"),
+    ("CIV", "3294",   "Punitive damages — fraud / malice / oppression"),
+    ("CIV", "3300",   "Contract damages — general"),
+    ("CIV", "3301",   "Contract damages — certainty"),
+    ("CIV", "3302",   "Money paid as damages"),
+    ("CIV", "3306",   "Real-property contract damages"),
+    ("CIV", "3333",   "Tort damages — proximate cause"),
+    ("CIV", "3333.2", "Cap on noneconomic medmal damages"),
+    ("CIV", "3334",   "Wrongful occupation damages"),
+    ("CIV", "3343",   "Fraud damages — out of pocket"),
+    ("CIV", "3358",   "Mitigation"),
+    ("CIV", "3359",   "Reasonable damages"),
+]
+
+CIV_SONG_BEVERLY = [
+    # Song-Beverly Consumer Warranty Act
+    ("CIV", "1790",     "Findings and policy"),
+    ("CIV", "1791",     "Consumer goods defined"),
+    ("CIV", "1791.1",   "Implied warranty defined"),
+    ("CIV", "1791.2",   "Express warranty defined"),
+    ("CIV", "1792",     "Implied warranty of merchantability"),
+    ("CIV", "1792.1",   "Implied warranty of fitness"),
+    ("CIV", "1792.2",   "Used goods"),
+    ("CIV", "1792.4",   "Disclaimer of implied warranty"),
+    ("CIV", "1793",     "Duration of implied warranty"),
+    ("CIV", "1793.2",   "Manufacturer service / repair obligations"),
+    ("CIV", "1793.22",  "Lemon law presumption (Tanner Consumer Protection Act)"),
+    ("CIV", "1793.25",  "Reimbursement to manufacturer"),
+    ("CIV", "1793.3",   "Repair facilities"),
+    ("CIV", "1794",     "Remedies for breach"),
+    ("CIV", "1794.4",   "Service contract requirements"),
+    ("CIV", "1795",     "Implied warranties for new and used goods"),
+    ("CIV", "1795.5",   "Used goods — implied warranty 30 days"),
+    ("CIV", "1795.6",   "Toll of warranty period during repair"),
+    ("CIV", "1795.7",   "Buyer's right to demand replacement"),
+    ("CIV", "1795.8",   "Mobile homes excluded"),
+]
+
+EVID_KEY = [
+    # Core Evidence Code provisions for civil practice
+    ("EVID", "350",   "Relevance — only relevant evidence admissible"),
+    ("EVID", "351",   "All relevant evidence admissible"),
+    ("EVID", "352",   "Discretionary exclusion (prejudice)"),
+    ("EVID", "353",   "Erroneous admission"),
+    ("EVID", "354",   "Erroneous exclusion"),
+    ("EVID", "400",   "Proof of preliminary fact"),
+    ("EVID", "402",   "Procedure for determining preliminary fact"),
+    ("EVID", "403",   "Conditional relevance"),
+    ("EVID", "452",   "Permissive judicial notice"),
+    ("EVID", "452.5", "Certified record judicial notice"),
+    ("EVID", "453",   "Mandatory judicial notice"),
+    ("EVID", "459",   "Reviewing court — judicial notice"),
+    ("EVID", "702",   "Personal knowledge required"),
+    ("EVID", "720",   "Expert qualification"),
+    ("EVID", "1200",  "Hearsay defined"),
+    ("EVID", "1220",  "Party admission"),
+    ("EVID", "1222",  "Authorized admission"),
+    ("EVID", "1224",  "Statement of co-conspirator"),
+    ("EVID", "1271",  "Business records exception"),
+    ("EVID", "1280",  "Public records exception"),
+    ("EVID", "1400",  "Authentication required"),
+    ("EVID", "1401",  "Authentication generally"),
+    ("EVID", "1410",  "Methods of authentication"),
+    ("EVID", "1411",  "Other methods not excluded"),
+    ("EVID", "1500",  "Best evidence — content of writing"),
+    ("EVID", "1521",  "Secondary evidence — original required if dispute"),
+]
+
+# ---- Family Code -------------------------------------------------------
+
+FAM_DISSOLUTION = [
+    # Dissolution / nullity / legal separation
+    ("FAM", "2310",   "Grounds for dissolution"),
+    ("FAM", "2311",   "Irreconcilable differences"),
+    ("FAM", "2320",   "6-month + 3-month residency"),
+    ("FAM", "2330",   "Petition — contents"),
+    ("FAM", "2335",   "Misnomer not a defense"),
+    ("FAM", "2336",   "Default — judgment requirements"),
+    ("FAM", "2337",   "Termination of marital status; reserving jurisdiction"),
+    ("FAM", "2339",   "6-month waiting period; effective date"),
+    ("FAM", "2340",   "Effect on insurance, beneficiary"),
+    ("FAM", "2400",   "Summary dissolution — eligibility"),
+    ("FAM", "2401",   "Joint petition"),
+    ("FAM", "2403",   "Effect of judgment"),
+]
+
+FAM_PROPERTY = [
+    # Community property characterization and division
+    ("FAM", "760",    "Community property defined"),
+    ("FAM", "770",    "Separate property of married person"),
+    ("FAM", "771",    "Earnings after separation"),
+    ("FAM", "780",    "Joint-tenancy presumption"),
+    ("FAM", "850",    "Transmutation — general rule"),
+    ("FAM", "851",    "Transmutation in writing"),
+    ("FAM", "852",    "Transmutation requirements"),
+    ("FAM", "2550",   "Equal division — mandate"),
+    ("FAM", "2552",   "Valuation date"),
+    ("FAM", "2581",   "Joint-form-title presumption"),
+    ("FAM", "2622",   "Liabilities at dissolution"),
+    ("FAM", "2640",   "Reimbursement for separate-property contributions"),
+    ("FAM", "2641",   "Educational reimbursement"),
+]
+
+FAM_CUSTODY = [
+    # Custody and visitation
+    ("FAM", "3010",   "Equal status of parents"),
+    ("FAM", "3011",   "Best interest factors"),
+    ("FAM", "3020",   "Public policy"),
+    ("FAM", "3040",   "Custody preferences and presumptions"),
+    ("FAM", "3041",   "Award to non-parent"),
+    ("FAM", "3042",   "Child's preference"),
+    ("FAM", "3044",   "Domestic-violence presumption"),
+    ("FAM", "3046",   "Absence not a factor against"),
+    ("FAM", "3080",   "Joint-custody presumption when stipulated"),
+    ("FAM", "3082",   "Findings required if denied"),
+    ("FAM", "3083",   "Joint legal custody"),
+    ("FAM", "3084",   "Joint physical custody"),
+    ("FAM", "3088",   "Modification with child's consent"),
+    ("FAM", "3100",   "Visitation — non-custodial parent"),
+    ("FAM", "3110",   "Court-appointed counsel for child"),
+    ("FAM", "3200",   "UCCJEA — citation"),
+]
+
+FAM_SUPPORT = [
+    # Child support
+    ("FAM", "4050",   "Statewide uniform guideline"),
+    ("FAM", "4053",   "Principles of guideline"),
+    ("FAM", "4055",   "Statewide formula"),
+    ("FAM", "4057",   "Rebuttal of guideline"),
+    ("FAM", "4058",   "Annual gross income"),
+    ("FAM", "4059",   "Net disposable income"),
+    ("FAM", "4060",   "Net disposable income — adjustments"),
+    ("FAM", "4061",   "Adjustments for prior support"),
+    ("FAM", "4062",   "Add-ons — mandatory and discretionary"),
+    ("FAM", "4063",   "Documentation"),
+    ("FAM", "4064",   "Seasonal or fluctuating income"),
+    ("FAM", "4065",   "Stipulated support — child waiver limited"),
+    ("FAM", "4068",   "Order for hardship"),
+    ("FAM", "4070",   "Imputation of income"),
+    ("FAM", "4071",   "Hardship deductions"),
+    ("FAM", "4076",   "Form orders"),
+]
+
+# ---- Probate Code ------------------------------------------------------
+
+PROB_BASICS = [
+    # Intestate succession + general probate procedure
+    ("PROB", "6400",  "Property subject to intestate distribution"),
+    ("PROB", "6401",  "Surviving spouse share"),
+    ("PROB", "6402",  "Other heirs — order"),
+    ("PROB", "6402.5", "Predeceased spouse property"),
+    ("PROB", "6403",  "Survivorship requirement"),
+    ("PROB", "6404",  "Escheat to state"),
+    ("PROB", "8000",  "Petition for probate"),
+    ("PROB", "8002",  "Contents of petition"),
+    ("PROB", "8003",  "Hearing date"),
+    ("PROB", "8004",  "Filing fee"),
+    ("PROB", "8005",  "Bond"),
+    ("PROB", "8120",  "Notice of hearing"),
+    ("PROB", "8121",  "Manner of service"),
+    ("PROB", "8200",  "Will — proof"),
+    ("PROB", "8222",  "Will — petition to admit"),
+    ("PROB", "8250",  "Self-proving will"),
+    ("PROB", "8270",  "Lost or destroyed will"),
+    ("PROB", "8400",  "Issuance of letters"),
+    ("PROB", "8540",  "Removal of personal representative"),
+    ("PROB", "13100", "Small-estate affidavit — under $184,500"),
+    ("PROB", "13150", "Real-property small-estate procedure"),
+]
+
+# ---- Labor Code (wage payment / collection) ----------------------------
+
+LAB_WAGES = [
+    # Wage payment and collection
+    ("LAB", "200",    "Wages defined"),
+    ("LAB", "201",    "Wages due immediately on discharge"),
+    ("LAB", "202",    "Wages due on quit"),
+    ("LAB", "203",    "Waiting-time penalty"),
+    ("LAB", "204",    "Pay periods"),
+    ("LAB", "205.5",  "Tip pooling"),
+    ("LAB", "206",    "Undisputed portion of wages"),
+    ("LAB", "206.5",  "No release as condition of payment"),
+    ("LAB", "210",    "Civil penalties for late payment"),
+    ("LAB", "212",    "Payment by check / direct deposit"),
+    ("LAB", "218",    "Right to sue without labor commissioner"),
+    ("LAB", "218.5",  "Attorney fees in wage actions"),
+    ("LAB", "218.6",  "Prejudgment interest"),
+    ("LAB", "221",    "Kickback on wages prohibited"),
+    ("LAB", "224",    "Wage deductions"),
+    ("LAB", "226",    "Itemized wage statement"),
+    ("LAB", "226.7",  "Meal/rest premium"),
+    ("LAB", "227.3",  "Vacation as wages"),
+    ("LAB", "230",    "Anti-retaliation — protected absences"),
+    ("LAB", "232",    "Wage disclosure protection"),
+    ("LAB", "244",    "Exhaustion of administrative remedy"),
+]
+
 
 # (output_file_stem, description, sections) — drives main() iteration
 FILES: list[tuple[str, str, list[tuple[str, str, str]]]] = [
@@ -381,6 +683,21 @@ FILES: list[tuple[str, str, list[tuple[str, str, str]]]] = [
     ("CommCode-Art-2-Sales",       "UCC Art. 2 (Cal. Comm. Code §§ 2101-2725)",        COM_ART2),
     ("CommCode-Art-3-Negotiable",  "UCC Art. 3 (Cal. Comm. Code §§ 3101-3605)",        COM_ART3),
     ("CommCode-Art-9-Secured",     "UCC Art. 9 (Cal. Comm. Code §§ 9101-9809)",        COM_ART9),
+    # Phase 5 civil-practice expansion
+    ("CCP-Trial-New-JNOV",         "New trial / JNOV / vacate (CCP §§ 657-663a)",      CCP_TRIAL_NEW),
+    ("CCP-Writs",                  "Mandamus and writs (CCP §§ 1085-1097)",            CCP_WRITS),
+    ("CCP-Unlawful-Detainer",      "Unlawful detainer (CCP §§ 1159-1179)",             CCP_UNLAWFUL_DETAINER),
+    ("CCP-Arbitration",            "California Arbitration Act (CCP §§ 1280-1294.2)",  CCP_ARBITRATION),
+    ("CivCode-Contracts",          "Contract formation (Civ. Code §§ 1549-1692)",      CIV_CONTRACTS),
+    ("CivCode-Damages",            "Damages framework (Civ. Code §§ 3274-3359)",       CIV_DAMAGES),
+    ("CivCode-Song-Beverly",       "Song-Beverly Warranty Act (Civ. Code §§ 1790-1795.8)", CIV_SONG_BEVERLY),
+    ("EvidCode-Key",               "Evidence Code — relevance / hearsay / authentication / best evidence", EVID_KEY),
+    ("FamCode-Dissolution",        "Dissolution / nullity / legal separation (Fam. Code §§ 2310-2403)", FAM_DISSOLUTION),
+    ("FamCode-Property",           "Community property (Fam. Code §§ 760-2641)",       FAM_PROPERTY),
+    ("FamCode-Custody",            "Custody and visitation (Fam. Code §§ 3010-3200)",  FAM_CUSTODY),
+    ("FamCode-Support",            "Child support guidelines (Fam. Code §§ 4050-4076)", FAM_SUPPORT),
+    ("ProbCode-Basics",            "Intestate succession + probate procedure (Prob. Code §§ 6400-13150)", PROB_BASICS),
+    ("LabCode-Wages",              "Wage payment and collection (Lab. Code §§ 200-244)", LAB_WAGES),
 ]
 
 
