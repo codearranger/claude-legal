@@ -89,8 +89,7 @@ jobs:
       #
       # Excluded everywhere:
       #   - pull_ca_statutes.py — known content regression
-      #   - OR-specific pullers (pull_oregon_rules.py / pull_oregon_ors.py)
-      #   - CO-specific pullers (pull_co_court_rules.py / pull_co_statutes.py)
+      #   - pull_co_court_rules.py — TODO (CO court-rules puller not yet implemented)
 
       # ---- federal — shared corpus consumed by every state plugin ----
       - name: Federal — debt laws
@@ -125,14 +124,21 @@ jobs:
         run: python3 scripts/pull_wa_rcw.py --workers 12
 
       # ---- OR ----
-      # OR has no state-specific pull scripts yet (pull_oregon_rules.py
-      # and pull_oregon_ors.py are TODO per CLAUDE.md). Federal + UCC
-      # for OR live in the shared `federal` corpus.
-      - name: OR — no state-specific pulls (federal lives in shared plugin)
+      # Federal + UCC content for OR comes from the shared `federal`
+      # target. The OR-specific pullers below refresh the Oregon-only
+      # corpora (ORS chapters and the seven OR court-rule canonical
+      # sources).
+      - name: OR — court rules
         if: matrix.target == 'or'
-        run: |
-          echo "OR-specific pull scripts (pull_oregon_rules.py, pull_oregon_ors.py) are not yet implemented."
-          echo "Federal and UCC content is refreshed via target=federal, not here."
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_oregon_rules.py
+
+      - name: OR — ORS debt + civil-practice chapters
+        if: matrix.target == 'or'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_oregon_ors.py --workers 4
 
       # ---- CA ----
       - name: CA — court rules
@@ -142,13 +148,17 @@ jobs:
         run: python3 scripts/pull_ca_court_rules.py --workers 8
 
       # ---- CO ----
-      # CO has no state-specific pull scripts yet (pull_co_court_rules.py
-      # and pull_co_statutes.py are TODO per CLAUDE.md).
       - name: CO — statute corpus (titles 4, 5, 6, 13, 14, 24)
         if: matrix.target == 'co'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_co_statutes.py --workers 4
+
+      - name: CO — court rules (Chief Justice Directives + paywalled-rule stubs)
+        if: matrix.target == 'co'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_co_court_rules.py --workers 4
 
       # ---- Finalize ----
 

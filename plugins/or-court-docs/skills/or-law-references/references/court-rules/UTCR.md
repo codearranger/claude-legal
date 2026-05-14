@@ -1,18 +1,15 @@
 # UTCR — Uniform Trial Court Rules
 
-> **Source:** https://www.courts.oregon.gov/rules/UTCR/2025_UTCR_including_amendments_effective_2026-03-09.pdf (linked from https://www.courts.oregon.gov/programs/utcr/Pages/currentrules.aspx)
-> **Fetched:** 2026-05-13
+> **Source:** https://www.courts.oregon.gov/rules/UTCR/2025_UTCR_including_amendments_effective_2026-03-09.pdf
+> **Fetched:** 2026-05-14
 > **Format:** verbatim conversion of the official PDF source
 
 ---
 
 UNIFORM TRIAL COURT RULES
 
-
-
                        Effective
                      August 1, 2025
-
 
  (Including Correction to UTCR 8.060 and UTCR 24.030 (effective
   September 29, 2025); Out-of-Cycle Amendment of UTCR 1.110,
@@ -20,9 +17,6 @@ UNIFORM TRIAL COURT RULES
    (effective January 1, 2026); Out-of-Cycle Amendment of UTCR
 21.020 and 21.070 (effective February 19, 2026); and Out-of-Cycle
           Adoption of UTCR 4.130 (effective March 9, 2026))
-
-
-
 
     This document has no copyright and may be reproduced.
 
@@ -63,7 +57,6 @@ CHAPTER 2 —Standards for Pleadings and Documents .............................
               INSTRUMENT ........................................................................................... 2.7
   2.070       NOTICE IN PLEADINGS ........................................................................... 2.7
 
-
 UTCR 8/1/2025                                                i
 
   2.080       COMMUNICATION WITH COURT............................................................ 2.7
@@ -103,7 +96,6 @@ CHAPTER 3 —Decorum in Proceedings ............................................
   3.170       ASSOCIATION OF OUT-OF-STATE COUNSEL (PRO HAC VICE) ......... 3.5
   3.180       ELECTRONIC RECORDING AND WRITING............................................ 3.8
   3.190       CIVIL ARRESTS (Repealed) ................................................................... 3.11
-
 
 UTCR 8/1/2025                                               ii
 
@@ -185,8 +177,6 @@ CHAPTER 6 —Trials ............................................................
   6.190         EVIDENCE SUBMITTED IN AN ELECTRONIC FORMAT ...................... 6.10
   6.200         PRETRIAL SETTLEMENT CONFERENCES .......................................... 6.10
 
-
-
 UTCR 8/1/2025                                               iv
 
 CHAPTER 7 —Case Management and Calendaring ................................................ 7.1
@@ -227,7 +217,6 @@ CHAPTER 8 —Domestic Relations Proceedings ....................................
 CHAPTER 9 —Probate and Adoption Proceedings................................................. 9.1
  9.010       MAILING PROBATE MATERIALS TO THE COURT (Repealed) .............. 9.1
 
-
 UTCR 8/1/2025                                              v
 
   9.020       APPROVAL OF BONDS ........................................................................... 9.1
@@ -267,7 +256,6 @@ CHAPTER 10 —Proceedings Relating to Vehicle Laws and Driving Privilege
   10.040      SETTLEMENT OF THE RECORD .......................................................... 10.2
   10.050      PETITIONER’S MEMORANDUM OF POINTS AND AUTHORITIES ...... 10.2
   10.060      OPPOSING PARTY’S RESPONSE ........................................................ 10.3
-
 
 UTCR 8/1/2025                                               vi
 
@@ -310,7 +298,6 @@ CHAPTER 12 —Mediation ........................................................
   12.080       QUALIFICATION AS AN APPROVED DOMESTIC RELATIONS
                FINANCIAL MEDIATOR, ONGOING OBLIGATIONS ............................. 12.9
 
-
 UTCR 8/1/2025                                               vii
 
   12.090       INDEPENDENT QUALIFICATION REVIEW ......................................... 12.10
@@ -348,7 +335,6 @@ CHAPTER 13 —Arbitration ......................................................
   13.220       FILING OF AN AWARD ......................................................................... 13.10
   13.240       JUDGMENT ON AWARD ...................................................................... 13.10
   13.250       REQUEST FOR TRIAL DE NOVO ........................................................ 13.11
-
 
 UTCR 8/1/2025                                              viii
 
@@ -391,7 +377,6 @@ CHAPTER 21 —Filing and Service by Electronic Means; Electronic Files of
   21.020       LOCAL RULES OF COURT NOT PERMITTED ...................................... 21.2
   21.030       FILERS .................................................................................................... 21.2
 
-
 UTCR 8/1/2025                                                ix
 
   21.040       FORMAT OF DOCUMENTS TO BE FILED ELECTRONICALLY ............ 21.2
@@ -431,14 +416,10 @@ CHAPTER 24 —Post-Conviction Relief ...........................................
   24.080       CONTINUANCES .................................................................................... 24.4
   24.090       PRESIDING POST-CONVICTION JUDGE ............................................. 24.5
 
-
 UTCR 8/1/2025                                               x
 
  24.100   TRIALS .................................................................................................... 24.5
  24.110   CHALLENGES TO COURT-APPOINTED COUNSEL............................. 24.5
-
-
-
 
 UTCR 8/1/2025                                           xi
 
@@ -466,7 +447,6 @@ CHAPTER 1—General Provisions
 
 (4)   These rules apply to attorneys and to persons representing themselves.
 
-
 1.020       AMENDMENT OF THESE RULES; EFFECTIVE DATE
 
 (1)   The UTCR may be amended by order of the Chief Justice.
@@ -489,8 +469,6 @@ CHAPTER 1—General Provisions
       been waived by order of the Chief Justice, the amendment shall be posted for
       public comment as soon after adoption as is practicable, and the amendment shall
 
-
-
 UTCR 8/1/2025                                      1.1
 (including out-of-cycle amendment of UTCR 1.110)
 
@@ -501,7 +479,6 @@ UTCR 8/1/2025                                      1.1
       inaccurate citations, and inaccurate website addresses if the correction does not
       change the substance of the rule. The UTCR Reporter shall give appropriate
       notice of corrections to the public.
-
 
 1.030       TRANSITION TO THESE RULES
 
@@ -517,12 +494,10 @@ UTCR 8/1/2025                                      1.1
       may order that an action or proceeding pending on that date be governed by the
       previous SLR or practice of the court.
 
-
 1.040       LOCAL RULES OF COURT NOT PERMITTED; EXCEPTION
 
 No circuit court may make or enforce any local rule except as provided in UTCR 1.030,
 1.050, and 1.060.
-
 
 1.050       PROMULGATION OF SLR; REVIEW OF SLR; ENFORCEABILITY OF
             LOCAL PRACTICES
@@ -541,7 +516,6 @@ No circuit court may make or enforce any local rule except as provided in UTCR 1
             Supreme Court Orders, disciplinary rules for attorneys, judicial canons, or
             Oregon Rules of Appellate Procedure (ORAP). A court may not adopt SLR
             that establish internal operating procedures of the court or trial court
-
 
 UTCR 8/1/2025                                      1.2
 (including out-of-cycle amendment of UTCR 1.110)
@@ -593,8 +567,6 @@ UTCR 8/1/2025                                      1.2
             disapprovals to the Chief Justice, regarding existing rules, proposed new
             rules, and proposed changes to existing rules.
 
-
-
 UTCR 8/1/2025                                      1.3
 (including out-of-cycle amendment of UTCR 1.110)
 
@@ -630,7 +602,6 @@ UTCR 8/1/2025                                      1.3
       attorney a reasonable opportunity to cure the violation by complying with the local
       practice.
 
-
 REPORTER’S NOTE (08/01/2023): Any form required by SLR that is provided by the
 court is done so for convenience but is not part of the SLR.
 
@@ -643,9 +614,6 @@ subsection is to give counsel, everywhere in the state, notice of how critical c
 are scheduled by each local court. The purpose of this subsection, therefore, is not to
 promote any particular calendaring procedure, but rather to eliminate unwritten rules of
 court.
-
-
-
 
 UTCR 8/1/2025                                      1.4
 (including out-of-cycle amendment of UTCR 1.110)
@@ -675,7 +643,6 @@ UTCR shall be numbered as follows:
 
 (6)   SLR approved pursuant to UTCR 1.050 must conform to this rule.
 
-
 1.070      CITATION OF COURT RULES
 
 (1)   The Uniform Trial Court Rules (UTCR) shall be cited as UTCR by chapter and
@@ -688,7 +655,6 @@ UTCR shall be numbered as follows:
       judicial district which issued the rules also shall be included when such
       identification is necessary.
 
-
 1.080      FORMAT AND LOCATION OF COURT RULES
 
 (1)   All UTCR and SLR must include a table of contents.
@@ -696,8 +662,6 @@ UTCR shall be numbered as follows:
 (2)   Each page of the SLR must include a footer that shows the following: the page
       number, the revision date applicable to the set of SLR, the judicial district number,
       and the name of the court.
-
-
 
 UTCR 8/1/2025                                      1.5
 (including out-of-cycle amendment of UTCR 1.110)
@@ -723,13 +687,11 @@ UTCR 8/1/2025                                      1.5
 
       (g)   Chapter 20, SLR relating to voluntary arbitration.
 
-
 1991 Commentary:
 
 For purposes of UTCR 1.080(3) the committee did not intend that SLR required by
 UTCR 1.050(1)(c) be placed in chapter 1 but intended that such SLR be placed in
 chapter 7 or other chapters related to the particular subject.
-
 
 1.090       SANCTIONS
 
@@ -750,7 +712,6 @@ chapter 7 or other chapters related to the particular subject.
 
       (d)   Treat as established an allegation or claim.
 
-
 UTCR 8/1/2025                                      1.6
 (including out-of-cycle amendment of UTCR 1.110)
 
@@ -758,7 +719,6 @@ UTCR 8/1/2025                                      1.6
 
 Relief from application of these rules or SLR in an individual case may be given by a
 judge on good cause shown if necessary to prevent hardship or injustice.
-
 
 1.110      DEFINITIONS
 
@@ -801,8 +761,6 @@ As used in these rules:
 
 (7)   “Original Signature” means a handwritten signature on a printed document.
 
-
-
 UTCR 8/1/2025                                      1.7
 (including out-of-cycle amendment of UTCR 1.110)
 
@@ -818,7 +776,6 @@ UTCR 8/1/2025                                      1.7
 
 (11) “Trial Court Administrator” means the court administrator, the administrative officer
      of the records section of the court, and where appropriate, the trial court clerk.
-
 
 1.120       DISBURSING MONIES; MOTION AND ORDER
 
@@ -851,9 +808,6 @@ UTCR 8/1/2025                                      1.7
       (c)   The trial court administrator shall enter in the register the fact of giving the
             notice, the time of giving notice, the manner of giving notice, and the persons
             to whom notice was given.
-
-
-
 
 UTCR 8/1/2025                                      1.8
 (including out-of-cycle amendment of UTCR 1.110)
@@ -889,20 +843,15 @@ UTCR 8/1/2025                                      1.8
       trust account and follow the established accounting procedures until the trial court
       administrator receives the order to disburse.
 
-
 1990 Commentary (statutory citations updated August 1, 2014):
 
 Situations to which this section applies include, but are not limited to, a trial court
 administrator receiving and being unable to disburse monies under ORS 18.422(3),
 18.872(2), 18.950, 87.475(3), or 88.100.
 
-
 1.130       TIME COMPUTATION
 
 ORCP 10 shall be followed in computing any time period prescribed by these rules.
-
-
-
 
 UTCR 8/1/2025                                      1.9
 (including out-of-cycle amendment of UTCR 1.110)
@@ -954,8 +903,6 @@ UTCR 8/1/2025                                      1.9
 
       (a)   Be in writing, or where available, on the form specified by the court.
 
-
-
 UTCR 8/1/2025                                  1.10
 (including out-of-cycle amendment of UTCR 1.110)
 
@@ -1004,9 +951,6 @@ UTCR 8/1/2025                                  1.10
       retention period only to the extent granted under, according to the provisions of,
       and for the times established by this rule.
 
-
-
-
 UTCR 8/1/2025                                  1.11
 (including out-of-cycle amendment of UTCR 1.110)
 
@@ -1027,7 +971,6 @@ UTCR 8/1/2025                                  1.11
       www.courts.oregon.gov/forms, if the proper fee is tendered when required and the
       document is submitted for filing in compliance with all applicable statutes and rules.
 
-
 1.170      COURT WEBSITES; HOURS OF COURT OPERATION
 
 (1)   SLR 1.171 is reserved for each judicial district to identify the website addresses of
@@ -1041,22 +984,17 @@ UTCR 8/1/2025                                  1.11
       exist or may be made, for delivery of documents for filing at times when the court
       location is not open to conduct business, other than by electronic filing.
 
-
 1.200      INFORMATION ON FREE OR LOW-COST LOCAL LEGAL SERVICES
 
 Each judicial district must post in a conspicuous location information, including the
 telephone numbers, of any free or low-cost legal services and other relevant services
 available in the district and the nature of those services.
 
-
 1.210      APPLICATION OF UTCRS TO LICENSED PARALEGALS
 
 Unless the context requires otherwise, or unless otherwise stated, when these rules
 refer to an attorney, they also apply to a licensed paralegal representing a party within
 the scope of the Oregon Supreme Court Rules for Licensing Paralegals.
-
-
-
 
 UTCR 8/1/2025                                  1.12
 (including out-of-cycle amendment of UTCR 1.110)
@@ -1109,8 +1047,6 @@ in this rule.
       (d)   All documents, except exhibits and wills, shall be prepared with a one-inch
             margin on each side.
 
-
-
 UTCR 8/1/2025                               2.1
 
 (5)   Party Signatures and Electronic Court Signatures
@@ -1158,9 +1094,6 @@ UTCR 8/1/2025                               2.1
       first paragraph of the document and continuing through the last. Subdivisions
       within a paragraph must be designated by lower case letters, enclosed in
       parentheses, placed at the left margin of each subdivision.
-
-
-
 
 UTCR 8/1/2025                                   2.2
 
@@ -1213,7 +1146,6 @@ UTCR 8/1/2025                                   2.2
 
             (iii) An identification of the parties’ roles;
 
-
 UTCR 8/1/2025                                  2.3
 
           (iv) The case number; and
@@ -1256,15 +1188,10 @@ UTCR 8/1/2025                                  2.3
 
                            (at least 1.5 inches of blank space following last line of text)
 
-
-
-
                           ____________________________________________
-
 
     (c)   If the order, judgment, or writ is prepared by a party, the name and identity of
           the party submitting the order must appear therein, preceded by the words
-
 
 UTCR 8/1/2025                              2.4
 
@@ -1301,7 +1228,6 @@ UTCR 8/1/2025                              2.4
      forms and exact copies of such forms may be used and submitted to courts without
      challenge under UTCR 2.010(4), (7), (10)(a)(v), or (10)(c).
 
-
 1993 Commentary to section (11)(c) (updated 08/01/2023):
 
 Self-represented Parties: Subsection (c) of section (11) requires that the author include
@@ -1335,7 +1261,6 @@ recommends that all original pleadings, motions, requested instructions, copies,
 service copies be on recycled paper having the highest available content of
 postconsumer waste.
 
-
 2.020       CERTIFICATE OF SERVICE
 
 (1)   A certificate of service must include:
@@ -1358,7 +1283,6 @@ postconsumer waste.
       deputy sheriff, the certificate of service must include the name, telephone number
       and address of the person who served the summons or process.
 
-
 2.030       MATTERS UNDER ADVISEMENT MORE THAN 60 DAYS
 
 (1)   If any judge shall have any matter under advisement for a period of more than 60
@@ -1369,7 +1293,6 @@ postconsumer waste.
       to call the matter to the judge’s attention forthwith, in writing, with copies to the
       presiding judge, if any, and the Chief Justice.
 
-
 UTCR 8/1/2025                                  2.6
 
 2.050      ATTORNEY FEES ON WRITTEN INSTRUMENTS
@@ -1379,7 +1302,6 @@ instrument must be submitted to the court with the requested judgment, unless a 
 copy is attached to or set out in the pleadings. This rule also applies to reciprocal fees
 claimed under ORS 20.096. If an original or copy is not available, the court may require
 proof by affidavit or testimony.
-
 
 2.060      ENTERING JUDGMENT ON FACE OF NEGOTIABLE INSTRUMENT
 
@@ -1392,7 +1314,6 @@ proof by affidavit or testimony.
 (2)   The trial court administrator shall return the original instrument only after filing a
       certified copy of the instrument.
 
-
 1987 Commentary:
 
 The rule is silent on the time when the judgment notation is to be entered on the face of
@@ -1400,14 +1321,12 @@ the instrument. The rule permits the holding of documents submitted at the time 
 judgment is entered while delaying endorsement until after the court receives
 confirmation of the sheriff’s sale.
 
-
 2.070      NOTICE IN PLEADINGS
 
 The title of a pleading, including a claim, counterclaim, cross claim, or third-party claim,
 must comply with UTCR 13.060 regarding arbitration; UTCR 5.090(1) regarding water
 rights cases; and UTCR 5.090(2) regarding claims subject to ORS 31.250 and 31.272 –
 actions against a health care practitioner or a health care facility.
-
 
 2.080      COMMUNICATION WITH COURT
 
@@ -1418,9 +1337,6 @@ actions against a health care practitioner or a health care facility.
 
 (2)   All written communication to the court shall refer to the title of the cause and the
       case number.
-
-
-
 
 UTCR 8/1/2025                                 2.7
 
@@ -1438,7 +1354,6 @@ UTCR 8/1/2025                                 2.7
 
 (3)   Unless otherwise ordered by the court, a party filing a document applicable to only
       one case must file only in that case.
-
 
 2.100       PROTECTED PERSONAL INFORMATION, NOT CONTACT
             INFORMATION, REQUIREMENTS AND PROCEDURES TO SEGREGATE
@@ -1472,7 +1387,6 @@ UTCR 8/1/2025                                 2.7
 
             (i)   Social Security numbers, credit card numbers, bank or other financial
                   account numbers, bank or other financial account locations, driver
-
 
 UTCR 8/1/2025                                2.8
 
@@ -1523,8 +1437,6 @@ UTCR 8/1/2025                                2.8
             (i)    Require use of forms or procedures under this rule as the exclusive way
                    to identify specific protected personal information so a court can
                    segregate the information and protect it from public inspection; and
-
-
 
 UTCR 8/1/2025                                  2.9
 
@@ -1577,7 +1489,6 @@ UTCR 8/1/2025                                  2.9
 (5)   More Than Once in a Case. If a court segregates specific protected personal
       information from a specific document under this rule:
 
-
 UTCR 8/1/2025                                2.10
 
       (a)   The court is under no obligation to look for or segregate the same protected
@@ -1627,8 +1538,6 @@ UTCR 8/1/2025                                2.10
             segregated information sheet you submitted will be maintained separately
             from information available for public inspection.             (initial of
             appropriate court employee)
-
-
 
 UTCR 8/1/2025                                2.11
 
@@ -1681,7 +1590,6 @@ UTCR 8/1/2025                                2.11
             and maintain a copy of all the request forms, with its response, in the case file
             as a public record.
 
-
 UTCR 8/1/2025                                2.12
 
       (b)   Any person inspecting information segregated and kept from public inspection
@@ -1714,7 +1622,6 @@ UTCR 8/1/2025                                2.12
             (iii) Attach the request and the redacted copy of the form to the document
                   from which the information was segregated and place the request and
                   redacted copy of the form in the case file.
-
 
 2.110       PROTECTED PERSONAL INFORMATION, NOT CONTACT
             INFORMATION, PROCEDURES TO SEGREGATE WHEN INFORMATION
@@ -1784,8 +1691,6 @@ UTCR 8/1/2025                                 2.13
             (iv) Be accompanied by a copy of that page sought to be redacted showing
                  specifically the protected personal information to be redacted.
 
-
-
 UTCR 8/1/2025                                 2.14
 
       (b)   Complete an information sheet in substantially the form provided at
@@ -1836,8 +1741,6 @@ UTCR 8/1/2025                                 2.14
             postcard must also include the following text to be filled in as indicated for the
             court to mail:
 
-
-
 UTCR 8/1/2025                                2.15
 
            “Dear                               (person requesting print your name here),
@@ -1873,15 +1776,11 @@ UTCR 8/1/2025                                2.15
       The following subsections of UTCR 2.130 are applicable to this rule: (1), (6), (9),
       and (10).
 
-
 2.120      AFFIDAVITS
 
 Unless otherwise mandated by statute or UTCR, a declaration under penalty of perjury,
 in substantially the same form as specified in ORCP 1E, may be used in lieu of an
 affidavit required or allowed by these rules.
-
-
-
 
 UTCR 8/1/2025                              2.16
 
@@ -1934,7 +1833,6 @@ UTCR 8/1/2025                              2.16
       (d)   A party must file a separate CIF for each person about whom the party is
             required to provide confidential personal information.
 
-
 UTCR 8/1/2025                                  2.17
 
       (e)   The confidential personal information of a minor child must be included in the
@@ -1983,9 +1881,6 @@ UTCR 8/1/2025                                  2.17
             support enforcement services under ORS 25.080 or 42 USC 666. A person
             receiving information under this section must maintain its confidentiality as
             required by ORS 25.260(2) and 192.355(10).
-
-
-
 
 UTCR 8/1/2025                                2.18
 
@@ -2086,9 +1981,6 @@ UTCR 8/1/2025                                 2.19
                 ORS 25.020(8)(d), 109.767(5), 110.575, 192.368, or any other rule or
                 law.
 
-
-
-
 UTCR 8/1/2025                                2.20
 
 2.140       APPLICATION FOR WAIVER OR DEFERRAL OF FEES OR COURT
@@ -2114,9 +2006,6 @@ UTCR 8/1/2025                                2.20
       (d)   Oregon Judicial Department personnel may have access to an application
             described in subsection (1) when required for court business.
 
-
-
-
 UTCR 8/1/2025                               2.21
 
 CHAPTER 3—Decorum in Proceedings
@@ -2136,14 +2025,12 @@ CHAPTER 3—Decorum in Proceedings
       other court participants, whether real or virtual, does not detract from the dignity of
       court.
 
-
 3.020      PROPER APPAREL FOR IN-CUSTODY WITNESSES AND DEFENDANTS
            APPEARING IN CRIMINAL PROCEEDINGS
 
 In-custody witnesses and defendants appearing for trial, whether in person or by remote
 means, must be dressed in neat, clean civilian clothing, unless otherwise ordered by the
 court.
-
 
 3.030      MANNER OF ADDRESS
 
@@ -2152,7 +2039,6 @@ or opposing parties by their first names, and, except in voir dire, must not add
 individually. Jurors may not be addressed by name but may be addressed by number
 or by another means ordered by the court.
 
-
 3.040      ADVICE TO CLIENTS AND WITNESSES OF COURTROOM FORMALITIES
 
 Attorneys must advise their clients and witnesses of the formalities of the court, whether
@@ -2160,13 +2046,9 @@ attending in person or by remote means, and must encourage their cooperation. Se
 represented parties must similarly advise their witnesses and encourage their
 cooperation.
 
-
 3.050      PROPER POSITION OF PARTIES BEFORE COURT
 
 Parties must:
-
-
-
 
 UTCR 8/1/2025                                      3.1
 (including out-of-cycle amendment of UTCR 3.170)
@@ -2178,7 +2060,6 @@ UTCR 8/1/2025                                      3.1
 
 (3)   Be allowed to move freely about the courtroom during trial unless otherwise
       instructed by the court.
-
 
 1991 Commentary:
 
@@ -2199,12 +2080,10 @@ size, number, and nature of exhibits; etc. The committee therefore encourages
 communication between the litigants and the trial judge at the commencement of trial
 covering these considerations and resolving any uncertainty.
 
-
 3.060      DEFENDANT IN CRIMINAL TRIAL
 
 During arraignment, plea and sentence, the defendant must stand unless otherwise
 permitted by the court.
-
 
 3.070      PERSONS PERMITTED WITHIN BAR OF COURT
 
@@ -2213,12 +2092,10 @@ presentation of any matter to the court, no persons, including members of litiga
 families, shall be permitted within the bar of the courtroom, other than clients, attorneys,
 court personnel and witnesses when called to the stand.
 
-
 3.080      PROCEDURE FOR SWEARING WITNESSES
 
 The swearing of witnesses shall be conducted as a serious ceremony and not as a
 mere formality.
-
 
 UTCR 8/1/2025                                      3.2
 (including out-of-cycle amendment of UTCR 3.170)
@@ -2228,19 +2105,16 @@ UTCR 8/1/2025                                      3.2
 Judges shall refrain from showing undue recognition of or familiarity with any person in
 the courtroom.
 
-
 3.100       PROPER USE OF COURT CHAMBERS
 
 Except when court business is being conducted, parties must not congregate in the
 court’s chambers or use the facilities or the court’s entryway between the chambers and
 the bench without the permission of the court.
 
-
 3.110       CONFERENCES IN CHAMBERS
 
 Conferences may be conducted in chambers and shall be conducted without litigants
 present unless required by the court, requested by a party, or otherwise required.
-
 
 3.120       COMMUNICATION WITH JURORS
 
@@ -2258,17 +2132,13 @@ present unless required by the court, requested by a party, or otherwise require
             of fraud or misconduct sufficient to justify setting aside or modifying the
             verdict or judgment.
 
-
 3.130       DISCLOSURE OF RELATED MATTERS WHEN SEEKING COURT ORDER
 
 When a party seeks to obtain an order from a judge, the party must inform that judge of
 any ruling, hearing or application for a ruling or hearing before any other judge that
 concerns the subject of the order requested.
 
-
 3.140       RESIGNATION OF ATTORNEYS
-
-
 
 UTCR 8/1/2025                                      3.3
 (including out-of-cycle amendment of UTCR 3.170)
@@ -2291,7 +2161,6 @@ UTCR 8/1/2025                                      3.3
       in open court. That attorney shall be deemed to be the attorney-of-record unless
       that attorney otherwise notifies the court.
 
-
 1987 Commentary:
 
 In subsection (3), a change of attorneys in a pending case requires notification to the
@@ -2305,22 +2174,17 @@ UTCR 3.140 is intended neither to establish new standards of professional respon
 nor to provide a method of discharging existing standards of professional responsibility.
 See Oregon Rule of Professional Conduct (ORPC) 1.16.
 
-
 3.150      NO REACTION TO JURY VERDICT
 
 After the jury returns a verdict, all persons present in the courtroom must remain seated
 until the jury has left the room and must refrain from visibly or audibly reacting to the
 verdict in a manner which disrupts the dignity of the courtroom.
 
-
 3.160      EXPLANATION OF PROCEEDINGS TO JURORS
 
 In jury cases, after sustaining a dismissal of the case before verdict, the judge, in
 dismissing the jury, should, without discussion of the facts, briefly explain the procedure
 and why a verdict was unnecessary.
-
-
-
 
 UTCR 8/1/2025                                      3.4
 (including out-of-cycle amendment of UTCR 3.170)
@@ -2423,8 +2287,6 @@ UTCR 8/1/2025                                      3.5
       convenient to limit unnecessary submission of duplicate information by an attorney
       who has already had application granted to appear in one proceeding and is
 
-
-
 UTCR 8/1/2025                                      3.6
 (including out-of-cycle amendment of UTCR 3.170)
 
@@ -2469,12 +2331,8 @@ UTCR 8/1/2025                                      3.6
       (c)   An Indian tribe as defined in 25 USC §1903 or ORS 419B.603(7) has affirmed
             the child’s eligibility for membership or citizenship in the tribe.
 
-
 NOTE: UTCR 3.170 is adopted by the Oregon Supreme Court under ORS 9.241 and
 may be modified only by order of that court.
-
-
-
 
 UTCR 8/1/2025                                      3.7
 (including out-of-cycle amendment of UTCR 3.170)
@@ -2525,8 +2383,6 @@ UTCR 8/1/2025                                      3.7
       (b)   The granting of permission to any person or entity to engage in electronic
             recording or writing is subject to the court’s discretion, which may include
             considerations of the need to preserve the solemnity, decorum, or dignity of
-
-
 
 UTCR 8/1/2025                                      3.8
 (including out-of-cycle amendment of UTCR 3.170)
@@ -2627,9 +2483,6 @@ UTCR 8/1/2025                                      3.9
       by the court and may be sealed if necessary for the further administration of
       justice.
 
-
-
-
 UTCR 8/1/2025                                  3.10
 (including out-of-cycle amendment of UTCR 3.170)
 
@@ -2657,14 +2510,10 @@ UTCR 8/1/2025                                  3.10
 
       (c)   SLR 3.181 is reserved for any SLR adopted under this subsection.
 
-
 3.190       CIVIL ARRESTS (Repealed)
 
 REPORTER’S NOTE: UTCR 3.190 was repealed to avoid conflict or duplication with
 ORS 181A.828.
-
-
-
 
 UTCR 8/1/2025                                  3.11
 (including out-of-cycle amendment of UTCR 3.170)
@@ -2673,7 +2522,6 @@ CHAPTER 4—Proceedings in Criminal Cases
 
 NOTE: Rules specifically relating to contempt proceedings are located in UTCR
 chapter 19.
-
 
 4.010       TIME FOR FILING PRETRIAL MOTIONS IN CRIMINAL CASES
 
@@ -2688,7 +2536,6 @@ chapter 19.
 
 (3)   If a party requests a pretrial hearing under subsection (2), absent good cause, the
       hearing must be held at least seven days prior to the trial date.
-
 
 4.030       PROCEDURE FOR ORDER OF TRANSPORTATION
 
@@ -2705,16 +2552,12 @@ chapter 19.
       to the place of confinement only after execution of an order of release signed by
       the judge presiding over the court proceeding.
 
-
 4.040       REMOTE APPEARANCE IN LIEU OF TRANSPORTATION
 
 Upon agreement of the parties, when, as a result of negotiations, an in-custody
 defendant intends to resolve cases in more than one jurisdiction, any appearance
 required in a court, other than the court of jurisdiction in the county in which the
 defendant is in custody, shall be by remote means unless good cause is shown.
-
-
-
 
 UTCR 8/1/2025                                     4.1
 (including out-of-cycle adoption of UTCR 4.130)
@@ -2758,15 +2601,12 @@ UTCR 8/1/2025                                     4.1
       suspending the requirement that a party affirmatively request a hearing by remote
       means.
 
-
 4.060       MOTION TO SUPPRESS EVIDENCE
 
 (1)   All motions to suppress evidence:
 
       (a)   Must cite any constitutional provision, statute, rule, case, or other authority
             upon which it is based; and
-
-
 
 UTCR 8/1/2025                                     4.2
 (including out-of-cycle adoption of UTCR 4.130)
@@ -2795,12 +2635,10 @@ UTCR 8/1/2025                                     4.2
 
 (4)   Failure to file a written response shall not preclude a hearing on the merits.
 
-
 1991 Commentary:
 
 The Committee proposes these amendments to clarify its intent in originally adopting
 this rule that a written response not be required.
-
 
 4.070       DISMISSAL OF CHARGES FOLLOWING SUCCESSFUL COMPLETION OF
             DIVERSION
@@ -2809,7 +2647,6 @@ For any charge dismissed based upon successful completion of diversion for drivi
 under the influence of intoxicants or other diversion program, the dismissing instrument
 must state the basis for the dismissal.
 
-
 4.080       APPEARANCE AT CRIMINAL PROCEEDINGS BY MEANS OF
             SIMULTANEOUS ELECTRONIC TRANSMISSION
 
@@ -2817,8 +2654,6 @@ must state the basis for the dismissal.
       location by the following types of simultaneous electronic transmission, as defined
       in ORS 131.045, if the transmission complies with the requirements of
       ORS 131.045, 135.030, 135.360, 135.767, 137.040, and 137.545:
-
-
 
 UTCR 8/1/2025                                     4.3
 (including out-of-cycle adoption of UTCR 4.130)
@@ -2832,7 +2667,6 @@ UTCR 8/1/2025                                     4.3
 (2)   SLR 4.081 is reserved for judicial districts to adopt a local rule regarding
       appearance at criminal proceedings by means of simultaneous electronic
       transmission.
-
 
 4.090       ELECTRONIC CITATIONS
 
@@ -2869,8 +2703,6 @@ UTCR 8/1/2025                                     4.3
 
 (5)   A filing agency must satisfy all of the following requirements when filing an
       electronic citation in circuit court:
-
-
 
 UTCR 8/1/2025                                     4.4
 (including out-of-cycle adoption of UTCR 4.130)
@@ -2922,8 +2754,6 @@ UTCR 8/1/2025                                     4.4
       additional information, judicial orders, judgments, and judicial signatures have
       been added, are the original and legal court record.
 
-
-
 UTCR 8/1/2025                                     4.5
 (including out-of-cycle adoption of UTCR 4.130)
 
@@ -2937,7 +2767,6 @@ UTCR 8/1/2025                                     4.5
       Constitution, a victim may file a claim in substantially the form provided at
       www.courts.oregon.gov/forms. The claim must be filed with the court clerk’s office
       in the court in which the criminal case is pending.
-
 
 4.110       DEFENDANT MOTION FOR REIMBURSEMENT
 
@@ -2973,8 +2802,6 @@ UTCR 8/1/2025                                     4.5
 (4)   This rule does not apply to fees imposed by the court on a defendant independent
       of conviction or acquittal, including indigent defense application fees, contribution
       fees, and attorney’s fees.
-
-
 
 UTCR 8/1/2025                                     4.6
 (including out-of-cycle adoption of UTCR 4.130)
@@ -3015,16 +2842,12 @@ UTCR 8/1/2025                                     4.6
       person’s unpaid fines, fees, or costs, the court shall enter an appropriate
       supplemental judgment.
 
-
 4.130       CAPTION REQUIREMENT FOR REFILED CHARGING INSTRUMENTS
 
 In addition to any other requirements imposed by statute or rule, if a prosecuting
 attorney files a charging instrument that initiates a criminal action and is based on
 charges previously dismissed without prejudice by the court, the caption of the charging
 instrument must include the phrase: “Refiling after prior dismissal without prejudice.”
-
-
-
 
 UTCR 8/1/2025                                     4.7
 (including out-of-cycle adoption of UTCR 4.130)
@@ -3033,7 +2856,6 @@ CHAPTER 5—Proceedings in Civil Cases
 
 NOTE: Rules specifically relating to contempt proceedings are located in UTCR
 chapter 19.
-
 
 5.010      CONFERRING ON MOTIONS UNDER ORCP 21, 23, 36–46, AND 55
 
@@ -3056,7 +2878,6 @@ chapter 19.
 
 (5)   Upon certification that a motion is unopposed, it may be submitted ex parte.
 
-
 5.020      AUTHORITIES IN MOTIONS AND OTHER REQUIREMENTS
 
 (1)   Every motion document must include a memorandum of law or a statement of
@@ -3068,14 +2889,10 @@ chapter 19.
       against with the parts of the pleading to be stricken shown in parentheses and the
       parts to be made more definite and certain underlined.
 
-
 5.030      OPPOSING PARTY’S RESPONSE; TIME FOR FILING RESPONSE AND
            REPLY
 
 In matters other than motions for summary judgment:
-
-
-
 
 UTCR 8/1/2025                                      5.1
 (including out-of-cycle amendment of UTCR 5.140)
@@ -3087,12 +2904,10 @@ UTCR 8/1/2025                                      5.1
 (2)   A reply memorandum, if any, must be filed within seven days of the service or filing
       of the responding memorandum, whichever is later.
 
-
 5.040       MOTIONS TO BE DETERMINED BY THE PRESIDING JUDGE OR
             DESIGNEE
 
 The presiding judge or designee shall hear and determine all motions.
-
 
 5.050       ORAL ARGUMENT ON MOTIONS IN CIVIL CASES; APPEARANCE AT
             NONEVIDENTIARY HEARINGS AND MOTIONS BY REMOTE MEANS
@@ -3127,14 +2942,11 @@ The presiding judge or designee shall hear and determine all motions.
 (4)   Subsection (2) does not apply if an applicable Chief Justice Order (CJO) or
       Presiding Judge Order (PJO) issued pursuant to such a CJO has the effect of
 
-
-
 UTCR 8/1/2025                                      5.2
 (including out-of-cycle amendment of UTCR 5.140)
 
       suspending the requirement that a party affirmatively request a hearing by remote
       means.
-
 
 5.060       STIPULATED AND EX PARTE MATTERS
 
@@ -3159,7 +2971,6 @@ UTCR 8/1/2025                                      5.2
       stipulated and ex parte matters may be personally presented anytime during court
       hours.
 
-
 5.070       MOTION FOR LEAVE TO AMEND PLEADING
 
 (1)   Except as provided in section (2) of this rule, whenever a motion for leave to
@@ -3180,7 +2991,6 @@ UTCR 8/1/2025                                      5.2
       with this rule by making a copy of the filed pleading and formatting the text of the
       pleading in the following manner:
 
-
 UTCR 8/1/2025                                      5.3
 (including out-of-cycle amendment of UTCR 5.140)
 
@@ -3189,12 +2999,10 @@ UTCR 8/1/2025                                      5.3
 
       (b)   Any material to be deleted from the pleading must have brackets at each end.
 
-
 5.080       DECLARATION FOR ATTORNEY FEES, COSTS, AND DISBURSEMENTS
 
 In civil cases, the declaration for attorney fees, costs, and disbursements must be filed
 in substantially the form provided at www.courts.oregon.gov/forms.
-
 
 5.090       NOTICE TO COURT IN WATER RIGHTS CASES; NOTICE TO COURT IN
             CASES SUBJECT TO ORS 31.250 AND 31.272, REGARDING
@@ -3226,12 +3034,10 @@ in substantially the form provided at www.courts.oregon.gov/forms.
       and 31.272 if the language is present and does not contain any such claim if the
       language is omitted.
 
-
 5.100       SUBMISSION OF PROPOSED ORDERS OR JUDGMENTS
 
 (1)   Except as provided in subsection (3) of this rule, any proposed judgment or
       proposed order submitted to the court for signature must be:
-
 
 UTCR 8/1/2025                                      5.4
 (including out-of-cycle amendment of UTCR 5.140)
@@ -3282,9 +3088,6 @@ UTCR 8/1/2025                                      5.4
 
 (3)   The requirements of subsection (1) of this rule do not apply to:
 
-
-
-
 UTCR 8/1/2025                                      5.5
 (including out-of-cycle amendment of UTCR 5.140)
 
@@ -3319,7 +3122,6 @@ UTCR 8/1/2025                                      5.5
 (6)   The certificate required under subsection (2) may be combined with any certificate
       of service required by another statute or rule.
 
-
 REPORTER’S NOTE (08/01/2021): This rule does not apply in the following types of
 cases: criminal; proposed orders setting aside a record of arrest under ORS 137.225;
 contempt cases seeking punitive sanctions; juvenile under ORS chapter 419A, 419B, or
@@ -3329,7 +3131,6 @@ SLR chapters other than chapter 5.
 
 Pursuant to UTCR 1.130, computation of UTCR time requirements is subject to
 ORCP 10.
-
 
 5.110       CLASS ACTIONS
 
@@ -3349,7 +3150,6 @@ UTCR 8/1/2025                                      5.6
 (2)   The prevailing party shall promptly file with the court a copy of each notice and the
       proof of service.
 
-
 5.130       INTERSTATE DEPOSITION INSTRUMENTS—OBTAINING AN OREGON
             COMMISSION
 
@@ -3363,7 +3163,6 @@ UTCR 8/1/2025                                      5.6
 
 (3)   The commission may also serve to authorize the issuance of Subpoenas Duces
       Tecum in a foreign jurisdiction.
-
 
 5.140       OREGON DISCOVERY IN FOREIGN PROCEEDINGS
 
@@ -3384,9 +3183,6 @@ UTCR 8/1/2025                                      5.6
       (c)   A petition and request for issuance of a subpoena pursuant to ORCP 38 C,
             substantially in the form provided at www.courts.oregon.gov/forms, stating
             that
-
-
-
 
 UTCR 8/1/2025                                      5.7
 (including out-of-cycle amendment of UTCR 5.140)
@@ -3439,7 +3235,6 @@ UTCR 8/1/2025                                      5.7
       (h)   The identity of witnesses in this state to be compelled upon notice or
             agreement to appear and testify.
 
-
 UTCR 8/1/2025                                      5.8
 (including out-of-cycle amendment of UTCR 5.140)
 
@@ -3458,7 +3253,6 @@ UTCR 8/1/2025                                      5.8
             exist under the laws of this state, brought or sought to be enforced by a party
             with a contractual relationship with the person that is the subject of the
             subpoena.
-
 
 5.150       STREAMLINED CIVIL JURY CASES
 
@@ -3488,9 +3282,6 @@ UTCR 8/1/2025                                      5.8
 
 (3)   (a)   Within 30 days of the date of the Order Designating a Streamlined Civil Jury
             Case, each party must provide to all other parties:
-
-
-
 
 UTCR 8/1/2025                                      5.9
 (including out-of-cycle amendment of UTCR 5.140)
@@ -3526,7 +3317,6 @@ UTCR 8/1/2025                                      5.9
 (6)   A party’s failure to request or respond to discovery is not a basis for that party to
       seek postponement of the streamlined case trial date.
 
-
 5.160       SEALED DOCUMENTS
 
 (1)   A party seeking an order to file documents or materials under seal must file a
@@ -3540,9 +3330,6 @@ UTCR 8/1/2025                                      5.9
 
 (2)   At the direction of the judge hearing the motion, the moving party must submit the
       documents to the court for in camera review.
-
-
-
 
 UTCR 8/1/2025                                  5.10
 (including out-of-cycle amendment of UTCR 5.140)
@@ -3562,7 +3349,6 @@ UTCR 8/1/2025                                  5.10
       a notation that identifies the case caption and the party making the submission. In
       addition, all documents ordered to be filed under seal must have the words “FILED
       UNDER SEAL BY COURT ORDER” located directly below the document title.
-
 
 5.170       LIMITED SCOPE REPRESENTATION
 
@@ -3587,14 +3373,12 @@ UTCR 8/1/2025                                  5.10
       service requirement terminates as to the attorney when a Notice of Termination of
       Limited Scope Representation is filed and served, or when an attorney withdraws.
 
-
 5.180       CONSUMER DEBT COLLECTION
 
 (1)   Definitions. As used in this rule, unless otherwise indicated:
 
       (a)   “Consumer” means a natural person who purchases or acquires property,
             services, or credit for personal, family, or household purposes.
-
 
 UTCR 8/1/2025                                  5.11
 (including out-of-cycle amendment of UTCR 5.140)
@@ -3645,9 +3429,6 @@ UTCR 8/1/2025                                  5.11
             plaintiff is not a debt buyer or a collector acting on behalf of a debt buyer, as
             described in subsection (2)(a).
 
-
-
-
 UTCR 8/1/2025                                  5.12
 (including out-of-cycle amendment of UTCR 5.140)
 
@@ -3660,9 +3441,6 @@ UTCR 8/1/2025                                  5.12
            (ii)   The body must include a statement to the following effect: “See the
                   Oregon Judicial Department website for information about debt collection
                   cases (courts.oregon.gov).”
-
-
-
 
 UTCR 8/1/2025                                  5.13
 (including out-of-cycle amendment of UTCR 5.140)
@@ -3695,12 +3473,10 @@ CHAPTER 6—Trials
 (2)   All conferences may be by personal appearance except that any party may
       request, or the court may arrange for, a conference by remote means.
 
-
 1991 Commentary:
 
 Settlement conferences are required as provided by each court by its SLR 6.012 and
 under UTCR 6.200.
-
 
 6.020       COURT NOTIFICATION ON SETTLEMENT OR CHANGE OF PLEA
 
@@ -3713,9 +3489,6 @@ under UTCR 6.200.
       parties that the case will be dismissed unless an appropriate judgment is tendered
       to the court within 28 days, or both.
 
-
-
-
 UTCR 8/1/2025                                   6.1
 (including out-of-cycle amendments to UTCR 6.050, 6.080, and 6.120)
 
@@ -3723,7 +3496,6 @@ UTCR 8/1/2025                                   6.1
       (noon) of the last judicial day preceding a jury trial, or if the case settles after
       12:00 p.m. (noon) of such day, the court may assess on one or both parties the per
       diem fees and mileage costs of bringing in the jury panel for that particular trial.
-
 
 6.030       POSTPONEMENT OF TRIAL
 
@@ -3781,14 +3553,12 @@ UTCR 8/1/2025                                   6.2
 (6)   Motions to postpone are not subject to UTCR chapter 5, except UTCR 5.040 and
       5.060.
 
-
 1993 Commentary:
 
 The court has discretion to allow or deny any motion for postponement under ORCP 52
 and this rule, but the committee recommends that the court generally allow a motion
 under subsection (4) of this rule if the new trial date requested can be reasonably
 accommodated on the court’s docket.
-
 
 6.040       RESOLVING SCHEDULING CONFLICTS
 
@@ -3817,8 +3587,6 @@ accommodated on the court’s docket.
       consultation with each other, the conflict must be referred by them to the Chief
       Justice for summary resolution.
 
-
-
 UTCR 8/1/2025                                   6.3
 (including out-of-cycle amendments to UTCR 6.050, 6.080, and 6.120)
 
@@ -3831,7 +3599,6 @@ UTCR 8/1/2025                                   6.3
 
 (3)   Trial exhibits must be delivered or submitted as ordered by the assigned judge and
       not filed with the court except as required by UTCR 11.110 or UTCR 24.040(3)(a).
-
 
 6.060       PROPOSED JURY INSTRUCTIONS AND VERDICT FORMS
 
@@ -3868,9 +3635,6 @@ UTCR 8/1/2025                                   6.3
       (e)   The designation of the party requesting the instruction must be typed on each
             page.
 
-
-
-
 UTCR 8/1/2025                                   6.4
 (including out-of-cycle amendments to UTCR 6.050, 6.080, and 6.120)
 
@@ -3884,12 +3648,10 @@ UTCR 8/1/2025                                   6.4
       without the name of the attorney or the name of the firm and must be submitted at
       commencement of trial and as otherwise allowed by the court.
 
-
 6.070       JURY INSTRUCTIONS
 
 No identifying information relating to the parties or any other extraneous material,
 including authorities, shall appear on submitted jury instructions.
-
 
 6.080       MARKING EXHIBITS
 
@@ -3922,7 +3684,6 @@ including authorities, shall appear on submitted jury instructions.
       exhibit that contains biological evidence must provide the court in writing with the
       name, agency, mailing address, and telephone number for the custodian
 
-
 UTCR 8/1/2025                                   6.5
 (including out-of-cycle amendments to UTCR 6.050, 6.080, and 6.120)
 
@@ -3939,30 +3700,25 @@ UTCR 8/1/2025                                   6.5
 
       (c)   “Custodian” has the meaning given in ORS 133.705.
 
-
 1988 Commentary:
 
 Subsection (4) cannot and does not change discovery rules as established for criminal
 cases by statute.
-
 
 6.090       PEREMPTORY CHALLENGES IN CIVIL CASES
 
 In civil trials, peremptory challenges must be taken in writing by secret ballot unless the
 parties stipulate to taking the challenges orally and the court agrees.
 
-
 6.100       EXAMINATION OF WITNESSES
 
 Except for good cause shown, no more than one attorney for each party shall examine
 a witness or present argument on an issue.
 
-
 6.110       SPECIAL AND GENERAL FINDINGS IN SEPARATE DOCUMENT
 
 Special or general findings or conclusions must be included in a document separate
 from the judgment.
-
 
 6.120       DISPOSITION OF EXHIBITS
 
@@ -3973,7 +3729,6 @@ from the judgment.
       any exhibits have been returned must retain custody and control until final
       disposition of the case unless the exhibits are returned to the trial court pursuant to
       subsections (2) or (3) of this rule. Both documentary and nondocumentary exhibits
-
 
 UTCR 8/1/2025                                   6.6
 (including out-of-cycle amendments to UTCR 6.050, 6.080, and 6.120)
@@ -4015,7 +3770,6 @@ UTCR 8/1/2025                                   6.6
 
 (8)   Exhibits submitted in juvenile cases are subject to the requirements in
       UTCR 11.120 and are exempted from the requirements of this rule.
-
 
 6.130       WAIVER OF JURY TRIAL IN CIVIL CASES
 
@@ -4071,12 +3825,10 @@ UTCR 8/1/2025                                   6.7
 (4)   Failure to file a timely motion under subsection (1) of this rule may be grounds for
       excluding any hazardous substance from the courthouse.
 
-
 1989 Commentary:
 
 To prevent hardship or injustice, relief from application of this rule in an individual case
 may be sought under UTCR 1.100.
-
 
 UTCR 8/1/2025                                   6.8
 (including out-of-cycle amendments to UTCR 6.050, 6.080, and 6.120)
@@ -4106,14 +3858,12 @@ evidentiary hearing or trial, before bringing the items into the courtroom, the 
             safe handling and viewing of chemicals, pharmaceuticals, and biological
             substances.
 
-
 1990 Commentary:
 
 The court should be mindful that the court may grant exception to the above for good
 cause shown under UTCR 1.100 and that the Committee intended that there be
 exceptions granted if any part of the rule would affect the mechanical operation when
 mechanical operation was an evidentiary issue.
-
 
 6.160       CONTROLLED SUBSTANCES IN THE COURTROOM
 
@@ -4129,13 +3879,11 @@ mechanical operation was an evidentiary issue.
       transmittal of the controlled substances to the appellate courts, the controlled
       substances shall be in the court’s evidence locker in the custody and possession of
 
-
 UTCR 8/1/2025                                   6.9
 (including out-of-cycle amendments to UTCR 6.050, 6.080, and 6.120)
 
       a member of the court staff or in the custody of such appropriate law enforcement
       agency as the court orders.
-
 
 6.170      JUROR HANDLING OF CONTROLLED, HAZARDOUS, OR INFECTIOUS
            SUBSTANCES, AND CHEMICALS
@@ -4144,13 +3892,11 @@ Jurors must be advised if any controlled, hazardous, or infectious substances, o
 chemicals to be handled in the jury room present a danger and must be provided
 instructions on safe handling, including providing protective devices, if necessary.
 
-
 6.180      WEAPONS AND HAZARDOUS SUBSTANCES IN THE COURT FACILITIES
 
 Unless otherwise ordered by the court, no person except a law enforcement officer shall
 possess in a court facility a firearm, knife, device, or hazardous substance capable of
 inflicting death or physical injury.
-
 
 6.190      EVIDENCE SUBMITTED IN AN ELECTRONIC FORMAT
 
@@ -4171,7 +3917,6 @@ inflicting death or physical injury.
       the party’s evidence and in making its evidence compatible with the court’s
       electronic equipment or in using the party’s own equipment.
 
-
 6.200      PRETRIAL SETTLEMENT CONFERENCES
 
 (1)   Each judicial district may adopt an SLR 6.012, or an SLR in chapter 12 if that
@@ -4180,7 +3925,6 @@ inflicting death or physical injury.
       including dissolution of marriage and post-judgment modification proceedings. The
       SLR shall be designed to most effectively meet the needs of the judges, attorneys,
       and litigants in each district and to promote early pretrial settlements.
-
 
 UTCR 8/1/2025                                  6.10
 (including out-of-cycle amendments to UTCR 6.050, 6.080, and 6.120)
@@ -4225,9 +3969,6 @@ UTCR 8/1/2025                                  6.10
 
 (4)   SLR 6.012 is reserved for SLR adopted under this UTCR section.
 
-
-
-
 UTCR 8/1/2025                                  6.11
 (including out-of-cycle amendments to UTCR 6.050, 6.080, and 6.120)
 
@@ -4263,7 +4004,6 @@ CHAPTER 7—Case Management and Calendaring
 (4)   Relief from the dates set pursuant to subsection (2) of this rule shall be granted for
       good cause shown.
 
-
 1988 Commentary:
 
 Relief from application of the deadlines set by this rule is subject to UTCR 1.100, as are
@@ -4278,16 +4018,12 @@ Relief from time set in this section is subject to UTCR 1.100, as are all UTCR
 provisions. The purpose of this rule, among others, is to give certainty in trial dockets.
 Therefore, the last date for entry of a plea will change with changes in trial dates.
 
-
-
-
 UTCR 8/1/2025                                7.1
 
 Section 4.010 of UTCR should be read in conjunction with this section. In this regard,
 the parties may request that the court decide any legal issue, including motions to
 suppress, before plea negotiations are concluded. Nothing requires the court to allow
 that request.
-
 
 7.020       SETTING TRIAL DATE IN CIVIL CASES
 
@@ -4332,14 +4068,12 @@ that request.
       (a)   Agree among themselves and with the presiding judge or designee on a trial
             date within the time limit set forth above.
 
-
 UTCR 8/1/2025                                  7.2
 
       (b)   Have a conference with the presiding judge or designee and set a trial date.
 
 (7)   If the parties do neither (a) nor (b) of (6) above, the calendar clerk will set the case
       for trial on a date that is convenient to the court.
-
 
 1987 Commentary:
 
@@ -4351,7 +4085,6 @@ filing of the complaint.
 It is recognized that some cases may not be appropriate for trial setting “in the ordinary
 course” of the court’s business. Special settings of trial dates in complex or other
 appropriate cases is permissible and may be initiated by any party or the court.
-
 
 7.030       COMPLEX CASES
 
@@ -4373,14 +4106,10 @@ appropriate cases is permissible and may be initiated by any party or the court.
       of filing unless, for good cause shown, the trial date is extended by the assigned
       judge.
 
-
 7.040       NOTIFY COURT OF SETTLEMENTS AND OTHER MATTERS
 
 The parties shall report immediately to the court any resolution of any matter scheduled
 on the court’s docket.
-
-
-
 
 UTCR 8/1/2025                                 7.3
 
@@ -4425,14 +4154,11 @@ UTCR 8/1/2025                                 7.3
       rule is applicable to all cases that may be subject to a federal bankruptcy stay,
       including small claims cases.
 
-
 7.060       AMERICANS WITH DISABILITIES ACT (ADA) ACCOMMODATION
 
 (1)   If an accommodation under the ADA is needed for an individual in a court
       proceeding, the party needing accommodation for the individual must notify the
       court in the manner required by the court as soon as possible, but no later than
-
-
 
 UTCR 8/1/2025                                  7.4
 
@@ -4462,7 +4188,6 @@ UTCR 8/1/2025                                  7.4
 
       (i)   The type of accommodation, interpreter, or auxiliary aid needed or preferred.
 
-
 7.070       FOREIGN LANGUAGE INTERPRETERS
 
 (1)   If a foreign language interpreter is needed for a court proceeding, the party in need
@@ -4484,8 +4209,6 @@ UTCR 8/1/2025                                  7.4
 
       (f)   The time, date, and estimated length of the proceeding;
 
-
-
 UTCR 8/1/2025                                   7.5
 
       (g)   Whether the proceeding is scheduled to be conducted in person at the
@@ -4495,7 +4218,6 @@ UTCR 8/1/2025                                   7.5
 
       (h)   The language to be interpreted.
 
-
 7.080       INTERPRETERS’ REQUESTS FOR INFORMATION
 
 If requested by a neutral court interpreter, parties in civil and criminal cases shall
@@ -4503,7 +4225,6 @@ provide a list of specialized terminology expected to be used in the proceeding 
 the interpreter will be providing services. The list shall be provided prior to the
 commencement of the proceeding. The list shall be kept confidential by the interpreter
 and is not discoverable.
-
 
 7.090       EXPRESSION OF MILK
 
@@ -4530,13 +4251,10 @@ and is not discoverable.
 
       (g)   The type of accommodation needed or preferred.
 
-
 7.100       DISQUALIFICATION MOTIONS UNDER ORS 14.260(7)
 
 (1)   A motion to disqualify a judge and supporting affidavit must be submitted in the
       manner described in ORS 14.260(1) through (6).
-
-
 
 UTCR 8/1/2025                                   7.6
 
@@ -4583,9 +4301,6 @@ UTCR 8/1/2025                                   7.6
 (8)   Any response by the challenged judge to a motion for disqualification or
       supplemental affidavit must be filed within seven days after the due date for the
       supplemental affidavit.
-
-
-
 
 UTCR 8/1/2025                                7.7
 
@@ -4636,8 +4351,6 @@ CHAPTER 8—Domestic Relations Proceedings
 
       (a)   The name of the legal or physical custodian of the child(ren).
 
-
-
 UTCR 8/1/2025                                 8.1
 (including correction to UTCR 8.060)
 
@@ -4687,16 +4400,12 @@ UTCR 8/1/2025                                 8.1
 
       (g)   A proposed judgment.
 
-
-
-
 UTCR 8/1/2025                                8.2
 (including correction to UTCR 8.060)
 
 (8)   Parties to proceedings under ORS 107.085 or 107.485 must follow UTCR 2.130 to
       segregate all Social Security numbers from documents the parties submit in the
       proceedings so the numbers will be protected as required by ORS 107.840.
-
 
 8.020       SUPPORT ORDERS
 
@@ -4711,7 +4420,6 @@ UTCR 8/1/2025                                8.2
       Support, the obligor and obligee must inform the administrator, as defined in
       ORS 25.010(1), in writing of any change in private health insurance enrollment
       status within 10 days of the change.
-
 
 8.030       JOINT PETITIONS AND STIPULATED JUDGMENTS FOR DISSOLUTION
             OF MARRIAGE, SEPARATION, OR PROCEEDINGS UNDER ORS 109.103
@@ -4741,7 +4449,6 @@ UTCR 8/1/2025                                8.2
       appropriate completed stipulated general judgment and are not required to file a
       motion requesting entry of judgment.
 
-
 UTCR 8/1/2025                                 8.3
 (including correction to UTCR 8.060)
 
@@ -4768,7 +4475,6 @@ UTCR 8/1/2025                                 8.3
 
 (7)   This rule does not apply to supplemental or limited judgments.
 
-
 8.040       PREJUDGMENT RELIEF UNDER ORS 107.095(1)
 
 (1)   An order for relief authorized by ORS 107.095(1) may be granted on motion
@@ -4791,7 +4497,6 @@ UTCR 8/1/2025                                 8.3
 
       (b)   The opposing party must file a USD and serve it on the party seeking
             temporary support. Unless an SLR provides to the contrary, the opposing
-
 
 UTCR 8/1/2025                                 8.4
 (including correction to UTCR 8.060)
@@ -4823,7 +4528,6 @@ UTCR 8/1/2025                                 8.4
                    included a USD, that it was filed within the prior 30 days, and that the
                    information therein has not changed.
 
-
 8.050       JUDGMENT MODIFICATION PROCEEDINGS
 
 (1)   Modification proceedings must be initiated by an order to show cause based on a
@@ -4842,8 +4546,6 @@ UTCR 8/1/2025                                 8.4
 
       (b)   If an order to show cause issues, the opposing party must file a USD and
             serve it on the party seeking modification of support. Unless an SLR provides
-
-
 
 UTCR 8/1/2025                                   8.5
 (including correction to UTCR 8.060)
@@ -4885,7 +4587,6 @@ UTCR 8/1/2025                                   8.5
       to ORS 107.139 must file a motion for permanent modification of custody or have
       one pending at the time this application is made.
 
-
 8.060       FILING DCS WORKSHEETS REQUIRED IN CHILD SUPPORT CASES
 
 Parties must submit the completed Division of Child Support (DCS) child support
@@ -4894,8 +4595,6 @@ support/resources/forms as required by the following:
 
 (1)   If child support is requested by either party at the time of trial, the UTCR 8.010(3)
       statement of each party must include the worksheets. If child support is awarded,
-
-
 
 UTCR 8/1/2025                                 8.6
 (including correction to UTCR 8.060)
@@ -4914,7 +4613,6 @@ UTCR 8/1/2025                                 8.6
       incorporate the worksheets as an exhibit evidencing the basis for the court’s
       award.
 
-
 8.070      STANDARDIZED PARENTING PLANS
 
 (1)   SLR 8.075 is reserved for judicial districts to announce that they have adopted a
@@ -4922,7 +4620,6 @@ UTCR 8/1/2025                                 8.6
 
 (2)   The standardized parenting plan shall be placed in an appendix to the SLR or on
       the court’s website or both.
-
 
 8.080      STATUTORY RESTRAINING ORDER TO PREVENT DISSIPATION OF
            ASSETS IN CERTAIN DOMESTIC RELATIONS ACTIONS
@@ -4940,14 +4637,12 @@ UTCR 8/1/2025                                 8.6
 (3)   The request for hearing required by ORS 107.093(3) or 109.103(5)(b) shall be in
       substantially the same form as provided at www.courts.oregon.gov/forms.
 
-
 8.090      CERTIFICATE REGARDING PENDING CHILD SUPPORT PROCEEDINGS
            AND/OR EXISTING CHILD SUPPORT ORDERS AND/OR JUDGMENTS
 
 (1)   This rule applies to information about other pending child support orders,
       judgments, or proceedings, as required by ORS 107.085(3), 107.135(2)(b),
       107.431(2)(b), 108.110(4), 109.100(3), 109.103(3), 109.165(3), and 125.025(4)(b),
-
 
 UTCR 8/1/2025                                8.7
 (including correction to UTCR 8.060)
@@ -4969,7 +4664,6 @@ UTCR 8/1/2025                                8.7
 
 (4)   The information required by subsections (2) and (3) of this rule must be completed
       in substantially the form provided at www.courts.oregon.gov/forms.
-
 
 8.100       PROCEDURE FOR WAIVER OF MARRIAGE FEE UNDER ORS 106.120
 
@@ -4998,9 +4692,6 @@ UTCR 8/1/2025                                8.7
       order allowing the waiver and does not waive any other fees which may legally be
       charged related to the marriage or wedding.
 
-
-
-
 UTCR 8/1/2025                                8.8
 (including correction to UTCR 8.060)
 
@@ -5027,13 +4718,11 @@ UTCR 8/1/2025                                8.8
       with other records of the marriage for as long as the judge is required to maintain
       the other records.
 
-
 8.110       LIMITED SCOPE REPRESENTATION (Repealed)
 
 REPORTER’S NOTE: UTCR 8.110 was repealed effective August 1, 2017.
 UTCR 5.170 (Limited Scope Representation) became effective that date and applies to
 domestic relations proceedings, so UTCR 8.110 was no longer needed.
-
 
 8.120       INFORMAL DOMESTIC RELATIONS TRIAL
 
@@ -5102,8 +4791,6 @@ UTCR 8/1/2025                                 8.9
             take the matter under advisement, but best efforts will be made to issue
             prompt judgments.
 
-
-
 UTCR 8/1/2025                                 8.10
 (including correction to UTCR 8.060)
 
@@ -5120,9 +4807,6 @@ UTCR 8/1/2025                                 8.10
       trial commences. A change in the type of trial to be held may result in a change in
       the trial date.
 
-
-
-
 UTCR 8/1/2025                              8.11
 (including correction to UTCR 8.060)
 
@@ -5131,7 +4815,6 @@ CHAPTER 9—Probate and Adoption Proceedings
 9.010      MAILING PROBATE MATERIALS TO THE COURT (Repealed)
 
 REPORTER’S NOTE: UTCR 9.010 was repealed effective August 1, 2025.
-
 
 9.020      APPROVAL OF BONDS
 
@@ -5146,7 +4829,6 @@ aggregate value of the property of the estate shall be made by motion and suppor
 affidavit, or by request made in an accounting. The proposed order on the motion or the
 proposed order approving the accounting shall include the change in bond amount.
 
-
 9.030      ADDRESSES AND TELEPHONE NUMBERS REQUIRED
 
 (1)   The contact information required by UTCR 2.010(6) must be typed or printed on
@@ -5160,7 +4842,6 @@ proposed order approving the accounting shall include the change in bond amount.
       any change in address or telephone number of any attorney of record, self-
       represented party, guardian, conservator, or personal representative.
 
-
 9.040      SETTLEMENT OF PERSONAL INJURY CLAIMS IN PROBATE CASES
 
 A petition for approval of a settlement of a personal injury claim must be accompanied
@@ -5169,9 +4850,6 @@ medical reports covering the nature and extent of the injuries sustained and the
 prognosis. The petition and affidavit shall be filed as confidential documents if, and as,
 required by law. The court may require further information. Settlements on behalf of a
 protected person are subject to approval by the probate court.
-
-
-
 
 UTCR 8/1/2025                               9.1
 
@@ -5193,7 +4871,6 @@ UTCR 8/1/2025                               9.1
       annual accountings as restricted with reference to the date and title of the order
       imposing the restriction.
 
-
 9.060      FEES IN ESTATES, GUARDIANSHIPS AND CONSERVATORSHIPS
 
 (1)   Attorney fees requested in protective proceedings under ORS chapter 125 must be
@@ -5211,7 +4888,6 @@ UTCR 8/1/2025                               9.1
       guardianships and conservatorships must be served in the manner and on the
       persons described in ORS 116.093, 125.475, and acts amendatory thereof.
 
-
 9.070      SUMMARY DETERMINATION OF CLAIM UNDER ORS 115.145(1)(a) AND
            ORS 115.165
 
@@ -5222,8 +4898,6 @@ A party requesting a summary determination of a claim under ORS 115.145(1)(a) an
       requested; and
 
 (2)   Tender the appropriate fee with the request.
-
-
 
 UTCR 8/1/2025                                9.2
 
@@ -5239,7 +4913,6 @@ UTCR 8/1/2025                                9.2
       objections may be made pursuant to subsection (1) of this rule, information
       regarding any free or low-cost legal services available in the area sufficient to
       satisfy the requirements of ORS 125.070.
-
 
 9.090      CAPTIONING FILINGS IN PROBATE AND PROTECTIVE PROCEEDINGS
 
@@ -5268,14 +4941,11 @@ In the Matter of the Estate of     )
                                    )
           Personal Representative. )
 
-
 9.160      FORM OF ACCOUNTINGS
 
 Accountings substantially in the form provided at www.courts.oregon.gov/forms, as
 further explained in this rule, must be accepted by all judicial districts. Accountings in
 this format may be made mandatory by SLR. The accounting provisions of
-
-
 
 UTCR 8/1/2025                                9.3
 
@@ -5421,7 +5091,6 @@ UTCR 8/1/2025                                  9.5
 (5)   Other Forms of Accounting. In its discretion, the court may allow other forms of
       accounting.
 
-
 9.170       FIDUCIARY DISCLOSURE IN ACCOUNTINGS
 
 The narrative of an accounting shall specifically disclose and explain all of the following
@@ -5431,7 +5100,6 @@ transactions during the accounting period unless previously approved by the cour
 
 (2)   Transactions with a person or entity with whom the fiduciary has a relationship
       which could compromise or otherwise affect decisions made by the fiduciary. The
-
 
 UTCR 8/1/2025                                 9.6
 
@@ -5449,7 +5117,6 @@ UTCR 8/1/2025                                 9.6
       included in a separate exhibit with a narrative explanation for the purpose of each
       advancement or reimbursement, with written proof of the amount and purpose
       included with the accounting.
-
 
 9.180       VOUCHERS AND DEPOSITORY STATEMENTS
 
@@ -5476,7 +5143,6 @@ UTCR 8/1/2025                                 9.6
       vouchers and depository statements may be filed confidentially, as permitted by
       law.
 
-
 9.190       RETURN OF VOUCHERS AND DEPOSITORY STATEMENTS
 
 Vouchers and depository statements submitted under UTCR 9.180 may, in the court’s
@@ -5484,12 +5150,10 @@ discretion, be returned to a personal representative, conservator, guardian or a
 of record at any time after expiration of the time for appeal or, if an appeal is taken, after
 final determination of the case. A person requesting return of vouchers or depository
 
-
 UTCR 8/1/2025                                9.7
 
 statements shall submit a self-addressed envelope with adequate postage with the
 documents filed.
-
 
 9.200      AUDIT OF ACCOUNTING AND RELATED DOCUMENTS
 
@@ -5506,7 +5170,6 @@ documents filed.
       reports shall have confidential personal information, as defined by UTCR 2.130,
       redacted.
 
-
 9.300      APPOINTMENT OF GUARDIANS IN ADOPTIONS
 
 Except in cases when one or more of the petitioners, or a state or private agency, is the
@@ -5516,17 +5179,14 @@ petitioner must prepare and submit to the court a limited judgment providing for
 appointment of the petitioner, or other suitable person, as guardian of the minor child
 pending further order of the court or entry of a judgment.
 
-
 9.310      PRESENTATION OF ADOPTION JUDGMENTS
 
 Proposed adoption judgments may be presented to the court without the necessity of a
 personal appearance by the attorney or the adoptive parents.
 
-
 9.320      CHANGE OF NAME AND CHANGE OF SEX PROCEEDINGS (Repealed)
 
 REPORTER’S NOTE: UTCR 9.320 was repealed effective January 1, 2018.
-
 
 9.330      GUARDIAN’S REPORT IN MINOR GUARDIANSHIPS
 
@@ -5536,13 +5196,11 @@ under penalty of perjury in the form required by ORCP 1 E, or an unsworn declara
 under ORS 194.800 to 194.835, if the declarant is physically outside of the boundaries
 of the United States. Copies of the guardian’s report must be given to those persons
 
-
 UTCR 8/1/2025                                9.8
 
 specified in ORS 125.060(3). The guardian must file the report in substantially the form
 provided at www.courts.oregon.gov/forms unless the judicial district in which the report
 will be filed has adopted another form by SLR or by Presiding Judge Order.
-
 
 9.400      APPOINTMENT OF COURT VISITOR
 
@@ -5560,12 +5218,10 @@ will be filed has adopted another form by SLR or by Presiding Judge Order.
       Order or by SLR, qualifications and standards for visitors under ORS 125.165 and
       payment and reimbursement for visitor services under ORS 125.170.
 
-
 9.410      PROTECTIVE PROCEEDING – CONFIDENTIAL INFORMATION ORDER
 
 A person who petitions for, and obtains, a protective order under ORS 125.012 must
 serve a copy of the order on all parties to the proceeding.
-
 
 9.420      COURT VISITOR’S REPORT
 
@@ -5583,9 +5239,6 @@ serve a copy of the order on all parties to the proceeding.
       ORS 125.155(4), the court shall provide a copy of the report to the respondent or
       protected person within five days of the report being filed.
 
-
-
-
 UTCR 8/1/2025                               9.9
 
 CHAPTER 10—Proceedings Relating to Vehicle Laws and Driving Privilege
@@ -5600,7 +5253,6 @@ administrator. Copies of the petition must be served on the DMV and the Attorney
 General. The petition filed with the trial court administrator must contain a certificate of
 service of the above copies. The petition as filed and served must be accompanied by
 a copy of the final order of the DMV from which the appeal is taken.
-
 
 10.020     PREPARATION AND DELIVERY OF THE RECORD ON REVIEW
 
@@ -5629,9 +5281,6 @@ a copy of the final order of the DMV from which the appeal is taken.
       without an appeal being taken, the court will return the record to the agency, if
       submitted in paper form, unless the court otherwise directs.
 
-
-
-
 UTCR 8/1/2025                               10.1
 
 10.030     FORM OF TRANSCRIPT OF ORAL PROCEEDINGS
@@ -5653,7 +5302,6 @@ A written transcript of the oral proceedings must meet the following specificati
 
 (4)   Type must be standard pica or equivalent size.
 
-
 10.040     SETTLEMENT OF THE RECORD
 
 A motion to correct the record may be filed within seven days of the filing of the record.
@@ -5662,7 +5310,6 @@ trial court administrator of a motion to correct the record, the court shall dir
 making of such corrections as may be appropriate, and shall fix the time within which
 such corrections will be made. Upon filing with the trial court administrator of the record
 so corrected, the record shall be deemed settled.
-
 
 10.050     PETITIONER’S MEMORANDUM OF POINTS AND AUTHORITIES
 
@@ -5679,9 +5326,6 @@ so corrected, the record shall be deemed settled.
       under UTCR 10.010, must be filed with the trial court administrator no later than 14
       days after the date of settlement of the record.
 
-
-
-
 UTCR 8/1/2025                              10.2
 
 10.060      OPPOSING PARTY’S RESPONSE
@@ -5692,7 +5336,6 @@ petitioner, not fewer than three days before the date set for hearing. The respo
 memorandum must refer to each point in the petitioner’s memorandum being
 addressed, and each point must be followed by a statement of authorities in support of
 the respondent’s position.
-
 
 10.070      SETTING HEARING DATE
 
@@ -5720,7 +5363,6 @@ the respondent’s position.
       suspending the requirement that a party affirmatively request a hearing by remote
       means.
 
-
 10.080      ORAL ARGUMENT AT HEARING
 
 (1)   At oral argument, the petitioner shall be entitled to open and close. Unless the
@@ -5731,23 +5373,16 @@ the respondent’s position.
 (2)   No point raised by a party’s memorandum of points and authorities shall be
       deemed waived by the party’s failure to present the point in oral argument.
 
-
-
-
 UTCR 8/1/2025                                10.3
 
 (3)   If a party fails to appear at the hearing, the court shall deem the cause as to that
       party submitted without oral argument. A party’s failure to appear shall not
       preclude oral argument by the other party.
 
-
 10.090     ENTRY OF JUDGMENT
 
 The court shall enter its judgment within seven days of the hearing or, if no hearing is
 held, within seven days of the time provided for hearing in UTCR 10.070(1).
-
-
-
 
 UTCR 8/1/2025                               10.4
 
@@ -5769,7 +5404,6 @@ CHAPTER 11—Juvenile Court Proceedings
       application is granted, the court shall promptly appoint counsel and notify counsel
       of the appointment.
 
-
 11.020     COMPENSATION AND APPOINTMENT OF COURT-APPOINTED
            COUNSEL
 
@@ -5779,27 +5413,21 @@ CHAPTER 11—Juvenile Court Proceedings
 (2)   Unless otherwise specified by written court order, an order for appointment of
       counsel shall expire when the time for taking an appeal has expired.
 
-
 11.040     ADMISSION OR STIPULATION TO JURISDICTION; DISMISSAL
 
 In juvenile cases, after having knowledge thereof, the parties must immediately notify
 the court of an admission or stipulation of jurisdiction or of a dismissal before the
 jurisdictional or dispositional hearing.
 
-
 11.050     TIME REQUIRED FOR HOLDING DISPOSITIONAL HEARING (Repealed)
 
 REPORTER’S NOTE: UTCR 11.050 was repealed effective August 1, 2013.
-
 
 11.060     PREDISPOSITION INVESTIGATION
 
 (1)   If an investigation report is prepared under ORS 419A.012, 419B.112(2)(a), and
       419C.300, it shall be made available to the parties at least seven days before the
       dispositional hearing, unless the parties stipulate to a shorter time.
-
-
-
 
 UTCR 8/1/2025                              11.1
 
@@ -5813,14 +5441,12 @@ UTCR 8/1/2025                              11.1
       court does not issue an order to divulge such information, the court shall set forth
       the reasons for its action.
 
-
 11.070      TEMPORARY SUSPENSION OF VISITATION RIGHTS WHEN
             TERMINATION PETITION FILED
 
 Parental visitation rights with respect to children who are wards of the court shall not be
 suspended while a petition to terminate parental rights is pending, unless ordered by the
 court on good cause shown.
-
 
 11.100      SUBMISSION OF PROPOSED ORDERS OR JUDGMENTS IN
             DEPENDENCY AND TERMINATION OF PARENTAL RIGHTS CASES
@@ -5848,9 +5474,6 @@ court on good cause shown.
       (b)   The reason that the submission is ready for judicial signature or otherwise
             states that any objection is ready for resolution, identifying the reason in
             substantially the following form:
-
-
-
 
 UTCR 8/1/2025                                 11.2
 
@@ -5892,17 +5515,14 @@ UTCR 8/1/2025                                 11.2
 (5)   The certificate required under subsection (2) may be combined with any certificate
       of service required by another statute or rule.
 
-
 REPORTER’S NOTE (08/01/2017): Pursuant to UTCR 1.130, computation of Uniform
 Trial Court Rule time requirements is subject to ORCP 10.
-
 
 11.110      SUBMISSION OF EXHIBITS
 
 (1)   The trial court shall establish a process by Supplementary Local Rule or Presiding
       Judge Order by which all exhibits offered in juvenile cases will be submitted to the
       court.
-
 
 UTCR 8/1/2025                               11.3
 
@@ -5923,7 +5543,6 @@ UTCR 8/1/2025                               11.3
 
       (c)   Exhibits shall be electronically filed on the day of the hearing or trial or by the
             end of the next judicial day.
-
 
 11.120      MAINTENANCE OF EXHIBITS
 
@@ -5946,15 +5565,12 @@ UTCR 8/1/2025                               11.3
       and maps, if not oversized, and audio and video recordings. An oversized
       document is one larger than standard letter size or legal size.
 
-
 11.130      NEW DEPENDENCY PETITION ALLEGATIONS, WHEN CHILD IS A WARD
 
 (1)   When a child is already a ward of the court under ORS 419B.100 and
       ORS 419B.328, any new petition containing allegations under ORS 419B.100 must
       be filed under the ward’s existing dependency case number, unless otherwise
       permitted under ORS 419B.118.
-
-
 
 UTCR 8/1/2025                                 11.4
 
@@ -5987,7 +5603,6 @@ UTCR 8/1/2025                                 11.4
       an existing wardship must be served with a summons in accordance with
       ORS 419B.815.
 
-
 11.140      DEPENDENCY JUDGMENTS OF JURISDICTION AND DISPOSITION
 
 (1)   A judgment of jurisdiction entered under ORS chapter 419B must state how each
@@ -6007,7 +5622,6 @@ UTCR 8/1/2025                                 11.4
       (c)   The date each basis of jurisdiction was established in a judgment of
             jurisdiction; and
 
-
 UTCR 8/1/2025                                  11.5
 
       (d)   The date of the first judgment establishing jurisdiction over the ward during
@@ -6016,9 +5630,6 @@ UTCR 8/1/2025                                  11.5
 (3)   A separately entered judgment of disposition that is based on a post-jurisdiction
       dependency petition filed during an existing wardship must include the title of the
       petition it is based on in parentheses in the document title.
-
-
-
 
 UTCR 8/1/2025                               11.6
 
@@ -6035,7 +5646,6 @@ amendments to this chapter. Once the workgroup has completed its work, the UTCR
 Committee plans to consider recommendations for amendments to UTCR chapter 12
 (Mediation). For questions regarding the workgroup or the adoption of these rules,
 please contact the UTCR Reporter.
-
 
 12.010      APPLICABILITY
 
@@ -6067,9 +5677,6 @@ UTCR chapter 12:
 
       (d)   Limit in any way the ability of mediators or qualified supervisors to be
             compensated for their services.
-
-
-
 
 UTCR 8/1/2025                                12.1
 
@@ -6122,13 +5729,11 @@ As used in UTCR chapter 12:
 (13) “General Civil Mediation Supervisor” means a person who is qualified at the level
      described in UTCR 12.060.
 
-
 UTCR 8/1/2025                               12.2
 
 (14) “Independent Qualification Review” means the process described in UTCR 12.090.
 
 (15) “Mediation” is defined at ORS 36.110.
-
 
 12.030      DETERMINING AUTHORITY, DETERMINING MEDIATOR
             QUALIFICATIONS, OTHER RESPONSIBILITIES AND AUTHORITY
@@ -6172,9 +5777,6 @@ UTCR 8/1/2025                               12.2
       determining authority’s discretion, including in the event that the mediator no
       longer meets the requirements set forth in these rules.
 
-
-
-
 UTCR 8/1/2025                                12.3
 
 (4)   The determining authority may authorize the use of an evaluation to be completed
@@ -6203,7 +5805,6 @@ UTCR 8/1/2025                                12.3
       evaluation process has been developed and can be used at reasonable costs and
       with reasonable efficiency.
 
-
 12.040      MEDIATOR ETHICS
 
 An approved mediator, when mediating under ORS 36.185 to 36.210 or ORS 107.755
@@ -6224,8 +5825,6 @@ to 107.795, is required to:
 
       (a)   The nature of mediation, the role and style of the mediator, and the process
             that will be used;
-
-
 
 UTCR 8/1/2025                                12.4
 
@@ -6255,7 +5854,6 @@ UTCR 8/1/2025                                12.4
 
       (j)   If applicable, the nature and extent to which the mediator is being supervised.
 
-
 12.050      PROVIDING AND MAINTAINING PUBLICLY AVAILABLE INFORMATION
 
 (1)   Information for court use and public dissemination: all approved mediators must
@@ -6270,14 +5868,12 @@ UTCR 8/1/2025                                12.4
 (3)   The information provided in UTCR 12.050 must be made available to all mediation
       parties and participants upon request.
 
-
 12.060      QUALIFICATION AS AN APPROVED GENERAL CIVIL MEDIATOR,
             ONGOING OBLIGATIONS
 
 To become an approved general civil mediator, an individual must establish, to the
 satisfaction of the determining authority, that the individual meets or exceeds all the
 following qualifications and will continue to meet ongoing requirements as described:
-
 
 UTCR 8/1/2025                                12.5
 
@@ -6330,13 +5926,11 @@ UTCR 8/1/2025                                12.5
       (a)   Met the qualifications of a general civil mediator as defined in this section,
             and
 
-
 UTCR 8/1/2025                                 12.6
 
       (b)   Mediated at least 35 cases to conclusion or completed at least 350 hours of
             mediation experience beyond the experience required of an approved general
             civil mediator in this section.
-
 
 12.070      QUALIFICATION AS AN APPROVED DOMESTIC RELATIONS CUSTODY
             AND PARENTING MEDIATOR, ONGOING OBLIGATIONS
@@ -6379,9 +5973,6 @@ ongoing requirements as described.
 
 (3)   Experience. An applicant must have completed one of the following types of
       experience:
-
-
-
 
 UTCR 8/1/2025                               12.7
 
@@ -6429,9 +6020,6 @@ UTCR 8/1/2025                               12.7
             section; and
 
       (c)   An understanding of court-connected domestic relations programs.
-
-
-
 
 UTCR 8/1/2025                                 12.8
 
@@ -6484,7 +6072,6 @@ requirements as described.
 (4)   Continuing education. As an ongoing obligation, an approved domestic relations
       financial mediator must complete 24 hours of continuing education every two
 
-
 UTCR 8/1/2025                                 12.9
 
       calendar years, beginning January 1 of the year after the mediator’s approval by
@@ -6517,7 +6104,6 @@ UTCR 8/1/2025                                 12.9
 
       (c)   Malpractice insurance coverage for the supervisory role in force.
 
-
 12.090      INDEPENDENT QUALIFICATION REVIEW
 
 (1)   In programs where domestic relations financial mediators are independent
@@ -6535,14 +6121,11 @@ UTCR 8/1/2025                                 12.9
       some minimum qualifications. The review panel shall report its recommendation to
       the determining authority in writing.
 
-
-
 UTCR 8/1/2025                               12.10
 
 (3)   Nothing in this section affects the authority under UTCR 12.030 to make sole and
       final determinations about whether an applicant has fulfilled the requirements to be
       approved or whether an application for substitution should be granted.
-
 
 12.100      BASIC MEDIATION CURRICULUM
 
@@ -6587,8 +6170,6 @@ Administrator. The basic mediation curriculum shall:
             mediation experience beyond the experience required of a general civil
             mediator in UTCR 12.060; and either
 
-
-
 UTCR 8/1/2025                                12.11
 
       (c)   Served as a trainer or an assistant trainer for the basic mediation curriculum
@@ -6600,7 +6181,6 @@ UTCR 8/1/2025                                12.11
                    training for adults; and
 
             (ii)   Completed the basic mediation curriculum outlined under this section.
-
 
 12.110      DOMESTIC RELATIONS CUSTODY AND PARENTING MEDIATION
             CURRICULUM
@@ -6640,11 +6220,9 @@ The domestic relations custody and parenting mediation curriculum shall:
             domestic relations custody and parenting mediation curriculum outlined in this
             section at least three times; and
 
-
 UTCR 8/1/2025                                12.12
 
       (d)   An understanding of court-connected domestic relations programs.
-
 
 12.120      DOMESTIC RELATIONS FINANCIAL MEDIATION TRAINING
 
@@ -6674,7 +6252,6 @@ UTCR 8/1/2025                                12.12
             feedback to the trainee; and
 
       (c)   Fifteen hours must be in training accredited by the Oregon State Bar.
-
 
 12.130      COURT-SYSTEM TRAINING
 
@@ -6738,9 +6315,6 @@ UTCR 8/1/2025                                   12.13
       (c)   Basic rules of evidence; and
 
       (d)   Basic rules of contract and tort law.
-
-
-
 
 UTCR 8/1/2025                                 12.14
 
@@ -6845,7 +6419,6 @@ UTCR 8/1/2025                                 12.15
       training and experience do not include the topics listed above, the mediator should
       emphasize those listed areas relevant to the mediator’s practice.
 
-
 UTCR 8/1/2025                                12.16
 
 (5)   Where applicable, continuing education topics should be coordinated with,
@@ -6854,9 +6427,6 @@ UTCR 8/1/2025                                12.16
       via the electronic Court-Connected Mediator Continuing Education Credit Form
       available on the Oregon Judicial Department’s webpage or other reporting form
       authorized by the appropriate determining authority.
-
-
-
 
 UTCR 8/1/2025                             12.17
 
@@ -6886,7 +6456,6 @@ CHAPTER 13—Arbitration
       may arise during the arbitration hearing. These rules give considerable discretion
       to the arbitrator. The arbitrator should not hesitate to exercise that discretion.
 
-
 13.030      ARBITRATION COMMISSION
 
 (1)   Each court must establish an arbitration commission.
@@ -6897,16 +6466,12 @@ CHAPTER 13—Arbitration
 (3)   The arbitration commission must include both judge and attorney members and, as
       an ex officio member, the court administrator.
 
-
 13.040      RELATIONSHIP TO COURT JURISDICTION AND APPLICABLE RULES
 
 (1)   A case filed in the circuit court remains under the jurisdiction of that court in all
       phases of the proceedings, including arbitration. Except for the authority expressly
       given to the arbitrator by these rules, all issues shall be determined by the court of
       jurisdiction.
-
-
-
 
 UTCR 8/1/2025                                  13.1
 (including out-of-cycle amendment of UTCR 13.090)
@@ -6923,7 +6488,6 @@ UTCR 8/1/2025                                  13.1
       arbitrator’s decision on a pretrial motion will prejudice a party on trial de novo, that
       party may file an appropriate motion with the court.
 
-
 13.050      ARBITRATION WHEN CASE ALREADY SET FOR TRIAL
 
 (1)   Cases will not be assigned to arbitration within 63 days of the set trial date, except
@@ -6931,7 +6495,6 @@ UTCR 8/1/2025                                  13.1
 
 (2)   A court order is not necessary if by stipulation the parties agree upon an arbitrator
       and agree upon a hearing date at least 28 days before the scheduled trial date.
-
 
 13.060      PLEADINGS IN CASES SUBJECT OR NOT SUBJECT TO ARBITRATION
 
@@ -6959,7 +6522,6 @@ UTCR 8/1/2025                                  13.1
       SUBJECT” language in the title of the pleading, the party gives notice to the court
       and other parties that the case is exempted from mandatory arbitration either
 
-
 UTCR 8/1/2025                                  13.2
 (including out-of-cycle amendment of UTCR 13.090)
 
@@ -6969,13 +6531,11 @@ UTCR 8/1/2025                                  13.2
       other instances, the party will place the language in the title indicating the case is
       subject to mandatory arbitration.
 
-
 13.070     EXEMPTION FROM ARBITRATION
 
 Within 14 days after notification by the court that the case is assigned to arbitration, any
 party seeking exemption from arbitration must file and serve a “Motion for Exemption
 from Arbitration.”
-
 
 13.080     ASSIGNMENT TO ARBITRATOR
 
@@ -6989,7 +6549,6 @@ from Arbitration.”
 
 (3)   An arbitrator shall be assigned under (1) or (2) of this rule within 21 days after the
       assignment to arbitration.
-
 
 13.090     ARBITRATORS
 
@@ -7009,8 +6568,6 @@ from Arbitration.”
       Judicial Conduct.
 
 (4)   As used in this rule, “attorney” does not include licensed paralegals.
-
-
 
 UTCR 8/1/2025                                  13.3
 (including out-of-cycle amendment of UTCR 13.090)
@@ -7049,7 +6606,6 @@ the assignment have been settled:
 
 (10) Award attorney fees as authorized by these rules, by contract or by law.
 
-
 13.110     ARBITRATOR’S OATH
 
 Arbitrators will be required to execute the following oath in writing on a form provided by
@@ -7057,9 +6613,6 @@ the trial court administrator at the time of appointment:
 
       I solemnly affirm that I will faithfully and fairly hear and examine the matters in
       controversy and that I will make a just award to the best of my understanding.
-
-
-
 
 UTCR 8/1/2025                                  13.4
 (including out-of-cycle amendment of UTCR 13.090)
@@ -7101,7 +6654,6 @@ UTCR 8/1/2025                                  13.4
       arbitrator’s favor and against any party who has not paid the arbitrator’s fee in
       accordance with the schedule established under paragraph (1).
 
-
 13.130     RESTRICTIONS ON COMMUNICATION BETWEEN ARBITRATOR,
            PARTIES, AND ATTORNEYS
 
@@ -7111,14 +6663,11 @@ Neither an attorney nor a party may communicate with the arbitrator, regarding t
 merits of the case, except in the presence of, or on reasonable notice to, all other
 parties.
 
-
-
 UTCR 8/1/2025                                  13.5
 (including out-of-cycle amendment of UTCR 13.090)
 
 Except for Rules 1, 4.1 to 4.3, 4.5 to 4.10, and 5 of the Code of Judicial Conduct, all
 rules of professional conduct concerning bench and bar apply in the arbitration process.
-
 
 13.140     DISCOVERY
 
@@ -7128,13 +6677,11 @@ benefits of discovery against the burdens and expenses. The arbitrator shall con
 the nature and complexity of the case, the amount of controversy, and the possibility of
 unfair surprise that may result if discovery is restricted.
 
-
 13.150     SUBPOENA
 
 In accordance with the Oregon Rules of Civil Procedure, an attorney of record or the
 arbitrator may issue a subpoena for the attendance of a witness at the arbitration
 hearing or for the production of documentary evidence at the hearing.
-
 
 13.160     SCHEDULING OF THE HEARING
 
@@ -7163,8 +6710,6 @@ hearing or for the production of documentary evidence at the hearing.
       process. The arbitrator is given the power to enforce the rules and will be required
       to maintain the schedule.
 
-
-
 UTCR 8/1/2025                                  13.6
 (including out-of-cycle amendment of UTCR 13.090)
 
@@ -7192,7 +6737,6 @@ UTCR 8/1/2025                                  13.6
       hearing, with copies of pleadings and other documents contained in the court file
       which that party deems relevant.
 
-
 13.180      CONDUCT OF HEARING
 
 (1)   Arbitration hearings shall be informal and expeditious. The arbitrator shall exercise
@@ -7214,8 +6758,6 @@ UTCR 8/1/2025                                  13.6
 
 (3)   The hearing may be recorded electronically or otherwise by any party or the
       arbitrator. The cost of such recording is not a recoverable item of cost.
-
-
 
 UTCR 8/1/2025                                  13.7
 (including out-of-cycle amendment of UTCR 13.090)
@@ -7287,7 +6829,6 @@ UTCR 8/1/2025                                  13.8
 (4)   The arbitrator, for good cause shown, may allow an absent party an opportunity to
       appear at a subsequent hearing before making an award.
 
-
 13.210      FORM AND CONTENT OF AWARD
 
 (1)   The award must be in writing and prepared on a form prescribed by the court and
@@ -7329,7 +6870,6 @@ UTCR 8/1/2025                                  13.9
       arbitrator shall then approve a form of judgment and file the award, along with the
       approved form of judgment, per UTCR 13.220.
 
-
 1988 Commentary:
 
 It is the intent of the Committee that UTCR 13.210(2) applies in dissolution cases.
@@ -7338,7 +6878,6 @@ It is the intent of the Committee that UTCR 13.210(2) applies in dissolution cas
 
 The Committee intends that the arbitrator determine all costs to which the prevailing
 party may be entitled, including the prevailing fee and share of the arbitrator’s fee.
-
 
 13.220     FILING OF AN AWARD
 
@@ -7360,15 +6899,11 @@ party may be entitled, including the prevailing fee and share of the arbitrator�
       the case must be delivered to the trial court administrator. The parties must retain
       all exhibits returned by the arbitrator until a final judgment is entered in the case.
 
-
 13.240     JUDGMENT ON AWARD
 
 If no request for trial de novo is filed within the time established by ORS 36.425(3), a
 judgment shall be prepared based on the arbitration decision and award and submitted
 to the court to be entered.
-
-
-
 
 UTCR 8/1/2025                                 13.10
 (including out-of-cycle amendment of UTCR 13.090)
@@ -7408,16 +6943,12 @@ UTCR 8/1/2025                                 13.10
       (e)   The court may assess statutory costs against a party who withdraws a
             request for trial de novo.
 
-
 13.260      PROCEDURE AT TRIAL DE NOVO
 
 The trial court administrator must seal any award if a trial de novo is requested. Neither
 judge nor jury will be informed of the arbitration result. The sealed arbitration award will
 not be opened until after the verdict is received and filed in a jury trial or until after the
 judge has rendered a decision in a court trial.
-
-
-
 
 UTCR 8/1/2025                                 13.11
 (including out-of-cycle amendment of UTCR 13.090)
@@ -7428,14 +6959,10 @@ Every case assigned to arbitration shall maintain its approximate position on th
 trial docket as if the case had not been assigned to arbitration, unless, at the discretion
 of the court, the docket position should be modified.
 
-
 13.300     PRETRIAL SETTLEMENT CONFERENCES AND ARBITRATION
 
 Cases assigned to arbitration or the pendency of an arbitration hearing does not
 exclude a case from participating in a court pretrial settlement conference.
-
-
-
 
 UTCR 8/1/2025                                 13.12
 (including out-of-cycle amendment of UTCR 13.090)
@@ -7443,9 +6970,6 @@ UTCR 8/1/2025                                 13.12
 CHAPTER 14—Reference Judges
 
 This chapter reserved for future use.
-
-
-
 
 UTCR 8/1/2025                           14.1
 
@@ -7490,13 +7014,10 @@ CHAPTER 15—Small Claims
       (SLR). SLR 15.011 is reserved for making such formats mandatory in the judicial
       district.
 
-
 15.020      DISMISSAL OF SMALL CLAIMS FOR WANT OF PROSECUTION
 
 (1)   After service is made, the serving party must forthwith file the return or acceptance
       of service with the trial court administrator.
-
-
 
 UTCR 8/1/2025                                  15.1
 (including out-of-cycle amendment of UTCR 15.020)
@@ -7509,7 +7030,6 @@ UTCR 8/1/2025                                  15.1
       nonappearing defendant for want of prosecution unless the plaintiff has applied for
       a default judgment.
 
-
 15.030     CONSUMER DEBT COLLECTION – SMALL CLAIMS
 
 (1)   If a small claims action qualifies as a debt-buyer collection action under
@@ -7518,18 +7038,12 @@ UTCR 8/1/2025                                  15.1
 (2)   If a small claims action qualifies as a consumer debt collection action under
       UTCR 5.180(3)(a), then the requirement set out in UTCR 5.180(3)(b) applies.
 
-
-
-
 UTCR 8/1/2025                                  15.2
 (including out-of-cycle amendment of UTCR 15.020)
 
 CHAPTER 16—Violations
 
 This chapter reserved for future use.
-
-
-
 
 UTCR 8/1/2025                           16.1
 
@@ -7538,17 +7052,11 @@ CHAPTER 17—Local Parking Violations
 REPORTER’S NOTE: UTCR 17.010 was repealed out-of-cycle by Chief Justice Order
 No. 05-032, dated July 29, 2005, effective immediately.
 
-
-
-
 UTCR 8/1/2025                        17.1
 
 CHAPTER 18—Forcible Entry and Detainer (FED) Actions
 
 This chapter reserved for future use.
-
-
-
 
 UTCR 8/1/2025                           18.1
 
@@ -7563,7 +7071,6 @@ Supreme Court Order No. 93-035. Even though added to the UTCR for purposes of
 citation, comment, and proposed changes, the rules in this UTCR chapter will continue
 to be changed only by action of the Supreme Court as provided under ORS 33.145.
 
-
 19.010      SCOPE, CONSTRUCTION, APPLICATION
 
 (1)   The rules in this UTCR chapter govern contempt proceedings under ORS 33.015
@@ -7574,7 +7081,6 @@ to be changed only by action of the Supreme Court as provided under ORS 33.145.
 (2)   The rules in this chapter do not preclude courts from exercising their inherent
       authority in contempt proceedings over matters not covered by rule or statute, so
       long as that exercise fosters efficient and fair resolution of the matter.
-
 
 19.020      INITIATING INSTRUMENT REQUIREMENTS AND MAXIMUM SANCTIONS
 
@@ -7601,7 +7107,6 @@ to be changed only by action of the Supreme Court as provided under ORS 33.145.
             case or agency proceeding, the court or agency name, the case or
             proceeding name and number, and the nature of that case.
 
-
 UTCR 8/1/2025                                19.1
 
       (c)   In the instrument or the body of the complaint:
@@ -7624,13 +7129,11 @@ UTCR 8/1/2025                                19.1
       punitive sanctions. A remedial sanction of confinement is presumed greater than
       other remedial sanctions.
 
-
 19.030      ALLOWING REMEDIAL SANCTIONS
 
 Rules that apply to allowing remedial sanctions in a proceeding for only remedial
 sanctions under ORS 33.055 also apply to allowing remedial sanctions in a proceeding
 for punitive sanctions under ORS 33.065.
-
 
 19.040      APPLICABILITY OF ORCP AND OTHER UTCR
 
@@ -7653,7 +7156,6 @@ for punitive sanctions under ORS 33.065.
       sanctions, a court may determine that a specific rule of procedure would not foster
       the fair and efficient resolution of the contempt proceeding.
 
-
 UTCR 8/1/2025                                19.2
 
       (a)   When a court makes that determination, it may modify the specific rule or
@@ -7665,7 +7167,6 @@ UTCR 8/1/2025                                19.2
 
       (b)   The court must give all parties to the proceeding notice that describes the
             modified or new rule. The notice must be in writing or on the record or both.
-
 
 19.050      EXCEPTIONS TO AND LIMITATIONS ON APPLICABLE ORCP IN
             REMEDIAL PROCEEDINGS
@@ -7696,17 +7197,11 @@ Notwithstanding UTCR 19.040, in contempt proceedings for remedial sanctions:
 (5)   The following ORCP do not apply: 3, 5, 21 C, 21 D, 21 E, 23 A, 24 A, 24 B, 25 A,
       32, 54 A(1), 54 E, 66, 73, 81 A, 81 C, 82 A(3), 84, and 85.
 
-
-
-
 UTCR 8/1/2025                                19.3
 
 CHAPTER 20—Voluntary Arbitration
 
 This chapter reserved for future use.
-
-
-
 
 UTCR 8/1/2025                           20.1
 
@@ -7755,9 +7250,6 @@ The following definitions apply to this chapter:
       system through the Oregon Judicial Department’s website
       (www.courts.oregon.gov/services/online/Pages/iforms.aspx).
 
-
-
-
 UTCR 8/1/2025                                  21.1
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
 
@@ -7768,7 +7260,6 @@ electronic service of documents, other than those local rules authorized by UTCR
 10.020, 11.110, and Chief Justice Order (CJO). Supplementary Local Rule (SLR)
 21.011 is reserved for judicial districts to adopt a local rule governing the electronic filing
 and service of documents pursuant to such a CJO.
-
 
 21.030      FILERS
 
@@ -7799,7 +7290,6 @@ and service of documents pursuant to such a CJO.
             service in an action as provided in UTCR 21.100(2); and
 
       (d)   Furnish required information for case processing.
-
 
 21.040      FORMAT OF DOCUMENTS TO BE FILED ELECTRONICALLY
 
@@ -7859,8 +7349,6 @@ UTCR 8/1/2025                                  21.2
       (a)   A filer must enter into the “Add Party” screen the names of all known parties
             or all parties being added; and
 
-
-
 UTCR 8/1/2025                                  21.3
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
 
@@ -7869,7 +7357,6 @@ UTCR 8/1/2025                                  21.3
 
 (5)   The court may reject submitted documents that do not comply with these
       provisions as provided in UTCR 21.080(5).
-
 
 21.050      PAYMENT OF FEES
 
@@ -7882,7 +7369,6 @@ UTCR 8/1/2025                                  21.3
       which a fee is required, with an accompanying application for a waiver or deferral
       of a required fee. The document will not be accepted for filing unless the court
       grants the fee waiver or deferral, or the required fee is paid.
-
 
 21.060      FILES OF THE COURT
 
@@ -7911,7 +7397,6 @@ UTCR 8/1/2025                                  21.3
 
       (b)   For the purpose of ORS 7.020(2), entry occurs on the date an event is
             created in the register of actions.
-
 
 UTCR 8/1/2025                                  21.4
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
@@ -7963,8 +7448,6 @@ UTCR 8/1/2025                                  21.4
             subject to in camera inspection, except that a document may be electronically
             filed in an adoption case.
 
-
-
 UTCR 8/1/2025                                  21.5
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
 
@@ -8014,8 +7497,6 @@ UTCR 8/1/2025                                  21.5
            undertaking.
 
      (o)   A demonstrative or oversized exhibit.
-
-
 
 UTCR 8/1/2025                                  21.6
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
@@ -8067,8 +7548,6 @@ UTCR 8/1/2025                                  21.6
       (c)   Nonconfidential Case Type, Confidential Document Type. If a document that
             is confidential by statute, rule, or court order is being submitted in a case that
 
-
-
 UTCR 8/1/2025                                  21.7
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
 
@@ -8112,14 +7591,10 @@ UTCR 8/1/2025                                  21.7
       (CJO), or Presiding Judge Order issued pursuant to such a CJO, authorizes a
       document listed in subsection (3) to be electronically filed.
 
-
 21.080      ELECTRONIC FILING AND ELECTRONIC FILING DEADLINES
 
 (1)   A filer may use the electronic filing system at any time, except when the electronic
       filing system is temporarily unavailable.
-
-
-
 
 UTCR 8/1/2025                                  21.8
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
@@ -8169,9 +7644,6 @@ UTCR 8/1/2025                                  21.8
                   of filing relate back to the original submission, with the words
                   “RESUBMISSION OF REJECTED FILING, RELATION-BACK DATE OF
                   FILING REQUESTED” in the subject line of the cover letter; and
-
-
-
 
 UTCR 8/1/2025                                  21.9
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
@@ -8223,8 +7695,6 @@ UTCR 8/1/2025                                  21.9
             under this subsection must comply with subsection (6)(a) of this rule and
             must, in the cover letter, explain why extraordinary circumstances exist.
 
-
-
 UTCR 8/1/2025                                 21.10
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
 
@@ -8270,7 +7740,6 @@ UTCR 8/1/2025                                 21.10
       public, the document must be electronically filed in a format that accurately
       reproduces the signatures and contents of the document.
 
-
 2011 Commentary:
 
 The Committee does not intend the requirement to include an email address in a
@@ -8281,7 +7750,6 @@ UTCR 8/1/2025                                 21.11
 
 Electronic service of documents may only be accomplished as specified in
 UTCR 21.100.
-
 
 21.100      ELECTRONIC SERVICE
 
@@ -8324,9 +7792,6 @@ UTCR 21.100.
                    under this subsection, then the attorney is deemed to have consented
                    for purposes of Rule of Professional Conduct 4.2 to delivery to the client
                    of documents electronically served by other filers in the action.
-
-
-
 
 UTCR 8/1/2025                                 21.12
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
@@ -8374,9 +7839,6 @@ UTCR 8/1/2025                                 21.12
 
       (c)   A document subject to a protective order.
 
-
-
-
 UTCR 8/1/2025                                 21.13
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
 
@@ -8396,20 +7858,17 @@ UTCR 8/1/2025                                 21.13
       any product, organization, or content at any hyperlinked site, or to any site to which
       that site refers.
 
-
 21.120      RETENTION OF DOCUMENTS BY FILERS AND CERTIFICATION OF
             ORIGINAL SIGNATURES (Repealed)
 
 REPORTER’S NOTE: UTCR 21.120 was repealed effective March 27, 2020. See
 UTCR 21.090 for retention and certification requirements.
 
-
 21.130      PROTECTED INFORMATION
 
 The use of information contained in a document filed electronically or information
 accessed through the electronic filing system must be consistent with state and federal
 law.
-
 
 21.140      MANDATORY ELECTRONIC FILING
 
@@ -8427,7 +7886,6 @@ law.
 
             (i)   A petition for waiver in all cases in a specific judicial district for a specific
                   period of time.
-
 
 UTCR 8/1/2025                                  21.14
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
@@ -8472,18 +7930,12 @@ UTCR 8/1/2025                                  21.14
 
       (d)   Refer the filing to a judge for consideration of sanctions under UTCR 1.090.
 
-
-
-
 UTCR 8/1/2025                                 21.15
 (including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
 
 CHAPTER 22—Enterprise Content Management System
 
 This chapter reserved for future use.
-
-
-
 
 UTCR 8/1/2025                           22.1
 
@@ -8504,7 +7956,6 @@ CHAPTER 23—Oregon Complex Litigation Court
 
 (4)   The OCLC will be managed by a panel of three circuit court presiding judges
       appointed by the Chief Justice of the Oregon Supreme Court.
-
 
 23.020      ASSIGNMENT OF CASES TO THE OCLC
 
@@ -8534,14 +7985,10 @@ CHAPTER 23—Oregon Complex Litigation Court
 
       (a)   File all documents in the court with venue; and
 
-
-
-
 UTCR 8/1/2025                               23.1
 
       (b)   If directed by the OCLC judge, provide copies of all filed documents to that
             judge in the manner that the judge directs.
-
 
 23.030      REMOVAL OF CASES FROM THE OCLC
 
@@ -8557,7 +8004,6 @@ UTCR 8/1/2025                               23.1
 (3)   If venue has been changed, the case may then be returned to the circuit court with
       current venue absent a motion and order for change of venue pursuant to
       ORS 14.110 and 14.120.
-
 
 23.040      CASE MANAGEMENT
 
@@ -8598,7 +8044,6 @@ UTCR 8/1/2025                                23.2
 (4)   Upon compliance with UTCR 23.040(3)(a)–(e), the OCLC judge will confer with the
       parties to resolve any disputes on exhibits or other matters upon which a
       stipulation might be reached to make the trial more efficient.
-
 
 23.050      CASE MANAGEMENT CONFERENCE; CASE MANAGEMENT ORDER
 
@@ -8663,14 +8108,10 @@ UTCR 8/1/2025                                  23.3
       deviate from deadlines and requirements established in the case management
       order unless authorized by the OCLC judge.
 
-
 23.060      SETTLEMENTS AND DISCONTINUANCES
 
 If a case in the OCLC is settled or dismissed, the parties must immediately inform the
 OCLC judge assigned to the case by telephone or email.
-
-
-
 
 UTCR 8/1/2025                              23.4
 
@@ -8720,9 +8161,6 @@ CHAPTER 24—Post-Conviction Relief
 (3)   If defendant files a demurrer or motion against the pleadings, petitioner has 30 days
       to file a response.
 
-
-
-
 UTCR 8/1/2025                                   24.1
 (including correction to UTCR 24.030)
 
@@ -8743,7 +8181,6 @@ UTCR 8/1/2025                                   24.1
       current request. If filed by petitioner’s counsel, a motion for an extension of a filing
       deadline must state that petitioner has been informed of the motion.
 
-
 24.020      SCHEDULING IN COMPLEX CASES WITH APPOINTED COUNSEL
 
 In a post-conviction case that involves a complex underlying case, including, but not
@@ -8751,7 +8188,6 @@ limited to, criminal homicide as defined in ORS 163.005 or aggravated murder as 
 in ORS 163.095, counsel for either party may request a scheduling conference within
 60 days of appointed counsel’s appearance. At the conference, the court, in its discretion,
 may issue an order modifying any deadlines set forth in these rules.
-
 
 24.030      RELIANCE ON UNDERLYING CIRCUIT COURT CRIMINAL CASE
 
@@ -8771,9 +8207,6 @@ may issue an order modifying any deadlines set forth in these rules.
             Information system is available at
             www.courts.oregon.gov/services/online/Documents/OJCIN/OECI/DocumentAcc
             essFAQs.pdf.
-
-
-
 
 UTCR 8/1/2025                                24.2
 (including correction to UTCR 24.030)
@@ -8806,7 +8239,6 @@ UTCR 8/1/2025                                24.2
       (b)   If the filer is not an authorized eFiler under UTCR 21.030(1)(a), the filer must
             submit the documentary exhibits pursuant to UTCR 6.050(3).
 
-
 24.050      ADDITIONAL MOTIONS, BRIEFING, AND EXHIBITS
 
 Unless otherwise ordered by the court:
@@ -8824,9 +8256,6 @@ Unless otherwise ordered by the court:
 (4)   Not later than 10 days before trial, petitioner may respond to defendant’s memoranda
       and exhibits with a further memorandum and additional exhibits.
 
-
-
-
 UTCR 8/1/2025                                24.3
 (including correction to UTCR 24.030)
 
@@ -8834,7 +8263,6 @@ UTCR 8/1/2025                                24.3
 
 Unless otherwise ordered by the court for good cause shown, the disclosure of witness
 information required under ORS 138.615 must be made no later than 60 days before trial.
-
 
 24.070      APPEARANCE AT HEARINGS AND TRIAL
 
@@ -8862,7 +8290,6 @@ information required under ORS 138.615 must be made no later than 60 days before
       responsible for obtaining court-certified interpreter services at the party’s own
       expense.
 
-
 24.080      CONTINUANCES
 
 (1)   Motions to continue a hearing or trial may be made to the judge presiding over the
@@ -8886,14 +8313,12 @@ UTCR 8/1/2025                                24.4
            together with counsel’s reason for requesting the continuance despite
            petitioner’s objections.
 
-
 24.090     PRESIDING POST-CONVICTION JUDGE
 
 By Supplementary Local Rule, a judicial district may assign a judge to serve as Presiding
 Post-Conviction Judge for purposes of pretrial case management. The Presiding Post-
 Conviction Judge may conduct status conferences, hear pretrial motions, and engage in
 other duties as provided by local rules enacted under this section.
-
 
 24.100     TRIALS
 
@@ -8907,16 +8332,10 @@ other duties as provided by local rules enacted under this section.
       witnesses other than petitioner will be called, the party requesting additional time
       must notify the court no later than 45 days before the trial date.
 
-
 24.110     CHALLENGES TO COURT-APPOINTED COUNSEL
 
 SLR 24.111 is reserved for judicial districts to adopt a local rule regarding challenges to
 court-appointed counsel (Church v. Gladden claims).
 
-
-
-
 UTCR 8/1/2025                               24.5
 (including correction to UTCR 24.030)
-
-

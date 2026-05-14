@@ -141,17 +141,22 @@ Verbatim text pulled from official sources, organized by domain:
 
 ## Reference corpora — Oregon (`or-law-references/references/`)
 
-Mirrors the WA corpora structure; populated by future pull scripts (initial PR ships scaffolding + READMEs + manifests):
+Mirrors the WA corpora structure:
 
-- **`court-rules/`** — Oregon court rules (ORCP, UTCR, OEC, ORAP, Multnomah SLR, Washington Co SLR) from counciloncourtprocedures.org and courts.oregon.gov.
+- **`court-rules/`** — Oregon court rules (ORCP, UTCR, OEC, ORAP, ORPC, Multnomah SLR, Washington Co SLR) pulled by `scripts/pull_oregon_rules.py` from oregonlegislature.gov (ORCP + OEC as Microsoft Word "filtered HTML" exports), the OJD SharePoint asset library (UTCR + ORAP + the two SLRs — list-name + highest-Id selection), and osbar.org (ORPC PDF). Seven MD files / ~2.4 MB.
 - **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`.
 - **`federal-bankruptcy/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-bankruptcy/`.
 - **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`.
-- **`or-ors-debt/`** — **35 ORS chapters / ~5.6 MB** covering full civil practice. The original debt-focused set (ORS 12, 14, 18, 19, 20, 21, 36, 40, 71-79, 82, 90, 105, 174, 187, 646, 697) plus chapters 32 (Injunctions, repealed-stub), 33 (Contempt), 41 (Evidence framework), 79A (UCC Article 9 — renumbered from 79 in 2025), 86 (Mortgages and trust deeds), 87 (Liens), 88 (Foreclosure), 100 (Condominiums), 107 (Dissolution / family law), 109 (Parent and child), 116 (Probate procedure), 124 (Vulnerable persons), 165 (Forgery / theft / fraud), 192 (Public records and meetings), 657 (Unemployment insurance), 659A (Employment discrimination). Directory name retained for path stability.
+- **`or-ors-debt/`** — **35 ORS chapters / ~5.6 MB** covering full civil practice. Pulled by `scripts/pull_oregon_ors.py` from `oregonlegislature.gov/bills_laws/ors/ors{NNN}.html`. The original debt-focused set (ORS 12, 14, 18, 19, 20, 21, 36, 40, 71-79, 82, 90, 105, 174, 187, 646, 697) plus chapters 32 (Injunctions, repealed-stub), 33 (Contempt), 41 (Evidence framework), 79A (UCC Article 9 — renumbered from 79 in 2025), 86 (Mortgages and trust deeds), 87 (Liens), 88 (Foreclosure), 100 (Condominiums), 107 (Dissolution / family law), 109 (Parent and child), 116 (Probate procedure), 124 (Vulnerable persons), 165 (Forgery / theft / fraud), 192 (Public records and meetings), 657 (Unemployment insurance), 659A (Employment discrimination). Directory name retained for path stability.
 - **`legal-data-apis.md`** — Oregon-flavored agent-facing API index (oregonlegislature.gov, CourtListener Oregon courts, etc.).
 - **`online-sources.md`** — canonical URLs for Oregon law.
 
-Each corpus dir has its own `README.md` with citation tables and a "re-pull" command. The `scripts/pull_*.py` are reusable across plugins; they are wired into the quarterly remote-agent routine (`trig_018yahbiUwS1uTUJSuDNrCqG`) which runs Jan/Apr/Jul/Oct 1 at 17:00 UTC and opens a single PR if anything changed.
+OR pull scripts:
+
+- **`scripts/pull_oregon_ors.py`** — fetches ORS chapter pages by zero-padded slug (e.g. `ors012.html`, `ors079A.html`), parses the Word-filtered HTML with a stdlib `html.parser` walker that emits one Markdown paragraph per `<p>` and promotes `<b>NN.NNN ...</b>` runs to `## NN.NNN Title` section headings. Handles alphabetic suffixes (`79A`, `659A`) and the fully-repealed Chapter 32 (bare `<b>32.010</b>` shape with the `[Repealed by ...]` body in an unbolded run). Includes jittered-exponential-backoff retries and atomic tmp-rename writes; bumps `_manifest.json` to version 0.3.0 on a successful full pull.
+- **`scripts/pull_oregon_rules.py`** — pulls the seven OR court-rule canonical sources. HTML sources (ORCP, OEC) go through the same paragraph walker; PDF sources (UTCR, ORAP, ORPC, Multnomah-SLR, Washington-SLR) go through `pdftotext -layout`. UTCR/ORAP/SLR PDF URLs are discovered at run time via the courts.oregon.gov SharePoint REST API (`/_api/web/lists/getbytitle('LIST')/items?$expand=File&$orderby=Id desc`) and the highest-Id matching item wins. Bumps `_manifest.json` to version 0.2.0 on success.
+
+Both wired into the quarterly `refresh-references` workflow under `target=or`. Each corpus dir has its own `README.md` with citation tables and a "re-pull" command.
 
 ## Reference corpora — California (`ca-law-references/references/`)
 
@@ -169,7 +174,7 @@ CA pull scripts: `scripts/pull_ca_court_rules.py` fetches CRC Titles 1-10 from c
 
 Mirrors the WA/OR/CA corpora structure:
 
-- **`court-rules/`** — Colorado court rules (C.R.C.P. with the streamlined Chapter 18 county-court rules and Chapter 25 small-claims rules, CRE, C.A.R., Colorado Rules of Professional Conduct, Chief Justice Directives including CJD 11-01) — to be populated by a future `pull_co_court_rules.py` against the Colorado Judicial Branch publication source.
+- **`court-rules/`** — Colorado court rules. **72 Chief Justice Directives (CJDs)** including the foundational **CJD 11-01 Statewide Electronic Filing Standards** (effective Jan 1, 2026) are auto-pulled verbatim from `coloradojudicial.gov` by `scripts/pull_co_court_rules.py`. The rule sets themselves — **C.R.C.P., CRE, C.A.R., Colorado Rules of Professional Conduct** — are published commercially by West (Colorado Court Rules) and LexisNexis under copyright, with no free Colorado-government mirror, so the corpus carries pointer stubs for those sets and the streamlined Chapter 18 county-court / Chapter 25 small-claims rules. Total corpus: ~1.3 MB across 78 MD files.
 - **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`.
 - **`federal-bankruptcy/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-bankruptcy/`.
 - **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`.
@@ -178,7 +183,7 @@ Mirrors the WA/OR/CA corpora structure:
 CO pull scripts:
 
 - **`scripts/pull_co_statutes.py`** — fetches C.R.S. title PDFs from `content.leg.colorado.gov`, runs `pdftotext -layout`, slices by `ARTICLE N` headers, and emits one MD file per article with `## § NN-N-NNN. Title` section headings. Includes `http_get_bytes()` retry helper (3 retries with exponential backoff) and atomic tmp-rename writes. Wired into the quarterly `refresh-references` workflow under `target=co`.
-- `scripts/pull_co_court_rules.py` — TODO; would fetch C.R.C.P., CRE, C.A.R., and CJDs from coloradojudicial.gov.
+- **`scripts/pull_co_court_rules.py`** — walks the paginated CJD index at `https://www.coloradojudicial.gov/supreme-court/chief-justice-directives`, downloads each PDF, converts via `pdftotext -layout`, dedupes page-header noise, and emits one MD file per CJD (`CJD-NN-NN.md`). For the four paywalled rule sets (C.R.C.P., CRE, C.A.R., Colo. RPC) plus the C.R.C.P. county-court / small-claims subsets, the script writes pointer-stub MDs (idempotent — existing hand-authored files are preserved unless `--overwrite-stubs` is passed). Mirrors `pull_co_statutes.py`'s atomic-write / ThreadPoolExecutor pattern. Wired into the quarterly `refresh-references` workflow under `target=co`.
 
 ## Common commands
 
@@ -197,11 +202,11 @@ python3 scripts/pull_federal_debt_laws.py
 python3 scripts/pull_ucc.py --workers 8
 python3 scripts/pull_wa_rcw.py --workers 12
 
-# Refresh reference corpora — Oregon (pull scripts to be added in a follow-up PR):
-# python3 scripts/pull_oregon_rules.py --workers 12 \
-#   --manifest plugins/or-court-docs/skills/or-law-references/references/court-rules/_manifest.json
-# python3 scripts/pull_oregon_ors.py --workers 12 \
-#   --manifest plugins/or-court-docs/skills/or-law-references/references/or-ors-debt/_manifest.json
+# Refresh reference corpora — Oregon
+python3 scripts/pull_oregon_rules.py \
+  --out plugins/or-court-docs/skills/or-law-references/references/court-rules
+python3 scripts/pull_oregon_ors.py --workers 4 \
+  --out plugins/or-court-docs/skills/or-law-references/references/or-ors-debt
 
 # Plugin-internal helpers (used by certain skills)
 python3 plugins/wa-court-docs/scripts/format-check.py <file>   # GR 14 compliance
@@ -353,7 +358,7 @@ scripts/
   pull_ca_court_rules.py            # courts.ca.gov → ca court-rules/
   pull_ca_statutes.py               # leginfo.legislature.ca.gov → ca-statutes-debt/
   pull_co_statutes.py               # content.leg.colorado.gov C.R.S. PDFs → co-statutes-debt/
-  # TODO: pull_oregon_rules.py       # counciloncourtprocedures.org + courts.oregon.gov → or court-rules/
-  # TODO: pull_oregon_ors.py         # oregonlegislature.gov → or-ors-debt/  (OR ORS content currently maintained via ad-hoc agent fetches)
-  # TODO: pull_co_court_rules.py     # coloradojudicial.gov → co court-rules/
+  pull_co_court_rules.py            # coloradojudicial.gov CJD PDFs → co court-rules/ (+ paywalled-rule stubs)
+  pull_oregon_rules.py              # oregonlegislature.gov + OJD SharePoint + osbar.org → or court-rules/
+  pull_oregon_ors.py                # oregonlegislature.gov → or-ors-debt/
 ```

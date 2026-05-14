@@ -1,7 +1,7 @@
 # ORS Chapter 73 — UCC Article 3 (negotiable instruments)
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors073.html
-> **Fetched:** 2026-05-13
+> **Fetched:** 2026-05-14
 > **Format:** verbatim conversion of the official HTML source
 
 ---

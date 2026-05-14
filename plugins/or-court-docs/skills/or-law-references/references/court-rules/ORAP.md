@@ -1,7 +1,7 @@
 # ORAP — Oregon Rules of Appellate Procedure
 
-> **Source:** https://www.courts.oregon.gov/rules/ORAP/ORAP-2026-FullPermanentTempAmendments.pdf (linked from https://www.courts.oregon.gov/rules/Pages/orap.aspx)
-> **Fetched:** 2026-05-13
+> **Source:** https://www.courts.oregon.gov/rules/ORAP/ORAP-2026-FullPermanentTempAmendments.pdf
+> **Fetched:** 2026-05-14
 > **Format:** verbatim conversion of the official PDF source
 
 ---
@@ -9,11 +9,9 @@
                                OREGON RULES OF
                              APPELLATE PROCEDURE
 
-
                                  SUPREME COURT
                                       and
                                 COURT OF APPEALS
-
 
                           Permanent Amendments Effective
                                  January 1, 2025
@@ -31,8 +29,6 @@
     Or App 600, 600, ___ P3d ___ (January 28, 2026) (explaining that paragraph (1)(f)
     expired of its own terms December 31, 2024)).
 
-
-
                                 OJD Publications Section
                                     1163 State Street
                                Salem, Oregon 97301-2563
@@ -42,8 +38,6 @@
 
                              Version date: January 29, 2026
 
-
-
                 This document has no copyright and may be reproduced.
 
 This page left blank intentionally.
@@ -51,7 +45,6 @@ This page left blank intentionally.
                             TABLE OF CONTENTS
 
                         Oregon Rules of Appellate Procedure
-
 
                                       FEES
 
@@ -92,9 +85,6 @@ Filing Fees …………………………………………………………�
 2.10   Separate Notices of Appeal ………………………………………………               15
 
 2.15   Filing Fees in Civil Cases ………………………………………………… 16
-
-
-
 
                                          i
 
@@ -144,8 +134,6 @@ Filing Fees …………………………………………………………�
 
 3.45   Agreed Narrative Statement ……………………………………………… 40
 
-
-
                                          ii
 
 3.50   Return of Records and Exhibits …………………………………………... 40
@@ -192,9 +180,6 @@ Filing Fees …………………………………………………………�
 4.70   No Continuances ………………………………………………………….. 59
 
 4.72   Motion Not Tolling Time ………………………………………………… 59
-
-
-
 
                                            iii
 
@@ -243,8 +228,6 @@ Filing Fees …………………………………………………………�
 5.80   Time for Filing Briefs …………………………………………………….. 78
 
        Brief Time Chart 1 ……………………………………………………….. 80
-
-
 
                                         iv
 
@@ -342,8 +325,6 @@ Filing Fees …………………………………………………………�
 
 8.50   Segregation of Protected Personal Information …………………………... 123
 
-
-
                                              vi
 
 8.52   Confidential and Sealed Attachments …………………………………… 124
@@ -391,8 +372,6 @@ Filing Fees …………………………………………………………�
 10.30 Nonprecedential and Precedential Decisions ……………………………... 146
 
 10.35 Joint Motions for Resolution by Unpublished Order …………………….. 148
-
-
 
                                        vii
 
@@ -442,8 +421,6 @@ Filing Fees …………………………………………………………�
 12.25 Bar Admission, Reinstatement, and
       Disciplinary Proceedings …………………………………………………. 173
 
-
-
                                        viii
 
 12.27 Judicial Disability and Disciplinary Proceedings ………………………… 175
@@ -458,7 +435,6 @@ Filing Fees …………………………………………………………�
       the Energy Facility Siting Council ……………………………………….. 185
 
 12.40 Direct Review of Statutes…………………………………………………. 186
-
 
                       13. COSTS AND DISBURSEMENTS,
                       ATTORNEY FEES, AND DAMAGES
@@ -489,9 +465,6 @@ Filing Fees …………………………………………………………�
 
 15.10 Appellate Settlement Conference Program
       in the Supreme Court ……………………………………………………... 201
-
-
-
 
                                       ix
 
@@ -587,9 +560,6 @@ Appendix 9.05   Illustration for ORAP 9.05 -- Petition for Review …………�
 Appendix 10.15 Illustration for ORAP 10.15 --
                Termination of Parental Rights Notice of Appeal ……………… 252
 
-
-
-
                                           xi
 
 Appendix 11.05 Illustration for ORAP 11.05 --Sample Case
@@ -610,9 +580,6 @@ Appendix 16.05-3   Associated Documents …………………………………�
 Appendix 16.50 Illustration for ORAP 16.50
                Hyperlinks and Bookmarks in eFiled Briefs …………………… 261
 
-
-
-
                                        xii
 
                                       FILING FEES
@@ -627,9 +594,6 @@ Appellate Procedure. Confirm current filing fees on the Judicial Department's we
 the following page:
 <https://www.courts.oregon.gov/courts/appellate/rules/Pages/cases.aspx>
 
-
-
-
                                               xiii
 
 This page left blank intentionally.
@@ -640,7 +604,6 @@ This page left blank intentionally.
                                        SCOPE OF RULES
 
         These rules apply to all proceedings in the Supreme Court and Court of Appeals.
-
 
                                      Rule 1.10
                           CITATION TO APPELLATE RULES;
@@ -671,7 +634,6 @@ Oregon Appellate Courts Advance Sheets and on the Oregon Rules of Appellate Proc
 on the Judicial Department's website:
 <https://www.courts.oregon.gov/courts/appellate/rules/Pages/orap.aspx>
 
-
                                            Rule 1.15
                                         TERMINOLOGY
 
@@ -681,8 +643,6 @@ of the rules.
         (2)     Singular and plural shall each include the other, where appropriate.
 
         (3)     In these rules, unless expressly qualified or the context or subject matter
-
-
 
                                                   1                                           Chapter 1
 
@@ -733,8 +693,6 @@ otherwise requires:
               (o)     "Domestic relations case" includes but is not necessarily limited to these
        kinds of cases: dissolution of marriage, dissolution of domestic partnership, filiation,
 
-
-
                                                 2                                       Chapter 1
 
        paternity, child support enforcement, child custody, modification of judgment of
@@ -783,9 +741,6 @@ Department. Effective January 11, 2018, the State Court Administrator delegated,
 designation, to the current Appellate Court Administrator the duties to act as court administrator
 for the Supreme Court and Court of Appeals.
 
-
-
-
                                                  3                                       Chapter 1
 
                                    Rule 1.20
@@ -822,7 +777,6 @@ _________
 1
   See ORS 19.250(1)(e).
 
-
                                          Rule 1.25
                                    COMPUTATION OF TIME
 
@@ -835,8 +789,6 @@ closed before the end of normal working hours during which documents may be file
 those events, the period runs until the end of the next day the court is open.
 
        (2)     When the period of time prescribed or allowed relates to serving a public officer
-
-
 
                                                   4                                         Chapter 1
 
@@ -861,7 +813,6 @@ p.m.
 _________
 See ORS 174.120 and ORCP 10 A.
 
-
                                       Rule 1.30
                            LITIGANT CONTACT INFORMATION
 
@@ -876,8 +827,6 @@ alternative contact information that the Administrator may make available for pu
 and for purpose of service under ORAP 1.35(2). The Administrator will not make the party's
 actual telephone number or address available for public inspection.
 
-
-
                              Rule 1.32
         OUT-OF-STATE ATTORNEY AND SELF-REPRESENTED PARTY
     CONTACT INFORMATION; CHANGES IN CONTACT INFORMATION FOR
@@ -886,8 +835,6 @@ actual telephone number or address available for public inspection.
         (1)     An out-of-state attorney who appears by brief or argues the cause under ORAP
 6.10(4) or ORAP 8.10(4) and any self-represented party must provide the court with the address
 for that attorney or party.
-
-
 
                                                   5                                       Chapter 1
 
@@ -909,7 +856,6 @@ _____________
 1
   See also ORAP 16.10(2)(a)(v), regarding an updated email address for an Oregon State Bar
 licensee who is a registered user of the appellate eFiling system.
-
 
                                           Rule 1.35
                                     FILING AND SERVICE
@@ -936,9 +882,6 @@ licensee who is a registered user of the appellate eFiling system.
                         State Street, Salem, Oregon 97301-2563 or in person to the Appellate
                         Court Administrator, Appellate Court Records Section, 1163 State Street,
                         Salem, Oregon 97301-2563.
-
-
-
 
                                                   6                                        Chapter 1
 
@@ -987,9 +930,6 @@ Service
           person relies on the date of delivery for mailing, the person must certify
           the date of delivery to the person or place designated by the facility for
           handling outgoing mail.
-
-
-
 
                                     7                                       Chapter 1
 
@@ -1040,8 +980,6 @@ another person as provided in ORCP 9 or by commercial delivery service.
               (ii)    Electronic service via the eFiling system is permitted only on
        authorized users of the eFiling system and only as provided in ORAP 16.45.
 
-
-
                                            8                                       Chapter 1
 
                        (iii) Service by email or facsimile communication is permitted only as
@@ -1091,8 +1029,6 @@ petition for review under ORAP 9.05. ORAP 16.05(7).
 2
     As of January 1, 2024, ORS 19.260(1) provides:
 
-
-
                                                    9                                          Chapter 1
 
                "(1)(a) Filing a notice of appeal in the Court of Appeals or the Supreme Court
@@ -1134,14 +1070,11 @@ which requires service of petitions for judicial review by registered or certifi
 197.850(4), relating to judicial review of Land Use Board of Appeals orders, which requires
 service of petitions for judicial review by first class, registered, or certified mail.
 
-
                                   Rule 1.40
                 VERIFICATION; DECLARATIONS; ADOPTING ORCP 17
 
        (1)     Except if specifically require by statute, no thing filed with the appellate court
 need be verified.
-
-
 
                                                  10                                        Chapter 1
 
@@ -1176,8 +1109,6 @@ See generally ORS 138.090 regarding the signing of notices of appeal in criminal
 19.250(1)(g) regarding the signing of notices of appeal in civil cases, and ORAP 5.05(3)(e)
 regarding the signing of briefs.
 
-
-
                                          Rule 1.45
                                    FORM REQUIREMENTS
 
@@ -1193,7 +1124,6 @@ include:
 
        (2)   As provided in ORAP 1.35(1)(a)(v), the caption of a corrected or amended filing
 must prominently display the word "CORRECTED" or "AMENDED," as applicable, and the
-
 
                                                  11                                        Chapter 1
 
@@ -1223,9 +1153,6 @@ apply to the record on appeal or review.
 _________
 1
   See ORS 7.250.
-
-
-
 
                                                12                                         Chapter 1
 
@@ -1276,7 +1203,6 @@ support jurisdiction.
        other parties who appeared in the trial court and on all parties identified in the notice of
        appeal as adverse parties.
 
-
                                                   13                                         Chapter 2
 
                (b)    In any civil case in which the adverse party is a governmental unit and an
@@ -1324,8 +1250,6 @@ _________
 * See UTCR 21.060(3)(b) (describing how to identify the entry date in a circuit court register of
 actions); Tax Court Rule 9 A (incorporating UTCR chapter 21 in Tax Court proceedings).
 
-
-
                                                 14                                         Chapter 2
 
 1
@@ -1360,7 +1284,6 @@ see ORS 138.085.
 
 See Appendix 2.05 for a form of notice of appeal.
 
-
                                           Rule 2.10
                                 SEPARATE NOTICES OF APPEAL
 
@@ -1375,7 +1298,6 @@ consolidate the appellate cases.
        (2)     After a party has filed a notice of appeal from a decision in a trial court case, if
 another party files a notice of appeal from a decision in the same trial court case, the
 Administrator may place the subsequent notice of appeal in the same appellate file as the first
-
 
                                                    15                                       Chapter 2
 
@@ -1393,7 +1315,6 @@ subject to the following:
         (3)      With respect to violation or infraction cases initiated by citations and heard by the
 trial court at the same time, one notice of appeal identifying the judgment or judgments being
 appealed is sufficient.
-
 
                                          Rule 2.15
                                 FILING FEES IN CIVIL CASES
@@ -1426,8 +1347,6 @@ appearance fee at the time of the appearance in the subsequent appeal.
        (4)     (a)    If two or more respondents appearing jointly submit a single brief or other
        first appearance, only one appearance fee is required.
 
-
-
                                                  16                                         Chapter 2
 
               (b)    If a respondent concurs in a brief but does not join in submitting it, no
@@ -1453,7 +1372,6 @@ contempt cases.
   For example, appeals taken from judgments entered under ORCP 67 B at significantly different
 times.
 
-
                                  Rule 2.20
               APPEAL FROM SUPPLEMENTAL JUDGMENTS ON COSTS
               AND ATTORNEY FEES AFTER NOTICE OF APPEAL FILED
@@ -1476,8 +1394,6 @@ served, and if a respondent intends to challenge the supplemental judgment on ap
                (b)    If that respondent has not, before entry of the supplemental judgment,
        timely filed notice of cross-appeal, that respondent, within 30 days after entry of the
        supplemental judgment, shall serve and file a notice of cross-appeal.
-
-
 
                                                  17                                         Chapter 2
 
@@ -1528,7 +1444,6 @@ wishes to appeal from the subsequent order or judgment:
 
                (d)     Any such notice of appeal, amended notice of appeal, or amended notice
 
-
                                                 18                                         Chapter 2
 
          of cross-appeal shall contain the appellate case number of the pending appeal and shall be
@@ -1573,12 +1488,9 @@ See ORAP 10.15 regarding expediting dependency cases.
 
 See ORAP 7.50 regarding summary affirmance in juvenile cases.
 
-
                                         Rule 2.25
                                      CASE TITLES;
                                  CHANGES TO CASE TITLES
-
-
 
                                                  19                                       Chapter 2
 
@@ -1629,7 +1541,6 @@ judicial review.
               (d)    A party who appears on appeal under paragraph (a) or (b) of this
        subsection may recover costs and attorney fees, if any, and is liable for costs and attorney
 
-
                                                  20                                         Chapter 2
 
        fees, if any, the same as any party to an appeal.
@@ -1672,14 +1583,12 @@ and entities will honor the court's post-publication modification of an opinion.
 
 See Appendix 2.25.
 
-
                                          Rule 2.30
                                       CONSOLIDATION
 
        The appellate court, on motion of a party or on its own motion, may consolidate cases for
 purposes of appeal. Any party may file an objection to another party's motion for consolidation
 within 14 days after the filing of the motion. The appellate court, on motion of a party or on its
-
 
                                                 21                                       Chapter 2
 
@@ -1725,11 +1634,9 @@ issue the appellate judgment.
 _________
 See generally ORS 19.235.
 
-
                                   Rule 2.40
               NOTICE OF APPEAL IN GUILTY OR NO CONTEST PLEA,
               PROBATION OR SENTENCE SUSPENSION REVOCATION,
-
 
                                                 22                                        Chapter 2
 
@@ -1830,7 +1737,6 @@ colorable claims of error.
        Appeals for a summary determination under ORS 14.165 of the question of authority to
        decide a case.
 
-
                                                 24                                         Chapter 2
 
        (2)     Court of Appeals Determination that it is the Correct Forum
@@ -1879,7 +1785,6 @@ _________
 * Regardless of the date that the case is deemed filed in the Court of Appeals for the purpose of
 determining the next event in the appellate process, see ORS 14.165(6) and (7) regarding
 
-
                                                 25                                        Chapter 2
 
 determining the timeliness of the filing of the action or proceeding.
@@ -1888,9 +1793,6 @@ See generally ORS 14.165. See ORS 14.165(10) for a definition of "public body" a
 
 With respect to cases subject to referral to the Court of Appeals under ORS 34.102(5), see ORAP
 4.74.
-
-
-
 
                                                 26                                   Chapter 2
 
@@ -1929,7 +1831,6 @@ _________
   See ORS 19.365(4) regarding supplementation and correction of the record; see also ORAP
 3.40 regarding correction of transcripts.
 
-
                                  Rule 3.07
             INSPECTION OF CONFIDENTIAL AND SEALED MATERIALS,
            INCLUDING PRESENTENCE REPORTS IN CRIMINAL APPEALS
@@ -1941,8 +1842,6 @@ paper form, the trial court shall place such material in a separate, sealed enve
 follows:
 
                 (a)     If the trial court determines that the material be subject to inspection only
-
-
 
                                                   27                                          Chapter 3
 
@@ -1992,9 +1891,6 @@ motion to the trial court for a ruling.
 to restricted inspection under this rule, the Administrator shall note on the envelope the date of
 the inspection and the person who inspected the material.
 
-
-
-
                                                 28                                         Chapter 3
 
        (7)     A judge of the appellate court, the judge's legal and administrative staff, and the
@@ -2008,7 +1904,6 @@ authorized by law to any material submitted to an appellate court when the appel
 determines that such material is not subject to inspection by a party, a party's attorney, or the
 public. The appellate court may designate material as not subject to inspection by a party, a
 party's attorney, or the public on its own motion or in response to a motion filed by any party.
-
 
                                       Rule 3.10
                        DUTIES OF TRIAL COURT ADMINISTRATOR
@@ -2045,12 +1940,9 @@ modify any erroneous term in the judgment under ORS 137.172; an amended judgment
 specifying the amount of restitution to be paid by the defendant under ORS 137.105; a modified
 judgment under ORS 137.754; and a judgment or new or amended judgment under ORS
 
-
-
                                                   29                                          Chapter 3
 
 19.270(4).
-
 
                                          Rule 3.15
                                 PREPARATION AND FILING OF
@@ -2089,15 +1981,12 @@ See ORS 19.005, ORS 19.365, and ORS 138.015.
 
 See ORAP 3.63 regarding the trial court record in proceedings recorded by videotape equipment.
 
-
                                             Rule 3.20
                                         TRIAL COURT FILE
 
         (1)      The trial court administrator shall prepare an index of the contents of the trial
 court file and shall securely fasten the index and file in a suitable cover or folder showing on the
 outside the title and trial court number of the case and the court and county from which the
-
-
 
                                                    30                                          Chapter 3
 
@@ -2110,7 +1999,6 @@ chronological order, with the last filed document on the top.
 
 _________
 See ORS 19.005(7) and ORS 19.365(2).
-
 
                                               Rule 3.25
                                              EXHIBITS
@@ -2147,8 +2035,6 @@ of that party's exhibits.
         (5)     For purposes of this rule, "documentary exhibits" include text documents,
 photographs and maps, if not oversized, and audio and video recordings. An oversized document
 is one larger than standard letter size or legal size.
-
-
 
                                                   31                                         Chapter 3
 
@@ -2195,9 +2081,6 @@ the file.
 
 _________
 See generally ORS 19.395.
-
-
-
 
                                                  32                                         Chapter 3
 
@@ -2247,8 +2130,6 @@ oral proceedings reported by:
        audio or video tape recording to a transcriber before the transcript due date, the transcript
        coordinator shall notify the appellate court of that fact.
 
-
-
                                                 33                                        Chapter 3
 
         (3)     After making arrangements with the court reporter(s) or transcriber(s) as provided
@@ -2296,8 +2177,6 @@ arrangements have been made to prepare a transcript to:
               (d)   Upon notice from the Administrator of the settlement of the transcript, file
        with the Administrator an electronic version of the transcript in the form required by
        ORAP 3.35(2) and, at the same time, file with the Administrator and serve on each party
-
-
 
                                                 34                                         Chapter 3
 
@@ -2348,8 +2227,6 @@ arrangements have been made to prepare a transcript to:
         (6)     The court reporter or transcriber may not charge for preparing more than one
 original transcript and may charge only at the rate for copying a transcript for any additional
 
-
-
                                                 35                                         Chapter 3
 
 transcript that may be needed for an appeal or appeals:
@@ -2371,7 +2248,6 @@ _________
 5
  See ORAP 3.35(2)(d) regarding prohibition of the four pages of transcript per one standard
 page format in version of transcript filed with the court.
-
 
                                             Rule 3.35
                                       FORM OF TRANSCRIPT
@@ -2398,9 +2274,6 @@ page format in version of transcript filed with the court.
                  (d)    Colloquy, parentheticals, and exhibit markings shall begin no more than
           15 spaces from the left margin. Text that carries on to the next line shall begin at the left
           margin.
-
-
-
 
                                                    36                                         Chapter 3
 
@@ -2451,8 +2324,6 @@ consecutively numbered on their covers.
 
 (2)       The electronic version of the transcript filed with the Administrator as required by
 
-
-
                                            37                                        Chapter 3
 
 ORAP 3.33(4)(c) shall be in the following form:
@@ -2486,7 +2357,6 @@ _________
   See ORAP 4.20 regarding use of previously prepared single-sided transcripts in judicial review
 cases.
 
-
                                    Rule 3.40
                   ADDITION TO OR CORRECTION OF TRANSCRIPT
 
@@ -2502,8 +2372,6 @@ cases.
        the motion on the Administrator, the transcript coordinator, and the court reporter or
        transcriber. An authorized user of the trial court electronic filing system may serve a copy
        of the motion on the transcript coordinator by using the "Courtesy Copies" email function
-
-
 
                                                  38                                         Chapter 3
 
@@ -2554,8 +2422,6 @@ the transcript.
 _________
 See generally ORS 19.370(5) to (7).
 
-
-
                                                   39                                          Chapter 3
 
 1
@@ -2572,7 +2438,6 @@ See ORS 19.370(6)(b) and ORAP 3.10(1) regarding the trial court administrator's 
 transmit to the Administrator a copy of the order denying a motion to correct or add to the
 transcript and settling the transcript.
 
-
                                       Rule 3.45
                             AGREED NARRATIVE STATEMENT
 
@@ -2585,7 +2450,6 @@ transmittal to the Administrator. When the narrative statement is delivered for 
 court, the appellant shall give notice thereof to the Administrator, showing the date of filing.
 _________
 See ORS 19.380.
-
 
                                        Rule 3.50
                            RETURN OF RECORDS AND EXHIBITS
@@ -2600,13 +2464,10 @@ rests exclusively with the trial court or agency.
 _________
 See ORS 19.365(6); see also ORAP 3.55.
 
-
                                     Rule 3.55
                          WITHDRAWAL OF PAPERS OR EXHIBITS
 
        No one shall remove from the office of the Administrator or from the court any thing on
-
-
 
                                                  40                                         Chapter 3
 
@@ -2626,7 +2487,6 @@ file with the appellate court except:
 motion stating the reason for the request and specifying the thing desired. If the court grants the
 motion, the person allowed to withdraw the thing shall furnish the Administrator a receipt for the
 thing withdrawn.
-
 
                                     Rule 3.63
                     USE OF AUDIO OR VIDEO RECORD ON APPEAL
@@ -2656,8 +2516,6 @@ transcript and is allowing the appeal to be heard on the audio or video record a
 recording not previously transcribed that the appellate court determines necessary for
 deliberation. The cost of transcription under this subsection shall be paid in the first instance by
 the parties to the appeal in such proportions as directed by the appellate court.
-
-
 
                                                 41                                         Chapter 3
 
@@ -2702,9 +2560,6 @@ _________
 recording is delivered electronically; $10.00 if delivered on compact disc; or $9.00 + the actual
 cost of court-provided media if delivered on media other than compact disc.
 
-
-
-
                                                  42                                         Chapter 3
 
                               4. JUDICIAL REVIEW OF
@@ -2724,7 +2579,6 @@ as for appeals in civil cases.
 _________
 See generally ORS 183.400, ORS 183.410, and ORS 183.482.
 
-
                                          Rule 4.10
                                    REVIEW OF ORDERS OF
                                      BOARD OF PAROLE
@@ -2733,7 +2587,6 @@ See generally ORS 183.400, ORS 183.410, and ORS 183.482.
 which shall be entitled "Parole Review," shall be in accordance with the rules for judicial review
 of orders of state agencies in contested cases and shall show the Board of Parole and Post-Prison
 Supervision as respondent.
-
 
                                     Rule 4.15
                      FORM, CONTENT, AND SERVICE OF PETITION
@@ -2753,8 +2606,6 @@ substantially in the form illustrated in Appendix 4.15-1 or Appendix 4.15-2 and 
 
               (b)     A designation of the parties in the judicial review proceeding before the
        appellate court, including their positions in the appellate court proceeding (e.g.,
-
-
 
                                                 43                                         Chapter 4
 
@@ -2806,8 +2657,6 @@ Protocol (SFTP).
 3
     See footnote 2 to ORAP 1.35 for the service address of the Attorney General.
 
-
-
                                                  44                                         Chapter 4
 
 4
@@ -2817,7 +2666,6 @@ ORAP 5.12.
 
 See ORS 183.482 for additional requirements respecting the contents of a petition for judicial
 review and service requirements; ORS 656.298 (same for workers' compensation cases).
-
 
                                       Rule 4.20
                              RECORD ON JUDICIAL REVIEW
@@ -2856,8 +2704,6 @@ Protocol (SFTP), as provided in this rule.
                (a)     (i)    If a state agency has its own process for preparing the record,
                including any transcript, for use by the agency or tribunal and the form of the
                record substantially complies with this rule, the agency may submit the record in
-
-
 
                                                45                                        Chapter 4
 
@@ -2908,8 +2754,6 @@ to each document on the disk.
         (f)     The agency must assemble the record in this order: The agency file, the
 parties’ exhibits, and any transcript.
 
-
-
                                           46                                      Chapter 4
 
                (g)    If the agency is transmitting the record in paper form, the agency must
@@ -2956,9 +2800,6 @@ ORS 183.482(4).
 
                        (i)     Delivery of the record in optical disk form to the Administrator for
                filing as provided in the Instructions; or
-
-
-
 
                                                47                                        Chapter 4
 
@@ -3007,9 +2848,6 @@ with the agency for service by other means.
        record, the party must notify the agency within 14 days of receipt, with contact
        information for the agency.3 If a party so notifies the agency, the agency must
        serve the record on the party in paper form within seven days.
-
-
-
 
                                         48                                        Chapter 4
 
@@ -3060,9 +2898,6 @@ _________
   The Instructions are published at:
 <https://www.courts.oregon.gov/courts/appellate/rules/Pages/orap.aspx>.
 
-
-
-
                                                 49                                         Chapter 4
 
 3
@@ -3073,7 +2908,6 @@ how to access the SFTP website and download the record.
 * "Document" as used here means a document in the agency file, an exhibit, or any part of the
 transcript of oral proceedings that the administrative law judge, agency, or court has ordered to
 be treated as confidential or sealed.
-
 
                                   Rule 4.22
                   CORRECTING THE RECORD ON JUDICIAL REVIEW
@@ -3111,9 +2945,6 @@ shall be captioned "In the Court of Appeals of the State of Oregon" or "In the S
 the State of Oregon," as appropriate, and shall be entitled "Motion for Review of Agency Order
 Under ORAP 4.22."
 
-
-
-
                                                  50                                        Chapter 4
 
        (5)     (a)     If no party files a motion under subsection (1), the court will deem the
@@ -3146,7 +2977,6 @@ See ORS 183.482(4) regarding correcting the record on judicial review of orders 
 cases: "* * * The court may require or permit subsequent corrections or additions to the record
 when deemed desirable. * * *"
 
-
                                           Rule 4.25
                                    ADDITIONAL EVIDENCE
 
@@ -3164,8 +2994,6 @@ order, shall be filed with the court.
          (3)      The filing by the agency of the new evidence and findings and order, or certificate
 that it elects to stand on its original findings and order, shall be accompanied by proof of service
 
-
-
                                                  51                                          Chapter 4
 
 of copies of the new evidence, except exhibits unless otherwise provided by law, and the
@@ -3174,7 +3002,6 @@ agency's new findings and order or certificate on all parties required to be ser
        (4)      The granting of an application to present additional evidence shall suspend the
 time for filing briefs until the filing by the agency of the findings upon the additional evidence,
 unless otherwise ordered by the court.
-
 
                                        Rule 4.30
                                REVIEW OF AGENCY DENIAL
@@ -3188,7 +3015,6 @@ which the agency may respond to the motion, as provided in ORAP 7.05(3).
 
 _________
 See ORS 183.482(3)(d).
-
 
                               Rule 4.35
          AGENCY WITHDRAWAL OF ORDERS FOR PURPOSE OF AGENCY
@@ -3214,8 +3040,6 @@ time designated therefor expires, unless otherwise ordered by the court.
 paragraph (2)(a) of this rule, and once the agency issues an order on reconsideration, the
 Attorney General shall file a copy of the order on reconsideration with the Administrator within
 seven days after the agency issues the order.
-
-
 
                                                  52                                        Chapter 4
 
@@ -3265,14 +3089,10 @@ _________
 1
   See ORS 183.482(6).
 
-
-
-
                                                 53                                         Chapter 4
 
 2
     See ORS 144.335(7).
-
 
                                         Rule 4.40
                                  APPEARANCE BY AGENCY
@@ -3300,15 +3120,9 @@ date set for argument.
        (6)     An agency intervening in a proceeding under this rule is a party only in the
 appellate courts and the agency's party status terminates upon issuance of the appellate judgment.
 
-
-
-
                                                  54                                         Chapter 4
 
 This page left blank intentionally.
-
-
-
 
                55                     Chapter 4
 
@@ -3360,8 +3174,6 @@ the Columbia River Gorge National Scenic Area Act, PL 99-663, is not expedited. 
 review of LCDC orders concerning designation of urban reserves under ORS 195.145(1)(b) or
 rural reserves under ORS 195.141); ORS 196.115(2)-(4) (judicial review of certain CRGC final
 
-
-
                                                   56                                         Chapter 4
 
 actions or orders); ORS 197.375(8) (judicial review of referee decisions concerning expedited
@@ -3371,7 +3183,6 @@ industrial land use permits).
   See ORS 197.850. ORS 197.375(8) and ORS 197.726(3) provide that judicial review of referee
 decisions under those statutes may be taken "in the manner provided for review of final orders of
 the Land Use Board of Appeals under ORS 197.850 and 197.855."
-
 
                                        Rule 4.64
                               RECORD ON JUDICIAL REVIEW
@@ -3386,7 +3197,6 @@ LCDC, CRGC, expedited land division, or expedited industrial land use case, as a
 
        (3)      After the Administrator issues the appellate judgment, the Administrator will
 dispose of the record as provided in ORAP 4.20(10).
-
 
                                         Rule 4.66
                                  TIME FOR FILING BRIEFS
@@ -3408,9 +3218,6 @@ dispose of the record as provided in ORAP 4.20(10).
        (2)     On judicial review of a CRGC decision, briefing shall be completed according to
 the deadlines set out in ORAP 5.80.
 
-
-
-
                                                  57                                         Chapter 4
 
                                         Rule 4.67
@@ -3426,7 +3233,6 @@ _________
 1
   To determine whether material properly belongs in the excerpt of record or in an appendix, see
 ORAP 5.50 and ORAP 5.52.
-
 
                                           Rule 4.68
                                       CROSS-PETITIONS
@@ -3458,9 +3264,6 @@ ORAP 5.50 and ORAP 5.52.
 the same as for judicial review of administrative proceedings, and briefing on cross-petitions
 shall be completed according to the deadlines set out in ORAP 5.80.
 
-
-
-
                                                 58                                        Chapter 4
 
                                           Rule 4.70
@@ -3475,7 +3278,6 @@ and ORS 197.860 in a LUBA case or a referee case, or in ORS 197.651(8) in an LCD
         (2)    On judicial review of a CRGC decision, in the Court of Appeals, no continuance
 or extension shall be granted as to the time specified by statute for the transmission of the record.
 
-
                                        Rule 4.72
                                MOTION NOT TOLLING TIME
 
@@ -3485,7 +3287,6 @@ briefs, or hearing argument.
 
          (2)    On judicial review of a CRGC decision, a motion made before oral argument will
 not toll the time for transmission of the record.
-
 
                                       Rule 4.74
                          SUMMARY DETERMINATION OF LUBA
@@ -3510,8 +3311,6 @@ matter needs to be decided within a certain time.
         (4)      If counsel for either party or the circuit judge or chairperson, as appropriate,
 desires to set forth legal points or authorities in support of a position, a memorandum of points
 
-
-
                                                  59                                        Chapter 4
 
 and authorities shall accompany the file and cover letter and be transmitted to the Administrator
@@ -3527,15 +3326,9 @@ court to transfer a case to another court that has jurisdiction over the matter.
 _________
 See ORS 34.102(5).
 
-
-
-
                                                 60                                         Chapter 4
 
 This page left blank intentionally.
-
-
-
 
                61                     Chapter 4
 
@@ -3586,8 +3379,6 @@ other certificates, and the signature block do not count toward the word-count l
 
        (c)     If a party does not have access to a word-processing system that provides
 
-
-
                                          62                                        Chapter 5
 
        a word count, in the Supreme Court, an opening, answering, or combined brief is
@@ -3635,9 +3426,6 @@ reconsideration, or a response to a petition for review or reconsideration. All 
 conform to these requirements:
 
                 (a)    Briefs must be prepared such that, if printed:
-
-
-
 
                                                  63                                        Chapter 5
 
@@ -3688,8 +3476,6 @@ the name of the party or parties on whose behalf the brief is filed.
 
                (ii)    If both sides of the paper are used for text, the paper must be
 
-
-
                                            64                                      Chapter 5
 
                  sufficiently opaque to prevent the material on one side from showing through on
@@ -3729,7 +3515,6 @@ of a page.
 
 See Appendix 5.05-1.
 
-
                                         Rule 5.12
                             BRIEFS OR PETITIONS FOR REVIEW
                           CHALLENGING CONSTITUTIONALITY OF
@@ -3740,8 +3525,6 @@ jurisdiction that challenges the constitutionality of an Oregon statute or an Or
 provision shall, at the time the brief or petition is filed, provide the Attorney General1 with a
 copy of the brief or petition. The cover of the brief or petition shall state that the brief or petition
 
-
-
                                                   65                                         Chapter 5
 
 includes a challenge to the constitutionality of a statute or constitutional provision and shall
@@ -3750,7 +3533,6 @@ identify the statute or constitutional provision being challenged.
 _________
 1
   See footnote 2 to ORAP 1.35 for the service address of the Attorney General.
-
 
                                   Rule 5.15
                       REFERENCES IN BRIEFS TO PARTIES
@@ -3765,7 +3547,6 @@ appropriate specific designation.
 case or on judicial review of an order of the Board of Parole and Post-Prison Supervision that
 includes a conviction for an offense, or attempt to commit an offense, compiled in ORS Chapter
 163, any references to the victim of the offense must not include the victim's full name.
-
 
                                       Rule 5.20
                              REFERENCE TO EVIDENCE
@@ -3791,8 +3572,6 @@ either:
        (3)     The following abbreviations may be used:
 
                "P Tr" for pretrial transcript;
-
-
 
                                                  66                                        Chapter 5
 
@@ -3832,7 +3611,6 @@ Section of the Office of the State Court Administrator, 1163 State Street, Salem
 2563; (503) 986-5656; the Style Manual also is published on the Judicial Department’s website
 at: <https://www.courts.oregon.gov/publications/Pages/default.aspx>.
 
-
                                        Rule 5.30
                                ORDINANCES, CHARTERS,
                             STATUTES, AND OTHER WRITTEN
@@ -3842,8 +3620,6 @@ at: <https://www.courts.oregon.gov/publications/Pages/default.aspx>.
 administrative rule, so much of the provision as relevant shall be set forth verbatim with proper
 citation. If lengthy, such matter should be appended or footnoted and need not be set out
 verbatim if it appears in another brief in the case and is cross-referenced appropriately.
-
-
 
                                                  67                                        Chapter 5
 
@@ -3862,7 +3638,6 @@ and with complete citations), constitutional and statutory provisions, texts, tr
 authorities, and indicating the pages of the brief where the authorities are cited. Citations are to
 be in the form prescribed by the Oregon Appellate Courts Style Manual. Reference to "passim"
 or "et seq." in the index of authorities is discouraged.
-
 
                                         Rule 5.40
                                APPELLANT'S OPENING BRIEF:
@@ -3891,8 +3666,6 @@ of the nature and the jurisdictional basis of the action of the agency and of th
 
        (6)     A brief statement, without argument and in general terms, of questions presented
 on appeal.
-
-
 
                                                   68                                         Chapter 5
 
@@ -3942,8 +3715,6 @@ on appeal.
        (9)    A concise summary, without argument, of all the facts of the case material to
 determination of the appeal. The summary shall be in narrative form with references to the
 
-
-
                                                 69                                        Chapter 5
 
 places in the transcript, narrative statement, audio record, record, or excerpt where such facts
@@ -3974,7 +3745,6 @@ make one or more factual findings anew on appeal in some equitable proceedings; 
 ORAP 5.45(5) concerning the identification of standards of review for each assignment of error
 on appeal.
 
-
                                     Rule 5.45
                       ASSIGNMENTS OF ERROR AND ARGUMENT
 
@@ -3993,8 +3763,6 @@ other ruling that is being challenged.
        (4)    (a)     Each assignment of error must demonstrate that the question or issue
        presented by the assignment of error timely and properly was raised and preserved in the
        lower court. The court may decline to consider any assignment of error that requires the
-
-
 
                                                 70                                         Chapter 5
 
@@ -4046,8 +3814,6 @@ the court takes into account a non-exclusive list of factors, including the inte
 the nature of the case, the gravity of the error, and the ends of justice in the particular case. See
 State v. Vanornum, 354 Or 614, 629-30, 317 P3d 889 (2013).
 
-
-
                                                 71                                         Chapter 5
 
 2
@@ -4065,7 +3831,6 @@ consider in deciding whether to exercise its discretion.
 3
   See State v. Ardizzone, 270 Or App 666, 673, 349 P3d 597, rev den, 358 Or 145 (2015)
 (declining to review for plain error absent a request from the appellant).
-
 
                                        Rule 5.50
                                 THE EXCERPT OF RECORD
@@ -4096,8 +3861,6 @@ included in the opening brief.
               (f)      In criminal cases in which the defendant appealed after entering a
        conditional plea of guilty or no contest under ORS 135.335(3), the defendant must
        include in the excerpt of record the writing in which the defendant reserved for review on
-
-
 
                                                 72                                        Chapter 5
 
@@ -4149,8 +3912,6 @@ megabytes must be filed in compliance with ORAP 16.15(1).
  For other requirements for the excerpt of record in Land Use Board of Appeals cases, see
 ORAP 4.67.
 
-
-
                                                 73                                       Chapter 5
 
 3
@@ -4159,7 +3920,6 @@ including in the excerpt of record depending on the nature of the issues raised 
 full record is available and used by the court after submission of a case; therefore, the excerpt of
 record need include only those parts of the record that will be helpful to the court and the parties
 in preparing for and conducting oral argument.
-
 
                                             Rule 5.52
                                            APPENDIX
@@ -4174,7 +3934,6 @@ appeal is taken that should be in the excerpt of record.1
 _________
 1
  For other requirements for appendices to briefs in land use cases, see ORAP 4.67.
-
 
                                      Rule 5.55
                            RESPONDENT'S ANSWERING BRIEF
@@ -4201,8 +3960,6 @@ in the case meet any of the factors listed in ORAP 10.30(2).
        (4)     If a cross-appeal is abandoned, the respondent shall immediately notify the
 appellate court in writing and, if notice has not been given previously, the respondent shall notify
 
-
-
                                                 74                                         Chapter 5
 
 the court of the abandonment when the respondent's answering brief is filed, in writing and
@@ -4211,7 +3968,6 @@ separately from the brief.
        (5)     If the court gives an appellant leave to file a supplemental brief after the
 respondent's answering brief has been filed, the respondent may file a supplemental respondent's
 answering brief addressing those issues raised in the appellant's supplemental brief.
-
 
                                       Rule 5.57
                            RESPONDENT'S ANSWERING BRIEF:
@@ -4250,9 +4006,6 @@ _________
   This rule does not apply to a respondent who also is a cross-appellant and is assigning error as a
 cross-appellant.
 
-
-
-
                                                 75                                         Chapter 5
 
                                       Rule 5.60
@@ -4260,7 +4013,6 @@ cross-appellant.
 
         If the respondent files no brief, the cause will be submitted on the appellant's opening
 brief and appellant's oral argument, and the respondent shall not be allowed to argue the case.
-
 
                                           Rule 5.65
                               CROSS-APPELLANT'S OPENING BRIEF
@@ -4277,7 +4029,6 @@ brief.
 _________
 1
   See ORAP 5.55(4) regarding abandoned cross-appeals.
-
 
                                               Rule 5.70
                                             REPLY BRIEF
@@ -4302,9 +4053,6 @@ reply brief shall have an index and shall contain a summary of argument.
 
                         (i)      traffic, boating, wildlife, and other violations;
 
-
-
-
                                                    76                                       Chapter 5
 
                        (ii)    habeas corpus;
@@ -4326,7 +4074,6 @@ reply brief shall have an index and shall contain a summary of argument.
 
                        (ii)    if the court denies the motion, the court will strike the reply brief.
 
-
                                      Rule 5.75
                          ANSWERING BRIEF ON CROSS-APPEAL
 
@@ -4337,7 +4084,6 @@ brief, it shall be presented in a separate part of the reply brief and be shown 
 reply brief as "Answering Brief on Cross-Appeal." An answering brief on cross-appeal and a
 reply brief, whether filed as one brief or as separate briefs, shall be subject to the length
 limitations prescribed in ORAP 5.05.
-
 
                                          Rule 5.77
                                 JOINT AND ADOPTED BRIEFS
@@ -4353,8 +4099,6 @@ but shall not join or adopt a brief in another case.
        (3)     Joint Briefs
 
                (a)     If two or more parties join in a brief by signing the brief and have not
-
-
 
                                                  77                                         Chapter 5
 
@@ -4387,7 +4131,6 @@ _________
 1
   As used in this rule, "party" includes amicus curiae.
 
-
                                          Rule 5.80
                                   TIME FOR FILING BRIEFS
 
@@ -4405,8 +4148,6 @@ and excerpt of record shall be served and filed within 49 days after:
 
                (e)    if a transcript or narrative statement is not designated, the filing of the
        notice of appeal; or
-
-
 
                                                  78                                           Chapter 5
 
@@ -4445,14 +4186,10 @@ from the schedule that would otherwise result under this rule but that will pres
 positions in an orderly manner and to file a motion seeking approval of that suggested briefing
 schedule.
 
-
-
-
                                                  79                                         Chapter 5
 
                                                                                 BRIEF TIME CHART 1
     CASE TYPE                                                                                                                                         DATE FROM WHICH SCHEDULE IS
-
 
                                                                                                                             Cross-Appellant's Reply
                                                                                                                                                       CALCULATED
@@ -4463,7 +4200,6 @@ schedule.
                                                                                   Answering Brief to   Cross-Respondent's
                                                                                                                                                       counting from the date that any of the
                                                                                                                                                       following has occurred. See chart for
-
 
                            Opening Brief   Opening Brief                                                                    Brief
                                                                                                                                                       appropriate number of days. The answering
@@ -4507,9 +4243,6 @@ in pretrial custody on felony charges, see ORAP 10.25 and ORAP 12.07.
   Those LCDC orders specified in ORAP 4.60(1)(b).
 * Can be one brief.
 
-
-
-
                                                                                                                             80                                                           Chapter 5
 
                                                                                                BRIEF TIME CHART 2
@@ -4526,7 +4259,6 @@ CASE TYPE                                                                       
                                                                                                            answering brief due date is calculated by counting
                                                                                                                     Petition for
                                                                                         on the Merits
-
 
                       Opening Brief
                                       Cross-Opening Brief
@@ -4567,9 +4299,6 @@ Reapportionment
                          9/
                          15
      * Business days. See ORAP 1.15(3)(i).
-
-
-
 
                                                                                                                                       81              Chapter 5
 
@@ -4615,9 +4344,6 @@ otherwise, a response is due
 _________
 1
  See ORAP 1.35(1)(a) for the filing address of the Administrator.
-
-
-
 
                                                 82                                         Chapter 5
 
@@ -4668,8 +4394,6 @@ shall be submitted without oral argument, unless otherwise ordered by the court.
        (3)    On reviewing the record and the briefs filed by the parties, if the court identifies
 one or more arguably meritorious issues in the case, the court shall notify appellant's counsel of
 
-
-
                                                 83                                         Chapter 5
 
 the issue or issues so identified. Appellant's counsel shall have 28 days after the date of the
@@ -4685,7 +4409,6 @@ which case the matter will be submitted without oral argument, unless otherwise 
 court.
 _________
 See generally State v. Balfour, 311 Or 434, 451-53, 814 P2d 1069 (1991).
-
 
                                         Rule 5.92
                                SUPPLEMENTAL PRO SE BRIEFS
@@ -4717,9 +4440,6 @@ original brief with the court. If the client prepares and files the brief withou
 counsel, in addition to serving all other parties to the appeal, the client shall serve a copy of the
 brief on counsel.
 
-
-
-
                                                   84                                          Chapter 5
 
        (5)    The provision of ORAP 16.15(1) requiring that all electronic filings be text-
@@ -4735,7 +4455,6 @@ product of the party themselves, and not of the attorney representing the party.
  See ORAP 5.50(2) (indicating that an excerpt of record must contain "[t]he judgment or order
 on appeal or judicial review" and "[a]ny written or oral rulings by the lower tribunal or agency
 addressing the issues presented by the assignments of error").
-
 
                                      Rule 5.95
                     BRIEFS CONTAINING CONFIDENTIAL MATERIAL
@@ -4770,8 +4489,6 @@ and copying.
          appropriate, the court may authorize inspection or copying of a confidential brief based
          on a showing that the person is entitled as a matter of law to inspect or copy the material
 
-
-
                                                   85                                          Chapter 5
 
        that is confidential or exempt from disclosure.
@@ -4802,15 +4519,9 @@ eFiling attachments that are confidential or otherwise exempt from disclosure.
 
 * See Appendix 5.95.
 
-
-
-
                                                 86                                       Chapter 5
 
 This page left blank intentionally.
-
-
-
 
                87                     Chapter 6
 
@@ -4861,8 +4572,6 @@ this rule.
 
                        (i)      The timelines and procedures described in subsection (b) apply to
 
-
-
                                                  88                                         Chapter 6
 
        all matters in which an answering brief is filed on or after April 1, 2025.
@@ -4910,9 +4619,6 @@ period runs from the date on which the last answering brief is filed.
               (ii)     If one party has requested oral argument, and no other party
        requests oral argument, the party that requested oral argument may waive oral
        argument by notifying the court within 3 days of the filing of the answering brief.
-
-
-
 
                                          89                                          Chapter 6
 
@@ -4962,9 +4668,6 @@ expressed by the litigants in their Oral Argument Appearance Requests as follows
                 (iii) if the parties differ in their preferences, the argument will be held
         in a hybrid format.
 
-
-
-
                                           90                                          Chapter 6
 
                        (iv)   In the event that some, but not all, parties express a preference for
@@ -5005,7 +4708,6 @@ _________
   In any of the formats, one or more judges may participate through remote means. Generally, at
 least two judges will participate in person for hybrid and in-person arguments.
 
-
                                       Rule 6.10
                                  WHO MAY ARGUE;
                           FAILURE TO APPEAR AT ARGUMENT
@@ -5014,8 +4716,6 @@ least two judges will participate in person for hybrid and in-person arguments.
 Oral Argument Appearance Request under ORAP 6.05.
 
        (2)     An amicus curiae may present oral argument only if permitted by the court on
-
-
 
                                                 91                                        Chapter 6
 
@@ -5051,7 +4751,6 @@ oral argument of the case.
        that reasonably would not have been incurred but for failure to give timely notice of
        nonappearance.
 
-
                                      Rule 6.15
                            PROCEDURE AT ORAL ARGUMENT
 
@@ -5065,8 +4764,6 @@ oral argument of the case.
        reserve not more than 10 minutes of the time allowed for argument in which to reply.
 
                (c)    If there are two or more parties on one side, they shall divide their allotted
-
-
 
                                                 92                                        Chapter 6
 
@@ -5107,7 +4804,6 @@ _________
 2
     See ORAP 3.25 regarding arranging to have exhibits transmitted to the appellate court.
 
-
                                Rule 6.20
        ARGUMENT IN SALEM, OTHER LOCATIONS, AND BY REMOTE MEANS
 
@@ -5116,9 +4812,6 @@ Chief Justice Order 22-020, dated October 7, 2022, the court may set cases for o
 other locations throughout the state, and, pursuant to Chief Justice Order 22-012, dated June 23,
 2022, may set cases for oral argument by remote means. For purposes of this rule, "remote
 means" refers to an oral argument conducted by video conference with all parties and judges
-
-
-
 
                                                  93                                        Chapter 6
 
@@ -5168,9 +4861,6 @@ containing the following information:
         (3)     The filing of a petition for reconsideration is not necessary to exhaust remedies or
 as a prerequisite to filing a petition for review.
 
-
-
-
                                                 94                                        Chapter 6
 
        (4)      If a response to a petition for reconsideration is filed, the response shall be filed
@@ -5186,8 +4876,6 @@ _________
 1
   See ORAP 9.05(2) regarding the effect of a petition for reconsideration by the Court of Appeals
 on the due date and consideration of a petition for review by the Supreme Court.
-
-
 
                             Rule 6.30
               SPECIAL RULES FOR ORAL ARGUMENTS:
@@ -5221,8 +4909,6 @@ on the due date and consideration of a petition for review by the Supreme Court.
 
                (a)     The court will ordinarily schedule oral argument to be conducted in
 
-
-
                                                 95                                         Chapter 6
 
        person.
@@ -5254,7 +4940,6 @@ _________
 of Appeals is currently 1163 State Street, Salem, OR 97301) or any subsequent order of the
 Chief Justice that amends or supersedes that order.
 
-
                                      Rule 6.35
                         MOTIONS FOR WEBCASTING EXEMPTIONS
 
@@ -5273,8 +4958,6 @@ response must be filed within seven days after the filing of the motion.
        (4)       The court may, for good cause shown, shorten the time for filing a motion or
 response.
 
-
-
                                                 96                                        Chapter 6
 
 _________
@@ -5283,15 +4966,9 @@ _________
 Procedures for Webcasting Oral Arguments, available at this link:
 https://www.courts.oregon.gov/courts/appellate/media/Pages/webcasting.aspx).
 
-
-
-
                                              97                                         Chapter 6
 
 This page left blank intentionally.
-
-
-
 
                  98                   Chapter 6
 
@@ -5353,7 +5030,6 @@ _________
 review has or may be filed.
 2
     But see ORAP 7.25(5) regarding time for responding to a motion for an extension of time.
-
 
                                           Rule 7.10
                                    PREPARATION, FILING,
@@ -5452,7 +5128,6 @@ eFiling attachments that are confidential or otherwise exempt from disclosure.
 See Appendix 7.10-2 for illustrations of motion title designations and Appendix 7.10-3 for
 illustrations of motions for extension of time title designations.
 
-
                                             Rule 7.15
                                      DECISIONS ON MOTIONS
 
@@ -5476,7 +5151,6 @@ _________
   See ORAP 7.55 regarding the authority of the appellate commissioner of the Court of Appeals
 to decide motions and own motion matters in that court.
 
-
                                         Rule 7.25
                               MOTION FOR EXTENSION OF TIME
 
@@ -5490,8 +5164,6 @@ any act pertaining to an appeal.
           sought);
 
                   (b)     The date the brief or other action is due;
-
-
 
                                                      102                                     Chapter 7
 
@@ -5531,7 +5203,6 @@ _________
 See ORAP 7.10(1)(b) concerning captions of motions for extension of time and Appendix 7.10-3
 for illustrations of motions for extension of time.
 
-
                                       Rule 7.27
                            ORAL REQUEST FOR EXTENSION OF
                                  TIME TO FILE BRIEF
@@ -5560,7 +5231,6 @@ the grant or denial of the request in the appellate case register.
 time to file the brief unless such motion, made in writing, demonstrates extraordinary and
 compelling circumstances.
 
-
                                         Rule 7.30
                                  MOTIONS THAT TOLL TIME
 
@@ -5584,15 +5254,12 @@ _________
 1
   See ORAP 4.25.
 
-
                                      Rule 7.35
                         MOTIONS SEEKING EMERGENCY RELIEF
 
         (1)     If a party files a motion for substantive relief and requires relief in less than 21
 days, the party shall include in the caption of the motion a statement that the motion is an
 "EMERGENCY MOTION UNDER ORAP 7.35." The motion should explain in the first
-
-
 
                                                   104                                        Chapter 7
 
@@ -5626,7 +5293,6 @@ _________
 2
     See ORCP 9 F.
 
-
                                        Rule 7.40
                          DISMISSAL OF APPEAL FOR LACK OF AN
                           UNDERTAKING FOR COSTS ON APPEAL
@@ -5657,7 +5323,6 @@ _________
 1
   See ORS 19.300 regarding filing an undertaking for costs on appeal.
 
-
                                      Rule 7.45
                         MOTIONS ARISING FROM SETTLEMENT,
                            MEDIATION, OR ARBITRATION
@@ -5669,7 +5334,6 @@ motion or response shall so state.
         (2)     If a party files a motion to dismiss or to determine jurisdiction arising from an
 arbitration or mediation required or offered by a court, or files a response to such a motion, the
 caption of the motion or response shall so state.
-
 
                                      Rule 7.50
                         MOTION FOR SUMMARY AFFIRMANCE IN
@@ -5692,8 +5356,6 @@ brief,3 counsel forthwith shall forward a copy of the motion for summary affirma
 client. The client shall have 35 days after the date the motion for summary affirmance was filed
 to file an answer to the motion.
 
-
-
                                                   106                                       Chapter 7
 
 _________
@@ -5706,7 +5368,6 @@ arising from juvenile court under ORS 419A.200.
 3
  "Pro se" means "for oneself" or "on one's own behalf." A supplemental pro se brief is the
 product of the party himself or herself, and not of the attorney representing the party.
-
 
                                        Rule 7.55
                                   COURT OF APPEALS
@@ -5742,8 +5403,6 @@ Chief Judge or the Motions Department, as appropriate.
                legal issues already argued by the parties or addressed by the court shall not apply
                to petitions or motions for reconsideration of a decision of the appellate
                commissioner, and
-
-
 
                                                 107                                      Chapter 7
 
@@ -5784,9 +5443,6 @@ Chief Judge Order No. 08-04, dated March 5, 2008. That and related orders may be
 the Oregon Judicial Department's website at:
 <https://www.courts.oregon.gov/publications/other/Pages/misc.aspx>, "Archives," "Orders
 Establishing the Appellate Commission Program."
-
-
-
 
                                                 108                                       Chapter 7
 
@@ -5843,7 +5499,6 @@ court decides the motion, the court may dismiss the appeal or judicial review. I
 not been advised otherwise, the court may infer that the appellant remains on escape or abscond
 status when the court considers and decides the motion.
 
-
                                  Rule 8.10
                  WITHDRAWAL, SUBSTITUTION, AND ASSOCIATION
                          OF ATTORNEYS ON APPEAL
@@ -5870,7 +5525,6 @@ manner prescribed in UTCR 3.170.1
 _________
 1
   See ORS 9.241; see also ORAP 6.10(4) concerning appearing for oral argument only.
-
 
                                    Rule 8.12
                        APPOINTMENT, WITHDRAWAL, AND
@@ -5936,8 +5590,6 @@ _________
 procedures of the Public Defense Services Commission; Public Defense Payment Policies and
 Procedure 1.7 (Substitution of Appointed Counsel).
 
-
-
                                                  111                                      Chapter 8
 
 2
@@ -5951,7 +5603,6 @@ product of the party himself or herself, and not of the attorney representing th
 4
  See ORS 135.045(1)(d) regarding appointment of a legal advisor for a defendant in a criminal
 case who waives the right to counsel.
-
 
                                            Rule 8.15
                                         AMICUS CURIAE
@@ -6069,7 +5720,6 @@ _________
 3
     See ORAP 6.10 concerning oral argument.
 
-
                                         Rule 8.20
                             EFFECT OF BANKRUPTCY PETITION
 
@@ -6084,8 +5734,6 @@ abeyance until it is shown to the court's satisfaction that the stay has been li
 before a notice of appeal or petition for judicial review is filed and the adverse party desires to
 appeal, the notice or petition must nonetheless be filed within the time provided by statute or
 rule.
-
-
 
                                                    114                                        Chapter 8
 
@@ -6118,7 +5766,6 @@ all entities, of:
        commencement of the case under this title * * *."
 
 11 USC § 362(a)(1).
-
 
                                         Rule 8.25
                                MOTION UNDER ORCP 71 FOR
@@ -6155,7 +5802,6 @@ _________
 1
   See ORCP 71 B(2).
 
-
                                       Rule 8.27
                            MODIFICATION OF JUDGMENT OF
                           DISSOLUTION OF MARRIAGE DURING
@@ -6184,9 +5830,6 @@ of the period within which an appeal from the final decision may be filed. If a 
 from the final decision on a motion under ORS 19.275 is filed, the court may direct that both
 appeals be heard at the same time or may allow the appeals to proceed independently of one
 another.
-
-
-
 
                                                 116                                      Chapter 8
 
@@ -6230,7 +5873,6 @@ motion in the trial court under ORS 137.105 for entry of a supplemental judgment
 amount of restitution to be paid by the defendant; and a motion for entry of a corrected judgment
 under ORS 137.754.
 
-
                                        Rule 8.30
                               DISQUALIFICATION OF JUDGE
 
@@ -6269,7 +5911,6 @@ corpus cases, the underlying criminal proceeding.
                the Supreme Court, "presiding judge" means the Chief Justice, unless the motion
                to disqualify is directed at the Chief Justice, in which case "presiding judge"
                means the next senior judge available to rule on the motion.
-
 
                                 Rule 8.35
              ELECTRONIC RECORDING, WRITING, AND TRANSMISSION,
@@ -6335,8 +5976,6 @@ and except as otherwise provided in subsection (4) of this rule, a person may no
               (d)     Electronically transmit any electronic writing from within a courtroom
        during a proceeding.
 
-
-
                                                 119                                      Chapter 8
 
        (4)     Subsections (3)(c) and (d) of this rule do not apply to attorneys or agents of
@@ -6399,7 +6038,6 @@ attorneys, unless otherwise ordered by the judge presiding in a proceeding.
        proceeding shall be dressed so as not to detract from the dignity of the court and may be
        removed from the courtroom for failure to wear appropriate attire.
 
-
                                       Rule 8.40
                            REVIEW OF TRIAL COURT RULINGS
                                  AFFECTING APPEAL
@@ -6427,7 +6065,6 @@ objections to sufficiency of an undertaking); ORS 19.310 (approval of stipulatio
 with undertaking requirements and waiver, reduction, or limitation of undertaking for good
 cause); ORS 19.335 (supersedeas undertakings); ORS 19.340 (sale of perishable property); ORS
 19.350 (discretionary stays); and ORS 19.355 (stays in domestic relations cases).
-
 
                                  Rule 8.45
            DUTY TO GIVE NOTICE WHEN FACTS RENDER APPEAL MOOT
@@ -6499,7 +6136,6 @@ the party is aware of another case pending in an appellate court that raises the
 related issue. A party need not notify the Court of Appeals of a related case if another party has
 already done so.
 
-
                                     Rule 8.50
                                 SEGREGATION OF
                         PROTECTED PERSONAL INFORMATION
@@ -6556,7 +6192,6 @@ requirement that parties with contact information that is shielded by law or cou
 appellate courts with alternative contact information that may be made available for public
 inspection.
 
-
                                     Rule 8.52
                      CONFIDENTIAL AND SEALED ATTACHMENTS
 
@@ -6579,9 +6214,6 @@ nonsupport investigation records; ORS 419B.035 regarding abuse investigation rec
 426.160 and ORS 426.370 regarding records in civil commitment cases; and ORS 430.399(6)
 regarding alcohol and drug abuse records. See generally ORAP 16.15(5)(b) for procedure for
 eFiling attachments that are confidential or otherwise exempt from disclosure.
-
-
-
 
                                                 124                                      Chapter 8
 
@@ -6612,9 +6244,6 @@ publications cannot be modified after publication. Appellate court opinions also
 and published, in book form or electronically or both, by various persons and entities, including
 private legal research entities. The court has no control over whether those persons and entities
 will honor the court's post-publication modification of an opinion.
-
-
-
 
                                                  125                                      Chapter 8
 
@@ -6770,7 +6399,6 @@ to grant discretionary review. An assertion of the grounds on which the decision
 Appeals is claimed to be wrong, without more, does not constitute compliance with this
 paragraph.
 
-
                                Rule 9.06
               "BALFOUR" AND PRO SE PETITIONS FOR REVIEW
       FILED BY CLIENTS REPRESENTED BY COURT-APPOINTED COUNSEL
@@ -6811,8 +6439,6 @@ paragraph.
               a significant issue of law as nearly as practicable in proper petition form, as set
               out in ORAP 9.05(4)(b) through (d). A Section B filed under this subparagraph
               shall not exceed 15 pages in length.
-
-
 
                                                 129                                       Chapter 9
 
@@ -6911,8 +6537,6 @@ replicates all or part of the supplemental pro se brief filed in the Court of Ap
 
                (iii)   The last page shall contain the name and signature of the client.
 
-
-
                                           131                                        Chapter 9
 
               (e)      In addition to serving all other parties to the appeal as required by ORAP
@@ -6925,7 +6549,6 @@ _________
   "Pro se" means "for oneself" or "on one's own behalf." A supplemental pro se petition for
 review filed under subsection (2) of this rule, and also a pro se petition filed under subsection (3)
 of this rule, is the product of the party themselves, and not of the attorney representing the party.
-
 
                                         Rule 9.07
                                  CRITERIA FOR GRANTING
@@ -7004,7 +6627,6 @@ under this rule that are not otherwise part of the record on appeal, such as mat
 demonstrating how the case may affect persons other than the parties to the immediate case or
 how the case is important to the public.
 
-
                                      Rule 9.10
                          RESPONSE TO PETITION FOR REVIEW
 
@@ -7026,7 +6648,6 @@ the certification under ORAP 5.05(2)(d) certifies that the preparer does not hav
 word-processing system that provides a word count) 15 pages. Any party filing a response shall
 file with the Administrator one original response, serve a copy of the response on every other
 party to the review, and file proof of service.
-
 
                                           Rule 9.17
                               BRIEFS ON THE MERITS ON REVIEW
@@ -7059,8 +6680,6 @@ merits on review even if the petitioner on review elects not to do so.
                        the facts appear.
 
                        (iii)    A summary of the argument.
-
-
 
                                                   134                                       Chapter 9
 
@@ -7105,12 +6724,9 @@ which respondent's brief on the merits on review was due.
         (5)    In complex cases, such as cases with multiple parties, multiple petitions, or both,
 the parties may confer and suggest an alternative briefing schedule as provided in ORAP 5.80(8).
 
-
                                         Rule 9.20
                                  ALLOWANCE OF REVIEW
                                    BY SUPREME COURT
-
-
 
                                                  135                                       Chapter 9
 
@@ -7140,7 +6756,6 @@ _________
 1
   See ORAP 9.10 regarding responses to petitions for review; see ORAP 9.17 regarding briefs on
 the merits.
-
 
                                     Rule 9.25
                         RECONSIDERATION IN SUPREME COURT
@@ -7220,15 +6835,9 @@ _________
 2
     See, e.g., ORS 19.445 and ORS 20.105
 
-
-
-
                                              138                                   Chapter 9
 
 This page left blank intentionally.
-
-
-
 
                 139                   Chapter 9
 
@@ -7278,8 +6887,6 @@ of the appellant, the respondent shall accompany the answering memorandum with a
 application in the form required by this rule and an appellant's filing fee. If the respondent seeks
 to cross-appeal from the same order that the appellant seeks to appeal only if the court allows the
 
-
-
                                                140                                       Chapter 10
 
 appellant's application, respondent shall tender a notice of cross-appeal but need not comply with
@@ -7295,7 +6902,6 @@ court judge.
 appeal and notice of cross-appeal are deemed filed as of the date of the order allowing the
 application. The appeal shall then proceed in accordance with the statutes and rules governing
 civil appeals.
-
 
                                     Rule 10.10
                            CERTIFICATION OF APPEAL TO
@@ -7328,8 +6934,6 @@ except that the court, by order entered within that 20-day period, may extend by
 10 days the time for acceptance or denial of the certified appeal. If the court does not file an
 order accepting or denying the certification within that time, the certification is deemed denied.
 
-
-
                                                 141                                       Chapter 10
 
 If the court accepts or denies a certification by written order, the Administrator shall send a copy
@@ -7346,7 +6950,6 @@ _________
 See ORS 250.044 regarding special provisions for certifying certain appeals arising from cases
 filed in Marion County Circuit Court challenging the constitutionality of a state statute or an
 amendment to the Oregon Constitution by a ballot measure.
-
 
                                   Rule 10.15
                    JUVENILE DEPENDENCY AND ADOPTION CASES
@@ -7458,7 +7061,6 @@ _________
 4
     See ORS 19.370(5).
 
-
                                        Rule 10.20
                              ARBITRATION OF DISPUTES OVER
                              PROVISION OF PUBLIC SERVICES
@@ -7522,9 +7124,6 @@ arbitrator's decision and award:
                (g)     The court in its discretion will hear oral argument on the objections to the
        arbitrator's decision.
 
-
-
-
                                                 145                                       Chapter 10
 
                                      Rule 10.25
@@ -7557,7 +7156,6 @@ aside the accusatory instrument or suppressed evidence.1
          the record, filing briefs, or hearing oral argument.
 1
     See ORS 138.261.
-
 
                                   Rule 10.30
                  NONPRECEDENTIAL AND PRECEDENTIAL DECISIONS
@@ -7620,9 +7218,6 @@ written opinion will be precedential:
               (vi)   Whether the opinion resolves a conflict among existing
        nonprecedential memorandum opinions brought to the court's attention.
 
-
-
-
                                         147                                        Chapter 10
 
                                  Rule 10.35
@@ -7656,9 +7251,6 @@ _________
 post-conviction relief, and juvenile court cases, and authorizing the filing of a joint motion to
 vacate the trial court decision being appealed and to remand for reconsideration. Under ORS
 2.570(6), such motions may be decided by order.
-
-
-
 
                                                148                                       Chapter 10
 
@@ -7806,8 +7398,6 @@ relator seeks to challenge in mandamus.
 7
     See Illustration 1b in Appendix 11.05.
 
-
-
                                                    151                                      Chapter 11
 
 8
@@ -7825,7 +7415,6 @@ regarding the Supreme Court's original mandamus jurisdiction; and ORS 34.200 and
 regarding procedure in Supreme Court mandamus proceedings.
 
 See ORS 21.010(1), (5) regarding filing fees.
-
 
                                       Rule 11.10
                                     MANDAMUS:
@@ -7885,7 +7474,6 @@ challenged in the proceeding moving to intervene as a party.
 See generally ORS 34.105 through 34.250 and Article VII (Amended), section 2, of the Oregon
 Constitution.
 
-
                                         Rule 11.15
                                        MANDAMUS:
                                BRIEFS AND ORAL ARGUMENT
@@ -7926,7 +7514,6 @@ copy was served on each party.
 without oral argument, the court will set the matter for oral argument as in cases on appeal. At
 oral argument, the parties shall argue in the order in which their briefs were filed.
 
-
                                        Rule 11.17
                                      MANDAMUS:
                                 ISSUANCE OF COMBINED
@@ -7945,7 +7532,6 @@ showing compliance with the writ.
 _________
 See ORS 34.250(8).
 
-
                                       Rule 11.20
                                   HABEAS CORPUS AND
                               QUO WARRANTO PROCEEDINGS
@@ -7955,8 +7541,6 @@ See ORS 34.250(8).
 statement in the petition why application was not made to the circuit court), the defendant's
 appearance in opposition thereto, the court's consideration of the petition, and briefing and oral
 argument shall be the same insofar as practicable as for a writ of mandamus.
-
-
 
                                                  154                                        Chapter 11
 
@@ -7983,7 +7567,6 @@ See ORS 34.310 through 34.730 and Article VII (Amended), section 2, of the Orego
 Constitution; see also ORS 30.510 through ORS 30.640 relating to actions for usurpation of an
 office or of a franchise.
 
-
                                        Rule 11.22
                                   LENGTHY MEMORANDA
 
@@ -7997,7 +7580,6 @@ _________
 1
   See ORAP 5.35.
 
-
                            Rule 11.35
   REAPPORTIONMENT REVIEW: STATE SENATORS AND REPRESENTATIVES
 
@@ -8007,8 +7589,6 @@ and Representatives serving in the Oregon Legislative Assembly shall be as follo
         (1)    Any qualified elector of the state seeking review of a reapportionment enacted by
 the Legislative Assembly shall file a petition with the Administrator no later than August 1 of the
 year in which the Legislative Assembly enacts the reapportionment.1
-
-
 
                                                155                                      Chapter 11
 
@@ -8201,8 +7781,6 @@ answering brief no later than five judicial days after the opening brief is file
 subsection (1)(a) or (b) chooses to file a reply brief, the brief shall be filed no later than two
 judicial days after the answering brief is filed.
 
-
-
                                                  159                                        Chapter 11
 
         (5)     Amicus curiae appearances are discouraged, but, if a person applies for leave to
@@ -8286,9 +7864,6 @@ particular redrawing of district boundaries, then the excerpt of record must set
 reapportionment that the legislature enacted or the panel adopted, but not any alternative
 boundaries.
 
-
-
-
                                                161                                     Chapter 11
 
                              12. SPECIAL SUPREME COURT RULES
@@ -8329,7 +7904,6 @@ cases).
 2
     See, e.g., ORS 469.403(3) (energy facility site certificates).
 
-
                                         Rule 12.07
                               EXPEDITED APPEAL OF CERTAIN
                            PRETRIAL ORDERS IN CRIMINAL CASES
@@ -8337,8 +7911,6 @@ cases).
        (1)     On appeal under ORS 138.045(2) from a pretrial order dismissing or setting aside
 the accusatory instrument or suppressing evidence, when a defendant is charged with murder or
 aggravated murder and is in custody:
-
-
 
                                                    162                                   Chapter 12
 
@@ -8383,12 +7955,9 @@ instrument or suppressing evidence, when a defendant is charged with a felony an
                (b)      A motion made before oral argument will not toll the time for transmitting
        the record, filing briefs, or hearing oral argument.
 
-
                                     Rule 12.08
                          INTERLOCUTORY APPEAL OF ORDER
                         CONCERNING CRIME VICTIM'S RIGHTS
-
-
 
                                                    163                                    Chapter 12
 
@@ -8470,7 +8039,6 @@ _________________
  See ORS 147.537(20) (permitting service "by electronic mail or facsimile transmission, in a
 manner consistent with any applicable rules of appellate procedure").
 
-
                                    Rule 12.09
                     PETITIONS FOR SUPREME COURT REVIEW
                 OF ORDERS CONCERNING CRIME VICTIM'S RIGHTS
@@ -8546,7 +8114,6 @@ __________
 1
   See ORS 147.537(20) (permitting service "by electronic mail or facsimile transmission, in a
 manner consistent with any applicable rules of appellate procedure").
-
 
                                          Rule 12.10
                                   AUTOMATIC REVIEW IN
@@ -8647,7 +8214,6 @@ court file and exhibits to the Administrator.
 offered, preparation of transcripts, preparation of briefs, and review by the Supreme Court shall
 be accorded priority over all other cases by all persons concerned.
 
-
                                        Rule 12.12
                               APPOINTMENT OF COUNSEL IN
                                 DEATH SENTENCE CASES
@@ -8687,7 +8253,6 @@ _________
 
 procedures of the Public Defense Services Commission; Public Defense Payment Policies and
 Procedures 1.7 (Substitution of Appointed Counsel).
-
 
                                      Rule 12.15
                           COORDINATION OF CLASS ACTIONS
@@ -8750,7 +8315,6 @@ _________
 See ORS 1.004 regarding the authority of the Supreme Court to adopt a rule prescribing
 procedure for coordination of class actions under ORCP 32.
 
-
                                      Rule 12.20
                        CERTIFICATION OF QUESTION OF LAW TO
                         SUPREME COURT BY FEDERAL COURTS
@@ -8778,8 +8342,6 @@ record, as provided in subsection (5) of this rule.
 
        (3)     (a)    The case title and party roles shall be the same as those designated by the
        certifying court.
-
-
 
                                                 171                                       Chapter 12
 
@@ -8835,7 +8397,6 @@ After expiration of the period for filing a petition for reconsideration or afte
 petitions for reconsideration, the Administrator shall send a copy of the decision under seal of the
 Supreme Court to the certifying court and shall send copies thereof to the parties. Issuance of a
 sealed copy of the court's decision to the certifying court terminates the Supreme Court case.
-
 
                                       Rule 12.25
                            BAR ADMISSION, REINSTATEMENT,
@@ -8927,8 +8488,6 @@ proceeding. The Bar shall be served by service on the Bar's Disciplinary Counsel
               (iii) A reply brief, if any, shall be due 14 days after filing of the
        answering brief.
 
-
-
                                         174                                      Chapter 12
 
                (c)     In any proceeding described in subparagraph (3), if a respondent files a
@@ -8950,7 +8509,6 @@ proceeding. The Bar shall be served by service on the Bar's Disciplinary Counsel
 _________
 See ORS 9.536, and Oregon State Bar Rules of Procedure, which are found on the Oregon State
 Bar's website, <https://www.osbar.org>, and in Thomson/West's Oregon Rules of Court.
-
 
                                        Rule 12.27
                                 JUDICIAL DISABILITY AND
@@ -9074,8 +8632,6 @@ or the Commission.
 the court may request briefing and oral argument before the consent is submitted
 to the court for decision.
 
-
-
                                177                                      Chapter 12
 
                (ii)   If the court accepts the stipulation of facts part of a consent, but
@@ -9173,8 +8729,6 @@ _________
   See generally ORS 1.430.
 
 * See ORS 1.440(1).
-
-
 
                                              179                                      Chapter 12
 
@@ -9349,7 +8903,6 @@ _________
   The facsimile transmission number for the Administrator is (503) 986-5560. The facsimile
 transmission number for the Attorney General (Appellate Division) is (503) 378-6306.
 
-
                                      Rule 12.32
                           VOTERS' PAMPHLET EXPLANATORY
                                STATEMENT REVIEW
@@ -9393,7 +8946,6 @@ _________
 
 See ORS 251.235.
 
-
                                      Rule 12.34
                        ESTIMATE OF FINANCIAL IMPACT REVIEW
 
@@ -9429,7 +8981,6 @@ claims that the estimate as contained in the petition is in error.
 
          (5)    The Administrator will issue the appellate judgment on the next judicial day after
 the filing date of the Supreme Court's dispositional decision.
-
 
                                     Rule 12.35
                      EXPEDITED JUDICIAL REVIEW OF ORDERS OF
@@ -9467,9 +9018,6 @@ record or filing briefs as specified in this rule, or for the time set for oral 
         (5)     A motion made before oral argument will not toll the time for transmitting the
 record, filing briefs, or hearing oral argument.
 
-
-
-
                                                 185                                        Chapter 12
 
                                         Rule 12.40
@@ -9506,9 +9054,6 @@ brief is due 49 days after the court settles the record.
 
        (6)     To the extent practicable, the rules set out in ORAP Chapter 5 apply to the form
 and content of any brief filed.
-
-
-
 
                                                  186                                       Chapter 12
 
@@ -9625,7 +9170,6 @@ under the authority of a prior version of ORAP 16.20(2). See, e.g., ORAP 16.20(2
 2
     See ORS 20.190(4).
 
-
                                         Rule 13.10
                               PETITION FOR ATTORNEY FEES
 
@@ -9712,7 +9256,6 @@ Under ORAP 13.10(7)."
 
 See Appendix 13.10.
 
-
                                   Rule 13.15
                APPEAL OF PUBLIC DEFENSE SERVICES COMMISSION
                DECISION REGARDING COURT-APPOINTED COUNSEL
@@ -9729,7 +9272,6 @@ of the executive director's disposition of the request. The person shall serve a
 on the executive director of the Public Defense Services Commission and shall include with the
 motion proof of service on the executive director.
 
-
                                      Rule 13.25
                        PETITIONS AND MOTIONS FOR DAMAGES
                                   AND SANCTIONS
@@ -9744,7 +9286,6 @@ not be included in the party's brief.
 and ORCP 17 D based on the filing of a motion or thing shall be included in the answer or
 objection to the motion, statement of costs and disbursements, or petition for attorney fees to
 which the motion for sanctions relates.
-
 
                                    Rule 13.30
                    REQUESTS FOR JUDGMENT AGAINST SURETIES
@@ -9763,15 +9304,9 @@ annum, from the date of entry of the appellate judgment.
         (2)    All parties served with the notice shall have 14 days after the date of filing to file
 objections.
 
-
-
-
                                                 192                                       Chapter 13
 
 This page left blank intentionally.
-
-
-
 
                193                    Chapter 13
 
@@ -9885,7 +9420,6 @@ that triggers the running of the time period within which to file the petition. 
 International Brotherhood v. Oregon Steel Mills, Inc., 180 Or App 265, 44 P3d 600 (2002)
 (majority, concurring, and dissenting opinions).
 
-
                                     Rule 14.10
                            STAY PENDING ACTION BY THE
                        SUPREME COURT OF THE UNITED STATES
@@ -9917,9 +9451,6 @@ _________
  A stay granted under the terms of this rule does not affect the time for petitioning for a writ of
 certiorari. See 28 USC § 2101 (generally establishing deadlines for certiorari); US Sup Ct Rule
 13 (addressing certiorari deadlines specifically). See ORS 19.270(6)(b) and (c).
-
-
-
 
                                                 196                                      Chapter 14
 
@@ -10143,7 +9674,6 @@ appeal.
 _________
 See ORS 2.560(3).
 
-
                                   Rule 15.10
                 APPELLATE SETTLEMENT CONFERENCE PROGRAM
                            IN THE SUPREME COURT
@@ -10182,9 +9712,6 @@ administered in the manner provided in ORAP 15.05(7), except that the Supreme Co
 responsible for payment of any waived or unpaid program fees for cases it refers into the
 program.
 
-
-
-
                                               202                                       Chapter 15
 
                    16. FILING AND SERVICE BY ELECTRONIC MEANS
@@ -10193,7 +9720,6 @@ program.
                                          APPLICABILITY
 
 This chapter applies to electronic filing and service in the Oregon appellate courts.
-
 
                                              Rule 16.05
                                            DEFINITIONS
@@ -10244,7 +9770,6 @@ term does not include a petition for review under ORAP 9.05. ORAP 1.35(1)(b)(i).
 16.05 defines "initiating document" for purposes of eFiling and eService. For those purposes,
 the term does include a petition for review under ORAP 9.05.
 
-
                                               Rule 16.10
                                               eFILERS
 
@@ -10262,7 +9787,6 @@ the term does include a petition for review under ORAP 9.05.
                          (i)   review Appellate eFiling and Public Portal Guide" and “Appellate
                  eFile FAQs” documents available on the appellate court’s eFiling website at:
                  < https://www.courts.oregon.gov/services/online/Pages/appellate-efile.aspx>;
-
 
                         (ii)    register for access to the eFiling system and link the eFiler’s user
                  account with the eFiler’s record in ACMS;1
@@ -10294,7 +9818,6 @@ litigant should use the Request Case Access process.
 2
  An employee of an attorney or the attorney’s law firm may create an eFiling account and file on
 behalf of the attorney.
-
 
                               Rule 16.15
             FORMAT OF DOCUMENTS TO BE FILED ELECTRONICALLY
@@ -10331,8 +9854,6 @@ supporting documents attached through the eFiling system.2
                        (i)      One or more parts of an eFiled document that exceeds the size
                limit set out in subsection (1) of this rule, as a supporting document to the initial
                eFiled document.
-
-
 
                                                 205                                       Chapter 16
 
@@ -10382,9 +9903,6 @@ Supreme Court mandamus or habeas corpus petition, copy of order or written decis
 certificate of service; and (7) Supreme Court memorandum in support of a mandamus or habeas
 corpus petition, excerpt of record, and certificate of service.
 
-
-
-
                                                  206                                       Chapter 16
 
                                        Rule 16.20
@@ -10403,7 +9921,6 @@ filing a document electronically.
 _________
 1
   As of the publication date of these rules, no such charge has been imposed.
-
 
                                  Rule 16.25
             ELECTRONIC FILING AND ELECTRONIC FILING DEADLINES
@@ -10480,9 +9997,6 @@ however, the document stamp may show a different date and time due to system pro
  As provided in ORAP 16.45(3), the eFiling system cannot electronically serve some
 documents.
 
-
-
-
                                                 208                                       Chapter 16
 
                                        Rule 16.30
@@ -10525,7 +10039,6 @@ ______________________
 commercial delivery service; ORS 19.260(4) provides that, except as otherwise provided by law,
 subsection (1) applies to petitions for judicial review, cross-petitions for judicial review, and
 petitions under original jurisdiction of the Supreme Court or Court of Appeals.
-
 
                                       Rule 16.40
                                 ELECTRONIC SIGNATURES
@@ -10576,7 +10089,6 @@ __________
 for an attorney when that employee is filing on behalf of the attorney.
 2
     <https://www.courts.oregon.gov/services/online/pages/appellate-efile.aspx>
-
 
                                          Rule 16.45
                                     ELECTRONIC SERVICE
@@ -10632,14 +10144,12 @@ that the eFiler first attempted to eServe the document. A party must show satisf
 filing and serving an accompanying letter explaining the circumstances, together with any
 supporting documentation.
 
-
                                                  211                                       Chapter 16
 
 __________
 1
   Registration includes linking an appellate eFiling account with a record in the ACMS system as
 provided in ORAP 16.10(2)(a)(ii).
-
 
                                   Rule 16.50
                   HYPERLINKS AND BOOKMARKS IN eFILED BRIEFS
@@ -10673,7 +10183,6 @@ review and any separate findings or determinations that are part of that disposi
 ______________
 See Appendix 16.50 (example of electronic view of bookmarks).
 
-
                                   Rule 16.55
                      RETENTION OF DOCUMENTS BY eFILERS
                   AND CERTIFICATION OF ORIGINAL SIGNATURES
@@ -10682,14 +10191,11 @@ See Appendix 16.50 (example of electronic view of bookmarks).
 document that contains the original signature of a person other than the eFiler, the eFiler must
 retain the document in the eFiler's possession in its original paper form for no less than 30 days.
 
-
-
                                                212                                       Chapter 16
 
         (2)      When an eFiler electronically files a document described in subsection (1) of this
 rule, the eFiler certifies by filing that, to the best of the eFiler's knowledge and after appropriate
 inquiry, the signature purporting to be that of the signer is in fact that of the signer.
-
 
                                        Rule 16.60
                               MANDATORY ELECTRONIC FILING
@@ -10765,20 +10271,13 @@ take any of the following actions:
               (d)      Refer the filing to the court for consideration of sanctions under ORAP
        1.20(2).
 
-
-
-
                                                 214                                       Chapter 16
 
 This page left blank intentionally.
 
-
-
-
                215                    Chapter 16
 
                                          APPENDICES
-
 
                                          APPENDIX 2.05
 
@@ -10818,12 +10317,9 @@ ____________________________________                  __________________________
         The name, bar number, address, telephone number, and email address of the attorney(s)
 for each party represented by an attorney is:
 
-
 Name & Bar Number _____________________________ Representing __________________
 Address ________________________________________ Telephone Number ______________
 Email Address __________________________________
-
-
 
                                            216                                     Appendix 2.05
 
@@ -10873,8 +10369,6 @@ _____________________________________________________________________________.
 
 _____________________________________________________________________________.
 
-
-
                                             217                                        Appendix 2.05
 
                                                    8.
@@ -10902,7 +10396,6 @@ ______________________________                          ________________________
 
 ______________________________                  ______________________________
                 [Opposing party(ies) or attorney for opposing party(ies)]
-
 
 ______________________________                          ______________________________
 
@@ -10939,9 +10432,6 @@ __ other (specify) __________________________________
                                                       ____________________________________
                                                       [Typed or printed name of appellant
                                                       or attorney]
-
-
-
 
                                             219                                      Appendix 2.05
 
@@ -10989,9 +10479,6 @@ ACME LIFE INSURANCE CO.,                     )
     Third-Party Defendant-                   )
     Respondent.                              )
 
-
-
-
                                            220                                Appendix 2.25
 
                                         APPENDIX 2.40
@@ -11008,9 +10495,6 @@ The trial court erred when, over objection, it imposed a condition of probation 
 defendant from contacting defendant's children.
 
 The trial court erred when, over objection, it imposed a disputed amount of restitution.
-
-
-
 
                                            221                                      Appendix 2.40
 
@@ -11030,7 +10514,6 @@ ____________________________________,                )
 ____________________________________,                )       CA A_______________
             Defendant-Respondent.                    )
             (or Defendant-Appellant)                 )
-
 
        REQUEST BY REPORTER OR TRANSCRIBER FOR TIME EXTENSION
                    FOR PREPARATION OF TRANSCRIPT
@@ -11060,24 +10543,17 @@ _____________________________________________________________________________
 
 _____________________________________________________________________________
 
-
-
                                            222                                      Appendix 3.30
 
 4.     I have served copies of this request on: [List names and complete addresses of all
 counsel, parties, and, when appropriate, the trial court judge(s)]
 
-
 ____________________
 Date
-
 
 ____________________          ________________      _________________
 Court Reporter                County                Telephone No.
 or Transcriber
-
-
-
 
                                           223                                     Appendix 3.30
 
@@ -11106,8 +10582,6 @@ appeal:
 
          Volume #                                Date                                 Page #s
 
-
-
 I certify that the original of this Certificate was filed with the Appellate Court Administrator and
 copies were served on the trial court administrator and transcript coordinator on     [date] .
 
@@ -11116,14 +10590,10 @@ this Certificate were served on:
 
 [name and address of each person served]
 
-
 [Date]
 
 _______________________
 Court Reporter or Transcriber
-
-
-
 
                                            224                                        Appendix 3.33-1
 
@@ -11149,10 +10619,7 @@ ____________________________________,                   )      CA A_____________
 I certify that I prepared these parts of the transcript designated as part of the record for this
 appeal:
 
-
          Volume #                                Date                                Page #s
-
-
 
 The transcript is now settled.
 
@@ -11164,14 +10631,10 @@ I certify that on   [date]   a copy of this Certificate was served on:
 
                               [name and address of each person served]
 
-
 [Date]
 
 _______________________
 Court Reporter or Transcriber
-
-
-
 
                                            225                                       Appendix 3.33-2
 
@@ -11181,7 +10644,6 @@ Court Reporter or Transcriber
 
                                  File Naming Conventions for
                                     Electronic Transcripts
-
 
 Transcripts, Nonconfidential Case:
 
@@ -11202,9 +10664,6 @@ am/pm if appropriate]_[court reporter or transcriber last, first name]
 
        Example:       CA123456_transcript-confidentialcase-2002-02-15-
                       am_vX_pp1000-1205_johnsonerin
-
-
-
 
                                            226                                       Appendix 3.35
 
@@ -11307,9 +10766,7 @@ ______________________________                          400 Justice Building
 
 ______________________________                        Salem, Oregon 97301-4096
 
-
                          [Other party(ies) or attorney for other party(ies)]
-
 
 by [specify method of service]:
 
@@ -11334,9 +10791,6 @@ __ other (specify) __________________________________
                                                       ____________________________________
                                                       [Typed or printed name of petitioner
                                                       or attorney]
-
-
-
 
                                          229                                       Appendix 4.15-1
 
@@ -11409,7 +10863,6 @@ DATED this ________ day of _____________, ________.
                                                          address, telephone number, and email
                                                          address]
 
-
                                       CERTIFICATE OF SERVICE
 
 I certify that on   [date]   , I served a true copy of this petition for judicial review on:
@@ -11451,9 +10904,6 @@ __ other (specify) __________________________________
                                                       ____________________________________
                                                       [Typed or printed name of petitioner
                                                       or attorney]
-
-
-
 
                                          232                                       Appendix 4.15-2
 
@@ -11501,20 +10951,13 @@ _______________________________ [name of self-represented respondent; include se
 listing for each self-represented respondent]
 [Mailing address and telephone number]
 
-
-
-
                                          233                                      Appendix 5.05-1
 
 __________________________________________
 [Signature of attorney or unrepresented party]
 
-
 __________________________________________
 [Typed or printed name of attorney or unrepresented party]
-
-
-
 
                                        234                   Appendix 5.05-1
 
@@ -11579,12 +11022,8 @@ DATED:
 __________________________________________
 [Signature of attorney or unrepresented party]
 
-
 __________________________________________
 [Typed or printed name of attorney or unrepresented party]
-
-
-
 
                                           236                                       Appendix 5.05-2
 
@@ -11633,9 +11072,6 @@ decides without any particular deference to its resolution below. See State v. C
 Or 47, 57, 880 P2d 431 (1994), cert den, 514 US 1005 (1995); State v. Moses, 165 Or App 317,
 319, 997 P2d 251, rev den, 331 Or 334 (2000).
 
-
-
-
                                             237                                      Appendix 5.45
 
                                           ARGUMENT
@@ -11678,9 +11114,6 @@ constitutional):
 [Show that the error was preserved, including setting forth verbatim the statutory provision and
 the manner in which constitutionality was challenged.]
 
-
-
-
                                            238                                      Appendix 5.45
 
                                          APPENDIX 5.50
@@ -11720,9 +11153,6 @@ by the court, counsel or a party, and any ruling and objection;
 
         (8)    When an issue on appeal is based on the verdict, the written verdict, if any, or, if
 the verdict was rendered orally, the specific part of the transcript containing the verdict.
-
-
-
 
                                             239                                      Appendix 5.50
 
@@ -11824,8 +11254,6 @@ Motion Titles (Motions Other Than Motions for Extension of Time–ORAP 7.10(1)(b
       Motion–Other
       Motion–Out of State Counsel
 
-
-
                                      242                                  Appendix 7.10-1
 
 Motion–Postpone Oral Argument
@@ -11874,8 +11302,6 @@ Motion–Supplement Record
 Motion–Suspend Judge/Lawyer Pending Disability/Disciplinary Proceeding
 Motion–Take Judicial Notice
 Motion–Transmission of Part of Record Not Designated
-
-
 
                               243                                 Appendix 7.10-1
 
@@ -11926,8 +11352,6 @@ Motions for Extension of Time (MOET) Titles–ORAP 7.10(1)(c)
       MOET–File Reply to Objection for Cost Bill
       MOET–File Response to Motion
 
-
-
                                    244                                Appendix 7.10-1
 
        MOET–File Response to Order to Show Cause
@@ -11947,9 +11371,6 @@ _________
 the Oregon Rules of Appellate Procedure. The updated list, if any, will be available on the
 Oregon Rules of Appellate Procedure page of the Judicial Department's website:
 <https://www.courts.oregon.gov/courts/appellate/rules/Pages/orap.aspx>
-
-
-
 
                                         245                                    Appendix 7.10-1
 
@@ -11998,9 +11419,6 @@ ____________________________________,            )      (SC or CA) _____________
           (single document containing a motion to reconsider a previous order and
                             a motion for summary affirmance)
 
-
-
-
                                      246                                        Appendix 7.10-2
 
                                        Illustration 3
@@ -12021,9 +11439,6 @@ ____________________________________,             )       (SC or CA) ___________
                           RESPONDENT'S MOTION–STRIKE
 
         (document contains single motion to strike appellant's opening or reply brief)
-
-
-
 
                                       247                                      Appendix 7.10-2
 
@@ -12073,9 +11488,6 @@ Date _________________________
                                                     bar number, address,
                                                     telephone number, and email address]
 
-
-
-
                                         248                                     Appendix 7.10-3
 
                                       Illustration 2
@@ -12098,9 +11510,6 @@ ____________________________________,            )       (SC or CA) ____________
 
                 (single document containing motion for relief from default
            and motion for extension of time to file respondent's answering brief)
-
-
-
 
                                      249                                      Appendix 7.10-3
 
@@ -12139,8 +11548,6 @@ Panel:                         ______________________________________________
 Authoring Judge:               ______________________________________________
 Separate Opinions by:          ______________________________________________
 
-
-
 ________________________
 Attorney(s) for Petitioner on Review [if more than one petitioner on review, identify which;
 include separate listing for each petitioner on review represented by a different attorney]
@@ -12150,8 +11557,6 @@ include separate listing for each petitioner on review represented by a differen
 
 _______________________________ [name of self-represented petitioner on review; include
 separate listing for each self-represented petitioner on review]
-
-
 
                                             250                                      Appendix 9.05
 
@@ -12168,13 +11573,9 @@ _______________________________ [name of self-represented respondent on review; 
 separate listing for each self-represented respondent on review]
 [Mailing address and telephone number]
 
-
                                 PETITIONER ON REVIEW
                              [INTENDS/DOES NOT INTEND]
                             TO FILE A BRIEF ON THE MERITS
-
-
-
 
                                          251                                   Appendix 9.05
 
@@ -12198,9 +11599,6 @@ ________________________________,         )
 
              EXPEDITED TERMINATION OF PARENTAL RIGHTS CASE
                            NOTICE OF APPEAL
-
-
-
 
                                       252                                Appendix 10.15
 
@@ -12227,7 +11625,6 @@ INC.,                              )       PETITION FOR
 
                       _______________________________________
 
-
 Illustration 1b.    Sample case title for a motion in a mandamus proceeding challenging
                     the action of a judge in a particular case.
 
@@ -12251,8 +11648,6 @@ Illustration 2.     Sample case title for an alternative writ of mandamus procee
 
                            IN THE SUPREME COURT OF THE
 
-
-
                                         253                                    Appendix 11.05
 
                                      STATE OF OREGON
@@ -12268,7 +11663,6 @@ Secretary of State of the State      )
 of Oregon,                           )       PETITION FOR
        Defendant.                    )       ALTERNATIVE
                                      )       WRIT OF MANDAMUS
-
 
 Illustration 3.        Sample case title for an alternative writ of mandamus
                        proceeding challenging an administrative action of a judge.
@@ -12286,9 +11680,6 @@ KELLY BENCH,                      )          PETITION FOR
 Presiding Judge for _____________ )          ALTERNATIVE
 County Circuit Court,             )          WRIT OF
        Defendant.                 )          MANDAMUS
-
-
-
 
                                          254                                     Appendix 11.05
 
@@ -12339,8 +11730,6 @@ Name & Bar Number __________________ Representing __________________
 Address ______________________________      Telephone Number ______________
 Email Address __________________________________
 
-
-
                                           255                                   Appendix 12.08
 
 Name & Bar Number __________________ Representing __________________
@@ -12389,8 +11778,6 @@ ______________________________                         _________________________
 ______________________________                         ______________________________
 ______________________________                         ______________________________
 
-
-
                                            256                                       Appendix 12.08
 
                [Respondents as listed in ORS 147.537(6) or attorneys for respondents]
@@ -12425,9 +11812,6 @@ __ other (specify) __________________________________
                                                       ____________________________________
                                                       [Typed or printed name of appellant
                                                       or attorney]
-
-
-
 
                                           257                                       Appendix 12.08
 
@@ -12466,9 +11850,6 @@ the petition.]
                                                       [Sign and print/type name,
                                                       bar number, address,
                                                       telephone number, and email address]
-
-
-
 
                                            258                                      Appendix 13.10
 
@@ -12511,9 +11892,6 @@ Initiating Document - Request for Review - Disciplinary Board Decision
 Initiating Document - Request for Review - Stipulation for Discipline
 Initiating Document - Transfer Order - Public Body
 
-
-
-
                                     259                                    Appendix 16.05-1
 
                                   APPENDIX 16.05-2
@@ -12524,7 +11902,6 @@ Excerpt of Record
 Memorandum of Law
 Proof of Service
 Proposed form of Writ of Mandamus
-
 
                                   APPENDIX 16.05-3
                               ASSOCIATED DOCUMENTS
@@ -12539,15 +11916,11 @@ Motion to File Late Appeal
 Motion to Stay Previous Judgment/Order
 Motion to Stay Trial Court Proceedings
 
-
-
-
                                      260                  Appendix 16.05-3
 
                                       APPENDIX 16.50
 
                                  Illustration for Rule 16.50
-
 
 In the Court of Appeals:
 
@@ -12572,7 +11945,6 @@ In the Court of Appeals:
        Order (specify source: WCB, ALJ, ODFW, etc.)
        Opinion
 
-
 In the Supreme Court:
 
        Facts and Proceedings
@@ -12583,9 +11955,4 @@ In the Supreme Court:
        Order (specify source: WCB, ALJ, ODFW, etc.)
        Opinion (specify source: COA, Trial Panel, Special Master, etc.)
 
-
-
-
                                       261                                     Appendix 16.05-3
-
-

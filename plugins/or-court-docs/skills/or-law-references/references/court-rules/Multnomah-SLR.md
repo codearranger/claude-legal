@@ -1,7 +1,7 @@
 # Multnomah-SLR — Multnomah County Supplementary Local Court Rules
 
-> **Source:** https://www.courts.oregon.gov/rules/Documents/Multnomah_SLR_2026.pdf (linked from https://www.courts.oregon.gov/courts/multnomah/go/Pages/rules.aspx and https://www.courts.oregon.gov/rules/Pages/slr.aspx)
-> **Fetched:** 2026-05-13
+> **Source:** https://www.courts.oregon.gov/rules/Documents/Multnomah_SLR_2026.pdf
+> **Fetched:** 2026-05-14
 > **Format:** verbatim conversion of the official PDF source
 
 ---
@@ -15,9 +15,6 @@ The Circuit Court of the State of Oregon for Multnomah County
 
                              Effective
                          February 1, 2026
-
-
-
 
          This document has no copyright and may be reproduced
 
@@ -387,7 +384,6 @@ CHAPTER 11
 
 11.065   MOTIONS FOR SUBSTITUTION OF COUNSEL ......................................................81
 
-
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                              Effective February 1, 2026
@@ -589,9 +585,6 @@ CHAPTER 19
 19.021   ALL DOCUMENTS FILED ON CONTEMPT MATTERS INVOLVING
          REMEDIAL SANCTIONS ..........................................................................................114
 
-
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -627,9 +620,6 @@ CHAPTER 24
 
 24.111   POST-CONVICTION RELIEF – FILING OF DOCUMENTS WHEN
          PETITIONER IS REPRESENTED BY COUNSEL ....................................................120
-
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -787,7 +777,6 @@ limited to:
 (8)     Any attempt, either by fraud or threat, to gain access to confidential court records or
         material;
 
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -798,9 +787,6 @@ limited to:
 
 (10)   Any attempt by a member of the public to deny any other member of the public the use of
        these buildings.
-
-
-
 
                                            Supplementary Local Rules
              Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -851,9 +837,6 @@ limited to:
         Multnomah County Circuit Court case number, will not be returned to a filing party even
         though the document may have a caption for another circuit court and was filed in error
         by the filing party.
-
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -906,7 +889,6 @@ security deposit with the court of $500 for the purposes of ORS 376.200 (4) and 
 
 (4)     A copy of the motion, affidavit and submitted form of Order Appointing Investigator
         shall be served, along with the Petition, upon the respondents.
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -1037,9 +1019,6 @@ presented conventionally and may not be electronically filed:
 
       (c)    Motion for Judgment Debtor Bench Warrant
 
-
-
-
                                           Supplementary Local Rules
             Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                           Effective February 1, 2026
@@ -1092,7 +1071,6 @@ courtrooms.
 
         (a)    Constitute public access coverage equipment as defined in UTCR 3.180;
 
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -1131,9 +1109,6 @@ participant in the proceeding. Any participant in a hearing, including but not l
 parties, witnesses, or interpreters, appearing by remote means as described in 3.183 may not
 appear while operating a motor vehicle even if the participant is otherwise in compliance with
 Oregon law.
-
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -1186,8 +1161,6 @@ filed motion must be scheduled for hearing by the moving party.
 (1)     Scheduling Motions Filed Prior to Trial or the court’s Acceptance of a Plea of Guilty on a
         Charge:
 
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -1238,7 +1211,6 @@ filed motion must be scheduled for hearing by the moving party.
 
       (c)    If a judge is no longer in office, then the motion must be set by contacting the
              successor in office in that circuit court department. Information regarding which
-
 
                                           Supplementary Local Rules
             Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -1480,8 +1452,6 @@ must be presented for signature and filed ten days prior to the scheduled hearin
         Order to Seal must include either the investigating agency’s case number, a District
         Attorney case number, or a court case number.
 
-
-
 4.036          ISSUANCE OF ARREST WARRANTS
 
 (1)     A request for an arrest warrant may be made to any Circuit Court Judge subject to any
@@ -1550,8 +1520,6 @@ cause to allow the defendant to appear remotely or appear through counsel.
         notify the parties by mail of its decision. If a hearing is necessary on the Motion for
         Remission, the court will notify the applicant and the District Attorney’s office of the
         date and time of the hearing.
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -1655,8 +1623,6 @@ cases:
         131.045 in proceedings as provided herein unless specifically prohibited by statute or the
         United States or Oregon Constitution.
 
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -1751,9 +1717,6 @@ circuit court, if such a case exists, and must be filed as provided by SLR 7.101
         should be marked clearly on both sides “Documents Under Seal of the Court.” Larger
         envelopes may be used for bulky documents.
 
-
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -1804,7 +1767,6 @@ Methods of Setting Civil Motions
 
 (3)     Requests for an expedited setting of a civil motion must be presented to the judge
         assigned as the motion judge in the action. If no motion judge has been assigned, then the
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -1961,7 +1923,6 @@ the underlying case.
         notice requirement of this rule but must provide the notice prior to the ex parte
         appearance.
 
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -2010,9 +1971,6 @@ camera review of records by the court be presented to the court as follows:
 
 (2)     If the motion is allowed, documents to be reviewed by a judge in camera shall be
         directed to Court Records, Room 03315 of the Courthouse.
-
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -2112,9 +2070,6 @@ Courthouse
 Challenge to Writs of Garnishment which contest the underlying judgment will be denied by the
 court.
 
-
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -2126,9 +2081,6 @@ court.
 The clerk of the court shall file and designate confidential any exhibits to a Challenge to Writ of
 Garnishment that contain personal financial information that would not otherwise be publicly
 available.
-
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -2233,8 +2185,6 @@ by a party or the party’s attorney:
         communication devices which have audio recording, photographic or any other visual or
         image recording or reproduction capability.
 
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -2268,9 +2218,6 @@ or the Federal Controlled Substances Act; or is any potentially dangerous or con
 substance capable of inflicting death or serious physical injury either immediately or over the
 course of time. A hazardous substance shall include any device or implement which carries,
 contains, or exhibits such characteristics.
-
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -2480,7 +2427,6 @@ Assignment Times
 
 Presiding Judge to assign judge, day and time
 
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -2531,8 +2477,6 @@ Abated and Stayed Cases
 
        (c)    A case will be stayed, rather than abated as provided in this section, by a notice of
               bankruptcy.
-
-
 
                                            Supplementary Local Rules
              Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -2791,9 +2735,6 @@ must be presented for signature and filed ten days prior to the scheduled hearin
         and from 1:00 PM to 5:00 PM. To schedule an interpreter, a party may go to:
         https://web.courts.oregon.gov/osca/clas/CLASRequestFormRedirect.html
 
-
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -2812,9 +2753,6 @@ must be presented for signature and filed ten days prior to the scheduled hearin
         court, the identity of that case, the caption, and the circuit court’s case number must be
         set out in the first allegation of the petition. For purposes of this rule, an extradition
         action pending within the jurisdiction of the circuit court is a “case”.
-
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -2867,7 +2805,6 @@ and court updates. To be included on this email list, contact the Chief Family L
             other cases as shall be assigned to the Chief Family Law Judge for case management
             purposes by the Presiding Judge.
 
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -2892,7 +2829,6 @@ and court updates. To be included on this email list, contact the Chief Family L
               Other state courts’ jurisdictions (judges and staff only) needing to arrange a
               UCCJEA conference should call the Family Law Clerk’s office public line, and staff
               will collect contact information and set on the Trial Assignment docket.
-
 
 8.012           DOCKETING
 
@@ -3016,12 +2952,9 @@ CASES ARE DOCKETED DIRECTLY WITH THE RETAINED JUDGE, OR AS FOLLOWS:
         all further matters shall be scheduled directly by the parties with the assigned judge, who
         shall be the retained judge of the case thereafter.
 
-
-
 (3)     Any party appearing before the Chief Family Law Judge or designee for purposes of
         assignment must advise that Judge that a particular judge has previously ruled on some
         contested aspect of the case.
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -3071,9 +3004,6 @@ CASES ARE DOCKETED DIRECTLY WITH THE RETAINED JUDGE, OR AS FOLLOWS:
         required by UTCR 7.070.
 
             Last minute interpreter requests may result in a delay of the hearing or trial.
-
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -3127,7 +3057,6 @@ CASES ARE DOCKETED DIRECTLY WITH THE RETAINED JUDGE, OR AS FOLLOWS:
             At least one Family Court Judge is available once daily at 1:30 PM to hear
             permissible ex parte matters and potentially contested emergency and scheduling
 
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -3178,8 +3107,6 @@ Deferral and Waiver Clerk.
 All pleadings filed on contempt matters involving remedial sanctions must comply with SLR
 19.021 requiring that such documents be filed separately and receive a new CN case number and
 not be filed into the underlying case.
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -3388,8 +3315,6 @@ and 109 shall be as follows:
 
 (5)     Counsel to be appointed for children shall meet the court’s standards for qualification in
         family law matters and in the resolution of custody/parenting time issues.
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -3630,9 +3555,6 @@ the Summons setting out the notices required by those statutes.
         Nothing in this section prohibits a judge from granting an immediate rehearing within his
         or her discretion once a party files and serves a rehearing request.
 
-
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -3735,9 +3657,6 @@ the underlying case.
 (2)     Parties seeking an Order to file documents or materials under seal must file a motion with
         the court that complies with all of the requirements under UTCR 5.160.
 
-
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -3758,7 +3677,6 @@ the underlying case.
         the estate whose interest would be affected by the waiver of bond.
 (4)     Petitions to open estate proceedings shall disclose whether any devisee’s bequest will
         fail, and the reasons that the failure is inevitable.
-
 
 (5)     All petitions, inventories, reports and accountings in any probate proceeding (estates,
         protective proceedings, and trust matters) must be in writing and include a declaration
@@ -3784,9 +3702,6 @@ fiduciary or a finding of contempt. The personal representative, conservator, or
 together with counsel of record, must appear unless the matter has been corrected at least three
 judicial days prior to the Show Cause hearing. If the delinquency or defect has not been
 corrected by time of the hearing, sanctions may be imposed.
-
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -3839,8 +3754,6 @@ corrected by time of the hearing, sanctions may be imposed.
         wrongful death claim on behalf of a minor child, incapacitated person, financially
         incapable person, or decedent.
 
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -3891,8 +3804,6 @@ corrected by time of the hearing, sanctions may be imposed.
 A proposed bond is due within thirty (30) days of the signing of a judgment or order requiring
 the filing of a bond (or increase in bond) in any probate proceeding.
 
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -3905,7 +3816,6 @@ days of appointment as successor personal representative or conservator. The ite
 assets shall report the value of the estate’s assets as of the date of appointment of the successor
 personal representative or conservator, and shall be signed with the declaration language of
 ORCP 1E.
-
 
 9.073          VOUCHERS
 
@@ -3996,8 +3906,6 @@ ORCP 1E.
         representing a trustee shall provide notice and instructions to the trustee of this
         requirement.
 
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -4047,9 +3955,6 @@ include any objections by the respondent or protected person in the Visitor Repo
 9.095          ATTORNEY FEES AND CORPORATE FIDUCIARY FEES APPROVAL
 
 (1)     Attorney fee expenses under ORS 116.183 and 125.095 must be approved by the court.
-
-
-
 
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -4128,9 +4033,6 @@ Accounting in estates and conservatorships must be submitted in the format speci
 9.160. Approval of annual accountings in conservatorships must be sought within sixty (60) days
 of filing of the accounting, unless the accounting is contested.
 
-
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -4138,9 +4040,6 @@ of filing of the accounting, unless the accounting is contested.
 
                           CHAPTER 10
                     RESERVED FOR EXPANSION
-
-
-
 
                               Supplementary Local Rules
 Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -4193,7 +4092,6 @@ and court updates. To be included on this email list, contact the Chief Family L
 
          (a)     Delinquency Call
 
-
                                               Supplementary Local Rules
                 Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                               Effective February 1, 2026
@@ -4243,9 +4141,6 @@ the Circuit Court case number(s), and the Juvenile Justice Information System (J
 assigned to the youth by the Department of Community Justice’s Juvenile Services Division or
 its successor agency.
 
-
-
-
                                               Supplementary Local Rules
                 Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                               Effective February 1, 2026
@@ -4294,9 +4189,6 @@ cases, except that only a judge shall conduct the following hearings:
 
 The case caption for any juvenile matter for which there is a Judge of the Case shall include in
 parentheses the name of that judge.
-
-
-
 
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -4643,9 +4535,6 @@ UTCR 4.100 to 4.110.
          duty judge” for after-hour protective custody order requests. If the duty judge cannot be
          contacted, the request may then be made to the backup PCO family law judge.
 
-
-
-
                                               Supplementary Local Rules
                 Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                               Effective February 1, 2026
@@ -4693,9 +4582,6 @@ the court.
 (5)      Qualified court-connected mediators will be identified as such to the public, together with
          contact information for such mediators. The applications of qualified court-connected
          mediators will be available for review by the public.
-
-
-
 
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -5004,9 +4890,6 @@ A mediator shall be chosen by the parties or the court as follows:
              good cause shown. Reimbursement must be from the party or parties whose failure
              to comply was the basis for the petition.
 
-
-
-
                                             Supplementary Local Rules
               Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                             Effective February 1, 2026
@@ -5214,7 +5097,6 @@ with SLR 12.025 or are not in violation of SLR 7.016.
          obtains a waiver or deferral of the fee from the court and provides a copy of the waiver or
          deferral to the arbitrator.
 
-
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                              Effective February 1, 2026
@@ -5261,9 +5143,6 @@ the document was received beyond the time permitted by law. A copy of the return
 appeal and request for trial de novo will be attached to the filed original of the order as a record
 of the submitted document, but will not be filed separately in the action.
 
-
-
-
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                              Effective February 1, 2026
@@ -5308,9 +5187,6 @@ on the electronic medium of the proceeding with the court.
 
 (3)      The above records shall be kept on forms approved by the Trial Court Administrator or
          designee.
-
-
-
 
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -5364,7 +5240,6 @@ the underlying case.
 The court will give the parties not less than seven days’ notice of the small claims hearing unless
 otherwise directed by the Presiding Judge or designee.
 
-
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                              Effective February 1, 2026
@@ -5412,9 +5287,6 @@ Claims Department to a court of appropriate jurisdiction.
 Requests for postponement of a scheduled hearing must be made in writing at least seven days
 prior to the hearing.
 
-
-
-
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                              Effective February 1, 2026
@@ -5437,9 +5309,6 @@ designated agent may be ordered to appear before the court.
 15.145        SEE SLR 6.025 FOR PAYMENT OF TRIAL FEES AND HEARING FEES
 
 15.155        SEE SLR 7.045 FOR MOTION FOR CHANGE OF JUDGE
-
-
-
 
                                            Supplementary Local Rules
              Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -5543,8 +5412,6 @@ proceedings.
       judgment of conviction on all such charges and a fine will be imposed as provided in this
       section.
 
-
-
                                           Supplementary Local Rules
             Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                           Effective February 1, 2026
@@ -5593,9 +5460,6 @@ proceedings.
 
 (3)      Notices filed under this Section must be electronically submitted in accordance with
          UTCR 21.140. Other forms of filing are not permitted.
-
-
-
 
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -5806,7 +5670,6 @@ following options within 60 days from the date notice of the citation is mailed:
                 citation is the prior registered owner, provided the date of issuance of the parking
                 citation is after the date of transfer of the vehicle reported by the prior owner. The
 
-
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                              Effective February 1, 2026
@@ -5858,7 +5721,6 @@ following options within 60 days from the date notice of the citation is mailed:
        responding to the citation must provide:
 
        (i)      A death certificate of the named defendant.
-
 
                                     Supplementary Local Rules
       Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -5963,9 +5825,6 @@ citations may be dismissed or amended and then reissued to another party.
                 affidavit must provide facts establishing mistake, inadvertence, surprise or
                 excusable neglect as those terms are used in ORCP 71.
 
-
-
-
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                              Effective February 1, 2026
@@ -6017,7 +5876,6 @@ fine should not be imposed.
          (b)    If an in-person hearing is requested to release a vehicle towed and impounded in
                 accordance with this rule, the hearing shall be held within two business days of
                 the request.
-
 
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -6100,9 +5958,6 @@ fine should not be imposed.
       contained in the vehicle on such terms and under such conditions as the judicial officer
       may impose.
 
-
-
-
                                           Supplementary Local Rules
             Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                           Effective February 1, 2026
@@ -6183,9 +6038,6 @@ be to the court.
 
 18.095          SEE SLR 15.095 FOR REQUESTS TO POSTPONE HEARINGS
 
-
-
-
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                              Effective February 1, 2026
@@ -6202,9 +6054,6 @@ Ex Parte separate from documents addressing other matters in the underlying case
 applies to motions, affidavits, proposed orders, judgments, and any other document regarding the
 contempt matter.
 
-
-
-
                                            Supplementary Local Rules
              Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                            Effective February 1, 2026
@@ -6212,9 +6061,6 @@ contempt matter.
 
                           CHAPTER 20
                     RESERVED FOR EXPANSION
-
-
-
 
                               Supplementary Local Rules
 Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -6224,9 +6070,6 @@ Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah Cou
                           CHAPTER 21
                     RESERVED FOR EXPANSION
 
-
-
-
                               Supplementary Local Rules
 Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                               Effective February 1, 2026
@@ -6235,9 +6078,6 @@ Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah Cou
                           CHAPTER 22
                     RESERVED FOR EXPANSION
 
-
-
-
                               Supplementary Local Rules
 Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                               Effective February 1, 2026
@@ -6245,9 +6085,6 @@ Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah Cou
 
                           CHAPTER 23
                     RESERVED FOR EXPANSION
-
-
-
 
                               Supplementary Local Rules
 Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
@@ -6299,9 +6136,6 @@ cases must be filed in the Civil Section of the Office of the Trial Court Admini
          relevant exhibits, must be delivered to the office of the Chief Criminal Judge or assigned
          judge at the time of the filing of the document with the court.
 
-
-
-
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                              Effective February 1, 2026
@@ -6351,9 +6185,6 @@ cases must be filed in the Civil Section of the Office of the Trial Court Admini
          only exception to this requirement is for a Church v. Gladden, 224 Or 308, 417 P 2d 933
          (1966), notice filed by the petitioner.
 
-
-
-
                                              Supplementary Local Rules
                Fourth Judicial District, Circuit Court of the State of Oregon for Multnomah County
                                              Effective February 1, 2026
@@ -6368,9 +6199,6 @@ processing.
 
                         IN THE CIRCUIT COURT OF THE STATE OF OREGON
                                FOR THE COUNTY OF MULTNOMAH
-
-
-
 
                         Plaintiff(s)                     Case No.
 
@@ -6396,37 +6224,24 @@ any that apply):
 
                                    Signatures and Date of Signing
 
-
+Party                                  Date            Party’s Attorney                      Date
 
 Party                                  Date            Party’s Attorney                      Date
 
+Party                                  Date            Party’s Attorney                      Date
 
 Party                                  Date            Party’s Attorney                      Date
 
+Party                                  Date            Party’s Attorney                      Date
 
 Party                                  Date            Party’s Attorney                      Date
 
-
 Party                                  Date            Party’s Attorney                      Date
-
-
-Party                                  Date            Party’s Attorney                      Date
-
-
-Party                                  Date            Party’s Attorney                      Date
-
-
-Party                                  Date            Party’s Attorney                      Date
-
-
-
 
 05-31 (08/20)   CERTIFICATE OF ALTERNATIVE DISPUTE RESOLUTION (See SLR 7.016)
 
                             IN THE CIRCUIT COURT OF THE STATE OF OREGON
                                    FOR THE COUNTY OF MULTNOMAH
-
-
 
                                                            Case No.
 
@@ -6437,15 +6252,11 @@ Party                                  Date            Party’s Attorney       
 
                                       Defendant(s)
 
-
 A party in the above case cannot proceed for the following reason:
-
 
                              Bankruptcy; a copy of the petition or notice of bankruptcy is attached
 
                              Other:
-
-
 
                         moves to sever                                                   from the case
 (Plaintiff/Defendant)
@@ -6453,36 +6264,24 @@ A party in the above case cannot proceed for the following reason:
 and abate the case as to said party for                 (days/years) (not to exceed two years), and
 continue the case as to the remaining parties.
 
-
-
-
 I certify to the court that I have complied with SLR 5.025(3) regarding one judicial day’s notice
 of an ex parte appearance to opposing parties, that I will appear at Call as required by SLR
 7.055(8)(A), and will comply with UTCR 7.040 and give the court immediate notice of
 resolution of this matter.
 
-
-
-
  Date                                                Signature
 
-
                                                      Name Typed or Printed and OSB Number
-
-
-
 
 05-38A (08/20) EX PARTE MOTION FOR SEVERANCE OF PARTY AND ABATEMENT
 
                        IN THE CIRCUIT COURT OF THE STATE OF OREGON
                               FOR THE COUNTY OF MULTNOMAH
 
-
                                                   Case No.
                        Plaintiff(s)
                                                   ORDER RE: MOTION FOR SEVERANCE
         vs.                                       OF PARTY AND ABATEMENT
-
 
                        Defendant(s)
 
@@ -6497,24 +6296,14 @@ reinstatement, or otherwise resolved by a final judgment as to such party; and
 IT IS FURTHER ORDERED that the case shall proceed as to the remaining and active
 parties.
 
-
-
-
 Dated                                                 Circuit Court Judge
 
-
                                                       Name of Judge Typed or Printed
-
-
-
 
 05-38B (08/20) ORDER RE: MOTION FOR SEVERANCE OF PARTY AND ABATEMENT
 
                          IN THE CIRCUIT COURT OF THE STATE OF OREGON
                                 FOR THE COUNTY OF MULTNOMAH
-
-
-
 
                        Plaintiff(s)               Case No
 
@@ -6523,11 +6312,9 @@ vs.                                               EX PARTE MOTION FOR
 
                        Defendant(s)
 
-
 Plaintiff moves to reinstate this case, which was has been inactive since
 as to defendant(s) (indicate)                                               or  All, for the following
 reason:
-
 
         Abated for Bankruptcy
 
@@ -6539,40 +6326,26 @@ reason:
 
 Plaintiff requests                    days
 
-
-
 I certify to the court that I have complied with SLR 5.025(3) regarding one judicial day’s notice of an
 ex parte appearance to opposing parties, that I will appear at Call as required by SLR 7.055(8)(A),
 and will comply with UTCR 7.040 and give the court immediate notice of resolution of this
 matter.
 
-
-
-
 Date                                         Signature of Attorney
 
-
                                              Name Typed or Printed and OSB Number
-
-
-
 
 05-33A (08/20)                 EX PARTE MOTION FOR REINSTATEMENT
 
                            IN THE CIRCUIT COURT OF THE STATE OF OREGON
                                   FOR THE COUNTY OF MULTNOMAH
 
-
-
                                                    Case No.
                             Plaintiff(s)
                                                    ORDER RE: MOTION FOR
          vs.                                       REINSTATEMENT
 
-
                             Defendant(s)
-
-
 
 IT IS HEREBY ORDERED THAT the case is reinstated, and:
 
@@ -6591,24 +6364,15 @@ IT IS HEREBY ORDERED THAT the case is reinstated, and:
 
                Denied
 
-
-
-
  Dated                                                 Circuit Court Judge
 
-
                                                        Name of Judge Typed or Printed
-
-
-
 
 05-33B (08/20)                 ORDER RE: MOTION FOR REINSTATEMENT
 
                        CIRCUIT COURT OF OREGON
                            Fourth Judicial District
                    MULTNOMAH COUNTY PROBATE COURT
-
-
 
                                GUARDIANSHIP REPORT
 
@@ -6627,20 +6391,13 @@ IT IS HEREBY ORDERED THAT the case is reinstated, and:
 
 5.            How is this household financially supported:
 
-
 6.            Is the minor still residing with you?                  yes                     no
                       If not, tell us with whom the child is living, the relationship of that person
                       to the child, and why the child is no longer living with you:
 
-
-
-
 7.            How long has the minor lived with someone else?
 
 8.            Please tell us about the child’s school attendance and grades:
-
-
-
 
 9.            Please list any hobbies or recreational interests enjoyed by this child during the
               past year:
@@ -6656,9 +6413,6 @@ my last report because of:
 regarding this child’s adjustment to your care (use the back of this report form if
 necessary):
 
-
-
-
 “I hereby declare that the above statement is true to the best of my
 knowledge and belief, and that I understand it is made for use as evidence
 in court and is subject to penalty for perjury.”
@@ -6666,14 +6420,10 @@ in court and is subject to penalty for perjury.”
 Guardian’s Signature:                                                Today’s Date:
        Printed Name:
 
-
 If applicable:
 
 Co-Guardian’s Signature:                                             Today’s Date:
       Printed Name:
-
-
-
 
 Annual Guardian’s Report/minors-(08/20)
 
@@ -6688,11 +6438,8 @@ to the Court as required by law:
        1. My name is:
        2. My address and telephone number is:
 
-
-
        3. The name, if applicable, address and telephone number of the place where the
 protected person now resides is:
-
 
         4. The protected person is currently residing at the following type of facility or
 residence:
@@ -6709,7 +6456,6 @@ whose telephone number is:
       8. The name and address of any hospital or other institution where the protected
 person is now temporarily or permanently placed is:
 
-
        9. The protected person's physical condition is as follows:
 
        10. The protected person's mental condition is as follows:
@@ -6723,7 +6469,6 @@ following:
 
        14. I believe this guardianship should/should not (circle one) continue because:
 
-
         15. I received the following amount of money on behalf of the protected person:
 $                       . I spent the following amount of money on behalf of the protected
 person: $                             . I now hold the following amount of money on behalf
@@ -6733,7 +6478,6 @@ conservator, and any other person who has requested notice.
         17. Since my last report:
                A. I have been convicted of the following crimes (not including traffic
 infractions:
-
 
               B. I have filed for or received protection from creditors under the Federal
 Bankruptcy Code: YES/NO (circle one).
@@ -6745,13 +6489,11 @@ one)
 person for the following periods of time (provide name of person and powers delegated
 to):
 
-
 “I hereby declare that the above statements are true to the best of my
 knowledge and belief, and that I understand they are made for use as
 evidence in court and is subject to penalty for perjury.”
 
 Date                               Signature of Guardian
-
 
 Date                               Signature of Co-Guardian (if applicable)
 
@@ -6778,8 +6520,6 @@ IN THE MATTER OF THE                       )   CASE NO.
 
 PARTY/ATTORNEY                             PARTY/ATTORNEY
 
-
-
 PHONE NO.                                  PHONE NO.
 FAX NO.                                    FAX NO.
 E-MAIL ADDRESS:                            E-MAIL ADDRESS:
@@ -6789,11 +6529,7 @@ NAME                            OSB#
 PHONE                            FAX NO
 ADDRESS:
 
-
-
        THE FACTS IN DISPUTE ARE:
-
-
 
                               CERTIFICATION
        I HEREBY CERTIFY THAT THE ABOVE INFORMATION IS ACCURATE AND
@@ -6803,11 +6539,7 @@ ADDRESS:
 DATED:
     Signature of Party/Attorney (OSB#
 
-
 Certified to be a true copy:
-
-
-
 
 (07/11) Page 1 NOTICE OF SELECTION OF MEDIATOR AND FACTS IN DISPUTE
         (See SLR 12.045(4)(a))
@@ -6817,17 +6549,12 @@ Certified to be a true copy:
 
       IN THE MATTER OF THE                      ) CASE NO.
 
-
                                                 ) MOTION TO WAIVE
                                                   MEDIATION
-
 
        ON BEHALF OF                                                           ,I
        MOVE TO WAIVE MEDIATION. GOOD CAUSE EXISTS TO WAIVE THE
        MEDIATION REQUIREMENT IN THIS CASE BECAUSE:
-
-
-
 
                               CERTIFICATION
        I HEREBY CERTIFY THAT THE ABOVE INFORMATION IS ACCURATE AND
@@ -6836,25 +6563,16 @@ Certified to be a true copy:
 
 PARTY/ATTORNEY                             PARTY/ATTORNEY
 
-
-
-
 DATED:
     Signature of Party/Attorney OSB#
 
-
 Certified to be true copy:
-
-
-
 
 (07/11) Page 1 MOTION TO WAIVE MEDIATION             (See SLR 12.045(4)(b))
 
                     IN THE CIRCUIT COURT FOR THE STATE OF OREGON
                                FOR MULTNOMAH COUNTY
                                   Family Law Department
-
-
 
                                                  Case No.
 
@@ -6863,11 +6581,7 @@ Certified to be true copy:
                                                  (Family Law – SLR 8.046)
           vs
 
-
-
-
    Respondent(s)
-
 
 The parties signing below certify that they have complied with SLR 8.046 by participating in the
 following dispute resolution process(es): Check all that apply.
@@ -6891,19 +6605,15 @@ The parties signing also certify that each understands that this Certificate mus
 prior to the Trial Assignment date or, if the case is retained by a particular Judge, at least 7 days prior
 to the date of the court hearing.
 
-
 Name                                                         Date
 
-
 Name                                                         Date
-
 
 Name                                                         Date
 
                      IN THE CIRCUIT COURT OF THE STATE OF OREGON
                             FOR THE COUNTY OF MULTNOMAH
                                   CIVIL DEPARTMENT
-
 
                                                   Case No.
                            Plaintiff
@@ -6912,7 +6622,6 @@ Name                                                         Date
                                                   IN FRONT OF SITTING JUDGE
 
                            Defendant
-
 
 It is HEREBY ORDERED that the Request to Change Summary Judgment Hearing
 Date in front of sitting judge is,
@@ -6925,27 +6634,17 @@ The hearing is rescheduled to:
 
        A date provided by the Chief Civil Judge and agreed to by parties; or
 
-
-
-
 Date                                      Circuit Court Judge
-
-
-
 
 05-78B (06-17)      ORDER TO RESCHEDULE SUMMARY JUDGMENT HEARING
 
                         IN THE CIRCUIT COURT OF THE STATE OF OREGON
                                FOR THE COUNTY OF MULTNOMAH
 
-
-
-
                                                     Case No.
                                 Plaintiff
                                                     MOTION TO RESCHEDULE SUMMARY
        vs.                                          JUDGMENT HEARING
-
 
                                 Defendant
 
@@ -6953,51 +6652,31 @@ The      moving party/     non-moving party (check one), moves the court for lea
 reschedule the summary judgment hearing currently set on
 for the following reason(s):
 
-
-
-
        Opposing party:             Consents                Objects
-
-
-
 
 I certify that I have served a copy of this motion on all opposing parties. If objected to, at least
 one judicial day’s notice of the date and time of Ex Parte appearance was given to all opposing
 counsel pursuant to S.L.R. 5.025(3).
 
-
-
-
 Date                                                     Signature of Attorney
-
 
                                                          Print Name and OSB #
 
-
                                                          Party Attorney Represents
 
-
                                                          Telephone Number
-
-
-
 
 05-44A (08/20)                 MOTION TO RESCHEDULE SUMMARY JUDGMENT HEARING
 
                        IN THE CIRCUIT COURT OF THE STATE OF OREGON
                               FOR THE COUNTY OF MULTNOMAH
 
-
-
-
                                                   Case No.
                  Plaintiff/Petitioner
                                                   ORDER TO RESCHEDULE
          vs.                                      SUMMARY JUDGMENT HEARING
 
-
                  Defendant/Respondent
-
 
 It is HEREBY ORDERED that the Request to Change Summary Judgment Hearing
 Date is,
@@ -7010,25 +6689,14 @@ The hearing is rescheduled to:
 
         A date provided by calendaring and agreed to by parties; or
 
-
-
  _
 
-
-
-
  Date                                      Circuit Court Judge
-
-
-
 
 05-44B (08/20)        ORDER TO RESCHEDULE SUMMARY JUDGMENT HEARING
 
                         IN THE CIRCUIT COURT OF THE STATE OF OREGON
                                FOR THE COUNTY OF MULTNOMAH
-
-
-
 
                                                       Case No.
                                  Plaintiff
@@ -7048,20 +6716,10 @@ I certify that I have served a copy of this motion on all opposing parties. If o
 one judicial day’s notice of the date and time of Ex Parte appearance was given to all opposing
 counsel pursuant to SLR 5.025(3).
 
-
-
-
  Dated                                              Signature of Attorney
-
 
                                                     Print Name, Phone Number and OSB #
 
-
                                                     Party Attorney Represents
 
-
-
-
 05-78A (08/20)   MOTION TO RESCHEDULE SUMMARY JUDGMENT HEARING IN FRONT OF SITTING JUDGE
-
-
