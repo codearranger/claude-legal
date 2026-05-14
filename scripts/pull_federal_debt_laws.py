@@ -39,24 +39,35 @@ USC15_ZIP_URL = f"https://uscode.house.gov/download/releasepoints/us/pl/119/84/x
 ECFR_AS_OF = "2026-01-01"
 ECFR_BASE = "https://www.ecfr.gov/api/versioner/v1/full"
 
-# (subchapter-id, short-name, citation, full-title)
+# (subchapter-id, short-name, citation, full-title) — all under Title 15 chapter 41
+# (Consumer Credit Protection Act, 15 U.S.C. §§ 1601-1693r).
 USC_SUBCHAPTERS: list[tuple[str, str, str, str]] = [
-    ("schV", "FDCPA", "15 U.S.C. §§ 1692–1692p",
-     "Fair Debt Collection Practices Act"),
-    ("schIII", "FCRA", "15 U.S.C. §§ 1681–1681x",
-     "Fair Credit Reporting Act"),
     ("schI", "TILA", "15 U.S.C. §§ 1601–1667f",
      "Truth in Lending Act"),
+    ("schII", "Garnishment", "15 U.S.C. §§ 1671–1677",
+     "Restrictions on Garnishment (CCPA Title III)"),
+    ("schIII", "FCRA", "15 U.S.C. §§ 1681–1681x",
+     "Fair Credit Reporting Act"),
     ("schIV", "ECOA", "15 U.S.C. §§ 1691–1691f",
      "Equal Credit Opportunity Act"),
+    ("schV", "FDCPA", "15 U.S.C. §§ 1692–1692p",
+     "Fair Debt Collection Practices Act"),
+    ("schVI", "EFTA", "15 U.S.C. §§ 1693–1693r",
+     "Electronic Fund Transfer Act"),
 ]
 
-# (cfr-part, short-name, full-title)
+# (cfr-part, short-name, full-title) — all CFPB regs at 12 CFR chapter X.
 CFR_PARTS: list[tuple[str, str, str]] = [
-    ("1006", "Reg-F", "Regulation F — Debt Collection Practices (FDCPA)"),
-    ("1022", "Reg-V", "Regulation V — Fair Credit Reporting"),
-    ("1026", "Reg-Z", "Regulation Z — Truth in Lending"),
     ("1002", "Reg-B", "Regulation B — Equal Credit Opportunity"),
+    ("1005", "Reg-E", "Regulation E — Electronic Fund Transfers (EFTA)"),
+    ("1006", "Reg-F", "Regulation F — Debt Collection Practices (FDCPA)"),
+    ("1013", "Reg-M", "Regulation M — Consumer Leasing"),
+    ("1014", "Reg-N", "Regulation N — Mortgage Acts and Practices (MAP Rule)"),
+    ("1016", "Reg-P", "Regulation P — Privacy of Consumer Financial Information"),
+    ("1022", "Reg-V", "Regulation V — Fair Credit Reporting"),
+    ("1024", "Reg-X", "Regulation X — Real Estate Settlement Procedures (RESPA)"),
+    ("1026", "Reg-Z", "Regulation Z — Truth in Lending"),
+    ("1030", "Reg-DD", "Regulation DD — Truth in Savings"),
 ]
 
 USLM_NS = "http://xml.house.gov/schemas/uslm/1.0"
