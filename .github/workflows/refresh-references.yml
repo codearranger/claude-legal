@@ -144,11 +144,11 @@ jobs:
       # ---- CO ----
       # CO has no state-specific pull scripts yet (pull_co_court_rules.py
       # and pull_co_statutes.py are TODO per CLAUDE.md).
-      - name: CO — no state-specific pulls (federal lives in shared plugin)
+      - name: CO — statute corpus (titles 4, 5, 6, 13, 14, 24)
         if: matrix.target == 'co'
-        run: |
-          echo "CO-specific pull scripts (pull_co_court_rules.py, pull_co_statutes.py) are not yet implemented."
-          echo "Federal and UCC content is refreshed via target=federal, not here."
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_co_statutes.py --workers 4
 
       # ---- Finalize ----
 

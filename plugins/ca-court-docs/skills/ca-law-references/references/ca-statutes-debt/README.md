@@ -26,6 +26,10 @@ and consumer-debt defense. One MD per chapter / topic.
 | [CCP-Relief-473.md](CCP-Relief-473.md) | §§ 473-473.5 | Discretionary and mandatory relief from default; void judgments; § 473.5 actual-notice motions |
 | [CCP-Enforcement.md](CCP-Enforcement.md) | §§ 683-708 | Enforcement of judgments — 10-year life, judgment liens, writ of execution, garnishment, supplemental proceedings |
 | [CCP-Exemptions.md](CCP-Exemptions.md) | §§ 703.140 + 704.010-995 | Exemptions — homestead ($300K-$600K per AB 1885), motor vehicle, tools of trade, deposit account, retirement |
+| [CCP-Trial-New-JNOV.md](CCP-Trial-New-JNOV.md) | §§ 657-663a | New trial / JNOV / motion to vacate — § 657 grounds, § 659 notice of intent (15-day), § 660 hearing & 75-day jurisdictional rule, § 663 motion to vacate |
+| [CCP-Writs.md](CCP-Writs.md) | §§ 1085-1097 | Writs of mandate (traditional + administrative) and prohibition — § 1085 traditional mandate, § 1094.5 administrative mandate |
+| [CCP-Unlawful-Detainer.md](CCP-Unlawful-Detainer.md) | §§ 1159-1179 | Unlawful detainer — § 1161 forfeiture grounds, § 1167 5-day answer, § 1170.5 trial-priority 20-day rule, § 1174 judgment, § 1179 stay & relief |
+| [CCP-Arbitration.md](CCP-Arbitration.md) | §§ 1280-1294.2 | California Arbitration Act — § 1281.2 petition to compel, § 1281.97 forfeiture for non-payment (consumer/employment), § 1286.2 grounds to vacate award |
 
 ### Civil Code
 
@@ -35,6 +39,9 @@ and consumer-debt defense. One MD per chapter / topic.
 | [CivCode-FDBPA.md](CivCode-FDBPA.md) | §§ 1788.50-1788.66 | Fair Debt Buying Practices Act — heightened pleading + documentation for debt buyers |
 | [CivCode-CLRA.md](CivCode-CLRA.md) | §§ 1750-1784 | Consumers Legal Remedies Act — 24 enumerated practices, 30-day pre-suit notice, 3-year SOL |
 | [CivCode-Atty-Fees.md](CivCode-Atty-Fees.md) | § 1717 | Reciprocal attorney's fees on contracts |
+| [CivCode-Contracts.md](CivCode-Contracts.md) | §§ 1549-1692 | Contract formation — § 1550 essential elements, § 1624 statute of frauds, § 1636-1654 interpretation, § 1670.5 unconscionability, § 1689 rescission |
+| [CivCode-Damages.md](CivCode-Damages.md) | §§ 3274-3359 | Damages framework — § 3300 contract damages, § 3333 tort damages, § 3294 punitive damages, § 3343 fraud-of-the-vendor measure, § 3358 maximum-recovery cap |
+| [CivCode-Song-Beverly.md](CivCode-Song-Beverly.md) | §§ 1790-1795.8 | Song-Beverly Consumer Warranty Act — implied warranties, lemon-law presumption (§ 1793.22), civil penalty for willful violation |
 
 ### Business & Professions Code
 
@@ -56,13 +63,64 @@ and consumer-debt defense. One MD per chapter / topic.
 | [CommCode-Art-3-Negotiable.md](CommCode-Art-3-Negotiable.md) | §§ 3101-3605 | UCC Article 3 (Negotiable Instruments) — § 3118 6-year SOL, § 3302 HDC analysis, § 3305 defenses |
 | [CommCode-Art-9-Secured.md](CommCode-Art-9-Secured.md) | §§ 9101-9809 | UCC Article 9 (Secured Transactions) — § 9404 assignee takes subject to defenses, § 9406 notification of assignment |
 
+### Evidence Code
+
+| File | Citation | Subject |
+|---|---|---|
+| [EvidCode-Key.md](EvidCode-Key.md) | §§ 210-1521 (key) | Relevance (§ 210, § 350-352), hearsay rule (§ 1200) and key exceptions (business records § 1271, party admissions § 1220, declarations against interest § 1230), authentication (§ 1400-1402), Secondary Evidence Rule (§ 1521, replaced former § 1500 Best Evidence Rule in 1998) |
+
+### Family Code
+
+| File | Citation | Subject |
+|---|---|---|
+| [FamCode-Dissolution.md](FamCode-Dissolution.md) | §§ 2310-2403 | Dissolution / nullity / legal separation — § 2310 grounds (irreconcilable differences, permanent legal incapacity), § 2320 6-month residency, § 2339 6-month "cooling-off" waiting period, § 2210 voidable marriage grounds |
+| [FamCode-Property.md](FamCode-Property.md) | §§ 760-2641 | Community property — § 760 community-property presumption, § 770 separate property, § 1100 management & control, § 2550 equal-division mandate at dissolution, § 2640 separate-property reimbursement (Lucas/Marriage of Heikes) |
+| [FamCode-Custody.md](FamCode-Custody.md) | §§ 3010-3200 | Custody and visitation — § 3011 best-interests factors, § 3020 health/safety/welfare paramount, § 3040 custody preference order, § 3044 DV rebuttable presumption against custody, § 3170 mandatory mediation |
+| [FamCode-Support.md](FamCode-Support.md) | §§ 4050-4076 | Child support guideline — § 4055 statewide formula CS = K[HN - (H%)(TN)], § 4057 rebuttable-presumption + departure findings, § 4058 income definition, § 4062 mandatory + discretionary add-ons, § 4070 imputation |
+
+### Probate Code
+
+| File | Citation | Subject |
+|---|---|---|
+| [ProbCode-Basics.md](ProbCode-Basics.md) | §§ 6400-13150 | Intestate succession (§ 6401 surviving-spouse share, § 6402 order of heirs); probate procedure (§ 8000-8005 petition, § 8120 notice, § 8400 letters); small-estate procedures (§ 13100 affidavit up to $184,500, § 13150 real-property procedure) |
+
+### Labor Code
+
+| File | Citation | Subject |
+|---|---|---|
+| [LabCode-Wages.md](LabCode-Wages.md) | §§ 200-244 | Wage payment and collection — § 201 wages due immediately on discharge, § 202 wages due on quit, § 203 waiting-time penalty (up to 30 days' wages), § 218.5 attorney-fees in wage actions, § 226 itemized wage statement, § 226.7 meal/rest premium (multi-version — verify on leginfo) |
+
 ## Re-pulling
 
-A future `scripts/pull_ca_statutes.py` will fetch from the
-California Legislative Information bulk XML feed
-(`leginfo.legislature.ca.gov/faces/XmlDownloadResults.xhtml`).
-Until then, files are authored from canonical sources and
-should be verified periodically.
+`scripts/pull_ca_statutes.py` fetches verbatim section text from
+`leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml`
+(one section per HTTP GET). The puller targets the inner
+`<font face="Times New Roman">` block inside
+`<div id="single_law_section">` and extracts paragraphs plus the
+italicized statute-history note. Pass `--only <stems>` to limit
+to specific topic files; without `--only` the script will
+overwrite the **hand-authored** corpus files
+(CCP-SOL, CCP-Service, CCP-Pleadings, CCP-Motions-1005-to-1020,
+CCP-Discovery, CCP-Time-Computation, CCP-Relief-473,
+CCP-Enforcement, CCP-Exemptions, CivCode-Rosenthal,
+CivCode-FDBPA, CivCode-CLRA, CivCode-Atty-Fees, BPC-UCL,
+FinCode-CDCLA, CommCode-Art-2-Sales, CommCode-Art-3-Negotiable,
+CommCode-Art-9-Secured) — always pass `--only` to be safe.
+
+```bash
+python3 scripts/pull_ca_statutes.py --workers 4 \
+  --only CCP-Trial-New-JNOV CCP-Writs CCP-Unlawful-Detainer CCP-Arbitration \
+         CivCode-Contracts CivCode-Damages CivCode-Song-Beverly EvidCode-Key \
+         FamCode-Dissolution FamCode-Property FamCode-Custody FamCode-Support \
+         ProbCode-Basics LabCode-Wages
+```
+
+A small number of sections — currently CCP § 1166 and Lab Code
+§ 226.7 — return leginfo's multi-version disambiguation page
+(`selectFromMultiples.xhtml`) when an amendment has competing
+operative dates. These render as `_(empty extraction)_` markers
+in the puller output; click the Source URL in the corpus file
+to view the operative version on leginfo.
 
 ## Quick-reference for consumer-debt defense
 
