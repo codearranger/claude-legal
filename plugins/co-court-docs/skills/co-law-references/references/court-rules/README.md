@@ -3,7 +3,7 @@
 - Last refreshed: 2026-05-14
 - Chief Justice Directives (verbatim): 72
 - Rule-set stubs (full text paywalled): 6
-- Total corpus size: 1,311,767 bytes
+- Total corpus size: 1,311,814 bytes
 
 This corpus holds the Colorado court-rules content most relevant to civil practice. The Colorado-specific situation: **Chief Justice Directives (CJDs)** are published as free PDFs on `coloradojudicial.gov`; the rule sets themselves — **C.R.C.P., CRE, C.A.R., Colorado RPC** — are published commercially by West (Colorado Court Rules) and LexisNexis under copyright, and free-mirror alternatives (Justia, FindLaw, Casetext) sit behind Cloudflare. The `STUB-*.md` entries explain the licensure gap and point to the canonical subscription publication. Substantive citations in the Colorado plugin's SKILL.md files reference the rule numbers and verbatim short excerpts, not the full rule text.
 

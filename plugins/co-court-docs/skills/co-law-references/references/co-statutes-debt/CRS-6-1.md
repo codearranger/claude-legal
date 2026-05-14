@@ -1,7 +1,7 @@
 # C.R.S. Title 6, Article 1 — Colorado Consumer Protection Act (CCPA)
 
 > **Source:** https://content.leg.colorado.gov/sites/default/files/images/olls/crs2024-title-06.pdf
-> **Fetched:** 2026-05-13
+> **Fetched:** 2026-05-14
 > **Format:** verbatim text extracted from the official Colorado General Assembly C.R.S. PDF (2024 edition, "Uncertified Printout") via `pdftotext -layout`.
 
 > **NOT LEGAL ADVICE.** Statute text is reproduced verbatim as published by the Colorado Office of Legislative Legal Services. Verify against the current official text before citation.
