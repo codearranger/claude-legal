@@ -372,8 +372,7 @@ CCP_TRIAL_NEW = [
     ("CCP", "658",    "Time to move for new trial"),
     ("CCP", "659",    "Notice of intention to move"),
     ("CCP", "659a",   "Time to file affidavits"),
-    ("CCP", "660",    "Hearing on motion; time to rule"),
-    ("CCP", "660.5",  "Effect of failure to rule"),
+    ("CCP", "660",    "Hearing on motion; time to rule (subsumes former § 660.5)"),
     ("CCP", "662",    "Trial-court alternatives in lieu of new trial"),
     ("CCP", "662.5",  "Conditional new-trial order"),
     ("CCP", "663",    "Motion to vacate judgment"),
@@ -529,7 +528,7 @@ EVID_KEY = [
     ("EVID", "1401",  "Authentication generally"),
     ("EVID", "1410",  "Methods of authentication"),
     ("EVID", "1411",  "Other methods not excluded"),
-    ("EVID", "1500",  "Best evidence — content of writing"),
+    ("EVID", "1521",  "Secondary Evidence Rule (former § 1500 repealed 1998)"),
     ("EVID", "1521",  "Secondary evidence — original required if dispute"),
 ]
 
@@ -752,43 +751,91 @@ def html_to_text(s: str) -> str:
 # ---- Section parsing ----------------------------------------------------------
 
 def parse_section(html_text: str, code: str, section: str) -> tuple[str, str]:
-    """Returns (caption, body_md). Leginfo's section page wraps the
-    text in <div id="manylawsections"> with the section number and
-    body inline. The fallback path captures whatever main content
-    block is present.
+    """Returns (caption, body_md).
+
+    Leginfo's current section page (verified 2026-05-13) wraps each
+    section in:
+
+        <div id="single_law_section" class="displaycodeleftmargin">
+          <HTML>...<BODY>
+            <div id="codeLawSectionNoHead">
+              <div ...><h4>Code Name</h4></div>     (division/title/part/chapter/article navigation)
+              ...
+              <div><font face="Times New Roman">
+                <h6 style="float:left;"><b>1549.  </b></h6>
+                <p style="margin:0 0 0.5em 0;">Body text...</p>
+                ...more paragraphs...
+                <i>(Enacted 1872.)</i>
+              </font></div>
+            </div>
+          </BODY></HTML>
+        </div>
+
+    We extract the inner <font face="Times New Roman">...</font> block —
+    that strips off the chapter/division navigation headings and gives
+    us exactly the section number, body paragraphs, and history italic.
+
+    Earlier versions of leginfo wrapped sections in
+    <div id="manylawsections"> with a sibling <div id="hist">; that
+    markup is gone as of mid-2026 but the fallback path tries it for
+    forward compatibility.
     """
     caption = ""
     body = ""
 
-    # Caption: typically appears as "<h6>1788.30.</h6>" or similar
-    cap_m = re.search(
-        r"<h\d[^>]*>\s*" + re.escape(section) + r"\.?\s*</h\d>",
-        html_text,
-        re.IGNORECASE,
-    )
-
-    # Heuristic: find a div with id starting with manylawsections, otherwise
-    # fall back to the section's surrounding content.
-    body_re = re.compile(
-        r"<div\s+id=['\"]manylawsections['\"][^>]*>(.*?)</div>\s*<div\s+id=['\"]hist['\"]",
+    # Primary path: <font face="Times New Roman"> inside <div id="single_law_section">.
+    primary = re.compile(
+        r"<div\s+id=['\"]single_law_section['\"][^>]*>(.*?)</BODY>\s*</HTML>\s*</div>",
         re.IGNORECASE | re.DOTALL,
     )
-    body_m = body_re.search(html_text)
-    if not body_m:
-        # Fallback: content area without explicit history div
-        body_re2 = re.compile(
-            r"<div\s+id=['\"]manylawsections['\"][^>]*>(.*?)(?:</div>\s*<div\s+id=|<footer)",
+    pm = primary.search(html_text)
+    fragment = ""
+    if pm:
+        outer = pm.group(1)
+        # Inside outer, look for the <font face="Times New Roman">...</font>
+        # block that actually holds the section text. The chapter / division
+        # / title / part / article navigation headers are in <h4>/<h5>
+        # outside this <font> wrapper.
+        font_re = re.compile(
+            r"<font[^>]*face=['\"]?Times\s+New\s+Roman['\"]?[^>]*>(.*?)</font>",
             re.IGNORECASE | re.DOTALL,
         )
-        body_m = body_re2.search(html_text)
+        fm = font_re.search(outer)
+        if fm:
+            fragment = fm.group(1)
+        else:
+            # Fall back to the entire single_law_section content if the
+            # font wrapper isn't found (some sections may omit it).
+            fragment = outer
 
-    if body_m:
-        body = html_to_text(body_m.group(1))
+    # Legacy fallback: old <div id="manylawsections"> structure.
+    if not fragment:
+        legacy = re.compile(
+            r"<div\s+id=['\"]manylawsections['\"][^>]*>(.*?)</div>\s*<div\s+id=['\"]hist['\"]",
+            re.IGNORECASE | re.DOTALL,
+        )
+        lm = legacy.search(html_text)
+        if not lm:
+            legacy2 = re.compile(
+                r"<div\s+id=['\"]manylawsections['\"][^>]*>(.*?)(?:</div>\s*<div\s+id=|<footer)",
+                re.IGNORECASE | re.DOTALL,
+            )
+            lm = legacy2.search(html_text)
+        if lm:
+            fragment = lm.group(1)
 
-    # Use the body's first line as the caption if no heading found
-    if cap_m and not caption:
+    if fragment:
+        body = html_to_text(fragment)
+        # The <h6> renders as a leading "<section>." line (possibly wrapped
+        # in **bold** markers from the inner <b>). Strip that leading line
+        # from the body and promote it to the caption.
+        sec_head = re.compile(
+            r"\A\**\s*" + re.escape(section) + r"\.\s*\**\s*(?:\n+|$)",
+        )
+        body = sec_head.sub("", body).strip()
         caption = section
-    elif not caption and body:
+
+    if not caption and body:
         first = body.split("\n", 1)[0]
         if len(first) <= 200:
             caption = first
@@ -816,6 +863,9 @@ CODE_DISPLAY = {
     "FIN": "Cal. Fin. Code",
     "COM": "Cal. Comm. Code",
     "EVID": "Cal. Evid. Code",
+    "FAM": "Cal. Fam. Code",
+    "PROB": "Cal. Prob. Code",
+    "LAB": "Cal. Lab. Code",
 }
 
 

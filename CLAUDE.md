@@ -132,9 +132,9 @@ Colorado is the first state plugin to ship with **two** subject-matter bundles i
 Verbatim text pulled from official sources, organized by domain:
 
 - **`court-rules/`** — 1,233 WA court rules across 35 sets (CR, CRLJ, ER, GR, RAP, etc.) extracted from courts.wa.gov PDFs.
-- **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`. FDCPA, FCRA, TILA, ECOA + Reg F/V/Z/B from `uscode.house.gov` USLM XML and the eCFR Versioner API.
+- **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`. **16 sources**: FDCPA, FCRA, TILA, ECOA, EFTA, CCPA-Garnishment (15 U.S.C. §§ 1671-1677), plus CFPB Reg B / E / F / M / N / P / V / X / Z / DD from `uscode.house.gov` USLM XML and the eCFR Versioner API.
 - **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`. Model UCC Articles 1, 2, 3, 9 (Cornell LII).
-- **`wa-rcw-debt/`** — 477 sections across 21 debt-relevant RCW chapters from `app.leg.wa.gov`.
+- **`wa-rcw-debt/`** — **1,547 sections across 75 RCW chapters** covering full civil practice (procedure, evidence, special proceedings, family law, landlord-tenant, real property, business regulation, admin law, UCC, public-records, vulnerable-adults) from `app.leg.wa.gov`. Directory name retained for path stability; scope is no longer "debt-only" despite the slug.
 - **`legal-data-apis.md`** — agent-facing index of the structured APIs above.
 - **`online-sources.md`** — canonical human-facing URLs for the same sources.
 
@@ -145,7 +145,7 @@ Mirrors the WA corpora structure; populated by future pull scripts (initial PR s
 - **`court-rules/`** — Oregon court rules (ORCP, UTCR, OEC, ORAP, Multnomah SLR, Washington Co SLR) from counciloncourtprocedures.org and courts.oregon.gov.
 - **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`.
 - **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`.
-- **`or-ors-debt/`** — Oregon Revised Statutes chapters most relevant to civil practice (ORS 12, 14, 18, 19, 20, 21, 36, 40, 71-79, 82, 90, 105, 174, 187, 646, 697).
+- **`or-ors-debt/`** — **35 ORS chapters / ~5.6 MB** covering full civil practice. The original debt-focused set (ORS 12, 14, 18, 19, 20, 21, 36, 40, 71-79, 82, 90, 105, 174, 187, 646, 697) plus chapters 32 (Injunctions, repealed-stub), 33 (Contempt), 41 (Evidence framework), 79A (UCC Article 9 — renumbered from 79 in 2025), 86 (Mortgages and trust deeds), 87 (Liens), 88 (Foreclosure), 100 (Condominiums), 107 (Dissolution / family law), 109 (Parent and child), 116 (Probate procedure), 124 (Vulnerable persons), 165 (Forgery / theft / fraud), 192 (Public records and meetings), 657 (Unemployment insurance), 659A (Employment discrimination). Directory name retained for path stability.
 - **`legal-data-apis.md`** — Oregon-flavored agent-facing API index (oregonlegislature.gov, CourtListener Oregon courts, etc.).
 - **`online-sources.md`** — canonical URLs for Oregon law.
 
@@ -158,7 +158,7 @@ Mirrors the WA/OR corpora structure:
 - **`court-rules/`** — California Rules of Court (CRC) Titles 2, 3, 5, 7, 8 + the California Evidence Code summary + LASC / SFSC / OCSC / other-county local rules + California Rules of Professional Conduct. Authored substantively; a future `scripts/pull_ca_court_rules.py` will refresh from courts.ca.gov.
 - **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`.
 - **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`.
-- **`ca-statutes-debt/`** — California statute chapters most relevant to civil practice and consumer debt: CCP §§ 312-366 (SOL framework), §§ 412.10-417.40 (service), §§ 425.10-440 (pleadings + demurrer + summary judgment), §§ 1005-1020 (motions / notices), §§ 2016.010-2036.050 (Civil Discovery Act), §§ 683-708 (enforcement), §§ 703.140 / 704.010-995 (exemptions); Cal. Civ. Code §§ 1788-1788.33 (Rosenthal Act), §§ 1788.50-1788.66 (FDBPA), §§ 1750-1784 (CLRA), § 1717 (reciprocal attorney's fees); Cal. Bus. & Prof. Code §§ 17200-17210 (UCL); Cal. Fin. Code §§ 100000-100027 (CDCLA); Cal. Comm. Code §§ 2101-2725, 3101-3605, 9101-9809 (UCC Articles 2, 3, 9 as enacted in CA).
+- **`ca-statutes-debt/`** — **32 files / ~724 KB** covering CA statutory civil practice. Original debt-focused set (CCP SOL / service / pleadings / motions / discovery / relief / enforcement / exemptions; Civ. Code Rosenthal / FDBPA / CLRA / atty-fees; B&P UCL; Fin. Code CDCLA; Comm. Code UCC Articles 2/3/9 as enacted) plus 14 civil-practice expansion groups: CCP-Trial-New-JNOV (§§ 657-663a), CCP-Writs (§§ 1085-1097), CCP-Unlawful-Detainer (§§ 1159-1179), CCP-Arbitration (§§ 1280-1294.2), CivCode-Contracts (§§ 1549-1692), CivCode-Damages (§§ 3274-3359), CivCode-Song-Beverly (§§ 1790-1795.8), EvidCode-Key (relevance / hearsay / authentication / best evidence), FamCode-Dissolution / FamCode-Property / FamCode-Custody / FamCode-Support, ProbCode-Basics, LabCode-Wages.
 
 CA pull scripts: `scripts/pull_ca_court_rules.py` fetches CRC Titles 1-10 from courts.ca.gov; `scripts/pull_ca_statutes.py` fetches the configured CCP / Civ. Code / B&P / Fin. Code / Comm. Code sections from leginfo.legislature.ca.gov. Both follow the same pattern as the WA pullers (`pull_court_rules.py`, `pull_wa_rcw.py`).
 
@@ -169,14 +169,12 @@ Mirrors the WA/OR/CA corpora structure:
 - **`court-rules/`** — Colorado court rules (C.R.C.P. with the streamlined Chapter 18 county-court rules and Chapter 25 small-claims rules, CRE, C.A.R., Colorado Rules of Professional Conduct, Chief Justice Directives including CJD 11-01) — to be populated by a future `pull_co_court_rules.py` against the Colorado Judicial Branch publication source.
 - **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`.
 - **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`.
-- **`co-statutes-debt/`** — Colorado statute chapters most relevant to civil practice and consumer debt: C.R.S. § 13-80-101 through § 13-80-115 (SOL framework, including § 13-80-103.5's 6-year provision for liquidated debt), C.R.S. § 13-54 (exemptions) and § 13-54.5 (garnishment), C.R.S. art. 27 of title 13 (declarations under § 13-27-104), C.R.S. § 13-52 (judgment enforcement / lien / revival), C.R.S. art. 16 of title 5 (CFDCPA — recodified from Title 12 in 2022), C.R.S. art. 1 of title 6 (CCPA), C.R.S. art. 1-9 of title 5 (UCCC), C.R.S. art. 9 of title 4 (Colorado UCC Article 9 enactment), C.R.S. art. 10 of title 14 (UDMA — dissolution, parental responsibilities, child support, maintenance), C.R.S. art. 13 of title 14 (UCCJEA), C.R.S. art. 11 of title 24 (legal holidays).
+- **`co-statutes-debt/`** — **14 articles / ~2.0 MB** of verbatim C.R.S. content fetched by `scripts/pull_co_statutes.py` from the official Colorado General Assembly C.R.S. PDFs at `content.leg.colorado.gov`. Articles: 4-9 (UCC Article 9), 5-1 (UCCC general), 5-16 (CFDCPA), 6-1 (CCPA — 643 KB), 13-22 (Mediation / ADR), 13-50 (Judgments — joint rights), 13-52 (Judgment enforcement), 13-54 (Exemptions), 13-54.5 (Garnishment), 13-80 (Limitations), 13-90 (Witnesses), 14-10 (UDMA — 362 KB; the chapter `co-family-law` already cited), 14-13 (UCCJEA), 24-4 (State APA).
 
-CO pull scripts (to be added in a follow-up PR):
+CO pull scripts:
 
-- `scripts/pull_co_court_rules.py` would fetch C.R.C.P., CRE, C.A.R., and CJDs from coloradojudicial.gov.
-- `scripts/pull_co_statutes.py` would fetch the configured C.R.S. chapters from leg.colorado.gov.
-
-Both will follow the same pattern as the existing WA / CA pullers.
+- **`scripts/pull_co_statutes.py`** — fetches C.R.S. title PDFs from `content.leg.colorado.gov`, runs `pdftotext -layout`, slices by `ARTICLE N` headers, and emits one MD file per article with `## § NN-N-NNN. Title` section headings. Includes `http_get_bytes()` retry helper (3 retries with exponential backoff) and atomic tmp-rename writes. Wired into the quarterly `refresh-references` workflow under `target=co`.
+- `scripts/pull_co_court_rules.py` — TODO; would fetch C.R.C.P., CRE, C.A.R., and CJDs from coloradojudicial.gov.
 
 ## Common commands
 
@@ -350,6 +348,8 @@ scripts/
   pull_wa_rcw.py                    # app.leg.wa.gov → wa-rcw-debt/
   pull_ca_court_rules.py            # courts.ca.gov → ca court-rules/
   pull_ca_statutes.py               # leginfo.legislature.ca.gov → ca-statutes-debt/
+  pull_co_statutes.py               # content.leg.colorado.gov C.R.S. PDFs → co-statutes-debt/
   # TODO: pull_oregon_rules.py       # counciloncourtprocedures.org + courts.oregon.gov → or court-rules/
-  # TODO: pull_oregon_ors.py         # oregonlegislature.gov → or-ors-debt/
+  # TODO: pull_oregon_ors.py         # oregonlegislature.gov → or-ors-debt/  (OR ORS content currently maintained via ad-hoc agent fetches)
+  # TODO: pull_co_court_rules.py     # coloradojudicial.gov → co court-rules/
 ```
