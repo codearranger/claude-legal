@@ -4,7 +4,7 @@
 - USC Subchapter: SUBCHAPTER V— DEBT COLLECTION PRACTICES
 - Release point: Public Law 119-84
 - Source: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-chapter41-subchapterv&edition=prelim
-- Pulled: 2026-05-02
+- Pulled: 2026-05-14
 
 > Verbatim text from the Office of the Law Revision Counsel USLM XML.
 > Cross-references and parts/subparts hierarchy preserved.
