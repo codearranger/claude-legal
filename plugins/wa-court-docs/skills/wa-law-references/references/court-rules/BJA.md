@@ -1,7 +1,7 @@
 # Advisory Case Processing Time Standards (BJA)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=am&set=BJA
-- Pulled: 2026-05-02
+- Pulled: 2026-05-14
 - Rules: 1
 
 > Verbatim text extracted from the official PDFs published by the Washington

@@ -3,7 +3,7 @@
 - Citation: RCW Chapter 62A.1
 - Description: UCC — General Provisions
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.1
-- Pulled: 2026-05-13
+- Pulled: 2026-05-14
 - Sections: 24
 
 > Verbatim text from the Washington State Legislature website. Citation

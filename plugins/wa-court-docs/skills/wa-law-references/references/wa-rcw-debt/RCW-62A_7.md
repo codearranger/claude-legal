@@ -3,7 +3,7 @@
 - Citation: RCW Chapter 62A.7
 - Description: UCC — Warehouse Receipts / Bills of Lading
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.7
-- Pulled: 2026-05-13
+- Pulled: 2026-05-14
 - Sections: 41
 
 > Verbatim text from the Washington State Legislature website. Citation

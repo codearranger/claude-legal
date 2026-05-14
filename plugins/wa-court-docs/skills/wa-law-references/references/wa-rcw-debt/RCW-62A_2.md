@@ -3,7 +3,7 @@
 - Citation: RCW Chapter 62A.2
 - Description: UCC — Sales
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.2
-- Pulled: 2026-05-13
+- Pulled: 2026-05-14
 - Sections: 103
 
 > Verbatim text from the Washington State Legislature website. Citation

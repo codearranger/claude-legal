@@ -3,7 +3,7 @@
 - Citation: RCW Chapter 7.04A
 - Description: Arbitration — Uniform Arbitration Act
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A
-- Pulled: 2026-05-13
+- Pulled: 2026-05-14
 - Sections: 23
 
 > Verbatim text from the Washington State Legislature website. Citation

@@ -1,7 +1,7 @@
 # Superior Court Special Proceedings (SPR)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=sup&set=SPR
-- Pulled: 2026-05-02
+- Pulled: 2026-05-14
 - Rules: 9
 
 > Verbatim text extracted from the official PDFs published by the Washington

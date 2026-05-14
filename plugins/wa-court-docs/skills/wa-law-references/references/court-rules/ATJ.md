@@ -1,7 +1,7 @@
 # Access to Justice (ATJ)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=am&set=ATJ
-- Pulled: 2026-05-02
+- Pulled: 2026-05-14
 - Rules: 2
 
 > Verbatim text extracted from the official PDFs published by the Washington
