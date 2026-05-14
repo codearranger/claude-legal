@@ -24,11 +24,33 @@ CHAPTER_URL = BASE + "/RCW/default.aspx?cite={chapter}"
 SECTION_URL = BASE + "/RCW/default.aspx?cite={cite}"
 
 # (chapter, short-name, description)
+#
+# Curated for broad civil-practice coverage — debt collection essentials
+# plus general civil procedure, evidence, family law, real-property,
+# landlord-tenant, business entities, administrative law, and the UCC
+# articles a civil practitioner needs.
 CHAPTERS: list[tuple[str, str, str]] = [
+    # ---- Title 4 — Civil Procedure -------------------------------------
+    ("4.04",   "4.04",   "Common Law / Survival of Causes"),
+    ("4.08",   "4.08",   "Parties to Actions"),
+    ("4.12",   "4.12",   "Venue / Change"),
     ("4.16",   "4.16",   "Limitation of Actions (statute of limitations)"),
+    ("4.20",   "4.20",   "Survival of Actions"),
+    ("4.22",   "4.22",   "Contribution and Apportionment of Fault"),
+    ("4.24",   "4.24",   "Special Rights of Action and Special Immunities"),
     ("4.28",   "4.28",   "Commencement of Actions / Service of Process"),
+    ("4.32",   "4.32",   "Pleadings"),
     ("4.56",   "4.56",   "Judgments"),
+    ("4.64",   "4.64",   "Civil Judgments — Assignment"),
+    ("4.72",   "4.72",   "Vacation of Judgments"),
     ("4.84",   "4.84",   "Costs"),
+    ("4.92",   "4.92",   "Claims Against the State"),
+    ("4.96",   "4.96",   "Claims Against Local Governments"),
+    # ---- Title 5 — Evidence --------------------------------------------
+    ("5.44",   "5.44",   "Admissibility (incl. Uniform Photographic Copies Act)"),
+    ("5.45",   "5.45",   "Business Records as Evidence"),
+    ("5.60",   "5.60",   "Privileged Communications"),
+    # ---- Title 6 — Enforcement of Judgments ----------------------------
     ("6.01",   "6.01",   "Enforcement of Judgments — General Provisions"),
     ("6.13",   "6.13",   "Homesteads"),
     ("6.15",   "6.15",   "Personal Property Exempt from Execution"),
@@ -38,14 +60,74 @@ CHAPTERS: list[tuple[str, str, str]] = [
     ("6.27",   "6.27",   "Garnishment"),
     ("6.32",   "6.32",   "Proceedings Supplemental to Execution"),
     ("6.36",   "6.36",   "Uniform Enforcement of Foreign Judgments Act"),
+    # ---- Title 7 — Special Proceedings and Actions ---------------------
+    ("7.04A",  "7.04A",  "Arbitration — Uniform Arbitration Act"),
+    ("7.06",   "7.06",   "Mandatory Arbitration of Civil Actions"),
+    ("7.21",   "7.21",   "Contempt of Court"),
+    ("7.24",   "7.24",   "Declaratory Judgments"),
+    ("7.28",   "7.28",   "Ejectment / Quieting Title"),
+    ("7.40",   "7.40",   "Injunctions"),
+    ("7.60",   "7.60",   "Receivers"),
+    # ---- Title 12 — District Courts ------------------------------------
     ("12.40",  "12.40",  "Small Claims"),
+    # ---- Title 18/19 — Business Regulation -----------------------------
+    ("18.235", "18.235", "Uniform Regulation of Business and Professions Act"),
     ("19.16",  "19.16",  "Collection Agencies"),
     ("19.36",  "19.36",  "Contracts (Statute of Frauds)"),
     ("19.52",  "19.52",  "Interest — Usury"),
     ("19.86",  "19.86",  "Unfair Business Practices — Consumer Protection"),
+    ("19.144", "19.144", "Mortgage Lending and Homeownership"),
+    ("19.182", "19.182", "Fair Credit Reporting Act (Washington)"),
+    ("19.255", "19.255", "Personal Information — Notice of Security Breaches"),
+    # ---- Title 25 — Partnerships and LLCs ------------------------------
+    ("25.05",  "25.05",  "Revised Uniform Partnership Act"),
+    ("25.15",  "25.15",  "Limited Liability Companies"),
+    # ---- Title 26 — Family Law -----------------------------------------
+    ("26.04",  "26.04",  "Marriage"),
+    ("26.09",  "26.09",  "Dissolution of Marriage / Legal Separation"),
+    ("26.18",  "26.18",  "Child Support — Enforcement and Modification"),
+    ("26.27",  "26.27",  "Uniform Child Custody Jurisdiction and Enforcement Act"),
+    ("26.50",  "26.50",  "Domestic Violence Prevention"),
+    # ---- Title 34 — Administrative Law ---------------------------------
+    ("34.05",  "34.05",  "Administrative Procedure Act"),
+    # ---- Title 48 — Insurance ------------------------------------------
+    ("48.30",  "48.30",  "Insurance — Unfair Practices and Frauds"),
+    # ---- Title 49 — Labor ----------------------------------------------
+    ("49.46",  "49.46",  "Minimum Wage Act"),
+    ("49.48",  "49.48",  "Wages — Payment / Collection"),
+    # ---- Title 59 — Landlord and Tenant --------------------------------
+    ("59.12",  "59.12",  "Forcible Entry / Detainer / Unlawful Detainer"),
+    ("59.18",  "59.18",  "Residential Landlord-Tenant Act"),
+    ("59.20",  "59.20",  "Manufactured / Mobile Home Landlord-Tenant Act"),
+    # ---- Title 60 — Liens ----------------------------------------------
+    ("60.04",  "60.04",  "Liens of Mechanics and Materialmen"),
+    ("60.10",  "60.10",  "Uniform Federal Lien Registration Act"),
+    # ---- Title 61 — Mortgages / Deeds of Trust -------------------------
+    ("61.24",  "61.24",  "Deeds of Trust — Nonjudicial Foreclosure"),
+    # ---- Title 62A — Uniform Commercial Code ---------------------------
     ("62A.1",  "62A.1",  "UCC — General Provisions"),
+    ("62A.2",  "62A.2",  "UCC — Sales"),
     ("62A.3",  "62A.3",  "UCC — Negotiable Instruments"),
+    ("62A.4",  "62A.4",  "UCC — Bank Deposits and Collections"),
+    ("62A.7",  "62A.7",  "UCC — Warehouse Receipts / Bills of Lading"),
+    ("62A.8",  "62A.8",  "UCC — Investment Securities"),
     ("62A.9A", "62A.9A", "UCC — Secured Transactions"),
+    # ---- Title 63 — Personal Property ----------------------------------
+    # Note: RCW 63.29 (Uniform Unclaimed Property Act, 1983) was repealed
+    # in 2022 and replaced by RCW 63.30 (Revised Uniform Unclaimed
+    # Property Act, effective 2024). Cite 63.30 going forward.
+    ("63.30",  "63.30",  "Revised Uniform Unclaimed Property Act"),
+    # ---- Title 64 — Real Property --------------------------------------
+    ("64.04",  "64.04",  "Conveyances"),
+    ("64.06",  "64.06",  "Real Estate Sales Disclosure Form"),
+    ("64.34",  "64.34",  "Condominium Act"),
+    ("64.38",  "64.38",  "Homeowners' Associations"),
+    # ---- Title 65 — Recording Instruments ------------------------------
+    ("65.08",  "65.08",  "Real Property — Recording"),
+    # ---- Title 70 — Public Health (limited civil-relevant chapters) ---
+    ("70.02",  "70.02",  "Medical Records — Health Care Information Access"),
+    # ---- Title 74 — Public Assistance (limited) ------------------------
+    ("74.34",  "74.34",  "Abuse of Vulnerable Adults"),
 ]
 
 
