@@ -2,7 +2,7 @@
 
 - Citation: Cal. Rules of Court, Rules on Law Practice, Attorneys, and Judges
 - Source: https://courts.ca.gov/cms/rules/index/nine
-- Pulled: 2026-05-13
+- Pulled: 2026-05-14
 - Rules: 49
 
 > Verbatim rule text scraped from courts.ca.gov.
