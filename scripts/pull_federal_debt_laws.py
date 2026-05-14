@@ -1,19 +1,41 @@
 #!/usr/bin/env python3
-"""Pull federal debt-related statutes (USC Title 15) and CFR parts (Title 12) and convert to Markdown.
+"""Pull federal debt-related statutes (multiple USC titles) and CFR parts (multiple CFR titles).
 
-Statutes from uscode.house.gov USLM XML release point 119-84 (current as of 2026-04-18):
-  - FDCPA   = Title 15 ch 41 subchapter V   (15 U.S.C. §§ 1692–1692p)
-  - FCRA    = Title 15 ch 41 subchapter III (15 U.S.C. §§ 1681–1681x)
-  - TILA    = Title 15 ch 41 subchapter I   (15 U.S.C. §§ 1601–1667f)
-  - ECOA    = Title 15 ch 41 subchapter IV  (15 U.S.C. §§ 1691–1691f)
+Statutes from uscode.house.gov USLM XML, release point Public Law 119-84
+(current as of 2026-04-21). All five USC titles below are available at the
+same 119-84 release point. To refresh: visit
+https://uscode.house.gov/download/releasepoints.shtml, find the latest
+public-law release point, and bump USC_RELEASE — every USC title is
+republished at every release point, so a single constant is sufficient.
 
-Regulations from ecfr.gov XML versioner API (Title 12):
-  - Reg F = Part 1006 (CFPB rules implementing FDCPA)
-  - Reg V = Part 1022 (CFPB rules implementing FCRA)
-  - Reg Z = Part 1026 (CFPB rules implementing TILA)
-  - Reg B = Part 1002 (CFPB rules implementing ECOA)
+USC sources (federal-debt-laws/):
+  - TILA          = Title 15 ch 41 subchapter I    (15 U.S.C. §§ 1601–1667f)
+  - Garnishment   = Title 15 ch 41 subchapter II   (15 U.S.C. §§ 1671–1677)
+  - FCRA          = Title 15 ch 41 subchapter III  (15 U.S.C. §§ 1681–1681x)
+  - ECOA          = Title 15 ch 41 subchapter IV   (15 U.S.C. §§ 1691–1691f)
+  - FDCPA         = Title 15 ch 41 subchapter V    (15 U.S.C. §§ 1692–1692p)
+  - EFTA          = Title 15 ch 41 subchapter VI   (15 U.S.C. §§ 1693–1693r)
+  - RESPA         = Title 12 ch 27                 (12 U.S.C. §§ 2601–2617)
+  - SCRA          = Title 50 ch 50                 (50 U.S.C. §§ 3901–4043)
+  - FHA           = Title 42 ch 45 subchapter I    (42 U.S.C. §§ 3601–3619)
 
-Output: plugins/wa-court-docs/skills/wa-law-references/references/federal-debt-laws/
+USC sources (federal-bankruptcy/):
+  - Bankruptcy Code chapters 1, 3, 5, 7, 11, 12, 13, 15 — all of 11 U.S.C.
+
+Regulations from ecfr.gov XML versioner API:
+  - Reg F = 12 C.F.R. Part 1006  (CFPB rules implementing FDCPA)
+  - Reg V = 12 C.F.R. Part 1022  (CFPB rules implementing FCRA)
+  - Reg Z = 12 C.F.R. Part 1026  (CFPB rules implementing TILA)
+  - Reg B = 12 C.F.R. Part 1002  (CFPB rules implementing ECOA)
+  - Reg E = 12 C.F.R. Part 1005  (CFPB rules implementing EFTA)
+  - Reg M = 12 C.F.R. Part 1013  (Consumer Leasing Act)
+  - Reg N = 12 C.F.R. Part 1014  (Mortgage Acts and Practices)
+  - Reg P = 12 C.F.R. Part 1016  (Gramm-Leach-Bliley financial privacy)
+  - Reg X = 12 C.F.R. Part 1024  (RESPA implementing regs)
+  - Reg DD = 12 C.F.R. Part 1030 (Truth in Savings Act)
+  - TSR   = 16 C.F.R. Part 310   (FTC Telemarketing Sales Rule)
+
+Output: plugins/claude-legal-federal-laws/references/{federal-debt-laws,federal-bankruptcy}/
 """
 
 from __future__ import annotations
@@ -31,43 +53,86 @@ from pathlib import Path
 
 USER_AGENT = "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) federal-debt-laws-puller"
 
-# USC Title 15 USLM release point. Pinned so output is reproducible; refreshable later.
-USC15_RELEASE = "119-84"
-USC15_ZIP_URL = f"https://uscode.house.gov/download/releasepoints/us/pl/119/84/xml_usc15@{USC15_RELEASE}.zip"
+# USC USLM release point. Every USC title is republished at every release
+# point, so one constant suffices. To refresh, browse
+# https://uscode.house.gov/download/releasepoints.shtml and bump this.
+USC_RELEASE = "119-84"
+USC_RELEASE_CONGRESS, USC_RELEASE_PUBLAW = USC_RELEASE.split("-", 1)
+USC_ZIP_URL_TMPL = (
+    "https://uscode.house.gov/download/releasepoints/us/pl/"
+    f"{USC_RELEASE_CONGRESS}/{USC_RELEASE_PUBLAW}/"
+    "xml_usc{title}@" + USC_RELEASE + ".zip"
+)
 
 # eCFR uses an "as-of" date; we pick the most recent fixed date for stable output.
 ECFR_AS_OF = "2026-01-01"
 ECFR_BASE = "https://www.ecfr.gov/api/versioner/v1/full"
 
-# (subchapter-id, short-name, citation, full-title) — all under Title 15 chapter 41
-# (Consumer Credit Protection Act, 15 U.S.C. §§ 1601-1693r).
-USC_SUBCHAPTERS: list[tuple[str, str, str, str]] = [
-    ("schI", "TILA", "15 U.S.C. §§ 1601–1667f",
-     "Truth in Lending Act"),
-    ("schII", "Garnishment", "15 U.S.C. §§ 1671–1677",
-     "Restrictions on Garnishment (CCPA Title III)"),
-    ("schIII", "FCRA", "15 U.S.C. §§ 1681–1681x",
-     "Fair Credit Reporting Act"),
-    ("schIV", "ECOA", "15 U.S.C. §§ 1691–1691f",
-     "Equal Credit Opportunity Act"),
-    ("schV", "FDCPA", "15 U.S.C. §§ 1692–1692p",
-     "Fair Debt Collection Practices Act"),
-    ("schVI", "EFTA", "15 U.S.C. §§ 1693–1693r",
-     "Electronic Fund Transfer Act"),
+# Target row: (usc_title, chapter, subchapter_or_None, short_name, citation,
+#              full_title, corpus_dir).
+# - subchapter_or_None: "schI", "schII", ... when the act is one subchapter
+#   of a chapter; None means "render the whole chapter".
+# - corpus_dir: which output corpus the file is written into.
+USCRow = tuple[str, str, str | None, str, str, str, str]
+USC_TARGETS: list[USCRow] = [
+    # 15 U.S.C. Chapter 41 — Consumer Credit Protection Act
+    ("15", "ch41", "schI",   "TILA",        "15 U.S.C. §§ 1601–1667f",
+     "Truth in Lending Act",                                   "federal-debt-laws"),
+    ("15", "ch41", "schII",  "Garnishment", "15 U.S.C. §§ 1671–1677",
+     "Restrictions on Garnishment (CCPA Title III)",           "federal-debt-laws"),
+    ("15", "ch41", "schIII", "FCRA",        "15 U.S.C. §§ 1681–1681x",
+     "Fair Credit Reporting Act",                              "federal-debt-laws"),
+    ("15", "ch41", "schIV",  "ECOA",        "15 U.S.C. §§ 1691–1691f",
+     "Equal Credit Opportunity Act",                           "federal-debt-laws"),
+    ("15", "ch41", "schV",   "FDCPA",       "15 U.S.C. §§ 1692–1692p",
+     "Fair Debt Collection Practices Act",                     "federal-debt-laws"),
+    ("15", "ch41", "schVI",  "EFTA",        "15 U.S.C. §§ 1693–1693r",
+     "Electronic Fund Transfer Act",                           "federal-debt-laws"),
+    # 12 U.S.C. Chapter 27 — RESPA statute
+    ("12", "ch27", None,     "RESPA",       "12 U.S.C. §§ 2601–2617",
+     "Real Estate Settlement Procedures Act",                  "federal-debt-laws"),
+    # 50 U.S.C. Chapter 50 — SCRA
+    ("50", "ch50", None,     "SCRA",        "50 U.S.C. §§ 3901–4043",
+     "Servicemembers Civil Relief Act",                        "federal-debt-laws"),
+    # 42 U.S.C. Chapter 45 Subchapter I — Fair Housing Act
+    ("42", "ch45", "schI",   "FHA",         "42 U.S.C. §§ 3601–3619",
+     "Fair Housing Act",                                       "federal-debt-laws"),
+    # 11 U.S.C. — Bankruptcy Code; one file per chapter into its own corpus.
+    ("11", "ch1",  None,     "Chapter-1",   "11 U.S.C. §§ 101–112",
+     "Bankruptcy Code — Chapter 1 (General Provisions)",       "federal-bankruptcy"),
+    ("11", "ch3",  None,     "Chapter-3",   "11 U.S.C. §§ 301–366",
+     "Bankruptcy Code — Chapter 3 (Case Administration)",      "federal-bankruptcy"),
+    ("11", "ch5",  None,     "Chapter-5",   "11 U.S.C. §§ 501–562",
+     "Bankruptcy Code — Chapter 5 (Creditors, the Debtor, and the Estate)",
+                                                                "federal-bankruptcy"),
+    ("11", "ch7",  None,     "Chapter-7",   "11 U.S.C. §§ 701–784",
+     "Bankruptcy Code — Chapter 7 (Liquidation)",              "federal-bankruptcy"),
+    ("11", "ch11", None,     "Chapter-11",  "11 U.S.C. §§ 1101–1195",
+     "Bankruptcy Code — Chapter 11 (Reorganization)",          "federal-bankruptcy"),
+    ("11", "ch12", None,     "Chapter-12",  "11 U.S.C. §§ 1201–1232",
+     "Bankruptcy Code — Chapter 12 (Family Farmer/Fisherman)", "federal-bankruptcy"),
+    ("11", "ch13", None,     "Chapter-13",  "11 U.S.C. §§ 1301–1330",
+     "Bankruptcy Code — Chapter 13 (Adjustment of Debts of an Individual with Regular Income)",
+                                                                "federal-bankruptcy"),
+    ("11", "ch15", None,     "Chapter-15",  "11 U.S.C. §§ 1501–1532",
+     "Bankruptcy Code — Chapter 15 (Ancillary and Other Cross-Border Cases)",
+                                                                "federal-bankruptcy"),
 ]
 
-# (cfr-part, short-name, full-title) — all CFPB regs at 12 CFR chapter X.
-CFR_PARTS: list[tuple[str, str, str]] = [
-    ("1002", "Reg-B", "Regulation B — Equal Credit Opportunity"),
-    ("1005", "Reg-E", "Regulation E — Electronic Fund Transfers (EFTA)"),
-    ("1006", "Reg-F", "Regulation F — Debt Collection Practices (FDCPA)"),
-    ("1013", "Reg-M", "Regulation M — Consumer Leasing"),
-    ("1014", "Reg-N", "Regulation N — Mortgage Acts and Practices (MAP Rule)"),
-    ("1016", "Reg-P", "Regulation P — Privacy of Consumer Financial Information"),
-    ("1022", "Reg-V", "Regulation V — Fair Credit Reporting"),
-    ("1024", "Reg-X", "Regulation X — Real Estate Settlement Procedures (RESPA)"),
-    ("1026", "Reg-Z", "Regulation Z — Truth in Lending"),
-    ("1030", "Reg-DD", "Regulation DD — Truth in Savings"),
+# Regulation row: (cfr_title, part, short, full_title, corpus_dir).
+CFRRow = tuple[str, str, str, str, str]
+CFR_PARTS: list[CFRRow] = [
+    ("12", "1002", "Reg-B",  "Regulation B — Equal Credit Opportunity",                           "federal-debt-laws"),
+    ("12", "1005", "Reg-E",  "Regulation E — Electronic Fund Transfers (EFTA)",                   "federal-debt-laws"),
+    ("12", "1006", "Reg-F",  "Regulation F — Debt Collection Practices (FDCPA)",                  "federal-debt-laws"),
+    ("12", "1013", "Reg-M",  "Regulation M — Consumer Leasing",                                   "federal-debt-laws"),
+    ("12", "1014", "Reg-N",  "Regulation N — Mortgage Acts and Practices (MAP Rule)",             "federal-debt-laws"),
+    ("12", "1016", "Reg-P",  "Regulation P — Privacy of Consumer Financial Information",          "federal-debt-laws"),
+    ("12", "1022", "Reg-V",  "Regulation V — Fair Credit Reporting",                              "federal-debt-laws"),
+    ("12", "1024", "Reg-X",  "Regulation X — Real Estate Settlement Procedures (RESPA)",          "federal-debt-laws"),
+    ("12", "1026", "Reg-Z",  "Regulation Z — Truth in Lending",                                   "federal-debt-laws"),
+    ("12", "1030", "Reg-DD", "Regulation DD — Truth in Savings",                                  "federal-debt-laws"),
+    ("16", "310",  "TSR",    "Telemarketing Sales Rule (FTC)",                                    "federal-debt-laws"),
 ]
 
 USLM_NS = "http://xml.house.gov/schemas/uslm/1.0"
@@ -79,19 +144,19 @@ def http_get(url: str) -> bytes:
         return r.read()
 
 
-def get_usc15_xml(cache: Path) -> Path:
-    """Download and unzip the USC Title 15 USLM XML if not already cached."""
+def get_usc_xml(title: str, cache: Path) -> Path:
+    """Download and unzip the USLM XML for a given USC title if not already cached."""
     cache.mkdir(parents=True, exist_ok=True)
-    xml_path = cache / f"usc15@{USC15_RELEASE}.xml"
-    if xml_path.exists() and xml_path.stat().st_size > 1_000_000:
+    xml_path = cache / f"usc{title}@{USC_RELEASE}.xml"
+    if xml_path.exists() and xml_path.stat().st_size > 100_000:
         return xml_path
-    print(f"  downloading {USC15_ZIP_URL}", flush=True)
-    zip_bytes = http_get(USC15_ZIP_URL)
+    url = USC_ZIP_URL_TMPL.format(title=title)
+    print(f"  downloading {url}", flush=True)
+    zip_bytes = http_get(url)
     with zipfile.ZipFile(io.BytesIO(zip_bytes)) as zf:
-        # The archive contains usc15.xml at the root.
         names = [n for n in zf.namelist() if n.endswith(".xml")]
         if not names:
-            raise RuntimeError(f"no XML inside {USC15_ZIP_URL}")
+            raise RuntimeError(f"no XML inside {url}")
         with zf.open(names[0]) as src, open(xml_path, "wb") as dst:
             dst.write(src.read())
     return xml_path
@@ -204,18 +269,24 @@ def render_block(elem: ET.Element, depth: int = 0) -> list[str]:
     return lines
 
 
+def _container_label(elem: ET.Element) -> str:
+    num = elem.find(f"{{{USLM_NS}}}num")
+    heading = elem.find(f"{{{USLM_NS}}}heading")
+    return " ".join(t for t in [
+        (num.text or "").strip() if num is not None else "",
+        text_of(heading).strip() if heading is not None else "",
+    ] if t)
+
+
 def render_subchapter(subch: ET.Element, citation: str, full_title: str, short_name: str, source_url: str) -> str:
     today = date.today().isoformat()
     out: list[str] = []
-    num = subch.find(f"{{{USLM_NS}}}num")
-    heading = subch.find(f"{{{USLM_NS}}}heading")
-    sc_label = " ".join(t for t in [(num.text or "").strip() if num is not None else "",
-                                    text_of(heading).strip() if heading is not None else ""] if t)
+    sc_label = _container_label(subch)
     out.append(f"# {full_title} ({short_name})")
     out.append("")
     out.append(f"- Citation: {citation}")
     out.append(f"- USC Subchapter: {sc_label}")
-    out.append(f"- Release point: Public Law {USC15_RELEASE}")
+    out.append(f"- Release point: Public Law {USC_RELEASE}")
     out.append(f"- Source: {source_url}")
     out.append(f"- Pulled: {today}")
     out.append("")
@@ -229,10 +300,7 @@ def render_subchapter(subch: ET.Element, citation: str, full_title: str, short_n
     for child in subch:
         ln = localname(child.tag)
         if ln == "part":
-            pnum = child.find(f"{{{USLM_NS}}}num")
-            phead = child.find(f"{{{USLM_NS}}}heading")
-            label = " ".join(t for t in [(pnum.text or "").strip() if pnum is not None else "",
-                                         text_of(phead).strip() if phead is not None else ""] if t)
+            label = _container_label(child)
             out.append(f"## {label}")
             out.append("")
             for sub in child:
@@ -246,18 +314,81 @@ def render_subchapter(subch: ET.Element, citation: str, full_title: str, short_n
     return text
 
 
-def find_subchapter(root: ET.Element, sub_id: str) -> ET.Element | None:
-    target_identifier = f"/us/usc/t15/ch41/{sub_id}"
+def render_chapter(chapter: ET.Element, citation: str, full_title: str, short_name: str, source_url: str) -> str:
+    """Render an entire USC chapter (used when the act is a whole chapter, e.g. RESPA, SCRA,
+    and Bankruptcy chapters). Chapters may contain subchapters which contain sections, or may
+    contain sections directly."""
+    today = date.today().isoformat()
+    out: list[str] = []
+    ch_label = _container_label(chapter)
+    # Suppress the "(short_name)" suffix when the short is just a file-name token
+    # like "Chapter-7" that adds no information beyond the full title.
+    if short_name.startswith("Chapter-"):
+        out.append(f"# {full_title}")
+    else:
+        out.append(f"# {full_title} ({short_name})")
+    out.append("")
+    out.append(f"- Citation: {citation}")
+    out.append(f"- USC Chapter: {ch_label}")
+    out.append(f"- Release point: Public Law {USC_RELEASE}")
+    out.append(f"- Source: {source_url}")
+    out.append(f"- Pulled: {today}")
+    out.append("")
+    out.append("> Verbatim text from the Office of the Law Revision Counsel USLM XML.")
+    out.append("> Cross-references and parts/subparts hierarchy preserved.")
+    out.append("")
+
+    for child in chapter:
+        ln = localname(child.tag)
+        if ln == "subchapter":
+            label = _container_label(child)
+            out.append(f"## {label}")
+            out.append("")
+            for sub in child:
+                sln = localname(sub.tag)
+                if sln == "part":
+                    plabel = _container_label(sub)
+                    out.append(f"### {plabel}")
+                    out.append("")
+                    for sec in sub:
+                        if localname(sec.tag) == "section":
+                            out.extend(render_block(sec))
+                elif sln == "section":
+                    out.extend(render_block(sub))
+        elif ln == "part":
+            label = _container_label(child)
+            out.append(f"## {label}")
+            out.append("")
+            for sub in child:
+                if localname(sub.tag) == "section":
+                    out.extend(render_block(sub))
+        elif ln == "section":
+            out.extend(render_block(child))
+    text = "\n".join(out).rstrip() + "\n"
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text
+
+
+def find_subchapter(root: ET.Element, usc_title: str, chapter: str, sub_id: str) -> ET.Element | None:
+    target_identifier = f"/us/usc/t{usc_title}/{chapter}/{sub_id}"
     for sub in root.iter(f"{{{USLM_NS}}}subchapter"):
         if sub.attrib.get("identifier") == target_identifier:
             return sub
     return None
 
 
+def find_chapter(root: ET.Element, usc_title: str, chapter: str) -> ET.Element | None:
+    target_identifier = f"/us/usc/t{usc_title}/{chapter}"
+    for ch in root.iter(f"{{{USLM_NS}}}chapter"):
+        if ch.attrib.get("identifier") == target_identifier:
+            return ch
+    return None
+
+
 # ----- eCFR XML → Markdown -------------------------------------------------------------
 
-def fetch_cfr_part_xml(part: str) -> bytes:
-    url = f"{ECFR_BASE}/{ECFR_AS_OF}/title-12.xml?part={part}"
+def fetch_cfr_part_xml(cfr_title: str, part: str) -> bytes:
+    url = f"{ECFR_BASE}/{ECFR_AS_OF}/title-{cfr_title}.xml?part={part}"
     return http_get(url)
 
 
@@ -347,11 +478,11 @@ def render_cfr_div(elem: ET.Element, depth: int = 0) -> list[str]:
     return lines
 
 
-def render_cfr_part(part_xml: bytes, part: str, short_name: str, full_title: str) -> str:
+def render_cfr_part(part_xml: bytes, cfr_title: str, part: str, short_name: str, full_title: str) -> str:
     today = date.today().isoformat()
     root = ET.fromstring(part_xml)
 
-    # The full title-12 XML contains many parts; locate the one whose N attribute matches.
+    # The full title XML contains many parts; locate the one whose N attribute matches.
     target = None
     for div in root.iter():
         if localname(div.tag) == "DIV5" and div.attrib.get("N") == part and div.attrib.get("TYPE") == "PART":
@@ -364,14 +495,14 @@ def render_cfr_part(part_xml: bytes, part: str, short_name: str, full_title: str
                 target = div
                 break
     if target is None:
-        raise RuntimeError(f"could not locate Part {part} in eCFR XML response")
+        raise RuntimeError(f"could not locate Part {part} in eCFR XML response for Title {cfr_title}")
 
     out: list[str] = []
     out.append(f"# {full_title}")
     out.append("")
-    out.append(f"- Citation: 12 C.F.R. Part {part}")
+    out.append(f"- Citation: {cfr_title} C.F.R. Part {part}")
     out.append(f"- As of: {ECFR_AS_OF}")
-    out.append(f"- Source: https://www.ecfr.gov/current/title-12/part-{part}")
+    out.append(f"- Source: https://www.ecfr.gov/current/title-{cfr_title}/part-{part}")
     out.append(f"- Pulled: {today}")
     out.append("")
     out.append("> Verbatim text from the eCFR XML versioner API. Inline italics (`*`) and")
@@ -385,51 +516,85 @@ def render_cfr_part(part_xml: bytes, part: str, short_name: str, full_title: str
 
 # ----- main ----------------------------------------------------------------------------
 
+def _usc_view_url(usc_title: str, chapter: str, sub_id: str | None) -> str:
+    """Build the human-readable uscode.house.gov URL for a chapter or subchapter."""
+    ch_num = chapter.removeprefix("ch")
+    if sub_id is None:
+        return (
+            "https://uscode.house.gov/view.xhtml?req=granuleid:"
+            f"USC-prelim-title{usc_title}-chapter{ch_num}&edition=prelim"
+        )
+    sub_letters = sub_id.removeprefix("sch").lower()
+    return (
+        "https://uscode.house.gov/view.xhtml?req=granuleid:"
+        f"USC-prelim-title{usc_title}-chapter{ch_num}-subchapter{sub_letters}&edition=prelim"
+    )
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default="plugins/claude-legal-federal-laws/references/federal-debt-laws")
+    ap.add_argument(
+        "--out-root",
+        default="plugins/claude-legal-federal-laws/references",
+        help="Root references/ dir; per-target corpus subdirs are written inside it.",
+    )
     ap.add_argument("--cache", default="/tmp/claude-legal-cache")
-    ap.add_argument("--only", nargs="*", help="Optional list of short names to limit to (e.g., FDCPA Reg-F).")
+    ap.add_argument("--only", nargs="*", help="Optional list of short names to limit to (e.g., FDCPA Reg-F TSR).")
     args = ap.parse_args()
 
-    out_dir = Path(args.out)
-    out_dir.mkdir(parents=True, exist_ok=True)
+    out_root = Path(args.out_root)
+    out_root.mkdir(parents=True, exist_ok=True)
     cache = Path(args.cache)
 
     only = {s.lower() for s in args.only} if args.only else None
 
     # ----- USC -----
-    usc_xml_path = get_usc15_xml(cache)
-    print(f"Parsing {usc_xml_path} …", flush=True)
-    tree = ET.parse(usc_xml_path)
-    root = tree.getroot()
+    # Parse each USC title we need only once (lazy load).
+    usc_roots: dict[str, ET.Element] = {}
 
-    for sub_id, short, citation, full_title in USC_SUBCHAPTERS:
+    def usc_root(title: str) -> ET.Element:
+        if title not in usc_roots:
+            xml_path = get_usc_xml(title, cache)
+            print(f"Parsing {xml_path} …", flush=True)
+            usc_roots[title] = ET.parse(xml_path).getroot()
+        return usc_roots[title]
+
+    for (usc_title, chapter, sub_id, short, citation, full_title, corpus) in USC_TARGETS:
         if only and short.lower() not in only:
             continue
-        sub = find_subchapter(root, sub_id)
-        if sub is None:
-            print(f"  ! could not find {sub_id}", flush=True)
-            continue
-        # Source URL — uscode.house.gov web view of the subchapter.
-        src = f"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-chapter41-subchapter{sub_id.replace('sch', '').lower()}&edition=prelim"
-        md = render_subchapter(sub, citation, full_title, short, src)
+        root = usc_root(usc_title)
+        src = _usc_view_url(usc_title, chapter, sub_id)
+        if sub_id is None:
+            ch = find_chapter(root, usc_title, chapter)
+            if ch is None:
+                print(f"  ! could not find /us/usc/t{usc_title}/{chapter}", flush=True)
+                continue
+            md = render_chapter(ch, citation, full_title, short, src)
+        else:
+            sub = find_subchapter(root, usc_title, chapter, sub_id)
+            if sub is None:
+                print(f"  ! could not find /us/usc/t{usc_title}/{chapter}/{sub_id}", flush=True)
+                continue
+            md = render_subchapter(sub, citation, full_title, short, src)
+        out_dir = out_root / corpus
+        out_dir.mkdir(parents=True, exist_ok=True)
         path = out_dir / f"{short}.md"
         path.write_text(md, encoding="utf-8")
-        size = len(md)
-        print(f"  wrote {path} ({size:,} bytes)", flush=True)
+        print(f"  wrote {path} ({len(md):,} bytes)", flush=True)
 
     # ----- CFR -----
-    for part, short, full_title in CFR_PARTS:
+    for (cfr_title, part, short, full_title, corpus) in CFR_PARTS:
         if only and short.lower() not in only:
             continue
-        print(f"Fetching 12 CFR {part} ({short}) …", flush=True)
+        print(f"Fetching {cfr_title} CFR {part} ({short}) …", flush=True)
         try:
-            xml_bytes = fetch_cfr_part_xml(part)
+            xml_bytes = fetch_cfr_part_xml(cfr_title, part)
         except Exception as e:
             print(f"  ! eCFR fetch failed: {e}", flush=True)
             continue
-        md = render_cfr_part(xml_bytes, part, short, full_title)
+        md = render_cfr_part(xml_bytes, cfr_title, part, short, full_title)
+        out_dir = out_root / corpus
+        out_dir.mkdir(parents=True, exist_ok=True)
         path = out_dir / f"{short}.md"
         path.write_text(md, encoding="utf-8")
         print(f"  wrote {path} ({len(md):,} bytes)", flush=True)
