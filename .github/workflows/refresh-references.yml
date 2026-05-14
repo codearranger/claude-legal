@@ -102,8 +102,12 @@ jobs:
       - name: Federal — Model UCC
         if: matrix.target == 'federal'
         continue-on-error: true
-        timeout-minutes: 8
-        run: python3 scripts/pull_ucc.py --workers 4
+        # 15 min cap: the new throttle-aware defaults in pull_ucc.py use
+        # workers=2, jittered backoff, and a 30s cool-off between articles
+        # to stay under Cornell LII's rate limit. Total wall time when
+        # things go well is 3-5 min; budget covers a couple of retry cycles.
+        timeout-minutes: 15
+        run: python3 scripts/pull_ucc.py
 
       # ---- WA ----
       - name: WA — court rules
