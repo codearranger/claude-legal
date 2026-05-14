@@ -39,6 +39,12 @@ Before touching the codebase, gather the inputs. See
 
 - [ ] Create `plugins/<abbr>-court-docs/.claude-plugin/plugin.json`
 - [ ] Set `name`, `version: "0.1.0"`, `description`, keywords
+- [ ] **Add `"dependencies": ["claude-legal-federal-laws"]`** —
+      the new plugin reaches federal-debt-laws / ucc-model via
+      symlinks into the shared `claude-legal-federal-laws`
+      plugin. Without this declaration, the marketplace runtime
+      won't auto-install the shared plugin and the symlinks
+      won't resolve at install time.
 - [ ] Description follows the WA/OR pattern: a comprehensive
       paragraph naming all 21 skills' roles and the consumer-
       debt bundle
@@ -55,10 +61,14 @@ Before touching the codebase, gather the inputs. See
   - [ ] `<abbr>-county-courts/references/`
   - [ ] `<abbr>-pro-se/references/`
   - [ ] `<abbr>-law-references/references/`
-    - [ ] `court-rules/`
-    - [ ] `federal-debt-laws/`
-    - [ ] `ucc-model/`
-    - [ ] `<state>-statutes-debt/` (e.g., `ca-ccp-debt/`)
+    - [ ] `court-rules/` (real directory)
+    - [ ] `federal-debt-laws` — **SYMLINK** pointing to
+          `../../../../claude-legal-federal-laws/references/federal-debt-laws`.
+          Do NOT create a real directory here.
+    - [ ] `ucc-model` — **SYMLINK** pointing to
+          `../../../../claude-legal-federal-laws/references/ucc-model`.
+          Do NOT create a real directory here.
+    - [ ] `<state>-statutes-debt/` (e.g., `ca-statutes-debt/`)
   - [ ] `<abbr>-discovery/references/`
   - [ ] `<abbr>-hearings/references/`
   - [ ] `<abbr>-post-judgment/references/`
