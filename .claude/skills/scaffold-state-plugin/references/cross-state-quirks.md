@@ -327,46 +327,39 @@ dedicated skills for the lower-court layers rather than
 rolling them into the county-courts roll-up. NY ships 35
 skills for this reason.
 
-## NY-specific procedural quirks
+## Categories of state-specific quirks worth flagging
 
-These came up during the NY plugin authorship and are good
-references for any state with a similarly complex civil
-practice:
+Every state has procedural quirks that trip practitioners
+from outside the state. When researching a new state plugin,
+catalog the state's specific instances of each category
+below in the relevant skill's body (NOT comparatively):
 
-- **CPLR 2103(b)(2) 5-day mail rule** — when service is by
-  mail, add **5 days** to any subsequent response/service
-  period (longer than the federal/many-state 3-day rule).
-- **Individual Assignment System (22 NYCRR § 202.3)** — one
-  Justice owns the case from RJI through judgment. Each
-  Justice publishes their own "Part Rules" — pro-se filers
-  must look up the assigned Justice's Part Rules before
-  every motion.
-- **22 NYCRR § 202.48 settle-order procedure** — when a
-  court directs an order to be settled, the proposed order
-  must be submitted within **60 days** (a jurisdictional
-  clock under *Funk v. Barry*). Miss it and the motion is
-  deemed abandoned.
-- **20-year SOL on money judgments (CPLR 211(b))** — the
-  longest in the U.S. CPLR 5014 allows judgment renewal.
-- **Verified vs. unverified pleadings (CPLR 3020)** — a
-  verified complaint forces a verified answer; debt-buyer
-  plaintiffs often verify to make the defendant's life
-  harder. Tactical choice for both sides.
-- **2022 Consumer Credit Fairness Act (CCFA)** —
-  retroactively shortened the SOL on consumer-credit
-  actions to **3 years** (CPLR 214-i), added heightened
-  pleading at CPLR 3015(e), and added default-judgment
-  evidence scrutiny at 22 NYCRR § 202.27-a (Supreme Court)
-  / § 208.6-a (NYC Civil Court).
-- **RPAPL § 711(2) 14-day rent demand (post-2019 HSTPA)** —
-  the predicate for a nonpayment summary proceeding is now
-  a 14-day written rent demand (was 3 days pre-HSTPA).
-  Defective demand = jurisdictional defense.
-- **Local Law 136 of 2017 universal Right to Counsel** —
-  NYC Admin Code § 26-1301 provides income-qualified
-  tenants with assigned counsel in eviction proceedings.
-  Unique to NYC; some upstate cities have piloted similar
-  programs.
+- **Service add-on periods** — e.g., does the state add 3,
+  5, or some other number of days to response periods when
+  service is by mail or another non-personal method?
+- **Case-assignment system** — Individual Assignment (one
+  judge owns the case through judgment) vs. master-calendar
+  (different judges hear different stages)?
+- **Settle-order / proposed-order procedure** — does the
+  state impose a jurisdictional deadline for submitting a
+  proposed order after a court directs one to be settled?
+- **SOL on money judgments** — the duration before a
+  judgment is unenforceable absent renewal varies
+  materially (10 to 20 years across states).
+- **Verified vs. unverified pleadings** — some states have
+  a tactical verified-pleading mechanic that compels the
+  opposing party to verify their response.
+- **Recent consumer-credit fairness reforms** — many states
+  have amended their consumer-credit SOLs and heightened
+  pleading or default-judgment scrutiny in recent years;
+  the specific framework + effective date matters.
+- **Predicate-notice timing in summary proceedings** —
+  rent-demand and termination-notice periods vary by state
+  (and recently by year as state legislatures adopt
+  tenant-protection reforms).
+- **Universal Right to Counsel programs** — some cities and
+  states have adopted universal RTC for tenants or other
+  civil litigants; check the state for pilot programs.
 
 ## Family-law cross-state variations
 

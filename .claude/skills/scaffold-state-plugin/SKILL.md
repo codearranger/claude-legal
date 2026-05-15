@@ -63,30 +63,25 @@ When the user asks to "add [state]", "create a plugin for
 12. **State's collection-agency registration regime** if any
     (e.g., California Debt Collection Licensing Act for debt
     buyers as of 2022)
-13. **Family-court topology** — does the state have a separate
-    Family Court (NY, MA, DE) or does it hear family matters
-    in a Family Division of the general-jurisdiction trial
-    court (most states)? Either way, the `<abbr>-family-court`
-    venue skill ships. Note the venue, the rule set, and
-    whether jurisdiction is concurrent with the regular
-    civil-trial court for any topic (NY Supreme Court +
-    Family Court both hear custody, for example).
-14. **State's family-law code** (e.g., NY Domestic Relations
-    Law + Family Court Act; California Family Code; Colorado
-    C.R.S. art. 10 of title 14 — UDMA-based; Texas Family
-    Code)
-15. **State's child-support guideline model** — income-shares
-    (most states; CO, NY's CSSA percentages on combined-
-    income basis) vs. percentage-of-payor-income (a shrinking
-    minority). Note the statutory cap on combined parental
-    income.
+13. **Family-court topology** — does the state have a
+    separate Family Court trial court, or does it hear
+    family matters in a Family Division of the general-
+    jurisdiction trial court? Either way, the
+    `<abbr>-family-court` venue skill ships. Note the venue,
+    the rule set, and whether jurisdiction is concurrent
+    with the regular civil-trial court for any topic.
+14. **State's family-law code** — identify the citation
+    (e.g., the state's Domestic Relations Law / Family Code
+    / UDMA enactment / equivalent)
+15. **State's child-support guideline model** — income-
+    shares (most states), percentage-of-payor-income, or
+    Melson formula (rare). Note the statutory cap on
+    combined parental income.
 16. **State's property-distribution regime** — community-
     property (CA, TX, WA, AZ, NM, ID, LA, NV, WI) vs.
     equitable-distribution (everyone else).
-17. **State's divorce grounds** — no-fault available (now
-    universal) but waiting periods + fault grounds vary
-    (NY's 6-month no-fault separation period; CO's 91-day
-    waiting period; etc.).
+17. **State's divorce grounds** — no-fault is now universal
+    but waiting periods and any surviving fault grounds vary.
 
 If the user hasn't supplied all of these, ASK before scaffolding
 — the substance of every skill depends on getting these right.
@@ -97,30 +92,29 @@ The **23-skill base** is the minimum a new state plugin
 should ship. Baseline coverage includes:
 
 - **All civil court rules** for every civil-trial-court
-  layer in the state (the state's pleading-format rule, the
-  CPLR / CCP / TRCP / ORCP / FRCP-analog rules, the local
-  rules of the flagship counties)
+  layer in the state (the state's pleading-format rule, its
+  civil-procedure rule set, and the local rules of the
+  flagship counties)
 - **All civil practice** procedural skills (the 21-skill
   core: format, discovery, hearings, post-judgment, etc.)
 - **All civil substantive laws** in the statutes corpus
-  (the state's analog to CPLR + consolidated-laws articles
-  covering procedure, evidence, fees, limitations,
-  exemptions, garnishment, UCC Article 9, consumer-debt
-  statutes)
-- **Family court rules** for the state's family-court
-  venue (e.g., 22 NYCRR Part 205 in NY; the equivalent
-  Family Division rules where applicable)
+  (the state's procedure code + consolidated-laws articles
+  covering evidence, fees, limitations, exemptions,
+  garnishment, UCC Article 9, consumer-debt statutes)
+- **Family court rules** for the state's family-court venue
 - **Family practice** — the `<abbr>-family-court` venue
   skill + the `<abbr>-family-law` subject bundle
-- **Family law** statutes (the state's family-law code in
-  the statutes corpus — e.g., DRL + FCT in NY; Fam. Code
-  in CA; C.R.S. art. 10 of title 14 in CO)
+- **Family law statutes** (the state's family-law code in
+  the statutes corpus)
 
-States with complex civil-court systems can and should add
-more — NY ships 35 (5 flagship Supreme Court venues, 2
-dedicated Long Island District Courts, NYC Civil Court +
-NYC Housing Court, upstate City Courts, Justice Courts,
-Family Court, plus 5 subject-matter bundles), CO ships 22.
+States with complex civil-court systems can ship more than
+the 23-skill base — dedicated venue skills for separate
+lower-civil-court layers (housing court, district court,
+city court, justice court, etc.) and additional subject-
+matter bundles (personal injury, employment, commercial
+disputes, etc.) when the state's civil practice justifies
+them. Existing plugins in the marketplace ship between 21
+and 35 skills depending on state complexity.
 
 The 23-skill base, parameterized by the items above:
 
@@ -266,10 +260,9 @@ each role. Each template has:
 For each skill, the `references/` directory holds the deep
 dive. Each `<state>-law-references` skill needs:
 
-- `civil-rules.md` — state's civil-procedure rules summarized
-  (must cover both civil-practice rules AND family-court
-  rules — e.g., for NY: 22 NYCRR Parts 202 + 205 + 208 +
-  210 + 212 + 214)
+- `civil-rules.md` — state's civil-procedure rules
+  summarized (must cover both general-civil rules AND
+  family-court rules)
 - `evidence-rules.md` — state's evidence code summarized
 - `fees-and-costs.md` — state's fee-shifting framework
 - `local-rules.md` — high-volume courts' local rules
@@ -280,18 +273,20 @@ dive. Each `<state>-law-references` skill needs:
 - `court-rules/` — **verbatim rule text for both civil and
   family court rules**. Baseline coverage:
   - State pleading-format rule
-  - State civil-procedure rules (CPLR / CCP / TRCP / ORCP /
-    CR equivalent)
-  - State evidence code (where codified as rule)
-  - **State family-court rules** (e.g., 22 NYCRR Part 205
-    for NY; check for state-specific family-court rule set
-    even when family law sits in a Family Division)
+  - State civil-procedure rule set
+  - State evidence code (where codified as a rule rather
+    than a statute)
+  - **State family-court rule set** — verify this exists as
+    a distinct rule body; check for it even when family law
+    sits in a Family Division of the general-jurisdiction
+    court
   - Sealing of court records rule (statewide)
   - Costs and sanctions rule (statewide)
   - Rules of Professional Conduct
-  - Sub-trial-court rule sets where applicable (NYC Civil
-    Court, NY District Courts, NY City Courts, Justice
-    Courts; NJ Special Civil Part Rules; etc.)
+  - Sub-trial-court rule sets where applicable (state-
+    specific lower civil courts, district courts, city
+    courts, justice / town / village courts, special civil
+    parts, etc.)
 - `federal-debt-laws/` *(symlink)* — points into the shared
   `claude-legal-federal-laws/references/federal-debt-laws/`
   plugin via `../../../../claude-legal-federal-laws/...`. Do
@@ -306,8 +301,7 @@ dive. Each `<state>-law-references` skill needs:
   directory name retains the legacy `debt` slug for path
   stability across earlier plugins, but the scope is full
   civil + family practice. Baseline coverage:
-  - **Civil procedure** — state's procedure code (CPLR / CCP
-    / TRCP / ORCP / CR equivalent)
+  - **Civil procedure** — state's procedure code
   - **Evidence** — state's evidence code where statutory
   - **Limitations** — state's SOL chapter
   - **Garnishment + exemptions** — state's enforcement +
@@ -316,9 +310,7 @@ dive. Each `<state>-law-references` skill needs:
   - **Consumer protection** — state's UTPA analog
   - **Debt collection** — state's mini-FDCPA
   - **Real Property + summary proceedings** — for L&T cases
-  - **Family law** — state's family-law code (e.g., NY DRL +
-    FCT; CA Fam. Code; CO C.R.S. art. 10 of title 14 UDMA;
-    TX Family Code)
+  - **Family law** — state's family-law code
   - **Family Court / domestic-relations procedure** — where
     the state codifies it separately from the family-law
     substantive code
@@ -380,8 +372,9 @@ the OR pattern:
 #### 5.B — `<state>-family-law`
 
 The substantive bundle for divorce / annulment / legal
-separation / custody / child support / maintenance. Mirror
-the CO precedent (`co-family-law`):
+separation / custody / child support / maintenance. Use
+the `family-law-template.md` skill template as the starting
+shape:
 
 - `SKILL.md` — overview with state-specific family-law
   framework. Cover: divorce grounds + waiting period;
@@ -403,14 +396,14 @@ the CO precedent (`co-family-law`):
   of marital business interests; commingling doctrines
 - `references/child-support.md` — guideline calculation;
   income imputation rules; deviation grounds; cap on
-  combined-income; modification threshold (e.g., NY's 15%
-  / CSSA review; CO's 10% threshold)
+  combined-income; modification threshold (percentage
+  change required to trigger review; state-specific)
 - `references/parenting-plan.md` — decision-making
   allocation; parenting time (overnights); relocation
   notice + standard for permission
 - `references/maintenance.md` — duration formulas; income-
-  based formulas (NY's CSSA-modeled approach; CO's 2014 +
-  2024 reforms); modification + termination triggers
+  based formulas where applicable; modification +
+  termination triggers
 - `references/family-offense.md` — Order of Protection
   framework; qualifying-relationship + qualifying-offense
   catalog; duration; firearm-surrender mechanics
@@ -420,12 +413,11 @@ the CO precedent (`co-family-law`):
 - `references/uifsa.md` — Uniform Interstate Family Support
   Act implementation in state
 - `references/common-law-marriage.md` — for the handful of
-  states that still recognize it (CO recognizes;
-  *Hogsett & Neale* in CO; NY does not recognize but
-  honors marriages valid where contracted)
+  states that still recognize it (note the test the state
+  applies; otherwise note that the state honors marriages
+  valid where contracted)
 - `references/forms.md` — state-specific divorce / custody /
-  child-support forms (e.g., NY JDF 1099 / 1111; CO JDF
-  catalog; CA FL-100 series)
+  child-support forms (the state's pro-se form catalog)
 - `references/examples/` — 4-6 synthetic example filings:
   petition for dissolution, sworn financial statement,
   parenting-plan / custody motion, child-support
@@ -496,24 +488,25 @@ removed before the plugin ships**.
 What this means in practice when authoring the new plugin:
 
 - **Don't frame state-specific quirks comparatively.** Write
-  the rule directly. ❌ "Unlike Oregon's no-interrogatories
-  rule, NY allows 25 interrogatories under CPLR 3130." ✓ "NY
-  allows 25 interrogatories under CPLR 3130/3133(b)."
+  the rule directly. ❌ "Unlike State-X's no-interrogatories
+  rule, this state allows 25 interrogatories." ✓ "This
+  state allows 25 interrogatories under [cite]."
 - **Don't reference sibling-state SKILL.md files.** The new
-  plugin's `README.md`, `evals/README.md`, and reference-corpus
-  READMEs must not say "see `wa-court-docs/evals/`" or "mirrors
-  `co-court-docs/skills/co-law-references/...`". The end user
-  will not have those plugins installed.
-- **Don't import another state's terminology.** California's
-  "In Pro Per" doesn't appear in NY filings; Washington's
-  "Note for Motion Docket" doesn't appear in OR filings.
-- **Don't use "the same as Washington's GR 14" or similar
-  framing.** Cite the state's own rule directly.
+  plugin's `README.md`, `evals/README.md`, and reference-
+  corpus READMEs must not say "see `xx-court-docs/evals/`"
+  or "mirrors `yy-court-docs/skills/yy-law-references/...`".
+  The end user will not have those plugins installed.
+- **Don't import another state's terminology.** Each state
+  has its own pleading and motion vocabulary; don't carry
+  over labels from a state whose practice you happen to
+  know.
+- **Don't use "the same as State-X's [rule]" framing.** Cite
+  the state's own rule directly.
 
 **Internal cross-references between skills in the SAME plugin
-are fine** and encouraged — e.g., `ny-discovery` referencing
-`ny-statewide-format` is exactly what the marketplace runtime
-expects.
+are fine** and encouraged — e.g., `<abbr>-discovery`
+referencing `<abbr>-statewide-format` is exactly what the
+marketplace runtime expects.
 
 **Final scaffold step**: run a cross-state-reference grep
 before committing. Anything that turns up needs either
@@ -533,17 +526,17 @@ grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
 
 - **"Washington's Birthday"** as the legal name of the
   federal holiday — that's the actual statute language in
-  most states' Gen. Constr. or Govt. Codes, **not** a
-  cross-state comparison. Keep it.
+  most states' General Construction or Government Codes,
+  **not** a cross-state comparison. Keep it.
 - **`in-person`** as a hyphenated phrase — matches the
-  `\bin-` pattern when looking for `in-court-docs` references.
-  Keep it.
-- **`co-parents`, `co-counsel`, `co-defendant`** — match the
-  `\bco-` pattern. Keep them.
-- **Verbatim statutory text from the state's own consolidated
-  laws** — e.g., NY's General Construction Law § 24 names the
-  federal holiday "Washington's Birthday"; that's the literal
-  state statute and not a cross-state reference.
+  `\bin-` pattern when looking for `in-court-docs`
+  references. Keep it.
+- **`co-parents`, `co-counsel`, `co-defendant`** — match
+  the `\bco-` pattern. Keep them.
+- **Verbatim statutory text from the state's own
+  consolidated laws** — many states' General Construction
+  laws name federal holidays after the figures they honor;
+  that's literal statute, not a cross-state reference.
 
 Distinguish state-as-comparison from state-as-statute-author
 before deleting.
@@ -551,25 +544,33 @@ before deleting.
 ### Verify URL slugs, locationIds, and Part numbers against the live source
 
 **Don't rely on memory or example data for state-specific
-identifiers.** Multiple identifiers have been wrong in past
-authorship and triggered silent puller failures:
+identifiers.** Past authorship has produced silent puller
+failures from each of these patterns:
 
-- **22 NYCRR Part 214 is Justice Courts, not Court of Claims**
-  (Court of Claims is Part 206). Adjacent Parts get conflated
-  easily.
-- **NY GOB uses Article numbering (A5, A17), not Title
-  numbering (T5, T17)** — even though many secondary sources
-  refer to "Title 5" / "Title 17".
-- **NY GBS uses `A22-A` and `A29-H`** (hyphenated), not `A22A`
-  / `A29H`.
-- **Child support and UIFSA in NY are in Family Court Act
-  (FCT) Articles 4 and 5-B**, not in Domestic Relations Law.
-  DOM Article 9 is Annulment, Article 10 is Divorce.
-- **CMS migrations change URL patterns** — NY courts moved
-  from `/rules/trialcourts/{N}.shtml` to `/rules/part-{N}-{slug}`
-  in their Drupal 10 rollout. The legacy URLs redirect to an
-  index page, not the rule content. Discover the actual URL
-  slug at fetch time rather than assuming.
+- **Adjacent rule-Part numbers get conflated** — it is easy
+  to label a Part with the wrong subject matter when several
+  Parts in the same numbering range cover related but
+  distinct courts. Always verify each Part's title against
+  the live index.
+- **Title vs. Article numbering confusion** — some state
+  consolidated laws use Title numbers (T5, T17); others use
+  Article numbers (A5, A17). Don't infer the format from a
+  secondary source — probe the API or HTML for the canonical
+  identifier shape.
+- **Hyphenated vs. unhyphenated sub-articles** — sub-
+  articles like `A22-A` vs. `A22A` (or any equivalent
+  hyphenation choice) often only resolve in one form. Probe
+  the actual identifier the API accepts.
+- **Topic-to-law assignment is not always intuitive** — a
+  topic that seems like it should be in one statute (e.g.,
+  child support in a state's Domestic Relations Law) may
+  actually live in a different code (e.g., Family Court
+  Act). Verify which law owns each topic.
+- **CMS migrations change URL patterns** — court-rules
+  publishing sites migrate frequently. Legacy URLs may
+  redirect to an index page rather than the actual rule
+  content. Discover the actual URL slug at fetch time
+  rather than assuming the pattern that worked yesterday.
 
 The right pattern: probe the live API or HTML index for the
 state's source-of-truth identifiers before populating the

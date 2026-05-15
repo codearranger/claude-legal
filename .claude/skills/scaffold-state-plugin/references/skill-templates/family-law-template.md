@@ -1,10 +1,9 @@
 # Skill template: `<abbr>-family-law`
 
 Subject-matter bundle covering the state's family-law
-substantive framework. Mirrors the `co-family-law`
-precedent. **Ships as part of the baseline alongside
-`<abbr>-consumer-debt`** — every state plugin gets both
-bundles in the initial release.
+substantive framework. **Ships as part of the baseline
+alongside `<abbr>-consumer-debt`** — every state plugin
+gets both bundles in the initial release.
 
 ## Template
 
@@ -63,7 +62,7 @@ and **maintenance** (spousal support / alimony).
 | Maintenance formula | <state's statutory or guideline framework> |
 | Common-law marriage | <recognized / not recognized; cite> |
 | Mandatory financial disclosure | <state's rule + form name> |
-| Modification threshold (CS) | <e.g., 10% in CO; 15% in NY> |
+| Modification threshold (CS) | <state-specific percentage change> |
 
 ## Dissolution (divorce)
 
@@ -124,8 +123,8 @@ and **maintenance** (spousal support / alimony).
   medical, educational expenses
 - Imputation of income
 - Deviation grounds
-- Modification threshold (e.g., 10% in CO; 15% in NY's
-  CSSA review)
+- Modification threshold (state-specific percentage
+  change required)
 
 ## Custody / parenting time
 
@@ -171,15 +170,16 @@ court bundle, others to the venue skill)>
 recognized, the test and any modernizing case law>
 
 States that still recognize common-law marriage as of
-2026: Colorado (modernized by *Hogsett & Neale*), Iowa,
-Kansas, Montana, Rhode Island, South Carolina, Texas,
-Utah, plus DC. New York does not recognize but honors
-marriages valid where contracted.
+2026: Colorado, Iowa, Kansas, Montana, Rhode Island,
+South Carolina (pre-2019), Texas, Utah, plus DC. All
+other states honor marriages valid where contracted.
+(See cross-state-quirks for the catalog with citing case
+law where applicable.)
 
 ## Filing forms catalog
 
-<state-specific forms — e.g., NY JDF 1099, 1111; CA FL-100,
-FL-110, FL-150; CO JDF 1099, 1111, 1820>
+<state's family-court pro-se form catalog with form
+numbers / names>
 
 ## Composition with other <abbr>- skills
 
@@ -203,7 +203,7 @@ FL-110, FL-150; CO JDF 1099, 1111, 1820>
 - Parenting-Plan / Custody Motion
 - Child-Support Calculation Worksheet
 - Motion to Modify Custody (post-decree)
-- Motion to Modify Child Support (15% / 10% threshold)
+- Motion to Modify Child Support (state-specific threshold)
 ```
 
 ## Notes for the author
@@ -218,6 +218,3 @@ FL-110, FL-150; CO JDF 1099, 1111, 1820>
   for research framing — but don't import cross-state
   comparisons into the new plugin's bodies (see SKILL.md's
   "CRITICAL: No cross-state references" rule).
-- **The CO precedent (`co-family-law`) is the most fleshed-
-  out family-law bundle currently shipping.** Use it as a
-  structural reference, not as content to copy-paste from.

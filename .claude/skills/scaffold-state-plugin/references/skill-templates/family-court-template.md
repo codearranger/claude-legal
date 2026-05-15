@@ -1,9 +1,8 @@
 # Skill template: `<abbr>-family-court`
 
-Venue skill for the state's family court. Mirrors the
-`ny-family-court` precedent. **Ships as part of the
-baseline** — every state plugin has this skill, even when
-family matters are heard in a "Family Division" of the
+Venue skill for the state's family court. **Ships as part
+of the baseline** — every state plugin has this skill, even
+when family matters are heard in a "Family Division" of the
 general-jurisdiction trial court rather than a separate
 Family Court.
 
@@ -26,8 +25,8 @@ description: >
   ORDER NAME>', '<STATE CUSTODY STANDARD>'. Covers the
   state's family-court rule set, the support-magistrate /
   referee judicial structure (if any), the predicate
-  notices for each petition type, and the form catalog
-  (e.g., JDF series, FL series, etc.).
+  notices for each petition type, and the state's pro-se
+  form catalog.
 version: 0.1.0
 ---
 
@@ -43,15 +42,16 @@ version: 0.1.0
 - **Court**: <STATE> Family Court (or "Family Division of
   the <STATE> Superior Court" / equivalent)
 - **Authority**: <statutory cite for the court>
-- **Procedural rules**: <22 NYCRR Part 205 in NY / Cal.
-  Rules of Court Title 5 in CA / equivalent>
+- **Procedural rules**: <state's family-court rule set
+  citation>
 - **Filing fee**: <amount / fee-waived-by-default if so>
 - **Coverage**: one per county / one per circuit / single
   statewide court (depends on state)
 - **E-filing**: <state's family-court e-filing system if any>
 - **Right to counsel**: <where the state provides assigned
-  counsel — typically abuse/neglect respondents; in NY,
-  also family-offense respondents facing OP consequences>
+  counsel — abuse/neglect respondents are universal; some
+  states extend to family-offense respondents facing
+  protective-order consequences>
 
 ## Article / topic overview
 
@@ -66,8 +66,8 @@ version: 0.1.0
 - Add-ons: child care, health insurance, unreimbursed medical,
   educational expenses
 - Imputation-of-income standard: <state's standard>
-- Modification threshold: <e.g., 15% in NY's CSSA review;
-  10% in CO>
+- Modification threshold: <percentage change required —
+  state-specific>
 
 ### Custody / parenting time
 
@@ -111,11 +111,12 @@ DCFS, etc.>
 <state-specific judicial structure for family court>
 
 - Family-court judges
-- Support magistrates (where applicable — NY uses these
-  exclusively for child-support matters under FCA § 439)
+- Support magistrates (where applicable — some states
+  route all child-support matters to a magistrate before
+  any family-court-judge review)
 - Referees / commissioners
-- 35-day written-objection clock for support-magistrate
-  orders where applicable
+- Written-objection clock for magistrate / referee orders
+  (where applicable)
 
 ## Distinctives
 
@@ -132,7 +133,7 @@ DCFS, etc.>
 5. **Court-appointed counsel** for the respondent on
    abuse/neglect, TPR, family-offense facing OP, JD
 
-## Composition with other ny- skills
+## Composition with other `<abbr>-` skills
 
 - `<abbr>-statewide-format` — baseline format
 - `<abbr>-family-law` — the substantive bundle (uses this
@@ -152,17 +153,19 @@ DCFS, etc.>
 ## Notes for the author
 
 - **Some states route divorce + property distribution to
-  the Superior Court Matrimonial Part rather than Family
-  Court.** In those states, the family-court skill should
-  explicitly note that divorce is handled elsewhere and
-  cross-reference the appropriate Superior Court skill. NY
-  is an example: Family Court has concurrent jurisdiction
-  with Supreme Court for **custody + support** but Supreme
-  Court has exclusive jurisdiction over **divorce itself**.
+  a Matrimonial Part of the general-jurisdiction court
+  rather than to the Family Court.** In those states, the
+  family-court skill should explicitly note that divorce
+  is handled elsewhere and cross-reference the appropriate
+  in-plugin venue skill. Family courts in those states
+  typically still hear custody, support, paternity, and
+  family-offense matters.
 - **Family-court records are usually confidential by
   statute.** The Distinctives section should flag this and
   note any limited-access exceptions.
-- **The "Article overview" framing comes from NY's Family
-  Court Act structure.** States with different family-law
-  code structures should adapt (e.g., chapter-based, topic-
-  based) but preserve the topic-coverage breadth.
+- **Adapt the "Article / topic overview" framing to the
+  state's family-law code structure.** Some states organize
+  by article, others by chapter, others by topic. Preserve
+  the topic-coverage breadth (child support, custody,
+  paternity, family offense, abuse and neglect, etc.) but
+  use the state's native code structure.

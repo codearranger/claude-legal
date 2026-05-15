@@ -28,8 +28,7 @@ Before touching the codebase, gather the inputs. See
       the two flagship counties)
 - [ ] State legal-holiday list (federal + any state-specific)
 - [ ] State analog to FDCPA at state level (e.g., California
-      Rosenthal Act, Tex. Bus. & Com. Code Ch. 392, NY GBL
-      § 600)
+      Rosenthal Act, Tex. Bus. & Com. Code Ch. 392)
 - [ ] State collection-agency registration regime if any
 - [ ] State statute of limitations on written contract debt
       (typically 3–6 years)
@@ -42,13 +41,10 @@ law` subject bundle ship as part of the baseline. Research
 these state-specific items before authoring either:
 
 - [ ] **Family-court topology** — separate Family Court
-      (NY, MA, DE) OR Family Division of general-
-      jurisdiction trial court (most other states)?
-- [ ] **Family-court rule set** — citation (e.g., 22 NYCRR
-      Part 205 in NY; CA Rules of Court Title 5; etc.)
-- [ ] **Family-law code** — citation (e.g., NY DRL + FCT;
-      CA Fam. Code; CO C.R.S. art. 10 of title 14 — UDMA;
-      TX Family Code)
+      trial court OR Family Division of the general-
+      jurisdiction trial court?
+- [ ] **Family-court rule set** — citation
+- [ ] **Family-law code** — citation
 - [ ] **Divorce grounds** — no-fault waiting period; fault
       grounds catalog if still recognized
 - [ ] **Residency requirement** — duration before filing
@@ -56,30 +52,26 @@ these state-specific items before authoring either:
       WA, AZ, NM, ID, LA, NV, WI) vs. equitable-
       distribution (everyone else)
 - [ ] **Child-support guideline model** — income-shares
-      (most states; CO, NY) vs. percentage-of-payor-income
-      (shrinking minority)
+      (most states) vs. percentage-of-payor-income
+      (shrinking minority) vs. Melson formula (rare)
 - [ ] **Child-support combined-income cap** — $ amount +
-      effective date (e.g., NY's $183,000 as of 2024)
+      effective date
 - [ ] **Modification threshold for child support** —
-      percentage change required to revisit (e.g., 10% in
-      CO; 15% in NY's CSSA review)
+      percentage change required to revisit
 - [ ] **Custody standard** — best-interests is universal;
       statutory factors are state-specific
 - [ ] **Maintenance / spousal-support framework** —
       duration formula; income-based formula where
       applicable; modification + termination triggers
 - [ ] **Common-law marriage** — recognized in the state?
-      As of 2026: yes in CO, IA, KS, MT, RI, SC, TX, UT,
-      DC. Out of state honors marriages valid where
-      contracted in most other states.
+      As of 2026: yes in CO, IA, KS, MT, RI, SC (pre-2019),
+      TX, UT, DC. All other states honor marriages valid
+      where contracted.
 - [ ] **Family-court forms catalog** — state's pro-se form
-      numbering (NY JDF series; CA FL-100 series; CO JDF
-      1099/1111/1820)
+      numbering
 - [ ] **Support magistrate / referee structure** — where
       applicable, the judicial layer that hears support
       matters before a Family Court Judge can review
-      (e.g., NY FCA § 439 Support Magistrates with the
-      35-day written-objection clock)
 - [ ] **Right to assigned counsel** — which family-court
       proceedings provide assigned counsel (typically
       abuse-and-neglect respondents; sometimes family-
@@ -94,30 +86,35 @@ these state-specific items before authoring either:
 ### Civil-court venue layers — survey before deciding on
 ### dedicated skills
 
-Don't assume a state has the same court-system topology as
-WA / OR. Some states have civil-court layers that justify
-**dedicated venue skills** rather than rolling everything
-into county-courts:
+Don't assume the state has a flat Superior/Supreme + county-
+courts topology. Some states have civil-court layers that
+justify **dedicated venue skills** rather than rolling
+everything into the county-courts roll-up:
 
 - [ ] Does the state have a separate **lower civil court**
-      (e.g., NYC Civil Court, NJ Special Civil Part)? If so,
-      consider a dedicated skill.
-- [ ] Does the state have a **dedicated housing court**
-      (e.g., NYC Housing Court, MA Housing Court)? Often
-      worth dedicated coverage given volume.
-- [ ] Does the state have **District Courts** between
-      Justice/Town courts and Superior/Supreme (e.g., NY
-      Long Island District Courts)? Dedicated skills.
-- [ ] Does the state have **upstate City Courts** distinct
-      from rural Justice Courts? Both layers may warrant
-      their own skill.
-- [ ] Does the state have a separate **Family Court** (with
-      its own rules, support magistrates, custody framework)?
-      Usually deserves a dedicated skill.
+      with a monetary cap below the general-jurisdiction
+      trial court (e.g., a "Civil Court" or "Special Civil
+      Part" under its own act)? If so, consider a dedicated
+      skill.
+- [ ] Does the state have a **dedicated housing court** as
+      a separate trial court or a structurally distinct
+      part of the lower civil court? Often worth dedicated
+      coverage given volume.
+- [ ] Does the state have **District Courts** as an
+      intermediate civil layer between Justice/Town courts
+      and Superior/Supreme? Dedicated skills.
+- [ ] Does the state have **City Courts** distinct from
+      rural Justice Courts? Both layers may warrant their
+      own skill.
+- [ ] Does the state have a separate **Family Court** trial
+      court (vs. a Family Division of the general-
+      jurisdiction court)? The `<abbr>-family-court` venue
+      skill always ships in the baseline, but the body
+      framing differs.
 
-NY ships 35 skills because of this fragmentation. WA / OR
-fit comfortably in the 21-skill base. The shape of the new
-state's trial-court system dictates which.
+The shape of the state's trial-court system dictates the
+total skill count. Existing plugins in the marketplace
+range from 21 to 35 skills.
 
 ### Phase 0.5 — Probe the live upstream
 
@@ -126,19 +123,21 @@ identifiers against the actual source-of-truth API or HTML
 index. Common pitfalls:
 
 - [ ] Confirm the URL pattern is current (CMS migrations
-      change paths — NY courts moved from
-      `/rules/trialcourts/{N}.shtml` to
-      `/rules/part-{N}-{slug}` in Drupal 10)
+      change paths; legacy URLs often redirect to an index
+      page rather than to the rule content)
 - [ ] Confirm Part / Article numbering against the live
-      index (adjacent Parts get conflated easily — NY Part
-      214 is Justice Courts, not Court of Claims as a casual
-      reader of the table of contents might guess)
-- [ ] Confirm Article identifiers match the API's locationId
-      format (e.g., `A22-A` with hyphen vs. `A22A` without —
-      both look reasonable; only one resolves)
-- [ ] Confirm which **law** owns each topic (e.g., NY child
-      support is in Family Court Act, not Domestic Relations
-      Law, despite intuition)
+      index (adjacent Parts get conflated easily — never
+      infer a Part's title from the table-of-contents
+      ordering)
+- [ ] Confirm Article identifiers match the API's
+      `locationId` format (hyphenated vs. unhyphenated
+      sub-articles often look interchangeable but only one
+      resolves)
+- [ ] Confirm which **law** owns each topic — a topic that
+      seems like it should be in one statute may live in
+      another (e.g., procedural details may sit in the
+      domestic-relations procedural code rather than in the
+      substantive family-law code)
 - [ ] If the upstream has an API: probe the JSON response
       shape (e.g., `{documents: {items: [...]}}` vs.
       `{documents: [...]}`) before assuming the walker
@@ -353,14 +352,14 @@ specific law.
 
 ### `<abbr>-family-court/references/`
 
-The venue skill's reference content. Mirror `ny-family-
-court` structure (no separate references dir is required —
-the SKILL.md body carries the substantive coverage), but
-include these where state-specific:
+The venue skill's reference content. Use the
+`family-court-template.md` as the starting shape (no
+separate references dir is required — the SKILL.md body
+carries the substantive coverage), but include these where
+state-specific:
 
-- [ ] `forms-catalog.md` — state's family-court form
-      numbering (NY JDF series; CA FL-100 series; CO JDF
-      catalog)
+- [ ] `forms-catalog.md` — state's family-court pro-se form
+      catalog
 - [ ] `support-magistrate-procedure.md` (where applicable)
 - [ ] `confidentiality-and-sealing.md`
 

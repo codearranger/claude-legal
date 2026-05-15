@@ -3,7 +3,7 @@
 When writing a `scripts/pull_<state>_court_rules.py` or
 `scripts/pull_<state>_statutes.py` for a new state, apply
 the patterns below. They are the result of debugging real
-puller failures across the WA / OR / CA / CO / IN / NY
+puller failures across the marketplace's state-specific
 puller implementations.
 
 > **Goal**: a puller that produces verbatim Markdown when
@@ -20,17 +20,14 @@ family content** as part of the baseline:
 **Court-rules puller (`pull_<state>_court_rules.py`):**
 
 - State's pleading-format rule
-- State's civil-procedure rule set (CPLR / CCP / TRCP /
-  ORCP / CR equivalent)
-- State's **family-court rule set** (e.g., 22 NYCRR Part
-  205 in NY; CA Rules of Court Title 5 in CA) — **NEW
-  BASELINE**
+- State's civil-procedure rule set
+- State's **family-court rule set** — **BASELINE**
 - State's evidence code (where codified as rule)
 - Court of Claims / similar specialized-court rules
 - Surrogate's Court / probate rules (where applicable)
-- Lower civil-court rule sets (NYC Civil Court, NY
-  District Courts, City Courts, Justice Courts;
-  NJ Special Civil Part)
+- Lower civil-court rule sets (the state's specific
+  lower-civil / district / city / justice / special civil
+  court rule bodies, where applicable)
 - Sealing of court records
 - Costs and sanctions
 - Rules of Professional Conduct
@@ -45,11 +42,9 @@ family content** as part of the baseline:
 - Consumer protection (state UTPA analog)
 - Debt collection (state mini-FDCPA)
 - Real Property + summary proceedings (for L&T)
-- **Family-law code** — e.g., NY DRL + FCT; CA Fam. Code;
-  CO C.R.S. art. 10 of title 14 UDMA; TX Family Code —
-  **NEW BASELINE**
+- **Family-law code** — **BASELINE**
 - **Family Court / domestic-relations procedure** where
-  separately codified — **NEW BASELINE**
+  separately codified — **BASELINE**
 - General Construction / holidays for the case-calendar
   script
 
@@ -71,33 +66,39 @@ script before committing to a target catalog.
   the shape of nested objects. Some APIs return
   `{documents: {items: [...]}}` vs. `{documents: [...]}`,
   and the difference will silently break a walker.
-- **Adjacent identifiers** — if you think Part 214 is the
-  Court of Claims, fetch its title and verify. It might be
-  Justice Courts (this happened in NY).
+- **Adjacent identifiers** — when you think a Part covers
+  topic X, fetch its title and verify against the live
+  index. Adjacent Parts in the same numbering range often
+  cover related-but-distinct courts and are easy to
+  confuse from a table-of-contents skim.
 
-### Lesson from NY court-rules puller (2026-05)
+### Common pitfalls
 
-Initial catalog had `Part 214 — Court of Claims`. Verifying
-against the live UCS index revealed:
+Prior puller authorship has shipped (or nearly shipped)
+content with each of these classes of bugs. Verification
+catches them all:
 
-| Part | What it actually is |
-|------|---|
-| 205 | Family Court |
-| 206 | Court of Claims |
-| 207 | Surrogate's Court |
-| 214 | Justice Courts (Town and Village) |
-
-The puller would have shipped wrong-titled content for
-months without that verification.
-
-### Lesson from NY statutes puller (2026-05)
-
-Initial CPLR/GOB/GBS catalog had ~10 wrong locationIds
-(`T5` → should be `A5`, `A22A` → `A22-A`, `A29H` → `A29-H`,
-`A33` → doesn't exist; CPLR jumps from A32 to A40). And
-child support / UIFSA were targeted at DOM but actually
-live in FCT (Family Court Act). All discovered by hitting
-the live `/api/3/laws/{lawId}` index before committing.
+- **Wrong Part-to-court assignment** — labeling a Part
+  with one specialized court's name when the actual rule
+  body is for a different specialized court. Always fetch
+  the canonical Part title.
+- **Wrong Article identifier shape** — hyphenated
+  sub-article identifiers (`A22-A`) often fail when called
+  as `A22A` (and vice versa). Probe the API for the format
+  it actually accepts.
+- **Wrong Title vs. Article numbering** — some state
+  consolidated laws use Title numbers; others use Article
+  numbers. Secondary sources may name the same content
+  either way. The API only resolves the canonical form.
+- **Wrong law-to-topic assignment** — a topic that
+  intuitively belongs to one statute may live in another.
+  Verify each topic's home statute before committing to a
+  target catalog.
+- **Article numbering that skips** — some state codes have
+  non-sequential Article numbering (e.g., Articles 32 then
+  40 with nothing in between). Trusting "Article 33 must
+  exist because there's Article 32 and Article 34" is a
+  silent failure mode.
 
 ## 2. Cloudflare bot-fight bypass: two layers required
 
@@ -170,10 +171,10 @@ def _looks_like_cf_challenge(body: bytes) -> bool:
 ## 3. API-key-gated pullers — conditional pattern
 
 If the state's statute publisher offers a JSON API behind a
-free API key (NY Senate Open Legislation, IN General
-Assembly, etc.):
+free API key (which many state legislative or judicial
+publishers do):
 
-- Read the key from an env var (`<STATE>SENATE_API_KEY` or
+- Read the key from an env var (`<STATE>_API_KEY` or
   similar).
 - When the key is set: use the API path and emit verbatim
   Markdown.
@@ -182,21 +183,19 @@ Assembly, etc.):
   the corpus's shape honest about the gap.
 - Wire the env var into the workflow yaml as a repo secret.
 
-This is the pattern in `pull_indiana_statutes.py` (IGA API)
-and `pull_ny_statutes.py` (NY Senate API).
-
 ## 4. Prefetch-and-slice the law tree
 
-For statute APIs that return per-law trees (NY Open-Leg,
-many others), fetch each unique `lawId` **once** with
-`?full=true` (or the equivalent that includes text bodies),
-then walk the in-memory tree to find each target
-article/chapter/section. This collapses N per-target HTTP
-calls into M per-law calls (where M = unique law IDs).
+For statute APIs that return per-law trees with `?full=true`
+(or an equivalent parameter that includes text bodies in
+the tree response), fetch each unique `lawId` **once** and
+walk the in-memory tree to find each target
+article / chapter / section. This collapses N per-target
+HTTP calls into M per-law calls (where M = unique law IDs).
 
 ```python
-# For NY: 36 targets across 11 unique law IDs → 11 calls
-# instead of 36 with the per-target endpoint pattern.
+# Example: 36 article-targets across 11 unique law IDs
+# collapses to 11 HTTP calls (instead of 36 with the
+# per-target endpoint pattern).
 unique_law_ids = sorted({t.law_id for t in targets})
 law_cache = {}
 for lid in unique_law_ids:
@@ -232,7 +231,7 @@ Apply per-section before rendering Markdown.
 
 ### Strip duplicate section-heading prefixes
 
-NY Open-Leg returns each section's text body with the
+Some statute APIs return each section's text body with the
 section header already prepended: `"§ 3101. Scope of
 disclosure. (a) Generally..."`. If your renderer emits a
 `## § 3101. Scope of disclosure` heading AND the body, the
@@ -342,14 +341,19 @@ stubs** with:
   what's needed (API key, paid subscription, etc.)
 
 A pointer stub is not a failure — it's an honest
-documentation of the gap. Examples in the NY corpus:
+documentation of the gap. Common categories of unavoidable
+stubs:
 
-- Part 1200 Rules of Professional Conduct (paywalled at
-  West / LexisNexis)
-- Tanbook (PDF-only at the Reporter's site)
-- NYC Civil Court Directives (interactive page only)
-- Nassau / Suffolk District Court local rules (per-Justice
-  Part Rules, no central HTML)
+- **Paywalled rule sets** — e.g., Rules of Professional
+  Conduct published commercially by West / LexisNexis
+  without a free HTML mirror
+- **PDF-only style manuals** — citation manuals that the
+  publisher distributes only as PDF
+- **Interactive-page-only local rules** — per-court
+  procedural manuals served as JavaScript apps without
+  scrapeable HTML
+- **Per-judge / per-justice Part Rules** — published
+  individually with no consolidated HTML index
 
 ## Summary checklist
 
