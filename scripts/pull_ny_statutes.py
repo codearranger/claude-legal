@@ -163,56 +163,68 @@ def _spec(law_id: str, location_id: str, short: str, topic: str,
 
 
 TARGETS: List[StatuteTarget] = [
+    # All locationIds below verified against the live Open Legislation
+    # API at https://legislation.nysenate.gov/api/3/laws/{lawId}.
+    # Article numbers in this corpus are written `A<N>` (no hyphen for
+    # plain articles, with hyphen for sub-articles like `A22-A`).
+
     # --- CPLR (Civil Practice Law and Rules) ---
-    _spec("CVP", "A1",   "Article-1",                 "Short title; statutory authority", "Civil Practice Law and Rules"),
-    _spec("CVP", "A2",   "Article-2-Limitations",     "Limitations of Time",              "Civil Practice Law and Rules"),
-    _spec("CVP", "A3",   "Article-3-Jurisdiction",    "Jurisdiction and Service of Papers", "Civil Practice Law and Rules"),
-    _spec("CVP", "A21",  "Article-21-Papers",         "Papers",                            "Civil Practice Law and Rules"),
-    _spec("CVP", "A22",  "Article-22-Stays",          "Stays, Motions, Orders, and Mandates", "Civil Practice Law and Rules"),
-    _spec("CVP", "A23",  "Article-23-Subpoenas",      "Subpoenas, Oaths and Affirmations", "Civil Practice Law and Rules"),
-    _spec("CVP", "A30",  "Article-30-Pleadings",      "Remedies and Pleadings",            "Civil Practice Law and Rules"),
-    _spec("CVP", "A31",  "Article-31-Disclosure",     "Disclosure (Discovery)",            "Civil Practice Law and Rules"),
-    _spec("CVP", "A32",  "Article-32-Accelerated",    "Accelerated Judgment (Summary Judgment, Dismissal Motions)", "Civil Practice Law and Rules"),
-    _spec("CVP", "A33",  "Article-33-Trial",          "Trial Generally",                   "Civil Practice Law and Rules"),
-    _spec("CVP", "A50",  "Article-50-Judgments",      "General Provisions Relating to Judgments", "Civil Practice Law and Rules"),
-    _spec("CVP", "A51",  "Article-51-Enforcement",    "Enforcement of Judgments and Orders", "Civil Practice Law and Rules"),
-    _spec("CVP", "A52",  "Article-52-Money-Judgments", "Enforcement of Money Judgments (Garnishment, Exemptions, Income Executions)", "Civil Practice Law and Rules"),
-    _spec("CVP", "A53",  "Article-53-Foreign",        "Recognition of Foreign-Country Money Judgments", "Civil Practice Law and Rules"),
+    _spec("CVP", "A1",    "Article-1",                       "Short Title; Applicability and Definitions", "Civil Practice Law and Rules"),
+    _spec("CVP", "A2",    "Article-2-Limitations",           "Limitations of Time",                        "Civil Practice Law and Rules"),
+    _spec("CVP", "A3",    "Article-3-Jurisdiction",          "Jurisdiction and Service, Appearance and Choice of Court", "Civil Practice Law and Rules"),
+    _spec("CVP", "A21",   "Article-21-Papers",               "Papers",                                     "Civil Practice Law and Rules"),
+    _spec("CVP", "A22",   "Article-22-Stays",                "Stay, Motions, Orders and Mandates",         "Civil Practice Law and Rules"),
+    _spec("CVP", "A23",   "Article-23-Subpoenas",            "Subpoenas, Oaths and Affirmations",          "Civil Practice Law and Rules"),
+    _spec("CVP", "A30",   "Article-30-Pleadings",            "Remedies and Pleading",                      "Civil Practice Law and Rules"),
+    _spec("CVP", "A31",   "Article-31-Disclosure",           "Disclosure (Discovery)",                     "Civil Practice Law and Rules"),
+    _spec("CVP", "A32",   "Article-32-Accelerated",          "Accelerated Judgment (Summary Judgment, Dismissal Motions)", "Civil Practice Law and Rules"),
+    _spec("CVP", "A40",   "Article-40-Trial",                "Trial Generally",                            "Civil Practice Law and Rules"),
+    _spec("CVP", "A45",   "Article-45-Evidence",             "Evidence (CPLR codified evidence rules)",    "Civil Practice Law and Rules"),
+    _spec("CVP", "A50",   "Article-50-Judgments",            "Judgments Generally",                        "Civil Practice Law and Rules"),
+    _spec("CVP", "A51",   "Article-51-Enforcement",          "Enforcement of Judgments and Orders Generally", "Civil Practice Law and Rules"),
+    _spec("CVP", "A52",   "Article-52-Money-Judgments",      "Enforcement of Money Judgments (Garnishment, Exemptions, Income Executions)", "Civil Practice Law and Rules"),
+    _spec("CVP", "A53",   "Article-53-Foreign",              "Recognition of Foreign-Country Money Judgments", "Civil Practice Law and Rules"),
 
     # --- General Obligations (GOB) ---
-    _spec("GOB", "T5",   "Title-5-Interest-Frauds",   "Interest Rates and Statute of Frauds (§§ 5-101 to 5-1701)", "General Obligations Law"),
-    _spec("GOB", "T17",  "Title-17-Revival",          "Limitation; Revival of Debts (§§ 17-101 to 17-301)", "General Obligations Law"),
+    _spec("GOB", "A5",    "Article-5-Contracts",             "Creation, Definition and Enforcement of Contractual Obligations (statute of frauds, interest rates)", "General Obligations Law"),
+    _spec("GOB", "A17",   "Article-17-Revival",              "Revival or Extension; Waiver of Defense or Bar (revival of barred debts)", "General Obligations Law"),
 
     # --- General Business (GBS) ---
-    _spec("GBS", "A22A", "Article-22A-Deceptive",     "Deceptive Acts and Practices (§§ 349-350 — NY's UDAP statute)", "General Business Law"),
-    _spec("GBS", "A29H", "Article-29H-Debt-Collection", "Debt Collection Procedures (§§ 600-602 — NY mini-FDCPA)", "General Business Law"),
+    _spec("GBS", "A22-A", "Article-22-A-Deceptive",          "Consumer Protection From Deceptive Acts and Practices (§§ 349-350 — NY's UDAP statute)", "General Business Law"),
+    _spec("GBS", "A29-H", "Article-29-H-Debt-Collection",    "Debt Collection Procedures (§§ 600-602 — NY mini-FDCPA)", "General Business Law"),
 
     # --- Real Property Actions and Proceedings (RPA / RPAPL) ---
-    _spec("RPA", "A7",   "Article-7-Summary-Proceedings", "Summary Proceedings to Recover Possession of Real Property (Holdover + Nonpayment)", "Real Property Actions and Proceedings Law (RPAPL)"),
-    _spec("RPA", "A13",  "Article-13-Foreclosure",    "Foreclosure of Mortgages",          "Real Property Actions and Proceedings Law (RPAPL)"),
+    _spec("RPA", "A7",    "Article-7-Summary-Proceedings",   "Summary Proceedings to Recover Possession of Real Property (Holdover + Nonpayment)", "Real Property Actions and Proceedings Law (RPAPL)"),
+    _spec("RPA", "A13",   "Article-13-Foreclosure",          "Action to Foreclose a Mortgage",             "Real Property Actions and Proceedings Law (RPAPL)"),
 
     # --- Real Property Law (RPP) ---
-    _spec("RPP", "A7",   "Article-7-Landlord-Tenant", "Landlord and Tenant",               "Real Property Law"),
+    _spec("RPP", "A6-A",  "Article-6-A-Good-Cause-Eviction", "Good Cause Eviction Law (2024)",             "Real Property Law"),
+    _spec("RPP", "A7",    "Article-7-Landlord-Tenant",       "Landlord and Tenant",                        "Real Property Law"),
 
     # --- Uniform Commercial Code — NY enactment (UCC) ---
-    _spec("UCC", "A2",   "Article-2-Sales",           "Sales",                             "Uniform Commercial Code"),
-    _spec("UCC", "A3",   "Article-3-Negotiable",      "Negotiable Instruments",            "Uniform Commercial Code"),
-    _spec("UCC", "A9",   "Article-9-Secured",         "Secured Transactions",              "Uniform Commercial Code"),
+    _spec("UCC", "A2",    "Article-2-Sales",                 "Sales",                                      "Uniform Commercial Code"),
+    _spec("UCC", "A3",    "Article-3-Commercial-Paper",      "Commercial Paper (NY-enacted Article 3)",    "Uniform Commercial Code"),
+    _spec("UCC", "A9",    "Article-9-Secured",               "Secured Transactions",                       "Uniform Commercial Code"),
 
     # --- Domestic Relations (DOM) ---
-    _spec("DOM", "A9",   "Article-9-Divorce",         "Action for Divorce, Separation, or Annulment", "Domestic Relations Law"),
-    _spec("DOM", "A11",  "Article-11-Child-Support",  "Child Support",                     "Domestic Relations Law"),
-    _spec("DOM", "A5B",  "Article-5B-UIFSA",          "Uniform Interstate Family Support Act (UIFSA)", "Domestic Relations Law"),
+    _spec("DOM", "A9",    "Article-9-Annulment",             "Action to Annul a Marriage or Declare It Void", "Domestic Relations Law"),
+    _spec("DOM", "A10",   "Article-10-Divorce",              "Action for Divorce",                          "Domestic Relations Law"),
+    _spec("DOM", "A13",   "Article-13-Matrimonial",          "Provisions Applicable to More Than One Type of Matrimonial Action", "Domestic Relations Law"),
+
+    # --- Family Court Act (FCT) — child support + UIFSA ---
+    _spec("FCT", "A4",    "Article-4-Child-Support",         "Support of Dependents (child support)",      "Family Court Act"),
+    _spec("FCT", "A5-B",  "Article-5-B-UIFSA",               "Uniform Interstate Family Support Act (UIFSA)", "Family Court Act"),
 
     # --- Estates, Powers and Trusts (EPT) ---
-    _spec("EPT", "A5",   "Article-5-Family-Rights",   "Family Rights",                     "Estates, Powers and Trusts Law"),
+    _spec("EPT", "A5",    "Article-5-Family-Rights",         "Family Rights",                               "Estates, Powers and Trusts Law"),
 
-    # --- General Construction (GCN) — holidays + time computation ---
-    _spec("GCN", "",     "General-Construction-Holidays", "Public Holidays; Time Computation (§§ 19, 24, 25, 25-a)", "General Construction Law"),
+    # --- General Construction (GCN) — holidays + time computation (whole law) ---
+    _spec("GCN", "",      "General-Construction-Holidays",   "Public Holidays; Time Computation; full law", "General Construction Law"),
 
     # --- Banking (BNK) — debt-collector licensure / mortgage servicing ---
-    _spec("BNK", "A12-A", "Article-12A-Mortgage-Bankers", "Mortgage Bankers, Brokers, and Loan Originators", "Banking Law"),
-    _spec("BNK", "A12-G", "Article-12G-Student-Loans", "Student-Loan Servicers",            "Banking Law"),
+    _spec("BNK", "A12-D", "Article-12-D-Mortgage-Bankers",   "Licensed Mortgage Bankers",                   "Banking Law"),
+    _spec("BNK", "A12-E", "Article-12-E-Mortgage-LO",        "Licensed Mortgage Loan Originators",          "Banking Law"),
+    _spec("BNK", "A14-A", "Article-14-A-Student-Loan",       "Student Loan Servicers",                      "Banking Law"),
 ]
 
 
@@ -313,22 +325,49 @@ def walk_law_tree(node: Dict[str, Any], depth: int = 1
     return out
 
 
+def _decode_text(raw: str) -> str:
+    """Decode an Open-Leg `text` field into clean Markdown.
+
+    The API delivers section bodies with embedded **literal** `\\n`
+    sequences (backslash + n, not JSON-escaped newlines), and the
+    first line is the section heading repeating the section number.
+    We unescape the literal sequences and squash runs of blank lines.
+    """
+    out = raw
+    # Convert literal `\n` to real newlines, then `\t` to tabs. The
+    # `replace` order matters — `\n` is more common; doing it first
+    # avoids interleaving issues.
+    out = out.replace("\\n", "\n").replace("\\r", "\n").replace("\\t", "\t")
+    # Strip carriage returns and trailing spaces on each line.
+    out = "\n".join(line.rstrip() for line in out.split("\n"))
+    # Collapse 3+ consecutive blank lines down to one blank line.
+    out = re.sub(r"\n{3,}", "\n\n", out)
+    return out.strip()
+
+
 def render_section_md(section: Dict[str, Any]) -> str:
     """Render one Open-Leg section JSON to Markdown.
 
     Each section node carries `{locationId, title, text}` where `text`
-    is the rendered statutory body as plain text with section numbering
-    preserved by the API. We emit a `## § <num>. <title>` heading and
-    the body verbatim."""
+    is the rendered statutory body. We emit a `## § <num>. <title>`
+    heading followed by the decoded body."""
     title = section.get("title") or section.get("locationId") or ""
     loc = section.get("locationId") or ""
-    body = (section.get("text") or "").strip()
+    raw = section.get("text") or ""
+    body = _decode_text(raw)
     section_marker = section.get("sectionNo") or loc
     heading = f"## § {section_marker}. {title}".strip()
     if not body:
         return heading + "\n\n_(No text returned by API.)_\n"
-    body_md = re.sub(r"\n{3,}", "\n\n", body)
-    return f"{heading}\n\n{body_md}\n"
+    # The API's `text` body usually starts with a redundant
+    # "§ 3101. Scope of disclosure. " prefix that duplicates the
+    # heading. Strip it if present.
+    duplicate_prefix = f"§ {section_marker}. {title}".strip().rstrip(".")
+    if body.lstrip().startswith(duplicate_prefix):
+        # Find first sentence end and strip.
+        stripped = body.lstrip()[len(duplicate_prefix):].lstrip(". \n\t")
+        body = stripped
+    return f"{heading}\n\n{body}\n"
 
 
 def collect_sections(node: Dict[str, Any]) -> List[Dict[str, Any]]:
@@ -345,6 +384,28 @@ def collect_sections(node: Dict[str, Any]) -> List[Dict[str, Any]]:
         for child in children:
             out.extend(collect_sections(child))
     return out
+
+
+def find_subtree(root: Dict[str, Any], location_id: str
+                  ) -> Optional[Dict[str, Any]]:
+    """Find the descendant node whose `locationId` matches `location_id`.
+
+    Returns None if no such node exists. Empty `location_id` returns
+    the root itself (used for whole-law targets like GCN).
+    """
+    if not location_id:
+        return root
+    if root.get("locationId") == location_id:
+        return root
+    children = root.get("documents")
+    if isinstance(children, dict):
+        children = children.get("items") or []
+    if isinstance(children, list):
+        for child in children:
+            r = find_subtree(child, location_id)
+            if r is not None:
+                return r
+    return None
 
 
 # ----------------------------------------------------------------------
@@ -449,11 +510,41 @@ def _file_is_stub(path: Path) -> bool:
     return "(stub" in head or "Format:** pointer stub" in head
 
 
-def fetch_and_write(target: StatuteTarget, out_dir: Path,
-                     fetched_iso: str, api_key: Optional[str],
-                     stubs_only: bool) -> WriteResult:
+def fetch_law(law_id: str, api_key: str
+               ) -> Tuple[Optional[Dict[str, Any]], Optional[str]]:
+    """Fetch a single NY consolidated law tree (with `?full=true` so
+    each SECTION includes its `text` body). Returns `(root_node, err)`.
+
+    `root_node` is the law's top-level document (a CHAPTER node whose
+    `documents.items` lists the ARTICLE children). On any failure
+    `root_node` is None and `err` is a one-line reason."""
+    url = f"{API_BASE}/{law_id}?full=true"
+    try:
+        status, payload, _ = http_get_json(url, api_key=api_key)
+    except Exception as exc:  # noqa: BLE001
+        return None, f"{type(exc).__name__}: {exc}"
+    if status >= 400 or payload is None or not payload.get("success"):
+        msg = "HTTP " + str(status)
+        if payload is not None:
+            msg = (payload.get("message") or msg)[:200]
+        return None, msg
+    root = (payload.get("result") or {}).get("documents")
+    if not isinstance(root, dict):
+        return None, "no result.documents in API response"
+    return root, None
+
+
+def write_one(target: StatuteTarget, out_dir: Path, fetched_iso: str,
+               api_key: Optional[str], stubs_only: bool,
+               law_cache: Dict[str, Tuple[Optional[Dict[str, Any]],
+                                          Optional[str]]]
+               ) -> WriteResult:
+    """Render one target. If the API path is available and the law has
+    already been fetched (or can be fetched on first use), slice the
+    cached tree to find the target article and emit its sections."""
     out_path = out_dir / f"{target.label}.md"
 
+    # --- Stubs mode ---
     if stubs_only or api_key is None:
         body = render_stub(
             target,
@@ -470,40 +561,53 @@ def fetch_and_write(target: StatuteTarget, out_dir: Path,
         return WriteResult(target.label, out_path, out_path.stat().st_size,
                             None, stub=True)
 
-    url = f"{API_BASE}/{target.law_id}"
-    if target.location_id:
-        url = f"{url}/{target.location_id}"
-    try:
-        status, payload, raw = http_get_json(url, api_key=api_key)
-        if status >= 400 or payload is None or not payload.get("success"):
-            reason = f"HTTP {status}"
-            if payload is not None:
-                reason = (payload.get("message") or reason)[:200]
-            raise RuntimeError(reason)
-        result = payload.get("result") or {}
-        documents = result.get("documents") or {}
-        sections = collect_sections(documents)
-        if not sections:
-            raise RuntimeError("no SECTION documents in API response")
-        rendered = render_md(target, url, fetched_iso, sections)
-    except Exception as exc:  # noqa: BLE001
-        if out_path.exists() and not _file_is_stub(out_path):
-            return WriteResult(target.label, out_path,
-                               out_path.stat().st_size,
-                               f"fetch failed (kept existing file): {exc}",
-                               stub=False)
-        stub_body = render_stub(target, fetched_iso, f"{exc}")
-        tmp = out_path.with_suffix(".md.tmp")
-        tmp.write_text(stub_body, encoding="utf-8")
-        tmp.rename(out_path)
-        return WriteResult(target.label, out_path,
-                           out_path.stat().st_size, f"{exc}", stub=True)
+    # --- API mode: ensure the law tree is cached ---
+    if target.law_id not in law_cache:
+        law_cache[target.law_id] = fetch_law(target.law_id, api_key)
+    root, err = law_cache[target.law_id]
 
+    api_url = f"{API_BASE}/{target.law_id}?full=true"
+    if root is None:
+        return _write_stub_or_keep(target, out_path, fetched_iso,
+                                    f"law fetch failed: {err}")
+
+    # --- Slice the cached tree ---
+    subtree = find_subtree(root, target.location_id)
+    if subtree is None:
+        return _write_stub_or_keep(
+            target, out_path, fetched_iso,
+            f"locationId {target.location_id!r} not found in {target.law_id} tree",
+        )
+    sections = collect_sections(subtree)
+    if not sections:
+        return _write_stub_or_keep(
+            target, out_path, fetched_iso,
+            "no SECTION documents under that locationId",
+        )
+
+    rendered = render_md(target, api_url, fetched_iso, sections)
     tmp = out_path.with_suffix(".md.tmp")
     tmp.write_text(rendered, encoding="utf-8")
     tmp.rename(out_path)
     return WriteResult(target.label, out_path, out_path.stat().st_size,
                        None, stub=False)
+
+
+def _write_stub_or_keep(target: StatuteTarget, out_path: Path,
+                         fetched_iso: str, reason: str) -> WriteResult:
+    """If a substantive file already exists for `target`, keep it.
+    Otherwise write a fresh stub with `reason`."""
+    if out_path.exists() and not _file_is_stub(out_path):
+        return WriteResult(target.label, out_path,
+                           out_path.stat().st_size,
+                           f"{reason} (kept existing file)",
+                           stub=False)
+    stub_body = render_stub(target, fetched_iso, reason)
+    tmp = out_path.with_suffix(".md.tmp")
+    tmp.write_text(stub_body, encoding="utf-8")
+    tmp.rename(out_path)
+    return WriteResult(target.label, out_path,
+                       out_path.stat().st_size, reason, stub=True)
 
 
 # ----------------------------------------------------------------------
@@ -590,30 +694,44 @@ def main() -> int:
           f"{out_dir} (workers={args.workers}, mode={mode})",
           flush=True)
 
-    results: List[WriteResult] = []
-    workers = max(1, min(args.workers, len(targets)))
-    if workers == 1:
-        for t in targets:
-            print(f"  -> {t.label} ...", flush=True)
-            results.append(
-                fetch_and_write(t, out_dir, fetched_iso, api_key,
-                                args.stubs_only)
-            )
-    else:
-        with ThreadPoolExecutor(max_workers=workers) as pool:
-            futures = {
-                pool.submit(fetch_and_write, t, out_dir, fetched_iso,
-                            api_key, args.stubs_only): t
-                for t in targets
-            }
+    # In API mode we fetch one law tree per unique lawId (with
+    # `?full=true`) and then slice in-memory for every target. That
+    # collapses what used to be N per-target HTTP calls down to ~10.
+    # `law_cache` is `{lawId: (root_node_or_None, error_or_None)}`.
+    law_cache: Dict[str, Tuple[Optional[Dict[str, Any]], Optional[str]]] = {}
+
+    # If in API mode, prefetch each unique law concurrently so we
+    # don't serialize the network round-trips behind the per-target
+    # loop. Stub mode skips this entirely.
+    if not (args.stubs_only or api_key is None):
+        unique_law_ids = sorted({t.law_id for t in targets})
+        prefetch_workers = max(1, min(args.workers, len(unique_law_ids)))
+        print(f"=== prefetching {len(unique_law_ids)} unique law "
+              f"tree(s) (workers={prefetch_workers})", flush=True)
+        with ThreadPoolExecutor(max_workers=prefetch_workers) as pool:
+            futures = {pool.submit(fetch_law, lid, api_key): lid
+                       for lid in unique_law_ids}
             for fut in as_completed(futures):
-                t = futures[fut]
+                lid = futures[fut]
                 try:
-                    results.append(fut.result())
+                    law_cache[lid] = fut.result()
                 except Exception as exc:  # noqa: BLE001
-                    results.append(WriteResult(t.label,
-                                                out_dir / f"{t.label}.md",
-                                                0, str(exc), stub=True))
+                    law_cache[lid] = (None,
+                                       f"{type(exc).__name__}: {exc}")
+                root, err = law_cache[lid]
+                tag = "OK  " if root is not None else "FAIL"
+                size = (sum(1 for _ in
+                            collect_sections(root)) if root else 0)
+                print(f"     [{tag}] {lid} "
+                      f"({size:,} sections)"
+                      + (f" — {err}" if err else ""), flush=True)
+
+    results: List[WriteResult] = []
+    for t in targets:
+        results.append(
+            write_one(t, out_dir, fetched_iso, api_key,
+                      args.stubs_only, law_cache)
+        )
 
     by_label = {r.label: r for r in results}
     ordered = [by_label[t.label] for t in targets if t.label in by_label]
