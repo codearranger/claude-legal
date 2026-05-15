@@ -5,8 +5,8 @@
     "url": "https://github.com/codearranger"
   },
   "metadata": {
-    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state, plus a shared data-only plugin for federal law. Six state plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt defense bundle), or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle), ca-court-docs (California — CRC 2.100-2.119-compliant pleadings, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA / UCL consumer-debt defense bundle), co-court-docs (Colorado — C.R.C.P. 10 + CJD 11-01-compliant pleadings, Denver + Arapahoe + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt defense bundle, plus a UDMA-based family-law bundle), in-court-docs (Indiana — Ind. Trial R. 5(E) pleadings under Indiana Trial Rules with the Jarboe burden-shifting and T.R. 59 motion-to-correct-error quirks, Marion Superior Court / Lake Superior Court + populous-counties roll-up, IUCCC / DCSA consumer-debt defense bundle leaning on chain-of-title + FDCPA since Indiana has no collection-agency licensing regime), and ny-court-docs (New York — 22 NYCRR § 202.5 paper format + 22 NYCRR § 202.5-b NYSCEF electronic-filing format with the New York caption and \"-against-\" party separator, five flagship Supreme Court venues each as its own skill — New York County (1st JD, Manhattan, Commercial Division at the $500k threshold), Kings County (2nd JD, Brooklyn, with CPLR 3408 foreclosure conferences), Bronx County (12th JD), Nassau County (10th JD, Mineola, Commercial Division at $200k), and Queens County (11th JD, Jamaica) — plus dedicated venue skills for the rest of NY's fragmented civil-court system — ny-nyc-civil-court (Civil Court of the City of New York; Civil Court Act $50k cap, 5 boroughs, the highest-volume consumer-debt forum in the country), ny-nyc-housing-court (Housing Part; RPAPL Article 7 summary proceedings; Local Law 136 universal Right to Counsel; ERAP stays), ny-nassau-dc + ny-suffolk-dc (Long Island District Courts under UDCA / 22 NYCRR Part 212), ny-city-courts (~60 upstate City Courts under UCCA / 22 NYCRR Part 210, $15k cap), ny-justice-courts (~1,250 Town and Village Justice Courts under UJCA / 22 NYCRR Part 214, $3k cap), and ny-family-court (FCA Articles 3-10; CSSA; family-offense Orders of Protection; abuse and neglect) — plus a long-tail Supreme Court roll-up (ny-county-courts) for Suffolk / Westchester / Erie / Monroe / Onondaga Supreme Court Civil Term; **five subject-matter bundles**: ny-consumer-debt (FDCPA / Reg F / 2022 CCFA / GBL § 600 / GBL § 349 / CPLR 4544 / UCC Article 9 chain of title); ny-landlord-tenant (RPAPL Article 7 / 2019 HSTPA / 2024 Good Cause Eviction / RPL § 235-b / Local Law 136 / ERAP); ny-personal-injury (CPLR Article 14-A pure comparative fault + Article 16, Insurance Law § 5102(d) no-fault threshold, Labor Law § 240(1) scaffold law, GML § 50-e Notice of Claim, CPLR 214-a medical malpractice, CVA / ASA revival windows); ny-employment (NYS HRL, NYC HRL with *Williams* construed-broadly rule, Labor Law § 191/198/740 + WARN, CROWN Act); ny-commercial-disputes (22 NYCRR § 202.70 Commercial Division + Appendix A; CPLR 3016(b) fraud particularity; BCL § 720 / § 1104-a derivative + dissolution; Faithless Servant; GOL §§ 5-1401 / 5-1402 destination-forum)). All six state plugins depend on the shared claude-legal-federal-laws plugin for FDCPA / FCRA / TILA / ECOA / EFTA / Garnishment + Reg B-F-V-Z-DD-E-M-N-P-X + RESPA + SCRA + FHA + FTC Telemarketing Sales Rule + Title 11 Bankruptcy + model UCC content — declared in their plugin.json and dereferenced from in-tree symlinks at install time, so the federal corpora live in one canonical place. All state plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles. The structure leaves clean slots for plugins covering additional states.",
-    "version": "0.14.0"
+    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state, plus a shared data-only plugin for federal law. Seven state plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt defense bundle), or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle), ca-court-docs (California — CRC 2.100-2.119-compliant pleadings, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA / UCL consumer-debt defense bundle), co-court-docs (Colorado — C.R.C.P. 10 + CJD 11-01-compliant pleadings, Denver + Arapahoe + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt defense bundle, plus a UDMA-based family-law bundle), in-court-docs (Indiana — Ind. Trial R. 5(E) pleadings under Indiana Trial Rules with the Jarboe burden-shifting and T.R. 59 motion-to-correct-error quirks, Marion Superior Court / Lake Superior Court + populous-counties roll-up, IUCCC / DCSA consumer-debt defense bundle leaning on chain-of-title + FDCPA since Indiana has no collection-agency licensing regime), and ny-court-docs (New York — 22 NYCRR § 202.5 paper format + 22 NYCRR § 202.5-b NYSCEF electronic-filing format with the New York caption and \"-against-\" party separator, five flagship Supreme Court venues each as its own skill — New York County (1st JD, Manhattan, Commercial Division at the $500k threshold), Kings County (2nd JD, Brooklyn, with CPLR 3408 foreclosure conferences), Bronx County (12th JD), Nassau County (10th JD, Mineola, Commercial Division at $200k), and Queens County (11th JD, Jamaica) — plus dedicated venue skills for the rest of NY's fragmented civil-court system — ny-nyc-civil-court (Civil Court of the City of New York; Civil Court Act $50k cap, 5 boroughs, the highest-volume consumer-debt forum in the country), ny-nyc-housing-court (Housing Part; RPAPL Article 7 summary proceedings; Local Law 136 universal Right to Counsel; ERAP stays), ny-nassau-dc + ny-suffolk-dc (Long Island District Courts under UDCA / 22 NYCRR Part 212), ny-city-courts (~60 upstate City Courts under UCCA / 22 NYCRR Part 210, $15k cap), ny-justice-courts (~1,250 Town and Village Justice Courts under UJCA / 22 NYCRR Part 214, $3k cap), and ny-family-court (FCA Articles 3-10; CSSA; family-offense Orders of Protection; abuse and neglect) — plus a long-tail Supreme Court roll-up (ny-county-courts) for Suffolk / Westchester / Erie / Monroe / Onondaga Supreme Court Civil Term; **five subject-matter bundles**: ny-consumer-debt (FDCPA / Reg F / 2022 CCFA / GBL § 600 / GBL § 349 / CPLR 4544 / UCC Article 9 chain of title); ny-landlord-tenant (RPAPL Article 7 / 2019 HSTPA / 2024 Good Cause Eviction / RPL § 235-b / Local Law 136 / ERAP); ny-personal-injury (CPLR Article 14-A pure comparative fault + Article 16, Insurance Law § 5102(d) no-fault threshold, Labor Law § 240(1) scaffold law, GML § 50-e Notice of Claim, CPLR 214-a medical malpractice, CVA / ASA revival windows); ny-employment (NYS HRL, NYC HRL with *Williams* construed-broadly rule, Labor Law § 191/198/740 + WARN, CROWN Act); ny-commercial-disputes (22 NYCRR § 202.70 Commercial Division + Appendix A; CPLR 3016(b) fraud particularity; BCL § 720 / § 1104-a derivative + dissolution; Faithless Servant; GOL §§ 5-1401 / 5-1402 destination-forum)). All six state plugins depend on the shared claude-legal-federal-laws plugin for FDCPA / FCRA / TILA / ECOA / EFTA / Garnishment + Reg B-F-V-Z-DD-E-M-N-P-X + RESPA + SCRA + FHA + FTC Telemarketing Sales Rule + Title 11 Bankruptcy + model UCC content — declared in their plugin.json and dereferenced from in-tree symlinks at install time, so the federal corpora live in one canonical place. All state plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles. The structure leaves clean slots for plugins covering additional states. The seventh plugin, oh-court-docs (Ohio — Ohio Civ. R. 10 + per-court local rules, 8 flagship Court of Common Pleas venues + county-courts roll-up + oh-municipal-courts + oh-family-court, R.C. Chapter 1345 CSPA consumer-debt defense bundle + R.C. Title 31 + Title 33 family-law bundle).",
+    "version": "0.15.0"
   },
   "plugins": [
     {
@@ -255,6 +255,60 @@
         "nyc-housing-court",
         "right-to-counsel",
         "erap"
+      ]
+    },
+    {
+      "name": "oh-court-docs",
+      "source": "./plugins/oh-court-docs",
+      "description": "Draft and format pleadings, declarations, motions, notices, and proposed orders for Ohio courts. Applies Ohio Civ. R. 10 + per-court local rules statewide formatting. Includes eight flagship Court of Common Pleas venues each as its own skill — Cuyahoga (Cleveland), Franklin (Columbus), Hamilton (Cincinnati), Summit (Akron), Montgomery (Dayton), Lucas (Toledo), Stark (Canton), and Butler (Hamilton, OH) — plus a county-courts roll-up for the other 80 Ohio counties, a dedicated `oh-municipal-courts` skill covering the Ohio Municipal Court layer (R.C. Chapter 1901; $15,000 civil cap; $6,000 small-claims division; the primary pro-se consumer-debt forum in most Ohio counties), and an `oh-family-court` skill covering both the Domestic Relations Division of Common Pleas (divorce + married-parent custody/support) and the Juvenile Division (unmarried-parent custody + child-support enforcement + abuse/neglect under R.C. Chapter 2151). Supports pro se workflows. Architected as matter-neutral civil-procedure skills (Ohio Civ. R. with the FRCP-style framework; Ohio Evid. R.; Ohio Rules of Superintendence; CPLR-analog deadline arithmetic per Civ. R. 6; Ohio public-domain citation format `YYYY-Ohio-NNNN` mandatory in appellate cases since 2002) plus two baseline subject-matter bundles. (1) oh-consumer-debt covering FDCPA, Reg F, the **Ohio Consumer Sales Practices Act** (R.C. Chapter 1345) with R.C. 1345.09 treble damages on willful violations and mandatory attorney's fees, chain of title under Ohio UCC Article 9 (R.C. Chapter 1309), and the Ohio statute-of-limitations regime (R.C. 2305.06 six-year written-contract SOL; R.C. 1345.10 two-year CSPA SOL); Ohio has NO collection-agency licensing regime. (2) oh-family-law covering divorce + dissolution + annulment + legal separation under R.C. Chapter 3105 with equitable distribution (R.C. 3105.171; NOT a community-property state); allocation of parental responsibilities under R.C. 3109; child support guideline at R.C. Chapter 3119 (income-shares model with $300,000 combined-income cap and 10% deviation threshold); spousal support under R.C. 3105.18; UCCJEA at R.C. Chapter 3127; UIFSA at R.C. Chapter 3115. All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+      "category": "legal",
+      "keywords": [
+        "ohio",
+        "legal",
+        "pleadings",
+        "pro-se",
+        "ohio-civ-r",
+        "ohio-evid-r",
+        "ohio-revised-code",
+        "ohio-rules-of-superintendence",
+        "common-pleas",
+        "cuyahoga",
+        "franklin",
+        "hamilton",
+        "summit",
+        "montgomery",
+        "lucas",
+        "stark",
+        "butler",
+        "municipal-court",
+        "small-claims",
+        "domestic-relations",
+        "juvenile-court",
+        "rc-1345",
+        "cspa",
+        "consumer-sales-practices-act",
+        "civil-rules",
+        "evidence-rules",
+        "discovery",
+        "hearings",
+        "post-judgment",
+        "fact-check",
+        "deadlines",
+        "fdcpa",
+        "reg-f",
+        "rc-2305",
+        "rc-3105",
+        "rc-3119",
+        "child-support",
+        "income-shares",
+        "equitable-distribution",
+        "rc-5321",
+        "rc-1923",
+        "landlord-tenant",
+        "forcible-entry-detainer",
+        "uccjea",
+        "uifsa",
+        "public-domain-citation"
       ]
     }
   ]

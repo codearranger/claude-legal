@@ -22,6 +22,7 @@ on:
           - co
           - in
           - ny
+          - oh
 
 permissions:
   contents: write
@@ -48,7 +49,7 @@ jobs:
           TARGET: ${{ github.event.inputs.target }}
         run: |
           case "${TARGET:-all}" in
-            all)     targets='["federal","wa","or","ca","co","in","ny"]' ;;
+            all)     targets='["federal","wa","or","ca","co","in","ny","oh"]' ;;
             federal) targets='["federal"]' ;;
             wa)      targets='["wa"]' ;;
             or)      targets='["or"]' ;;
@@ -56,6 +57,7 @@ jobs:
             co)      targets='["co"]' ;;
             in)      targets='["in"]' ;;
             ny)      targets='["ny"]' ;;
+            oh)      targets='["oh"]' ;;
             *)       echo "unexpected target: $TARGET" >&2; exit 1 ;;
           esac
           echo "targets=$targets" >> "$GITHUB_OUTPUT"
@@ -224,6 +226,33 @@ jobs:
         env:
           NYSENATE_API_KEY: ${{ secrets.NYSENATE_API_KEY }}
         run: python3 scripts/pull_ny_statutes.py --workers 4
+
+      # ---- OH ----
+      # Ohio's court rules + statutes are both published on
+      # public-access government sites with no Cloudflare gate
+      # and no API-key requirement:
+      #   - Supreme Court of Ohio (`supremecourt.ohio.gov`)
+      #     publishes 14 rule-of-court PDFs at predictable URLs;
+      #     pdftotext extracts them. Civ. R. + Evid. R. + Sup. R.
+      #     + Prof. Cond. R. etc.
+      #   - Ohio Legislative Service Commission (`codes.ohio.gov`)
+      #     publishes the Revised Code as HTML chapter pages with
+      #     section bodies inline. The puller fetches 20 chapters
+      #     (R.C. Chapter 1 + 1302/1303/1309 UCC + 1345 CSPA +
+      #     2151/2305/2329/2333 civil enforcement + 3105/3109/3113/
+      #     3115/3119/3127 family + 5321/1923 L&T + 1901/1907/1925
+      #     court-specific procedural).
+      - name: OH — court rules (Civ. R. + Evid. R. + Sup. R. + Prof. Cond. R. + 10 others)
+        if: matrix.target == 'oh'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_ohio_court_rules.py --workers 3
+
+      - name: OH — Revised Code (20 chapters covering civil + family practice)
+        if: matrix.target == 'oh'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_ohio_statutes.py --workers 4
 
       # ---- Finalize ----
 
