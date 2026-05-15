@@ -202,16 +202,17 @@ jobs:
         if: matrix.target == 'ny'
         continue-on-error: true
         timeout-minutes: 15
-        env:
-          # Optional Cloudflare-Warp HTTP proxy. The puller uses
-          # curl_cffi with Chrome TLS impersonation; the proxy
-          # additionally routes traffic through a Cloudflare-trusted
-          # IP for the bot-fight-mode upstream gate. GitHub Actions
-          # runners often pass the gate via their own IP reputation;
-          # the proxy is only needed for residential / non-trusted
-          # source IPs. When the secret is unset, the puller runs
-          # without a proxy and falls back to stubs on a CF block.
-          NY_RULES_PROXY: ${{ secrets.NY_RULES_PROXY }}
+        # No `NY_RULES_PROXY` here on purpose. The proxy referenced
+        # by that env var is a developer-local Cloudflare-Warp HTTP
+        # endpoint (on a LAN address); GitHub Actions runners can't
+        # reach it. The puller falls back to stubs when Cloudflare
+        # blocks the runner — but the per-file "don't regress
+        # substantive content to a stub" check (`_file_is_stub`)
+        # keeps any verbatim content already committed to the repo
+        # in place. So the worst case for a CI refresh is a `Fetched:`
+        # date bump with no real change. Operators wanting a fresh
+        # verbatim pull should run the puller locally with their
+        # `NY_RULES_PROXY` set.
         run: |
           pip3 install --break-system-packages curl_cffi
           python3 scripts/pull_ny_court_rules.py --workers 4

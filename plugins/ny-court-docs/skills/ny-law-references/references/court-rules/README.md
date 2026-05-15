@@ -58,30 +58,46 @@ stubs.**
 ## How to refresh
 
 ```bash
-# Without proxy (CI runners, Cloudflare-trusted IPs):
-python3 scripts/pull_ny_court_rules.py --workers 4
-
-# With warpsocks (developer workstation behind a residential IP
-# that Cloudflare's bot-fight mode would otherwise challenge):
+# Refresh from a developer workstation, routing through a local
+# Cloudflare-Warp HTTP proxy so nycourts.gov sees a Cloudflare-
+# trusted source IP:
 NY_RULES_PROXY=http://192.168.8.21:9091 \
   python3 scripts/pull_ny_court_rules.py --workers 4
+
+# Refresh without proxy (will most likely hit Cloudflare bot-fight
+# mode and fall back to stubs — useful only for development
+# sanity-checks):
+python3 scripts/pull_ny_court_rules.py --workers 4
 ```
+
+> **The quarterly CI workflow runs without `NY_RULES_PROXY`** —
+> that env var points at a developer-local LAN endpoint that
+> GitHub Actions runners can't reach. The CI run still attempts
+> the pull (curl_cffi alone sometimes passes Cloudflare on a
+> well-reputed runner IP), but when it can't, the puller falls
+> back to writing stubs and the **"don't regress substantive
+> content"** check keeps any verbatim content already committed
+> in place. So the canonical way to refresh the verbatim corpus
+> is for an operator to run the puller locally with their
+> proxy set and commit the diff.
 
 The puller:
 
 1. **Fetches via curl_cffi** with Chrome TLS impersonation, which
-   defeats Cloudflare's bot-detection that previously blocked the
-   `urllib`-based puller. Install with
-   `pip install --break-system-packages curl_cffi` if needed.
-2. **Optional warpsocks proxy** routes traffic through Cloudflare
-   Warp via the `NY_RULES_PROXY` env var, giving the puller a
-   Cloudflare-trusted source IP for sites that geo-fence by ASN.
+   defeats Cloudflare's TLS-fingerprint bot detection. Install
+   with `pip install --break-system-packages curl_cffi` if
+   needed.
+2. **Honors `NY_RULES_PROXY`** when set — routes the curl_cffi
+   client through that HTTP proxy (typically a Cloudflare-Warp
+   container giving the puller a Cloudflare-trusted source IP).
 3. **Falls back to pointer stubs** when the upstream returns a
-   Cloudflare interstitial despite the curl_cffi + proxy
-   combination (rare). Stubs document the canonical URL.
-4. **Never regresses substantive content to a stub.** If a previous
-   refresh wrote real Markdown and the current refresh would only
-   produce a stub, the existing file is kept in place.
+   Cloudflare interstitial despite both layers. Stubs document
+   the canonical URL.
+4. **Never regresses substantive content to a stub.** If a
+   previous refresh wrote real Markdown and the current refresh
+   would only produce a stub, the existing file is kept in place
+   (CI-safe — a date-only re-run with no proxy doesn't overwrite
+   verbatim content with stubs).
 
 ## File index
 
