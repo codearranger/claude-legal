@@ -1,21 +1,26 @@
 ---
 name: ny-county-courts
 description: >
-  Use when filing in a New York trial court other than the
-  five flagship counties (New York, Kings, Bronx, Nassau,
-  Queens) and other than the two dedicated Long Island
-  District Courts. Triggers include 'Suffolk County Supreme
-  Court', 'Westchester County Supreme Court', 'Erie County
-  Supreme Court', 'Monroe County Supreme Court', 'Onondaga
-  County Supreme Court', 'Richmond County Supreme Court'
-  (Staten Island), 'Civil Court of the City of New York',
-  'City Court', 'Town and Village Justice Court', 'small
-  claims part'. Covers the next-largest counties' Supreme
-  Courts, the four NYC borough Civil Courts under the Civil
-  Court Act, upstate City Courts, and Town & Village Justice
-  Courts. For the Nassau and Suffolk District Courts use the
-  dedicated skills `ny-nassau-dc` and `ny-suffolk-dc`.
-version: 0.2.0
+  Use when filing in a New York **Supreme Court** Civil Term
+  other than the five flagship counties (New York, Kings,
+  Bronx, Nassau, Queens). Triggers include 'Suffolk County
+  Supreme Court', 'Westchester County Supreme Court', 'Erie
+  County Supreme Court', 'Monroe County Supreme Court',
+  'Onondaga County Supreme Court', 'Richmond County Supreme
+  Court' (Staten Island), 'Rockland Supreme', 'Albany
+  Supreme', 'Orange Supreme', 'Dutchess Supreme', 'Saratoga
+  Supreme', 'Oneida Supreme', 'Niagara Supreme', 'Onondaga
+  Supreme'. Now narrowly scoped to **Supreme Court Civil
+  Term** only — the long-tail roll-up of upstate Supreme
+  Courts plus Richmond. For other civil-court layers use the
+  dedicated skills: `ny-nyc-civil-court` (NYC Civil Court
+  $50k cap, 5 boroughs), `ny-nyc-housing-court` (RPAPL Art
+  7 summary proceedings in NYC), `ny-nassau-dc` /
+  `ny-suffolk-dc` (Long Island UDCA District Courts $15k
+  cap), `ny-city-courts` (upstate UCCA City Courts $15k
+  cap), `ny-justice-courts` (Town & Village UJCA Justice
+  Courts $3k cap).
+version: 0.3.0
 ---
 
 # New York County Courts — Long-tail Roll-up
@@ -23,18 +28,18 @@ version: 0.2.0
 > **NOT LEGAL ADVICE.** Verify the specific court's local
 > rules before filing.
 
-This skill covers New York's trial courts **other than** the
-five flagship Supreme Court venues already covered by
-`ny-nyco`, `ny-kings`, `ny-bronx`, `ny-nassau`, and
-`ny-queens`. New York has an unusually fragmented trial-court
-system — far more layers than most states. The principal
-courts:
+This skill is the **Supreme Court Civil Term roll-up** for
+counties outside the five flagship venues (`ny-nyco`,
+`ny-kings`, `ny-bronx`, `ny-nassau`, `ny-queens`). Other
+NY civil-court layers each have their own dedicated skill —
+see the [Other civil-court layers](#other-civil-court-layers)
+section below to route to the right one.
 
 ## Supreme Court (other counties)
 
-The Supreme Court is New York's court of general jurisdiction
-in every county. Beyond the five flagship counties, the
-next-largest civil-trial venues:
+The Supreme Court is New York's court of general
+jurisdiction in every county. Beyond the five flagship
+counties, the next-largest civil-trial venues:
 
 | County | JD | Courthouse | Comm Div threshold |
 |--------|----|----|----------------|
@@ -53,96 +58,45 @@ next-largest civil-trial venues:
 
 Filings use NYSCEF in nearly all counties. Confirm the
 assigned Justice's Part Rules before motion practice.
+**Individual Assignment System** under 22 NYCRR § 202.3
+applies — case stays with one Justice from RJI through
+judgment.
 
-## Civil Court of the City of New York
+For Commercial Division-eligible matters (see the
+threshold table above), use `ny-commercial-disputes` for
+the substantive 22 NYCRR § 202.70 rule overlay.
 
-A **separate trial court** from Supreme Court, established by
-the Civil Court Act, with jurisdiction over civil actions up
-to **$50,000** and small-claims matters up to **$10,000**.
-Five boroughs, each its own branch:
+## Other civil-court layers
 
-- **New York County** — 111 Centre Street
-- **Kings County** — 141 Livingston Street, Brooklyn
-- **Bronx County** — 851 Grand Concourse
-- **Queens County** — 89-17 Sutphin Boulevard, Jamaica
-- **Richmond County** — 927 Castleton Avenue, Staten Island
+NY has an unusually fragmented trial-court system — far
+more layers than most states. **This skill no longer covers
+the non-Supreme-Court layers**. Each layer has its own
+dedicated skill:
 
-NYC Civil Court is the **primary forum for consumer-debt
-collection actions** under $50,000. The court has been the
-focus of the 2022 Consumer Credit Fairness Act (CCFA)
-reforms — heightened pleading (CPLR 3015(e)) and default-
-judgment scrutiny (22 NYCRR § 202.27-a). See `ny-consumer-
-debt`.
-
-NYC Civil Court also operates the **Housing Court Part** —
-covered separately under `ny-landlord-tenant`.
-
-E-filing: UCMS / CCEF (the Civil Court's electronic-filing
-system) — not NYSCEF.
-
-## District Courts (Nassau & Suffolk)
-
-Long Island has its own **District Court** layer (not present
-elsewhere in the state). Each District Court is now covered
-by a **dedicated skill**:
-
-- **Nassau District Court** — see [`ny-nassau-dc`]. Six
-  districts; 99 Main Street, Hempstead. Jurisdiction up to
-  $15,000 civil; full L&T Part; small / commercial claims;
-  misdemeanor + violation criminal. 22 NYCRR Part 212.
-- **Suffolk District Court** — see [`ny-suffolk-dc`]. Six
-  districts covering the five **western** towns + Brookhaven
-  only; eastern Suffolk routes to Town Justice Courts.
-  Cohalan Court Complex, Central Islip. Jurisdiction up to
-  $15,000 civil. 22 NYCRR Part 212.
-
-Pro se debt-collection cases and L&T summary proceedings are
-the dominant case categories at both courts. Use the
-dedicated skills for filing detail.
-
-## City Courts (upstate)
-
-Outside NYC, **City Courts** (Uniform City Court Act) sit in
-~60 cities with civil jurisdiction up to **$15,000**. Major
-examples: Buffalo City Court, Rochester City Court, Syracuse
-City Court, Albany City Court, Yonkers City Court.
-
-E-filing: NYSCEF in many City Courts, expanding.
-
-## Town & Village Justice Courts
-
-Approximately **1,250 Town & Village Justice Courts** across
-the state — the small-claims and minor-civil layer in
-suburban / rural towns. **Civil jurisdiction up to $3,000**;
-small-claims up to **$3,000** (UJCA § 1801).
-
-Justice Courts use a separate set of rules — Uniform Justice
-Court Act (UJCA). Pro se litigation is the norm; the court is
-often a part-time judge in a town hall meeting room.
-
-## Surrogate's Court, Family Court, Court of Claims
-
-Specialized trial courts:
-
-- **Surrogate's Court** — wills, estates, guardianship,
-  adoption (one per county)
-- **Family Court** — child custody/support, juvenile, family
-  offense (one per county, two in NYC boroughs)
-- **Court of Claims** — claims against the State of New
-  York; sits statewide
-
-These are outside the scope of consumer-debt and general-
-civil pro se practice but linked from `ny-law-references`.
+| If your matter is in... | Use this skill |
+|---|---|
+| **NYC Civil Court** (Civil Court Act, $50k cap) | [`ny-nyc-civil-court`] |
+| **NYC Housing Court** (RPAPL Article 7 summary proceedings) | [`ny-nyc-housing-court`] |
+| **Nassau District Court** (UDCA, $15k cap) | [`ny-nassau-dc`] |
+| **Suffolk District Court** (UDCA, $15k cap, western towns + Brookhaven only) | [`ny-suffolk-dc`] |
+| **Upstate City Court** (UCCA, $15k cap, Buffalo/Rochester/Syracuse/Albany/Yonkers/etc.) | [`ny-city-courts`] |
+| **Town or Village Justice Court** (UJCA, $3k cap, ~1,250 courts) | [`ny-justice-courts`] |
+| **Family Court** (FCA: custody, support, family offense, PINS, JD, abuse/neglect) | [`ny-family-court`] |
+| **Surrogate's Court** | wills/estates/guardianship — outside the ny-court-docs scope; consult `ny-law-references` for SCPA citations |
+| **Court of Claims** (22 NYCRR Part 214; claims against the State of NY) | see `ny-law-references` for the 90-day notice-of-intention regime; specialized practice |
 
 ## Cross-references
 
-- `ny-statewide-format` — format baseline (22 NYCRR § 202.5
-  applies to Supreme/County Court; UCCA / UCA / UJCA mirror
-  the format requirements with adjustments)
-- `ny-consumer-debt` — debt cases in Civil Court of the City
-  of New York, Nassau/Suffolk District Courts, and City
-  Courts
-- `ny-landlord-tenant` — Housing Court Part of NYC Civil
-  Court; District Court housing parts on Long Island
-- `ny-file-packet` — NYSCEF / UCMS / county-specific filing
-  protocols
+- `ny-statewide-format` — format baseline (22 NYCRR Part 202
+  applies to Supreme/County Court; the other civil-court
+  layers use their parallel parts in 22 NYCRR with
+  per-court adjustments)
+- `ny-commercial-disputes` — Commercial Division substance
+  for over-threshold cases routing to one of the Supreme
+  Courts above
+- `ny-personal-injury`, `ny-employment` — subject-matter
+  overlays applicable in Supreme Court Civil Term
+- `ny-consumer-debt`, `ny-landlord-tenant` — subject-matter
+  bundles
+- `ny-file-packet` — NYSCEF assembly for Supreme Court
+  filings
