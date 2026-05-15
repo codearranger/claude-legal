@@ -221,6 +221,87 @@ Most states use one of:
 
 Identify the portal and the state's eFiling rule.
 
+### 11. Family-court topology
+
+**This research item is baseline** — every state plugin
+ships the `<abbr>-family-court` venue skill. Research:
+
+- Does the state have a **separate Family Court** trial
+  court or a **Family Division** of the general-
+  jurisdiction trial court? (See the cross-state-quirks
+  catalog for the state-by-state table.)
+- What is the **family-court rule set** (citation)?
+- Is jurisdiction **concurrent** with the regular civil-
+  trial court for any topic? Some states allow custody
+  and / or support to be filed in either the Family Court
+  or the general-jurisdiction court.
+- Are there **support magistrates / referees** that hear
+  matters before a Family Court judge can review? Where
+  applicable, note the standing-objection clock.
+- Does the state provide **right to assigned counsel** for
+  any family-court proceeding beyond abuse and neglect /
+  TPR (which are universal)?
+
+WebFetch sources:
+
+- The state's Office of Court Administration / Judicial
+  Branch website (family-court page)
+- The state's family-court rule set publication URL
+- The state's pro-se family-court self-help center (most
+  states have one)
+
+### 12. State family-law substantive law
+
+The `<abbr>-family-law` subject bundle ships in every
+state plugin's baseline. Research:
+
+- **Family-law code citation** — the state's primary
+  family-law code (some states split between a domestic-
+  relations procedural code and a substantive family code)
+- **Divorce grounds** — no-fault grounds + waiting period;
+  fault grounds still recognized?
+- **Residency requirement** — duration before filing
+- **Property regime** — community-property (CA, TX, WA,
+  AZ, NM, ID, LA, NV, WI) OR equitable-distribution
+  (everyone else)
+- **Child-support guideline model** — income-shares (most
+  states) vs. percentage-of-payor-income vs. Melson formula
+  (rare)
+- **Child-support combined-income cap** — $ amount +
+  effective date (varies; check the state's CS guideline
+  statute)
+- **Child-support modification threshold** — percentage
+  change required (state-specific)
+- **Custody framework** — best-interests-of-child is
+  universal; the state-specific statutory factors vary
+- **Maintenance / spousal support** — duration formula;
+  income-based formula; modification + termination
+  triggers
+- **Common-law marriage** — recognized in the state?
+  (See cross-state-quirks for the catalog.) All states
+  honor marriages valid where contracted.
+- **Family-offense / Order of Protection** — the
+  qualifying-relationship + qualifying-offense + duration
+  framework
+- **Mandatory financial-disclosure form** — the state's
+  divorce-case financial-disclosure form (form name +
+  underlying rule cite)
+- **UCCJEA implementation** — note adoption date + state-
+  specific quirks
+- **UIFSA implementation** — note adoption date + state-
+  specific quirks
+
+WebFetch sources:
+
+- The state's family-law code on the legislature's website
+- The state's child-support guideline calculator (if
+  available online)
+- The state's family-court rules publication
+- State Bar family-law section publications
+
+See [`references/cross-state-quirks.md`](cross-state-quirks.md)
+for the cross-state catalog of family-law variations.
+
 ## State research output
 
 After research, the agent should have a compact summary like:

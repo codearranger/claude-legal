@@ -21,7 +21,7 @@ description: >
   This is a **project-scoped skill** — it lives in .claude/
   skills/ and runs against the marketplace repo as a whole. It
   is NOT a marketplace plugin.
-version: 0.2.0
+version: 0.3.0
 ---
 
 # Scaffold a New State Plugin
@@ -63,14 +63,60 @@ When the user asks to "add [state]", "create a plugin for
 12. **State's collection-agency registration regime** if any
     (e.g., California Debt Collection Licensing Act for debt
     buyers as of 2022)
+13. **Family-court topology** — does the state have a
+    separate Family Court trial court, or does it hear
+    family matters in a Family Division of the general-
+    jurisdiction trial court? Either way, the
+    `<abbr>-family-court` venue skill ships. Note the venue,
+    the rule set, and whether jurisdiction is concurrent
+    with the regular civil-trial court for any topic.
+14. **State's family-law code** — identify the citation
+    (e.g., the state's Domestic Relations Law / Family Code
+    / UDMA enactment / equivalent)
+15. **State's child-support guideline model** — income-
+    shares (most states), percentage-of-payor-income, or
+    Melson formula (rare). Note the statutory cap on
+    combined parental income.
+16. **State's property-distribution regime** — community-
+    property (CA, TX, WA, AZ, NM, ID, LA, NV, WI) vs.
+    equitable-distribution (everyone else).
+17. **State's divorce grounds** — no-fault is now universal
+    but waiting periods and any surviving fault grounds vary.
 
 If the user hasn't supplied all of these, ASK before scaffolding
 — the substance of every skill depends on getting these right.
 
 ## The pattern to mirror
 
-Every state plugin has the same 21-skill shape, parameterized
-by the items above:
+The **23-skill base** is the minimum a new state plugin
+should ship. Baseline coverage includes:
+
+- **All civil court rules** for every civil-trial-court
+  layer in the state (the state's pleading-format rule, its
+  civil-procedure rule set, and the local rules of the
+  flagship counties)
+- **All civil practice** procedural skills (the 21-skill
+  core: format, discovery, hearings, post-judgment, etc.)
+- **All civil substantive laws** in the statutes corpus
+  (the state's procedure code + consolidated-laws articles
+  covering evidence, fees, limitations, exemptions,
+  garnishment, UCC Article 9, consumer-debt statutes)
+- **Family court rules** for the state's family-court venue
+- **Family practice** — the `<abbr>-family-court` venue
+  skill + the `<abbr>-family-law` subject bundle
+- **Family law statutes** (the state's family-law code in
+  the statutes corpus)
+
+States with complex civil-court systems can ship more than
+the 23-skill base — dedicated venue skills for separate
+lower-civil-court layers (housing court, district court,
+city court, justice court, etc.) and additional subject-
+matter bundles (personal injury, employment, commercial
+disputes, etc.) when the state's civil practice justifies
+them. Existing plugins in the marketplace ship between 21
+and 35 skills depending on state complexity.
+
+The 23-skill base, parameterized by the items above:
 
 ```
 plugins/<abbr>-court-docs/
@@ -102,9 +148,29 @@ plugins/<abbr>-court-docs/
     <abbr>-schedule-hearing/
     <abbr>-file-packet/
     <abbr>-submit-order/
-    <abbr>-consumer-debt/      # FDCPA + state UTPA-equivalent +
-                               #   collection-agency law +
-                               #   chain of title
+    <abbr>-family-court/       # Family Court venue skill —
+                               #   custody / support / family
+                               #   offense / paternity / abuse
+                               #   and neglect. Even when the
+                               #   state hears family matters
+                               #   inside a Family Division of
+                               #   Superior Court (rather than
+                               #   a separate Family Court),
+                               #   ship this as a dedicated skill
+                               #   covering the division's rules,
+                               #   intake, and pro-se forms.
+    <abbr>-consumer-debt/      # Subject bundle: FDCPA + state
+                               #   UTPA-equivalent + collection-
+                               #   agency law + chain of title
+    <abbr>-family-law/         # Subject bundle: divorce /
+                               #   custody / support / parenting
+                               #   plan / property distribution
+                               #   / maintenance. Substantive
+                               #   law of the state's family
+                               #   code (UDMA-based, community-
+                               #   property, equitable-
+                               #   distribution — depends on
+                               #   state).
   evals/
     drafting/
     formatting/
@@ -194,16 +260,33 @@ each role. Each template has:
 For each skill, the `references/` directory holds the deep
 dive. Each `<state>-law-references` skill needs:
 
-- `civil-rules.md` — state's civil-procedure rules summarized
+- `civil-rules.md` — state's civil-procedure rules
+  summarized (must cover both general-civil rules AND
+  family-court rules)
 - `evidence-rules.md` — state's evidence code summarized
 - `fees-and-costs.md` — state's fee-shifting framework
 - `local-rules.md` — high-volume courts' local rules
 - `citation-format.md` — state style-manual conventions
-- `key-cases.md` — general-civil precedents
+- `key-cases.md` — general-civil + family-law precedents
 - `online-sources.md` — canonical URLs (the WebFetch catalog)
 - `legal-data-apis.md` — programmatic-access index
-- `court-rules/` — verbatim rule text (populated by future
-  pull script; README + manifest for now)
+- `court-rules/` — **verbatim rule text for both civil and
+  family court rules**. Baseline coverage:
+  - State pleading-format rule
+  - State civil-procedure rule set
+  - State evidence code (where codified as a rule rather
+    than a statute)
+  - **State family-court rule set** — verify this exists as
+    a distinct rule body; check for it even when family law
+    sits in a Family Division of the general-jurisdiction
+    court
+  - Sealing of court records rule (statewide)
+  - Costs and sanctions rule (statewide)
+  - Rules of Professional Conduct
+  - Sub-trial-court rule sets where applicable (state-
+    specific lower civil courts, district courts, city
+    courts, justice / town / village courts, special civil
+    parts, etc.)
 - `federal-debt-laws/` *(symlink)* — points into the shared
   `claude-legal-federal-laws/references/federal-debt-laws/`
   plugin via `../../../../claude-legal-federal-laws/...`. Do
@@ -213,14 +296,37 @@ dive. Each `<state>-law-references` skill needs:
   in plugin.json and run `ln -s` for the symlink.
 - `ucc-model/` *(symlink)* — same shared plugin; same symlink
   target convention. Same dependency.
-- `<state>-statutes-debt/` — state's debt-relevant statute
-  chapters (e.g., for CA: CCP §§ 337, 337a (4-year SOL on
-  contracts); Civil Code §§ 1788 et seq. (Rosenthal Act))
+- `<state>-statutes-debt/` — **state's civil-practice +
+  consumer-debt + family-law statute chapters**. The
+  directory name retains the legacy `debt` slug for path
+  stability across earlier plugins, but the scope is full
+  civil + family practice. Baseline coverage:
+  - **Civil procedure** — state's procedure code
+  - **Evidence** — state's evidence code where statutory
+  - **Limitations** — state's SOL chapter
+  - **Garnishment + exemptions** — state's enforcement +
+    exemption chapter
+  - **UCC** — state's enactment of Articles 2, 3, 9
+  - **Consumer protection** — state's UTPA analog
+  - **Debt collection** — state's mini-FDCPA
+  - **Real Property + summary proceedings** — for L&T cases
+  - **Family law** — state's family-law code
+  - **Family Court / domestic-relations procedure** — where
+    the state codifies it separately from the family-law
+    substantive code
+  - **General Construction / holidays** — for the case-
+    calendar script
 
-### Step 5: Build the consumer-debt bundle
+### Step 5: Build the two baseline subject-matter bundles
 
-The `<state>-consumer-debt` skill is the substantive
-centerpiece. Mirror the OR pattern:
+The plugin ships with **two baseline subject-matter bundles**:
+`<state>-consumer-debt` and `<state>-family-law`. Both
+follow the OR + CO precedent for bundle structure.
+
+#### 5.A — `<state>-consumer-debt`
+
+The substantive centerpiece for consumer-debt defense. Mirror
+the OR pattern:
 
 - `SKILL.md` — overview with 5 fact-pattern triage
 - `references/fdcpa.md` — state-specific framing / cites to the
@@ -262,6 +368,60 @@ centerpiece. Mirror the OR pattern:
 - `references/examples/` — 6 synthetic example filings
   (answer, declaration, motion to compel, M&C, proposed
   order, certificate of service)
+
+#### 5.B — `<state>-family-law`
+
+The substantive bundle for divorce / annulment / legal
+separation / custody / child support / maintenance. Use
+the `family-law-template.md` skill template as the starting
+shape:
+
+- `SKILL.md` — overview with state-specific family-law
+  framework. Cover: divorce grounds + waiting period;
+  property distribution regime (community vs. equitable);
+  child-support guideline model + statutory cap; custody
+  / parenting-time framework + best-interests standard;
+  maintenance / spousal support; modification thresholds;
+  common-law marriage status; UCCJEA + UIFSA jurisdictional
+  framework.
+- `references/dissolution.md` — divorce mechanics; petition
+  + response + service; mandatory financial disclosures;
+  waiting period; default vs. contested
+- `references/annulment.md` — declaration-of-invalidity
+  grounds (varies materially by state — fraud, duress,
+  bigamy, age, incapacity, prohibited relationship)
+- `references/legal-separation.md` — where available
+- `references/property-distribution.md` — community-property
+  presumptions or equitable-distribution factors; valuation
+  of marital business interests; commingling doctrines
+- `references/child-support.md` — guideline calculation;
+  income imputation rules; deviation grounds; cap on
+  combined-income; modification threshold (percentage
+  change required to trigger review; state-specific)
+- `references/parenting-plan.md` — decision-making
+  allocation; parenting time (overnights); relocation
+  notice + standard for permission
+- `references/maintenance.md` — duration formulas; income-
+  based formulas where applicable; modification +
+  termination triggers
+- `references/family-offense.md` — Order of Protection
+  framework; qualifying-relationship + qualifying-offense
+  catalog; duration; firearm-surrender mechanics
+- `references/uccjea.md` — Uniform Child Custody
+  Jurisdiction and Enforcement Act implementation in state;
+  home-state jurisdiction analysis
+- `references/uifsa.md` — Uniform Interstate Family Support
+  Act implementation in state
+- `references/common-law-marriage.md` — for the handful of
+  states that still recognize it (note the test the state
+  applies; otherwise note that the state honors marriages
+  valid where contracted)
+- `references/forms.md` — state-specific divorce / custody /
+  child-support forms (the state's pro-se form catalog)
+- `references/examples/` — 4-6 synthetic example filings:
+  petition for dissolution, sworn financial statement,
+  parenting-plan / custody motion, child-support
+  modification motion
 
 ### Step 6: Scripts
 
@@ -315,6 +475,108 @@ new SKILL.md. Commit with a substantive message describing
 what shipped. Push to the user's designated branch.
 
 ## Important rules
+
+### CRITICAL: No cross-state references inside the plugin
+
+Plugins install **one state at a time**. End users will not
+have WA + OR + CA + CO + IN installed alongside the new
+state's plugin. Comparisons to other states inside SKILL.md
+bodies, eval bodies, plugin.json descriptions, or reference
+READMEs are pure noise to the end user and **must be
+removed before the plugin ships**.
+
+What this means in practice when authoring the new plugin:
+
+- **Don't frame state-specific quirks comparatively.** Write
+  the rule directly. ❌ "Unlike State-X's no-interrogatories
+  rule, this state allows 25 interrogatories." ✓ "This
+  state allows 25 interrogatories under [cite]."
+- **Don't reference sibling-state SKILL.md files.** The new
+  plugin's `README.md`, `evals/README.md`, and reference-
+  corpus READMEs must not say "see `xx-court-docs/evals/`"
+  or "mirrors `yy-court-docs/skills/yy-law-references/...`".
+  The end user will not have those plugins installed.
+- **Don't import another state's terminology.** Each state
+  has its own pleading and motion vocabulary; don't carry
+  over labels from a state whose practice you happen to
+  know.
+- **Don't use "the same as State-X's [rule]" framing.** Cite
+  the state's own rule directly.
+
+**Internal cross-references between skills in the SAME plugin
+are fine** and encouraged — e.g., `<abbr>-discovery`
+referencing `<abbr>-statewide-format` is exactly what the
+marketplace runtime expects.
+
+**Final scaffold step**: run a cross-state-reference grep
+before committing. Anything that turns up needs either
+deletion or rewording into a state-only statement:
+
+```bash
+# In the new plugin's directory:
+grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
+|wa-court-docs|or-court-docs|ca-court-docs|co-court-docs|in-court-docs|ny-court-docs\
+|like (Oregon|California|Colorado|Indiana|Washington|New York)\
+|unlike (Oregon|California|Colorado|Indiana|Washington|New York)\
+|federal/(WA|OR|CA|CO|IN|NY)" plugins/<abbr>-court-docs/ \
+  --include="*.md" --include="*.json"
+```
+
+**False-positive watch:** the scan will hit:
+
+- **"Washington's Birthday"** as the legal name of the
+  federal holiday — that's the actual statute language in
+  most states' General Construction or Government Codes,
+  **not** a cross-state comparison. Keep it.
+- **`in-person`** as a hyphenated phrase — matches the
+  `\bin-` pattern when looking for `in-court-docs`
+  references. Keep it.
+- **`co-parents`, `co-counsel`, `co-defendant`** — match
+  the `\bco-` pattern. Keep them.
+- **Verbatim statutory text from the state's own
+  consolidated laws** — many states' General Construction
+  laws name federal holidays after the figures they honor;
+  that's literal statute, not a cross-state reference.
+
+Distinguish state-as-comparison from state-as-statute-author
+before deleting.
+
+### Verify URL slugs, locationIds, and Part numbers against the live source
+
+**Don't rely on memory or example data for state-specific
+identifiers.** Past authorship has produced silent puller
+failures from each of these patterns:
+
+- **Adjacent rule-Part numbers get conflated** — it is easy
+  to label a Part with the wrong subject matter when several
+  Parts in the same numbering range cover related but
+  distinct courts. Always verify each Part's title against
+  the live index.
+- **Title vs. Article numbering confusion** — some state
+  consolidated laws use Title numbers (T5, T17); others use
+  Article numbers (A5, A17). Don't infer the format from a
+  secondary source — probe the API or HTML for the canonical
+  identifier shape.
+- **Hyphenated vs. unhyphenated sub-articles** — sub-
+  articles like `A22-A` vs. `A22A` (or any equivalent
+  hyphenation choice) often only resolve in one form. Probe
+  the actual identifier the API accepts.
+- **Topic-to-law assignment is not always intuitive** — a
+  topic that seems like it should be in one statute (e.g.,
+  child support in a state's Domestic Relations Law) may
+  actually live in a different code (e.g., Family Court
+  Act). Verify which law owns each topic.
+- **CMS migrations change URL patterns** — court-rules
+  publishing sites migrate frequently. Legacy URLs may
+  redirect to an index page rather than the actual rule
+  content. Discover the actual URL slug at fetch time
+  rather than assuming the pattern that worked yesterday.
+
+The right pattern: probe the live API or HTML index for the
+state's source-of-truth identifiers before populating the
+puller's target catalog. See
+[`references/puller-design-lessons.md`](references/puller-design-lessons.md)
+for the full discipline.
 
 ### Do NOT search-and-replace WA or OR
 
@@ -389,15 +651,24 @@ don't scale.
 ## References
 
 - `references/checklist.md` — step-by-step checklist for the
-  manual path
+  manual path, including the pre-commit cross-state-reference
+  scan and post-commit verification phases
 - `references/skill-templates/` — canonical SKILL.md templates
-  for each of the 21 roles, with placeholders for state-
+  for each of the 21 base roles, with placeholders for state-
   specific content
 - `references/state-research-protocol.md` — how to research a
   new state's procedural rules from authoritative sources
 - `references/cross-state-quirks.md` — known procedural
-  quirks across the most-populous states, useful for
-  flagging in the new plugin's skill descriptions
+  quirks across the most-populous states, useful for the
+  initial-research phase (**do not import these comparisons
+  into the new plugin's bodies** — they go in the developer's
+  understanding, not the end-user-facing skill text)
+- `references/puller-design-lessons.md` — technical patterns
+  for writing the state's `pull_<state>_*.py` scripts:
+  curl_cffi + Chrome TLS impersonation for Cloudflare bypass,
+  API-key conditional patterns, prefetch-and-slice, literal-
+  `\n` decoding, regression protection (`_file_is_stub`), and
+  workflow-yaml integration
 - `references/scaffold-script.md` — usage notes for
   `scripts/scaffold-state.py`
 - `scripts/scaffold-state.py` — the scaffolder

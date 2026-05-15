@@ -28,12 +28,126 @@ Before touching the codebase, gather the inputs. See
       the two flagship counties)
 - [ ] State legal-holiday list (federal + any state-specific)
 - [ ] State analog to FDCPA at state level (e.g., California
-      Rosenthal Act, Tex. Bus. & Com. Code Ch. 392, NY GBL
-      § 600)
+      Rosenthal Act, Tex. Bus. & Com. Code Ch. 392)
 - [ ] State collection-agency registration regime if any
 - [ ] State statute of limitations on written contract debt
       (typically 3–6 years)
 - [ ] Court eFiling system (state-specific portal)
+
+### Family law — baseline research items
+
+The `<abbr>-family-court` venue skill and `<abbr>-family-
+law` subject bundle ship as part of the baseline. Research
+these state-specific items before authoring either:
+
+- [ ] **Family-court topology** — separate Family Court
+      trial court OR Family Division of the general-
+      jurisdiction trial court?
+- [ ] **Family-court rule set** — citation
+- [ ] **Family-law code** — citation
+- [ ] **Divorce grounds** — no-fault waiting period; fault
+      grounds catalog if still recognized
+- [ ] **Residency requirement** — duration before filing
+- [ ] **Property regime** — community-property (CA, TX,
+      WA, AZ, NM, ID, LA, NV, WI) vs. equitable-
+      distribution (everyone else)
+- [ ] **Child-support guideline model** — income-shares
+      (most states) vs. percentage-of-payor-income
+      (shrinking minority) vs. Melson formula (rare)
+- [ ] **Child-support combined-income cap** — $ amount +
+      effective date
+- [ ] **Modification threshold for child support** —
+      percentage change required to revisit
+- [ ] **Custody standard** — best-interests is universal;
+      statutory factors are state-specific
+- [ ] **Maintenance / spousal-support framework** —
+      duration formula; income-based formula where
+      applicable; modification + termination triggers
+- [ ] **Common-law marriage** — recognized in the state?
+      As of 2026: yes in CO, IA, KS, MT, RI, SC (pre-2019),
+      TX, UT, DC. All other states honor marriages valid
+      where contracted.
+- [ ] **Family-court forms catalog** — state's pro-se form
+      numbering
+- [ ] **Support magistrate / referee structure** — where
+      applicable, the judicial layer that hears support
+      matters before a Family Court Judge can review
+- [ ] **Right to assigned counsel** — which family-court
+      proceedings provide assigned counsel (typically
+      abuse-and-neglect respondents; sometimes family-
+      offense respondents facing protective orders;
+      sometimes termination of parental rights)
+- [ ] **UCCJEA implementation** — verify the state has
+      adopted UCCJEA (all 50 states + DC have) and note
+      any state-specific quirks
+- [ ] **UIFSA implementation** — verify the state has
+      adopted UIFSA (all 50 states + DC have)
+
+### Civil-court venue layers — survey before deciding on
+### dedicated skills
+
+Don't assume the state has a flat Superior/Supreme + county-
+courts topology. Some states have civil-court layers that
+justify **dedicated venue skills** rather than rolling
+everything into the county-courts roll-up:
+
+- [ ] Does the state have a separate **lower civil court**
+      with a monetary cap below the general-jurisdiction
+      trial court (e.g., a "Civil Court" or "Special Civil
+      Part" under its own act)? If so, consider a dedicated
+      skill.
+- [ ] Does the state have a **dedicated housing court** as
+      a separate trial court or a structurally distinct
+      part of the lower civil court? Often worth dedicated
+      coverage given volume.
+- [ ] Does the state have **District Courts** as an
+      intermediate civil layer between Justice/Town courts
+      and Superior/Supreme? Dedicated skills.
+- [ ] Does the state have **City Courts** distinct from
+      rural Justice Courts? Both layers may warrant their
+      own skill.
+- [ ] Does the state have a separate **Family Court** trial
+      court (vs. a Family Division of the general-
+      jurisdiction court)? The `<abbr>-family-court` venue
+      skill always ships in the baseline, but the body
+      framing differs.
+
+The shape of the state's trial-court system dictates the
+total skill count. Existing plugins in the marketplace
+range from 21 to 35 skills.
+
+### Phase 0.5 — Probe the live upstream
+
+Before authoring the puller's target catalog, verify
+identifiers against the actual source-of-truth API or HTML
+index. Common pitfalls:
+
+- [ ] Confirm the URL pattern is current (CMS migrations
+      change paths; legacy URLs often redirect to an index
+      page rather than to the rule content)
+- [ ] Confirm Part / Article numbering against the live
+      index (adjacent Parts get conflated easily — never
+      infer a Part's title from the table-of-contents
+      ordering)
+- [ ] Confirm Article identifiers match the API's
+      `locationId` format (hyphenated vs. unhyphenated
+      sub-articles often look interchangeable but only one
+      resolves)
+- [ ] Confirm which **law** owns each topic — a topic that
+      seems like it should be in one statute may live in
+      another (e.g., procedural details may sit in the
+      domestic-relations procedural code rather than in the
+      substantive family-law code)
+- [ ] If the upstream has an API: probe the JSON response
+      shape (e.g., `{documents: {items: [...]}}` vs.
+      `{documents: [...]}`) before assuming the walker
+      structure
+- [ ] If the upstream has authentication: identify whether
+      it's an API key, OAuth, or something else; register
+      for any keys before the puller is wired into CI
+
+See [`puller-design-lessons.md`](puller-design-lessons.md)
+for the full puller-design discipline.
 
 ## Phase 1 — Plugin manifest
 
@@ -84,7 +198,10 @@ Before touching the codebase, gather the inputs. See
   - [ ] `<abbr>-schedule-hearing/`
   - [ ] `<abbr>-file-packet/`
   - [ ] `<abbr>-submit-order/`
+  - [ ] `<abbr>-family-court/` (NEW BASELINE — venue skill)
   - [ ] `<abbr>-consumer-debt/references/examples/`
+  - [ ] `<abbr>-family-law/references/examples/` (NEW
+        BASELINE — subject bundle alongside consumer-debt)
 - [ ] Create `plugins/<abbr>-court-docs/scripts/`
 - [ ] Create `plugins/<abbr>-court-docs/evals/` with the five
       subdirs: drafting, formatting, procedural, subject-
@@ -92,9 +209,10 @@ Before touching the codebase, gather the inputs. See
 
 ## Phase 3 — SKILL.md files
 
-For each of the 21 skills, author a `SKILL.md` using the
-matching template in `skill-templates/`. Required for every
-SKILL.md:
+For each of the 23 base skills (plus any additional venue
+or subject-matter skills the state warrants), author a
+`SKILL.md` using the matching template in `skill-templates/`.
+Required for every SKILL.md:
 
 - [ ] YAML frontmatter with `name`, `description`, `version`
 - [ ] `name` exactly matches the containing directory
@@ -103,6 +221,11 @@ SKILL.md:
 - [ ] Body with substantive content (not just "TODO")
 - [ ] Cross-references to other skills in the plugin
 - [ ] Disclaimer ("NOT LEGAL ADVICE...")
+- [ ] **NO cross-state references** — see Phase 8
+      verification grep. Don't write "the same as Washington's
+      GR 14", "unlike Oregon's no-interrogatories rule",
+      "California's In Pro Per" comparisons. State the rule
+      directly without comparing.
 
 Run lint after each batch:
 ```bash
@@ -227,6 +350,56 @@ specific law.
 - [ ] `examples/example-proposed-order.md`
 - [ ] `examples/example-certificate-of-service.md`
 
+### `<abbr>-family-court/references/`
+
+The venue skill's reference content. Use the
+`family-court-template.md` as the starting shape (no
+separate references dir is required — the SKILL.md body
+carries the substantive coverage), but include these where
+state-specific:
+
+- [ ] `forms-catalog.md` — state's family-court pro-se form
+      catalog
+- [ ] `support-magistrate-procedure.md` (where applicable)
+- [ ] `confidentiality-and-sealing.md`
+
+### `<abbr>-family-law/references/`
+
+The substantive bundle. Mirror `co-family-law` structure:
+
+- [ ] `SKILL.md` (main bundle)
+- [ ] `dissolution.md` — divorce mechanics + procedural
+      flow
+- [ ] `annulment.md` — declaration-of-invalidity grounds
+- [ ] `legal-separation.md` — where state recognizes
+- [ ] `property-distribution.md` — community-property
+      presumptions OR equitable-distribution factors
+- [ ] `child-support.md` — guideline framework + cap +
+      modification threshold
+- [ ] `parenting-plan.md` — decision-making + parenting
+      time + relocation
+- [ ] `maintenance.md` — spousal-support / alimony
+      framework + modification
+- [ ] `family-offense.md` — Order of Protection
+      framework + qualifying-relationship + qualifying-
+      offense
+- [ ] `uccjea.md` — Uniform Child Custody Jurisdiction +
+      Enforcement Act implementation
+- [ ] `uifsa.md` — Uniform Interstate Family Support Act
+      implementation
+- [ ] `common-law-marriage.md` — state's status; if
+      recognized, the test + modernizing case law
+- [ ] `forms.md` — state-specific divorce + custody + CS
+      forms
+- [ ] `key-cases.md` — state appellate family-law
+      precedents
+- [ ] `online-sources.md` — state's family-court / self-
+      help / form-catalog URLs
+- [ ] `examples/example-petition-for-dissolution.md`
+- [ ] `examples/example-sworn-financial-statement.md`
+- [ ] `examples/example-parenting-plan-motion.md`
+- [ ] `examples/example-cs-modification-motion.md`
+
 ## Phase 5 — Scripts
 
 - [ ] Adapt `plugins/<abbr>-court-docs/scripts/format-check.py`
@@ -245,15 +418,22 @@ specific law.
 
 ## Phase 6 — Evals
 
-Mirror the OR eval categories. Author at least 18 evals (the
-OR plugin has 18; aim for parity):
+Author at least **20 evals** across the five categories.
+Both subject-matter bundles ship in the baseline, so the
+subject-matter category needs evals covering both:
 
 - [ ] `evals/README.md`
 - [ ] `evals/drafting/` — 4 evals
 - [ ] `evals/formatting/` — 4 evals
-- [ ] `evals/procedural/` — 8 evals
-- [ ] `evals/subject-matter/` — 6 evals on consumer-debt
-- [ ] `evals/integration/` — 2 evals
+- [ ] `evals/procedural/` — 7-8 evals
+- [ ] `evals/subject-matter/` — 6-8 evals split between
+      consumer-debt (chain-of-title, SOL, mini-FDCPA,
+      default-judgment scrutiny) AND family-law
+      (child-support calculation, custody best-interests,
+      family-offense OP elements, property-distribution
+      regime)
+- [ ] `evals/integration/` — 2 evals (one end-to-end on
+      each bundle's flagship fact pattern)
 
 ## Phase 7 — Marketplace updates
 
@@ -273,6 +453,8 @@ OR plugin has 18; aim for parity):
 
 ## Phase 8 — Verification
 
+### Lint + scripts
+
 - [ ] Run `python3 scripts/lint-skills.py` — must show 0 fails
 - [ ] Run the new plugin's `format-check.py` against a sample
       `.docx` to verify it works
@@ -282,6 +464,74 @@ OR plugin has 18; aim for parity):
       substance (not just template stubs)
 - [ ] Spot-check a few cross-references — broken paths are
       common
+
+### Cross-state-reference scan (must come back clean)
+
+Run this grep over the new plugin's tree before commit. Any
+hit needs to be resolved before the plugin ships:
+
+```bash
+grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
+|wa-court-docs|or-court-docs|ca-court-docs|co-court-docs|in-court-docs|ny-court-docs\
+|like (Oregon|California|Colorado|Indiana|Washington|New York)\
+|unlike (Oregon|California|Colorado|Indiana|Washington|New York)\
+|federal/(WA|OR|CA|CO|IN|NY)" plugins/<abbr>-court-docs/ \
+  --include="*.md" --include="*.json"
+```
+
+- [ ] Grep returns no real hits (false positives like
+      `Washington's Birthday` as a holiday name, `in-person`,
+      `co-parents`, or verbatim statutory text mentioning a
+      state name are OK — distinguish before deleting)
+- [ ] No SKILL.md cross-references another state's plugin
+- [ ] No reference-corpus README cross-references another
+      state's plugin
+- [ ] No evals/README.md "see WA / OR / CA / etc. evals"
+      section
+
+### JSON validation
+
+- [ ] `python3 -m json.tool .claude-plugin/marketplace.json`
+      — must round-trip
+- [ ] `python3 -m json.tool plugins/<abbr>-court-docs/.claude-plugin/plugin.json`
+      — must round-trip
+- [ ] Any `_manifest.json` files produced by pull scripts
+      round-trip cleanly
+- [ ] Long description strings have all internal double
+      quotes backslash-escaped (`\"`)
+
+### Internal cross-reference resolution
+
+Run this scan to confirm every `<state>-XXX` reference inside
+the plugin resolves to an actual skill directory:
+
+```bash
+for f in plugins/<abbr>-court-docs/skills/*/SKILL.md; do
+  base=$(basename $(dirname $f))
+  grep -oE '<abbr>-[a-z0-9][a-z0-9-]+' "$f" | sort -u | while read ref; do
+    if [ "$ref" = "$base" ] || [ "$ref" = "<abbr>-court-docs" ]; then continue; fi
+    if [ ! -d "plugins/<abbr>-court-docs/skills/$ref" ]; then
+      echo "  $base -> BROKEN: $ref"
+    fi
+  done
+done
+```
+
+- [ ] No broken cross-references reported
+
+### Verbatim corpus sanity
+
+If pull scripts ran successfully:
+
+- [ ] At least one statute / rule file is > 5 KB (most should
+      be much larger — sub-1 KB usually means the puller got
+      a navigation page or stub instead of content)
+- [ ] Spot-check one file's section text against the canonical
+      source — no embedded `\n` literal sequences, no
+      duplicated section headings, no Cloudflare interstitial
+      text
+- [ ] `_manifest.json` reflects today's date and the correct
+      mode (`api` vs `stubs`)
 
 ## Phase 9 — Commit
 
