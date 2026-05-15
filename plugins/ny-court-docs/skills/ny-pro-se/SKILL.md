@@ -53,7 +53,8 @@ Dated: [City], New York
 Key conventions:
 
 - Use **"Self-Represented Plaintiff"** or **"Self-Represented
-  Defendant"** — NY does not use California's "In Pro Per"
+  Defendant"** — this is the NY convention; "In Pro Per" and
+  similar labels from other jurisdictions are not used here
 - **No bar number** (because no attorney admission)
 - **Email is recommended** even for paper filings — NYSCEF
   service goes through email, and email service after
@@ -120,9 +121,8 @@ New York with these state-specific adjustments:
    motions** — use the actual CPLR section's name (e.g.,
    "motion to dismiss under CPLR 3211(a)(7)" not "motion to
    dismiss for failure to state a claim")
-6. **Avoid declaration; use affirmation or affidavit** —
-   New York does not use the federal/California
-   "declaration" terminology
+6. **Avoid "declaration"; use affirmation or affidavit** —
+   "declaration" is not NY civil-practice terminology
 
 ## Service of process (CPLR Article 3)
 

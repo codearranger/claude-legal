@@ -72,8 +72,3 @@ the skill can look up a named rule.
   and case names match the canonical sources.
 - When a skill is edited, at minimum run the eval in its own
   folder plus any integration evals that touch that skill.
-
-## Cross-references
-
-- `or-court-docs/evals/` — the parallel OR evals
-- `ca-court-docs/evals/` — the parallel CA evals

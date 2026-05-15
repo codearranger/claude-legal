@@ -68,9 +68,7 @@ Conference order often fixes a different response date).
 - **CPLR 3133(b)**: response in writing, signed and verified
   by the responding party (corporate parties: an officer)
 
-The 25-cap is the same as federal (FRCP 33). Note this is
-**different from Oregon (no interrogatories without court
-order under ORCP) and California (35 specials)**.
+The 25-cap is the same as the federal limit under FRCP 33.
 
 ### 3. Notice to Admit (CPLR 3123)
 

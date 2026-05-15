@@ -27,9 +27,8 @@ version: 0.1.0
 > **NOT LEGAL ADVICE.** This skill provides drafting assistance
 > only. Verify against current rules and case law before filing.
 
-New York has no single, all-encompassing format rule the way
-Washington has GR 14 or California has CRC 2.100. Format
-requirements live across three layers:
+New York has no single, all-encompassing format rule.
+Format requirements live across three layers:
 
 1. **22 NYCRR § 202.5** — Uniform Civil Rules for the Supreme
    Court and County Court: page/font/margin rules for paper

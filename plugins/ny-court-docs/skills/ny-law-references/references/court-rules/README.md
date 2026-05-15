@@ -52,12 +52,6 @@ corpus, the **canonical URL recorded in the stub remains valid in a
 browser**; the stub is just a documentation gap until the puller
 clears the upstream gate.
 
-This is the same architectural choice as
-`co-court-docs/skills/co-law-references/references/court-rules/`,
-where the C.R.C.P. / CRE / C.A.R. / Colo. RPC are paywalled and ship
-as pointer stubs while the Chief Justice Directives are pulled
-verbatim.
-
 ## File index
 
 | File | Rule set | Scope |

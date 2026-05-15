@@ -28,8 +28,8 @@ do I need to do to be ready?
 
 ## Common failure modes
 
-- Defaults to Zoom or WebEx (used by OR and CA respectively;
-  Teams is NY's default)
+- Defaults to Zoom or WebEx; Teams is NY's default
+  remote-appearance platform
 - Suggests reading directly from a written speech
 - Doesn't note that some Justices' Parts still prefer
   in-person appearances; advises checking the Part Rules

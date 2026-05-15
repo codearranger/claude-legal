@@ -11,10 +11,11 @@ description: >
   amended CPLR 2106 (post-2023 — any person may affirm
   under penalty of perjury without a notary) or a traditional
   CPLR 2309 affidavit, conformed to CPLR 2101 paper-format
-  rules. **Note**: NY uses "affirmation/affidavit" terminology
-  — not the federal/California "declaration" word. This skill
-  is named draft-declaration for cross-state symmetry but
-  produces NY-correct affirmations/affidavits.
+  rules. **Note**: NY uses "affirmation/affidavit"
+  terminology — the word "declaration" does not appear in
+  NY civil practice. This skill is named draft-declaration
+  for filename consistency but produces NY-correct
+  affirmations/affidavits.
 version: 0.1.0
 ---
 
@@ -159,9 +160,8 @@ an affirmation is also routinely stricken.
 
 ## Exhibit attachment conventions
 
-- **Lettered**: Exhibits A, B, C... (NY uses letters more
-  often than numbers, opposite of California's number
-  convention)
+- **Lettered**: Exhibits A, B, C... (NY convention; numbered
+  exhibits are uncommon)
 - **Tabbed**: for paper filings, tabbed dividers
 - **Bookmarked**: for NYSCEF/PDF filings, PDF bookmarks at
   the start of each exhibit

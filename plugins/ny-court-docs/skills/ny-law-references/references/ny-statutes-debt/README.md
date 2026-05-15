@@ -51,12 +51,12 @@ python3 scripts/pull_ny_statutes.py --workers 4 --stubs-only \
 python3 scripts/pull_ny_statutes.py --only CVP-Article-31-Disclosure
 ```
 
-The puller mirrors `pull_indiana_statutes.py`'s **conditional-API**
-pattern: when `NYSENATE_API_KEY` is set, it pulls verbatim JSON from
-the Open Legislation API and renders Markdown. When the key is unset,
-it writes well-formed pointer stubs so the corpus's shape is honest
-about the gap. A successful API-mode refresh never regresses existing
-verbatim content to a stub.
+The puller follows a **conditional-API** pattern: when
+`NYSENATE_API_KEY` is set, it pulls verbatim JSON from the Open
+Legislation API and renders Markdown. When the key is unset, it
+writes well-formed pointer stubs so the corpus's shape is honest
+about the gap. A successful API-mode refresh never regresses
+existing verbatim content to a stub.
 
 ## File naming convention
 

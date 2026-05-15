@@ -184,8 +184,7 @@ creditor + the assignor chain.
   of title
 - `references/rfa-debt-buyer.md` — Notice to Admit bank
 - `references/interrogatories-debt-buyer.md` — 25-interrogatory
-  bank targeting chain of title (NY allows interrogatories
-  under CPLR 3130, unlike Oregon)
+  bank targeting chain of title (CPLR 3130 / 3133(b))
 - `references/meet-and-confer-debt-buyer.md` — 22 NYCRR §
   202.20-f conferral templates
 - `references/ucc-article-9.md` — N.Y. UCC Article 9
