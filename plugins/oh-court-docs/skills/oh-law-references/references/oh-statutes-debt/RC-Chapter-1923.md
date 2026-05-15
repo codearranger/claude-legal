@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 1923 — Forcible Entry and Detainer (Eviction)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-1923
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 

@@ -1,7 +1,7 @@
 # Ohio Rules of Superintendence (Sup. R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/Superintendence.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;

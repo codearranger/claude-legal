@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 1309 — Uniform Commercial Code — Secured Transactions (Article 9)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-1309
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 

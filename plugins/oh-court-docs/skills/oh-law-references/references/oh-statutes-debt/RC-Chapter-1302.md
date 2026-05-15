@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 1302 — Uniform Commercial Code — Sales (Article 2)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-1302
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 

@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 2151 — Juvenile Court — Abuse, Neglect, Dependency
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-2151
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 

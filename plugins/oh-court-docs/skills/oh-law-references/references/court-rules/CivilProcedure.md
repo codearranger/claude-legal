@@ -1,7 +1,7 @@
 # Ohio Rules of Civil Procedure (Civ. R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/civil/CivilProcedure.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;
@@ -9748,11 +9748,12 @@ ah.
 
 4.    Arabic
 
-                                                                                                           :‫***ﻣﻼﺣﻈﺔ ﻣﺘﻌﺪدة اﻟﻠﻐﺎت‬
+                                                                                                          :‫***ﻣﻼﺣﻈﺔ ﻣﺘﻌﺪدة اﻟﻠﻐﺎت‬
 
-‫ ﻓﻘﺪ ﺗﺼﺪر اﻟﻤﺤﻜﻤﺔ ﺣﻜﻤً ﺎ ﺿﺪك ﺑﺎﻟﺘﻌﻮﯾﺾ‬،‫ ﯾﻮﻣً ﺎ؛ وإذا ﻟﻢ ﺗﻘﻢ ﺑﺎﻟﺮد‬28 ‫ ﯾﺠﺐ أن ﺗﻘﺪم ردًا ﺧﻼل‬.‫ﻟﻘﺪ ﺗﻢ اﻋﺘﺒﺎرك ﻣﺪﻋﻰ ﻋﻠﯿﮫ ﻓﻲ ھﺬه اﻟﻤﺤﻜﻤﺔ‬
-‫ ﻓﻠﻦ ﺗُﻌﺪ ﻋﺪم ﻗﺪرﺗﻚ ﻋﻠﻰ ﻓﮭﻢ اﻟﻠﻐﺔ اﻹﻧﺠﻠﯿﺰﯾﺔ أو ﻛﺘﺎﺑﺘﮭﺎ أو ﺗﺤﺪﺛﮭﺎ‬. ٍ‫ اطﻠﺐ اﻟﻤﺴﺎﻋﺪة ﻣﻦ ﻣﺘﺮﺟﻢ ﻓﻮري وﻣﺤﺎم‬.‫اﻟﻤﻨﺼﻮص ﻋﻠﯿﮫ ﻓﻲ ھﺬه اﻟﺸﻜﻮى اﻟﻘﻀﺎﺋﯿﺔ‬
-                                                                                                           .‫دﻓﺎﻋًﺎ ﻟﻚ أﻣﺎم اﻟﺤﻜﻢ اﻟﻤﺤﺘﻤﻞ ﺿﺪك‬
+‫ ﻓﻘﺪ ﺗﺼﺪر اﻟﻤﺤﻜﻤﺔ ﺣﻜ ًﻤﺎ ﺿﺪك ﺑﺎﻟﺘﻌﻮﯾﺾ‬،‫ ﯾﻮ ًﻣﺎ؛ وإذا ﻟﻢ ﺗﻘﻢ ﺑﺎﻟﺮد‬28 ‫ ﯾﺠﺐ أن ﺗﻘﺪم ردًا ﺧﻼل‬.‫ﻟﻘﺪ ﺗﻢ اﻋﺘﺒﺎرك ﻣﺪﻋﻰ ﻋﻠﯿﮫ ﻓﻲ ھﺬه اﻟﻤﺤﻜﻤﺔ‬
+‫ ﻓﻠﻦ ﺗُﻌﺪ ﻋﺪم ﻗﺪرﺗﻚ ﻋﻠﻰ ﻓﮭﻢ اﻟﻠﻐﺔ اﻹﻧﺠﻠﯿﺰﯾﺔ أو ﻛﺘﺎﺑﺘﮭﺎ أو ﺗﺤﺪﺛﮭﺎ‬.‫وﻣﺤﺎم‬
+                                                                 ٍ     ‫ اطﻠﺐ اﻟﻤﺴﺎﻋﺪة ﻣﻦ ﻣﺘﺮﺟﻢ ﻓﻮري‬.‫اﻟﻤﻨﺼﻮص ﻋﻠﯿﮫ ﻓﻲ ھﺬه اﻟﺸﻜﻮى اﻟﻘﻀﺎﺋﯿﺔ‬
+                                                                                                         .‫دﻓﺎﻋًﺎ ﻟﻚ أﻣﺎم اﻟﺤﻜﻢ اﻟﻤﺤﺘﻤﻞ ﺿﺪك‬
 
 5.    Chinese (Simplified)
 
@@ -11965,7 +11966,7 @@ INFORMATION CHANGES.
  Uniform Domestic Relations Form 8
  COUNTERCLAIM FOR DIVORCE WITHOUT CHILDREN
  Approved under Ohio Civil Rule 84
- (IIHFWLYH'DWH6HSWHPEHU                                                                        Page 1 of 3
+ (IIHFWLYH'DWH6HSWHPEHU                                                                       Page 1 of 3
 
  4.      Neither party is pregnant OR      a party is pregnant.
 
@@ -12021,7 +12022,7 @@ Supreme Court of Ohio
 Uniform Domestic Relations Form 8
 COUNTERCLAIM FOR DIVORCE WITHOUT CHILDREN
 Approved under Ohio Civil Rule 84
-(IIHFWLYH'DWH6HSWHPEHU                                                                        Page 2 of 3
+(IIHFWLYH'DWH6HSWHPEHU                                                                       Page 2 of 3
 
                                          CERTIFICATE OF SERVICE
                                          (Check the boxes that apply)
@@ -12047,7 +12048,7 @@ Supreme Court of Ohio
 Uniform Domestic Relations Form 8
 COUNTERCLAIM FOR DIVORCE WITHOUT CHILDREN
 Approved under Ohio Civil Rule 84
-(IIHFWLYH'DWH6HSWHPEHU                                                                    Page 3 of 3
+(IIHFWLYH'DWH6HSWHPEHU                                                                   Page 3 of 3
 
                                  IN THE COURT OF COMMON PLEAS
                              ______________________________ DIVISION
@@ -12261,7 +12262,7 @@ City, State and Zip Code
  Uniform Domestic Relations Form 10
  ANSWER TO COMPLAINT FOR DIVORCE WITHOUT CHILDREN
  Approved under Ohio Civil Rule 84
- (IIHFWLYH'DWH6HSWHPEHU                                                                          Page 1 of 3
+ (IIHFWLYH'DWH6HSWHPEHU                                                                         Page 1 of 3
 
 ADMIT   DENY
                  3.   The date of Plaintiff and Defendant’s marriage stated in the Complaint.
@@ -12302,7 +12303,7 @@ Supreme Court of Ohio
 Uniform Domestic Relations Form 10
 ANSWER TO COMPLAINT FOR DIVORCE WITHOUT CHILDREN
 Approved under Ohio Civil Rule 84
-(IIHFWLYH'DWH6HSWHPEHU                                                                      Page 2 of 3
+(IIHFWLYH'DWH6HSWHPEHU                                                                     Page 2 of 3
 
 Defendant requests: (select one)
                   the Complaint for Divorce be dismissed OR
@@ -12356,7 +12357,7 @@ Supreme Court of Ohio
 Uniform Domestic Relations Form 10
 ANSWER TO COMPLAINT FOR DIVORCE WITHOUT CHILDREN
 Approved under Ohio Civil Rule 84
-(IIHFWLYH'DWH6HSWHPEHU                                                                       Page 3 of 3
+(IIHFWLYH'DWH6HSWHPEHU                                                                      Page 3 of 3
 
                                  IN THE COURT OF COMMON PLEAS
                              ______________________________ DIVISION
@@ -14545,7 +14546,7 @@ Petitioner 2 was present and     was       was not represented by counsel_______
  Uniform Domestic Relations Form 18
  JUDGMENT ENTRY – DECREE OF DISSOLUTION OF MARRIAGE
  Approved under Ohio Civil Rule 84
- (IIHFWLYH'DWH6HSWHPEHU                                                                     Page 1 of 4
+ (IIHFWLYH'DWH6HSWHPEHU                                                                    Page 1 of 4
 
   4.   The parties were married on                                                               (date of marriage)
        in                                                                               (city or county, and state).
@@ -14581,7 +14582,7 @@ Supreme Court of Ohio
 Uniform Domestic Relations Form 18
 JUDGMENT ENTRY – DECREE OF DISSOLUTION OF MARRIAGE
 Approved under Ohio Civil Rule 84
-(IIHFWLYH'DWH6HSWHPEHU                                                                       Page 2 of 4
+(IIHFWLYH'DWH6HSWHPEHU                                                                      Page 2 of 4
 
    8.   Upon examination under oath, the parties acknowledged that they voluntarily entered into a Separation
         Agreement which was attached to the Petition,         as modified on ________________________, and is
@@ -14631,7 +14632,7 @@ THIRD: OTHER
  Uniform Domestic Relations Form 18
  JUDGMENT ENTRY – DECREE OF DISSOLUTION OF MARRIAGE
  Approved under Ohio Civil Rule 84
- (IIHFWLYH'DWH6HSWHPEHU                                                                      Page 3 of 4
+ (IIHFWLYH'DWH6HSWHPEHU                                                                     Page 3 of 4
 
  FOURTH: COURT COSTS
 
@@ -14669,7 +14670,7 @@ journal in accordance with Civ.R. 5(B), in the manner provided in Civ.R. 58(B).
   Uniform Domestic Relations Form 18
   JUDGMENT ENTRY – DECREE OF DISSOLUTION OF MARRIAGE
   Approved under Ohio Civil Rule 84
-  (IIHFWLYH'DWH6HSWHPEHU                                                                   Page 4 of 4
+  (IIHFWLYH'DWH6HSWHPEHU                                                                  Page 4 of 4
 
                                IN THE COURT OF COMMON PLEAS
                        ___________________________ DIVISION

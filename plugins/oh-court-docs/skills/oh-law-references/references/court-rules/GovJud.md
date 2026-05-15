@@ -1,7 +1,7 @@
 # Rules for the Government of the Judiciary of Ohio (Gov. Jud. R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/government/GOVJUD.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;

@@ -1,7 +1,7 @@
 # Rules for the Government of the Bar of Ohio (Gov. Bar R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/govbar/govbar.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;
@@ -4003,7 +4003,7 @@ as set forth in the Application section of that code.
 have the same meanings as in the most recent edition of the American Psychiatric Association’s
 Diagnostic and Statistical Manual of Mental Disorders.
 
-      (J)      “Mental illness” has the same meaning as in R.C. 5122.01(A) [Mental Illness
+       (J)     “Mental illness” has the same meaning as in R.C. 5122.01(A) [Mental Illness
 Adjudication].
 
         (K)     “Misconduct” means any violation by a judicial officer or an attorney of any
@@ -7662,10 +7662,10 @@ on September 21, 1999, shall take effect on January 1, 2000.
        (I)     The amendment to Section 2 of this rule, adopted by the Supreme Court of Ohio on
 April 10, 2000, shall take effect on May 8, 2000.
 
-       (J)   The amendments to Sections 3 (C)(2), 3 (H), and Section 5 of this Rule, adopted
+        (J)  The amendments to Sections 3 (C)(2), 3 (H), and Section 5 of this Rule, adopted
 by the Supreme Court of Ohio on November 28, 2000 shall be effective on July 1, 2001.
 
-       (K)   The amendments to Sections 2 and 3 of this rule, adopted by the Supreme Court of
+      (K)    The amendments to Sections 2 and 3 of this rule, adopted by the Supreme Court of
 Ohio on December 11, 2001, shall take effect on January 21, 2002.
 
        (L)   The amendments to Section 3 (B)(2) and Section 4 (B)(1) of this rule, adopted by

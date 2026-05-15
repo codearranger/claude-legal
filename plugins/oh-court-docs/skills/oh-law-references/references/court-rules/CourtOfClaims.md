@@ -1,7 +1,7 @@
 # Ohio Court of Claims Local Rules
 
 > **Source:** https://ohiocourtofclaims.gov/wp-content/uploads/2021/10/local-rules-2019.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;
