@@ -368,6 +368,152 @@ practice:
   Unique to NYC; some upstate cities have piloted similar
   programs.
 
+## Family-law cross-state variations
+
+Family law is sprawlingly state-specific. These tables
+catalog the major axes that vary state-to-state. **Use for
+research only — do NOT import comparisons into the new
+plugin's bodies.**
+
+### Family-court topology
+
+| Pattern | States |
+|---|---|
+| Separate Family Court (own trial court) | NY, MA, DE, RI, HI |
+| Family Division of general-jurisdiction trial court (functionally similar but inside Superior / Circuit Court) | CA, FL, TX, OH, MI, GA, IL, PA, NJ, most other states |
+| Specialized Domestic Relations Division | OH (Domestic Relations Court), some CA counties |
+| Concurrent jurisdiction (custody + support in two courts) | NY (Family Court + Supreme Court) |
+
+The `<abbr>-family-court` venue skill ships in every state's
+plugin regardless — but its body adapts to the topology.
+
+### Divorce grounds — no-fault waiting period
+
+Every state has no-fault divorce as of 2010 (NY was the
+last). Waiting period before decree varies:
+
+| State | No-fault waiting period | Fault grounds still recognized? |
+|---|---|---|
+| New York | 6 months separation (DRL § 170(7)) | Yes (DRL § 170(1)-(6)) |
+| California | 6 months from service (Fam. Code § 2339) | No (no-fault only) |
+| Colorado | 91 days from service (C.R.S. § 14-10-106) | No |
+| Texas | 60 days from filing (Tex. Fam. Code § 6.702) | Yes |
+| Washington | 90 days from filing (RCW 26.09.030) | No |
+| Florida | None (per Fla. Stat. § 61.052) | No |
+| Illinois | 6 months separation (750 ILCS 5/401) | No |
+| Pennsylvania | 1 year separation (no-fault); 90 days mutual-consent | Yes |
+
+### Property distribution regime
+
+| Regime | States |
+|---|---|
+| **Community property** | CA, TX, WA, AZ, NM, ID, LA, NV, WI |
+| **Equitable distribution** | All other states + DC |
+
+Community-property states presume 50/50 division of marital
+property; equitable-distribution states apply factor-based
+discretionary division. The distinction materially affects
+case-strategy advice and is worth flagging prominently in
+the family-law bundle.
+
+### Child-support guideline model
+
+| Model | States |
+|---|---|
+| **Income shares** (combined parental income → both pay) | Most states: CO, NY (via CSSA), CA, NJ, OH, MI, GA, FL, IL, MA, PA, VA, MD, plus ~30 others |
+| **Percentage of payor's income** (obligor's income → flat %) | WI, ND, NV, TX (under DOM Code Ch. 154), some others |
+| **Melson formula** (hybrid — DE, HI, MT) | DE, HI, MT |
+
+Statutory cap on combined parental income (income above
+which CSSA percentages may not auto-apply):
+
+| State | Cap (most recent) |
+|---|---|
+| New York | $183,000 (2024, adjusts every 2 years) |
+| California | No statutory cap; high-income deviation discretion |
+| Colorado | $30,000/month combined ($360,000/year) — adjusts |
+| Texas | $9,200/month obligor net resources (2019) |
+
+### Modification threshold for child support
+
+| State | Threshold to trigger modification review |
+|---|---|
+| New York | 15% change in either parent's gross income, or **3-year automatic review** under CSSA |
+| Colorado | 10% change in support amount under CRS § 14-10-122 |
+| California | "Significant change in circumstances" (no fixed %) |
+| Texas | 20% or $100/month change |
+| Florida | 15% or $50/month change |
+
+### Maintenance / spousal support frameworks
+
+| State | Framework |
+|---|---|
+| New York | Statutory income-based formula (DRL § 236(B)(5-a)) since 2015; duration formula |
+| California | Discretionary under Fam. Code § 4320 factors; "Marriage of Long" rule of thumb for duration |
+| Colorado | Statutory advisory guideline since 2014 (C.R.S. § 14-10-114); 2024 reforms |
+| Texas | Highly restrictive — eligibility narrow (Fam. Code § 8.051); 5/7/10-year caps; $5,000/month max |
+| Florida | Type categories (rehabilitative, durational, permanent) |
+
+### Common-law marriage
+
+| State | Status (as of 2026) | Notes |
+|---|---|---|
+| Colorado | Recognized | *Lucero* (1987) as modernized by *Hogsett & Neale*, 2021 CO 1 |
+| Iowa | Recognized | |
+| Kansas | Recognized | |
+| Montana | Recognized | |
+| Rhode Island | Recognized | |
+| South Carolina | Recognized | Pre-2019; abolished prospectively |
+| Texas | Recognized (as "informal marriage") | Tex. Fam. Code § 2.401 |
+| Utah | Recognized | Court declaration required |
+| DC | Recognized | |
+| **All other states** | Not recognized | But all states honor marriages valid where contracted |
+
+### Mandatory financial-disclosure forms
+
+| State | Form name | Citation |
+|---|---|---|
+| New York | Statement of Net Worth | DRL § 236(B)(4) + 22 NYCRR § 202.16 |
+| California | FL-150 Income and Expense Declaration | Cal. Rules of Court 5.260 |
+| Colorado | Sworn Financial Statement (JDF 1111) | C.R.C.P. 16.2 |
+| Texas | Inventory and Appraisement | Tex. Fam. Code § 6.502 |
+
+### Family-offense / Order of Protection frameworks
+
+Every state has a civil-protective-order regime; the
+qualifying-relationship + qualifying-offense + duration
+catalogs vary:
+
+- **Qualifying relationship**: spouse / ex-spouse (universal);
+  parents-in-common-of-child (universal); cohabitants
+  (most); "intimate-partner" relationship (expanding);
+  household members (most); blood / marriage family
+  members (most).
+- **Qualifying offense**: assault + harassment + stalking
+  + menacing are nearly universal. NY's FCA § 812 catalog
+  is one of the broadest (added coercive control in 2022).
+  CA's DV Prevention Act under Fam. Code § 6320 is
+  similarly broad. TX's Tex. Fam. Code § 71.004 is more
+  restrictive.
+- **Duration**: temporary (ex parte) → final. Final order
+  duration ranges:
+  - NY: up to 2 years; 5 with aggravating circumstances
+  - CA: up to 5 years (permanent in narrow cases)
+  - CO: 1 year initial; can become permanent on
+    showing of continued threat
+  - TX: up to 2 years
+
+### Right to assigned counsel in family court
+
+| Proceeding | Assigned counsel? |
+|---|---|
+| Abuse & neglect (parent respondent) | Yes — universal (federal due-process) |
+| Termination of parental rights | Yes — universal |
+| Family-offense / OP respondent | Varies (NY yes when OP is sought; most others no) |
+| Custody dispute (no abuse allegation) | No (most states) |
+| Divorce | No (most states) |
+| Child support modification | No |
+
 ## How to use this catalog
 
 When adding a new state plugin:

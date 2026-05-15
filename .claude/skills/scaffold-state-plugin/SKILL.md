@@ -63,21 +63,66 @@ When the user asks to "add [state]", "create a plugin for
 12. **State's collection-agency registration regime** if any
     (e.g., California Debt Collection Licensing Act for debt
     buyers as of 2022)
+13. **Family-court topology** — does the state have a separate
+    Family Court (NY, MA, DE) or does it hear family matters
+    in a Family Division of the general-jurisdiction trial
+    court (most states)? Either way, the `<abbr>-family-court`
+    venue skill ships. Note the venue, the rule set, and
+    whether jurisdiction is concurrent with the regular
+    civil-trial court for any topic (NY Supreme Court +
+    Family Court both hear custody, for example).
+14. **State's family-law code** (e.g., NY Domestic Relations
+    Law + Family Court Act; California Family Code; Colorado
+    C.R.S. art. 10 of title 14 — UDMA-based; Texas Family
+    Code)
+15. **State's child-support guideline model** — income-shares
+    (most states; CO, NY's CSSA percentages on combined-
+    income basis) vs. percentage-of-payor-income (a shrinking
+    minority). Note the statutory cap on combined parental
+    income.
+16. **State's property-distribution regime** — community-
+    property (CA, TX, WA, AZ, NM, ID, LA, NV, WI) vs.
+    equitable-distribution (everyone else).
+17. **State's divorce grounds** — no-fault available (now
+    universal) but waiting periods + fault grounds vary
+    (NY's 6-month no-fault separation period; CO's 91-day
+    waiting period; etc.).
 
 If the user hasn't supplied all of these, ASK before scaffolding
 — the substance of every skill depends on getting these right.
 
 ## The pattern to mirror
 
-The **21-skill base** is the minimum a new state plugin
-should ship. States with complex civil-court systems can
-and should add more — NY ships 35 (5 flagship Supreme Court
-venues, 2 dedicated Long Island District Courts, NYC Civil
-Court + NYC Housing Court, upstate City Courts, Justice
-Courts, Family Court, plus 5 subject-matter bundles), CO
-ships 22 (with a family-law bundle alongside consumer-debt).
+The **23-skill base** is the minimum a new state plugin
+should ship. Baseline coverage includes:
 
-The 21-skill base, parameterized by the items above:
+- **All civil court rules** for every civil-trial-court
+  layer in the state (the state's pleading-format rule, the
+  CPLR / CCP / TRCP / ORCP / FRCP-analog rules, the local
+  rules of the flagship counties)
+- **All civil practice** procedural skills (the 21-skill
+  core: format, discovery, hearings, post-judgment, etc.)
+- **All civil substantive laws** in the statutes corpus
+  (the state's analog to CPLR + consolidated-laws articles
+  covering procedure, evidence, fees, limitations,
+  exemptions, garnishment, UCC Article 9, consumer-debt
+  statutes)
+- **Family court rules** for the state's family-court
+  venue (e.g., 22 NYCRR Part 205 in NY; the equivalent
+  Family Division rules where applicable)
+- **Family practice** — the `<abbr>-family-court` venue
+  skill + the `<abbr>-family-law` subject bundle
+- **Family law** statutes (the state's family-law code in
+  the statutes corpus — e.g., DRL + FCT in NY; Fam. Code
+  in CA; C.R.S. art. 10 of title 14 in CO)
+
+States with complex civil-court systems can and should add
+more — NY ships 35 (5 flagship Supreme Court venues, 2
+dedicated Long Island District Courts, NYC Civil Court +
+NYC Housing Court, upstate City Courts, Justice Courts,
+Family Court, plus 5 subject-matter bundles), CO ships 22.
+
+The 23-skill base, parameterized by the items above:
 
 ```
 plugins/<abbr>-court-docs/
@@ -109,9 +154,29 @@ plugins/<abbr>-court-docs/
     <abbr>-schedule-hearing/
     <abbr>-file-packet/
     <abbr>-submit-order/
-    <abbr>-consumer-debt/      # FDCPA + state UTPA-equivalent +
-                               #   collection-agency law +
-                               #   chain of title
+    <abbr>-family-court/       # Family Court venue skill —
+                               #   custody / support / family
+                               #   offense / paternity / abuse
+                               #   and neglect. Even when the
+                               #   state hears family matters
+                               #   inside a Family Division of
+                               #   Superior Court (rather than
+                               #   a separate Family Court),
+                               #   ship this as a dedicated skill
+                               #   covering the division's rules,
+                               #   intake, and pro-se forms.
+    <abbr>-consumer-debt/      # Subject bundle: FDCPA + state
+                               #   UTPA-equivalent + collection-
+                               #   agency law + chain of title
+    <abbr>-family-law/         # Subject bundle: divorce /
+                               #   custody / support / parenting
+                               #   plan / property distribution
+                               #   / maintenance. Substantive
+                               #   law of the state's family
+                               #   code (UDMA-based, community-
+                               #   property, equitable-
+                               #   distribution — depends on
+                               #   state).
   evals/
     drafting/
     formatting/
@@ -202,15 +267,31 @@ For each skill, the `references/` directory holds the deep
 dive. Each `<state>-law-references` skill needs:
 
 - `civil-rules.md` — state's civil-procedure rules summarized
+  (must cover both civil-practice rules AND family-court
+  rules — e.g., for NY: 22 NYCRR Parts 202 + 205 + 208 +
+  210 + 212 + 214)
 - `evidence-rules.md` — state's evidence code summarized
 - `fees-and-costs.md` — state's fee-shifting framework
 - `local-rules.md` — high-volume courts' local rules
 - `citation-format.md` — state style-manual conventions
-- `key-cases.md` — general-civil precedents
+- `key-cases.md` — general-civil + family-law precedents
 - `online-sources.md` — canonical URLs (the WebFetch catalog)
 - `legal-data-apis.md` — programmatic-access index
-- `court-rules/` — verbatim rule text (populated by future
-  pull script; README + manifest for now)
+- `court-rules/` — **verbatim rule text for both civil and
+  family court rules**. Baseline coverage:
+  - State pleading-format rule
+  - State civil-procedure rules (CPLR / CCP / TRCP / ORCP /
+    CR equivalent)
+  - State evidence code (where codified as rule)
+  - **State family-court rules** (e.g., 22 NYCRR Part 205
+    for NY; check for state-specific family-court rule set
+    even when family law sits in a Family Division)
+  - Sealing of court records rule (statewide)
+  - Costs and sanctions rule (statewide)
+  - Rules of Professional Conduct
+  - Sub-trial-court rule sets where applicable (NYC Civil
+    Court, NY District Courts, NY City Courts, Justice
+    Courts; NJ Special Civil Part Rules; etc.)
 - `federal-debt-laws/` *(symlink)* — points into the shared
   `claude-legal-federal-laws/references/federal-debt-laws/`
   plugin via `../../../../claude-legal-federal-laws/...`. Do
@@ -220,14 +301,40 @@ dive. Each `<state>-law-references` skill needs:
   in plugin.json and run `ln -s` for the symlink.
 - `ucc-model/` *(symlink)* — same shared plugin; same symlink
   target convention. Same dependency.
-- `<state>-statutes-debt/` — state's debt-relevant statute
-  chapters (e.g., for CA: CCP §§ 337, 337a (4-year SOL on
-  contracts); Civil Code §§ 1788 et seq. (Rosenthal Act))
+- `<state>-statutes-debt/` — **state's civil-practice +
+  consumer-debt + family-law statute chapters**. The
+  directory name retains the legacy `debt` slug for path
+  stability across earlier plugins, but the scope is full
+  civil + family practice. Baseline coverage:
+  - **Civil procedure** — state's procedure code (CPLR / CCP
+    / TRCP / ORCP / CR equivalent)
+  - **Evidence** — state's evidence code where statutory
+  - **Limitations** — state's SOL chapter
+  - **Garnishment + exemptions** — state's enforcement +
+    exemption chapter
+  - **UCC** — state's enactment of Articles 2, 3, 9
+  - **Consumer protection** — state's UTPA analog
+  - **Debt collection** — state's mini-FDCPA
+  - **Real Property + summary proceedings** — for L&T cases
+  - **Family law** — state's family-law code (e.g., NY DRL +
+    FCT; CA Fam. Code; CO C.R.S. art. 10 of title 14 UDMA;
+    TX Family Code)
+  - **Family Court / domestic-relations procedure** — where
+    the state codifies it separately from the family-law
+    substantive code
+  - **General Construction / holidays** — for the case-
+    calendar script
 
-### Step 5: Build the consumer-debt bundle
+### Step 5: Build the two baseline subject-matter bundles
 
-The `<state>-consumer-debt` skill is the substantive
-centerpiece. Mirror the OR pattern:
+The plugin ships with **two baseline subject-matter bundles**:
+`<state>-consumer-debt` and `<state>-family-law`. Both
+follow the OR + CO precedent for bundle structure.
+
+#### 5.A — `<state>-consumer-debt`
+
+The substantive centerpiece for consumer-debt defense. Mirror
+the OR pattern:
 
 - `SKILL.md` — overview with 5 fact-pattern triage
 - `references/fdcpa.md` — state-specific framing / cites to the
@@ -269,6 +376,60 @@ centerpiece. Mirror the OR pattern:
 - `references/examples/` — 6 synthetic example filings
   (answer, declaration, motion to compel, M&C, proposed
   order, certificate of service)
+
+#### 5.B — `<state>-family-law`
+
+The substantive bundle for divorce / annulment / legal
+separation / custody / child support / maintenance. Mirror
+the CO precedent (`co-family-law`):
+
+- `SKILL.md` — overview with state-specific family-law
+  framework. Cover: divorce grounds + waiting period;
+  property distribution regime (community vs. equitable);
+  child-support guideline model + statutory cap; custody
+  / parenting-time framework + best-interests standard;
+  maintenance / spousal support; modification thresholds;
+  common-law marriage status; UCCJEA + UIFSA jurisdictional
+  framework.
+- `references/dissolution.md` — divorce mechanics; petition
+  + response + service; mandatory financial disclosures;
+  waiting period; default vs. contested
+- `references/annulment.md` — declaration-of-invalidity
+  grounds (varies materially by state — fraud, duress,
+  bigamy, age, incapacity, prohibited relationship)
+- `references/legal-separation.md` — where available
+- `references/property-distribution.md` — community-property
+  presumptions or equitable-distribution factors; valuation
+  of marital business interests; commingling doctrines
+- `references/child-support.md` — guideline calculation;
+  income imputation rules; deviation grounds; cap on
+  combined-income; modification threshold (e.g., NY's 15%
+  / CSSA review; CO's 10% threshold)
+- `references/parenting-plan.md` — decision-making
+  allocation; parenting time (overnights); relocation
+  notice + standard for permission
+- `references/maintenance.md` — duration formulas; income-
+  based formulas (NY's CSSA-modeled approach; CO's 2014 +
+  2024 reforms); modification + termination triggers
+- `references/family-offense.md` — Order of Protection
+  framework; qualifying-relationship + qualifying-offense
+  catalog; duration; firearm-surrender mechanics
+- `references/uccjea.md` — Uniform Child Custody
+  Jurisdiction and Enforcement Act implementation in state;
+  home-state jurisdiction analysis
+- `references/uifsa.md` — Uniform Interstate Family Support
+  Act implementation in state
+- `references/common-law-marriage.md` — for the handful of
+  states that still recognize it (CO recognizes;
+  *Hogsett & Neale* in CO; NY does not recognize but
+  honors marriages valid where contracted)
+- `references/forms.md` — state-specific divorce / custody /
+  child-support forms (e.g., NY JDF 1099 / 1111; CO JDF
+  catalog; CA FL-100 series)
+- `references/examples/` — 4-6 synthetic example filings:
+  petition for dissolution, sworn financial statement,
+  parenting-plan / custody motion, child-support
+  modification motion
 
 ### Step 6: Scripts
 

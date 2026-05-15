@@ -12,6 +12,47 @@ puller implementations.
 > stub, and runs from both developer workstations and
 > GitHub Actions CI without operator handholding.
 
+## Baseline target coverage
+
+The puller's target catalog must include **both civil and
+family content** as part of the baseline:
+
+**Court-rules puller (`pull_<state>_court_rules.py`):**
+
+- State's pleading-format rule
+- State's civil-procedure rule set (CPLR / CCP / TRCP /
+  ORCP / CR equivalent)
+- State's **family-court rule set** (e.g., 22 NYCRR Part
+  205 in NY; CA Rules of Court Title 5 in CA) — **NEW
+  BASELINE**
+- State's evidence code (where codified as rule)
+- Court of Claims / similar specialized-court rules
+- Surrogate's Court / probate rules (where applicable)
+- Lower civil-court rule sets (NYC Civil Court, NY
+  District Courts, City Courts, Justice Courts;
+  NJ Special Civil Part)
+- Sealing of court records
+- Costs and sanctions
+- Rules of Professional Conduct
+
+**Statutes puller (`pull_<state>_statutes.py`):**
+
+- State's civil-procedure code
+- State's evidence code (where statutory)
+- Limitations chapter
+- Garnishment + exemptions chapter
+- UCC enactment (Articles 2, 3, 9)
+- Consumer protection (state UTPA analog)
+- Debt collection (state mini-FDCPA)
+- Real Property + summary proceedings (for L&T)
+- **Family-law code** — e.g., NY DRL + FCT; CA Fam. Code;
+  CO C.R.S. art. 10 of title 14 UDMA; TX Family Code —
+  **NEW BASELINE**
+- **Family Court / domestic-relations procedure** where
+  separately codified — **NEW BASELINE**
+- General Construction / holidays for the case-calendar
+  script
+
 ## 1. Probe the upstream before writing the catalog
 
 Don't assume URL patterns, JSON shapes, locationIds, or

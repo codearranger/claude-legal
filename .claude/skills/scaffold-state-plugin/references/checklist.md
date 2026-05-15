@@ -35,6 +35,62 @@ Before touching the codebase, gather the inputs. See
       (typically 3–6 years)
 - [ ] Court eFiling system (state-specific portal)
 
+### Family law — baseline research items
+
+The `<abbr>-family-court` venue skill and `<abbr>-family-
+law` subject bundle ship as part of the baseline. Research
+these state-specific items before authoring either:
+
+- [ ] **Family-court topology** — separate Family Court
+      (NY, MA, DE) OR Family Division of general-
+      jurisdiction trial court (most other states)?
+- [ ] **Family-court rule set** — citation (e.g., 22 NYCRR
+      Part 205 in NY; CA Rules of Court Title 5; etc.)
+- [ ] **Family-law code** — citation (e.g., NY DRL + FCT;
+      CA Fam. Code; CO C.R.S. art. 10 of title 14 — UDMA;
+      TX Family Code)
+- [ ] **Divorce grounds** — no-fault waiting period; fault
+      grounds catalog if still recognized
+- [ ] **Residency requirement** — duration before filing
+- [ ] **Property regime** — community-property (CA, TX,
+      WA, AZ, NM, ID, LA, NV, WI) vs. equitable-
+      distribution (everyone else)
+- [ ] **Child-support guideline model** — income-shares
+      (most states; CO, NY) vs. percentage-of-payor-income
+      (shrinking minority)
+- [ ] **Child-support combined-income cap** — $ amount +
+      effective date (e.g., NY's $183,000 as of 2024)
+- [ ] **Modification threshold for child support** —
+      percentage change required to revisit (e.g., 10% in
+      CO; 15% in NY's CSSA review)
+- [ ] **Custody standard** — best-interests is universal;
+      statutory factors are state-specific
+- [ ] **Maintenance / spousal-support framework** —
+      duration formula; income-based formula where
+      applicable; modification + termination triggers
+- [ ] **Common-law marriage** — recognized in the state?
+      As of 2026: yes in CO, IA, KS, MT, RI, SC, TX, UT,
+      DC. Out of state honors marriages valid where
+      contracted in most other states.
+- [ ] **Family-court forms catalog** — state's pro-se form
+      numbering (NY JDF series; CA FL-100 series; CO JDF
+      1099/1111/1820)
+- [ ] **Support magistrate / referee structure** — where
+      applicable, the judicial layer that hears support
+      matters before a Family Court Judge can review
+      (e.g., NY FCA § 439 Support Magistrates with the
+      35-day written-objection clock)
+- [ ] **Right to assigned counsel** — which family-court
+      proceedings provide assigned counsel (typically
+      abuse-and-neglect respondents; sometimes family-
+      offense respondents facing protective orders;
+      sometimes termination of parental rights)
+- [ ] **UCCJEA implementation** — verify the state has
+      adopted UCCJEA (all 50 states + DC have) and note
+      any state-specific quirks
+- [ ] **UIFSA implementation** — verify the state has
+      adopted UIFSA (all 50 states + DC have)
+
 ### Civil-court venue layers — survey before deciding on
 ### dedicated skills
 
@@ -143,7 +199,10 @@ for the full puller-design discipline.
   - [ ] `<abbr>-schedule-hearing/`
   - [ ] `<abbr>-file-packet/`
   - [ ] `<abbr>-submit-order/`
+  - [ ] `<abbr>-family-court/` (NEW BASELINE — venue skill)
   - [ ] `<abbr>-consumer-debt/references/examples/`
+  - [ ] `<abbr>-family-law/references/examples/` (NEW
+        BASELINE — subject bundle alongside consumer-debt)
 - [ ] Create `plugins/<abbr>-court-docs/scripts/`
 - [ ] Create `plugins/<abbr>-court-docs/evals/` with the five
       subdirs: drafting, formatting, procedural, subject-
@@ -151,7 +210,7 @@ for the full puller-design discipline.
 
 ## Phase 3 — SKILL.md files
 
-For each of the 21 base skills (plus any additional venue
+For each of the 23 base skills (plus any additional venue
 or subject-matter skills the state warrants), author a
 `SKILL.md` using the matching template in `skill-templates/`.
 Required for every SKILL.md:
@@ -292,6 +351,56 @@ specific law.
 - [ ] `examples/example-proposed-order.md`
 - [ ] `examples/example-certificate-of-service.md`
 
+### `<abbr>-family-court/references/`
+
+The venue skill's reference content. Mirror `ny-family-
+court` structure (no separate references dir is required —
+the SKILL.md body carries the substantive coverage), but
+include these where state-specific:
+
+- [ ] `forms-catalog.md` — state's family-court form
+      numbering (NY JDF series; CA FL-100 series; CO JDF
+      catalog)
+- [ ] `support-magistrate-procedure.md` (where applicable)
+- [ ] `confidentiality-and-sealing.md`
+
+### `<abbr>-family-law/references/`
+
+The substantive bundle. Mirror `co-family-law` structure:
+
+- [ ] `SKILL.md` (main bundle)
+- [ ] `dissolution.md` — divorce mechanics + procedural
+      flow
+- [ ] `annulment.md` — declaration-of-invalidity grounds
+- [ ] `legal-separation.md` — where state recognizes
+- [ ] `property-distribution.md` — community-property
+      presumptions OR equitable-distribution factors
+- [ ] `child-support.md` — guideline framework + cap +
+      modification threshold
+- [ ] `parenting-plan.md` — decision-making + parenting
+      time + relocation
+- [ ] `maintenance.md` — spousal-support / alimony
+      framework + modification
+- [ ] `family-offense.md` — Order of Protection
+      framework + qualifying-relationship + qualifying-
+      offense
+- [ ] `uccjea.md` — Uniform Child Custody Jurisdiction +
+      Enforcement Act implementation
+- [ ] `uifsa.md` — Uniform Interstate Family Support Act
+      implementation
+- [ ] `common-law-marriage.md` — state's status; if
+      recognized, the test + modernizing case law
+- [ ] `forms.md` — state-specific divorce + custody + CS
+      forms
+- [ ] `key-cases.md` — state appellate family-law
+      precedents
+- [ ] `online-sources.md` — state's family-court / self-
+      help / form-catalog URLs
+- [ ] `examples/example-petition-for-dissolution.md`
+- [ ] `examples/example-sworn-financial-statement.md`
+- [ ] `examples/example-parenting-plan-motion.md`
+- [ ] `examples/example-cs-modification-motion.md`
+
 ## Phase 5 — Scripts
 
 - [ ] Adapt `plugins/<abbr>-court-docs/scripts/format-check.py`
@@ -310,15 +419,22 @@ specific law.
 
 ## Phase 6 — Evals
 
-Mirror the OR eval categories. Author at least 18 evals (the
-OR plugin has 18; aim for parity):
+Author at least **20 evals** across the five categories.
+Both subject-matter bundles ship in the baseline, so the
+subject-matter category needs evals covering both:
 
 - [ ] `evals/README.md`
 - [ ] `evals/drafting/` — 4 evals
 - [ ] `evals/formatting/` — 4 evals
-- [ ] `evals/procedural/` — 8 evals
-- [ ] `evals/subject-matter/` — 6 evals on consumer-debt
-- [ ] `evals/integration/` — 2 evals
+- [ ] `evals/procedural/` — 7-8 evals
+- [ ] `evals/subject-matter/` — 6-8 evals split between
+      consumer-debt (chain-of-title, SOL, mini-FDCPA,
+      default-judgment scrutiny) AND family-law
+      (child-support calculation, custody best-interests,
+      family-offense OP elements, property-distribution
+      regime)
+- [ ] `evals/integration/` — 2 evals (one end-to-end on
+      each bundle's flagship fact pattern)
 
 ## Phase 7 — Marketplace updates
 
