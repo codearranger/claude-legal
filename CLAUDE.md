@@ -4,15 +4,17 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state, plus a shared data-only plugin for federal law. It ships **five** plugins:
+The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state, plus a shared data-only plugin for federal law. It ships **seven** plugins:
 
 - **`claude-legal-federal-laws`** — Shared, data-only plugin holding the canonical copy of federal U.S. debt-collection and consumer-finance law (FDCPA, FCRA, TILA, ECOA, Reg B/F/V/Z) and the model Uniform Commercial Code (Articles 1, 2, 3, 9). No skills. Every state plugin below declares this as a dependency and symlinks into its `references/` tree, so federal content lives in one place rather than being copy-pasted per state.
 - **`wa-court-docs`** — Washington State (GR 14 formatting, King County District + Superior + populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt bundle).
 - **`or-court-docs`** — Oregon (UTCR 2.010 formatting, Multnomah + Washington County Circuit Court + populous-counties roll-up, ORS 697 / UTPA consumer-debt bundle).
 - **`ca-court-docs`** — California (CRC 2.100-2.119 formatting, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA consumer-debt bundle). All 21 SKILL.md files authored with CA-specific substance; reference corpora include the shared `federal-debt-laws/` + `ucc-model/` content via the `claude-legal-federal-laws` dependency, the CA-specific `ca-statutes-debt/` (Rosenthal Act, FDBPA, CDCLA, UCL, CLRA, CCP procedural sections, Cal. Comm. Code UCC enactments), and the CA `court-rules/` corpus (CRC Titles 2/3/5/7/8, Cal. Evid. Code, LASC + SFSC + OCSC local rules).
-- **`co-court-docs`** — Colorado (C.R.C.P. 10 + Chief Justice Directive 11-01 formatting with the two-block caption + case-number/division/courtroom box, Denver District Court / 2nd JD + Arapahoe County District Court / 18th JD + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt bundle, **plus a Colorado-specific family-law bundle** — `co-family-law` — covering UDMA dissolution / annulment, child support under C.R.S. § 14-10-115 with the 93-overnight rule, parental responsibilities under C.R.S. § 14-10-124, maintenance under C.R.S. § 14-10-114, and common-law marriage under *People v. Lucero* / *Hogsett & Neale*). Colorado is the **first state plugin to ship with two subject-matter bundles in its initial release** — consumer-debt and family-law — for a total of **22 SKILL.md files**.
+- **`co-court-docs`** — Colorado (C.R.C.P. 10 + Chief Justice Directive 11-01 formatting with the two-block caption + case-number/division/courtroom box, Denver District Court / 2nd JD + Arapahoe County District Court / 18th JD + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt bundle, **plus a Colorado-specific family-law bundle** — `co-family-law` — covering UDMA dissolution / annulment, child support under C.R.S. § 14-10-115 with the 93-overnight rule, parental responsibilities under C.R.S. § 14-10-124, maintenance under C.R.S. § 14-10-114, and common-law marriage under *People v. Lucero* / *Hogsett & Neale*). Colorado was the **first state plugin to ship with two subject-matter bundles in its initial release** — consumer-debt and family-law — for a total of **22 SKILL.md files**.
+- **`in-court-docs`** — Indiana (Indiana Trial Rule 5(E) format, Marion Superior Court / Indianapolis + Lake Superior Court / Crown Point + populous-counties roll-up, IUCCC / DCSA consumer-debt bundle leaning on chain-of-title + FDCPA since Indiana has no collection-agency licensing regime). Architected with the *Jarboe v. Landmark* summary-judgment standard and the unique T.R. 59 motion-to-correct-error procedure flagged prominently.
+- **`ny-court-docs`** — New York (22 NYCRR § 202.5 paper format + 22 NYCRR § 202.5-b NYSCEF e-filing format with the New York caption and "-against-" party separator; broadest civil-court venue coverage in the marketplace — **five flagship Supreme Court venues each as its own skill** — New York County / 1st JD / Manhattan with the $500k-threshold Commercial Division, Kings County / 2nd JD / Brooklyn with the CPLR 3408 foreclosure conference part, Bronx County / 12th JD, Nassau County / 10th JD / Mineola with a $200k-threshold Commercial Division, Queens County / 11th JD / Jamaica — **plus two dedicated Long Island District Court skills** (`ny-nassau-dc` and `ny-suffolk-dc`) covering the Uniform District Court Act / 22 NYCRR Part 212 forum (civil jurisdiction up to $15,000, L&T summary proceedings under RPAPL Article 7, the primary pro-se debt-defense forum on Long Island) that doesn't exist anywhere else in the state — plus dedicated venue skills for the rest of NY's fragmented civil-court system — `ny-nyc-civil-court` (Civil Court Act $50k cap, 5 borough branches, the highest-volume consumer-debt forum in the country with 22 NYCRR § 208.6-a default-scrutiny), `ny-nyc-housing-court` (Housing Part of NYC Civil Court — RPAPL Article 7 summary proceedings + Local Law 136 universal Right to Counsel + ERAP stays), `ny-city-courts` (~60 upstate City Courts under UCCA / 22 NYCRR Part 210, $15k cap), `ny-justice-courts` (~1,250 Town & Village Justice Courts under UJCA / 22 NYCRR Part 214, $3k cap), `ny-family-court` (FCA: custody, support, family-offense, PINS, abuse/neglect) — plus a long-tail Supreme Court roll-up (`ny-county-courts`) for Suffolk / Westchester / Erie / Monroe / Onondaga / Richmond / Rockland / Albany / Orange / Dutchess / Saratoga / Oneida Supreme Court Civil Term; **five subject-matter bundles**: `ny-consumer-debt` (FDCPA / Reg F / 2022 CCFA / GBL § 600 / GBL § 349 / CPLR 4544 / UCC Article 9 chain of title), `ny-landlord-tenant` (RPAPL Article 7 / 2019 HSTPA / 2024 Good Cause / RPL § 235-b / Local Law 136 / ERAP), `ny-personal-injury` (CPLR Article 14-A pure comparative fault, no-fault § 5102(d), Labor Law § 240(1) scaffold law, GML § 50-e Notice of Claim, CPLR 214-a medical malpractice, CVA / ASA revival windows), `ny-employment` (NYS HRL, NYC HRL with mandatory attorney's fees, Labor Law § 191/198/740, WARN Act, CROWN Act, 2018 Sexual Harassment Act), `ny-commercial-disputes` (22 NYCRR § 202.70 Commercial Division, CPLR 3016(b) fraud particularity, BCL § 1104-a judicial dissolution, GOL §§ 5-1401/5-1402 NY-as-destination-forum, Faithless Servant Doctrine)). New York ships with **35 SKILL.md files** — the largest state plugin to date — because of the five flagship Supreme Court skills, the two dedicated Long Island District Court skills, the two NYC Civil/Housing Court skills, the upstate City + Justice Court roll-ups, the Family Court skill, and **five subject-matter bundles** (consumer-debt + landlord-tenant + personal-injury + employment + commercial-disputes).
 
-All four state plugins are architected identically: matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense in each state). The structure leaves clean slots for plugins covering additional states.
+All six state plugins are architected identically: matter-neutral civil-procedure skills plus subject-matter bundles (starting with consumer-debt defense in each state). The structure leaves clean slots for plugins covering additional states.
 
 Output is documents, not advice; everything is bracketed by a "not legal advice" disclaimer that downstream skills repeat.
 
@@ -127,6 +129,55 @@ Mirrors the WA / OR 21-skill shape; substantive CA content authored across SKILL
 
 Colorado is the first state plugin to ship with **two** subject-matter bundles in its initial release (consumer-debt + family-law) and therefore has 22 skills rather than the 21-skill default.
 
+## Skills index — New York (`ny-court-docs`, 35 skills)
+
+| Skill | Role |
+|---|---|
+| `ny-statewide-format` | 22 NYCRR § 202.5 paper format + § 202.5-b NYSCEF format; the NY caption with "-against-" separator and Index Number; verified-vs-unverified pleadings (CPLR 3020); Tanbook (New York Law Reports Style Manual) citation |
+| `ny-nyco` | New York County Supreme Court (1st JD, Manhattan); 60/80/111 Centre Street; IAS Part routing; $500k-threshold Commercial Division (22 NYCRR § 202.70) |
+| `ny-kings` | Kings County Supreme Court (2nd JD, Brooklyn); 360 Adams Street; high-volume CPLR 3408 foreclosure settlement conferences; $150k Commercial Division |
+| `ny-bronx` | Bronx County Supreme Court (12th JD); 851 Grand Concourse; high-volume Personal Injury Part; DCM pilot |
+| `ny-nassau` | Nassau County Supreme Court (10th JD, Mineola); 100 Supreme Court Drive; $200k Commercial Division; Matrimonial Center; active MAP/ADR |
+| `ny-queens` | Queens County Supreme Court (11th JD, Jamaica); 88-11 Sutphin Boulevard; $150k Commercial Division; multilingual Pro Se Office |
+| `ny-county-courts` | Supreme Court Civil Term roll-up for Suffolk/Westchester/Erie/Monroe/Onondaga/Richmond/Rockland/Albany/Orange/Dutchess/Saratoga/Oneida; non-Supreme civil-court layers each have their own dedicated skill |
+| `ny-nyc-civil-court` | Civil Court of the City of New York (Civil Court Act, $50k cap, 5 borough branches; the highest-volume consumer-debt forum in the country; UCMS / CCEF e-filing; 22 NYCRR Part 208 with § 208.6-a default-scrutiny) |
+| `ny-nyc-housing-court` | NYC Housing Court (Housing Part of Civil Court; RPAPL Article 7 summary proceedings; Local Law 136 universal Right to Counsel; ERAP automatic stay; rent regulation overlays) |
+| `ny-nassau-dc` | Nassau County District Court (UDCA + 22 NYCRR Part 212); 99 Main Street, Hempstead; six geographic districts; Civil / L&T / Small Claims / Commercial Claims Parts; $15,000 civil jurisdiction; CCFA enforcement |
+| `ny-suffolk-dc` | Suffolk County District Court (UDCA + 22 NYCRR Part 212); Cohalan Court Complex, Central Islip; covers only the five western towns + Brookhaven (eastern towns route to Town Justice Courts); $15,000 civil jurisdiction; CCFA enforcement |
+| `ny-city-courts` | Upstate City Courts under UCCA + 22 NYCRR Part 210; ~60 cities, $15,000 civil cap; Buffalo / Rochester / Syracuse / Albany / Yonkers / White Plains and others; opt-in Good Cause Eviction tracking; Housing Parts in larger cities |
+| `ny-justice-courts` | Town & Village Justice Courts under UJCA + 22 NYCRR Part 214; ~1,250 courts statewide; $3,000 civil + small-claims cap; lay-judge dynamics; the only civil forum for eastern Suffolk County matters under $3k |
+| `ny-family-court` | NY Family Court under the FCA + 22 NYCRR Part 205; CSSA child support at FCA § 413 (17/25/29/31/35% with $183k 2024 cap); Article 6 custody under *Eschbach* best-interests; Article 8 family-offense Orders of Protection; Article 10 abuse and neglect with ACS / DSS; Support Magistrate + 35-day FCA § 439(e) objection clock |
+| `ny-pro-se` | Pro-se drafting framework adapted for NY; post-2023 CPLR 2106 universal-affirmation form ending the notary bottleneck; "Self-Represented" signature block; CLARO clinics + NYC right-to-counsel under Local Law 136 of 2017 |
+| `ny-law-references` | CPLR (Articles 1-89), Guide to NY Evidence + CPLR Article 45 codified evidence, 22 NYCRR (Parts 202/208/210/212), Tanbook citation, fees under CPLR Arts 81-89, local rules — **canonical reference corpora live here** |
+| `ny-discovery` | CPLR Article 31 disclosure with the broadest "material and necessary" scope in the U.S. (CPLR 3101(a) / *Allen v. Crowell-Collier*); CPLR 3120 Notice for D&I (RFPs); CPLR 3130/3133(b) 25-interrogatory cap; CPLR 3123 Notice to Admit; CPLR 3106-3119 EBT (depositions); 22 NYCRR § 202.20-f good-faith conferral (2021); CPLR 3124 motion to compel |
+| `ny-hearings` | Microsoft Teams remote default; submitted-vs-argued motion distinction; IAS Part oral argument; courtroom etiquette |
+| `ny-post-judgment` | CPLR 5015(a)(1)-(5) motion-to-vacate with the 1-year clock; CPLR Article 52 enforcement (5222 restraining notice, 5231 income execution, 5232 levy, 5225/5227 turnover, 5224 information subpoena); CPLR 5222-a Exempt Income Protection Act with $3,090 floor and EJ-FOC-1 exemption form; CPLR 5205/5206 exemptions; CPLR 5020 satisfaction; CPLR 211(b) 20-year SOL on money judgments (the longest in the U.S.) |
+| `ny-first-30-days` | CPLR 3012 answer deadlines (20 in-state / 30 out-of-state, substituted, mail); substituted-service "complete 10 days after filing affidavit" rule; CPLR 3211(a)(1)-(11) pre-answer motion-to-dismiss grounds with the (e) consolidation rule; CPLR 3018 affirmative defenses; CPLR 3019 permissive counterclaims |
+| `ny-fact-check` | Four-pass framework (citation verification, internal consistency, packet consistency, sworn-vs-argued consistency); Tanbook conventions; CCFA effective-date check |
+| `ny-deadlines` | CPLR 2103 service add-ons (5-day mail, 1-day overnight); CPLR 2103-a (2022) email service; NY Gen. Constr. Law § 24 holidays including Lincoln's Birthday (Feb 12) and annual Election Day; § 25-a Saturday/Sunday rules; CPLR 2103(c) forward-roll; named-rule catalog |
+| `ny-draft-motion` / `-declaration` / `-note` / `-order` | Scaffolders; 22 NYCRR § 202.8-b 25-page memo / 15-page reply limits; CPLR 2214 Notice of Motion with 8-day minimum service; CPLR 2214(d) Order to Show Cause; CPLR 2106 affirmation (post-2023 universal) vs. CPLR 2309 affidavit; 22 NYCRR § 202.48 settle-order with 60-day clock |
+| `ny-quality-check` | Two-pass format + content QC; 22 NYCRR § 202.5(e) redaction; NYSCEF document-type selection check |
+| `ny-schedule-hearing` | IAS-Part chambers-email and self-scheduling per Justice's Part Rules; OSC ex parte protocol |
+| `ny-file-packet` | NYSCEF / UCMS (NYC Civil Court CCEF) / per-court e-filing assembly; 22 NYCRR § 202.5(e) redaction; document-type selection; bookmarks; service mode |
+| `ny-submit-order` | 22 NYCRR § 202.48 settle-order procedure with the jurisdictional 60-day clock under *Funk v. Barry*; counter-order; chambers transmittal letter; post-signature Notice of Entry |
+| `ny-consumer-debt` | Subject bundle: FDCPA, Reg F, **2022 Consumer Credit Fairness Act** (CPLR 213(a) 3-year SOL on consumer credit, CPLR 3015(e) heightened pleading, 22 NYCRR § 202.27-a heightened default-judgment evidence, CPLR 308(six) additional notice), **N.Y. GBL § 600 et seq.** collection-agency licensing (NYC + certain counties), **N.Y. GBL §§ 349 / 350** deceptive acts and false advertising, **CPLR 4544** small-print contracts, chain of title under N.Y. UCC Article 9 with CPLR 4518 business-records foundation as construed by *Bank of NY Mellon v. Gordon*, 171 AD3d 197 (2d Dept 2019); 5-pattern fact-pattern triage; synthetic example filings |
+| `ny-landlord-tenant` | Subject bundle: RPAPL Article 7 summary proceedings (§ 711(2) nonpayment with 14-day demand; § 711(1) holdover with RPL § 226-c 30/60/90-day scaled notice); **2019 HSTPA** (1-month security-deposit cap at GOL § 7-108(1-a), late-fee cap at RPL § 238-a, bilateral fees at RPL § 234, 6-year overcharge lookback); **2024 Good Cause Eviction Law** at RPL Article 6-A; rent regulation regimes (Rent Stabilization for pre-1974 NYC 6+-unit; Rent Control; Loft Law); RPL § 235-b implied warranty of habitability; NYC right-to-counsel at NYC Admin Code § 26-1301 (Local Law 136 of 2017); ERAP automatic stay |
+| `ny-personal-injury` | Subject bundle: CPLR Article 14-A pure comparative fault + Article 16 several-liability cap for non-economic damages; **Insurance Law § 5102(d)** no-fault "serious injury" threshold + Article 51 PIP; **Labor Law § 240(1)** absolute scaffold-law liability + § 241(6) Industrial Code (12 NYCRR Part 23); **GML § 50-e** 90-day Notice of Claim against state actors; CPLR 214-a 30-month medical-malpractice SOL with continuous-treatment toll; CPLR 214-c discovery-rule toxic-tort SOL; **EPTL § 5-4.1** wrongful death (2-year); **Child Victims Act** (CPLR 214-g) + **Adult Survivors Act** (CPLR 214-j) revival windows; Bill of Particulars practice |
+| `ny-employment` | Subject bundle: **NYS HRL** (NY Exec Law § 296, all-size employer post-2019 reforms, "petty slights" harassment standard); **NYC HRL** (NYC Admin Code § 8-107, *Williams v. NYC Housing Authority* construed-broadly rule, caregiver + salary-history + stalking-victim protections; mandatory attorney's fees under § 8-502(g)); Labor Law § 191 frequency-of-pay (*Vega* late-payment liquidated damages); § 198 wage theft with 6-year SOL + 100/200% liquidated damages; **Labor Law § 740 whistleblower** (post-2022 expansion); NYS WARN Act (50+ employees, 90-day notice); 2018 Sexual Harassment Act; CROWN Act |
+| `ny-commercial-disputes` | Subject bundle: **22 NYCRR § 202.70 Commercial Division** rules (Appendix A — 25-page memos, proportionality in discovery, designated counsel, accelerated adjudication; county-by-county threshold $50k-$500k); **CPLR 3016(b)** fraud particularity; CPLR 213(2) 6-year contract SOL + 213(8) 6/2-year fraud discovery rule; **BCL § 720** derivative actions + **BCL § 1104-a** judicial dissolution with § 1118 buyout election; LLC Law § 702 dissolution; **Faithless Servant Doctrine** (*Phansalkar*); **GOL §§ 5-1401 / 5-1402** NY-as-destination-forum (\$250k / \$1M thresholds); CPLR 5004 9% pre-judgment interest |
+
+New York ships with **35 SKILL.md files** — by far the largest state plugin in the marketplace — reflecting NY's unusually fragmented civil-court system. The plugin covers:
+
+- **Statewide procedural skills**: `ny-statewide-format`, `ny-discovery`, `ny-deadlines`, `ny-first-30-days`, `ny-hearings`, `ny-post-judgment`, `ny-fact-check`, `ny-quality-check`, `ny-schedule-hearing`, `ny-file-packet`, `ny-submit-order`, plus the four `ny-draft-*` scaffolders and the `ny-pro-se` framework + `ny-law-references` corpus host
+- **Five flagship Supreme Court skills**: `ny-nyco`, `ny-kings`, `ny-bronx`, `ny-nassau`, `ny-queens`
+- **One Supreme Court roll-up**: `ny-county-courts` (Suffolk / Westchester / Erie / Monroe / Onondaga / Richmond / Rockland / Albany / Orange / Dutchess / Saratoga / Oneida)
+- **Two Long Island District Court skills**: `ny-nassau-dc`, `ny-suffolk-dc` (UDCA / 22 NYCRR Part 212)
+- **Two dedicated NYC Civil Court skills**: `ny-nyc-civil-court` (Civil Court Act $50k cap, 5 boroughs; the highest-volume consumer-debt forum in the country) and `ny-nyc-housing-court` (RPAPL Article 7 summary proceedings; Local Law 136 Right to Counsel; ERAP)
+- **Upstate City Courts roll-up**: `ny-city-courts` (~60 cities under UCCA / 22 NYCRR Part 210, $15k cap)
+- **Justice Courts roll-up**: `ny-justice-courts` (~1,250 Town and Village courts under UJCA / 22 NYCRR Part 214, $3k cap)
+- **Family Court skill**: `ny-family-court` (FCA Articles 3-10; CSSA; Support Magistrates; Article 8 family-offense Orders of Protection; the only NY trial-court venue with right-to-assigned-counsel as a general rule)
+- **Five subject-matter bundles**: `ny-consumer-debt`, `ny-landlord-tenant`, `ny-personal-injury`, `ny-employment`, `ny-commercial-disputes`
+
 ## Reference corpora — Washington (`wa-law-references/references/`)
 
 Verbatim text pulled from official sources, organized by domain:
@@ -185,6 +236,23 @@ CO pull scripts:
 - **`scripts/pull_co_statutes.py`** — fetches C.R.S. title PDFs from `content.leg.colorado.gov`, runs `pdftotext -layout`, slices by `ARTICLE N` headers, and emits one MD file per article with `## § NN-N-NNN. Title` section headings. Includes `http_get_bytes()` retry helper (3 retries with exponential backoff) and atomic tmp-rename writes. Wired into the quarterly `refresh-references` workflow under `target=co`.
 - **`scripts/pull_co_court_rules.py`** — walks the paginated CJD index at `https://www.coloradojudicial.gov/supreme-court/chief-justice-directives`, downloads each PDF, converts via `pdftotext -layout`, dedupes page-header noise, and emits one MD file per CJD (`CJD-NN-NN.md`). For the four paywalled rule sets (C.R.C.P., CRE, C.A.R., Colo. RPC) plus the C.R.C.P. county-court / small-claims subsets, the script writes pointer-stub MDs (idempotent — existing hand-authored files are preserved unless `--overwrite-stubs` is passed). Mirrors `pull_co_statutes.py`'s atomic-write / ThreadPoolExecutor pattern. Wired into the quarterly `refresh-references` workflow under `target=co`.
 
+## Reference corpora — New York (`ny-law-references/references/`)
+
+Mirrors the WA/OR/CA/CO corpora structure:
+
+- **`court-rules/`** — New York court rules. The principal sources are the **22 NYCRR Uniform Rules** (Part 202 Supreme/County, Part 208 NYC Civil Court, Part 210 City Courts, Part 212 District Courts, Part 214 Court of Claims, plus Part 130 sanctions and Part 1200 Rules of Professional Conduct), the Commercial Division Rules at § 202.70, and the New York Law Reports Style Manual (Tanbook). All 22 NYCRR rules are published by the Office of Court Administration at `www.nycourts.gov/rules/trialcourts/` — a Cloudflare-protected host. The puller writes verbatim Markdown when the upstream is reachable and **pointer stubs** (canonical URL + scope description) when the upstream returns a Cloudflare interstitial; mirrors `pull_co_court_rules.py`'s "publish what we can verify + honest stubs for the rest" discipline.
+- **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`.
+- **`federal-bankruptcy/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-bankruptcy/`.
+- **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`.
+- **`ny-statutes-debt/`** — **36 NY consolidated-laws targets / ~2.9 MB verbatim** across **CPLR** (15 articles: 1, 2, 3, 21, 22, 23, 30, 31, 32, 40 Trial, 45 Evidence, 50, 51, 52, 53), **General Obligations Law** (Article 5 contracts incl. statute of frauds + interest rates; Article 17 revival of debts), **General Business Law** (Article 22-A §§ 349-350 deceptive acts; Article 29-H §§ 600-606 NY mini-FDCPA), **RPAPL** (Articles 7 + 13 — summary proceedings + foreclosure), **Real Property Law** (Article 6-A Good Cause Eviction; Article 7 Landlord and Tenant), **N.Y. UCC** (Articles 2, 3, 9 — the NY enactment), **Domestic Relations Law** (Article 9 Annulment; Article 10 Divorce; Article 13 Matrimonial), **Family Court Act** (Article 4 Child Support; Article 5-B UIFSA — the actual home of UIFSA in NY), **Estates Powers and Trusts Law** (Article 5 Family Rights), **General Construction Law** (full law — public holidays + time computation; § 19/24/25/25-a), and **Banking Law** (Article 12-D Licensed Mortgage Bankers; Article 12-E Licensed Mortgage Loan Originators; Article 14-A Student Loan Servicers). The directory name retains the original slug for path stability; scope covers the full NY civil-practice surface.
+
+NY pull scripts:
+
+- **`scripts/pull_ny_court_rules.py`** — fetches **15 verbatim Parts** of 22 NYCRR (Parts 100 / 104 / 125 / 130 / 202 / 205 / 206 / 207 / 208 / 210 / 212 / 214 / 216 / 220 / 221 — Supreme + Family + Court of Claims + Surrogate's + NYC Civil + upstate City + District + Justice Courts + Commercial Division at § 202.70 inside Part 202 + Judicial Conduct + Records Retention + Engagement of Counsel + Costs and Sanctions + Sealing + Jury + Depositions) + **5 pointer stubs** for content with no free authoritative HTML source (Part 1200 Rules of Professional Conduct, Tanbook PDF, NYC Civil Court Directives, Nassau / Suffolk DC local rules). Because the upstream host (`www.nycourts.gov`) sits behind Cloudflare with bot-fight mode that fingerprints both IP reputation and TLS handshake, the puller uses **curl_cffi** with Chrome TLS impersonation and accepts an optional Cloudflare-Warp HTTP proxy via the **`NY_RULES_PROXY`** env var. The proxy is **developer-local** (LAN-only) — GitHub Actions runners can't reach it; the quarterly CI workflow runs without the proxy, so its NY-rules step typically just bumps the `Fetched:` date without changing content. The `_file_is_stub` regression check keeps committed verbatim content in place even when a stub-only re-run happens. The canonical way to refresh the corpus is for an operator to run the puller locally with their `NY_RULES_PROXY` set and commit the diff.
+- **`scripts/pull_ny_statutes.py`** — fetches NY consolidated-laws articles from the **NY State Senate Open Legislation API** at `legislation.nysenate.gov/api/3/laws/<lawId>/<locationId>`. The API requires a registered key; set `NYSENATE_API_KEY` (env var) or the workflow secret of the same name to enable the verbatim path. Without the key the puller writes well-formed pointer stubs (mirrors `pull_indiana_statutes.py`'s conditional-API pattern). Both scripts emit `_manifest.json` with version + last_pulled.
+
+Plugin-internal scripts (`format-check.py` and `case-calendar.py`) ship adapted for NY: 22 NYCRR § 202.5 + § 202.5-b format check and CPLR 2103 deadline arithmetic with NY Gen. Constr. Law § 24 holidays.
+
 ## Common commands
 
 ```bash
@@ -228,6 +296,20 @@ python3 plugins/ca-court-docs/scripts/case-calendar.py ...     # CCP § 12 deadl
 python3 plugins/co-court-docs/scripts/format-check.py <file>   # C.R.C.P. 10 + CJD 11-01 compliance
 python3 plugins/co-court-docs/scripts/case-calendar.py ...     # C.R.C.P. 6 deadline arithmetic with C.R.S. § 24-11-101 holidays
 python3 plugins/co-court-docs/scripts/case-calendar.py --rules # List Colorado named deadline rules
+
+# Refresh reference corpora — New York
+python3 scripts/pull_ny_court_rules.py --workers 4 \
+  --out plugins/ny-court-docs/skills/ny-law-references/references/court-rules
+# With NYSENATE_API_KEY set, this pulls verbatim CPLR / GOB / GBS / RPAPL / UCC / DRL / EPT / GCN / BNK content:
+NYSENATE_API_KEY=<key> python3 scripts/pull_ny_statutes.py --workers 4 \
+  --out plugins/ny-court-docs/skills/ny-law-references/references/ny-statutes-debt
+# Without the key, the puller writes pointer stubs (use --stubs-only to force):
+python3 scripts/pull_ny_statutes.py --workers 4 --stubs-only
+
+# New York scripts
+python3 plugins/ny-court-docs/scripts/format-check.py <file>   # 22 NYCRR § 202.5 + § 202.5-b compliance
+python3 plugins/ny-court-docs/scripts/case-calendar.py ...     # CPLR 2103 deadline arithmetic with NY Gen. Constr. Law § 24 holidays
+python3 plugins/ny-court-docs/scripts/case-calendar.py --rules # List New York named deadline rules
 ```
 
 The lint also runs in CI on every push/PR (`.github/workflows/lint-skills.yml`).
@@ -348,6 +430,15 @@ plugins/co-court-docs/              # 22 skills (21 standard + co-family-law)
   scripts/format-check.py           # C.R.C.P. 10 + CJD 11-01 compliance
   scripts/case-calendar.py          # C.R.C.P. 6 deadline arithmetic with C.R.S. § 24-11-101 holidays
   evals/                            # five eval categories (drafting/formatting/procedural/subject-matter/integration); empty dirs + stub README
+plugins/ny-court-docs/              # 35 skills (statewide-format + 5 flagship Supreme Court venues + 2 dedicated Long Island District Courts + 2 NYC Civil/Housing Court skills + upstate City Courts + Justice Courts + Family Court + Supreme Court roll-up + 13 standard procedural + 5 subject bundles: consumer-debt + landlord-tenant + personal-injury + employment + commercial-disputes)
+  .claude-plugin/plugin.json        # plugin manifest (version: 0.3.0)
+  skills/<skill>/SKILL.md           # 35 SKILL.md files with substantive New York content
+  skills/ny-law-references/references/{court-rules,federal-debt-laws,federal-bankruptcy,ucc-model,ny-statutes-debt}/README.md
+  skills/ny-consumer-debt/references/examples/   # synthetic example filings dir
+  skills/ny-landlord-tenant/references/examples/ # synthetic example filings dir
+  scripts/format-check.py           # 22 NYCRR § 202.5 + § 202.5-b compliance
+  scripts/case-calendar.py          # CPLR 2103 deadline arithmetic with NY Gen. Constr. Law § 24 holidays (including Lincoln's Birthday + Election Day)
+  evals/                            # five eval categories with 21 authored evals (drafting/formatting/procedural/subject-matter/integration)
 scripts/
   lint-skills.py                    # frontmatter + name/dir-match linter
   hooks/pre-commit                  # symlink target for .git/hooks/pre-commit
@@ -361,4 +452,8 @@ scripts/
   pull_co_court_rules.py            # coloradojudicial.gov CJD PDFs → co court-rules/ (+ paywalled-rule stubs)
   pull_oregon_rules.py              # oregonlegislature.gov + OJD SharePoint + osbar.org → or court-rules/
   pull_oregon_ors.py                # oregonlegislature.gov → or-ors-debt/
+  pull_indiana_rules.py             # rules.incourts.gov + in.gov/courts/files PDFs → in court-rules/
+  pull_indiana_statutes.py          # api.iga.in.gov (key-gated) → in-statutes-debt/ (stubs without key)
+  pull_ny_court_rules.py            # nycourts.gov/rules/trialcourts/ (Cloudflare-gated) → ny court-rules/ (stubs on CF interstitial)
+  pull_ny_statutes.py               # legislation.nysenate.gov/api/3/laws/ (key-gated) → ny-statutes-debt/ (stubs without NYSENATE_API_KEY)
 ```

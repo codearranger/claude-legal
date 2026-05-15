@@ -21,6 +21,7 @@ on:
           - ca
           - co
           - in
+          - ny
 
 permissions:
   contents: write
@@ -47,13 +48,14 @@ jobs:
           TARGET: ${{ github.event.inputs.target }}
         run: |
           case "${TARGET:-all}" in
-            all)     targets='["federal","wa","or","ca","co","in"]' ;;
+            all)     targets='["federal","wa","or","ca","co","in","ny"]' ;;
             federal) targets='["federal"]' ;;
             wa)      targets='["wa"]' ;;
             or)      targets='["or"]' ;;
             ca)      targets='["ca"]' ;;
             co)      targets='["co"]' ;;
             in)      targets='["in"]' ;;
+            ny)      targets='["ny"]' ;;
             *)       echo "unexpected target: $TARGET" >&2; exit 1 ;;
           esac
           echo "targets=$targets" >> "$GITHUB_OUTPUT"
@@ -183,6 +185,45 @@ jobs:
         env:
           IGA_API_KEY: ${{ secrets.IGA_API_KEY }}
         run: python3 scripts/pull_indiana_statutes.py --workers 4
+
+      # ---- NY ----
+      # New York's trial-court rules (22 NYCRR Parts 130, 202, 202.70,
+      # 208, 210, 212, 214, 1200) are published on www.nycourts.gov,
+      # which sits behind Cloudflare's managed-challenge gate. The
+      # court-rules puller tries the canonical URLs first and falls
+      # back to pointer stubs when the upstream returns an
+      # interstitial — mirrors the CO court-rules puller's discipline.
+      # The statutes puller hits the NY State Senate Open Legislation
+      # API at legislation.nysenate.gov; when the `NYSENATE_API_KEY`
+      # secret is unset (the current state) the script emits well-
+      # formed pointer stubs so the corpus retains its target shape
+      # until access is wired in. Mirrors the IN statutes puller.
+      - name: NY — court rules (22 NYCRR civil practice + Comm Div + sanctions)
+        if: matrix.target == 'ny'
+        continue-on-error: true
+        timeout-minutes: 15
+        # No `NY_RULES_PROXY` here on purpose. The proxy referenced
+        # by that env var is a developer-local Cloudflare-Warp HTTP
+        # endpoint (on a LAN address); GitHub Actions runners can't
+        # reach it. The puller falls back to stubs when Cloudflare
+        # blocks the runner — but the per-file "don't regress
+        # substantive content to a stub" check (`_file_is_stub`)
+        # keeps any verbatim content already committed to the repo
+        # in place. So the worst case for a CI refresh is a `Fetched:`
+        # date bump with no real change. Operators wanting a fresh
+        # verbatim pull should run the puller locally with their
+        # `NY_RULES_PROXY` set.
+        run: |
+          pip3 install --break-system-packages curl_cffi
+          python3 scripts/pull_ny_court_rules.py --workers 4
+
+      - name: NY — consolidated laws (CPLR + GOB + GBS + RPAPL + UCC + DRL + GCN + BNK)
+        if: matrix.target == 'ny'
+        continue-on-error: true
+        timeout-minutes: 15
+        env:
+          NYSENATE_API_KEY: ${{ secrets.NYSENATE_API_KEY }}
+        run: python3 scripts/pull_ny_statutes.py --workers 4
 
       # ---- Finalize ----
 
