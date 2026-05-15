@@ -1,6 +1,6 @@
 {
   "name": "ny-court-docs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "dependencies": [
     "claude-legal-federal-laws"
   ],
@@ -36,6 +36,12 @@
     "nyc-civil-court",
     "nyscef",
     "county-courts",
+    "nassau-district-court",
+    "suffolk-district-court",
+    "long-island-district-courts",
+    "uniform-district-court-act",
+    "udca",
+    "22-nycrr-212",
     "civil-rules",
     "evidence-rules",
     "discovery",

@@ -3,19 +3,19 @@ name: ny-county-courts
 description: >
   Use when filing in a New York trial court other than the
   five flagship counties (New York, Kings, Bronx, Nassau,
-  Queens). Triggers include 'Suffolk County Supreme Court',
-  'Westchester County Supreme Court', 'Erie County Supreme
-  Court', 'Monroe County Supreme Court', 'Onondaga County
-  Supreme Court', 'Richmond County Supreme Court' (Staten
-  Island), 'Civil Court of the City of New York', 'Nassau
-  District Court', 'Suffolk District Court', 'City Court',
-  'Town and Village Justice Court', 'small claims part'.
-  Covers the next-largest counties' Supreme Courts, the four
-  NYC borough Civil Courts under the Civil Court Act, Nassau
-  and Suffolk District Courts (the suburban Long Island civil-
-  trial courts handling under-$15,000 actions), upstate City
-  Courts, and Town & Village Justice Courts.
-version: 0.1.0
+  Queens) and other than the two dedicated Long Island
+  District Courts. Triggers include 'Suffolk County Supreme
+  Court', 'Westchester County Supreme Court', 'Erie County
+  Supreme Court', 'Monroe County Supreme Court', 'Onondaga
+  County Supreme Court', 'Richmond County Supreme Court'
+  (Staten Island), 'Civil Court of the City of New York',
+  'City Court', 'Town and Village Justice Court', 'small
+  claims part'. Covers the next-largest counties' Supreme
+  Courts, the four NYC borough Civil Courts under the Civil
+  Court Act, upstate City Courts, and Town & Village Justice
+  Courts. For the Nassau and Suffolk District Courts use the
+  dedicated skills `ny-nassau-dc` and `ny-suffolk-dc`.
+version: 0.2.0
 ---
 
 # New York County Courts — Long-tail Roll-up
@@ -82,17 +82,23 @@ system) — not NYSCEF.
 
 ## District Courts (Nassau & Suffolk)
 
-Long Island has its own **District Court** layer (not
-present elsewhere in the state):
+Long Island has its own **District Court** layer (not present
+elsewhere in the state). Each District Court is now covered
+by a **dedicated skill**:
 
-- **Nassau District Court** — six districts; 99 Main Street,
-  Hempstead and other branches. Jurisdiction up to $15,000
-  civil; misdemeanor + violation criminal.
-- **Suffolk District Court** — six districts; Central Islip
-  primary courthouse. Same jurisdiction.
+- **Nassau District Court** — see [`ny-nassau-dc`]. Six
+  districts; 99 Main Street, Hempstead. Jurisdiction up to
+  $15,000 civil; full L&T Part; small / commercial claims;
+  misdemeanor + violation criminal. 22 NYCRR Part 212.
+- **Suffolk District Court** — see [`ny-suffolk-dc`]. Six
+  districts covering the five **western** towns + Brookhaven
+  only; eastern Suffolk routes to Town Justice Courts.
+  Cohalan Court Complex, Central Islip. Jurisdiction up to
+  $15,000 civil. 22 NYCRR Part 212.
 
-Pro se debt-collection cases are common in Nassau/Suffolk
-District Courts.
+Pro se debt-collection cases and L&T summary proceedings are
+the dominant case categories at both courts. Use the
+dedicated skills for filing detail.
 
 ## City Courts (upstate)
 
