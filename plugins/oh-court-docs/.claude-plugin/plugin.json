@@ -1,0 +1,32 @@
+{
+  "name": "oh-court-docs",
+  "version": "0.1.0",
+  "dependencies": [
+    "claude-legal-federal-laws"
+  ],
+  "description": "Draft and format pleadings, declarations, motions, notices, and proposed orders for Ohio courts. Applies Ohio Civ. R. 10 + per-court local rules statewide formatting; includes Cuyahoga County Court of Common Pleas (Cleveland) and Franklin County Court of Common Pleas (Columbus) specifics plus a county-courts roll-up; supports pro se workflows. Architected as matter-neutral civil-procedure skills (Ohio Civ. R. civil rules, Ohio Evid. R. evidence rules, fees and costs, local rules, citation format per the Ohio Manual of Citations) plus subject-matter bundles. The first subject-matter bundle, oh-consumer-debt, covers FDCPA / Reg F / state UTPA-equivalent / chain-of-title doctrine. All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/claude-legal",
+  "repository": "https://github.com/codearranger/claude-legal",
+  "license": "MIT",
+  "keywords": [
+    "ohio",
+    "legal",
+    "pleadings",
+    "pro-se",
+    "ohio civ. r.",
+    "ohio evid. r.",
+    "civil-rules",
+    "evidence-rules",
+    "discovery",
+    "hearings",
+    "post-judgment",
+    "fact-check",
+    "fdcpa",
+    "consumer-protection",
+    "debt-collection"
+  ]
+}
