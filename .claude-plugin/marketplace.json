@@ -5,8 +5,8 @@
     "url": "https://github.com/codearranger"
   },
   "metadata": {
-    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state, plus a shared data-only plugin for federal law. Five state plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt defense bundle), or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle), ca-court-docs (California — CRC 2.100-2.119-compliant pleadings, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA / UCL consumer-debt defense bundle), co-court-docs (Colorado — C.R.C.P. 10 + CJD 11-01-compliant pleadings, Denver + Arapahoe + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt defense bundle, plus a UDMA-based family-law bundle), and in-court-docs (Indiana — Ind. Trial R. 5(E) pleadings under Indiana Trial Rules with the Jarboe burden-shifting and T.R. 59 motion-to-correct-error quirks, Marion Superior Court / Lake Superior Court + populous-counties roll-up, IUCCC / DCSA consumer-debt defense bundle leaning on chain-of-title + FDCPA since Indiana has no collection-agency licensing regime). All five state plugins depend on the shared claude-legal-federal-laws plugin for FDCPA / FCRA / TILA / ECOA / EFTA / Garnishment + Reg B-F-V-Z-DD-E-M-N-P-X + RESPA + SCRA + FHA + FTC Telemarketing Sales Rule + Title 11 Bankruptcy + model UCC content — declared in their plugin.json and dereferenced from in-tree symlinks at install time, so the federal corpora live in one canonical place. All state plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles. The structure leaves clean slots for plugins covering additional states.",
-    "version": "0.11.0"
+    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents, organized one plugin per state, plus a shared data-only plugin for federal law. Six state plugins today: wa-court-docs (Washington — GR 14-compliant pleadings, KCDC + KCSC + the populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt defense bundle), or-court-docs (Oregon — UTCR 2.010-compliant pleadings, Multnomah + Washington County Circuit Court specifics + the populous-counties roll-up, ORS 697 / UTPA consumer-debt defense bundle), ca-court-docs (California — CRC 2.100-2.119-compliant pleadings, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA / UCL consumer-debt defense bundle), co-court-docs (Colorado — C.R.C.P. 10 + CJD 11-01-compliant pleadings, Denver + Arapahoe + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt defense bundle, plus a UDMA-based family-law bundle), in-court-docs (Indiana — Ind. Trial R. 5(E) pleadings under Indiana Trial Rules with the Jarboe burden-shifting and T.R. 59 motion-to-correct-error quirks, Marion Superior Court / Lake Superior Court + populous-counties roll-up, IUCCC / DCSA consumer-debt defense bundle leaning on chain-of-title + FDCPA since Indiana has no collection-agency licensing regime), and ny-court-docs (New York — 22 NYCRR § 202.5 paper format + 22 NYCRR § 202.5-b NYSCEF electronic-filing format with the New York caption and \"-against-\" party separator, five flagship Supreme Court venues each as its own skill — New York County (1st JD, Manhattan, Commercial Division at the $500k threshold), Kings County (2nd JD, Brooklyn, with CPLR 3408 foreclosure conferences), Bronx County (12th JD), Nassau County (10th JD, Mineola, Commercial Division at $200k), and Queens County (11th JD, Jamaica) — plus a long-tail roll-up covering Suffolk / Westchester / Erie / Monroe / Onondaga Supreme Courts, the four NYC Civil Court borough branches under the Civil Court Act, Nassau and Suffolk District Courts, upstate City Courts, and Town & Village Justice Courts; **two subject-matter bundles**: ny-consumer-debt covering FDCPA / Reg F / the 2022 Consumer Credit Fairness Act (3-year SOL at CPLR 213(a), heightened pleading at CPLR 3015(e), heightened default-judgment evidence at 22 NYCRR § 202.27-a) / GBL § 600 collection-agency licensing / GBL § 349 deceptive-acts / CPLR 4544 small-print contracts / chain of title under N.Y. UCC Article 9; and ny-landlord-tenant covering RPAPL Article 7 summary proceedings, the 2019 HSTPA reforms, the 2024 Good Cause Eviction Law, RPL § 235-b warranty of habitability, NYC right-to-counsel under Local Law 136 of 2017, and ERAP stays). All six state plugins depend on the shared claude-legal-federal-laws plugin for FDCPA / FCRA / TILA / ECOA / EFTA / Garnishment + Reg B-F-V-Z-DD-E-M-N-P-X + RESPA + SCRA + FHA + FTC Telemarketing Sales Rule + Title 11 Bankruptcy + model UCC content — declared in their plugin.json and dereferenced from in-tree symlinks at install time, so the federal corpora live in one canonical place. All state plugins are architected as matter-neutral civil-procedure skills plus subject-matter bundles. The structure leaves clean slots for plugins covering additional states.",
+    "version": "0.12.0"
   },
   "plugins": [
     {
@@ -201,6 +201,60 @@
         "debt-collection",
         "odyssey-efile",
         "ic-34-11"
+      ]
+    },
+    {
+      "name": "ny-court-docs",
+      "source": "./plugins/ny-court-docs",
+      "description": "Draft and format pleadings, affirmations, affidavits, motions, notices of motion, orders to show cause, and proposed orders for New York courts. Applies 22 NYCRR § 202.5 paper format and 22 NYCRR § 202.5-b NYSCEF electronic-filing format (1-inch margins, double-spaced 12-point text, the New York caption with the \"-against-\" party separator, the Index Number, the assigned Justice + Part designation); includes five flagship Supreme Court venues each as its own skill — New York County (1st JD, Manhattan, 60 Centre Street, with the $500,000-threshold Commercial Division under 22 NYCRR § 202.70), Kings County (2nd JD, Brooklyn, 360 Adams Street, with the high-volume foreclosure settlement conference part under CPLR 3408), Bronx County (12th JD, 851 Grand Concourse), Nassau County (10th JD, Mineola, with a $200,000-threshold Commercial Division), and Queens County (11th JD, Jamaica) — plus a long-tail roll-up covering Suffolk / Westchester / Erie / Monroe / Onondaga / Richmond Supreme Courts, the four NYC Civil Court borough branches under the Civil Court Act ($50,000 cap, the largest consumer-debt forum in the state), Nassau and Suffolk District Courts, upstate City Courts, and Town & Village Justice Courts; supports pro se / self-represented workflows including the post-2023 CPLR 2106 universal affirmation under penalty of perjury (L 2023, ch 559 ending the notary-bottleneck for pro se filers). Architected as matter-neutral civil-procedure skills (CPLR civil rules with the broadest \"material and necessary\" disclosure scope in the U.S. at CPLR 3101(a), the CPLR 3130/3133(b) 25-interrogatory cap, the 22 NYCRR § 202.20-f good-faith-conferral rule, CPLR 3211 pre-answer motion-to-dismiss practice with the strict (e) consolidation rule, the Individual Assignment System under 22 NYCRR § 202.3, Microsoft Teams remote hearings, the Guide to NY Evidence in lieu of a codified evidence code with CPLR Article 45 codified evidence including CPLR 4518 business records and CPLR 4544 small-print contracts; CPLR 2103(b)(2) 5-day mail-service rule longer than the federal/WA/OR 3-day rule; deadline arithmetic under CPLR 2103 with NY Gen. Constr. Law § 24 holidays including the distinctive Lincoln's Birthday (Feb 12) court closure and annual Election Day closure; the Notice of Motion / Order to Show Cause / cross-motion framework under CPLR 2214 and 2215 with the 8-day minimum service period and the 22 NYCRR § 202.8-b 25-page memo / 15-page reply limits; the verified-vs-unverified pleading distinction under CPLR 3020; the CPLR 5015(a)(1)-(5) motion-to-vacate framework with the 1-year clock; CPLR Article 52 enforcement of money judgments including restraining notice (5222), income execution (5231), property execution (5232), the Exempt Income Protection Act (CPLR 5222-a) with the $3,090 automatic-protection threshold and EJ-FOC-1 exemption form, and the 20-year SOL on money judgments at CPLR 211(b); 22 NYCRR § 202.48 settle-order procedure with the jurisdictional 60-day clock) plus subject-matter bundles. Two subject-matter bundles ship: (1) ny-consumer-debt covering FDCPA, Reg F, the **2022 Consumer Credit Fairness Act** (3-year SOL at CPLR 213(a), heightened pleading at CPLR 3015(e), heightened default-judgment evidence at 22 NYCRR § 202.27-a, additional notice mailing at CPLR 308(six)), N.Y. GBL § 600 et seq. collection-agency licensing, N.Y. GBL §§ 349 / 350 deceptive acts and false advertising, CPLR 4544 small-print-contract exclusion, chain of title under N.Y. UCC Article 9 with CPLR 4518 business-records foundation as construed by *Bank of NY Mellon v. Gordon*, 171 AD3d 197 (2d Dept 2019), the 5-pattern fact-pattern triage (stale credit-card debt, debt-buyer plaintiff missing chain-of-title, sewer-service default, post-CCFA non-compliant default, active case with FDCPA/GBL § 349 counterclaim), and synthetic example filings; and (2) ny-landlord-tenant covering RPAPL Article 7 summary proceedings (nonpayment under § 711(2) with 14-day demand, holdover under § 711(1) with 30/60/90-day notice scaled by tenancy under RPL § 226-c), the **2019 Housing Stability and Tenant Protection Act** (1-month-rent security deposit cap at GOL § 7-108(1-a), $50-or-5% late-fee cap at RPL § 238-a, bilateral attorney's-fee shifting at RPL § 234, 6-year rent-overcharge lookback), the **2024 Good Cause Eviction Law** at RPL Article 6-A with the just-cause grounds and rent-increase challenge threshold, rent regulation regimes, RPL § 235-b implied warranty of habitability, NYC right-to-counsel under Local Law 136 of 2017 at NYC Admin Code § 26-1301, the Emergency Rental Assistance Program (ERAP) automatic stay, and the comprehensive defenses + counterclaims catalog. All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+      "category": "legal",
+      "keywords": [
+        "new-york",
+        "legal",
+        "pleadings",
+        "pro-se",
+        "cplr",
+        "22-nycrr-202",
+        "guide-to-ny-evidence",
+        "tanbook",
+        "new-york-county",
+        "kings-county",
+        "bronx-county",
+        "nassau-county",
+        "queens-county",
+        "supreme-court",
+        "individual-assignment-system",
+        "commercial-division",
+        "nyc-civil-court",
+        "nyscef",
+        "county-courts",
+        "civil-rules",
+        "evidence-rules",
+        "discovery",
+        "hearings",
+        "post-judgment",
+        "fact-check",
+        "deadlines",
+        "5-day-mail-rule",
+        "fdcpa",
+        "reg-f",
+        "ccfa",
+        "consumer-credit-fairness-act",
+        "cplr-213a",
+        "cplr-3015e",
+        "gbl-349",
+        "gbl-600",
+        "consumer-protection",
+        "debt-collection",
+        "landlord-tenant",
+        "rpapl-article-7",
+        "hstpa",
+        "good-cause-eviction",
+        "rpl-235-b",
+        "rent-stabilization",
+        "nyc-housing-court",
+        "right-to-counsel",
+        "erap"
       ]
     }
   ]
