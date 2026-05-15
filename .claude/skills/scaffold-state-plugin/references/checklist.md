@@ -35,6 +35,65 @@ Before touching the codebase, gather the inputs. See
       (typically 3–6 years)
 - [ ] Court eFiling system (state-specific portal)
 
+### Civil-court venue layers — survey before deciding on
+### dedicated skills
+
+Don't assume a state has the same court-system topology as
+WA / OR. Some states have civil-court layers that justify
+**dedicated venue skills** rather than rolling everything
+into county-courts:
+
+- [ ] Does the state have a separate **lower civil court**
+      (e.g., NYC Civil Court, NJ Special Civil Part)? If so,
+      consider a dedicated skill.
+- [ ] Does the state have a **dedicated housing court**
+      (e.g., NYC Housing Court, MA Housing Court)? Often
+      worth dedicated coverage given volume.
+- [ ] Does the state have **District Courts** between
+      Justice/Town courts and Superior/Supreme (e.g., NY
+      Long Island District Courts)? Dedicated skills.
+- [ ] Does the state have **upstate City Courts** distinct
+      from rural Justice Courts? Both layers may warrant
+      their own skill.
+- [ ] Does the state have a separate **Family Court** (with
+      its own rules, support magistrates, custody framework)?
+      Usually deserves a dedicated skill.
+
+NY ships 35 skills because of this fragmentation. WA / OR
+fit comfortably in the 21-skill base. The shape of the new
+state's trial-court system dictates which.
+
+### Phase 0.5 — Probe the live upstream
+
+Before authoring the puller's target catalog, verify
+identifiers against the actual source-of-truth API or HTML
+index. Common pitfalls:
+
+- [ ] Confirm the URL pattern is current (CMS migrations
+      change paths — NY courts moved from
+      `/rules/trialcourts/{N}.shtml` to
+      `/rules/part-{N}-{slug}` in Drupal 10)
+- [ ] Confirm Part / Article numbering against the live
+      index (adjacent Parts get conflated easily — NY Part
+      214 is Justice Courts, not Court of Claims as a casual
+      reader of the table of contents might guess)
+- [ ] Confirm Article identifiers match the API's locationId
+      format (e.g., `A22-A` with hyphen vs. `A22A` without —
+      both look reasonable; only one resolves)
+- [ ] Confirm which **law** owns each topic (e.g., NY child
+      support is in Family Court Act, not Domestic Relations
+      Law, despite intuition)
+- [ ] If the upstream has an API: probe the JSON response
+      shape (e.g., `{documents: {items: [...]}}` vs.
+      `{documents: [...]}`) before assuming the walker
+      structure
+- [ ] If the upstream has authentication: identify whether
+      it's an API key, OAuth, or something else; register
+      for any keys before the puller is wired into CI
+
+See [`puller-design-lessons.md`](puller-design-lessons.md)
+for the full puller-design discipline.
+
 ## Phase 1 — Plugin manifest
 
 - [ ] Create `plugins/<abbr>-court-docs/.claude-plugin/plugin.json`
@@ -92,9 +151,10 @@ Before touching the codebase, gather the inputs. See
 
 ## Phase 3 — SKILL.md files
 
-For each of the 21 skills, author a `SKILL.md` using the
-matching template in `skill-templates/`. Required for every
-SKILL.md:
+For each of the 21 base skills (plus any additional venue
+or subject-matter skills the state warrants), author a
+`SKILL.md` using the matching template in `skill-templates/`.
+Required for every SKILL.md:
 
 - [ ] YAML frontmatter with `name`, `description`, `version`
 - [ ] `name` exactly matches the containing directory
@@ -103,6 +163,11 @@ SKILL.md:
 - [ ] Body with substantive content (not just "TODO")
 - [ ] Cross-references to other skills in the plugin
 - [ ] Disclaimer ("NOT LEGAL ADVICE...")
+- [ ] **NO cross-state references** — see Phase 8
+      verification grep. Don't write "the same as Washington's
+      GR 14", "unlike Oregon's no-interrogatories rule",
+      "California's In Pro Per" comparisons. State the rule
+      directly without comparing.
 
 Run lint after each batch:
 ```bash
@@ -273,6 +338,8 @@ OR plugin has 18; aim for parity):
 
 ## Phase 8 — Verification
 
+### Lint + scripts
+
 - [ ] Run `python3 scripts/lint-skills.py` — must show 0 fails
 - [ ] Run the new plugin's `format-check.py` against a sample
       `.docx` to verify it works
@@ -282,6 +349,74 @@ OR plugin has 18; aim for parity):
       substance (not just template stubs)
 - [ ] Spot-check a few cross-references — broken paths are
       common
+
+### Cross-state-reference scan (must come back clean)
+
+Run this grep over the new plugin's tree before commit. Any
+hit needs to be resolved before the plugin ships:
+
+```bash
+grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
+|wa-court-docs|or-court-docs|ca-court-docs|co-court-docs|in-court-docs|ny-court-docs\
+|like (Oregon|California|Colorado|Indiana|Washington|New York)\
+|unlike (Oregon|California|Colorado|Indiana|Washington|New York)\
+|federal/(WA|OR|CA|CO|IN|NY)" plugins/<abbr>-court-docs/ \
+  --include="*.md" --include="*.json"
+```
+
+- [ ] Grep returns no real hits (false positives like
+      `Washington's Birthday` as a holiday name, `in-person`,
+      `co-parents`, or verbatim statutory text mentioning a
+      state name are OK — distinguish before deleting)
+- [ ] No SKILL.md cross-references another state's plugin
+- [ ] No reference-corpus README cross-references another
+      state's plugin
+- [ ] No evals/README.md "see WA / OR / CA / etc. evals"
+      section
+
+### JSON validation
+
+- [ ] `python3 -m json.tool .claude-plugin/marketplace.json`
+      — must round-trip
+- [ ] `python3 -m json.tool plugins/<abbr>-court-docs/.claude-plugin/plugin.json`
+      — must round-trip
+- [ ] Any `_manifest.json` files produced by pull scripts
+      round-trip cleanly
+- [ ] Long description strings have all internal double
+      quotes backslash-escaped (`\"`)
+
+### Internal cross-reference resolution
+
+Run this scan to confirm every `<state>-XXX` reference inside
+the plugin resolves to an actual skill directory:
+
+```bash
+for f in plugins/<abbr>-court-docs/skills/*/SKILL.md; do
+  base=$(basename $(dirname $f))
+  grep -oE '<abbr>-[a-z0-9][a-z0-9-]+' "$f" | sort -u | while read ref; do
+    if [ "$ref" = "$base" ] || [ "$ref" = "<abbr>-court-docs" ]; then continue; fi
+    if [ ! -d "plugins/<abbr>-court-docs/skills/$ref" ]; then
+      echo "  $base -> BROKEN: $ref"
+    fi
+  done
+done
+```
+
+- [ ] No broken cross-references reported
+
+### Verbatim corpus sanity
+
+If pull scripts ran successfully:
+
+- [ ] At least one statute / rule file is > 5 KB (most should
+      be much larger — sub-1 KB usually means the puller got
+      a navigation page or stub instead of content)
+- [ ] Spot-check one file's section text against the canonical
+      source — no embedded `\n` literal sequences, no
+      duplicated section headings, no Cloudflare interstitial
+      text
+- [ ] `_manifest.json` reflects today's date and the correct
+      mode (`api` vs `stubs`)
 
 ## Phase 9 — Commit
 

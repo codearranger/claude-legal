@@ -273,10 +273,10 @@ state style manuals.
 | California | "v." | Per CRC 2.111 |
 | Texas | "v." | |
 | Florida | "v." | |
-| New York | "v." | |
+| **New York** | **"-against-"** | NY captions use the literal hyphen-against-hyphen form, not "v." or "vs." (a frequent surprise for out-of-state practitioners) |
 
-Washington's "vs." is the outlier. Most other states use "v."
-with a period.
+Washington's "vs." and **New York's "-against-"** are the
+two outliers. Most other states use "v." with a period.
 
 ## Hearings and remote appearances
 
@@ -287,7 +287,7 @@ with a period.
 | California | Mixed; varies by court (LA tentative-ruling system) |
 | Texas | In-person; some Zoom |
 | Florida | Mostly in-person post-COVID |
-| New York | In-person; virtual conferencing growing |
+| New York | Microsoft Teams (UCS default remote platform); per-Justice Part Rules govern in-person vs. remote |
 
 ## Ethical / pro se rules
 
@@ -296,10 +296,77 @@ with a period.
 | OSB# on signature block | Oregon (counsel only) |
 | WSBA# on signature block | Washington (counsel only) |
 | Cal. Bar # on signature | California (CCP § 396a) |
-| "Pro se" vs. "in pro per" | Most states "pro se"; California "in pro per" |
+| OCA # + NY Attorney Registration # on signature | New York (counsel only; pro se omits) |
+| "Pro se" vs. "in pro per" | Most states "pro se"; California "in pro per"; New York "Self-Represented" |
+| Affirmation under penalty of perjury without notary | **New York (post-2023 CPLR 2106 amendment, L 2023 ch 559)** — now available to any person, not just attorneys |
 
 California's "in pro per" terminology is unique among major
-states.
+states. **New York's post-2023 universal affirmation under
+CPLR 2106** is a major pro-se accessibility win — the rule
+used to require attorneys for unsworn affirmations and pro
+se litigants to use notarized CPLR 2309 affidavits. The 2023
+amendment ended that bottleneck.
+
+## Court system topology
+
+Most states fit the "Superior / Supreme + county-court roll-
+up + small-claims" shape that the 21-skill base assumes. A
+few states have additional civil-court layers that warrant
+**dedicated venue skills** rather than rolling everything
+into the county-courts skill.
+
+| State | Distinctive civil-court layers |
+|-------|-------------------------------|
+| **New York** | Civil Court of the City of New York (Civil Court Act, $50k cap, 5 borough branches); NYC Housing Court (Housing Part of Civil Court under § 208.42); Nassau + Suffolk District Courts (UDCA / 22 NYCRR Part 212, $15k cap; only on Long Island); upstate City Courts (UCCA / 22 NYCRR Part 210, $15k cap); ~1,250 Town and Village Justice Courts (UJCA / 22 NYCRR Part 214, $3k cap); Family Court (FCA / 22 NYCRR Part 205); Court of Claims (22 NYCRR Part 206) |
+| New Jersey | Special Civil Part (≤$20k); Small Claims Section (≤$5k); Landlord-Tenant Section (within Special Civil Part) |
+| Massachusetts | Housing Court (dedicated trial court for L&T statewide) |
+| Texas | Justice Courts (≤$20k since 2020); County Courts at Law; District Courts |
+
+When porting to one of these states, consider peeling out
+dedicated skills for the lower-court layers rather than
+rolling them into the county-courts roll-up. NY ships 35
+skills for this reason.
+
+## NY-specific procedural quirks
+
+These came up during the NY plugin authorship and are good
+references for any state with a similarly complex civil
+practice:
+
+- **CPLR 2103(b)(2) 5-day mail rule** — when service is by
+  mail, add **5 days** to any subsequent response/service
+  period (longer than the federal/many-state 3-day rule).
+- **Individual Assignment System (22 NYCRR § 202.3)** — one
+  Justice owns the case from RJI through judgment. Each
+  Justice publishes their own "Part Rules" — pro-se filers
+  must look up the assigned Justice's Part Rules before
+  every motion.
+- **22 NYCRR § 202.48 settle-order procedure** — when a
+  court directs an order to be settled, the proposed order
+  must be submitted within **60 days** (a jurisdictional
+  clock under *Funk v. Barry*). Miss it and the motion is
+  deemed abandoned.
+- **20-year SOL on money judgments (CPLR 211(b))** — the
+  longest in the U.S. CPLR 5014 allows judgment renewal.
+- **Verified vs. unverified pleadings (CPLR 3020)** — a
+  verified complaint forces a verified answer; debt-buyer
+  plaintiffs often verify to make the defendant's life
+  harder. Tactical choice for both sides.
+- **2022 Consumer Credit Fairness Act (CCFA)** —
+  retroactively shortened the SOL on consumer-credit
+  actions to **3 years** (CPLR 214-i), added heightened
+  pleading at CPLR 3015(e), and added default-judgment
+  evidence scrutiny at 22 NYCRR § 202.27-a (Supreme Court)
+  / § 208.6-a (NYC Civil Court).
+- **RPAPL § 711(2) 14-day rent demand (post-2019 HSTPA)** —
+  the predicate for a nonpayment summary proceeding is now
+  a 14-day written rent demand (was 3 days pre-HSTPA).
+  Defective demand = jurisdictional defense.
+- **Local Law 136 of 2017 universal Right to Counsel** —
+  NYC Admin Code § 26-1301 provides income-qualified
+  tenants with assigned counsel in eviction proceedings.
+  Unique to NYC; some upstate cities have piloted similar
+  programs.
 
 ## How to use this catalog
 

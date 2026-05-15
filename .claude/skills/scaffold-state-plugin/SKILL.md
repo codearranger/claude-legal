@@ -21,7 +21,7 @@ description: >
   This is a **project-scoped skill** — it lives in .claude/
   skills/ and runs against the marketplace repo as a whole. It
   is NOT a marketplace plugin.
-version: 0.2.0
+version: 0.3.0
 ---
 
 # Scaffold a New State Plugin
@@ -69,8 +69,15 @@ If the user hasn't supplied all of these, ASK before scaffolding
 
 ## The pattern to mirror
 
-Every state plugin has the same 21-skill shape, parameterized
-by the items above:
+The **21-skill base** is the minimum a new state plugin
+should ship. States with complex civil-court systems can
+and should add more — NY ships 35 (5 flagship Supreme Court
+venues, 2 dedicated Long Island District Courts, NYC Civil
+Court + NYC Housing Court, upstate City Courts, Justice
+Courts, Family Court, plus 5 subject-matter bundles), CO
+ships 22 (with a family-law bundle alongside consumer-debt).
+
+The 21-skill base, parameterized by the items above:
 
 ```
 plugins/<abbr>-court-docs/
@@ -316,6 +323,99 @@ what shipped. Push to the user's designated branch.
 
 ## Important rules
 
+### CRITICAL: No cross-state references inside the plugin
+
+Plugins install **one state at a time**. End users will not
+have WA + OR + CA + CO + IN installed alongside the new
+state's plugin. Comparisons to other states inside SKILL.md
+bodies, eval bodies, plugin.json descriptions, or reference
+READMEs are pure noise to the end user and **must be
+removed before the plugin ships**.
+
+What this means in practice when authoring the new plugin:
+
+- **Don't frame state-specific quirks comparatively.** Write
+  the rule directly. ❌ "Unlike Oregon's no-interrogatories
+  rule, NY allows 25 interrogatories under CPLR 3130." ✓ "NY
+  allows 25 interrogatories under CPLR 3130/3133(b)."
+- **Don't reference sibling-state SKILL.md files.** The new
+  plugin's `README.md`, `evals/README.md`, and reference-corpus
+  READMEs must not say "see `wa-court-docs/evals/`" or "mirrors
+  `co-court-docs/skills/co-law-references/...`". The end user
+  will not have those plugins installed.
+- **Don't import another state's terminology.** California's
+  "In Pro Per" doesn't appear in NY filings; Washington's
+  "Note for Motion Docket" doesn't appear in OR filings.
+- **Don't use "the same as Washington's GR 14" or similar
+  framing.** Cite the state's own rule directly.
+
+**Internal cross-references between skills in the SAME plugin
+are fine** and encouraged — e.g., `ny-discovery` referencing
+`ny-statewide-format` is exactly what the marketplace runtime
+expects.
+
+**Final scaffold step**: run a cross-state-reference grep
+before committing. Anything that turns up needs either
+deletion or rewording into a state-only statement:
+
+```bash
+# In the new plugin's directory:
+grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
+|wa-court-docs|or-court-docs|ca-court-docs|co-court-docs|in-court-docs|ny-court-docs\
+|like (Oregon|California|Colorado|Indiana|Washington|New York)\
+|unlike (Oregon|California|Colorado|Indiana|Washington|New York)\
+|federal/(WA|OR|CA|CO|IN|NY)" plugins/<abbr>-court-docs/ \
+  --include="*.md" --include="*.json"
+```
+
+**False-positive watch:** the scan will hit:
+
+- **"Washington's Birthday"** as the legal name of the
+  federal holiday — that's the actual statute language in
+  most states' Gen. Constr. or Govt. Codes, **not** a
+  cross-state comparison. Keep it.
+- **`in-person`** as a hyphenated phrase — matches the
+  `\bin-` pattern when looking for `in-court-docs` references.
+  Keep it.
+- **`co-parents`, `co-counsel`, `co-defendant`** — match the
+  `\bco-` pattern. Keep them.
+- **Verbatim statutory text from the state's own consolidated
+  laws** — e.g., NY's General Construction Law § 24 names the
+  federal holiday "Washington's Birthday"; that's the literal
+  state statute and not a cross-state reference.
+
+Distinguish state-as-comparison from state-as-statute-author
+before deleting.
+
+### Verify URL slugs, locationIds, and Part numbers against the live source
+
+**Don't rely on memory or example data for state-specific
+identifiers.** Multiple identifiers have been wrong in past
+authorship and triggered silent puller failures:
+
+- **22 NYCRR Part 214 is Justice Courts, not Court of Claims**
+  (Court of Claims is Part 206). Adjacent Parts get conflated
+  easily.
+- **NY GOB uses Article numbering (A5, A17), not Title
+  numbering (T5, T17)** — even though many secondary sources
+  refer to "Title 5" / "Title 17".
+- **NY GBS uses `A22-A` and `A29-H`** (hyphenated), not `A22A`
+  / `A29H`.
+- **Child support and UIFSA in NY are in Family Court Act
+  (FCT) Articles 4 and 5-B**, not in Domestic Relations Law.
+  DOM Article 9 is Annulment, Article 10 is Divorce.
+- **CMS migrations change URL patterns** — NY courts moved
+  from `/rules/trialcourts/{N}.shtml` to `/rules/part-{N}-{slug}`
+  in their Drupal 10 rollout. The legacy URLs redirect to an
+  index page, not the rule content. Discover the actual URL
+  slug at fetch time rather than assuming.
+
+The right pattern: probe the live API or HTML index for the
+state's source-of-truth identifiers before populating the
+puller's target catalog. See
+[`references/puller-design-lessons.md`](references/puller-design-lessons.md)
+for the full discipline.
+
 ### Do NOT search-and-replace WA or OR
 
 A state plugin is more than a search-and-replace from
@@ -389,15 +489,24 @@ don't scale.
 ## References
 
 - `references/checklist.md` — step-by-step checklist for the
-  manual path
+  manual path, including the pre-commit cross-state-reference
+  scan and post-commit verification phases
 - `references/skill-templates/` — canonical SKILL.md templates
-  for each of the 21 roles, with placeholders for state-
+  for each of the 21 base roles, with placeholders for state-
   specific content
 - `references/state-research-protocol.md` — how to research a
   new state's procedural rules from authoritative sources
 - `references/cross-state-quirks.md` — known procedural
-  quirks across the most-populous states, useful for
-  flagging in the new plugin's skill descriptions
+  quirks across the most-populous states, useful for the
+  initial-research phase (**do not import these comparisons
+  into the new plugin's bodies** — they go in the developer's
+  understanding, not the end-user-facing skill text)
+- `references/puller-design-lessons.md` — technical patterns
+  for writing the state's `pull_<state>_*.py` scripts:
+  curl_cffi + Chrome TLS impersonation for Cloudflare bypass,
+  API-key conditional patterns, prefetch-and-slice, literal-
+  `\n` decoding, regression protection (`_file_is_stub`), and
+  workflow-yaml integration
 - `references/scaffold-script.md` — usage notes for
   `scripts/scaffold-state.py`
 - `scripts/scaffold-state.py` — the scaffolder
