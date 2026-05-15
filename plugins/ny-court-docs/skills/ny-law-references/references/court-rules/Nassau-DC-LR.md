@@ -13,7 +13,7 @@
 
 ## What this set governs
 
-Local-rule overlay for Nassau District Court (the Long Island District Court layer): six districts headquartered at 99 Main Street, Hempstead. Covers the Civil Part Rules, the Landlord-Tenant Part rules, and the Small Claims Part.
+Local-rule overlay for Nassau District Court: six districts headquartered at 99 Main Street, Hempstead. Civil Part, Landlord-Tenant Part, Small Claims Part rules.
 
 ## How to retrieve verbatim text
 

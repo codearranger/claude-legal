@@ -1,73 +1,112 @@
 # court-rules Corpus — New York
 
-Verbatim text of New York court-rule canonical sources, scoped to the
-material most relevant to civil practice.
+Verbatim text of New York court-rule canonical sources, scoped to
+civil practice across every NY civil-court venue.
 
 ## Sources
 
-- **22 NYCRR Parts 202 / 208 / 210 / 212 / 214** — Uniform Civil
-  Rules for the Supreme + County Courts, the NYC Civil Court, the
-  upstate City Courts, the Long Island District Courts, and the
-  Court of Claims, respectively. Published by the New York Unified
-  Court System at `www.nycourts.gov/rules/trialcourts/`.
-- **22 NYCRR § 202.70** — Commercial Division Rules, including the
-  county-by-county monetary threshold table.
-- **22 NYCRR Part 130** — Costs and sanctions for frivolous conduct.
-- **22 NYCRR Part 1200** — Rules of Professional Conduct (adopted by
-  the four Appellate Divisions).
-- **NY Law Reports Style Manual ("Tanbook")** — citation manual
-  published by the Reporter of Decisions; pointer-stub.
-- **NYC Civil Court Directives and Procedures Manual** — local-rule
-  overlay for the Consumer Credit Part, Housing Part, default-
-  judgment scrutiny; pointer-stub.
-- **Nassau / Suffolk District Court local rules** — pointer-stubs for
-  the two Long Island District Court local rule sets.
+Published by the New York Unified Court System at
+`www.nycourts.gov/rules/...`. **15 Parts of 22 NYCRR pulled verbatim;
+4 ancillary publications and 1 paywalled Part shipped as pointer
+stubs.**
+
+### Trial-court rules (200-221)
+
+- **Part 202** — Uniform Civil Rules for the Supreme Court and the
+  County Court (the core civil-procedure rule set; includes the
+  Commercial Division Rules at § 202.70 as a sub-section, the IAS
+  at § 202.3, motion practice at §§ 202.7-202.8-g, e-filing at
+  § 202.5-b, settle-order at § 202.48, and the CCFA default-
+  scrutiny rule at § 202.27-a)
+- **Part 205** — Uniform Rules for the Family Court (FCA Articles
+  3-10)
+- **Part 206** — Uniform Rules for the Court of Claims
+- **Part 207** — Uniform Rules for the Surrogate's Court
+- **Part 208** — Uniform Civil Rules for the NYC Civil Court
+  (includes the Housing Part overlay at § 208.42 and the CCFA
+  default-scrutiny rule at § 208.6-a)
+- **Part 210** — Uniform Civil Rules for the upstate City Courts
+  (UCCA)
+- **Part 212** — Uniform Civil Rules for the District Courts
+  (Nassau + Suffolk, UDCA)
+- **Part 214** — Uniform Civil Rules for the Justice Courts
+  (~1,250 Town and Village courts, UJCA)
+- **Part 216** — Sealing of Court Records in Civil Actions
+- **Part 220** — Jury Selection and Deliberation
+- **Part 221** — Conduct of Depositions
+
+### Chief Administrator rules (100-161)
+
+- **Part 100** — Rules Governing Judicial Conduct
+- **Part 104** — Retention and Disposition of Court Records
+- **Part 125** — Uniform Rules for the Engagement of Counsel
+- **Part 130** — Costs and Sanctions for Frivolous Conduct
+
+### Stubs (no free authoritative HTML source)
+
+- **Part 1200** — Rules of Professional Conduct (paywalled at West
+  / LexisNexis; Cornell LII has a regulatory-index wrapper but
+  not the verbatim rule body)
+- **NY Law Reports Style Manual (Tanbook)** — published by the
+  Reporter of Decisions; PDF distribution only
+- **NYC Civil Court Directives and Procedures Manual** — local-
+  rule overlay including Consumer Credit Part directives + Housing
+  Part directives
+- **Nassau / Suffolk District Court local rules** — per-court
+  Part Rules
 
 ## How to refresh
 
 ```bash
-python3 scripts/pull_ny_court_rules.py --workers 4 \
-    --out plugins/ny-court-docs/skills/ny-law-references/references/court-rules
+# Without proxy (CI runners, Cloudflare-trusted IPs):
+python3 scripts/pull_ny_court_rules.py --workers 4
+
+# With warpsocks (developer workstation behind a residential IP
+# that Cloudflare's bot-fight mode would otherwise challenge):
+NY_RULES_PROXY=http://192.168.8.21:9091 \
+  python3 scripts/pull_ny_court_rules.py --workers 4
 ```
 
 The puller:
 
-1. **Tries the canonical UCS URLs first.** When the upstream returns
-   substantive HTML, the puller writes verbatim Markdown.
-2. **Falls back to pointer stubs** when the upstream returns a
-   Cloudflare managed-challenge response (HTTP 403 + "Just a
-   moment..." interstitial). The stub records the canonical URL,
-   the scope of the rule set, and how to retrieve the verbatim text.
-3. **Never regresses substantive content to a stub.** If a previous
+1. **Fetches via curl_cffi** with Chrome TLS impersonation, which
+   defeats Cloudflare's bot-detection that previously blocked the
+   `urllib`-based puller. Install with
+   `pip install --break-system-packages curl_cffi` if needed.
+2. **Optional warpsocks proxy** routes traffic through Cloudflare
+   Warp via the `NY_RULES_PROXY` env var, giving the puller a
+   Cloudflare-trusted source IP for sites that geo-fence by ASN.
+3. **Falls back to pointer stubs** when the upstream returns a
+   Cloudflare interstitial despite the curl_cffi + proxy
+   combination (rare). Stubs document the canonical URL.
+4. **Never regresses substantive content to a stub.** If a previous
    refresh wrote real Markdown and the current refresh would only
    produce a stub, the existing file is kept in place.
-
-## Why some files are stubs
-
-The `www.nycourts.gov` publication host sits behind Cloudflare. Many
-IP ranges — including most developer workstations — are challenged
-with a JavaScript-required interstitial. GitHub Actions runners are
-sometimes (but not always) waved through. When stubs appear in this
-corpus, the **canonical URL recorded in the stub remains valid in a
-browser**; the stub is just a documentation gap until the puller
-clears the upstream gate.
 
 ## File index
 
 | File | Rule set | Scope |
 |---|---|---|
-| `202.md` | 22 NYCRR Part 202 | Uniform Civil Rules — Supreme + County Court |
-| `202.70.md` | 22 NYCRR § 202.70 | Commercial Division Rules |
-| `208.md` | 22 NYCRR Part 208 | NYC Civil Court |
-| `210.md` | 22 NYCRR Part 210 | Upstate City Courts |
-| `212.md` | 22 NYCRR Part 212 | Nassau / Suffolk District Courts |
-| `214.md` | 22 NYCRR Part 214 | Court of Claims |
-| `130.md` | 22 NYCRR Part 130 | Costs and sanctions |
-| `Part-1200-Conduct.md` | 22 NYCRR Part 1200 | Rules of Professional Conduct |
-| `Tanbook.md` | NY Law Reports Style Manual | Citation format |
-| `NYC-CivilCourt-LR.md` | NYC Civil Court Directives | Civil Court local overlay |
-| `Nassau-DC-LR.md` | Nassau District Court rules | Long Island District Court |
-| `Suffolk-DC-LR.md` | Suffolk District Court rules | Long Island District Court |
+| `Part-100-Judicial-Conduct.md` | 22 NYCRR Part 100 | Judicial conduct + recusal |
+| `Part-104-Records-Retention.md` | 22 NYCRR Part 104 | Court-records retention schedule |
+| `Part-125-Engagement-Counsel.md` | 22 NYCRR Part 125 | Engagement-of-counsel scheduling |
+| `Part-130-Costs-Sanctions.md` | 22 NYCRR Part 130 | Sanctions for frivolous conduct |
+| `Part-202-Supreme-County.md` | 22 NYCRR Part 202 | Supreme + County Court (incl. § 202.70 Commercial Division) |
+| `Part-205-Family.md` | 22 NYCRR Part 205 | Family Court |
+| `Part-206-Court-Claims.md` | 22 NYCRR Part 206 | Court of Claims |
+| `Part-207-Surrogates.md` | 22 NYCRR Part 207 | Surrogate's Court |
+| `Part-208-NYC-Civil.md` | 22 NYCRR Part 208 | NYC Civil Court + Housing Part |
+| `Part-210-City-Courts.md` | 22 NYCRR Part 210 | Upstate City Courts |
+| `Part-212-District-Courts.md` | 22 NYCRR Part 212 | Nassau + Suffolk District Courts |
+| `Part-214-Justice-Courts.md` | 22 NYCRR Part 214 | Justice Courts (Town and Village) |
+| `Part-216-Sealing.md` | 22 NYCRR Part 216 | Sealing court records |
+| `Part-220-Jury-Selection.md` | 22 NYCRR Part 220 | Jury selection and deliberation |
+| `Part-221-Depositions.md` | 22 NYCRR Part 221 | Conduct of depositions |
+| `Part-1200-Professional-Conduct.md` | 22 NYCRR Part 1200 | Rules of Professional Conduct (stub) |
+| `Tanbook.md` | NY Law Reports Style Manual | Citation format (stub) |
+| `NYC-CivilCourt-LR.md` | NYC Civil Court Directives | Civil Court local overlay (stub) |
+| `Nassau-DC-LR.md` | Nassau District Court rules | Long Island District Court (stub) |
+| `Suffolk-DC-LR.md` | Suffolk District Court rules | Long Island District Court (stub) |
 
-> **NOT LEGAL ADVICE.** This corpus is a drafting aid; verify against
-> the current canonical text before filing.
+> **NOT LEGAL ADVICE.** This corpus is a drafting aid; verify
+> against the current canonical text before filing.

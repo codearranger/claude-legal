@@ -13,7 +13,7 @@
 
 ## What this set governs
 
-Local-rule overlay for Suffolk District Court: six districts headquartered at Central Islip. Covers the Civil Part Rules, the Landlord-Tenant Part rules, and the Small Claims Part.
+Local-rule overlay for Suffolk District Court: six districts headquartered at Central Islip. Civil Part, Landlord-Tenant Part, Small Claims Part rules.
 
 ## How to retrieve verbatim text
 
