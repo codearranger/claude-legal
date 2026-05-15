@@ -1,40 +1,47 @@
 ---
 name: oh-stark
 description: >
-  Use when drafting or filing in Stark County Court of Common Pleas (Canton, OH). Layers on top of `oh-statewide-format`. **TODO**:
-  expand description with realistic trigger phrases before
-  shipping.
-version: 0.1.0
+  Use when drafting or filing in Stark County Court of Common Pleas (Canton). Triggers include the court name, its case number format, and local-rule references. Layers on top of `oh-statewide-format`.
+version: 0.2.0
 ---
 
 # Stark County Court of Common Pleas (Canton)
 
-> **TODO**: Author substantive content. This is a scaffolded
-> stub. Research the Ohio analog from authoritative sources
-> before writing.
+> **NOT LEGAL ADVICE.** Verify the assigned judge's chambers
+> practice + the court's current Loc. R. before every filing.
 
-> **NOT LEGAL ADVICE.** This skill provides drafting assistance
-> only. Verify against current rules and case law before filing.
+## At a glance
 
-## State context
+- **Court**: Stark County Court of Common Pleas (Canton)
+- **Region**: Northeast Ohio / Canton metro
+- **Population**: 0.37M
+- **Address**: Stark County Common Pleas Court, 115 Central Plaza North, Canton, OH 44702
+- **Appellate district**: 5th Judicial District (Ohio Court of Appeals)
+- **E-filing**: Stark County eFiling
 
-- **State**: Ohio
-- **Format rule**: Ohio Civ. R. 10 + per-court local rules
-- **Civil rules**: Ohio Civ. R.
-- **Evidence rules**: Ohio Evid. R.
-- **Style manual**: Ohio Manual of Citations
+## Distinctives
 
-## What to author
+- Stark County is Ohio's seventh-largest county.
+- Mixed urban + rural civil docket; consumer-debt + L&T volume both significant.
+- Loc. R. typically caps briefs at 20 pages.
 
-1. Description: replace the placeholder with realistic trigger
-   phrases for how an Ohio pro se filer would ask about this
-2. Body: substantive content matching the role
-3. Composition notes: which other oh- skills this layers
-   with
-4. References: the supporting `references/*.md` files
+## Filing flow
 
-## Cross-references
+1. **Caption** per Civ. R. 10(A) — see `oh-statewide-format`
+2. **E-file** via the court's portal (per-court system —
+   not a statewide platform)
+3. **Working copies** if required by chambers practice
+4. **Certificate of service** on every party
+5. **Notice of Hearing** if the motion requires a hearing
+   date (see `oh-schedule-hearing`)
 
-- `oh-statewide-format` for format baseline
-- `oh-pro-se` for pro se conventions
-- `oh-county-courts` for the rest-of-Ohio roll-up
+## Composition with other oh- skills
+
+- `oh-statewide-format` — Civ. R. 10 caption + signature
+- `oh-discovery` — Civ. R. 33/34/36 practice
+- `oh-first-30-days` — 28-day Civ. R. 12(A)(1) answer
+- `oh-draft-motion` / `-declaration` / `-note` / `-order` —
+  scaffolders adapted to this court's local rules
+- `oh-pro-se` — pro-se conventions
+- `oh-file-packet` — court-specific e-filing portal
+- `oh-consumer-debt` — debt-buyer defense framework

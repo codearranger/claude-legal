@@ -2,44 +2,47 @@
 name: oh-frank
 description: >
   Use when drafting or filing in Franklin County Court of Common Pleas (Columbus). Triggers include the court name, its case number format, and local-rule references. Layers on top of `oh-statewide-format`.
-version: 0.1.0
+version: 0.2.0
 ---
 
 # Franklin County Court of Common Pleas (Columbus)
 
-> **TODO**: Author substantive content. This is a scaffolded
-> stub. Research the Ohio analog from authoritative
-> sources before writing — do not search-and-replace
-> from another state plugin.
+> **NOT LEGAL ADVICE.** Verify the assigned judge's chambers
+> practice + the court's current Loc. R. before every filing.
 
-> **NOT LEGAL ADVICE.** This skill provides drafting assistance
-> only. Verify against current rules and case law before filing.
+## At a glance
 
-## State context
+- **Court**: Franklin County Court of Common Pleas (Columbus)
+- **Region**: State capital / Central Ohio
+- **Population**: 1.32M (largest by population as of 2024 estimates)
+- **Address**: Franklin County Common Pleas Court, 345 S High St., Columbus, OH 43215
+- **Appellate district**: 10th Judicial District (Ohio Court of Appeals)
+- **E-filing**: efile.fccourts.org
 
-- **State**: Ohio
-- **Format rule**: Ohio Civ. R. 10 + per-court local rules
-- **Civil rules**: Ohio Civ. R.
-- **Evidence rules**: Ohio Evid. R.
-- **Style manual**: Ohio Manual of Citations
+## Distinctives
 
-## What to author
+- Franklin became Ohio's most-populous county circa 2018; the Civil Division has the highest civil-filing volume after Cuyahoga.
+- State-government employer concentration produces high employment-litigation volume.
+- Loc. R. 21 requires meet-and-confer before motions to compel.
+- Magistrates handle the bulk of pretrial civil matters under Civ. R. 53.
 
-1. Description: replace the placeholder with realistic trigger
-   phrases for how a Ohio pro se filer would ask about this
-2. Body: substantive content matching the role
-3. Composition notes: which other oh- skills this layers
-   with
-4. References: the supporting `references/*.md` files
+## Filing flow
 
-## References to author
+1. **Caption** per Civ. R. 10(A) — see `oh-statewide-format`
+2. **E-file** via the court's portal (per-court system —
+   not a statewide platform)
+3. **Working copies** if required by chambers practice
+4. **Certificate of service** on every party
+5. **Notice of Hearing** if the motion requires a hearing
+   date (see `oh-schedule-hearing`)
 
-- Research the Ohio analog from authoritative sources
-  before authoring; do NOT search-and-replace from
-  another state plugin
+## Composition with other oh- skills
 
-## Cross-references
-
-- `oh-statewide-format` for format baseline
-- `oh-cuya` / `oh-frank` / `oh-county-courts` for venue
-- `oh-pro-se` for pro se conventions
+- `oh-statewide-format` — Civ. R. 10 caption + signature
+- `oh-discovery` — Civ. R. 33/34/36 practice
+- `oh-first-30-days` — 28-day Civ. R. 12(A)(1) answer
+- `oh-draft-motion` / `-declaration` / `-note` / `-order` —
+  scaffolders adapted to this court's local rules
+- `oh-pro-se` — pro-se conventions
+- `oh-file-packet` — court-specific e-filing portal
+- `oh-consumer-debt` — debt-buyer defense framework

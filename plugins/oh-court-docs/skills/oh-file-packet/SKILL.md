@@ -1,45 +1,94 @@
 ---
 name: oh-file-packet
 description: >
-  Use when assembling and filing a complete Ohio court motion packet. Verifies every required component, enforces cross-document consistency, and produces filing instructions.
-version: 0.1.0
+  Use to assemble an Ohio court filing packet. Triggers include 'assemble Ohio filing packet', 'Ohio filing checklist', 'Ohio Common Pleas eFiling', 'Ohio Municipal Court eFiling', 'Ohio certificate of service', 'Ohio working copy'. Covers e-filing (most Common Pleas courts use county-specific systems), pre-flight checks, exhibit organization, and per-court working-copy conventions.
+version: 0.2.0
 ---
 
-# Assemble a Ohio Court Filing Packet
+# Assemble an Ohio Court Filing Packet
 
-> **TODO**: Author substantive content. This is a scaffolded
-> stub. Research the Ohio analog from authoritative
-> sources before writing — do not search-and-replace
-> from another state plugin.
+> **NOT LEGAL ADVICE.** Filing protocols vary by Common
+> Pleas court. Verify per-court Loc. R. before filing.
 
-> **NOT LEGAL ADVICE.** This skill provides drafting assistance
-> only. Verify against current rules and case law before filing.
+## E-filing landscape in Ohio
 
-## State context
+Most Ohio Common Pleas courts use **county-specific**
+e-filing systems rather than a statewide platform:
 
-- **State**: Ohio
-- **Format rule**: Ohio Civ. R. 10 + per-court local rules
-- **Civil rules**: Ohio Civ. R.
-- **Evidence rules**: Ohio Evid. R.
-- **Style manual**: Ohio Manual of Citations
+- **Cuyahoga County** — eFiling portal at
+  `cpdocket.cp.cuyahogacounty.us`
+- **Franklin County** — `efile.fccourts.org`
+- **Hamilton County** — Court Connect at
+  `courtclerk.org`
+- **Summit County** — eFiling via Tyler Technologies
+- **Montgomery County** — eFiling portal
+- **Most other Common Pleas courts** — Tyler Tech / Odyssey
+  variants
 
-## What to author
+Each portal requires registration. Pro-se filers can
+register without an attorney bar number.
 
-1. Description: replace the placeholder with realistic trigger
-   phrases for how a Ohio pro se filer would ask about this
-2. Body: substantive content matching the role
-3. Composition notes: which other oh- skills this layers
-   with
-4. References: the supporting `references/*.md` files
+## Municipal Court e-filing
 
-## References to author
+Ohio Municipal Courts run their own e-filing systems
+(R.C. Chapter 1901 leaves the choice to each court). Some
+larger Municipal Courts (Cleveland, Columbus) have
+e-filing; smaller Municipal Courts may still require paper.
 
-- Research the Ohio analog from authoritative sources
-  before authoring; do NOT search-and-replace from
-  another state plugin
+## Pre-flight checklist
 
-## Cross-references
+Before submitting:
 
-- `oh-statewide-format` for format baseline
-- `oh-cuya` / `oh-frank` / `oh-county-courts` for venue
-- `oh-pro-se` for pro se conventions
+- [ ] Caption matches case-management order (court, case
+      number, parties)
+- [ ] Document title in ALL CAPS in the caption
+- [ ] Filer's signature with Atty. Reg. # (or "Pro Se")
+- [ ] Certificate of Service signed + dated
+- [ ] All exhibits attached + labeled (Exhibit A, B, ...)
+- [ ] Page limits per Loc. R. (verify)
+- [ ] Proposed order tendered if motion (Civ. R. 12(A);
+      most Loc. R. expect this)
+- [ ] Format-check.py passes
+- [ ] Quality-check passes (oh-quality-check)
+
+## Per-court working copies
+
+Some Common Pleas courts require courtesy paper copies for
+the assigned judge:
+
+- **Cuyahoga Civil Division** — some chambers require a
+  bench copy for briefs over 15 pages
+- **Franklin Civil Division** — varies by judge
+- **Smaller Common Pleas courts** — typically no working
+  copy required; e-file is sufficient
+
+When working copies are required:
+
+- Print double-sided unless court specifies single-sided
+- Hole-punch (3-hole) for chambers binder if requested
+- Deliver to bailiff or chambers within 1 business day of
+  e-filing
+
+## Certificate of Service (Civ. R. 5)
+
+Required format:
+
+```
+                CERTIFICATE OF SERVICE
+
+I certify that on [Date], a copy of the foregoing was
+served upon all counsel of record / parties via [eFiling
+system / U.S. mail / hand delivery / email] at their
+addresses of record.
+
+                            __________________________
+                            [Filer's name]
+```
+
+## Composition with other oh- skills
+
+- `oh-quality-check` — pre-filing format + content QC
+- `oh-statewide-format` — caption + signature block
+- `oh-cuya` / `oh-frank` / etc. — per-court e-filing
+  portal specifics
+- `oh-municipal-courts` — Municipal Court e-filing

@@ -1,45 +1,98 @@
 ---
 name: oh-pro-se
 description: >
-  Use when drafting Ohio court documents for a self-represented (pro se) litigant. Covers the Parker framework adapted for Ohio, service protocols, and state-specific pro se conventions.
-version: 0.1.0
+  Use to draft Ohio pro se filings. Triggers include 'Ohio pro se', 'self-represented Ohio', 'Ohio without a lawyer', 'represent myself Ohio Common Pleas', 'Ohio Municipal Court pro se', 'Ohio Self-Help Center'. Covers the Ohio pro-se drafting framework, signature-block conventions (no attorney registration number), affidavit vs. declaration terminology (R.C. 2319.04 affidavit is the Ohio form), Ohio Self-Help Center catalog, and tone conventions for pro-se litigants.
+version: 0.2.0
 ---
 
-# Pro Se Drafting for Ohio
+# Pro Se Drafting Framework — Ohio
 
-> **TODO**: Author substantive content. This is a scaffolded
-> stub. Research the Ohio analog from authoritative
-> sources before writing — do not search-and-replace
-> from another state plugin.
+> **NOT LEGAL ADVICE.** Ohio pro-se litigants face the same
+> procedural rules as represented parties (Ohio Civ. R. + per-
+> court local rules). The court does not relax standards for
+> self-represented filers.
 
-> **NOT LEGAL ADVICE.** This skill provides drafting assistance
-> only. Verify against current rules and case law before filing.
+## Signature block (pro se)
 
-## State context
+```
+Respectfully submitted,
 
-- **State**: Ohio
-- **Format rule**: Ohio Civ. R. 10 + per-court local rules
-- **Civil rules**: Ohio Civ. R.
-- **Evidence rules**: Ohio Evid. R.
-- **Style manual**: Ohio Manual of Citations
+[Your full legal name]
+Pro Se
+[Address]
+[City, State ZIP]
+[Phone]
+[Email]
+```
 
-## What to author
+Important conventions:
 
-1. Description: replace the placeholder with realistic trigger
-   phrases for how a Ohio pro se filer would ask about this
-2. Body: substantive content matching the role
-3. Composition notes: which other oh- skills this layers
-   with
-4. References: the supporting `references/*.md` files
+- **Designate "Pro Se" or "Self-Represented"** below your
+  name. Some Ohio courts use "Pro Per" or
+  "Self-Represented Litigant"; "Pro Se" is universally
+  accepted.
+- **Omit the attorney registration number** (don't make one
+  up — Civ. R. 11 sanctions for false attestations).
+- **Email is recommended** even for paper filings — Ohio
+  courts increasingly serve via email after appearance.
+- **No "Esq."** suffix.
 
-## References to author
+## Affidavit form (not "declaration")
 
-- Research the Ohio analog from authoritative sources
-  before authoring; do NOT search-and-replace from
-  another state plugin
+Ohio civil practice uses **affidavits** under R.C. 2319.04
+and Civ. R. 56(C). The federal-style "declaration under
+penalty of perjury" (28 U.S.C. § 1746) is **not** Ohio
+practice for state-court filings.
 
-## Cross-references
+Required elements of an Ohio affidavit:
 
-- `oh-statewide-format` for format baseline
-- `oh-cuya` / `oh-frank` / `oh-county-courts` for venue
-- `oh-pro-se` for pro se conventions
+1. Caption
+2. Statement of affiant's competency: "I [name], being
+   first duly sworn, state as follows:"
+3. Numbered paragraphs of facts within personal knowledge
+4. Closing: "FURTHER AFFIANT SAYETH NAUGHT."
+5. Affiant's signature
+6. **Notarization** — Ohio affidavits require a notary
+   public's acknowledgment (or, in limited circumstances,
+   another officer authorized to administer oaths under R.C.
+   147.07)
+
+If notarization is impractical, Ohio Civ. R. 56(C) allows
+unsworn "declarations under penalty of perjury" pursuant to
+the federal-style statement in **certain limited Civ. R. 56
+contexts**, but the safer practice for any Ohio filing is
+the notarized affidavit.
+
+## Tone conventions
+
+- Professional + factual; no ALL CAPS shouting; no emotional
+  language
+- Number each paragraph in the body of a motion or affidavit
+- Use complete sentences in caption, body, and prayer for
+  relief
+- Refer to yourself as "Plaintiff" / "Defendant" /
+  "Petitioner" / "Respondent" depending on role; some pro
+  se filers refer to themselves in the first person ("I,
+  John Smith, ...") — both are accepted
+
+## Pro-se resources in Ohio
+
+- **Ohio Legal Help** (`ohiolegalhelp.org`) — the
+  statewide pro-se forms + procedural guide host
+- **Common Pleas court Self-Help Centers** — most Cuyahoga,
+  Franklin, Hamilton, and Summit County Common Pleas courts
+  operate a Self-Help Center with paid staff to answer
+  procedural questions (NOT legal advice)
+- **Ohio State Legal Services Association (OSLSA)** —
+  income-qualified civil legal aid statewide
+- **Volunteer Lawyers Project** — pro bono assistance in
+  several Ohio counties
+- **Ohio Bar Lawyer Referral Service**: 800-282-6556
+
+## Composition with other oh- skills
+
+- `oh-statewide-format` — caption + signature baseline
+- `oh-draft-declaration` — produces Ohio-correct affidavits
+  (despite the scaffolder-conventional `declaration` name)
+- `oh-fact-check` — citation verification
+- `oh-draft-motion` / `-note` / `-order` — pro-se scaffolders

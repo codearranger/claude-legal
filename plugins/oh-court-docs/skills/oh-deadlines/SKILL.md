@@ -1,45 +1,121 @@
 ---
 name: oh-deadlines
 description: >
-  Use when the user asks about timing or deadlines in a Ohio civil case. Computes calendar-day and court-day deadlines using state holidays and the state's rules of time computation.
-version: 0.1.0
+  Use to compute Ohio court deadlines — Civ. R. 6 time computation, R.C. 1.14 legal holidays, named-rule catalog. Triggers include 'Ohio deadline', 'Ohio Civ. R. 6 time computation', 'R.C. 1.14 holidays', 'Ohio SOL', 'Ohio statute of limitations', 'when is my Ohio answer due', 'Ohio judgment renewal deadline'. Covers the Civ. R. 6 time-computation framework, R.C. 1.45 weekend-roll-forward, R.C. 1.14 holiday catalog (including Columbus Day still observed in Ohio), and the named-rule catalog (28-day answer, 6-year written-contract SOL, 2-year CSPA SOL, 5-year judgment enforcement SOL, etc.).
+version: 0.2.0
 ---
 
 # Ohio Case Deadlines
 
-> **TODO**: Author substantive content. This is a scaffolded
-> stub. Research the Ohio analog from authoritative
-> sources before writing — do not search-and-replace
-> from another state plugin.
+> **NOT LEGAL ADVICE.** Deadlines are jurisdictional in
+> many contexts (Civ. R. 60(B) 1-year cap, App. R. 4 30-day
+> appeal). Always verify with the case-management order
+> and per-court Loc. R.
 
-> **NOT LEGAL ADVICE.** This skill provides drafting assistance
-> only. Verify against current rules and case law before filing.
+## Time computation framework
 
-## State context
+### Civ. R. 6(A) — basic rule
 
-- **State**: Ohio
-- **Format rule**: Ohio Civ. R. 10 + per-court local rules
-- **Civil rules**: Ohio Civ. R.
-- **Evidence rules**: Ohio Evid. R.
-- **Style manual**: Ohio Manual of Citations
+- Exclude the day of the triggering event
+- Include the last day, unless it falls on Saturday,
+  Sunday, or a legal holiday, in which case **roll forward
+  to the next business day**
+- Periods of less than 7 days exclude intermediate
+  weekends and holidays
+- Service by mail adds **3 days** under Civ. R. 6(D)
 
-## What to author
+### R.C. 1.45 — weekend rollover
 
-1. Description: replace the placeholder with realistic trigger
-   phrases for how a Ohio pro se filer would ask about this
-2. Body: substantive content matching the role
-3. Composition notes: which other oh- skills this layers
-   with
-4. References: the supporting `references/*.md` files
+Statutory deadlines that fall on Saturday, Sunday, or a
+legal holiday roll forward to the next business day. This
+parallels Civ. R. 6(A) for procedural deadlines.
 
-## References to author
+## Ohio legal holidays (R.C. 1.14)
 
-- Research the Ohio analog from authoritative sources
-  before authoring; do NOT search-and-replace from
-  another state plugin
+- New Year's Day (January 1)
+- Martin Luther King, Jr. Day (3rd Monday in January)
+- Washington's Birthday (3rd Monday in February)
+- Memorial Day (last Monday in May)
+- **Juneteenth (June 19)** — added 2024
+- Independence Day (July 4)
+- Labor Day (1st Monday in September)
+- **Columbus Day (2nd Monday in October)** — Ohio still
+  observes Columbus Day as a legal holiday
+- Veterans Day (November 11)
+- Thanksgiving Day (4th Thursday in November)
+- Christmas Day (December 25)
 
-## Cross-references
+Notable: Ohio does NOT observe the day after Thanksgiving
+as a statewide legal holiday (some local Common Pleas
+courts close on a discretionary basis).
 
-- `oh-statewide-format` for format baseline
-- `oh-cuya` / `oh-frank` / `oh-county-courts` for venue
-- `oh-pro-se` for pro se conventions
+## Named-rule catalog
+
+### Procedural rules
+
+| Rule | Days | Citation |
+|---|---|---|
+| Answer to complaint | 28 calendar | Civ. R. 12(A)(1) |
+| Reply to counterclaim | 28 calendar | Civ. R. 12(A)(2) |
+| Motion-response (typical local rule) | 14 calendar | Civ. R. 6(C)(1) where adopted |
+| Summary-judgment notice | 14 calendar minimum | Civ. R. 56(C) |
+| Magistrate-decision objection | 14 calendar | Civ. R. 53(D)(3)(b)(i) |
+| Motion for new trial | 28 calendar | Civ. R. 59(B) |
+| Motion to vacate (60(B)(1)-(3)) | 1 year cap | Civ. R. 60(B) |
+| Notice of appeal | 30 calendar | App. R. 4(A) |
+
+### Statutes of limitations
+
+| Claim | Years | R.C. |
+|---|---|---|
+| Written contract | 6 | R.C. 2305.06 |
+| Oral / implied contract | 4 | R.C. 2305.07 |
+| Conversion / fraud | 4 | R.C. 2305.09 |
+| Personal injury (bodily) | 2 | R.C. 2305.10 |
+| Libel / slander | 1 | R.C. 2305.11 |
+| Ohio Consumer Sales Practices Act | 2 | R.C. 1345.10 |
+| Wrongful death | 2 | R.C. 2125.02(D) |
+| Medical malpractice | 1 (4 absolute repose) | R.C. 2305.113 |
+| Judgment enforcement (Ohio judgment) | 5 (renewable) | R.C. 2329.07 |
+
+### Family-law deadlines
+
+| Item | Period | R.C. |
+|---|---|---|
+| Divorce residency — state | 6 months | R.C. 3105.03 |
+| Divorce residency — county | 90 days | R.C. 3105.03 |
+| Dissolution waiting period | 30-90 days | R.C. 3105.64 |
+| Child-support modification threshold | 10% change | R.C. 3119.79 |
+
+## Service-by-mail add-on (Civ. R. 6(D))
+
+When a paper is served by mail, the responding party gets
+an extra **3 days** added to the response period. This
+applies to most filings but NOT to motion deadlines under
+some local rules — verify per-court.
+
+## Computing deadlines — the script
+
+Use `plugins/oh-court-docs/scripts/case-calendar.py`:
+
+```bash
+# 28-day answer from 2025-04-15
+python3 case-calendar.py --from 2025-04-15 --rule answer-due
+
+# 6-year SOL on written contract
+python3 case-calendar.py --from 2019-04-15 --rule sol-written-contract
+
+# List all named rules
+python3 case-calendar.py --rules
+```
+
+## Composition with other oh- skills
+
+- `oh-first-30-days` — 28-day answer clock
+- `oh-discovery` — 28-day response window for Civ. R. 33
+  interrogatories, 34 RFPs, 36 RFAs
+- `oh-post-judgment` — 28 days for Civ. R. 59, 1 year for
+  Civ. R. 60(B), 5 years for R.C. 2329.07 enforcement
+- `oh-consumer-debt` — 6-year R.C. 2305.06 SOL, 2-year R.C.
+  1345.10 CSPA SOL
+- `oh-family-law` — divorce residency + dissolution waiting

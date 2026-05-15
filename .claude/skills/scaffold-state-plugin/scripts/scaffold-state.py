@@ -71,7 +71,9 @@ SKILL_ROLES = [
     "schedule-hearing",
     "file-packet",
     "submit-order",
-    "consumer-debt",
+    "family-court",   # baseline venue: family court
+    "consumer-debt",  # baseline subject bundle: consumer-debt defense
+    "family-law",     # baseline subject bundle: family-law substance
 ]
 
 
@@ -104,9 +106,9 @@ version: 0.1.0
 # {title}
 
 > **TODO**: Author substantive content. This is a scaffolded
-> stub. Use `wa-{role}` and `or-{role}` as references for the
-> WA/OR equivalents; research the {state} analog from
-> authoritative sources before writing.
+> stub. Research the {state} analog from authoritative sources
+> before writing — do not search-and-replace from another
+> state plugin.
 
 > **NOT LEGAL ADVICE.** This skill provides drafting assistance
 > only. Verify against current rules and case law before filing.
@@ -130,11 +132,9 @@ version: 0.1.0
 
 ## References to author
 
-- See `wa-court-docs/skills/wa-{role}/references/` and
-  `or-court-docs/skills/or-{role}/references/` for the
-  structure to mirror
-- Adapt to {state} terminology and rules — do NOT search-and-
-  replace from another state plugin
+- Research the {state} analog from authoritative sources
+  before authoring; do NOT search-and-replace from another
+  state plugin
 
 ## Cross-references
 
@@ -261,6 +261,22 @@ ROLE_DESCRIPTIONS = {
         " statute, the {state} collection-agency regime (if any),"
         " chain of title, and synthetic example filings."
     ),
+    "family-court": (
+        "Use when drafting or filing in {state}'s family court —"
+        " custody / support / family offense / paternity / abuse"
+        " and neglect. Even when {state} hears family matters"
+        " inside a Family Division of the general-jurisdiction"
+        " trial court (rather than a separate Family Court),"
+        " this skill covers the division's rules, intake, and"
+        " pro-se forms."
+    ),
+    "family-law": (
+        "Subject-matter bundle for {state} family-law substance:"
+        " divorce / annulment / legal separation / custody /"
+        " child support / parenting plan / property distribution"
+        " / maintenance. Substantive law of {state}'s family"
+        " code."
+    ),
 }
 
 
@@ -305,6 +321,8 @@ def title_for_skill(role: str, cfg: StateConfig) -> str:
         "file-packet": f"Assemble a {cfg.name} Court Filing Packet",
         "submit-order": f"Post-Hearing Order Submission ({cfg.name})",
         "consumer-debt": f"{cfg.name} Consumer-Debt Defense",
+        "family-court": f"{cfg.name} Family Court",
+        "family-law": f"{cfg.name} Family Law",
     }
     return titles.get(role, role.replace("-", " ").title())
 
@@ -425,10 +443,6 @@ def render_corpus_readme(corpus: str, cfg: StateConfig) -> str:
         f"This corpus holds verbatim text of {corpus} content"
         f" most relevant to {cfg.name} civil practice. Source:"
         f" the state's authoritative publisher.\n\n"
-        f"See `wa-court-docs/skills/wa-law-references/references/"
-        f"{corpus}/README.md` and"
-        f" `or-court-docs/skills/or-law-references/references/"
-        f"{corpus}/README.md` for the WA/OR equivalents.\n\n"
         f"## How to populate\n\n"
         f"Author a `scripts/pull_{cfg.abbr}_{corpus.replace('-', '_')}"
         f".py` script that fetches from the state's authoritative"
@@ -443,12 +457,18 @@ def render_eval_readme(cfg: StateConfig) -> str:
 This folder contains prompt-based regression tests for each
 skill in the `{cfg.abbr}-court-docs` plugin.
 
-> **TODO**: Author evals mirroring the OR / WA eval categories
+> **TODO**: Author evals across the five categories
 > (drafting, formatting, procedural, subject-matter,
-> integration). Aim for at least 18 evals across the five
+> integration). Aim for at least 20 evals across the five
 > categories.
 
-See `or-court-docs/evals/README.md` for the format.
+## Folder layout
+
+- `procedural/` — matter-neutral civil-procedure evals
+- `drafting/` — drafting-skill evals
+- `formatting/` — format and local-rule evals
+- `subject-matter/` — subject bundle evals
+- `integration/` — end-to-end multi-skill evals
 """
 
 
@@ -522,7 +542,7 @@ def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool
     if not dry_run:
         corpora_root.mkdir(parents=True, exist_ok=True)
     shared_target_prefix = Path("../../../../claude-legal-federal-laws/references")
-    for corpus in ["federal-debt-laws", "ucc-model"]:
+    for corpus in ["federal-debt-laws", "federal-bankruptcy", "ucc-model"]:
         link_path = corpora_root / corpus
         target = shared_target_prefix / corpus
         if dry_run:
@@ -536,8 +556,10 @@ def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool
                     shutil.rmtree(link_path)
             link_path.symlink_to(target)
 
-    # consumer-debt examples/
+    # Subject-bundle examples/ dirs
     (plugin_dir / "skills" / f"{cfg.abbr}-consumer-debt" /
+     "references" / "examples").mkdir(parents=True, exist_ok=True)
+    (plugin_dir / "skills" / f"{cfg.abbr}-family-law" /
      "references" / "examples").mkdir(parents=True, exist_ok=True)
 
     # Scripts (copy from or-court-docs as starting point)
@@ -553,11 +575,12 @@ def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool
                 print(f"  COPY  {src.relative_to(root)} -> {dst.relative_to(root)}")
             else:
                 shutil.copy2(src, dst)
-                # TODO marker prepended so the agent knows to adapt
+                # TODO marker prepended so the agent knows to
+                # adapt. The copied source is a working baseline
+                # that the agent must rewrite for the new state.
                 existing = dst.read_text()
                 dst.write_text(
                     f"# TODO: Adapt this script for {cfg.name}.\n"
-                    f"# Source: or-court-docs/scripts/{script_name}\n"
                     f"# Update format-rule references, holidays,"
                     f" and named rules for {cfg.name}.\n\n"
                     f"{existing}"

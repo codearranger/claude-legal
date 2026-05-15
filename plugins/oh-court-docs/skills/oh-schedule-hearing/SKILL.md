@@ -1,45 +1,80 @@
 ---
 name: oh-schedule-hearing
 description: >
-  Use when the user needs to reserve a motion hearing date in a Ohio court. Drafts the contact email or call log per the court's scheduling protocol.
-version: 0.1.0
+  Use to schedule an Ohio motion hearing. Triggers include 'Ohio motion hearing scheduling', 'Ohio chambers scheduling', 'Ohio reserve hearing date', 'Common Pleas hearing date Ohio'. Covers the scheduling protocols per Common Pleas court — most require contacting chambers / magistrate's office for a date; some courts use online reservation systems.
+version: 0.2.0
 ---
 
-# Reserve a Hearing Date (Ohio)
+# Reserve an Ohio Hearing Date
 
-> **TODO**: Author substantive content. This is a scaffolded
-> stub. Research the Ohio analog from authoritative
-> sources before writing — do not search-and-replace
-> from another state plugin.
+> **NOT LEGAL ADVICE.** Scheduling procedures vary
+> materially between Common Pleas courts. Always confirm
+> with the assigned judge's chambers.
 
-> **NOT LEGAL ADVICE.** This skill provides drafting assistance
-> only. Verify against current rules and case law before filing.
+## Per-court scheduling protocols
 
-## State context
+### Cuyahoga County Common Pleas
 
-- **State**: Ohio
-- **Format rule**: Ohio Civ. R. 10 + per-court local rules
-- **Civil rules**: Ohio Civ. R.
-- **Evidence rules**: Ohio Evid. R.
-- **Style manual**: Ohio Manual of Citations
+- Most Civil Division motions: court issues hearing notice
+  via case-management order
+- For new motions outside the case-management schedule:
+  contact the assigned judge's bailiff
+- Cuyahoga Court of Common Pleas — bailiff phone numbers
+  published on the court website
+- Generally the court rules without oral argument on
+  uncontested motions
 
-## What to author
+### Franklin County Common Pleas
 
-1. Description: replace the placeholder with realistic trigger
-   phrases for how a Ohio pro se filer would ask about this
-2. Body: substantive content matching the role
-3. Composition notes: which other oh- skills this layers
-   with
-4. References: the supporting `references/*.md` files
+- Civil Division motion-day scheduling: call the assigned
+  judge's chambers
+- Magistrate hearings: call the assigned magistrate
+- Civil Division motion practice often non-oral (decided
+  on the briefs)
 
-## References to author
+### Hamilton County Common Pleas
 
-- Research the Ohio analog from authoritative sources
-  before authoring; do NOT search-and-replace from
-  another state plugin
+- Online scheduling for motion hearings via the court's
+  case-management system
+- Some judges require movant to email chambers a proposed
+  date
 
-## Cross-references
+### Other Common Pleas courts
 
-- `oh-statewide-format` for format baseline
-- `oh-cuya` / `oh-frank` / `oh-county-courts` for venue
-- `oh-pro-se` for pro se conventions
+- Procedure varies; verify per-court Loc. R. and chambers
+  guidelines
+
+## Magistrate-set hearings
+
+For Civ. R. 53 magistrate proceedings:
+
+- Magistrate's bailiff schedules the hearing
+- Notice goes out to all parties
+- 14-day objection clock after the magistrate's decision
+  is filed
+
+## Notice-of-Hearing flow
+
+After scheduling:
+
+1. Confirm date + time + courtroom with chambers / bailiff
+2. Draft Notice of Hearing (see `oh-draft-note`)
+3. File the Notice with the court
+4. Serve the Notice on every party (Civ. R. 5)
+5. File certificate of service
+
+## Civ. R. 56(C) summary-judgment notice
+
+When the motion is for summary judgment, Civ. R. 56(C)
+imposes a **14-day minimum** between service of the motion
+and the hearing. Civ. R. 6(D) adds 3 days for service by
+mail.
+
+## Composition with other oh- skills
+
+- `oh-draft-note` — Notice of Hearing scaffolder
+- `oh-draft-motion` — the underlying motion
+- `oh-cuya` / `oh-frank` / etc. — flagship-court chambers
+  protocols
+- `oh-deadlines` — 14-day Civ. R. 56(C) notice + 3-day
+  mail add-on

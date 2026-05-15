@@ -1,45 +1,69 @@
 ---
 name: oh-quality-check
 description: >
-  Use to QC, review, or validate a Ohio court document before filing. Runs a two-pass format + content check.
-version: 0.1.0
+  Use to run pre-filing QC on an Ohio filing — format compliance + content consistency. Triggers include 'Ohio quality check', 'pre-filing review Ohio', 'verify Ohio filing format', 'Ohio QC'. Two-pass: (1) format compliance using format-check.py (caption, margins, fonts, line spacing, footer); (2) content consistency using oh-fact-check's four-pass framework.
+version: 0.2.0
 ---
 
-# Quality Check (Ohio)
+# Quality Check — Ohio Filings
 
-> **TODO**: Author substantive content. This is a scaffolded
-> stub. Research the Ohio analog from authoritative
-> sources before writing — do not search-and-replace
-> from another state plugin.
+> **NOT LEGAL ADVICE.** Pre-filing QC is a hygiene pass,
+> not a substitute for substantive legal review.
 
-> **NOT LEGAL ADVICE.** This skill provides drafting assistance
-> only. Verify against current rules and case law before filing.
+## Two-pass framework
 
-## State context
+### Pass 1: Format compliance
 
-- **State**: Ohio
-- **Format rule**: Ohio Civ. R. 10 + per-court local rules
-- **Civil rules**: Ohio Civ. R.
-- **Evidence rules**: Ohio Evid. R.
-- **Style manual**: Ohio Manual of Citations
+Use `plugins/oh-court-docs/scripts/format-check.py
+<filing.docx>` to verify:
 
-## What to author
+- Letter paper (8.5 x 11)
+- 1-inch margins on sides + bottom; 1.5-inch top on first
+  page for caption block (Civ. R. 10(A))
+- 12-point minimum body font
+- Double-spaced body
+- Footer with page number
 
-1. Description: replace the placeholder with realistic trigger
-   phrases for how a Ohio pro se filer would ask about this
-2. Body: substantive content matching the role
-3. Composition notes: which other oh- skills this layers
-   with
-4. References: the supporting `references/*.md` files
+### Pass 2: Content consistency
 
-## References to author
+See `oh-fact-check` for the four-pass content QC:
 
-- Research the Ohio analog from authoritative sources
-  before authoring; do NOT search-and-replace from
-  another state plugin
+1. **Citation verification** — every R.C. / Civ. R. /
+   Ohio case citation resolves to a valid source
+2. **Internal consistency** — numbered paragraphs follow,
+   cross-references match
+3. **Packet consistency** — caption + case number + party
+   names + service dates identical across documents
+4. **Sworn-vs-argued alignment** — every fact in the
+   memorandum traces back to an affidavit paragraph or
+   exhibit
 
-## Cross-references
+## Per-court overlay
 
-- `oh-statewide-format` for format baseline
-- `oh-cuya` / `oh-frank` / `oh-county-courts` for venue
-- `oh-pro-se` for pro se conventions
+After the statewide QC, check the assigned court's Loc.
+R. for:
+
+- Page limits (verify motion brief is under cap)
+- Working-copy requirements (some Cuyahoga / Franklin
+  chambers require courtesy paper copies)
+- Certificate of service signature requirements
+- Proposed order email-Word-version requirement (some
+  chambers)
+
+## Common rejection reasons
+
+- **Missing certificate of service** — Civ. R. 5(D)
+  requires every paper served on a party to show service
+- **Improper caption** — wrong court, wrong case number,
+  wrong party names
+- **Pro se filer including attorney bar number** — Civ.
+  R. 11 sanctions
+- **Affidavit not notarized** — R.C. 2319.04 + Civ. R.
+  56(C); courts strike unsworn affidavits
+
+## Composition with other oh- skills
+
+- `oh-statewide-format` — format baseline
+- `oh-fact-check` — citation + content verification
+- `oh-file-packet` — assembly + preflight
+- `oh-pro-se` — pro-se signature + tone QC
