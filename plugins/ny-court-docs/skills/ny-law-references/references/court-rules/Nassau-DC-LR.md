@@ -1,7 +1,7 @@
 # Nassau County District Court — Local Rules and Part Rules
 
 > **Source:** https://ww2.nycourts.gov/courts/10jd/nassau/districtcourt/index.shtml
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Status:** _(stub — not currently fetched)_ — not published as free HTML
 > **Format:** pointer stub
 

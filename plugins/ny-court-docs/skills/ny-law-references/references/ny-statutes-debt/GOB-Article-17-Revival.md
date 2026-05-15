@@ -1,7 +1,7 @@
 # General Obligations Law — Revival or Extension; Waiver of Defense or Bar (revival of barred debts)
 
 > **Source:** https://legislation.nysenate.gov/api/3/laws/GOB?full=true
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Format:** verbatim conversion of the NY State Senate Open Legislation API JSON response
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify

@@ -1,7 +1,7 @@
 # Uniform Commercial Code — Commercial Paper (NY-enacted Article 3)
 
 > **Source:** https://legislation.nysenate.gov/api/3/laws/UCC?full=true
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Format:** verbatim conversion of the NY State Senate Open Legislation API JSON response
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify

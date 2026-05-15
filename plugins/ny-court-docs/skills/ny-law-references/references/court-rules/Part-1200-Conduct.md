@@ -1,7 +1,7 @@
 # 22 NYCRR Part 1200 — Rules of Professional Conduct
 
 > **Source:** https://www.nycourts.gov/rules/jointappellate/index.shtml
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Status:** _(stub — not currently fetched)_ — Cloudflare managed-challenge
 > **Format:** pointer stub
 

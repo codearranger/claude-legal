@@ -1,7 +1,7 @@
 # Family Court Act — Uniform Interstate Family Support Act (UIFSA)
 
 > **Source:** https://legislation.nysenate.gov/api/3/laws/FCT?full=true
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Format:** verbatim conversion of the NY State Senate Open Legislation API JSON response
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify

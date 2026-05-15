@@ -1,7 +1,7 @@
 # New York Law Reports Style Manual ('Tanbook')
 
 > **Source:** https://www.nycourts.gov/reporter/New-Edition.htm
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Status:** _(stub — not currently fetched)_ — not published as free HTML
 > **Format:** pointer stub
 

@@ -1,7 +1,7 @@
 # NYC Civil Court — Directives and Procedures Manual + Part Rules
 
 > **Source:** https://www.nycourts.gov/courts/nyc/civil/directives.shtml
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-05-15
 > **Status:** _(stub — not currently fetched)_ — not published as free HTML
 > **Format:** pointer stub
 
