@@ -68,8 +68,13 @@ CHAPTERS: list[tuple[str, str, str]] = [
     ("7.28",   "7.28",   "Ejectment / Quieting Title"),
     ("7.40",   "7.40",   "Injunctions"),
     ("7.60",   "7.60",   "Receivers"),
+    ("7.70",   "7.70",   "Actions for Injuries Resulting from Health Care"),
+    ("7.72",   "7.72",   "Tort Actions for Product Liability"),
+    ("7.105",  "7.105",  "Civil Protection Orders (consolidated, 2022 — replaces RCW 26.50 et al.)"),
     # ---- Title 12 — District Courts ------------------------------------
     ("12.40",  "12.40",  "Small Claims"),
+    # ---- Title 13 — Juvenile Courts and Juvenile Justice ---------------
+    ("13.34",  "13.34",  "Juvenile Court — Dependency / Termination of Parental Rights"),
     # ---- Title 18/19 — Business Regulation -----------------------------
     ("18.235", "18.235", "Uniform Regulation of Business and Professions Act"),
     ("19.16",  "19.16",  "Collection Agencies"),
@@ -79,22 +84,49 @@ CHAPTERS: list[tuple[str, str, str]] = [
     ("19.144", "19.144", "Mortgage Lending and Homeownership"),
     ("19.182", "19.182", "Fair Credit Reporting Act (Washington)"),
     ("19.255", "19.255", "Personal Information — Notice of Security Breaches"),
+    # ---- Title 23B — Washington Business Corporation Act ---------------
+    ("23B.06", "23B.06", "Corporations — Shareholders"),
+    ("23B.08", "23B.08", "Corporations — Directors and Officers"),
+    ("23B.13", "23B.13", "Corporations — Dissenters' Rights"),
+    ("23B.14", "23B.14", "Corporations — Dissolution"),
     # ---- Title 25 — Partnerships and LLCs ------------------------------
     ("25.05",  "25.05",  "Revised Uniform Partnership Act"),
     ("25.15",  "25.15",  "Limited Liability Companies"),
     # ---- Title 26 — Family Law -----------------------------------------
     ("26.04",  "26.04",  "Marriage"),
     ("26.09",  "26.09",  "Dissolution of Marriage / Legal Separation"),
+    # RCW 26.10 (Nonparental Actions for Child Custody) was repealed and
+    # integrated into RCW 26.09's third-party custody framework by Laws of
+    # 2020, ch 312; the WA Legislature now redirects 26.10 to a disposition
+    # table rather than serving chapter text. Not pulled.
+    ("26.16",  "26.16",  "Husband and Wife — Community Property"),
     ("26.18",  "26.18",  "Child Support — Enforcement and Modification"),
+    ("26.19",  "26.19",  "Child Support Schedule"),
+    ("26.21A", "26.21A", "Uniform Interstate Family Support Act (UIFSA)"),
+    ("26.26A", "26.26A", "Uniform Parentage Act"),
     ("26.27",  "26.27",  "Uniform Child Custody Jurisdiction and Enforcement Act"),
-    ("26.50",  "26.50",  "Domestic Violence Prevention"),
+    ("26.44",  "26.44",  "Abuse of Children — Mandatory Reporting / CPS"),
+    # RCW 26.50 (Domestic Violence Prevention) was superseded by the
+    # consolidated civil-protection-order regime at RCW 7.105 in 2022;
+    # the WA Legislature now redirects 26.50 to a disposition table.
+    # Not pulled; DV-protection-order coverage now sits in RCW 7.105.
     # ---- Title 34 — Administrative Law ---------------------------------
     ("34.05",  "34.05",  "Administrative Procedure Act"),
     # ---- Title 48 — Insurance ------------------------------------------
     ("48.30",  "48.30",  "Insurance — Unfair Practices and Frauds"),
     # ---- Title 49 — Labor ----------------------------------------------
+    ("49.12",  "49.12",  "Industrial Welfare — Wage / Hour Standards"),
     ("49.46",  "49.46",  "Minimum Wage Act"),
     ("49.48",  "49.48",  "Wages — Payment / Collection"),
+    ("49.52",  "49.52",  "Wages — Deductions, Rebates, Frauds"),
+    ("49.60",  "49.60",  "Washington Law Against Discrimination (WLAD)"),
+    ("49.62",  "49.62",  "Restrictive Covenants — Non-competition Agreements"),
+    # RCW 49.78 (WA Family Leave Act) was repealed when the comprehensive
+    # Paid Family and Medical Leave Act at RCW Title 50A took effect in
+    # 2019; the WA Legislature now redirects 49.78 to a disposition table.
+    # Not pulled; family-leave coverage now sits in RCW Title 50A.
+    # ---- Title 51 — Industrial Insurance / Workers' Compensation -------
+    ("51.04",  "51.04",  "Industrial Insurance — General Provisions"),
     # ---- Title 59 — Landlord and Tenant --------------------------------
     ("59.12",  "59.12",  "Forcible Entry / Detainer / Unlawful Detainer"),
     ("59.18",  "59.18",  "Residential Landlord-Tenant Act"),
@@ -201,6 +233,9 @@ def parse_chapter_index(html_text: str, chapter: str) -> tuple[str, list[tuple[s
 
     # Section rows in the index: <a href="...?cite=X.Y.Z">label</a> ... <td>Caption</td>
     # Section identifiers can use dot or hyphen as separator (e.g., 62A.1-101).
+    # Captions sometimes contain nested tags (e.g., <span>—</span> for em-dashes),
+    # so the caption-capture pattern accepts arbitrary content and strips tags
+    # afterward.
     sections: list[tuple[str, str]] = []
     seen: set[str] = set()
     chapter_pat = re.escape(chapter)
@@ -208,7 +243,7 @@ def parse_chapter_index(html_text: str, chapter: str) -> tuple[str, list[tuple[s
         r"<a\s+href=['\"]https?://app\.leg\.wa\.gov/RCW/default\.aspx\?cite="
         + chapter_pat
         + r"([.\-][\d.A-Za-z\-]+)['\"]\s*>\s*[^<]+?\s*</a>\s*</td>\s*"
-        r"<td[^>]*>\s*([^<]+?)\s*</td>",
+        r"<td[^>]*>\s*(.+?)\s*</td>",
         re.IGNORECASE | re.DOTALL,
     )
     for m in row_re.finditer(html_text):
@@ -217,7 +252,12 @@ def parse_chapter_index(html_text: str, chapter: str) -> tuple[str, list[tuple[s
         if cite in seen:
             continue
         seen.add(cite)
-        caption = re.sub(r"\s+", " ", m.group(2)).strip().rstrip(".")
+        raw_caption = m.group(2)
+        # Strip any nested tags (commonly <span style="...">—</span> em-dash
+        # markup) and unescape entities so the heading stays plain-text.
+        caption = re.sub(r"<[^>]+>", "", raw_caption)
+        caption = html.unescape(caption)
+        caption = re.sub(r"\s+", " ", caption).strip().rstrip(".")
         sections.append((cite, caption))
     return chapter_caption, sections
 
@@ -339,7 +379,9 @@ def main() -> int:
 
     only = set(args.only) if args.only else None
     grand_total = 0
-    grand_failed = 0
+    grand_failed = 0          # true fetch errors (HTTP / parse failures)
+    grand_index_failed = 0    # chapter-index fetch failures
+    grand_warnings = 0        # zero-section results (likely repealed chapters)
 
     for chapter, short, description in CHAPTERS:
         if only and chapter not in only:
@@ -349,15 +391,47 @@ def main() -> int:
             idx_html = http_get(CHAPTER_URL.format(chapter=chapter)).decode("utf-8", errors="replace")
         except Exception as e:
             print(f"  ! chapter index failed: {e}", flush=True)
+            grand_index_failed += 1
             continue
         chapter_caption, sections = parse_chapter_index(idx_html, chapter)
         print(f"  caption: {chapter_caption!r}", flush=True)
         print(f"  found {len(sections)} sections", flush=True)
         if not sections:
-            (out_dir / f"RCW-{short.replace('.', '_')}.md").write_text(
-                f"# RCW Chapter {chapter}\n\n_No sections extracted from the index page._\n",
-                encoding="utf-8",
-            )
+            # Two reasons a chapter can yield zero sections:
+            #   (a) the WA Legislature redirects the chapter URL to a
+            #       disposition table because the chapter has been
+            #       repealed / recodified (e.g., RCW 26.10 → 26.09 third-
+            #       party framework; RCW 49.78 → Title 50A PFML; RCW
+            #       26.50 → RCW 7.105 consolidated CPO). The right
+            #       response is to prune the entry from CHAPTERS; CI
+            #       should NOT fail on a documented repeal that's just
+            #       waiting to be cleaned up.
+            #   (b) the page renders normally but our regex finds no
+            #       section rows. That's a parse regression — typically
+            #       an HTML / layout change on the WA Legislature site
+            #       that broke the puller — and CI MUST fail so we
+            #       notice immediately rather than silently shipping a
+            #       chapter with no body.
+            looks_dispositioned = "Object moved" in idx_html and "dispo.aspx" in idx_html
+            if looks_dispositioned:
+                print(
+                    f"  ! WARNING: chapter {chapter} redirects to a "
+                    f"disposition table — likely repealed; remove from "
+                    f"CHAPTERS. Skipping write to avoid shipping an "
+                    f"empty stub.",
+                    flush=True,
+                )
+                grand_warnings += 1
+            else:
+                print(
+                    f"  ! ERROR: chapter {chapter} returned a normal-"
+                    f"shaped index page but yielded 0 parseable section "
+                    f"rows — likely an upstream HTML change or a regex "
+                    f"regression. Skipping write; this WILL fail the "
+                    f"refresh.",
+                    flush=True,
+                )
+                grand_failed += 1
             continue
 
         fetched: dict[str, tuple[str, str, str | None]] = {}
@@ -378,8 +452,19 @@ def main() -> int:
         print(f"  wrote {out_path} ({len(md):,} bytes)", flush=True)
         grand_total += len(sections)
 
-    print(f"\nDone. {grand_total} sections; {grand_failed} fetch errors.", flush=True)
-    return 0
+    # Exit non-zero on real fetch failures (chapter-index errors or
+    # section-body errors). `grand_warnings` is informational only —
+    # repealed-chapter detections without actual fetch problems should
+    # not fail CI, since the right response is to prune CHAPTERS (the
+    # warning surfaces what to prune).
+    print(
+        f"\nDone. {grand_total} sections; "
+        f"{grand_failed} fetch errors; "
+        f"{grand_index_failed} chapter-index errors; "
+        f"{grand_warnings} zero-section warnings.",
+        flush=True,
+    )
+    return 1 if (grand_failed or grand_index_failed) else 0
 
 
 if __name__ == "__main__":

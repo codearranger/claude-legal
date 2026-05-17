@@ -23,7 +23,7 @@ description: >
   subject-matter skill (e.g., wa-consumer-debt). Compose with
   wa-statewide-format, wa-kcdc, wa-pro-se, and wa-fact-check as
   needed.
-version: 0.4.0
+version: 0.5.0
 ---
 
 # Washington Law References — General Civil Practice

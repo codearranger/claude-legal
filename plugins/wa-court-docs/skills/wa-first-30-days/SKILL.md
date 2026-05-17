@@ -22,7 +22,7 @@ description: >
   wa-draft-motion, wa-draft-declaration, wa-discovery,
   wa-law-references, wa-fact-check, wa-file-packet, and (if default
   already entered) wa-post-judgment.
-version: 0.2.0
+version: 0.3.0
 ---
 
 # The First 30 Days — From Service Through Answer
@@ -72,23 +72,19 @@ clear):
 
 ## Step 1 — Compute the deadline (via wa-deadlines)
 
-The answer window depends on the court and the method of service.
+The answer window depends on the court (superior vs. district),
+the method of service (personal vs. mail vs. out-of-state vs.
+publication), and the current court-rule text. **Do not embed
+specific day counts here** — `wa-deadlines` plus
+`scripts/case-calendar.py` carry the current values; the rule
+text lives in `wa-law-references/references/court-rules/CR.md`
+and `CRLJ.md`.
 
-**General rules** (verify current rule text via
-`wa-law-references/references/online-sources.md`):
-
-- **Superior court (CR 12(a))** — 20 days after service within
-  Washington; 60 days if served outside the state.
-- **District court (CRLJ 12(a))** — 20 days after service in
-  Washington; see the current CRLJ text for out-of-state and
-  publication windows.
-- **Add 3 days** for service by mail under CR 6(e) / CRLJ 6(d) if
-  the summons was mailed (rare in contested civil cases; personal
-  service is the norm).
-
-**Hand off to `wa-deadlines`** for the specific date and a
-court-day vs. calendar-day breakdown. Surface the deadline in
-boldface to the user; create a calendar entry.
+**Hand off to `wa-deadlines`** with the date of service and the
+court / method of service. The deadlines skill returns the
+specific date and a court-day vs. calendar-day breakdown.
+Surface the deadline in boldface to the user; create a calendar
+entry.
 
 **Critical**: **the answer deadline is not a "respond sometime"
 window.** A late answer entitles the plaintiff to move for
@@ -259,7 +255,8 @@ Line up — but do not serve — Round 1 of discovery. Timing:
 - **Cannot serve before the answer is filed** (limits under CR
   26(d) and CRLJ 26).
 - **Can serve with the answer or shortly after.**
-- **30-day response** window starts on service.
+- **Response window starts on service** (current day count per
+  CR 33/34/36 — see `wa-deadlines`).
 
 Prepare (via `wa-discovery`):
 
@@ -268,7 +265,7 @@ Prepare (via `wa-discovery`):
 - 5–8 interrogatories identifying witnesses, document custodians,
   and key computations.
 - 5–8 RFAs narrowing issues (deemed admitted if not answered
-  within 30 days — a powerful lever).
+  within the response window — a powerful lever).
 
 Subject-matter skills supply the specific request banks (e.g.,
 `wa-consumer-debt/references/rfp-debt-buyer.md`).

@@ -1,34 +1,43 @@
-# wa-consumer-debt — CPA five-element framework
+# wa-consumer-debt — CPA five elements (debt context)
 
 ## Prompt
-Can I bring a Washington CPA counterclaim against a collection agency
-that misrepresented the balance and refused to respond to my written
-dispute?
+
+A debt buyer sued me in Washington. They re-aged my debt with
+the credit bureaus and threatened to sue on a debt that was
+clearly time-barred. Can I counterclaim under the WA Consumer
+Protection Act?
 
 ## Expected triggers
-- `wa-consumer-debt` (wa-consumer-protection.md)
+
+- `wa-consumer-debt`
 
 ## Acceptance criteria
-- Cites **RCW 19.86** (Washington CPA)
-- Lists the **five Hangman Ridge elements**:
-  1. Unfair or deceptive act or practice
-  2. In trade or commerce
-  3. Public-interest impact
-  4. Injury to plaintiff's business or property
-  5. Causation
-- Cites **Hangman Ridge Training Stables, Inc. v. Safeco Title Ins.
-  Co.** as the source
-- Addresses **per se** pathway via **RCW 19.16.440** (a violation of
-  the Collection Agency Act is a per se CPA violation)
-- Cites **Panag v. Farmers Insurance** (non-physical injury suffices;
-  economic injury counts)
-- Cites **RCW 19.86.090** damages provision: actual damages, treble
-  damages up to $25,000, attorney fees and costs
-- Notes **4-year statute of limitations** under **RCW 19.86.120**
+
+- [ ] Identifies the WA CPA at RCW 19.86
+- [ ] Walks the **Hangman Ridge 5-element test** per
+      *Hangman Ridge Training Stables v. Safeco Title Ins. Co.*,
+      105 Wn.2d 778 (1986):
+      1. Unfair or deceptive act or practice (re-aging + time-
+         barred threat both qualify)
+      2. Occurring in trade or commerce (debt collection is
+         trade)
+      3. Public-interest impact (per-se pathway available via
+         RCW 19.16 collection-agency licensing violation)
+      4. Injury to plaintiff's business or property
+      5. Causation
+- [ ] Notes the **per-se pathway via RCW 19.16** — a violation
+      of the Collection Agency Act is per se unfair/deceptive
+      under the CPA, bypassing the public-interest analysis
+- [ ] Notes damages: actual damages + treble up to the
+      statutory cap (current cap in
+      `wa-law-references/references/wa-rcw-debt/RCW-19_86.md`)
+      + mandatory attorney's fees + costs
+- [ ] Notes CPA SOL (current day count in chapter file)
 
 ## Common failure modes
-- Missing the per se pathway via 19.16.440
-- Missing Panag (especially the injury / non-physical injury point)
-- Giving wrong treble cap (pre-2009 was $10,000; current is $25,000)
-- Giving wrong SOL (CPA is 4 years, not 3)
-- Missing the public-interest element in the five-element test
+
+- Hard-coding the treble cap dollar figure
+- Missing the per-se pathway via RCW 19.16
+- Treating the public-interest element as fatal when the
+  per-se pathway is available
+- Confusing CPA SOL with general tort SOL

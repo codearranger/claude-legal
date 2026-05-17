@@ -3,8 +3,8 @@
 - Citation: RCW Chapter 62A.3
 - Description: UCC — Negotiable Instruments
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.3
-- Pulled: 2026-05-13
-- Sections: 71
+- Pulled: 2026-05-17
+- Sections: 76
 
 > Verbatim text from the Washington State Legislature website. Citation
 > history (`[ ... ]`) and `Notes:` blocks are preserved as published.
@@ -74,9 +74,14 @@
 - [RCW 62A.3-503 — Notice of dishonor](#sec-62A-3-503)
 - [RCW 62A.3-504 — Excused presentment and notice of dishonor](#sec-62A-3-504)
 - [RCW 62A.3-505 — Evidence of dishonor](#sec-62A-3-505)
+- [RCW 62A.3-512 — Credit cards—As identification—In lieu of deposit](#sec-62A-3-512)
 - [RCW 62A.3-515 — Checks dishonored by nonacceptance or nonpayment; liability for interest; rate; collection costs and attorneys' fees; satisfaction of claim](#sec-62A-3-515)
 - [RCW 62A.3-520 — Statutory form for notice of dishonor](#sec-62A-3-520)
+- [RCW 62A.3-522 — Notice of dishonor—Affidavit of service by mail](#sec-62A-3-522)
 - [RCW 62A.3-525 — Consequences for failing to comply with requirements](#sec-62A-3-525)
+- [RCW 62A.3-530 — Collection agencies—Checks dishonored by nonacceptance or nonpayment; liability for interest; rate; collection costs and attorneys' fees; satisfaction of claim](#sec-62A-3-530)
+- [RCW 62A.3-540 — Collection agencies—Statutory form for notice of dishonor](#sec-62A-3-540)
+- [RCW 62A.3-550 — Collection agencies—Consequences for failing to comply with requirements](#sec-62A-3-550)
 - [RCW 62A.3-601 — Discharge and effect of discharge](#sec-62A-3-601)
 - [RCW 62A.3-602 — Payment](#sec-62A-3-602)
 - [RCW 62A.3-603 — Tender of payment](#sec-62A-3-603)
@@ -1560,6 +1565,21 @@ Notes:
 
 **Recovery of attorneys' fees—**Effective date—1993 c 229: See RCW 62A.11-111 and 62A.11-112.
 
+<a id="sec-62A-3-512"></a>
+## RCW 62A.3-512 — Credit cards—As identification—In lieu of deposit.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.3-512
+
+A person may not record the number of a credit card given as identification under *RCW 62A.3-501(a)(2) or given as proof of creditworthiness when payment for goods or services is made by check or draft. Nothing in this section prohibits the recording of the number of a credit card given in lieu of a deposit to secure payment in the event of a default, loss, damage, or other occurrence.
+
+[ 1993 c 229 s 66; 1990 c 203 s 2.]
+
+Notes:
+
+***Reviser's note:** The reference to RCW 62A.3-501(a)(2) appears erroneous. Reference to RCW 62A.3-501(b)(2) was apparently intended.
+
+**Recovery of attorneys' fees—**Effective date—1993 c 229: See RCW 62A.11-111 and 62A.11-112.
+
 <a id="sec-62A-3-515"></a>
 ## RCW 62A.3-515 — Checks dishonored by nonacceptance or nonpayment; liability for interest; rate; collection costs and attorneys' fees; satisfaction of claim.
 
@@ -1608,6 +1628,29 @@ Notes:
 
 **Recovery of attorneys' fees—**Effective date—1993 c 229: See RCW 62A.11-111 and 62A.11-112.
 
+<a id="sec-62A-3-522"></a>
+## RCW 62A.3-522 — Notice of dishonor—Affidavit of service by mail.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.3-522
+
+In addition to sending a notice of dishonor to the drawer of the check under RCW 62A.3-520, the person sending notice shall execute an affidavit certifying service of the notice by mail. The affidavit of service by mail must be attached to a copy of the notice of dishonor and must be substantially in the following form:
+
+AFFIDAVIT OF SERVICE BY MAIL
+
+I, . . . . . ., hereby certify that on the . . . . . . day of . . . . . ., 20. . ., a copy of the foregoing Notice was served on . . . . . . by mailing via the United States Postal Service, postage prepaid, at . . . . . ., Washington.
+
+Dated:. . . . . . . . . . . . . . . .
+
+(Signature)
+
+The person enforcing the check shall retain the affidavit with the check but shall file a copy of the affidavit with the clerk of the court in which an action on the check is commenced.
+
+[ 2000 c 215 s 2; 1993 c 229 s 69; 1981 c 254 s 3.]
+
+Notes:
+
+**Recovery of attorneys' fees—**Effective date—1993 c 229: See RCW 62A.11-111 and 62A.11-112.
+
 <a id="sec-62A-3-525"></a>
 ## RCW 62A.3-525 — Consequences for failing to comply with requirements.
 
@@ -1626,6 +1669,85 @@ No interest, collection costs, and attorneys' fees, except handling fees, are re
 Notes:
 
 **Recovery of attorneys' fees—**Effective date—1993 c 229: See RCW 62A.11-111 and 62A.11-112.
+
+<a id="sec-62A-3-530"></a>
+## RCW 62A.3-530 — Collection agencies—Checks dishonored by nonacceptance or nonpayment; liability for interest; rate; collection costs and attorneys' fees; satisfaction of claim.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.3-530
+
+(1) If a check as defined in RCW 62A.3-104 is dishonored by nonacceptance or nonpayment and the check is assigned or written to a collection agency as defined in RCW 19.16.100, the collection agency may collect a reasonable handling fee for each instrument. If the collection agency or its agent provides a notice of dishonor in the form provided in RCW 62A.3-540 to the drawer and the check amount plus the reasonable handling fee are not paid within thirty-three days after providing the notice of dishonor, then, unless the instrument otherwise provides, the drawer of the instrument is liable for payment of interest at the rate of twelve percent per annum from the date of dishonor, and a cost of collection of forty dollars or the face amount of the check, whichever is less, payable to the collection agency. In addition, in the event of court action on the check and after notice and the expiration of the thirty-three days, the court shall award reasonable attorneys' fees, and three times the face amount of the check or three hundred dollars, whichever is less, as part of the damages payable to the collection agency. This section does not apply to an instrument that is dishonored by reason of a justifiable stop payment order.
+
+(2) Subsequent to the commencement of an action on the check under subsection (1) of this section but prior to the hearing, the defendant may tender to the plaintiff as satisfaction of the claim, an amount of money equal to the face amount of the check, a reasonable handling fee, accrued interest, collection costs equal to the face amount of the check not to exceed forty dollars, and the incurred court costs, service costs, and statutory attorneys' fees.
+
+(3) Nothing in this section precludes the right to commence action in a court under chapter 12.40 RCW for small claims.
+
+[ 2005 c 277 s 3.]
+
+Notes:
+
+**Intent—**2005 c 277: "The legislature has directed the financial literacy public-private partnership to complete certain tasks to support efforts to increase the level of financial literacy in the common schools. In order to promote a greater understanding by students of the consequences of a dishonored check, the legislature intends to extend by one year the date by which the financial literacy public-private partnership must identify strategies to increase the financial literacy of public school students in Washington." [ 2005 c 277 s 1.]
+
+<a id="sec-62A-3-540"></a>
+## RCW 62A.3-540 — Collection agencies—Statutory form for notice of dishonor.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.3-540
+
+(1) If a check is assigned or written to a collection agency as defined in RCW 19.16.100 and the collection agency or its agent provides a notice of dishonor, the notice of dishonor may be sent by mail to the drawer at the drawer's last known address. The drawer is presumed to have received the notice of dishonor three days from the date it is mailed. The collection agency may, as an alternative to providing a notice in the form described in RCW 62A.3-520, provide a notice in substantially the following form:
+
+NOTICE OF DISHONOR OF CHECK
+
+A check drawn by you and made payable by you to . . . . . . in the amount of . . . . . . has not been accepted for payment by . . . . . ., which is the drawee bank designated on your check. This check is dated . . . . . ., and it is numbered, No. . . . . . ..
+
+You are CAUTIONED that unless you pay the amount of this check and a handling fee of . . . . . within thirty-three days after the date this letter is postmarked or personally delivered, you may very well have to pay the following additional amounts:
+
+(a) Costs of collecting the amount of the check in the lesser of the check amount or forty dollars;
+
+(b) Interest on the amount of the check which shall accrue at the rate of twelve percent per annum from the date of dishonor; and
+
+(c) Three hundred dollars or three times the face amount of the check, whichever is less, plus court costs and attorneys' fees, by award of the court in the event of legal action. Note that this caution regarding increased amounts in any possible legal action is advisory only and should not be construed as a representation or implication that legal action is contemplated or intended.
+
+You are also CAUTIONED that law enforcement agencies may be provided with a copy of this notice of dishonor and the check drawn by you for the possibility of proceeding with criminal charges if you do not pay the amount of this check within thirty-three days after the date this letter is postmarked.
+
+You are advised to make your payment of $. . . . . to . . . . . . at the following address: . . . . . . . . . .
+
+(2) The cautionary statement regarding law enforcement in subsection (1) of this section need not be included in a notice of dishonor sent by a collection agency. However, if included and whether or not the collection agency regularly refers dishonored checks to law enforcement, the cautionary statement in subsection (1) of this section shall not be construed as a threat to take any action not intended to be taken or that cannot legally be taken; nor shall it be construed to be harassing, oppressive, or abusive conduct; nor shall it be construed to be a false, deceptive, or misleading representation; nor shall it be construed to be unfair or unconscionable; nor shall it otherwise be construed to violate any law.
+
+(3) In addition to sending a notice of dishonor to the drawer of the check under this section, the person sending notice shall execute an affidavit certifying service of the notice by mail. The affidavit of service by mail must be substantially in the following form:
+
+AFFIDAVIT OF SERVICE BY MAIL
+
+I, . . . . . ., hereby certify that on the . . . . . . day of . . . . . ., 20. . ., a copy of the foregoing Notice was served on . . . . . . by mailing via the United States Postal Service, postage prepaid, at . . . . . ., Washington.
+
+Dated:. . . . . . . . . . . . . . . .
+
+(Signature)
+
+(4) The person enforcing a check under this section shall file the affidavit and check, or a true copy thereof, with the clerk of the court in which an action on the check is commenced as permitted by court rule or practice.
+
+[ 2009 c 185 s 1; 2005 c 277 s 4.]
+
+Notes:
+
+**Intent—**2005 c 277: See note following RCW 62A.3-530.
+
+<a id="sec-62A-3-550"></a>
+## RCW 62A.3-550 — Collection agencies—Consequences for failing to comply with requirements.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.3-550
+
+No interest, collection costs, and attorneys' fees, except handling fees, are recoverable on any dishonored check under the provisions of RCW 62A.3-530 where a collection agency or its agent, employee, or assign has demanded:
+
+(1) Interest or collection costs in excess of that provided by RCW 62A.3-530; or
+
+(2) Interest or collection costs prior to the expiration of thirty-three days after the serving or mailing of the notice of dishonor, as provided by RCW 62A.3-530 or 62A.3-540; or
+
+(3) Attorneys' fees other than statutory attorneys' fees without having the fees set by the court, or any attorneys' fees prior to thirty-three days after the serving or mailing of the notice of dishonor, as provided by RCW 62A.3-530 or 62A.3-540.
+
+[ 2005 c 277 s 5.]
+
+Notes:
+
+**Intent—**2005 c 277: See note following RCW 62A.3-530.
 
 <a id="sec-62A-3-601"></a>
 ## RCW 62A.3-601 — Discharge and effect of discharge.

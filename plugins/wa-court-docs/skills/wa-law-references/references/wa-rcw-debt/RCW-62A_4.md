@@ -3,7 +3,7 @@
 - Citation: RCW Chapter 62A.4
 - Description: UCC — Bank Deposits and Collections
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.4
-- Pulled: 2026-05-13
+- Pulled: 2026-05-17
 - Sections: 41
 
 > Verbatim text from the Washington State Legislature website. Citation

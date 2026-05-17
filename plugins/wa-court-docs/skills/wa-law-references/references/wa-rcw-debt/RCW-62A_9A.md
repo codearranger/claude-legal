@@ -3,8 +3,8 @@
 - Citation: RCW Chapter 62A.9A
 - Description: UCC — Secured Transactions
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.9A
-- Pulled: 2026-05-13
-- Sections: 148
+- Pulled: 2026-05-17
+- Sections: 149
 
 > Verbatim text from the Washington State Legislature website. Citation
 > history (`[ ... ]`) and `Notes:` blocks are preserved as published.
@@ -144,6 +144,7 @@
 - [RCW 62A.9A-626 — Action in which deficiency or surplus is in issue](#sec-62A-9A-626)
 - [RCW 62A.9A-627 — Determination of whether conduct was commercially reasonable](#sec-62A-9A-627)
 - [RCW 62A.9A-628 — Nonliability and limitation on liability of secured party; liability of secondary obligor](#sec-62A-9A-628)
+- [RCW 62A.9A-701 — Effective date—2000 c 250](#sec-62A-9A-701)
 - [RCW 62A.9A-702 — Savings clause](#sec-62A-9A-702)
 - [RCW 62A.9A-703 — Security interest perfected before effective date](#sec-62A-9A-703)
 - [RCW 62A.9A-704 — Security interest unperfected before effective date](#sec-62A-9A-704)
@@ -5254,6 +5255,15 @@ Notes:
 **Application—**Effective date—2011 c 74: See notes following RCW 62A.9A-102.
 
 **Effective date—**2001 c 32: See note following RCW 62A.9A-102.
+
+<a id="sec-62A-9A-701"></a>
+## RCW 62A.9A-701 — Effective date—2000 c 250.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.9A-701
+
+This act takes effect July 1, 2001.
+
+[2000 c 250 s 9A-701.]
 
 <a id="sec-62A-9A-702"></a>
 ## RCW 62A.9A-702 — Savings clause.

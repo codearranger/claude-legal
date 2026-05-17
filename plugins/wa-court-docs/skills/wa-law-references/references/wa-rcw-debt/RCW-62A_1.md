@@ -3,8 +3,8 @@
 - Citation: RCW Chapter 62A.1
 - Description: UCC — General Provisions
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.1
-- Pulled: 2026-05-13
-- Sections: 24
+- Pulled: 2026-05-17
+- Sections: 26
 
 > Verbatim text from the Washington State Legislature website. Citation
 > history (`[ ... ]`) and `Notes:` blocks are preserved as published.
@@ -19,6 +19,8 @@
 - [RCW 62A.1-106 — Use of singular and plural; gender](#sec-62A-1-106)
 - [RCW 62A.1-107 — Section captions](#sec-62A-1-107)
 - [RCW 62A.1-108 — Relation to electronic signatures in global and national commerce act](#sec-62A-1-108)
+- [RCW 62A.1-110 — Art dealers and artists—Contracts—Duties, etc](#sec-62A-1-110)
+- [RCW 62A.1-190 — Construction—Title applicable to state registered domestic partnerships—2009 c 521](#sec-62A-1-190)
 - [RCW 62A.1-201 — General definitions](#sec-62A-1-201)
 - [RCW 62A.1-202 — Notice; knowledge](#sec-62A-1-202)
 - [RCW 62A.1-203 — Lease distinguished from security interest](#sec-62A-1-203)
@@ -175,6 +177,24 @@ Except as provided in this section, this Article modifies, limits, and supersede
 Notes:
 
 **Application—**Savings—2012 c 214: See notes following RCW 62A.1-101.
+
+<a id="sec-62A-1-110"></a>
+## RCW 62A.1-110 — Art dealers and artists—Contracts—Duties, etc.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.1-110
+
+Chapter 18.110 RCW shall control over any conflicting provision of this title.
+
+[ 1981 c 33 s 7.]
+
+<a id="sec-62A-1-190"></a>
+## RCW 62A.1-190 — Construction—Title applicable to state registered domestic partnerships—2009 c 521.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.1-190
+
+For the purposes of this title, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
+
+[ 2009 c 521 s 143.]
 
 <a id="sec-62A-1-201"></a>
 ## RCW 62A.1-201 — General definitions.

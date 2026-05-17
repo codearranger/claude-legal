@@ -25,7 +25,7 @@ description: >
   wa-law-references (civil rules, evidence rules, fees-and-costs,
   local rules, online sources), wa-statewide-format, wa-kcdc, and
   wa-pro-se.
-version: 0.2.0
+version: 0.3.0
 ---
 
 # Washington Consumer-Debt Defense
@@ -155,10 +155,12 @@ to serve in first-wave discovery.
 Plead every one that fits; unpleaded defenses are waived (CR 8(c) /
 CRLJ 8(c)). For a typical debt-buyer case:
 
-- Statute of limitations (RCW 4.16.040 or 4.16.080)
+- Statute of limitations (RCW 4.16 — see
+  `references/wa-statutes-of-limitations.md` for the day count
+  applicable to the cause of action pleaded)
 - Lack of standing (CR 17(a), real-party-in-interest)
-- Lack of capacity to sue (RCW 19.16.110 licensing —
-  *Gray v. Suttell*)
+- Lack of capacity to sue (RCW 19.16 licensing requirement —
+  *Gray v. Suttell*; see `references/wa-consumer-protection.md`)
 - Failure to state a claim (CR 12(b)(6), preserved)
 - Failure of consideration (Article 9 attachment deficiency)
 - Unclean hands / FDCPA violations
@@ -174,21 +176,31 @@ Every fact supporting an affirmative defense in a debt-buyer case
 usually also supports a counterclaim:
 
 - **FDCPA** — 15 U.S.C. § 1692 et seq. Federal claim cognizable in
-  state court; 1-year SOL runs from violation (*Rotkiske v. Klemm*)
+  state court; SOL is short and runs from violation
+  (*Rotkiske v. Klemm*). See
+  `../wa-law-references/references/federal-debt-laws/` for current
+  statutory text.
 - **Regulation F** — 12 C.F.R. Part 1006, enforced through FDCPA
-- **WA Collection Agency Act** — RCW 19.16, especially § 19.16.250
-- **WA Consumer Protection Act** — RCW 19.86, per se pathway via
-  RCW 19.16.440 bypasses the public-interest element
+- **WA Collection Agency Act** — RCW 19.16; see
+  `references/wa-consumer-protection.md` for the per-se WA-CPA
+  pathway and the current licensing-violation framework.
+- **WA Consumer Protection Act** — RCW 19.86. RCW 19.16 violations
+  can supply a per-se pathway that bypasses the *Hangman Ridge*
+  public-interest element; see `references/wa-consumer-
+  protection.md` for the elements and the current treble-damages
+  cap.
 - **FCRA** (if re-aging / credit reporting involved — Pattern 10)
 
 **Prayer for relief** should include: dismissal; actual damages;
-$1,000 FDCPA statutory damages; treble CPA damages capped at
-$25,000; reasonable attorney fees (see
+FDCPA statutory damages; treble CPA damages (subject to the
+statutory cap); reasonable attorney fees (see
 `references/fees-consumer-debt.md` for the debt-specific
 fee-shifting grounds, and
 `../wa-law-references/references/fees-and-costs.md` for the
 general RCW 4.84 and rule-based grounds); costs; such further
-relief.
+relief. For current statutory-damages amounts and the CPA
+treble-damages cap, consult the references corpus — those
+figures are amended by statute.
 
 ## Discovery — target the elements
 
