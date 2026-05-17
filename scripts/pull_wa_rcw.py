@@ -106,7 +106,10 @@ CHAPTERS: list[tuple[str, str, str]] = [
     ("26.26A", "26.26A", "Uniform Parentage Act"),
     ("26.27",  "26.27",  "Uniform Child Custody Jurisdiction and Enforcement Act"),
     ("26.44",  "26.44",  "Abuse of Children — Mandatory Reporting / CPS"),
-    ("26.50",  "26.50",  "Domestic Violence Prevention (now largely superseded by RCW 7.105 civil protection orders, 2022)"),
+    # RCW 26.50 (Domestic Violence Prevention) was superseded by the
+    # consolidated civil-protection-order regime at RCW 7.105 in 2022;
+    # the WA Legislature now redirects 26.50 to a disposition table.
+    # Not pulled; DV-protection-order coverage now sits in RCW 7.105.
     # ---- Title 34 — Administrative Law ---------------------------------
     ("34.05",  "34.05",  "Administrative Procedure Act"),
     # ---- Title 48 — Insurance ------------------------------------------
@@ -391,10 +394,25 @@ def main() -> int:
         print(f"  caption: {chapter_caption!r}", flush=True)
         print(f"  found {len(sections)} sections", flush=True)
         if not sections:
-            (out_dir / f"RCW-{short.replace('.', '_')}.md").write_text(
-                f"# RCW Chapter {chapter}\n\n_No sections extracted from the index page._\n",
-                encoding="utf-8",
+            # The WA Legislature serves an HTML "Object moved" page for
+            # repealed / dispositioned chapters (e.g., RCW 26.10 → 26.09
+            # third-party framework; RCW 49.78 → Title 50A PFML; RCW 26.50
+            # → RCW 7.105 consolidated CPO). Detecting these as zero-
+            # section results lets us fail loudly so they can be pruned
+            # from CHAPTERS rather than silently shipping empty stubs.
+            looks_dispositioned = "Object moved" in idx_html and "dispo.aspx" in idx_html
+            reason = (
+                " (chapter redirects to a disposition table — likely repealed; "
+                "remove from CHAPTERS)"
+                if looks_dispositioned
+                else " (index returned no parseable section rows)"
             )
+            print(
+                f"  ! WARNING: chapter {chapter} produced 0 sections{reason}; "
+                f"skipping write to avoid shipping an empty stub",
+                flush=True,
+            )
+            grand_failed += 1
             continue
 
         fetched: dict[str, tuple[str, str, str | None]] = {}

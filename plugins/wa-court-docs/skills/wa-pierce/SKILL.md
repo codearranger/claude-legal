@@ -38,6 +38,13 @@ version: 0.1.0
 - **Jurisdiction**: General-jurisdiction trial court
   (RCW 2.08) — civil, family, criminal, juvenile,
   probate
+- **Appellate context**: appeals from Pierce County
+  Superior Court route to the **Washington Court of
+  Appeals, Division II** (seated in Tacoma); Division II
+  also hears appeals from the rest of southwest
+  Washington (Thurston, Kitsap, Clark, Lewis, Mason,
+  Cowlitz, Pacific, Wahkiakum, Skamania, Jefferson,
+  Clallam, Grays Harbor).
 
 ## Local rules
 
