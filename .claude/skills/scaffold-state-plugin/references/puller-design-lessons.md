@@ -355,6 +355,180 @@ stubs:
 - **Per-judge / per-justice Part Rules** — published
   individually with no consolidated HTML index
 
+## 11. Index-parser caption regex — handle nested HTML
+
+When the index page lists section captions, the captions
+often contain **nested tags** for inline formatting —
+commonly `<span style="font-family:times new roman;">—</span>`
+to render an em-dash. A naive regex like `[^<]+?` for
+caption capture **silently drops every row whose caption
+contains a nested tag**.
+
+This actually happened on the WA puller: out of 17
+sections in RCW 7.70, only 6 were captured (those with
+plain captions). The 11 missing sections — including
+critical ones like RCW 7.70.030 (the med-mal cause of
+action) — all had captions with embedded `<span>` em-dash
+markup that broke the `[^<]+?` match.
+
+The fix: accept arbitrary caption content and strip tags
+in post-processing.
+
+```python
+# WRONG: silently drops rows with nested tags in captions
+row_re = re.compile(
+    r"<a\s+href=['\"][^'\"]+cite=" + chapter_pat
+    + r"([.\-][\d.A-Za-z\-]+)['\"]\s*>\s*[^<]+?\s*</a>\s*</td>\s*"
+    r"<td[^>]*>\s*([^<]+?)\s*</td>",
+    re.IGNORECASE | re.DOTALL,
+)
+
+# RIGHT: accept arbitrary caption content, strip tags
+# in post-processing
+row_re = re.compile(
+    r"<a\s+href=['\"][^'\"]+cite=" + chapter_pat
+    + r"([.\-][\d.A-Za-z\-]+)['\"]\s*>\s*[^<]+?\s*</a>\s*</td>\s*"
+    r"<td[^>]*>\s*(.+?)\s*</td>",   # CHANGED: . instead of [^<]
+    re.IGNORECASE | re.DOTALL,
+)
+for m in row_re.finditer(html_text):
+    cite = f"{chapter}{m.group(1)}"
+    raw_caption = m.group(2)
+    caption = re.sub(r"<[^>]+>", "", raw_caption)   # strip tags
+    caption = html.unescape(caption)
+    caption = re.sub(r"\s+", " ", caption).strip().rstrip(".")
+    sections.append((cite, caption))
+```
+
+**Verification**: after parsing, count `len(sections)`
+against a known-good chapter and assert the count matches
+the chapter's published section count. The WA bug went
+unnoticed for the first ~75 chapters because nobody
+counted sections per chapter against an expected total.
+
+## 12. Distinguish "dispositioned redirect" from "parse failure"
+
+When a chapter's index page yields **zero sections**, there
+are two qualitatively different causes:
+
+- **(a) Dispositioned redirect** — the legislature has
+  redirected the chapter URL to a disposition table because
+  the chapter has been repealed / recodified. The right
+  response is to **remove the entry from CHAPTERS** in the
+  puller. CI should NOT fail on this — the warning is
+  informational and disappears once the entry is pruned.
+
+- **(b) Normal-page-but-zero-sections** — the page renders
+  normally but our regex finds no section rows. **That's a
+  parse regression**, typically an HTML / layout change on
+  the upstream that broke the puller. CI MUST fail so we
+  notice immediately.
+
+A single `grand_failed` counter that mixes both causes
+loses signal: dispositioned-chapter warnings drown out
+real regressions, OR CI fails on every documented repeal
+forever.
+
+The fix: split the counters and the exit semantics.
+
+```python
+grand_failed = 0          # section-body HTTP / parse errors
+grand_index_failed = 0    # chapter-index fetch failures
+grand_warnings = 0        # dispositioned-redirect detections
+
+# ... after parse_chapter_index ...
+if not sections:
+    looks_dispositioned = "Object moved" in idx_html and "dispo.aspx" in idx_html
+    if looks_dispositioned:
+        print(
+            f"  ! WARNING: chapter {chapter} redirects to a "
+            f"disposition table — likely repealed; remove from "
+            f"CHAPTERS. Skipping write to avoid shipping an "
+            f"empty stub.",
+            flush=True,
+        )
+        grand_warnings += 1
+    else:
+        print(
+            f"  ! ERROR: chapter {chapter} returned a normal-"
+            f"shaped index page but yielded 0 parseable section "
+            f"rows — likely an upstream HTML change or a regex "
+            f"regression. Skipping write; this WILL fail the "
+            f"refresh.",
+            flush=True,
+        )
+        grand_failed += 1
+    continue
+
+# At the end:
+print(
+    f"\nDone. {grand_total} sections; "
+    f"{grand_failed} fetch errors; "
+    f"{grand_index_failed} chapter-index errors; "
+    f"{grand_warnings} zero-section warnings.",
+    flush=True,
+)
+return 1 if (grand_failed or grand_index_failed) else 0
+```
+
+The dispositioned-redirect detection is upstream-specific
+(WA serves an "Object moved" page; other states may use
+HTTP 301, JSON disposition responses, or a different HTML
+shape). Adapt the detector to the upstream you're against.
+
+## 13. Never ship silent empty stubs
+
+A puller that writes `# RCW Chapter X\n\n_No sections
+extracted from the index page._\n` to disk and continues
+silently is the worst possible failure mode — the corpus
+ships an empty file that looks plausible at a glance, the
+CI green-lights it, and nobody notices until a user
+queries the chapter and gets nothing.
+
+The right behavior: on zero sections, **don't write the
+file**. Emit a loud `! WARNING` (for dispositioned) or
+`! ERROR` (for parse failure), increment the appropriate
+counter, and move on. The absence of the file at the
+expected output path will be more obvious in the diff than
+a stub file would be.
+
+The WA puller shipped three silent empty stubs (RCW 26.10,
+RCW 26.50, RCW 49.78) before reviewers caught them in PR.
+After the fix, all three were detected on the next run as
+dispositioned redirects and were pruned from CHAPTERS.
+
+## 14. Periodically prune CHAPTERS for repealed chapters
+
+State legislatures repeal / recodify chapters over time.
+Three WA chapters that were in the catalog became
+dispositioned during the marketplace's lifetime:
+
+- **RCW 26.10** (Nonparental Actions for Child Custody) —
+  repealed; integrated into RCW 26.09's third-party
+  custody framework by Laws of 2020, ch 312
+- **RCW 26.50** (Domestic Violence Prevention) — superseded
+  by the consolidated civil-protection-order regime at
+  RCW 7.105 in 2022
+- **RCW 49.78** (Family Leave Act) — repealed when the
+  comprehensive Paid Family and Medical Leave Act at RCW
+  Title 50A took effect in 2019
+
+Once Lesson 12 (dispositioned-redirect detection) is in
+place, the puller surfaces these as `! WARNING` lines on
+the next refresh and the maintenance step is straightforward:
+
+1. Confirm the chapter is dispositioned (read the
+   `dispo.aspx` table or the equivalent)
+2. Identify where the content moved (typically a successor
+   chapter; document it in a comment next to the deletion)
+3. Remove the entry from `CHAPTERS`
+4. Delete the orphan output file (`rm RCW-X_Y.md`)
+5. If the successor chapter isn't in `CHAPTERS`, add it
+6. Update top-level docs (CLAUDE.md, README.md) with the
+   new section counts
+
+Without this discipline, repealed-chapter stubs accumulate.
+
 ## Summary checklist
 
 When writing a new state puller, verify each item:
@@ -363,6 +537,10 @@ When writing a new state puller, verify each item:
       ID structure before committing the target catalog
 - [ ] Verified adjacent identifiers (no Part-N vs Part-N+1
       confusion)
+- [ ] **Tested the index-parser regex against captions
+      that contain nested `<span>` tags** (lesson 11) —
+      count parsed sections against the chapter's actual
+      published section count for at least one chapter
 - [ ] Used `curl_cffi` with Chrome TLS impersonation
 - [ ] Supports `<STATE>_RULES_PROXY` env var for
       Cloudflare-Warp proxy routing (developer-local)
@@ -370,6 +548,15 @@ When writing a new state puller, verify each item:
       / 4xx / API-key-missing
 - [ ] `_file_is_stub` check prevents regression of verbatim
       content to stubs
+- [ ] **Distinguishes dispositioned-redirect from parse-
+      failure on zero-section results** (lesson 12) — uses
+      separate counters; exits non-zero only on real
+      parse-failure
+- [ ] **Never writes silent empty stubs** (lesson 13) — on
+      zero sections, emit a loud WARNING / ERROR and skip
+      the write
+- [ ] Has a documented protocol for periodically pruning
+      repealed chapters from CHAPTERS (lesson 14)
 - [ ] If the upstream is a JSON API: prefetches per-law trees
       with `?full=true` and slices in memory
 - [ ] If the upstream returns literal `\n`: decoded with

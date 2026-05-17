@@ -226,6 +226,28 @@ Required for every SKILL.md:
       GR 14", "unlike Oregon's no-interrogatories rule",
       "California's In Pro Per" comparisons. State the rule
       directly without comparing.
+- [ ] **Thin-skill architecture** — see
+      `thin-skill-architecture.md`. The body describes
+      procedural frameworks + chapter pointers; current
+      statutory text, dollar thresholds, day counts, and
+      section subsections live in the references corpus.
+      Audit the SKILL.md for embedded specifics before
+      committing:
+
+```bash
+# In the new SKILL.md, look for drift hazards:
+grep -nE '\$[0-9]+|[0-9]+ days|[0-9]+ years|[0-9]+%|RCW [0-9]+\.[0-9]+\.[0-9]+\(' \
+  plugins/<abbr>-court-docs/skills/<abbr>-*/SKILL.md
+```
+
+Each hit should be one of:
+- A chapter-level cite (`RCW 7.72` — keep)
+- A user-prompt example, not a law claim (skill bodies
+  shouldn't normally have these)
+- A historical reform date (`1986 Reform Act`, `2019 SB
+  5600` — keep; reform names + dates don't drift)
+- **A current statutory specific** — REMOVE and replace
+  with a chapter pointer
 
 Run lint after each batch:
 ```bash
@@ -434,6 +456,18 @@ subject-matter category needs evals covering both:
       regime)
 - [ ] `evals/integration/` — 2 evals (one end-to-end on
       each bundle's flagship fact pattern)
+- [ ] **Thin-eval acceptance criteria** — see
+      `thin-skill-architecture.md`. User-stated hypothetical
+      facts in the prompts ("I make $80,000 a year") are OK;
+      embedded current law values in acceptance criteria
+      (`[ ] $80k is below the $116,594.96 threshold`) are
+      not. Acceptance criteria should require the agent to
+      **read current values from the references corpus**
+      rather than hard-code dollar caps, day counts, or
+      year-specific thresholds. Math that derives
+      deterministically from prompt inputs (e.g., 35% / 65%
+      pro-rata of $4,200 / $7,800) is fine — that's
+      arithmetic, not law.
 
 ## Phase 7 — Marketplace updates
 
@@ -519,6 +553,47 @@ done
 
 - [ ] No broken cross-references reported
 
+### Thin-skill audit
+
+Before committing, scan SKILL.md bodies for embedded
+statutory specifics that should live in the references
+corpus instead:
+
+```bash
+# Look for embedded dollar amounts, year-tagged thresholds,
+# specific day counts, and subsection-level cites:
+grep -nE '\$[0-9]+|[0-9]+ days|[0-9]+ years|[0-9]+%|RCW [0-9]+\.[0-9]+\.[0-9]+\(|2024 threshold|2025 threshold' \
+  plugins/<abbr>-court-docs/skills/*/SKILL.md
+```
+
+For each hit, classify:
+
+- **Keep** if it's a chapter-level cite (`RCW 7.72`), a
+  historical reform date (`1986 Reform Act`, `2019 SB 5600`),
+  a user-prompt example in an integration eval, or a stable
+  doctrinal classification (`pure comparative fault`)
+- **Move to references corpus** if it's a current
+  statutory specific that can be amended (dollar threshold,
+  day count, damages cap, subsection-level cause-of-action
+  detail)
+
+And scan eval acceptance criteria for the same drift
+hazards:
+
+```bash
+grep -nE '\$[0-9]+|[0-9]+ days|[0-9]+ years|[0-9]+%|2024 threshold|2025 threshold' \
+  plugins/<abbr>-court-docs/evals/**/*.md
+```
+
+Same classification. User-prompt facts are fine; embedded
+law claims in acceptance criteria are not.
+
+- [ ] No embedded current law values in SKILL.md bodies
+      (only chapter pointers + framework descriptions)
+- [ ] No embedded current law values in eval acceptance
+      criteria (only "read from references corpus"
+      requirements)
+
 ### Verbatim corpus sanity
 
 If pull scripts ran successfully:
@@ -526,6 +601,20 @@ If pull scripts ran successfully:
 - [ ] At least one statute / rule file is > 5 KB (most should
       be much larger — sub-1 KB usually means the puller got
       a navigation page or stub instead of content)
+- [ ] **No empty stubs in the corpus** — every chapter file
+      should have actual section content. A stub with just
+      `_No sections extracted from the index page._`
+      indicates either (a) a dispositioned chapter that
+      should be removed from the puller's CHAPTERS catalog
+      or (b) a real parse failure that needs the puller
+      fixed (see `puller-design-lessons.md` lessons 11-14)
+- [ ] **Section count matches expectation for at least one
+      sample chapter** — the WA puller had a regex bug
+      that silently dropped sections with nested
+      `<span>` em-dash captions; the bug went undetected
+      across 75 chapters until reviewers noticed RCW 7.70
+      had 6 of 17 sections. Verify count for at least one
+      known-complete chapter against the upstream
 - [ ] Spot-check one file's section text against the canonical
       source — no embedded `\n` literal sequences, no
       duplicated section headings, no Cloudflare interstitial

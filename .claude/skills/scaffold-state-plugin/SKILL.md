@@ -21,7 +21,7 @@ description: >
   This is a **project-scoped skill** — it lives in .claude/
   skills/ and runs against the marketplace repo as a whole. It
   is NOT a marketplace plugin.
-version: 0.3.0
+version: 0.4.0
 ---
 
 # Scaffold a New State Plugin
@@ -240,11 +240,23 @@ The scaffolder produces stubs. Each SKILL.md needs:
 
 - A full description with trigger phrases that match how a
   pro se filer would actually ask
-- Substantive body text covering the state's rules
+- Substantive body text covering the state's rules — **as
+  a thin-skill** (see below)
 - References specific to the state (rule numbers, statute
   citations, case citations in the state's style manual
   format)
 - Composition notes pointing to other skills in the plugin
+
+> **Read [`references/thin-skill-architecture.md`](references/thin-skill-architecture.md)
+> before authoring SKILL.md bodies.** The dominant lesson
+> from the WA expansion is that skills should describe
+> procedural frameworks + chapter pointers, and current
+> statutory text + dollar thresholds + day counts + section
+> subsections should live in the references corpus — not
+> embedded in skill bodies. Quarterly puller refreshes then
+> update canonical law without requiring SKILL.md edits.
+> The thin-skill doc has a category-by-category catalog of
+> citation-drift hazards and a refactor playbook.
 
 Use `references/skill-templates/` as the starting point for
 each role. Each template has:
@@ -457,6 +469,15 @@ Mirror the OR eval categories:
 - `integration/` — 2 evals (end-to-end debt-defense answer;
   end-to-end motion-to-compel packet)
 
+> **Apply the thin-skill principle to eval acceptance
+> criteria too** — see `references/thin-skill-architecture.md`.
+> User-stated hypothetical facts in eval prompts ("I make
+> $80,000 a year") are OK; embedded current law values in
+> acceptance criteria (`[ ] $80k is below the $116,594.96
+> threshold`) are not. Rewrite criteria to require the agent
+> to **read current values from the references corpus**
+> rather than hard-coding figures that drift annually.
+
 ### Step 8: Update marketplace docs
 
 - `marketplace.json`: register the new plugin; bump
@@ -475,6 +496,54 @@ new SKILL.md. Commit with a substantive message describing
 what shipped. Push to the user's designated branch.
 
 ## Important rules
+
+### CRITICAL: Thin-skill architecture — keep the law in references
+
+**SKILL.md bodies and eval acceptance criteria describe
+procedural frameworks + chapter pointers. Current
+statutory text, dollar thresholds, day counts, exact
+subsection numbers, damages multipliers, and other values
+that drift live ONLY in the references corpus.**
+
+This is the dominant lesson from the WA expansion: every
+embedded statutory specific is a maintenance debt that a
+future amendment silently breaks. The quarterly puller
+refreshes the corpus without requiring any SKILL.md edits
+— and that property is what makes the marketplace scale.
+
+**What to keep in a skill body**: chapter-level pointers
+("WPLA at RCW 7.72 — see `references/wa-rcw-debt/
+RCW-7_72.md` for current text"); qualitative framework
+descriptions ("Washington is a pure-comparative-fault
+state"); decision trees + procedural workflows; stable
+historical reform attributions (1986 Reform Act, 2019 SB
+5600, etc.); composition pointers to other skills; stable
+case-law citations.
+
+**What to REMOVE from a skill body**: specific dollar
+thresholds with year tags ("$116,594.96 / 2024"); specific
+SOL day counts ("6 years on written contract"); specific
+notice period day counts ("14-day pay-or-vacate"); specific
+employer-coverage / income thresholds ("8+ employees");
+specific damages multipliers in body text; specific
+subsection-level cites of cause-of-action elements
+("RCW 7.72.060(3) provides..."); specific motion-day
+timing ("9 court days before hearing"); specific hearing-
+window day counts; MAR jurisdictional caps; revision-motion
+windows.
+
+**The same applies to eval acceptance criteria**. User-
+stated hypothetical facts in eval prompts ("I make $80,000
+a year") are OK — those are scenario context. Embedded
+current law values in acceptance criteria
+(`[ ] $80k is below the $116,594.96 threshold`) are not —
+those will be stale next year.
+
+See [`references/thin-skill-architecture.md`](references/thin-skill-architecture.md)
+for: the full principle, what to keep vs. remove, a refactor
+playbook for existing thick skills, a category-by-category
+citation-drift hazard catalog, and the cross-state-port
+benefit.
 
 ### CRITICAL: No cross-state references inside the plugin
 
@@ -650,6 +719,12 @@ don't scale.
 
 ## References
 
+- `references/thin-skill-architecture.md` — **READ FIRST**
+  before authoring any SKILL.md body. The "keep the law in
+  references, not in skills" principle that drives current
+  authorship: what to keep vs. remove, refactor playbook
+  for thick skills, citation-drift hazard catalog, and the
+  cross-state-port benefit
 - `references/checklist.md` — step-by-step checklist for the
   manual path, including the pre-commit cross-state-reference
   scan and post-commit verification phases
@@ -667,8 +742,12 @@ don't scale.
   for writing the state's `pull_<state>_*.py` scripts:
   curl_cffi + Chrome TLS impersonation for Cloudflare bypass,
   API-key conditional patterns, prefetch-and-slice, literal-
-  `\n` decoding, regression protection (`_file_is_stub`), and
-  workflow-yaml integration
+  `\n` decoding, regression protection (`_file_is_stub`),
+  index-parser nested-tag handling, distinguishing
+  dispositioned-redirect from parse-failure on zero-section
+  results, the never-silent-stub rule, periodic CHAPTERS
+  pruning for repealed chapters, and workflow-yaml
+  integration
 - `references/scaffold-script.md` — usage notes for
   `scripts/scaffold-state.py`
 - `scripts/scaffold-state.py` — the scaffolder
