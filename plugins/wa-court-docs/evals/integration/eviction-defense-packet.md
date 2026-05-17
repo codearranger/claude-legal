@@ -1,54 +1,67 @@
-# Integration — Eviction defense packet
+# Integration — End-to-end eviction defense packet
 
 ## Prompt
 
-I just got served a 14-day pay-or-vacate notice in Seattle.
-I'm a tenant in a 200-unit apartment. The notice doesn't have
-some of the required language. I'm pro se, low-income. Help
-me build the answer + defenses.
+I'm a tenant in Seattle. Yesterday my landlord served me a
+"Notice to Pay or Vacate." I think the notice form is wrong —
+it doesn't have the legal-aid info I've heard tenants are
+supposed to receive. I'm low-income and want to apply for the
+right to counsel. Help me draft a notice of appearance and
+explain the eviction-defense framework.
 
 ## Expected triggers
 
 - `wa-landlord-tenant`
 - `wa-first-30-days`
-- `wa-kcsc`
 - `wa-pro-se`
 - `wa-statewide-format`
+- (Possibly) `wa-kcsc` or `wa-kcdc` depending on rent /
+  forum
 
-## Acceptance criteria
+### Caption + format
 
-### Answer
+- [ ] Correct King County caption (Superior or District,
+      depending on the case posture)
+- [ ] GR 14 formatting
+- [ ] Pro se signature block
 
-- [ ] Identifies **7-day response window** under RCW
-      59.18.365 (NOT the standard CR 4 20-day summons —
-      unlawful-detainer summons is abbreviated)
-- [ ] Walks affirmative defenses to raise:
-      - **Notice form defect** — RCW 59.18.057(1) requires
-        statutory mandatory form with specific contents
-        (legal-aid info, etc.); defective notice = fatal
-      - **Warranty of habitability** under RCW 59.18.060
-      - **Repair-and-deduct** offset
-      - **Retaliation** presumption under RCW 59.18.240
-- [ ] References **HB 1815 statewide tenant Right to
-      Counsel** — recommend tenant apply for appointed
-      counsel through Office of Civil Legal Aid (200%
-      poverty threshold)
-- [ ] References **Eviction Resolution Program (ERP)**
-      pre-filing requirement — if landlord skipped ERP,
-      that may be defective
-- [ ] References show-cause hearing scheduling under RCW
-      59.18.370
+### Substantive guidance
 
-### Process
+- [ ] Identifies the **2019 SB 5600 mandatory-form
+      requirement** at RCW 59.18.057 — pay-or-vacate notice
+      MUST use the statutorily-mandated form including legal-
+      aid contact info. Defective notice = defective
+      foundation for eviction.
+- [ ] References the **HB 1815 statewide tenant Right to
+      Counsel** — recommends applying through the Office of
+      Civil Legal Aid; notes the income-eligibility threshold
+      (current threshold per Office of Civil Legal Aid —
+      doesn't hard-code a figure)
+- [ ] References **ERP** (Eviction Resolution Program) where
+      applicable
+- [ ] References affirmative defenses: defective notice
+      (mandatory-form violation); habitability (RCW 59.18.060);
+      retaliation presumption (RCW 59.18.240 — within a
+      statutory window of protected activity); rental-
+      assistance defenses
+- [ ] References the response window (current day count via
+      `wa-deadlines`; the unlawful-detainer summons is
+      abbreviated, not standard CR 4 — that's a critical trap)
+- [ ] Notes show-cause hearing framework
 
-- [ ] File written notice of appearance within 7 days to
-      avoid default
-- [ ] Prepare for show-cause hearing within 14-30 days
-- [ ] Apply for RTC counsel
+### References corpus integration
+
+- [ ] Cites RCW 59.18 at chapter level; current notice
+      periods, retaliation presumption window, and habitability
+      remedies live in `RCW-59_18.md`
+- [ ] Cites HB 1815 income eligibility as "current threshold
+      per Office of Civil Legal Aid" rather than embedding a
+      number
 
 ## Common failure modes
 
-- Using standard 20-day answer (this is 7-day UD summons)
-- Skipping RTC referral
-- Missing ERP defense
-- Treating defective notice as harmless (it's not)
+- Hard-coding a specific income-eligibility threshold for RTC
+- Hard-coding a specific notice period
+- Treating the unlawful-detainer summons as a standard CR 4
+  summons (response window is much shorter)
+- Skipping the mandatory-form defense

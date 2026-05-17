@@ -16,33 +16,30 @@ Do I have a claim?
 
 - [ ] Identifies **Washington Law Against Discrimination
       (WLAD)** at RCW 49.60
-- [ ] Confirms employer coverage: **WLAD covers employers
-      with 8+ employees** under RCW 49.60.040(11) — broader
-      than federal Title VII's 15+ threshold; a 10-employee
-      restaurant IS covered
+- [ ] Confirms employer coverage: WLAD covers smaller employers
+      than federal Title VII — checks the current employee-count
+      threshold against the 10-employee restaurant size (read from
+      `wa-law-references/references/wa-rcw-debt/RCW-49_60.md`)
 - [ ] Identifies **sex / pregnancy** as protected class under
-      RCW 49.60.180
-- [ ] Walks possible claims: pregnancy discrimination
-      (disparate treatment); hostile work environment
-      (severe-OR-pervasive); retaliation under RCW
-      49.60.210 for protected activity (requesting medical
-      leave)
-- [ ] Notes **no statutory damages cap** under WLAD (vs.
-      federal Title VII $300k cap)
+      WLAD
+- [ ] Walks possible claims: pregnancy discrimination (disparate
+      treatment); hostile work environment (severe-OR-pervasive);
+      retaliation under RCW 49.60.210 for protected activity
+      (requesting medical leave)
+- [ ] Notes **no statutory damages cap** under WLAD (a structural
+      feature, distinct from federal Title VII)
 - [ ] Notes **mandatory attorney's fees** for prevailing
-      plaintiff under RCW 49.60.030(2)
-- [ ] Walks remedies: file with WSHRC within 6 months OR
-      file directly in court; **3-year SOL** for direct
-      court action under RCW 4.16.080(2) per *Antonius v.
-      King County*
-- [ ] References **Healthy Starts Act** (RCW 49.86) for
-      pregnancy accommodation requirements
+      plaintiff
+- [ ] Walks remedies: file with WSHRC within the WSHRC filing
+      window OR file directly in court; the SOL for direct court
+      action is RCW 4.16's general PI SOL per *Antonius v. King
+      County*. Day counts in `RCW-49_60.md` and `RCW-4_16.md`.
+- [ ] References Healthy Starts Act for pregnancy accommodation
 
 ## Common failure modes
 
-- Treating federal Title VII as the primary cause of
-  action (WLAD is broader, more damages, mandatory fees)
-- Stating employer not covered (10 IS above 8-employee
-  threshold)
-- Missing the 6-month WSHRC clock
+- Treating federal Title VII as the primary cause of action
+  (WLAD is broader, has more damages, has mandatory fees)
+- Stating employer not covered without checking current threshold
+- Missing the WSHRC filing-window clock
 - Wrong SOL

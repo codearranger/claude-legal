@@ -1,38 +1,47 @@
 # wa-consumer-debt — Fact-pattern triage
 
 ## Prompt
-Here's my situation: I was sued by [debt buyer name] on [date] in KCDC.
-They claim I owe $X on a [credit card / medical / personal loan]
-account that allegedly defaulted in [year]. They produced a redacted
-bill of sale and no signed contract. I disputed by email when they
-first contacted me in [year] and they stopped responding.
 
-What defenses and counterclaims should I consider?
+I just got sued in Washington by "Velocity Investments LLC."
+The complaint says I owe $4,800 on a credit-card account
+originally with Wells Fargo. The complaint attaches a
+"Certificate of Indebtedness" and a generic "Bill of Sale" but
+not the cardholder agreement. The last payment was about 5
+years ago. What kind of case is this?
 
 ## Expected triggers
-- `wa-consumer-debt` (SKILL.md — the triage workflow)
+
+- `wa-consumer-debt`
+- `wa-first-30-days`
 
 ## Acceptance criteria
-- Walks through a structured triage covering:
-  - **Standing / chain of title** — can plaintiff prove assignment?
-  - **Statute of limitations** — 6 (written) / 3 (unwritten); accrual;
-    revival
-  - **Evidence** — admissibility of records under ER 803(6) /
-    ER 901 / ER 1002
-  - **FDCPA violations** — § 1692e, § 1692g, § 1692f; Reg F
-  - **CPA counterclaim** — Hangman Ridge 5 elements + 19.16.440 per se
-  - **Collection Agency Act** — licensing violations (RCW 19.16.110
-    licensing requirement)
-  - **Answer + affirmative defenses** — must plead SOL, payment,
-    accord and satisfaction, failure of consideration
-- Notes that subject-matter bundle composes with matter-neutral
-  procedural skills (`wa-discovery`, `wa-law-references`,
-  `wa-first-30-days`)
-- Does **not** give definitive legal advice — frames as "consider"
+
+- [ ] Recognizes this as a **debt-buyer** case (Velocity is a
+      well-known debt buyer, not an original creditor)
+- [ ] Matches against the recurring fact patterns in
+      `wa-consumer-debt/references/fact-patterns.md`:
+      pattern 1 (generic pool schedule), pattern 2 (missing
+      statements), pattern 3 (no cardholder agreement),
+      possibly pattern 5 (SOL trap given the 5-year lookback)
+- [ ] Flags the **5-year-from-last-payment SOL question** —
+      whether facially time-barred depends on whether the
+      longer (written contract) or shorter (oral / account-
+      stated) WA SOL applies; that turns on whether the
+      cardholder agreement is in evidence
+- [ ] Suggests answer + counterclaim posture: SOL defense (if
+      plaintiff lacks cardholder agreement, shorter SOL likely
+      applies); chain-of-title challenge; FDCPA counterclaim;
+      WA CPA counterclaim
+- [ ] Identifies first-wave discovery targets: complete chain;
+      original cardholder agreement; all monthly statements;
+      affidavit of debt's foundation
+- [ ] Pulls current WA SOL day counts from
+      `wa-law-references/references/wa-rcw-debt/RCW-4_16.md`
+      rather than hard-coding
 
 ## Common failure modes
-- Giving only one defense track (e.g., only SOL, missing chain of
-  title)
-- Missing licensing question under RCW 19.16.110
-- Missing the duty to plead affirmative defenses
-- Overpromising outcome
+
+- Treating Velocity as an original creditor
+- Hard-coding a specific WA SOL figure
+- Missing the chain-of-title issue
+- Skipping the FDCPA / WA CPA counterclaim posture

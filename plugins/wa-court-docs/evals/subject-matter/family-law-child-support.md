@@ -20,11 +20,13 @@ calculated?
       26.19.020
 - [ ] Walks combined-net-income calculation:
       $4,200 + $7,800 = $12,000
-- [ ] Notes Economic Table cap at $12,000/month combined net
-      income — at-or-above cap triggers court discretion
+- [ ] **Checks the combined-income against the current Economic
+      Table cap** (read from
+      `wa-law-references/references/wa-rcw-debt/RCW-26_19.md`)
+      — does NOT hard-code the cap figure
 - [ ] References mandatory child-support worksheets (WSCSS)
-- [ ] Each parent's pro rata share = (their net income) /
-      (combined): 35% / 65%
+- [ ] Each parent's pro rata share derived from the prompt:
+      $4,200 / $12,000 = 35%; $7,800 / $12,000 = 65%
 - [ ] References RCW 26.19.071 net-income definition (gross
       MINUS tax, FICA, mandatory pension, mandatory union,
       court-ordered support)
@@ -35,7 +37,9 @@ calculated?
 
 ## Common failure modes
 
-- Applying Ohio's $300k cap or CO's 93-overnight rule
-- Missing the $12,000/mo Washington-Economic-Table cap
+- Hard-coding a specific cap figure rather than reading from
+  the references corpus
 - Forgetting the mandatory worksheet
 - Using gross income (should be net)
+- Mixing in another state's framework (e.g., percentage-of-payor
+  model or 93-overnight rule)

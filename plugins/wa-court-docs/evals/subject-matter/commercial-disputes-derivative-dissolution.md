@@ -1,11 +1,12 @@
-# wa-commercial-disputes — Shareholder derivative + judicial dissolution
+# wa-commercial-disputes — Derivative + judicial dissolution
 
 ## Prompt
 
-I own 30% of a Washington close corporation. The 70% majority
-shareholder has been paying himself excessive compensation,
-declined to declare dividends for 5 years, and just fired me
-from my employment with the company. What are my remedies?
+I own 25% of a Washington corporation. The majority shareholder
+has frozen me out of management, refuses to pay dividends, and
+is paying himself an excessive salary that is depleting the
+company. The other minority shareholder agrees with me. What
+remedies are available?
 
 ## Expected triggers
 
@@ -13,34 +14,34 @@ from my employment with the company. What are my remedies?
 
 ## Acceptance criteria
 
-- [ ] Identifies **WBCA at RCW 23B** as governing
-- [ ] Walks fiduciary-duty framework — directors' duty of
-      care + loyalty + good faith
-- [ ] Identifies **derivative claim** under RCW 23B.07.400
-      for excessive compensation (breach of fiduciary duty)
-      — demand on board generally required unless excused
-- [ ] Identifies **judicial dissolution** under RCW
-      23B.14.300 — court can dissolve on shareholder
-      showing of director illegality / oppressive / fraud
-      conduct + waste of corporate assets
-- [ ] Applies *Scott v. Trans-System, Inc.*, 148 Wn.2d 701
-      (2003) **reasonable-expectations test** for
-      oppression in closely-held corporations:
-      employment-as-shareholder-benefit + freeze-out
-      pattern + excessive compensation diverting earnings
-- [ ] Walks **dissenters' rights** under RCW 23B.13 if a
-      qualifying corporate action triggers appraisal
-- [ ] Notes oppression remedy can be tailored — buy-out
-      (most common); appointment of receiver; injunctive
-      relief; less commonly outright dissolution
-- [ ] Considers buyout valuation methodology — fair value
-      vs. fair market value
+- [ ] Identifies the WBCA at RCW 23B
+- [ ] Walks the **derivative-action** framework under RCW
+      23B.07.400 — plaintiff must be a contemporaneous
+      shareholder; demand on board required unless excused
+- [ ] Walks the **judicial-dissolution** framework under RCW
+      23B.14 — court may dissolve on shareholder showing of
+      illegality / oppression / fraud / waste of corporate
+      assets
+- [ ] References the **reasonable-expectations** test for
+      oppression in close corporations per *Scott v.
+      Trans-System, Inc.* (148 Wn.2d 701)
+- [ ] Notes alternative remedies short of dissolution:
+      buy-out at fair value; appointment of receiver;
+      injunctive relief
+- [ ] Notes director duties at RCW 23B.08 (duty of care +
+      duty of loyalty + good faith) — relevant if directors
+      are complicit in the freeze-out
+- [ ] References `wa-law-references/references/wa-rcw-debt/`
+      RCW-23B chapter files for current statutory text on
+      derivative-action procedure, dissenters' rights, and
+      dissolution
 
 ## Common failure modes
 
-- Treating compensation claim as direct (it's usually
-  derivative)
-- Missing demand-on-board prerequisite
-- Confusing dissenters' rights with dissolution
-- Wrong test (don't apply Delaware reasonable-expectations
-  case law unmodified)
+- Confusing derivative claims (corporate harm) with direct
+  claims (shareholder-specific harm)
+- Missing the reasonable-expectations test from *Scott v.
+  Trans-System*
+- Skipping the demand-on-board prerequisite
+- Hard-coding specific procedural day counts for derivative
+  actions rather than reading from chapter files

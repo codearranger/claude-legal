@@ -12,29 +12,32 @@ competitor. I make $80,000 a year. Is it enforceable?
 
 ## Acceptance criteria
 
-- [ ] Identifies **RCW 49.62** non-compete reform (effective
-      January 1, 2020)
-- [ ] Identifies salary-threshold rule: non-compete VOID
-      below approximately $116,594.96/year for 2024
-      (annual COL adjustment under RCW 49.62.020)
-- [ ] $80k is **below** the threshold — non-compete VOID
-      and unenforceable
+- [ ] Identifies **RCW 49.62** non-compete reform (effective 2020)
+- [ ] Identifies the salary-threshold rule: non-compete VOID below
+      a COL-adjusted statutory threshold; the threshold is reset
+      annually under RCW 49.62.020
+- [ ] **Reads the current threshold from
+      `wa-law-references/references/wa-rcw-debt/RCW-49_62.md`**
+      (or notes the L&I-published current figure) — does NOT
+      hard-code a dollar figure
+- [ ] Compares the $80k salary in the prompt against the **current**
+      threshold and reaches the correct conclusion
 - [ ] Even if above threshold:
-      - Maximum 18-month duration presumed reasonable
-      - Must be disclosed at time of offer OR supported by
-        independent consideration
-      - Layoff-trigger automatic invalidation if employee
-        receives less than base salary
-- [ ] Notes damages for enforcement attempt: actual
-      damages OR $5,000, whichever greater + treble
-      damages + attorney's fees under RCW 49.62.080
-- [ ] Notes restrictions on non-solicitation /
-      anti-moonlighting also covered
+      - Maximum duration presumed reasonable (current period in
+        chapter file)
+      - Must be disclosed at offer OR supported by independent
+        consideration
+      - Layoff-trigger automatic invalidation if employee receives
+        less than base salary in severance
+- [ ] Notes damages for attempted enforcement (current multiplier
+      and fee-shifting in chapter file)
+- [ ] Notes restrictions on non-solicitation / anti-moonlighting
+      also covered
 
 ## Common failure modes
 
 - Treating non-competes as generally enforceable in WA
-- Wrong salary threshold (don't quote pre-2020 figures)
+- Hard-coding a year-specific threshold rather than checking the
+  references corpus
 - Missing the damages-for-attempted-enforcement provision
-- Confusing with restrictive-covenants other than non-
-  competes
+- Confusing with restrictive covenants other than non-competes

@@ -1,71 +1,76 @@
-# Integration — End-to-end debt-defense Answer packet
+# Integration — End-to-end debt-defense answer
 
 ## Prompt
-I was just served by a debt buyer in KCDC on [date]. The complaint is
-bare-bones: it says "Defendant owes $X under account number XXXXX."
-Draft my Answer with affirmative defenses and counterclaims for FDCPA
-and CPA violations, plus a first set of discovery (interrogatories,
-RFPs, RFAs).
+
+I just got served with a complaint in King County District
+Court. Plaintiff is "LVNV Funding, LLC." The complaint
+alleges $6,200 owed on a Discover credit-card account, last
+payment about 4 years ago. The complaint attaches monthly
+statements and a "Certificate of Indebtedness" but no
+cardholder agreement. Help me draft my answer with
+affirmative defenses and counterclaims.
 
 ## Expected triggers
+
+- `wa-consumer-debt`
 - `wa-first-30-days`
-- `wa-consumer-debt` (fdcpa.md, wa-consumer-protection.md,
-  fact-pattern.md)
 - `wa-discovery`
-- `wa-draft-motion` (or analogous drafting helper)
 - `wa-statewide-format`
 - `wa-kcdc`
+- `wa-pro-se`
+- `wa-draft-motion` or `wa-draft-declaration` for supporting
+  papers
 
 ## Acceptance criteria
 
-Produces:
+### Caption + format
+
+- [ ] Correct King County District Court caption
+- [ ] Cause number format
+- [ ] GR 14 formatting (margins, font, line spacing)
+- [ ] Pro se signature block
 
 ### Answer
-- 20-day deadline awareness
-- CRLJ 8 admission/denial format — short paragraphs responding to
-  each allegation in the complaint
-- CRLJ 12(b) enumerated defenses preserved (SMJ, PJ, venue, process,
-  service, failure to state a claim)
-- Affirmative defenses (CRLJ 8(c)):
-  - Statute of limitations
-  - Payment / accord and satisfaction
-  - Failure of consideration
-  - Lack of standing (chain-of-title)
-  - Unclean hands (where applicable)
-  - Failure to mitigate
-- Counterclaims:
-  - **FDCPA** — 15 U.S.C. § 1692e, § 1692g, § 1692f; statutory
-    damages, actual damages, fees and costs
-  - **CPA** — RCW 19.86, Hangman Ridge 5-element framework; treble
-    damages up to $25,000 + fees
-  - **Collection Agency Act** — RCW 19.16.440 per se CPA violation
-    where applicable
-- Prayer for relief with multi-ground fee request
 
-### First Discovery
-- **Interrogatories** (CRLJ 33) targeting:
-  - Chain of title / assignments
-  - Original creditor records and custodians
-  - Calculation of balance
-  - Communications and validation history
-- **Requests for Production** (CRLJ 34):
-  - Signed cardholder agreement
-  - Complete bill of sale with schedules
-  - Account statements from default backwards
-  - Call logs, validation correspondence
-- **Requests for Admission** (CRLJ 36) targeting key evidentiary
-  weaknesses
+- [ ] Computes the response deadline using `wa-deadlines`
+      (does NOT hard-code a specific day count)
+- [ ] Paragraph-by-paragraph denial / admission consistent
+      with CR 8 / CRLJ 8
+- [ ] Pleads affirmative defenses in a numbered list:
+      - Statute of limitations (RCW 4.16 — applicability turns
+        on whether plaintiff has the cardholder agreement)
+      - Lack of standing (CR 17(a); chain of title gap)
+      - Lack of capacity to sue (RCW 19.16 licensing — *Gray
+        v. Suttell*)
+      - Failure to state a claim
+      - Failure of consideration / Article 9 attachment
+        deficiency
+      - Unclean hands / FDCPA violations
+      - Reservation of additional defenses pending discovery
 
-### Format
-- GR 14 compliant
-- Proper captions, party designations, signature blocks
-- Certificate of Service
+### Counterclaims
+
+- [ ] Pleads FDCPA counterclaim (15 U.S.C. § 1692) with
+      relevant prohibition cite (false representations on
+      time-barred debt + lack of standing claim, threat to
+      sue without owning the account, etc.)
+- [ ] Pleads WA CPA counterclaim (RCW 19.86) — invokes the
+      per-se pathway via RCW 19.16
+- [ ] Prayer for relief includes: actual damages; FDCPA
+      statutory damages; treble CPA damages (subject to the
+      statutory cap); mandatory attorney's fees; costs
+
+### References corpus integration
+
+- [ ] Cites RCW chapters at chapter level (e.g., "RCW 4.16"
+      not "RCW 4.16.040(2) — 6 years") — current SOL day
+      counts and current treble caps live in the references
+      corpus
 
 ## Common failure modes
-- Missing affirmative-defense pleading (waiver by inaction)
-- Missing chain-of-title defense
-- Counterclaim prayer missing one of the four fee grounds
-- Discovery requests that are overbroad (plaintiff will object and
-  court will not compel)
-- Using FDCPA without addressing Henson debt-buyer coverage issue
-- Missing 20-day deadline compliance
+
+- Hard-coding the SOL period in the affirmative defense
+- Hard-coding the treble cap or FDCPA statutory damages amount
+- Missing the per-se CPA pathway via RCW 19.16
+- Filing a general denial instead of paragraph-by-paragraph
+- Forgetting to plead fees in the prayer
