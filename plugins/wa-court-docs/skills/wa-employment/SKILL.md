@@ -12,9 +12,12 @@ description: >
   **Washington Paid Sick Leave** under RCW 49.46.200-220
   (since 2018), the **Equal Pay Opportunity Act under RCW
   49.58** (transparent salary requirements added 2023),
-  the **Washington Family Care Act under RCW 49.78** +
-  the **state PFML (Paid Family and Medical Leave) at
-  RCW 50A** (12-18 weeks paid leave), the **Healthy
+  the **Washington Family Care Act at RCW 49.12.265-295**
+  (1988 — requires employers to allow use of accrued sick
+  leave for family-member illness; distinct from the
+  separately-repealed RCW 49.78 Family Leave Act) + the
+  **state PFML (Paid Family and Medical Leave) at RCW 50A**
+  (12-18 weeks paid leave), the **Healthy
   Starts Act under RCW 49.86** (pregnancy
   accommodations), **non-compete reform under RCW 49.62**
   (2020 — invalidating most non-competes below the

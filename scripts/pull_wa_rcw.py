@@ -379,7 +379,9 @@ def main() -> int:
 
     only = set(args.only) if args.only else None
     grand_total = 0
-    grand_failed = 0
+    grand_failed = 0          # true fetch errors (HTTP / parse failures)
+    grand_index_failed = 0    # chapter-index fetch failures
+    grand_warnings = 0        # zero-section results (likely repealed chapters)
 
     for chapter, short, description in CHAPTERS:
         if only and chapter not in only:
@@ -389,6 +391,7 @@ def main() -> int:
             idx_html = http_get(CHAPTER_URL.format(chapter=chapter)).decode("utf-8", errors="replace")
         except Exception as e:
             print(f"  ! chapter index failed: {e}", flush=True)
+            grand_index_failed += 1
             continue
         chapter_caption, sections = parse_chapter_index(idx_html, chapter)
         print(f"  caption: {chapter_caption!r}", flush=True)
@@ -398,8 +401,12 @@ def main() -> int:
             # repealed / dispositioned chapters (e.g., RCW 26.10 → 26.09
             # third-party framework; RCW 49.78 → Title 50A PFML; RCW 26.50
             # → RCW 7.105 consolidated CPO). Detecting these as zero-
-            # section results lets us fail loudly so they can be pruned
+            # section results lets us warn loudly so they can be pruned
             # from CHAPTERS rather than silently shipping empty stubs.
+            # Tracked separately from `grand_failed` because once an entry
+            # is removed from CHAPTERS this branch is informational, not
+            # an error — CI should not fail on a documented repeal that's
+            # already pruned.
             looks_dispositioned = "Object moved" in idx_html and "dispo.aspx" in idx_html
             reason = (
                 " (chapter redirects to a disposition table — likely repealed; "
@@ -412,7 +419,7 @@ def main() -> int:
                 f"skipping write to avoid shipping an empty stub",
                 flush=True,
             )
-            grand_failed += 1
+            grand_warnings += 1
             continue
 
         fetched: dict[str, tuple[str, str, str | None]] = {}
@@ -433,8 +440,19 @@ def main() -> int:
         print(f"  wrote {out_path} ({len(md):,} bytes)", flush=True)
         grand_total += len(sections)
 
-    print(f"\nDone. {grand_total} sections; {grand_failed} fetch errors.", flush=True)
-    return 0
+    # Exit non-zero on real fetch failures (chapter-index errors or
+    # section-body errors). `grand_warnings` is informational only —
+    # repealed-chapter detections without actual fetch problems should
+    # not fail CI, since the right response is to prune CHAPTERS (the
+    # warning surfaces what to prune).
+    print(
+        f"\nDone. {grand_total} sections; "
+        f"{grand_failed} fetch errors; "
+        f"{grand_index_failed} chapter-index errors; "
+        f"{grand_warnings} zero-section warnings.",
+        flush=True,
+    )
+    return 1 if (grand_failed or grand_index_failed) else 0
 
 
 if __name__ == "__main__":

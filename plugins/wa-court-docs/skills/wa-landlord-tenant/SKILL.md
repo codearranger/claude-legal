@@ -12,12 +12,14 @@ description: >
   **statewide tenant Right to Counsel** under HB 1815
   (the first state-level RTC in the U.S., effective 2021),
   and Washington's **Eviction Resolution Program (ERP)**.
-  Coverage includes the 2021 reforms in **SB 5160** that
+  Coverage includes the **2021 SB 5160 reforms** that
   created the just-cause eviction requirement under RCW
   59.18.650 (eliminating purely no-cause terminations for
-  most leases), the 14-day pay-or-vacate notice (replacing
-  the historic 3-day), and the post-COVID eviction
-  resolution requirements. Triggers include "Washington
+  most leases) and the post-COVID Eviction Resolution
+  Program requirements, plus the earlier **2019 SB 5600**
+  reform that replaced the historic 3-day pay-or-vacate
+  notice with the present **14-day statutorily-mandated
+  form** at RCW 59.18.057. Triggers include "Washington
   eviction", "Washington tenant rights", "RCW 59.18",
   "Washington unlawful detainer", "WA security deposit",
   "WA warranty of habitability", "WA just cause eviction",
