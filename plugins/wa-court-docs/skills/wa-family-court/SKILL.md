@@ -14,38 +14,45 @@ description: >
   Violence, FL Modify, FL Non-Parental Custody) under GR
   31, county-specific intake procedures (Family Law
   Facilitator availability under RCW 26.12.180), the
-  county-by-county case scheduling order practice, the
-  family-court commissioner system, mandatory parenting-
-  seminar requirements (e.g., King County Local Rule 5,
-  Pierce County LR), the **2020 family-law form
-  modernization** (mandatory plain-language AOC forms),
-  GAL appointment under RCW 26.12.175 and CR 17(c), the
-  **2022 RCW 7.105 consolidated civil-protection-order
-  intake** at superior court (vs. district court for
-  some categories), and the **mandatory parenting-plan
-  intake** for cases involving minor children. Triggers
-  include "Washington family court", "WA family law
-  facilitator", "WA AOC family forms", "Washington Family
-  Law Department", "WA dissolution petition", "WA
-  parenting plan filing", "WA family court commissioner",
-  "King County Family Law", "Pierce County Family Law",
-  "WA family-law local rules".
-version: 0.1.0
+  county-by-county case-scheduling-order practice, the
+  family-court commissioner system under RCW 2.24,
+  mandatory parenting-seminar requirements (set by
+  individual county local rule), the **2020 family-law
+  form modernization** (mandatory plain-language AOC
+  forms), GAL appointment under RCW 26.12.175 and CR
+  17(c), the **2022 RCW 7.105 consolidated civil-
+  protection-order intake** at superior court (vs.
+  district court for some categories), and the
+  **mandatory parenting-plan intake** for cases
+  involving minor children. Triggers include "Washington
+  family court", "WA family law facilitator", "WA AOC
+  family forms", "Washington Family Law Department", "WA
+  dissolution petition", "WA parenting plan filing", "WA
+  family court commissioner", "King County Family Law",
+  "Pierce County Family Law", "WA family-law local
+  rules".
+version: 0.2.0
 ---
 
 # Washington Family Court — Venue Mechanics
 
 > **NOT LEGAL ADVICE.** Family-law procedure varies
-> materially by county. Verify the assigned Superior Court
+> materially by county. This skill names the controlling
+> sources for venue mechanics; **current case-scheduling
+> deadlines, revision-motion windows, and county-rule
+> day counts live in the references corpus** (county
+> local rules under `court-rules/`, RCW 2.24 under
+> `wa-rcw-debt/`). Verify the assigned Superior Court
 > Family Law Department's local rules + standing orders
 > before filing.
 
 ## At a glance
 
 Washington has **no separate Family Court trial court**.
-Family-law matters are heard by the **general-jurisdiction
-Superior Court** in each county, administered by a
-dedicated **Family Law Department** in larger counties.
+Family-law matters are heard by the **general-
+jurisdiction Superior Court** in each county,
+administered by a dedicated **Family Law Department** in
+larger counties.
 
 - **Forum**: Superior Court (RCW 2.08 jurisdiction)
 - **Trial-rules**: General **CR** + **GR** + each
@@ -53,9 +60,9 @@ dedicated **Family Law Department** in larger counties.
 - **Forms**: Mandatory **AOC forms** under **GR 31** —
   the Administrative Office of the Courts publishes
   unified family-law forms for statewide use
-- **Decisionmakers**: Family Court Commissioners (for ex
-  parte, motions, contempt, protection orders) +
-  Superior Court Judges (for trials)
+- **Decisionmakers**: Family Court Commissioners (under
+  RCW 2.24 — for ex parte, motions, contempt, protection
+  orders) + Superior Court Judges (for trials)
 
 ## County-by-county architecture
 
@@ -100,31 +107,43 @@ adding facts and signatures.
 
 ## Case scheduling — county-by-county
 
+Each county's family-law local rules set the case-
+scheduling timeline (status conference, discovery
+cutoff, pretrial, trial). **Specific deadlines vary by
+county and are amended periodically** — read the
+assigned county's local rules from
+`wa-law-references/references/court-rules/` rather than
+relying on memory.
+
 ### King County
 
 - King County Local Rule 5 + King County Family Law
   Local Rules
-- Joint Case Status Conference within 60 days of filing
 - Standing Order on Temporary Family Law Orders prevents
   property transfers / changing insurance / moving with
   children pending hearing
+- Joint Case Status Conference scheduled by local-rule
+  default (current deadline per KCFLR — read from court-
+  rules corpus)
 
 ### Pierce County
 
 - Pierce County Local Rules of Superior Court, Family
   Law division
-- Status conference set on filing
+- Status conference set on filing (timing per PCLR)
 - Mandatory mediation in most contested cases under PCLR
 
 ### Snohomish County
 
 - Snohomish County Local Rules + standing orders
-- Family law commissioners handle motions
+- Family law commissioners handle motions (timing per
+  SCLR)
 
 ### Spokane County
 
 - Spokane Local Rules + Family Court track
-- Status conference + mediation orientation
+- Status conference + mediation orientation (timing per
+  SLR)
 
 ## Family-Law Facilitator — RCW 26.12.180
 
@@ -140,7 +159,7 @@ at MRJC + Seattle courthouses.
 
 ## Commissioners — RCW 2.24
 
-Family Court Commissioners (RCW 2.24.040) handle:
+Family Court Commissioners (under RCW 2.24.040) handle:
 
 - Ex parte applications + temporary restraining orders
 - Motions (temporary support, temporary parenting,
@@ -150,9 +169,11 @@ Family Court Commissioners (RCW 2.24.040) handle:
 - Contempt hearings
 
 **Revision motion** — any party may move to revise a
-commissioner's ruling within **10 days** under RCW
-2.24.050. The motion is heard by a Superior Court
-Judge.
+commissioner's ruling under RCW 2.24.050. **Read the
+current revision-motion window from
+`wa-law-references/references/wa-rcw-debt/RCW-2_24.md`**
+or hand off to `wa-deadlines`. The motion is heard by a
+Superior Court Judge.
 
 ## Guardian ad Litem — RCW 26.12.175 + CR 17(c)
 
@@ -173,15 +194,10 @@ interests need separate representation:
 
 Most counties require parties to a contested parenting
 case to complete a **parenting seminar** before final
-orders:
-
-- King County: 4-hour "What About the Children" class
-- Pierce: similar 4-hour curriculum
-- Snohomish, Spokane, Clark, Thurston: similar
-
-The class focuses on the impact of separation on
-children + co-parenting strategies. Generally not
-substantive legal training.
+orders. Class length and curriculum vary by county
+(typically 4 hours; "What About the Children" or
+equivalent). Check the county's family-law local rules
+for the current requirement.
 
 ## Civil protection orders — RCW 7.105
 
@@ -196,14 +212,17 @@ extreme-risk). Jurisdiction:
   Superior Court if requested)
 
 The Family Court Commissioner usually hears initial
-protection-order applications at Superior Court.
+protection-order applications at Superior Court. **Read
+current ex-parte / full-hearing / duration day counts
+from `RCW-7_105.md`** rather than relying on memory.
 
 ## Composition with other wa- skills
 
 - `wa-family-law` — substantive family-law framework
 - `wa-statewide-format` — GR 14 + AOC forms compliance
 - `wa-pro-se` — pro-se framework + Facilitator referral
-- `wa-deadlines` — 90-day dissolution waiting period +
-  20-day response deadline
+- `wa-deadlines` — county-rule case-scheduling deadlines
+  + RCW 2.24.050 revision-motion window + RCW 7.105
+  hearing windows
 - `wa-kcsc` / `wa-pierce` / `wa-snohomish` / `wa-spokane`
   — county-specific overlays

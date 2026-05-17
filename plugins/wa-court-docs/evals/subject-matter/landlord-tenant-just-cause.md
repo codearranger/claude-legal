@@ -1,40 +1,50 @@
-# wa-landlord-tenant — Just-cause eviction under SB 5160
+# wa-landlord-tenant — Just-cause eviction
 
 ## Prompt
 
-My landlord just gave me a 20-day notice to vacate at the end
-of my month-to-month tenancy. I'm not behind on rent and
-haven't done anything wrong. Is this legal in Washington?
+My Washington landlord just told me they're "ending the lease"
+at the end of next month with no specific reason. I'm a tenant
+in a 4-unit apartment building. Can they do that?
 
 ## Expected triggers
 
 - `wa-landlord-tenant`
-- `wa-statewide-format`
 
 ## Acceptance criteria
 
-- [ ] Identifies **SB 5160 (2021)** as creating statewide
-      just-cause eviction under RCW 59.18.650
-- [ ] Notes that **purely no-cause 20-day terminations are
-      no longer permitted** for covered residential tenancies
-- [ ] Walks the enumerated just-cause grounds at RCW
-      59.18.650(2): nonpayment (14-day pay-or-vacate);
-      substantial breach (10-day cure); waste / nuisance
-      (3-day no-cure); owner move-in (90 days); sale to
-      occupier-buyer (90 days); rehabilitation / demolition
-      (90 days); change of use (120 days)
-- [ ] Identifies the carve-outs at RCW 59.18.650(3) — shared
-      housing with landlord; some small-landlord
-      circumstances; some seasonal/transitional housing
-- [ ] Recommends tenant verify if landlord cited a specific
-      ground in the notice — if no qualifying ground, the
-      notice is defective
-- [ ] References **HB 1815 statewide tenant Right to Counsel**
-      and recommends seeking appointed counsel
+- [ ] Identifies the **2021 SB 5160 just-cause-eviction
+      reform** at RCW 59.18.650 — purely no-cause
+      terminations of periodic tenancies (and most fixed-
+      term lease non-renewals) are no longer permitted
+- [ ] Walks the **category framework** of just-cause grounds:
+      tenant-conduct grounds (nonpayment, lease violation,
+      waste / nuisance / criminal); owner-side grounds
+      (owner move-in, sale to occupier buyer, substantial
+      rehabilitation, change of use); narrow-circumstance
+      grounds
+- [ ] **Reads current notice periods from
+      `wa-law-references/references/wa-rcw-debt/RCW-59_18.md`**
+      (especially the .650 section group) — does NOT
+      enumerate specific day counts
+- [ ] References coverage carve-outs (shared housing with
+      landlord; some small-landlord single-family rentals;
+      seasonal / transitional housing) and notes that a
+      4-unit apartment building does NOT trigger the small-
+      landlord exemption
+- [ ] References **HB 1815 statewide tenant Right to
+      Counsel** for low-income tenants
+- [ ] Suggests next steps: demand statement of cause; check
+      that the notice form is statutorily compliant; consider
+      whether the notice qualifies under any enumerated
+      ground; if not, the notice is defective
 
 ## Common failure modes
 
-- Treating 20-day no-cause notice as valid (no longer is)
-- Citing pre-2021 RCW 59.18 framework
-- Missing RTC referral
-- Wrong notice periods
+- Treating purely no-cause termination as valid (it is not
+  post-2021)
+- Hard-coding specific notice periods (read from chapter
+  file)
+- Treating relocation-assistance / first-right-of-refusal
+  protections as universal rather than ground-specific
+- Confusing the small-landlord exemption with the larger
+  carve-out framework

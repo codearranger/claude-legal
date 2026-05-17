@@ -9,26 +9,31 @@ description: >
   family + criminal practice. Spokane County Superior
   Court has **Spokane County Local Rules (SLR)**
   overlaying the general CR + GR. Coverage includes
-  Spokane's **e-filing system**, the SLR 16 case
-  schedule, family-law calendar, Spokane Family Law
-  Commissioners, Spokane's participation in **Mandatory
-  Arbitration of Civil Actions (MAR)** for cases ≤
-  $100,000 under RCW 7.06, Spokane's **drug-court /
-  therapeutic-court divisions**, and the General Order on
-  remote hearings. Spokane functions as the **Eastern
-  Washington appellate hub** with Division III of the
-  Court of Appeals also seated in Spokane. Triggers
-  include "Spokane County Superior Court", "Spokane
-  Superior Court", "SLR", "Spokane local rules", "Spokane
-  e-filing", "Spokane family law", "Spokane MAR",
-  "Division III Court of Appeals".
-version: 0.1.0
+  Spokane's **e-filing system**, the case-management
+  order issued under SLR 16, family-law calendar, Spokane
+  Family Law Commissioners under RCW 2.24, Spokane's
+  participation in **Mandatory Arbitration of Civil
+  Actions (MAR) under RCW 7.06** (current cap per RCW
+  7.06.020 — read from references), Spokane's **drug-
+  court / therapeutic-court divisions**, and the General
+  Order on remote hearings. Spokane functions as the
+  **Eastern Washington appellate hub** with Division III
+  of the Court of Appeals also seated in Spokane.
+  Triggers include "Spokane County Superior Court",
+  "Spokane Superior Court", "SLR", "Spokane local
+  rules", "Spokane e-filing", "Spokane family law",
+  "Spokane MAR", "Division III Court of Appeals".
+version: 0.2.0
 ---
 
 # Spokane County Superior Court — Venue Skill
 
-> **NOT LEGAL ADVICE.** Verify Spokane County Local Rules
-> (SLR) and current standing orders before filing.
+> **NOT LEGAL ADVICE.** SLR motion-timing, MAR caps, and
+> revision-motion windows are amended periodically.
+> Current values live in the references corpus
+> (`court-rules/`, `wa-rcw-debt/`) — this skill names
+> the controlling sources without embedding the day
+> counts.
 
 ## At a glance
 
@@ -41,7 +46,8 @@ version: 0.1.0
   probate
 - **Regional role**: Eastern Washington's largest
   civil-trial court; **Division III of the Washington
-  Court of Appeals** seated in Spokane
+  Court of Appeals** seated in Spokane (serves the
+  Eastern Washington counties)
 
 ## Local rules
 
@@ -54,12 +60,12 @@ statewide CR + GR.
 - Confidential information form per GR 22
 - Specific Spokane case-assignment protocol
 
-### SLR 7 — Motions
+### SLR 7 — Motion practice
 
-- Motion materials due **9 court days** before hearing
-- Response 6 court days before
-- Reply 3 court days before
-- Working copies to assigned judge
+SLR 7 sets the motion-day timing. **Read the current
+schedule from `wa-law-references/references/court-
+rules/`** (or hand off to `wa-deadlines`) rather than
+relying on memory. Working copies to assigned judge.
 
 ### SLR 16 — Case scheduling
 
@@ -82,22 +88,24 @@ mandatory for represented parties. Pro se can use paper
 or e-filing through the clerk's portal. Filing fees per
 RCW 36.18.020.
 
-## Mandatory arbitration of civil actions — RCW 7.06 + MAR
+## Mandatory Arbitration of Civil Actions — RCW 7.06 + MAR
 
-Spokane County **participates** in mandatory arbitration:
-
-- Cases ≤ **$100,000** referred to arbitration
-- Trial de novo on demand within 20 days (MAR 7)
-- Sanctions if trial de novo result is no better (MAR
-  7.3)
+Spokane County **participates** in mandatory arbitration.
+Civil cases below the local jurisdictional cap are
+referred. **The cap and the trial-de-novo window are set
+by RCW 7.06 and the WA MAR; read current values from
+`RCW-7_06.md` and `court-rules/MAR.md`** rather than
+relying on memory.
 
 ## Commissioners
 
 Spokane has Family Law Commissioners + civil
-commissioners for ex parte, motions, civil protection
-orders under RCW 7.105.
+commissioners (under RCW 2.24) for ex parte, motions,
+civil protection orders under RCW 7.105.
 
-**Revision motion** within 10 days under RCW 2.24.050.
+**Revision motion** under RCW 2.24.050. **Read the
+current revision-motion window from `RCW-2_24.md`** or
+hand off to `wa-deadlines`.
 
 ## Remote appearances
 
@@ -126,8 +134,11 @@ practice before both Superior Court and Division III.
 ## Composition with other wa- skills
 
 - `wa-statewide-format` — CR + GR 14
+- `wa-deadlines` — current SLR motion timing + RCW
+  2.24.050 revision-motion window
 - `wa-discovery` — CR 26-37
-- `wa-first-30-days` — 20-day answer
+- `wa-first-30-days` — answer (current day count via
+  `wa-deadlines`)
 - `wa-family-court` + `wa-family-law`
 - Subject-matter bundles
 - `wa-fact-check`

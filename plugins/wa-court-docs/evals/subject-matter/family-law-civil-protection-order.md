@@ -1,10 +1,10 @@
-# wa-family-law — Civil protection order under RCW 7.105 (2022)
+# wa-family-law — Civil protection order under RCW 7.105 (2022 consolidation)
 
 ## Prompt
 
-My ex-boyfriend has been showing up at my work and home in
-Washington. I'm scared. What protection-order options do I
-have?
+My partner has been threatening me and showed up at my
+workplace last week. I'm scared. I'm in King County. What
+protection-order options do I have?
 
 ## Expected triggers
 
@@ -13,32 +13,36 @@ have?
 
 ## Acceptance criteria
 
-- [ ] Identifies **RCW 7.105** as the consolidated civil-
-      protection-order regime (2022 — replaced fragmented
-      RCW 26.50 / 7.90 / 7.92 / 10.14 / 74.34 / 7.94 system)
-- [ ] Walks the six categories of orders:
-      - Domestic violence (DV)
-      - Sexual assault
-      - Stalking
-      - Anti-harassment
-      - Vulnerable adult
-      - Extreme risk
-- [ ] For this fact pattern: identifies **DV protection
-      order** (former intimate partner + qualifying conduct)
-      OR **stalking protection order** as appropriate
-- [ ] Walks the **ex parte temporary order** mechanism —
-      same-day issuance on showing of immediate / present
-      danger
-- [ ] Full hearing **within 14 days** of ex parte
-- [ ] Final order duration up to 1 year (or longer in some
-      DV circumstances)
-- [ ] Notes **firearm-surrender** requirement under federal
-      18 U.S.C. § 922(g)(8) and state RCW 9.41.800
+- [ ] Identifies **RCW 7.105** as the **2022 consolidated**
+      civil-protection-order regime (replaces the former
+      RCW 26.50 DV / 7.90 sexual-assault / 7.92 stalking /
+      10.14 anti-harassment / 74.34 vulnerable-adult / 7.94
+      extreme-risk fragmentation)
+- [ ] Walks the six order categories (DV / sexual assault /
+      stalking / anti-harassment / vulnerable adult /
+      extreme risk) and identifies which apply on these
+      facts (most likely DV or stalking)
+- [ ] Identifies the **ex parte temporary order** mechanism
+      — same-day issuance on a showing of immediate /
+      present danger
+- [ ] References the **full hearing** within the statutory
+      window after ex parte issuance. **Read the current
+      hearing-window day count from `wa-law-references/
+      references/wa-rcw-debt/RCW-7_105.md`** rather than
+      embedding a number
+- [ ] References **final order duration** — set by statute
+      / by category. **Read current duration limits from
+      `RCW-7_105.md`** — do NOT embed a year count
+- [ ] References **firearm-surrender** requirement under
+      federal 18 U.S.C. § 922(g)(8) and state RCW 9.41.800
+      when triggered
+- [ ] References the King County Family Law Commissioner
+      docket as the typical intake forum
 
 ## Common failure modes
 
-- Citing old RCW 26.50 / 7.90 chapter numbers (replaced by
-  7.105 in 2022)
-- Confusing CPO categories
-- Missing the ex parte same-day mechanism
-- Wrong duration limit
+- Citing the pre-2022 fragmented chapter numbers (26.50,
+  7.90, etc.) as still controlling
+- Hard-coding the full-hearing window
+- Hard-coding the final-order duration
+- Missing the firearm-surrender requirement

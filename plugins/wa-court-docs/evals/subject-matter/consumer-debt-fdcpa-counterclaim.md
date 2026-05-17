@@ -20,10 +20,10 @@ SOL had run). Can I counterclaim under the FDCPA?
       false/misleading representations, especially threatening
       legal action that cannot legally be taken on a time-barred
       debt)
-- [ ] References Regulation F at 12 C.F.R. § 1006 — specifically
-      the prohibition on threatening or filing suit on time-
-      barred debt (current rule subsection in
-      `federal-debt-laws/Reg-F.md`)
+- [ ] References Regulation F at 12 C.F.R. § 1006 —
+      specifically the prohibition on threatening or filing
+      suit on time-barred debt (current rule subsection in
+      `wa-law-references/references/federal-debt-laws/Reg-F.md`)
 - [ ] Notes FDCPA remedies: actual damages + statutory damages
       (current cap per § 1692k — see federal-debt-laws corpus) +
       mandatory attorney's fees + costs
