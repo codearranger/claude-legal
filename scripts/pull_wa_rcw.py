@@ -68,8 +68,13 @@ CHAPTERS: list[tuple[str, str, str]] = [
     ("7.28",   "7.28",   "Ejectment / Quieting Title"),
     ("7.40",   "7.40",   "Injunctions"),
     ("7.60",   "7.60",   "Receivers"),
+    ("7.70",   "7.70",   "Actions for Injuries Resulting from Health Care"),
+    ("7.72",   "7.72",   "Tort Actions for Product Liability"),
+    ("7.105",  "7.105",  "Civil Protection Orders (consolidated, 2022 — replaces RCW 26.50 et al.)"),
     # ---- Title 12 — District Courts ------------------------------------
     ("12.40",  "12.40",  "Small Claims"),
+    # ---- Title 13 — Juvenile Courts and Juvenile Justice ---------------
+    ("13.34",  "13.34",  "Juvenile Court — Dependency / Termination of Parental Rights"),
     # ---- Title 18/19 — Business Regulation -----------------------------
     ("18.235", "18.235", "Uniform Regulation of Business and Professions Act"),
     ("19.16",  "19.16",  "Collection Agencies"),
@@ -79,22 +84,40 @@ CHAPTERS: list[tuple[str, str, str]] = [
     ("19.144", "19.144", "Mortgage Lending and Homeownership"),
     ("19.182", "19.182", "Fair Credit Reporting Act (Washington)"),
     ("19.255", "19.255", "Personal Information — Notice of Security Breaches"),
+    # ---- Title 23B — Washington Business Corporation Act ---------------
+    ("23B.06", "23B.06", "Corporations — Shareholders"),
+    ("23B.08", "23B.08", "Corporations — Directors and Officers"),
+    ("23B.13", "23B.13", "Corporations — Dissenters' Rights"),
+    ("23B.14", "23B.14", "Corporations — Dissolution"),
     # ---- Title 25 — Partnerships and LLCs ------------------------------
     ("25.05",  "25.05",  "Revised Uniform Partnership Act"),
     ("25.15",  "25.15",  "Limited Liability Companies"),
     # ---- Title 26 — Family Law -----------------------------------------
     ("26.04",  "26.04",  "Marriage"),
     ("26.09",  "26.09",  "Dissolution of Marriage / Legal Separation"),
+    ("26.10",  "26.10",  "Nonparental Actions for Child Custody (largely superseded by 26.09 third-party framework — historical reference)"),
+    ("26.16",  "26.16",  "Husband and Wife — Community Property"),
     ("26.18",  "26.18",  "Child Support — Enforcement and Modification"),
+    ("26.19",  "26.19",  "Child Support Schedule"),
+    ("26.21A", "26.21A", "Uniform Interstate Family Support Act (UIFSA)"),
+    ("26.26A", "26.26A", "Uniform Parentage Act"),
     ("26.27",  "26.27",  "Uniform Child Custody Jurisdiction and Enforcement Act"),
-    ("26.50",  "26.50",  "Domestic Violence Prevention"),
+    ("26.44",  "26.44",  "Abuse of Children — Mandatory Reporting / CPS"),
+    ("26.50",  "26.50",  "Domestic Violence Prevention (now largely superseded by RCW 7.105 civil protection orders, 2022)"),
     # ---- Title 34 — Administrative Law ---------------------------------
     ("34.05",  "34.05",  "Administrative Procedure Act"),
     # ---- Title 48 — Insurance ------------------------------------------
     ("48.30",  "48.30",  "Insurance — Unfair Practices and Frauds"),
     # ---- Title 49 — Labor ----------------------------------------------
+    ("49.12",  "49.12",  "Industrial Welfare — Wage / Hour Standards"),
     ("49.46",  "49.46",  "Minimum Wage Act"),
     ("49.48",  "49.48",  "Wages — Payment / Collection"),
+    ("49.52",  "49.52",  "Wages — Deductions, Rebates, Frauds"),
+    ("49.60",  "49.60",  "Washington Law Against Discrimination (WLAD)"),
+    ("49.62",  "49.62",  "Restrictive Covenants — Non-competition Agreements"),
+    ("49.78",  "49.78",  "Family Care / Family Leave Act"),
+    # ---- Title 51 — Industrial Insurance / Workers' Compensation -------
+    ("51.04",  "51.04",  "Industrial Insurance — General Provisions"),
     # ---- Title 59 — Landlord and Tenant --------------------------------
     ("59.12",  "59.12",  "Forcible Entry / Detainer / Unlawful Detainer"),
     ("59.18",  "59.18",  "Residential Landlord-Tenant Act"),

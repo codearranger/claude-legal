@@ -7,7 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state, plus a shared data-only plugin for federal law. It ships **seven** plugins:
 
 - **`claude-legal-federal-laws`** — Shared, data-only plugin holding the canonical copy of federal U.S. debt-collection and consumer-finance law (FDCPA, FCRA, TILA, ECOA, Reg B/F/V/Z) and the model Uniform Commercial Code (Articles 1, 2, 3, 9). No skills. Every state plugin below declares this as a dependency and symlinks into its `references/` tree, so federal content lives in one place rather than being copy-pasted per state.
-- **`wa-court-docs`** — Washington State (GR 14 formatting, King County District + Superior + populous-counties roll-up, RCW 19.16 / WA CPA consumer-debt bundle).
+- **`wa-court-docs`** — Washington State (GR 14 formatting; **30 SKILL.md files**; **6 venue skills** — King County District (`wa-kcdc`), King County Superior (`wa-kcsc`), Pierce County / Tacoma (`wa-pierce`), Snohomish County / Everett (`wa-snohomish`), Spokane County (`wa-spokane`), Superior Court Family Law Department (`wa-family-court`) — plus a long-tail roll-up (`wa-county-courts`); **five subject-matter bundles** — `wa-consumer-debt` (FDCPA + Reg F + RCW 19.16 + Washington CPA + chain of title), `wa-family-law` (RCW 26.09 dissolution + RCW 26.16 community-property regime + RCW 26.18/26.19 income-shares child support with the Washington Economic Table + RCW 26.26A Uniform Parentage Act + RCW 7.105 consolidated civil-protection orders post-2022), `wa-landlord-tenant` (RCW 59.18 RLTA + SB 5160 just-cause framework + HB 1815 statewide tenant Right to Counsel — the first state-level RTC in the U.S. + ERP), `wa-personal-injury` (RCW 4.22 pure comparative fault + several-liability after the 1986 Reform Act + WPLA at RCW 7.72 + medical malpractice under RCW 7.70 with the 3-year + 1-year-discovery rule and 8-year statute of repose + RCW 4.92/4.96 Notice of Tort Claim), `wa-employment` (Minimum Wage Act + WLAD at RCW 49.60 with no damages cap + mandatory fees + 8+ employee coverage + PFML under RCW 50A + Paid Sick Leave + non-compete reform under RCW 49.62 with the salary threshold + L&I exclusive remedy under RCW 51), and `wa-commercial-disputes` (Washington CPA at RCW 19.86 with the *Hangman Ridge* 5-element test + treble damages + WBCA at RCW 23B + WA LLC Act at RCW 25.15 + UCC at RCW 62A + MAR under RCW 7.06)).
 - **`or-court-docs`** — Oregon (UTCR 2.010 formatting, Multnomah + Washington County Circuit Court + populous-counties roll-up, ORS 697 / UTPA consumer-debt bundle).
 - **`ca-court-docs`** — California (CRC 2.100-2.119 formatting, LASC + SFSC + populous-counties roll-up, Rosenthal Act / FDBPA / CDCLA consumer-debt bundle). All 21 SKILL.md files authored with CA-specific substance; reference corpora include the shared `federal-debt-laws/` + `ucc-model/` content via the `claude-legal-federal-laws` dependency, the CA-specific `ca-statutes-debt/` (Rosenthal Act, FDBPA, CDCLA, UCL, CLRA, CCP procedural sections, Cal. Comm. Code UCC enactments), and the CA `court-rules/` corpus (CRC Titles 2/3/5/7/8, Cal. Evid. Code, LASC + SFSC + OCSC local rules).
 - **`co-court-docs`** — Colorado (C.R.C.P. 10 + Chief Justice Directive 11-01 formatting with the two-block caption + case-number/division/courtroom box, Denver District Court / 2nd JD + Arapahoe County District Court / 18th JD + populous-counties roll-up, CFDCPA / CCPA / UCCC consumer-debt bundle, **plus a Colorado-specific family-law bundle** — `co-family-law` — covering UDMA dissolution / annulment, child support under C.R.S. § 14-10-115 with the 93-overnight rule, parental responsibilities under C.R.S. § 14-10-124, maintenance under C.R.S. § 14-10-114, and common-law marriage under *People v. Lucero* / *Hogsett & Neale*). Colorado was the **first state plugin to ship with two subject-matter bundles in its initial release** — consumer-debt and family-law — for a total of **22 SKILL.md files**.
@@ -34,14 +34,18 @@ Three layers, three things to know:
 
 **County coverage is skills inside the state plugin, not separate plugins.** One plugin per state; within it, a high-volume court can get its own skill (`wa-kcdc` for King County District Court, `wa-kcsc` for King County Superior Court, `or-multcc` for Multnomah Circuit, `or-wccc` for Washington County Circuit), and the long tail of counties is carried as a single roll-up skill plus reference data (`wa-county-courts`, `or-county-courts`). Name court skills `<state>-<court>` (e.g., `wa-kcdc`, `or-multcc`) or use the state-level roll-up. Don't create a plugin or a skill per county — that doesn't scale to 3,000+ U.S. counties; add detail to the roll-up's reference files on demand.
 
-## Skills index — Washington (`wa-court-docs`, 21 skills)
+## Skills index — Washington (`wa-court-docs`, 30 skills)
 
 | Skill | Role |
 |---|---|
 | `wa-statewide-format` | GR 14 + statewide drafting conventions |
 | `wa-kcdc` | King County District Court (East/Redmond, South/Burien, West/Seattle) |
 | `wa-kcsc` | King County Superior Court (Seattle / Kent — MRJC); LCR 82 case assignment, LCR 4 case schedule, LCR 7 motions + working copies |
-| `wa-county-courts` | Other most-populous counties' district/superior courts (Pierce, Snohomish, Spokane, Clark, Thurston, Kitsap, Yakima, Whatcom, Benton) |
+| `wa-pierce` | Pierce County Superior Court (Tacoma); PCLR; MAR; LINX e-filing |
+| `wa-snohomish` | Snohomish County Superior Court (Everett); SCLR; MAR |
+| `wa-spokane` | Spokane County Superior Court; SLR; MAR; Division III Court of Appeals seat |
+| `wa-family-court` | Superior Court Family Law Department venue mechanics; AOC mandatory forms under GR 31; family-law commissioners; mandatory parenting seminars; GAL under RCW 26.12.175 |
+| `wa-county-courts` | Other most-populous counties' district/superior courts (Clark, Thurston, Kitsap, Yakima, Whatcom, Benton) |
 | `wa-pro-se` | Pro se workflows; pro-se drafting framework; service |
 | `wa-law-references` | Civil rules, evidence, citation format, fees, local rules — **canonical reference corpora live here** |
 | `wa-discovery` | RFPs, interrogatories, RFAs, meet-and-confer, motion to compel |
@@ -55,7 +59,12 @@ Three layers, three things to know:
 | `wa-schedule-hearing` | KCDC CivilMGT date-request email |
 | `wa-file-packet` | Assemble + preflight a packet |
 | `wa-submit-order` | Post-hearing signed-order transmittal |
-| `wa-consumer-debt` | Subject bundle: FDCPA, Reg F, RCW 19.16, CPA, chain of title |
+| `wa-consumer-debt` | Subject bundle: FDCPA, Reg F, RCW 19.16, Washington CPA, chain of title |
+| `wa-family-law` | Subject bundle: RCW 26.09 dissolution + RCW 26.16 community-property regime + RCW 26.18/26.19 income-shares child support with the Washington Economic Table + RCW 26.26A Uniform Parentage Act + RCW 7.105 consolidated civil-protection orders |
+| `wa-landlord-tenant` | Subject bundle: RCW 59.18 RLTA + SB 5160 just-cause framework + HB 1815 statewide tenant Right to Counsel + ERP + warranty of habitability + retaliation |
+| `wa-personal-injury` | Subject bundle: RCW 4.22 pure comparative fault + 1986 several-liability Reform Act + WPLA at RCW 7.72 + medical malpractice under RCW 7.70 with 8-year statute of repose + RCW 4.92/4.96 Notice of Tort Claim |
+| `wa-employment` | Subject bundle: Minimum Wage Act + WLAD at RCW 49.60 with no damages cap + 8+ employee coverage + Paid Sick Leave + PFML under RCW 50A + non-compete reform under RCW 49.62 + L&I exclusive remedy under RCW 51 |
+| `wa-commercial-disputes` | Subject bundle: Washington CPA at RCW 19.86 with *Hangman Ridge* 5-element test + treble damages + WBCA at RCW 23B + LLC Act at RCW 25.15 + UCC at RCW 62A + MAR under RCW 7.06 |
 
 ## Skills index — Oregon (`or-court-docs`, 21 skills)
 
@@ -188,7 +197,7 @@ Verbatim text pulled from official sources, organized by domain:
 - **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`. **20 sources**: FDCPA, FCRA, TILA, ECOA, EFTA, CCPA-Garnishment (15 U.S.C. §§ 1671-1677), **RESPA (12 U.S.C. §§ 2601-2617), SCRA (50 U.S.C. ch 50), FHA (42 U.S.C. ch 45 subch I), FTC Telemarketing Sales Rule (16 C.F.R. Part 310)**, plus CFPB Reg B / E / F / M / N / P / V / X / Z / DD from `uscode.house.gov` USLM XML and the eCFR Versioner API.
 - **`federal-bankruptcy/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-bankruptcy/`. **8 chapters** of Title 11 U.S.C.: Chapter 1 (General), 3 (Case Administration), 5 (Creditors / Debtor / Estate), 7 (Liquidation), 11 (Reorganization), 12 (Family Farmer / Fisherman), 13 (Adjustment of Debts), 15 (Cross-Border).
 - **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`. Model UCC Articles 1, 2, 3, 9 (Cornell LII).
-- **`wa-rcw-debt/`** — **1,547 sections across 75 RCW chapters** covering full civil practice (procedure, evidence, special proceedings, family law, landlord-tenant, real property, business regulation, admin law, UCC, public-records, vulnerable-adults) from `app.leg.wa.gov`. Directory name retained for path stability; scope is no longer "debt-only" despite the slug.
+- **`wa-rcw-debt/`** — **1,909 sections across 95 RCW chapters** covering full civil practice (procedure, evidence, special proceedings, family law, family-law parentage under the 2019 UPA enactment at RCW 26.26A, the 2022 consolidated civil-protection-order regime at RCW 7.105, dependency / TPR at RCW 13.34, landlord-tenant under RCW 59.18 / 59.12 / 59.20, real property, business regulation, admin law, UCC at RCW 62A, public-records, vulnerable-adults, **medical malpractice at RCW 7.70**, **product liability under WPLA at RCW 7.72**, **WLAD at RCW 49.60**, **non-compete reform at RCW 49.62**, **PFML overlap with RCW 49.78 Family Care**, **L&I exclusive remedy at RCW 51.04**, and the **WBCA at RCW 23B.06 / 23B.08 / 23B.13 / 23B.14**) from `app.leg.wa.gov`. Directory name retained for path stability; scope is no longer "debt-only" despite the slug.
 - **`legal-data-apis.md`** — agent-facing index of the structured APIs above.
 - **`online-sources.md`** — canonical human-facing URLs for the same sources.
 

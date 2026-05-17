@@ -3,7 +3,7 @@
 - Citation: RCW Chapter 62A.8
 - Description: UCC — Investment Securities
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.8
-- Pulled: 2026-05-13
+- Pulled: 2026-05-16
 - Sections: 52
 
 > Verbatim text from the Washington State Legislature website. Citation
