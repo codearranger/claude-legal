@@ -52,8 +52,10 @@ version: 0.1.0
 - **SOLs**: 3 years for ordinary tort (RCW 4.16.080(2));
   3 years for medical malpractice with discovery-rule
   extension to 8-year cap (RCW 4.16.350); 3 years for
-  wrongful death (RCW 4.16.080(3)); 4 years for product
-  liability under WPLA (RCW 7.72.060).
+  wrongful death (RCW 4.16.080(3)); **3 years from
+  discovery** for product liability under WPLA (RCW
+  7.72.060(3)), subject to the 12-year useful-safe-life
+  presumption.
 - **Notice of Claim** required before suing the state
   (RCW 4.92) or local governments (RCW 4.96) — 60 days,
   mandatory contents.
@@ -211,13 +213,25 @@ Ins. Exch. & Ass'n v. Fisons Corp.*, 122 Wn.2d 299).
 (c) **Failure to warn** — adequate warning would have
     prevented harm
 
-### SOL — RCW 7.72.060
+### SOL — RCW 7.72.060(3)
 
-**3 years from injury** (PI SOL applies) but **product
-liability has a 12-year useful safe life presumption**
-under RCW 7.72.060(2) — products outside their useful
-safe life create a rebuttable presumption against
-liability.
+**3 years from discovery** under RCW 7.72.060(3) — "no
+claim under this chapter may be brought more than three
+years from the time the claimant discovered or in the
+exercise of due diligence should have discovered the harm
+and its cause." Subject to Chapter 4.16 RCW tolling and
+extension rules.
+
+In addition, RCW 7.72.060(2) creates a **rebuttable
+presumption** that harm caused more than **12 years**
+after delivery occurred outside the product's useful safe
+life — the useful-safe-life cap operates as a separate
+limitation on liability that is presumptive (preponderance
+of evidence to rebut) rather than absolute. RCW
+7.72.060(1)(b) lists the narrow exceptions allowing suit
+beyond useful safe life (warranty of longer safe use;
+intentional misrepresentation / concealment; exposure
+within useful safe life with delayed manifestation).
 
 ### Defenses
 

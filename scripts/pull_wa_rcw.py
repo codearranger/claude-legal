@@ -95,7 +95,10 @@ CHAPTERS: list[tuple[str, str, str]] = [
     # ---- Title 26 — Family Law -----------------------------------------
     ("26.04",  "26.04",  "Marriage"),
     ("26.09",  "26.09",  "Dissolution of Marriage / Legal Separation"),
-    ("26.10",  "26.10",  "Nonparental Actions for Child Custody (largely superseded by 26.09 third-party framework — historical reference)"),
+    # RCW 26.10 (Nonparental Actions for Child Custody) was repealed and
+    # integrated into RCW 26.09's third-party custody framework by Laws of
+    # 2020, ch 312; the WA Legislature now redirects 26.10 to a disposition
+    # table rather than serving chapter text. Not pulled.
     ("26.16",  "26.16",  "Husband and Wife — Community Property"),
     ("26.18",  "26.18",  "Child Support — Enforcement and Modification"),
     ("26.19",  "26.19",  "Child Support Schedule"),
@@ -115,7 +118,10 @@ CHAPTERS: list[tuple[str, str, str]] = [
     ("49.52",  "49.52",  "Wages — Deductions, Rebates, Frauds"),
     ("49.60",  "49.60",  "Washington Law Against Discrimination (WLAD)"),
     ("49.62",  "49.62",  "Restrictive Covenants — Non-competition Agreements"),
-    ("49.78",  "49.78",  "Family Care / Family Leave Act"),
+    # RCW 49.78 (WA Family Leave Act) was repealed when the comprehensive
+    # Paid Family and Medical Leave Act at RCW Title 50A took effect in
+    # 2019; the WA Legislature now redirects 49.78 to a disposition table.
+    # Not pulled; family-leave coverage now sits in RCW Title 50A.
     # ---- Title 51 — Industrial Insurance / Workers' Compensation -------
     ("51.04",  "51.04",  "Industrial Insurance — General Provisions"),
     # ---- Title 59 — Landlord and Tenant --------------------------------
@@ -224,6 +230,9 @@ def parse_chapter_index(html_text: str, chapter: str) -> tuple[str, list[tuple[s
 
     # Section rows in the index: <a href="...?cite=X.Y.Z">label</a> ... <td>Caption</td>
     # Section identifiers can use dot or hyphen as separator (e.g., 62A.1-101).
+    # Captions sometimes contain nested tags (e.g., <span>—</span> for em-dashes),
+    # so the caption-capture pattern accepts arbitrary content and strips tags
+    # afterward.
     sections: list[tuple[str, str]] = []
     seen: set[str] = set()
     chapter_pat = re.escape(chapter)
@@ -231,7 +240,7 @@ def parse_chapter_index(html_text: str, chapter: str) -> tuple[str, list[tuple[s
         r"<a\s+href=['\"]https?://app\.leg\.wa\.gov/RCW/default\.aspx\?cite="
         + chapter_pat
         + r"([.\-][\d.A-Za-z\-]+)['\"]\s*>\s*[^<]+?\s*</a>\s*</td>\s*"
-        r"<td[^>]*>\s*([^<]+?)\s*</td>",
+        r"<td[^>]*>\s*(.+?)\s*</td>",
         re.IGNORECASE | re.DOTALL,
     )
     for m in row_re.finditer(html_text):
@@ -240,7 +249,12 @@ def parse_chapter_index(html_text: str, chapter: str) -> tuple[str, list[tuple[s
         if cite in seen:
             continue
         seen.add(cite)
-        caption = re.sub(r"\s+", " ", m.group(2)).strip().rstrip(".")
+        raw_caption = m.group(2)
+        # Strip any nested tags (commonly <span style="...">—</span> em-dash
+        # markup) and unescape entities so the heading stays plain-text.
+        caption = re.sub(r"<[^>]+>", "", raw_caption)
+        caption = html.unescape(caption)
+        caption = re.sub(r"\s+", " ", caption).strip().rstrip(".")
         sections.append((cite, caption))
     return chapter_caption, sections
 

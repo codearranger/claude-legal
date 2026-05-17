@@ -3,7 +3,7 @@
 - Citation: RCW Chapter 62A.2
 - Description: UCC — Sales
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.2
-- Pulled: 2026-05-16
+- Pulled: 2026-05-17
 - Sections: 103
 
 > Verbatim text from the Washington State Legislature website. Citation
@@ -46,8 +46,8 @@
 - [RCW 62A.2-317 — Cumulation and conflict of warranties express or implied](#sec-62A-2-317)
 - [RCW 62A.2-318 — Third-party beneficiaries of warranties express or implied](#sec-62A-2-318)
 - [RCW 62A.2-319 — F.O.B. and F.A.S. terms](#sec-62A-2-319)
-- [RCW 62A.2-320 — C.I.F. and C.&amp;F. terms](#sec-62A-2-320)
-- [RCW 62A.2-321 — C.I.F. or C.&amp;F.: "Net landed weights"; "payment on arrival"; warranty of condition on arrival](#sec-62A-2-321)
+- [RCW 62A.2-320 — C.I.F. and C.&F. terms](#sec-62A-2-320)
+- [RCW 62A.2-321 — C.I.F. or C.&F.: "Net landed weights"; "payment on arrival"; warranty of condition on arrival](#sec-62A-2-321)
 - [RCW 62A.2-322 — Delivery "ex-ship"](#sec-62A-2-322)
 - [RCW 62A.2-323 — Form of bill of lading required in overseas shipment; "overseas"](#sec-62A-2-323)
 - [RCW 62A.2-324 — "No arrival, no sale" term](#sec-62A-2-324)

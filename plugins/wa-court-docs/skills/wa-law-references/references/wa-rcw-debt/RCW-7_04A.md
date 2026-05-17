@@ -3,8 +3,8 @@
 - Citation: RCW Chapter 7.04A
 - Description: Arbitration — Uniform Arbitration Act
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A
-- Pulled: 2026-05-16
-- Sections: 23
+- Pulled: 2026-05-17
+- Sections: 32
 
 > Verbatim text from the Washington State Legislature website. Citation
 > history (`[ ... ]`) and `Notes:` blocks are preserved as published.
@@ -14,26 +14,35 @@
 - [RCW 7.04A.010 — Definitions](#sec-7-04A-010)
 - [RCW 7.04A.020 — Notice](#sec-7-04A-020)
 - [RCW 7.04A.030 — When chapter applies](#sec-7-04A-030)
+- [RCW 7.04A.040 — Effect of agreement to arbitrate—Nonwaivable provisions](#sec-7-04A-040)
 - [RCW 7.04A.050 — Application to court](#sec-7-04A-050)
 - [RCW 7.04A.060 — Validity of agreement to arbitrate](#sec-7-04A-060)
 - [RCW 7.04A.070 — Motion to compel or stay arbitration](#sec-7-04A-070)
 - [RCW 7.04A.080 — Provisional remedies](#sec-7-04A-080)
 - [RCW 7.04A.090 — Initiation of arbitration](#sec-7-04A-090)
 - [RCW 7.04A.100 — Consolidation of separate arbitration proceedings](#sec-7-04A-100)
+- [RCW 7.04A.110 — Appointment of arbitrator—Service as a neutral arbitrator](#sec-7-04A-110)
 - [RCW 7.04A.120 — Disclosure by arbitrator](#sec-7-04A-120)
 - [RCW 7.04A.130 — Action by majority](#sec-7-04A-130)
+- [RCW 7.04A.140 — Immunity of arbitrator—Competency to testify—Attorneys' fees and costs](#sec-7-04A-140)
 - [RCW 7.04A.150 — Arbitration process](#sec-7-04A-150)
 - [RCW 7.04A.160 — Representation by lawyer](#sec-7-04A-160)
+- [RCW 7.04A.170 — Witnesses—Subpoenas—Depositions—Discovery](#sec-7-04A-170)
 - [RCW 7.04A.180 — Court enforcement of preaward ruling by arbitrator](#sec-7-04A-180)
 - [RCW 7.04A.190 — Award](#sec-7-04A-190)
 - [RCW 7.04A.200 — Change of award by arbitrator](#sec-7-04A-200)
+- [RCW 7.04A.210 — Remedies—Fees and expenses of arbitration proceeding](#sec-7-04A-210)
 - [RCW 7.04A.220 — Confirmation of award](#sec-7-04A-220)
 - [RCW 7.04A.230 — Vacating award](#sec-7-04A-230)
 - [RCW 7.04A.240 — Modification or correction of award](#sec-7-04A-240)
+- [RCW 7.04A.250 — Judgment on award—Attorneys' fees and litigation expenses](#sec-7-04A-250)
 - [RCW 7.04A.260 — Jurisdiction](#sec-7-04A-260)
 - [RCW 7.04A.270 — Venue](#sec-7-04A-270)
 - [RCW 7.04A.280 — Appeals](#sec-7-04A-280)
 - [RCW 7.04A.290 — Relationship to electronic signatures in global and national commerce act](#sec-7-04A-290)
+- [RCW 7.04A.900 — Effective date—2005 c 433](#sec-7-04A-900)
+- [RCW 7.04A.901 — Uniformity of application and construction—2005 c 433](#sec-7-04A-901)
+- [RCW 7.04A.903 — Savings—2005 c 433](#sec-7-04A-903)
 
 <a id="sec-7-04A-010"></a>
 ## RCW 7.04A.010 — Definitions.
@@ -89,6 +98,27 @@ Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.030
 (4) This chapter does not apply to any arbitration agreement between employers and employees or between employers and associations of employees.
 
 [ 2005 c 433 s 3.]
+
+<a id="sec-7-04A-040"></a>
+## RCW 7.04A.040 — Effect of agreement to arbitrate—Nonwaivable provisions.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.040
+
+(1) Except as otherwise provided in subsections (2) and (3) of this section, the parties to an agreement to arbitrate or to an arbitration proceeding may waive or vary the requirements of this chapter to the extent permitted by law.
+
+(2) Before a controversy arises that is subject to an agreement to arbitrate, the parties to the agreement may not:
+
+(a) Waive or vary the requirements of RCW 7.04A.050(1), 7.04A.060(1), 7.04A.080, 7.04A.170 (1) or (2), 7.04A.260, or 7.04A.280;
+
+(b) Unreasonably restrict the right under RCW 7.04A.090 to notice of the initiation of an arbitration proceeding;
+
+(c) Unreasonably restrict the right under RCW 7.04A.120 to disclosure of any facts by a neutral arbitrator; or
+
+(d) Waive the right under RCW 7.04A.160 of a party to an agreement to arbitrate to be represented by a lawyer at any proceeding or hearing under this chapter.
+
+(3) The parties to an agreement to arbitrate may not waive or vary the requirements of this section or RCW 7.04A.030 (1)(a) or (2), 7.04A.070, 7.04A.140, 7.04A.180, 7.04A.200 (3) or (4), 7.04A.220, 7.04A.230, 7.04A.240, 7.04A.250 (1) or (2), 7.04A.901, 7.04A.903, section 50, chapter 433, Laws of 2005, or section 51, chapter 433, Laws of 2005.
+
+[ 2005 c 433 s 4.]
 
 <a id="sec-7-04A-050"></a>
 ## RCW 7.04A.050 — Application to court.
@@ -182,6 +212,17 @@ Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.100
 
 [ 2005 c 433 s 10.]
 
+<a id="sec-7-04A-110"></a>
+## RCW 7.04A.110 — Appointment of arbitrator—Service as a neutral arbitrator.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.110
+
+(1) If the parties to an agreement to arbitrate agree on a method for appointing an arbitrator, that method must be followed, unless the method fails. If the parties have not agreed on a method, the agreed method fails, or an arbitrator appointed fails or is unable to act and a successor has not been appointed, the court, on motion of a party to the arbitration proceeding, shall appoint the arbitrator. The arbitrator so appointed has all the powers of an arbitrator designated in the agreement to arbitrate or appointed under the agreed method.
+
+(2) An arbitrator who has a known, direct, and material interest in the outcome of the arbitration proceeding or a known, existing, and substantial relationship with a party may not serve as a neutral arbitrator.
+
+[ 2005 c 433 s 11.]
+
 <a id="sec-7-04A-120"></a>
 ## RCW 7.04A.120 — Disclosure by arbitrator.
 
@@ -214,6 +255,27 @@ If there is more than one arbitrator, the powers of the arbitrators must be exer
 
 [ 2005 c 433 s 13.]
 
+<a id="sec-7-04A-140"></a>
+## RCW 7.04A.140 — Immunity of arbitrator—Competency to testify—Attorneys' fees and costs.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.140
+
+(1) An arbitrator or an arbitration organization acting in that capacity is immune from civil liability to the same extent as a judge of a court of this state acting in a judicial capacity.
+
+(2) The immunity afforded by this section supplements any other immunity.
+
+(3) If an arbitrator does not make a disclosure required by RCW 7.04A.120, the nondisclosure does not cause a loss of immunity under this section.
+
+(4) In any judicial, administrative, or similar proceeding, an arbitrator or representative of an arbitration organization is not competent to testify or required to produce records as to any statement, conduct, decision, or ruling occurring during the arbitration proceeding to the same extent as a judge of a court of this state acting in a judicial capacity. This subsection does not apply:
+
+(a) To the extent necessary to determine the claim of an arbitrator or an arbitration organization or a representative of the arbitration organization against a party to the arbitration proceeding; or
+
+(b) If a party to the arbitration proceeding files a motion to vacate an award under RCW 7.04A.230(1) (a) or (b) and establishes prima facie that a ground for vacating the award exists.
+
+(5) If a person commences a civil action against an arbitrator, an arbitration organization, or a representative of an arbitration organization arising from the services of the arbitrator, organization, or representative or if a person seeks to compel an arbitrator or a representative of an arbitration organization to testify in violation of subsection (4) of this section, and the court decides that the arbitrator, arbitration organization, or representative of an arbitration organization is immune from civil liability or that the arbitrator or representative of the organization is incompetent to testify, the court shall award to the arbitrator, organization, or representative reasonable attorneys' fees and other reasonable expenses of litigation.
+
+[ 2005 c 433 s 14.]
+
 <a id="sec-7-04A-150"></a>
 ## RCW 7.04A.150 — Arbitration process.
 
@@ -241,6 +303,27 @@ Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.160
 A party to an arbitration proceeding may be represented by a lawyer.
 
 [ 2005 c 433 s 16.]
+
+<a id="sec-7-04A-170"></a>
+## RCW 7.04A.170 — Witnesses—Subpoenas—Depositions—Discovery.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.170
+
+(1) An arbitrator may issue a subpoena for the attendance of a witness and for the production of records and other evidence at any hearing and may administer oaths. A subpoena must be served in the manner for service of subpoenas in a civil action and, upon motion to the court by a party to the arbitration proceeding or the arbitrator, enforced in the manner for enforcement of subpoenas in a civil action.
+
+(2) On request of a party to or a witness in an arbitration proceeding, an arbitrator may permit a deposition of any witness, including a witness who cannot be subpoenaed for or is unable to attend a hearing, to be taken under conditions determined by the arbitrator for use as evidence in order to make the proceeding fair, expeditious, and cost-effective.
+
+(3) An arbitrator may permit such discovery as the arbitrator decides is appropriate in the circumstances, taking into account the needs of the parties to the arbitration proceeding and other affected persons and the desirability of making the proceeding fair, expeditious, and cost-effective.
+
+(4) If an arbitrator permits discovery under subsection (3) of this section, the arbitrator may order a party to the arbitration proceeding to comply with the arbitrator's discovery-related orders, including the issuance of a subpoena for the attendance of a witness and for the production of records and other evidence at a discovery proceeding, and may take action against a party to the arbitration proceeding who does not comply to the extent permitted by law as if the controversy were the subject of a civil action in this state.
+
+(5) An arbitrator may issue a protective order to prevent the disclosure of privileged information, confidential information, trade secrets, and other information protected from disclosure as if the controversy were the subject of a civil action in this state.
+
+(6) All laws compelling a person under subpoena to testify and all fees for attending a judicial proceeding, a deposition, or a discovery proceeding as a witness apply to an arbitration proceeding as if the controversy were the subject of a civil action in this state.
+
+(7) The court may enforce a subpoena or discovery-related order for the attendance of a witness within this state and for the production of records and other evidence issued by an arbitrator in connection with an arbitration proceeding in another state upon conditions determined by the court in order to make the arbitration proceeding fair, expeditious, and cost-effective. A subpoena or discovery-related order issued by an arbitrator must be served in the manner provided by law for service of subpoenas in a civil action in this state and, upon motion to the court by a party to the arbitration proceeding or the arbitrator, enforced in the manner provided by law for enforcement of subpoenas in a civil action in this state.
+
+[ 2005 c 433 s 17.]
 
 <a id="sec-7-04A-180"></a>
 ## RCW 7.04A.180 — Court enforcement of preaward ruling by arbitrator.
@@ -290,6 +373,23 @@ Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.200
 (5) An award modified or corrected under this section is subject to RCW 7.04A.220, 7.04A.230, and 7.04A.240.
 
 [ 2005 c 433 s 20.]
+
+<a id="sec-7-04A-210"></a>
+## RCW 7.04A.210 — Remedies—Fees and expenses of arbitration proceeding.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.210
+
+(1) An arbitrator may award punitive damages or other exemplary relief if such an award is authorized under the applicable law in a civil action involving the same claim and the evidence produced at the hearing justifies the award under the legal standards otherwise applicable to the claim.
+
+(2) An arbitrator may award attorneys' fees and other reasonable expenses of arbitration if such an award is authorized by law in a civil action involving the same claim or by the agreement of the parties to the arbitration proceeding.
+
+(3) As to all remedies other than those authorized by subsections (1) and (2) of this section, an arbitrator may order such remedies as the arbitrator considers just and appropriate under the circumstances of the arbitration proceeding. The fact that such a remedy could not or would not be granted by the court is not a ground for refusing to confirm an award under RCW 7.04A.220 or for vacating an award under RCW 7.04A.230.
+
+(4) An arbitrator's expenses and fees, together with other expenses, must be paid as provided in the award.
+
+(5) If an arbitrator awards punitive damages or other exemplary relief under subsection (1) of this section, the arbitrator shall specify in the award the basis in fact justifying and the basis in law authorizing the award and state separately the amount of the punitive damages or other exemplary relief.
+
+[ 2005 c 433 s 21.]
 
 <a id="sec-7-04A-220"></a>
 ## RCW 7.04A.220 — Confirmation of award.
@@ -352,6 +452,19 @@ Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.240
 
 [ 2005 c 433 s 24.]
 
+<a id="sec-7-04A-250"></a>
+## RCW 7.04A.250 — Judgment on award—Attorneys' fees and litigation expenses.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.250
+
+(1) Upon granting an order confirming, vacating without directing a rehearing, modifying, or correcting an award, the court shall enter a judgment in conformity with the order. The judgment may be recorded, docketed, and enforced as any other judgment in a civil action.
+
+(2) A court may allow reasonable costs of the motion and subsequent judicial proceedings.
+
+(3) On application of a prevailing party to a contested judicial proceeding under RCW 7.04A.220, 7.04A.230, or 7.04A.240, the court may add to a judgment confirming, vacating without directing a rehearing, modifying, or correcting an award, attorneys' fees and other reasonable expenses of litigation incurred in a judicial proceeding after the award is made.
+
+[ 2005 c 433 s 25.]
+
 <a id="sec-7-04A-260"></a>
 ## RCW 7.04A.260 — Jurisdiction.
 
@@ -403,3 +516,30 @@ Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.290
 The provisions of this chapter governing the legal effect, validity, and enforceability of electronic records or electronic signatures, and of contracts performed with the use of such records or signatures conform to the requirements of section 102 of the electronic signatures in global and national commerce act.
 
 [ 2005 c 433 s 32.]
+
+<a id="sec-7-04A-900"></a>
+## RCW 7.04A.900 — Effective date—2005 c 433.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.900
+
+This act takes effect January 1, 2006.
+
+[ 2005 c 433 s 51.]
+
+<a id="sec-7-04A-901"></a>
+## RCW 7.04A.901 — Uniformity of application and construction—2005 c 433.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.901
+
+In applying and construing this uniform act, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.
+
+[ 2005 c 433 s 29.]
+
+<a id="sec-7-04A-903"></a>
+## RCW 7.04A.903 — Savings—2005 c 433.
+
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.903
+
+This act does not affect an action or proceeding commenced or right accrued before January 1, 2006.
+
+[ 2005 c 433 s 31.]
