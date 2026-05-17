@@ -2,405 +2,264 @@
 name: wa-family-law
 description: >
   Use when handling a Washington family-law matter —
-  dissolution of marriage / legal separation (RCW 26.09),
-  child support (RCW 26.18 + RCW 26.19 schedule with the
-  Washington Economic Table), parenting plans (RCW
-  26.09.181-260 with the .191 limitations factors and the
-  .187 best-interests factors), allocation of parental
-  rights and decision-making, spousal maintenance (RCW
-  26.09.090 with the *In re Marriage of Spreen* / *In re
-  Marriage of Bulicek* discretion framework), property
-  division (RCW 26.09.080 — Washington is a **community-
-  property** state under RCW 26.16, distinct from
-  equitable-distribution jurisdictions), parentage (RCW
-  26.26A — the 2019 Uniform Parentage Act enactment),
-  UCCJEA (RCW 26.27), UIFSA (RCW 26.21A), the 2022
-  **consolidated civil-protection-order regime under RCW
-  7.105** (replaces RCW 26.50 DV / RCW 7.90 sexual assault
-  / RCW 7.92 stalking / RCW 74.34 vulnerable-adult and
-  RCW 10.14 anti-harassment civil-order regimes — all now
-  in one chapter), child-abuse reporting + dependency
-  (RCW 26.44 / RCW 13.34 — when CPS / DCYF involvement
-  crosses over with private family-law cases), and post-
-  decree modification. Triggers include "Washington
-  divorce", "WA parenting plan", "WA child support
-  worksheet", "RCW 26.09", "Washington community
-  property", "WA spousal maintenance", "RCW 7.105 civil
-  protection order", "WA UCCJEA", "WA parentage UPA",
-  "Washington Economic Table", "Washington dissolution",
-  "WA family court".
-version: 0.1.0
+  dissolution / legal separation / annulment, child support
+  and modification, parenting plans (best-interests +
+  limitations-factors framework), allocation of decision-
+  making, spousal maintenance, property distribution
+  (Washington is a **community-property** state, distinct
+  from equitable-distribution jurisdictions), parentage,
+  UCCJEA / UIFSA interstate jurisdiction, the **2022
+  consolidated civil-protection-order regime at RCW 7.105**
+  (covers DV, sexual-assault, stalking, harassment,
+  vulnerable-adult, and extreme-risk orders in a single
+  chapter), child-abuse reporting + dependency overlap
+  with DCYF, and post-decree modification. Substantive
+  framework lives in RCW Title 26 (Domestic Relations) +
+  Title 13 (Juvenile Court) + Title 50A (PFML, where it
+  intersects with family-leave issues); current statutory
+  text and thresholds are in the references corpus rather
+  than enumerated here. Triggers include "Washington
+  divorce", "WA parenting plan", "WA child support",
+  "RCW 26.09", "Washington community property",
+  "RCW 26.16", "WA spousal maintenance", "RCW 7.105 civil
+  protection order", "WA UCCJEA", "RCW 26.27", "WA UIFSA",
+  "RCW 26.21A", "WA parentage UPA", "RCW 26.26A",
+  "Washington dissolution", "WA family court".
+version: 0.2.0
 ---
 
-# Washington Family Law — Substantive Framework
+# Washington Family Law — Subject-Matter Bundle
 
-> **NOT LEGAL ADVICE.** Washington family-law practice
-> varies materially between Superior Courts. Verify the
-> assigned county's Family Court local rules and standing
-> orders. Family-law outcomes can be life-altering —
-> strongly recommend consulting a licensed Washington
-> attorney.
+> **NOT LEGAL ADVICE.** Family-law statutes are amended
+> frequently. This skill names the controlling chapters and
+> describes the procedural framework; **current statutory
+> text, dollar thresholds, day counts, and section numbers
+> live in the references corpus** at `wa-law-references/
+> references/wa-rcw-debt/`. Verify against the current
+> chapter file before relying on any specific figure.
 
 ## At a glance — Washington's family-law architecture
 
 - **Forum**: Superior Court Family Law Department in each
-  county. Washington has **no separate Family Court trial
-  court** — family matters sit inside the general-
-  jurisdiction Superior Court.
+  county. Washington has no separate Family Court trial
+  court; family matters sit inside the general-jurisdiction
+  Superior Court.
 - **Substantive code**: **RCW Title 26** (Domestic
-  Relations) — primarily Chapters 26.09 (Dissolution),
-  26.18-19 (Child Support), 26.16 (Community Property),
-  26.26A (Parentage), 26.27 (UCCJEA), 26.21A (UIFSA);
-  Title 13 (Juvenile Court Act) for dependency overlap.
+  Relations) covers marriage, dissolution, child support,
+  custody / parenting, parentage, community property,
+  UCCJEA, and UIFSA. RCW Title 13 covers juvenile-court
+  dependency and termination of parental rights when CPS /
+  DCYF involvement crosses over.
 - **Procedural overlay**: General CR + GR + each county's
-  Local Rules. Mandatory forms published by AOC under GR
-  31.
-- **Marital property regime**: **Community property**
-  (RCW 26.16) — one of only 9 U.S. community-property
-  states. **NOT equitable distribution** like most of the
-  country.
-
-## Dissolution of marriage — RCW 26.09
-
-### Residency + venue
-
-- **Residency**: Either spouse must be a Washington
-  resident OR a member of the armed forces stationed in
-  Washington (RCW 26.09.030).
-- **No specified waiting period before filing** beyond
-  residency; **90-day mandatory waiting period** between
-  filing and final decree (RCW 26.09.030 — "the court
-  shall not enter a decree of dissolution... within 90
-  days after... the filing of the petition").
-- **Venue**: Superior Court of the county where petitioner
-  resides (RCW 26.09.010(3); also CR 82).
-
-### Grounds
-
-- Washington is **purely no-fault** since the 1973 reform
-  — the only ground for dissolution is that **the
-  marriage is irretrievably broken** (RCW 26.09.030).
-- No comparative-fault inquiry; no inquiry into who was
-  "at fault" for the breakdown.
-
-### Petition + response
-
-- Petition for Dissolution of Marriage uses the
-  AOC-published mandatory form (FL Divorce series).
-- Respondent has **20 days** to respond after personal
-  service in Washington; **60 days** if served outside
-  Washington (CR 12(a)(1)).
-- Default available under CR 55 after the response period
-  expires.
-
-### Mandatory financial disclosures
-
-- Each spouse files a Financial Declaration disclosing
-  income, expenses, assets, debts (local rule generally
-  requires this within 30 days of response).
-- Many counties (King, Pierce, Snohomish, Spokane) impose
-  additional mandatory disclosures under local rule.
-
-### Final decree
-
-After the 90-day waiting period (and any required
-parenting-plan / financial-orders resolution), the court
-enters:
-
-1. **Decree of Dissolution**
-2. **Findings and Conclusions** (FL Divorce 230)
-3. **Order of Child Support** (if children) — FL All
-   Family 130 + the Worksheets
-4. **Final Parenting Plan** (if children) — FL All Family
-   140
-5. Any spousal maintenance order
-
-## Property division — community-property framework
-
-**RCW 26.09.080** requires the court to make a **"just
-and equitable"** division of all property — both
-community AND separate — without regard to misconduct,
-considering:
-
-- Nature and extent of community property
-- Nature and extent of separate property
-- Duration of the marriage
-- Economic circumstances of each spouse at the time of
-  division
-
-### Community vs. separate property
-
-- **Community property** (RCW 26.16.030): all property
-  acquired during marriage with community labor or
-  income, plus all rents / profits / income of
-  community property.
-- **Separate property** (RCW 26.16.010-020): property
-  owned before marriage; property acquired during
-  marriage by gift / inheritance / devise; rents +
-  profits of separate property.
-- **Commingling**: separate property loses its character
-  if commingled to the point it can't be traced (*In re
-  Marriage of Pearson-Maines*).
-- **Quasi-community property**: property acquired outside
-  Washington that would have been community property if
-  acquired in WA — treated as community on dissolution
-  (RCW 26.16.220).
-
-### Distinct from equitable-distribution states
-
-A Washington court CAN award separate property to the
-non-owning spouse under RCW 26.09.080 if necessary to
-achieve a just-and-equitable result. This is the
-single biggest distinction from common-law / equitable-
-distribution states, where separate property is usually
-off-limits.
-
-## Child support — RCW 26.18 + RCW 26.19 Economic Table
-
-Washington uses an **income-shares** model implemented
-through the **Washington State Child Support Schedule
-and Economic Table** (RCW 26.19).
-
-### Calculation steps
-
-1. Compute **net income** of each parent (RCW 26.19.071):
-   - Gross income
-   - Subtract: federal/state income tax, FICA, mandatory
-     pension, mandatory union dues, court-ordered support
-     paid to others, normal business expenses for self-
-     employed
-2. Sum to **combined monthly net income**.
-3. Look up basic support obligation on the **Economic
-   Table** at RCW 26.19.020.
-4. Each parent's pro rata share = (their net income) /
-   (combined net income).
-5. **Pro rata adjustments**: health insurance, daycare,
-   extraordinary medical expenses.
-6. **Standard deviations**: residential schedule (split /
-   shared); income above the $12,000/month combined cap;
-   nonrecurring income.
-
-### Mandatory worksheet
-
-- AOC publishes the Child Support Schedule Worksheets at
-  WSCSS-Worksheets.dot.
-- All dissolutions involving children REQUIRE worksheets
-  to be filed regardless of whether parties agree.
-
-### Modification
-
-**RCW 26.09.170** + **RCW 26.18.220** govern modification:
-
-- **Adjustment** after 24 months without showing
-  substantial change of circumstances — schedule
-  recalculation.
-- **Modification** at any time on substantial change of
-  circumstances.
-- Special grounds at RCW 26.09.170(7): unforeseen change;
-  emancipation; relocation impact.
-
-## Parenting plans — RCW 26.09.181-260
-
-The Washington Parenting Plan replaces the older
-"custody" / "visitation" framework.
-
-### .187 best-interests factors (residential schedule)
-
-When making the **residential schedule** (where the
-child lives), the court considers:
-
-(a) Relative strength, nature, and stability of each
-    parent-child relationship (the **most weight**)
-(b) Past performance of parenting functions
-(c) Emotional needs and developmental level of child
-(d) Child's relationship with siblings + other
-    significant adults
-(e) Child's involvement with school + activities
-(f) Wishes of parents + child (if of sufficient age)
-(g) Each parent's employment schedule
-
-### .191 limitations factors (mandatory restrictions)
-
-The court **SHALL** restrict a parent's residential time
-or decision-making authority on a finding of:
-
-(a) Willful abandonment for an extended period
-(b) Physical, sexual, or emotional abuse of a child
-(c) History of acts of domestic violence (per RCW
-    26.50.010 / RCW 7.105)
-(d) Assault that causes grievous bodily harm or fear of
-    such harm
-(e) Sexual assault that causes fear of harm
-
-The .191 factors are **mandatory** if found — not
-discretionary. A finding triggers automatic restrictions
-on residential time and decision-making.
-
-The court **MAY** restrict on additional findings (drug
-abuse, abandonment, abusive use of conflict, withholding
-access to child).
-
-### Decision-making allocation
-
-The plan allocates:
-
-- **Major decisions**: education, non-emergency medical
-  care, religious upbringing — joint or sole, by topic
-- **Day-to-day decisions**: the residential parent
-  decides during their residential time
-
-### Relocation — RCW 26.09.405-560
-
-A parent intending to relocate the child must give:
-
-- **60 days' written notice** to all parties with court-
-  ordered residential time (RCW 26.09.440)
-- Notice via the **Notice of Intended Relocation** form
-- Objecting parent has 30 days to file objection
-- **Rebuttable presumption** in favor of the relocating
-  primary residential parent (RCW 26.09.520)
-
-## Spousal maintenance — RCW 26.09.090
-
-Washington has **NO formula** for spousal maintenance.
-The court applies the **statutory factors** at RCW
-26.09.090:
-
-(a) Financial resources of the spouse seeking
-    maintenance
-(b) Time needed to acquire sufficient education / training
-(c) Standard of living during the marriage
-(d) Duration of the marriage
-(e) Age, physical / emotional condition, financial
-    obligations of the spouse seeking maintenance
-(f) Ability of the spouse from whom maintenance is sought
-    to meet his/her own needs while paying maintenance
-
-**Duration guideposts** (from case law — not statutory):
-
-- Short marriage (under 5 years): maintenance unusual
-- Medium marriage (5-25 years): durational, often roughly
-  1 year for every 3-5 years of marriage
-- Long marriage (25+ years): may be longer-term or
-  effectively permanent
-
-**Modification**: only on substantial change of
-circumstances; non-modifiable if the decree expressly
-so provides (RCW 26.09.090(2)).
-
-## Parentage — RCW 26.26A (2019 UPA)
-
-Washington enacted the **2017 Uniform Parentage Act** in
-2019, codified at RCW 26.26A. This replaced older RCW
-26.26.
-
-### Establishing parentage
-
-- **Birth to married parents**: presumed under RCW
-  26.26A.115
-- **Voluntary acknowledgment of paternity** (VAP): RCW
-  26.26A.200-265 — administrative, no court order
-- **Adjudication**: genetic-testing-based or other
-  presumption
-- **Assisted reproduction**: RCW 26.26A.600-660 — donor
-  gamete + intended parent framework
-- **Surrogacy**: RCW 26.26A.700-785 — parental
-  designation under gestational surrogacy agreements
-
-### De facto parentage
-
-Codified at **RCW 26.26A.440** — recognizes parental
-status for someone who:
-
-- Resided with the child as a regular member of household
-- Engaged in consistent caretaking
-- Undertook parental responsibilities without expectation
-  of compensation
-- Held out the child as own
-- Established a bonded and dependent relationship
-- Another parent fostered the relationship + supported
-  the formation
-
-Major development for unmarried partners + same-sex
-partners pre-Obergefell who lacked legal parentage.
-
-## Civil protection orders — RCW 7.105 (2022 consolidated)
-
-In **2022, Washington consolidated** the previously
-fragmented civil-protection-order regime into a single
-chapter. **RCW 7.105** now governs **six** types of civil
-protection orders:
-
-1. **Domestic violence protection orders** (formerly RCW
-   26.50)
-2. **Sexual assault protection orders** (formerly RCW
-   7.90)
-3. **Stalking protection orders** (formerly RCW 7.92)
-4. **Anti-harassment protection orders** (formerly RCW
-   10.14)
-5. **Vulnerable adult protection orders** (formerly RCW
-   74.34)
-6. **Extreme risk protection orders** ("red flag";
-   formerly RCW 7.94)
-
-### Common structure across the 6 orders
-
-- **Ex parte temporary order**: same-day issuance on a
-  showing of immediate and present danger
-- **Full hearing**: within 14 days of ex parte order
-- **Final order duration**: up to 1 year (or longer in
-  some categories — DVPO can be permanent in some
-  circumstances)
-- **Firearm surrender**: mandatory if order entered with
-  a finding of qualifying conduct (federal 18 U.S.C. §
-  922(g)(8) + state RCW 9.41.800)
-
-The `oh-county-courts` analog for WA — local family-court
-intake procedures vary by county (see venue skills).
-
-## UCCJEA — RCW 26.27
-
-Washington's enactment of the Uniform Child Custody
-Jurisdiction and Enforcement Act. **Home-state
-jurisdiction** governs:
-
-- "Home state" = state where child lived with parent for
-  **6 consecutive months** before commencement of
-  proceeding (RCW 26.27.021(7)).
-- Emergency jurisdiction under RCW 26.27.231 for child
-  present in WA + needing protection.
-
-## UIFSA — RCW 26.21A
-
-Washington's enactment of the Uniform Interstate Family
-Support Act governs interstate enforcement / modification
-of child support and spousal support. **One-order rule**:
-only one controlling support order at any time across
-jurisdictions.
-
-## DCYF / dependency overlap — RCW 13.34 + RCW 26.44
-
-When CPS / Department of Children, Youth & Families (DCYF)
-becomes involved:
-
-- **Mandatory reporting** by professionals + caregivers
-  under RCW 26.44.030
-- **Dependency petition** under RCW 13.34.040 — agency-
-  initiated; can run parallel to private dissolution
-- **Termination of parental rights** under RCW
-  13.34.180-200 — separate proceeding, higher burden
-
-Private dissolution cases can be stayed or coordinated
-with parallel dependency cases.
+  Local Rules; mandatory AOC forms published under GR 31.
+- **Marital property regime**: **community property** —
+  one of only 9 U.S. community-property states. NOT
+  equitable distribution.
+
+## Chapter pointers
+
+| Topic | Chapter | Reference file |
+|---|---|---|
+| Marriage (formation, capacity) | RCW 26.04 | `RCW-26_04.md` |
+| Dissolution / legal separation | RCW 26.09 | `RCW-26_09.md` |
+| Community property | RCW 26.16 | `RCW-26_16.md` |
+| Child support enforcement | RCW 26.18 | `RCW-26_18.md` |
+| Child support schedule | RCW 26.19 | `RCW-26_19.md` |
+| UIFSA | RCW 26.21A | `RCW-26_21A.md` |
+| Parentage (UPA, 2019) | RCW 26.26A | `RCW-26_26A.md` |
+| UCCJEA | RCW 26.27 | `RCW-26_27.md` |
+| Child-abuse reporting / CPS | RCW 26.44 | `RCW-26_44.md` |
+| Civil protection orders (2022 consolidated) | RCW 7.105 | `RCW-7_105.md` |
+| Juvenile dependency / TPR | RCW 13.34 | `RCW-13_34.md` |
+
+When applying a specific subsection, residency requirement,
+deadline, or dollar threshold, **read the relevant chapter
+file**. Don't rely on memory.
+
+## Dissolution — procedural framework
+
+The Washington dissolution process is no-fault. The
+controlling fact is whether the marriage is irretrievably
+broken. The mechanical steps:
+
+1. Verify petitioner's Washington residency
+2. File Petition for Dissolution (AOC mandatory FL Divorce
+   forms)
+3. Serve respondent; respondent answers
+4. Mandatory financial disclosures
+5. Temporary orders (parenting / support / restraints)
+6. Mediation / dispute resolution where ordered
+7. Final hearing (after the mandatory waiting period)
+8. Decree + Findings + parenting plan + support order
+
+For the residency requirement, the response window, and
+the waiting-period day count, consult `RCW-26_09.md`.
+
+## Property distribution — community-property framework
+
+The court must make a "just and equitable" division
+considering both community AND separate property and the
+factors at RCW 26.09.080. The key distinctions:
+
+- **Community property**: acquired during marriage with
+  community labor / income
+- **Separate property**: pre-marital + gift / inheritance +
+  rents/profits of separate property
+- **Quasi-community property**: out-of-state property that
+  would have been community if acquired in WA
+- **Commingling**: separate property loses character when
+  it can no longer be traced
+
+Unlike common-law / equitable-distribution states, a
+Washington court can award separate property to the
+non-owning spouse to achieve a just-and-equitable result.
+For factor enumeration and commingling doctrine, see
+`RCW-26_09.md` and the case law summarized in
+`wa-law-references/references/key-cases.md`.
+
+## Child support — income-shares framework
+
+Washington uses an income-shares model implemented via the
+**Washington State Child Support Schedule and Economic
+Table**. Mechanical steps:
+
+1. Determine each parent's net monthly income (gross minus
+   the specifically-allowable subtractions in RCW 26.19)
+2. Sum to combined net income
+3. Look up basic support on the Economic Table
+4. Allocate pro rata to each parent's share of combined net
+5. Apply pro rata adjustments (health insurance, daycare,
+   extraordinary medical)
+6. Apply standard deviations where appropriate
+
+For the income-definition rules, the current Economic
+Table, the combined-income cap above which courts have
+discretion, the worksheet form, and modification
+thresholds, consult `RCW-26_19.md` and `RCW-26_18.md`.
+
+## Parenting plans — best-interests + limitations factors
+
+The Parenting Plan replaces the old "custody / visitation"
+framework. The court allocates:
+
+- **Residential schedule** (where the child lives)
+- **Decision-making** (major decisions on education,
+  non-emergency medical care, religion)
+- **Dispute resolution** mechanism
+
+Two factor sets govern the residential schedule:
+
+- **Best-interests factors**: the affirmative factors the
+  court considers when setting the schedule (strength of
+  each parent-child relationship is given the most weight;
+  past performance of parenting functions; child's needs +
+  development + relationships + activities; parental wishes
+  and child's wishes if age-appropriate)
+- **Limitations factors**: a separate set of MANDATORY
+  restrictions on residential time or decision-making
+  authority when the court finds qualifying conduct (e.g.,
+  willful abandonment, physical / sexual / emotional abuse,
+  history of domestic violence, assault). Limitations
+  factors are not discretionary — a finding triggers
+  automatic restrictions.
+
+For the controlling factor enumeration, see `RCW-26_09.md`.
+
+## Relocation
+
+A parent intending to relocate the child with court-
+ordered residential time must give notice via the AOC
+Notice of Intended Relocation form. The objecting parent
+has a fixed window to file objection. There's a rebuttable
+presumption in favor of the primary residential parent.
+For the notice period, objection deadline, and the
+presumption framework, see `RCW-26_09.md`.
+
+## Spousal maintenance
+
+Washington has no formula for spousal maintenance. The
+court applies the statutory factors (financial resources;
+time to acquire training; standard of living; duration of
+marriage; age + condition; ability to meet own needs while
+paying). Duration guideposts come from case law, not
+statute. Modification requires substantial change of
+circumstances; non-modifiable if the decree so states.
+
+For the factor enumeration and modification rules, see
+`RCW-26_09.md`.
+
+## Parentage — Uniform Parentage Act (2019)
+
+Washington enacted the 2017 Uniform Parentage Act in 2019.
+RCW 26.26A covers:
+
+- Presumed parentage of married parents
+- Voluntary acknowledgment of paternity (VAP) —
+  administrative
+- Genetic-testing-based adjudication
+- Assisted-reproduction parentage (donor gametes, intended
+  parents)
+- Surrogacy (gestational-surrogacy parental designation)
+- **De facto parentage** — codified recognition for
+  someone who has resided as a regular household member,
+  engaged in consistent caretaking without expectation of
+  compensation, held the child out as their own, and
+  established a bonded relationship that the other parent
+  fostered
+
+See `RCW-26_26A.md` for the de-facto-parentage element
+list and the assisted-reproduction / surrogacy frameworks.
+
+## Civil protection orders — 2022 consolidation
+
+RCW 7.105 (effective 2022) consolidated six previously
+fragmented civil-protection-order chapters into one. The
+six categories:
+
+1. Domestic violence
+2. Sexual assault
+3. Stalking
+4. Anti-harassment
+5. Vulnerable adult
+6. Extreme risk
+
+Common procedural shape: ex parte temporary order on
+showing of immediate danger; full hearing within a short
+window; final order duration set by statute / category;
+firearm-surrender requirement when triggered. For
+qualifying-relationship rules, qualifying-conduct
+elements, hearing deadlines, and duration limits per
+category, see `RCW-7_105.md`.
+
+## UCCJEA + UIFSA — interstate jurisdiction
+
+- **UCCJEA** (RCW 26.27) governs initial custody
+  jurisdiction and modification. Home-state rule applies.
+- **UIFSA** (RCW 26.21A) governs interstate enforcement
+  and modification of support orders. One-controlling-
+  order rule.
+
+For the home-state definition, emergency-jurisdiction
+mechanics, and the one-order rule, see `RCW-26_27.md` and
+`RCW-26_21A.md`.
+
+## DCYF / dependency overlap
+
+When CPS / Department of Children, Youth & Families gets
+involved, the case can run parallel to private
+dissolution. Mandatory reporting rules sit in RCW 26.44;
+dependency procedure (petition / shelter-care / fact-
+finding / disposition) sits in RCW 13.34. Termination of
+parental rights is a separate proceeding with a higher
+burden. For mandatory-reporter categories, dependency
+timeline, and TPR grounds, see `RCW-26_44.md` and
+`RCW-13_34.md`.
 
 ## Composition with other wa- skills
 
-- `wa-family-court` — venue mechanics + Family Court
-  intake by county
-- `wa-statewide-format` — caption + GR 14 formatting (for
-  family-law filings the AOC mandatory forms control)
-- `wa-discovery` — discovery in family-law matters (CR
-  26-37 apply)
+- `wa-family-court` — venue mechanics + AOC forms
+- `wa-statewide-format` — caption + GR 14 + AOC forms
+- `wa-discovery` — discovery in family-law matters
 - `wa-post-judgment` — modification + enforcement
-- `wa-pro-se` — pro-se framework + AOC forms catalog
+- `wa-pro-se` — pro-se framework
 - `wa-fact-check` — citation verification

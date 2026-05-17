@@ -1,7 +1,7 @@
 ---
 name: wa-post-judgment
 description: Navigate post-judgment procedures in Washington State — motions to vacate under CR 60, garnishment under RCW 6.27, supplemental proceedings, exemption claims, and satisfaction of judgment. Use when the user asks about vacating a default judgment, responding to a wage garnishment or bank levy, exempting property from collection, answering supplemental interrogatories, or filing a satisfaction of judgment.
-version: 0.1.0
+version: 0.2.0
 ---
 
 # Washington Post-Judgment Procedure
@@ -57,11 +57,12 @@ Primary statutes and rules:
 
 - **CR 60 / CRLJ 60** — motion to vacate
 - **RCW 6.27** — wage garnishment
-- **RCW 6.13** — homestead exemption (amended 2021 — homestead
-  now keyed to county median sale price)
+- **RCW 6.13** — homestead exemption (cap framework keyed to
+  county median sale price post-2021 reform — see chapter file
+  for current formula)
 - **RCW 6.15** — personal property exemptions
-- **15 U.S.C. § 1673** — federal CCPA wage-garnishment cap (25%
-  of disposable earnings)
+- **15 U.S.C. § 1673** — federal CCPA wage-garnishment cap (see
+  federal-debt-laws corpus for current text)
 - **RCW 6.32** — supplemental proceedings (debtor's exam)
 - **CR 69 / RCW 6.17** — execution on judgments
 
@@ -137,48 +138,53 @@ process.
 
 | Event | Deadline |
 |-------|----------|
-| Return Exemption Claim Form | **21 days** from mailing or 28 days from service (whichever is later) |
-| Garnishee (employer / bank) files answer | **20 days** from service |
+| Return Exemption Claim Form | Per RCW 6.27 — see `wa-deadlines` for current day count |
+| Garnishee (employer / bank) files answer | Per RCW 6.27.190 — see `wa-deadlines` |
 | Contest the garnishment | By motion; no fixed period but sooner is better |
 
 ### Exemptions — wages (continuing lien)
 
-- **Federal cap**: 25% of disposable earnings, OR the amount by
-  which disposable earnings exceed 35 × federal minimum wage —
-  whichever is less (15 U.S.C. § 1673)
-- **Washington cap**: 35 × state minimum wage (currently applies
-  to disposable weekly earnings)
-- **Consumer debt in Washington**: 80% of disposable earnings are
-  protected (RCW 6.27.150(1)(a)(ii)) — **more protective than
-  federal**
-- **Low-income workers**: if wages fall below the statutory
-  floor, garnishment yields $0
+Washington's wage-garnishment exemption is more protective than
+the federal CCPA cap (15 U.S.C. § 1673). RCW 6.27 sets the WA
+percentage / multiplier framework. **Current cap percentages,
+the multiplier (× state minimum wage), and the special consumer-
+debt protection rate are amended periodically** — read
+`wa-law-references/references/wa-rcw-debt/RCW-6_27.md` for the
+current values rather than relying on memory. Low-income workers
+whose disposable earnings fall below the statutory floor face
+$0 garnishment.
 
-### Exemptions — bank accounts / personal property (RCW 6.15.010)
+### Exemptions — bank accounts / personal property
 
-- Clothing and basic household goods — unlimited reasonable value
-- Two motor vehicles — up to $10,000 combined
-- Tools of trade — up to $15,000
-- Bank account — $2,500 for individual debtors (plus direct
-  deposits of exempt federal funds — Social Security, SSI, VA,
-  unemployment are 100% exempt from garnishment under 31 C.F.R.
-  § 212 and state law)
-- Wedding ring and heirlooms — reasonable value
-- Personal property of any kind — $3,000
+WA exempts categories of personal property from execution under
+RCW 6.15. Categories include:
+
+- Clothing and basic household goods (reasonable-value standard)
+- Motor vehicles (capped at a dollar amount, plural permitted)
+- Tools of trade (capped at a dollar amount)
+- Bank account (capped at a dollar amount for individual debtors)
+- Wedding ring and heirlooms (reasonable-value standard)
+- Personal property of any kind (general wildcard, capped)
+
+**The specific dollar caps for each category are amended
+periodically by the Legislature.** See `RCW-6_15.md` for the
+current cap on each category.
 
 ### Exemptions — homestead (RCW 6.13)
 
-- Keyed to **county median sale price** — as of 2024, varies
-  from $125,000 to $1.2M+ by county
-- Automatic; no filing needed to claim on homestead property
-- Applies to equity, not market value
+RCW 6.13 sets the WA homestead exemption. As of 2021, the cap is
+keyed to county median sale price (not a fixed dollar amount,
+which is unusual nationally — most states have a fixed homestead
+cap). Automatic; no filing required. Applies to equity, not
+market value. For the current per-county formula and any
+adjustments, see `RCW-6_13.md`.
 
 ### Exemptions — Social Security, unemployment, VA, SSI
 
 - **100% exempt** from garnishment under federal and state law
 - Direct deposits are automatically protected by bank under
-  31 C.F.R. § 212 — bank must look back 2 months of deposits
-  and protect that amount
+  31 C.F.R. § 212 (the federal bank-protection rule has its own
+  lookback period; see the regulation for the current period)
 - If wrongly frozen, notify the bank in writing of the exemption
   and file an Exemption Claim Form
 

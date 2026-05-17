@@ -2,321 +2,277 @@
 name: wa-commercial-disputes
 description: >
   Use when handling a Washington commercial-disputes
-  matter — breach of contract under common law + RCW 62A.2
-  (UCC sales), the **Washington Consumer Protection Act
-  (CPA) at RCW 19.86** as the state's general unfair-
-  competition + deceptive-act statute with **mandatory
-  attorney's fees + treble damages up to $25,000** (the
-  most powerful U.S. state UTPA short of treble damages),
-  the **5-element *Hangman Ridge* CPA test** (unfair or
-  deceptive act + occurring in trade or commerce + public
-  interest + causation + injury to business or property),
-  the **Washington Business Corporation Act at RCW 23B**
-  with **Title 23B.06** shareholder rights / **Title
-  23B.08** director duties / **Title 23B.13** dissenters'
-  appraisal rights / **Title 23B.14** dissolution, the
-  Washington LLC Act at RCW 25.15 with **Title 25.15.265**
-  judicial dissolution + the **2016 Washington Limited
-  Liability Company Act overhaul**, partnership law under
-  RCW 25.05 (Revised UPA), the **Uniform Commercial Code
-  enacted as RCW 62A**: Article 1 (general), 2 (sales), 3
-  (negotiable instruments), 4 (bank deposits), 7
-  (warehouse receipts), 8 (investment securities), 9A
-  (secured transactions), the Washington enforcement of
-  **forum-selection + choice-of-law clauses** under RCW
-  4.32.050-180 + *Voicelink Data Servs., Inc. v.
-  Datapulse, Inc.*, the **MAR (Mandatory Arbitration of
-  Civil Actions) under RCW 7.06 + MAR rules** for cases
-  ≤ $100,000 in 9 counties, and the **WBCA preemption** of
-  pre-2009 common-law corporate doctrines codified at RCW
-  23B.13. Triggers include "Washington commercial
-  dispute", "WA breach of contract", "WA Consumer
-  Protection Act", "Washington CPA", "RCW 19.86",
-  "Hangman Ridge test", "WA dissolution corporation",
-  "RCW 23B.14", "WA UCC", "WA dissenter's rights", "WA
-  judicial dissolution LLC", "Washington MAR".
-version: 0.1.0
+  matter — breach of contract under common law + UCC
+  sales (RCW 62A.2), the **Washington Consumer Protection
+  Act (CPA) at RCW 19.86** as the state's general
+  unfair-competition + deceptive-act statute (with the
+  **Hangman Ridge 5-element test** and treble damages +
+  mandatory attorney's fees), the **Washington Business
+  Corporation Act at RCW 23B** (shareholder rights,
+  director duties, dissenters' appraisal rights, judicial
+  dissolution), the Washington LLC Act at RCW 25.15
+  (2016 overhaul), partnership under RCW 25.05, the
+  **UCC at RCW 62A** (Articles 1, 2, 3, 4, 7, 8, 9A), the
+  WA Mandatory Arbitration of Civil Actions (MAR) regime,
+  forum-selection / choice-of-law enforcement, and the
+  Washington enactment of statute of frauds at RCW 19.36.
+  Substantive framework lives in RCW Title 19 (business
+  regulation, CPA), Title 23B (corporations), Title 25
+  (partnerships + LLCs), Title 62A (UCC), and Title 7
+  (special proceedings, MAR). Current treble-damages
+  cap, MAR jurisdictional cap, and section-level rules
+  live in the references corpus, not embedded here.
+  Triggers include "Washington commercial dispute", "WA
+  breach of contract", "WA CPA", "Washington CPA", "RCW
+  19.86", "Hangman Ridge", "WA dissolution corporation",
+  "RCW 23B", "WA UCC", "RCW 62A", "WA dissenter's
+  rights", "WA judicial dissolution LLC", "Washington
+  MAR", "RCW 7.06".
+version: 0.2.0
 ---
 
-# Washington Commercial Disputes — Statutory + Common-Law Framework
+# Washington Commercial Disputes — Subject-Matter Bundle
 
-> **NOT LEGAL ADVICE.** Commercial-law statutes amended
-> regularly. The 2016 LLC Act overhaul + 2009 WBCA
-> amendments materially changed corporate doctrine.
-> Verify current text.
+> **NOT LEGAL ADVICE.** Commercial-law statutes have been
+> amended over time (notably the 2009 WBCA amendments and
+> the 2016 LLC Act overhaul). This skill names the
+> controlling chapters and describes doctrinal
+> frameworks; **current treble-damages cap, MAR
+> jurisdictional cap, SOL day counts, and section-level
+> rules live in the references corpus** at `wa-law-
+> references/references/wa-rcw-debt/`.
 
-## At a glance — Washington's commercial-disputes architecture
+## At a glance
 
-- **Contracts**: common-law + **RCW 62A.2** (UCC sales of
-  goods). Statute of frauds at **RCW 19.36** + UCC at RCW
-  62A.2-201.
-- **Business entities**: **RCW 23B** (Business Corporation
-  Act), **RCW 25.15** (Limited Liability Company Act),
-  **RCW 25.05** (Revised Uniform Partnership Act).
-- **UCC**: codified at **RCW 62A**, Articles 1, 2, 3, 4,
-  7, 8, 9A — full UCC except Article 6 (bulk transfers,
-  repealed nationally).
-- **CPA**: **RCW 19.86** — Washington's flagship unfair-
-  competition + deceptive-act statute with **treble
-  damages up to $25,000** + **mandatory attorney's fees**.
-- **MAR**: **Mandatory Arbitration of Civil Actions**
-  under **RCW 7.06** + MAR rules — cases ≤ $100,000 in
-  participating counties.
+- **Contracts**: common law + UCC sales (RCW 62A.2);
+  statute of frauds at RCW 19.36 + UCC at RCW 62A.2-201
+- **Business entities**: WBCA at RCW 23B, LLC Act at RCW
+  25.15, partnership at RCW 25.05
+- **UCC**: codified at RCW 62A (Articles 1, 2, 3, 4, 7,
+  8, 9A — Article 6 bulk transfers repealed nationally)
+- **CPA**: RCW 19.86 — Washington's combined antitrust +
+  consumer-protection statute (despite the name, covers
+  B2B disputes); treble damages + mandatory fees
+- **MAR**: RCW 7.06 — Mandatory Arbitration of Civil
+  Actions for cases below a jurisdictional cap in
+  participating counties
 
-## Washington Consumer Protection Act — RCW 19.86
+## Chapter pointers
 
-The CPA is Washington's combined antitrust + consumer-
-protection statute (modeled on the FTC Act). Despite the
-name, it covers **B2B disputes** as well as consumer
-disputes.
+| Topic | Chapter | Reference file |
+|---|---|---|
+| Contracts (statute of frauds) | RCW 19.36 | `RCW-19_36.md` |
+| Washington CPA (RCW 19.86) | RCW 19.86 | `RCW-19_86.md` |
+| Business corporations (WBCA) — shareholders | RCW 23B.06 | `RCW-23B_06.md` |
+| WBCA — directors and officers | RCW 23B.08 | `RCW-23B_08.md` |
+| WBCA — dissenters' rights | RCW 23B.13 | `RCW-23B_13.md` |
+| WBCA — dissolution | RCW 23B.14 | `RCW-23B_14.md` |
+| Partnership (Revised UPA) | RCW 25.05 | `RCW-25_05.md` |
+| Limited liability companies | RCW 25.15 | `RCW-25_15.md` |
+| UCC — General Provisions | RCW 62A.1 | `RCW-62A_1.md` |
+| UCC — Sales | RCW 62A.2 | `RCW-62A_2.md` |
+| UCC — Negotiable Instruments | RCW 62A.3 | `RCW-62A_3.md` |
+| UCC — Bank Deposits | RCW 62A.4 | `RCW-62A_4.md` |
+| UCC — Documents of Title | RCW 62A.7 | `RCW-62A_7.md` |
+| UCC — Investment Securities | RCW 62A.8 | `RCW-62A_8.md` |
+| UCC — Secured Transactions | RCW 62A.9A | `RCW-62A_9A.md` |
+| MAR | RCW 7.06 | `RCW-7_06.md` |
 
-### The Hangman Ridge 5-element test
+For the CPA treble-damages cap, the SOL on each cause of
+action, the MAR jurisdictional cap, and section-level
+rules, **read the relevant chapter file**.
+
+## Washington CPA — doctrinal framework
+
+The CPA at RCW 19.86 is Washington's flagship unfair-
+competition + deceptive-act statute. Modeled on the FTC
+Act. Covers B2B disputes as well as consumer disputes.
+
+### Hangman Ridge 5-element test
 
 *Hangman Ridge Training Stables v. Safeco Title Ins. Co.*,
-105 Wn.2d 778 (1986) sets the controlling test for a
+105 Wn.2d 778 (1986), sets the controlling test for a
 private CPA claim:
 
-1. **Unfair or deceptive act or practice**
-2. **Occurring in trade or commerce**
-3. **Public interest impact**
-4. **Injury to plaintiff's business or property**
-5. **Causation** linking act to injury
+1. Unfair or deceptive act or practice
+2. Occurring in trade or commerce
+3. Public interest impact
+4. Injury to plaintiff's business or property
+5. Causation linking act to injury
 
-### Public-interest factor
+### Damages
 
-The 1989 *Hangman Ridge* test required showing public-
-interest impact. The 2009 amendment to RCW 19.86.090
-relaxed this — RCW 19.86.090(1) now states that
-**injury without public-interest impact** is also
-actionable in certain B2B contexts. Most modern CPA
-plaintiffs still plead public interest under the
-*Hangman Ridge* factors for safety.
-
-### Damages — RCW 19.86.090
-
-- **Actual damages**
-- **Treble damages up to $25,000 cap** (per cause of
-  action, not per defendant) — court's discretion
-- **Mandatory attorney's fees + costs** for prevailing
+- Actual damages
+- Treble damages up to a statutory cap (court's
+  discretion)
+- Mandatory attorney's fees + costs for prevailing
   plaintiff (no fee for prevailing defendant)
-- **Equitable relief** — injunction, restitution
+- Equitable relief — injunction, restitution
 
-### SOL
-
-**4 years** under RCW 19.86.120 (longer than the general
-3-year tort SOL).
+For the current treble-damages cap, see `RCW-19_86.md`.
 
 ### Insurance bad-faith CPA
 
-A unique Washington feature: **first-party bad-faith
-insurance claims** are explicitly CPA claims per *Coventry
-Assocs. v. Am. States Ins. Co.*, 136 Wn.2d 269 (1998).
-Insurer's violation of WAC 284-30 unfair-claims-handling
-regulations = per se CPA violation (*Industrial Indem. Co.
-of the Nw. v. Kallevig*, 114 Wn.2d 907).
-
-## Breach of contract
-
-### Elements
-
-- Existence of a valid contract (offer + acceptance +
-  consideration + capacity + legality + mutual assent)
-- Breach by defendant
-- Damages caused by breach
+A unique Washington feature: first-party bad-faith
+insurance claims are explicitly CPA claims per *Coventry
+Assocs. v. Am. States Ins. Co.* Insurer violation of
+WAC 284-30 unfair-claims-handling regs = per se CPA
+violation (per *Industrial Indem. Co. of the Nw. v.
+Kallevig*).
 
 ### SOL
 
-- **6 years** on a written contract (RCW 4.16.040(1))
-- **3 years** on an oral contract (RCW 4.16.080(3))
-- **4 years** on UCC sales-of-goods contract (RCW
-  62A.2-725)
-- **3 years** on most negotiable instruments (RCW
-  62A.3-118)
+CPA SOL runs longer than the general tort 3-year SOL.
+Day-count in `RCW-19_86.md`.
 
-### Statute of frauds — RCW 19.36
+## Breach of contract — doctrinal framework
 
-Requires writing for:
+### Elements
 
-- Promises to pay another's debt (suretyship)
-- Promises in consideration of marriage
-- Sale of land or interest in land
-- Promises not performable within 1 year
-- Goods $500+ (RCW 62A.2-201 — but exceptions for part
-  performance / merchant confirmation / specially
-  manufactured goods)
+Existence of a valid contract; breach; damages caused by
+breach.
 
-### Choice-of-law + forum-selection clauses
+### SOL nuances
+
+Different SOL day counts for:
+- Written contract
+- Oral contract
+- UCC Article 2 sales contract
+- Negotiable-instruments suits
+
+See `RCW-4_16.md` (general SOL chapter) and the relevant
+UCC chapter for cause-of-action-specific SOLs.
+
+### Statute of frauds
+
+Writing required for promises to pay another's debt, sale
+of land, promises not performable within 1 year, goods
+above a threshold dollar amount, and several other
+categories. See `RCW-19_36.md` and `RCW-62A_2.md` (for
+the UCC-goods threshold).
+
+### Choice of law + forum selection
 
 Washington generally enforces choice-of-law and forum-
-selection clauses if reasonable (*Voicelink Data Servs.*).
-But CPA claims may not be waivable by choice-of-law
-clauses (*McKee v. AT&T*, 164 Wn.2d 372).
+selection clauses if reasonable (*Voicelink Data
+Servs.*). But CPA claims may not be waivable by choice-
+of-law clauses (per *McKee v. AT&T*).
 
-## Washington Business Corporation Act — RCW 23B
+## WBCA — corporate doctrinal framework
 
 ### Director duties
 
-**RCW 23B.08.300** — duty of care: "with the care an
-ordinarily prudent person in a like position would
-exercise under similar circumstances."
+- **Duty of care**: codified at RCW 23B.08.300 — the care
+  an ordinarily prudent person in a like position would
+  exercise
+- **Duty of loyalty + good faith**: common-law /
+  fiduciary overlay
+- **Business judgment rule**: codified — directors
+  entitled to rely on information from officers,
+  professionals, committees
 
-Duty of loyalty + good faith are common-law / fiduciary
-overlays.
+### Derivative actions
 
-### Business judgment rule
+RCW 23B.07.400 requires plaintiff to be a contemporaneous
+shareholder; demand on board required unless excused;
+special-litigation-committee dismissal available.
 
-Codified at **RCW 23B.08.300(2)** — directors entitled
-to rely on information from officers, professionals,
-committees. Plaintiff must rebut to challenge a director
-decision.
-
-### Shareholder derivative actions — RCW 23B.07.400
-
-- Plaintiff must be shareholder at time of complaint and
-  at time of underlying wrong (RCW 23B.07.400(1))
-- **Demand on board** required unless excused (RCW
-  23B.07.400(2))
-- Special litigation committee may move to dismiss
-
-### Dissenters' rights — RCW 23B.13
+### Dissenters' rights
 
 Shareholders dissenting from major corporate actions
 (merger, share exchange, sale of substantially all
-assets, etc.) may demand **appraisal** of their shares
-at fair value (RCW 23B.13.020-280).
+assets, etc.) may demand appraisal at fair value. The
+procedure has tight deadlines — payment demand before
+vote, vote against the action, post-action statutory
+process. See `RCW-23B_13.md` for the procedural
+mechanics.
 
-Process:
+### Judicial dissolution
 
-1. Receive notice of corporate action
-2. **Demand payment** before vote (RCW 23B.13.210)
-3. Vote against the action
-4. After action: corporation pays its estimate of fair
-   value; dissenter can sue for difference within 60
-   days
+Court may dissolve a corporation on shareholder showing
+of director / shareholder deadlock causing irreparable
+injury, directors acting illegally / oppressively /
+fraudulently, or waste of corporate assets. The
+**oppression standard** in close corporations applies
+the **reasonable-expectations** test from majority /
+minority shareholder relationships (per *Scott v.
+Trans-System, Inc.*).
 
-### Judicial dissolution — RCW 23B.14.300
+For procedural mechanics, see `RCW-23B_14.md`.
 
-Court may dissolve a corporation on application of:
+## Washington LLC Act — doctrinal framework
 
-- Shareholder showing:
-  - Director deadlock + irreparable injury
-  - Directors acting illegally / oppressively /
-    fraudulently
-  - Shareholder deadlock + 2 consecutive annual meetings
-    without electing directors
-  - Corporate assets being wasted
+### 2016 overhaul
 
-The **oppression standard** — *Scott v. Trans-System,
-Inc.*, 148 Wn.2d 701 (2003) — applies the "reasonable
-expectations" test from majority/minority shareholder
-relationships in closely-held corporations.
-
-## Washington LLC Act — RCW 25.15
-
-### 2016 LLC Act overhaul
-
-The Washington Limited Liability Company Act was
-comprehensively rewritten in **2016** (SB 5030), aligning
-with the 2006 Revised Uniform LLC Act. Pre-2016 LLC case
-law must be reread against new statute.
+The WA LLC Act was comprehensively rewritten in 2016
+(SB 5030), aligning with the 2006 Revised Uniform LLC
+Act. Pre-2016 LLC case law must be reread against the
+new statute.
 
 ### Member duties
 
-**RCW 25.15.038** — members owe **duty of loyalty + duty
-of care** unless modified by operating agreement.
+Default duties of loyalty and care unless modified by
+operating agreement. The operating agreement may NOT
+eliminate the loyalty core, the care gross-negligence
+floor, or good-faith-and-fair-dealing.
 
-Operating agreement may NOT eliminate:
+### Judicial dissolution
 
-- Duty of loyalty's core (RCW 25.15.038(4))
-- Duty of care's gross-negligence floor
-- Good-faith and fair dealing
+Same general framework as WBCA — deadlock, oppression,
+waste. (Citation: *Phillips v. Hayes-Phillips*.) See
+`RCW-25_15.md`.
 
-### Judicial dissolution — RCW 25.15.265
+### Charging order — asset protection
 
-Same general framework as 23B.14.300 — deadlock,
-oppression, waste. *Phillips v. Hayes-Phillips*, 199 Wn.
-App. 320 (2017).
-
-### Charging order — RCW 25.15.255
-
-A creditor of a member can obtain a **charging order**
-against the member's distributional interest — the
-**exclusive remedy**; no foreclosure on membership
-interest itself. Strong asset-protection feature.
+A member's creditor can obtain a charging order against
+the member's distributional interest only — no
+foreclosure on membership interest itself. Strong asset-
+protection feature.
 
 ## Partnership — RCW 25.05 (Revised UPA)
 
-### Formation
+Formation automatic — no filing required for general
+partnership. All property acquired by partnership =
+partnership property. Partners have right to demand
+accounting. Wrongful-dissociation and winding-up
+procedures statutorily defined. See `RCW-25_05.md`.
 
-- General partnership formed by **association of 2+
-  persons to carry on as co-owners a business for
-  profit** (RCW 25.05.055)
-- Formation is automatic; no filing required
+## UCC — doctrinal framework
 
-### Partnership property + accounting
+Washington's UCC at RCW 62A covers:
 
-- All property acquired by partnership = partnership
-  property (RCW 25.05.090-100)
-- Partners have right to demand accounting (RCW
-  25.05.165)
+- **Article 1** — General provisions, definitions,
+  choice of law
+- **Article 2** — Sales of goods (statute of frauds
+  threshold; battle of the forms; implied warranty of
+  merchantability + fitness for particular purpose;
+  warranty disclaimers; perfect tender rule)
+- **Article 3** — Negotiable instruments (negotiability;
+  holder-in-due-course; transfer)
+- **Article 4** — Bank deposits and collections
+- **Article 7** — Documents of title (warehouse
+  receipts, bills of lading)
+- **Article 8** — Investment securities
+- **Article 9A** — Secured transactions (attachment vs.
+  perfection; filing; priority; default / foreclosure;
+  commercially-reasonable-disposition)
 
-### Dissociation + dissolution
+See the individual chapter files for section-level rules.
 
-- Dissociation does not necessarily dissolve (RCW
-  25.05.230)
-- Wrongful dissociation + winding up procedures (RCW
-  25.05.300-330)
+## MAR — Mandatory Arbitration of Civil Actions
 
-## Uniform Commercial Code — RCW 62A
-
-### Coverage
-
-- **62A.1** — General Provisions, definitions, choice
-  of law
-- **62A.2** — Sales of goods
-- **62A.3** — Negotiable Instruments
-- **62A.4** — Bank Deposits and Collections
-- **62A.7** — Documents of Title
-- **62A.8** — Investment Securities
-- **62A.9A** — Secured Transactions
-
-### UCC Article 2 highlights (sales)
-
-- **Statute of frauds** at RCW 62A.2-201 — $500+ writing
-  requirement
-- **Battle of the forms** at RCW 62A.2-207
-- **Implied warranty of merchantability** (RCW
-  62A.2-314) + **fitness for particular purpose** (RCW
-  62A.2-315)
-- **Warranty disclaimers** at RCW 62A.2-316 — must be
-  conspicuous; "as is" effective for non-consumer sales
-- **Perfect tender rule** at RCW 62A.2-601
-
-### UCC Article 9A highlights (secured transactions)
-
-- **Attachment** vs. **perfection** (RCW 62A.9A-203 /
-  9A-308)
-- **Filing** financing statement at WA Department of
-  Licensing UCC Section
-- **Priority** rules — first-to-file-or-perfect generally
-- **Default + foreclosure** — commercially reasonable
-  disposition (RCW 62A.9A-610) + notice (RCW 62A.9A-611)
-
-## Mandatory Arbitration of Civil Actions — RCW 7.06 + MAR
-
-Civil cases ≤ **$100,000** are subject to mandatory
-arbitration in **participating counties** (King, Pierce,
-Snohomish, Spokane, Thurston, Clark, Kitsap, Whatcom,
-Yakima). Awards may be tried de novo on demand under RCW
-7.06.040 / MAR 7.
+Civil cases at or below the statutory jurisdictional cap
+are subject to mandatory arbitration in participating
+counties (King, Pierce, Snohomish, Spokane, Thurston,
+Clark, Kitsap, Whatcom, Yakima). Awards may be tried de
+novo on demand. Sanctions if trial de novo result is no
+better. See `RCW-7_06.md`.
 
 ## Composition with other wa- skills
 
 - `wa-statewide-format` — caption + GR 14
-- `wa-discovery` — discovery in commercial cases (CR
-  26-37)
-- `wa-first-30-days` — answer + affirmative defenses +
-  counterclaims
+- `wa-discovery` — discovery in commercial cases
+- `wa-first-30-days` — answer + affirmative defenses
 - `wa-fact-check` — citation verification
 - `wa-consumer-debt` — consumer-credit overlap
 - `wa-kcsc` — King County Commercial cases routing

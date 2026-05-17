@@ -397,29 +397,41 @@ def main() -> int:
         print(f"  caption: {chapter_caption!r}", flush=True)
         print(f"  found {len(sections)} sections", flush=True)
         if not sections:
-            # The WA Legislature serves an HTML "Object moved" page for
-            # repealed / dispositioned chapters (e.g., RCW 26.10 → 26.09
-            # third-party framework; RCW 49.78 → Title 50A PFML; RCW 26.50
-            # → RCW 7.105 consolidated CPO). Detecting these as zero-
-            # section results lets us warn loudly so they can be pruned
-            # from CHAPTERS rather than silently shipping empty stubs.
-            # Tracked separately from `grand_failed` because once an entry
-            # is removed from CHAPTERS this branch is informational, not
-            # an error — CI should not fail on a documented repeal that's
-            # already pruned.
+            # Two reasons a chapter can yield zero sections:
+            #   (a) the WA Legislature redirects the chapter URL to a
+            #       disposition table because the chapter has been
+            #       repealed / recodified (e.g., RCW 26.10 → 26.09 third-
+            #       party framework; RCW 49.78 → Title 50A PFML; RCW
+            #       26.50 → RCW 7.105 consolidated CPO). The right
+            #       response is to prune the entry from CHAPTERS; CI
+            #       should NOT fail on a documented repeal that's just
+            #       waiting to be cleaned up.
+            #   (b) the page renders normally but our regex finds no
+            #       section rows. That's a parse regression — typically
+            #       an HTML / layout change on the WA Legislature site
+            #       that broke the puller — and CI MUST fail so we
+            #       notice immediately rather than silently shipping a
+            #       chapter with no body.
             looks_dispositioned = "Object moved" in idx_html and "dispo.aspx" in idx_html
-            reason = (
-                " (chapter redirects to a disposition table — likely repealed; "
-                "remove from CHAPTERS)"
-                if looks_dispositioned
-                else " (index returned no parseable section rows)"
-            )
-            print(
-                f"  ! WARNING: chapter {chapter} produced 0 sections{reason}; "
-                f"skipping write to avoid shipping an empty stub",
-                flush=True,
-            )
-            grand_warnings += 1
+            if looks_dispositioned:
+                print(
+                    f"  ! WARNING: chapter {chapter} redirects to a "
+                    f"disposition table — likely repealed; remove from "
+                    f"CHAPTERS. Skipping write to avoid shipping an "
+                    f"empty stub.",
+                    flush=True,
+                )
+                grand_warnings += 1
+            else:
+                print(
+                    f"  ! ERROR: chapter {chapter} returned a normal-"
+                    f"shaped index page but yielded 0 parseable section "
+                    f"rows — likely an upstream HTML change or a regex "
+                    f"regression. Skipping write; this WILL fail the "
+                    f"refresh.",
+                    flush=True,
+                )
+                grand_failed += 1
             continue
 
         fetched: dict[str, tuple[str, str, str | None]] = {}
