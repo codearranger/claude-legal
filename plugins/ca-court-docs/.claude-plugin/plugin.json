@@ -1,0 +1,44 @@
+{
+  "name": "ca-court-docs",
+  "version": "0.5.0",
+  "dependencies": [
+    "claude-legal-federal-laws"
+  ],
+  "description": "Draft and format pleadings, declarations, motions, notices of motion, and proposed orders for California superior courts. Applies California Rules of Court 2.100-2.119 statewide formatting; includes Los Angeles Superior Court (LASC \u2014 Stanley Mosk Courthouse) and San Francisco Superior Court (SFSC \u2014 Civic Center Courthouse, Dept. 302 law-and-motion) specifics plus a county-courts roll-up for the most-populous counties (Orange, San Diego, Riverside, San Bernardino, Santa Clara, Alameda, Sacramento, Contra Costa, Fresno, Kern); supports pro se ('In Pro Per') workflows. Architected as matter-neutral civil-procedure skills (CCP civil rules with the 35-special-interrogatory cap and the 45-day jurisdictional motion-to-compel-further deadline, CEC evidence rules including \u00a7 1271 business-records foundation, fees and costs under CCP \u00a7\u00a7 1032/1033.5 and \u00a7 1717 reciprocal attorney's fees, local rules for LASC + SFSC + populous counties, citation format per the California Style Manual, CRC 8.1115 unpublished-opinion rule, deadline arithmetic under CCP \u00a7\u00a7 12/12a/12c with Govt. Code \u00a7 6700 holidays, hearings under the CRC 3.1308 tentative-ruling regime, the CCP \u00a7 1005(b) 16-court-day motion-notice framework, summary judgment under CCP \u00a7 437c) plus subject-matter bundles. The first subject-matter bundle, ca-consumer-debt, covers FDCPA / Reg F (federal), the Rosenthal Fair Debt Collection Practices Act (Cal. Civ. Code \u00a7\u00a7 1788-1788.33 \u2014 reaches both first-party and third-party collectors), the Fair Debt Buying Practices Act (Cal. Civ. Code \u00a7\u00a7 1788.50-1788.66 \u2014 heightened pleading + documentation for debt buyers), the California Debt Collection Licensing Act (Cal. Fin. Code \u00a7\u00a7 100000-100027 \u2014 DFPI licensure since 2022), the Unfair Competition Law (Cal. Bus. & Prof. Code \u00a7\u00a7 17200-17210), the Consumers Legal Remedies Act (Cal. Civ. Code \u00a7\u00a7 1750-1784), chain-of-title doctrine under Cal. Comm. Code Art. 9, fact-pattern triage, and synthetic example filings. All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/claude-legal",
+  "repository": "https://github.com/codearranger/claude-legal",
+  "license": "MIT",
+  "keywords": [
+    "california",
+    "legal",
+    "pleadings",
+    "pro-se",
+    "ccp",
+    "cec",
+    "civil-rules",
+    "evidence-rules",
+    "discovery",
+    "hearings",
+    "post-judgment",
+    "fact-check",
+    "fdcpa",
+    "reg-f",
+    "rosenthal-act",
+    "fdbpa",
+    "cdcla",
+    "ucl",
+    "clra",
+    "consumer-protection",
+    "debt-collection",
+    "los-angeles-county",
+    "san-francisco-county",
+    "lasc",
+    "sfsc",
+    "tentative-ruling",
+    "ca-style-manual"
+  ]
+}

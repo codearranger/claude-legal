@@ -1,0 +1,360 @@
+name: refresh-references
+
+on:
+  schedule:
+    # Jan / Apr / Jul / Oct 1 at 17:00 UTC — quarterly cadence.
+    # Cron fires the workflow with target="all" so every leg of the
+    # matrix runs in parallel.
+    - cron: "0 17 1 1,4,7,10 *"
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "Which plugin's references to refresh"
+        type: choice
+        required: true
+        default: all
+        options:
+          - all
+          - federal
+          - wa
+          - or
+          - ca
+          - co
+          - in
+          - ny
+          - oh
+          - tn
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  # One run per (workflow, target) so a manual single-target run doesn't
+  # cancel an in-flight cron-all run already running other legs.
+  group: refresh-references-${{ github.event.inputs.target || 'all' }}
+  cancel-in-progress: false
+
+env:
+  PR_REVIEWER: codearranger
+
+jobs:
+  pick-targets:
+    name: Pick targets to refresh
+    runs-on: ubuntu-latest
+    outputs:
+      targets: ${{ steps.pick.outputs.targets }}
+    steps:
+      - id: pick
+        env:
+          TARGET: ${{ github.event.inputs.target }}
+        run: |
+          case "${TARGET:-all}" in
+            all)     targets='["federal","wa","or","ca","co","in","ny","oh","tn"]' ;;
+            federal) targets='["federal"]' ;;
+            wa)      targets='["wa"]' ;;
+            or)      targets='["or"]' ;;
+            ca)      targets='["ca"]' ;;
+            co)      targets='["co"]' ;;
+            in)      targets='["in"]' ;;
+            ny)      targets='["ny"]' ;;
+            oh)      targets='["oh"]' ;;
+            tn)      targets='["tn"]' ;;
+            *)       echo "unexpected target: $TARGET" >&2; exit 1 ;;
+          esac
+          echo "targets=$targets" >> "$GITHUB_OUTPUT"
+
+  refresh:
+    name: Refresh ${{ matrix.target }} references
+    needs: pick-targets
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        target: ${{ fromJSON(needs.pick-targets.outputs.targets) }}
+    env:
+      TARGET: ${{ matrix.target }}
+      RUN_ID: ${{ github.run_id }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install system dependencies (poppler for pdftotext)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+
+      # Each pull is its own step with a `timeout-minutes` cap so a
+      # slow upstream (e.g. law.cornell.edu/ucc throttling pull_ucc.py)
+      # can't sink the whole leg. `continue-on-error: true` lets the
+      # rest of the leg's pulls run if one bails. The puller scripts
+      # only write output after a unit fully completes, so a timed-out
+      # step leaves the existing files untouched.
+      #
+      # Excluded everywhere:
+      #   - pull_ca_statutes.py — known content regression
+      #   - pull_co_court_rules.py — TODO (CO court-rules puller not yet implemented)
+
+      # ---- federal — shared corpus consumed by every state plugin ----
+      - name: Federal — debt laws
+        if: matrix.target == 'federal'
+        continue-on-error: true
+        timeout-minutes: 10
+        run: python3 scripts/pull_federal_debt_laws.py
+
+      - name: Federal — Model UCC
+        if: matrix.target == 'federal'
+        continue-on-error: true
+        # 15 min cap: the new throttle-aware defaults in pull_ucc.py use
+        # workers=2, jittered backoff, and a 30s cool-off between articles
+        # to stay under Cornell LII's rate limit. Total wall time when
+        # things go well is 3-5 min; budget covers a couple of retry cycles.
+        timeout-minutes: 15
+        run: python3 scripts/pull_ucc.py
+
+      # ---- WA ----
+      - name: WA — court rules
+        if: matrix.target == 'wa'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: |
+          python3 scripts/pull_court_rules.py --workers 12 \
+            --manifest plugins/wa-court-docs/skills/wa-law-references/references/court-rules/_manifest.json
+
+      - name: WA — RCW debt chapters
+        if: matrix.target == 'wa'
+        continue-on-error: true
+        timeout-minutes: 10
+        run: python3 scripts/pull_wa_rcw.py --workers 12
+
+      # ---- OR ----
+      # Federal + UCC content for OR comes from the shared `federal`
+      # target. The OR-specific pullers below refresh the Oregon-only
+      # corpora (ORS chapters and the seven OR court-rule canonical
+      # sources).
+      - name: OR — court rules
+        if: matrix.target == 'or'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_oregon_rules.py
+
+      - name: OR — ORS debt + civil-practice chapters
+        if: matrix.target == 'or'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_oregon_ors.py --workers 4
+
+      # ---- CA ----
+      - name: CA — court rules
+        if: matrix.target == 'ca'
+        continue-on-error: true
+        timeout-minutes: 10
+        run: python3 scripts/pull_ca_court_rules.py --workers 8
+
+      # ---- CO ----
+      - name: CO — statute corpus (titles 4, 5, 6, 13, 14, 24)
+        if: matrix.target == 'co'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_co_statutes.py --workers 4
+
+      - name: CO — court rules (Chief Justice Directives + paywalled-rule stubs)
+        if: matrix.target == 'co'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_co_court_rules.py --workers 4
+
+      # ---- IN ----
+      # Indiana's five state-wide rule sets (Trial, Evidence, Appellate,
+      # Professional Conduct, Administrative) plus Marion County and Lake
+      # County local-rule PDFs all come from rules.incourts.gov and
+      # in.gov/courts/files. The statute puller targets the IGA Hypermedia
+      # API at api.iga.in.gov; when the `IGA_API_KEY` secret is unset (the
+      # current state) the script emits well-formed stubs so the corpus
+      # mirrors the article shape until access is wired in.
+      - name: IN — court rules (state-wide + Marion/Lake local rules)
+        if: matrix.target == 'in'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_indiana_rules.py --workers 4
+
+      - name: IN — Indiana Code (civil-practice articles)
+        if: matrix.target == 'in'
+        continue-on-error: true
+        timeout-minutes: 15
+        env:
+          IGA_API_KEY: ${{ secrets.IGA_API_KEY }}
+        run: python3 scripts/pull_indiana_statutes.py --workers 4
+
+      # ---- NY ----
+      # New York's trial-court rules (22 NYCRR Parts 130, 202, 202.70,
+      # 208, 210, 212, 214, 1200) are published on www.nycourts.gov,
+      # which sits behind Cloudflare's managed-challenge gate. The
+      # court-rules puller tries the canonical URLs first and falls
+      # back to pointer stubs when the upstream returns an
+      # interstitial — mirrors the CO court-rules puller's discipline.
+      # The statutes puller hits the NY State Senate Open Legislation
+      # API at legislation.nysenate.gov; when the `NYSENATE_API_KEY`
+      # secret is unset (the current state) the script emits well-
+      # formed pointer stubs so the corpus retains its target shape
+      # until access is wired in. Mirrors the IN statutes puller.
+      - name: NY — court rules (22 NYCRR civil practice + Comm Div + sanctions)
+        if: matrix.target == 'ny'
+        continue-on-error: true
+        timeout-minutes: 15
+        # No `NY_RULES_PROXY` here on purpose. The proxy referenced
+        # by that env var is a developer-local Cloudflare-Warp HTTP
+        # endpoint (on a LAN address); GitHub Actions runners can't
+        # reach it. The puller falls back to stubs when Cloudflare
+        # blocks the runner — but the per-file "don't regress
+        # substantive content to a stub" check (`_file_is_stub`)
+        # keeps any verbatim content already committed to the repo
+        # in place. So the worst case for a CI refresh is a `Fetched:`
+        # date bump with no real change. Operators wanting a fresh
+        # verbatim pull should run the puller locally with their
+        # `NY_RULES_PROXY` set.
+        run: |
+          pip3 install --break-system-packages curl_cffi
+          python3 scripts/pull_ny_court_rules.py --workers 4
+
+      - name: NY — consolidated laws (CPLR + GOB + GBS + RPAPL + UCC + DRL + GCN + BNK)
+        if: matrix.target == 'ny'
+        continue-on-error: true
+        timeout-minutes: 15
+        env:
+          NYSENATE_API_KEY: ${{ secrets.NYSENATE_API_KEY }}
+        run: python3 scripts/pull_ny_statutes.py --workers 4
+
+      # ---- OH ----
+      # Ohio's court rules + statutes are both published on
+      # public-access government sites with no Cloudflare gate
+      # and no API-key requirement:
+      #   - Supreme Court of Ohio (`supremecourt.ohio.gov`)
+      #     publishes 14 rule-of-court PDFs at predictable URLs;
+      #     pdftotext extracts them. Civ. R. + Evid. R. + Sup. R.
+      #     + Prof. Cond. R. etc.
+      #   - Ohio Legislative Service Commission (`codes.ohio.gov`)
+      #     publishes the Revised Code as HTML chapter pages with
+      #     section bodies inline. The puller fetches 20 chapters
+      #     (R.C. Chapter 1 + 1302/1303/1309 UCC + 1345 CSPA +
+      #     2151/2305/2329/2333 civil enforcement + 3105/3109/3113/
+      #     3115/3119/3127 family + 5321/1923 L&T + 1901/1907/1925
+      #     court-specific procedural).
+      - name: OH — court rules (Civ. R. + Evid. R. + Sup. R. + Prof. Cond. R. + 10 others)
+        if: matrix.target == 'oh'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_ohio_court_rules.py --workers 3
+
+      - name: OH — Revised Code (20 chapters covering civil + family practice)
+        if: matrix.target == 'oh'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_ohio_statutes.py --workers 4
+
+      # ---- TN ----
+      # Tennessee's statewide rule sets are published as Drupal HTML
+      # at tncourts.gov — one HTML sub-page per rule, with the rule
+      # body inside a `field--name-field-rules-rule-content` div.
+      # The court-rules puller walks each rule set's landing page,
+      # discovers sub-page URLs by path prefix, and aggregates one
+      # MD file per rule set.
+      #
+      # The Tennessee Code is published officially by LexisNexis
+      # under copyright (no clean structured free authoritative
+      # source). The statute puller targets the Justia mirror at
+      # `law.justia.com/codes/tennessee/`. Justia sits behind
+      # Cloudflare bot-fight mode that fingerprints the TLS
+      # handshake; stdlib urllib gets a 403 even from a residential
+      # IP. The puller uses `curl_cffi` with Chrome TLS
+      # impersonation when available — installed below before the
+      # statutes step. GitHub Actions runner IPs occasionally pass
+      # Cloudflare's IP-reputation check and occasionally don't; the
+      # step is `continue-on-error: true` and the puller falls back
+      # to well-formed pointer stubs when fetch fails. The
+      # `_file_is_stub` regression guard keeps any verbatim content
+      # already committed in place — so the worst case for a CI
+      # refresh is a `Fetched:` date bump with no real change.
+      # Operators wanting a guaranteed-fresh verbatim pull should
+      # run the puller locally from a residential or VPN-routed IP.
+      - name: TN — court rules (TRCP + TRE + TRAP + Tenn. Sup. Ct. R.)
+        if: matrix.target == 'tn'
+        continue-on-error: true
+        timeout-minutes: 20
+        run: python3 scripts/pull_tn_court_rules.py --workers 2
+
+      - name: TN — Tenn. Code Ann. (25 chapters covering civil + family practice)
+        if: matrix.target == 'tn'
+        continue-on-error: true
+        timeout-minutes: 20
+        run: |
+          pip3 install --break-system-packages curl_cffi
+          python3 scripts/pull_tn_statutes.py --workers 4
+
+      # ---- Finalize ----
+
+      - name: Lint after refresh
+        run: python3 scripts/lint-skills.py
+
+      - name: Compute diff scope
+        id: scope
+        env:
+          T: ${{ matrix.target }}
+        run: |
+          case "$T" in
+            federal) path='plugins/claude-legal-federal-laws/references/**' ;;
+            *)       path="plugins/${T}-court-docs/skills/${T}-law-references/references/**" ;;
+          esac
+          echo "path=$path" >> "$GITHUB_OUTPUT"
+
+      # PR body built into /tmp/pr-body.md so command output (git diff)
+      # never lands in a template / shell-eval context — no injection
+      # surface from file names or paths.
+      - name: Build PR body
+        env:
+          DIFF_PATH: ${{ steps.scope.outputs.path }}
+        run: |
+          {
+            echo "Automated refresh of **\`${TARGET}\`** references."
+            echo
+            echo "Triggered by: \`${{ github.event_name }}\`"
+            echo
+            echo "## Diff summary"
+            echo
+            echo '```'
+            git -c color.ui=never diff --stat -- "$DIFF_PATH" | tail -200
+            echo '```'
+            echo
+            echo "## Reviewer checklist — @${PR_REVIEWER}"
+            echo
+            echo "- [ ] Diff is a routine pull (no unexpected deletions or extractor regressions)."
+            echo "- [ ] Decide PATCH vs MINOR version bump for affected SKILL.md / plugin.json per CLAUDE.md \"Reference-corpus refresh discipline\"."
+            echo "- [ ] Spot-check one updated rule or statute for verbatim source fidelity before merging."
+            echo
+            echo "---"
+            echo "🤖 Generated by \`.github/workflows/refresh-references.yml\`. Triggers: cron \`0 17 1 1,4,7,10 *\` (all targets) and manual \`workflow_dispatch\` (per-target selector)."
+          } > /tmp/pr-body.md
+
+      - name: Open PR for ${{ matrix.target }} refresh
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: auto/refresh-${{ matrix.target }}-${{ env.RUN_ID }}
+          delete-branch: true
+          commit-message: |
+            chore(refs): refresh ${{ matrix.target }} reference corpora
+
+            Automated refresh of ${{ matrix.target }} content via the
+            quarterly refresh-references workflow.
+          title: "chore(refs): refresh ${{ matrix.target }} reference corpora"
+          assignees: ${{ env.PR_REVIEWER }}
+          reviewers: ${{ env.PR_REVIEWER }}
+          labels: |
+            auto-refresh
+            references
+            target:${{ matrix.target }}
+          body-path: /tmp/pr-body.md

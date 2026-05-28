@@ -1,0 +1,9 @@
+.DS_Store
+*.plugin
+/tmp/
+node_modules/
+*.swp
+*.bak
+~$*
+__pycache__/
+*.pyc

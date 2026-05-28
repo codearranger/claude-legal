@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# SKILL.md frontmatter linter pre-commit hook.
+# Install: ln -sf ../../scripts/hooks/pre-commit .git/hooks/pre-commit
+set -e
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+exec python3 "$REPO_ROOT/scripts/lint-skills.py"

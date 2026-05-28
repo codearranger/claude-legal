@@ -1,0 +1,41 @@
+{
+  "name": "or-court-docs",
+  "version": "0.4.0",
+  "dependencies": [
+    "claude-legal-federal-laws"
+  ],
+  "description": "Draft and format pleadings, declarations, motions, notes for hearing, and proposed orders for Oregon circuit courts. Applies UTCR 2.010 statewide formatting; includes Multnomah County Circuit Court (Portland) and Washington County Circuit Court (Hillsboro) specifics plus a county-court roll-up for the other most-populous counties (Clackamas, Lane, Marion, Jackson, Deschutes, Linn, Benton, Yamhill, Polk, Douglas); supports pro se workflows. Architected as matter-neutral civil-procedure skills (ORCP civil rules, OEC evidence rules, ORS 20 fees and costs, local SLR rules, citation format per the Oregon Appellate Courts Style Manual, online sources, discovery, first-30-days response, hearings, filing packets, post-judgment, fact-checking, deadlines under ORCP 10 + ORS 187.010 holidays) plus subject-matter bundles that plug into the procedural skills. The first subject-matter bundle, or-consumer-debt, covers FDCPA, Reg F, ORS 697 (Collection Agency Registration), the Oregon Unlawful Trade Practices Act (UTPA, ORS 646.605 et seq.), chain-of-title doctrine, fact-pattern triage, and synthetic example filings for debt-buyer defense. The architecture leaves clean slots for future bundles (landlord-tenant under ORS 90, family, personal injury, etc.). All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/claude-legal",
+  "repository": "https://github.com/codearranger/claude-legal",
+  "license": "MIT",
+  "keywords": [
+    "oregon",
+    "legal",
+    "pleadings",
+    "pro-se",
+    "utcr",
+    "orcp",
+    "oec",
+    "multnomah-county",
+    "washington-county-oregon",
+    "circuit-court",
+    "county-courts",
+    "civil-rules",
+    "evidence-rules",
+    "discovery",
+    "hearings",
+    "post-judgment",
+    "fact-check",
+    "fdcpa",
+    "reg-f",
+    "utpa",
+    "consumer-protection",
+    "debt-collection",
+    "ojd-ecourt",
+    "ors-697"
+  ]
+}
