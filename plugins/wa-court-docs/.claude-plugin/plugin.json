@@ -1,6 +1,6 @@
 {
   "name": "wa-court-docs",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "dependencies": [
     "claude-legal-federal-laws"
   ],
