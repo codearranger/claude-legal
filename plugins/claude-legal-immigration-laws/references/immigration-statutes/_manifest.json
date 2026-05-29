@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "last_pulled": "2026-05-29",
+  "source": "https://uscode.house.gov USLM XML",
+  "release_point": "Public Law 119-93",
+  "mode": "verbatim",
+  "notes": "Pulled by scripts/pull_ina.py. Title 8 U.S.C. Chapter 12, one file per subchapter."
+}

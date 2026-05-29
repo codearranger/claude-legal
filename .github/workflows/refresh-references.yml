@@ -16,6 +16,7 @@ on:
         options:
           - all
           - federal
+          - immigration
           - wa
           - or
           - ca
@@ -50,8 +51,9 @@ jobs:
           TARGET: ${{ github.event.inputs.target }}
         run: |
           case "${TARGET:-all}" in
-            all)     targets='["federal","wa","or","ca","co","in","ny","oh","tn"]' ;;
+            all)     targets='["federal","immigration","wa","or","ca","co","in","ny","oh","tn"]' ;;
             federal) targets='["federal"]' ;;
+            immigration) targets='["immigration"]' ;;
             wa)      targets='["wa"]' ;;
             or)      targets='["or"]' ;;
             ca)      targets='["ca"]' ;;
@@ -115,6 +117,32 @@ jobs:
         # things go well is 3-5 min; budget covers a couple of retry cycles.
         timeout-minutes: 15
         run: python3 scripts/pull_ucc.py
+
+      # ---- immigration — shared, venue-independent corpus ----
+      # INA (8 U.S.C. ch 12) from uscode.house.gov USLM XML and the
+      # curated 8 CFR / 22 CFR parts from the eCFR versioner API both
+      # come from official, un-gated government endpoints. The FAM step
+      # runs --stubs-only on CI because fam.state.gov returns 503 to
+      # runner IPs; the `_file_is_stub` guard keeps any verbatim FAM
+      # content an operator mirrored locally in place. Case law is not
+      # pulled here — it is on-demand per references/legal-data-apis.md.
+      - name: Immigration — INA (8 U.S.C. Chapter 12)
+        if: matrix.target == 'immigration'
+        continue-on-error: true
+        timeout-minutes: 10
+        run: python3 scripts/pull_ina.py
+
+      - name: Immigration — 8 CFR + 22 CFR (curated parts)
+        if: matrix.target == 'immigration'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_immigration_cfr.py
+
+      - name: Immigration — FAM (pointer stubs; fam.state.gov is bot-gated on CI)
+        if: matrix.target == 'immigration'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: python3 scripts/pull_fam.py --stubs-only
 
       # ---- WA ----
       - name: WA — court rules
@@ -306,8 +334,9 @@ jobs:
           T: ${{ matrix.target }}
         run: |
           case "$T" in
-            federal) path='plugins/claude-legal-federal-laws/references/**' ;;
-            *)       path="plugins/${T}-court-docs/skills/${T}-law-references/references/**" ;;
+            federal)     path='plugins/claude-legal-federal-laws/references/**' ;;
+            immigration) path='plugins/claude-legal-immigration-laws/references/**' ;;
+            *)           path="plugins/${T}-court-docs/skills/${T}-law-references/references/**" ;;
           esac
           echo "path=$path" >> "$GITHUB_OUTPUT"
 

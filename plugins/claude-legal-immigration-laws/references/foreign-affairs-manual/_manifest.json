@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "last_pulled": "2026-05-29",
+  "source": "https://fam.state.gov",
+  "mode": "stub",
+  "notes": "Pulled by scripts/pull_fam.py. fam.state.gov is bot-gated (503 to scripted clients); the puller writes pointer stubs when blocked and verbatim text when reachable. The _file_is_stub guard preserves any committed verbatim content."
+}

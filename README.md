@@ -6,9 +6,10 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 
 ## What's in here
 
-**Nine plugins** today — eight state plugins plus one shared data-only plugin they all depend on:
+**Ten plugins** today — eight state plugins plus two shared federal reference plugins:
 
 - **`claude-legal-federal-laws`** — Shared, data-only plugin. Holds the canonical copy of federal consumer-finance law (FDCPA, FCRA, TILA, ECOA, EFTA, CCPA-Garnishment + Reg B/E/F/M/N/P/V/X/Z/DD), real-estate / consumer-protection adjuncts (RESPA, SCRA, Fair Housing Act, FTC Telemarketing Sales Rule), the Bankruptcy Code (Title 11 U.S.C. chapters 1, 3, 5, 7, 11, 12, 13, 15), and the model Uniform Commercial Code (Articles 1, 2, 3, 9). Every state plugin below declares it as a `dependencies:` entry in `plugin.json` and reaches it via in-tree symlinks; the Claude Code marketplace runtime auto-installs the dependency and dereferences the symlinks at install time, so each installed state plugin still has the federal content locally available.
+- **`claude-legal-immigration-laws`** — Shared, references-only plugin for **U.S. immigration law** (the federal counterpart built for immigration practice). Snapshots the canonical **rules** verbatim — the **INA** (8 U.S.C. Chapter 12, with an INA-section ↔ 8 U.S.C.-section crosswalk), the immigration **regulations** (curated **8 CFR** DHS + EOIR/BIA parts and the State-Department **22 CFR** visa/passport parts), and the **Foreign Affairs Manual** (canonical-URL pointer stubs, since fam.state.gov is bot-gated) — and indexes the immigration **case-law** sources for on-demand lookup rather than mirroring them: the federal **circuit courts** (petitions for review under INA § 242 / 8 U.S.C. § 1252, via CourtListener), the **Board of Immigration Appeals** precedent decisions (I&N Dec., via the EOIR Virtual Law Library), and the USCIS **Administrative Appeals Office (AAO)**. No drafting skills yet — this first pass connects the sources. Pullers: `scripts/pull_ina.py`, `scripts/pull_immigration_cfr.py`, `scripts/pull_fam.py`.
 
 - **`wa-court-docs`** — **Washington State.** Drafts and formats pleadings, declarations, motions, notes for motion docket, and proposed orders for Washington courts across the full civil-practice surface. Applies GR 14 formatting; six dedicated venue skills — King County District Court (East/Redmond, South/Burien, West/Seattle), King County Superior Court (Seattle / Kent — MRJC), Pierce County Superior Court (Tacoma), Snohomish County Superior Court (Everett), Spokane County Superior Court, and the Superior Court Family Law Department — plus a long-tail roll-up for the other most-populous counties (Clark, Thurston, Kitsap, Yakima, Whatcom, Benton). **Six subject-matter bundles**: `wa-consumer-debt` (FDCPA / Reg F / RCW 19.16 / WA CPA / chain of title), `wa-family-law` (Washington's community-property regime + RCW Title 26 dissolution / parenting / child support framework + the 2022 consolidated RCW 7.105 civil-protection-order regime + RCW 26.26A UPA parentage), `wa-landlord-tenant` (RCW 59.18 RLTA + the 2019 SB 5600 mandatory-form pay-or-vacate reform + the 2021 SB 5160 just-cause framework + HB 1815 statewide tenant Right to Counsel + ERP), `wa-personal-injury` (RCW 4.22 pure comparative fault + several-liability post-1986 Reform Act + WPLA at RCW 7.72 + medical malpractice at RCW 7.70 + RCW 4.92 / 4.96 Notice of Tort Claim), `wa-employment` (Minimum Wage Act + WLAD at RCW 49.60 + PFML under RCW Title 50A + non-compete reform at RCW 49.62 + L&I-exclusive workers' comp under RCW 51), and `wa-commercial-disputes` (Washington CPA at RCW 19.86 with the *Hangman Ridge* 5-element test + WBCA at RCW 23B + WA LLC Act at RCW 25.15 + UCC at RCW 62A + MAR under RCW 7.06). WA pioneers the **"thin-skill" architecture** for the marketplace: SKILL.md bodies describe procedural frameworks and point at the references corpus for current statutory text, dollar thresholds, day counts, and section subsections rather than embedding them — so quarterly puller refreshes update the canonical law without requiring skill edits. Statute corpus: **92 chapters / 3,255 sections** across the RCW spanning civil procedure, evidence, special proceedings, family law, dependency, landlord-tenant, real property, medical malpractice, product liability, business regulation, employment / WLAD / non-compete, workers' comp, corporations, admin law, and the UCC. **30 SKILL.md files**.
 
@@ -60,6 +61,7 @@ Each state plugin declares `claude-legal-federal-laws` as a `dependencies:` entr
 | `oh-court-docs` | 20 R.C. chapters / 1,335 sections / ~2.7 MB verbatim from `codes.ohio.gov` (R.C. Chapter 1 holidays + 1302/1303/1309 UCC + 1345 CSPA + 2151/2305/2329/2333 civil enforcement + 3105/3109/3113/3115/3119/3127 family + 5321/1923 L&T + 1901/1907/1925 court-specific) | 14 rule sets via `pull_ohio_court_rules.py`: Civ. R. + Evid. R. + App. R. + Crim. R. + Juv. R. + Traffic R. + Sup. R. + Sup. Ct. Prac. R. + Prof. Cond. R. + Code of Jud. Cond. + Gov. Bar R. + Gov. Jud. R. + Rep. R. + Court of Claims local rules / ~4.8 MB | shared |
 | `tn-court-docs` | 25 Tenn. Code Ann. chapters via `pull_tn_statutes.py`; well-formed pointer stubs when Justia 403s the runner | 4 statewide rule sets / ~2.7 MB / 473 rule sub-pages verbatim via `pull_tn_court_rules.py` from tncourts.gov; county local rules as a pointer stub | shared |
 | `claude-legal-federal-laws` | n/a | n/a | **20 federal-debt-laws + 4 UCC + 8 Bankruptcy** |
+| `claude-legal-immigration-laws` | INA = 8 U.S.C. ch 12, 5 subchapters / ~1.6 MB verbatim via `pull_ina.py` (+ INA↔8 USC crosswalk) | 33 CFR parts / ~3.6 MB verbatim via `pull_immigration_cfr.py` (8 CFR DHS ch I + EOIR/BIA ch V + 22 CFR visa/passport) | n/a — standalone; FAM as 6 pointer stubs; case law (circuits / BIA / AAO) on-demand per `legal-data-apis.md` |
 
 ## Repo layout
 
@@ -78,6 +80,14 @@ claude-legal/
 │   │       ├── federal-debt-laws/    # FDCPA, FCRA, TILA, ECOA, EFTA, Garnishment, RESPA, SCRA, FHA, TSR + Reg B/E/F/M/N/P/V/X/Z/DD
 │   │       ├── federal-bankruptcy/   # Title 11 U.S.C. chapters 1, 3, 5, 7, 11, 12, 13, 15
 │   │       └── ucc-model/            # Model UCC Articles 1, 2, 3, 9
+│   ├── claude-legal-immigration-laws/  # SHARED immigration references-only plugin (no skills)
+│   │   ├── .claude-plugin/plugin.json
+│   │   └── references/
+│   │       ├── immigration-statutes/      # INA = 8 U.S.C. ch 12 (5 subchapters) + INA↔8 USC crosswalk
+│   │       ├── immigration-regulations/   # curated 8 CFR (DHS ch I + EOIR/BIA ch V) + 22 CFR visa/passport
+│   │       ├── foreign-affairs-manual/    # FAM pointer stubs (fam.state.gov bot-gated)
+│   │       ├── legal-data-apis.md         # on-demand case law: circuits / BIA / AAO
+│   │       └── online-sources.md          # canonical human-facing URLs
 │   ├── wa-court-docs/                # Washington (30 skills — 6 venues incl. wa-family-court + 6 subject bundles: consumer-debt + family-law + landlord-tenant + personal-injury + employment + commercial-disputes)
 │   ├── or-court-docs/                # Oregon (21 skills)
 │   ├── ca-court-docs/                # California (21 skills)
@@ -103,7 +113,10 @@ claude-legal/
     ├── pull_ohio_court_rules.py      # supremecourt.ohio.gov PDFs → 14 Ohio rule sets
     ├── pull_ohio_statutes.py         # codes.ohio.gov HTML → R.C. chapters
     ├── pull_federal_debt_laws.py     # USC titles 11/12/15/42/50 + CFR titles 12/16 → shared federal corpus
-    └── pull_ucc.py                   # law.cornell.edu/ucc → shared model UCC
+    ├── pull_ucc.py                   # law.cornell.edu/ucc → shared model UCC
+    ├── pull_ina.py                   # uscode.house.gov USLM XML → INA (8 U.S.C. ch 12)
+    ├── pull_immigration_cfr.py       # ecfr.gov versioner API → 8 CFR + 22 CFR immigration parts
+    └── pull_fam.py                   # fam.state.gov (bot-gated) → FAM pointer stubs
 ```
 
 Each state plugin's directory mirrors the same shape:

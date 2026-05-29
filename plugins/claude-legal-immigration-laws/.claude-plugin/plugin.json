@@ -1,0 +1,38 @@
+{
+  "name": "claude-legal-immigration-laws",
+  "version": "0.1.0",
+  "description": "Shared reference corpus for U.S. immigration law. Snapshots the canonical rules verbatim — the Immigration and Nationality Act (INA, 8 U.S.C. Chapter 12), the immigration regulations in 8 CFR (DHS/USCIS/CBP/ICE chapter I plus the DOJ/EOIR immigration-court and Board of Immigration Appeals chapter V at 8 CFR 1001-1337), and the State Department visa/passport/exchange parts of 22 CFR — and indexes the immigration case-law sources for on-demand lookup: the federal circuit courts (petitions for review of removal orders under INA Sec. 242 / 8 U.S.C. Sec. 1252, via CourtListener and the connected CourtListener MCP), the Board of Immigration Appeals precedent decisions (I&N Dec., via the EOIR Virtual Law Library), and the USCIS Administrative Appeals Office (AAO) decisions. The Foreign Affairs Manual (FAM) ships as canonical-URL pointer stubs because fam.state.gov is bot-gated. This is a sources/reference plugin (no drafting skills yet): statutes and regulations are mirrored as Markdown by scripts/pull_ina.py and scripts/pull_immigration_cfr.py; FAM by scripts/pull_fam.py; case law stays on-demand per legal-data-apis.md and online-sources.md.",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/claude-legal",
+  "repository": "https://github.com/codearranger/claude-legal",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "immigration",
+    "immigration-law",
+    "ina",
+    "immigration-and-nationality-act",
+    "8-usc",
+    "8-cfr",
+    "22-cfr",
+    "foreign-affairs-manual",
+    "fam",
+    "eoir",
+    "bia",
+    "board-of-immigration-appeals",
+    "aao",
+    "uscis",
+    "circuit-courts",
+    "petition-for-review",
+    "removal",
+    "asylum",
+    "adjustment-of-status",
+    "naturalization",
+    "visas",
+    "shared-references",
+    "courtlistener"
+  ]
+}

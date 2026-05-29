@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "last_pulled": "2026-05-29",
+  "source": "https://www.ecfr.gov/api eCFR versioner API",
+  "as_of": "2026-01-01",
+  "mode": "verbatim",
+  "notes": "Pulled by scripts/pull_immigration_cfr.py. Curated 8 CFR (DHS ch I + EOIR ch V) and 22 CFR visa/passport parts."
+}
