@@ -14,17 +14,21 @@ https://fam.state.gov. For immigration practice the relevant volumes are:
   - 7 FAM  — Consular Affairs (U.S. citizenship, passports, Consular
              Reports of Birth Abroad, death/estate matters).
 
-fam.state.gov is JavaScript-rendered and fronted by bot mitigation that
-returns 503 to scripted clients (stdlib urllib, plain curl). When the fetch
+fam.state.gov is JavaScript-rendered and, from CI / managed sandboxes, serves
+an **incomplete TLS certificate chain** (it omits the issuing intermediate,
+which a browser repairs via AIA fetching). A TLS-inspecting egress proxy that
+does not AIA-chase therefore fails to verify the upstream certificate and
+returns **HTTP 503** ("upstream connect error ... certificate verify failed").
+Either way the corpus can't be mirrored from here. When the fetch succeeds the
 succeeds the puller writes verbatim Markdown; when it is blocked it writes a
 **well-formed pointer stub** carrying the canonical URL + a scope description,
 mirroring scripts/pull_ny_court_rules.py and scripts/pull_tn_statutes.py.
 
 The `_file_is_stub` regression guard means a stub-only re-run will NOT clobber
 verbatim content that a previous (successful) run committed. The canonical way
-to refresh verbatim FAM text is to run this puller from an environment that can
-reach fam.state.gov (e.g. a browser-impersonating client / proxy) and commit
-the diff.
+to refresh verbatim FAM text is to run this puller from an environment whose
+egress can complete fam.state.gov's certificate chain (e.g. a developer machine,
+or any host that AIA-chases / ships the intermediate) and commit the diff.
 
 Output: plugins/claude-legal-immigration-laws/references/foreign-affairs-manual/
 """
@@ -117,13 +121,18 @@ def make_stub(title: str, url: str, scope: str) -> str:
         f"- Canonical URL: {url}\n"
         f"- Status: **pointer stub** — verbatim text not mirrored\n"
         f"- Pulled: {today}\n\n"
-        f"> **Why a stub?** fam.state.gov is JavaScript-rendered and fronted by "
-        f"bot mitigation that returns HTTP 503 to scripted clients, so this "
-        f"corpus cannot be snapshotted from a CI runner. Read the authoritative "
-        f"text at the canonical URL above. To mirror it verbatim, run "
-        f"`scripts/pull_fam.py` from an environment that can reach fam.state.gov "
-        f"(a browser-impersonating client or proxy); the `_file_is_stub` guard "
-        f"will replace this stub with the fetched text.\n\n"
+        f"> **Why a stub?** fam.state.gov is JavaScript-rendered and, from CI / "
+        f"managed sandboxes, serves an incomplete TLS certificate chain (it omits "
+        f"the issuing intermediate, which a browser repairs via AIA fetching). A "
+        f"TLS-inspecting egress proxy that does not AIA-chase fails to verify the "
+        f"upstream certificate and returns HTTP 503 (`certificate verify failed`), "
+        f"so this corpus cannot be snapshotted from here — note this is an "
+        f"egress/cert-chain issue, not destination bot-gating, so TLS-impersonation "
+        f"libraries (curl_cffi) do not help. Read the authoritative text at the "
+        f"canonical URL above. To mirror it verbatim, run `scripts/pull_fam.py` "
+        f"from an environment whose egress can complete fam.state.gov's certificate "
+        f"chain; the `_file_is_stub` guard will replace this stub with the fetched "
+        f"text.\n\n"
         f"## Scope\n\n{scope}\n\n"
         f"## Note on FAM authority\n\n"
         f"The FAM is internal Department of State guidance. It is **not** "
@@ -196,10 +205,13 @@ def main() -> int:
         "source": FAM_BASE,
         "mode": "stub" if wrote_verbatim == 0 else "mixed",
         "notes": (
-            "Pulled by scripts/pull_fam.py. fam.state.gov is bot-gated (503 to "
-            "scripted clients); the puller writes pointer stubs when blocked and "
-            "verbatim text when reachable. The _file_is_stub guard preserves any "
-            "committed verbatim content."
+            "Pulled by scripts/pull_fam.py. fam.state.gov is JS-rendered and "
+            "serves an incomplete TLS cert chain that a TLS-inspecting egress "
+            "proxy can't verify (HTTP 503) — an egress/cert-chain issue, not "
+            "bot-gating, so curl_cffi does not help. The puller writes pointer "
+            "stubs when blocked and verbatim text when the egress can complete "
+            "the chain. The _file_is_stub guard preserves any committed verbatim "
+            "content."
         ),
     }
     (out_dir / "_manifest.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")

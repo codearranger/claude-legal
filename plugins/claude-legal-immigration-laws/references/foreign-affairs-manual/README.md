@@ -12,14 +12,21 @@ nationality matters. Always pair a FAM cite with the controlling statute
 
 ## Status: pointer stubs
 
-`fam.state.gov` is JavaScript-rendered and fronted by bot mitigation that
-returns **HTTP 503** to scripted clients, so this corpus currently ships as
-**well-formed pointer stubs** — each file carries the canonical URL plus a
-scope description — rather than mirrored verbatim text. This mirrors how the
-NY court-rules and TN statutes corpora handle Cloudflare-gated upstreams.
+`fam.state.gov` is JavaScript-rendered and, from CI / managed sandboxes, serves
+an **incomplete TLS certificate chain** — it omits the issuing intermediate,
+which a browser repairs via AIA fetching. A TLS-inspecting egress proxy that
+does not AIA-chase therefore can't verify the upstream certificate and returns
+**HTTP 503** (`upstream connect error ... certificate verify failed`), so this
+corpus currently ships as **well-formed pointer stubs** — each file carries the
+canonical URL plus a scope description — rather than mirrored verbatim text.
 
-To mirror FAM verbatim, run the puller from an environment that can reach
-fam.state.gov (a browser-impersonating client or proxy):
+Note this is an **egress / certificate-chain** issue, *not* destination
+bot-gating: unlike the Cloudflare TLS-fingerprint gates the NY-rules and
+TN-statutes pullers defeat with `curl_cffi`, TLS-impersonation libraries do
+**not** help here — the proxy, not our client, is the one failing verification.
+
+To mirror FAM verbatim, run the puller from an environment whose egress can
+complete fam.state.gov's certificate chain (e.g. a developer machine):
 
 ```bash
 python3 scripts/pull_fam.py

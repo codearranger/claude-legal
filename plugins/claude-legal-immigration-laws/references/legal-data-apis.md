@@ -23,7 +23,7 @@ Immigration practice has two distinct source layers, handled differently:
 |---|---|---|
 | Verbatim INA / U.S.C. text | local `immigration-statutes/` corpus → uscode.house.gov USLM XML | Official; already snapshotted |
 | Verbatim 8 CFR / 22 CFR text | local `immigration-regulations/` corpus → eCFR Versioner API | Official; already snapshotted |
-| FAM guidance text | local `foreign-affairs-manual/` pointer stubs → fam.state.gov | Bot-gated; read at canonical URL |
+| FAM guidance text | local `foreign-affairs-manual/` pointer stubs → fam.state.gov | Incomplete TLS cert chain 503s the sandbox egress proxy (not bot-gating); read at canonical URL |
 | Federal **circuit court** immigration opinion | CourtListener (MCP `search` / REST v4) | Full text + citations; covers all 13 circuits |
 | **Board of Immigration Appeals** precedent (I&N Dec.) | EOIR Virtual Law Library + CourtListener | EOIR is the publisher of record; CL indexes many |
 | **AAO** (USCIS Administrative Appeals Office) decisions | USCIS AAO decisions site | The only authoritative source for AAO non-precedent + precedent |

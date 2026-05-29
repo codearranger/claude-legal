@@ -7,7 +7,7 @@
 - Status: **pointer stub** — verbatim text not mirrored
 - Pulled: 2026-05-29
 
-> **Why a stub?** fam.state.gov is JavaScript-rendered and fronted by bot mitigation that returns HTTP 503 to scripted clients, so this corpus cannot be snapshotted from a CI runner. Read the authoritative text at the canonical URL above. To mirror it verbatim, run `scripts/pull_fam.py` from an environment that can reach fam.state.gov (a browser-impersonating client or proxy); the `_file_is_stub` guard will replace this stub with the fetched text.
+> **Why a stub?** fam.state.gov is JavaScript-rendered and, from CI / managed sandboxes, serves an incomplete TLS certificate chain (it omits the issuing intermediate, which a browser repairs via AIA fetching). A TLS-inspecting egress proxy that does not AIA-chase fails to verify the upstream certificate and returns HTTP 503 (`certificate verify failed`), so this corpus cannot be snapshotted from here — note this is an egress/cert-chain issue, not destination bot-gating, so TLS-impersonation libraries (curl_cffi) do not help. Read the authoritative text at the canonical URL above. To mirror it verbatim, run `scripts/pull_fam.py` from an environment whose egress can complete fam.state.gov's certificate chain; the `_file_is_stub` guard will replace this stub with the fetched text.
 
 ## Scope
 

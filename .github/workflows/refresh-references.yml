@@ -122,9 +122,12 @@ jobs:
       # INA (8 U.S.C. ch 12) from uscode.house.gov USLM XML and the
       # curated 8 CFR / 22 CFR parts from the eCFR versioner API both
       # come from official, un-gated government endpoints. The FAM step
-      # runs --stubs-only on CI because fam.state.gov returns 503 to
-      # runner IPs; the `_file_is_stub` guard keeps any verbatim FAM
-      # content an operator mirrored locally in place. Case law is not
+      # runs --stubs-only on CI because fam.state.gov serves an incomplete
+      # TLS certificate chain that a TLS-inspecting egress proxy can't
+      # verify (HTTP 503) — an egress/cert-chain issue, not bot-gating, so
+      # TLS-impersonation (curl_cffi) wouldn't help anyway. The
+      # `_file_is_stub` guard keeps any verbatim FAM content an operator
+      # mirrored from a chain-completing egress in place. Case law is not
       # pulled here — it is on-demand per references/legal-data-apis.md.
       - name: Immigration — INA (8 U.S.C. Chapter 12)
         if: matrix.target == 'immigration'
@@ -138,7 +141,7 @@ jobs:
         timeout-minutes: 15
         run: python3 scripts/pull_immigration_cfr.py
 
-      - name: Immigration — FAM (pointer stubs; fam.state.gov is bot-gated on CI)
+      - name: Immigration — FAM (pointer stubs; fam.state.gov cert chain 503s the egress proxy on CI)
         if: matrix.target == 'immigration'
         continue-on-error: true
         timeout-minutes: 5
