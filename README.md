@@ -61,7 +61,7 @@ Each state plugin declares `claude-legal-federal-laws` as a `dependencies:` entr
 | `oh-court-docs` | 20 R.C. chapters / 1,335 sections / ~2.7 MB verbatim from `codes.ohio.gov` (R.C. Chapter 1 holidays + 1302/1303/1309 UCC + 1345 CSPA + 2151/2305/2329/2333 civil enforcement + 3105/3109/3113/3115/3119/3127 family + 5321/1923 L&T + 1901/1907/1925 court-specific) | 14 rule sets via `pull_ohio_court_rules.py`: Civ. R. + Evid. R. + App. R. + Crim. R. + Juv. R. + Traffic R. + Sup. R. + Sup. Ct. Prac. R. + Prof. Cond. R. + Code of Jud. Cond. + Gov. Bar R. + Gov. Jud. R. + Rep. R. + Court of Claims local rules / ~4.8 MB | shared |
 | `tn-court-docs` | 25 Tenn. Code Ann. chapters via `pull_tn_statutes.py`; well-formed pointer stubs when Justia 403s the runner | 4 statewide rule sets / ~2.7 MB / 473 rule sub-pages verbatim via `pull_tn_court_rules.py` from tncourts.gov; county local rules as a pointer stub | shared |
 | `claude-legal-federal-laws` | n/a | n/a | **20 federal-debt-laws + 4 UCC + 8 Bankruptcy** |
-| `claude-legal-immigration-laws` | INA = 8 U.S.C. ch 12, 5 subchapters / ~1.6 MB verbatim via `pull_ina.py` (+ INA↔8 USC crosswalk) | 33 CFR parts / ~3.6 MB verbatim via `pull_immigration_cfr.py` (8 CFR DHS ch I + EOIR/BIA ch V + 22 CFR visa/passport) | n/a — standalone; FAM as 6 pointer stubs; case law (circuits / BIA / AAO) on-demand per `legal-data-apis.md` |
+| `claude-legal-immigration-laws` | INA = 8 U.S.C. ch 12, 5 subchapters / ~1.6 MB verbatim via `pull_ina.py` (+ INA↔8 USC crosswalk) | 33 CFR parts / ~3.6 MB verbatim via `pull_immigration_cfr.py` (8 CFR DHS ch I + EOIR/BIA ch V + 22 CFR visa/passport) | n/a — standalone; FAM ~3.6 MB verbatim via `pull_fam.py` (AIA-chases the omitted TLS intermediate + crawls the JSON TOC API); case law (circuits / BIA / AAO) on-demand per `legal-data-apis.md` |
 
 ## Repo layout
 
@@ -85,7 +85,7 @@ claude-legal/
 │   │   └── references/
 │   │       ├── immigration-statutes/      # INA = 8 U.S.C. ch 12 (5 subchapters) + INA↔8 USC crosswalk
 │   │       ├── immigration-regulations/   # curated 8 CFR (DHS ch I + EOIR/BIA ch V) + 22 CFR visa/passport
-│   │       ├── foreign-affairs-manual/    # FAM pointer stubs (fam.state.gov cert-chain 503s sandbox egress proxy)
+│   │       ├── foreign-affairs-manual/    # FAM verbatim (~3.6 MB; puller AIA-chases fam.state.gov's omitted TLS intermediate + crawls its JSON TOC API)
 │   │       ├── legal-data-apis.md         # on-demand case law: circuits / BIA / AAO
 │   │       └── online-sources.md          # canonical human-facing URLs
 │   ├── wa-court-docs/                # Washington (30 skills — 6 venues incl. wa-family-court + 6 subject bundles: consumer-debt + family-law + landlord-tenant + personal-injury + employment + commercial-disputes)
@@ -116,7 +116,7 @@ claude-legal/
     ├── pull_ucc.py                   # law.cornell.edu/ucc → shared model UCC
     ├── pull_ina.py                   # uscode.house.gov USLM XML → INA (8 U.S.C. ch 12)
     ├── pull_immigration_cfr.py       # ecfr.gov versioner API → 8 CFR + 22 CFR immigration parts
-    └── pull_fam.py                   # fam.state.gov (incomplete cert chain → egress-proxy 503) → FAM pointer stubs
+    └── pull_fam.py                   # fam.state.gov JSON TOC API + /FAM/<vol>/<id>.html (AIA-chases the server's omitted TLS intermediate) → FAM verbatim
 ```
 
 Each state plugin's directory mirrors the same shape:
@@ -151,7 +151,7 @@ Each state plugin's directory mirrors the same shape:
 
 ## Quarterly refresh
 
-A GitHub Actions workflow (`.github/workflows/refresh-references.yml`) runs every quarter (Jan / Apr / Jul / Oct 1 at 17:00 UTC) plus on `workflow_dispatch`, with a `target` selector covering `all` / `federal` / `wa` / `or` / `ca` / `co` / `in` / `ny`. Each leg refreshes its state's content corpora via the matching pull scripts above, lints, and opens a PR auto-assigned for review. Federal content refreshes once per quarter (single canonical copy in the shared plugin) instead of per state. **New York is fully wired in**: `pull_ny_court_rules.py` uses **curl_cffi** with Chrome TLS impersonation to pull **15 Parts of 22 NYCRR verbatim** from `www.nycourts.gov` (~1.2 MB: Parts 100 / 104 / 125 / 130 / 202 incl. § 202.70 Commercial Division / 205 / 206 / 207 / 208 incl. § 208.42 Housing Part / 210 / 212 / 214 / 216 / 220 / 221) plus 5 pointer stubs for paywalled / PDF-only sources (Part 1200 Rules of Professional Conduct, Tanbook, NYC Civil Court Directives, Nassau / Suffolk DC local rules). For developer workstations the puller honors an optional **`NY_RULES_PROXY`** env var pointing at a Cloudflare-Warp HTTP endpoint so nycourts.gov sees a Cloudflare-trusted source IP — this proxy is LAN-only; the quarterly CI workflow runs without it and the per-file regression check keeps committed verbatim content in place. `pull_ny_statutes.py` hits the NY State Senate Open Legislation API at `legislation.nysenate.gov` (requires the `NYSENATE_API_KEY` repo secret to produce verbatim text — without the secret it writes well-formed pointer stubs covering the same 36 NY consolidated-laws targets).
+A GitHub Actions workflow (`.github/workflows/refresh-references.yml`) runs every quarter (Jan / Apr / Jul / Oct 1 at 17:00 UTC) plus on `workflow_dispatch`, with a `target` selector covering `all` / `federal` / `immigration` / `wa` / `or` / `ca` / `co` / `in` / `ny` / `oh` / `tn`. Each leg refreshes its state's content corpora via the matching pull scripts above, lints, and opens a PR auto-assigned for review. Federal content refreshes once per quarter (single canonical copy in the shared plugin) instead of per state. **New York is fully wired in**: `pull_ny_court_rules.py` uses **curl_cffi** with Chrome TLS impersonation to pull **15 Parts of 22 NYCRR verbatim** from `www.nycourts.gov` (~1.2 MB: Parts 100 / 104 / 125 / 130 / 202 incl. § 202.70 Commercial Division / 205 / 206 / 207 / 208 incl. § 208.42 Housing Part / 210 / 212 / 214 / 216 / 220 / 221) plus 5 pointer stubs for paywalled / PDF-only sources (Part 1200 Rules of Professional Conduct, Tanbook, NYC Civil Court Directives, Nassau / Suffolk DC local rules). For developer workstations the puller honors an optional **`NY_RULES_PROXY`** env var pointing at a Cloudflare-Warp HTTP endpoint so nycourts.gov sees a Cloudflare-trusted source IP — this proxy is LAN-only; the quarterly CI workflow runs without it and the per-file regression check keeps committed verbatim content in place. `pull_ny_statutes.py` hits the NY State Senate Open Legislation API at `legislation.nysenate.gov` (requires the `NYSENATE_API_KEY` repo secret to produce verbatim text — without the secret it writes well-formed pointer stubs covering the same 36 NY consolidated-laws targets).
 
 ## Key differences across states
 
