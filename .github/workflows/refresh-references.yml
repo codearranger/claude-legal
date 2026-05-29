@@ -148,6 +148,18 @@ jobs:
         timeout-minutes: 15
         run: python3 scripts/pull_fam.py
 
+      # EOIR practice manuals (ICPM + BIA Practice Manual). EOIR renders these
+      # client-side (JavaScript) and Akamai-gates the chapter URLs, so the
+      # puller writes canonical-URL pointer stubs (the binding rules are the
+      # 8 CFR Part 1003/1240/1208 regs pulled by pull_immigration_cfr.py).
+      # The _file_is_stub guard preserves any verbatim content a future
+      # headless/un-gated run commits.
+      - name: Immigration — EOIR practice manuals (ICPM + BIA Practice Manual stubs)
+        if: matrix.target == 'immigration'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: python3 scripts/pull_eoir_manuals.py
+
       # ---- WA ----
       - name: WA — court rules
         if: matrix.target == 'wa'
