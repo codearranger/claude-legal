@@ -25,9 +25,13 @@ Companion to `legal-data-apis.md` (machine-readable / on-demand access).
 | Source | URL |
 |---|---|
 | FAM + FAH home | <https://fam.state.gov> |
-| 9 FAM — Visas | <https://fam.state.gov/fam/09fam.html> |
-| 8 FAM — Nationality | <https://fam.state.gov/fam/08fam.html> |
-| 7 FAM — Consular Affairs | <https://fam.state.gov/fam/07fam.html> |
+| 9 FAM — Visas | <https://fam.state.gov/Volumes/Details/09FAM> |
+| 8 FAM — Nationality | <https://fam.state.gov/Volumes/Details/08FAM> |
+| 7 FAM — Consular Affairs | <https://fam.state.gov/Volumes/Details/07FAM> |
+
+> The legacy `/fam/NNfam.html` URLs are dead (404); the site now serves its
+> table of contents from `/api/Tree/GetTreeByVolumeId?Id=<vol>` and per-section
+> content at `/FAM/<vol>/<sectionId>.html`. `scripts/pull_fam.py` crawls these.
 
 ## Case law — federal circuit courts
 

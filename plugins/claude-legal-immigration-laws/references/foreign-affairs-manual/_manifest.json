@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
-  "last_pulled": "2026-05-29",
+  "version": "0.2.0",
+  "last_pulled": "2026-05-28",
   "source": "https://fam.state.gov",
-  "mode": "stub",
-  "notes": "Pulled by scripts/pull_fam.py. fam.state.gov is JS-rendered and serves an incomplete TLS cert chain that a TLS-inspecting egress proxy can't verify (HTTP 503) \u2014 an egress/cert-chain issue, not bot-gating, so curl_cffi does not help. The puller writes pointer stubs when blocked and verbatim text when the egress can complete the chain. The _file_is_stub guard preserves any committed verbatim content."
+  "mode": "verbatim",
+  "notes": "Pulled by scripts/pull_fam.py. The puller AIA-chases the Sectigo intermediate fam.state.gov omits from its TLS chain, then crawls the site's JSON table-of-contents API (/api/Tree/GetTreeByVolumeId) and the per-section /FAM/<vol>/<id>.html pages (windows-1252 Word HTML). Writes pointer stubs only when the network is unreachable; the _file_is_stub guard preserves committed verbatim content."
 }
