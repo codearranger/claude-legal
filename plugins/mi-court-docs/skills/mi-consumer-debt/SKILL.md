@@ -36,9 +36,11 @@ the **District Court**; see "Forum" below.
 
 Michigan layers a federal regime over a Michigan-specific one. A distinctive feature: Michigan has
 **two** state collection statutes that reach collectors differently — the **Regulation of Collection
-Practices Act (RCPA)**, MCL 445.251 et seq., which reaches **"regular creditors"** (first-party
-creditors collecting their own debts) and is **broader than the FDCPA** in that respect; and the
-**Occupational Code, Article 9**, MCL 339.901 et seq., which **licenses third-party collection
+Practices Act (RCPA)**, MCL 445.251 et seq., whose prohibited-acts section (MCL 445.252) binds a
+**"regulated person"** (defined at MCL 445.251(1)(g) to include first-party collectors such as an
+employee collecting for one employer in the employer's name, and chartered banks / savings-and-loans /
+credit unions collecting their own claims), making it **broader than the FDCPA** in that respect; and
+the **Occupational Code, Article 9**, MCL 339.901 et seq., which **licenses third-party collection
 agencies and debt buyers** through LARA and supplies the prohibited-practices / civil-liability rules
 for licensees.
 
@@ -56,14 +58,19 @@ LARA licensure). **MCPA** — MCL 445.901 et seq., with the regulated-conduct ex
 
 ## The RCPA — Michigan's broad first-party reach
 
-The **RCPA** (MCL 445.251 et seq.) is the Michigan analog to the FDCPA but reaches **"regular
-creditors"** — first-party creditors collecting their own debts — not only third-party collectors.
-That makes it the right vehicle when the plaintiff is the original creditor (or its in-house
-collection arm), where the FDCPA generally does **not** reach.
+The **RCPA** (MCL 445.251 et seq.) is the Michigan analog to the FDCPA, but its prohibited-acts
+section (MCL 445.252) binds a **"regulated person"** — defined at MCL 445.251(1)(g) as a person whose
+collection activities are confined and directly related to operating a business other than a
+collection agency, including a regular employee who collects for one employer in the employer's name,
+and state/federally chartered banks, savings-and-loans, and credit unions that collect their **own**
+claims. Because "regulated person" thus reaches first-party / in-house collectors, the RCPA can apply
+where the FDCPA generally does **not**. (Third-party collection agencies and debt buyers are instead
+governed by the Occupational Code Article 9 prohibited-practices rules — see below.)
 
-- **Prohibited practices** — MCL 445.252 enumerates false/misleading representations, harassment,
-  communicating false credit information, threatening unauthorized action, collecting unauthorized
-  amounts, etc. Map the collector's conduct to the specific subsection.
+- **Prohibited practices** — MCL 445.252 enumerates communicating in a misleading or deceptive
+  manner, simulating judicial process, misrepresenting the legal status/rights/consequences of a
+  debt, harassing or abusive collection methods (with the 8 a.m.–9 p.m. call-time rule), and the like.
+  Map the collector's conduct to the specific subsection.
 - **Civil liability** — MCL 445.257: an injured person "may bring an action for damages or other
   equitable relief" and recover **actual damages or $50.00, whichever is greater**. For a **willful**
   violation the court may assess a civil fine of **not less than 3 times the actual damages, or
@@ -168,13 +175,14 @@ plead SOL (MCR 2.111(F)) and move under **MCR 2.116(C)(7)**.
 
 **Pattern 3 — FDCPA validation / dispute violation.** Consumer disputed or never got a compliant
 validation notice. FDCPA §§ 1692g (validation), 1692e (false/misleading), 1692f (unfair); Reg F
-validation content (12 C.F.R. pt. 1006). Parallel **RCPA** claim (MCL 445.252) reaches first-party
-creditors the FDCPA may not.
+validation content (12 C.F.R. pt. 1006). Parallel **RCPA** claim (MCL 445.252) reaches a "regulated
+person" (incl. first-party / in-house collectors) the FDCPA may not.
 
 **Pattern 4 — Wrong amount / wrong person.** Inflated amount (unauthorized fees/interest) or mistaken
-identity / identity theft. **RCPA** (MCL 445.252) bars collecting amounts not owed and false
-representation of a debt's character/amount; **FDCPA** §§ 1692e(2)/1692f(1); **FCRA** § 605B
-identity-theft block if applicable.
+identity / identity theft. **RCPA** (MCL 445.252(e)-(f)) bars inaccurate/misleading/deceptive
+statements in a collection communication and misrepresenting a debt's legal status or the parties'
+legal rights; **FDCPA** §§ 1692e(2)/1692f(1) (which expressly bar misrepresenting the amount and
+collecting amounts not owed); **FCRA** § 605B identity-theft block if applicable.
 
 **Pattern 5 — Unlicensed collector / debt buyer.** Plaintiff or servicer holds no Michigan
 collection-agency license. **Occupational Code Article 9** (MCL 339.901 et seq.) — operating without a

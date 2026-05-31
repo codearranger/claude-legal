@@ -123,7 +123,7 @@ The predicate written notice is jurisdictional. Michigan uses the
 | Notice of deposit + inventory | MCL 554.603, 554.608 | Landlord must give notice of where the deposit is held + use a move-in/move-out inventory checklist |
 | Tenant forwarding address | MCL 554.611 | Tenant must furnish a forwarding mailing address **within 4 days** of moving out; failure relieves landlord of the itemized-notice duty |
 | Itemized notice of damages | MCL 554.609 | Landlord must mail an itemized list of damages + the balance due **within 30 days** of termination of occupancy |
-| Tenant response window | MCL 554.610 | Tenant has a window to respond/dispute (verify count) |
+| Tenant response window | MCL 554.612 | Tenant must respond by mail **within 7 days** of receiving the itemized notice of damages (the § 554.609 notice states this) or forfeit the claimed amount |
 | Suit to retain | MCL 554.613 | Landlord must commence an action to retain within **45 days** |
 | **Double-damages remedy** | MCL 554.613 | Failure to comply fully **"constitutes waiver of all claimed damages and makes him liable to the tenant for double the amount of the security deposit retained"** |
 
@@ -142,7 +142,7 @@ clauses.
   tenant's right to recover the deposit, authorize a confession of
   judgment, or exculpate the landlord from negligence liability —
   consult the current MCL 554.633 list before relying.
-- A prohibited provision is **void** (MCL 554.633(2)); the rest of
+- A prohibited provision is **void** (MCL 554.633(3)); the rest of
   the lease stands.
 - **Penalty for knowing use** (MCL 554.634): a tenant may recover
   damages for a knowingly-included prohibited clause — verify the
@@ -153,8 +153,10 @@ clauses.
 MCL 554.139 implies into every residential lease a covenant that the
 premises and common areas are **fit for the use intended** (§(1)(a))
 and will be **kept in reasonable repair** in compliance with health
-and safety laws (§(1)(b)). The covenant **cannot be waived** except
-by a lease over 1 year in limited circumstances (§(2)) — verify.
+and safety laws (§(1)(b)). The parties may **modify** these
+obligations only where the lease or license has a current term of
+**at least 1 year** (§(2)); the section is **liberally construed**
+(§(3)).
 
 ### Habitability defense + rent escrow
 

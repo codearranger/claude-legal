@@ -240,10 +240,15 @@ Where a court order governs custody and **no parent has sole legal
 custody**, a parent may **not** change a child's **legal residence
 more than 100 miles** from the child's legal residence at the time
 of the order's commencement without the other parent's consent or
-**court permission** — **MCL 722.31**. The 100-mile cap does not
-apply to a move **out of state** (which has its own treatment), nor
-where the residences were already more than 100 miles apart or the
-move brings them **closer** together.
+**court permission** — **MCL 722.31**. The cap is measured in
+**miles, not by state lines** — it applies to an out-of-state move
+the same as to an in-state move, and is **not** triggered by a move
+of any distance under 100 miles even if it crosses into another
+state. The rule does not apply where a parent has **sole legal
+custody** (MCL 722.31(2)), where the child's two residences were
+already more than 100 miles apart at the time of the order
+(MCL 722.31(3)), or where the move brings the two residences
+**closer** together (MCL 722.31(3)).
 
 When deciding a contested change of domicile, the court considers
 the statutory factors at **MCL 722.31(4)** — the codification of

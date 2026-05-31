@@ -73,9 +73,10 @@ any other reason justifying relief.
 
 - **Setting aside a default / default judgment** is the most common use,
   especially in consumer debt-buyer cases with defective service. **MCR
-  2.603(D)** generally requires both **good cause** and an **affidavit
-  of meritorious defense** (a lack-of-jurisdiction / bad-service attack
-  does not need the meritorious-defense showing). Pair with the
+  2.603(D)** generally requires both **good cause** and a **verified
+  statement of facts showing a meritorious defense** (a lack-of-
+  jurisdiction / bad-service attack does not need the meritorious-defense
+  showing). Pair with the
   substantive defense — chain of title, SOL — see `mi-consumer-debt`.
 
 ## Collecting / resisting collection

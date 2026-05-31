@@ -203,22 +203,28 @@ product caused injury:
   "production," "manufacturer," "seller").
 - **MCL 600.2946** — the plaintiff must prove a defect and
   causation; the **state-of-the-art / practical-alternative-design**
-  framing for design-defect claims.
+  framing for design-defect claims. Subsection (4) carries the
+  **FDA / government-regulation compliance defense** — a rebuttable
+  presumption that the manufacturer or seller is not liable where the
+  aspect of the product that allegedly caused the harm complied with,
+  or was approved under, a federal or state agency's standards.
 - **MCL 600.2946a** — caps on non-economic damages in product cases
   (lower and higher tiers; inflation-adjusted — confirm in corpus),
   with an exception removing the cap where the defendant acted with
   the requisite culpability (e.g., gross negligence / intentional
   conduct under the statute).
-- **MCL 600.2947** — liability limits, including the
-  **non-manufacturer-seller** protection (a seller is not liable
-  unless it failed to exercise reasonable care, made an express
-  warranty, or is otherwise within a statutory exception).
-- **MCL 600.2948** — the **learned-intermediary** and adequate-
-  warning provisions.
-- **MCL 600.2949a** — the **FDA-compliance defense** (a rebuttable
-  presumption / bar where the product or its labeling complied with
-  applicable federal regulatory standards, subject to fraud-on-the-
-  agency-type exceptions).
+- **MCL 600.2947(6)** — liability limits, including the
+  **non-manufacturer-seller** protection (a seller other than a
+  manufacturer is not liable unless it failed to exercise reasonable
+  care, or made an express warranty that the product failed to conform
+  to, that was a proximate cause of the harm).
+- **MCL 600.2948** — adequate-warning / failure-to-warn provisions,
+  including the obvious-risk limitation.
+- **MCL 600.2949a** — the **knowledge-of-defect exception**: where the
+  defendant had actual knowledge the product was defective and that
+  the defect was substantially likely to cause the injury, and
+  willfully disregarded that knowledge, the MCL 600.2946(4) /
+  600.2946a / 600.2947 / 600.2948 protections do **not** apply.
 
 ## Medical malpractice — the pre-suit gates
 
@@ -354,10 +360,11 @@ districts, and other governmental agencies are governed by the
    (highway / motor-vehicle / public-building)? **Pre-suit notice**
    clock (e.g., 120 days under MCL 691.1404)? Gross-negligence /
    "the proximate cause" standard for individual employees?
-6. **Products case?** Defect + causation (MCL 600.2946); non-
-   manufacturer-seller protection (MCL 600.2947); FDA-compliance
-   defense (MCL 600.2949a); cap under MCL 600.2946a (current
-   figure)?
+6. **Products case?** Defect + causation (MCL 600.2946); FDA /
+   government-regulation compliance presumption (MCL 600.2946(4));
+   non-manufacturer-seller protection (MCL 600.2947(6));
+   knowledge-of-defect exception that defeats those defenses
+   (MCL 600.2949a); cap under MCL 600.2946a (current figure)?
 7. **Wrongful death?** Personal representative appointed? Underlying
    SOL + MCL 600.5852 saving statute? Loss-of-society damages
    (MCL 600.2922(6))? Probate approval of any settlement?
@@ -384,8 +391,9 @@ districts, and other governmental agencies are governed by the
       and serve any required **pre-suit notice** (e.g., MCL 691.1404)
       on its own clock.
 - [ ] For a **products** case, name the manufacturer and assess the
-      non-manufacturer-seller protection (MCL 600.2947) and the
-      FDA-compliance defense (MCL 600.2949a).
+      non-manufacturer-seller protection (MCL 600.2947(6)) and the
+      FDA / government-regulation compliance presumption
+      (MCL 600.2946(4)).
 - [ ] For **wrongful death**, confirm a personal representative is
       appointed and plead under MCL 600.2922 with loss-of-society
       damages.

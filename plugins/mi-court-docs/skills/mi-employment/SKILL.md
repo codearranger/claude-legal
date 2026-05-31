@@ -108,10 +108,14 @@ plaintiff-friendly state civil-rights act in the country.
   small-employer escape hatch.
 - **Protected classes** (MCL 37.2202): religion, race, color,
   national origin, age, sex, **height, weight** (Michigan-
-  distinctive — no federal analog), familial status, and
-  marital status — plus **sexual orientation and gender
-  identity**, added by 2023 PA 6 amending the definition of
-  "sex," consistent with *Rouch World*, 510 Mich. 398 (2022).
+  distinctive — no federal analog), and marital status — plus
+  **sexual orientation and gender identity or expression**, added
+  by 2023 PA 6 as separate enumerated categories (not merely by
+  redefining "sex"), codifying and extending *Rouch World, LLC v.
+  Dep't of Civil Rights*, 510 Mich. 398 (2022). (Familial status
+  is a protected class under MCL 37.2102's general declaration and
+  in housing, but is not enumerated in the MCL 37.2202 employer
+  list.)
 - **Tracks**: complaint to MDCR / Michigan Civil Rights
   Commission under MCL 37.2602 **or** a direct Circuit Court
   civil action — exhaustion is **not** required; SOL is the

@@ -202,8 +202,8 @@ MCR 2.508.
 ### Setting aside a default — MCR 2.603
 
 If a default has already entered, MCR 2.603(D) allows it to be set
-aside only on a showing of **good cause** *and* an **affidavit of
-facts showing a meritorious defense** (except for a defect in personal
+aside only on a showing of **good cause** *and* a **verified statement
+of facts showing a meritorious defense** (except for a defect in personal
 jurisdiction). The motion must be timely. This is a demanding standard
 — do not rely on it as a fallback for missing the answer window.
 Default-judgment vacatur is developed in `mi-post-judgment`.
@@ -236,7 +236,7 @@ Default-judgment vacatur is developed in `mi-post-judgment`.
   annotated, with the (C)(8) vs. (C)(10) record distinction
 - `references/affirmative-defense-catalog.md` — annotated, keyed to the
   MCR 2.111(F) waiver rule
-- `references/set-aside-default.md` — MCR 2.603 good cause + affidavit
-  of meritorious defense
+- `references/set-aside-default.md` — MCR 2.603 good cause + verified
+  statement of facts showing a meritorious defense
 - `references/service-defects.md` — MCR 2.105 / MCR 2.116(C)(1)-(3)
   analysis

@@ -81,13 +81,15 @@ corpus** — confirm there before relying on a date.
 | Columbus Day | 2nd Monday in October |
 | Veterans' Day | November 11 (fixed) |
 | Thanksgiving | 4th Thursday in November |
-| Day after Thanksgiving | Friday after the 4th Thursday in November |
 | Christmas | December 25 (fixed) |
 
 > **Michigan specific to flag.** MCL 435.101 **includes Lincoln's
-> Birthday (February 12)** and a **day-after-Thanksgiving** holiday —
-> both uncommon among the states and both count for the MCR 1.108
-> roll-forward. Sundays are treated as holidays for these purposes.
+> Birthday (February 12)** — uncommon among the states — which counts
+> for the MCR 1.108 roll-forward. (The day after Thanksgiving is a
+> court-closure day in practice, **not** an MCL 435.101 statutory
+> holiday — treat it as a court-closed day under MCR 1.108 only if the
+> court is in fact closed by order.) Sundays are treated as holidays
+> for these purposes.
 
 > **Substitution.** When a fixed-date holiday falls on a weekend,
 > confirm the observed day in the corpus / script rather than assuming
@@ -162,8 +164,8 @@ calendar (anniversary) date, not as a fixed day count.
 
 The body above is the reference; the arithmetic lives in
 `scripts/case-calendar.py`, which encodes the **MCL 435.101** holidays
-(including **Lincoln's Birthday** and the **day after Thanksgiving**)
-and the set for any year, applies the MCR 1.108 roll-forward off
+(including **Lincoln's Birthday**) and the set for any year, applies
+the MCR 1.108 roll-forward off
 Saturdays / Sundays / holidays and the MCR 2.107(C) mail add-on, and
 maps named rule keys to `(days, description, authority)`. Run:
 
