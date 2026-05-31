@@ -1,0 +1,32 @@
+{
+  "name": "az-court-docs",
+  "version": "0.1.0",
+  "dependencies": [
+    "claude-legal-federal-laws"
+  ],
+  "description": "Draft and format pleadings, declarations, motions, notices, and proposed orders for Arizona courts. Applies Ariz. R. Civ. P. 10 statewide formatting; includes Maricopa County Superior Court and Pima County Superior Court specifics plus a county-courts roll-up; supports pro se workflows. Architected as matter-neutral civil-procedure skills (Ariz. R. Civ. P. civil rules, Ariz. R. Evid. evidence rules, fees and costs, local rules, citation format per the Bluebook (Arizona)) plus subject-matter bundles. The first subject-matter bundle, az-consumer-debt, covers FDCPA / Reg F / state UTPA-equivalent / chain-of-title doctrine. All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/claude-legal",
+  "repository": "https://github.com/codearranger/claude-legal",
+  "license": "MIT",
+  "keywords": [
+    "arizona",
+    "legal",
+    "pleadings",
+    "pro-se",
+    "ariz. r. civ. p.",
+    "ariz. r. evid.",
+    "civil-rules",
+    "evidence-rules",
+    "discovery",
+    "hearings",
+    "post-judgment",
+    "fact-check",
+    "fdcpa",
+    "consumer-protection",
+    "debt-collection"
+  ]
+}
