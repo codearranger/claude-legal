@@ -300,11 +300,11 @@ jobs:
       # ---- MI ----
       # Michigan Compiled Laws come from legislature.mi.gov (ungated HTML; the
       # objectName per-section scheme), so the statutes puller mirrors verbatim.
-      # The Michigan Court Rules / Rules of Evidence are published on
-      # courts.michigan.gov, which is gated (the rule asset URLs 404 without the
-      # live index); the rules puller writes canonical-URL pointer stubs when the
-      # source is unreachable and the _file_is_stub guard preserves any committed
-      # verbatim content.
+      # The Michigan Court Rules / Rules of Evidence are gated on the canonical
+      # courts.michigan.gov (hash-rotated asset URLs), so the rules puller mirrors
+      # them verbatim from courtrules.net (walking chapter -> subchapter -> rule),
+      # falling back to canonical-URL pointer stubs only when that mirror is
+      # unreachable; the _file_is_stub guard preserves committed verbatim content.
       - name: MI — Michigan Compiled Laws (curated civil + family + consumer sections)
         if: matrix.target == 'mi'
         continue-on-error: true

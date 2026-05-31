@@ -370,7 +370,7 @@ Plugin-internal scripts ship adapted for Tennessee on day one: `format-check.py`
 
 Mirrors the structure of the other state plugins:
 
-- **`court-rules/`** — **MCR (Michigan Court Rules) + MRE (Michigan Rules of Evidence)**. Pulled by `scripts/pull_michigan_rules.py` from `courts.michigan.gov`. Because courts.michigan.gov gates the rule-asset URLs, the puller writes **pointer stubs** carrying the canonical URLs + per-chapter scope descriptions (mirrors the CO / NY "publish what we can verify + honest stubs for the rest" discipline). The `_file_is_stub` regression guard preserves any verbatim content already committed if the upstream later becomes reachable.
+- **`court-rules/`** — **MCR (Michigan Court Rules) ch. 1-4 + MRE (Michigan Rules of Evidence)**, mirrored **verbatim** (~1.4 MB / 362 rules: ch. 1 general, ch. 2 civil, ch. 3 special proceedings, ch. 4 specific-court rules, + the MRE). Pulled by `scripts/pull_michigan_rules.py`. The canonical publisher `courts.michigan.gov` gates its rule text behind hash-rotated `/siteassets/` asset URLs a stdlib client can't resolve, so the puller mirrors from **courtrules.net** — a structured free aggregator that publishes each rule at a stable URL with verbatim text in a `rule-text` div (the same "official-source-gated → use the structured free mirror" pattern the TN statutes puller uses for Justia). It walks the chapter → subchapter → rule tree for MCR and the flat rule index for MRE. Falls back to canonical-URL pointer stubs when the mirror is unreachable; the `_file_is_stub` regression guard preserves committed verbatim content.
 - **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`.
 - **`federal-bankruptcy/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-bankruptcy/`.
 - **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`.
@@ -380,7 +380,7 @@ Mirrors the structure of the other state plugins:
 MI pull scripts:
 
 - **`scripts/pull_michigan_statutes.py`** — fetches MCL sections from `legislature.mi.gov` using the `objectName=mcl-600-5701` per-section scheme, one file per topic, emitting verbatim Markdown. Atomic tmp-rename writes and retry/backoff like the other pullers. Wired into the quarterly `refresh-references` workflow under `target=mi`.
-- **`scripts/pull_michigan_rules.py`** — fetches the MCR / MRE rule sets from `courts.michigan.gov`. Because the host gates the rule-asset URLs, the script writes pointer stubs carrying the canonical URLs + chapter scope when the upstream is unreachable, with a `_file_is_stub` regression guard that keeps any committed verbatim content in place. Wired into the quarterly `refresh-references` workflow under `target=mi`.
+- **`scripts/pull_michigan_rules.py`** — mirrors the MCR (ch. 1-4) + MRE rule sets **verbatim** from `courtrules.net` (the canonical `courts.michigan.gov` rules library is bot-gated with hash-rotated asset URLs). Walks the chapter → subchapter → rule tree for MCR and the flat rule index for MRE, extracting each rule's `rule-text` div. Falls back to canonical-URL pointer stubs when the mirror is unreachable, with a `_file_is_stub` regression guard that keeps committed verbatim content in place. Wired into the quarterly `refresh-references` workflow under `target=mi`.
 
 Plugin-internal scripts ship adapted for Michigan on day one: `format-check.py` checks the marketplace common-practice defaults against the MCR 1.109 / 2.113 caption + signature requirements, and `case-calendar.py` does MCR 1.108 deadline arithmetic with the MCL 435.101 holidays — including **Lincoln's Birthday** and the **day after Thanksgiving** — and a named-rule catalog.
 
@@ -609,7 +609,7 @@ plugins/tn-court-docs/              # 31 skills (statewide-format + 4 flagship c
 plugins/mi-court-docs/              # 29 skills (statewide-format + 2 flagship Circuit Court venues — Wayne/Oakland — + 36th District Court + Circuit-courts roll-up + District-courts roll-up + Family Division + 14 standard procedural + 6 subject bundles: consumer-debt + family-law + landlord-tenant + personal-injury + employment + commercial-disputes); declares dependencies: [claude-legal-federal-laws]
   .claude-plugin/plugin.json
   skills/<skill>/SKILL.md           # 29 SKILL.md files with substantive Michigan content
-  skills/mi-law-references/references/{court-rules,mi-statutes-debt}/  # rules = MCR/MRE pointer stubs (courts.michigan.gov gates the asset URLs); statutes = verbatim MCL (13 topic files / ~70 sections / ~211 KB); plus curated civil-rules.md, evidence-rules.md, fees-and-costs.md, citation-format.md, key-cases.md, online-sources.md, legal-data-apis.md
+  skills/mi-law-references/references/{court-rules,mi-statutes-debt}/  # rules = verbatim MCR ch.1-4 + MRE (362 rules / ~1.4 MB via courtrules.net mirror; courts.michigan.gov gates its asset URLs); statutes = verbatim MCL (13 topic files / ~70 sections / ~211 KB); plus curated civil-rules.md, evidence-rules.md, fees-and-costs.md, citation-format.md, key-cases.md, online-sources.md, legal-data-apis.md
   skills/mi-law-references/references/{federal-debt-laws,federal-bankruptcy,ucc-model}  # symlinks into the shared plugin
   scripts/format-check.py           # MCR 1.109 / 2.113 compliance
   scripts/case-calendar.py          # MCR 1.108 deadline arithmetic with MCL 435.101 holidays (incl. Lincoln's Birthday + day-after-Thanksgiving)
@@ -635,6 +635,6 @@ scripts/
   pull_ohio_statutes.py             # codes.ohio.gov HTML → oh-statutes-debt/
   pull_tn_court_rules.py            # tncourts.gov per-rule HTML sub-pages → tn court-rules/
   pull_tn_statutes.py               # law.justia.com/codes/tennessee/ (IP-blocked from many egress) → tn-statutes-debt/ (stubs on 403)
-  pull_michigan_rules.py            # courts.michigan.gov (asset URLs gated) → mi court-rules/ (MCR/MRE pointer stubs)
+  pull_michigan_rules.py            # courtrules.net mirror → mi court-rules/ (verbatim MCR ch.1-4 + MRE; courts.michigan.gov gates its asset URLs)
   pull_michigan_statutes.py         # legislature.mi.gov (objectName=mcl-600-5701 per-section scheme) → mi-statutes-debt/ (verbatim MCL)
 ```

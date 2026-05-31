@@ -62,7 +62,7 @@ Each state plugin declares `claude-legal-federal-laws` as a `dependencies:` entr
 | `ny-court-docs` | 36 NY consolidated-laws targets / ~2.9 MB verbatim via NYSENATE API (CPLR 15 articles + GOB + GBS + RPAPL + RPL + UCC + DRL + FCT + EPT + GCN + BNK) | 20 rule sets via `pull_ny_court_rules.py`: 15 Parts of 22 NYCRR pulled verbatim / ~1.2 MB (Parts 100 / 104 / 125 / 130 / 202 incl. § 202.70 Comm Div / 205 / 206 / 207 / 208 incl. § 208.42 Housing / 210 / 212 / 214 / 216 / 220 / 221) + 5 pointer stubs (Part 1200 Rules of Prof Conduct, Tanbook, NYC Civil Court directives, Nassau / Suffolk DC local rules) | shared |
 | `oh-court-docs` | 20 R.C. chapters / 1,335 sections / ~2.7 MB verbatim from `codes.ohio.gov` (R.C. Chapter 1 holidays + 1302/1303/1309 UCC + 1345 CSPA + 2151/2305/2329/2333 civil enforcement + 3105/3109/3113/3115/3119/3127 family + 5321/1923 L&T + 1901/1907/1925 court-specific) | 14 rule sets via `pull_ohio_court_rules.py`: Civ. R. + Evid. R. + App. R. + Crim. R. + Juv. R. + Traffic R. + Sup. R. + Sup. Ct. Prac. R. + Prof. Cond. R. + Code of Jud. Cond. + Gov. Bar R. + Gov. Jud. R. + Rep. R. + Court of Claims local rules / ~4.8 MB | shared |
 | `tn-court-docs` | 25 Tenn. Code Ann. chapters via `pull_tn_statutes.py`; well-formed pointer stubs when Justia 403s the runner | 4 statewide rule sets / ~2.7 MB / 473 rule sub-pages verbatim via `pull_tn_court_rules.py` from tncourts.gov; county local rules as a pointer stub | shared |
-| `mi-court-docs` | verbatim MCL — 13 topic files / ~70 sections / ~211 KB via `pull_michigan_statutes.py` from legislature.mi.gov (objectName=mcl-600-5701 per-section scheme) | MCR / MRE pointer stubs via `pull_michigan_rules.py` (courts.michigan.gov gates the rule-asset URLs) + curated civil-rules / evidence-rules / fees / citation / key-cases / online-sources | shared |
+| `mi-court-docs` | verbatim MCL — 13 topic files / ~70 sections / ~211 KB via `pull_michigan_statutes.py` from legislature.mi.gov (objectName=mcl-600-5701 per-section scheme) | verbatim MCR (ch. 1-4) + MRE — 362 rules / ~1.4 MB via `pull_michigan_rules.py` (courtrules.net mirror; courts.michigan.gov gates its rule-asset URLs) + curated civil-rules / evidence-rules / fees / citation / key-cases / online-sources | shared |
 | `claude-legal-federal-laws` | n/a | n/a | **20 federal-debt-laws + 4 UCC + 8 Bankruptcy** |
 
 ## Repo layout
@@ -110,7 +110,7 @@ claude-legal/
     ├── pull_ohio_statutes.py         # codes.ohio.gov HTML → R.C. chapters
     ├── pull_tn_court_rules.py        # tncourts.gov per-rule HTML sub-pages → TN court rules
     ├── pull_tn_statutes.py           # law.justia.com/codes/tennessee/ → TN Code chapters (stubs on 403)
-    ├── pull_michigan_rules.py        # courts.michigan.gov (asset URLs gated) → MI MCR/MRE pointer stubs
+    ├── pull_michigan_rules.py        # courtrules.net mirror → MI MCR (ch. 1-4) + MRE verbatim (courts.michigan.gov gates its asset URLs)
     ├── pull_michigan_statutes.py     # legislature.mi.gov (objectName per-section scheme) → verbatim MCL
     ├── pull_federal_debt_laws.py     # USC titles 11/12/15/42/50 + CFR titles 12/16 → shared federal corpus
     └── pull_ucc.py                   # law.cornell.edu/ucc → shared model UCC
