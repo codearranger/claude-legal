@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "last_pulled": "2026-05-30",
+  "mode": "stubs",
+  "source": "https://www.courts.michigan.gov/administration/rules-and-instructions/court-rules-and-court-administration/",
+  "mirror": "https://www.michigancourtrules.org/",
+  "notes": "Pulled by scripts/pull_michigan_rules.py. The Michigan Supreme Court publishes the Michigan Court Rules (MCR) and Michigan Rules of Evidence (MRE) through the One Court of Justice rules library at courts.michigan.gov. The rules assets are served from hash-prefixed /siteassets/... paths that rotate as the rules book is republished, and the community mirror at michigancourtrules.org has been observed returning HTTP 522 (origin down). When no candidate URL is reachable the puller writes well-formed pointer stubs carrying the canonical URLs + a per-chapter scope description (mirroring the pull_co_court_rules.py / pull_ny_court_rules.py discipline). Populate the per-target `candidates` list with a current deep-link from the rules library and re-run with --only to fill in verbatim text; a _file_is_stub regression guard prevents clobbering committed verbatim content."
+}

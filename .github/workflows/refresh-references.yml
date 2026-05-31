@@ -24,6 +24,7 @@ on:
           - ny
           - oh
           - tn
+          - mi
 
 permissions:
   contents: write
@@ -50,7 +51,7 @@ jobs:
           TARGET: ${{ github.event.inputs.target }}
         run: |
           case "${TARGET:-all}" in
-            all)     targets='["federal","wa","or","ca","co","in","ny","oh","tn"]' ;;
+            all)     targets='["federal","wa","or","ca","co","in","ny","oh","tn","mi"]' ;;
             federal) targets='["federal"]' ;;
             wa)      targets='["wa"]' ;;
             or)      targets='["or"]' ;;
@@ -60,6 +61,7 @@ jobs:
             ny)      targets='["ny"]' ;;
             oh)      targets='["oh"]' ;;
             tn)      targets='["tn"]' ;;
+            mi)      targets='["mi"]' ;;
             *)       echo "unexpected target: $TARGET" >&2; exit 1 ;;
           esac
           echo "targets=$targets" >> "$GITHUB_OUTPUT"
@@ -294,6 +296,26 @@ jobs:
         run: |
           pip3 install --break-system-packages curl_cffi
           python3 scripts/pull_tn_statutes.py --workers 4
+
+      # ---- MI ----
+      # Michigan Compiled Laws come from legislature.mi.gov (ungated HTML; the
+      # objectName per-section scheme), so the statutes puller mirrors verbatim.
+      # The Michigan Court Rules / Rules of Evidence are published on
+      # courts.michigan.gov, which is gated (the rule asset URLs 404 without the
+      # live index); the rules puller writes canonical-URL pointer stubs when the
+      # source is unreachable and the _file_is_stub guard preserves any committed
+      # verbatim content.
+      - name: MI — Michigan Compiled Laws (curated civil + family + consumer sections)
+        if: matrix.target == 'mi'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_michigan_statutes.py
+
+      - name: MI — Michigan Court Rules + Rules of Evidence (verbatim where reachable, else stubs)
+        if: matrix.target == 'mi'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_michigan_rules.py
 
       # ---- Finalize ----
 
