@@ -6,10 +6,11 @@ description: >
   second-largest court. Triggers include "Pima County Superior
   Court", "file in Pima County", "sued in Pima County", "Tucson
   superior court", "Pima County courthouse", "Pima local rules",
-  "Pima compulsory arbitration", "Pima County case number", and
-  "Pima County scheduling order". Covers the court's general
-  civil jurisdiction, the Pima County Superior Court local rules,
-  the local-rule compulsory-arbitration jurisdictional limit,
+  "Pima compulsory arbitration", "Pima FASTAR", "Pima County case
+  number", and "Pima County scheduling order". Covers the court's
+  general civil jurisdiction, the Pima County Superior Court local
+  rules, the FASTAR program that Pima uses in place of ordinary
+  compulsory arbitration for lower-value civil cases,
   case-management / scheduling-order practice, AZTurboCourt
   e-filing, and case-type / case-number conventions. Layer on top
   of `az-statewide-format`.
@@ -56,31 +57,39 @@ trial court after Maricopa.
 - Equity, special actions, and appeals from the limited-
   jurisdiction courts also lie in Superior Court.
 
-## Compulsory arbitration (local-rule limit)
+## Lower-value civil routing — FASTAR (not compulsory arbitration)
 
-- Arizona's compulsory-arbitration program runs under **A.R.S.
-  § 12-133** and **Ariz. R. Civ. P. 72–77**, with each county's
-  Superior Court setting the **jurisdictional dollar limit by
-  local rule**. Pima County sets its own threshold by local rule.
-- A civil case at or below the Pima limit is **assigned to
-  compulsory arbitration** and proceeds through an arbitrator
-  before any trial; an appeal from the award is a **trial de novo**
-  in Superior Court. Pleading the amount in controversy (or a
-  certificate as to compulsory arbitration) drives this routing.
-- **Do not hard-code the dollar figure** — it is set by Pima local
-  rule and revised periodically. Read the current limit from the
-  Pima County Superior Court local rules in `az-law-references`,
-  and confirm with the clerk. For the substantive
-  arbitration/ADR framework see `az-commercial-disputes` and
-  `az-hearings`.
+- Statewide, **A.R.S. § 12-133** and **Ariz. R. Civ. P. 72–77**
+  authorize a county Superior Court to require **compulsory
+  arbitration** of civil money cases at or below a
+  **jurisdictional dollar limit set by local rule**. But Ariz. R.
+  Civ. P. 72(a)(2) lets a county instead establish a **Fast Trial
+  and Alternative Resolution ("FASTAR") program**, in which case
+  the FASTAR Rules apply *instead of* Rules 72–77 within the
+  FASTAR limits.
+- **Pima County uses FASTAR, not the ordinary compulsory-
+  arbitration track.** Lower-value civil cases are routed into
+  FASTAR — under which a party elects either a short "fast trial"
+  or an arbitration-style alternative-resolution proceeding —
+  rather than the Rules 72–77 compulsory-arbitration process used
+  in counties like Maricopa.
+- **Do not hard-code the dollar figures or the election
+  mechanics** — the FASTAR threshold and the residual
+  compulsory-arbitration amount are set by Pima local rule and
+  revised periodically. Read the current Pima County Superior
+  Court local rules in `az-law-references`, and confirm with the
+  clerk which track applies to your case and what the controlling
+  thresholds are. For the substantive arbitration/ADR framework
+  see `az-commercial-disputes` and `az-hearings`.
 
 ## Pima County Superior Court local rules
 
 - Beyond the statewide Arizona Rules of Civil Procedure, Pima
   County Superior Court operates under its **own local rules**
   (adopted under the supervision of the Arizona Supreme Court),
-  which govern case assignment, motion practice, the compulsory-
-  arbitration threshold, scheduling, and local filing conventions.
+  which govern case assignment, motion practice, the FASTAR /
+  compulsory-arbitration thresholds, scheduling, and local filing
+  conventions.
 - Read the current Pima local rules from the corpus in
   `az-law-references` before relying on any page limit, conferral
   requirement, or motion-call procedure. Where the corpus is a
@@ -116,8 +125,9 @@ trial court after Maricopa.
 page-limited brief, or calendaring a deadline, read the current
 Pima County Superior Court local rules in `az-law-references`, the
 scheduling order entered in the case, and the assigned judge's
-practices. Confirm the compulsory-arbitration limit, motion-call
-procedure, and any chambers-copy requirement with the clerk.
+practices. Confirm the FASTAR / compulsory-arbitration thresholds,
+motion-call procedure, and any chambers-copy requirement with the
+clerk.
 
 ## E-filing — AZTurboCourt
 

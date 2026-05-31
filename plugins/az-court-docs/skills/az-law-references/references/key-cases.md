@@ -43,11 +43,12 @@ statutory (A.R.S. §§ 25-211, 25-213, 25-215, 25-318 — see
   stating the burden of proof before relying — verify citation.)*
 
 - ***Toth v. Toth***, 190 Ariz. 218, 946 P.2d 900 (1997) *(citation
-  reported by secondary sources — verify before relying)*. Addresses the
-  treatment of separate funds used to acquire property taken in joint
-  tenancy and the **equitable division** of such interests on dissolution
-  (the "gift" presumption and its limits). Confirm the precise holding and
-  citation against the published opinion.
+  verified)*. Holds that joint-tenancy property and community property are
+  treated alike under the **equitable-division** statute, A.R.S.
+  § 25-318(A), and that an equitable division **need not be equal** where
+  the equities (here, separate funds used to buy the home and an
+  extremely short marriage) warrant a disproportionate award. Confirm the
+  precise holding against the published opinion before relying.
 
 - **Post-petition earnings / business profits.** Income attributable to a
   spouse's personal labor after service of the dissolution petition is

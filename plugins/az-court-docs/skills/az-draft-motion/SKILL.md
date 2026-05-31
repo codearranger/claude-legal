@@ -45,11 +45,13 @@ briefed. Confirm the current subdivision text in
   supporting memorandum** (memorandum of points and authorities)
   unless the motion type is exempt. The motion and its memorandum
   are typically presented as a single combined document.
-- **Rule 7.1(c)** — a party may include a **request for oral
-  argument** at the foot of the motion or response (commonly
-  "Oral argument requested"). The court may rule on the motion
-  with or without oral argument; verify the current text and any
-  local-rule or division practice on oral-argument requests.
+- **Rule 7.1(d)** — oral argument. A party may include a
+  **request for oral argument** at the foot of the motion or
+  response (commonly "Oral argument requested"), but under Rule
+  7.1(d) the court — subject to Rule 56(c)(1) — may decide the
+  motion **without** oral argument even if argument is requested.
+  Verify the current text and any local-rule or division practice
+  on oral-argument requests.
 - **Response and reply sequence** — Rule 7.1 sets the time to file
   a **response** and a **reply**, and the standard notice periods.
   Confirm the current day counts and compute the dates with
@@ -110,7 +112,7 @@ For the foregoing reasons, [Movant] respectfully requests that the
 Court [grant the relief sought] and sign the accompanying proposed
 form of Order.
 
-Oral argument requested. [Rule 7.1(c) — include if desired.]
+Oral argument requested. [Rule 7.1(d) — include if desired.]
 
                                      [Signature block —
                                       see az-statewide-format]
@@ -178,7 +180,7 @@ framework** (see `az-pro-se`):
 - [ ] Caption matches the assigned court and county
 - [ ] Title in ALL CAPS centered below the caption
 - [ ] Grounds and relief stated; supporting memorandum included (Rule 7.1(a))
-- [ ] Oral-argument request included if desired (Rule 7.1(c))
+- [ ] Oral-argument request included if desired (Rule 7.1(d))
 - [ ] Issues of fact supported by declaration/affidavit/evidence
 - [ ] For Rule 56: no-genuine-dispute showing; supporting evidence and any required statement of facts attached
 - [ ] All cited rules and authorities correct (run `az-fact-check`)

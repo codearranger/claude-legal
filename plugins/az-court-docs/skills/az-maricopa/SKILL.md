@@ -44,9 +44,9 @@ operations:
   judicial officers sit here.
 - **Old Courthouse** — the historic downtown building used for
   certain calendars and ceremonial proceedings.
-- **Northeast Regional Court Center** and **Southeast Regional
-  Court Center** — regional facilities (Mesa / east-valley area)
-  that hear civil and family matters.
+- **Northeast Regional Court Center** (northeast Phoenix area) and
+  **Southeast Regional Court Center** (Mesa / east-valley area) —
+  regional facilities that hear civil and family matters.
 - **Northwest Regional Court Center** — Surprise (west-valley
   area).
 
@@ -91,10 +91,11 @@ civil money case at or below the **local jurisdictional limit**
 judgment) is routed to a court-appointed arbitrator rather than
 tried to the assigned judge in the first instance.
 
-- The complaint is generally accompanied by a **Certificate of
-  Compulsory Arbitration** stating whether the controversy is at
-  or below the arbitration limit. A case seeking an award above
-  the limit is certified **not** subject to arbitration.
+- The complaint is generally accompanied by the **Certificate on
+  Compulsory Arbitration** required by Ariz. R. Civ. P. 72(e),
+  stating whether the controversy is at or below the arbitration
+  limit. A case seeking an award above the limit is certified
+  **not** subject to arbitration.
 - A party dissatisfied with the arbitrator's award may **appeal
   for a trial de novo** before the assigned judge within the
   time set by rule.

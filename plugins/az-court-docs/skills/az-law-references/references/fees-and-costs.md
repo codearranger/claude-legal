@@ -45,12 +45,12 @@ counts as "arising out of contract."
 ## Offer of judgment — Ariz. R. Civ. P. 68
 
 **Rule 68** allows a party to serve a formal **offer of judgment**. If the
-offeree rejects it and **fails to obtain a more favorable judgment**,
-the offeree may owe sanctions — typically the offeror's reasonable expert
-fees and **double the taxable costs** incurred after the offer (confirm
-the current sanction formula and timing). The **ARFLP have a separate
-offer-of-judgment analog** for family cases — confirm the family-rule
-number and terms.
+offeree rejects the offer and **does not obtain a more favorable
+judgment**, the offeree must pay as a sanction — under Rule 68(g)(1) —
+**twenty percent of the difference between the amount of the offer and the
+amount of the final judgment** (confirm the current sanction formula and
+timing). Confirm whether a family-case offer-of-judgment analog applies
+in a Title 25 matter before relying on one.
 
 ## Fee deferral and waiver — A.R.S. § 12-302
 
@@ -89,6 +89,5 @@ Confirm the current standard and the procedure before invoking.
 ## Cross-references
 
 - Rule 68 mechanics and the civil rules generally: `civil-rules.md`.
-- Family-case fee provisions and the ARFLP offer-of-judgment analog:
-  `family-rules.md`.
+- Family-case fee provisions (Title 25 / ARFLP): `family-rules.md`.
 - Verbatim statutory text and current dollar amounts: `az-statutes-debt/`.

@@ -42,11 +42,12 @@ page limits):
   (generally **10 days** after service of the motion under Rule 7.1(a)(3);
   add time for service by mail under **Rule 6(c)**), and the movant may
   file a **reply**. Compute every date with `az-deadlines`.
-- **Request for oral argument** — **Rule 7.1(c)**: a party may **request
-  oral argument**, typically by including the request in the caption or
-  in the motion/response. The request is a request, not a guarantee.
-- **Court may decide on the briefs** — under **Rule 7.1(c)** the court
-  **may decide the motion without oral argument**. Do not assume you will
+- **Request for oral argument** — a party may **request oral argument**,
+  typically by including the request in the caption or in the
+  motion/response. The request is a request, not a guarantee.
+- **Court may decide on the briefs** — under **Rule 7.1(d)** the court
+  **may decide motions without oral argument, even if oral argument is
+  requested** (subject to Rule 56(c)(1)). Do not assume you will
   be heard live; many civil motions are submitted on the briefs. Check the
   assigned judge's procedures and watch the docket for either a hearing
   notice or a ruling under advisement.
@@ -54,7 +55,8 @@ page limits):
   grounds exist; confirm whether the matter is set on shortened time.
 
 > Agent behavior: do **not** state that oral argument will occur. Frame it
-> as requested under Rule 7.1(c) and contingent on the court setting it.
+> as requested and contingent on the court setting it; under Rule 7.1(d)
+> the court may decide on the briefs even if oral argument is requested.
 
 ## Remote and telephonic appearances
 

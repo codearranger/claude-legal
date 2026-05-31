@@ -12,7 +12,7 @@ description: >
   entry line, and the judge-signature line at the foot. Covers the
   Rule 58 lodging-and-objection path by which a party lodges a proposed
   form of judgment and the court signs, the Rule 54(b) certification of
-  finality on fewer than all claims/parties, the Rule 54(c) limit on
+  finality on fewer than all claims/parties, the Rule 54(d) limit on
   default-judgment relief, and the rule that only a judge signs.
   Composes with `az-statewide-format` for the caption and `az-submit-order`
   for the transmittal workflow.
@@ -79,11 +79,13 @@ judgment, not a re-argument of the merits.
   reason for delay** and directs entry of judgment. If finality is
   intended, include the Rule 54(b) certification language in the decretal
   block; if the form is interlocutory, do **not** include it.
-- **Rule 54(c) — default-judgment relief limit.** A default judgment
-  **must not differ in kind from, or exceed in amount,** what was
-  demanded in the pleadings. When drafting a default judgment, confirm
-  the relief in the proposed form does not exceed the complaint's prayer
-  (in both the type and the amount of relief).
+- **Rule 54(d) — default-judgment relief limit.** A default judgment
+  **must not differ in kind from, or exceed in amount,** what is
+  demanded in the pleadings. (Rule 54(c) is a distinct provision — the
+  recital that a judgment is final as to all claims and parties.) When
+  drafting a default judgment, confirm the relief in the proposed form
+  does not exceed the complaint's prayer (in both the type and the
+  amount of relief).
 
 ## Standard proposed-form structure
 
@@ -145,7 +147,7 @@ use to compute Rule 59 and appeal deadlines.
 ## Default judgment form
 
 For a default judgment, the proposed form should recite the predicate
-findings and respect the Rule 54(c) limit:
+findings and respect the Rule 54(d) limit:
 
 ```
 This matter having come before the Court on Plaintiff's application for
@@ -161,7 +163,7 @@ and against Defendant in the amount of $______, consisting of:
 
 Confirm the default was properly entered, that any required notice of the
 application was served, and that the relief **does not exceed the
-complaint's demand** (Rule 54(c)) before lodging the proposed judgment.
+complaint's demand** (Rule 54(d)) before lodging the proposed judgment.
 
 ## Composition
 

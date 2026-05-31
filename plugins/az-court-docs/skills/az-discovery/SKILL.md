@@ -97,10 +97,12 @@ Arizona allows written interrogatories to parties under **Ariz. R. Civ.
 P. 33**, which distinguishes **uniform interrogatories** (the
 court-approved standard sets) from **non-uniform interrogatories**.
 
-- There is a **presumptive numeric limit** on interrogatories (commonly
-  cited as **40**, counting discrete subparts) that interacts with the
-  **Rule 26.2 tier** — **confirm the current count and how subparts are
-  counted in the corpus** before serving a large set.
+- The **number of interrogatories is set by the Rule 26.2 tier**, not by
+  a flat statewide cap: Rule 33(a)(2) provides that interrogatories are
+  "subject to the numeric limits in Rule 26.2(f)." Each subpart counts as
+  one interrogatory, except that a uniform interrogatory and its subparts
+  count as one. **Confirm the current per-tier count and the
+  subpart-counting rule in the corpus** before serving a large set.
 - Answers are served separately and fully, in writing under oath, with
   each objection stated specifically. Business records may be produced
   in lieu of a narrative answer on the rule's conditions (Rule 33(d)).

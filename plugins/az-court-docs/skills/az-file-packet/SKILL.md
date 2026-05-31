@@ -102,8 +102,11 @@ mechanism where the data must reach the court but be kept out of the
 public file.
 
 > Verify the exact rule and procedure against `az-law-references` —
-> confirm the operative subrule (e.g., **Ariz. R. Civ. P. 5.4** on
-> personal and sensitive information / restricted access), the
+> the sensitive-data duty is **Ariz. R. Civ. P. 5.1(e)** (refrain
+> from including Social Security and financial-account numbers; only
+> the last 4 digits may be used; the redaction responsibility rests
+> solely with the filer), and **Ariz. R. Civ. P. 5.4** separately
+> governs sealing a document / restricting public access. Confirm the
 > precise list of protected identifiers, the partial-redaction
 > format, and whether a sensitive-data cover sheet is required. The
 > filing court may have additional local requirements.
@@ -205,7 +208,8 @@ each party.
 ## References
 
 - `az-law-references` for Ariz. R. Civ. P. 4, 4.1, 4.2, 5, 6, and 7.1
-  text and the sensitive-data redaction subrule (verify Rule 5.4)
+  text, the sensitive-data redaction duty under Rule 5.1(e), and the
+  separate sealing/restricted-access rule at Rule 5.4
 - The AZTurboCourt portal and the filing court's clerk for the
   current e-filing status, document types, and fee schedule
 - Confirm whether e-filing is mandatory in the venue before assuming

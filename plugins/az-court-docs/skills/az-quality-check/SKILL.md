@@ -14,7 +14,7 @@ description: >
   line numbering + footer + "Page X of Y" per the marketplace
   conventions, Rule 5 certificate of service; (2) content pass —
   citations resolve (hand to az-fact-check), affirmative defenses
-  pleaded under Rule 8(c), the correct rule set for the forum (ARCP
+  pleaded under Rule 8(d), the correct rule set for the forum (ARCP
   vs. ARFLP vs. JCRCP), and required attachments including a proposed
   form of order for motions. Lighter touch than az-fact-check, which
   goes deep on evidentiary citations and sworn-versus-argued alignment.
@@ -143,8 +143,8 @@ governs.
 ### For an answer:
 
 - [ ] **Each allegation of the complaint addressed** (admit / deny /
-      lack of knowledge — no skipping) under Rule 8(b)
-- [ ] **Affirmative defenses pleaded** under **Rule 8(c)** (statute of
+      lack of knowledge — no skipping) under Rule 8(c)
+- [ ] **Affirmative defenses pleaded** under **Rule 8(d)** (statute of
       limitations, payment, lack of standing, etc.) — defenses not
       pleaded may be waived
 - [ ] **Compulsory counterclaims** stated (Rule 13(a))
@@ -178,7 +178,7 @@ of service):
 | Signature block has State Bar of Arizona bar number (attorney) or "Self-Represented" designation (Rule 11) | ☐ |
 | Certificate of Service shows manner, date, recipients (Rule 5) | ☐ |
 | Footer carries document title + "Page X of Y" | ☐ |
-| Affirmative defenses pleaded (Rule 8(c)) | ☐ |
+| Affirmative defenses pleaded (Rule 8(d)) | ☐ |
 | Proposed form of order lodged with the motion | ☐ |
 | Response / hearing timing confirmed via `az-deadlines` | ☐ |
 | Local-rule page limit / chambers-copy practice confirmed for the venue | ☐ |
@@ -191,7 +191,7 @@ of service):
    JCRCP first.
 2. **Missing State Bar of Arizona bar number or pro se designation**
    in the Rule 11 signature block.
-3. **Affirmative defenses not pleaded** — Rule 8(c) requires defenses
+3. **Affirmative defenses not pleaded** — Rule 8(d) requires defenses
    be set forth; omitted defenses can be waived.
 4. **No proposed form of order lodged** with a motion.
 5. **Caption missing the case number or assigned division** required by

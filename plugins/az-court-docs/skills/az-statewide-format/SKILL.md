@@ -42,8 +42,16 @@ and filing, including electronic filing).
 ## Governing rules
 
 - **Ariz. R. Civ. P. 10(a)** — the caption: every pleading must
-  name the court, the parties, the case number, and the title of
-  the document.
+  have a caption **in the form prescribed by Ariz. R. Civ. P.
+  5.2(a)** and carry the pleading's designation; the complaint's
+  title must name all parties, and other documents may use
+  "*et al.*" after the first party on each side.
+- **Ariz. R. Civ. P. 5.2(a)** — the actual caption **form**: the
+  upper-left block with the filer's name, address, phone, email,
+  and (for an attorney) the **State Bar of Arizona attorney
+  identification number** and party represented; the centered court
+  title; the action title; the case number; the document
+  description; and the assigned judge.
 - **Ariz. R. Civ. P. 10(b)** — allegations are stated in
   **numbered paragraphs**, each limited as far as practicable to a
   single set of circumstances; claims founded on separate
@@ -156,12 +164,17 @@ page:
 The footer runs continuously from page 1 through the last exhibit
 page — do not restart or suppress pagination anywhere.
 
-## Caption structure (Ariz. R. Civ. P. 10(a))
+## Caption structure (Ariz. R. Civ. P. 10(a) / 5.2(a))
 
-Under Ariz. R. Civ. P. 10(a) the first page of every pleading must
-carry a caption naming the **court**, the **parties**, the **case
-number**, and the **title** of the document. The Arizona caption
-stacks these elements:
+Ariz. R. Civ. P. 10(a) requires the caption to be **in the form
+prescribed by Ariz. R. Civ. P. 5.2(a)**. That form calls for the
+**court** title, the **party** (action) title, the **case
+number**, a **description** of the document, the assigned **judge**
+(if known), and an upper-left filer-identification block (name,
+address, phone, email, and — for an attorney — the State Bar of
+Arizona attorney identification number). Confirm the exact
+placement and line positions against Rule 5.2(a) in the corpus. The
+Arizona caption stacks these elements:
 
 ```
         IN THE SUPERIOR COURT OF THE STATE OF ARIZONA

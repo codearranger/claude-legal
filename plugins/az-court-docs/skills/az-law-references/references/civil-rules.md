@@ -72,19 +72,22 @@ limits in `court-rules/`):
 Tier assignment can be **adjusted by stipulation or court order** for
 proportionality — the amount in controversy is the default sorter, not a
 hard cap on what the case actually needs. A party generally must
-**certify the tier** in an early filing. **The tier's discovery caps
-control over the general per-device limits** in Rules 30/33/34/36; when
-the numbers differ, the tier limit governs — confirm.
+**certify the tier** in an early filing. **The Rule 26.2(f) tier caps are
+the operative numeric limits** for the discovery devices — Rules
+30/33/34/36 cross-reference Rule 26.2(f) rather than setting their own
+independent ceilings. Discovery beyond a tier limit requires a
+stipulation or court order under Rule 26.2(g) — confirm.
 
 ### Discovery devices
 
 - **Rule 30** — depositions upon oral examination (deposition hours are
   capped by the Rule 26.2 tier).
 - **Rule 31** — depositions upon written questions.
-- **Rule 33** — **interrogatories.** General ceiling of **40
-  interrogatories** (including discrete subparts) absent stipulation or
-  court order — but the **Rule 26.2 tier limit is the operative cap** in a
-  tiered case; confirm which controls.
+- **Rule 33** — **interrogatories.** Rule 33(a)(2) sets **no independent
+  numeric ceiling**; the number a party may serve is governed by the
+  **Rule 26.2(f) tier limits** (with each subpart counting as one
+  interrogatory, except a uniform interrogatory and its subparts count as
+  one). Use the **operative tier cap** — confirm the current figure.
 - **Rule 34** — requests for production of documents and things; entry on
   land.
 - **Rule 35** — physical and mental examinations.
