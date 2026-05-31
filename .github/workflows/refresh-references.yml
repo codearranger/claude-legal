@@ -25,6 +25,7 @@ on:
           - oh
           - tn
           - mi
+          - az
 
 permissions:
   contents: write
@@ -51,7 +52,7 @@ jobs:
           TARGET: ${{ github.event.inputs.target }}
         run: |
           case "${TARGET:-all}" in
-            all)     targets='["federal","wa","or","ca","co","in","ny","oh","tn","mi"]' ;;
+            all)     targets='["federal","wa","or","ca","co","in","ny","oh","tn","mi","az"]' ;;
             federal) targets='["federal"]' ;;
             wa)      targets='["wa"]' ;;
             or)      targets='["or"]' ;;
@@ -62,6 +63,7 @@ jobs:
             oh)      targets='["oh"]' ;;
             tn)      targets='["tn"]' ;;
             mi)      targets='["mi"]' ;;
+            az)      targets='["az"]' ;;
             *)       echo "unexpected target: $TARGET" >&2; exit 1 ;;
           esac
           echo "targets=$targets" >> "$GITHUB_OUTPUT"
@@ -316,6 +318,27 @@ jobs:
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_michigan_rules.py
+
+      # ---- AZ ----
+      # Arizona Revised Statutes come from azleg.gov (ungated per-section HTML
+      # fragments), so the statutes puller mirrors verbatim. The Arizona court
+      # rules (Ariz. R. Civ. P., Ariz. R. Evid., Arizona Rules of Family Law
+      # Procedure, Justice Court Rules) are gated on the canonical azcourts.gov,
+      # so the rules puller mirrors them verbatim from the courtrules.net mirror
+      # (walking its index → rule pages), falling back to canonical-URL pointer
+      # stubs only when the mirror is unreachable; the _file_is_stub guard
+      # preserves committed verbatim content.
+      - name: AZ — Arizona Revised Statutes (curated civil + family + consumer sections)
+        if: matrix.target == 'az'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_arizona_statutes.py
+
+      - name: AZ — Arizona court rules (Ariz. R. Civ. P. + Evid. + Family Law Proc. + Justice Court)
+        if: matrix.target == 'az'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_arizona_rules.py
 
       # ---- Finalize ----
 
