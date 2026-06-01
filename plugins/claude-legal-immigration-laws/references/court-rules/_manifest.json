@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "last_pulled": "2026-05-28",
+  "source": "https://www.justice.gov/eoir/reference-materials",
+  "mode": "stub",
+  "notes": "Pulled by scripts/pull_eoir_manuals.py. The EOIR practice manuals (ICPM + BIA Practice Manual) are JS-rendered and Akamai-gated, so they ship as pointer stubs with canonical URLs + chapter enumeration; the binding rules are 8 CFR Part 1003/1240/1208 in ../immigration-regulations/. The _file_is_stub guard preserves any verbatim content a future headless/un-gated run commits."
+}

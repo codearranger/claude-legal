@@ -16,6 +16,7 @@ on:
         options:
           - all
           - federal
+          - immigration
           - wa
           - or
           - ca
@@ -52,8 +53,9 @@ jobs:
           TARGET: ${{ github.event.inputs.target }}
         run: |
           case "${TARGET:-all}" in
-            all)     targets='["federal","wa","or","ca","co","in","ny","oh","tn","mi","az"]' ;;
+            all)     targets='["federal","immigration","wa","or","ca","co","in","ny","oh","tn","mi","az"]' ;;
             federal) targets='["federal"]' ;;
+            immigration) targets='["immigration"]' ;;
             wa)      targets='["wa"]' ;;
             or)      targets='["or"]' ;;
             ca)      targets='["ca"]' ;;
@@ -119,6 +121,48 @@ jobs:
         # things go well is 3-5 min; budget covers a couple of retry cycles.
         timeout-minutes: 15
         run: python3 scripts/pull_ucc.py
+
+      # ---- immigration — shared, venue-independent corpus ----
+      # INA (8 U.S.C. ch 12) from uscode.house.gov USLM XML and the
+      # curated 8 CFR / 22 CFR parts from the eCFR versioner API both
+      # come from official, un-gated government endpoints. The FAM puller
+      # mirrors verbatim: fam.state.gov omits the Sectigo intermediate from
+      # its TLS chain, so the puller AIA-chases it (reads the leaf's AIA
+      # "CA Issuers" URL, fetches the intermediate, adds it to the verify
+      # bundle) and then crawls the site's JSON TOC API — no proxy needed.
+      # `continue-on-error` + the `_file_is_stub` guard mean that if a runner
+      # genuinely can't reach fam.state.gov the step preserves the committed
+      # verbatim content rather than clobbering it. Case law is not pulled
+      # here — it is on-demand per references/legal-data-apis.md.
+      - name: Immigration — INA (8 U.S.C. Chapter 12)
+        if: matrix.target == 'immigration'
+        continue-on-error: true
+        timeout-minutes: 10
+        run: python3 scripts/pull_ina.py
+
+      - name: Immigration — 8 CFR + 22 CFR (curated parts)
+        if: matrix.target == 'immigration'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_immigration_cfr.py
+
+      - name: Immigration — FAM (verbatim; AIA-chases the omitted TLS intermediate + crawls the JSON TOC API)
+        if: matrix.target == 'immigration'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_fam.py
+
+      # EOIR practice manuals (ICPM + BIA Practice Manual). EOIR renders these
+      # client-side (JavaScript) and Akamai-gates the chapter URLs, so the
+      # puller writes canonical-URL pointer stubs (the binding rules are the
+      # 8 CFR Part 1003/1240/1208 regs pulled by pull_immigration_cfr.py).
+      # The _file_is_stub guard preserves any verbatim content a future
+      # headless/un-gated run commits.
+      - name: Immigration — EOIR practice manuals (ICPM + BIA Practice Manual stubs)
+        if: matrix.target == 'immigration'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: python3 scripts/pull_eoir_manuals.py
 
       # ---- WA ----
       - name: WA — court rules
@@ -351,8 +395,9 @@ jobs:
           T: ${{ matrix.target }}
         run: |
           case "$T" in
-            federal) path='plugins/claude-legal-federal-laws/references/**' ;;
-            *)       path="plugins/${T}-court-docs/skills/${T}-law-references/references/**" ;;
+            federal)     path='plugins/claude-legal-federal-laws/references/**' ;;
+            immigration) path='plugins/claude-legal-immigration-laws/references/**' ;;
+            *)           path="plugins/${T}-court-docs/skills/${T}-law-references/references/**" ;;
           esac
           echo "path=$path" >> "$GITHUB_OUTPUT"
 
