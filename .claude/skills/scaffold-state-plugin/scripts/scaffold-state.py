@@ -572,6 +572,42 @@ def render_plugin_json(cfg: StateConfig) -> str:
     ) + "\n"
 
 
+def render_plugin_readme(cfg: StateConfig) -> str:
+    """Render the top-level plugins/<abbr>-court-docs/README.md — the
+    canonical human-facing plugin detail (the marketplace standard). The
+    root README.md links here; marketplace.json carries only a short blurb."""
+    return (
+        f"# {cfg.abbr}-court-docs — {cfg.name}\n\n"
+        f"Draft and format pleadings, declarations, motions, and proposed "
+        f"orders for {cfg.name} courts.\n\n"
+        f"> **NOT LEGAL ADVICE.** Output is a drafting aid; verify every "
+        f"rule, deadline, and citation against current law before filing.\n\n"
+        f"## What it covers\n\n"
+        f"Applies **{cfg.format_rule}** formatting; covers "
+        f"{cfg.primary_court_display}, {cfg.secondary_court_display}, and a "
+        f"county-courts roll-up. Architected as matter-neutral civil-procedure "
+        f"skills ({cfg.civil_rules} civil rules, {cfg.evidence} evidence rules, "
+        f"fees and costs, local rules, citation per the {cfg.style_manual}, "
+        f"discovery, first-30-days, hearings, filing, post-judgment, "
+        f"fact-check, deadlines, drafting scaffolders) plus subject-matter "
+        f"bundles (starting with `{cfg.abbr}-consumer-debt`).\n\n"
+        f"<!-- TODO: expand coverage — venues, subject bundles, statute / "
+        f"court-rule corpus sizes, SKILL.md count, and any procedural quirks "
+        f"worth flagging. -->\n\n"
+        f"## Reference corpora\n\n"
+        f"Under `skills/{cfg.abbr}-law-references/references/` (each corpus dir "
+        f"has its own README): `{cfg.abbr}-statutes-debt/`, `court-rules/`, plus "
+        f"the shared `federal-debt-laws/` / `federal-bankruptcy/` / `ucc-model/` "
+        f"symlinks into `claude-legal-federal-laws`.\n\n"
+        f"## Refresh\n\n"
+        f"Plugin scripts: `format-check.py` ({cfg.format_rule}) · "
+        f"`case-calendar.py`.\n\n"
+        f"---\n"
+        f"Part of the [claude-legal](../../README.md) marketplace. Skills are "
+        f"indexed in [CLAUDE.md](../../CLAUDE.md).\n"
+    )
+
+
 def render_corpus_readme(corpus: str, cfg: StateConfig) -> str:
     """Render a README for a reference-corpus directory."""
     return (
@@ -637,6 +673,11 @@ def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool
         plugin_dir / ".claude-plugin" / "plugin.json",
         render_plugin_json(cfg),
     )
+
+    # plugin-level README.md — the canonical human-facing plugin detail
+    # (marketplace standard). The root README.md links here as a one-row
+    # table entry, and marketplace.json carries only a short blurb.
+    write(plugin_dir / "README.md", render_plugin_readme(cfg))
 
     # 21 SKILL.md stubs
     roles = get_resolved_roles(cfg)
@@ -737,10 +778,15 @@ def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool
     print(f"  3. Adapt scripts/format-check.py and case-calendar.py"
           f" for {cfg.name}")
     print("  4. Add 18+ evals across the five categories")
-    print(f"  5. Register {cfg.abbr}-court-docs in"
-          " .claude-plugin/marketplace.json")
-    print("  6. Update CLAUDE.md and README.md")
-    print("  7. Run `python3 scripts/lint-skills.py`")
+    print(f"  5. Flesh out the plugin README at"
+          f" plugins/{cfg.abbr}-court-docs/README.md (the canonical detail;"
+          " a starter was written — fill in the TODO)")
+    print(f"  6. Register {cfg.abbr}-court-docs in"
+          " .claude-plugin/marketplace.json (short blurb ending"
+          " \"Full detail in the plugin README.\")")
+    print(f"  7. Add a one-row link to plugins/{cfg.abbr}-court-docs/README.md"
+          " in the root README.md table; update CLAUDE.md")
+    print("  8. Run `python3 scripts/lint-skills.py`")
 
 
 # ---- CLI ---------------------------------------------------------
