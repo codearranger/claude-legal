@@ -10,10 +10,17 @@ practice surface.
 
 ## Sources and access posture
 
-The Tennessee Code is published officially by **LexisNexis under
-copyright** (the free `lexisnexis.com/hottopics/tncode/` mirror
-is a JS container, not flat HTML). The structured free mirrors
-are **Justia** (`law.justia.com/codes/tennessee/`) and **FindLaw**
+The Tennessee Code's **statutory text is public domain** — a
+government edict that no one can copyright (Banks v. Manchester,
+128 U.S. 244 (1888); Georgia v. Public.Resource.Org, 590 U.S.
+255 (2020)). What **LexisNexis** copyrights is the *Annotated*
+compilation (case notes, history, cross-references) it publishes
+as the state's official code under contract; Tennessee itself
+posts no clean structured copy of the bare text (its free
+`lexisnexis.com/hottopics/tncode/` mirror is a JS container, not
+flat HTML). This corpus copies **only the section text — never
+the annotations** — from the structured free mirrors **Justia**
+(`law.justia.com/codes/tennessee/`) and **FindLaw**
 (`codes.findlaw.com/tn/`). Both sit behind **Cloudflare bot-fight
 mode** that fingerprints the TLS handshake — stdlib `urllib`
 gets a 403 even from a residential IP.

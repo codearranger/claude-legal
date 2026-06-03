@@ -10,13 +10,17 @@ follows each PDF link, downloads the PDF, converts it with
 `pdftotext -layout`, and emits one MD file per directive.
 
 CJDs are the only Colorado statewide-rules content the Judicial Branch
-publishes free of paywall / Cloudflare protection. The full text of the
-**Colorado Rules of Civil Procedure (C.R.C.P.)**, **Colorado Rules of
-Evidence (CRE)**, **Colorado Appellate Rules (C.A.R.)**, and the
-**Colorado Rules of Professional Conduct** is published commercially by
-West / LexisNexis under copyright; coloradojudicial.gov hosts only
-amendment orders (`/supreme-court/adopted-proposed-rule-changes`), not
-the consolidated rule text. The free-mirror alternatives — Justia,
+publishes free of paywall / Cloudflare protection. The **rule text** of
+the **Colorado Rules of Civil Procedure (C.R.C.P.)**, **Colorado Rules
+of Evidence (CRE)**, **Colorado Appellate Rules (C.A.R.)**, and the
+**Colorado Rules of Professional Conduct** is itself a public-domain
+edict of the Colorado Supreme Court (the government edicts doctrine —
+Banks v. Manchester, 128 U.S. 244 (1888)); what West / LexisNexis sell
+and copyright is the *annotated compilation* around it (editorial notes,
+formatting, pagination). The obstacle is access, not ownership:
+coloradojudicial.gov hosts only amendment orders
+(`/supreme-court/adopted-proposed-rule-changes`), not the consolidated
+rule text. The free-mirror alternatives — Justia,
 FindLaw, Casetext — sit behind Cloudflare challenge pages that block
 unattended HTTP clients. This script therefore writes **stub files**
 for those four rule sets explaining the licensure gap and pointing to
