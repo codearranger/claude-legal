@@ -83,6 +83,7 @@ CHAPTERS: list[tuple[str, str, str]] = [
     ("19.86",  "19.86",  "Unfair Business Practices — Consumer Protection"),
     ("19.144", "19.144", "Mortgage Lending and Homeownership"),
     ("19.182", "19.182", "Fair Credit Reporting Act (Washington)"),
+    ("19.190", "19.190", "Commercial Electronic Mail Act (CEMA)"),
     ("19.255", "19.255", "Personal Information — Notice of Security Breaches"),
     # ---- Title 23B — Washington Business Corporation Act ---------------
     ("23B.06", "23B.06", "Corporations — Shareholders"),
