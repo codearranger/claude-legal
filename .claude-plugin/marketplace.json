@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents — one plugin per state plus two shared federal reference plugins (claude-legal-federal-laws and claude-legal-immigration-laws). Each plugin ships matter-neutral civil-procedure skills plus subject-matter bundles and verbatim reference corpora; the state plugins depend on claude-legal-federal-laws for the shared federal / UCC / Bankruptcy content. Per-plugin detail lives in each plugin's README.md. Currently ten state plugins (WA, OR, CA, CO, IN, NY, OH, TN, MI, AZ) plus the two shared plugins.",
-    "version": "0.27.0"
+    "version": "0.27.1"
   },
   "plugins": [
     {
@@ -68,7 +68,7 @@
     {
       "name": "wa-court-docs",
       "source": "./plugins/wa-court-docs",
-      "description": "Washington court documents: GR 14 formatting; King / Pierce / Snohomish / Spokane venues + family-law department + county roll-up; six subject bundles (consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes). Full detail in the plugin README.",
+      "description": "Washington court documents: GR 14 formatting; King / Pierce / Snohomish / Spokane venues + family-law department + county roll-up; six subject bundles (consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes) plus a CEMA (RCW 19.190 anti-spam; Brown v. Old Navy) skill. Full detail in the plugin README.",
       "category": "legal",
       "keywords": [
         "washington",
