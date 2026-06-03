@@ -19,7 +19,7 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 
 | Plugin | Coverage |
 |---|---|
-| [`wa-court-docs`](plugins/wa-court-docs/README.md) | Washington — GR 14; 6 venues + 6 subject bundles; 30 skills |
+| [`wa-court-docs`](plugins/wa-court-docs/README.md) | Washington — GR 14; 6 venues + 6 subject bundles + CEMA; 31 skills |
 | [`or-court-docs`](plugins/or-court-docs/README.md) | Oregon — UTCR 2.010; Multnomah + Washington Co + roll-up; consumer-debt (no-interrogatories quirk) |
 | [`ca-court-docs`](plugins/ca-court-docs/README.md) | California — CRC 2.100-2.119; LASC + SFSC + roll-up; consumer-debt |
 | [`co-court-docs`](plugins/co-court-docs/README.md) | Colorado — C.R.C.P. 10 + CJD 11-01; Denver + Arapahoe + roll-up; consumer-debt + family-law; 22 skills |
@@ -56,7 +56,7 @@ Each state plugin declares `claude-legal-federal-laws` as a `dependencies:` entr
 
 | Plugin | Statutes | Court rules | Federal / UCC / Bankruptcy |
 |---|---|---|---|
-| `wa-court-docs` | 92 RCW chapters / 3,255 sections / ~5.5 MB | 1,233 rules / 35 sets / 4.6 MB | shared (20 + 4 + 8 chapters) |
+| `wa-court-docs` | 93 RCW chapters / 3,266 sections / ~5.5 MB | 1,233 rules / 35 sets / 4.6 MB | shared (20 + 4 + 8 chapters) |
 | `or-court-docs` | 35 ORS chapters / 5.6 MB | 7 rule sets / 2.3 MB | shared |
 | `ca-court-docs` | 32 files (CCP / Civ / Evid / Fam / Prob / Lab / B&P / Fin / Comm) | 9 CRC titles / 17 files | shared |
 | `co-court-docs` | 14 articles / 2.0 MB | 80 files (72 CJDs + 6 paywall stubs) | shared |

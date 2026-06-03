@@ -5,6 +5,7 @@ Operative provisions quoted/summarized below; read the full chapter at the
 canonical source before filing.
 
 - **Chapter:** RCW 19.190 — Commercial Electronic Mail
+- **Verbatim chapter text (in-repo):** `wa-law-references/references/wa-rcw-debt/RCW-19_190.md` — full chapter (11 sections), refreshed by the quarterly RCW puller. Cite that file for current statutory text; the excerpts below are a working summary.
 - **Canonical source:** <https://app.leg.wa.gov/rcw/default.aspx?cite=19.190&full=true>
 - **Enacted:** Laws of 1998, ch. 149 (dial-up era; aimed at the growing "volume" of commercial e-mail)
 
