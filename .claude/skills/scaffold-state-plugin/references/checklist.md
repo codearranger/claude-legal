@@ -500,7 +500,13 @@ subject-matter category needs evals covering both:
 
 ## Phase 7 — Marketplace updates
 
-- [ ] Add new plugin to `.claude-plugin/marketplace.json`
+- [ ] Flesh out `plugins/<state>-court-docs/README.md` — the **canonical
+      human-facing plugin detail** (the scaffolder writes a starter with a
+      TODO). Coverage, venues, subject bundles, corpus sizes, SKILL.md count,
+      procedural quirks.
+- [ ] Add new plugin to `.claude-plugin/marketplace.json` — a **short blurb
+      only**, ending "Full detail in the plugin README." (detail lives in the
+      plugin README, not here)
 - [ ] Bump `marketplace.json`'s `metadata.version`
 - [ ] Update `CLAUDE.md`:
   - Add new skills-index table
@@ -508,7 +514,8 @@ subject-matter category needs evals covering both:
   - Add new plugin's scripts to "Common commands"
   - Bump comparison-state count if applicable
 - [ ] Update `README.md`:
-  - Add new plugin to the "What's in here" list
+  - Add a **one-row link** to `plugins/<state>-court-docs/README.md` in the
+    plugins table (not an embedded paragraph)
   - Add new plugin to the directory-tree section
   - Update the install command
   - Add new column to the WA-vs-OR-vs-new comparison table
