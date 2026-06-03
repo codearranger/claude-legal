@@ -10,12 +10,18 @@ contract / tort).
 
 ## Source
 
-The Tennessee Code is published officially by LexisNexis under
-copyright (the free LexisNexis "hottopics/tncode" mirror), with
-no clean structured free authoritative source. Justia
+The **statutory text** of the Tennessee Code is in the public domain:
+under the government edicts doctrine (Banks v. Manchester, 128 U.S. 244
+(1888); Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) no one
+holds copyright in the words of the law. What carries copyright is the
+*Annotated* compilation — the editorial case notes, history, and
+cross-references — that LexisNexis publishes as Tennessee's official
+code under contract with the state. Tennessee does not itself publish
+the bare text as a clean structured free source. This puller copies
+ONLY the section text (public domain), never the annotations, from the
+most reliably-structured free mirrors: Justia
 (`law.justia.com/codes/tennessee/`) and FindLaw
-(`codes.findlaw.com/tn/`) operate the most reliably-structured
-free mirrors. This puller targets Justia.
+(`codes.findlaw.com/tn/`). It targets Justia.
 
 When Justia returns 403 (its bot-fight policy frequently blocks
 GitHub Actions IP ranges and other shared egress), the puller
