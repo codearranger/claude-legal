@@ -24,7 +24,7 @@ The plugin is organized into two layers:
 1. **Matter-neutral procedural skills** — these apply to any Washington civil case regardless of subject matter (civil rules, evidence rules, fees-and-costs, local rules, citation format, online sources, discovery procedure, first-30-days response, hearings, filing packets, post-judgment, fact-check, deadlines, pro se, statewide format, KCDC).
 2. **Subject-matter bundles** — self-contained skills supplying the substantive law, fact patterns, request banks, case catalog, and example filings for one subject matter. The procedural skills delegate subject-matter-specific questions to these bundles.
 
-Subject-matter skills currently shipping: `wa-consumer-debt`, `wa-family-law`, `wa-landlord-tenant`, `wa-personal-injury`, `wa-employment`, `wa-commercial-disputes`, and `wa-cema` (Commercial Electronic Mail Act, RCW 19.190 — Washington's anti-spam statute; ships the controlling *Brown v. Old Navy*, No. 102592-1 (Wash. 2025) opinion as a reference). The architecture leaves clean slots for additional subject matter.
+Subject-matter skills currently shipping: `wa-cpa` (the matter-neutral Consumer Protection Act / UDAP framework at RCW 19.86 that the others compose with), `wa-consumer-debt`, `wa-family-law`, `wa-landlord-tenant`, `wa-personal-injury`, `wa-employment`, `wa-commercial-disputes`, and `wa-cema` (Commercial Electronic Mail Act, RCW 19.190 — Washington's anti-spam statute; ships the controlling *Brown v. Old Navy*, No. 102592-1 (Wash. 2025) opinion as a reference). The architecture leaves clean slots for additional subject matter.
 
 ## Components
 
