@@ -63,7 +63,7 @@ substantively reviewed for the WA / OR legal context.
 ## How to use a template
 
 1. **Copy** the template to the new plugin's skill directory:
-   `cp .claude/skills/scaffold-state-plugin/references/skill-templates/<role>-template.md plugins/<abbr>-court-docs/skills/<abbr>-<role>/SKILL.md`
+   `cp .claude/skills/scaffold-state-plugin/references/skill-templates/<role>-template.md plugins/us-<abbr>-court-docs/skills/<abbr>-<role>/SKILL.md`
 2. **Substitute** the placeholders ({{STATE_NAME}}, {{ABBR}},
    etc.) for the new state's values
 3. **Research and fill in** every TODO marker with the
@@ -97,7 +97,7 @@ After substituting placeholders, search the file for `{{` —
 unsubstituted placeholders are a common bug.
 
 ```bash
-grep -n '{{' plugins/<abbr>-court-docs/skills/<abbr>-<role>/SKILL.md
+grep -n '{{' plugins/us-<abbr>-court-docs/skills/<abbr>-<role>/SKILL.md
 ```
 
 Should return no matches.

@@ -624,7 +624,7 @@ The quarterly agent routine handles this automatically — it stages only the re
 
 When adding a new state plugin, the WA / OR pair establishes the pattern:
 
-1. **Naming**: `<state>-court-docs` (e.g., `ca-court-docs`, `tx-court-docs`).
+1. **Naming**: new plugins take a country prefix — `us-<state>-court-docs` (e.g., `us-tx-court-docs`, `us-fl-court-docs`) — so the marketplace can host other jurisdictions later. The scaffolder emits this prefix automatically. **The original ten state plugins (`wa-court-docs` … `az-court-docs`) and the two shared plugins (`claude-legal-federal-laws`, `claude-legal-immigration-laws`) predate this convention and keep their un-prefixed names**: Claude Code keys an installation by the plugin `name` and offers no transparent-rename/alias mechanism, so renaming them would break every existing install (the marketplace has a real install base). They are grandfathered; only plugins added from here forward are country-prefixed.
 2. **Skill naming**: `<state>-<role>` for procedural skills (e.g., `ca-statewide-format`); `<state>-<court>` for court-specific skills (e.g., `ca-lasc` for Los Angeles Superior Court).
 3. **Subject-matter bundles**: `<state>-<topic>` (e.g., `ca-consumer-debt`).
 4. **Reference structure**: mirror the corpus directories (`court-rules/`, `federal-debt-laws/`, `ucc-model/`, `<state>-statutes-debt/`).

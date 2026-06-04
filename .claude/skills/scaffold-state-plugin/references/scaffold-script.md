@@ -35,7 +35,7 @@ Run from the repo root.
 
 - `--state` — two-letter state abbreviation (lowercase),
   e.g., `ca`, `tx`, `fl`, `ny`. This determines the plugin
-  name (`<abbr>-court-docs`) and the skill name prefix
+  name (`us-<abbr>-court-docs`) and the skill name prefix
   (`<abbr>-`).
 - `--name` — full state name, used in skill bodies and
   descriptions. E.g., `California`, `Texas`.
@@ -64,7 +64,7 @@ Run from the repo root.
   you're running from a subdir.
 - `--force` — overwrite an existing plugin directory.
   Without this, the script refuses to write if
-  `plugins/<abbr>-court-docs/` already exists.
+  `plugins/us-<abbr>-court-docs/` already exists.
 - `--dry-run` — print what would be created without
   writing.
 
@@ -159,13 +159,13 @@ After running:
 python3 scripts/lint-skills.py
 
 # The new plugin's directory should be populated
-ls plugins/<abbr>-court-docs/
+ls plugins/us-<abbr>-court-docs/
 
 # The 21 SKILL.md files should exist
-find plugins/<abbr>-court-docs/skills -name SKILL.md | wc -l   # expects 21
+find plugins/us-<abbr>-court-docs/skills -name SKILL.md | wc -l   # expects 21
 
 # Scripts should be present and executable
-python3 plugins/<abbr>-court-docs/scripts/format-check.py --help
+python3 plugins/us-<abbr>-court-docs/scripts/format-check.py --help
 ```
 
 ## Idempotency
@@ -255,7 +255,7 @@ specified root. Run from the marketplace root, or pass
 
 The plugin directory exists. Either:
 
-- Delete it (`rm -rf plugins/<abbr>-court-docs/`) and re-run
+- Delete it (`rm -rf plugins/us-<abbr>-court-docs/`) and re-run
 - Pass `--force` (destructive)
 - Choose a different `--state` abbreviation
 
