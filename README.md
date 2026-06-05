@@ -6,7 +6,7 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 
 ## What's in here
 
-**Twelve plugins** — ten state plugins plus two shared federal reference plugins. **Each plugin's `README.md` is the canonical detail**; this list links to them.
+**Thirteen plugins** — eleven state plugins plus two shared federal reference plugins. **Each plugin's `README.md` is the canonical detail**; this list links to them.
 
 ### Shared federal reference plugins
 
@@ -29,6 +29,7 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 | [`tn-court-docs`](plugins/tn-court-docs/README.md) | Tennessee — local-rule format; Circuit / Chancery / General Sessions; 4 subject bundles; 29 skills |
 | [`mi-court-docs`](plugins/mi-court-docs/README.md) | Michigan — MCR 1.109 / 2.113; Wayne + Oakland + 36th District + family; 6 subject bundles; 29 skills |
 | [`az-court-docs`](plugins/az-court-docs/README.md) | Arizona — Ariz. R. Civ. P. 10 / 7.1; Maricopa + Pima + Justice + family; 6 subject bundles; 28 skills |
+| [`ar-court-docs`](plugins/ar-court-docs/README.md) | Arkansas — Ark. R. Civ. P. 10/11 + Admin. Order 19/21 (no statewide format rule); unified Circuit Court (Amendment 80) — Pulaski + Benton + Washington + District Courts + family; 6 subject bundles; 29 skills |
 
 All state plugins are architected the same way: matter-neutral civil-procedure skills (statewide format, civil + evidence rules, fees, local rules, citation, discovery, first-30-days, hearings, filing, post-judgment, fact-check, deadlines) plus subject-matter bundles, sharing federal / UCC / Bankruptcy content via the `claude-legal-federal-laws` dependency rather than copying it per plugin. The marketplace is organized one plugin per state; more can be added under `plugins/` as it grows.
 
@@ -48,6 +49,7 @@ Add this marketplace to Claude Code or Cowork, then install the state plugins yo
 /plugin install tn-court-docs@claude-legal
 /plugin install mi-court-docs@claude-legal
 /plugin install az-court-docs@claude-legal
+/plugin install ar-court-docs@claude-legal
 ```
 
 Each state plugin declares `claude-legal-federal-laws` as a `dependencies:` entry, so the marketplace runtime installs the shared plugin automatically — no need to install it explicitly.
@@ -66,6 +68,7 @@ Each state plugin declares `claude-legal-federal-laws` as a `dependencies:` entr
 | `tn-court-docs` | 25 Tenn. Code Ann. chapters via `pull_tn_statutes.py`; well-formed pointer stubs when Justia 403s the runner | 4 statewide rule sets / ~2.7 MB / 473 rule sub-pages verbatim via `pull_tn_court_rules.py` from tncourts.gov; county local rules as a pointer stub | shared |
 | `mi-court-docs` | verbatim MCL — 13 topic files / ~70 sections / ~211 KB via `pull_michigan_statutes.py` from legislature.mi.gov (objectName=mcl-600-5701 per-section scheme) | verbatim MCR (ch. 1-4) + MRE — 362 rules / ~1.4 MB via `pull_michigan_rules.py` (courtrules.net mirror; courts.michigan.gov gates its rule-asset URLs) + curated civil-rules / evidence-rules / fees / citation / key-cases / online-sources | shared |
 | `az-court-docs` | verbatim A.R.S. — 12 topic files / ~60 sections via `pull_arizona_statutes.py` from azleg.gov (ungated per-section .htm fragments) | verbatim ARCP + Ariz. R. Evid. + ARFLP + JCRCP — 4 files / ~406 rules via `pull_arizona_rules.py` (courtrules.net mirror; azcourts.gov is Cloudflare-gated) + curated civil-rules / evidence-rules / family-rules / fees / citation / key-cases / online-sources | shared |
+| `ar-court-docs` | Ark. Code Ann. — curated civil + family + consumer chapters via `pull_arkansas_statutes.py` from law.justia.com/codes/arkansas (curl_cffi Chrome impersonation; discovers section URLs by walking Title→Chapter→Subchapter→Section; stub fallback on Cloudflare block) | Ark. R. Civ. P. + Ark. R. Evid. + Arkansas District Court Rules + Sup. Ct./Ct. App. Rules via `pull_arkansas_rules.py` (courtrules.net mirror; arcourts.gov exposes no clean structured copy) + curated civil-rules / evidence-rules / fees / citation / key-cases / online-sources / legal-data-apis | shared |
 | `claude-legal-federal-laws` | n/a | n/a | **20 federal-debt-laws + 4 UCC + 8 Bankruptcy** |
 | `claude-legal-immigration-laws` | INA = 8 U.S.C. ch 12, 5 subchapters / ~1.6 MB verbatim via `pull_ina.py` (+ INA↔8 USC crosswalk) | 33 CFR parts / ~3.6 MB verbatim via `pull_immigration_cfr.py` (8 CFR DHS ch I + EOIR/BIA ch V + 22 CFR visa/passport); EOIR court-rules corpus (binding 8 CFR 1003/1240/1208 + ICPM / BIA-PM stubs via `pull_eoir_manuals.py`) | n/a — standalone; FAM ~3.6 MB verbatim via `pull_fam.py`; **11-skill self-help layer** (v0.3.0); case law (circuits / BIA / AAO) on-demand per `legal-data-apis.md` |
 
@@ -105,7 +108,8 @@ claude-legal/
 │   ├── oh-court-docs/                # Ohio (30 skills — 8 flagship Common Pleas + Common Pleas roll-up + Municipal Court layer + Family Court + 2 subject bundles)
 │   ├── tn-court-docs/                # Tennessee (29 skills — 4 flagship counties + General Sessions + county roll-up + split family/juvenile + 4 subject bundles)
 │   ├── mi-court-docs/                # Michigan (29 skills — Wayne/Oakland Circuit + 36th District + Circuit/District roll-ups + Family Division + 6 subject bundles)
-│   └── az-court-docs/                # Arizona (28 skills — Maricopa/Pima Superior + Justice Courts + Superior-courts roll-up + Family Department + 6 subject bundles)
+│   ├── az-court-docs/                # Arizona (28 skills — Maricopa/Pima Superior + Justice Courts + Superior-courts roll-up + Family Department + 6 subject bundles)
+│   └── ar-court-docs/                # Arkansas (29 skills — Amendment 80 unified Circuit Court: Pulaski/Benton/Washington + District Courts + county roll-up + Domestic Relations family court + 6 subject bundles)
 └── scripts/                          # Shared marketplace scripts
     ├── lint-skills.py                # Frontmatter + name/dir-match linter
     ├── hooks/pre-commit              # Symlink target for git hook

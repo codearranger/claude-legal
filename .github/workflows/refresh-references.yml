@@ -27,6 +27,7 @@ on:
           - tn
           - mi
           - az
+          - ar
 
 permissions:
   contents: write
@@ -53,7 +54,7 @@ jobs:
           TARGET: ${{ github.event.inputs.target }}
         run: |
           case "${TARGET:-all}" in
-            all)     targets='["federal","immigration","wa","or","ca","co","in","ny","oh","tn","mi","az"]' ;;
+            all)     targets='["federal","immigration","wa","or","ca","co","in","ny","oh","tn","mi","az","ar"]' ;;
             federal) targets='["federal"]' ;;
             immigration) targets='["immigration"]' ;;
             wa)      targets='["wa"]' ;;
@@ -66,6 +67,7 @@ jobs:
             tn)      targets='["tn"]' ;;
             mi)      targets='["mi"]' ;;
             az)      targets='["az"]' ;;
+            ar)      targets='["ar"]' ;;
             *)       echo "unexpected target: $TARGET" >&2; exit 1 ;;
           esac
           echo "targets=$targets" >> "$GITHUB_OUTPUT"
@@ -383,6 +385,35 @@ jobs:
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_arizona_rules.py
+
+      # ---- AR ----
+      # Arkansas Code Annotated section text is public domain (LexisNexis
+      # publishes the official ANNOTATED code under copyright). The statutes
+      # puller mirrors the bare section text from the Justia mirror at
+      # law.justia.com/codes/arkansas/, discovering section URLs by walking
+      # Title -> Chapter -> Subchapter -> Section links (Arkansas nests a
+      # subtitle/subchapter layer, so the puller does not construct URLs).
+      # Justia sits behind Cloudflare bot-fight mode; the puller uses
+      # curl_cffi with Chrome TLS impersonation when available and falls back
+      # to well-formed pointer stubs when fetch fails. The Arkansas court
+      # rules (Ark. R. Civ. P., Ark. R. Evid., Arkansas District Court Rules,
+      # Supreme Court/Court of Appeals Rules) are mirrored verbatim from
+      # courtrules.net (arcourts.gov exposes no clean structured copy), with
+      # canonical-URL pointer-stub fallback. The _file_is_stub guard on both
+      # pullers preserves committed verbatim content.
+      - name: AR — Arkansas Code Annotated (curated civil + family + consumer chapters)
+        if: matrix.target == 'ar'
+        continue-on-error: true
+        timeout-minutes: 20
+        run: |
+          pip3 install --break-system-packages curl_cffi
+          python3 scripts/pull_arkansas_statutes.py --workers 4
+
+      - name: AR — Arkansas court rules (Ark. R. Civ. P. + Evid. + District Court + Sup. Ct./Ct. App.)
+        if: matrix.target == 'ar'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_arkansas_rules.py --workers 4
 
       # ---- Finalize ----
 

@@ -1,0 +1,32 @@
+{
+  "name": "ar-court-docs",
+  "version": "0.1.0",
+  "dependencies": [
+    "claude-legal-federal-laws"
+  ],
+  "description": "Draft and format pleadings, declarations, motions, notices, and proposed orders for Arkansas courts. Applies Ark. R. Civ. P. 10/11 statewide formatting; includes Pulaski County Circuit Court and Benton County Circuit Court specifics plus a county-courts roll-up; supports pro se workflows. Architected as matter-neutral civil-procedure skills (ARCP civil rules, Ark. R. Evid. evidence rules, fees and costs, local rules, citation format per the Arkansas Supreme Court Rule 5-2 (public-domain citation)) plus subject-matter bundles. The first subject-matter bundle, ar-consumer-debt, covers FDCPA / Reg F / state UTPA-equivalent / chain-of-title doctrine. All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/claude-legal",
+  "repository": "https://github.com/codearranger/claude-legal",
+  "license": "MIT",
+  "keywords": [
+    "arkansas",
+    "legal",
+    "pleadings",
+    "pro-se",
+    "arcp",
+    "ark. r. evid.",
+    "civil-rules",
+    "evidence-rules",
+    "discovery",
+    "hearings",
+    "post-judgment",
+    "fact-check",
+    "fdcpa",
+    "consumer-protection",
+    "debt-collection"
+  ]
+}
