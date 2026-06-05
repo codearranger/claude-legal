@@ -17,9 +17,10 @@
   - The **bare rule text is a public-domain edict**; commercial
     annotated compilations (LexisNexis) are copyrighted only as to the
     annotations.
-- **courtrules.net** — a structured free mirror of state court rules
-  (a fallback when the official publisher is gated; same pattern the
-  other pullers use).
+- **opinions.arcourts.gov/ark/cr/en/** — the official Arkansas Judiciary
+  Court Rules database (Lexum); each rule set is published as a PDF at
+  `/ark/cr/en/<docid>/1/document.do`. This is the verbatim source the
+  rules puller uses.
 
 ## Statutes — Arkansas Code Annotated
 
@@ -64,6 +65,7 @@
 
 - Prefer the **official** publisher (arcourts.gov / arkleg.state.ar.us)
   for anything you will cite.
-- Use the **free mirrors** (Justia / FindLaw / courtrules.net) for bulk
-  text pulls of the public-domain rule and statute text, then
-  **spot-check against the official source**.
+- Use the **public-domain text sources** (the official
+  opinions.arcourts.gov Court Rules PDFs for rules; the Justia mirror for
+  Code sections) for bulk pulls, then **spot-check against the official
+  source**.

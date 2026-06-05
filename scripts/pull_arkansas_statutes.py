@@ -205,12 +205,18 @@ TARGETS: List[ChapterTarget] = [
 # HTTP.
 # ----------------------------------------------------------------------
 
-def http_get(url: str, *, retries: int = 4, base_sleep: float = 1.5,
+def http_get(url: str, *, retries: int = 7, base_sleep: float = 1.2,
              timeout: float = 60.0) -> bytes:
     """Fetch a URL with jittered exponential-backoff retries. Tries
     curl_cffi (Chrome TLS impersonation) first; falls back to stdlib
     urllib (which Justia will likely 403, sending the caller to the
-    stub path)."""
+    stub path).
+
+    Justia's Cloudflare bot-fight policy 403s *intermittently* even
+    against curl_cffi's Chrome TLS fingerprint — a given request may be
+    blocked while a retry seconds later succeeds. So a 403 is treated as
+    RETRYABLE here (not terminal); only after the retry budget is
+    exhausted does the caller fall through to the stub path."""
     parsed = urllib.parse.urlsplit(url)
     safe_path = urllib.parse.quote(parsed.path, safe="/%():'.,")
     safe_url = urllib.parse.urlunsplit(
@@ -232,9 +238,11 @@ def http_get(url: str, *, retries: int = 4, base_sleep: float = 1.5,
                     timeout=timeout, allow_redirects=True,
                 )
                 if r.status_code >= 400:
-                    if r.status_code in (401, 403):
+                    # 403/429 = Cloudflare throttle/block — retry with
+                    # backoff (intermittent). 404 = terminal (no such page).
+                    if r.status_code == 404:
                         raise urllib.error.HTTPError(
-                            safe_url, r.status_code, "blocked", r.headers, None)
+                            safe_url, 404, "not found", r.headers, None)
                     last_exc = RuntimeError(f"HTTP {r.status_code} for {safe_url}")
                 else:
                     return r.content
@@ -284,30 +292,49 @@ def _find(pattern: str, text: str) -> List[str]:
 
 def discover_section_paths(t: ChapterTarget) -> List[str]:
     """Return ordered Justia URL paths for each section of the target
-    chapter, discovered by link-walking (subtitle/subchapter-agnostic)."""
+    chapter, discovered by link-walking the Arkansas Code's
+    Title -> Subtitle -> Chapter -> Subchapter -> Section nesting.
+
+    Justia's title index page lists SUBTITLES (not chapters directly),
+    so the walk enumerates subtitles to locate the chapter index, then
+    collects section links from the chapter page and any subchapter
+    pages. Historical year-prefixed snapshots (e.g. /codes/arkansas/2023/)
+    are excluded so only the current code is pulled."""
     T, C = re.escape(t.title_num), re.escape(t.chapter_num)
-    # 1. Title index → chapter index path (under any subtitle).
+    base = "https://law.justia.com"
+    # Reject year-prefixed (historical) variants like /codes/arkansas/2023/.
+    no_year = r'/codes/arkansas/title-'
     try:
         title_html = get_text(f"{JUSTIA_BASE}title-{t.title_num}/")
     except Exception:  # noqa: BLE001
         return []
-    chapter_paths = _find(
-        rf'href="(/codes/arkansas/(?:\d{{4}}/)?title-{T}/'
-        rf'(?:subtitle-[^"/]+/)?chapter-{C}/)"',
-        title_html,
-    )
+
+    # Chapter index may appear directly on the title page (titles without
+    # a subtitle layer) or under a subtitle (most titles).
+    chap_re = rf'href="({no_year}{T}/(?:subtitle-[^"/]+/)?chapter-{C}/)"'
+    chapter_paths = _find(chap_re, title_html)
     if not chapter_paths:
-        # Fall back to the conventional no-subtitle path.
+        subtitle_paths = _find(rf'href="({no_year}{T}/subtitle-[^"/]+/)"',
+                               title_html)
+        for sp in subtitle_paths:
+            try:
+                sub_html = get_text(f"{base}{sp}")
+            except Exception:  # noqa: BLE001
+                continue
+            found = _find(rf'href="({no_year}{T}/subtitle-[^"/]+/chapter-{C}/)"',
+                          sub_html)
+            if found:
+                chapter_paths = found
+                break
+    if not chapter_paths:
+        # Last-resort conventional path (no subtitle layer).
         chapter_paths = [f"/codes/arkansas/title-{t.title_num}/chapter-{t.chapter_num}/"]
 
-    section_re = (
-        rf'href="(/codes/arkansas/(?:\d{{4}}/)?title-{T}/[^"]*'
-        rf'section-{T}-{C}-[^"#?]+)"'
-    )
-    subchapter_re = (
-        rf'href="(/codes/arkansas/(?:\d{{4}}/)?title-{T}/[^"]*'
-        rf'chapter-{C}/(?:subtitle-[^"/]+/)?subchapter-[^"/]+/)"'
-    )
+    section_re = rf'href="({no_year}{T}/[^"]*section-{T}-{C}-[^"#?]+)"'
+    # Any deeper INDEX directory under the chapter — covers every nesting
+    # style Justia uses for Arkansas: subchapter-N, part-N, and bare-number
+    # (e.g. chapter-17/1/). Sections are excluded by the filter below.
+    index_re = rf'href="({no_year}{T}/[^"]*chapter-{C}/[^"]+/)"'
 
     sections: List[str] = []
     seen: set[str] = set()
@@ -318,19 +345,23 @@ def discover_section_paths(t: ChapterTarget) -> List[str]:
                 seen.add(p)
                 sections.append(p)
 
-    for cpath in chapter_paths:
+    # Breadth-first walk over the chapter's index pages (chapter ->
+    # part/subchapter/numbered -> section), bounded to avoid runaway loops.
+    to_visit: List[str] = list(chapter_paths)
+    visited: set[str] = set()
+    while to_visit and len(visited) < 600:
+        cpath = to_visit.pop(0)
+        if cpath in visited:
+            continue
+        visited.add(cpath)
         try:
-            chap_html = get_text(f"https://law.justia.com{cpath}")
+            html = get_text(f"{base}{cpath}")
         except Exception:  # noqa: BLE001
             continue
-        collect(_find(section_re, chap_html))
-        # Chapters subdivided into subchapters: walk each.
-        for sub in _find(subchapter_re, chap_html):
-            try:
-                sub_html = get_text(f"https://law.justia.com{sub}")
-            except Exception:  # noqa: BLE001
-                continue
-            collect(_find(section_re, sub_html))
+        collect(_find(section_re, html))
+        for idx in _find(index_re, html):
+            if idx not in visited and idx not in to_visit and "section-" not in idx:
+                to_visit.append(idx)
     return sections
 
 

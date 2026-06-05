@@ -1,7 +1,6 @@
 {
   "version": "0.1.0",
-  "last_pulled": null,
-  "mode": "curated-summary",
-  "source": "curated pending verbatim pull via pull_arkansas_statutes.py (Justia mirror law.justia.com/codes/arkansas/)",
-  "notes": "Curated structural section-level summaries authored offline (clearly labeled NOT verbatim). A future verbatim pull supersedes them; the _file_is_stub guard preserves them until then."
+  "last_pulled": "2026-06-05",
+  "source": "https://law.justia.com/codes/arkansas/",
+  "notes": "Pulled by scripts/pull_arkansas_statutes.py. The Arkansas Code Annotated has no clean structured free official source (LexisNexis publishes the official annotated code under copyright). Justia is the primary structured free mirror for the public-domain section text. The puller discovers section URLs by walking Title -> Chapter -> Subchapter -> Section links (subtitle/subchapter-agnostic) rather than constructing them. Justia sits behind Cloudflare bot-fight mode and 403s against stdlib urllib and many shared-egress IPs; the puller uses curl_cffi with Chrome TLS impersonation when available and falls back to well-formed pointer stubs when fetch fails. The _file_is_stub guard preserves committed verbatim content."
 }

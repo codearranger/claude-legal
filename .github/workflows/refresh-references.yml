@@ -391,29 +391,37 @@ jobs:
       # publishes the official ANNOTATED code under copyright). The statutes
       # puller mirrors the bare section text from the Justia mirror at
       # law.justia.com/codes/arkansas/, discovering section URLs by walking
-      # Title -> Chapter -> Subchapter -> Section links (Arkansas nests a
-      # subtitle/subchapter layer, so the puller does not construct URLs).
-      # Justia sits behind Cloudflare bot-fight mode; the puller uses
-      # curl_cffi with Chrome TLS impersonation when available and falls back
-      # to well-formed pointer stubs when fetch fails. The Arkansas court
-      # rules (Ark. R. Civ. P., Ark. R. Evid., Arkansas District Court Rules,
-      # Supreme Court/Court of Appeals Rules) are mirrored verbatim from
-      # courtrules.net (arcourts.gov exposes no clean structured copy), with
-      # canonical-URL pointer-stub fallback. The _file_is_stub guard on both
-      # pullers preserves committed verbatim content.
-      - name: AR — Arkansas Code Annotated (curated civil + family + consumer chapters)
+      # Title -> Subtitle -> Chapter -> Subchapter -> Section links (Arkansas
+      # nests a subtitle/subchapter layer, so the puller does not construct
+      # URLs). Justia sits behind Cloudflare bot-fight mode that 403s
+      # *intermittently* even against curl_cffi's Chrome TLS fingerprint, so
+      # a 403 is treated as retryable; the puller falls back to pointer
+      # stubs only after the retry budget is exhausted.
+      #
+      # The Arkansas court rules (Ark. R. Civ. P., Ark. R. Evid., Arkansas
+      # District Court Rules, Supreme Court/Court of Appeals Rules) are
+      # published VERBATIM by the Arkansas Judiciary as PDFs on its Lexum
+      # database at opinions.arcourts.gov/ark/cr/en/<docid>/1/document.do.
+      # The rules puller discovers the current document id per rule set by
+      # title, downloads the PDF, and extracts text with `pdftotext -layout`
+      # (poppler-utils installed below), with canonical-URL pointer-stub
+      # fallback. The _file_is_stub guard on both pullers preserves committed
+      # verbatim content.
+      - name: AR — Arkansas Code Annotated (verbatim civil + family + consumer chapters)
         if: matrix.target == 'ar'
         continue-on-error: true
-        timeout-minutes: 20
+        timeout-minutes: 30
         run: |
           pip3 install --break-system-packages curl_cffi
-          python3 scripts/pull_arkansas_statutes.py --workers 4
+          python3 scripts/pull_arkansas_statutes.py --workers 3
 
       - name: AR — Arkansas court rules (Ark. R. Civ. P. + Evid. + District Court + Sup. Ct./Ct. App.)
         if: matrix.target == 'ar'
         continue-on-error: true
         timeout-minutes: 15
-        run: python3 scripts/pull_arkansas_rules.py --workers 4
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+          python3 scripts/pull_arkansas_rules.py
 
       # ---- Finalize ----
 

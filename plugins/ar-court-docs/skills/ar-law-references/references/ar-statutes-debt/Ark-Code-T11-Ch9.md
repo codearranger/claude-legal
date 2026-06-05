@@ -1,61 +1,1297 @@
-# Ark. Code Ann. Title 11, Chapter 9 — Workers' Compensation
+# Ark. Code Ann. Title 11, Chapter 9 — Workers' compensation — exclusive remedy (§ 11-9-101 et seq.)
 
-> **CURATED SUMMARY — NOT VERBATIM STATUTORY TEXT.** This is a structured,
-> citation-rich digest for drafting use. The official section text (public
-> domain) is at https://law.justia.com/codes/arkansas/title-11/ (walk to
-> Chapter 9). A future run of `scripts/pull_arkansas_statutes.py` will
-> supersede this file with verbatim text.
->
-> **NOT LEGAL ADVICE.** Verify every section against the current Ark. Code
-> Ann. before filing.
+> **Source:** https://law.justia.com/codes/arkansas/title-11/
+> **Fetched:** 2026-06-05
+> **Format:** verbatim conversion of the Justia HTML mirror at
+> `law.justia.com/codes/arkansas/`
 
-## Scope
+> **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
+> against the current Ark. Code Ann. before filing.
 
-Chapter 9 is the **Arkansas Workers' Compensation Law** — the comprehensive
-no-fault system that compensates employees for accidental injury or occupational
-disease arising out of and in the course of employment, in exchange for an
-**exclusive remedy** that displaces most common-law tort suits against the
-employer. Claims are adjudicated administratively, **not in Circuit Court**.
+---
 
-## Workers' Compensation Law (§ 11-9-101 et seq.)
+## Section 11-9-101 - Title - Purpose
 
-- **§ 11-9-101 — Title / legislative intent.** Names the chapter and states the
-  strict-construction intent (the 1993 reforms direct that the Act be construed
-  according to its plain meaning, neither liberally nor strictly in favor of
-  either party — verify the current construction directive against current text).
-- **§ 11-9-102 — Definitions.** Defines "employee," "employer," "compensable
-  injury," "objective findings," and related terms. Compensability requires
-  injury **arising out of and in the course of employment** and (for the major
-  cause standard) supported by objective medical findings.
-- **§ 11-9-105 — Exclusive remedy.** The rights and remedies granted to an
-  employee under the Act are the employee's **exclusive remedy** against the
-  employer (and, generally, against fellow employees and the carrier) for a
-  covered injury. This is the bar that defeats a direct negligence suit against
-  the employer; plead around it only on a recognized exception (e.g., intentional
-  tort, or a non-employer third-party defendant). Verify the exception contours
-  against current text and case law.
-- **§ 11-9-401 et seq. — Coverage / required insurance.** Sets which employers
-  must carry coverage and the security/self-insurance requirements; certain small
-  employers and categories of labor are exempt (verify the employee-count and
-  exemption mechanics against current text).
-- **§ 11-9-501 et seq. — Benefits.** Schedules of compensation — temporary total,
-  permanent partial, permanent total disability, the body-part / impairment
-  schedule, medical benefits, and death benefits (verify dollar caps and rate
-  formulas against current text; these are volatile).
-- **§ 11-9-701 — Notice of injury.** The employee must give the employer
-  **notice of the injury** within the statutory window; late notice can bar or
-  reduce benefits (verify the notice day count against current text).
-- **§ 11-9-702 — Time for filing the claim (limitations).** Sets the limitations
-  period for filing a claim with the Commission (verify the exact period and the
-  triggering events against current text).
-- **§ 11-9-201 et seq. — Arkansas Workers' Compensation Commission.** Creates the
-  **Arkansas Workers' Compensation Commission** as the administrative adjudicator:
-  an Administrative Law Judge hears the claim, the full Commission reviews, and
-  appeal lies to the **Arkansas Court of Appeals** — claims do **not** originate
-  in Circuit Court.
+(a) This chapter shall be cited as the "Workers' Compensation Law". (b) The primary purposes of the workers' compensation laws are to pay timely temporary and permanent disability benefits to all legitimately injured workers who suffer an injury or disease arising out of and in the course of their employment, to pay reasonable and necessary medical expenses resulting therefrom, and then to return the worker to the work force; to improve workplace safety through safety programs; to improve health care delivery through use of managed care concepts; to encourage the return to work of injured workers; to deter and punish frauds of agents, brokers, solicitors, employers, and employees relating to procurement of workers' compensation coverage or the provision or denial of benefits; to curtail the rise in medical costs associated with the provision of workers' compensation benefits; and to emphasize that the workers' compensation system in this state must be returned to a state of economic viability.
 
-> **Distinctive Arkansas provisions:** (1) the **exclusive-remedy bar** at
-> § 11-9-105 channels nearly all workplace-injury claims out of Circuit Court and
-> into the **Commission**; (2) the post-1993 **strict-construction / objective-
-> findings** posture is more employer-protective than many states' liberal-
-> construction regimes — confirm the compensability standard against current text.
+Init. Meas. 1948, No. 4, § 1, Acts 1949, p. 1420; Acts 1975 (Extended Sess., 1976), No. 1227, § 1; A.S.A. 1947, § 81-1301; reen. Acts 1987, No. 1015, § 1; Acts 1993, No. 796, § 1.
+
+## Section 11-9-102 - Definitions
+
+As used in this chapter: (1) "Carrier" means any stock company, mutual company, or reciprocal or interinsurance exchange authorized to write or carry on the business of workers' compensation insurance in this state. Whenever required by the context, the term "carrier" shall be deemed to include duly qualified self-insureds or self-insured groups; (2) "Child" means a natural child, a posthumous child, a child legally adopted prior to injury of the employee, a stepchild, an acknowledged illegitimate child of the deceased or of the spouse of the deceased, and a foster child; (3) "Commission" means the Workers' Compensation Commission; (4) (A) "Compensable injury" means: (i) An accidental injury causing internal or external physical harm to the body or accidental injury to prosthetic appliances, including eyeglasses, contact lenses, or hearing aids, arising out of and in the course of employment and which requires medical services or results in disability or death. An injury is "accidental" only if it is caused by a specific incident and is identifiable by time and place of occurrence; (ii) An injury causing internal or external physical harm to the body and arising out of and in the course of employment if it is not caused by a specific incident or is not identifiable by time and place of occurrence, if the injury is: (a) Caused by rapid repetitive motion. Carpal tunnel syndrome is specifically categorized as a compensable injury falling within this definition; (b) A back or neck injury which is not caused by a specific incident or which is not identifiable by time and place of occurrence; or (c) Hearing loss which is not caused by a specific incident or which is not identifiable by time and place of occurrence; (iii) Mental illness as set out in § 11-9-113 ; (iv) Heart or cardiovascular injury, accident, or disease as set out in § 11-9-114 ; (v) A hernia as set out in § 11-9-523 ; or (vi) An adverse reaction experienced by any employee of the Department of Health or any employee of a hospital licensed by the Department of Health related to vaccination with Vaccinia vaccines for smallpox, including the Dryvax vaccine, regardless of whether the adverse reaction is the result of voluntary action by the injured employee. (B) "Compensable injury" does not include: (i) Injury to any active participant in assaults or combats which, although they may occur in the workplace, are the result of nonemployment-related hostility or animus of one, both, or all of the combatants and which assault or combat amounts to a deviation from customary duties; furthermore, except for innocent victims, injuries caused by horseplay shall not be considered to be compensable injuries; (ii) Injury incurred while engaging in or performing or as the result of engaging in or performing any recreational or social activities for the employee's personal pleasure; (iii) Injury which was inflicted upon the employee at a time when employment services were not being performed or before the employee was hired or after the employment relationship was terminated; or (iv) (a) Injury where the accident was substantially occasioned by the use of alcohol, illegal drugs, or prescription drugs used in contravention of physician's orders. (b) The presence of alcohol, illegal drugs, or prescription drugs used in contravention of a physician's orders shall create a rebuttable presumption that the injury or accident was substantially occasioned by the use of alcohol, illegal drugs, or prescription drugs used in contravention of physician's orders. (c) Every employee is deemed by his or her performance of services to have impliedly consented to reasonable and responsible testing by properly trained medical or law enforcement personnel for the presence of any of the aforementioned substances in the employee's body. (d) An employee shall not be entitled to compensation unless it is proved by a preponderance of the evidence that the alcohol, illegal drugs, or prescription drugs utilized in contravention of the physician's orders did not substantially occasion the injury or accident. (C) The definition of "compensable injury" as set forth in this subdivision (4) shall not be deemed to limit or abrogate the right to recover for mental injuries as set forth in § 11-9-113 or occupational diseases as set forth in § 11-9-601 et seq. (D) A compensable injury must be established by medical evidence supported by objective findings as defined in subdivision (16) of this section. (E) Burden of Proof. The burden of proof of a compensable injury shall be on the employee and shall be as follows: (i) For injuries falling within the definition of compensable injury under subdivision (4)(A)(i) of this section, the burden of proof shall be a preponderance of the evidence; or (ii) For injuries falling within the definition of compensable injury under subdivision (4)(A)(ii) of this section, the burden of proof shall be by a preponderance of the evidence, and the resultant condition is compensable only if the alleged compensable injury is the major cause of the disability or need for treatment. (F) Benefits. (i) When an employee is determined to have a compensable injury, the employee is entitled to medical and temporary disability as provided by this chapter. (ii) (a) Permanent benefits shall be awarded only upon a determination that the compensable injury was the major cause of the disability or impairment. (b) If any compensable injury combines with a preexisting disease or condition or the natural process of aging to cause or prolong disability or a need for treatment, permanent benefits shall be payable for the resultant condition only if the compensable injury is the major cause of the permanent disability or need for treatment. (iii) Under this subdivision (4)(F), benefits shall not be payable for a condition which results from a nonwork-related independent intervening cause following a compensable injury which causes or prolongs disability or a need for treatment. A nonwork-related independent intervening cause does not require negligence or recklessness on the part of a claimant. (iv) Nothing in this section shall limit the payment of rehabilitation benefits or benefits for disfigurement as set forth in this chapter; (5) "Compensation" means the money allowance payable to the employee or to his or her dependents and includes the allowances provided for in § 11-9-509 and funeral expenses; (6) "Death" means only death resulting from compensable injury as defined in subdivision (4) of this section; (7) "Department" means the State Insurance Department; (8) "Disability" means incapacity because of compensable injury to earn, in the same or any other employment, the wages which the employee was receiving at the time of the compensable injury; (9) (A) "Employee" means an individual, including a minor, whether lawfully or unlawfully employed in the service of an employer under a contract of hire or apprenticeship, written or oral, expressed or implied, and the individual's employment status has been determined by consideration of the twenty-factor test required by the Empower Independent Contractors Act of 2019, § 11-1-201 et seq. (B) The term "employee" shall not include: (i) An individual who is both a licensee as defined in § 17-42-103 and a qualified real estate agent as that term is defined in section 3508(b)(1) of the Internal Revenue Code of 1986, including all regulations thereunder; (ii) An individual whose employment is casual and not in the course of the trade, business, profession, or occupation of his or her employer; or (iii) An individual who is required to perform work for a municipality, county, state, or the United States Government upon having been convicted of a criminal offense or while incarcerated. (C) Any individual holding from the commission a current certification of noncoverage under this chapter shall be conclusively presumed not to be an employee for purposes of this chapter or otherwise during the term of his or her certification or any renewals thereof or until he or she elects otherwise, whichever time period is shorter. (D) Any reference to an employee who has been injured, when that employee is dead, shall also include his or her legal representative, dependents, and other persons to whom compensation may be payable. (E) "Employee" shall not include a direct seller as defined in the Internal Revenue Code of 1986, 26 U.S.C. § 3508(b)(2) , as it existed on January 1, 2021; (10) "Employer" means any individual, partnership, limited liability company, association, or corporation carrying on any employment, the receiver or trustee of the same, or the legal representative of a deceased employer; (11) "Employment" means: (A) Every employment in the state in which three (3) or more employees are regularly employed by the same employer in the course of business except: (i) An employee employed as a domestic servant in or about a private home; (ii) An employee employed to do gardening, maintenance, repair, remodeling, or similar work in or about the private home or residence of the person employing the employee; (iii) Agricultural farm labor; (iv) The State of Arkansas and each of the political subdivisions thereof except as provided by §§ 6-17-1401 - 6-17-1405 , 14-26-101 - 14-26-104 , 14-60-101 - 14-60-104 , 19-10-101 - 19-10-103 , 19-10-202 - 19-10-210 , 19-10-401 - 19-10-406 , and 21-5-601 - 21-5-610 ; (v) A person for whom a rule of liability for injury or death arising out of and in the course of employment is provided by the laws of the United States; (vi) A person performing services for any nonprofit religious, charitable, or relief organization; (vii) Any person engaged in the vending, selling, offering for sale, or delivery directly to the general public of any newspapers, magazines, or periodicals or any person acting as sales agent or distributor as an independent contractor of or for any newspaper, magazine, or periodical; and (viii) Any individual who is both a licensee as defined in § 17-42-103 and a qualified real estate agent as that term is defined in section 3508(b)(1) of the Internal Revenue Code of 1986, including all regulations thereunder; (B) Every employment in which two (2) or more employees are employed by any person engaged in building or building repair work; (C) Every employment in which one (1) or more employees are employed by a contractor who subcontracts any part of his or her contract; and (D) Every employment in which one (1) or more employees are employed by a subcontractor; (12) "Healing period" means that period for healing of an injury resulting from an accident; (13) "Insurance Commissioner" means the Insurance Commissioner of the State of Arkansas; (14) (A) "Major cause" means more than fifty percent (50%) of the cause. (B) A finding of major cause shall be established according to the preponderance of the evidence; (15) "Medical services" means those services specified in § 11-9-508 ; (16) (A) (i) "Objective findings" are those findings which cannot come under the voluntary control of the patient. (ii) (a) When determining physical or anatomical impairment, neither a physician, any other medical provider, an administrative law judge, the Workers' Compensation Commission, nor the courts may consider complaints of pain. (b) For the purpose of making physical or anatomical impairment ratings to the spine, straight-leg-raising tests or range-of-motion tests shall not be considered objective findings. (iii) (a) Objective evidence necessary to prove physical or anatomical impairment in occupational hearing loss cases may be established by medically recognized and accepted clinical diagnostic methodologies, including, but not limited to, audiological tests that measure air and bone conduction thresholds and speech discrimination ability. (b) Any difference in the baseline hearing levels must be confirmed with a subsequent test within the next four (4) weeks but not before five (5) days and being adjusted for presbycusis. (B) Medical opinions addressing compensability and permanent impairment must be stated within a reasonable degree of medical certainty; (17) (A) "State average weekly wage" means the state average weekly wage determined annually by the Division of Workforce Services in the preceding calendar year pursuant to § 11-10-502 . (B) If, for any reason, the determination is not available, the commission shall determine the wage annually after reasonable investigation and public hearing; (18) "Time of accident" or "date of accident" means the time or date of the occurrence of the accidental incident from which compensable injury, disability, or death results; (19) "Wages" means the money rate at which the service rendered is recompensed under the contract of hiring in force at the time of the accident, including the reasonable value of board, rent, housing, lodging, or similar advantage received from the employer and includes the amount of tips required to be reported by the employer pursuant to section 6053 of the Internal Revenue Code of 1954 and the regulations promulgated pursuant thereto or the amount of actual tips reported, whichever amount is greater; and (20) (A) "Widow" shall include only the decedent's legal wife, living with or dependent for support upon him at the time of his death. (B) "Widower" shall include only the decedent's legal husband, living with or dependent for support upon her at the time of her death.
+
+Amended by Act 2021, No. 947,§ 2, eff. 7/28/2021.
+
+Amended by Act 2019, No. 1055,§ 5, eff. 7/24/2019.
+
+Amended by Act 2019, No. 1055,§ 4, eff. 7/24/2019.
+
+Amended by Act 2019, No. 910,§ 170, eff. 7/1/2019.
+
+Init. Meas. 1948, No. 4, § 2, Acts 1949, p. 1420; Acts 1975 (Extended Sess., 1976), No. 1227, § 2; 1979, No. 119, § 1; 1981, No. 290, § 1; 1983, No. 444, § 1; 1986 (2nd Ex. Sess.), No. 10, § 1; A.S.A. 1947, § 81-1302; reen. Acts 1987, No. 1015, § 2; Acts 1993, No. 796, § 2; 1995, No. 919, §§ 1, 2; 1997, No. 479, § 8; 1997, No. 832, § 1, 2; 1999, No. 20, § 1; 2001, No. 1757, §§ 1, 2; 2003, No. 1237, § 1; 2005, No. 1250, § 1; 2005, No. 1692, § 1; 2007, No. 546, § 2.
+
+## Section 11-9-103 - Applicability
+
+(a) Every employer and every employee, unless otherwise specifically provided in this chapter, shall be subject to the provisions of this chapter and shall be bound thereby. However, nothing in this chapter shall be construed to conflict with any valid act of the United States Congress governing the liability of employers for injuries received by their employees. (b) This chapter shall apply only to claims for injuries and death based upon accidents which occur from and after December 2, 1948. (c) The Workers' Compensation Law in effect prior to December 2, 1948, shall govern all rights in respect to claims for injuries and death based upon accidents occurring prior to the effective date of this chapter. (d) For purposes of this chapter, employment status as an employee or independent contractor is determined by consideration of the twenty-factor test required by the Empower Independent Contractors Act of 2019, § 11-1-201 et seq.
+
+Amended by Act 2019, No. 1055,§ 6, eff. 7/24/2019.
+
+Init. Meas. 1948, No. 4, § 3, Acts 1949, p. 1420; A.S.A. 1947, § 81-1303.
+
+## Section 11-9-104 - Effect of unconstitutionality
+
+If any part of this chapter is adjudged unconstitutional by the courts and the adjudication has the effect of invalidating any payment of compensation under this chapter, the period intervening between the time the injury was sustained and the time of the adjudication shall not be computed as part of the time prescribed by law for the commencement of any action against the employer in respect of the injury, but the amount of any compensation paid under this chapter on account of the injury shall be deducted from the amount of damages awarded in the action in respect to the injury.
+
+Init. Meas. 1948, No. 4, § 48, Acts 1949, p. 1420; A.S.A. 1947, § 81-1349.
+
+## Section 11-9-105 - Remedies exclusive - Exception
+
+(a) The rights and remedies granted to an employee subject to the provisions of this chapter, on account of injury or death, shall be exclusive of all other rights and remedies of the employee, his legal representative, dependents, next of kin, or anyone otherwise entitled to recover damages from the employer, or any principal, officer, director, stockholder, or partner acting in his or her capacity as an employer, or prime contractor of the employer, on account of the injury or death, and the negligent acts of a coemployee shall not be imputed to the employer. No role, capacity, or persona of any employer, principal, officer, director, or stockholder other than that existing in the role of employer of the employee shall be relevant for consideration for purposes of this chapter, and the remedies and rights provided by this chapter shall in fact be exclusive regardless of the multiple roles, capacities, or personas the employer may be deemed to have. (b) (1) However, if an employer fails to secure the payment of compensation as required by this chapter, an injured employee, or his or her legal representative in case death results from the injury, may, at his option, elect to claim compensation under this chapter or to maintain a legal action in court for damages on account of the injury or death. (2) In such action it shall not be necessary to plead or prove freedom from contributory negligence, nor may the defendant-employer plead as a defense that the injury was caused by the negligence of a fellow servant, that the employee assumed the risk of his or her employment, or that the injury was due to the contributory negligence of the employee.
+
+Amended by Act 2021, No. 353,§ 5, eff. 5/1/2023Providing that the amendment by § 2shall expire unless extended by the General Assembly .
+
+Amended by Act 2021, No. 353,§ 2, eff. 3/15/2021, app. retroactively to workers' compensation claims accruing on or filed on and after March 11, 2020.
+
+Init. Meas. 1948, No. 4, § 4, Acts 1949, p. 1420; Acts 1979, No. 253, § 1; A.S.A. 1947, § 81-1304; Acts 1993, No. 796, § 4.
+
+## Section 11-9-106 - Penalties for misrepresentation
+
+(a) (1) (A) Any person or entity who willfully and knowingly makes any material false statement or representation, who willfully and knowingly omits or conceals any material information, or who willfully and knowingly employs any device, scheme, or artifice for the purpose of obtaining any benefit or payment, defeating or wrongfully increasing or wrongfully decreasing any claim for benefit or payment, or obtaining or avoiding workers' compensation coverage or avoiding payment of the proper insurance premium, or who aids and abets for any of said purposes, under this chapter shall be guilty of a Class D felony. (B) Fifty percent (50%) of any criminal fine imposed and collected under this subdivision (a)(1) or subdivision (a)(2) of this section shall be paid and allocated in accordance with applicable law to the Death and Permanent Total Disability Trust Fund administered by the Workers' Compensation Commission. (2) It is to be understood that any person or entity with whom any person identified in subdivision (a)(1) of this section has conspired to achieve the proscribed ends shall, by reason of such conspiracy, be guilty as a principal of a Class D felony. (b) A copy of subdivision (a)(1) of this section shall be placed on all forms prescribed by the Workers' Compensation Commission for the use of injured employees claiming benefits and for the use of employers in responding to such employees' claims under this chapter. (c) Where the Workers' Compensation Commission or the Insurance Commissioner finds that false statements or representations were made willfully and knowingly, that material information was willfully and knowingly omitted or concealed, or that any device, scheme, or artifice was willfully and knowingly employed for the purpose of obtaining benefits or payments, obtaining, wrongfully increasing, wrongfully decreasing, or defeating any claim for benefit or payment, or obtaining or avoiding workers' compensation coverage or avoiding payment of the proper insurance premium under this chapter or that any other criminal violations related thereto were committed, the Chair of the Workers' Compensation Commission or the Insurance Commissioner shall refer the matter for appropriate action to the prosecuting attorney having criminal jurisdiction in the matter. (d) (1) (A) (i) There shall be established within the State Insurance Department a Workers' Compensation Fraud Investigation Unit, funded by the Workers' Compensation Commission, which will be headed and supervised by a director who may also serve as the director of any other designated insurance fraud investigation division within the department, in which event the director's compensation shall be paid solely from the funds of such insurance fraud investigation division. (ii) The unit is designated as a law enforcement agency. (B) (i) The unit herein designated will investigate workers' compensation fraud, additional criminal violations that may be related thereto, and any other insurance fraud matters as may be assigned at the discretion of the director. (ii) The Insurance Commissioner shall designate the personnel assigned to the unit, who shall conduct investigations under this subdivision (d)(1)(B). (iii) A person designated and employed as an investigator by the unit shall: (a) Be a certified law enforcement officer under § 12-9-101 et seq.; and (b) Have statewide law enforcement jurisdiction and authority. (iv) Personnel hired as law enforcement officers shall be state-certified law enforcement or the equivalent in national or military law enforcement experience as approved by the Arkansas Commission on Law Enforcement Standards and Training. (2) The Insurance Commissioner and his or her deputies and assistants and the fraud director and his or her deputies and assistants shall be vested with the power of enforcing this section and rendering more effective the disclosure and apprehension of persons or entities who abuse the workers' compensation system as established by the General Assembly by making false or misleading statements for the purpose of either obtaining, wrongfully increasing, wrongfully decreasing or defeating the payment of benefits, obtaining or avoiding workers' compensation coverage, or avoiding payment of the proper insurance premium. (3) It shall be the duty of the unit to assist the Insurance Commissioner and the department in the performance of their duties, and, further, to determine the identity of carriers, employers, or employees who within the State of Arkansas have violated subsection (a) of this section and report the violation to the Workers' Compensation Commission and to the Insurance Commissioner, who shall, in turn, be responsible for reporting the violation to the prosecuting attorney having criminal jurisdiction in the matter. (4) (A) With respect to the subject of any investigation being conducted by the unit, the Insurance Commissioner and his or her deputies and assistants and the fraud director and his or her deputies and assistants shall have the power of subpoena and may: (i) Subpoena witnesses; (ii) Administer oaths or affirmations and examine any individual under oath; and (iii) Require and compel the production of records, books, papers, contracts, and other documents. (B) Subpoenas of witnesses shall be served in the same manner as if issued by a circuit court. (C) (i) If any individual fails to obey a subpoena issued and served pursuant to this section with respect to any matter concerning which he or she may be lawfully interrogated, then upon application of the commissioner or fraud director, the Pulaski County Circuit Court or the circuit court of the county where the subpoena was served may issue an order requiring the individual to comply with the subpoena and to testify. (ii) Any failure to obey the order of the court may be punished by the court as a contempt thereof. (D) If any person has refused in connection with an investigation by the fraud director to be examined under oath concerning his or her affairs, then the fraud director is authorized to conduct and enforce by all appropriate and available means any examination under oath in any state or territory of the United States in which any officer, director, or manager may then presently be to the full extent permitted by the laws of the state or territory. (E) Any person testifying falsely under oath or affirmation in this state as to any matter material to any investigation or hearing conducted pursuant to this subdivision (d)(4), or any workers' compensation hearing, shall upon conviction be guilty of perjury and punished accordingly. (5) Fees and mileage of the officers serving the subpoenas and of the witnesses in answer to subpoenas shall be as provided by law. (6) (A) Every carrier or employer who has reason to suspect that a violation of subdivision (a)(1) of this section has occurred shall be required to report all pertinent matters relating thereto to the unit. (B) No such carrier shall be liable to any employer or employee for any such report, and no employer shall be liable to any employee for such a report unless it knowingly and intentionally includes false information. (C) (i) Any such carrier or employer who willfully and knowingly fails to report any such violation shall be guilty of a misdemeanor and upon conviction shall be punished by a fine not to exceed one thousand dollars ($1,000) or by imprisonment for a period not to exceed one (1) year or by both fine and imprisonment. (ii) Fifty percent (50%) of any criminal fine imposed and collected under this subdivision (d)(6)(C) shall be paid and allocated in accordance with applicable law to the fund administered by the commission. (D) Although not mandated to report suspected violations of subdivision (a)(1) of this section by an employer or employee, any employee who does make such a report shall not be liable to the employer or employee whose suspected violations he or she has reported. (E) In addition, any immunity from liability provisions of the Arkansas Insurance Code applicable to the reporting of suspected fraudulent insurance acts shall also be applicable to the reporting of information under this subdivision (d)(6). (e) (1) For the purpose of imposing criminal sanctions or a fine for violation of the duties of this chapter, the prosecuting attorney shall have the right and discretion to proceed against any person or organization responsible for such violations, both organizational and individual liability being intended by this chapter. (2) The prosecuting attorney of the district to whom a suspected violation of subsection (a) of this section, § 11-9-402(c) , § 11-9-406 , or any other criminal violations that may be related thereto, has been referred shall, for the purpose of assisting him or her in such prosecutions, have the authority to appoint as special deputy prosecuting attorneys licensed attorneys at law in the employment of the unit or any other designated insurance fraud investigation division within the department. Such special deputy prosecuting attorneys shall, for the purpose of the prosecutions to which they are assigned, be responsible to and report to the prosecuting attorney. (f) Notwithstanding any other provision of law, it is the specific intent of this section that active investigatory files as maintained by the department and by the unit be deemed confidential and privileged and not be made open to the public until the matter under investigation is closed by the fraud director with the consent of the Insurance Commissioner, except that such active investigatory files shall also be subject to any confidentiality provisions of the Arkansas Insurance Code, § 23-60-101 et seq., that are applicable to the investigation of fraudulent insurance acts. (g) The Insurance Commissioner, with the cooperation and assistance of the Workers' Compensation Commission, is authorized to establish rules as may be necessary to carry out the provisions of this section. (h) Nothing in this section shall be deemed to create a civil cause of action.
+
+Amended by Act 2019, No. 315,§ 775, eff. 7/24/2019.
+
+Amended by Act 2013, No. 984,§ 1, eff. 8/16/2013.
+
+Init. Meas. 1948, No. 4, § 35, Acts 1949, p. 1420; Init. Meas. 1968, No. 1, § 6; Acts 1975 (Extended Sess., 1976), No. 1227, § 17; 1979, No. 253, § 9; A.S.A. 1947, § 81-1335; reen. Acts 1987, No. 1015, § 17; Acts 1993, No. 796, § 5; 1997, No. 808, §§ 1-13; 1999, No. 881, § 1; 2001, No. 743, § 1.
+
+## Section 11-9-107 - Penalties for discrimination for filing claim
+
+(a) (1) Any employer who willfully discriminates in regard to the hiring or tenure of work or any term or condition of work of any individual on account of the individual's claim for benefits under this chapter, or who in any manner obstructs or impedes the filing of claims for benefits under this chapter, shall be subject to a fine of up to ten thousand dollars ($10,000) as determined by the Workers' Compensation Commission. (2) This fine shall be payable to the Second Injury Trust Fund and paid by the employer and not by the carrier. (b) (1) In addition, the prevailing party shall be entitled to recover costs and a reasonable attorney's fee payable from the fine. (2) Provided, however, if the employee is the nonprevailing party, the attorney's fee and costs shall, at the election of the employer, be paid by the employee or deducted from future workers' compensation benefits. (c) The employer may also be guilty of a Class D felony. (d) This section shall not be construed as establishing an exception to the employment at will doctrine. (e) A purpose of this section is to preserve the exclusive remedy doctrine and specifically annul any case law inconsistent herewith, including, but not necessarily limited to: Wal-Mart Stores, Inc. v. Baysinger, 306 Ark. 239, 812 S.W.2d 463 (1991) ; Mapco, Inc. v. Payne, 306 Ark. 198, 812 S.W.2d 483 (1991) ; and Thomas v. Valmac Industries, Inc., 306 Ark. 228, 812 S.W.2d 673 (1991).
+
+Init. Meas. 1948, No. 4, § 35, Acts 1949, p. 1420; Init. Meas. 1968, No. 1, § 6; A.S.A. 1947, § 81-1335; Acts 1993, No. 796, § 6.
+
+## Section 11-9-108 - Waiver of compensation void - Exception
+
+(a) No agreement by an employee to waive his or her right to compensation shall be valid, and no contract, regulation, or device whatsoever shall operate to relieve the employer or carrier, in whole or in part, from any liability created by this chapter, except as specifically provided elsewhere in this chapter. (b) (1) However, any officer of a corporation, sole proprietor, partner of a partnership, member of a limited liability company, member of a professional association, or self-employed employer who is not a subcontractor and who owns and operates his or her own business may by agreement or contract exclude himself or herself from coverage or waive his or her right to coverage or compensation under this chapter. (2) If the exclusion from coverage of the officer of a corporation, sole proprietor, partner of a partnership, member of a limited liability company, member of a professional association, or self-employed employer reduces the number of employees of the business to fewer than three (3), the employer shall nevertheless continue to provide workers' compensation coverage for the employees.
+
+Init. Meas. 1948, No. 4, § 20, Acts 1949, p. 1420; Acts 1971, No. 162, § 1; 1981, No. 631, § 3; A.S.A. 1947, § 81-1320; Acts 2007, No. 546, § 1.
+
+## Section 11-9-109 - Agreement to pay premium void
+
+(a) No agreement by an employee to pay any portion of the premium paid by his or her employer to a carrier or to contribute to a safety program as provided under § 11-9-409 or a benefit fund or department maintained by the employer for the purpose of providing compensation or medical services and supplies as required by this chapter shall be valid. (b) Any employer who makes a deduction for those purposes from the pay of any employee entitled to the benefits of this chapter shall be guilty of a Class D felony.
+
+Init. Meas. 1948, No. 4, § 20, Acts 1949, p. 1420; A.S.A. 1947, § 81-1320; Acts 1993, No. 796, § 7.
+
+## Section 11-9-110 - Compensation nonassignable, etc., and payable to dependents only - Child support obligations excepted - Definition
+
+(a) The right to compensation shall not be assignable and shall not be subject to garnishment, attachment, levy, execution, or any other legal process, except for child support obligations and moneys retained by the Division of Correction under § 12-30-406(a)(1) . (b) Money compensation to dependents of a deceased employee shall not constitute assets of the estate of the deceased employee and shall be payable to and for the benefit of the dependents alone. (c) (1) On or after June 30, 1993, the Workers' Compensation Commission shall forward monthly a computer tape listing the name, address, and Social Security number, if available, on all persons for whom the commission has established a file during the preceding month to the Office of Child Support Enforcement of the Revenue Division of the Department of Finance and Administration. The computer tape shall also include the name of the workers' compensation carrier and the name of the employer. (2) The same information shall be provided to individuals who apply for the information with the commission on an individual employee to an individual certifying that they have an interest in the child support obligations of the employee on whom the information is requested. (d) (1) Amounts withheld from weekly compensation benefits for child support obligations shall not exceed twenty-five percent (25%) of the benefit amount. (2) Amounts withheld from a lump-sum settlement on a joint petition for child support obligations shall not exceed fifty percent (50%) of the settlement amount. (e) Any amount withheld under subsection (d) of this section shall be paid through the appropriate court payable to the person or agency to whom the obligation is payable. (f) Any amount withheld pursuant to the provisions of this section shall for all purposes be treated as if it were paid to the employee as workers' compensation and paid by the employee to the person or agency to whom the obligation is payable. (g) For purposes of this section, "child support obligations" is defined as only those support obligations that are contained in a decree or order of the circuit court which provides for the payment of money for the support and care of any child or children.
+
+Amended by Act 2019, No. 910,§ 696, eff. 7/1/2019.
+
+Init. Meas. 1948, No. 4, § 21, Acts 1949, p. 1420; A.S.A. 1947, § 81-1321; Acts 1987, No. 524, § 2; 1995, No. 1184, §§ 21, 28; 2001, No. 1651, § 1.
+
+## Section 11-9-111 - Compensation payable to certain alien dependents
+
+(a) Compensation to alien nonresidents of the United States or Canada shall be the same in amount as provided for residents, except that alien nonresident dependents in any foreign country shall be limited to the surviving wife or children or, if there is no surviving wife or children, to the surviving father or mother whom the employee has supported, either wholly or in part, for the period of one (1) year prior to the date of the injury. (b) Upon its own motion or upon application of an interested party, the Workers' Compensation Commission may order the payment of all future compensation to be paid in one (1) lump sum, which shall be equal to one-half (½) of the face value of all future installments of compensation.
+
+Init. Meas. 1948, No. 4, § 16, Acts 1949, p. 1420; A.S.A. 1947, § 81-1316.
+
+## Section 11-9-112 - Preference for due compensation
+
+Compensation due an injured employee or his or her dependents shall have the same preference as is allowed by law to an employee for unpaid wages.
+
+Init. Meas. 1948, No. 4, § 22, Acts 1949, p. 1420; A.S.A. 1947, § 81-1322.
+
+## Section 11-9-113 - Mental injury or illness
+
+(a) (1) A mental injury or illness is not a compensable injury unless it is caused by physical injury to the employee's body, and shall not be considered an injury arising out of and in the course of employment or compensable unless it is demonstrated by a preponderance of the evidence; provided, however, that this physical injury limitation shall not apply to any victim of a crime of violence. (2) No mental injury or illness under this section shall be compensable unless it is also diagnosed by a licensed psychiatrist or psychologist and unless the diagnosis of the condition meets the criteria established in the most current issue of the Diagnostic and Statistical Manual of Mental Disorders. (b) (1) Notwithstanding any other provision of this chapter, where a claim is by reason of mental injury or illness, the employee shall be limited to twenty-six (26) weeks of disability benefits. (2) (A) In case death results directly from the mental injury or illness within a period of one (1) year, compensation shall be paid the dependents as provided in other death cases under this chapter. (B) Death directly or indirectly related to the mental injury or illness occurring one (1) year or more from the incident resulting in the mental injury or illness shall not be a compensable injury.
+
+Acts 1993, No. 796, § 8.
+
+## Section 11-9-114 - Heart or lung injury or illness
+
+(a) A cardiovascular, coronary, pulmonary, respiratory, or cerebrovascular accident or myocardial infarction causing injury, illness, or death is a compensable injury only if, in relation to other factors contributing to the physical harm, an accident is the major cause of the physical harm. (b) (1) An injury or disease included in subsection (a) of this section shall not be deemed to be a compensable injury unless it is shown that the exertion of the work necessary to precipitate the disability or death was extraordinary and unusual in comparison to the employee's usual work in the course of the employee's regular employment or, alternately, that some unusual and unpredicted incident occurred which is found to have been the major cause of the physical harm. (2) Stress, physical or mental, shall not be considered in determining whether the employee or claimant has met his or her burden of proof.
+
+Acts 1993, No. 796, § 8.
+
+## Section 11-9-115 - Disclosure of child support obligations
+
+(a) (1) At any time an application is made for workers' compensation, an employer shall require the applicant for compensation to state whether or not the applicant has child support obligations, if the obligations are current or past due, and to whom the obligations are payable. (2) The application shall also include the name of the workers' compensation carrier and the name of the employer. (b) The employer shall forward a copy of the application to the Office of Child Support Enforcement of the Revenue Division of the Department of Finance and Administration.
+
+Acts 1993, No. 1185, § 1.
+
+## Section 11-9-116 - Fund transfer to support Workers' Compensation Fraud Unit of the State Insurance Department
+
+(a) (1) One (1) month before the beginning of any fiscal quarter, the Insurance Commissioner shall provide to the Workers' Compensation Commission the estimated funding need of the Workers' Compensation Fraud Investigation Unit of the State Insurance Department for the ensuing quarter. (2) Such provided certification shall itemize each position to be utilized in the unit and funded by the commission and make estimates of all other budgetary line items necessary to provide support to the unit. (3) This certification must deduct unexpended and unencumbered balances of the unit from the previous quarter, so that only the current need, excluding unexpended and unencumbered funds, is certified for fund transfer authorized in this section. (b) (1) On or before the first day of each fiscal quarter, the commission shall certify to the Chief Fiscal Officer of the State that funds are available for transfer, upon which certification the Chief Fiscal Officer of the State, the Treasurer of State, and the Auditor of State shall transfer those funds from the Workers' Compensation Fund of the commission to the fund account used for the maintenance, operation, and support of the unit. (2) The sum of the four (4) quarterly transfers in each fiscal year ending June 30 cannot exceed one hundred fifty thousand dollars ($150,000).
+
+Acts 1999, No. 1179, § 9.
+
+## Section 11-9-117 - Carpal tunnel syndrome guidelines
+
+Pursuant to its rulemaking authority, the Workers' Compensation Commission shall be empowered to enact medical diagnostic and treatment guidelines regarding occupational carpal tunnel syndrome upon the joint recommendation of the Arkansas chapter of the American Federation of Labor and Congress of Industrial Organizations and the Arkansas State Chamber of Commerce.
+
+Acts 2001, No. 1281, § 2.
+
+## Section 11-9-118 - Provider payments while claims are pending
+
+(a) No hospital, physician, or other healthcare provider shall bill or attempt to collect any fee or any portion of a fee for services rendered to an employee due to a work-related injury or report to any credit reporting agency any failure of the employee to make the payment, when a claim for compensation has been filed under this chapter and the hospital, physician, or healthcare provider has received actual notice given in writing by the employee or the employee's representative. Actual notice shall be deemed received by the hospital, physician, or healthcare provider five (5) days after mailing by certified mail by the employee or his or her representative to the hospital, physician, or healthcare provider. (b) The notice shall include: (1) The name of the employer; (2) The name of the insurer, if known; (3) The name of the employee receiving the services; (4) The general nature of the injury, if known; and (5) Where a claim has been filed, the claim number, if known. (c) When an injury or bill is found to be noncompensable under this chapter, the hospital, physician, or other healthcare provider shall be entitled to pursue the employee for any unpaid portion of the fee or other charges for authorized services provided to the employee. Any applicable statute of limitations for an action for the fees or other charges shall be tolled from the time notice is given to the hospital, physician, or other healthcare provider until a determination of noncompensability in regard to the injury which is the basis of the services is made, or in the event that there is an appeal to the Workers' Compensation Commission, the Court of Appeals, or the Supreme Court, until a final determination of noncompensability is rendered and all appeal deadlines have passed. (d) This section shall not avoid, modify, or amend any other section or subsection of this chapter, including, but not limited to, the prohibition against balance billing contained in § 11-9-508(d)(3) and any rules adopted thereunder. (e) An order by the commission pursuant to this section shall stay all proceedings for collection.
+
+Amended by Act 2019, No. 315,§ 776, eff. 7/24/2019.
+
+Acts 2001, No. 1281, § 3.
+
+## Section 11-9-201 - Members - Appointment - Compensation
+
+(a) (1) The Workers' Compensation Commission shall consist of three (3) members appointed by the Governor for terms of six (6) years who shall devote their entire time to the duties of the commission and shall administer the provisions of this chapter. (2) One (1) member shall be an attorney who has at least five (5) years' experience representing employers in workers' compensation matters or shall be a person who, on account of his or her previous vocation, employment, or affiliation, has had at least five (5) years of experience as an employer and can be classed as a representative of employers. (3) One (1) member shall be an attorney who has at least five (5) years' experience predominantly representing claimants in workers' compensation matters or employees in labor relations matters or shall be a person who, on account of his or her previous vocation, employment, or affiliation, has had at least five (5) years of membership in a bona fide labor organization and can be classed as a representative of employees. (4) The third member shall be an attorney, who shall be chair of the commission and who shall have been engaged in active practice of law in the State of Arkansas for not less than five (5) years next preceding the date of his or her appointment. (b) Each member shall receive a salary of five thousand dollars ($5,000) per annum or such other maximum salary as may be established by the Arkansas Constitution for salaries of state employees. The salaries shall be paid from the Workers' Compensation Fund and shall be paid in the manner as are salaries of other state officials or employees. (c) (1) When any member of the commission is disqualified for any reason to hear and participate in the determination of any matter pending before the commission, the Governor shall appoint a qualified person to hear and participate in the decision on the particular matter. The special member so appointed shall have all authority and responsibility with respect to the particular matter before the commission as if the person were a regular member of the commission but shall have no authority or responsibility with respect to any other matter before the commission. (2) A person appointed as a special member of the commission pursuant to the provisions of this subdivision shall be entitled to receive a per diem not to exceed one hundred dollars ($100) for each day spent in attending to his or her duties as a special member of the commission. The compensation shall be paid from any funds of the commission which are available for or may legally be used for paying such per diem.
+
+Init. Meas. 1948, No. 4, § 42, Acts 1949, p. 1420; Acts 1979, No. 663, §§ 1, 2; A.S.A. 1947, §§ 81-1342 -- 81-1342.2; Acts 1995, No. 546, § 1.
+
+## Section 11-9-202 - Members - Bond
+
+(a) The members shall give bond in the sum of ten thousand dollars ($10,000) executed by a surety company authorized to do business in the state for the faithful performance of their duties. (b) The bond shall be approved by the Governor and kept on file in the office of the Secretary of State. (c) Any action on the bond for breach thereof shall be instituted by the Attorney General and shall be in the name of the State of Arkansas. (d) The premium upon the bonds shall be paid out of the Workers' Compensation Fund.
+
+Init. Meas. 1948, No. 4, § 42, Acts 1949, p. 1420; A.S.A. 1947, § 81-1342.
+
+## Section 11-9-203 - Members - Removal
+
+(a) The Governor may, at any time, remove any member of the Workers' Compensation Commission for inefficiency, neglect of duty, or misconduct in office, giving him or her in advance a copy of the charges preferred and an opportunity of being publicly heard, in person or by counsel, upon not less than ten (10) days' notice. (b) A representative of the Attorney General's office shall attend the proceedings and upon the Governor's request shall advise or assist him or her therein. (c) Either party may procure the attendance of witnesses and their testimony as is now provided by the Civil Code in ordinary actions. (d) If a member is removed, the Governor shall file in the office of the Secretary of State a complete statement of all charges made against the member and his or her findings, together with a complete record of the proceedings had and a transcript of testimony. It shall constitute a public record of the state.
+
+Init. Meas. 1948, No. 4, § 42, Acts 1949, p. 1420; A.S.A. 1947, § 81-1342.
+
+## Section 11-9-204 - Proceedings
+
+(a) Members of the Workers' Compensation Commission shall be considered as officers and shall take the oath prescribed by the Arkansas Constitution and the laws of Arkansas. (b) (1) A majority of the commission shall constitute a quorum for the transaction of business, and vacancies shall not impair the right of the remaining members to exercise all the powers of the full commission, so long as a majority remains. (2) Any investigation, inquiry, or hearing which the commission is authorized to hold or undertake may be held or undertaken by or before any one (1) member of the commission, or referee acting for him or her, under authorization of the commission. (c) (1) The commission shall maintain and keep open, during reasonable business hours, an office in Little Rock, for the transaction of business, at which office its official records and papers shall be kept. (2) The commission or any member of the commission may hold sessions and conduct hearings at any place within the state. (d) The commission shall have a seal for authentication of its orders, awards, and proceedings, upon which shall be inscribed the words: "Workers' Compensation Commission, State of Arkansas".
+
+Init. Meas. 1948, No. 4, § 42, Acts 1949, p. 1420; A.S.A. 1947, § 81-1342.
+
+## Section 11-9-205 - Administration of chapter - Staff and expenditures
+
+(a) (1) For the purpose of administering the provisions of this chapter, the Workers' Compensation Commission is authorized: (A) To make such rules as may be found necessary; (B) To appoint and fix the compensation of temporary technical assistants and medical and legal advisers and to appoint and to fix the compensation of clerical assistants and other officers and employees; and (C) To make such expenditures, including those for personal service, rent, books, periodicals, office equipment, and supplies, and for printing and binding as may be necessary. (2) (A) Prior to the adoption, prescription, amendment, modification, or repeal of any rule or form, the commission shall give at least forty-five (45) days' notice of its intended action. (B) The notice shall include a statement of the terms or substance of the intended action or description of the subjects and issues involved, and the time, place, and manner in which interested persons may present their views thereon. (C) The notice shall be mailed to any person specified by law or who shall have requested advance notice of rulemaking proceedings. (3) The commission shall afford all interested persons a reasonable opportunity to submit written data, views, or arguments, and, if the commission in its discretion shall so direct, oral testimony or argument. (4) Each rule or form adopted by the commission shall be effective twenty (20) days after adoption unless a later date is specified by law or in the rule itself. (5) All expenditures of the commission in the administration of this chapter shall be allowed and paid from the Workers' Compensation Fund upon the presentation of itemized vouchers approved by the commission. (b) (1) The commission may appoint as many persons as may be necessary to be administrative law judges and in addition may appoint such examiners, rate experts, investigators, medical examiners, clerks, and other employees as it deems necessary to effectuate the provisions of this chapter, provided that the appointment of all rate experts shall be made by the Secretary of the Department of Labor and Licensing, whose duty it is to approve the rates charged. (2) Rate experts shall be considered employees of the commission and the Department of Labor and Licensing and shall be paid from the Workers' Compensation Fund. (3) Employees appointed pursuant to this subsection shall receive an annual salary to be fixed by the commission within the appropriation made therefor. (c) It shall be the duty of an administrative law judge, under the rules adopted by the commission, to hear and determine claims for compensation and to conduct hearings and investigations and to make such orders, decisions, and determinations as may be required by any rule or order of the commission.
+
+Amended by Act 2019, No. 315,§ 779, eff. 7/24/2019.
+
+Amended by Act 2019, No. 315,§ 778, eff. 7/24/2019.
+
+Amended by Act 2019, No. 315,§ 777, eff. 7/24/2019.
+
+Amended by Act 2019, No. 910,§ 5357, eff. 7/1/2019.
+
+Init. Meas. 1948, No. 4, §§ 42, 44, Acts 1949, p. 1420; 1975, No. 655, § 1; 1986 (2nd Ex. Sess.), No. 10, § 13; A.S.A. 1947, §§ 81-1342, 81-1344.
+
+## Section 11-9-206 - Traveling expenses for members and employees
+
+Any member or employee of the Workers' Compensation Commission shall be entitled to receive his or her necessary traveling expenses actually incurred and for subsistence while traveling on official business and away from his or her designated station. The expenses shall be certified by the person who incurred them and shall be allowed and paid upon presentation of vouchers approved by the commission.
+
+Init. Meas. 1948, No. 4, § 45, Acts 1949, p. 1420; A.S.A. 1947, § 81-1346.
+
+## Section 11-9-207 - Powers and duties
+
+(a) In addition to its other duties and powers, the Workers' Compensation Commission is given and granted full power and authority: (1) To hear and determine all claims for compensation, including claims based upon injuries which occurred outside the State of Arkansas for which compensation is payable under this chapter; (2) To require and order medical services for and examinations of injured employees and to employ special medical examiners and advisors who shall be paid not to exceed twenty-five dollars ($25.00) per day and reasonable traveling expenses; (3) To approve claims for medical services and attorney's fees; (4) To excuse failure to give notice either of injury or death of any employee; (5) To approve agreements, make, modify, or rescind awards, and make and enter findings of fact and rulings of law; (6) To enter orders in appealed cases; (7) To determine the time for the payment of compensation and order the reimbursement of employers for amounts advanced; (8) To assess penalties; (9) To prescribe rules governing the representation of employees, employers, and carriers in respect to claims before the commission; (10) To issue subpoenas, administer oaths, and take testimony, by deposition or otherwise; (11) To make surveys and to determine the existence and prevalence of occupational disease hazards within this state, to determine the measures necessary to eliminate or reduce these hazards, and to add to the schedule of occupational diseases subject to appropriate conditions and after public hearing; (12) To make available all records in connection with all cases of personal injury to the Secretary of the Department of Labor and Licensing. The secretary may propose rules for the prevention of injuries and transmit the rules to the commission. The commission may recommend proposed rules for prevention of injuries to the secretary; (13) To have and exercise all other powers and duties conferred or imposed by this chapter; and (14) To transfer the excess of income over expenses from the commission's annual educational conference to Kids' Chance of Arkansas, Inc., a nonprofit charitable organization designed to provide scholarships to children of workers who have been killed or become permanently and totally disabled from a compensable injury, including any accumulation from prior years' conferences. (b) (1) In addition to the other powers and duties granted to the commission in this section and otherwise provided by law, the commission is authorized to establish and impose reasonable fees to recover the cost of preparation of various informative materials distributed by the commission. (2) The fees shall be established by rule of the commission. (3) Funds derived from fees shall be deposited into the Workers' Compensation Fund to be used to defray expenses incurred in preparation and distribution of materials.
+
+Amended by Act 2019, No. 315,§ 781, eff. 7/24/2019.
+
+Amended by Act 2019, No. 315,§ 780, eff. 7/24/2019.
+
+Amended by Act 2019, No. 910,§ 5358, eff. 7/1/2019.
+
+Init. Meas. 1948, No. 4, § 43, Acts 1949, p. 1420; Acts 1981, No. 630, § 1; A.S.A. 1947, §§ 81-1343, 81-1343.1; Acts 2001, No. 1757, § 3.
+
+## Section 11-9-208 - Biennial report
+
+On or before the first day of the regular session of the General Assembly, the Workers' Compensation Commission under the authority of at least two (2) of its members shall make to the Governor and to the General Assembly a report of the administration of this chapter for the preceding biennial period, together with such recommendations as the commission may deem advisable.
+
+Init. Meas. 1948, No. 4, § 46, Acts 1949, p. 1420; A.S.A. 1947, § 81-1347.
+
+## Section 11-9-209 - Statistical data collection
+
+(a) The Workers' Compensation Commission shall publish annually, on an aggregate basis, information pertaining to the distribution of workers' compensation insurance premiums, losses, expenses, and net income to be compiled from reports required to be filed with the Secretary of the Department of Labor and Licensing pursuant to § 23-63-216 , as amended, or any similar information required to be filed by the secretary regarding workers' compensation insurance. (b) The commission shall also publish in that same annual report information regarding aggregate workers' compensation benefit distribution to claimants, medical providers, and attorneys if that specific information or similar information becomes available from revised or additional reporting requirements that may be required by the secretary.
+
+Amended by Act 2019, No. 910,§ 5359, eff. 7/1/2019.
+
+Acts 1991, No. 1060, § 7.
+
+## Section 11-9-210 - Purchase of annuity contracts - Funding of Death and Permanent Total Disability Trust Fund obligations
+
+(a) (1) The Workers' Compensation Commission is hereby authorized to fund financial obligations of the Death and Permanent Total Disability Trust Fund through the purchase of structured annuity contracts. Provided, the commission shall purchase such annuity contracts only when the commission determines that it is financially advantageous to the trust fund involved. (2) Structured annuity contracts shall be purchased only from insurance companies: (A) Licensed to do business in Arkansas and authorized to write annuities as regulated by the State Insurance Department; (B) Experienced in the business of writing and administering structured annuities; (C) Determined to be financially sound and having an A.M. Best rating of A+ and category size VIII or greater, or equivalent independent industry rating; and (D) Be rated AA+ or better by Standard and Poor's, Moody's, or an equivalent rating by an equivalent rating service. (3) Structured annuity contracts purchased by the commission shall: (A) Include a separate contract for each claimant or beneficiary covered; (B) Require that the payments to the claimant or beneficiary be sent to the commission so that it can maintain administrative control over the payments, and the commission will distribute the payments in full to the claimants or beneficiaries; and (C) Provide for return of principal to the appropriate fund in the event that the obligations of the Death and Permanent Total Disability Trust Fund to any claimant or beneficiary cease prior to the end of the period certain guarantee in the contract. (b) The commission shall adopt such appropriate rules consistent with the provisions of this section, § 23-96-104(16) and (25) , and § 23-96-114(f) and (g) as it deems necessary to enable it to efficiently and effectively administer the provisions of this section, § 23-96-104(16) and (25) , and § 23-96-114(f) and (g) and any structured annuity arrangement it may enter into pursuant to the authority granted herein.
+
+Amended by Act 2019, No. 315,§ 782, eff. 7/24/2019.
+
+Amended by Act 2019, No. 382,§ 2, eff. 7/24/2019.
+
+Acts 1991, No. 651, §§ 1, 3.
+
+## Section 11-9-212 - Workers' Compensation Commission - Fund transfers
+
+After receiving approval from the Chief Fiscal Officer of the State, the Chief Executive Officer of the Workers' Compensation Commission, after receiving approval of the Workers' Compensation Commission, may transfer funds from the Second Injury Trust Fund to the Death and Permanent Total Disability Trust Fund or the Workers' Compensation Fund, or both.
+
+Added by Act 2023, No. 341,§ 10, eff. 7/1/2023.
+
+## Section 11-9-211 - Workers' Compensation Commission - Investment authority
+
+(a) All funds held at any time in the Death and Permanent Total Disability Trust Fund, the Second Injury Trust Fund, and the Workers' Compensation Fund shall be invested and reinvested to the extent feasible. (b) All investments authorized for use by the Treasurer of State shall be available for investment of the listed funds. (c) The movement of these funds into and out of investments shall be by fund transfers as directed by the Chief Executive Officer of the Workers' Compensation Commission with the approval of the Workers' Compensation Commission.
+
+Added by Act 2023, No. 341,§ 8, eff. 7/1/2023.
+
+## Section 11-9-301 - Funds established
+
+(a) There are established on the books of the Treasurer of State, the Auditor of State, and the Chief Fiscal Officer of the State, three (3) separate funds: (1) The "Workers' Compensation Fund"; (2) The "Second Injury Trust Fund"; and (3) The "Death and Permanent Total Disability Trust Fund". (b) Except for funds transferred into the General Revenue Fund Account specified in § 11-9-303(c) or other sections of this subchapter, no money shall be appropriated from these funds for any purpose except for the use and benefit, or at the direction of, the Workers' Compensation Commission. (c) All funds established pursuant to this section shall be administered, disbursed, and invested under the direction of the commission. (d) All incomes derived through investment of the Workers' Compensation Fund, the Second Injury Trust Fund, and the Death and Permanent Total Disability Trust Fund shall be credited, as investment income, to the fund that participated in the investment. For the purpose of investment, Workers' Compensation Fund moneys shall be invested in accordance with the State Treasury Management Law, § 19-3-501 et seq. (e) Except for moneys transferred into the General Revenue Fund Account specified in § 11-9-303(c) or other sections of this subchapter, all moneys deposited to the aforementioned funds shall not be subject to any deduction, tax, levy, or any other type of assessment. (f) If, on or after July 1, 1983, the balance in the Second Injury Trust Fund becomes insufficient to fully compensate those employees to whom it is obligated, payment shall be suspended until such time as the Second Injury Trust Fund is capable of meeting its obligations, paying all arrearages, and restoring normal benefit payments. In no event shall there be any reverter of responsibility to the employer or carrier on or after July 1, 1983. (g) (1) Upon the effective maturity dates of each investment, the investment shall be transferred to the Treasurer of State for deposit into the Death and Permanent Total Disability Trust Fund created in this section. (2) The free balances of the Death and Permanent Total Disability Bank Fund shall be transferred to the Death and Permanent Total Disability Trust Fund.
+
+Init. Meas. 1948, No. 4, § 47, Acts 1949, p. 1420; Acts 1979, No. 253, § 10; 1981, No. 290, § 13; 1983, No. 393, § 1; A.S.A. 1947, § 81-1348; Acts 1989 (3rd Ex. Sess.), No. 22, §§ 1, 2; 1997, No. 1179, § 8.
+
+## Section 11-9-302 - Qualifying fees for carriers, third-party administrators, and self-insurers
+
+(a) Each carrier writing compensation insurance in this state shall pay to the Insurance Commissioner, in addition to the premium taxes and fees now required under existing laws, at the time of securing the first license to transact business in the state the sum of five hundred dollars ($500) for the privilege of qualifying with the Workers' Compensation Commission for the writing of compensation insurance. (b) At the time of qualifying, each self-insurer or third-party administrator shall pay to the commission the sum of one hundred dollars ($100) for the privilege of qualifying as a self-insurer or third-party administrator. (c) All carriers, self-insurers, or third-party administrators qualifying under the provisions of this chapter shall be required to pay this initial assessment before they shall be qualified. (d) These fees shall be deposited into the Workers' Compensation Fund created in § 11-9-301 . (e) The commission may assess a third-party administrator an annual fee of one hundred dollars ($100).
+
+Init. Meas. 1948, No. 4, § 47, Acts 1949, p. 1420; Acts 1979, No. 253, § 10; 1983, No. 393, § 1; A.S.A. 1947, § 81-1348; Acts 2001, No. 1757, § 4.
+
+## Section 11-9-303 - Payment of tax by carrier - Definition
+
+(a) (1) In addition to the premium taxes collected from carriers, the carriers shall pay annually to the Workers' Compensation Commission a tax, at the rate to be determined as provided in § 11-9-306 but not to exceed three percent (3%), on all written manual premiums resulting from the writing of workers' compensation insurance on risks within the state. (2) Upon the final payment of the liabilities of the Death and Permanent Total Disability Trust Fund under § 11-9-502 , the tax rate under this section shall not exceed one and five-tenths percent (1.5%). (b) "Written manual premium" means premium produced in a given year by the manual rates in effect during the experience period and shall exclude the premium produced by the expense constant. Furthermore, "written manual premium", for the purpose of this chapter, means premium before any allowable deviated discounts, any experience rating modification, any premium discount, any reinsurance or deductible arrangement as common with fronting carriers, any dividend consideration, or other trade discount. (c) (1) This tax shall be collected by the commission from the carriers at the same time and in the same manner as insurance premium taxes under § 26-57-601 et seq. and deposited into the funds created in § 11-9-301 . (2) This transfer from the funds created in § 11-9-301 shall be in the same proportions that deposits were made into the three (3) funds as set forth in § 11-9-306(a) -(c). (d) (1) Assessments upon which premium taxes are based shall be made on forms prescribed by the commission and shall be paid to the commission. (2) Absent a waiver obtained from the commission for good cause, the failure of the licensed carrier to pay the assessment when due shall be referred to the Insurance Commissioner for appropriate administrative action against the Arkansas certificate of authority of the delinquent insurer. (e) Premium tax payments shall be made by check payable to the commission.
+
+Amended by Act 2016EX3, No. 5,§ 1, eff. 8/22/2016.
+
+Amended by Act 2016EX3, No. 4,§ 1, eff. 8/22/2016.
+
+Init. Meas. 1948, No. 4, § 47, Acts 1949, p. 1420; Acts 1979, No. 253, § 10; 1983, No. 393, § 1; A.S.A. 1947, § 81-1348; Acts 1989 (3rd Ex. Sess.), No. 22, § 3; 1993, No. 652, § 14; 2001, No. 1757, § 5; 2005, No. 505, § 1.
+
+## Section 11-9-304 - Payment of tax by self-insurer
+
+(a) (1) The Workers' Compensation Commission shall collect a tax from every self-insured employer at a rate to be determined as provided by § 11-9-306 but not to exceed three percent (3%) of the written manual premium which would have to be paid under § 11-9-303 by a carrier if the self-insured employer were insured by a carrier. (2) Upon the final payment of the liabilities of the Death and Permanent Total Disability Trust Fund pursuant to § 11-9-502 , the tax rate under this section shall not exceed one and five-tenths percent (1.5%). (b) If the tax provided for under this section is not paid within thirty (30) days of the date provided in § 11-9-306 , there shall be assessed a penalty for each thirty (30) days the amount so assessed remains unpaid which is equal to ten percent (10%) of the unpaid amounts and which shall be collected at the same time as a part of the tax assessed.
+
+Amended by Act 2016EX3, No. 5,§ 2, eff. 8/22/2016.
+
+Amended by Act 2016EX3, No. 4,§ 2, eff. 8/22/2016.
+
+Init. Meas. 1948, No. 4, § 47, Acts 1949, p. 1420; Acts 1979, No. 253, § 10; 1983, No. 393, § 1; A.S.A. 1947, § 81-1348.
+
+## Section 11-9-305 - Payment of tax by public employer
+
+(a) (1) (A) The Workers' Compensation Commission shall collect a tax from every public employer providing workers' compensation coverage to its employees at a rate to be determined as provided by § 11-9-306 but not to exceed three percent (3%) of the written manual premium which an insurance carrier would have to pay under § 11-9-303 if the public employer were insured by a carrier. (B) Upon the final payment of the liabilities of the Death and Permanent Total Disability Trust Fund under § 11-9-502 , the tax rate under this section shall not exceed one and five-tenths percent (1.5%). (2) (A) The commission shall tabulate and collect the tax to be collected from entities whose workers' compensation claims are administered by the Public Employee Claims Division. (B) In tabulating the manual premium, a public employer whose workers' compensation claims are administered by the division shall use the average compensation rate for this state as promulgated by the National Council on Compensation Insurance, Inc. for the tax year in question. (3) The tax collected shall be deposited in and paid to the commission from the Workers' Compensation Revolving Fund and miscellaneous revolving funds. (b) (1) In the event that any public employer whose workers' compensation claims are administered by the division fails to cooperate in furnishing information upon which the tax will be computed or fails to pay the tax within thirty (30) days of the date provided in § 11-9-306 , the commission shall notify the Director of the Public Employee Claims Division of the failure, and the commission shall decertify the public employer from participation in the state's workers' compensation program. (2) In the event of decertification, the public employer shall obtain its employer's workers' compensation liability coverage from the private market and shall not be entitled to participate in the state's workers' compensation program for a period of one (1) year thereafter. (c) The procedure for decertification shall be the same as for the revocation or termination of the self-insurer privilege.
+
+Amended by Act 2016EX3, No. 5,§ 3, eff. 8/22/2016.
+
+Amended by Act 2016EX3, No. 4,§ 3, eff. 8/22/2016.
+
+Init. Meas. 1948, No. 4, § 47, Acts 1949, p. 1420; Acts 1983, No. 393, § 1; 1985, No. 98, § 10; A.S.A. 1947, § 81-1348; Acts 1989 (3rd Ex. Sess.), No. 22, § 4; 1993, No. 1318, § 12; 2005, No. 505, § 2.
+
+## Section 11-9-306 - Determination of surplus and rate of taxation
+
+(a) (1) The Workers' Compensation Commission, on or before December 31 of each year, shall determine the surplus, if any, in the Workers' Compensation Fund, together with the additional amounts necessary to properly administer this chapter for the ensuing year. (2) The commission shall determine the rate of taxation for collections for that year on or before March 1 of the following year. (b) (1) The commission, on or before December 31 of each year, shall determine the surplus, if any, in the Second Injury Trust Fund, together with the additional amounts necessary to properly administer this chapter for the ensuing year. (2) The commission shall determine the rate of taxation for collections for that year on or before March 1 of the following year. (c) (1) The commission, on or before December 31 of each year, shall determine the surplus, if any, in the Death and Permanent Total Disability Trust Fund, together with the additional amounts necessary to properly administer this chapter for the ensuing year. (2) The commission shall determine the rate of taxation for collections for that year on or before March 1 of the following year. (d) (1) The total rate of taxation for all three (3) funds when added together shall not exceed three percent (3%). (2) Upon the final payment of the liabilities of the Death and Permanent Total Disability Trust Fund under § 11-9-502 , the tax rate under this section shall not exceed one and five-tenths percent (1.5%). (e) (1) The commission shall notify each insurance carrier of the rate of taxation applicable to each fund for the preceding year, and taxes shall be computed and paid pursuant to the provisions of § 11-9-303(c) on or before April 1 of the following year. (2) The commission shall notify each self-insured employer subject to the tax of the rate of taxation applicable to each fund for the preceding year, and taxes shall be computed by the commission and paid to each fund by the self-insurer through payments made directly to the commission on or before April 1 of the following year. (3) The commission shall notify each public employer subject to this tax of the rate of taxation applicable to each fund for the preceding year, and taxes shall be computed by the commission and paid to each respective fund through payments made directly to the commission by the public employer on or before April 1 of the following year. (f) The commission shall have the authority to promulgate rules for administration of the assessment and tax collection process, including, but not limited to, rules applicable to the funds established in § 11-9-301 . (g) No later than March 30 each year, the commission shall provide the Insurance Commissioner a complete listing of workers' compensation premium tax collections for the preceding calendar year, including the monetary amount of workers' compensation premium tax paid, by year, by name of workers' compensation carrier, and by National Association of Insurance Commissioners identity number.
+
+Amended by Act 2019, No. 315,§ 783, eff. 7/24/2019.
+
+Amended by Act 2016EX3, No. 5,§ 4, eff. 8/22/2016.
+
+Amended by Act 2016EX3, No. 4,§ 4, eff. 8/22/2016.
+
+Init. Meas. 1948, No. 4, § 47, Acts 1949, p. 1420; Acts 1979, No. 253, § 10; 1983, No. 393, § 1; A.S.A. 1947, § 81-1348; Acts 1989 (3rd Ex. Sess.), No. 22, § 5; 2005, No. 505, § 3.
+
+## Section 11-9-307 - Certification of cost of administering Public Employee Claims Division
+
+(a) During the biennial period beginning July 1, 1989, and thereafter, the State Insurance Department shall certify to the Chief Fiscal Officer of the State the cost of administering the Public Employee Claims Division. (b) The certification shall be made the month following each quarter of the fiscal year and shall include a report of the expenditures of the division for workers' compensation claims paid on behalf of the cities, the counties, and the public schools, each of the three (3) reported as a class of employers, and each state agency supported from treasury funds or fund accounts. (c) After the certification has been received and approved by the Chief Fiscal Officer of the State, the Chief Fiscal Officer of the State shall transfer funds from the Public School Fund, the Municipal Aid Fund, the County Aid Fund, and from the various treasury funds of state agencies to the Miscellaneous Agencies Fund Account. (d) The transfers shall be made in the same proportion that payments were made in behalf of that entity for workers' compensation claims in the prior quarter as certified by the department. (e) The amount transferred shall be the proportional cost associated with the fund as certified to and approved by the Chief Fiscal Officer of the State. (f) Should a state agency be supported from more than one (1) treasury fund, the fund transfers from that agency shall be in the same proportion that appropriations were made to that agency for regular salaries from the respective funds.
+
+Acts 1987, No. 680, § 16; 2011, No. 980, § 3.
+
+## Section 11-9-401 - Employer's liability for compensation
+
+(a) (1) Every employer should secure compensation to its employees and pay or provide compensation for their disability or death from compensable injury arising out of and in the course of employment without regard to fault as a cause of the injury. (2) There shall be no liability for compensation under this chapter where the injury or death was substantially occasioned by the willful intention of the injured employee to bring about such compensable injury or death. (b) The primary obligation to pay compensation is upon the employer, and the procurement of a policy of insurance by an employer to cover the obligation in respect to this chapter shall not relieve the employer of the obligation.
+
+Init. Meas. 1948, No. 4, § 5, Acts 1949, p. 1420; Acts 1975 (Extended Sess., 1976), No. 1227, § 3; A.S.A. 1947, § 81-1305; reen. Acts 1987, No. 1015, § 3; Acts 1993, No. 796, § 9.
+
+## Section 11-9-402 - Liability of prime contractors and subcontractors - Sole proprietorships or partnerships
+
+(a) Where a subcontractor fails to secure compensation required by this chapter, the prime contractor shall be liable for compensation to the employees of the subcontractor unless there is an intermediate subcontractor who has workers' compensation coverage. (b) (1) Any contractor or the contractor's insurance carrier who shall become liable for the payment of compensation on account of injury to or death of an employee of his or her subcontractor may recover from the subcontractor the amount of the compensation paid or for which liability is incurred. (2) The claim for the recovery shall constitute a lien against any moneys due or to become due to the subcontractor from the prime contractor. (3) A claim for recovery, however, shall not affect the right of the injured employee or the dependents of the deceased employee to recover compensation due from the prime contractor or his or her insurance carrier. (c) (1) (A) When a sole proprietorship or partnership fails to elect to cover the sole proprietor or partners under this chapter, the prime contractor is not liable under this chapter for injuries sustained by the sole proprietor or partners if the sole proprietor or partners are not employees of the prime contractor. (B) (i) A sole proprietor or the partners of a partnership who do not elect to be covered by this chapter and be deemed employees thereunder and who deliver to the prime contractor a current certification of noncoverage issued by the Workers' Compensation Commission shall be conclusively presumed not to be covered by the law or to be employees of the prime contractor during the term of his or her certification or any renewals thereof. (ii) A certificate of noncoverage may not be presented to a subcontractor who does not have workers' compensation coverage. (iii) This provision shall not affect the rights or coverage of any employees of the sole proprietor or of the partnership. (2) Furthermore, the prime contractor's insurance carrier is not liable for injuries to the sole proprietor or partners described in this section who have provided a current certification of noncoverage, and the carrier shall not include compensation paid by the prime contractor to the sole proprietor or partners described above in computing the insurance premium for the prime contractor. (3) (A) Any prime contractor who after being presented with a current certification of noncoverage by a sole proprietor or partnership nonetheless compels the sole proprietor or partnership to pay or contribute to workers' compensation coverage of that sole proprietor or partnership shall be guilty of a Class D felony. (B) Furthermore, any prime contractor who compels a sole proprietor or partnership to obtain a certification of noncoverage when the sole proprietor or partnership does not desire to do so is guilty of a Class D felony. (C) Furthermore, any applicant who makes a false statement when applying for a certification of noncoverage or any renewals thereof shall be guilty of a Class D felony. (d) (1) A certification of noncoverage issued by the commission after July 1, 2001, shall be valid for two (2) years after the effective date stated thereon. Both the effective date and the expiration date must be listed on the face of the certificate by the commission. The certificate must expire at midnight two (2) years from its issue date, as noted on the face of the certificate. (2) Any certification of noncoverage that is in effect on July 1, 2001, shall expire as follows: (A) A certification of noncoverage issued in the years 1993 or 1994 shall expire at midnight on September 30, 2001; (B) A certification of noncoverage issued in the years 1995 or 1996 shall expire at midnight on December 31, 2001; (C) A certification of noncoverage issued in the years 1997 or 1998 shall expire at midnight on March 31, 2002; and (D) A certification of noncoverage issued in the years 1999 or 2000 shall expire at midnight on June 30, 2002. (3) The commission may assess a fee not to exceed fifty dollars ($50.00) with each application for a certification of noncoverage or any renewals thereof. (4) Any certification of noncoverage issued by the commission shall contain the social security number and notarized signature of the applicant. The notarization shall be in a form and manner prescribed by the commission. (5) The commission may prescribe by rule forms and procedures for issuing or renewing a certification of noncoverage.
+
+Init. Meas. 1948, No. 4, § 6, Acts 1949, p. 1420; A.S.A. 1947, § 81-1306; Acts 1987, No. 941, § 1; 1993, No. 796, § 10; 2001, No. 1757, § 6; 2005, No. 1917, § 1.
+
+## Section 11-9-403 - Waiver of exclusion or exemption
+
+(a) Any employer carrying on any exempted or excepted employment may at any time waive the exemptions or exceptions as to any employee or all employees engaged in the employment as the employer may elect by giving notice of waiver of the exemptions or exceptions as provided in subsection (b) of this section. (b) Notice of waiver of exclusion or exemption referred to in subsection (a) of this section shall be given in accordance with the following provisions: (1) Every employer who waives the exclusion or exemption shall post, and keep posted, in and about the employer's place of business typewritten or printed notices to that effect in accordance with a form to be prescribed by the Workers' Compensation Commission, and the employer shall file a duplicate of the notice with the commission. (2) The notice shall be given at least thirty (30) days prior to any injury. However, if the injury occurs less than thirty (30) days after the date of employment, the notice, if given at the time of employment, shall be sufficient notice.
+
+Init. Meas. 1948, No. 4, §§ 7, 8, Acts 1949, p. 1420; A.S.A. 1947, §§ 81-1307, 81-1308.
+
+## Section 11-9-404 - Security for compensation
+
+(a) Every employer shall secure the payment of compensation under this chapter: (1) By insuring and keeping insured the payment of the compensation with any carrier authorized to write workers' compensation insurance; (2) (A) By furnishing satisfactory proof to the Workers' Compensation Commission of the employer's financial ability to pay compensation and receiving an authorization from the commission to pay compensation directly. (B) The commission, as a condition to such authorization, may require the employer, except municipalities, counties, or the State of Arkansas or its political subdivisions, to deposit in a depository designated by the commission either an indemnity bond, irrevocable letter of credit, or securities of any kind and in an amount determined by the commission, subject to such reasonable conditions as the commission may prescribe. The conditions shall include authorization to the commission, in case of default, to sell any securities sufficient to pay compensation awards or to bring suit on the bonds or the letter of credit to procure prompt payment of compensation under this chapter. (C) Any employer securing compensation in accordance with the provisions of this subdivision (a)(2) shall be known as a self-insurer and shall be classed as a carrier of its own insurance. (D) A self-insurer may have the privilege of securing those portions of the payment of compensation under this chapter as the self-insurer shall elect by insuring the portions with a company approved by the commission. The liability of the company shall be limited to those features and liabilities of this chapter as are expressly stated, and none other; (3) (A) The commission, under such rules as it may prescribe, may permit two (2) or more employers engaged in the same type of business activity or pursuit to enter into agreements to pool their liabilities under this section for the purpose of qualifying as self-insurers, and each such approved group shall be classified as an homogeneous self-insurer. (B) (i) The commission, under such rules as it may prescribe, may permit two (2) or more employers who are members of the same trade or professional association to enter into agreements to pool their liabilities under this section for the purpose of qualifying as self-insurers, and each such approved group shall be classified as a common self-insurer. (ii) The trade or professional association shall have been in active existence for at least three (3) years; such associations shall have a constitution or bylaws; and all trustees shall be participants in the common self-insurer program, shall have members that support the association by regular payment of dues on an annual, semiannual, quarterly, or monthly basis, and shall be created in good faith for purposes other than that of creating workers' compensation common self-insurer pools. (iii) No two (2) trade or professional associations shall be allowed to combine or join each other and qualify as a common self-insurer. (C) In order to qualify as group self-insurers, these groups shall furnish to or satisfy the commission as to the following: (i) An application on a form prescribed by the commission by an elected board of trustees to establish a self-insurance fund to be administered under the direction of the trustees; (ii) The application shall be accompanied by: (a) An indemnity agreement in a form satisfactory to the commission jointly and severally binding the groups and each member of the groups to comply with the provisions of the Workers' Compensation Law, § 11-9-101 et seq.; and (b) An individual application by each member of the groups applying for coverage in the fund; (iii) A current, audited financial statement of each member of the groups showing a combined net worth of all members applying for coverage of not less than one million dollars ($1,000,000), a combined ratio of current assets to current liabilities of not less than one to one (1:1), and working capital of an amount establishing financial ability and liquidity sufficient to pay normal compensation claims promptly; (iv) (a) That the groups deposit and maintain with the commission acceptable securities or have posted a surety bond issued by a corporate surety authorized to do business in the State of Arkansas, in an amount determined by the commission, but not less than two hundred thousand dollars ($200,000). (b) However, this subdivision (a)(3)(C)(iv) shall not be applicable to municipalities, counties, or the State of Arkansas and its political subdivisions; (v) That there exist ample facilities and competent personnel of good character within the groups, or through an approved service organization, for the groups to service their own programs with respect to underwriting matters, claims and adjusting, industrial safety engineering, accounting, and financial management; (vi) (a) That the groups maintain excess insurance with an insurance company authorized to do business in this state in an amount acceptable to the commission. (b) However, this subdivision (a)(3)(C)(vi) shall not be applicable to municipalities, counties, or the State of Arkansas and its political subdivisions; and (vii) (a) That such financial statements, payroll records, accident experience, and compensation reports and such other reports and statements are filed at such time and in such manner as the commission shall require. (b) However, any fund which fails or refuses to file the reports within the time limits prescribed by the commission shall be subject to a civil penalty in such amount as the commission may prescribe not to exceed one hundred dollars ($100) per infraction per day, and the failure or refusal may be considered good cause for revocation or suspension of self-insurance privileges; (4) Each member of the groups shall file financial reports and statements at such times and in such manner as the commission may require to satisfy itself as to the continued financial stability of the member; and (5) In order to continue to qualify as a homogeneous self-insurer fund or common self-insurer fund, the groups shall continue to meet the minimum requirements as set forth in subdivision (a)(3) of this section or as prescribed by the commission. (b) (1) Except for the initial qualification of the groups, a certified audited financial statement shall not be required of any member of a group either for initial membership or as a condition for continued membership in the group. (2) However, each financial statement filed with the commission shall be duly certified by the president and treasurer of the member, in the case of a corporation, and by the owner and general partners, respectively, in the case of an individual proprietorship or partnership, to the effect that such financial statement is true and correct to the best of the knowledge and belief of the officer, individual owner, or partner and truly reflects the financial condition of the member. (c) Any person who knowingly files a false or fraudulent financial statement under the provisions of this chapter shall, upon conviction, be fined not more than ten thousand dollars ($10,000) or imprisoned not more than five (5) years, or both. (d) Jurisdiction for the enforcement of the provisions of this chapter or any appeal therefrom shall be in the Pulaski County Circuit Court. The underlying purpose of this chapter is to assure the payment of benefits due employees, and this chapter shall be liberally construed to that end. (e) (1) The commission may suspend or revoke any authorization to a self-insurer for a good cause shown after a hearing at which the self-insurer shall be entitled to be heard in person or by counsel and to present evidence. (2) No suspension or revocation shall affect the liability of any self-insurer already incurred. (f) Authorization to write compensation insurance under this chapter shall be given to a carrier only after the carrier has received a certificate of authority from the Insurance Commissioner to transact the business of workers' compensation insurance in Arkansas and the commission has been notified in writing of the issuance of the certificate of authority.
+
+Amended by Act 2019, No. 315,§ 784, eff. 7/24/2019.
+
+Init. Meas. 1948, No. 4, § 36, Acts 1949, p. 1420; Acts 1979, No. 994, § 1; 1981, No. 72, § 1; A.S.A. 1947, § 81-1336; Acts 1987, No. 806, §§ 1, 2; 1987, No. 980, § 1; 1989, No. 821, § 3; 1993, No. 683, § 1; 1995, No. 825, § 1; 2003, No. 468, § 1.
+
+## Section 11-9-405 - Substitution of carrier for employer
+
+(a) In any case where the employer is not a self-insurer, in order that the liability for compensation imposed by this chapter may be most effectively discharged by the employer and in order that the administration of this chapter with respect to that liability may be facilitated, the Workers' Compensation Commission shall by rule provide for the discharge by the carrier, for the employer, of the obligations and duties of the employer with respect to such liability imposed by this chapter upon the employer as it considers proper in order to effectuate the provisions of this chapter. (b) For such purpose: (1) Notice to or knowledge of an employer of the occurrence of the injury shall be notice to or knowledge of the carrier; (2) Jurisdiction over the employer by the commission or by any court under this chapter shall be jurisdiction over the carrier; and (3) Any requirements by the commission or any court under any compensation order, finding, or decision shall be binding upon the carrier in the same manner and to the same extent as upon the employer.
+
+Amended by Act 2019, No. 315,§ 785, eff. 7/24/2019.
+
+Init. Meas. 1948, No. 4, § 37, Acts 1949, p. 1420; A.S.A. 1947, § 81-1337.
+
+## Section 11-9-406 - Failure to secure payment of compensation - Penalty
+
+(a) (1) Any employer required to secure the payment of compensation under this chapter who fails to secure compensation shall be subject to a fine of up to ten thousand dollars ($10,000) as determined by the Workers' Compensation Commission payable to the Death and Permanent Total Disability Trust Fund or be guilty of a Class D felony. (2) This subsection shall not affect any other liability of the employer under this chapter. (b) (1) Whenever the commission has reason to believe that any employer required to secure the payment of compensation under this chapter has failed to do so, the commission shall serve upon the employer a proposed order declaring the employer to be in violation of this chapter and containing the amount, if any, of the civil penalty to be assessed against the employer pursuant to subdivision (b)(5) of this section. (2) (A) An employer may contest a proposed order of the commission issued pursuant to subdivision (b)(1) of this section by filing with the commission, within twenty (20) days of receipt of the proposed order, a written request for a hearing. (B) Such a request for a hearing need not be in any particular form but shall specify the grounds upon which the person contests the proposed order, the proposed assessment, or both. (C) If a written request for hearing is not filed with the commission within this time, the proposed order, the proposed penalty, or both, shall be a final order of the commission and shall not be subject to further review by any court. (D) A proposed order by the commission pursuant to this section is prima facie correct, and the burden is upon the employer to prove that the proposed order is incorrect. (3) (A) If the employer alleges that a carrier has contracted to provide it workers' compensation insurance coverage for the period in question, the employer shall include the allegation in its request for hearing and shall name the carrier. (B) The commission shall promptly notify the carrier of the employer's allegation and of the date of hearing. (C) The carrier shall promptly, and no later than five (5) days prior to the hearing, respond in writing to the employer's allegation by providing evidence of coverage for the period in question or by affirmatively denying the employer's allegation. (4) Hearings conducted under this section shall proceed as provided in §§ 11-9-704 - 11-9-711 . (5) The commission may assess a fine against an employer who fails to secure the payment of compensation in an amount up to one thousand dollars ($1,000) per day of violation payable to the fund. (6) If an employer fails to secure the payment of compensation or pay any civil penalty assessed against the employer after an order issued pursuant to this section has become final by operation of law or upon appeal, the commission may petition the Pulaski County Circuit Court or of the county where the employer's principal place of business is located for an order enjoining the employer from engaging in further employment until such time as the employer secures the payment of compensation or makes full payment of all civil penalties.
+
+Init. Meas. 1948, No. 4, § 39, Acts 1949, p. 1420; A.S.A. 1947, § 81-1339; Acts 1993, No. 796, § 11.
+
+## Section 11-9-407 - Posting notice of compliance
+
+(a) Every employer who has secured compensation under the provisions of this chapter shall keep posted in a conspicuous place in and about the employer's place of business typewritten or printed notices in accordance with a form prescribed by the Workers' Compensation Commission. The notices shall state that the employer has secured the payment of compensation in accordance with the provisions of this chapter. (b) The notices shall contain the name and address of the carrier, if any, with whom the employer has secured payment of compensation and the date of the expiration of the policy.
+
+Init. Meas. 1948, No. 4, § 41, Acts 1949, p. 1420; A.S.A. 1947, § 81-1341.
+
+## Section 11-9-408 - Insurance policies
+
+(a) Contents. Every policy or contract of insurance issued by a carrier to an employer to secure the payment of compensation under this chapter shall contain: (1) (A) Provisions that identify the insured employer and either identify each covered employee or describe covered employees by class or type of labor performed and the estimated number of employees of each such class or type. (B) No single policy of workers' compensation insurance may be issued to any group of employers who are unaffiliated with one another in terms of ownership, control, or right to participate in the profits of the affiliated enterprises; (2) Provisions that insolvency or bankruptcy of the employer or discharge therein shall not relieve the carrier from payment of compensation for compensable injuries sustained by an employee during the term of the policy or contract; (3) (A) The agreement of the carrier that it will promptly pay to the person entitled to compensation every installment of compensation that may be awarded or agreed upon and that this obligation shall not be affected by any default of the employer or by any default in the giving of any notice required by the policy or otherwise. (B) The agreement shall be construed to be a direct obligation by the carrier to the person entitled to compensation, enforceable in that person's name; and (4) Such other provisions as the State Insurance Department allows or requires carriers to include in workers' compensation policies as otherwise provided at the Arkansas Workers' Compensation Insurance Plan, § 23-67-301 et seq. (b) Cancellation. (1) An employer may cancel coverage with a carrier by giving the carrier at least thirty (30) days' notice, unless a shorter period is permitted under subdivision (b)(1)(B) of this section. (A) Cancellation of coverage is effective at 12:01 a.m. thirty (30) days after the date the cancellation notice is received by the carrier, unless a later date is specified in the notice to the carrier. (B) (i) An employer may cancel coverage effective less than thirty (30) days after written notice is received by the carrier where the employer obtains other coverage or becomes a self-insurer. (ii) A cancellation under this subdivision is effective immediately upon the effective date of the other coverage or upon authorization as a self-insurer. (2) (A) A notice of cancellation from the carrier shall state the hour and date that cancellation is effective. (B) A carrier shall not cancel coverage issued to an employer under this chapter prior to the date specified for expiration in the policy or contract or until at least thirty (30) days have elapsed after a notice of cancellation has been mailed to the Workers' Compensation Commission and to the employer, or until ten (10) days have elapsed after the notice has been mailed to the employer and to the commission if the cancellation is for nonpayment of premium. (C) However, if the employer procures other insurance within the notice period, the effective date of the new policy shall be the cancellation date of the old policy. (3) Cancellation of coverage by an employer or a carrier shall in no way limit liability that was incurred under the policy or contract prior to the effective date of cancellation. (c) Coverage. (1) No policy or contract of insurance shall be issued against liability under this chapter unless the policy or contract covers the entire liability of the employer. Split coverage whereby some employees of an employer are insured by one carrier and other employees are insured by another carrier, or by the Arkansas Workers' Compensation Insurance Plan, § 23-67-301 et seq., or a plan of self-insurance is expressly prohibited except for: (A) A policy issued in accordance with § 23-92-409 so long as all employees performing services for a client are covered under the same policy, contract, or plan; or (B) A policy issued covering the liability of an employer or of multiple employers as to specific jobs, ventures, contracts, or undertakings, but only if the policy meets with the reasonable satisfaction and approval of the Insurance Commissioner that the policy is in the best interest of the employers and the employees concerned and does not unduly or improperly affect the continuity of workers' compensation coverage by seriously and negatively affecting other carriers and agents with outstanding policies issued to any of the employers in issue. (2) As to any questions of liability between the employer and the carrier, the terms of the policy or contract shall govern. (d) Under such rules as may be adopted by the Insurance Commissioner, and notwithstanding other provisions of this chapter, he or she may certify five (5) or more employers as an insurance group which shall be considered an employer for the purposes of this chapter.
+
+Amended by Act 2019, No. 315,§ 786, eff. 7/24/2019.
+
+Init. Meas. 1948, No. 4, § 38, Acts 1949, p. 1420; Acts 1973, No. 158, § 1; A.S.A. 1947, § 81-1338; Acts 1993, No. 796, § 12; 2003, No. 1750, § 5.
+
+## Section 11-9-409 - Safety and health loss control consultative services
+
+(a) Workers' Health and Safety Division. (1) The Workers' Compensation Commission shall establish a Workers' Health and Safety Division, hereinafter referred to as the "division". (2) The division shall collect and serve as a repository for statistical information on workers' health and safety. In cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department, the division shall analyze and use the information to identify and assign priorities to safety needs and to better coordinate the safety services provided by public or private organizations, including insurance carriers. In cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department, the division shall promote workers' health and safety through educational programs and other innovative programs developed by the division. (3) In cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department, the division shall coordinate or supervise the collection of information relating to job safety. (4) The Chair of the Workers' Compensation Commission, the Secretary of the Department of Labor and Licensing, and the Insurance Commissioner shall function as an advisory committee to resolve questions regarding duplication of efforts, assignment of new programs, and other matters that need cooperation and coordination. (5) (A) In cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department, the division shall publish or procure and issue educational books, pamphlets, brochures, films, videotapes, and other informational and educational material. Specific educational material shall be directed to high-risk industries and jobs and shall specifically address means and methods of avoiding high frequency but preventable workers' injuries. Other educational material shall be directed to business and industry generally and shall specifically address means and methods of avoiding common workers' injuries. (B) Specific decisions as to what issues and problems should be addressed by such information shall be made by the division in cooperation and with the assistance of the Department of Labor and Licensing and the State Insurance Department and with commission approval after assigning appropriate priorities based on frequency of injuries, degree of hazard, severity of injuries, and similar considerations. (C) Such educational materials shall include specific references to the requirements of state laws and rules and federal laws and regulations, to recommendations and practices of business, industry, and trade associations, and, where needed, to recommended work practices based on recommendations made by the division, in cooperation and with the assistance of the Department of Labor and Licensing and the State Insurance Department, for the prevention of injury. (6) In cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department, the division shall cooperate with employers and employees to develop means and methods of educating employees and employers with regard to workplace safety. (7) In cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department, the division shall encourage other entities to develop safety courses, safety plans, and safety programs. (8) In cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department, the division shall certify safe employers to provide peer review safety programs. (9) In cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department, the division shall advise insurance carrier loss control service organizations of hazard classifications, specific employers, industries, occupations, or geographic regions to which loss control services should be directed or of the identity and types of injuries or occupational diseases for prevention of the same to which loss control services should be directed and shall advise insurance carrier loss control service organizations of safety needs and priorities recommended by the division in cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department. (b) Job Safety Information System. (1) In cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department, the division shall establish and maintain a job safety information system. (2) (A) The job safety information system shall include a comprehensive database that incorporates all pertinent information relating to each reported injury. (B) The identity of the employee is confidential and may not be disclosed as part of the job safety information system. (3) Employers shall file with the commission such reports as may be necessary. The commission shall promulgate rules and prescribe the form and manner of the reports. (4) In cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department, the division is authorized, empowered, and directed to obtain, from any state agency, data and statistics, including those compiled for the purpose of ratemaking. (5) The division shall consult the Department of Labor and Licensing and any other affected state agencies in the design of data information and retrieval systems that will accomplish the mutual purposes of those agencies and of the division. (c) Extra-Hazardous Employer Program. (1) (A) In cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department, the division shall develop a program, including injury frequency, to identify extra-hazardous employers. The term "extra-hazardous employer" includes an employer whose injury frequencies substantially exceed those that may reasonably be expected in that employer's business or industry, an employer whose experience modifier is identified by the commission as too high, and such other employers as may, following a public hearing, be identified as extra-hazardous. (B) The division shall notify each identified extra-hazardous employer or the carrier for the employer that the employer has been identified as an extra-hazardous employer. (2) (A) An employer who receives notification under subdivision (c)(1)(B) of this section must obtain a safety consultation within thirty (30) days from the Department of Labor and Licensing, the employer's insurance carrier, or another professional source approved by the division for that purpose. (B) The safety consultant shall file a written report with the division and the employer setting out any hazardous conditions or practices identified by the safety consultation. (3) The employer and the consultant shall formulate a specific accident prevention plan that addresses the hazards identified by the consultant. The employer shall comply with the accident prevention plan. (4) The division may investigate accidents occurring at the work sites of an employer for whom a plan has been formulated under subdivision (c)(3) of this section, and the division may otherwise monitor the implementation of the accident prevention plan as it finds necessary. (5) (A) Six (6) months after the formulation of an accident prevention plan prescribed by subdivision (c)(3) of this section, the division shall conduct a follow-up inspection of the employer's premises. The division may require the participation of the safety consultant who performed the initial consultation and formulated the safety plan. (B) If the division determines that the employer has complied with the terms of the accident prevention plan or has implemented other acceptable corrective measures, the division shall so certify. (C) An employer who the division determines has failed or refused to implement the accident prevention plan or other suitable hazard abatement measures is subject to civil penalties as follows: (i) The commission may assess a civil penalty against an employer who fails or refuses to implement the accident prevention plan or other suitable hazard abatement procedures in an amount up to one thousand dollars ($1,000) per day of violation payable to the Death and Permanent Total Disability Trust Fund; and (ii) Furthermore, the commission may petition the Pulaski County Circuit Court, or of the county where the business is located, for an order enjoining the employer from engaging in further employment until such time as the employer implements the prevention plan or abatement measure described above or makes payment of all civil penalties. (6) If, at the time of the inspection required under subdivision (c)(5)(A) of this section, the employer continues to exceed the injury frequencies that may reasonably be expected in that employer's business or industry, the division shall continue to monitor the safety conditions at the work site and may formulate additional safety plans reasonably calculated to abate hazards. The employer shall comply with the plans and may be subject to additional penalties for failure to implement the plan or plans. (7) An employer may request a hearing before the full commission to contest findings made by the division under this section. (8) The identification as an extra-hazardous employer under this section is not admissible in any judicial proceeding unless the commission has determined that the employer is not in compliance with this section and unless that determination has not been reversed or superseded at the time of the event giving rise to the judicial proceeding. (d) Accident Prevention Services. (1) Any insurance company licensed to provide casualty insurance in the State of Arkansas and desiring to write workers' compensation insurance in Arkansas shall maintain or provide accident prevention services as a prerequisite to write workers' compensation insurance. The services shall be adequate to furnish accident prevention programs required by the nature of its policyholders' operations and shall include surveys, recommendations, training programs, consultations, analyses of accident causes, industrial hygiene, and industrial health services to implement the program of accident prevention services. (2) Notice that services are available to the policyholder from the insurance company must appear in no less than ten-point bold type on the front of each workers' compensation insurance policy delivered or issued for delivery in the state. (3) At least once each year, each insurance company writing workers' compensation insurance in Arkansas must submit to the division detailed information on the type of accident prevention services offered to that insurance company's policyholders. The information must include any additional information required by the commission. (4) In cooperation with and with the assistance of the Department of Labor and Licensing and the State Insurance Department, the division shall conduct inspections to determine the adequacy of the accident prevention services required by subdivision (d)(1) of this section at least every two (2) years for each insurance company writing workers' compensation insurance in Arkansas. (5) If the insurance company does not maintain or provide the accident prevention services required by this subsection or if the insurance company does not use the services in a reasonable manner to prevent injury to employees of its policyholders, the insurance company may be subjected to the same civil penalties as are assessable and enforceable against employers as set forth above in subdivision (c)(5)(C) of this section and shall be subject to suspension or revocation of license to do business in this state by the Insurance Commissioner. (6) The commission shall employ the qualified personnel necessary to enforce this section. (e) Immunity from Certain Liability. (1) Except as provided in subdivision (d)(5) of this section, the insurance company, the agent, servant, or employee of the insurance company or self-insured employer, or a safety consultant who performs a safety consultation under this section shall have no liability with respect to any accident based on the allegation that the accident was caused or could have been prevented by a program, inspection, or other activity or service undertaken by the insurance company or self-insured employer for the prevention of accidents in connection with operations of the employer. (2) Provided, however, this immunity shall not affect the liability of the insurance carrier or self-insured employer for compensation or as otherwise provided in this chapter. (f) Exclusive Remedy. This section does not create an independent cause of action at law or in equity.
+
+Amended by Act 2019, No. 315,§ 787, eff. 7/24/2019.
+
+Amended by Act 2019, No. 910,§ 5365, eff. 7/1/2019.
+
+Amended by Act 2019, No. 910,§ 5364, eff. 7/1/2019.
+
+Amended by Act 2019, No. 910,§ 5363, eff. 7/1/2019.
+
+Amended by Act 2019, No. 910,§ 5362, eff. 7/1/2019.
+
+Amended by Act 2019, No. 910,§ 5361, eff. 7/1/2019.
+
+Amended by Act 2019, No. 910,§ 5360, eff. 7/1/2019.
+
+Acts 1993, No. 796, § 13; 2005, No. 505, § 4.
+
+## Section 11-9-410 - Third-party liability
+
+(a) Liability Unaffected. (1) (A) The making of a claim for compensation against any employer or carrier for the injury or death of an employee shall not affect the right of the employee, or his or her dependents, to make a claim or maintain an action in court against any third party for the injury, but the employer or the employer's carrier shall be entitled to reasonable notice and opportunity to join in the action. (B) If they, or either of them, join in the action, they shall be entitled to a first lien upon two-thirds (2/3) of the net proceeds recovered in the action that remain after the payment of the reasonable costs of collection, for the payment to them of the amount paid and to be paid by them as compensation to the injured employee or his or her dependents. (2) The commencement of an action by an employee or his or her dependents against a third party for damages by reason of an injury to which this chapter is applicable, or the adjustment of any claim, shall not affect the rights of the injured employee or his or her dependents to recover compensation, but any amount recovered by the injured employee or his or her dependents from a third party shall be applied as follows: (A) Reasonable costs of collection shall be deducted; (B) Then, in every case, one-third (1/3) of the remainder shall belong to the injured employee or his or her dependents, as the case may be; (C) The remainder, or so much as is necessary to discharge the actual amount of the liability of the employer and the carrier; and (D) Any excess shall belong to the injured employee or his or her dependents. (b) Subrogation. (1) An employer or carrier liable for compensation under this chapter for the injury or death of an employee shall have the right to maintain an action in tort against any third party responsible for the injury or death. However, the employer or the carrier must notify the claimant in writing that the claimant has the right to hire a private attorney to pursue any benefits to which the claimant is entitled in addition to the subrogation interest against any third party responsible for the injury or death. (2) After reasonable notice and opportunity to be represented in the action has been given to the compensation beneficiary, the liability of the third party to the compensation beneficiary shall be determined in the action, as well as the third party's liability to the employer and carrier. (3) (A) After recovery shall be had against the third party, by suit or otherwise, the compensation beneficiary shall be entitled to any amount recovered over and above the amount that the employer and carrier have paid or are liable for in compensation, after deducting reasonable costs of collection. (B) In no event shall the compensation beneficiary be entitled to less than one-third (1/3) of the amount recovered from the third party, after deducting the reasonable cost of collection. (4) An employer or carrier who is liable for compensation under this chapter on account of injury or death of an employee shall be entitled to maintain a third party action against the employer's uninsured motorist coverage or underinsured motorist coverage. (5) The purpose and intent of this subsection is to prevent double payment to the employee. (c) Settlement of Claims. (1) Settlement of claims under subsections (a) and (b) of this section must have the approval of the court or of the Workers' Compensation Commission, except that the distribution of that portion of the settlement that represents the compensation payable under this chapter must have the approval of the commission. (2) Where liability is admitted to the injured employee or his or her dependents by the employer or carrier, the cost of collection may be deducted from that portion of the settlement under subsections (a) or (b) of this section representing compensation, upon direction and approval of the commission. (3) No party shall settle a claim under subsections (a) and (b) of this section without first giving three (3) days' written notice to all parties with an interest in the claim of the intent to settle. (4) Each party with an interest in a claim under subsections (a) and (b) shall cooperate with all other parties in litigation or settlement of such claims.
+
+Init. Meas. 1948, No. 4, § 40, Acts 1949, p. 1420; A.S.A. 1947, § 81-1340; Acts 1993, No. 796, § 14.
+
+## Section 11-9-411 - Effect of payment by other insurers
+
+(a) (1) Any benefits payable to an injured worker under this chapter shall be reduced in an amount equal to, dollar-for-dollar, the amount of benefits the injured worker has previously received for the same medical services or period of disability, whether those benefits were paid under a group health care service plan of whatever form or nature, a group disability policy, a group loss of income policy, a group accident, health, or accident and health policy, a self-insured employee health or welfare benefit plan, or a group hospital or medical service contract. (2) The reduction specified in subdivision (a)(1) of this section does not apply to any benefit received from a group policy for disability if the injured worker has paid for the policy. (b) The claimant shall be required to disclose in a manner to be determined by the Workers' Compensation Commission the identity, address, or phone number of any person or entity which has paid benefits described in this section in connection with any claim under this chapter. (c) (1) Prior to any final award or approval of a joint petition, the claimant shall be required to furnish the respondent with releases of all subrogation claims for the benefits described in this section. (2) (A) In the event that the claimant is unable to produce releases required by this section, then the commission shall determine the amount of such potential subrogation claims and shall direct the carrier or self-insured employer to hold in reserve only said sums for a period of five (5) years. (B) If, after the expiration of five (5) years, no release or final court order is presented otherwise directing the payment of said sums, then the carrier or self-insured employer shall tender said sums to the Death and Permanent Total Disability Trust Fund.
+
+Acts 1993, No. 796, § 32; 2009, No. 327, § 1.
+
+## Section 11-9-412 - Motor carrier drivers - Definitions
+
+(a) As used in this section: (1) "Commercial motor vehicle" means a motor vehicle or combination of motor vehicles used in commerce to transport passengers or property; (2) "Driver" means a person, including but not limited to a member of a team, who operates a commercial motor vehicle; (3) "Motor carrier" means a person, partnership, corporation, or limited liability company that provides truck transportation; and (4) "Owner-operator" means a person, partnership, corporation, or limited liability company that owns or holds under a bona fide lease a commercial motor vehicle that is provided to a motor carrier. (b) (1) Notwithstanding any other law, an owner-operator that provides a commercial motor vehicle and the services of one (1) or more drivers to a motor carrier under a written contract, and each driver so provided, is not an employee of the motor carrier but is an independent contractor of the motor carrier. (2) The motor carrier shall not be liable for any compensation required by this chapter to the owner-operator, its employees, or subcontractors. (3) An owner-operator that is under exclusive contract to the motor carrier may elect to secure coverage for the owner-operator and for one (1) or more drivers of the owner-operator through a workers' compensation insurance policy or authorized self-insurance plan that insures the motor carrier if: (A) The election by the owner-operator is made in writing as part of a written contract between the owner-operator and the motor carrier; and (B) The owner-operator pays the premiums as requested by the motor carrier. (4) An owner-operator's election, whether or not under subdivision (b)(3) of this section, to be covered and to have one (1) or more of its drivers covered under a workers' compensation insurance policy or authorized self-insurance plan shall not terminate or otherwise affect the independent-contractor status of the owner-operator or of any of its drivers.
+
+Added by Act 2013, No. 1166,§ 1, eff. 8/16/2013.
+
+## Section 11-9-501 - Limitations on compensation - Death and disability
+
+(a) (1) Compensation to the injured employee shall not be allowed for the first seven (7) days' disability resulting from injury, excluding the day of injury. (2) If a disability extends beyond that period, compensation shall commence with the ninth day of disability. (3) If a disability extends for a period of two (2) weeks, compensation shall be allowed beginning the first day of disability, excluding the day of injury. (b) Compensation payable to an injured employee for disability, other than permanent partial disability as specified in subsection (d) of this section, and compensation payable to surviving dependents of a deceased employee, the total disability rate shall not exceed sixty-six and two-thirds percent (662/3%) of the employee's average weekly wage with a twenty dollar ($20.00) per week minimum, subject to the following maximums: (1) For disability or death due to an injury occurring on and after July 1, 1987, through December 31, 1988, the maximum weekly benefits payable shall be one hundred eighty-nine dollars ($189); (2) For disability or death due to an injury occurring on and after January 1, 1989, through December 31, 1989, the maximum weekly benefits payable shall be sixty-six and two-thirds percent (662/3%) of the state average weekly wage; (3) For a disability or death which results from an injury occurring on and after January 1, 1990, the maximum weekly benefit payable shall be seventy percent (70%) of the state average weekly wage; (4) For a disability or death which results from an injury occurring during a calendar year beginning on or after January 1, 1996, the maximum weekly benefit payable shall be eighty-five percent (85%) of the state average weekly wage if, and only if, the Insurance Commissioner certifies to the Workers' Compensation Commission during December 1995, that the overall workers' compensation insurance rates for Arkansas have decreased by at least ten percent (10%) subsequent to July 1, 1993; (5) After January 1, 1994, the weekly benefit rate shall be rounded to the nearest whole dollar, i.e., if the actual rate be a dollar amount plus forty-nine cents (49¢) or less, the rate for compensation purposes shall be the next lower whole dollar amount, and, if the actual rate be a dollar amount plus fifty cents (50¢) or more, then the rate for compensation purposes shall be the next higher whole dollar amount. (c) (1) Upon request of the respondent or carrier, the commission shall review the claim and determine the necessity for additional temporary total benefits after forty (40) weeks or after any thirteen-week interval thereafter and may, if warranted by the preponderance of the evidence on the basis of the record as a whole, extend the period of payment for temporary total disability. (2) Any weekly benefit payments made after the commission has terminated temporary total benefits shall be classified as warranted by the facts in the case and as otherwise provided for in this chapter. (d) (1) The permanent partial disability rate for compensation payable to an employee for permanent partial disability which results from an injury occurring on or after July 1, 1986, shall not exceed sixty-six and two-thirds percent (662/3%) of the employee's average weekly wage, with a twenty-dollar-per-week minimum, subject to a maximum of one hundred fifty-four dollars ($154). However, if the employee's total disability rate for the injury would be two hundred five dollars and thirty-five cents ($205.35) per week or greater, then the maximum permanent partial disability rate shall be seventy-five percent (75%) of the employee's total disability rate. (2) (A) The permanent partial disability rate provided herein shall also apply to scheduled permanent injuries except those resulting in amputation or permanent total loss of use of a member. (B) The permanent partial disability rate for amputation or permanent total loss of use of a member shall be the same as the employee's total disability rate as specified in subsection (b) of this section, subject to the maximum as set forth in subdivision (b)(4) of this section. (3) The provisions of this subsection shall apply only to those injuries which occur on or after January 1, 1996. (e) Compensation payable to the dependents of a deceased employee shall be in addition to the funeral allowance and those benefits which were paid or to which the injured employee was entitled in his or her lifetime under §§ 11-9-508 - 11-9-517 and §§ 11-9-519 - 11-9-526 .
+
+Init. Meas. 1948, No. 4, § 10, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 1, Acts 1957; Init. Meas. 1968, No. 1, § 1, Acts 1969; Acts 1973, No. 221, § 1; 1975 (Extended Sess., 1976), No. 1227, § 4; 1979, No. 253, § 2; 1981, No. 290, § 2; 1986 (2nd Ex. Sess.), No. 10, § 2; A.S.A. 1947, § 81-1310; reen. Acts 1987, No. 1015, § 4; Acts 1993, No. 796, § 15; Acts 1995, No. 129, § 1; 1995, No. 1144, §§ 1, 2.
+
+## Section 11-9-502 - Limitations on compensation - Exceptions
+
+(a) The benefits shall be paid for a period not to exceed four hundred fifty (450) weeks of disability, except that this limitation shall not apply in cases of permanent total disability or death. (b) (1) (A) For injuries occurring on or after March 1, 1981, but on or before December 31, 2007, and a claim for death or permanent total disability benefits filed on or before June 30, 2019, the first seventy-five thousand dollars ($75,000) of weekly benefits for death or permanent total disability shall be paid by the employer or its insurance carrier in the manner provided in this chapter. (B) For injuries occurring on or after January 1, 2008, and a claim for death or permanent total disability benefits filed on or before June 30, 2019, the employer or its insurance carrier shall pay weekly benefits for death or permanent total disability not to exceed three hundred twenty-five (325) times the maximum total disability rate established for the date of the injury under this chapter. (2) (A) An employee or a dependent of an employee who has filed a claim for death or permanent total disability benefits on or before June 30, 2019, and who receives a total of seventy-five thousand dollars ($75,000) in weekly benefits for injuries sustained on or before December 31, 2007, shall be eligible to continue to draw benefits at the rates prescribed in this chapter, but all benefits in excess of seventy-five thousand dollars ($75,000) shall be payable from the Death and Permanent Total Disability Trust Fund. (B) An employee or a dependent of an employee who has filed a claim for death or permanent total disability benefits on or before June 30, 2019, and who receives the maximum amount specified in subdivision (b)(1)(B) of this section shall be eligible to continue to draw benefits at the rates prescribed by this chapter payable from the trust fund. (3) The trust fund shall consist of such funds as may be prescribed by law and shall be administered, invested, and disbursed by the Workers' Compensation Commission. (4) Each employer or the insurance carrier of the employer in each case of death of an employee where there are no dependents shall pay into the trust fund the sum of five hundred dollars ($500). (c) (1) A claim against the trust fund shall not be filed later than June 30, 2019, regardless of the date of injury or death, or otherwise. (2) The trust fund is not liable for a claim for permanent total disability or death filed after June 30, 2019. (3) For a claim for permanent total disability or death filed after June 30, 2019, the employer at the time of the employee's compensable injury is liable for permanent total disability or death benefits under this chapter, excluding this section and any claim pending under § 11-9-525 on June 30, 2019. (4) Upon satisfaction of the liabilities of the trust fund, the trust fund shall be terminated.
+
+Amended by Act 2016EX3, No. 5,§ 6, eff. 8/22/2016.
+
+Amended by Act 2016EX3, No. 4,§ 6, eff. 8/22/2016.
+
+Amended by Act 2016EX3, No. 5,§ 5, eff. 8/22/2016.
+
+Amended by Act 2016EX3, No. 4,§ 5, eff. 8/22/2016.
+
+Init. Meas. 1948, No. 4, § 10, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 1, Acts 1957; Init. Meas. 1968, No. 1, § 1, Acts 1969; Acts 1973, No. 221, § 1; 1979, No. 253, § 2; 1981, No. 290, § 2; 1986 (2nd Ex. Sess.), No. 10, § 2; A.S.A. 1947, § 81-1310; Acts 2007, No. 1599, § 1.
+
+## Section 11-9-503 - Violation of safety provisions
+
+(a) (1) Notwithstanding any other definition of extra-hazardous employer as provided by § 11-9-409(c) , any employer who fails to utilize the consultative safety services available through the Division of Labor, its own insurance carrier, or a private safety consultant shall be identified as an extra-hazardous employer if it is established by a preponderance of the evidence that an injury or death is caused in substantial part by the failure of the employer to comply with any Arkansas statute or official rule pertaining to the health or safety of employees or fails to follow safety consultant recommendations. (2) When so notified, the employer shall comply with § 11-9-409(c)(2) -(8). (b) Provided, if it is established by a preponderance of the evidence that the employee is injured as a result of the employee's violation of the employer's safety rules or instructions, the provisions of this section shall not apply.
+
+Amended by Act 2019, No. 315,§ 788, eff. 7/24/2019.
+
+Amended by Act 2019, No. 910,§ 5366, eff. 7/1/2019.
+
+Init. Meas. 1948, No. 4, § 10, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 1, Acts 1957; Init. Meas. 1968, No. 1, § 1, Acts 1969; Acts 1975 (Extended Sess., 1976), No. 1227, § 5; 1979, No. 253, § 2; 1981, No. 290, § 2; 1986 (2nd Ex. Sess.), No. 10, § 2; A.S.A. 1947, § 81-1310; reen. Acts 1987, No. 1015, § 5; Acts 1993, No. 796, § 16.
+
+## Section 11-9-504 - Additional compensation - Illegally employed minor
+
+(a) Where an injury or death is sustained by a minor employed in violation of federal or state statutes pertaining to minimum ages for employment of minors, including without limitation § 11-6-101 et seq., compensation or death benefits provided for by this chapter shall be doubled. (b) However, the penalty shall not apply when the minor misrepresents his or her age, in writing, to the employer.
+
+Amended by Act 2023, No. 687,§ 4, eff. 8/1/2023.
+
+Init. Meas. 1948, No. 4, § 10, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 1, Acts 1957; Init. Meas. 1968, No. 1, § 1, Acts 1969; Acts 1975 (Extended Sess., 1976), No. 1227, § 6; 1979, No. 253, § 2; 1981, No. 290, § 2; A.S.A. 1947, § 81-1310; reen. Acts 1987, No. 1015, § 6.
+
+## Section 11-9-505 - Additional compensation - Rehabilitation
+
+(a) (1) Any employer who without reasonable cause refuses to return an employee who is injured in the course of employment to work, where suitable employment is available within the employee's physical and mental limitations, upon order of the Workers' Compensation Commission, and in addition to other benefits, shall be liable to pay to the employee the difference between benefits received and the average weekly wages lost during the period of the refusal, for a period not exceeding one (1) year. (2) In determining the availability of employment, the continuance in business of the employer shall be considered, and any written rules promulgated by the employer with respect to seniority or the provisions of any collective bargaining agreement with respect to seniority shall control. (b) (1) In addition to benefits otherwise provided for by this chapter, an employee who is entitled to receive compensation benefits for permanent disability and who has not been offered an opportunity to return to work or reemployment assistance shall be paid reasonable expenses of travel and maintenance and other necessary costs of a program of vocational rehabilitation if the commission finds that the program is reasonable in relation to the disability sustained by the employee. (2) The employer's responsibility for additional payments shall not exceed seventy-two (72) weeks, regardless of the length of the program requested. (3) The employee shall not be required to enter any program of vocational rehabilitation against his or her consent; however, no employee who waives rehabilitation or refuses to participate in or cooperate for reasonable cause with either an offered program of rehabilitation or job placement assistance shall be entitled to permanent partial disability benefits in excess of the percentage of permanent physical impairment established by objective physical findings. (4) A request for the program, if elected by the claimant, must be filed with the commission prior to a determination of the amount of permanent disability benefits payable to the employee. (c) This section shall not be construed as creating an exception to the common law regarding employment at will. (d) The purpose and intent of this section is to place an emphasis on returning the injured worker to work, while still allowing and providing for vocational rehabilitation programs when determined appropriate by the commission.
+
+Init. Meas. 1948, No. 4, § 10, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 1, Acts 1957; Init. Meas. 1968, No. 1, § 1, Acts 1969; Acts 1975 (Extended Sess., 1976), No. 1227, § 7; 1979, No. 253, § 2; 1981, No. 290, § 2; A.S.A. 1947, § 81-1310; reen. Acts 1987, No. 1015, § 7; Acts 1993, No. 796, § 17.
+
+## Section 11-9-506 - Limitations on compensation - Recipients of unemployment benefits
+
+(a) Any other provisions of this chapter to the contrary notwithstanding, no compensation in any amount for temporary total, temporary partial, or permanent total disability shall be payable to an injured employee with respect to any week for which the injured employee receives unemployment insurance benefits under the Division of Workforce Services Law, § 11-10-101 et seq., or the unemployment insurance law of any other state. (b) Provided, however, if a claim for temporary total disability is controverted and later determined to be compensable, temporary total disability shall be payable to an injured employee with respect to any week for which the injured employee receives unemployment benefits but only to the extent that the temporary total disability otherwise payable exceeds the unemployment benefits.
+
+Amended by Act 2019, No. 910,§ 171, eff. 7/1/2019.
+
+Init. Meas. 1948, No. 4, § 10, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 1, Acts 1957; Init. Meas. 1968, No. 1, § 1, Acts 1969; Acts 1981, No. 290, § 2; A.S.A. 1947, § 81-1310; Acts 1993, No. 796, § 18.
+
+## Section 11-9-507 - Special project to improve safety
+
+(a) For the fiscal year beginning July 1, 1987, the Workers' Compensation Commission shall allocate one hundred thousand dollars ($100,000) to a special project for the following purposes: (1) Identification of industries or jobs having a high incidence of injuries; (2) Determination of the causes of injuries of which there is a high incidence; and (3) The provision of educational or advisory services to employers and employees designed to reduce the incidence of such injuries. (b) It is the intent of this section to provide information and other services to employers and employees that will improve workplace safety in the State of Arkansas. (c) For succeeding fiscal years, the commission shall determine to what extent the project should be funded.
+
+Init. Meas. 1948, No. 4, § 10, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 1, Acts 1957; Init. Meas. 1968, No. 1, § 1, Acts 1969; Acts 1981, No. 290, § 2; Acts 1986 (2nd Ex. Sess.), No. 10, § 3; A.S.A. 1947, § 81-1310.
+
+## Section 11-9-508 - Medical services and supplies - Liability of employer - Definition
+
+(a) (1) The employer shall promptly provide for an injured employee such medical, surgical, hospital, chiropractic, optometric, podiatric, and nursing services and medicine, crutches, ambulatory devices, artificial limbs, eyeglasses, contact lenses, hearing aids, and other apparatus as may be reasonably necessary in connection with the injury received by the employee. (2) (A) Rabies is a highly contagious and potentially deadly infectious disease, and exposure to rabies and the risk of infection is the direct result of an injury caused by the bite of a rabies-infected animal under this section. (B) (i) An employer shall promptly provide reasonably necessary medical treatment to an injured employee who is exposed to rabies as described in subdivision (a)(2)(A) of this section. (ii) As used in subdivision (a)(2)(B)(i) of this section, "reasonably necessary medical treatment" means without limitation any diagnostic and preventive measures prescribed for detection, diagnosis, and prevention of rabies. (b) If the employer fails to provide the medical services set out in subsection (a) of this section within a reasonable time after knowledge of the injury, the Workers' Compensation Commission may direct that the injured employee obtain the medical service at the expense of the employer, and any emergency treatment afforded the injured employee shall be at the expense of the employer. In no circumstance may an employee, his or her family, or dependents, be billed or charged for any portion of the cost of providing the benefits to which he or she is entitled under this chapter. (c) In order to help control the cost of medical benefits, the commission, on or before July 1, 1994, following a public hearing and with the assistance and cooperation of the State Insurance Department, is authorized and directed to establish appropriate rules to establish and implement a system of managed health care for the State of Arkansas. (d) For the purpose of establishing and implementing a system of managed health care, the commission is authorized to: (1) Develop rules for the certification of managed care entities to provide managed care to injured workers; (2) Develop rules for peer review, service utilization, and resolution of medical disputes; (3) Prohibit "balance billing" from the employee, employer, or carrier; (4) (A) Establish fees for medical services as provided in Workers' Compensation Commission Rule 30 and its amendments. (B) The commission shall make no distinction in approving fees from different classes of medical service providers or healthcare providers for provision of the same or essentially similar medical services or healthcare services as specified in this section; and (5) (A) Give the employer the right to choose the initial treating physician, with the injured employee having the right to petition the commission for a one-time-only change of physician to one who is associated with a managed care entity certified by the commission or is the regular treating physician of the employee who maintains the employee's medical records and with whom the employee has a bona fide doctor-patient relationship demonstrated by a history of regular treatment prior to the onset of the compensable injury, but only if the primary care physician agrees to refer the employee to a certified managed care entity for any specialized treatment, including physical therapy, and only if such primary care physician agrees to comply with all the rules, terms, and conditions regarding services performed by the managed care entity initially chosen by the employer. (B) A petition for change of physician shall be expedited by the commission. (e) Any section or subsection of this chapter notwithstanding, the injured employee shall have direct access to any optometric or ophthalmologic medical service provider who agrees to provide services under the rules, terms, and conditions regarding services performed by the managed care entity initially chosen by the employer for the treatment and management of eye injuries or conditions. Such optometric or ophthalmologic medical service provider shall be considered a certified provider by the commission. (f) The commission is authorized to promulgate any other rules as may be necessary to carry out the provisions of this section and its purpose of controlling medical costs through the establishment of a managed care system.
+
+Amended by Act 2019, No. 315,§ 791, eff. 7/24/2019.
+
+Amended by Act 2019, No. 315,§ 790, eff. 7/24/2019.
+
+Amended by Act 2019, No. 315,§ 789, eff. 7/24/2019.
+
+Amended by Act 2017, No. 658,§ 1, eff. 8/1/2017.
+
+Init. Meas. 1948, No. 4, § 11, Acts 1949, p. 1420; Acts 1975, No. 330, § 1; 1979, No. 253, § 3; 1981, No. 290, § 3; 1983, No. 444, § 2; A.S.A. 1947, § 81-1311; Acts 1993, No. 796, § 19; 2003, No. 1473, § 23; 2009, No. 653, § 1.
+
+## Section 11-9-509 - Medical services and supplies - Amounts and time periods
+
+The amounts payable or time periods allowable for authorized medical, hospital, and other services and treatment furnished under §§ 11-9-508 - 11-9-516 , unless waived by the employer-respondent or approved by the Workers' Compensation Commission and warranted by the preponderance of the evidence on the basis of the record as a whole, are: (1) Six (6) months if the claimant lost no compensable time from work as a result of his or her injury; (2) Six (6) months following the return to work by an injured employee who has been receiving authorized medical or hospital or other services or treatment; (3) Ten thousand dollars ($10,000) aggregate for all authorized medical, hospital, and other services and treatment, including any amounts paid under subdivisions (1) and (2) of this section.
+
+Init. Meas. 1948, No. 4, § 11, Acts 1949, p. 1420; Acts 1981, No. 290, § 3; 1983, No. 444, § 2; A.S.A. 1947, § 81-1311.
+
+## Section 11-9-510 - Medical services and supplies - Contest of liability
+
+The employer shall not be liable for any of the payments provided for in §§ 11-9-508 - 11-9-516 in the case of a contest of liability where the Workers' Compensation Commission shall decide that the injury does not come within the provisions of this chapter.
+
+Init. Meas. 1948, No. 4, § 11, Acts 1949, p. 1420; Acts 1975, No. 330, § 1; 1979, No. 253, § 3; Acts 1981, No. 290, § 3; 1983, No. 444, § 2; A.S.A. 1947, § 81-1311.
+
+## Section 11-9-511 - Medical services and supplies - Physical examination
+
+(a) An injured employee claiming to be entitled to compensation shall submit to such physical examination and treatment by another qualified physician, designated or approved by the Workers' Compensation Commission, as the commission may require from time to time if reasonable and necessary. (b) The places of examination and treatment shall be reasonably convenient for the employee. (c) Such physician as the employee, employer, or insurance carrier may select and pay for may participate in the examination if the employee, employer, or insurance carrier so requests. (d) In cases where the commission directs examination or treatment, proceedings shall be suspended, and no compensation shall be payable for any period during which the employee refuses to submit to examination and treatment or otherwise obstructs the examination or treatment. (e) Failure of the employee to obey the order of the commission in respect to examination or treatment for a period of one (1) year from the date of suspension of compensation shall bar the right of the claimant to further compensation in respect to the injury.
+
+Init. Meas. 1948, No. 4, § 11, Acts 1949, p. 1420; Acts 1975, No. 330, § 1; 1979, No. 253, § 3; 1981, No. 290, § 3; 1983, No. 444, § 2; A.S.A. 1947, § 81-1311.
+
+## Section 11-9-512 - Medical services and supplies - Refusal to submit to operation
+
+Except in cases of hernia, which are specifically covered by § 11-9-523 , where an injured person unreasonably refuses to submit to a surgical operation which has been advised by at least two (2) qualified physicians and where the recommended operation does not involve unreasonable risk of life or additional serious physical impairment, the Workers' Compensation Commission, in fixing the amount of compensation, may take into consideration such refusal to submit to the advised operation.
+
+Init. Meas. 1948, No. 4, § 11, Acts 1949, p. 1420; Acts 1975, No. 330, § 1; 1979, No. 253, § 3; 1981, No. 290, § 3; 1983, No. 444, § 2; A.S.A. 1947, § 81-1311.
+
+## Section 11-9-513 - Medical services and supplies - Approval of charges
+
+(a) All persons who render services or provide things mentioned in §§ 11-9-508 - 11-9-516 shall submit the reasonableness of the charges to the Workers' Compensation Commission for its approval, and, when so approved, the charges shall be enforceable by the commission in the same manner as is provided for the enforcement of compensation payments. (b) However, the provisions of this section relating to charges shall not apply where a written contract exists between the employer and the person who renders the service or furnishes the things.
+
+Init. Meas. 1948, No. 4, § 11, Acts 1949, p. 1420; Acts 1975, No. 330, § 1; 1979, No. 253, § 3; 1981, No. 290, § 3; 1983, No. 444, § 2; A.S.A. 1947, § 81-1311.
+
+## Section 11-9-514 - Medical services and supplies - Change of physician
+
+(a) (1) If the employee selects a physician, the Workers' Compensation Commission shall not authorize a change of physician unless the employee first establishes to the satisfaction of the commission that there is a compelling reason or circumstance justifying a change. (2) (A) If the employer selects a physician, the claimant may petition the commission one (1) time only for a change of physician, and if the commission approves the change with or without a hearing, the commission shall determine the second physician and shall not be bound by recommendations of claimant or respondent. (B) However, if the change desired by the claimant is to a chiropractic physician, optometrist, or podiatrist, the claimant may make the change by giving advance written notification to the employer or carrier. (3) Following establishment of an Arkansas managed care system as provided in § 11-9-508, subdivisions (a)(1) and (2) of this section shall become null and void, and thereafter: (A) (i) The employer shall have the right to select the initial primary care physician from among those associated with managed care entities certified by the commission as provided in § 11-9-508 . (ii) Where the employer has contracted with a managed care organization certified by the commission, the claimant employee, however, shall be allowed to change physicians by petitioning the commission one (1) time only for a change of physician to a physician who must either be associated with the managed care entity chosen by the employer or be the regular treating physician of the employee who maintains the employee's medical records and with whom the employee has a bona fide doctor-patient relationship demonstrated by a history of regular treatment prior to the onset of the compensable injury but only if the primary care physician agrees to refer the employee to the managed care entity chosen by the employer for any specialized treatment, including physical therapy, and only if the primary care physician agrees to comply with all the rules, terms, and conditions regarding services performed by the managed care entity chosen by the employer. (iii) Where the employer does not have a contract with a managed care organization certified by the commission, the claimant employee, however, shall be allowed to change physicians by petitioning the commission one (1) time only for a change of physician, to a physician who must either be associated with any managed care entity certified by the commission or be the regular treating physician of the employee who maintains the employee's medical records and with whom the employee has a bona fide doctor-patient relationship demonstrated by a history of regular treatment prior to the onset of the compensable injury, but only if the primary care physician agrees to refer the employee to a physician associated with any managed care entity certified by the commission for any specialized treatment, including physical therapy, and only if the primary care physician agrees to comply with all the rules, terms, and conditions regarding services performed by any managed care entity certified by the commission. (B) A petition for change of physician shall be expedited by the commission. (b) Treatment or services furnished or prescribed by any physician other than the ones selected according to the foregoing, except emergency treatment, shall be at the claimant's expense. (c) (1) After being notified of an injury, the employer or insurance carrier shall deliver to the employee, in person or by certified or registered mail, return receipt requested, a copy of a notice, approved or prescribed by the commission, which explains the employee's rights and responsibilities concerning change of physician. (2) If, after notice of injury, the employee is not furnished a copy of the notice, the change of physician rules do not apply. (3) Any unauthorized medical expense incurred after the employee has received a copy of the notice shall not be the responsibility of the employer. (d) A request for a hearing on a change of physician by either the employer or the injured employee shall be given preference on the commission's docket over all other matters. (e) Cooperation on the part of both the injured employee and the employer in an effort to select another physician is encouraged. (f) When compensability is controverted, subsection (b) of this section shall not apply if: (1) The employee requests medical assistance in writing prior to seeking the same as a result of an alleged compensable injury; (2) The employer refuses to refer the employee to a medical provider within forty-eight (48) hours after a written request as provided above; (3) The alleged injury is later found to be a compensable injury; and (4) The employer has not made a previous offer of medical treatment. (g) The commission shall by rule require the inclusion of the information set forth in subsection (f) of this section on all AR-P forms.
+
+Amended by Act 2019, No. 315,§ 792, eff. 7/24/2019.
+
+Init. Meas. 1948, No. 4, § 11, Acts 1949, p. 1420; Acts 1975, No. 330, § 1; 1979, No. 253, § 3; 1981, No. 290, § 3; 1983, No. 444, § 2; A.S.A. 1947, § 81-1311; Acts 1993, No. 796, § 20; 1999, No. 1167, § 1.
+
+## Section 11-9-515 - Medical services and supplies - Spiritual treatment
+
+(a) When an employer and employee so agree in writing, nothing in this chapter shall be construed to prevent an employee whose injury or disability has been established in accordance with the provisions of this chapter from relying in good faith on treatment by prayer or spiritual means alone, in accordance with the tenets and practice of a recognized church or religious denomination by a duly accredited practitioner thereof, and having nursing services appropriate therewith, without suffering loss or diminution of the compensation benefits under this chapter. (b) However, the employee shall submit to all physical examinations required by this chapter. (c) The cost of the treatment and nursing care shall be paid by the employee unless the employer agrees to make the payment.
+
+Init. Meas. 1948, No. 4, § 11, Acts 1949, p. 1420; Acts 1975, No. 330, § 1; 1979, No. 253, § 3; 1981, No. 290, § 3; 1983, No. 444, § 2; A.S.A. 1947, § 81-1311.
+
+## Section 11-9-516 - Medical services and supplies - Information furnished by provider
+
+(a) (1) Every hospital or other person furnishing the injured employee with medical services shall permit its records to be copied by and shall furnish full written information to the Workers' Compensation Commission, the Workers' Compensation Fraud Investigation Unit, the employer, the carrier, and the employee or the employee's dependents. (2) The reasonable cost of copies as set forth in Workers' Compensation Commission Rule 30 shall be paid by the one requesting them to the healthcare or medical service provider furnishing them. (b) No person who in good faith pursuant to subsection (a) of this section or pursuant to rules established by the commission reports medical information shall incur legal liability for the disclosure of the information.
+
+Amended by Act 2019, No. 315,§ 793, eff. 7/24/2019.
+
+Init. Meas. 1948, No. 4, § 11, Acts 1949, p. 1420; Acts 1979, No. 253, § 3; 1981, No. 290, § 3; 1983, No. 444, § 2; A.S.A. 1947, § 81-1311; Acts 1993, No. 796, § 21.
+
+## Section 11-9-517 - Medical services and supplies - Rules
+
+The Workers' Compensation Commission is authorized to establish rules, including schedules of maximum allowable fees for specified medical services rendered with respect to compensable injuries, for the purpose of controlling the cost of medical and hospital services and supplies provided pursuant to §§ 11-9-508 - 11-9-516 .
+
+Amended by Act 2019, No. 315,§ 794, eff. 7/24/2019.
+
+Init. Meas. 1948, No. 4, § 11, Acts 1949, p. 1420; Acts 1986 (2nd Ex. Sess.), No. 10, § 4; A.S.A. 1947, § 81-1311.
+
+## Section 11-9-518 - Weekly wages as basis for compensation
+
+(a) (1) Compensation shall be computed on the average weekly wage earned by the employee under the contract of hire in force at the time of the accident and in no case shall be computed on less than a full-time workweek in the employment. (2) Where the injured employee was working on a piece basis, the average weekly wage shall be determined by dividing the earnings of the employee by the number of hours required to earn the wages during the period not to exceed fifty-two (52) weeks preceding the week in which the accident occurred and by multiplying this hourly wage by the number of hours in a full-time workweek in the employment. (b) Overtime earnings are to be added to the regular weekly wages and shall be computed by dividing the overtime earnings by the number of weeks worked by the employee in the same employment under the contract of hire in force at the time of the accident, not to exceed a period of fifty-two (52) weeks preceding the accident. (c) If, because of exceptional circumstances, the average weekly wage cannot be fairly and justly determined by the above formulas, the commission may determine the average weekly wage by a method that is just and fair to all parties concerned.
+
+Init. Meas. 1948, No. 4, § 12, Acts 1949, p. 1420; A.S.A. 1947, § 81-1312.
+
+## Section 11-9-519 - Compensation for disability - Total disability
+
+(a) In case of total disability, there shall be paid to the injured employee during the continuance of the total disability sixty-six and two-thirds percent (66 2/3%) of his or her average weekly wage. (b) In the absence of clear and convincing proof to the contrary, the loss of both hands, both arms, both legs, both eyes, or of any two (2) thereof shall constitute permanent total disability. (c) In all other cases, permanent total disability shall be determined in accordance with the facts. (d) (1) No more often than annually, the carrier or self-insured employer or the Death and Permanent Total Disability Trust Fund may require an injured worker receiving permanent total disability benefits to, as of the date thereof, certify on forms provided by the Workers' Compensation Commission that he or she is permanently and totally disabled and not gainfully employed. (2) Notice of the requirement shall be made by certified mail. (3) Failure of the employee to so certify within thirty (30) days after receipt of the notice shall permit the discontinuance of benefits without penalty until otherwise ordered by the commission. (e) (1) "Permanent total disability" means inability, because of compensable injury or occupational disease, to earn any meaningful wages in the same or other employment. (2) The burden of proof shall be on the employee to prove inability to earn any meaningful wage in the same or other employment. (f) In considering a claim for permanent disability, the commission and the courts shall not consider the odd-lot doctrine. (g) (1) (A) The commission, after a public hearing, shall adopt an impairment rating guide to be used in the assessment of anatomical impairment. (B) The guide shall not include pain as a basis for impairment. (2) The impairment rating guide adopted by the commission shall be subject to review by the General Assembly before April 1 of every odd-numbered year beginning with the regular session of 1999.
+
+Init. Meas. 1948, No. 4, § 13, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 2, Acts 1957; Acts 1975 (Extended Sess., 1976), No. 1227, § 8; 1981, No. 290, § 4; A.S.A. 1947, § 81-1313; reen. Acts 1987, No. 1015, § 8; Acts 1993, No. 796, § 22; 1997, No. 251, § 1; 1997, No. 260, § 1.
+
+## Section 11-9-520 - Compensation for disability - Temporary partial disability
+
+In case of temporary partial disability resulting in the decrease of the injured employee's average weekly wage, there shall be paid to the employee sixty-six and two-thirds percent (662/3%) of the difference between the employee's average weekly wage prior to the accident and his or her wage-earning capacity after the injury.
+
+Init. Meas. 1948, No. 4, § 13, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 2, Acts 1957; Acts 1975 (Extended Sess., 1976), No. 1227, § 8; A.S.A. 1947, § 81-1313; reen. Acts 1987, No. 1015, § 8.
+
+## Section 11-9-521 - Compensation for disability - Scheduled permanent injuries
+
+(a) An employee who sustains a permanent compensable injury scheduled in this section shall receive, in addition to compensation for temporary total and temporary partial benefits during the healing period or until the employee returns to work, whichever occurs first, weekly benefits in the amount of the permanent partial disability rate attributable to the injury, for that period of time set out in the following schedule: (1) Arm amputated at the elbow, or between the elbow and shoulder, two hundred forty-four (244) weeks; (2) Arm amputated between the elbow and wrist, one hundred eighty-three (183) weeks; (3) Leg amputated at the knee, or between the knee and the hip, one hundred eighty-four (184) weeks; (4) Leg amputated between the knee and the ankle, one hundred thirty-one (131) weeks; (5) Hand amputated, one hundred eighty-three (183) weeks; (6) Thumb amputated, seventy-three (73) weeks; (7) First finger amputated, forty-three (43) weeks; (8) Second finger amputated, thirty-seven (37) weeks; (9) Third finger amputated, twenty-four (24) weeks; (10) Fourth finger amputated, nineteen (19) weeks; (11) Foot amputated, one hundred thirty-one (131) weeks; (12) Great toe amputated, thirty-two (32) weeks; (13) Toe other than great toe amputated, eleven (11) weeks; (14) Eye enucleated, in which there was useful vision, one hundred five (105) weeks; (15) Loss of hearing of one ear, forty-two (42) weeks; (16) Loss of hearing of both ears, one hundred fifty-eight (158) weeks; and (17) Loss of one testicle, fifty-three (53) weeks; loss of both testicles, one hundred fifty-eight (158) weeks. (b) (1) Compensation for amputation of the first phalange shall be one-half (½) of the compensation for the amputation of the entire digit. (2) Compensation for amputation of more than one (1) phalange of a digit shall be the same as for amputation of the entire digit. (c) (1) Compensation for the permanent loss of eighty percent (80%) or more of the vision of an eye shall be the same as for the loss of an eye. (2) In all cases of permanent loss of vision, the use of corrective lenses may be taken into consideration in evaluating the extent of loss of vision. (d) Compensation for amputation or loss of use of two (2) or more digits or one (1) or more phalanges of two (2) or more digits of a hand or a foot may be proportioned to the total loss of use of the hand or the foot occasioned thereby but shall not exceed the compensation for total loss of a hand or a foot. (e) Compensation for permanent total loss of use of a member shall be the same as for amputation of the member. (f) Compensation for permanent partial loss or loss of use of a member shall be for the proportionate loss or loss of use of the member. (g) Any employee suffering a scheduled injury shall not be entitled to permanent partial disability benefits in excess of the percentage of permanent physical impairment set forth above except as otherwise provided in § 11-9-519(b) . (h) (1) (A) The Workers' Compensation Commission, after a public hearing, shall adopt an impairment rating guide to be used in the assessment of anatomical impairment. (B) The guide shall not include pain as a basis for impairment. (2) The impairment rating guide adopted by the commission shall be subject to review by the General Assembly before April 1 of every odd-numbered year beginning with the regular session of 1999.
+
+Init. Meas. 1948, No. 4, § 13, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 2, Acts 1957; Acts 1975 (Extended Sess., 1976), No. 1227, § 8; 1986 (2nd Ex. Sess.), No. 10, § 5; A.S.A. 1947, § 81-1313; reen. Acts 1987, No. 1015, § 8; Acts 1993, No. 796, § 23; 1997, No. 251, § 2; 1997, No. 260, § 2.
+
+## Section 11-9-522 - Compensation for disability - Unscheduled permanent partial disability
+
+(a) A permanent partial disability not scheduled in § 11-9-521 shall be apportioned to the body as a whole, which shall have a value of four hundred fifty (450) weeks, and there shall be paid compensation to the injured employee for the proportionate loss of use of the body as a whole resulting from the injury. (b) (1) In considering claims for permanent partial disability benefits in excess of the employee's percentage of permanent physical impairment, the Workers' Compensation Commission may take into account, in addition to the percentage of permanent physical impairment, such factors as the employee's age, education, work experience, and other matters reasonably expected to affect his or her future earning capacity. (2) However, so long as an employee, subsequent to his or her injury, has returned to work, has obtained other employment, or has a bona fide and reasonably obtainable offer to be employed at wages equal to or greater than his or her average weekly wage at the time of the accident, he or she shall not be entitled to permanent partial disability benefits in excess of the percentage of permanent physical impairment established by a preponderance of the medical testimony and evidence. (c) (1) The employer or his or her workers' compensation insurance carrier shall have the burden of proving the employee's employment, or the employee's receipt of a bona fide offer to be employed, at wages equal to or greater than his or her average weekly wage at the time of the accident. (2) Included in the stated intent of this section is to enable an employer to reduce or diminish payments of benefits for a functional disability, disability in excess of permanent physical impairment, which, in fact, no longer exists, or exists because of discharge for misconduct in connection with the work, or because the employee left his or her work voluntarily and without good cause connected with the work. (d) In accordance with this section, the commission may reconsider the question of functional disability and change a previously awarded disability rating based on facts occurring since the original disability determination if any party makes application for reconsideration within one (1) year after the occurrence of the facts. (e) In considering a claim for permanent disability, the commission and the courts shall not consider the odd-lot doctrine. (f) (1) Permanent total disability benefits shall be paid during the period of permanent total disability until the employee reaches the age of sixty-five (65); provided, with respect to permanent total disabilities resulting from injuries which occur after age sixty (60), regardless of the age of the employee, permanent total disability benefits are payable for a period of two hundred sixty (260) weeks. (2) The purpose and intent of this subsection is to prohibit workers' compensation from becoming a retirement supplement. (g) (1) (A) The commission, after a public hearing, shall adopt an impairment rating guide to be used in the assessment of anatomical impairment. (B) The guide shall not include pain as a basis for impairment. (2) The impairment rating guide adopted by the commission shall be subject to review by the General Assembly before April 1 of every odd-numbered year beginning with the regular session of 1999.
+
+Init. Meas. 1948, No. 4, § 13, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 2, Acts 1957; Acts 1986 (2nd Ex. Sess.), No. 10, § 5; A.S.A. 1947, § 81-1313; Acts 1993, No. 796, § 24; 1997, No. 251, § 3; 1997, No. 260, § 3; 1999, No. 1168, § 1.
+
+## Section 11-9-523 - Compensation for disability - Hernia
+
+(a) In all cases of claims for hernia, it shall be shown to the satisfaction of the Workers' Compensation Commission: (1) That the occurrence of the hernia immediately followed as the result of sudden effort, severe strain, or the application of force directly to the abdominal wall; (2) That there was severe pain in the hernial region; (3) That the pain caused the employee to cease work immediately; (4) That notice of the occurrence was given to the employer within forty-eight (48) hours thereafter; and (5) That the physical distress following the occurrence of the hernia was such as to require the attendance of a licensed physician within seventy-two (72) hours after the occurrence. (b) (1) In every case of hernia, it shall be the duty of the employer forthwith to provide the necessary and proper medical, surgical, and hospital care and attention to effectuate a cure by radical operation of the hernia, to pay all reasonable expenses in connection therewith, and, in addition, to pay compensation not exceeding a period of twenty-six (26) weeks. (2) In case the employee shall refuse to permit the operation, it shall be the duty of the employer to provide all necessary first aid, medical and hospital care and service, to supply the proper and necessary truss or other mechanical appliance to enable the employee to resume work, to pay all reasonable expenses in connection therewith, and, in addition, to pay compensation not exceeding a period of thirteen (13) weeks. (c) In case death results within a period of one (1) year, either from the hernia or from the radical operation thereof, compensation shall be paid the dependents as provided in other death cases under this chapter. (d) Recurrence of the hernia following radical operation thereof shall be considered a separate hernia, and the provisions and limitations regarding the original hernia shall apply.
+
+Init. Meas. 1948, No. 4, § 13, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 2, Acts 1957; Acts 1959, No. 144, § 1; Init. Meas. 1968, No. 1, §§ 2, 3, Acts 1969; Acts 1973, No. 221, § 2; 1975, No. 288, § 1; A.S.A. 1947, § 81-1313.
+
+## Section 11-9-524 - Compensation for disability - Disfigurement
+
+(a) The Workers' Compensation Commission shall award compensation for serious and permanent facial or head disfigurement in a sum not to exceed three thousand five hundred dollars ($3,500). (b) No award for disfigurement shall be entered until twelve (12) months after the injury.
+
+Init. Meas. 1948, No. 4, § 13, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 2, Acts 1957; Acts 1959, No. 144, § 1; Init. Meas. 1968, No. 1, §§ 2, 3, Acts 1969; 1975 (Extended Sess., 1976), No. 1227, §§ 8-10; 1979, No. 253, § 4; 1981, No. 290, § 4; A.S.A. 1947, § 81-1313.
+
+## Section 11-9-525 - Compensation for disability - Second injuries
+
+(a) (1) The Second Injury Trust Fund established in this chapter is a special fund designed to ensure that an employer employing a worker with a disability will not, in the event that the worker suffers an injury on the job, be held liable for a greater disability or impairment than actually occurred while the worker was in his or her employment. (2) The employee is to be fully protected in that the fund pays the worker the difference between the employer's liability and the balance of his or her disability or impairment that results from all disabilities or impairments combined. (3) It is intended that latent conditions that are not known to the employee or employer not be considered previous disabilities or impairments which would give rise to a claim against the fund. (b) (1) Commencing January 1, 1981, all cases of permanent disability or impairment in which there has been previous disability or impairment shall be compensated as provided in this section. (2) Compensation shall be computed on the basis of the average earnings at the time of the last injury. (3) If any employee who has a permanent partial disability or impairment, whether from compensable injury or otherwise, receives a subsequent compensable injury resulting in additional permanent partial disability or impairment so that the degree or percentage of disability or impairment caused by the combined disabilities or impairments is greater than that which would have resulted from the last injury, considered alone and of itself, and if the employee is entitled to receive compensation on the basis of combined disabilities or impairments, then the employer at the time of the last injury shall be liable only for the degree or percentage of disability or impairment that would have resulted from the last injury had there been no preexisting disability or impairment. (4) After the compensation liability of the employer for the last injury, considered alone, which shall be no greater than the actual anatomical impairment resulting from the last injury, has been determined by an administrative law judge or the Workers' Compensation Commission, the degree or percentage of employee's disability that is attributable to all injuries or conditions existing at the time the last injury was sustained shall then be determined by the administrative law judge or the commission, and the degree or percentage of disability or impairment that existed prior to the last injury plus the disability or impairment resulting from the combined disability shall be determined, and compensation for that balance, if any, shall be paid out of the fund provided for in § 11-9-301 . (5) If the previous disability or impairment, whether from compensable injury or otherwise, and the last injury together result in permanent total disability, the employer at the time of the last injury shall be liable only for the actual anatomical impairment resulting from the last injury considered alone and of itself. However, if the compensation for which the employer at the time of the last injury is liable is less than the compensation provided in §§ 11-9-501 - 11-9-506 for permanent total disability, then, in addition to the compensation for which the employer is liable and after the completion of payment of compensation by the employer, the employee shall be paid the remainder of the compensation that would be due for permanent total disability under §§ 11-9-501 - 11-9-506 out of the fund. (6) The Treasurer of State shall be the custodian of the fund, and any interest accruing shall be added thereto. (7) The commission shall direct the distribution of the funds from the fund. (c) (1) In all cases in which a recovery against the fund is sought for permanent partial disability or for permanent total disability, the Treasurer of State as custodian shall be named as a party and shall be entitled to defend against the claim. (2) The Treasurer of State, with the advice and consent of the Attorney General, may enter into settlements as contemplated by §§ 11-9-804 and 11-9-805 . (3) All awards for permanent partial disability or for permanent total disability affecting the fund shall be subject to the provisions of the Workers' Compensation Law, § 11-9-101 et seq., governing review and appeal. (d) (1) If more than one (1) injury in the same employment causes concurrent temporary disabilities, weekly benefits shall be payable only for the longest and largest paying disability. (2) If more than one (1) injury in the same employment causes concurrent and consecutive permanent partial disability, weekly benefits for each subsequent disability shall not begin until the end of the compensation period for the prior disability. (e) (1) No claims under this section shall be made on or after January 1, 2008. (2) For all claims for permanent partial disability or permanent total disability made on or after January 1, 2008, the employer at the time of the employee's compensable injury is liable for such benefits subject to this chapter, excluding subsections (a)-(d) of this section. (f) (1) A claimant who has been deemed permanently totally disabled and is currently receiving benefits from the Second Injury Trust Fund as of December 31, 2009, shall receive those benefits from the Death and Permanent Total Disability Trust Fund commencing January 1, 2010. (2) For all claims pending against the Second Injury Trust Fund on and after January 1, 2010, if a claimant becomes eligible to receive benefits for permanent total disability from the Second Injury Trust Fund, then upon completion of payment by the employer of its obligation under subdivision (b)(5) of this section, the claimant shall be paid the remainder of the compensation that would be due for permanent total disability from the Death and Permanent Total Disability Trust Fund.
+
+Init. Meas. 1948, No. 4, § 13, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 2, Acts 1957; Init. Meas. 1968, No. 1, §§ 2, 3, Acts 1969; Acts 1973, No. 221, § 2; 1979, No. 253, § 4; 1981, No. 290, § 4; A.S.A. 1947, § 81-1313; Acts 2007, No. 1415, § 1; 2009, No. 327, §§ 2, 3.
+
+## Section 11-9-526 - Compensation for disability - Refusal of employee to accept employment
+
+If any injured employee refuses employment suitable to his or her capacity offered to or procured for him or her, he or she shall not be entitled to any compensation during the continuance of the refusal, unless in the opinion of the Workers' Compensation Commission, the refusal is justifiable.
+
+Init. Meas. 1948, No. 4, § 13, Acts 1949, p. 1420; Init. Meas. 1956, No. 1, § 2, Acts 1957; A.S.A. 1947, § 81-1313.
+
+## Section 11-9-527 - Compensation for death
+
+(a) Funeral Expenses. If death results from an injury occurring on or after July 1, 1993, the employer shall pay the actual funeral expenses, not exceeding the sum of six thousand dollars ($6,000). (b) Time of Death. If death does not result within one (1) year from the date of the accident or within the first three (3) years of the period for compensation payments fixed by the compensation order, a rebuttable presumption shall arise that the death did not result from the injury. (c) Beneficiaries - Amounts. Subject to the limitations as set out in §§ 11-9-501 - 11-9-506 , compensation for the death of an employee shall be paid to those persons who were wholly and actually dependent upon the deceased employee in the following percentage of the average weekly wage of the employee and in the following order of preference: (1) (A) (i) To the widow if there is no child, thirty-five percent (35%), and the compensation shall be paid until her death or remarriage. (ii) However, the widow shall establish, in fact, some dependency upon the deceased employee before she will be entitled to benefits as provided in this section; (B) (i) To the widower if there is no child, thirty-five percent (35%), and the compensation shall be paid until his death or remarriage. (ii) However, the widower shall establish, in fact, some dependency upon the deceased employee before he will be entitled to benefits as provided in this section; (2) To the widow or widower if there is a child, the compensation payable under subdivision (c)(1) of this section and fifteen percent (15%) on account of each child; (3) (A) To one (1) child if there is no widow or widower, fifty percent (50%). (B) If more than one (1) child, and there is no widow or widower, fifteen percent (15%) for each child, and in addition thereto, thirty-five percent (35%) to the children as a class, to be divided equally among them; (4) To the parents, twenty-five percent (25%) each; (5) To brothers, sisters, grandchildren, and grandparents, fifteen percent (15%) each. (d) Terminations of Dependence. (1) In the event the widow remarries before full and complete payment to her of the benefits provided in subsection (c) of this section, there shall be paid to her a lump sum equal to compensation for one hundred four (104) weeks, subject to the limitation set out in §§ 11-9-501 - 11-9-506 . (2) A physically or mentally incapacitated child, grandchild, brother, or sister shall be entitled to compensation as a dependent of the deceased employee without regard to age or marital status, but if physically or mentally capacitated to earn a livelihood, dependency shall terminate with the attainment of eighteen (18) years of age or upon marriage. However, benefits to an otherwise eligible child shall not terminate at the age of eighteen (18) years provided the child is a full-time student who has not attained the age of twenty-five (25) years. (e) Apportionment of Benefits. Where, because of the limitation in subsection (c) of this section, a person or class of persons cannot receive the percentage of compensation specified as payable to or on account of the person or class, there shall be available to the person or class that proportion of the percentage which, when added to the total percentage payable to all persons having priority or preference, will not exceed a total of sixty-five percent (65%), which proportion shall be paid: (1) To that person; or (2) To that class in equal shares unless the Workers' Compensation Commission determines otherwise in accordance with the provisions of subsection (f) of this section. (f) Determination of Beneficiaries Within Class. If the commission determines that payments in accordance with subdivision (e)(2) of this section would provide no substantial benefit to any person of the class, it may provide for the payment of the compensation to the persons within the class whom it considers will be most benefited by the payment. (g) Cessation of Compensation to Part. Upon the cessation of compensation under this section to or on account of any person, the compensation of the remaining persons entitled to compensation for the unexpired part of the period during which their compensation is payable shall be that which the persons would have received if they had been the only persons entitled to compensation at the time of the decedent's death. (h) Determination of Dependency. All questions of dependency shall be determined as of the time of the injury. (i) Partial Dependency. (1) If the employee leaves dependents who are only partially dependent upon his or her earnings for support at the time of injury, the compensation payable for partial dependency shall be in the proportion that the partial dependency bears to total dependency. (2) In any claim for partial dependency where the average weekly contributions for support were not such as to entitle all dependents to compensation in the aggregate sum of seven dollars ($7.00) per week, the dependents shall receive compensation for a period not to exceed four hundred fifty (450) weeks in an amount not to exceed the amount of average weekly contributions of the deceased employee for the support of the dependents.
+
+Init. Meas. 1948, No. 4, § 15, Acts 1949, p. 1420; Acts 1961, No. 479, § 1; Init. Meas. 1968, No. 1, § 4, Acts 1969; Acts 1975 (Extended Sess., 1976), No. 1227, §§ 12, 13; 1981, No. 290, § 5; 1985, No. 842, § 1; 1986 (2nd Ex. Sess.), No. 10, § 6; A.S.A. 1947, § 81-1315; reen. Acts 1987, No. 1015, §§ 12, 13; Acts 1993, No. 796, § 25.
+
+## Section 11-9-528 - Employer records
+
+(a) Every employer shall keep a record with respect to any injury to an employee. (b) The record shall contain such information of disability or death with respect to the injury as the Workers' Compensation Commission may by rule require. (c) The record shall be available for inspection by the commission or by any state authority at such time and under such conditions as the commission may by rule prescribe.
+
+Amended by Act 2019, No. 315,§ 795, eff. 7/24/2019.
+
+Init. Meas. 1948, No. 4, § 33, Acts 1949, p. 1420; A.S.A. 1947, § 81-1333.
+
+## Section 11-9-529 - Employer reports
+
+(a) Within ten (10) days after the date of receipt of notice or of knowledge of injury or death, the employer shall send to the Workers' Compensation Commission a report setting forth: (1) The name, address, and business of the employer; (2) The name, address, and occupation of the employee; (3) The cause and nature of the injury or death; (4) The year, month, day, and hour when, and the particular locality where, the injury or death occurred; and (5) Such other information as the commission may require. (b) Additional reports with respect to the injury and of the condition of the employee shall be sent by the employer to the commission at such time and in such manner as the commission may prescribe. (c) Any report provided for in subsection (a) or (b) of this section shall not be evidence of any fact stated in the report in any proceeding with respect to the injury or death on account of which the report is made. (d) The mailing of any report in a stamped envelope, properly addressed, within the time prescribed in subsection (a) or (b) of this section, shall be in compliance with this section. (e) (1) Any employer who after notice refuses to send any report required of it by this section shall be subject to a civil penalty in an amount up to five hundred dollars ($500) for each refusal. (2) Whenever the employer has failed or refused to comply as provided in this section, the commission may serve upon the employer a proposed order declaring the employer to be in violation of this chapter and containing the amount, if any, of the civil penalty to be assessed against the employer pursuant to this section. (f) (1) An employer may contest a proposed order of the commission issued pursuant to subsection (e) of this section by filing with the commission, within twenty (20) days of receipt of the proposed order, a written request for a hearing. (2) If a written request for hearing is not filed with the commission within this time, the proposed order, proposed penalty, or both, shall be a final order of the commission. (3) Such a request for a hearing need not be in any particular form but shall specify the grounds upon which the person contests the proposed order, the proposed assessment, or both. (4) A proposed order by the commission pursuant to this section is prima facie correct, and the burden is upon the employer to prove that the proposed order is incorrect. (g) Hearings conducted under this section shall proceed as provided in §§ 11-9-704 - 11-9-711 . (h) If an employer fails to pay any civil penalty assessed against the employer after an order issued pursuant to this section has become final by operation of law, the commission may petition the circuit court of the county wherein is located the employer's principal place of business for an order enjoining the employer from engaging in further employment or conduct of business or until such time as the employer makes all required reports and pays all civil penalties.
+
+Init. Meas. 1948, No. 4, § 34, Acts 1949, p. 1420; A.S.A. 1947, § 81-1334; Acts 1993, No. 796, § 26.
+
+## Section 11-9-530 - Managed care implementation
+
+Implementation of Workers' Compensation Commission Rule 33 regarding managed care shall be voluntary for all employers.
+
+Acts 1997, No. 975, § 11; 1999, No. 1179, § 12.
+
+## Section 11-9-601 - Compensation generally
+
+(a) Where an employee suffers from an occupational disease as defined in this subchapter and is disabled or dies as a result of the disease and where the disease was due to the nature of the occupation or process in which he or she was employed within the period previous to his or her disablement as limited in subsection (g) of this section, then the employee, or, in case of death, his or her dependents, shall be entitled to compensation as if the disablement or death were caused by injury, except as otherwise provided in this subchapter. (b) No compensation shall be payable for an occupational disease if the employee, at the time of entering into the employment of the employer by whom the compensation would otherwise be payable, falsely represented himself or herself in writing as not having previously been disabled, laid off, or compensated in damages or otherwise, because of the disease. (c) (1) Where an occupational disease is aggravated by any other disease or infirmity, not itself compensable, or where disability or death from any other cause, not itself compensable, is aggravated, prolonged, accelerated, or in any way contributed to by an occupational disease, the compensation payable shall be reduced and limited to the proportion only of the compensation that would be payable if the occupational disease were the sole cause of the disability or death as the occupational disease, as a causative factor, bears to all the causes of the disability or death. (2) The reduction in compensation is to be effected by reducing the number of weekly or monthly payments or the amounts of the payments, as under the circumstances of the particular case may be for the best interest of the claimant. (d) No compensation for death from an occupational disease shall be payable to any person whose relationship to the deceased which, under the provisions of this chapter, would give right to compensation arose subsequent to the beginning of the first compensable disability except to afterborn children of a marriage existing at the beginning of the disability. (e) (1) (A) "Occupational disease", as used in this chapter, unless the context otherwise requires, means any disease that results in disability or death and arises out of and in the course of the occupation or employment of the employee or naturally follows or unavoidably results from an injury as that term is defined in this chapter. (B) However, a causal connection between the occupation or employment and the occupational disease must be established by a preponderance of the evidence. (2) No compensation shall be payable for any contagious or infectious disease unless contracted in the course of employment in or immediate connection with a hospital or sanitorium in which persons suffering from that disease are cared for or treated. (3) No compensation shall be payable for any ordinary disease of life to which the general public is exposed. (f) (1) Where compensation is payable for an occupational disease, the employer in whose employment the employee was last injuriously exposed to the hazards of the disease and the carrier, if any, on the risk when the employee was last injuriously exposed under the employer shall be liable. (2) The amount of the compensation shall be based upon the average weekly wage of the employee when last injuriously exposed under the employer, and the notice of injury and claim for compensation, as required pursuant to this subchapter, shall be given and made to the employer. (g) (1) An employer shall not be liable for any compensation for an occupational disease unless: (A) The disease is due to the nature of an employment in which the hazards of the disease actually exist and are characteristic thereof and peculiar to the trade, occupation, process, or employment and is actually incurred in his or her employment. This includes any disease due to or attributable to exposure to or contact with any radioactive material by an employee in the course of his or her employment; (B) Disablement or death results within three (3) years in case of silicosis or asbestosis, or one (1) year in case of any other occupational disease, except a diseased condition caused by exposure to X rays, radioactive substances, or ionizing radiation, after the last injurious exposure to the disease in the employment; or (C) In case of death, death follows continuous disability from the disease, commencing within the period above limited, for which compensation has been paid or awarded or timely claim made as provided in this subchapter and results within seven (7) years after the last exposure. (2) However, in case of a diseased condition caused by exposure to X rays, radioactive substances, or ionizing radiation only, the limitations expressed do not apply.
+
+Amended by Act 2021, No. 353,§ 5, eff. 5/1/2023Providing that the amendment by § 3shall expire unless extended by the General Assembly .
+
+Amended by Act 2021, No. 353,§ 3, eff. 3/15/2021, app. retroactively to workers' compensation claims accruing on or filed on and after March 11, 2020.
+
+Init. Meas. 1948, No. 4, § 14, Acts 1949, p. 1420; Acts 1963, No. 539, §§ 1, 2; 1975 (Extended Sess., 1976), No. 1227, § 11; A.S.A. 1947, § 81-1314; reen. Acts 1987, No. 1015, § 11; Acts 2001, No. 1281, § 1.
+
+See Act 2021, No. 353, § 4.
+
+## Section 11-9-602 - Compensation for silicosis or asbestosis
+
+(a) As used in this subchapter, unless the context otherwise requires: (1) "Asbestosis" means the characteristic fibrotic condition of the lungs caused by the inhalation of asbestos dust; and (2) "Silicosis" means the characteristic fibrotic condition of the lungs caused by the inhalation of silica dust. (b) In the absence of conclusive evidence in favor of the claim, disability or death from silicosis or asbestosis shall be presumed not to be due to the nature of any occupation within the provision of this subchapter unless during the ten (10) years immediately preceding the date of disablement the employee has been exposed to the inhalation of silica dust or asbestos dust over a period of not less than five (5) years, two (2) years of which shall have been in this state, under a contract of employment existing in this state. However, if the employee has been employed by the same employer during the whole of the five-year period, his or her right to compensation against the employer shall not be affected by the fact that he or she had been employed during any part of the period outside of this state. (c) Except as in this subchapter otherwise provided, compensation for disability from uncomplicated silicosis or asbestosis shall be payable in accordance with the provisions of §§ 11-9-519 - 11-9-526 . However, no compensation shall be payable for disability from silicosis or asbestosis of less than thirty-three and one-third percent (331/3%) of the total disability. (d) (1) In case of disability or death from silicosis or asbestosis complicated with tuberculosis of the lungs, compensation shall be payable as for uncomplicated silicosis or asbestosis, provided that the silicosis or asbestosis was an essential factor in the causing of disability or death. (2) In case of disability or death from silicosis or asbestosis complicated with any other disease, or from any other disease complicated with silicosis or asbestosis, the compensation shall be reduced as provided in § 11-9-601(c) . (e) (1) (A) (i) Where an employee, though not actually disabled, is found by the Workers' Compensation Commission to be affected by silicosis or asbestosis to such a degree as to make it unduly hazardous for him or her to continue in an employment involving exposure to the hazards of the disease, the commission may order that he or she be removed from his or her employment. In such a case, or in case he or she has already been discharged from the employment and is unemployed, he or she shall be entitled to compensation until he or she can obtain steady employment in some other suitable occupation in which there are no hazards of the disease. (ii) However, the compensation shall in no case be payable for longer than twenty-six (26) weeks immediately following the date of removal or discharge and unless application for compensation is made within the period. (B) In case the employee obtains other suitable employment at reduced wages, the payments of compensation during such part of the twenty-six-week-period as he or she is so employed shall be at the rate prescribed in § 11-9-520 . (2) (A) When in any case the forced change of employment shall, in the opinion of the commission, require that the employee be given special training in order to fit him or her for another occupation, the employer liable for compensation shall pay for the training and incidental traveling expenses an additional sum, in no case, however, to exceed four hundred dollars ($400). (B) The payment shall be made for the benefit of the employee to such person as the commission shall direct. (C) No payment, however, shall be made unless the employee accepts the special training directed by the commission, nor shall payment be made for a longer period than the employee submits to the training. (3) If an employee has been compensated, whether specially trained or not, and thereafter engages in any occupation which exposes him or her to hazards of silicosis or asbestosis without first having obtained the written approval of the commission, neither he or she, his or her dependents, personal representative, nor any other person shall be entitled to compensation or damages for his or her disablement or death from either of the diseases. (4) However, neither a claim for nor receipt of compensation or benefits under this subsection shall bar the employee from any right to compensation for actual disability from silicosis or asbestosis if the disability results not later and within the time limited in § 11-9-601(g) .
+
+Init. Meas. 1948, No. 4, § 14, Acts 1949, p. 1420; Acts 1975 (Extended Sess., 1976), No. 1227, § 11; A.S.A. 1947, § 81-1314; reen. Acts 1987, No. 1015, § 11.
+
+## Section 11-9-603 - Practice and procedure
+
+(a) (1) Except as otherwise provided in this subchapter, procedure with respect to notice of disability or death and as to the filing of claims and determination of claims shall be the same as in cases of accidental injury or death. (2) (A) Written notice shall be given to the employer of an occupational disease by the employee, or someone in his or her behalf, within ninety (90) days after the first distinct manifestation thereof. (B) In the case of death from an occupational disease, written notice of death shall also be given to the employer within ninety (90) days thereafter. (b) An award or denial of award of compensation for an occupational disease may be reviewed and compensation increased, reduced, or terminated where previously awarded, or awarded where previously denied, only upon proof of fraud or undue influence or of change of condition, and then only upon application by a party in interest made not later than one (1) year after the denial of award or, where compensation has been awarded, after the award or the date when the last payment was made under the award, except in cases of silicosis or asbestosis, where the time limit shall be two (2) years.
+
+Init. Meas. 1948, No. 4, § 14, Acts 1949, p. 1420; Acts 1975 (Extended Sess., 1976), No. 1227, § 11; A.S.A. 1947, § 81-1314; reen. Acts 1987, No. 1015, § 11.
+
+## Section 11-9-701 - Notice of injury or death
+
+(a) (1) Unless an injury either renders the employee physically or mentally unable to do so, or is made known to the employer immediately after it occurs, the employee shall report the injury to the employer on a form prescribed or approved by the Workers' Compensation Commission and to a person or at a place specified by the employer, and the employer shall not be responsible for disability, medical, or other benefits prior to receipt of the employee's report of injury. (2) All reporting procedures specified by the employer must be reasonable and shall afford each employee reasonable notice of the reporting requirements. (3) The foregoing shall not apply when an employee requires emergency medical treatment outside the employer's normal business hours; however, in that event, the employee shall cause a report of the injury to be made to the employer on the employer's next regular business day. (b) (1) Failure to give the notice shall not bar any claim: (A) If the employer had knowledge of the injury or death; (B) If the employee had no knowledge that the condition or disease arose out of and in the course of the employment; or (C) If the commission excuses the failure on the grounds that for some satisfactory reason the notice could not be given. (2) Objection to failure to give notice must be made at or before the first hearing on the claim.
+
+Init. Meas. 1948, No. 4, § 17, Acts 1949, p. 1420; Acts 1975 (Extended Sess., 1976), No. 1227, § 14; 1979, No. 253, § 5; 1986 (2nd Ex. Sess.), No. 10, § 7; A.S.A. 1947, § 81-1317; reen. Acts 1987, No. 1015, § 14.
+
+## Section 11-9-702 - Filing of claims
+
+(a) Time for Filing. (1) A claim for compensation for disability on account of an injury, other than an occupational disease and occupational infection, shall be barred unless filed with the Workers' Compensation Commission within two (2) years from the date of the compensable injury. If during the two-year period following the filing of the claim the claimant receives no weekly benefit compensation and receives no medical treatment resulting from the alleged injury, the claim shall be barred thereafter. For purposes of this section, the date of the compensable injury shall be defined as the date an injury is caused by an accident as set forth in § 11-9-102(4) . (2) (A) A claim for compensation for disability on account of injury which is either an occupational disease or occupational infection shall be barred unless filed with the commission within two (2) years from the date of the last injurious exposure to the hazards of the disease or infection. (B) However, a claim for compensation for disability on account of silicosis or asbestosis must be filed with the commission within one (1) year after the time of disablement, and the disablement must occur within three (3) years from the date of the last injurious exposure to the hazard of silicosis or asbestosis. (C) Also, a claim for compensation for disability on account of a disease condition caused by exposure to X rays, radioactive substances, or ionizing radiation only must be filed with the commission within two (2) years from the date the condition is made known to an employee following examination and diagnosis by a medical doctor. (3) A claim for compensation on account of death shall be barred unless filed with the commission within two (2) years of the date of such a death. (4) If within six (6) months after the filing of a claim for compensation no bona fide request for a hearing has been made with respect to the claim, the claim may, upon motion and after hearing, be dismissed without prejudice to the refiling of the claim within limitation periods specified in subdivisions (a)(1)-(3) of this section. (b) Time for Filing Additional Compensation. (1) In cases in which any compensation, including disability or medical, has been paid on account of injury, a claim for additional compensation shall be barred unless filed with the commission within one (1) year from the date of the last payment of compensation or two (2) years from the date of the injury, whichever is greater. (2) The time limitations of this subsection shall not apply to claims for the replacement of medicine, crutches, ambulatory devices, artificial limbs, eyeglasses, contact lenses, hearing aids, and other apparatus permanently or indefinitely required as the result of a compensable injury, when the employer or carrier previously furnished such medical supplies, but replacement of such items shall not constitute payment of compensation so as to toll the running of the statute of limitations. (c) A claim for additional compensation must specifically state that it is a claim for additional compensation. Documents which do not specifically request additional benefits shall not be considered a claim for additional compensation. (d) If within six (6) months after the filing of a claim for additional compensation no bona fide request for a hearing has been made with respect to the claim, the claim may, upon motion and after hearing, if necessary, be dismissed without prejudice to the refiling of the claim within the limitation period specified in subsection (b) of this section. (e) Failure to File. Failure to file a claim within the period prescribed in subsection (a) or (b) of this section shall not be a bar to the right unless objection to the failure is made at the first hearing on the claim in which all parties in interest have been given a reasonable notice and opportunity to be heard. (f) Persons under Disability. (1) Notwithstanding any statute of limitation provided for in this chapter, when it is established that failure to file a claim by an injured employee or his or her dependents was induced by fraud, the claim may be filed within one (1) year from the time of the discovery of the fraud. (2) Subsection (a) or (b) of this section shall not apply to a mental incompetent or minor so long as the person has no guardian or similar legal representative. The limitations prescribed in subsection (a) or (b) of this section shall apply to the mental incompetent or minor from the date of the appointment of a guardian or similar legal representative for that person, and when no guardian or similar representative has been appointed, to a minor upon obtainment of majority. (g) (1) A latent injury or condition shall not delay or toll the limitation periods specified in this section. (2) However, this subsection shall not apply to the limitation period for occupational diseases specified in subdivision (a)(2) of this section. (h) (1) The purpose of this section is to provide for a timely hearing on claims for benefits. (2) The purpose and intent of this section also includes the annulment of any case law inconsistent with this section.
+
+Init. Meas. 1948, No. 4, § 18, Acts 1949, p. 1420; Acts 1963, No. 539, § 3; Init. Meas. 1968, No. 1, § 5, Acts 1969; Acts 1979, No. 108, § 1; 1981, No. 290, § 6; 1986 (2nd Ex. Sess.), No. 10, § 8; A.S.A. 1947, § 81-1318; Acts 1993, No. 796, § 27.
+
+## Section 11-9-703 - Preliminary conference procedure
+
+The Workers' Compensation Commission is authorized and directed to promulgate appropriate rules to establish and implement, for claims with respect to injuries occurring on or after January 1, 1987, a preliminary conference procedure designed to accomplish the following objectives: (1) To provide the claimant an opportunity to confer with a legal advisor on the staff of the commission to be advised of his or her rights under this chapter and to ensure that the rights are protected. The conference shall be held in the county where the accident occurred, if the accident occurred in this state, unless otherwise agreed to between the parties, or otherwise directed by the commission; (2) To provide an opportunity for, but not to compel, a binding settlement of some or all the issues present at the time; (3) To facilitate the resolution of issues without the expense of litigation or attorney's fees for either party; (4) (A) (i) To authorize the legal advisor to approve compromise settlements entered into at or as a result of the preliminary conference and those joint petition settlements entered into pursuant to § 11-9-805 . (ii) Provided, however, the same legal advisors shall not both advise the claimant and approve the joint petition. (B) The purpose and intent of this section is to affirm the duty of the commission to provide legal assistance, thereby reducing litigation and workers' compensation costs; and (5) No moneys appropriated by Acts 1987, No. 1046, or any other act shall be expended to fund preliminary conferences held pursuant to § 11-9-102 , § 11-9-205 , §§ 11-9-501 - 11-9-503 , § 11-9-517 , § 11-9-521 , § 11-9-522 , § 11-9-527 , §§ 11-9-701 - 11-9-704 , § 11-9-715 , § 11-9-802 , or § 11-9-804 , other than in the county where the accident occurred, if the accident occurred in this state, the county of the claimant's residence, or such other county as agreed to by the parties.
+
+Amended by Act 2019, No. 315,§ 796, eff. 7/24/2019.
+
+Acts 1986 (2nd Ex. Sess.), No. 10, § 11; A.S.A. 1947, § 81-1323.1; Acts 1993, No. 796, § 28; 2003, No. 227, § 10.
+
+## Section 11-9-704 - Proceedings on claims
+
+(a) Notice. Within ten (10) days after a claim for compensation has been filed, the Workers' Compensation Commission shall notify the employer and any other interested person of the filing of the claim. (b) Investigation - Hearing. (1) The commission shall make or cause to be made such investigation as it considers necessary in respect to the claim, and upon application of any interested party, or on its own motion, shall order a hearing. (2) An application for a hearing must set forth clearly the specific issues of fact or law in controversy and the contentions of the party applying for the hearing. (3) If any party is not represented by a lawyer, the administrative law judge shall define the issues to be heard. (4) (A) If a hearing on the claim is ordered, the commission shall give the claimant and other interested parties ten (10) days' notice of the hearing served personally upon the claimant and other parties, or by registered mail. (B) The hearing shall be held in the county where the accident occurred, if the accident occurred in this state, unless otherwise agreed to between the parties, or otherwise directed by the commission. If the accident occurred without the State of Arkansas, and is one for which compensation is payable under this subchapter, the hearing may be held in the county of the employer's residence or place of business, or any other county in the State of Arkansas which will, in the discretion of the commission, be most convenient for the hearing. (5) The award, together with the statement of the findings of fact and other matters pertinent to the issues, shall be filed with the record of the proceedings, and a copy of the award shall immediately be sent to the parties in dispute or to their attorneys. (6) (A) If an application for review is filed in the office of the commission within thirty (30) days from the date of the receipt of the award, the full commission shall review the evidence or, if deemed advisable, hear the parties, their representatives, and witnesses, and shall make awards, together with its rulings of law, and file same in like manner as specified in the foregoing. (B) A copy of the award made on review shall immediately be sent to the parties in dispute, or to their attorneys. (7) The full commission may remand to a single member of the commission or administrative law judge any case before the full commission for the purpose of taking additional evidence. The evidence shall be delivered to the full commission and shall be taken into consideration before rendering any decision or award in the case. (c) Evidence and Construction. (1) (A) (i) At the hearing the claimant and the employer may each present evidence in respect of the claim and may be represented by any person authorized in writing for such purpose. (ii) The evidence may include verified medical reports which shall be accorded such weight as may be warranted from all the evidence of the case. (B) Any determination of the existence or extent of physical impairment shall be supported by objective and measurable physical or mental findings. (2) When deciding any issue, administrative law judges and the commission shall determine, on the basis of the record as a whole, whether the party having the burden of proof on the issue has established it by a preponderance of the evidence. (3) Administrative law judges, the commission, and any reviewing courts shall construe the provisions of this chapter strictly. (4) In determining whether a party has met the burden of proof on an issue, administrative law judges and the commission shall weigh the evidence impartially and without giving the benefit of the doubt to any party. (d) Order. The order denying the claim or making the award shall be filed in the office of the commission, and a copy shall be sent by registered mail to the claimant and to the employer or to their attorneys. (e) Award after Death. (1) No compensation for disability of an injured employee shall be payable for any period beyond his or her death. (2) However, an award of compensation for disability may be made after the death of the injured employee for the period of disability preceding death.
+
+Init. Meas. 1948, No. 4, § 23, Acts 1949, p. 1420; Acts 1981, No. 290, § 10; 1986 (2nd Ex. Sess.), No. 10, § 10; A.S.A. 1947, § 81-1323; Acts 1991, No. 786, § 10; 1993, No. 796, § 29.
+
+## Section 11-9-705 - Nature of proceedings generally
+
+(a) Conduct of Hearing or Inquiry. (1) In making an investigation or inquiry or conducting a hearing, the Workers' Compensation Commission shall not be bound by technical or statutory rules of evidence or by technical or formal rules of procedure, except as provided by this chapter, but may make such investigation or inquiry, or conduct the hearing, in a manner as will best ascertain the rights of the parties. (2) Declarations of a deceased employee concerning the injury in respect of which the investigation or inquiry is being made, or the hearing conducted, may be received in evidence and may, if corroborated by other evidence, be sufficient to establish the injury. (3) When deciding any issue, administrative law judges and the commission shall determine, on the basis of the record as a whole, whether the party having the burden of proof on the issue has established it by a preponderance of evidence. (b) Hearings to be Public - Records. (1) (A) Hearings before the commission shall be open to the public and shall be stenographically reported, and the commission is authorized to contract for the reporting of the hearings. (B) The commission shall by rule provide for the preparation of a record of all hearings and other proceedings before it. (2) However, the commission shall not be required to stenographically report or prepare a record of joint petition hearings. Instead, the administrative law judge or legal advisor shall tape the hearing at no cost to the parties. (c) Introduction of Evidence. (1) (A) All oral evidence or documentary evidence shall be presented to the designated representative of the commission at the initial hearing on a controverted claim, which evidence shall be stenographically reported. (B) Each party shall present all evidence at the initial hearing. (C) (i) Further hearings for the purpose of introducing additional evidence will be granted only at the discretion of the hearing officer or commission. (ii) A request for a hearing for the introduction of additional evidence must show the substance of the evidence desired to be presented. (2) (A) Any party proposing to introduce medical reports or testimony of physicians at the hearing of a controverted claim shall, as a condition precedent to the right to do so, furnish to the opposing party and to the commission copies of the written reports of the physicians of their findings and opinions at least seven (7) days prior to the date of the hearing. However, if no written reports are available to a party, then the party shall, in lieu of furnishing the report, notify in writing the opposing party and the commission of the name and address of the physicians proposed to be used as witnesses at least seven (7) days prior to the hearing and the substance of their anticipated testimony. (B) If the opposing party desires to cross-examine the physician, he or she should notify the party who submits a medical report to him or her as soon as practicable, in order that he or she may make every effort to have the physician present for the hearing. (3) A party failing to observe the requirements of this subsection may not be allowed to introduce medical reports or testimony of physicians at a hearing, except in the discretion of the hearing officer or the commission. (4) The time periods may be waived by the consent of the parties. (d) Expert testimony shall not be allowed unless it satisfies the requirements of Federal Rule of Evidence 702 with annotations and amendments, that is, Daubert v. Merrell-Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993), and Kumho Tire Co. v. Carmichael, 526 U.S. 137 (1999).
+
+Amended by Act 2019, No. 315,§ 797, eff. 7/24/2019.
+
+Init. Meas. 1948, No. 4, § 27, Acts 1949, p. 1420; Acts 1981, No. 290, § 11; A.S.A. 1947, § 81-1327; Acts 1993, No. 796, § 30; 2001, No. 1281, § 4.
+
+## Section 11-9-706 - Conduct of proceedings - Contempt
+
+(a) The Workers' Compensation Commission shall have the power to preserve and enforce order during any proceeding had before it, to issue subpoenas for and administer oaths to and compel the attendance and testimony of witnesses, and require the production of books, papers, documents, and other evidence. (b) If any person or party in proceedings before the commission disobeys or resists any lawful order or process, or misbehaves during a hearing, or so near the place thereof so as to obstruct the hearing or neglects to produce, after having been ordered to do so, any book, paper, or document, or refuses to appear after having been subpoenaed, or upon appearing refuses to take oath as a witness, or after having taken the oath refuses to be examined according to law, or refuses to comply with any final order of an administrative law judge or the commission, or willfully refuses to pay an uncontroverted medical or related expense within forty-five (45) days after the respondent has received the statement, then the person or party, at the discretion of the administrative law judge or the commission, may be found to be in contempt of the commission and may be subject to a fine not to exceed ten thousand dollars ($10,000).
+
+Init. Meas. 1948, No. 4, § 31, Acts 1949, p. 1420; A.S.A. 1947, § 81-1331; Acts 1995, No. 1230, § 1.
+
+## Section 11-9-707 - Presumptions
+
+In any proceeding for the enforcement of a claim for compensation, the following prima facie presumptions shall exist: (1) That the Workers' Compensation Commission has jurisdiction; (2) That sufficient notice was given; and (3) That the injury was not occasioned by the willful intention of the injured employee to bring about the injury of himself or herself or another.
+
+Init. Meas. 1948, No. 4, § 24, Acts 1949, p. 1420; A.S.A. 1947, § 81-1324; Acts 1993, No. 796, § 3.
+
+## Section 11-9-708 - Depositions
+
+The Workers' Compensation Commission may cause depositions of witnesses to be taken in such manner as it may direct.
+
+Init. Meas. 1948, No. 4, § 28, Acts 1949, p. 1420; A.S.A. 1947, § 81-1328.
+
+## Section 11-9-709 - Witness fees
+
+Each witness who appears in obedience to a subpoena shall be entitled to the same fees as witnesses in a civil action in the circuit court.
+
+Init. Meas. 1948, No. 4, § 29, Acts 1949, p. 1420; A.S.A. 1947, § 81-1329.
+
+## Section 11-9-710 - Attorneys
+
+(a) Where the Workers' Compensation Commission is a party to or is otherwise interested in a court proceeding under this chapter, it may employ attorneys to appear in its behalf. (b) If requested by the commission, it shall be the duty of the Attorney General or the prosecuting attorneys of the different circuits to represent the commission without extra compensation.
+
+Init. Meas. 1948, No. 4, § 25, Acts 1949, p. 1420; A.S.A. 1947, § 81-1325.
+
+## Section 11-9-711 - Finality of order or award - Review
+
+(a) Award or Order of Administrative Law Judge or Single Commissioner - Review. (1) A compensation order or award of an administrative law judge or a single commissioner shall become final unless a party to the dispute shall, within thirty (30) days from the receipt by him or her of the order or award, petition in writing for a review by the full commission of the order or award. (2) Any other party to the dispute may cross appeal by filing a written petition for cross appeal within fifteen (15) days after the notice of appeal is filed in the office of the Workers' Compensation Commission, except that in no event shall a cross appellant have less than thirty (30) days from the receipt by him or her of the order or award within which to file a notice of cross appeal. (b) Award or Order of Commission - Appeal. (1) A compensation order or award of the commission shall become final unless a party to the dispute shall, within thirty (30) days from receipt by him or her of the order or award, file notice of appeal to the Court of Appeals, which is designated as the forum for judicial review of those orders and awards. (A) The appeal to the Court of Appeals may be taken by filing in the office of the commission, within thirty (30) days from the date of the receipt of the order or award of the commission, a notice of appeal, whereupon the commission under its certificate shall send to the Court of Appeals all pertinent documents and papers, together with a transcript of evidence and the findings and orders, which shall become the record of the cause. (B) Any other party to the dispute may cross appeal by filing in the office of the commission a notice of cross appeal to the Court of Appeals within fifteen (15) days after the notice of appeal is filed, except that in no event shall a cross appellant have less than thirty (30) days from his or her receipt of the order or award of the commission within which to file a notice of cross appeal. (C) The commission may assess and collect an appeal processing fee not to exceed fifteen dollars ($15.00) from the appellant and, if cross appealed, the cross appellant. (2) Appeals from the commission to the Court of Appeals shall be allowed as in other civil actions and shall take precedence over all other civil cases appealed to the Court of Appeals. (3) (A) Upon appeal to the Court of Appeals, no additional evidence shall be heard. (B) In the absence of fraud, the findings of fact made by the commission within its power shall be conclusive and binding upon the Court of Appeals and shall be given the same force and effect as in cases heretofore decided by the Supreme Court, except subject to review as in subdivision (b)(4) of this section. (4) The Court of Appeals shall review only questions of law and may modify, reverse, remand for rehearing, or set aside the order or award, upon any of the following grounds, and no other: (A) That the commission acted without or in excess of its powers; (B) That the order or award was procured by fraud; (C) That the facts found by the commission do not support the order or award; or (D) That the order or award was not supported by substantial evidence of record. (c) Appeal Costs. (1) In all appeals the cost shall be assessed as provided by law in civil cases. (2) The commission may require a bond from either party, if it deems necessary, in cases appealed to the Court of Appeals. (d) School District Employees. The action taken by the commission with respect to the allowance or disallowance of any claim filed by a school district employee shall be subject to appeal to the Court of Appeals as provided for in subsection (b) of this section.
+
+Init. Meas. 1948, No. 4, § 25, Acts 1949, p. 1420; Acts 1967, No. 501, § 1; 1975 (Extended Sess., 1976), No. 1227, § 15; 1979, No. 252, § 1; 1979, No. 253, § 7; 1979, No. 597, § 4; 1981, No. 290, § 14; 1981, No. 631, §§ 1, 2; A.S.A. 1947, §§ 81-1325, 81-1325.1; reen. Acts 1987, No. 1015, § 15; Acts 2001, No. 1757, § 7; 2003, No. 1473, § 24.
+
+## Section 11-9-712 - Enforcement of order or award
+
+If any employer fails to comply with a final compensation order or award, any beneficiary of the order or award, or the Workers' Compensation Commission, may file a certified copy of the order or award in the office of the circuit clerk of any county in this state where any property of the employer may be found. At that time, the circuit clerk shall enter the order or award in the judgment record of the county, and the order or award so recorded shall be a judgment and lien as are judgments of the circuit court, and enforceable as such.
+
+Init. Meas. 1948, No. 4, § 25, Acts 1949, p. 1420; A.S.A. 1947, § 81-1325.
+
+## Section 11-9-713 - Modification of awards
+
+(a) (1) Except where a joint petition settlement has been approved, the Workers' Compensation Commission may review any compensation order, award, or decision. (2) This may be done at any time within six (6) months of termination of the compensation period fixed in the original compensation order or award, upon the commission's own motion or upon the application of any party in interest, on the ground of a change in physical condition or upon proof of erroneous wage rate. (3) Upon the review, the commission may make an order or award terminating, continuing, decreasing, or increasing for the future the compensation previously awarded, subject to the maximum limits provided for in this chapter. (b) The review and subsequent order or award shall be made in accordance with the procedure prescribed in § 11-9-704 . (c) No review shall affect any compensation paid pursuant to a prior order or award. (d) The commission may, at any time, correct any clerical error in any compensation order or award. (e) Aging and the effects of aging on a compensable injury are not to be considered in determining whether there has been a change in physical condition. Nor shall aging or the effect of aging on a compensable injury be considered in determining permanent disability pursuant to this section or any other section in this chapter. The purpose and intent of this section is to annul any and all case law inconsistent herewith, including International Paper Co. v. Tuberville, 302 Ark. 22, 786 S.W.2d 830 (1990).
+
+Init. Meas. 1948, No. 4, § 26, Acts 1949, p. 1420; A.S.A. 1947, § 81-1326; Acts 1993, No. 796, § 31.
+
+## Section 11-9-714 - Costs in proceedings brought without reasonable grounds
+
+If the court having jurisdiction of proceedings in respect of any claim or compensation order determines that the proceedings in respect to the claim or order have been instituted or continued without reasonable grounds, the cost of the proceedings shall be assessed against the party who has instituted or continued the proceedings.
+
+Init. Meas. 1948, No. 4, § 30, Acts 1949, p. 1420; A.S.A. 1947, § 81-1330.
+
+## Section 11-9-715 - Fees for legal services
+
+(a) (1) (A) Fees for legal services rendered in respect of a claim shall not be valid unless approved by the Workers' Compensation Commission. (B) Attorney's fees shall be twenty-five percent (25%) of compensation for indemnity benefits payable to the injured employee or dependents of a deceased employee. Attorney's fees shall not be awarded on medical benefits or services except as provided in subdivision (a)(4) of this section. (2) (A) Whenever the commission finds that a claim against the Treasurer of State, as custodian of the Second Injury Trust Fund or as custodian of the Death and Permanent Total Disability Trust Fund, has been controverted, in whole or in part, the commission shall direct that fees for legal services be paid from the fund, in addition to compensation awarded, and the fees shall be allowed only on the amount of compensation controverted and awarded from the fund. (B) (i) In all other cases whenever the commission finds that a claim has been controverted, in whole or in part, the commission shall direct that fees for legal services be paid to the attorney for the claimant as follows: One-half (½) by the employer or carrier in addition to compensation awarded; and one-half (½) by the injured employee or dependents of a deceased employee out of compensation payable to them. (ii) The fees shall be allowed only on the amount of compensation for indemnity benefits controverted and awarded. (iii) However, the commission shall not find that a claim has been controverted if the claimant or his or her representative has withheld from the respondent during the period of time allotted for the respondent to determine its position any medical information in his or her possession which substantiates the claim. (C) (i) Whenever the commission finds that a claim has not been controverted but further finds that bona fide legal services have been rendered in respect to the claim, then the commission shall direct the payment of the fees by the injured employee or dependents of a deceased employee out of the compensation awarded. (ii) In determining the amount of fees when a claim is not controverted, the commission shall use its discretion in awarding an attorney's fee not to exceed twenty-five percent (25%) and in so doing shall take into consideration the nature, length, and complexity of the services performed and the benefits resulting to the compensation beneficiaries. (3) In any case where attorney's fees are allowed by the commission, the limitations expressed in the first sentence herein shall apply. (4) Medical providers may voluntarily contract with the attorney for the claimant to recover disputed bills, and the attorney may charge a reasonable fee to the medical provider as a cost of collection. (b) (1) If the claimant prevails on appeal, the attorney for the claimant shall be entitled to an additional fee at the full commission and appellate court levels in addition to the fees provided in subdivision (a)(1) of this section, the additional fee to be paid equally by the employer or carrier and by the injured employee or dependents of a deceased employee, as provided above and set by the commission or appellate court. (2) The maximum fees allowable pursuant to this subsection shall be the sum of five hundred dollars ($500) on appeals to the full commission from a decision of the administrative law judge and the sum of one thousand dollars ($1,000) on appeals to the Court of Appeals or Supreme Court from a decision of the commission. (3) In determining the amount of fees, the commission and the court shall take into consideration the nature, length, and complexity of the services performed and the benefits resulting to the compensation beneficiary. (c) (1) The fee for legal services rendered by the claimant's attorney in connection with a change of physician requested by the injured employee, controverted by the employer or carrier and awarded by the commission, shall be two hundred dollars ($200). (2) No additional fee shall be payable with respect to uncontroverted charges incurred in connection with treatment by the new physician. (d) (1) No fees for legal services rendered by the claimant's attorney with respect to the preliminary conference procedure shall be awarded by the commission. (2) However, the claimant's attorney or other representative may charge a reasonable fee to the claimant for representation in connection with the conference. (3) Unless compensability of a claim is controverted by the employer or carrier, fees for legal services by the claimant's attorney with respect to disability for loss of wage-earning capacity shall be payable only for amounts awarded at a contested hearing which exceed the amount, if any, which the employer or carrier agreed in writing to accept at the preliminary conference. (e) The amendments made by this act of 2001 regarding attorney's fees contained in this section shall be effective with respect to benefits payable in connection with disability or death due to injuries occurring on or after July 1, 2001.
+
+Init. Meas. 1948, No. 4, § 32, Acts 1949, p. 1420; Acts 1959, No. 144, § 2; 1975 (Extended Sess., 1976), No. 1227, § 16; 1979, No. 253, § 8; 1979, No. 822, § 1; 1981, No. 290, § 12; 1986 (2nd Ex. Sess.), No. 10, § 12; A.S.A. 1947, § 81-1332; reen. Acts 1987, No. 1015, § 16; Acts 2001, No. 1281, § 5.
+
+## Section 11-9-716 - Lump-sum attorney's fees
+
+(a) The Workers' Compensation Commission is authorized to approve lump-sum attorney's fees for legal services rendered in respect of a claim before the commission. (b) The lump-sum attorney's fees are allowable notwithstanding that the award of compensation to the injured employee is to be paid on an installment basis. (c) Lump-sum attorney's fees, if approved by the commission, shall be discounted at the rate provided in § 11-9-804 , as that provision may be amended from time to time.
+
+Acts 1979, No. 215, § 1; 1981, No. 631, § 4; A.S.A. 1947, § 81-1332.1.
+
+## Section 11-9-717 - Attorney's signature
+
+(a) (1) (A) Every claim, request for benefits, request for additional benefits, controversion of benefits, request for a hearing, pleading, motion, and other paper of a party represented by an attorney shall be signed by at least one (1) attorney of record in his or her individual name, whose address shall be stated. (B) A party who is not represented by an attorney shall sign his or her claim, request for benefits, request for additional benefits, controversion of benefits, request for a hearing, pleading, motion, or other paper, and state his or her address. (2) The signature of an attorney or party constitutes a certificate by him or her that: (A) He or she has read the claim, request for benefits, request for additional benefits, controversion of benefits, request for a hearing, pleading, motion, or other paper; (B) To the best of his or her knowledge, information, and belief formed after reasonable inquiry, it is well grounded in fact and is warranted by existing law or a good faith argument for the extension, modification, or reversal of existing law; and (C) It is not interposed for any improper purpose, such as to harass or to cause unnecessary delay or needless increase in the cost of litigation. (3) If a claim, request for benefits, request for additional benefits, controversion of benefits, request for a hearing, pleading, motion, or other paper is not signed, it shall be stricken unless it is signed promptly after the omission is called to the attention of the pleader or movant. (4) If a claim, request for benefits, request for additional benefits, controversion of benefits, request for a hearing, pleading, motion, or other paper is signed in violation of this rule, the Workers' Compensation Commission, including administrative law judges, upon motion or upon their own initiative, shall impose upon the person who signed it, a represented party, or both, an appropriate sanction, which may include an order to pay to the other party or parties the amount of reasonable expenses incurred because of the filing of a claim, request for benefits, request for additional benefits, controversion of benefits, request for a hearing, pleading, motion, or other paper, including a reasonable attorney's fee. (b) Appropriate sanctions, including the amount of reasonable expenses and attorney's fees, may also be imposed against a party or its attorney which, without good cause shown, fails to appear for a hearing, deposition, or any other matter scheduled by the commission or administrative law judge, or frivolously joins another party.
+
+Acts 1993, No. 796, § 36.
+
+## Section 11-9-801 - Methods of payment
+
+(a) Compensation shall be paid by check, by electronic funds transfer, or by state warrant. (b) Payment shall be made payable to the order of the person entitled to the compensation and paid directly to the person entitled to the compensation. (c) If the compensation beneficiary is a mental incompetent or a minor of tender years or immature judgment, the Workers' Compensation Commission, in the exercise of its discretion, may direct that payment shall be made to a legally appointed guardian of the estate of the incompetent or minor.
+
+Init. Meas. 1948, No. 4, § 19, Acts 1949, p. 1420; Acts 1959, No. 167, § 1; 1979, No. 253, § 6; 1981, No. 290, §§ 7-9; 1983, No. 720, § 1; A.S.A. 1947, § 81-1319; Acts 2009, No. 726, § 3.
+
+## Section 11-9-802 - Installments
+
+(a) The first installment of compensation shall become due on the fifteenth day after the employer has notice of the injury or death, as provided in § 11-9-701 , on which date all compensation then accrued shall be paid. Thereafter, compensation shall be paid every two (2) weeks except where the Workers' Compensation Commission directs that installment payments be made at other periods. (b) If any installment of compensation payable without an award is not paid within fifteen (15) days after it becomes due, as provided in subsection (a) of this section, there shall be added to the unpaid installment an amount equal to eighteen percent (18%) thereof, which shall be paid at the same time as, but in addition to, the installment unless notice of controversion is filed or an extension is granted the employer under § 11-9-803 or unless such nonpayment is excused by the commission after a showing by the employer that, owing to conditions over which he or she had no control, the installment could not be paid within the period prescribed. (c) If any installment payable under the terms of an award is not paid within fifteen (15) days after it becomes due, there shall be added to such unpaid installment an amount equal to twenty percent (20%) thereof, which shall be paid at the same time as, but in addition to, the installment unless review of the compensation order making the award is had as provided in §§ 11-9-711 and 11-9-712 . (d) Medical bills are payable within thirty (30) days after receipt by the respondent unless disputed as to compensability or amount. (e) In the event that the commission finds the failure to pay any benefit is willful and intentional, the penalty shall be up to thirty-six percent (36%), payable to the claimant.
+
+Init. Meas. 1948, No. 4, § 19, Acts 1949, p. 1420; Acts 1959, No. 167, § 1; 1981, No. 290, § 8; 1986 (2nd Ex. Sess.), No. 10, § 9; A.S.A. 1947, § 81-1319; Acts 1993, No. 796, § 37.
+
+## Section 11-9-803 - Controversion of right to compensation
+
+(a) (1) Each employer desiring to controvert the right to compensation shall file with the Workers' Compensation Commission on or before the fifteenth day following notice of the alleged injury or death a statement on a form prescribed by the commission that the right to compensation is controverted and the grounds therefor, the names of the claimant, employer, and carrier, if any, and the date and place of the alleged injury or death. (2) Failure to file the statement of controversion shall not preclude the urging of any defense to the claim subsequently filed, nor shall the filing of a statement of controversion preclude the urging of additional defenses to those contained in the statement of controversion. (b) (1) If an employer is unable to obtain sufficient medical information as to the alleged injury or death within fifteen (15) days following receipt of notice, although the employer has acted in good faith and with all due diligence, the employer may apply in writing for an extension of time for making payment of the first installment or controverting the claim. (2) This written application is to be postmarked within the fifteen-day period. (3) The commission may, in its discretion, grant the extension and fix the additional time to be allowed. (4) Filing of application for an extension shall not be deemed to be a controversion of the claim. (c) The provision in subsection (b) of this section shall not apply in cases where the physician is an employee of, on retainer with, or has a written contract to provide medical services for the employer.
+
+Init. Meas. 1948, No. 4, § 19, Acts 1949, p. 1420; Acts 1959, No. 167, § 1; 1981, No. 290, § 7; A.S.A. 1947, § 81-1319.
+
+## Section 11-9-804 - Lump-sum settlement
+
+(a) (1) Whenever the Workers' Compensation Commission determines that it is for the best interest of the parties entitled to compensation, and after due notice to all parties in interest of a hearing, the liability of the employer for compensation may be discharged by the payment of a lump sum equal to the present value of all future payments of compensation computed at ten percent (10%) discount, compounded annually. (2) Lump-sum settlements shall not be allowed if the employer presents evidence which proves by a preponderance of the evidence that ordering the compensation discharged in such a manner would result in a substantial adverse effect on the continuing economic viability of the employer. (b) (1) The probability of the death of the injured employee or other persons entitled to compensation before the expiration of the period during which they are entitled to compensation shall, in the absence of special circumstances making such a course improper, be determined in accordance with the following table. (2) It is intended that this table shall be used in conjunction with the discount rate prescribed in subsection (a)(1) of this section for the purpose of calculating the present value of lump-sum settlements to injured employees.
+
+Age
+
+Average Remaining Lifetime
+
+Years
+
+Years
+
+1
+
+74.97
+
+2
+
+75.37
+
+3
+
+74.47
+
+4
+
+73.54
+
+5
+
+72.59
+
+6
+
+71.63
+
+7
+
+70.67
+
+8
+
+69.70
+
+9
+
+68.73
+
+10
+
+67.75
+
+11
+
+66.77
+
+12
+
+65.80
+
+13
+
+64.82
+
+14
+
+63.84
+
+15
+
+62.87
+
+16
+
+61.90
+
+17
+
+60.94
+
+18
+
+59.97
+
+19
+
+59.02
+
+20
+
+58.06
+
+21
+
+57.10
+
+22
+
+56.15
+
+23
+
+55.19
+
+24
+
+54.24
+
+25
+
+53.29
+
+26
+
+52.33
+
+27
+
+51.38
+
+28
+
+50.42
+
+29
+
+49.47
+
+30
+
+48.52
+
+31
+
+47.57
+
+32
+
+46.62
+
+33
+
+45.68
+
+34
+
+44.73
+
+35
+
+43.79
+
+36
+
+42.86
+
+37
+
+41.92
+
+38
+
+40.66
+
+39
+
+40.07
+
+40
+
+39.14
+
+41
+
+38.23
+
+42
+
+37.31
+
+43
+
+36.41
+
+44
+
+35.50
+
+45
+
+34.60
+
+46
+
+33.71
+
+47
+
+32.83
+
+48
+
+31.95
+
+49
+
+31.08
+
+50
+
+30.21
+
+51
+
+29.35
+
+52
+
+28.49
+
+53
+
+27.65
+
+54
+
+26.80
+
+55
+
+25.97
+
+56
+
+25.14
+
+57
+
+24.31
+
+58
+
+23.49
+
+59
+
+22.68
+
+60
+
+21.88
+
+61
+
+21.09
+
+62
+
+20.30
+
+63
+
+19.53
+
+64
+
+18.76
+
+65
+
+18.00
+
+66
+
+17.25
+
+67
+
+16.51
+
+68
+
+15.78
+
+69
+
+15.06
+
+70
+
+14.35
+
+71
+
+13.67
+
+72
+
+13.01
+
+73
+
+12.38
+
+74
+
+11.77
+
+75
+
+11.18
+
+76
+
+10.61
+
+77
+
+10.04
+
+78
+
+9.48
+
+79
+
+8.93
+
+80
+
+8.40
+
+81
+
+7.90
+
+82
+
+7.42
+
+83
+
+6.98
+
+84
+
+6.57
+
+85
+
+6.17
+
+86
+
+5.80
+
+87
+
+5.43
+
+88
+
+5.09
+
+89
+
+4.77
+
+90
+
+4.47
+
+91
+
+4.18
+
+92
+
+3.92
+
+93
+
+3.69
+
+94
+
+3.50
+
+95
+
+3.33
+
+96
+
+3.18
+
+97
+
+3.06
+
+98
+
+2.95
+
+99
+
+2.85
+
+100
+
+2.77 (c) The probability of the happening of any other contingency affecting the amount or duration of compensation shall be disregarded, except the possibility of the remarriage of the widow, which shall be determined in accordance with the Danish Annuity and Dutch Remarriage Table.
+
+Init. Meas. 1948, No. 4, § 19, Acts 1949, p. 1420; Acts 1959, No. 167, § 1; 1979, No. 253, § 6; 1986 (2nd Ex. Sess.), No. 10, § 9; A.S.A. 1947, § 81-1319; Acts 1989, No. 460, § 1.
+
+## Section 11-9-805 - Joint petition for final settlement
+
+(a) (1) Except as provided in subdivision (a)(2) of this section, upon petition filed by the employer or carrier and the injured employee requesting that a final settlement be had between the parties, the Workers' Compensation Commission shall hear the petition and take testimony and make investigations as may be necessary to determine whether a final settlement should be had. (2) (A) If a claimant has been determined to be eligible for Medicare, the parties may petition the commission for a partial settlement of all issues other than future medical treatment. (B) A partial settlement under subdivision (a)(2)(A) of this section is final concerning all issues except future medical treatment. (b) (1) (A) If the commission decides that a final settlement award is in the best interests of the parties, the commission may order an award that is final concerning the rights of all the parties to the joint petition. (B) After the commission enters an order with regard to any full settlement, the commission does not have jurisdiction over any claim for the same injury or any results arising from it. (2) (A) If the commission decides that a partial settlement award is in the best interests of the parties, the commission may order an award that is final concerning the partial settlement of the rights of all the parties to the joint petition. (B) After the commission enters an order with regard to any partial settlement, the commission does not have jurisdiction over any claim for the same injury or any results arising from it other than claims for future medical expenses. (c) If an employee has returned to work or agreed to return to work, the commission shall not approve a joint petition which has allotted moneys for vocational rehabilitation or any indemnity benefits in excess of that payable as an anatomical impairment as established by objective and measurable findings. (d) If the commission denies the petition, the denial shall be without prejudice to either party. (e) An appeal shall not lie from an order or award denying or approving a joint petition.
+
+Amended by Act 2017, No. 1058,§ 1, eff. 8/1/2017.
+
+Init. Meas. 1948, No. 4, § 19, Acts 1949, p. 1420; Acts 1959, No. 167, § 1; A.S.A. 1947, § 81-1319; Acts 1993, No. 796, § 33.
+
+## Section 11-9-806 - Disputed source of benefits
+
+(a) In any case where an employer changes insurance carriers or where the employer having been self-insured, becomes insured or, having been insured, is approved to be self-insured, and the only dispute in a claim against that employer is the proper source of payment of benefits, the Workers' Compensation Commission shall direct that the appropriate compensation benefits be paid on an equal basis by the carriers or self-insured employer. (b) Upon eventual resolution of the issue, the prevailing respondent shall be entitled to reimbursement from the other respondent of all moneys paid together with interest at the legal rate from the date of payment.
+
+Init. Meas. 1948, No. 4, § 19, Acts 1949, p. 1420; Acts 1981, No. 290, § 9; A.S.A. 1947, § 81-1319.
+
+## Section 11-9-807 - Credit for compensation or wages paid
+
+(a) If the employer has made advance payments for compensation, the employer shall be entitled to be reimbursed out of any unpaid installment or installments of compensation due. (b) If the injured employee receives full wages during disability, he or she shall not be entitled to compensation during the period.
+
+Init. Meas. 1948, No. 4, § 19, Acts 1949, p. 1420; Acts 1959, No. 167, § 1; A.S.A. 1947, § 81-1319.
+
+## Section 11-9-808 - Deposit or bond to secure payment
+
+The Workers' Compensation Commission may require any employer to make a deposit or bond with the commission to secure the prompt and convenient payment of compensation, and payments shall be made upon order of the commission.
+
+Init. Meas. 1948, No. 4, § 19, Acts 1949, p. 1420; Acts 1959, No. 167, § 1; A.S.A. 1947, § 81-1319.
+
+## Section 11-9-809 - Interest
+
+Compensation shall bear interest at the legal rate from the day an award is made by either an administrative law judge or the full Workers' Compensation Commission on all accrued and unpaid compensation.
+
+Init. Meas. 1948, No. 4, § 19, Acts 1949, p. 1420; Acts 1959, No. 167, § 1; A.S.A. 1947, § 81-1319.
+
+## Section 11-9-810 - Notice of payment
+
+(a) Upon making the first payment and upon suspension of payment of compensation, the employer shall notify the Workers' Compensation Commission of that fact on a form prescribed by the commission. (b) (1) Within thirty (30) days after the final payment of compensation has been made, the employer shall send to the commission a notice, in accordance with a form prescribed by the commission. This form shall state that the final payment has been made, the total amount of compensation paid, the name of the employee and of any other person to whom compensation has been paid, the date of the injury or death, and the person to whom compensation has been paid. (2) If the employer fails so to notify the commission within that time, the commission may assess against the employer a civil penalty in an amount not exceeding one hundred dollars ($100), but no penalty shall be assessed without notice to the employer, giving the employer an opportunity to be heard.
+
+Init. Meas. 1948, No. 4, § 19, Acts 1949, p. 1420; Acts 1959, No. 167, § 1; A.S.A. 1947, § 81-1319.
+
+## Section 11-9-811 - Investigations
+
+Upon its own initiative at any time where compensation payments are being made without an award, the Workers' Compensation Commission may and in any case where the right to compensation has been controverted or where payments of compensation have been suspended, or where an employer seeks to suspend payments made under an award, or on application of an interested party, the commission shall make such investigation, cause such medical examination to be made, hold such hearings, and take such further action as the commission deems proper for the protection of the rights of all parties.
+
+Init. Meas. 1948, No. 4, § 19, Acts 1949, p. 1420; Acts 1953, No. 167, § 1; A.S.A. 1947, § 81-1319.
+
+## Section 11-9-812 - Incarceration of injured employee
+
+(a) (1) When any person who receives workers' compensation benefits is incarcerated in an institution under the control of the Division of Correction, the inmate's spouse or, if no spouse, the inmate's minor dependent children, may petition the Workers' Compensation Commission to award to the spouse or minor dependent children the inmate's workers' compensation weekly disability benefits for the period of the claimant's incarceration. (2) If the inmate has no surviving spouse or surviving minor dependent children, the division may petition the commission to award to the division the amount of the workers' compensation weekly disability benefits for the period of the claimant's incarceration necessary to reimburse the division for the cost of incarcerating the inmate. (b) The commission shall promulgate rules necessary for the implementation of this section.
+
+Amended by Act 2019, No. 315,§ 798, eff. 7/24/2019.
+
+Amended by Act 2019, No. 910,§ 697, eff. 7/1/2019.
+
+Acts 1993, No. 372, §§ 1, 2.
+
+## Section 11-9-813 - Deductibles
+
+(a) (1) Upon approval by the Insurance Commissioner, and following the adoption of such rules as the Insurance Commissioner deems necessary and advisable, each insurer issuing a policy under this chapter shall offer, as a part of the policy or as an optional endorsement to the policy, deductibles optional to the policyholder for benefits payable under this chapter. (2) Deductible amounts offered shall be fully disclosed to the prospective policyholder in writing in the amount of one hundred dollars ($100), two hundred dollars ($200), three hundred dollars ($300), four hundred dollars ($400), and five hundred dollars ($500), or increments of five hundred dollars ($500), up to a maximum of two thousand five hundred dollars ($2,500) per compensable claim, or in such other amounts as may be set by the Insurance Commissioner. (3) The policyholder exercising the deductible option shall choose only one (1) deductible amount. (b) Optional deductibles shall be offered in each policy insuring liability for workers' compensation that is issued, delivered, issued for delivery, or renewed under this chapter on or after approval by the Insurance Commissioner, unless an insured employer and insurer agree to renegotiate a workers' compensation policy in effect on that date so as to include a provision allowing for a deductible. (c) (1) If the policyholder exercises the option and chooses a deductible, the insured employer shall be liable for the amount of the deductible for benefits paid for each compensable claim of work injury suffered by an employee. (2) The insurer shall pay all or part of the deductible amount, whichever is applicable to a compensable claim, to the person or medical provider entitled to the benefits conferred by this chapter and then seek reimbursement from the insured employer for the applicable deductible amount. (3) The payment or nonpayment of deductible amounts by the insured employer to the insurer shall be treated under the policy insuring the liability for workers' compensation in the same manner as payment or nonpayment of premiums. (d) If the Insurance Commissioner determines it to be feasible, and under such rules as he or she may adopt, premium reduction for deductibles may be determined before the application of any experience modification, premium surcharge, or premium discounts, and, to the extent that an employer's experience rating or safety record is based on benefits paid, money paid by the insured employer under a deductible as provided in this section may not be included as benefits paid so as to harm the experience rating of the employer. (e) This section shall not apply to employers who are approved to self-insure against liability for workers' compensation or group self-insurance funds for workers' compensation.
+
+Amended by Act 2019, No. 315,§ 800, eff. 7/24/2019.
+
+Amended by Act 2019, No. 315,§ 799, eff. 7/24/2019.
+
+Acts 1993, No. 796, § 34.
+
+## Section 11-9-901 - Creation - Exemption
+
+(a) (1) (A) The Workers' Compensation Commission is hereby authorized to recognize two separate entities formed under the Arkansas Nonprofit Corporation Act, §§ 4-28-201 - 4-28-206 and §§ 4-28-209 - 4-28-223 , to function as guaranty funds for Arkansas workers' compensation self-insurers in the private sector. (B) One (1) guaranty fund will be established for individual self-insurers and homogeneous self-insurer groups, as defined in § 11-9-404(a)(3)(A) . (C) A separate guaranty fund will be established for common self-insurer groups, as defined in § 11-9-404(a)(3)(B) . (2) The two (2) funds shall be created, funded, and administered completely independently from each other. (3) The assets of the two (2) funds shall remain separate for all purposes and cannot be combined, and the assets of one (1) fund shall not be utilized to satisfy the obligations of the other fund. (b) Public sector self-insurers are specifically exempted from the provisions of this subchapter. (c) As used in this subchapter, "public sector self-insurer" means a group of municipalities, a city, a county, or the state entity which directly exercises control over an employee and which pays the employee's salary.
+
+Acts 1991, No. 756, §§ 1, 8; 1993, No. 452, § 1; 1995, No. 825, § 2.
+
+## Section 11-9-902 - Rules
+
+The Workers' Compensation Commission shall promulgate rules to implement this subchapter.
+
+Amended by Act 2019, No. 315,§ 801, eff. 7/24/2019.
+
+Acts 1991, No. 756, § 9.
+
+## Section 11-9-903 - Liability
+
+There shall be no liability on the part of, and no cause of action of any nature shall lie, whether at law or in equity, against any agent or employee of the two (2) corporations, their boards of directors, any Arkansas workers' compensation self-insurer, or the Workers' Compensation Commission or any of its representatives on account of any action or inaction by any of them in the administration of the workers' compensation self-insurer guaranty funds or the performance of their duties in connection therewith.
+
+Acts 1991, No. 756, § 6; 1995, No. 825, § 3.
+
+## Section 11-9-904 - Amount of fund - Assessment - Inadequacy
+
+(a) Each corporation acting as the guaranty fund shall independently determine periodically the amount of money each Arkansas workers' compensation self-insurer should contribute to each fund in order to provide an adequate pool of money to pay workers' compensation benefits owed by an Arkansas self-insurer when such self-insurer fails to meet its workers' compensation benefits obligations. (b) The Workers' Compensation Commission shall assess all workers' compensation self-insurers in an amount determined by each corporation, and the commission shall transmit the moneys collected to each corporation to be used solely to make workers' compensation benefit payments from each fund and to defray the expenses of each fund. (c) At any time that a workers' compensation self-insurer guaranty fund becomes inadequate to make payments to its claimants, the balance of that fund shall be prorated equally among the claimants, and the Arkansas workers' compensation self-insurers who are members of that fund shall be assessed an amount necessary to pay the outstanding claims and expenses and to replenish that fund. (d) The inadequacy of one (1) fund to make payments to claimants shall have no effect on the operation of the remaining fund, nor shall the assets of the remaining fund be utilized in any manner to satisfy the claims of claimants to the fund suffering from the inadequacy.
+
+Acts 1991, No. 756, §§ 1, 3; 1995, No. 825, § 4.
+
+## Section 11-9-905 - Report to board of directors on financial condition of self-insurer
+
+The Workers' Compensation Commission shall report to the board of directors of each corporation when the commission has reasonable cause to believe that the payment of potential claims by an Arkansas workers' compensation self-insurer is or may be jeopardized by the existing or potential financial condition of the self-insurer. The board of directors of the corporation which has the affected self-insurer as a member shall, based upon such information as is reasonably available, report to the commission upon all matters germane to the solvency, liquidation, rehabilitation, or conservation of any workers' compensation self-insurer, and such reports shall not be deemed public documents under the Freedom of Information Act of 1967, § 25-19-101 et seq., or any other law.
+
+Acts 1991, No. 756, § 5; 1995, No. 825, § 5.
+
+## Section 11-9-906 - Money to be vested in corporation - Annual audit
+
+(a) Moneys collected by the Workers' Compensation Commission and disbursed to each corporation shall be vested in the corporation and shall not be deemed state property and shall not be subject to appropriation by the General Assembly. (b) Each corporation shall annually submit to an audit by an independent certified public accountant, and a copy of the audit report shall be transmitted to the commission.
+
+Acts 1991, No. 756, § 4; 1995, No. 825, § 6.
+
+## Section 11-9-907 - Investment - Use of funds
+
+The board of directors of each corporation shall direct the investment of moneys in each workers' compensation self-insurers guaranty fund, and all returns on the investments shall be retained in each fund. The moneys in each fund shall be used solely to compensate persons entitled to receive workers' compensation benefits from an Arkansas self-insurer which is unable to meet its workers' compensation benefits obligations and to defray the expenses of each fund.
+
+Acts 1991, No. 756, § 4; 1995, No. 825, § 7.
+
+## Section 11-9-908 - Subrogation
+
+(a) Each corporation shall have full rights of subrogation against any source of payment or reimbursement for payments made by the corporation on behalf of an Arkansas workers' compensation self-insurer. (b) Each corporation shall have a right of recovery through the maintenance of an action against any third party, other than a coemployee, who is in any way responsible or liable for injury or death to a covered worker.
+
+Acts 1991, No. 756, § 4; 1995, No. 825, § 8.
+
+## Section 11-9-909 - Action against self-insurer
+
+(a) Each corporation is also authorized to take all necessary action, including bringing an action at law or in equity, to seek any available relief as against any workers' compensation self-insurer, whether the self-insurer has paid all assessments levied by the Workers' Compensation Commission on behalf of the corporation. (b) If a corporation is required to bring an action at law or in equity to enforce any obligations, rights, or duties as regards a workers' compensation self-insurer, the court may award reasonable attorney's fees and costs to that corporation.
+
+Acts 1991, No. 756, § 4; 1995, No. 825, § 9.
+
+## Section 11-9-910 - Private sector participants
+
+All private sector participants in the Arkansas workers' compensation self-insurers' program may be members of one (1) of the corporations acting as guaranty funds, and the Workers' Compensation Commission may revoke any such self-insurer's authority to act as a workers' compensation self-insurer if the self-insurer fails to maintain membership in the applicable corporation or fails to pay the assessments levied by the commission under this subchapter.
+
+Acts 1991, No. 756, § 7; 1995, No. 825, § 10.
+
+## Section 11-9-911 - Termination of self-insurer status - Liability
+
+Any person or entity whose workers' compensation self-insurer status is terminated shall thereafter be subject to no further assessments by the Workers' Compensation Commission, but shall remain liable for all assessments due prior to the date of termination.
+
+Acts 1991, No. 756, § 2.
+
+## Section 11-9-1001 - Legislative declaration
+
+The Seventy-Ninth General Assembly realizes that the Arkansas workers' compensation statutes must be revised and amended from time to time. Unfortunately, many of the changes made by this act were necessary because administrative law judges, the Workers' Compensation Commission, and the Arkansas courts have continually broadened the scope and eroded the purpose of the workers' compensation statutes of this state. The Seventy-Ninth General Assembly intends to restate that the major and controlling purpose of workers' compensation is to pay timely temporary and permanent disability benefits to all legitimately injured workers that suffer an injury or disease arising out of and in the course of their employment, to pay reasonable and necessary medical expenses resulting therefrom, and then to return the worker to the work force. When, and if, the workers' compensation statutes of this state need to be changed, the General Assembly acknowledges its responsibility to do so. It is the specific intent of the Seventy-Ninth General Assembly to repeal, annul, and hold for naught all prior opinions or decisions of any administrative law judge, the Workers' Compensation Commission, or courts of this state contrary to or in conflict with any provision in this act. In the future, if such things as the statute of limitations, the standard of review by the Workers' Compensation Commission or courts, the extent to which any physical condition, injury, or disease should be excluded from or added to coverage by the law, or the scope of the workers' compensation statutes need to be liberalized, broadened, or narrowed, those things shall be addressed by the General Assembly and should not be done by administrative law judges, the Workers' Compensation Commission, or the courts.
+
+Acts 1993, No. 796, § 35.

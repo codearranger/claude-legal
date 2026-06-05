@@ -1,54 +1,391 @@
-# Ark. Code Ann. Title 21, Chapter 1 — Public officers and employees; Arkansas Whistle-Blower Act
+# Ark. Code Ann. Title 21, Chapter 1 — Arkansas Whistle-Blower Act (§ 21-1-601 et seq.)
 
-> **CURATED SUMMARY — NOT VERBATIM STATUTORY TEXT.** This is a structured,
-> citation-rich digest for drafting use. The official section text (public
-> domain) is at https://law.justia.com/codes/arkansas/title-21/ (walk to
-> Chapter 1). A future run of `scripts/pull_arkansas_statutes.py` will
-> supersede this file with verbatim text.
->
-> **NOT LEGAL ADVICE.** Verify every section against the current Ark. Code
-> Ann. before filing.
+> **Source:** https://law.justia.com/codes/arkansas/title-21/
+> **Fetched:** 2026-06-05
+> **Format:** verbatim conversion of the Justia HTML mirror at
+> `law.justia.com/codes/arkansas/`
 
-## Scope
+> **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
+> against the current Ark. Code Ann. before filing.
 
-Chapter 1 governs public officers and employees and houses the **Arkansas
-Whistle-Blower Act**, which protects **public** employees who report waste,
-violations of law, or other wrongdoing by a public employer from retaliatory
-adverse personnel action. The Act applies to the **public sector** — public
-employers and public employees — not to private-sector employment (a private
-worker's wrongful-discharge claim rests instead on the common-law public-policy
-exception under *Sterling Drug, Inc. v. Oxford*, 294 Ark. 239 (1988)).
+---
 
-## Arkansas Whistle-Blower Act (§ 21-1-601 et seq.)
+## Section 21-1-101 - Computation of length of service
 
-- **§ 21-1-601 — Title.** Names the Arkansas Whistle-Blower Act.
-- **§ 21-1-602 — Definitions.** Defines "public employer," "public employee,"
-  "adverse action," "appropriate authority," and "waste" / "violation." Coverage
-  is keyed to **public** employment (state, county, municipal, and public-school
-  / higher-education employers — verify the precise public-employer scope against
-  current text).
-- **§ 21-1-603 — Protected activity; prohibition on retaliation.** Prohibits a
-  public employer from taking or threatening **adverse action** against a public
-  employee because the employee (in good faith) **communicates to an appropriate
-  authority** a waste of public funds, a violation of law/rule, or other covered
-  wrongdoing, or participates in an investigation or hearing. Good-faith reporting
-  is generally required; knowingly false reports are not protected (verify the
-  protected-activity contours against current text).
-- **§ 21-1-604 — Civil action; remedies.** Authorizes an aggrieved public
-  employee to bring a **civil action** and to recover relief — typically
-  reinstatement, back pay, restoration of benefits/seniority, actual damages,
-  and costs and reasonable **attorney's fees**, plus injunctive relief (verify
-  the exact remedy menu and any damages cap against current text).
-- **§ 21-1-605 — Limitations period.** Sets the time within which the action must
-  be filed after the alleged adverse action. **Verify the exact limitations period
-  against current text** before relying on it (do not assume a day/month count).
-- **§ 21-1-606 — Burden / defenses.** Addresses the parties' burdens and any
-  affirmative defense (e.g., that the same action would have been taken absent the
-  protected activity) (verify against current text).
+(a) In computing or granting pensions, retirement pay, eligibility lists based on length of service, or any other right under a civil service or merit system in which length of service is the criterion, time spent by any employee, as defined in subsection (b) of this section, in the United States Armed Forces from September 16, 1940, until December 31, 1946, shall be counted as though the employee had remained continuously in the employment of the agency, department, or office. (b) The provisions of this section shall apply to any employee of any agency, department, or office supported in whole or in part with tax funds by the State of Arkansas or any county or municipality thereof, whose personnel are regulated by civil service or merit system adopted pursuant to an act of the General Assembly, or the governing body of any county or municipality with the following restrictions: (1) The employee must have been employed under the civil service or merit system at the time of his or her separation to enter the United States Armed Forces; and (2) The employee must have entered the United States Armed Forces directly after leaving the employment of the agency, department, or office and must have returned thereto within ninety (90) days after separation from the United States Armed Forces.
 
-> **Distinctive Arkansas provisions:** the Whistle-Blower Act is a **public-sector**
-> statute — it does **not** reach private employment. A private-sector
-> whistleblower or wrongful-discharge claim runs on the common-law **public-policy
-> exception** to at-will employment (*Sterling Drug v. Oxford*), not on this
-> chapter. Confirm the limitations period and the remedy menu against current text;
-> both are easy to misstate from memory.
+Acts 1947, No. 56, §§ 1-3; A.S.A. 1947, §§ 12-2323 -- 12-2325.
+
+## Section 21-1-102 - Term of office of certain officers
+
+(a) (1) The terms of office of the Justices of the Supreme Court, all district officers, except state senators, all county officers, except members of the lower house of the General Assembly, and all township officers and road overseers, when road overseers are elected, shall begin on January 1 following their election. (2) The term of office of the Commissioner of State Lands shall begin on the same date as provided in Arkansas Constitution, Article 6, § 3, for other constitutional officers. (3) However, in the case of a special election to fill an unexpired term, or to fill an office created after the last preceding general election, the term of the officer so elected shall begin as soon after the election as the result can be ascertained and the person elected can be commissioned and qualified. (b) All officers shall hold their respective offices for the term prescribed by the law and until their successors are elected and qualified.
+
+Acts 1917, No. 154, § 1, p. 809; C. & M. Dig., §§ 8071, 8072; Pope's Dig., §§ 10400, 10401; A.S.A. 1947, § 12-112; Acts 2009, No. 646, § 1.
+
+## Section 21-1-103 - Service recognition program
+
+(a) There is established a method of recognition of service by employees of the State of Arkansas. (b) The Office of Personnel Management shall coordinate the purchase, distribution, and presentation of service awards based on years of service with the State of Arkansas for full-time employees in all state agencies, boards, commissions, and others under the Governor's direction. (c) The awards shall be made upon attainment of ten (10), twenty (20), and thirty (30) years of service in state government. (d) The Secretary of the Department of Transformation and Shared Services shall promulgate reasonable rules as he or she deems necessary in carrying out the provisions of this service recognition program.
+
+Amended by Act 2019, No. 315,§ 2313, eff. 7/24/2019.
+
+Amended by Act 2019, No. 910,§ 6119, eff. 7/1/2019.
+
+Acts 1989 (1st Ex. Sess.), No. 247, § 19; 1991, No. 786, § 34.
+
+## Section 21-1-104 - Limitation on judicial employment - State employee
+
+(a) No state employee shall serve both in a full-time quasi judicial position, or in a full-time position which provides legal assistance to a quasi judicial position, in the Arkansas State Claims Commission, Arkansas Public Service Commission, Workers' Compensation Commission, State Department for Social Security Administration Disability Determination, or any other quasi judicial agency, department, or commission and as an elected judge. (b) For purposes of this section, the term "state employee" means anyone who works one thousand (1,000) hours or more per year and participates in the Arkansas Public Employees' Retirement System.
+
+Acts 1993, No. 860, § 29.
+
+## Section 21-1-105 - Employee benefit programs
+
+(a) Each state agency, board, commission, and institution of higher education shall develop an informational program explaining the various fringe benefit programs that are provided for employees or in which employees may participate. (b) Each state agency, board, commission, and institution of higher education shall provide each employee with this fringe benefit program information upon the initial employment of an employee at a new employee orientation meeting. (c) (1) The program shall include information about the employee's: (A) Health and life insurance programs; (B) Social Security benefits; (C) Retirement system benefits; (D) Workers' compensation benefits; and (E) Employee assistance programs. (2) The program may include information on other optional programs available to employees, such as deferred compensation plans, credit unions, or similar kinds of programs available for employees. (d) Each state agency, board, commission, and institution of higher education shall provide each employee with an annual employee benefits statement, which shall summarize the status of the benefit plans in which the employee participates. (e) The Office of Personnel Management and the Employee Benefits Division shall assist each state agency, board, commission, and institution of higher education in developing an employee benefits program and employee benefits statement.
+
+Amended by Act 2019, No. 910,§ 6120, eff. 7/1/2019.
+
+Acts 2001, No. 1818, § 1.
+
+## Section 21-1-106 - Public recording and deletion of electronic data - Definitions
+
+(a) As used in this section: (1) (A) "Prohibit" means to interfere with the physical operation of a recording device by threat, duress, coercion, direct order, arrest, detention, or use of force. (B) "Prohibit" does not include instances when there is no interference with the operation of the recording device or the person who operates it; and (2) "Recording device" means a device that captures and records data or information, including without limitation a film camera, digital camera, tape recorder, or electronic sound recorder. (b) (1) A public officer or employee shall not: (A) Prohibit a person from using a recording device carried on or near the person in a place that is open to and accessible to the general public or any private property where the person is lawfully present unless the act of recording or the location of the recording person: (i) Presents a risk to the physical safety of anyone present, not including the person making the recording; (ii) Is inside a public drinking water treatment facility and presents a risk to the public drinking water treatment facility; (iii) Constitutes an element of a criminal offense; (iv) Could reasonably be expected to lead to the infringement of copyrighted material; (v) Appears to circumvent established procedures that ordinarily require permission for or payment in exchange for the viewing, use, reproduction, or recordation of data or information; or (vi) Unreasonably obstructs or inhibits another person's lawful presence or movement; (B) Delete any electronic data or any other information derived by recording from a recording device carried on or near the person against the wishes of the person possessing the recording device or otherwise destroy information contained in the recording device unless the data are considered contraband; or (C) Seize or confiscate a recording device carried on or near the person using the recording device unless the recording device appears to be involved in the commission of a crime or unless the seizure is otherwise justified by an exigent circumstance. (2) If a person uses a recording device to intrude upon the seclusion or solitude of another person or upon the other person's private affairs or concerns, this subsection does not apply if the intrusion: (A) Violates a reasonable expectation of privacy; and (B) Would be highly offensive to a reasonable person. (c) (1) A violation of this section constitutes a waiving of the sovereign immunity of the state. (2) A public officer or employee who violates this section may only be sued in his or her official capacity. (3) A court construing this section shall do so consistently with official capacity claims under the First Amendment to the United States Constitution filed through 42 U.S.C. § 1983 and the Arkansas Civil Rights Act of 1993, § 16-123-101 et seq. (4) Punitive damages are not provided under this section. (5) When a party sues for relief under this section or any other applicable law, the party shall only receive a single remedy for a single injury. (d) A publicly funded school or publicly funded institution of higher education is exempt from this section. (e) Nothing in this section is intended to change, diminish, or denigrate the powers of those who rightfully control private property to regulate, place conditions on, or prohibit recording activities that take place on that private property. (f) This section does not: (1) Imply any kind of right or power of a person to use devices to change the light levels of his or her surroundings, including without limitation umbrellas, reflectors, lights, or flashes; (2) Change, diminish, or denigrate the inherent or constitutional powers of the courts to issue binding orders or to regulate the absence, presence, or conduct of citizens occupying buildings or real property under the jurisdiction of the courts; or (3) Apply to the grounds of a hospital or other medical facility governed by the privacy regulations promulgated under the Health Insurance Portability and Accountability Act of 1996, Pub. L. No. 104-191. (g) A state agency may adopt policies to limit or prohibit the use of recording devices by that state agency's employees or contractors in the course and scope of their employment if those policies are intended to comply with the requirements of the Health Insurance Portability and Accountability Act of 1996, Pub. L. No. 104-191, or the requirements of other state or federal privacy laws.
+
+Added by Act 2015, No. 1063,§ 1, eff. 7/22/2015.
+
+## Section 21-1-201 - Gender not a bar to holding office
+
+(a) Gender shall not be a bar to the holding of any public or civil office in this state. (b) Women, where otherwise qualified, shall be entitled to hold public or civil office, whether elective or appointive, under the Arkansas Constitution and statutes of this state.
+
+Acts 1921, No. 59, §§ 1, 2; Pope's Dig., §§ 10436, 10437; A.S.A. 1947, §§ 12-101, 12-102.
+
+## Section 21-1-207 - Public employees
+
+No employee of the state, a county, a municipality, a school district, or any other political subdivision of this state shall be deprived of his or her right to run as a candidate for an elective office or to express his or her opinion as a citizen on political subjects, unless as necessary to meet the requirements of federal law as pertains to employees.
+
+Acts 1997, No. 1214, § 1.
+
+## Section 21-1-301 - Title
+
+This subchapter shall be known and may be cited as the "Emergency Interim Executive and Judicial Succession Act".
+
+Acts 1961, No. 489, § 1; A.S.A. 1947, § 12-114.
+
+## Section 21-1-302 - Legislative intent
+
+Because of the existing possibility of attack of unprecedented size and destructiveness upon the United States, and in order, in the event of such an attack, to assure continuity of government through legally constituted leadership, authority, and responsibility in offices of the government of the state and its political subdivisions, to provide for the effective operation of governments during an emergency, and to facilitate the early resumption of functions temporarily suspended, it is found and declared to be necessary to provide for: (1) Additional officers who can exercise the powers and discharge the duties of Governor; (2) Emergency interim succession to governmental offices of this state and its political subdivisions in the event the incumbents thereof and their deputies, assistants, or other subordinate officers authorized, pursuant to law, to exercise all of the powers and discharge the duties of those offices who are in this subchapter referred to as "deputies" are unavailable to perform the duties and functions of those offices; and (3) Special emergency judges who can exercise the powers and discharge the duties of judicial offices in the event regular judges are unavailable.
+
+Acts 1961, No. 489, § 2; A.S.A. 1947, § 12-115.
+
+## Section 21-1-303 - Definitions
+
+As used in this subchapter: (1) "Attack" means any attack or series of attacks by an enemy of the United States causing, or which may cause, substantial damage or injury to civilian property or persons in the United States in any manner by sabotage or by the use of bombs, missiles, shellfire, or atomic, radiological, chemical, bacteriological, or biological means or other weapons or processes; (2) "Emergency interim successor" means a person designated pursuant to this subchapter, in the event the officer is unavailable, to exercise the powers and discharge the duties of an office until a successor is appointed or elected and qualified as may be provided by the Arkansas Constitution, statutes, charters, and ordinances or until the lawful incumbent is able to resume the exercise of the powers and discharge the duties of the office; (3) "Office" includes all state and local offices, the powers and duties of which are defined by the Arkansas Constitution, statutes, charters, and ordinances, except the Office of Governor, and except those in the General Assembly and the judiciary; (4) "Political subdivision" includes counties, cities, towns, villages, townships, districts, authorities, and other public corporations and entities whether organized and existing under charter or general law; and (5) "Unavailable" means either that a vacancy in office exists and there is no deputy authorized to exercise all of the powers and discharge the duties of the office or that the lawful incumbent of the office, including any deputy exercising the powers and discharging the duties of an office because of a vacancy, and his or her duly authorized deputy are absent or unable to exercise the powers and discharge the duties of the office.
+
+Acts 1961, No. 489, § 3; A.S.A. 1947, § 12-116.
+
+## Section 21-1-304 - Additional successors to Office of Governor
+
+(a) In the event that the Governor, for any of the reasons specified in the Arkansas Constitution, is not able to exercise the powers and discharge the duties of his or her office, or is unavailable, and in the event the Lieutenant Governor, President Pro Tempore of the Senate, and the Speaker of the House of Representatives are not able, for any of the reasons specified in the Arkansas Constitution, to exercise the powers and discharge the duties of the Office of Governor, or are unavailable, then the Attorney General, Secretary of State, Treasurer of State, Auditor of State, or Commissioner of State Lands, in the order named, shall exercise the powers and discharge the duties of the Office of Governor until a new Governor is elected and qualified, or until one (1) of the officers who precedes him or her in the order of succession becomes available. (b) However, no emergency interim successor to the offices mentioned in subsection (a) of this section may serve as Governor.
+
+Amended by Act 2017, No. 380,§ 1, eff. 8/1/2017.
+
+Acts 1961, No. 489, § 4; A.S.A. 1947, § 12-117.
+
+## Section 21-1-305 - [Repealed]
+
+Repealed by Act 2017, No. 380,§ 2, eff. 8/1/2017.
+
+Acts 1961, No. 489, § 5; A.S.A. 1947, § 12-118.
+
+## Section 21-1-306 - Emergency interim successors for local officers
+
+(a) (1) With respect to local offices for which the legislative bodies of cities, towns, villages, townships, and counties may enact resolutions or ordinances relative to the manner in which vacancies will be filled or temporary appointments to office made, the legislative bodies are authorized to enact resolutions or ordinances providing for emergency interim successors to offices of those governmental units. (2) The resolutions and ordinances shall not be inconsistent with the provisions of this subchapter. (b) (1) The provisions of this subsection shall be applicable to officers of political subdivisions including, but not limited to, cities, towns, villages, townships, and counties, as well as school, fire, power, and drainage districts not included in subsection (a) of this section. (2) (A) The officers, subject to any regulations which the executive head of the political subdivision may issue, shall designate by title, if feasible, or by named person, emergency interim successors and specify their order of succession. (B) The officer shall review and revise, as necessary, designations made pursuant to this subchapter to ensure their current status. (C) The officer will designate a sufficient number of persons so that there will be not less than three (3) nor more than seven (7) deputies or emergency interim successors or any combination thereof, at any time. (3) (A) In the event that any officer of any political subdivision or his or her deputy provided for pursuant to law is unavailable, the powers of the office shall be exercised, and the duties shall be discharged, by his or her designated emergency interim successors in the order specified. (B) The emergency interim successor shall exercise the powers and discharge the duties of the office to which designated until such time as a vacancy which may exist shall be filled in accordance with the Arkansas Constitution or statutes or until the officer, or his or her deputy or a preceding emergency interim successor, again becomes available to exercise the powers and discharge the duties of his or her office.
+
+Acts 1961, No. 489, §§ 6, 7; A.S.A. 1947, §§ 12-119, 12-120.
+
+## Section 21-1-307 - Special emergency judges
+
+(a) In the event that any judge of any court is unavailable to exercise the powers and discharge the duties of his or her office and in the event no other judge authorized to act in the event of absence, disability, or vacancy or no special judge appointed in accordance with the provisions of the Arkansas Constitution or statutes is available to exercise the powers and discharge the duties of the office, the duties of the office shall be discharged and the powers exercised by the special emergency judges provided for in this section. (b) (1) The Governor shall designate, for each member of the Supreme Court, special emergency justices in the number of not less than three (3) nor more than seven (7) for each member of the court and shall specify the order of their succession. (2) For each court of record except the Supreme Court, the Chief Justice of the Supreme Court in consultation with the other members of the court shall designate special emergency judges in the number of not less than three (3) nor more than seven (7) for each judge of the courts and shall specify the order of their succession. (3) The judge of the circuit court shall designate not less than three (3) special emergency judges for courts not of record within that circuit and shall specify their order of succession. (4) The designating authority shall review and revise, as necessary, designations made pursuant to this subchapter to ensure their current status. (c) (1) The special emergency judges shall, in the order specified, exercise the powers and discharge the duties of the office in case of the unavailability of the regular judge or judges or persons immediately preceding them in the designation. (2) The special emergency judges shall discharge the duties and exercise the powers of the office until such time as a vacancy which may exist shall be filled in accordance with the Arkansas Constitution and statutes or until the regular judge or one preceding the designee in the order of succession becomes available to exercise the powers and discharge the duties of the office.
+
+Acts 1961, No. 489, § 8; A.S.A. 1947, § 12-121.
+
+## Section 21-1-308 - Formalities of taking office
+
+(a) At the time of their designation, emergency interim successors and special emergency judges shall take any oath which may be required for them to exercise the powers and discharge the duties of the office to which they may succeed. (b) Notwithstanding any other provision of law, no person, as a prerequisite to the exercise of the powers or discharge of the duties of an office to which he or she succeeds, shall be required to comply with any other provision of law relative to taking office.
+
+Acts 1961, No. 489, § 9; A.S.A. 1947, § 12-122.
+
+## Section 21-1-309 - Period in which authority may be exercised
+
+(a) Officials authorized to act as Governor pursuant to this subchapter, emergency interim successors, and special emergency judges are empowered to exercise the powers and discharge the duties of an office as authorized in this subchapter only after an attack upon the United States, as defined in this subchapter, has occurred. (b) At any time, the General Assembly by concurrent resolution may terminate the authority of emergency interim successors and special emergency judges to exercise the powers and discharge the duties of office as provided in this subchapter.
+
+Acts 1961, No. 489, § 10; A.S.A. 1947, § 12-123.
+
+## Section 21-1-310 - Removal of designees
+
+Until such time as the persons designated as emergency interim successors or special emergency judges are authorized to exercise the powers and discharge the duties of an office in accordance with this subchapter, including § 21-1-309 , those persons shall serve in their designated capacities at the pleasure of the designating authority and may be removed or replaced by the designating authority at any time, with or without cause.
+
+Acts 1961, No. 489, § 11; A.S.A. 1947, § 12-124.
+
+## Section 21-1-311 - Disputes
+
+Any dispute concerning a question of fact arising under this subchapter with respect to an office in the executive branch of the state government, except a dispute of fact relative to the Office of Governor, shall be adjudicated by the Governor or other official authorized under the Arkansas Constitution and this subchapter to exercise the powers and discharge the duties of the Office of Governor, and his or her decision shall be final.
+
+Acts 1961, No. 489, § 12; A.S.A. 1947, § 12-125.
+
+## Section 21-1-401 - Definitions
+
+For purposes of this subchapter: (1) "Constitutional officer" means Governor, Lieutenant Governor, Secretary of State, Treasurer of State, Attorney General, Commissioner of State Lands, Auditor of State, member of the House of Representatives, and member of the Senate; and (2) "State agency" means every board, commission, department, division, institution, and other office of state government whether located within the legislative, executive, or judicial branch of government and including state-supported colleges and universities.
+
+Acts 1999, No. 34, § 1.
+
+## Section 21-1-402 - Restrictions on other employment
+
+(a) (1) Subject to any restriction or condition prescribed by the Arkansas Constitution and except as provided under subdivisions (a)(2) and (3) of this section and subsection (f) of this section, and unless the person resigns before entering into the employment, a person elected to a constitutional office, after being elected to the constitutional office and during the term for which elected, shall not enter into employment with: (A) Any state agency; (B) Any public school district of this state in a noncertified position; (C) Any vocational education school funded by the state; or (D) Any education service cooperative. (2) (A) A constitutional officer who was employed by a state agency, a public school district of this state in a licensed or nonlicensed position, a state-supported vocational education school, an education service cooperative, or a state-supported college or university and who receives the prior approval of the Joint Budget Committee during a legislative session or the Legislative Council between legislative sessions, and the Governor, may: (i) Transfer employment to or become reemployed by another state agency, public school district of this state, state-supported vocational education school, an educational service cooperative, or a state-supported college or university; (ii) Change positions under his or her current employer; or (iii) Upon retirement from a state agency, public school district of this state, state-supported vocational education school, an education service cooperative, or a state-supported college or university, enter into part-time or temporary employment with a state agency, public school district of this state, state-supported vocational education school, an educational service cooperative, or a state-supported college or university. (B) Employment under this subdivision (a)(2) shall not be approved if the employment will violate §§ 19-11-701 - 19-11-709 . (3) If a constitutional officer is credentialed or certified as a tutor, teacher, professor, or adjunct professor, he or she is not prohibited from employment as a tutor, teacher, professor, or adjunct professor with a public school district, educational service cooperative, state-supported vocational education school, or state-supported college or university in this state. (4) Subject to any restriction or condition prescribed by the Arkansas Constitution, any constitutional officer who was employed by a state agency prior to being elected a constitutional officer may continue the employment, but the employment shall not thereafter be reclassified unless it is the result of a general reclassification affecting all positions of the class and grade equally, nor shall the constitutional officer receive any pay increase for that employment other than the cost-of-living increases authorized by the General Assembly without the prior approval of the Joint Budget Committee during a legislative session, the Legislative Council between legislative sessions, and the Governor. (b) No person whose spouse is elected to a constitutional office may, after the spouse is elected to the constitutional office and during the term for which the spouse is elected, enter into employment with any state agency without the prior approval of the Joint Budget Committee during a legislative session, the Legislative Council between legislative sessions, and the Governor. (c) This subchapter does not prohibit the spouse of any constitutional officer from being elected and serving in an elected office or from being appointed to fill the vacancy in any elected office. (d) Any person who was employed by a state agency prior to the person's spouse being elected a constitutional officer and any person who entered into employment with a state agency during the spouse's service as a constitutional officer is subject to the following: (1) The person's position shall not thereafter be reclassified unless it is the result of a general reclassification affecting all positions of the class and grade equally nor shall the person, while the spouse serves as a constitutional officer or within two (2) years after the spouse leaves office, be promoted or transferred without the prior approval of the Joint Budget Committee during a legislative session, the Legislative Council between legislative sessions, and the Governor; and (2) The person shall not receive any pay increase in excess of fifteen percent (15%) without the prior approval of the Joint Budget Committee during a legislative session, the Legislative Council between legislative sessions, and the Governor. (e) A former member of the General Assembly and his or her spouse shall not be eligible to be employed by any state agency within twenty-four (24) months after the member leaves office in any job or position that: (1) Was newly created by legislative action within the twenty-four (24) months prior to the member's leaving office; or (2) Had a maximum salary level increase of more than fifteen percent (15%) authorized by legislative action within the twenty-four (24) months prior to the member's leaving office. (f) (1) A former member of the General Assembly shall not take the following actions until two (2) years after the expiration of the term of office for which he or she was elected: (A) Register as a lobbyist under § 21-8-601 et seq.; or (B) Enter into employment as the director of an: (i) Educational cooperative under The Public School Educational Cooperative Act of 1981, § 6-13-901 et seq.; or (ii) Area agency on aging. (2) (A) Except as provided in subdivision (f)(2)(B) of this section, subdivision (f)(1) of this section applies to a person elected or reelected to the General Assembly on or after November 6, 2018. (B) Subdivision (f)(1)(A) of this section shall apply to a person elected or reelected to the General Assembly on or after November 4, 2014. (g) The Governor, Lieutenant Governor, Secretary of State, Attorney General, Treasurer of State, Auditor of State, and Commissioner of State Lands are not eligible to be registered as lobbyists under § 21-8-601 et seq. until one (1) year after the expiration of the respective terms of office to which they were elected. (h) An individual employed in the office of the Governor, Lieutenant Governor, Secretary of State, Attorney General, Treasurer of State, Auditor of State, or Commissioner of State Lands is not eligible to be registered as a lobbyist under § 21-8-601 et seq. until one (1) year after the expiration of the individual's employment in that office.
+
+Amended by Act 2019, No. 661,§ 3, eff. 4/2/2019.
+
+Amended by Act 2019, No. 661,§ 2, eff. 4/2/2019.
+
+Amended by Act 2017, No. 961,§ 1, eff. 8/1/2017.
+
+Amended by Act 2015, No. 1280,§ 11, eff. 4/8/2015.
+
+Amended by Act 2013, No. 486,§ 1, eff. 8/16/2013.
+
+Acts 1999, No. 34, § 2; 2003, No. 1453, § 1; 2005, No. 1962, § 91; 2009, No. 1398, § 1; 2011, No. 48, § 2; 2011, No. 71, § 2.
+
+## Section 21-1-403 - Restrictions on lease agreements, contracts, and grants
+
+(a) No constitutional officer may enter into any lease agreement, contract, or grant with any state agency unless: (1) The lease agreement, contract, or grant is awarded as a result of competitive bidding or a request for proposal and the constitutional officer played no role, directly or indirectly, in the administrative: (A) Determination of specifications for the bid or request for proposal; (B) Evaluation or consideration of the bid or request for proposal; or (C) Decision to accept the bid or request for proposal; or (2) If competitive bidding or a request for proposal was not required by law, the lease agreement, contract, or grant has received the prior approval of: (A) The Joint Budget Committee during legislative sessions or the Legislative Council between legislative sessions; and (B) The Governor. (b) No constitutional officer may receive any subgrant, subcontract, or assignment of any lease with a state agency unless the constitutional officer: (1) Is disclosed as a subgrantee or subcontractor in the competitive bid or request for proposal; or (2) If competitive bidding or a request for proposal was not required by law, receives prior approval from: (A) The Joint Budget Committee during legislative sessions or the Legislative Council between legislative sessions; and (B) The Governor. (c) (1) Constitutional officers shall not enter into professional and consultant services contracts with state agencies subject to §§ 19-11-1001 - 19-11-1011 . (2) Any professional and consultant services contracts obtained by constitutional officers or their spouses with any state agency exempt from §§ 19-11-1001 - 19-11-1011 must receive prior review of the Joint Budget Committee during legislative sessions and the Legislative Council between legislative sessions. (d) The restrictions of subsections (a) and (b) of this section also apply to spouses of constitutional officers and to any corporation, limited liability company, partnership, or any other legal entity of which a constitutional officer or the constitutional officer's spouse has an ownership interest of at least ten percent (10%). (e) If a constitutional officer, a constitutional officer's spouse, or an entity listed in subsection (d) of this section becomes the recipient of a grant, contract, or lease through competitive bidding or a request for proposal, the awarding state agency shall give written notice of the selection of the constitutional officer, constitutional officer's spouse, or entity to: (1) The Joint Budget Committee during legislative sessions or the Legislative Council between legislative sessions; and (2) The Governor. (f) Grants, contracts, and leases entered into prior to the person's becoming a constitutional officer are not subject to the provisions of this section, but renewals and extensions of those grants, contracts, and leases are subject to the provisions of this section.
+
+Acts 1999, No. 34, § 3; 2003, No. 1315, § 14.
+
+## Section 21-1-404 - Rules - Disclosure statement
+
+(a) The Secretary of the Department of Finance and Administration is authorized to promulgate and implement any necessary rules or policies to ensure compliance with this subchapter subject to the prior review and approval of the Joint Budget Committee during legislative sessions and the Legislative Council between legislative sessions. (b) All disclosure statements and other information required to be furnished by constitutional officers and their spouses shall be certified by the constitutional officer or spouse under penalty of perjury.
+
+Amended by Act 2019, No. 315,§ 2314, eff. 7/24/2019.
+
+Amended by Act 2019, No. 910,§ 3489, eff. 7/1/2019.
+
+Acts 1999, No. 34, § 4.
+
+## Section 21-1-405 - Violations
+
+(a) Any knowing violation of this subchapter is a Class D felony. (b) The violation of any rule or policy promulgated by the Department of Finance and Administration under this subchapter or the failure of a constitutional officer or spouse of a constitutional officer to disclose his or her interest in any contract, grant, or lease agreement or in any subcontract, subgrant, or assignment of lease as required by this subchapter or as required by any rule or policy of the department shall be grounds for voiding the contract, grant, lease agreement, subcontract, subgrant, or lease assignment, and the constitutional officer or spouse may be required to refund any moneys received thereunder.
+
+Amended by Act 2019, No. 315,§ 2315, eff. 7/24/2019.
+
+Acts 1999, No. 34, § 5; Acts 2007, No. 827, § 172.
+
+## Section 21-1-406 - Venue for violation proceedings
+
+The venue for the judicial proceedings for violating § 21-1-405(a) shall be in the county of the defendant's domicile.
+
+Acts 1999, No. 34, § 6.
+
+## Section 21-1-407 - Employment by state agency
+
+A person whose spouse is elected to a constitutional office may be employed by a state agency without the approval of the employment required by § 21-1-402(b) if the person's entry salary does not exceed the amount prescribed by Level 4 of Grade 13 of the state compensation plan found in § 21-5-209 .
+
+Acts 1999, No. 34, § 7.
+
+## Section 21-1-408 - Investigation of violations
+
+(a) The Arkansas Ethics Commission is authorized to investigate any complaints or allegations of violations of the provisions of this subchapter and to make findings thereon. (b) In the investigation of such matters, the commission is specifically given all authority and powers as granted to it under the provisions of §§ 7-6-217 and 7-6-218 .
+
+Acts 1999, No. 34, § 8.
+
+## Section 21-1-501 - Title
+
+This subchapter shall create the "Public Employees' Political Freedom Act of 1999".
+
+Acts 1999, No. 658, § 1.
+
+## Section 21-1-502 - Definitions
+
+As used in this subchapter: (1) "Elected public official" means the Governor, Lieutenant Governor, Secretary of State, Treasurer of State, Auditor of State, Attorney General, Commissioner of State Lands, a member of the Senate, and a member of the House of Representatives; (2) "Public employee" means any person providing services for the State of Arkansas, a county, a municipal corporation, or any other political subdivision of this state for which compensation is paid; and (3) "Public employer" means the State of Arkansas and each political subdivision of the State of Arkansas, as defined in § 21-5-603 .
+
+Acts 1999, No. 658, § 2; 2005, No. 1962, § 92.
+
+## Section 21-1-503 - Employer not to penalize employee's political activity
+
+(a) A public employee shall not be prohibited from communicating with an elected public official concerning a matter related to the public employee's job, except for a matter exempted under § 25-19-105 . (b) A public employee shall not be prohibited from exercising a right or privilege under the Freedom of Information Act of 1967, § 25-19-101 et seq. (c) (1) It shall be unlawful for any public employer to discipline, to threaten to discipline, to reprimand either orally or in writing, to place any notation in a public employee's personnel file disciplining or reprimanding the public employee, or to otherwise discriminate against a public employee because the public employee exercised the right to communicate with an elected public official or exercised a right or privilege under the Freedom of Information Act of 1967, § 25-19-101 et seq., as granted under this subchapter. (2) A public employer shall not be prohibited from disciplining a public employee who has intentionally made an untrue allegation to an elected public official concerning a matter related to the public employee's job. (d) Any person willfully violating a provision of this subchapter shall be guilty of a Class A misdemeanor.
+
+Amended by Act 2015, No. 102,§ 1, eff. 7/22/2015.
+
+Acts 1999, No. 658, § 3; 2005, No. 1962, § 93; 2009, No. 771, § 1.
+
+## Section 21-1-601 - Title
+
+This subchapter shall be known and may be cited as the "Arkansas Whistle-Blower Act".
+
+Acts 1999, No. 1523, § 1.
+
+## Section 21-1-602 - Definitions
+
+As used in this subchapter: (1) "Adverse action" means to discharge, threaten, or otherwise discriminate or retaliate against a public employee in any manner that affects the employee's employment, including compensation, job location, rights, immunities, promotions, or privileges; (2) (A) "Appropriate authority" means: (i) A state, county, or municipal government department, agency, or organization having jurisdiction over criminal law enforcement, regulatory violations, professional conduct or ethics, or waste; or (ii) A member, officer, agent, investigator, auditor, representative, or supervisory employee of the body, agency, or organization. (B) "Appropriate authority" includes, but is not limited to, the office of the Attorney General, the office of the Auditor of State, the Arkansas Ethics Commission, the Legislative Joint Auditing Committee and Arkansas Legislative Audit, and the offices of the various prosecuting attorneys having the power and duty to investigate criminal law enforcement, regulatory violations, professional conduct or ethics, or waste; (3) "Communicate" means to give a verbal or written report to an appropriate authority; (4) (A) "Public employee" means a person who performs a full-time or part-time service for wages, salary, or other remuneration for a public employer. (B) "Public employee" includes without limitation a state employee under § 21-1-610 ; (5) "Public employer" means any of the following: (A) An agency, department, board, commission, division, office, bureau, council, authority, or other instrumentality of the State of Arkansas, including the offices of the various Arkansas elected constitutional officers and the General Assembly and its agencies, bureaus, and divisions; (B) A state-supported college, university, technical college, community college, or other institution of higher education or department, division, or agency of a state institution of higher education; (C) The Supreme Court, the Court of Appeals, the Administrative Office of the Courts, the circuit courts, and prosecuting attorneys' offices; (D) An office, department, commission, council, agency, board, bureau, committee, corporation, or other instrumentality of a county government or a municipality or a district court, a county subordinate service district, a municipally owned utility, or a regional or joint governing body of one (1) or more counties or municipalities; or (E) A public school district, school, or an office or department of a public school district in Arkansas; (6) "Violation" means an infraction or a breach which is not of a merely technical or minimal nature of a state statute or rule, of a political subdivision ordinance or regulation, or of a code of conduct or code of ethics designed to protect the interest of the public or a public employer; (7) "Waste" means a public employer's conduct or omissions which result in substantial abuse, misuse, destruction, or loss of public funds, property, or manpower belonging to or derived from the state or local political subdivision's resources; and (8) "Whistle-blower" means a person who witnesses or has evidence of a waste or violation while employed with a public employer and who communicates in good faith or testifies to the waste or violation, verbally or in writing, to one of the employee's superiors, to an agent of the public employer, or to an appropriate authority, provided that the communication is made prior to any adverse action by the employer.
+
+Amended by Act 2019, No. 315,§ 2316, eff. 7/24/2019.
+
+Amended by Act 2013, No. 211,§ 1, eff. 8/16/2013.
+
+Acts 1999, No. 1523, § 2; 2005, No. 2190, § 21.
+
+## Section 21-1-603 - Public employer conduct prohibited - Good faith communication
+
+(a) (1) A public employer shall not take adverse action against a public employee because the public employee or a person authorized to act on behalf of the public employee communicates in good faith to an appropriate authority: (A) The existence of waste of public funds, property, or manpower, including federal funds, property, or manpower administered or controlled by a public employer; or (B) A violation or suspected violation of a law, rule, or regulation adopted under the law of this state or a political subdivision of the state. (2) The communication shall be made at a time and in a manner which gives the public employer reasonable notice of need to correct the waste or violation. (b) (1) For purposes of subsection (a) of this section, a public employee communicates in good faith if there is a reasonable basis in fact for the communication of the existence of waste or of a violation. (2) Good faith is lacking when the public employee does not have personal knowledge of a factual basis for the communication or when the public employee knew or reasonably should have known that the communication of the waste or of the violation was malicious, false, or frivolous. (c) A public employer shall not take an adverse action against a public employee because the employee participates or gives information in an investigation, hearing, court proceeding, legislative or other inquiry, or in any form of administrative review. (d) A public employer shall not take an adverse action against a public employee because an employee has objected to or refused to carry out a directive that the employee reasonably believes violates a law or a rule or regulation adopted under the authority of laws of the state or a political subdivision of the state. (e) A public employer shall not take an adverse action against a public employee because of a report of a loss of public funds under § 25-1-124 .
+
+Amended by Act 2015, No. 1103,§ 1, eff. 7/22/2015.
+
+Acts 1999, No. 1523, § 3; 2003, No. 601, § 1.
+
+## Section 21-1-604 - Civil liability - Definition
+
+(a) A public employee who alleges a violation of this subchapter may bring a civil action for appropriate injunctive relief or actual damages, or both, within one hundred eighty (180) calendar days after the occurrence of the alleged violation of this subchapter. (b) An action commenced under this section may be brought in the circuit court for the county where the alleged violation occurred, for the county where the complainant resides, or in the Pulaski County Circuit Court if the complaint is filed against an agency, department, or institution of state government. (c) To prevail in an action brought under the authority of this section, the public employee shall establish, by a preponderance of the evidence, that the employee has suffered an adverse action because the employee or a person acting on his or her behalf engaged or intended to engage in an activity protected under this subchapter. (d) As used in this section, "damages" means damages for a job-related injury or loss caused by each violation of this subchapter, including, but not limited to, fringe benefits, retirement service credit, compensation for lost wages, benefits, and any other remuneration, and reasonable court costs and attorney's fees. (e) (1) A public employer shall have an affirmative defense to a civil action brought by a public employee under this subchapter if the adverse action taken against a public employee was due to employee misconduct, poor job performance, or a reduction in workforce unrelated to a communication made pursuant to § 21-1-603 . (2) The public employer must prove the existence of the public employee's misconduct unrelated to the communication by a preponderance of the evidence. (f) (1) In the event the Office of Personnel Management implements an employee grievance mediation program, a public employee or public employer may voluntarily participate in mediation under the office's mediation program if either one wishes to resolve a dispute between them that involves an adverse action taken against the public employee. (2) Voluntary mediation shall occur before a civil action in which the public employee and public employer are parties has been initiated in a court. (3) The Secretary of the Department of Transformation and Shared Services shall adopt voluntary mediation application and request forms.
+
+Amended by Act 2019, No. 910,§ 6121, eff. 7/1/2019.
+
+Acts 1999, No. 1523, § 4.
+
+## Section 21-1-605 - Remedies
+
+(a) A court in rendering judgment under this subchapter may order any or all of the following remedies: (1) An injunction to restrain continued violation of the provisions of this subchapter; (2) The reinstatement of the public employee to the same position held before the adverse action or to an equivalent position; (3) The reinstatement of full fringe benefits and retirement service credit; (4) The compensation for lost wages, benefits, and any other remuneration; or (5) The payment by the public employer of reasonable court costs and attorney's fees. (b) (1) A public employee alleging in a civil action that he or she was terminated from his or her position as the result of adverse action prohibited under § 21-1-603 may request an expedited hearing on the issue of the public employee's being reinstated to the public employee's position until the resolution of the civil action brought under this subchapter. (2) If at an expedited hearing the public employee demonstrates that a reasonable person would conclude that his or her termination was a result of adverse action prohibited under § 21-1-603 , the court shall order that the public employee be: (A) Reinstated to his or her position until the conclusion of the civil action brought under this subchapter; or (B) Reinstated to his or her position and placed on paid administrative leave until the conclusion of the civil action brought under this subchapter.
+
+Amended by Act 2017, No. 791,§ 1, eff. 8/1/2017.
+
+Acts 1999, No. 1523, § 5.
+
+## Section 21-1-606 - Attorney's fees
+
+(a) A court may order that reasonable attorney's fees and court costs be awarded to an employer if the court determines that an action brought by a public employee under this subchapter is without basis in law or fact. (b) A public employee shall not be assessed attorney's fees under this section if, after exercising reasonable and diligent efforts after filing the suit, the public employee files a voluntary nonsuit concerning the employer within sixty (60) calendar days after determining that the employer would not be liable for damages.
+
+Acts 1999, No. 1523, § 6.
+
+## Section 21-1-607 - Protection of confidentiality
+
+(a) This subchapter shall not be construed to permit a disclosure which would diminish or impair the rights of any person or any public official to the continued protection of confidentiality of records or working papers where a statute or the common law provides for protection. (b) (1) All materials and documentation, including without limitation notes, memoranda, recordings, preliminary drafts of investigation reports, and other data gathered in connection with a communication regarding the existence of waste or of a violation, are privileged and confidential and are exempt from the Freedom of Information Act of 1967, § 25-19-101 et seq., except as provided in subdivisions (b)(2) and (3) of this section. (2) Final reports issued by a public employer or an appropriate authority concerning a communication regarding the existence of waste or of a violation and any supporting documentation shall be open to public inspection and copying, except for documents that are exempt from disclosure under other law. (3) This section does not apply to the name and identifying information of a state employee eligible to receive a reward under § 21-1-610 who does not request confidentiality under § 21-1-610(g) . (c) This section applies without limitation to communications regarding the existence of waste or of a violation received by a telephone hotline allowing for the reporting of fraud, waste, or abuse in government.
+
+Amended by Act 2015, No. 1103,§ 2, eff. 7/22/2015.
+
+Acts 1999, No. 1523, § 7.
+
+## Section 21-1-608 - Notification of rights
+
+(a) A public employer shall use appropriate means to notify its public employees of their protection and obligations under this subchapter. (b) (1) A public employer shall post in a conspicuous place a printed sign at least eight and one-half inches by eleven inches (81/2" x 11") in size that: (A) Informs a public employee of the provisions of this subchapter; (B) Describes an appropriate authority to whom the public employee may communicate in good faith regarding the existence of waste or of a violation; and (C) If a telephone hotline exists for the reporting of fraud, waste, or abuse in government, contains the number of the telephone hotline. (2) Arkansas Legislative Audit shall: (A) Prepare the printed sign under subdivision (b)(1) of this section; and (B) Make the sign available electronically on its internet website in a format that allows it to be printed by a public employer for posting in compliance with subdivision (b)(1) of this section.
+
+Amended by Act 2015, No. 1103,§ 3, eff. 7/22/2015.
+
+Acts 1999, No. 1523, § 8.
+
+## Section 21-1-610 - Reward to state employee when communication of waste or violation results in savings of state funds - Definitions
+
+(a) As used in this section: (1) "State employee" means a person who performs a full-time or part-time service for wages, salary, or other remuneration for a state employer; and (2) "State employer" means: (A) An agency, department, board, commission, division, office, bureau, council, authority, or other instrumentality of the State of Arkansas, including without limitation the: (i) Offices of the various Arkansas elected constitutional officers; and (ii) General Assembly and its agencies, bureaus, and divisions; or (B) A state-supported college, university, technical college, community college, or other institution of higher education or department, division, or agency of a state institution of higher education. (b) A state employee making a communication under § 21-1-603 shall be eligible to receive a reward in an amount equal to ten percent (10%) of any savings in state funds attributable to changes made based on a communication under § 21-1-603 . (c) Except as provided in subsection (g) of this section, upon the resolution of a matter communicated to an appropriate authority under § 21-1-603 , the appropriate authority shall provide a written report detailing the content of the communication and the outcome of the communication to the: (1) State employee who made the communication; and (2) State employer that was the subject of the communication. (d) After receiving a written report under subsection (c) of this section, a state employer shall: (1) Document the savings in state funds attributable to changes made based on the communication filed under § 21-1-603 for one (1) full fiscal year; and (2) (A) Within thirty (30) days of the end of the first full fiscal year in which the changes made based on the communication filed under § 21-1-603 were implemented, issue a report containing: (i) The total savings in state funds resulting from the communication under § 21-1-603 for the first full fiscal year in which the changes were implemented; (ii) The name of the state employee who made the communication resulting in the savings of state funds; and (iii) The amount of the reward for which the state employee is eligible. The amount of the reward shall be equal to ten percent (10%) of the total savings in state funds reported under subdivision (d)(2)(A)(i) of this section. If the state employer concludes that the state employee is not eligible for a reward, the state employer shall state the reasons for that determination in the report. (B) A report under subdivision (d)(2)(A) of this section shall be submitted to the: (i) Performance Evaluation and Expenditure Review Subcommittee of the Legislative Council or, if the General Assembly is in session, the Review/PEER Subcommittee of the Joint Budget Committee; (ii) State employee who made the communication under § 21-1-603 unless the state employee has elected to maintain confidentiality under subsection (g) of this section. The report to the state employee shall include a notice to the state employee of the right to an appeal under subsection (e) of this section; and (iii) Clerk of the Arkansas State Claims Commission. (e) (1) A state employee may appeal to the Arkansas State Claims Commission in the same manner for filing a claim under § 19-10-208 if the state employee believes that: (A) A report under subdivision (d)(2)(A) of this section does not accurately reflect the savings attributable to the changes made based on the communication under § 21-1-603 ; or (B) The state employer did not accurately assess the determination of a reward under this section, including without limitation denying a reward to the state employee. (2) A state employee who pursues an appeal under subdivision (e)(1) of this section is granted the same protection provided to a public employee under § 21-1-603 . (3) (A) A written request for an appeal under subdivision (e)(1) of this section shall be filed within forty (40) days of the submission of the report under subdivision (d)(2)(A) of this section. (B) An appeal to the commission under subdivision (e)(1) of this section shall follow the rules and procedures of the commission. (4) In an appeal to the commission, a state employee shall have the burden of proving by a preponderance of the evidence that the: (A) Amount of savings reported by the state employer under subdivision (d)(2)(A) of this section does not accurately reflect the savings attributable to the changes made based on the communication under § 21-1-603 ; or (B) State employer did not accurately assess the determination of a reward under this section. (5) (A) The decision of the commission in a matter appealed under this subsection may be appealed only to the Claims Review Subcommittee of the Legislative Council or, if the General Assembly is in session, the Claims Subcommittee of the Joint Budget Committee. (B) (i) Notice of appeal under subdivision (e)(5)(A) of this section shall be filed with the commission within forty (40) days after the commission renders a decision. (ii) The commission, in a timely manner, shall notify the Legislative Council or the Joint Budget Committee and all parties to the matter when a notice of appeal to the Claims Review Subcommittee of the Legislative Council or Claims Subcommittee of the Joint Budget Committee is filed with the commission. (iii) When the commission notifies parties of a decision of the commission, it shall advise the parties of the right of appeal. (f) (1) (A) Except as provided in subdivision (f)(2) of this section, within thirty (30) days of the end of the period for appeal under subdivision (e)(3)(A) of this section or the resolution of an appeal under subsection (e) of this section, whichever is later, the clerk of the commission shall notify a state employer of the amount of a reward to be paid to a state employee. (B) Upon receipt of notification under subdivision (f)(1) of this section, the state employer shall deliver a check to the clerk of the commission who shall deposit the same as a nonrevenue receipt into the Miscellaneous Revolving Fund from which he or she shall disburse the amount of the reward to the state employee. (2) (A) No reward under this section shall be paid in excess of twelve thousand five hundred dollars ($12,500). (B) If the amount of a reward is greater than twelve thousand five hundred dollars ($12,500), the reward shall be referred to the General Assembly for an appropriation. (C) If a reward is appropriated to a state employer for the benefit of a state employee, it shall be paid from the funds available to the state employer. (g) (1) A state employee wishing to maintain confidentiality under § 21-1-607 or who otherwise chooses to forego a reward under this section shall request to the appropriate authority that the report under subsection (c) of this section not include the state employee's name or identifying information. (2) A state employee making a request under subdivision (g)(1) of this section shall not receive a reward under this section. (3) The name and identifying information of a state employee who requests confidentiality under subdivision (g)(1) of this section is not disclosable under applicable state or federal law. (h) (1) Except as provided in subdivisions (h)(2) and (3) of this section, a reward under this section shall not be payable for a communication made by a state employee in the normal course of the state employee's job duties. (2) If a communication in the normal course of a state employee's job duties detailing waste or a violation is not acted upon by the state employer within ninety (90) days, the state employee may make a communication under § 21-1-603 to an appropriate authority and be eligible for a reward under this section. (3) A report by a state employee of a loss of public funds under § 25-1-124 shall be considered a communication in the normal course of the state employee's job duties if the state employee: (A) Handles or exerts control over the funds of the state employer; (B) Participates in making decisions or recommendations concerning the deposit, investment, or expenditure of the funds of the state employer; or (C) Is responsible for auditing the funds of the state employer.
+
+Amended by Act 2015, No. 1103,§ 4, eff. 7/22/2015.
+
+Amended by Act 2013, No. 1080,§ 1, eff. 8/16/2013.
+
+Added by Act 2013, No. 211,§ 2, eff. 8/16/2013.
+
+## Section 21-1-701 - Definitions
+
+As used in this subchapter: (1) (A) "Employee" means a person regularly appointed or employed in a position of state service by a state agency for which: (i) He or she is compensated on a full-time basis or on a pro rata basis; and (ii) A class title and pay grade are established in the appropriation act for the agency or institution in accordance with the Uniform Classification and Compensation Act, § 21-5-201 et seq. (B) "Employee" does not include a supervisory employee; (2) "Grievance" means an employee's complaint resulting from a termination or suspension; (3) (A) "State agency" means a board, commission, department, division, or office of state government within the executive branch. (B) "State agency" does not include: (i) An institution of higher education; (ii) A public school district; (iii) The Arkansas Department of Transportation; and (iv) The Arkansas State Game and Fish Commission; and (4) "Supervisory employee" means an individual having: (A) Authority in the interest of a state agency to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees of the state agency; or (B) If his or her exercise of authority requires the use of independent judgment and is not of a merely routine or clerical nature, the responsibility to direct other employees of the state agency by which he or she is employed.
+
+Amended by Act 2019, No. 1054,§ 1, eff. 7/24/2019.
+
+Amended by Act 2017, No. 707,§ 66, eff. 8/1/2017.
+
+Added by Act 2013, No. 1448,§ 1, eff. 8/16/2013.
+
+See Act 2013, No. 1448, § 2.
+
+## Section 21-1-702 - Grievances
+
+(a) The Office of Personnel Management shall establish a procedure for the filing, hearing, adjudication, and appeal of grievances by state agencies. (b) (1) An employee of a state agency may file a grievance under this subchapter if his or her termination or suspension from employment was inconsistent with the terminating or suspending state agency's disciplinary policy. (2) At the hearing on or appeal of the grievance filed under this subchapter, the sole issue for the trier of fact shall be whether the state agency's decision concerning termination or suspension was consistent with the state agency's disciplinary policy. (c) (1) (A) The procedure established under subsection (a) of this section shall provide without limitation that an employee be afforded a hearing within fifteen (15) business days of the filing of his or her appeal if the employee alleges that he or she was terminated by a state agency for the following actions under § 21-1-603 : (i) Communicating in good faith to an appropriate authority: (a) The existence of waste of public funds, property, or manpower, including federal funds, property, or manpower administered or controlled by a public employer; or (b) A violation or suspected violation of a law or rule adopted under the law of this state or a political subdivision of the state; (ii) Participating or giving information in an investigation, hearing, court proceeding, legislative or other inquiry, or in any form of administrative review; (iii) Objecting to or refusing to carry out a directive that the employee reasonably believes violates a law or rule adopted under the authority of the laws of the state or a political subdivision of the state; or (iv) Reporting a loss of public funds under § 25-1-124 . (B) A hearing under subdivision (c)(1)(A) of this section shall take place before the occurrence of a state agency hearing pursuant to the grievance filed by the person. (C) (i) (a) An employee requesting a hearing under subdivision (c)(1)(A) of this section shall submit with his or her request for a hearing evidence that he or she committed one (1) of the actions under subdivisions (c)(1)(A)(i)-(iv) of this section. (b) Evidence under this subdivision (c)(1)(C)(i) that is confidential under § 21-1-607 or other provisions of law shall remain confidential when submitted in support of a request for a hearing or otherwise utilized in the appeal of the grievance decision. (ii) If the person fails to demonstrate that he or she committed one (1) of the actions under subdivisions (c)(1)(A)(i)-(iv) of this section, the office shall not schedule a hearing under subdivision (c)(1)(A) of this section. (2) If the employee demonstrates at the hearing that a reasonable person would conclude that the state agency terminated the employee as a result of the employee's activities under subdivisions (c)(1)(A)(i)-(iv) of this section, the employee shall be: (A) Reinstated to his or her position until the conclusion of the grievance review procedure under this section; or (B) Reinstated to his or her position and placed on administrative leave until the conclusion of the grievance review procedure under this section. (3) An employee filing an appeal of a grievance decision under this section does not waive his or her right to file a claim under the Arkansas Whistle-Blower Act, § 21-1-601 et seq.
+
+Amended by Act 2019, No. 1054,§ 1, eff. 7/24/2019.
+
+Added by Act 2013, No. 1448,§ 1, eff. 8/16/2013.
+
+## Section 21-1-703 - [Repealed]
+
+Repealed by Act 2019, No. 1054,§ 1, eff. 7/24/2019.
+
+Amended by Act 2017, No. 791,§ 2, eff. 8/1/2017.
+
+Added by Act 2013, No. 1448,§ 1, eff. 8/16/2013.
+
+## Section 21-1-704 - [Repealed]
+
+Amended by Act 2019, No. 910,§ 6122, eff. 7/1/2019.
+
+Amended by Act 2019, No. 910,§ 3490, eff. 7/1/2019.
+
+Repealed by Act 2019, No. 1054,§ 1, eff. 7/24/2019.
+
+Amended by Act 2017, No. 791,§ 3, eff. 8/1/2017.
+
+Added by Act 2013, No. 1448,§ 1, eff. 8/16/2013.
+
+## Section 21-1-801 - Definitions
+
+As used in this subchapter: (1) (A) "Public employee" means a person who performs a full-time or part-time service for wages, salary, or other remuneration for a public employer. (B) "Public employee" includes without limitation a state employee under § 21-1-610 . (C) "Public employee" does not include a: (i) Public safety officer, including without limitation a: (a) Law enforcement officer; and (b) Firefighter; and (ii) Public transit system employee whose public employer is a recipient of a federal grant administered by the Federal Transit Administration; (2) "Public employer" means: (A) An agency, department, board, commission, division, office, bureau, council, authority, or other instrumentality of the state, including the offices of the various Arkansas elected constitutional officers and the General Assembly and its agencies, bureaus, and divisions; (B) A state-supported college, university, technical college, community college, or other institution of higher education or a department, division, or agency of a state institution of higher education; (C) The Supreme Court, the Court of Appeals, the Administrative Office of the Courts, the circuit courts, and prosecuting attorneys' offices; and (D) A public school district, school, or an office or department of a public school district in Arkansas; and (3) "Strike" means a refusal to work organized by two (2) or more public employees as a form of protest in an attempt to gain a concession or concessions from a public employer.
+
+Added by Act 2021, No. 612,§ 2, eff. 7/28/2021.
+
+## Section 21-1-802 - Collective bargaining prohibited
+
+(a) A public employer shall not recognize a labor union or other public employee association as a bargaining agent of public employees. (b) A public employer shall not collectively bargain or enter into any collective bargaining contract with a labor union or other public employee association or its agents with respect to any matter relating to public employees, public employees' employment with a public employer, or public employees' tenure with a public employer.
+
+Added by Act 2021, No. 612,§ 2, eff. 7/28/2021.
+
+## Section 21-1-803 - Prohibited activities
+
+(a) A public employee willfully refuses to perform the duties of his or her employment with a public employer when, acting in concert with one (1) or more public employees, he or she: (1) Strikes or walks away from the duties of his or her employment with the public employer; (2) Physically obstructs the activity or operation of the public employer; or (3) Physically impedes the operations of a public employer. (b) A public employee who violates subsection (a) of this section shall be terminated by the public employer. (c) A public employee terminated under subsection (b) of this section is ineligible for employment with a public employer in any position or capacity for twelve (12) months after being terminated for willfully refusing to perform the duties of his or her employment with a public employer. (d) A public employer shall include in the public employer's personnel manual a statement that willfully refusing to perform the duties of his or her employment with a public employer constitutes grounds for dismissal.
+
+Added by Act 2021, No. 612,§ 2, eff. 7/28/2021.
+
+## Section 21-1-804 - Public employee associations
+
+Public employees may form associations for the purpose of promoting the public employees' interests before a public employer.
+
+Added by Act 2021, No. 612,§ 2, eff. 7/28/2021.
+
+## Section 21-1-901 - Title
+
+This subchapter shall be known and may be cited as the "Arkansas Sovereignty Act of 2021".
+
+Added by Act 2021, No. 1012,§ 1, eff. 7/28/2021.
+
+This subchapter was originally enacted as Chapter 6 of Title 1.
+
+## Section 21-1-902 - Legislative findings
+
+The General Assembly finds that: (1) The State of Arkansas is firmly resolved to support and defend the United States Constitution against every aggression, either foreign or domestic, and the General Assembly is duty bound to watch over and oppose every infraction of those principles that constitute the basis of the United States because only a faithful observance of those principles can secure the nation's existence and the public happiness; (2) Acting through the United States Constitution, the people of the several states created the United States Government to be their agent in the exercise of a few defined powers, while reserving to the state governments the power to legislate on matters that concern the lives, liberties, and properties of citizens in the ordinary course of affairs; (3) The limitation of the United States Government's power is affirmed under the Tenth Amendment to the United States Constitution, which defines the total scope of federal power as being that which has been delegated by the people of the several states to the United States Government, and all power not delegated to the United States Government in the United States Constitution is reserved to the states respectively, or to the people themselves; (4) Whenever the United States Government assumes powers that the people did not grant it in the United States Constitution, its acts are unauthoritative, void, and of no force; (5) (A) The several states of the United States are not united on the principle of unlimited submission to the United States Government. (B) The United States Government created by the United States Constitution is not the exclusive or final judge of the extent of the powers granted to it by the United States Constitution, because that would have made the United States Government's discretion, and not the United States Constitution, the measure of those powers. (C) To the contrary, as in all other cases of compacts among powers having no common judge, each party has an equal right to judge itself, as well as infractions and the mode and measure of redress. (D) (i) Although the several states have granted supremacy to laws and treaties made under the powers granted in the United States Constitution, such supremacy does not apply to various federal statutes, orders, rules, regulations, or other actions that restrict or prohibit the manufacture, ownership, and use of firearms, firearm accessories, or ammunition exclusively within the borders of Arkansas. (ii) Such statutes, orders, rules, regulations, and other actions exceed the powers granted to the United States Government except to the extent that they are necessary and proper for the United States Government and regulation of the land and naval forces of the United States Armed Forces or for the organizing, arming, and disciplining of militia forces actively employed in the service of the United States Armed Forces; (6) The people of the several states have given the United States Congress the power "to regulate commerce with foreign nations, and among the several states, and with the Indian tribes", but regulating commerce does not include the power to limit citizens' right to keep and bear arms in defense of their families, neighbors, persons, or property or to dictate what sort of arms and accessories law-abiding, mentally competent Arkansas citizens may buy, sell, exchange, or otherwise possess within the borders of this state; (7) (A) The people of the several states have also given the United States Congress the power "to lay and collect taxes, duties, imposts and excises, to pay the debts and provide for the common defense and general welfare of the United States" and "to make all laws which shall be necessary and proper for carrying into execution . the powers vested by this Constitution in the Government of the United States, or in any department or officer thereof". (B) (i) These federal constitutional provisions merely identify the means by which the United States Government may execute its limited powers and ought not to be so construed as themselves to give unlimited powers because to do so would be to destroy the balance of power between the United States Government and the state governments. (ii) The General Assembly denies any claim that the taxing and spending powers of the United States Congress can be used to diminish in any way the people's right to keep and bear arms; and (8) The people of Arkansas have vested the General Assembly with the authority to regulate the manufacture, possession, exchange, and use of firearms within this state's borders, subject only to the limits imposed by the Second Amendment to the United States Constitution and Arkansas Constitution, Article 2, § 5.
+
+Added by Act 2021, No. 1012,§ 1, eff. 7/28/2021.
+
+## Section 21-1-903 - Definitions
+
+As used in this subchapter: (1) "Federal ban" means a federal law, executive order, rule, or regulation that is enacted, adopted, or becomes effective on or after January 1, 2021, that infringes upon, calls into question, or prohibits, restricts, or requires individual licensure for or registration of the purchase, ownership, possession, transfer, or use of any firearm, any magazine or other ammunition feeding device, or other firearm accessory; and (2) "Firearm" means a self-loading rifle, pistol, revolver, or shotgun or any manually loaded rifle, pistol, revolver, or shotgun.
+
+Added by Act 2021, No. 1012,§ 1, eff. 7/28/2021.
+
+## Section 21-1-904 - Firearm rights
+
+(a) All acts, laws, orders, rules, and regulations of the United States Government that were enacted on or after January 1, 2021, that infringe on the people's right to keep and bear arms as guaranteed by the Second Amendment to the United States Constitution and Arkansas Constitution, Article 2, § 5, are invalid in this state, shall not be recognized by this state, are specifically rejected by this state, and shall be considered null and void and of no effect in this state. (b) Such a federal ban that is null and void in this state under subsection (a) of this section includes without limitation: (1) Any tax, levy, fee, or stamp imposed on firearms, firearm accessories, or ammunition not common to all other goods and services that could have a chilling effect on the purchase or ownership of those items by law-abiding citizens that was enacted after January 1, 2021; (2) Any registering or tracking of firearms, firearm accessories, or ammunition that could have a chilling effect on the purchase or ownership of those items by law-abiding citizens; (3) Any registering or tracking of the owners of firearms, firearm accessories, or ammunition that could have a chilling effect on the purchase or ownership of those items by law-abiding citizens; (4) Any act forbidding the possession, ownership, use, or transfer of any type of firearm, firearm accessory, or ammunition by law-abiding citizens; and (5) Any act ordering the confiscation of firearms, firearm accessories, or ammunition from law-abiding citizens. (c) (1) The following persons shall not enforce or assist federal agencies or officers in the enforcement of any federal statute, executive order, or federal agency directive that conflicts with Arkansas Constitution, Article 2, § 5, or any Arkansas law: (A) A public officer or employee of this state; or (B) A representative, agent, or employee of a municipality, a county, or the state, acting under the color of law, with all the rights, grants, and assignments of a law enforcement officer in the state. (2) The persons and prohibitions described under subdivision (c)(1) of this section include personnel, agents of the state or local government, including volunteers, the use of tax dollars, and persons having authority to enforce or attempt to enforce any of the infringements on the right to keep and bear arms described under subsection (b) of this section. (d) An elected official who knowingly directs any law enforcement officer to assist a federal law enforcement agency in violating the rights of a person as described under subsection (c) of this section upon conviction is guilty of an unclassified misdemeanor. (e) A law enforcement officer not described under subsection (d) of this section who knowingly assists a federal law enforcement agency in violating the rights of a person as described under subsection (c) of this section is subject to being decertified as a law enforcement officer.
+
+Added by Act 2021, No. 1012,§ 1, eff. 7/28/2021.
+
+## Section 21-1-905 - Enumerated rights
+
+(a) All federal acts, laws, orders, rules, and regulations that were enacted on or after January 1, 2021, that infringe on the enumerated rights under Arkansas Constitution, Article 2, are invalid in this state, shall not be recognized by this state, are specifically rejected by this state, and shall be considered null and void and of no effect in this state. (b) (1) The following persons shall not enforce or assist federal agencies or officers in the enforcement of any federal statute, executive order, or federal agency directive that conflicts with Arkansas Constitution, Article 2, § 5, or any Arkansas law: (A) A public officer or employee of this state; or (B) A representative, agent, or employee of a municipality, a county, or the state, acting under the color of law, with all the rights, grants, and assignments of a law enforcement officer in the state. (2) The persons and prohibitions described under subdivision (b)(1) of this section include personnel, agents of the state or local government, including volunteers, the use of tax dollars, and persons having authority to enforce or attempt to enforce any of the infringements on the rights described under subsection (a) of this section. (c) An elected official who knowingly directs any law enforcement officer to assist a federal law enforcement agency in violating the rights described under subsection (a) of this section upon conviction is guilty of an unclassified misdemeanor.
+
+Added by Act 2021, No. 1012,§ 1, eff. 7/28/2021.
+
+## Section 21-1-906 - Exceptions
+
+This subchapter shall not be construed to prohibit or otherwise limit a state law enforcement officer, state employee, or employee of a political subdivision of the state from cooperating, communicating, or collaborating with a federal agency if the primary purpose is not: (1) Law enforcement activity related to a federal ban, as defined under § 21-1-903(1) ; or (2) The investigation of a violation of a federal ban, as defined under § 21-1-903(1) .
+
+Added by Act 2021, No. 1012,§ 1, eff. 7/28/2021.

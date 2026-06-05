@@ -80,24 +80,26 @@ puller can refresh canonical law without SKILL.md edits.
 ## Reference corpora
 
 Under `skills/ar-law-references/references/` (each corpus dir has its own
-README): `ar-statutes-debt/` (curated Ark. Code Ann. civil + family +
-consumer chapters; legacy slug retained for path stability), `court-rules/`
-(Ark. R. Civ. P., Ark. R. Evid., Arkansas District Court Rules, Supreme
-Court / Court of Appeals Rules), plus the shared `federal-debt-laws/` /
-`federal-bankruptcy/` / `ucc-model/` symlinks into
-`claude-legal-federal-laws`. Each subject bundle also carries its own
-`references/` set.
+README): `ar-statutes-debt/` (**verbatim** Ark. Code Ann. — 36 civil +
+family + consumer chapters; legacy slug retained for path stability),
+`court-rules/` (**verbatim** Ark. R. Civ. P., Ark. R. Evid., Arkansas
+District Court Rules, Supreme Court / Court of Appeals Rules — 233 rules /
+~900 KB), plus the shared `federal-debt-laws/` / `federal-bankruptcy/` /
+`ucc-model/` symlinks into `claude-legal-federal-laws`. Each subject
+bundle also carries its own `references/` set.
 
 ## Refresh
 
 - `scripts/pull_arkansas_statutes.py` — Justia mirror
   (`law.justia.com/codes/arkansas/`) → `ar-statutes-debt/` (curl_cffi
-  Chrome impersonation; discovers section URLs by walking
-  Title→Chapter→Subchapter→Section; stub fallback on Cloudflare block).
-- `scripts/pull_arkansas_rules.py` — courtrules.net mirror →
-  `court-rules/` (verbatim where reachable, else canonical-URL pointer
-  stubs).
-- Wired into `.github/workflows/refresh-references.yml` under `target=ar`.
+  Chrome impersonation; retries Cloudflare 403s; BFS-walks
+  Title→Subtitle→Chapter→part/subchapter→Section; pointer-stub fallback).
+- `scripts/pull_arkansas_rules.py` — the official Arkansas Judiciary
+  Court Rules PDFs at `opinions.arcourts.gov/ark/cr/en/` → `court-rules/`
+  (discovers each rule set's current document id by title; `pdftotext
+  -layout`; canonical-URL pointer-stub fallback).
+- Wired into `.github/workflows/refresh-references.yml` under `target=ar`
+  (the rules step installs `poppler-utils`).
 
 Plugin scripts: `scripts/format-check.py` (Ark. R. Civ. P. 10/11 +
 common-practice defaults; WARN where typography is a local-rule matter) ·

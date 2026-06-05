@@ -505,7 +505,7 @@ Plugin-internal scripts ship adapted for Arizona on day one: `format-check.py` c
 
 Mirrors the structure of the other state plugins:
 
-- **`court-rules/`** — **Ark. R. Civ. P. + Ark. R. Evid. + Arkansas District Court Rules + Rules of the Supreme Court and Court of Appeals of Arkansas**. Pulled by `scripts/pull_arkansas_rules.py` from the **courtrules.net** mirror — the canonical `arcourts.gov` "Rules of the Supreme Court and Court of Appeals" library exposes no clean structured copy a stdlib client can resolve, so the puller mirrors from the structured free aggregator (the same "official-source-gated → use the structured free mirror" pattern the MI and AZ pullers use). The bare rule text is a public-domain edict of the Arkansas Supreme Court (LexisNexis annotations are copyrighted). Falls back to canonical-URL pointer stubs when the mirror is unreachable; the `_file_is_stub` regression guard preserves committed verbatim content. Administrative Orders 10/19/21 are tracked as canonical-URL pointers in the corpus rather than pulled here.
+- **`court-rules/`** — **Ark. R. Civ. P. (105 rules) + Ark. R. Evid. (76) + Arkansas District Court Rules (12) + Rules of the Supreme Court and Court of Appeals of Arkansas (40)**, mirrored **verbatim** (~900 KB). Pulled by `scripts/pull_arkansas_rules.py` from the **official Arkansas Judiciary Court Rules database** at `opinions.arcourts.gov/ark/cr/en/` (the Lexum platform linked from arcourts.gov), where each rule set is published as a single PDF at `/ark/cr/en/<docid>/1/document.do`. The puller discovers the current document id per rule set by title from the collection's browse listing, downloads the PDF, and extracts text with `pdftotext -layout` (poppler). The bare rule text is a public-domain edict of the Arkansas Supreme Court (LexisNexis annotations are copyrighted). Falls back to canonical-URL pointer stubs when the source is unreachable or `pdftotext` is unavailable; the `_file_is_stub` regression guard preserves committed verbatim content. Administrative Orders 10/19/21 are tracked as canonical-URL pointers in the corpus rather than pulled here.
 - **`federal-debt-laws/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-debt-laws/`.
 - **`federal-bankruptcy/`** *(symlink)* — points into `claude-legal-federal-laws/references/federal-bankruptcy/`.
 - **`ucc-model/`** *(symlink)* — points into `claude-legal-federal-laws/references/ucc-model/`.
@@ -515,7 +515,7 @@ Mirrors the structure of the other state plugins:
 AR pull scripts:
 
 - **`scripts/pull_arkansas_statutes.py`** — fetches Ark. Code Ann. sections from the Justia mirror, discovering section URLs by walking Title → Chapter → Subchapter → Section links (Arkansas's subtitle/subchapter nesting means URLs cannot be constructed blindly). Uses `curl_cffi` Chrome impersonation when available; falls back to well-formed pointer stubs on Cloudflare block, with the `_file_is_stub` regression guard. Atomic tmp-rename writes. Wired into the quarterly `refresh-references` workflow under `target=ar`.
-- **`scripts/pull_arkansas_rules.py`** — mirrors the Ark. R. Civ. P. + Ark. R. Evid. + Arkansas District Court Rules + Supreme Court/Court of Appeals Rules **verbatim** from `courtrules.net`, with canonical-URL pointer-stub fallback and the `_file_is_stub` regression guard. Wired into the quarterly `refresh-references` workflow under `target=ar`.
+- **`scripts/pull_arkansas_rules.py`** — extracts the Ark. R. Civ. P. + Ark. R. Evid. + Arkansas District Court Rules + Supreme Court/Court of Appeals Rules **verbatim** from the official Arkansas Judiciary Court Rules PDFs at `opinions.arcourts.gov/ark/cr/en/<docid>/1/document.do` (Lexum). Discovers the current document id per rule set by title from the collection's browse listing, downloads the PDF, and runs `pdftotext -layout`, splitting the text on `Rule N.` headings. Canonical-URL pointer-stub fallback when the source is unreachable or `pdftotext` is unavailable; the `_file_is_stub` regression guard preserves committed verbatim content. Wired into the quarterly `refresh-references` workflow under `target=ar` (the workflow installs poppler-utils for this step).
 
 Plugin-internal scripts ship adapted for Arkansas on day one: `format-check.py` checks the marketplace common-practice defaults against the Ark. R. Civ. P. 10/11 caption + signature (WARN where typography is a local-rule matter, since Arkansas has no statewide format rule), and `case-calendar.py` does Ark. R. Civ. P. 6 deadline arithmetic with the Ark. Code Ann. § 1-5-101 holidays — including the combined **Washington's Birthday / Daisy Gatson Bates Day** (3rd Monday in February) and **Christmas Eve** (Dec 24) — and a named-rule catalog (answer-due, district-court-appeal, the SOLs, summary-judgment response, the Rule 60(a) window, etc.).
 
@@ -625,13 +625,15 @@ python3 plugins/az-court-docs/scripts/case-calendar.py ...     # Ariz. R. Civ. P
 python3 plugins/az-court-docs/scripts/case-calendar.py --rules # List Arizona named deadline rules
 
 # Refresh reference corpora — Arkansas
-# Statutes: Justia mirror (Cloudflare-gated), so install curl_cffi and let the
-# puller walk Title→Chapter→Subchapter→Section; falls back to stubs on block:
-python3 scripts/pull_arkansas_statutes.py --workers 4 \
+# Statutes: Justia mirror (Cloudflare — 403s intermittently even via curl_cffi,
+# so the puller retries 403; BFS-walks Title→Subtitle→Chapter→part/subchapter→Section):
+pip3 install --break-system-packages curl_cffi
+python3 scripts/pull_arkansas_statutes.py --workers 3 \
   --out plugins/ar-court-docs/skills/ar-law-references/references/ar-statutes-debt
 python3 scripts/pull_arkansas_statutes.py --stubs-only   # force stub shape (no network)
-# Court rules: arcourts.gov exposes no clean structured copy, so this mirrors verbatim from courtrules.net (ARCP / Evid / District Court / Sup. Ct.):
-python3 scripts/pull_arkansas_rules.py --workers 4 \
+# Court rules: verbatim from the official Arkansas Judiciary Court Rules PDFs
+# (opinions.arcourts.gov); needs pdftotext/poppler:
+python3 scripts/pull_arkansas_rules.py \
   --out plugins/ar-court-docs/skills/ar-law-references/references/court-rules
 
 # Arkansas scripts
@@ -806,7 +808,7 @@ plugins/az-court-docs/              # 28 skills (statewide-format + Maricopa + P
 plugins/ar-court-docs/              # 29 skills (statewide-format + Pulaski/Benton/Washington Circuit venues + District-courts roll-up + county roll-up + Domestic Relations family court + 14 standard procedural + 6 subject bundles: consumer-debt + family-law + landlord-tenant + personal-injury + employment + commercial-disputes); declares dependencies: [claude-legal-federal-laws]
   .claude-plugin/plugin.json
   skills/<skill>/SKILL.md           # 29 SKILL.md files with substantive Arkansas content; no statewide format rule (Ark. R. Civ. P. 10/11 + Administrative Order 19/21); Amendment 80 unified Circuit Court; fact-pleading; Rule 60(a) 90-day window
-  skills/ar-law-references/references/{court-rules,ar-statutes-debt}/  # rules = Ark. R. Civ. P. + Ark. R. Evid. + Arkansas District Court Rules + Sup. Ct./Ct. App. Rules via courtrules.net mirror (arcourts.gov exposes no clean structured copy); statutes = Ark. Code Ann. civil/family/consumer chapters via Justia mirror (curl_cffi; Title→Chapter→Subchapter→Section walk); plus curated civil-rules.md, evidence-rules.md, fees-and-costs.md, citation-format.md, key-cases.md, online-sources.md, legal-data-apis.md
+  skills/ar-law-references/references/{court-rules,ar-statutes-debt}/  # rules = VERBATIM Ark. R. Civ. P. + Ark. R. Evid. + Arkansas District Court Rules + Sup. Ct./Ct. App. Rules (~900 KB / 233 rules; pdftotext from the official opinions.arcourts.gov Court Rules PDFs); statutes = VERBATIM Ark. Code Ann. civil/family/consumer chapters via Justia mirror (curl_cffi; BFS Title→Subtitle→Chapter→part/subchapter→Section walk); plus curated civil-rules.md, evidence-rules.md, fees-and-costs.md, citation-format.md, key-cases.md, online-sources.md, legal-data-apis.md
   skills/ar-law-references/references/{federal-debt-laws,federal-bankruptcy,ucc-model}  # symlinks into the shared plugin
   scripts/format-check.py           # Ark. R. Civ. P. 10/11 + common-practice check (WARN where typography is local-rule)
   scripts/case-calendar.py          # Ark. R. Civ. P. 6 deadline arithmetic with Ark. Code Ann. § 1-5-101 holidays (incl. Daisy Gatson Bates Day + Christmas Eve)
@@ -840,6 +842,6 @@ scripts/
   pull_michigan_statutes.py         # legislature.mi.gov (objectName=mcl-600-5701 per-section scheme) → mi-statutes-debt/ (verbatim MCL)
   pull_arizona_rules.py             # courtrules.net mirror → az court-rules/ (verbatim ARCP + Ariz. R. Evid. + ARFLP + JCRCP; azcourts.gov is Cloudflare-gated)
   pull_arkansas_statutes.py         # law.justia.com/codes/arkansas (curl_cffi; Title→Chapter→Subchapter→Section discovery walk) → ar-statutes-debt/ (stubs on Cloudflare block)
-  pull_arkansas_rules.py            # courtrules.net mirror → ar court-rules/ (Ark. R. Civ. P. + Ark. R. Evid. + Arkansas District Court Rules + Sup. Ct./Ct. App. Rules; arcourts.gov exposes no clean structured copy)
+  pull_arkansas_rules.py            # opinions.arcourts.gov Court Rules PDFs (pdftotext) → ar court-rules/ (verbatim Ark. R. Civ. P. + Ark. R. Evid. + Arkansas District Court Rules + Sup. Ct./Ct. App. Rules)
   pull_arizona_statutes.py          # azleg.gov (ungated per-section .htm fragments) → az-statutes-debt/ (verbatim A.R.S.)
 ```

@@ -41,16 +41,17 @@ via REST API and full-text search.
 - **Official**: `https://arcourts.gov` (Rules of the Supreme Court and
   Court of Appeals; the rule sets and Administrative Orders). The bare
   rule text is a **public-domain edict**.
-- **courtrules.net** — structured free mirror; a fallback for the
-  rule-text pull when the official site is gated.
+- **opinions.arcourts.gov/ark/cr/en/** — the official Arkansas Judiciary
+  Court Rules database (Lexum); each rule set is one PDF document at
+  `/ark/cr/en/<docid>/1/document.do`. The verbatim rule-text source.
 
 ## Pull-script targets (for `pull_arkansas_rules.py` /
 ## `pull_arkansas_statutes.py`)
 
 - **Rules** → `court-rules/`: ARCP, Ark. R. Evid., Arkansas District
   Court Rules, Ark. Sup. Ct. & Ct. App. Rules, Administrative Orders
-  (esp. **No. 10**, **No. 19**, **No. 21**). Source: arcourts.gov
-  (fallback courtrules.net).
+  (esp. **No. 10**, **No. 19**, **No. 21**). Source: the official
+  opinions.arcourts.gov Court Rules PDFs (pdftotext).
 - **Statutes** → `ar-statutes-debt/`: the civil + family + consumer
   surface of the **Arkansas Code Annotated** — see
   `ar-statutes-debt/README.md` for the full target table. Source:

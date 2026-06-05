@@ -21,8 +21,8 @@
   Arkansas District Court Rules, Administrative Orders), forms, and
   the rules of the Supreme Court and Court of Appeals (incl. Rule
   5-2 citation).
-- **Court rules free mirror** — `https://www.courtrules.net/` (a
-  structured free aggregator of state court rules).
+- **Official court rules** — `https://opinions.arcourts.gov/ark/cr/en/`
+  (the Arkansas Judiciary Court Rules database; verbatim rule-set PDFs).
 
 ## Arkansas regulators
 

@@ -6,14 +6,12 @@ that the `ar-court-docs` skills point at; the summaries in
 `../civil-rules.md` and `../evidence-rules.md` describe these rules but
 the **verbatim text here governs**.
 
-> **Current status: curated summaries (not yet verbatim).** This
-> directory ships **curated, citation-rich structural summaries** of
-> each rule set — every file is clearly labeled "CURATED SUMMARY — NOT
-> VERBATIM" and points at the canonical **arcourts.gov** text. They were
-> authored offline because the verbatim puller needs network access.
-> Running `pull_arkansas_rules.py` from a networked environment replaces
-> them with verbatim text (the `_file_is_stub` guard preserves the
-> curated content until a successful pull supersedes it).
+> **Current status: VERBATIM.** This directory holds the **full verbatim
+> text** of each rule set, extracted (`pdftotext -layout`) from the
+> official Arkansas Judiciary Court Rules PDFs at
+> `opinions.arcourts.gov/ark/cr/en/`. Each file's header records the
+> source document URL and the rule count. Re-run `pull_arkansas_rules.py`
+> (needs `pdftotext`/poppler) to refresh.
 
 ## Scope — what gets pulled here
 
@@ -37,21 +35,24 @@ the **verbatim text here governs**.
 
 The **bare rule text is a public-domain edict** of the Arkansas
 Supreme Court; only commercial annotated compilations (LexisNexis) are
-copyrighted, and only as to the annotations. The canonical publisher is
-**arcourts.gov**. **courtrules.net** is a structured free mirror used
-as a fallback when the official site is gated (the same pattern other
-state pullers use).
+copyrighted, and only as to the annotations. The Arkansas Judiciary
+publishes the full text of each rule set as a PDF on its official
+Lexum-powered Court Rules database at **opinions.arcourts.gov/ark/cr/en/**
+(linked from arcourts.gov) — each rule set is one document at
+`/ark/cr/en/<docid>/1/document.do`.
 
 ## How to re-pull
 
-Author / run `scripts/pull_arkansas_rules.py`, which fetches the rule
-sets and Administrative Orders from **arcourts.gov** (fallback:
-courtrules.net), converts to Markdown (one file per rule set), and
-writes atomically. Wire it into the quarterly `refresh-references`
-workflow under `target=ar`. Expected invocation:
+Run `scripts/pull_arkansas_rules.py`, which discovers the current
+document id for each rule set by title from the collection's browse
+listing, downloads the PDF, extracts text with `pdftotext -layout`
+(poppler), splits it on `Rule N.` headings, and writes one Markdown file
+per rule set atomically. Needs `pdftotext` (poppler-utils). Wire it into
+the quarterly `refresh-references` workflow under `target=ar`. Expected
+invocation:
 
 ```bash
-python3 scripts/pull_arkansas_rules.py --workers 2 \
+python3 scripts/pull_arkansas_rules.py \
   --out plugins/ar-court-docs/skills/ar-law-references/references/court-rules
 ```
 

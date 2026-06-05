@@ -1,93 +1,187 @@
-# Ark. Code Ann. Title 9, Chapter 12 — Divorce and Annulment
+# Ark. Code Ann. Title 9, Chapter 12 — Divorce and annulment — grounds (§ 9-12-301), property (§ 9-12-315), alimony (§ 9-12-312)
 
-> **CURATED SUMMARY — NOT VERBATIM STATUTORY TEXT.** This is a structured,
-> citation-rich digest for drafting use. The official section text (public
-> domain) is at https://law.justia.com/codes/arkansas/title-9/ (walk to
-> Chapter 12). A future run of `scripts/pull_arkansas_statutes.py` will
-> supersede this file with verbatim text.
->
-> **NOT LEGAL ADVICE.** Verify every section against the current Ark. Code
-> Ann. before filing.
+> **Source:** https://law.justia.com/codes/arkansas/title-9/
+> **Fetched:** 2026-06-05
+> **Format:** verbatim conversion of the Justia HTML mirror at
+> `law.justia.com/codes/arkansas/`
 
-## Scope
+> **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
+> against the current Ark. Code Ann. before filing.
 
-Chapter 12 governs **divorce (absolute and from bed and board), annulment,
-property division, alimony, and the procedural machinery** of a dissolution
-action. Arkansas divorce is heard in the **Domestic Relations Division of
-Circuit Court**; parties are styled **Plaintiff** and **Defendant**.
+---
 
-## Grounds, corroboration, residency, and waiting period
+## Section 9-12-101 - Subsequent marriage before dissolution of prior marriage prohibited
 
-- **§ 9-12-301 — Grounds for divorce.** Arkansas requires statutory **grounds**
-  even for "no-fault." The **no-fault ground is voluntary continuous separation
-  for eighteen (18) months** without cohabitation (verify the month count
-  against current text). The **fault grounds** include **general indignities**
-  (the most commonly pleaded fault ground), adultery, habitual drunkenness,
-  cruel and barbarous treatment endangering life, indignities rendering life
-  intolerable, felony conviction, and willful nonsupport, among others.
-- **Corroboration requirement (Arkansas-distinctive).** Arkansas case law and
-  practice under Chapter 12 require **corroboration of the grounds** for divorce
-  and **of residence** — a third-party witness — in contested cases and in most
-  uncontested cases (the requirement is relaxed where collusion is not a
-  concern, but corroboration of residence is generally still needed). This is a
-  notable Arkansas distinctive; describe qualitatively and plead a corroborating
-  witness.
-- **§ 9-12-307 — Residency / venue.** Establishes the durational residence
-  requirement: residence in Arkansas for a period **before commencing** the
-  action and a further period **before entry of the final decree** (commonly
-  stated as 60 days' residence before filing / 3 months before the decree —
-  verify both day/month counts against current text), and the venue county.
-- **Statutory waiting period.** A decree of absolute divorce is generally not
-  entered until after a minimum waiting period from filing (commonly stated as
-  30 days — verify against current text).
+No subsequent or second marriage shall be contracted by any person during the lifetime of any former husband or wife of the person unless the marriage with the former husband or wife has been dissolved for some one (1) of the causes set forth in the law concerning divorces by a court of competent authority.
 
-## Annulment and separation
+Rev. Stat., ch. 94, § 6; C. & M. Dig., § 7042; Pope's Dig., § 9022; A.S.A. 1947, § 55-108
 
-- **§ 9-12-201 / -202 — Annulment (in this chapter's annulment provisions).**
-  Grounds for declaring a marriage void or voidable (incapacity, fraud,
-  prohibited degree, prior subsisting marriage). Cite the specific annulment
-  section that applies; describe grounds qualitatively.
-- **Divorce from bed and board (limited divorce / legal separation).** Chapter 12
-  preserves a limited-divorce remedy distinct from absolute divorce.
+## Section 9-12-201 - Grounds
 
-## Property division — equitable distribution (§ 9-12-315)
+When either of the parties to a marriage is incapable from want of age or understanding of consenting to any marriage, or is incapable of entering into the marriage state due to physical causes, or when the consent of either party shall have been obtained by force or fraud, the marriage shall be void from the time its nullity shall be declared by a court of competent jurisdiction.
 
-- **§ 9-12-315 — Division of property.** Arkansas is an **equitable-distribution**
-  state (NOT community property). **Marital property is presumptively divided
-  one-half (½) to each party.** The court **may make an unequal division** only
-  if it finds an equal split would be **inequitable**, in which case it must
-  state its reasons by reference to the statutory factors (length of marriage;
-  age, health, station; occupation; amount and sources of income; vocational
-  skills; employability; estate, liabilities, and needs; contributions to
-  acquisition; federal tax consequences — verify the enumerated factor list
-  against current text). **Non-marital (separate) property is returned to the
-  party who owns it.** The section also defines what is and is not "marital
-  property" (e.g., gifts, inheritances, and pre-marriage property are generally
-  separate).
+Rev. Stat., ch. 94, § 5; C. & M. Dig., § 7041; Pope's Dig., § 9021; A.S.A. 1947, § 55-106
 
-## Alimony / spousal support (§ 9-12-312)
+## Section 9-12-202 - Proceedings for annulment to be in equity - Venue
 
-- **§ 9-12-312 — Alimony / support and maintenance.** Alimony is **discretionary**
-  — Arkansas has **no fixed alimony formula**. The court weighs the parties'
-  financial circumstances and need/ability to pay, and may award rehabilitative
-  or longer-term support, modifiable on changed circumstances. This section also
-  contains key child-support enforcement and income-withholding hooks; the
-  governing child-support **guideline is Administrative Order No. 10** (income
-  shares; see `Ark-Code-T9-Ch27.md`).
+(a) The action shall be by equitable proceedings in the county where the complainant or complainants reside. (b) The process may be directed in the first instance to any county in the state where the defendant may then reside or be found.
 
-## Procedure and ancillary relief
+Pope's Dig., § 9021A, as added by Acts 1947, No. 168, § 1; A.S.A. 1947, § 55-107
 
-- **§ 9-12-313 — Custody, support, and visitation in the divorce action.**
-  Authorizes the court to make custody, support, and visitation orders;
-  custody best-interest mechanics live in **Chapter 13** (`Ark-Code-T9-Ch13.md`).
-- **§ 9-12-314 — Continuing jurisdiction to modify** support/maintenance on a
-  showing of changed circumstances.
-- **Attorney's fees / costs** in domestic-relations actions are discretionary
-  with the court.
+## Section 9-12-301 - Grounds for divorce
 
-> **Distinctive Arkansas provisions:** (1) the **18-month continuous-separation
-> no-fault ground** sitting alongside fault grounds in § 9-12-301; (2) the
-> **corroboration-of-grounds and corroboration-of-residence** requirement that
-> survives in Arkansas divorce practice; (3) the **one-half presumption** in
-> equitable distribution under § 9-12-315 (unequal division requires written
-> findings); (4) **discretionary, formula-free alimony** under § 9-12-312.
+(a) A plaintiff who seeks to dissolve and set aside a covenant marriage shall state in his or her petition for divorce that he or she is seeking to dissolve a covenant marriage as authorized under the Covenant Marriage Act of 2001, § 9-11-801 et seq. (b) The circuit court shall have power to dissolve and set aside a marriage contract, not only from bed and board, but from the bonds of matrimony, for the following causes: (1) When either party, at the time of the contract, was and still is impotent; (2) When either party shall be convicted of a felony or other infamous crime; (3) When either party shall: (A) Be addicted to habitual drunkenness for one (1) year; (B) Be guilty of such cruel and barbarous treatment as to endanger the life of the other; or (C) Offer such indignities to the person of the other as shall render his or her condition intolerable; (4) When either party shall have committed adultery subsequent to the marriage; (5) When husband and wife have lived separate and apart from each other for eighteen (18) continuous months without cohabitation, the court shall grant an absolute decree of divorce at the suit of either party, whether the separation was the voluntary act of one (1) party or by the mutual consent of both parties or due to the fault of either party or both parties; (6) (A) In all cases in which a husband and wife have lived separate and apart for three (3) consecutive years without cohabitation by reason of the incurable insanity of one (1) of them, the court shall grant a decree of absolute divorce upon the petition of the sane spouse if the proof shows that the insane spouse has been committed to an institution for the care and treatment of the insane for three (3) or more years prior to the filing of the suit, has been adjudged to be of unsound mind by a court of competent jurisdiction, and has not been discharged from such adjudication by the court and the proof of insanity is supported by the evidence of two (2) reputable physicians familiar with the mental condition of the spouse, one (1) of whom shall be a regularly practicing physician in the community wherein the spouse resided, and when the insane spouse has been confined in an institution for the care and treatment of the insane, that the proof in the case is supported by the evidence of the superintendent or one (1) of the physicians of the institution wherein the insane spouse has been confined. (B) (i) In all decrees granted under this subdivision (b)(6), the court shall require the plaintiff to provide for the care and maintenance of the insane defendant so long as he or she may live. (ii) The trial court will retain jurisdiction of the parties and the cause from term to term for the purpose of making such further orders as equity may require to enforce the provisions of the decree requiring the plaintiff to furnish funds for such care and maintenance. (C) (i) Service of process upon an insane spouse shall be had by service of process upon the duly appointed, qualified, and acting guardian of the insane spouse or upon a duly appointed guardian ad litem for the insane spouse, and when the insane spouse is confined in an institution for the care of the insane, upon the superintendent or physician in charge of the institution wherein the insane spouse is at the time confined. (ii) However, when the insane spouse is not confined in an institution, service of process upon the duly appointed, qualified, and acting guardian of the insane spouse or duly appointed guardian ad litem and thereafter personal service or constructive service on an insane defendant by publication of warning order for four (4) weeks shall be sufficient; and (7) When either spouse legally obligated to support the other, and having the ability to provide the other with the common necessaries of life, willfully fails to do so.
+
+Civil Code, § 464; Acts 1873, No. 88, § 1[464], p. 213; C. & M. Dig., § 3500; Acts 1937, No. 167, § 1; Pope's Dig., § 4381; Acts 1939, No. 20, §§ 1, 2; 1943, No. 428, § 1; 1947, No. 159, § 1; 1953, No. 161, § 1; 1953, No. 348, § 2; 1963, No. 74, § 1; 1981, No. 633, § 5; 1985, No. 360, § 1; A.S.A. 1947, § 34-1202; Acts 1991, No. 131, §§ 1, 2; 2005, No. 1890, § 1
+
+## Section 9-12-302 - Equitable proceedings
+
+The action for alimony or divorce shall be by equitable proceedings.
+
+Civil Code, § 456; C. & M. Dig., § 3499; Pope's Dig., § 4380; A.S.A. 1947, § 34-1201
+
+## Section 9-12-303 - Venue - Service of process
+
+(a) The proceedings shall be in the county where the complainant resides unless the complainant is a nonresident of the State of Arkansas and the defendant is a resident of the state, in which case the proceedings shall be in the county where the defendant resides and, in any event, the process may be directed to any county in the state. (b) In actions initiated by the Office of Child Support Enforcement of the Revenue Division of the Department of Finance and Administration or the Department of Human Services, proceedings may also be commenced in the county where the defendant resides. (c) When a spouse initiates an action against the other spouse for an absolute divorce, divorce from bed and board, or separate maintenance, then the venue for the initial action shall also be the venue for any of the three (3) named actions filed by the other spouse, regardless of the residency of the other spouse.
+
+Rev. Stat., ch. 51, § 5; C. & M. Dig., § 3502; Pope's Dig., § 4383; Acts 1963, No. 190, § 1; 1979, No. 799, § 1; A.S.A. 1947, § 34-1204; Acts 1987, No. 12, § 1; 1995, No. 1184, § 4
+
+## Section 9-12-304 - Pleadings - Interrogatories
+
+(a) The pleadings are not required to be verified by affidavit. (b) However, either party may file interrogatories to the other in regard to any matter of property involved in the action that shall be answered on oath as interrogatories in other actions and have the same effect.
+
+Civil Code, § 457; C. & M. Dig., § 3503; Pope's Dig., § 4384; A.S.A. 1947, § 34-1205
+
+## Section 9-12-305 - No judgment pro confesso
+
+The statements of the complaint for a divorce shall not be taken as true because of the defendant's failure to answer or admission of their truth on the part of the defendant.
+
+Civil Code, § 458; C. & M. Dig., § 3504; Pope's Dig., § 4385; A.S.A. 1947, § 34-1207
+
+## Section 9-12-306 - Corroboration
+
+(a) In uncontested divorce suits, corroboration of the plaintiff's grounds for divorce shall not be necessary or required. (b) In contested suits, corroboration of the injured party's grounds may be expressly waived in writing by the other spouse. (c) (1) This section does not apply to proof as to residence, which must be corroborated, and does not apply to proof of separation and continuity of separation without cohabitation, which must be corroborated. (2) In uncontested cases, proof as to residence and proof of separation and continuity of separation without cohabitation may be corroborated by either oral testimony or verified affidavit of persons other than the parties.
+
+Acts 1969, No. 398, § 1; 1981, No. 267, § 1; 1985, No. 474, § 1; A.S.A. 1947, § 34-1207.1
+
+## Section 9-12-307 - Matters that must be proved - Definition
+
+(a) To obtain a divorce, the plaintiff must prove, but need not allege, in addition to a legal cause of divorce: (1) (A) A residence in the state by either the plaintiff or defendant for sixty (60) days next before the commencement of the action and a residence in the state for three (3) full months before the final judgment granting the decree of divorce. (B) No decree of divorce, however, shall be granted until at least thirty (30) days have elapsed from the date of the filing of the complaint. (C) When personal service cannot be had upon the defendant or when the defendant fails to enter his or her appearance in the action, no decree of divorce shall be granted the plaintiff until the plaintiff has maintained an actual residence in the State of Arkansas for a period of not less than three (3) full months; (2) That the cause of action and cause of divorce occurred or existed in this state or, if out of the state, that it was a legal cause of divorce in this state, the laws of this state to govern exclusively and independently of the laws of any other state as to the cause of divorce; and (3) That the cause of divorce occurred or existed within five (5) years next before the commencement of the suit. (b) "Residence" as used in subsection (a) of this section is defined to mean actual presence, and upon proof of that the party alleging and offering the proof shall be considered domiciled in the state, and this is declared to be the legislative intent and public policy of the State of Arkansas.
+
+Civil Code, § 459; C. & M. Dig., § 3505; Acts 1931, No. 71, p. 201; Pope's Dig., § 4386; Acts 1957, No. 36; 1961, No. 146; A.S.A. 1947, §§ 34-1208, 34-1208.1; Acts 1993, No. 418, § 1; 1999, No. 97, § 1
+
+## Section 9-12-308 - Effect of collusion, consent, or equal guilt of parties
+
+If it appears to the court that the adultery or other offense complained of has been occasioned by the collusion of the parties or done with an intent to procure a divorce, that the complainant was consenting thereto, or that both parties have been guilty of the adultery or other offense or injury complained of in the complaint, then no divorce shall be granted or decreed.
+
+Rev. Stat., ch. 51, § 8; C. & M. Dig., § 3507; Pope's Dig., § 4389; A.S.A. 1947, § 34-1209
+
+## Section 9-12-309 - Maintenance and attorney's fees - Interest
+
+(a) (1) During the pendency of an action for divorce, whether absolute or from bed and board, separate maintenance, or alimony, the court may: (A) (i) Allow to the wife or to the husband maintenance; (ii) Allow a reasonable fee for his or her attorneys; and (iii) Allow expert witness fees; and (B) Enforce the payment of the allowance by orders and executions and proceedings as in cases of contempt. (2) In the final decree of an action for absolute divorce, the court may award the wife or husband costs of court, a reasonable attorney's fee, and expert witness fees. (3) The court may immediately reduce the sums so ordered to judgment and allow the party to execute upon the marital property for the payment of the allowance, except that the homestead shall not be executed upon for the payment of the sums so ordered. (b) The court may allow either party additional attorney's fees for the enforcement of alimony, maintenance, and support provided for in the decree. (c) All child support that becomes due and remains unpaid shall accrue interest at the rate of ten percent (10%) per annum. (d) The court shall award a minimum of ten percent (10%) of the support amount due as attorney's fees in actions for the enforcement of payment of alimony, maintenance, and support provided for in the decree, judgment, or order. (e) Collection of interest and attorney's fees may be by executions, proceedings of contempt, or other remedies as may be available to collect the original support award.
+
+Civil Code, § 460; C. & M. Dig., § 3506; Pope's Dig., § 4388; Acts 1941, No. 25, § 1; 1945, No. 274, § 1; 1979, No. 705, § 2; 1983, No. 161, § 1; A.S.A. 1947, § 34-1210; Acts 1987, No. 813, § 1; 2001, No. 207, § 1
+
+## Section 9-12-310 - Waiting period before rendition of decree
+
+Unless the parties shall have lived separate and apart from each other for a period of twelve (12) months next before the filing of the complaint or unless the defendant is constructively summoned by publication of warning order, no decree of absolute divorce or of divorce from bed and board shall be rendered in any action brought on any grounds except bigamy before the thirtieth day following the day upon which the action for divorce is commenced. This prohibition is not subject to waiver by either or both parties to the action for divorce. However, the parties may agree that the case may be submitted in vacation.
+
+Acts 1953, No. 348, § 1; A.S.A. 1947, § 34-1218
+
+## Section 9-12-311 - Legitimacy of children not affected
+
+The injured party may apply for a decree of divorce, but no divorce shall affect the legitimacy of the children born previously to entering the decree in the case.
+
+Rev. Stat., ch. 51, § 2; C. & M. Dig., § 3501; Pope's Dig., § 4382; A.S.A. 1947, § 34-1203
+
+## Section 9-12-312 - Alimony - Child support - Bond - Method of payment - Definition
+
+(a) (1) When a decree is entered, the court shall make an order concerning the care of the children, if there are any, and an order concerning alimony, if applicable, as are reasonable from the circumstances of the parties and the nature of the case. (2) Unless otherwise ordered by the court or agreed to by the parties, the liability for alimony shall automatically cease upon the earlier of: (A) The date of the remarriage of the person who was awarded the alimony; (B) The establishment of a relationship that produces a child or children and results in a court order directing another person to pay support to the recipient of alimony, which circumstances shall be considered the equivalent of remarriage; (C) The establishment of a relationship that produces a child or children and results in a court order directing the recipient of alimony to provide support of another person who is not a descendant by birth or adoption of the payor of the alimony, which circumstances shall be considered the equivalent of remarriage; (D) The living full time with another person in an intimate, cohabitating relationship; (E) The death of either party; or (F) Any other contingencies as set forth in the order awarding alimony. (3) (A) In determining a reasonable amount of child support, initially or upon review to be paid by the noncustodial parent, the court shall refer to the most recent revision of the family support chart. (B) (i) The incarceration of a parent shall not be treated as voluntary unemployment for the purpose of establishing or modifying an award of child support. (ii) As used in subdivision (a)(3)(B)(i) of this section, "incarceration" means a conviction that results in a sentence of confinement to a local jail, state or federal correctional facility, or state psychiatric hospital for at least one hundred eighty (180) days excluding credit for time served before sentencing. (C) It shall be a rebuttable presumption for the award of child support that the amount contained in the family support chart is the correct amount of child support to be awarded. (D) Only upon a written finding or specific finding on the record that the application of the child support chart would be unjust or inappropriate, as determined under established criteria set forth in the family support chart, shall the presumption be rebutted. (4) (A) (i) The family support chart shall be reviewed and revised, if appropriate, at least one (1) time every four (4) years by a committee to be appointed by the Chief Justice of the Supreme Court to ensure that the support amounts are appropriate for child support awards. (ii) The members of the committee shall include: (a) One (1) or more members of the General Assembly; (b) One (1) or more judges of the Court of Appeals; (c) One (1) or more judges of a circuit court; (d) The Administrator of the Office of Child Support Enforcement of the Revenue Division of the Department of Finance and Administration or his or her designee; (e) An employee of an organization that provides legal services to low-income individuals; and (f) One (1) or more attorneys who are licensed to practice law in the State of Arkansas. (iii) The Supreme Court shall publish the following on a public website: (a) The names of each member of the committee; (b) The reports of the committee; (c) The effective date of the family support chart; and (d) The anticipated date on which the committee will next review the family support chart. (iv) The committee shall: (a) Establish the criteria for deviation from use of the chart amount; and (b) Consider: (1) Economic data on the cost of raising children; (2) Labor market data; (3) How the amounts listed in the family support chart impact a parent who has a family income below two hundred percent (200%) of the federal poverty level; (4) Factors that influence employment rates and payment compliance rates among noncustodial parents; and (5) Case data and payment compliance rates based on whether there was a deviation from the family support chart, default order, imputed income, or low income adjustment. (B) (i) The committee shall revise the family support chart to be based on payor income and recipient income and no longer rely on the payor-income-based family support chart. (ii) The committee shall revise the family support chart as required under subdivision (a)(4)(B)(i) of this section on or before March 1, 2020. (5) The Supreme Court shall: (A) Approve the family support chart and criteria after revision by the committee for use in this state; and (B) Publish the family support chart and criteria through per curiam order of the court on a public website. (6) (A) The court may provide for the payment of child support beyond the eighteenth birthday of the child to address the educational needs of a child whose eighteenth birthday falls before graduation from high school so long as such child support is conditional on the child's remaining in school. (B) The court also may provide for the continuation of support for an individual with a disability that affects the ability of the individual to live independently from the custodial parent. (7) Both a person paying alimony and a person receiving alimony are entitled to petition the court for a review, modification, or both of the court's alimony order at any time based upon a significant and material change of circumstances. (b) (1) Alimony may be awarded under proper circumstances concerning rehabilitation to either party in fixed installments for a specified period of time so that the payments qualify as periodic payments within the meaning of the Internal Revenue Code. (2) When a request for rehabilitative alimony is made to the court, the payor may request or the court may require the recipient to provide a plan of rehabilitation for the court to consider in determining: (A) Whether or not the plan is feasible; and (B) The amount and duration of the award. (3) If the recipient fails to meet the requirements of the rehabilitative plan, the payor may petition the court for a review to determine if rehabilitative alimony shall continue or be modified. (4) A person paying alimony is entitled to petition the court for a review, modification, or both of the court's alimony order at any time based upon a significant and material change of circumstances. (c) (1) When the order provides for payment of money for the support and care of any children, the court, in its discretion, may require the person ordered to make the payments to furnish and file with the clerk of the court a bond or post security or give some other guarantee such as life insurance in an amount and with such sureties as the court shall direct. (2) The bond, security, or guarantee is to be conditioned on compliance with that part of the order of the court concerning the support and care of the children. (3) If action is taken due to a delinquency under the order, proper advance notice to the noncustodial parent shall be given. (d) (1) All orders requiring payments of money for the support and care of any children shall direct the payments to be made through the registry of the court unless the court in its discretion determines that it would be in the best interest of the parties to direct otherwise. (2) However, in all cases brought under Title IV-D of the Social Security Act or in which the income of the noncustodial parent is subject to withholding, the court shall order that all payments be made through the Arkansas Child Support Clearinghouse in accordance with § 9-14-801 et seq. (e) (1) (A) Except as set forth in subdivision (e)(5) of this section, all orders directing payments through the registry of the court or through the Arkansas Child Support Clearinghouse shall set forth a fee to be paid by the noncustodial parent or obligated spouse in the amount of thirty-six dollars ($36.00) per year. (B) The fee shall be collected from the noncustodial parent or obligated spouse at the time of the first support payment and during the anniversary month of the entry of the order each year thereafter, or nine dollars ($9.00) per quarter at the option of the obligated parent, until no children remain minor and the support obligation is extinguished and any arrears are completely liquidated. (2) The clerk, upon direction from the court and as an alternative to collecting the annual fee during the anniversary month each year after entry of the order, may prorate the first fee collected at the time of the first payment of support under the order to the number of months remaining in the calendar year and thereafter collect all fees as provided in this subsection during the month of January of each year. (3) (A) Payments made for this fee shall be made annually in the form of a check or money order payable to the clerk of the court or other legal tender that the clerk may accept. (B) This fee payment shall be separate and apart from the support payment, and under no circumstances shall the support payment be reduced to fulfill the payment of this fee. (4) Upon the nonpayment of the annual fee by the noncustodial parent within ninety (90) days, the clerk may notify the payor under the order of income withholding for child support who shall withhold the fee in addition to any support and remit it to the clerk. (5) In counties where an annual fee is collected and the court grants at least two thousand five hundred (2,500) divorces each year, the court may require that the initial annual fee be paid by the noncustodial parent or obligated spouse before the filing of the order. (6) (A) All moneys collected by the clerk as a fee as provided in this subsection shall be used by the clerk's office to offset administrative costs as a result of this subchapter. (B) At least twenty percent (20%) of the moneys collected annually shall be used to purchase, maintain, and operate an automated data system for use in administering the requirements of this subchapter. (C) The acquisition and update of software for the automated data system shall be a permitted use of these funds. (D) All fees collected under this subsection shall be paid into the county treasury to the credit of the fund to be known as the "support collection costs fund". (E) Moneys deposited into this fund shall be appropriated and expended for the uses designated in this subdivision (e)(6) by the quorum court at the direction of the clerk of the court. (f) (1) The clerk of the court shall maintain accurate records of all child support orders and payments made under this section and shall post to individual child support account ledgers maintained in the clerk's office all payments received directly by the Office of Child Support Enforcement of the Revenue Division of the Department of Finance and Administration and reported to the clerk by the Office of Child Support Enforcement. (2) The Office of Child Support Enforcement shall provide the clerk with sufficient information to identify the custodial and noncustodial parents, a docket number, and the amount and date of payment. (3) The clerk shall keep on file information provided by the Office of Child Support Enforcement for audit purposes. (g) The clerk may accept the support payment in any form of cash or commercial paper, including personal check, and may require that the custodial parent or nonobligated spouse be named as payee thereon.
+
+Amended by Act 2019, No. 904,§ 2, eff. 1/1/2020.
+
+Amended by Act 2019, No. 904,§ 1, eff. 1/1/2020.
+
+Amended by Act 2019, No. 907,§ 1, eff. 7/24/2019.
+
+Amended by Act 2013, No. 1487,§ 1, eff. 8/16/2013
+
+Rev. Stat., ch. 51, § 9; C. & M. Dig., § 3508; Pope's Dig., § 4390; Acts 1951, No. 56, § 1; 1979, No. 705, § 3; 1981, No. 657, § 1; 1985, No. 989, § 1; 1986 (2nd Ex. Sess.), No. 12, § 1; A.S.A. 1947, § 34-1211; Acts 1987, No. 599, § 1; 1989, No. 100, § 1; 1989, No. 948, § 2; 1989 (3rd Ex. Sess.), No. 54, § 2; 1991, No. 1008, § 2; 1991, No. 1098, § 2; 1991, No. 1102, § 2; 1993, No. 1242, §§ 5, 9; 1995, No. 1184, § 5; 1995, No. 1353, § 1; 1997, No. 208, § 7; 1997, No. 1273, § 1; 1997, No. 1296, § 10; 1999, No. 1514, § 3
+
+## Section 9-12-313 - Enforcement of separation agreements and decrees of court
+
+Courts of equity may enforce the performance of written agreements between husband and wife made and entered into in contemplation of either separation or divorce and decrees or orders for alimony and maintenance by sequestration of the property of either party, or that of his or her sureties, or by such other lawful ways and means, including equitable garnishments or contempt proceedings, as are in conformity with rules and practices of courts of equity.
+
+Rev. Stat., ch. 51, § 11; C. & M. Dig., § 3509; Pope's Dig., § 4391; Acts 1941, No. 290, § 1; 1979, No. 705, § 4; A.S.A. 1947, § 34-1212
+
+## Section 9-12-314 - Modification of allowance for alimony and maintenance - Child support
+
+(a) The court, upon application of either party, may make such alterations from time to time, as to the allowance of alimony and maintenance as may be proper and may order any reasonable sum to be paid for the support of the wife or the husband during the pending of a complaint for a divorce. (b) Any decree, judgment, or order that contains a provision for the payment of money for the support and care of any child or children through the registry of the court or through the Arkansas Child Support Clearinghouse shall be final judgment as to any installment or payment of money that has accrued until the time either party moves through proper motion filed with the court and served on the other party to set aside, alter, or modify the decree, judgment, or order. (c) The court may not set aside, alter, or modify any decree, judgment, or order that has accrued unpaid support prior to the filing of the motion. However, the court may offset against future support to be paid those amounts accruing during time periods other than reasonable visitation in which the noncustodial parent had physical custody of the child with the knowledge and consent of the custodial parent. (d) Nothing in this section shall be construed to limit the jurisdiction of the court to proceed to enforce a decree, judgment, or order for the support of a minor child or children through contempt proceedings when the arrearage is reduced to judgment under subsection (b) of this section.
+
+Rev. Stat., ch. 51, § 12; C. & M. Dig., § 3510; Pope's Dig., § 4392; Acts 1979, No. 705, § 5; A.S.A. 1947, § 34-1213; Acts 1987, No. 1057, § 1; 1997, No. 1296, § 11
+
+## Section 9-12-315 - Division of property - Definition
+
+(a) At the time a divorce decree is entered: (1) (A) All marital property shall be distributed one-half (1/2) to each party unless the court finds such a division to be inequitable. In that event the court shall make some other division that the court deems equitable taking into consideration: (i) The length of the marriage; (ii) Age, health, and station in life of the parties; (iii) Occupation of the parties; (iv) Amount and sources of income; (v) Vocational skills; (vi) Employability; (vii) Estate, liabilities, and needs of each party and opportunity of each for further acquisition of capital assets and income; (viii) Contribution of each party in acquisition, preservation, or appreciation of marital property, including services as a homemaker; and (ix) The federal income tax consequences of the court's division of property. (B) When property is divided pursuant to the foregoing considerations the court must state its basis and reasons for not dividing the marital property equally between the parties, and the basis and reasons should be recited in the order entered in the matter; (2) All other property shall be returned to the party who owned it prior to the marriage unless the court shall make some other division that the court deems equitable taking into consideration those factors enumerated in subdivision (a)(1) of this section, in which event the court must state in writing its basis and reasons for not returning the property to the party who owned it at the time of the marriage; (3) (A) Every such final order or judgment shall designate the specific real and personal property to which each party is entitled. (B) When it appears from the evidence in the case to the satisfaction of the court that the real estate is not susceptible of the division as provided for in this section without great prejudice to the parties interested, the court shall order a sale of the real estate. The sale shall be made by a commissioner to be appointed by the court for that purpose at public auction to the highest bidder upon the terms and conditions and at the time and place fixed by the court. The proceeds of every such sale, after deducting the cost and expenses of the sale, including the fee allowed the commissioner by the court for his or her services, shall be paid into the court and by the court divided among the parties in proportion to their respective rights in the premises. (C) The proceedings for enforcing these orders may be by petition of either party specifying the property the other has failed to restore or deliver, upon which the court may proceed to hear and determine the same in a summary manner after ten (10) days' notice to the opposite party. Such order, judgment, or decree shall be a bar to all claims of dower or curtesy in and to any of the lands or personalty then owned or thereafter acquired by either party; and (4) When stocks, bonds, or other securities issued by a corporation, association, or government entity make up part of the marital property, the court shall designate in its final order or judgment the specific property in securities to which each party is entitled, or after determining the fair market value of the securities, may order and adjudge that the securities be distributed to one (1) party on condition that one-half (1/2) the fair market value of the securities in money or other property be set aside and distributed to the other party in lieu of division and distribution of the securities. (b) For the purpose of this section, "marital property" means all property acquired by either spouse subsequent to the marriage except: (1) Property acquired prior to marriage or by gift or by reason of the death of another, including, but not limited to, life insurance proceeds, payments made under a deferred compensation plan, or an individual retirement account, and property acquired by right of survivorship, by a trust distribution, by bequest or inheritance, or by a payable on death or a transfer on death arrangement; (2) Property acquired in exchange for property acquired prior to the marriage or in exchange for property acquired by gift, bequest, devise, or descent; (3) Property acquired by a spouse after a decree of divorce from bed and board; (4) Property excluded by valid agreement of the parties; (5) The increase in value of property acquired prior to marriage or by gift or by reason of the death of another, including, but not limited to, life insurance proceeds, payments made under a deferred compensation plan, or an individual retirement account, and property acquired by right of survivorship, by a trust distribution, by bequest or inheritance, or by a payable on death or a transfer on death arrangement, or in exchange therefor; (6) Benefits received or to be received from a workers' compensation claim, personal injury claim, or Social Security claim when those benefits are for any degree of permanent disability or future medical expenses; and (7) Income from property owned prior to the marriage or from property acquired by gift or by reason of the death of another, including, but not limited to, life insurance proceeds, payments made under a deferred compensation plan, or an individual retirement account, and property acquired by right of survivorship, by a trust distribution, by bequest or inheritance, or by a payable on death or a transfer on death arrangement, or in exchange therefor. (c) The court is not required to address the division of property at the time a divorce decree is entered if either party is involved in a bankruptcy proceeding.
+
+Civil Code, § 461; Acts 1891, No. 26, § 1, p. 27; 1893, No. 102, § 1, p. 176; C. & M. Dig., § 3511; Pope's Dig., § 4393; Acts 1953, No. 348, § 3; 1979, No. 705, § 1; 1981, No. 69, § 1; 1981, No. 714, § 2; 1981, No. 798, §§ 1, 2; 1981, No. 799, §§ 1, 2; 1983, No. 369, §§ 1, 2; A.S.A. 1947, § 34-1214; Acts 1987, No. 676, § 1; 1989, No. 366, § 1; 1991, No. 1167, § 1; 1993, No. 1067, § 1; 2001, No. 1671, § 1
+
+## Section 9-12-316 - Property settlements
+
+In any divorce suit in which a written property settlement involving real property is entered into by the parties and reference is made to the settlement in the divorce decree, a copy of that portion of the property settlement involving real property shall be filed and recorded with the divorce decree.
+
+Acts 1969, No. 398, § 2; A.S.A. 1947, § 34-1214.1
+
+## Section 9-12-317 - Dissolution of estates by the entirety or survivorship
+
+(a) Hereafter, when any circuit court in this state renders a final decree of divorce, any estate by the entirety or survivorship in real or personal property held by the parties to the divorce shall be automatically dissolved unless the court order specifically provides otherwise, and in the division and partition of the property, the parties shall be treated as tenants in common. (b) Notwithstanding subsection (a) of this section or any other law to the contrary, when one (1) of the parties to the estate by the entirety has been found guilty or has pleaded guilty or nolo contendere to a felony during the marriage and within three (3) years of filing the complaint for divorce and the other party to the divorce did not benefit from the felony, the circuit judge may award the property to the spouse who did not commit the felony or to both parties in any proportion deemed equitable by the circuit judge. (c) However, when a circuit court in this state renders an absolute divorce from the bonds of matrimony or a divorce from bed and board, and the court dissolves estates by the entirety or survivorship in real or personal property under this section, the court may distribute the property as provided in § 9-12-315 . The court shall set forth its reasons in writing in the decree for making an other than equal distribution to each party, when all the property is considered together, taking into account the factors enumerated in § 9-12-315(a)(1) .
+
+Acts 1947, No. 340, § 1; 1975, No. 457, § 1; A.S.A. 1947, § 34-1215; Acts 1991, No. 1160, § 1; 1997, No. 1119, § 1
+
+## Section 9-12-318 - Restoration of name
+
+In all cases when the court finds that either party is entitled to a divorce, the court may restore the wife to the name that she bore previous to the marriage dissolved.
+
+Civil Code, § 462; C. & M. Dig., § 3512; Pope's Dig., § 4394; Acts 1947, No. 16, § 1; 1981, No. 302, § 1; A.S.A. 1947, § 34-1216
+
+## Section 9-12-319 - Nonresident defendants - Warning orders - Entry of decree
+
+In all divorce actions pending or filed in any of the circuit courts of this state where a warning order has been published against the defendant, who is a nonresident of this state, for the time and in the manner fixed by law and proof of publication has been filed with the clerk of the circuit court, and where the report or response of the attorney ad litem appointed for the nonresident has been filed with the clerk of the court, and no answer or other defense has been filed in the circuit court by the nonresident defendant, the judge of the circuit court upon submission of the cause to him or her in his or her chambers, or at any other place in his or her district by the attorney for the plaintiff, shall hear and enter a decree in the cause that shall have the same binding force and effect, both in law and equity, as if entered in term time in the county where the decree is filed.
+
+Acts 1959, No. 39, § 1; A.S.A. 1947, § 34-1219
+
+## Section 9-12-320 - Proceedings subsequent to decree - Change of venue
+
+(a) (1) The court where the final decree of divorce is rendered shall retain jurisdiction for all matters following the entry of the decree. (2) (A) (i) Either party, or the court on its own motion, may petition the court that granted the final decree to request that the case be transferred to another county in which at least one (1) party resides if, more than six (6) months subsequent to the final decree: (a) Both of the parties to the divorce proceedings have established a residence in a county of another judicial district within the state; or (b) One (1) of the parties has moved to a county of another judicial district within the state and the other party has moved from the State of Arkansas. (ii) The decision to transfer a case is within the discretion of the court where the final decree of divorce was rendered. (B) The case shall not be transferred absent a showing that the best interest of the parties justifies the transfer. (C) In cases in which children are involved and a justification for transfer of the case has been made, there shall be an initial presumption for transfer of the case to the county of residence of the custodial parent. (D) Justification for transfer of a case may be based on the establishment of residence by both parties in a county or state other than the county where the final decree of divorce was rendered. (b) If the court that granted the final decree agrees to transfer the case to another judicial district, the court shall enter an order transferring the case and charging the circuit clerk of the court of original jurisdiction to transmit forthwith certified copies of all records pertaining to the case. (c) Subsequent to the transfer to a county in another judicial district, if the party residing in the county to which the case has been transferred removes from that county or from the State of Arkansas, the case shall be transferred back to the county of original jurisdiction or the county of residence of the party still residing in the State of Arkansas. (d) The provisions of this section shall not repeal any laws or parts of laws in effect on March 3, 1975, relating to venue for divorce actions, but shall be supplemental thereto.
+
+Acts 1975, No. 297, §§ 1, 2; A.S.A. 1947, §§ 34-1204.1, 34-1204.1n; Acts 1989, No. 184, § 1; 1999, No. 539, § 1; 1999, No. 1491, § 1; 2001, No. 1231, § 1
+
+## Section 9-12-321 - Annulment of decree of divorce
+
+The proceedings for annulling a final judgment for a divorce from the bond of matrimony shall be a joint petition of the parties, verified by both parties in person, filed in the court rendering the judgment, upon which the court may forthwith annul the divorce.
+
+Civil Code, § 463; C. & M. Dig., § 3513; Pope's Dig., § 4395; A.S.A. 1947, § 34-1217
+
+## Section 9-12-322 - Divorcing parents to attend parenting class
+
+(a) When the parties to a divorce action have minor children residing with one (1) or both parents, the court, prior to or after entering a decree of divorce, may require the parties to: (1) Complete at least two (2) hours of classes concerning parenting issues faced by divorced parents; or (2) Submit to mediation in regard to addressing parenting, custody, and visitation issues. (b) Each party shall be responsible for his or her cost of attending classes or mediation. (c) The parties may: (1) Choose a mediator from a list provided by the judge of those mediators who have met the Arkansas Alternative Dispute Resolution Commission's requirement guidelines for inclusion on a court-connected mediation roster; or (2) Select a mediator not on the roster, if approved by the judge. (d) A party may move to dispense with the referral to mediation for good cause shown.
+
+Acts 1999, No. 704, § 1; 2001, No. 198, § 1
+
+## Section 9-12-323 - Joint credit card accounts
+
+(a) (1) After a court has determined or approved a property settlement agreement establishing the party responsible for any joint credit card account debt in a divorce action maintained or being maintained in the courts of this state, the nonresponsible party may notify the issuer of the credit card of the court order by sending a written notice containing the account name and account number of the joint credit card accompanied by a certified copy of the court order and property settlement agreement, if any, by certified mail, return receipt requested to: (A) The address that the issuer has designated for making payments on the credit card account; or (B) The customer service address provided by the issuer. (2) On the date the notice is processed by the issuer of the credit card, not later than the fourth business day after receipt of the notice by the issuer, the nonresponsible party shall not be liable for any new charges on the credit card, other than charges made by the nonresponsible party, but shall remain liable for the balance due prior to the date the issuer processes the notice and all interest and late fees accrued or thereafter accruing on the balance. (b) (1) The issuer of the credit card shall: (A) Provide the nonresponsible party with written notification of the credit card account balance as of the date of processing the notice; (B) Remove the nonresponsible party as an authorized user of the credit card account; (C) Either cancel the credit card or suspend the effectiveness of the credit card for a period not exceeding thirty (30) days to allow the issuer to evaluate any request by the responsible party to continue the account as a separate credit card account of the responsible party; and (D) Apply all payment made after the date of processing the notice: (i) First to any fees assessed against the account; (ii) Next to the accrued interest; (iii) Next to the principal of the debt existing on the date of processing the notice; and (iv) Finally to the principal of any debt incurred after the date of the processing of the notice. (c) (1) This section does not prohibit the issuer of the credit card from issuing a new credit card to the responsible party. (2) If as a result of receiving the notice under this section, a new credit card is issued in the name of the responsible party, the issuer may: (A) Transfer the outstanding debt to the new credit card account for which the responsible party is solely responsible; or (B) Issue the new credit card with a zero dollar ($0.00) balance and allow no new charges on the original credit card account, and both parties who are the obligors on the original credit card account will remain responsible for paying the debt from the original account in accordance with the terms and conditions of the original credit card account until the balance is paid in full. (d) Proof that the nonresponsible party notified the issuer of the credit card in compliance with this section shall be an affirmative defense to any action to recover card debt resulting from any charge on the account after the date of processing of the notice.
+
+Acts 2003, No. 1477, § 1
+
+## Section 9-12-324 - Decree dissolving a covenant marriage
+
+In all divorce decrees that dissolve a covenant marriage created under the Covenant Marriage Act of 2001, § 9-11-801 et seq., the court shall enter a finding that the marriage being dissolved is a covenant marriage.
+
+Acts 2005, No. 1890, § 2
+
+## Section 9-12-325 - Condonation abolished
+
+(a) The defense of condonation to any action for absolute divorce or divorce from bed and board is abolished. (b) The abolition of the defense of condonation under this section shall not affect the application of § 9-12-308 .
+
+Acts 2005, No. 182, § 1

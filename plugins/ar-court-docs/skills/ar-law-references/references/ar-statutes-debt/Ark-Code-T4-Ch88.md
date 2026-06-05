@@ -1,97 +1,585 @@
-# Ark. Code Ann. Title 4, Chapter 88 — Arkansas Deceptive Trade Practices Act (ADTPA)
+# Ark. Code Ann. Title 4, Chapter 88 — Arkansas Deceptive Trade Practices Act (§ 4-88-101 et seq.)
 
-> **CURATED SUMMARY — NOT VERBATIM STATUTORY TEXT.** This is a structured,
-> citation-rich digest for drafting use. The official section text (public
-> domain) is at https://law.justia.com/codes/arkansas/title-4/ (walk to
-> Chapter 88). A future run of `scripts/pull_arkansas_statutes.py` will
-> supersede this file with verbatim text.
->
-> **NOT LEGAL ADVICE.** Verify every section against the current Ark. Code
-> Ann. before filing.
+> **Source:** https://law.justia.com/codes/arkansas/title-4/
+> **Fetched:** 2026-06-05
+> **Format:** verbatim conversion of the Justia HTML mirror at
+> `law.justia.com/codes/arkansas/`
 
-## Scope
+> **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
+> against the current Ark. Code Ann. before filing.
 
-Title 4, Chapter 88 is the **Arkansas Deceptive Trade Practices Act
-(ADTPA)** at § 4-88-101 et seq. — Arkansas's UDAP (unfair-and-deceptive-
-acts-and-practices) statute. It prohibits deceptive and unconscionable
-trade practices in business, commerce, and consumer transactions, vests
-broad enforcement authority in the **Attorney General**, and provides a
-**narrowed** private right of action after **Act 986 of 2017**. The ADTPA
-is the principal state-law overlay in consumer-debt and consumer-fraud
-matters (alongside the federal FDCPA in the federal references corpus).
-Section numbers run in the **§ 4-88-1NN** range.
+---
 
-## Prohibited conduct
+## Section 4-88-101 - Applicability of chapter
 
-- **§ 4-88-107 — Deceptive and unconscionable trade practices.** The core
-  prohibition. Enumerates specific deceptive acts (e.g., knowingly making
-  false representations as to characteristics, uses, benefits, or quantities
-  of goods/services; disparagement by false representation; advertising
-  with intent not to sell as advertised) **and** includes a catch-all
-  prohibition on **"engaging in any . . . unconscionable, false, or
-  deceptive act or practice in business, commerce, or trade."** (Verify the
-  precise list and catch-all wording.)
-- **§ 4-88-108 — Concealment, suppression, or omission** of a material fact
-  with intent that others rely, in connection with the sale or advertisement
-  of goods/services, is unlawful.
-- **§ 4-88-101 — Exemptions.** Lists transactions/entities exempt from the
-  ADTPA (e.g., conduct already subject to comprehensive regulation by
-  another agency; certain media; verify the current exemption catalog),
-  which can defeat an ADTPA count where the conduct is otherwise regulated.
+This chapter does not apply to: (1) Advertising or practices which are subject to and which comply with any rule, order, or statute administered by the Federal Trade Commission; (2) Broadcasters, printers, publishers, and other persons engaging in the dissemination of information who do not have actual knowledge of the intent, design, purpose, or deceptive nature of the advertising or practice; (3) Actions or transactions specifically permitted under laws administered by the Insurance Commissioner, the Securities Commissioner, the State Highway Commission, the Bank Commissioner, or other regulatory body or officer acting under statutory authority of this state or the United States, unless a director of these divisions specifically requests the Attorney General to implement the powers of this chapter; or (4) Actions or transactions of a public utility which have been authorized by the Arkansas Public Service Commission, a municipal authority, the Federal Energy Regulatory Commission, the Federal Communications Commission, or other regulatory body or officer acting under statutory authority of the United States.
 
-## Attorney General enforcement
+Amended by Act 2017, No. 986,§ 1, eff. 8/1/2017.
 
-- **§ 4-88-104 — Enforcement / rulemaking authority** vested in the Attorney
-  General.
-- **§ 4-88-105 / § 4-88-110 / § 4-88-111 — Investigative powers.** The AG may
-  investigate, issue investigative demands, and seek to enjoin violations.
-- **§ 4-88-113(a)–(e) — Public remedies.** In an AG enforcement action, the
-  court may grant **injunctive relief**, order **restitution / disgorgement**
-  to consumers, and impose **civil penalties** (a per-violation penalty —
-  verify the current amount; enhanced penalties for violations against the
-  **elderly/disabled**), plus costs and fees. The AG's enforcement authority
-  was **not** narrowed by Act 986 of 2017.
+Acts 1971, No. 92, § 13; A.S.A. 1947, § 70-913; Acts 1991, No. 1177, § 3; 1995, No. 836, § 6.
 
-## Private right of action — the Act 986 of 2017 narrowing
+## Section 4-88-102 - Definitions
 
-- **§ 4-88-113(f) — Private cause of action (as amended by Act 986 of
-  2017).** **DISTINCTIVE / CRITICAL:** Act 986 of 2017 **substantially
-  narrowed** the private ADTPA claim. As amended, a private plaintiff must
-  prove (verify against current text):
-  - an **actual financial loss** (ascertainable monetary damages — not
-    merely a statutory or nominal injury); **and**
-  - that the loss was suffered **as a result of reliance** on the unlawful
-    act or practice (an affirmative **reliance** and **causation** element).
+As used in this subchapter: (1) "Actual financial loss" means an ascertainable amount of money that is equal to the difference between the amount paid by a person for goods or services and the actual market value of the goods or services provided to a person; (2) "Caller identification service" means a service offered by a telecommunications provider that provides caller identification information to a device capable of displaying the information; (3) "Charitable organization" means any benevolent, philanthropic, patriotic, civic, or eleemosynary person; (4) "Contribution" means the promise or grant of any money or property of any kind or value; (5) "Goods" means any tangible property, coupons, or certificates, whether bought or leased; (6) "Person" means an individual, organization, group, association, partnership, corporation, or any combination of them; (7) "Promotion" means, for each charitable organization represented, each and every fundraising drive or campaign for which contributions are solicited. Similar or identical promotions on behalf of different charitable organizations constitute separate and distinct promotions; (8) "Services" means work, labor, or other things purchased that do not have physical characteristics; and (9) "Solicitation" means each request for a contribution.
 
-  The amendment also **restricts class actions** brought by private
-  plaintiffs under the ADTPA (private ADTPA claims generally may not be
-  maintained as class actions — verify the current scope of the class-action
-  limitation). A prevailing private plaintiff may recover **actual damages
-  and reasonable attorney's fees** (verify the current fee/damages remedy).
-  **Pleading hook:** post-Act 986, a private ADTPA complaint must
-  affirmatively allege **actual financial loss**, **reliance**, and
-  **causation**; conclusory or no-injury allegations are vulnerable to a
-  Rule 12(b)(6) motion under Arkansas's **fact-pleading** standard.
+Amended by Act 2017, No. 986,§ 2, eff. 8/1/2017.
 
-## Relationship to debt collection and B2B disputes
+Acts 1991, No. 1177, § 3; 1993, No. 587, § 1; 2003, No. 1465, § 1.
 
-- **Consumer-debt overlay.** Because Arkansas has **no comprehensive state
-  mini-FDCPA**, abusive-collection theories often rest on the federal FDCPA
-  (federal references corpus) layered with an ADTPA deceptive-practice count
-  — but the § 4-88-113(f) actual-loss + reliance elements (and the
-  exemptions at § 4-88-101) constrain a private ADTPA collection claim.
-- **B2B / commercial disputes.** Business-to-business deceptive-act claims
-  likewise face the § 4-88-113(f) **reliance** and **actual-financial-loss**
-  elements; a B2B plaintiff must show it actually relied on, and lost money
-  because of, the deceptive practice.
+## Section 4-88-103 - Penalties
 
-## Drafting note
+Any person who knowingly and willfully commits an unlawful practice under this chapter shall be guilty of a Class A misdemeanor.
 
-For a **private** ADTPA claim, identify the specific deceptive or
-unconscionable act (§ 4-88-107 / § 4-88-108), then plead **actual financial
-loss**, **reliance**, and **causation** under § 4-88-113(f) with the
-particularity Arkansas's fact-pleading standard demands; do not assume class
-treatment is available. Check the § 4-88-101 exemptions before filing.
-Where the matter would benefit from broad **public** remedies (penalties,
-restitution, injunction), note that those remedies run through **Attorney
-General** enforcement under § 4-88-113(a)–(e), not the private action.
+Acts 1971, No. 92, § 7; A.S.A. 1947, § 70-907; Acts 1991, No. 1177, § 3.
+
+## Section 4-88-104 - Injunctions
+
+In addition to the criminal penalty imposed hereunder, the Attorney General of this state shall have authority, acting through the Consumer Counsel of Arkansas, to file an action in the court designated in § 4-88-112 for civil enforcement of the provisions of this chapter, including, but not limited to, the seeking of restitution and the seeking of an injunction prohibiting any person from engaging in any deceptive or unlawful practice prohibited by this chapter.
+
+Acts 1971, No. 92, § 8; A.S.A. 1947, § 70-908; Acts 1991, No. 1177, § 3; 1995, No. 836, § 1.
+
+## Section 4-88-105 - Consumer Protection Division
+
+(a) There is created within the office of the Attorney General a Consumer Protection Division. (b) The director of the division shall be known as the "Consumer Counsel of Arkansas" and shall be appointed by the Attorney General who may also appoint such assistants, investigators, and professional and clerical staff as are necessary for the efficient operation of the division. (c) The division shall represent and protect the state, its subdivisions, the legitimate business community, and the general public as consumers. (d) The division shall have the following functions, powers, and duties: (1) To serve as a central coordinating agency and clearinghouse for receiving complaints of illegal, fraudulent, or deceptive practices; (2) To assist, advise, and cooperate with federal, state, and local agencies and officials to protect and promote the interests of the consumer public; (3) To conduct investigations, research, studies, and analyses of matters, to issue reports, and take appropriate action affecting the interests of consumers, which may include the referral of complaints to state and local departments or agencies charged with enforcement of consumer laws, or to private organizations and agencies; however, the division may retain jurisdiction over such matters until resolved; (4) To promote consumer education and to undertake activities to encourage business and industry to maintain high standards of honesty, fair business practices, and public responsibility in the production, advertisement, and sale of consumer goods and services, encouraging and supporting activities directed toward these objectives by the Better Business Bureau, consumer organizations, and other associations of like nature; (5) To investigate violations of laws enacted and rules promulgated for the purpose of consumer protection, and to study the operation of such laws and rules and to recommend to the General Assembly needed changes in law in the consumer's interest; and (6) To enforce the provisions of this chapter and to perform such other functions as may be incidental to the powers and duties set forth in this chapter. (e) The expenses of the division shall be paid from funds provided for that purpose by law, including without limitation: (1) Funds made available by the state, a state agency, or a state political subdivision; (2) Funds made available by the United States Government or a federal agency; or (3) (A) Funds deposited into a Consumer Education and Enforcement Account under § 25-16-718 , managed by the division, from settlements or judgments in favor of the state related to a lawsuit or assurance of voluntary compliance in which the state was a party. (B) The account shall not carry a balance greater than one million dollars ($1,000,000), and the funds in the account shall be used in a manner determined by the Attorney General's office, including without limitation: (i) Litigation support; (ii) Expert witness fees; (iii) Court filing fees; (iv) Process server fees; (v) Witness fees; (vi) Court costs; (vii) Court reporter fees; (viii) Attorney and staff training; (ix) Travel expenses; (x) Consumer education; (xi) Office expenses and improvements; and (xii) Investigation expenses.
+
+Amended by Act 2023, No. 526,§ 2, eff. 8/1/2023.
+
+Amended by Act 2023, No. 526,§ 1, eff. 8/1/2023.
+
+Amended by Act 2019, No. 315,§ 129, eff. 7/24/2019.
+
+Amended by Act 2015, No. 1160,§ 2, eff. 7/22/2015.
+
+Amended by Act 2013, No. 763,§ 2, eff. 8/16/2013.
+
+Amended by Act 2013, No. 763,§ 1, eff. 8/16/2013.
+
+Acts 1971, No. 92, §§ 1, 2, 12; A.S.A. 1947, §§ 70-901, 70-902, 70-912; Acts 1991, No. 1177, § 3.
+
+## Section 4-88-106 - Consumer Advisory Board
+
+(a) There may be a Consumer Advisory Board appointed by the Attorney General. (b) (1) If the Attorney General appoints such a board, it shall consist of eleven (11) members serving terms of two (2) years. (2) The membership of the board shall be fairly representative of consumers, manufacturers, the Better Business Bureau, labor organizations, retailers, agriculture, and trade and professional associations. (3) Each member shall serve without pay, but may be reimbursed for expenses in accordance with § 25-16-901 et seq. (c) The chair of the board shall be elected by the members. (d) The board may assist and advise the Consumer Counsel of Arkansas with respect to: (1) Policy matters relating to consumer interests; (2) Improvement in the effectiveness of state consumer programs and operations; and (3) Needed changes in law to improve consumer protection in Arkansas.
+
+Acts 1971, No. 92, § 3; A.S.A. 1947, § 70-903; Acts 1991, No. 1177, § 3; 1997, No. 250, § 11.
+
+## Section 4-88-107 - Deceptive and unconscionable trade practices generally
+
+(a) Deceptive and unconscionable trade practices made unlawful and prohibited by this chapter include, but are not limited to, the following: (1) Knowingly making a false representation as to the characteristics, ingredients, uses, benefits, alterations, source, sponsorship, approval, or certification of goods or services or as to whether goods are original or new or of a particular standard, quality, grade, style, or model; (2) Disparaging the goods, services, or business of another by false or misleading representation of fact; (3) Advertising the goods or services with the intent not to sell them as advertised; (4) Refusal of a retailer to deliver to a customer purchasing any electronic or mechanical apparatus the record of warranty and statement of service availability which the manufacturer includes in the original carton or container of the product or the refusal to make available on request information relating thereto; (5) The employment of bait-and-switch advertising consisting of an attractive but insincere offer to sell a product or service which the seller in truth does not intend or desire to sell, evidenced by: (A) A refusal to show or a disparagement of the advertised product; (B) The requirement of a tie-in sale or other undisclosed conditions precedent to the purchase; (C) A demonstration of a defective product; or (D) Other acts demonstrating an intent not to sell the advertised product or services; (6) Knowingly failing to identify flood, water, fire, or accidentally damaged goods as to such damages; (7) Making a false representation that contributions solicited for charitable purposes shall be spent in a specific manner or for specified purposes; (8) Knowingly taking advantage of a consumer who is reasonably unable to protect his or her interest because of: (A) Physical infirmity; (B) Ignorance; (C) Illiteracy; (D) Inability to understand the language of the agreement; or (E) A similar factor; (9) The offering for sale, assembly, or drafting of any trust document, including a living trust, by a nonlawyer, excluding the marketing, assembly, and funding by bank trust departments and trust companies; (10) Engaging in any other unconscionable, false, or deceptive act or practice in business, commerce, or trade; (11) (A) Displaying or causing to be displayed a fictitious or misleading name or telephone number on an Arkansas resident's telephone caller identification service. (B) Subdivision (a)(11)(A) of this section does not apply to the transmission of a caller identification service by a telecommunications provider that complies with § 23-17-122 ; and (12) Knowingly facilitating, assisting, intermediating, or in any way aiding the operation or continuance of an act or practice that is in violation of this chapter. (b) The deceptive and unconscionable trade practices listed in this section are in addition to and do not limit the types of unfair trade practices actionable at common law or under other statutes of this state.
+
+Amended by Act 2021, No. 1015,§ 2, eff. 7/28/2021.
+
+Amended by Act 2019, No. 677,§ 2, eff. 7/24/2019.
+
+Acts 1971, No. 92, § 6; A.S.A. 1947, § 70-906; Acts 1991, No. 1177, § 3; 1993, No. 587, § 2; 1995, No. 1306, § 1; 2003, No. 1465, § 2.
+
+## Section 4-88-108 - Concealment, suppression, or omission of material facts
+
+(a) When utilized in connection with the sale or advertisement of any goods, services, or charitable solicitation, the following is unlawful: (1) The act, use, or employment by a person of any deception, fraud, or false pretense; (2) The concealment, suppression, or omission of any material fact with intent that others rely upon the concealment, suppression, or omission; (3) Displaying or causing to be displayed a fictitious or misleading name or telephone number on an Arkansas resident's caller identification service; or (4) Using a third party to display or cause to be displayed a fictitious or misleading name or telephone number on an Arkansas resident's caller identification service. (b) Subdivision (a)(3) of this section does not apply to the transmission of a caller identification service by a telecommunications provider that complies with § 23-17-122 .
+
+Amended by Act 2019, No. 677,§ 3, eff. 7/24/2019.
+
+Acts 1971, No. 92, § 4; A.S.A. 1947, § 70-904; Acts 1991, No. 1177, § 3; 1995, No. 836, § 2.
+
+## Section 4-88-109 - Prohibition of pyramid promotional schemes - Definitions
+
+(a) A person who promotes any pyramid promotional scheme engages in an unlawful practice. (b) As used in this section: (1) "Bona fide inventory repurchase program" means a program through which an entity repurchases from an independent salesperson current and marketable inventory in possession of the independent salesperson, upon request and upon commercially reasonable terms, when the independent salesperson's business relationship with the entity is terminated; (2) "Commercially reasonable terms" means the repurchase of current and marketable inventory within twelve (12) months after the date of purchase at not less than ninety percent (90%) of the original net cost, less appropriate set-offs and legal claims, if any; (3) "Compensation" means a payment of any money, a thing of value, or financial benefit conferred in return for inducing another person to participate in a pyramid promotional scheme; (4) (A) "Consideration" means the payment of cash or the purchase of goods, services, or intangible property. (B) "Consideration" does not include: (i) The purchase of goods or services furnished at cost to be used in making sales and not for resale; (ii) Time and effort spent in pursuit of sales or recruiting activities; or (iii) Payment for sales demonstration equipment and materials furnished at cost for use in making sales and not for resale; (5) "Inventory" means goods and services, including company-produced promotional materials, sales aids, and sales kits that an entity requires independent salespersons to purchase; (6) "Inventory loading" means the requirement or encouragement by a plan or operation that its independent salesperson purchase inventory in an amount that exceeds the amount that the independent salesperson can expect to resell for ultimate consumption or to use or consume in a reasonable time period, or both; (7) "Person" means an individual, corporation, trust, estate, partnership, unincorporated association, or any other legal or commercial entity; (8) "Promote" means to contrive, prepare, establish, plan, operate, advertise, or otherwise induce or attempt to induce another person to participate in a pyramid promotional scheme; and (9) (A) "Pyramid promotional scheme" means any plan or operation through which a person gives consideration for the opportunity to receive compensation primarily from the introduction of other persons into the plan or operation rather than from the sale and consumption of goods, services, or intangible property by a participant or other persons introduced into the plan or operation. (B) "Pyramid promotional scheme" includes any plan or operation that limits the number of participants either expressly or by the application of conditions affecting the eligibility of a person to receive compensation under the plan or operation, and includes any plan or operation under which a person, on giving any consideration, obtains any goods, services, or intangible property in addition to the right to receive compensation. (c) (1) This section does not prohibit a plan or operation, or define a plan or operation as a pyramid promotional scheme, if all of the following occur: (A) The participants in the plan or operation give consideration in return for the right to receive compensation based upon purchases of goods, services, or intangible property by participants for personal use, consumption, or resale; (B) The plan or operation does not require inventory loading; and (C) The plan or operation implements a bona fide inventory repurchase program. (2) (A) An entity shall clearly describe a bona fide inventory repurchase program in an entity's recruiting literature, sales manual, or contracts with independent salespersons. (B) The recruiting literature, sales manual, or contracts shall disclose any inventory that is not eligible for repurchase under the bona fide inventory repurchase program. (3) A bona fide inventory repurchase program is not required to apply to inventory that is no longer within the inventory's commercially reasonable use or shelf life period or has been used or opened. (d) Before an independent salesperson of an entity purchases inventory, the entity shall clearly document the inventory that is excluded from the bona fide inventory repurchase program as "seasonal", "discontinued", or "special promotion products" and indicate that the inventory is not subject to the bona fide inventory repurchase program.
+
+Amended by Act 2019, No. 340,§ 1, eff. 7/24/2019.
+
+Acts 1971, No. 92, § 5; A.S.A. 1947, § 70-905; Acts 1991, No. 1177, § 3.
+
+## Section 4-88-111 - Investigations - Procedure - Confidential information
+
+(a) When the Attorney General determines that an investigation should be made as to whether a person has engaged in, is engaging in, or shows evidence of intent to engage in any practice declared to be unlawful by this chapter, when he or she receives a request for enforcement proceedings from a consumer or labor organization, better business bureau, chamber of commerce, or any state agency, or when he or she receives a written complaint from a consumer of a practice declared to be unlawful under this chapter, he or she may: (1) Require that person to file a statement or report in writing as to the facts and circumstances concerning the matter, together with such other data as may be reasonably related thereto; (2) Examine under oath or take the deposition of any person in connection with the matter; and (3) Examine any merchandise, or sample thereof, sales tickets, or other records relating thereto. (b) Unless otherwise ordered by a court for good cause shown, no statement or documentary material produced pursuant to a demand under this section shall be produced for inspection or copying by, nor shall the contents thereof be disclosed to, any person other than the authorized employee of the Attorney General without the consent of the person who produced the material. (c) The Attorney General or any attorney designated by him or her may use the documentary material or copies thereof in the enforcement of this chapter by presentation before any court, provided that any such material which contains trade secrets shall not be presented except with the approval of the court in which the action is pending after adequate notice to the person furnishing such material. However, when material containing trade secrets is presented with court approval, the material and the evidence pertaining thereto shall be held in camera and shall not be part of the court record or trial transcript. (d) No statements, documents, or other information maintained or produced as a result of an ongoing investigation of possible violations of this chapter shall be disclosed to any person other than those persons specifically authorized by the Attorney General to receive such information.
+
+Acts 1971, No. 92, § 9; A.S.A. 1947, § 70-909; Acts 1991, No. 1177, § 3; 1993, No. 587, § 3.
+
+## Section 4-88-112 - Failure to cooperate in investigations - Proceedings
+
+(a) In the event any person fails or refuses to file a statement, appear, or produce records as required by § 4-88-111 , the Attorney General, acting through the Consumer Counsel of Arkansas, may file, in the circuit court of the county in which the person resides or transacts business or of the judicial district in which the State Capitol is located, a petition for an order of such court for the civil enforcement of such section. (b) Upon the filing of the petition and service upon the person, the court shall have jurisdiction to hear and determine the matter so presented and to enter such order, including temporary injunctions, as may be required to effectuate this chapter. (c) Willful concealment, destruction, alteration, or falsification of any documentary material which would be subject to subpoena by the court or the disobedience of any order of the court is declared to be unlawful and shall be punished as contempt of court. (d) Any final order shall be subject to appeal to the Supreme Court.
+
+Acts 1971, No. 92, § 10; A.S.A. 1947, § 70-910; Acts 1991, No. 1177, § 3; 1995, No. 836, § 3.
+
+## Section 4-88-113 - Civil enforcement and remedies - Suspension or forfeiture of charter, franchise, etc
+
+(a) In any proceeding brought by the Attorney General for civil enforcement of the provisions of this chapter, prohibiting unlawful practices as defined in this chapter, the circuit court may make such orders or judgments as may be necessary to: (1) Prevent the use or employment by such person of any prohibited practices; (2) (A) Restore to any purchaser who has suffered any ascertainable loss by reason of the use or employment of the prohibited practices any moneys or real or personal property which may have been acquired by means of any practice declared to be unlawful by this chapter, together with other damages sustained. (B) In determining the amount of restitution to be awarded under this section, the court shall consider affidavits from nontestifying purchasers, provided that: (i) The affidavits are offered as evidence of a material fact; (ii) The affidavits are more probative on the point for which they are offered than any other evidence which the Attorney General can procure through reasonable efforts; (iii) The interests of justice will be best served by admission of the affidavits; and (iv) The Attorney General makes the names and addresses of the affiants available to the adverse party sufficiently in advance to provide the adverse party with a fair opportunity to communicate with them; and (3) Assess penalties to be paid to the state, not to exceed ten thousand dollars ($10,000) per violation, against persons found to have violated this chapter. (b) Upon petition of the Attorney General, the court may order the suspension or forfeiture of franchises, corporate charters, or other licenses or permits or authorization to do business in this state. (c) Any person who violates the terms of an injunction issued under this chapter shall forfeit and pay to the state a civil penalty of not more than ten thousand dollars ($10,000) for any single action brought by the Attorney General. (d) (1) Every person, or every partner, officer, or director of another person who directly or indirectly controls another person or who is in violation of or liable under this chapter or every person who directly or indirectly facilitates, assists, acts as intermediary for, or in any way aids another person who is in violation of or liable under this chapter in the operation or continuance of the act or practice for which the violations or liability exists shall be jointly and severally liable for any penalties assessed and any monetary judgments awarded in any proceeding for civil enforcement of this chapter, if the persons to be held jointly and severally liable knew or reasonably should have known of the existence of the facts by reason of which the violation or liability exists. (2) There is contribution as in cases of contract among the several persons so liable. (3) Every person subject to liability under subdivision (d)(1) of this section shall be deemed, as a matter of law, to have purposefully availed himself or herself of the privileges of conducting activities within Arkansas sufficient to subject the person to the personal jurisdiction of the circuit court hearing an action brought pursuant to this chapter. (e) As compensation for his or her services under this chapter, the Attorney General shall be entitled to all expenses reasonably incurred in the investigation and prosecution of suits, including, but not limited to, expenses for expert witnesses, to be paid by the defendant when judgment is rendered for the state, and, in addition, shall recover attorney's fees and costs. (f) (1) (A) A person who suffers an actual financial loss as a result of his or her reliance on the use of a practice declared unlawful by this chapter may bring an action to recover his or her actual financial loss proximately caused by the offense or violation, as defined in this chapter. (B) A private class action under this subsection is prohibited unless the claim is being asserted for a violation of Arkansas Constitution, Amendment 89. (2) To prevail on a claim brought under this subsection, a claimant must prove individually that he or she suffered an actual financial loss proximately caused by his or her reliance on the use of a practice declared unlawful under this chapter. (3) A court may award reasonable attorney's fees.
+
+Amended by Act 2021, No. 1015,§ 3, eff. 7/28/2021.
+
+Amended by Act 2017, No. 986,§ 3, eff. 8/1/2017.
+
+Acts 1971, No. 92, § 11; 1977, No. 835, § 1; A.S.A. 1947, § 70-911; Acts 1991, No. 1177, § 3; 1993, No. 587, § 4; 1995, No. 836, § 4; 1999, No. 990, § 1.
+
+## Section 4-88-114 - Voluntary compliance
+
+(a) (1) In the administration of this chapter, the Attorney General may accept an assurance of voluntary compliance with respect to any method, act, or practice deemed to be violative of the provisions of this chapter from any person who has engaged in or was about to engage in the method, act, or practice. (2) Any such assurance shall be in writing and may be enforced by petitioning the circuit court of the county in which the alleged violator resides or has his or her principal place of business, or the Pulaski County Circuit Court. (3) Such assurance of voluntary compliance shall not be considered an admission of violation for any purpose. (b) (1) The assurance of voluntary compliance shall provide for the discontinuance by the person entering into the same of any method, act, or practice alleged to be a violation of this chapter, and it may include a stipulation for the payment by such person of reasonable expenses, investigative costs, and attorney's fees incurred by the Attorney General. (2) The assurance may also include a stipulation for payment to consumers of actual damages or for restitution of money, property, or other things received from consumers in connection with a violation of the provisions of this chapter, and a stipulation for specific performance. (c) A finding by a circuit court that a violation of such assurance of voluntary compliance has occurred shall prima facie establish that the person subject thereto knows, or in the exercise of due care should know, that he or she has in the past violated or is violating the provisions of this chapter. (d) The assurance of voluntary compliance shall not be admissible into evidence in any separate criminal proceeding within the meaning of this chapter.
+
+Acts 1993, No. 587, § 5; 1995, No. 836, § 5.
+
+## Section 4-88-115 - Statute of limitations
+
+Any civil action brought to enforce the provisions of this chapter may be brought in any court of competent jurisdiction in this state during a period of five (5) years commencing on the date of the occurrence of the violation or the date upon which the cause of action arises.
+
+Acts 1993, No. 910, § 2.
+
+## Section 4-88-116 - Right to jury trial
+
+Any party in an action brought under § 4-88-113(f) shall have the right to a jury trial if the action was pending or filed on or after August 1, 2017.
+
+Added by Act 2017, No. 986,§ 4, eff. 8/1/2017.
+
+## Section 4-88-117 - Durable medical equipment - Definition
+
+(a) As used in this section, "durable medical equipment" means a good that qualifies for insurance reimbursement and requires a referral or prescription of a licensed physician or a licensed advanced practice registered nurse. (b) A person shall not represent or advertise that a consumer's health insurance, health benefit plan, Medicare, or Medicaid will cover any portion of the cost of durable medical equipment unless a licensed physician or a licensed advanced practice registered nurse has made a referral for or prescribed the durable medical equipment for the consumer before an agreement to purchase durable medical equipment is executed between a consumer and seller of the durable medical equipment. (c) Notwithstanding any provision of this section, a provision in an agreement to purchase durable medical equipment does not violate this section if the consumer has signed a conspicuous waiver that contains no other information or agreements and clearly states that the consumer understands that Medicare, Medicaid, a health benefit plan, a health insurance plan, or any other insurance plan may only cover the cost of the durable medical equipment upon approval by the consumer's licensed physician or licensed advanced practice registered nurse. (d) (1) If an agreement to purchase durable medical equipment contains a provision that violates this section, the agreement to purchase durable medical equipment is void. (2) If an agreement to purchase durable medical equipment is voided under subdivision (d)(1) of this section, a consumer may receive full reimbursement for the durable medical equipment. (3) If a consumer seeks reimbursement for a transaction, the consumer shall return the durable medical equipment upon the request of the seller of the durable medical equipment and at the expense of the seller of the durable medical equipment. (e) (1) A transaction for durable medical equipment shall have a thirty-day return policy. (2) Durable medical equipment may be returned for any reason. (3) Notification of a return of durable medical equipment: (A) Shall be given by the consumer within thirty (30) days of the agreement to purchase durable medical equipment; and (B) May be given to the seller of the durable medical equipment in writing or over the telephone. (4) (A) A seller of durable medical equipment shall not deny a reimbursement for durable medical equipment because the durable medical equipment has not been returned. (B) However, a consumer shall be permitted to return the durable medical equipment at the expense of the seller of the durable medical equipment within a reasonable amount of time after notification of the return.
+
+Added by Act 2019, No. 1065,§ 1, eff. 7/24/2019.
+
+## Section 4-88-201 - Definitions
+
+As used in this subchapter: (1) "Account" means funds or assets held by a financial services provider, including without limitation: (A) A deposit account; (B) A checking account; (C) A money market account; (D) A savings account; (E) A share account; (F) A certificate of deposit; (G) A trust account; (H) An individual retirement account or other type of retirement account; (I) A guardianship or conservatorship account; (J) An investment or securities account; (K) A loan; (L) A credit card; or (M) Any extension of credit, including a home equity line of credit; (2) "Elder person" means a person who is sixty (60) years of age or older; (3) "Exploitation" means the act of forcing, compelling, or exerting undue influence over a person causing the person to act in a way that is inconsistent with the person's relevant past behavior or causing the person to perform services or purchase goods and services for the benefit of another person; (4) "Financial exploitation" means: (A) The wrongful or unauthorized taking, withholding, appropriation, or use of money, assets, or property of an elder person or person with a disability, including incurring debt in the name of an elder person or person with a disability for the benefit of a third party; or (B) Any act or omission taken by an individual, including through the use of a power of attorney, guardianship, or conservatorship of an elder person or person with a disability, to either: (i) Obtain control through deception, intimidation, or undue influence over the elder person's or person with a disability's money, assets, or property to deprive the elder person or person with a disability of the ownership, use, benefit, or possession of his or her money, assets, or property; or (ii) Convert money, assets, or property of the elder person or person with a disability to deprive the elder person or person with a disability of the ownership, use, benefit, or possession of his or her money, assets, or property; (5) "Financial services provider" means an entity, including the entity's employees and officers, regulated by the State Bank Department or a similar federal regulatory agency, engaged in or transacting business in this state, including without limitation: (A) A state or national bank or trust company; (B) A state or federal savings and loan association; (C) A state or federal credit union; (D) A building and loan association; (E) A mortgage banker, mortgage broker, loan officer, or mortgage servicer under the Fair Mortgage Lending Act, § 23-39-501 et seq.; or (F) A pawnbroker; (6) "Financial transaction" means: (A) A transfer or request to transfer or disburse funds or assets in an account; (B) A request to initiate a wire transfer, initiate an automated clearing house transfer, or issue a money order, cashier's check, or official check; (C) A request to negotiate a check or other negotiable instrument; (D) A request to change the ownership of an account; (E) A request for a loan, extension of credit, or draw on a line of credit; (F) A request to transfer the title to any real property or the title of any motor vehicle or mobile home, or to encumber the real property, motor vehicle, or mobile home; (G) Expanding access to an account through an online or telephone banking system or adding an additional person as an authorized signer or person otherwise authorized to initiate transactions in the account; or (H) Opening or establishing a new account; (7) "Major life activities" include functions such as caring for oneself, performing manual tasks, walking, seeing, hearing, speaking, breathing, learning, and working; (8) (A) "Person with a disability" means a person who has a physical or mental impairment which substantially limits one (1) or more of such person's major life activities. (B) As used in this subdivision (8), "physical or mental impairment" means any of the following: (i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss substantially affecting one (1) or more of the following body systems: (a) Neurological; (b) Musculoskeletal; (c) Special sense organs; (d) Respiratory, including speech organs; (e) Cardiovascular; (f) Reproductive; (g) Digestive; (h) Genitourinary; (i) Hemic and lymphatic; (j) Skin; or (k) Endocrine; or (ii) Any mental or psychological disorder, including intellectual and developmental disabilities, organic brain syndrome, emotional or mental illness, and specific learning disabilities. (C) The term "physical or mental impairment" includes without limitation diseases and conditions such as orthopedic, visual, speech and hearing impairment, cerebral palsy, spina bifida, Down syndrome, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, intellectual and developmental disabilities, and emotional illness; and (9) "Substantially limits" means substantially interferes with or affects over an extended period of time. Minor temporary ailments or injuries shall not be considered physical or mental impairments that substantially limit a person's major life activities. Examples of minor temporary ailments are colds, influenza, sprains, or minor injuries.
+
+Amended by Act 2021, No. 1015,§ 4, eff. 7/28/2021.
+
+Amended by Act 2019, No. 1035,§ 1, eff. 7/24/2019.
+
+Acts 1993, No. 138, § 1; 2011, No. 68, § 1.
+
+## Section 4-88-202 - Civil penalty - Disposition of funds
+
+(a) If any person is found to have violated any provision of this chapter, including unlawful practices related to charitable solicitations, and the violation is committed against an elder person or a person with a disability, in addition to any civil penalty otherwise set forth or imposed, the court may impose an additional civil penalty not to exceed ten thousand dollars ($10,000) for each violation. (b) The civil penalties imposed pursuant to subsection (a) of this section shall be deposited with the Treasurer of State and placed into the Elder Person and Person with a Disability Victims Fund, a special fund created in the State Treasury and administered by the Attorney General for the investigation and prosecution of deceptive acts against an elder person or a person with a disability and for consumer education initiatives.
+
+Amended by Act 2019, No. 1035,§ 2, eff. 7/24/2019.
+
+Acts 1993, No. 138, § 1.
+
+## Section 4-88-203 - Determination of civil penalty
+
+In determining whether to impose an enhanced civil penalty under this subchapter and the amount thereof, the court shall consider the extent to which one (1) or more of the following factors are present: (1) Whether the defendant's conduct was in disregard of the rights of the elder person or person with a disability; (2) Whether the defendant knew or should have known that the defendant's conduct was directed to an elder person or person with a disability; (3) Whether the elder person or person with a disability was more vulnerable to the defendant's conduct because of age, poor health, infirmity, impaired understanding, restricted mobility, or disability than other persons and whether the elder person or person with a disability actually suffered substantial physical, emotional, or economic damage resulting from the defendant's conduct; (4) Whether the defendant's conduct caused an elder person or person with a disability to suffer any of the following: (A) Mental or emotional anguish; (B) Loss of or encumbrance upon a primary residence of the elder person or person with a disability; (C) Loss of or encumbrance upon the elder person's or person with a disability's principal employment or principal source of income; (D) Loss of funds received under a pension or retirement plan or a government benefits program; (E) Loss of property set aside for retirement or for personal or family care and maintenance; or (F) Loss of assets essential to the health and welfare of the elder person or person with a disability; or (5) Any other factors the court deems appropriate.
+
+Amended by Act 2019, No. 1035,§ 2, eff. 7/24/2019.
+
+Acts 1993, No. 138, § 1.
+
+## Section 4-88-204 - Cause of action
+
+An elder person or person with a disability who suffers damage or injury as a result of an offense or violation described in this chapter has a cause of action to recover actual damages, punitive damages, if appropriate, and reasonable attorney's fees. Restitution ordered pursuant to this section has priority over a civil penalty imposed pursuant to this subchapter.
+
+Amended by Act 2019, No. 1035,§ 2, eff. 7/24/2019.
+
+Acts 1993, No. 138, § 1.
+
+## Section 4-88-205 - Education initiatives
+
+The Attorney General shall, pursuant to the funds allocated in this subchapter, develop and implement statewide educational initiatives to inform elder persons and persons with a disability, law enforcement agencies, the judicial system, social services professionals, and the general public as to the prevalence and prevention of consumer crimes against elder persons or persons with a disability, the provisions of this chapter, the penalties for violations of this chapter, and the remedies available for victims of violations.
+
+Amended by Act 2019, No. 1035,§ 2, eff. 7/24/2019.
+
+Acts 1993, No. 138, § 1.
+
+## Section 4-88-206 - Referrals for exploitation and deceptive and unconscionable trade practices
+
+(a) The Attorney General shall establish and maintain referral procedures with the Adult Protective Services Unit of the Department of Human Services in order to provide any necessary intervention and assistance to an elder person or person with a disability who may have been victimized by violations of this chapter. (b) In order to provide any necessary intervention and assistance to an elder person or a person with a disability, as defined in this subchapter, who may have been victimized by a person who is in violation of this chapter, the Adult Protective Services Unit of the Department of Human Services shall refer to the Consumer Protection Division any cases involving suspected exploitation and financial exploitation, as defined in § 4-88-201 , to the Attorney General within forty-eight (48) hours of receipt, or at the close of business on the next business day if there is an intervening weekend or state holiday.
+
+Amended by Act 2021, No. 1015,§ 5, eff. 7/28/2021.
+
+Amended by Act 2019, No. 1035,§ 2, eff. 7/24/2019.
+
+Amended by Act 2017, No. 913,§ 10, eff. 8/1/2017.
+
+Acts 1993, No. 138, § 1.
+
+## Section 4-88-207 - Elder Person and Person with a Disability Victims Fund created
+
+The "Elder Person and Person with a Disability Victims Fund" is hereby created and established on the books of the Treasurer of State, the Auditor of State, and the Chief Fiscal Officer of the State and shall consist of those special funds as may be provided by law. This fund shall be used for the investigation and prosecution of deceptive acts against an elder person or person with a disability and for consumer education initiatives directed toward elder persons or persons with a disability, law enforcement officers, the judicial system, social services professionals, and the general public on the provisions of this chapter and related statutes.
+
+Amended by Act 2019, No. 1035,§ 2, eff. 7/24/2019.
+
+Acts 1993, No. 138, § 2.
+
+## Section 4-88-208 - Financial services provider - Refusal or delay of financial transactions - Temporary hold on financial transactions
+
+(a) (1) If a financial services provider has reasonable cause to suspect that financial exploitation may have occurred, may have been attempted, or is being attempted, the financial services provider may refuse or delay the execution of a financial transaction of an elder person or a person with a disability, on an account: (A) Of which the elder person or person with a disability is the owner or co-owner; (B) Of which the elder person or person with a disability is a beneficiary, including a trust, guardianship, or conservatorship account; or (C) Of a person suspected of perpetrating the financial exploitation. (2) A financial services provider may also refuse or delay the execution of a financial transaction under this section if the Attorney General, a state agency, or a law enforcement agency provides information to the financial services provider demonstrating that it is reasonable to believe that financial exploitation may have occurred, may have been attempted, or is being attempted. (b) Except as ordered by a court, a financial services provider is not required to refuse or delay the execution of a financial transaction under this section and may use its discretion to determine whether to refuse or delay the execution of a financial transaction based on the information available to the financial services provider. (c) A financial services provider that refuses to execute a financial transaction or places a hold on a financial transaction based on reasonable cause to suspect that financial exploitation may have occurred, may have been attempted, or is being attempted may: (1) Except with regard to an account administered by a bank or trust company in a fiduciary capacity, make a reasonable effort to notify one (1) or more parties authorized to transact business on the account orally or in writing; (2) If the incident involves financial exploitation, report the incident to the Department of Human Services under § 4-88-206(b) ; and (3) If the incident is reported to the department under § 4-88-206(b) , make reasonable effort to notify a third party reasonably associated with the elder person or person with a disability of the suspected financial exploitation, regardless of whether or not the third party is authorized to transact business on the account orally or in writing. (d) Notwithstanding subsection (c) of this section, a financial services provider may elect not to provide notice to any party authorized to conduct business on the account or reasonably associated with the elder person or person with a disability if the party is the suspected perpetrator of financial exploitation. (e) A refusal by a financial services provider to execute a financial transaction or place a hold on a financial transaction as authorized by this section, based on the financial services provider's reasonable cause to suspect that financial exploitation may have occurred, may have been attempted, or is being attempted, expires when the financial services provider reasonably believes that the financial transaction will not result in financial exploitation unless terminated earlier by an order of a court of competent jurisdiction. (f) A financial services provider or an officer, director, employee, agent, or other representative of a financial services provider, acting in a reasonable manner, is immune from all criminal, civil, and administrative liability for the following: (1) Refusing or not refusing to execute a financial transaction or holding or not holding a financial transaction under this section; and (2) An action taken in furtherance of the determination made under subdivision (f)(1) of this section if the determination was based upon a reasonable belief.
+
+Added by Act 2021, No. 1015,§ 6, eff. 7/28/2021.
+
+## Section 4-88-209 - Protection of consumers from financial exploitation
+
+(a) If necessary to provide intervention and assistance to consumers, including elder persons or persons with a disability, the Attorney General may petition a court of competent jurisdiction requesting an order delaying or extending a delay of disbursement of funds. (b) The delay shall expire: (1) As directed by an order of the court; (2) When the Attorney General reasonably determines that the financial transaction will not result in financial exploitation; or (3) No more than ten (10) business days after the date on which the petition was filed with the court. (c) (1) A financial services provider shall, upon request by the Attorney General, provide access to or copies of records that are relevant to suspected financial exploitation or attempted financial exploitation to the Attorney General. (2) The records should include historical records as well as records relating to the most recent transactions or transactions that may compromise financial exploitation. (d) The records, materials, data, and information made available by a financial services provider are confidential and shall not be disclosed to any person other than those persons specifically authorized by the Attorney General to receive the information. (e) A financial services provider is immune from any civil or criminal liability that might otherwise result from complying with this section.
+
+Added by Act 2021, No. 1015,§ 6, eff. 7/28/2021.
+
+## Section 4-88-210 - Report by financial services provider to local and state law enforcement of suspicious activity
+
+(a) A financial services provider that voluntarily or mandatorily reports via a suspicious activity report, pursuant to 31 U.S.C. § 5318(g) , as it existed on January 1, 2021, any violation of law or rule constituting a violation of this chapter, may also report the information contained in the suspicious activity report to local or state law enforcement agencies, including the Attorney General. (b) A financial services provider is immune from any civil or criminal liability that might otherwise result from complying with this section.
+
+Added by Act 2021, No. 1015,§ 6, eff. 7/28/2021.
+
+## Section 4-88-301 - Emergencies and natural disasters - Taking unfair advantage of consumers
+
+The General Assembly hereby finds that during emergencies and major disasters, including, but not limited to, tornadoes, earthquakes, fires, floods, or civil disturbances, some merchants have taken unfair advantage of consumers by greatly increasing prices for essential consumer goods or services. While the pricing of consumer goods and services is generally best left to the marketplace under ordinary conditions, when a declared state of emergency results in abnormal disruptions of the market, the public interest requires that excessive and unjustified increases in the prices of essential consumer goods and services be prohibited. It is the intent of the General Assembly in enacting this subchapter to protect citizens from excessive and unjustified increases in the prices charged during or shortly after a declared state of emergency for goods and services that are vital and necessary for the health, safety, and welfare of consumers. Further, it is the intent of the General Assembly that this section be liberally construed so that its beneficial purposes may be served.
+
+Acts 1997, No. 376, § 1.
+
+## Section 4-88-302 - Definitions
+
+(a) "Building materials" means lumber, construction tools, windows, and anything else used in the building or rebuilding of property. (b) "Consumer food item" means any article that is used or intended for use for food, drink, confection, or condiment by a person or animal. (c) "Emergency supplies" includes, but is not limited to, water, flashlights, radios, batteries, candles, blankets, soap, diapers, temporary shelters, tape, toiletries, plywood, nails, and hammers. (d) "Gasoline" means any fuel used to power any motor vehicle or power tool. (e) "Goods" has the same meaning as defined in § 4-88-102 . (f) "Housing" means any rental housing and includes any housing provided by a hotel or motel. (g) "Local emergency" means a natural or man-made disaster or emergency resulting from a tornado, earthquake, flood, fire, riot, or storm for which a local emergency has been declared by the executive officer or governing body of any city or county in Arkansas. (h) "Medical supplies" includes, but is not limited to, prescription and nonprescription medications, bandages, gauze, isopropyl alcohol, and antibacterial products. (i) "Person" means a natural person, individual, partnership, corporation, trust, estate, incorporated or unincorporated association, and any other legal or commercial entity however organized. (j) "Repair or reconstruction services" means services performed by any person for repairs to residential or commercial property of any type that is damaged as a result of a disaster or terrorist attack. (k) "Services" means any work, labor, or services including services furnished in connection with the sale or repair of goods or real property or improvements thereto. (l) (1) "State of emergency" means a natural or man-made disaster or emergency resulting from a tornado, earthquake, flood, fire, riot, storm, act of war, threat of war, military action, or the time of instability following a terrorist attack for which a state of emergency has been declared by the President of the United States or the Governor. (2) "State of emergency" also includes the declaration of a red condition in the National Terrorism Advisory System by either the United States Department of Homeland Security or the Division of Emergency Management. (m) "Transportation, freight, and storage services" means any service that is performed by any person or company that contracts to move, store, or transport personal or business property or rents equipment for those purposes.
+
+Acts 1997, No. 376, § 1; 2003, No. 1082, § 1; 2003, No. 1448, § 2.
+
+## Section 4-88-303 - Prohibited unfair pricing practices
+
+(a) (1) Upon the proclamation of a state of emergency resulting from a tornado, earthquake, flood, fire, riot, storm, or natural or man-made disaster declared by the President of the United States or the Governor and upon the declaration of a local emergency resulting from a tornado, earthquake, flood, fire, riot, storm, or natural or man-made disaster by the executive officer of any city or county and for a period of thirty (30) days following that declaration or during any period of time during which a red condition under the National Terrorism Advisory System has been declared by either the United States Department of Homeland Security or the Division of Emergency Management, it is unlawful for any person, contractor, business, or other entity to sell or offer to sell any consumer food items or goods, goods or services used for emergency cleanup, emergency supplies, medical supplies, home heating oil, building materials, housing, transportation, freight, and storage services, or gasoline or other motor fuels for a price of more than ten percent (10%) above the price charged by that person for those goods or services immediately prior to the proclamation of emergency. (2) However, a greater price increase shall not be unlawful if that person can prove that the increase in price was directly attributable to additional costs imposed on it by the supplier of the goods or directly attributable to additional costs for labor or materials used to provide the services, provided that in those situations where the increase in price is attributable to additional costs imposed by the seller's supplier or additional costs of providing the good or service during the state of emergency, the price represents no more than ten percent (10%) above the total of the cost to the seller plus the markup customarily applied by the seller for that good or service in the usual course of business immediately prior to the onset of the state of emergency. (b) (1) Upon the proclamation of a state of emergency resulting from a tornado, earthquake, flood, fire, riot, or storm declared by the President of the United States or the Governor, or upon the declaration of a local emergency resulting from a tornado, earthquake, flood, fire, riot, or storm by the executive officer of any city or county, and for a period of one hundred eighty (180) days following that declaration, it is unlawful for any contractor to sell or offer to sell any repair or reconstruction services or any services used in emergency cleanup for a price of more than ten percent (10%) above the price charged by that person for those services immediately prior to the proclamation of emergency. (2) However, a greater price increase shall not be unlawful if that person can prove that the increase in price was directly attributable to additional costs imposed on it by the supplier of the goods or directly attributable to additional costs for labor or materials used to provide the services, provided that in those situations where the increase in price is attributable to the additional costs imposed by the contractor's supplier or additional costs of providing the service during the state of emergency, the price represents no more than ten percent (10%) above the total of the cost to the contractor plus the markup customarily applied by the contractor for that good or service in the usual course of business immediately prior to the onset of the state of emergency. (c) The provisions of this section may be extended for additional thirty-day periods by a local governing body or the General Assembly if deemed necessary to protect the lives, property, or welfare of the citizens. (d) Any business offering an item for sale at a reduced price immediately prior to the proclamation of the emergency may use the price at which it usually sells the item to calculate the price pursuant to subsection (a) or (b) of this section.
+
+Acts 1997, No. 376, § 1; 2003, No. 1448, § 3.
+
+## Section 4-88-304 - Penalties, remedies, and enforcement
+
+(a) (1) When a person violates this subchapter or a rule prescribed under this subchapter, the violation shall constitute an unfair or deceptive act or practice as defined by this chapter. (2) All remedies, penalties, and authority granted to the Attorney General under this chapter shall be available to the Attorney General for the enforcement of this subchapter. (b) Any person who is found to have violated this subchapter shall be guilty of a Class A misdemeanor. (c) The remedies and penalties provided by this section are cumulative to each other, the remedies under § 17-25-301 et seq., and the remedies or penalties available under all other laws of this state.
+
+Amended by Act 2019, No. 315,§ 130, eff. 7/24/2019.
+
+Acts 1997, No. 376, § 1; 2005, No. 1994, § 218.
+
+## Section 4-88-305 - Preemption
+
+Nothing in this section shall preempt any local ordinance prohibiting the same or similar conduct or imposing a more severe penalty for the same conduct prohibited in this section.
+
+Acts 1997, No. 376, § 1.
+
+## Section 4-88-401 - Definitions
+
+As used in this subchapter: (1) "Person" means any individual, group, unincorporated association, limited or general partnership, limited liability corporation, corporation, professional fund raiser, charitable organization, or other business entity; (2) "Slamming" means submitting or executing a change in a subscriber's selection of a provider of telephone exchange service or telephone toll service except in accordance with the verification procedures as the Federal Communications Commission shall prescribe; and (3) "Subscriber" means a telecommunications service provider's retail business customer or a retail residential customer.
+
+Acts 1999, No. 1489, § 1.
+
+## Section 4-88-402 - Slamming
+
+No telecommunications service provider and no person acting on behalf of any telecommunications service provider shall engage in the practice of slamming as defined in § 4-88-401(2) .
+
+Acts 1999, No. 1489, § 1.
+
+## Section 4-88-403 - Penalties, remedies, and enforcement
+
+(a) When a person violates this subchapter or a rule prescribed under this subchapter, the violation shall constitute an unfair or deceptive act or practice as defined by this chapter. (b) (1) All remedies, penalties, and authority granted to the Attorney General under this chapter shall be available to the Attorney General for the enforcement of this subchapter. (2) The remedies and penalties provided by this section are cumulative to each other and the remedies or penalties available under all other laws of this state.
+
+Amended by Act 2019, No. 315,§ 131, eff. 7/24/2019.
+
+Acts 1999, No. 1489, § 1.
+
+## Section 4-88-501 - Definitions
+
+As used in this subchapter: (1) "Person" shall have the same meaning as provided in § 4-88-102 ; and (2) "School calendar" means a poster or other printed material that depicts a school mascot, emblem, or name in conjunction with an athletic event or schedule.
+
+Acts 1999, No. 1284, § 1.
+
+## Section 4-88-502 - Violations
+
+(a) This subchapter shall not be construed to permit an activity otherwise prohibited by law. (b) (1) A person who solicits advertisements for school calendars shall disclose whether or not the school whose name, emblem, or mascot is used will receive any funds as a result of the solicitation and, if so, what percentage or amount of those funds the school will receive. (2) If the school whose name, emblem, or mascot is used will not receive a percentage of any funds raised, the person making the solicitation must clearly and conspicuously disclose, both orally and in writing at the time the person makes the solicitation, that the school will not receive a percentage of any funds raised. (c) Subsection (b) of this section shall not apply to a person who solicits advertisements for university calendars when the person has a written contract with the university.
+
+Acts 1999, No. 1284, § 2; 2009, No. 645, § 1; 2011, No. 719, § 4.
+
+## Section 4-88-503 - Penalty
+
+(a) A violation of this subchapter shall constitute a violation of § 4-88-101 et seq. pertaining to deceptive trade practices. (b) All remedies, penalties, and authority granted to the Attorney General under § 4-88-101 et seq. shall be available to the Attorney General for the enforcement of this subchapter.
+
+Acts 1999, No. 1284, § 3.
+
+## Section 4-88-601 - Title
+
+This subchapter may be referred to and cited as the "Unsolicited Commercial and Sexually Explicit Electronic Mail Prevention Act".
+
+Acts 2003, No. 1019, § 1.
+
+## Section 4-88-602 - Definitions
+
+As used in this subchapter: (1) "Commercial" means for the purpose of promoting the sale, lease, or exchange of goods, services, or real property; (2) "Computer network" means a set of related remotely connected devices and communication facilities, including two (2) or more computers with the capability to transmit data through communication facilities; (3) "Electronic mail" means an electronic message, a file, data, or other information that is transmitted: (A) Between two (2) or more computers, computer networks, or electronic terminals; or (B) Within or between computer networks; (4) "Electronic mail address" means a destination commonly expressed as a string of characters to which electronic mail may be sent or delivered; (5) "Electronic mail service provider" means a person who: (A) Is an intermediary in the transmission of electronic mail from the sender to the recipient; or (B) Provides to end users of electronic mail service the ability to send and receive electronic mail; (6) "Harmful to minors" shall have the same meaning as set forth in § 5-68-501(2) ; (7) "Interactive computer service" means an information service, system, or access software provider that provides or enables computer access by multiple users to a computer server, including specifically a service or system that provides access to the internet, and also the systems operated or services offered by libraries or educational institutions; (8) "Internet domain name" means a globally unique, hierarchical reference to an internet host or service assigned through centralized internet authorities and comprising a series of character strings separated by periods, with the right-most string specifying the top of the hierarchy; (9) "Person" means any individual, corporation, partnership, association, limited liability company, any other form or business association, or any combination of them; (10) (A) (i) "Preexisting business relationship" means that there was a business transaction or communication between the sender and the recipient of a commercial electronic mail message during the five-year period preceding the receipt of that message. (ii) A preexisting business relationship does not exist after a recipient requests to be removed from the distribution list of a sender. (B) If a sender operates through separate lines of business or divisions and holds itself out to the recipient as that particular line of business or division rather than as the entity of which the line of business or division is a part, then the line of business or the division shall be treated as the sender for purposes of this section; (11) "Sexually explicit electronic mail" means a commercial electronic mail that contains material that is harmful to minors or promotes an electronic link to material that is harmful to minors; and (12) "Unsolicited" means without the recipient's express permission, except that commercial electronic mail is not unsolicited if the sender has a preexisting business or personal relationship with the recipient.
+
+Acts 2003, No. 1019, § 1.
+
+## Section 4-88-603 - Unsolicited commercial or sexually explicit electronic mail - Requirements
+
+(a) Each person who sends or causes to be sent an unsolicited commercial electronic mail or an unsolicited sexually explicit electronic mail through the intermediary of an electronic mail service provider or to an electronic mail address held by a resident of the state shall: (1) Conspicuously state in the electronic mail the sender's: (A) Legal name; (B) Correct street address; and (C) Valid internet domain name; (2) For a sexually explicit electronic mail, include in the electronic mail a subject line that contains "adv:adult" as the first nine (9) characters; (3) Provide the recipient a convenient, no-cost mechanism to notify the sender not to send any future electronic mail to the recipient, including: (A) Return electronic mail to a valid, functioning return electronic address; and (B) For a sexually explicit electronic mail and if the sender has a toll-free telephone number, the sender's toll-free telephone number; and (4) Conspicuously provide in the text of the electronic mail a notice: (A) That informs the recipient that the recipient may conveniently and at no cost be excluded from future commercial or sexually explicit electronic mail, as the case may be, from the sender; and (B) For sexually explicit electronic mail, if the sender has a toll-free telephone number, that includes the sender's valid, toll-free telephone number that the recipient may call to be excluded from future electronic mail from the sender. (b) (1) A commercial electronic mail is not unsolicited if the sender has a preexisting business or personal relationship with the recipient. (2) The sender of a commercial electronic mail of this nature must still include in the electronic mail message the required disclosures set forth in subdivisions (a)(3) and (4) of this section and shall remove the recipient from future mailings if requested. (c) A person who sends or causes to be sent an unsolicited commercial electronic mail or an unsolicited sexually explicit electronic mail through the intermediary of an electronic mail service provider located in the state or to an electronic mail address held by a resident of the state may not: (1) Use a third party's internet domain name in identifying the point of origin or in stating the transmission path of the electronic mail without the third party's consent; (2) Misrepresent any information in identifying the point of origin or the transmission path of the electronic mail; or (3) Fail to include in the electronic mail the information necessary to identify the point of origin of the electronic mail. (d) (1) If the recipient of an unsolicited commercial electronic mail or an unsolicited sexually explicit electronic mail notifies the sender that the recipient does not want to receive future commercial electronic mail or future sexually explicit electronic mail from the sender, the sender may not send that recipient a commercial electronic mail or a sexually explicit electronic mail either directly or through a subsidiary or affiliate. (2) If a recipient has requested to be removed from future mailings, the sender may recontact the recipient if a preexisting business relationship has been reestablished or if the recipient has expressly requested to receive future mailings from the sender.
+
+Acts 2003, No. 1019, § 1.
+
+## Section 4-88-604 - Interactive computer service and electronic mail service provider authority
+
+(a) An interactive computer service or electronic mail service provider may block the receipt or transmission through its service of any bulk electronic mail that it reasonably believes is or will be sent in violation of this subchapter. (b) An interactive computer service or electronic mail service provider is not: (1) In violation of this section and the injured party shall not have a cause of action against an interactive computer service or mail service provider due to the fact that the interactive computer service or electronic mail service provider: (A) Is an intermediary between the sender and recipient in the transmission of an electronic mail that violates this section; or (B) Provides transmission of unsolicited commercial electronic mail messages over the provider's computer network or facilities; or (2) Liable for any action it voluntarily takes in good faith to block the receipt or transmission through its service of any electronic mail advertisements that it believes is or will be sent in violation of this subchapter. (c) An interactive computer service may disconnect or terminate the service of any person who is in violation of this subchapter.
+
+Acts 2003, No. 1019, § 1.
+
+## Section 4-88-605 - Criminal penalty
+
+(a) A person who violates any requirement of § 4-88-603 with respect to an unsolicited sexually explicit electronic mail is guilty of a Class B misdemeanor. (b) A person who is found guilty of, or pleads guilty or nolo contendere to, violations of § 4-88-603 is not relieved from civil liability in an action under § 4-88-606 .
+
+Acts 2003, No. 1019, § 1.
+
+## Section 4-88-606 - Civil action for violation - Election on damages - Costs and attorney's fees - Defense
+
+(a) For any violation of a provision of this subchapter, an action may be brought by: (1) A person who received the unsolicited commercial electronic mail or unsolicited sexually explicit electronic mail that violates this subchapter; or (2) An electronic mail service provider through whose facilities the unsolicited commercial electronic mail or unsolicited sexually explicit electronic mail was transmitted. (b) (1) In each action under subdivision (a)(1) of this section, a recipient or electronic mail service provider may elect, in lieu of actual damages, to recover the lesser of: (A) Ten dollars ($10.00) per unsolicited commercial electronic mail or unsolicited sexually explicit electronic mail sent to a previously opted-out electronic mail address or transmitted through the electronic mail service provider or otherwise sent in violation of this subchapter; or (B) Twenty-five thousand dollars ($25,000) per day the violation occurs. (2) Each prevailing recipient or electronic mail service provider shall be awarded costs and reasonable attorney's fees. (c) It is an affirmative defense to a violation of this subchapter if a person can demonstrate that the sender at the time of the alleged violation had: (1) Maintained a list of consumers who have notified the person not to send any subsequent commercial electronic messages; (2) Established and implemented with due care and reasonable practices and procedures to effectively prevent unsolicited commercial electronic mail messages in violation of this subchapter; (3) Trained the sender's personnel in the requirements of this subchapter; and (4) Maintained records demonstrating compliance with this subchapter.
+
+Acts 2003, No. 1019, § 1.
+
+## Section 4-88-607 - Enforcement of subchapter
+
+(a) (1) Any transmission of unsolicited commercial or sexually explicit electronic mail in violation of this subchapter shall constitute an unfair and deceptive act or practice under § 4-88-107 . (2) All remedies, penalties, and authority granted to the Attorney General under the Deceptive Trade Practices Act, § 4-88-101 et seq., or this subchapter shall be available to the Attorney General for the enforcement of this subchapter. (b) The prosecuting attorneys of the various districts and counties of this state shall also have full authority to enforce the provisions of this subchapter. (c) Nothing in the provisions of this subchapter shall prohibit the bringing of a civil action against a violator of this subchapter by an individual harmed by a deceptive trade practice.
+
+Acts 2003, No. 1019, § 1.
+
+## Section 4-88-701 - Short title
+
+This act shall be known and may be cited as the "Fair Gift Card Act".
+
+Acts 2007, No. 304, § 1.
+
+## Section 4-88-702 - Definitions
+
+As used in this subchapter: (1) "Debit card" means any card issued by a financial institution to a consumer for use in initiating an electronic fund transfer from the account of the consumer at the financial institution for the purpose of transferring money between accounts or obtaining money, property, labor, or services; (2) "Dormancy fee" or "inactivity charge or fee" means a fee, a charge, or a penalty for nonuse or inactivity of a gift certificate, a store gift card, or a prepaid general use card; (3) "Financial institution" means a state or national bank, a state or federal savings and loan association, a mutual savings bank, a state or federal credit union, or any other person that, directly or indirectly, holds a transaction account belonging to a consumer; (4) (A) "General use prepaid card" means a card or other electronic payment device issued by a bank or financial institution that is: (i) Usable at multiple, unaffiliated merchants or service providers or at automated teller machines; (ii) Issued in a requested amount whether or not that amount may be, at the option of the issuer, increased in value or reloaded if requested by the holder; (iii) Purchased or loaded on a prepaid basis; and (iv) Honored, upon presentation, by merchants for goods or services or at automated teller machines. (B) "General use prepaid card" does not include: (i) A debit card that is linked to a demand deposit account or a share draft account; and (ii) A written promise, plastic card, or other electronic device that is: (a) Used solely for telephone services; or (b) Associated with a demand deposit account, checking account, savings account, or similar account in the name of the individual at a bank or financial institution that provides payment solely by debiting the account; (5) (A) "Gift certificate" means a written promise that is: (i) Usable at a single merchant or an affiliated group of merchants that share the same name, mark, or logo; (ii) Issued in a specific amount and cannot be increased; (iii) Purchased on a prepaid basis in exchange for payment; and (iv) Honored upon presentation by the single merchant or affiliated group of merchants for goods or services. (B) "Gift certificate" does not include a written promise, plastic card, or other electronic device that is: (i) Used solely for telephone services; or (ii) Associated with a demand deposit account, checking account, savings account, or similar account in the name of the individual at a bank or financial institution that provides payment solely by debiting the account; (6) "Service fee" means a periodic fee, a charge, or a penalty for holding or use of a gift certificate, a store card, or a prepaid general use card; (7) (A) "Store gift card" means a plastic card or other electronic payment device that is: (i) Usable at a single merchant or an affiliated group of merchants that share the same name, mark, or logo; (ii) Issued in a specified amount and may or may not be increased in value or reloaded; (iii) Purchased on a prepaid basis in exchange for payment; and (iv) Honored upon presentation by the single merchant or affiliated group of merchants for goods or services. (B) "Store gift card" does not include a written promise, plastic card, or other electronic device that is: (i) Used solely for telephone services; or (ii) Associated with a demand deposit account, checking account, savings account, or similar account in the name of the individual at a bank or financial institution that provides payment solely by debiting the account; and (8) (A) "Transaction account" means a deposit or an account on which the depositor or account holder is permitted to make withdrawals by negotiable or transferable instrument, a payment order of withdrawal, telephone transfer, or other similar method for the purpose of making payments or transfers to third persons or others. (B) "Transaction account" includes demand deposits, negotiable order of withdrawal accounts, savings deposits subject to automatic transfers, and share draft accounts.
+
+Acts 2007, No. 304, § 1.
+
+## Section 4-88-703 - Regulation of unfair and deceptive acts and practices in connection with gift cards
+
+(a) A person shall not sell or issue a gift certificate, a store gift card, or a general use prepaid card that is subject to an expiration date earlier than two (2) years from the date of issuance or sale of the gift certificate, store gift card, or general use prepaid card. (b) A dormancy fee, an inactivity charge or fee, or a service fee shall not be charged on a gift certificate, a store gift card, or a general use prepaid card before two (2) years from the date of issuance or sale of the gift certificate, store gift card, or general use prepaid card. (c) Upon the expiration of the two-year time period referenced in subsection (b) of this section, a gift certificate, a store gift card, or a general use prepaid card may be subject to expiration or a postsale fee, including a service fee, a dormancy fee, an account maintenance fee, a cash-out fee, a gift card replacement fee, an activation fee, or a reactivation fee if the following disclosures are printed clearly in a conspicuous place on the front or back of the gift certificate, the store gift card, or the general use prepaid card in at least 10-point type: (1) The date on which the gift certificate, the store gift card, or the general use prepaid card expires; and (2) With respect to a postsale fee: (A) The amount of the fee; (B) The circumstances under which the fee will be imposed; (C) The frequency with which the fee will be imposed; and (D) Whether the fee is triggered by inactivity. (d) If the disclosures required by subsection (c) of this section are hidden by the packaging of the gift certificate, the store gift card, or the general use prepaid card, the seller or issuer shall give the purchaser a written statement of the disclosures before the gift certificate, the store gift card, or the general use prepaid card is sold or issued. (e) (1) If a gift certificate, a store gift card, or a general use prepaid card is sold or issued by electronic means, the seller or issuer shall include a conspicuous written statement of the information required by subsection (c) of this section in the electronic message offering the gift certificate, the store gift card, or the general use prepaid card. (2) If a gift certificate, a store gift card, or a general use prepaid card is sold or issued by telephonic means, the seller or issuer shall state the information required by subsection (c) of this section to the purchaser. (f) A term or condition disclosed under subsection (c) of this section shall not be changed after the date of purchase or issuance of the gift certificate, the store gift card, or the general use prepaid card unless the change benefits the holder of the gift certificate, the store gift card, or the general use prepaid card.
+
+Acts 2007, No. 304, § 1.
+
+## Section 4-88-704 - Exclusions
+
+The prohibitions and requirements of this subchapter shall not apply to gift certificates, store gift cards, or general use prepaid cards that: (1) Are distributed pursuant to an award, loyalty, or promotional program and for which there is no money or other value exchanged; (2) Expire not later than thirty (30) days after the date they are sold and are sold below the face value of the gift certificate, the store gift card, or the general use prepaid card to an employer or to a nonprofit or charitable organization for fundraising purposes; or (3) Are usable with multiple, unaffiliated sellers of goods or services and are issued by a financial institution under § 4-88-702(3) .
+
+Acts 2007, No. 304, § 1.
+
+## Section 4-88-705 - Enforcement
+
+A violation of the provisions of this subchapter shall constitute a deceptive and unconscionable trade practice as defined by § 4-88-101 et seq. and is subject to all the authority, remedies, and penalties granted under those sections.
+
+Acts 2007, No. 304, § 1.
+
+## Section 4-88-706 - Rules
+
+(a) The State Bank Department shall promulgate rules pertaining to the regulation of state-chartered banks and the selling of gift cards. (b) The department shall have authority of the sale of gift cards by state-chartered banks and promulgate rules based on guidance issued by the United States Comptroller of the Currency in the United States Office of the Comptroller of the Currency Bulletin 2006-34 on August 14, 2006.
+
+Acts 2007, No. 304, § 1.
+
+## Section 4-88-801 - Title
+
+This subchapter shall be known and may be cited as the "Fair Disclosure of State Funded Payments for Pharmacists' Services Act".
+
+Acts 2009, No. 769, § 1.
+
+## Section 4-88-802 - Definitions
+
+As used in this subchapter: (1) "Pharmacist" means a licensed pharmacist as defined in § 17-92-101 ; (2) "Pharmacist services" means products, goods, or services provided as a part of the practice of pharmacy as defined in § 17-92-101 to individuals who reside or are employed in this state; (3) "Pharmacy" means the same as defined in § 17-92-101 ; (4) "Pharmacy benefits manager" or "PBM" means an entity that administers or manages a pharmacy benefits plan or program; and (5) "Pharmacy benefits plan or program" means any plan or program that is funded by state dollars to furnish, cover the cost of, or otherwise provide for pharmacist services to individuals who reside or are employed in this state.
+
+Acts 2009, No. 769, § 1.
+
+## Section 4-88-803 - Required practices
+
+(a) A PBM, when seeking payment or reimbursement for pharmacist services provided in connection with a pharmacy benefits plan or program or reporting expenditures for pharmacist services provided in connection with a pharmacy benefits plan or program, shall itemize by individual claim: (1) The amount actually paid or to be paid to the pharmacy or pharmacist for the pharmacist services; (2) The identity of the pharmacy or pharmacist actually paid or to be paid; and (3) The prescription number or other identifier of the pharmacist services. (b) A PBM shall pay the amounts it receives for pharmacist services provided in connection with a pharmacy benefits plan or program to the pharmacies or pharmacists that provided the pharmacist services. (c) This section does not: (1) Require a PBM to set specific fees, rates, or schedules for payment for pharmacist services; (2) Prohibit a PBM from charging for any services in addition to pharmacist services; or (3) Require a PBM to pay a pharmacy or pharmacist more on any claim than the amount disclosed under subdivision (a)(1) of this section. (d) (1) Unless otherwise required more frequently by the Insurance Commissioner, a pharmacy benefits manager shall file an annual report with the commissioner providing the information required under subsection (a) of this section pursuant to the timing, format, and requirements issued by rule of the State Insurance Department. (2) The annual report is: (A) Considered proprietary and confidential under § 23-61-107(a)(4) and § 23-61-207 ; and (B) Not subject to the Freedom of Information Act of 1967, § 25-19-101 et seq. (3) This section is not subject to § 4-88-113(f)(1)(B) .
+
+Amended by Act 2018EX2, No. 3,§ 2, eff. 3/19/2018.
+
+Amended by Act 2018EX2, No. 1,§ 2, eff. 3/15/2018.
+
+Acts 2009, No. 769, § 1.
+
+## Section 4-88-804 - Enforcement
+
+A violation of this subchapter is a deceptive and unconscionable trade practice under the Deceptive Trade Practices Act, § 4-88-101 et seq.
+
+Acts 2009, No. 769, § 1.
+
+## Section 4-88-901 - Applicability
+
+(a) This subchapter applies to a residential real estate repair contract under which a person has contracted with a residential contractor to provide goods or services to be paid from the proceeds of a property and casualty insurance policy. (b) The rights and responsibilities contained in this subchapter are in addition to those under § 4-89-101 et seq. and § 17-25-501 .
+
+Added by Act 2013, No. 1360,§ 1, eff. 8/16/2013.
+
+## Section 4-88-902 - Definitions
+
+As used in this subchapter: (1) (A) "Emergency services" means services performed with the express permission of the insured and that are immediately necessary for: (i) The preservation of the residential real estate; or (ii) The health of the insured, owner, or possessor. (B) "Emergency services" does not include inspection of the residential real estate or an estimation of the repair costs; (2) "Insured" means the person whose name appears on the face of the property and casualty insurance policy; (3) "Residential contractor" means a person or entity in the business of contracting or offering to contract with an insured, owner, or possessor of residential real estate to repair or replace roof systems or perform other exterior repair, replacement, construction, or reconstruction work on residential real estate; (4) "Residential real estate" means a new or existing dwelling constructed for habitation by one (1) to four (4) families, including a detached garage; (5) "Residential real estate repair contract" means a written contract with an insured to repair residential real estate and provide goods and services to be paid under a property and casualty insurance policy; and (6) "Roof system" means roof coverings, roof sheathing, roof weatherproofing, and insulation.
+
+Added by Act 2013, No. 1360,§ 1, eff. 8/16/2013.
+
+## Section 4-88-903 - Notice of cancellation
+
+Before signing a residential real estate repair contract with an insured, a residential contractor shall furnish to the insured: (1) The following statement in at least 10-point boldface type, the following:
+
+"You may cancel this residential real estate repair contract at any time within three (3) business days after you have received written notification from your insurer that all or any part of the claim or residential real estate repair contract is not a covered loss under the insurance policy. See attached notice of cancellation form for an explanation of this right."; and (2) A fully completed form in duplicate, captioned "NOTICE OF CANCELLATION", that is attached to the residential real estate repair contract for repairs to residential real estate, that is easily detachable, and contains the following in at least 10-point boldface type:
+
+"NOTICE OF CANCELLATION
+
+(Enter date of transaction)
+
+If you are notified by your insurer that all or any part of the claim or residential real estate repair contract is not a covered loss under the insurance policy, you may cancel the residential real estate repair contract by mailing or delivering a signed and dated copy of this cancellation notice or another written notice to (name of residential contractor) at (address of residential contractor's place of business) at any time within three (3) business days after you have received such notice from your insurer. If you cancel, any payments made under the residential real estate repair contract except for certain emergency services already performed by the residential contractor will be returned to you within ten (10) business days following receipt by the residential contractor of your cancellation notice.
+
+I CANCEL THIS TRANSACTION
+
+_______________________
+
+(DATE)
+
+_______________________
+
+(INSURED'S SIGNATURE)."
+
+Added by Act 2013, No. 1360,§ 1, eff. 8/16/2013.
+
+## Section 4-88-904 - Commencement of work - Cancellation
+
+(a) A residential contractor in a residential real estate repair contract with an insured shall not commence work until the insured's right to cancel under subsection (b) of this section has expired. (b) A person who has entered into a residential real estate repair contract with a residential contractor may cancel the residential real estate repair contract within three (3) business days after the insured has received written notice from the insurer in response to an insurance claim filed that all or any part of the claim or residential real estate repair contract is not a covered loss under the insurance policy. (c) (1) The insured cancels the residential real estate repair contract by giving written notice of cancellation to the residential contractor in person or by mailing it to the address stated in the residential real estate repair contract. (2) If the notice of cancellation is given by mail, it is effective upon deposit of the notice into the United States mail, postage prepaid, and properly addressed to the residential contractor. (3) The notice of cancellation is not required to be in a particular form and is sufficient if it expresses in writing an intention of the insured not to be bound by the residential real estate repair contract. (d) (1) Within ten (10) days after cancellation of a residential real estate repair contract, the residential contractor shall tender to the insured any payments, partial payments, or deposits made and any note or other evidence of indebtedness. (2) If the residential contractor has performed any emergency services, the residential contractor is entitled to the reasonable value of such emergency services. (e) Any provision in a residential real estate repair contract that requires the payment of a fee for anything except emergency services is not enforceable against the insured that has cancelled a residential real estate repair contract under this section.
+
+Added by Act 2013, No. 1360,§ 1, eff. 8/16/2013.
+
+## Section 4-88-905 - Violations
+
+(a) A violation of this subchapter by a residential contractor is an unfair and deceptive act or practice as defined by this chapter. (b) This subchapter does not prohibit an insured that is harmed by a deceptive trade practice from commencing a civil action against a residential contractor.
+
+Added by Act 2013, No. 1360,§ 1, eff. 8/16/2013.
+
+## Section 4-88-1001 - Title
+
+This subchapter shall be known and may be cited as the "Patient Rights Regarding Payment for Pharmacists Services Act".
+
+Added by Act 2015, No. 1025,§ 1, eff. 7/22/2015.
+
+## Section 4-88-1002 - Definitions
+
+As used in this subchapter: (1) "Pharmacist" means a licensed pharmacist as defined in § 17-92-101 ; (2) "Pharmacists services" means products, goods, or services provided as a part of the practice of pharmacy as defined in § 17-92-101 , to individuals who reside or are employed in this state; (3) "Pharmacy" means the same as defined in § 17-92-101 ; (4) "Pharmacy benefits manager" means an entity that administers or manages a pharmacy benefits plan or program; (5) "Pharmacy benefits plan or program" means any plan or program that pays for, reimburses, covers the cost of, or otherwise provides for pharmacists services to individuals who reside or are employed in this state; (6) "Provider choice" means an individual's choice of provider network, individual pharmacy or pharmacist, or method of delivery under a pharmacy benefits plan or program; and (7) "Provider network" means a network of pharmacists or pharmacies that are authorized by a pharmacy benefits plan or program to provide pharmacists services.
+
+Added by Act 2015, No. 1025,§ 1, eff. 7/22/2015.
+
+## Section 4-88-1003 - Change in choice of provider without express consent - Prohibited
+
+(a) When an individual's consent to altering or changing provider choice is required, the individual's express consent to effect such change within the pharmacy benefits plan or program provider network shall be obtained. (b) An alteration or change in provider choice that is subject to an individual's later opting out of the alteration or change does not satisfy subsection (a) of this section.
+
+Added by Act 2015, No. 1025,§ 1, eff. 7/22/2015.
+
+## Section 4-88-1004 - Limitation - Patient payment
+
+An individual shall not be required to make a payment for pharmacists services in an amount greater than the pharmacist or pharmacy providing the pharmacists services may retain from all payment sources.
+
+Added by Act 2015, No. 1025,§ 1, eff. 7/22/2015.
+
+## Section 4-88-1005 - Enforcement
+
+The Insurance Commissioner shall: (1) Enforce this subchapter using powers granted to the commissioner in the Arkansas Insurance Code; and (2) Be entitled to seek an injunction against a pharmacy benefits manager in a court of competent jurisdiction.
+
+Added by Act 2015, No. 1025,§ 1, eff. 7/22/2015.
+
+## Section 4-88-1101 - Title
+
+This subchapter shall be known and may be cited as the "Customer Protections for Net-metering Customers Act".
+
+Added by Act 2023, No. 278,§ 2, eff. 3/13/2023.
+
+## Section 4-88-1102 - Definitions
+
+As used in this subchapter: (1) "Net-metering customer" has the same meaning as defined in the Arkansas Cost-Shifting Prevention Act of 2023, § 23-18-601 et seq.; and (2) "Net-metering facility" has the same meaning as defined in the Arkansas Cost-Shifting Prevention Act of 2023, § 23-18-601 et seq.
+
+Added by Act 2023, No. 278,§ 2, eff. 3/13/2023.
+
+## Section 4-88-1103 - Net-metering customer protections
+
+The net-metering customer protections shall include without limitation the following, a: (1) Requirement that any person who sells or leases a net-metering facility or who provides a net-metering service to a net-metering customer under the Arkansas Cost-Shifting Prevention Act of 2023, § 23-18-601 et seq., shall: (A) (i) Provide a prospective or existing net-metering customer a minimum of five (5) business days to evaluate a proposal to construct a net-metering facility to provide all or part of the prospective or existing net-metering customer's needs for electric energy within a single electric utility's allocated service territory. (ii) The proposal to the prospective or existing net-metering customer shall include: (a) A description of the system and the system's placement on the net-metering customer's premises or other location consistent with the requirements of this subchapter; (b) A description of the nameplate generating capacity and expected monthly and annual output of the net-metering facility in kilowatt hours; (c) The estimated annual degradation to the net-metering facility; (d) An estimated timeline for the installation of the net-metering facility; (e) The total cost of the net-metering facility; (f) The amounts due at the signing for and at the completion of the installation; (g) The payment schedule; (h) The payback period; (i) The forecasted savings monthly and annual bill savings provided by the proposed net-metering facility in dollars based on the rate structure as defined in § 23-18-606 ; (j) A description of any warranties; (k) The length of the term of any warranties; and (l) Notice that the prospective or existing net-metering customer may file a complaint with the Attorney General; (B) Perform an energy efficiency audit on the potential or existing net-metering customer's premises and any customer meter locations to be served by the proposed net-metering facility as part of the proposal to sell or lease a net-metering facility or provide a net-metering service to a net-metering customer under the Arkansas Cost-Shifting Prevention Act of 2023, § 23-18-601 et seq., or inform the prospective or existing net-metering customer of how to obtain an energy efficiency audit; and (C) Inform the prospective or existing net-metering customer of the available energy efficiency measures to address the results of the audit as part of the proposal to sell or lease a net-metering facility or provide a net-metering service to a net-metering customer under the Arkansas Cost-Shifting Prevention Act of 2023, § 23-18-601 et seq.; (2) Demonstration to the prospective or existing net-metering customer that the proposed net-metering facility meets all applicable safety requirements and standards; and (3) Demonstration to the prospective or existing net-metering customer that the person who sells or leases a net-metering facility or who provides a net metering service to a net metering customer holds: (A) All required permits to install, construct, or operate a net-metering facility in the state, and, if the governing county, city, or local authority does not require an electrical inspection, an executed certification that no electrical inspection or permit is required; and (B) (i) A single ten thousand dollar ($10,000) bond obtained under § 17-25-404 ; (ii) Commercial general liability insurance coverage with a limit of at least one million dollars ($1,000,000); and (iii) An applicable contractor's license issued by the Contractors Licensing Board obtained prior to conducting business.
+
+Amended by Act 2023, No. 476,§ 1, eff. 4/4/2023.
+
+Added by Act 2023, No. 278,§ 2, eff. 3/13/2023.
+
+## Section 4-88-1104 - Enforcement
+
+Any violation of this subchapter may be enforced under the powers of the office of the Attorney General under the Deceptive Trade Practices Act, § 4-88-101 et seq., including without limitation all enforcement powers.
+
+Added by Act 2023, No. 278,§ 2, eff. 3/13/2023.
+
+## Section 4-88-1201 - Title
+
+This subchapter shall be known and may be cited as the "Event Ticketing and Resale Consumer Protection Act".
+
+Added by Act 2023, No. 590,§ 1, eff. 4/11/2023.
+
+## Section 4-88-1202 - Definitions
+
+As used in this subchapter: (1) "Character strings" means a linear sequence of characters that are typically stored in or processed by a computer; (2) "Event" means a theatrical or musical production, concert, show, sporting event, competition, tournament, festival, dance performance, rodeo, pageant, speaker, exhibition, or other entertainment open to the public in this state for which tickets are normally sold; (3) "Internet domain name" means a globally unique, hierarchical reference to an internet host or service, that: (A) Is assigned through centralized internet naming authorities; (B) Is comprised of a series of character strings separated by periods; and (C) Has the right most character strings specifying the top of the hierarchy; (4) "Legislative body" means the quorum court of a county or the city council, board of directors, board of commissioners, or similar elected governing body of local government; (5) "Local government" means: (A) A county; (B) A city of the first class, a city of the second class, or an incorporated town; or (C) Any other state entity or political subdivision of the state or an agency, board, or commission of the state entity or political subdivision of the state; (6) "Ordinance" means an ordinance, resolution, or other appropriate legislative enactment of a legislative body; (7) "Platform operator" means an individual, organization, group, association, partnership, or corporation owning, operating, managing, licensing, or controlling a ticketing platform for an event scheduled at a venue in this state; (8) "Ticket" means a printed, electronic, or other type of evidence of the right, option, or opportunity to occupy space at or enter a venue, or to attend an event, even if not evidenced by any physical manifestation of the right, option, or opportunity; (9) "Ticket issuer" means an individual, public or private entity, organization, group, association, partnership, or corporation that originally makes tickets available, directly or indirectly, to an event, and may include without limitation: (A) A platform operator; (B) An operator of a venue; (C) A sponsor or promoter of an event; (D) A sports team participating in an event or a conference or league whose teams are participating in an event; (E) A dance company, musical group, theater company, or a similar participant in an event; (F) An institution of higher education; or (G) An agent of the individual, organization, group, association, partnership, or corporation; (10) "Ticketing platform" means a physical or virtual marketplace that enables a consumer to purchase and sell tickets, including without limitation a kiosk, mobile phone application, portal, or website advertising the sale of tickets, offering the sale of tickets, or offering tickets for resale to an event at a venue in this state; (11) "Uniform resource location" or "URL" means an internet website's name that may include a domain or subdomain name, or both; and (12) "Venue" means an amphitheater, arena, camp, fair, festival ground, coliseum, concert or performance hall, conference center, performing arts center, stadium, theater, or any other type of venue used for events in this state.
+
+Added by Act 2023, No. 590,§ 1, eff. 4/11/2023.
+
+## Section 4-88-1203 - Prohibitions by local government - Resale of tickets
+
+(a) (1) A local government shall not enact or adopt an ordinance, policy, regulation, or action that prohibits the sale or resale of a ticket for admission to a legal event at any price or prohibits the charge of any fee in connection with the sale or resale. (2) This section shall not be construed to prevent the enforcement of an ordinance relating to any criminal activity, consumer fraud, false advertising, or other deceptive business or trade practices. (b) (1) Unless otherwise permitted by a ticket issuer, if an individual, organization, group, association, partnership, or corporation knowingly purchases from the ticket issuer a quantity of tickets to an event that exceeds the maximum ticket limit quantity posted by, or on behalf of, the ticket issuer at the point of original sale or printed on the tickets, and intends to resell the tickets in violation of this subchapter is a violation of § 4-88-107 . (2) An individual, organization, group, association, partnership, or corporation is not liable under this section with respect to tickets if that individual or collective is the ticket issuer. (c) (1) Except as provided in subdivision (c)(2) of this section, an individual, public or private entity, organization, group, association, partnership, or corporation that offers for resale or resells a ticket may charge any amount that the market may reasonably dictate above the admission price charged by the ticket issuer. (2) For a period of no less than ten (10) days, an institution of higher education or its designee shall place a ticket to a collegiate sporting event held in this state that is available for sale to the general public, at a price no greater than the face value of the ticket, but may include associated transactional fees and costs. (d) Under this subchapter, a ticket to a collegiate sporting event designated as being "for sale to the general public" shall not include: (1) Tickets to events issued, hosted, or sold by a third-party vendor; (2) Tickets reserved by an institution of higher education for fundraising directly or through an affiliated entity; (3) Tickets for internal or complimentary usage; or (4) Tickets reserved to meet contractual obligations of the institution of higher education or its affiliated entities. (e) Except as provided in subsection (f) of this section, a platform operator shall not intentionally use an internet domain name, or any subdomain thereof, in a ticketing platform's uniform resource location that contains any of the following: (1) The name of any specific team, league, or venue where events are held; (2) The name of the exhibition or performance or of another event described in subsection (f) of this section, including the name of a person, team, performance, group, or entity scheduled to perform at the event or venue; (3) Any trademark not owned by the platform operator, including without limitation trademarks owned by authorized agents or partners of the venue or event identified in subdivision (e)(1) or subdivision (e)(2) of this section; or (4) Any name or names substantially similar to those in subdivision (e)(1) or subdivision (e)(2) of this section, including without limitation any misspellings of any name or names described in subdivision (e)(1) or subdivision (e)(2) of this section. (f) Subsection (e) of this section does not apply to a platform operator who is authorized by any persons or entities identified in subdivision (e)(1) or subdivision (e)(2) of this section to act on the venue, performer, team, or event's behalf with respect to the sale or resale of tickets. (g) An individual, organization, group, association, partnership, or corporation shall not knowingly sell, give, transfer, use, distribute, or possess with the intent to sell, give, or distribute software that is primarily designed or produced for the purpose of interfering with the operations of any ticket issuer that sells, through a ticketing platform, tickets for admission to an event by circumventing any security measures on the ticket issuer's ticketing platform, circumventing any access control systems of the ticket issuer's ticketing platform, or circumventing any controls or measures that are instituted by the ticket issuer on the ticketing platform to ensure an equitable ticket purchasing process. (h) A violation of this section is an unfair or deceptive trade practice as defined in § 4-88-107 and subject to the enforcement and penalty provisions contained therein.
+
+Added by Act 2023, No. 590,§ 1, eff. 4/11/2023.
+
+## Section 4-88-1204 - Ticket sale requirements - Refunds
+
+(a) An individual who is in the business of selling or reselling tickets to an event or venue in this state or an organization, group, association, partnership, or corporation that sells or resells a ticket to an event or venue in this state shall: (1) Guarantee that the consumer will receive his or her tickets in reasonable time for his or her event; (2) Guarantee that the purchased tickets will provide the consumer valid entry into the event or venue; (3) Maintain a telephone number, email address, live virtual support, provide a physical representative at the venue for the duration of the event or other evolving means of contact for complaints, customer service, and inquiries; and (4) (A) Implement a standard refund policy that provides a consumer a full refund or comparable replacement ticket if: (i) The ticket received by the consumer is counterfeit; (ii) The ticket has been cancelled by the ticket issuer for nonpayment by the original consumer, or for any reason other than an act or omission of the consumer; (iii) The ticket fails to conform to the description provided by the ticket issuer or reseller; (iv) The ticket was not delivered to the consumer before the occurrence of the event, unless the failure of delivery was due to an act or omission of the consumer; or (v) The ticket does not provide the consumer admission to the event or venue for which it was purchased. (B) The refund under subdivision (a)(4)(A) of this section shall include the full order value paid by the consumer for the ticket, in addition to all fees charged in connection with that purchase, including without limitation download fees, delivery fees, shipping fees, and sales taxes. (b) If an event is cancelled and not rescheduled, a consumer is entitled to a refund as provided in subdivision (a)(4)(A) of this section from the ticket issuer, ticketing platform, or reseller from which he or she directly purchased the ticket. (c) (1) It is a violation of the Deceptive Trade Practices Act, § 4-88-101 et seq., if a ticket issuer, ticketing platform, or reseller fails to refund according to subdivision (a)(4)(A) of this section. (2) All available remedies are actionable for a violation of subdivision (c)(1) of this section under § 4-88-107 of the Deceptive Trade Practices Act, § 4-88-101 et seq.
+
+Added by Act 2023, No. 590,§ 1, eff. 4/11/2023.
+
+## Section 4-88-1205 - Counterfeits - Criminal penalties
+
+(a) An individual, organization, group, association, partnership, or corporation that counterfeits, forges, alters, clones, or possesses a ticket, card, wristband, or other medium that accesses or is associated with a ticket, or a ticket, token, or paper designed for admission to or the rendering of services by an event or venue offering services to the general public, with the intent to defraud the event or venue, commits a Class A misdemeanor. (b) An individual, organization, group, association, partnership, or corporation that commits a second or subsequent violation of subsection (a) of this section commits a Class D felony.
+
+Added by Act 2023, No. 590,§ 1, eff. 4/11/2023.
+
+## Section 4-88-1206 - Violations
+
+(a) (1) An individual, organization, group, association, partnership, or corporation violating this subchapter is guilty of a violation. (2) Upon conviction, an individual, organization, group, association, partnership, or corporation shall be fined in a sum not less than one hundred dollars ($100) nor greater than five hundred dollars ($500). (b) Every sale or resale, or offer for sale or resale, that violates this subchapter is a separate actionable offense. (c) An institution of higher education and its officers, agents, employees, volunteers, designees, and affiliated entities shall not be held criminally or civilly liable for a violation of this subchapter. (d) This subchapter shall not be construed as a waiver of any immunity available under state law or its instrumentalities, officers, agents, employees, or volunteers.
+
+Added by Act 2023, No. 590,§ 1, eff. 4/11/2023.
+
+## Section 4-88-1301 - Title
+
+This subchapter shall be known and may be cited as the "Protection of Minors from Distribution of Harmful Material Act".
+
+Added by Act 2023, No. 612,§ 1, eff. 8/1/2023.
+
+## Section 4-88-1302 - Legislative findings and intent
+
+(a) The General Assembly finds that: (1) Pornography is creating a public health crisis and is a corroding influence on minors; (2) Due to advances in technology, the widespread availability of the internet, and limited age verification requirements, minors are exposed to pornography at too early of an age; (3) Pornography contributes to the hyper-sexualization of minors; and (4) Pornography may: (A) Lead to: (i) Low self-esteem; (ii) Body image disorders; (iii) An increase in problematic sexual activity at younger ages; (iv) Increased desire among minors to engage in risky sexual behavior; and (v) Difficulty in forming or maintaining positive, intimate relationships; (B) Impact brain development and function; (C) Contribute to emotional and medical illnesses; (D) Shape deviant sexual arousal; and (E) Promote problematic or harmful sexual behaviors and addiction. (b) It is the intent of the General Assembly to provide a civil remedy for damages against commercial entities that distribute material harmful to minors.
+
+Added by Act 2023, No. 612,§ 1, eff. 8/1/2023.
+
+## Section 4-88-1303 - Definitions
+
+As used in this subchapter: (1) (A) "Commercial entity" means a corporation, limited liability company, partnership, limited partnership, sole proprietorship, or other legally recognized entity. (B) "Commercial entity" includes a third-party vendor; (2) "Digitized identification card" means a data file available on a mobile device that has connectivity to the internet through a state-approved application that allows the mobile device to download the data file from the Office of Driver Services that contains all of the data elements visible on the face and back of a license or identification card and displays the current status of the license or identification card, including valid, expired, cancelled, suspended, revoked, active, or inactive; (3) "Distribute" means to issue, sell, give, provide, deliver, transfer, transmute, circulate, or disseminate by any means; (4) "Internet" means the international computer network of both federal and nonfederal interoperable packet switched data networks; (5) "Material harmful to minors" means: (A) Any material that the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, is designed to appeal to, or is designed to pander to, prurient interest; (B) Any of the following material that exploits, is devoted to, or principally consists of descriptions of actual, simulated, or animated displays or depictions of any of the following, in a manner patently offensive with respect to minors: (i) Nipple of the female breast, pubic hair, anus, vulva, or genitals; (ii) Touching, caressing, or fondling of nipples, breasts, buttocks, the anus, or genitals; or (iii) Sexual intercourse, masturbation, sodomy, bestiality, oral copulation, flagellation, excretory functions, exhibitions of a sexual act, and any other sexual act; and (C) The material taken as a whole lacks serious literary, artistic, political, and scientific value for minors; (6) "Minor" means an individual under eighteen (18) years of age; (7) "News-gathering organization" means: (A) An employee of a newspaper, news publication, or news source, printed or published on an online or mobile platform, of current news and public interest, while operating as an employee of a news-gathering organization, who can provide documentation of the employment with the newspaper, news publication, or news source; or (B) An employee of a radio broadcast station, television broadcast station, cable television operator, or wire service while operating as an employee of a news-gathering organization, who can provide documentation of the employment; (8) "Publish" means to communicate or make information available to another person or entity on a publicly available website; (9) "Reasonable age verification" means to confirm that a person seeking to access published material that may have a substantial portion of material that is harmful to minors is at least eighteen (18) years of age; (10) "Substantial portion" means more than thirty-three and thirty-three hundredths percent (33.33%) of total material on a website which meets the definition of material that is harmful to minors as defined by this section; and (11) (A) "Transactional data" means a sequence of information that documents an exchange, agreement, or transfer between an individual, commercial entity, or a third party used for the purpose of satisfying a request or event. (B) "Transactional data" includes without limitation records from mortgage, education, and employment entities.
+
+Added by Act 2023, No. 612,§ 1, eff. 8/1/2023.
+
+## Section 4-88-1304 - Reasonable age verification methods
+
+(a) A commercial entity shall use a reasonable age verification method before allowing access to a website that contains a substantial portion of material that is harmful to minors. (b) Reasonable age verification methods under subsection (a) of this section include providing: (1) A digitized identification card, including a digital copy of a driver's license under § 27-16-601 et seq.; (2) Government-issued identification; or (3) Any commercially reasonable age verification method that holds an Identity Assurance Level 2 (IAL2).
+
+Added by Act 2023, No. 612,§ 1, eff. 8/1/2023.
+
+## Section 4-88-1305 - Liability for publishers and distributors of material harmful to minors
+
+(a) (1) A commercial entity that knowingly and intentionally publishes or distributes material that is harmful to minors on the internet from a website that contains a substantial portion of material that is harmful to minors is liable if the commercial entity fails to perform reasonable age verification to verify the age of the individual attempting to access the material. (2) If a commercial entity or third-party vendor performs a reasonable age verification, the commercial entity shall not retain any identifying information of the individual after access to the material has been granted. (b) A commercial entity that violates this subchapter is liable to an individual for damages resulting from a minor accessing the material harmful to minors, including court costs and reasonable attorney's fees as ordered by the court. (c) A commercial entity that is found to have knowingly retained identifying information of an individual after access to the material has been granted is liable to the individual for damages resulting from retaining the identifying information, including court costs and reasonable attorney's fees as ordered by the court. (d) This section does not: (1) Apply to a news or public interest broadcast, website video, report, or event; (2) Affect the rights of a news-gathering organization; or (3) Apply to cloud service providers. (e) An internet service provider, or any of its affiliates or subsidiaries or search engines shall not violate this subchapter solely by providing access or connection to or from a website or other information or content on the internet or a facility, system, or network that is not under that internet service provider's control, including transmission, downloading, intermediate storage, access software, or other service that provides access or connectivity, to the extent the internet service provider is not responsible for the creation of the content or the communication that constitutes material that is harmful to minors.
+
+Added by Act 2023, No. 612,§ 1, eff. 8/1/2023.
+
+## Section 4-88-1401 - Definitions
+
+As used in this subchapter: (1) "Account holder" means an individual who creates an account or a profile to use a social media platform; (2) "Arkansas user" means an individual who is a resident of the State of Arkansas and who accesses or attempts to access a social media platform while present in this state by accessing the social media platform using an Arkansas internet protocol address or otherwise known or believed to be in this state while using the social media platform; (3) (A) "Commercial entity" means a corporation, limited liability company, partnership, limited partnership, sole proprietorship, or other legally recognized entity. (B) "Commercial entity" includes a third-party vendor; (4) "Digitized identification card" means a data file available on a mobile device that has connectivity to the internet through a state-approved application that allows the mobile device to download the data file from the Office of Driver Services that contains all of the data elements visible on the face and back of a driver's license or identification card and displays the current status of the driver's license or identification card, including valid, expired, cancelled, suspended, revoked, active, or inactive; (5) "Minor" means an individual under eighteen (18) years of age; (6) "Reasonable age verification" means to confirm that a person seeking to access a social media platform is at least eighteen (18) years of age; (7) (A) "Social media company" means an online forum that a company makes available for an account holder to: (i) Create a public profile, establish an account, or register as a user for the primary purpose of interacting socially with other profiles and accounts; (ii) Upload or create posts or content; (iii) View posts or content of other account holders; and (iv) Interact with other account holders or users, including without limitation establishing mutual connections through request and acceptance. (B) "Social media company" does not include a: (i) (a) Media company that exclusively offers subscription content in which users follow or subscribe unilaterally and whose platform's primary purpose is not social interaction. (b) A social media company that allows a user to generate short video clips of dancing, voice-overs, or other acts of entertainment in which the primary purpose is not educational or informative does not meet the exclusion under subdivision (7)(B)(i) (a) of this section; (ii) Media company that exclusively offers interacting gaming, virtual gaming, or an online service, that allows the creation and uploading of content for the purpose of interacting gaming, entertainment, or associated entertainment, and the communication related to that content; (iii) Company that: (a) Offers cloud storage services, enterprise cybersecurity services, educational devices, or enterprise collaboration tools for kindergarten through grade twelve (K-12) schools; and (b) Derives less than twenty-five percent (25%) of the company's revenue from operating a social media platform, including games and advertising; or (iv) Company that provides career development opportunities, including professional networking, job skills, learning certifications, and job posting and application services; (8) (A) "Social media platform" means a public or semipublic internet-based service or application: (i) That has users in Arkansas; and (ii) (a) On which a substantial function of the service or application is to connect users in order to allow users to interact socially with each other within the service or application. (b) A service or application that provides email or direct messaging shall not be considered to meet the criteria under subdivision (8)(A)(ii) (a) of this section on the basis of that function alone. (B) "Social media platform" does not include an online service, a website, or an application if the predominant or exclusive function is: (i) Email; (ii) Direct messaging consisting of messages, photos, or videos that are sent between devices by electronic means if messages are: (a) Shared between the sender and the recipient or recipients; (b) Only visible to the sender and the recipient or recipients; and (c) Not posted publicly; (iii) A streaming service that: (a) Provides only licensed media in a continuous flow from the service, website, or application to the end user; and (b) Does not obtain a license to the media from a user or account holder by agreement of the streaming service's terms of service; (iv) News, sports, entertainment, or other content that is preselected by the provider and not user generated, including without limitation if any chat, comment, or interactive functionality that is provided is incidental to, directly related to, or dependent upon provision of the content; (v) Online shopping or e-commerce, if the interaction with other users or account holders is generally limited to: (a) The ability to post and comment on reviews; (b) The ability to display lists or collections of goods for sale or wish lists; and (c) Other functions that are focused on online shopping or e-commerce rather than interaction between users or account holders; (vi) Business-to-business software that is not accessible to the general public; (vii) Cloud storage; (viii) Shared document collaboration; (ix) Providing access to or interacting with data visualization platforms, libraries, or hubs; (x) To permit comments on a digital news website, if the news content is posted only by the provider of the digital news website; (xi) For the purpose of providing or obtaining technical support for the social media company's social media platform, products, or services; (xii) Academic or scholarly research; or (xiii) Other research: (a) If: (1) The majority of the content is posted or created by the provider of the online service, website, or application; and (2) The ability to chat, comment, or interact with other users is directly related to the provider's content; (b) That is a classified advertising service that only permits the sale of goods and prohibits the solicitation of personal services; or (c) That is used by and under the direction of an educational entity, including without limitation a: (1) Learning management system; (2) Student engagement program; and (3) Subject-specific or skill-specific program. (C) "Social media platform" does not include a social media platform that is controlled by a business entity that has generated less than one hundred million dollars ($100,000,000) in annual gross revenue; and (9) "User" means a person who has access to view all or some of the posts and content on a social media platform but is not an account holder.
+
+Added by Act 2023, No. 689,§ 1, eff. 9/1/2023.
+
+## Section 4-88-1402 - Social media platforms - Reasonable age verification methods - Parental consent required
+
+(a) A social media company shall not permit an Arkansas user who is a minor to be an account holder on the social media company's social media platform unless the minor has the express consent of a parent or legal guardian. (b) (1) A social media company shall verify the age of an account holder. (2) If an account holder is a minor, the social media company shall confirm that a minor has consent under subsection (a) of this section to become a new account holder, at the time an Arkansas user opens the account. (c) (1) A social media company shall use a third-party vendor to perform reasonable age verification before allowing access to the social media company's social media platform. (2) Reasonable age verification methods under subdivision (c)(1) of this section include providing: (A) A digitized identification card, including a digital copy of a driver's license under § 27-16-601 et seq.; (B) Government-issued identification; or (C) Any commercially reasonable age verification method.
+
+Added by Act 2023, No. 689,§ 1, eff. 9/1/2023.
+
+## Section 4-88-1403 - Liability for social media companies
+
+(a) (1) A social media company that knowingly violates this subchapter is liable if the social media company fails to perform a reasonable age verification. (2) If a social media company performs a reasonable age verification, the social media company shall not retain any identifying information of the individual after access to the social media platform has been granted. (b) (1) As authorized under § 4-88-103 , a prosecutor may initiate an enforcement action against a social media company that allegedly violates § 4-88-1402 . (2) As authorized under § 4-88-104 , the Attorney General may initiate an enforcement action against a social media company that allegedly commits a violation of § 4-88-1402 . (c) (1) A social media company that violates this subchapter is liable to an individual for: (A) A penalty of two thousand five hundred dollars ($2,500) per violation, court costs, and reasonable attorney's fees as ordered by the court; or (B) Damages resulting from a minor accessing a social media platform without his or her parent's or custodian's consent, including court costs and reasonable attorney's fees as ordered by the court. (d) This section does not: (1) Apply to a news or public interest broadcast, website video, report, or event; (2) Affect the rights of a news-gathering organization; or (3) Apply to cloud service providers. (e) An internet service provider, or any of its affiliates or subsidiaries, or search engines, shall not violate this subchapter solely by providing access, connection to or from a website, or other information or content on the internet, or a facility, system, or network that is not under that internet service provider's control, including transmission, downloading, intermediate storage, access software, or other service that provides access or connectivity, to the extent the internet service provider is not responsible for the creation of the content or the communication on a social media platform.
+
+Added by Act 2023, No. 689,§ 1, eff. 9/1/2023.
+
+## Section 4-88-1404 - Liability for commercial entity or third-party vendor
+
+(a) A commercial entity or third-party vendor shall not retain any identifying information of an individual after access to the social media platform has been granted. (b) A commercial entity that is found to have knowingly retained identifying information of an individual after access to the material is granted is liable to the individual for damages resulting from the retention of the identifying information, including court costs and reasonable attorney's fees as ordered by the court.
+
+Added by Act 2023, No. 689,§ 1, eff. 9/1/2023.

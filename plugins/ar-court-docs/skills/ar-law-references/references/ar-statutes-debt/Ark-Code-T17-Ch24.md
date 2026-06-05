@@ -1,68 +1,247 @@
-# Ark. Code Ann. Title 17, Chapter 24 — Collection agencies
+# Ark. Code Ann. Title 17, Chapter 24 — Collection agencies — State Board of Collection Agencies (§ 17-24-101 et seq.)
 
-> **CURATED SUMMARY — NOT VERBATIM STATUTORY TEXT.** This is a structured,
-> citation-rich digest for drafting use. The official section text (public
-> domain) is at https://law.justia.com/codes/arkansas/title-17/ (walk to
-> Chapter 24). A future run of `scripts/pull_arkansas_statutes.py` will
-> supersede this file with verbatim text.
->
-> **NOT LEGAL ADVICE.** Verify every section against the current Ark. Code
-> Ann. before filing.
+> **Source:** https://law.justia.com/codes/arkansas/title-17/
+> **Fetched:** 2026-06-05
+> **Format:** verbatim conversion of the Justia HTML mirror at
+> `law.justia.com/codes/arkansas/`
 
-## Scope
+> **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
+> against the current Ark. Code Ann. before filing.
 
-Chapter 24 establishes the **licensing and regulation of collection agencies**
-operating in Arkansas, administered by the **Arkansas State Board of Collection
-Agencies**. Because Arkansas has **no comprehensive state mini-FDCPA**, this
-licensing regime — alongside the federal FDCPA and the ADTPA — is a primary
-state-law hook in consumer-debt defense: an unlicensed collector's **capacity /
-standing to sue** in Arkansas is challengeable.
+---
 
-## Collection Agency Board licensing (§ 17-24-101 et seq.)
+## Section 17-24-101 - Definition
 
-- **§ 17-24-101 — Definitions.** Defines "collection agency" and related terms.
-  The definition is the gatekeeper for who must be licensed; it generally reaches
-  persons engaged in collecting (or soliciting to collect) debts owed to another,
-  and (importantly for debt-buyer cases) typically reaches buyers of delinquent
-  debt who then collect on their own account (verify the precise reach and the
-  debt-buyer treatment against current text and Board rules).
-- **§ 17-24-102 — Exemptions.** Lists persons and entities **exempt** from
-  licensing — commonly attorneys acting as such, banks and certain regulated
-  financial institutions, and persons collecting their own accounts in their own
-  name (verify the full exemption list against current text before relying on, or
-  conceding, an exemption).
-- **§ 17-24-201 et seq. — Arkansas State Board of Collection Agencies.** Creates
-  the **Board**, sets its membership, and grants rulemaking, licensing, and
-  disciplinary authority over collection agencies.
-- **§ 17-24-301 et seq. — License requirement / application.** Requires a
-  **license** to operate as a collection agency in Arkansas; prescribes the
-  application, qualifications, and the annual license term/renewal (verify the
-  fee and renewal mechanics against current text).
-- **§ 17-24-30x — Surety bond.** Requires the licensee to post and maintain a
-  **surety bond** (and, where applicable, a trust account for funds collected on
-  behalf of clients) as a condition of licensure (verify the bond amount and the
-  exact section against current text).
-- **§ 17-24-40x — Prohibited acts / discipline.** Enumerates prohibited conduct
-  and authorizes the Board to suspend, revoke, or refuse to renew a license and
-  to impose civil penalties.
-- **§ 17-24-50x — Penalties / unlicensed operation.** Operating as a collection
-  agency without a license is unlawful and subject to penalty (verify whether the
-  penalty is civil, criminal, or both, and the exact section, against current
-  text).
+As used in this chapter, unless the context otherwise requires, "collection agency" means any person, partnership, corporation, association, limited liability corporation, or firm that: (1) Engages in the collection of delinquent accounts, bills, or other forms of indebtedness owed or due or asserted to be owed or due to another; (2) Uses a fictitious name or any name other than its own to collect its own accounts receivable; (3) Solicits claims for collection; or (4) Purchases and attempts to collect delinquent accounts or bills.
 
-## Consumer-debt defense hook (unlicensed-collector capacity challenge)
+Amended by Act 2023, No. 360,§ 1, eff. 8/1/2023.
 
-A debt buyer or collection agency that sues in Arkansas without the required
-Board license may face a **capacity / standing-to-sue** challenge: the defendant
-can raise the absence of licensure (and any required bond) by motion and through
-discovery aimed at the plaintiff's Board license status. Confirm, against the
-current statute and Board rules, (1) whether the specific plaintiff falls within
-the **§ 17-24-101 definition**, (2) whether any **§ 17-24-102 exemption** applies
-(attorneys, banks, own-name original creditors), and (3) the precise consequence
-the statute attaches to unlicensed collection — do not overstate the remedy.
+Acts 1965, No. 145, § 2; A.S.A. 1947, § 71-2002; Acts 2009, No. 1455, § 2.
 
-> **Distinctive Arkansas posture:** with no Arkansas mini-FDCPA on the books, the
-> **collection-agency licensing regime** plus the **federal FDCPA** and the
-> **ADTPA** (§ 4-88-101 et seq.) carry the state-law side of consumer-debt
-> defense. Chain-of-title proof (assignment from original creditor to debt buyer,
-> authenticated under Ark. R. Evid. 803(6)/902(11)) remains the companion defense.
+## Section 17-24-102 - Exemptions
+
+(a) This chapter does not apply to: (1) Regular employees of a single creditor; (2) Banks; (3) Trust companies; (4) Savings and loan associations; (5) Abstract companies doing an escrow business; (6) Licensed real estate brokers and agents when the claims or accounts being handled by the broker or agent are related to or in connection with the broker's or agent's regular real estate business; (7) Express and telegraph companies subject to public regulation and supervision; (8) Attorneys at law who use their own names or the names of their law firms to collect or attempt to collect claims, accounts, bills, or other forms of indebtedness owed to them individually or as a firm; (9) (A) Persons, firms, corporations, associations, limited liability corporations, or partnerships handling claims, accounts, or collections under an order of any court. (B) However, child support collection agencies not operating pursuant to Title IV-D of the Social Security Act are not exempt from this chapter and shall be subject to licensure; and (10) Any person, firm, corporation, association, limited liability corporation, or partnership that, for a valuable consideration, purchases accounts, claims, or demands of another that were not in default or delinquent at the time of acquisition and then in the purchaser's own name proceeds to assert or collect the accounts, claims, or demands. (b) Nothing in § 17-24-301 , § 17-24-309 , § 17-24-401 , or this subchapter with respect to licensure by the State Board of Collection Agencies or limitations of fees for collection services shall include or be applicable to attorneys at law licensed to practice in the State of Arkansas who are engaged in rendering legal services for clients in the collection of accounts, debts, or claims, nor shall § 17-24-301 , § 17-24-309 , § 17-24-401 , or this subchapter amend or repeal in any way the exemptions set out in subsection (a) of this section. (c) (1) Nothing in this chapter shall include or be applicable to the foreclosure of real property under the provisions of § 18-49-101 et seq. or § 18-50-101 et seq. (2) Foreclosure of real property is not deemed to be debt collection as defined in the federal Fair Debt Collections Practices Act, 15 U.S.C. § 1692a(6) , as in existence on January 1, 2005.
+
+Amended by Act 2019, No. 386,§ 9, eff. 7/24/2019.
+
+Acts 1965, No. 145, § 9; 1969, No. 214, § 2; A.S.A. 1947, §§ 71-2009, 71-2011; Acts 1993, No. 1245, § 1; 1997, No. 246, § 1; 2005, No. 1882, § 1; 2009, No. 1455, § 3.
+
+## Section 17-24-103 - Penalties - Definition
+
+(a) (1) A collection agency that engages in the business activities of a collection agency without a license issued under this chapter may be fined not less than fifty dollars ($50.00) nor more than five hundred dollars ($500). (2) Each day of a violation of this chapter is a separate offense. (3) (A) If a collection agency participates in collection activities without a license, the collection agency may pay a civil penalty to the State Board of Collection Agencies of ten thousand dollars ($10,000) in order to be considered retroactively licensed under this chapter by the board. (B) As used in this chapter, "retroactively licensed" means the date that the collection agency first became subject to licensure under this chapter. (b) (1) The board may impose monetary fines as civil penalties to be paid for failure to comply with this chapter or the rules promulgated by the board under this chapter. (2) Before imposing a monetary fine under subdivision (b)(1) of this section, the board shall provide notice and opportunity to be heard according to hearing procedures in effect for the revocation, suspension, or refusal of licensure. (3) The remedies in the form of civil penalties provided in this section for failing to obtain a license issued under this chapter shall be the only consequence of and remedy for the failure of a collection agency to obtain a license when required under this chapter. (c) The board has exclusive jurisdiction over the rights and remedies or a violation of the rules under this chapter.
+
+Amended by Act 2015, No. 1249,§ 1, eff. 7/22/2015.
+
+Acts 1965, No. 145, § 10; A.S.A. 1947, § 71-2010; Acts 1993, No. 1245, § 2; 1997, No. 246, § 2; 2009, No. 1455, § 4.
+
+## Section 17-24-104 - Sanctions
+
+(a) A collection agency that fails to remit to its client funds collected for the client within the calendar month following the month of collection, shall not be entitled to a collection fee and shall remit the total funds collected to the client. (b) If a collection agency fails to remit funds collected to its client within the calendar month following the month of collection and does not remit the total funds collected for the client to the client within sixty-one (61) days of the date of collection, the State Board of Collection Agencies may: (1) Suspend or revoke the license of the collection agency; and (2) Impose a civil penalty under § 17-24-103 .
+
+Acts 1981, No. 366, § 1; A.S.A. 1947, § 71-2016; Acts 2009, No. 1455, § 5.
+
+## Section 17-24-105 - Remedies
+
+When any person, partnership, corporation, or association engages in the business activities of a collection agency without a valid license issued under this chapter or has had the license revoked, suspended, or refused, in accordance with the provisions of this chapter, the State Board of Collection Agencies may petition the circuit court in the jurisdiction in which the collection activity has occurred and, upon affidavit, secure a writ of injunction, without bond, restraining and prohibiting the person, partnership, corporation, or association from operating the collection agency.
+
+Amended by Act 2019, No. 386,§ 10, eff. 7/24/2019.
+
+Acts 1993, No. 1245, § 3.
+
+## Section 17-24-201 - Creation - Members
+
+(a) (1) There is created a State Board of Collection Agencies composed of five (5) members to be appointed by the Governor. (2) The members of the board: (A) Shall hold office until a successor is appointed and qualified; and (B) May be removed by the Governor for: (i) Lacking competency to perform the duties of the position; (ii) Conduct or behavior that is immoral; (iii) Physical or mental infirmity that prevents the discharge of the member's duties; (iv) An abuse of his or her official power; or (v) Other good cause. (3) The Governor shall fill a vacancy by appointment within thirty (30) days after the vacancy occurs. (4) A member appointed to fill a vacancy caused by death, resignation, or removal: (A) Shall meet the qualifications of the vacancy to be filled; (B) Shall serve for the unexpired term of his or her predecessor; and (C) Is eligible to be subsequently appointed to the board to the same position and any other position to which the member is qualified. (5) The members of the board shall serve three-year staggered terms without compensation except they may receive expense reimbursement and stipends in accordance with § 25-16-901 et seq. (b) (1) Two (2) members shall: (A) Be actively engaged as an owner or manager of a collection agency or someone employed by a collection agency in an executive capacity; and (B) Have been actively engaged in connection with the operation of a collection agency for five (5) years next preceding their appointment. (2) One (1) member shall be selected from the public at large. (3) One (1) member shall: (A) Represent the elderly; (B) Be at least sixty (60) years of age; and (C) Not be actively engaged in or retired from the operation of a collection agency. (4) One (1) member shall be: (A) Selected to represent the banking industry; and (B) An Arkansas resident who is actively engaged in the operation of a banking entity that is chartered to conduct business in the State of Arkansas.
+
+Amended by Act 2023, No. 360,§ 2, eff. 8/1/2023.
+
+Amended by Act 2019, No. 542,§ 1, eff. 7/24/2019.
+
+Amended by Act 2015, No. 1100,§ 22, eff. 7/22/2015.
+
+Acts 1965, No. 145, § 3; 1983, No. 131, §§ 1-3, 5; 1983, No. 135, §§ 1-3, 5; A.S.A. 1947, §§ 6-623 -- 6-626, 71-2003; Acts 1997, No. 250, § 131; 1997, No. 1018, § 3; 2001, No. 1766, § 1.
+
+## Section 17-24-202 - Organization and proceedings
+
+(a) (1) The State Board of Collection Agencies shall meet and shall select from its membership a chair, vice chair, and secretary. (2) No one (1) member of the board shall hold more than one (1) of the offices. (b) Meetings of the board shall be held upon the written call of the chair of the board or upon the written request of two (2) members of the board. (c) A majority of the board shall constitute a quorum.
+
+Acts 1965, No. 145, § 3; A.S.A. 1947, § 71-2003.
+
+## Section 17-24-203 - Rules
+
+(a) The State Board of Collection Agencies shall have the authority to promulgate rules to implement the provisions of this chapter which are not inconsistent herewith. (b) The board shall use, to the greatest extent possible, the interpretation and construction of the Fair Debt Collection Practices Act and any other applicable portions of the debt collection laws of the United States in interpreting and applying this chapter and the rules promulgated by the board.
+
+Amended by Act 2019, No. 315,§ 1376, eff. 7/24/2019.
+
+Acts 1965, No. 145, § 4; A.S.A. 1947, § 71-2004; Acts 1995, No. 288, § 1.
+
+## Section 17-24-301 - License required
+
+Unless licensed by the State Board of Collection Agencies under this subchapter it is unlawful to: (1) Engage in the collection of delinquent accounts, bills, or other forms of indebtedness; (2) Use a fictitious name or any name other than their own in the collection of their own accounts receivable; (3) Solicit claims for collection; or (4) Purchase and attempt to collect delinquent accounts or bills.
+
+Acts 1965, No. 145, § 1; 1969, No. 214, § 1; A.S.A. 1947, § 71-2001; Acts 2009, No. 1455, § 6.
+
+## Section 17-24-302 - Qualifications - Restriction
+
+(a) The State Board of Collection Agencies shall have the authority to issue a license to an applicant for a license to do business as a collection agency, provided that the applicant meets the following qualifications: (1) The applicant is at least twenty-one (21) years of age; (2) If a partnership, the names of the partners, their ages, sex, and their business address are provided, and the members of the partnership are at least twenty-one (21) years of age; and (3) The proposed managers of a corporation or the owners of not less than fifty percent (50%) of the stock of the corporation are at least twenty-one (21) years of age. (b) No sheriff, deputy sheriff, constable, deputy constable, state police officer, or other law enforcement officer shall be licensed in any manner to engage in the business of operating a collection agency or acting as a collector for a collection agency.
+
+Acts 1965, No. 145, § 5; A.S.A. 1947, § 71-2005; Acts 1993, No. 1219, § 5; 1995, No. 1296, § 64.
+
+## Section 17-24-303 - Application - Issuance - Transferability
+
+(a) The State Board of Collection Agencies shall have the authority to require an applicant for a license to submit an application in writing containing such information as it shall deem necessary and pertinent and may require the character and business references which it deems appropriate. (b) Licenses issued by the board are not transferable.
+
+Acts 1965, No. 145, § 5; A.S.A. 1947, § 71-2005; Acts 2009, No. 1455, § 7.
+
+## Section 17-24-304 - Expiration and renewal
+
+(a) All collection agency licenses and collection agency employee licenses shall expire annually on June 30. (b) All licensees under this chapter shall apply for the renewal of their licenses, on forms to be prescribed by the State Board of Collection Agencies, on or before July 1 of the fiscal year for which the licenses are sought. (c) The board shall have the authority to require that the licensee's manager certify in writing that the requirement in § 17-24-310 has been met as a condition for renewal of the agency license.
+
+Acts 1965, No. 145, § 7; 1979, No. 86, § 1; 1985, No. 829, § 2; 1985, No. 830, § 1; A.S.A. 1947, §§ 71-2007, 71-2018.
+
+## Section 17-24-305 - Fees - Disposition
+
+(a) The State Board of Collection Agencies may charge an annual license fee not to exceed one hundred twenty-five dollars ($125) for licensing each collection agency and an annual fee of twenty dollars ($20.00) effective September 1, 2013, for registering each employee of the licensed collection agency who as an employee solicits, collects, or attempts to collect any delinquent account or accounts by telephone, mail, personal contact, or otherwise. (b) (1) All income from fees imposed under this section shall be distributed in the form of one (1) annual payment that is a percentage of the total funds available up to the maximum authorized under this subsection. (2) However, if less than one hundred percent (100%) of the total allocation is available for distribution, all allocations listed in subdivisions (b)(3)(A)-(I) of this section shall be funded at a prorated percentage consistent with the available funds, not to exceed the maximum amounts listed in subdivisions (b)(3)(A)-(I) of this section. (3) Beginning July 1, 2013, and each fiscal year thereafter, the board shall remit to: (A) The Treasurer of State for the Division of Medical Services of the Department of Human Services, an amount not to exceed one hundred fifteen thousand dollars ($115,000) for deposit into a paying account as determined by the Chief Fiscal Officer of the State to be used in accordance with § 20-10-705 ; (B) The University of Arkansas for Medical Sciences, an amount not to exceed six hundred thousand dollars ($600,000) for deposit into a financial institution in accordance with the policies of the University of Arkansas for Medical Sciences to be expended for the College of Pharmacy of the University of Arkansas for Medical Sciences and the College of Nursing of the University of Arkansas for Medical Sciences in accordance with § 6-64-417 ; (C) Arkansas State University-Mountain Home, an amount not to exceed two hundred fifty thousand dollars ($250,000) for deposit into the Arkansas State University-Mountain Home Fund to be expended exclusively for the Arkansas State University-Mountain Home Practical Nursing Program; (D) The University of Central Arkansas, an amount not to exceed one hundred thousand dollars ($100,000) for deposit into the University of Central Arkansas Fund to be expended exclusively for the University of Central Arkansas School of Nursing; (E) Southern Arkansas University, an amount not to exceed one hundred thousand dollars ($100,000) for deposit into the Southern Arkansas University Fund to be expended exclusively for personal services and operating expenses of the Southern Arkansas University system; (F) Henderson State University, an amount not to exceed one hundred thousand dollars ($100,000) for deposit into the Henderson State University Fund; (G) Arkansas Tech University, an amount not to exceed one hundred thousand dollars ($100,000) for deposit into the Arkansas Tech University Fund exclusively for nursing programs; (H) Northwest Arkansas Community College, an amount not to exceed fifty thousand dollars ($50,000) for deposit into the Northwest Arkansas Community College Fund exclusively for nursing programs; and (I) Arkansas Northeastern College, an amount not to exceed twenty-five thousand dollars ($25,000) for deposit into the Arkansas Northeastern College Fund to be expended exclusively for nursing programs. (4) Funds remaining after the distributions listed in subdivisions (b)(3)(A)-(I) of this section shall be deposited into a bank authorized to do business within this state and placed into the account of the board.
+
+Amended by Act 2021, No. 833,§ 56, eff. 7/1/2021.
+
+Amended by Act 2019, No. 489,§ 4, eff. 7/1/2019.
+
+Amended by Act 2019, No. 386,§ 11, eff. 7/24/2019.
+
+Amended by Act 2015, No. 1156,§ 4, eff. 7/22/2015.
+
+Amended by Act 2015, No. 1156,§ 3, eff. 7/22/2015.
+
+Amended by Act 2013, No. 1023,§ 4, eff. 7/1/2013.
+
+Acts 1965, No. 145, § 7; 1979, No. 86, § 1; 1985, No. 830, § 1; A.S.A. 1947, § 71-2007; Acts 1999, No. 1500, § 1; 2005, No. 2268, § 7; 2007, No. 1217, § 7; 2009, No. 1413, § 4; 2009, No. 1455, § 8; 2010, No. 281, § 4; 2011, No. 764, § 5.
+
+## Section 17-24-306 - Bond
+
+(a) The State Board of Collection Agencies shall require each licensee to secure a surety bond in an amount not less than ten thousand dollars ($10,000) nor more than fifty thousand dollars ($50,000) for each location, with the security on the bond to be approved by the board. (b) The aggregate liability of the surety for all breaches of the conditions of the bond shall, in no event, exceed the amount of the bond. The surety shall have a right to cancel such bond upon giving thirty (30) days' notice to the board and thereafter shall be relieved of liability for any breach of condition occurring after the effective date of the cancellation. (c) The bond shall be made payable to the board. (d) The board may promulgate rules to: (1) Disburse bond funds to claimants; (2) If the bond proceeds are insufficient to satisfy all legitimate claims, distribute the funds pro rata among the claimants; or (3) In the discretion of the board, require the sureties to deal directly with the claimants.
+
+Amended by Act 2013, No. 1023,§ 5, eff. 7/1/2013.
+
+Acts 1965, No. 145, § 6; 1979, No. 179, § 1; A.S.A. 1947, § 71-2006; Acts 1989, No. 792, § 1; 1991, No. 126, § 4; 1999, No. 1500, § 2; 2009, No. 1455, § 9.
+
+## Section 17-24-307 - Grounds for revocation, suspension, or refusal
+
+The State Board of Collection Agencies shall have the authority to revoke, suspend, or refuse to issue a license for violation of this chapter, or upon receipt of evidence as follows: (1) False or misrepresented statements on application; (2) Sale or transfer of ownership of agency; (3) Aiding or abetting any unlicensed person to engage in business as a collection agency; (4) Publishing or posting, or causing to be published or posted, any list of debtors, commonly known as "deadbeat" lists; (5) Collecting or attempting to collect by the use of any methods contrary to the postal laws and regulations of the United States; (6) Having in his or her possession or making use of any badge, using a uniform of any law enforcement agency or any simulation thereof, or making any statements which might be construed as indicating an official connection with any federal, state, county, or city law enforcement agency, or any other governmental agency, while engaged in collection agency business; (7) Distributing any printed matter which is made to be similar or to resemble government forms or documents, or legal forms used in civil or criminal proceedings; (8) Advertising for sale or threatening to advertise for sale any claim as a means of endeavoring to enforce payment thereof, or agreeing to do so for the purpose of soliciting claims, except where the licensee has acquired claims as an assignee for the benefit of creditors or where the licensee is acting under the order of a court of competent jurisdiction; (9) Engaging in any unethical practices or resorting to any illegal means or methods of collection; (10) Using profanity, obscenity, or vulgarity while engaged in the collection of claims; (11) Addressing a letter to or telephoning a debtor at his or her place of employment unless a good-faith attempt has been made to contact the debtor at his or her usual place of abode by letter and the mail has not been returned and no answer has been received; or (12) Using violence or threats of physical violence while engaged in the collection of claims.
+
+Amended by Act 2019, No. 990,§ 25, eff. 7/24/2019.
+
+Acts 1965, No. 145, § 8; A.S.A. 1947, § 71-2008; Acts 2009, No. 1455, § 10.
+
+## Section 17-24-308 - Revocation, suspension, or refusal - Procedure
+
+(a) (1) Upon the receipt of evidence of any violation, the State Board of Collection Agencies shall order a hearing to be held. (2) All interested parties shall be apprised, at least twenty (20) days before the hearing, as to the time and place of the hearing. (3) The board shall have authority to summon and examine witnesses, gather information by affidavit and deposition, and subpoena those business records pertinent to the charges, as to any alleged violator. (4) Revocation, suspension, or refusal to issue shall be by order of the board. (b) Any party to the proceeding shall have the right to appeal from the order of the board to the Pulaski County Circuit Court which shall try the case. The appeal may be taken by filing a petition with the clerk of the court within thirty (30) days of the date of the decision of the board. The decision of the circuit court shall be appealable to the Supreme Court in the same manner as civil cases are appealed. (c) In the event that the holder of a license shall fail to secure a renewal thereof, or in the event of the suspension or revocation of the license by the board, and in the event that an appeal is taken to the courts as provided in this section, the holder of the license shall be allowed, during the period of the appeal, to operate the business of a collection agency as though no such action had been taken by the board.
+
+Acts 1965, No. 145, § 4; A.S.A. 1947, § 71-2004; Acts 1999, No. 1500, § 3.
+
+## Section 17-24-309 - Collection charges - Limits
+
+(a) No collection agency mentioned in § 17-24-101 shall charge as a collection charge or fee an amount in excess of fifty percent (50%) of the total amount actually collected on all accounts for any one (1) client, nor more than fifty percent (50%) of the total amount actually collected on any one (1) account, nor shall a minimum charge in excess of one dollar ($1.00) be made on any partially or totally collected account. (b) All contracts providing for a greater collection charge or fee or a greater minimum charge than provided in this section entered into between any creditor in this state and any collection agency covered by this chapter shall be void. The creditor shall have, in addition to all other remedies now or hereafter provided by law, a cause of action to recover all amounts collected by the collection agency on the creditor's account or accounts.
+
+Acts 1969, No. 214, § 2; A.S.A. 1947, § 71-2011; Acts 2009, No. 1455, § 11.
+
+## Section 17-24-310 - Annual notice to client of accounting requirement
+
+(a) Each collection agency required to be licensed under this chapter shall, annually, within the month of April, give written notice to each client for whom it is collecting or attempting to collect that collection agencies licensed by the State of Arkansas are required by law to remit collected funds to the clients within the calendar month following the month of collection. (b) No such notice is required to a forwarder who is also a licensee of the State of Arkansas.
+
+Acts 1985, No. 829, § 1; A.S.A. 1947, § 71-2017.
+
+## Section 17-24-401 - &quot;Long arm&quot; jurisdiction
+
+Any nonresident person, partnership, association, or any foreign corporation not authorized to do business in this state whose sole business contact with this state is the soliciting of accounts in this state by mail, telephone, telegraph, or by other like means originating outside this state, or the taking or accepting for collection of any account or accounts in this state by such means, shall by such acts: (1) Subject himself or herself to the jurisdiction of the proper courts of this state under the procedure provided in §§ 17-24-403 and 17-24-404 on any cause of action arising out of or connected with the collection of any such account or accounts; (2) Be deemed to have consented to comply with the maximum collection charges or fees provided in § 17-24-309 ; and (3) Be deemed to have consented to and designated the Secretary of State to be the true and lawful attorney of the person, partnership, association, or corporation upon whom may be served all legal process in any action, suit, or proceeding in any court by any resident of this state arising out of or connected with the collection of any such account or accounts. Such acts shall be signification of its agreement that any legal process in any court action or suit so served shall be of the same legal force and validity as personal service of process in this state upon the person, partnership, association, or corporation. Service of process shall be made upon the Secretary of State pursuant to § 17-24-403 .
+
+Acts 1965, No. 145, § 1; 1969, No. 214, §§ 1, 3; A.S.A. 1947, §§ 71-2001, 71-2012; Acts 1997, No. 1213, § 3; 1999, No. 1500, § 4.
+
+## Section 17-24-402 - Motion to quash writ or set aside service
+
+Nothing contained in § 17-24-404 shall be construed to prevent a nonresident person, partnership, association, or any foreign corporation upon whom service of process is had as provided in § 17-24-403 from filing a motion to quash a writ or to set aside service made as provided in § 17-24-403 on the grounds that the person, partnership, association, or foreign corporation has not done or committed any of the acts in this state which give rise to such service of process.
+
+Acts 1969, No. 214, § 6; A.S.A. 1947, § 71-2015.
+
+## Section 17-24-403 - Service of process
+
+(a) Service of process in the action, suit, or proceeding in any court as authorized by § 17-24-401(3) shall be made by leaving three (3) copies in the office of the Secretary of State along with a notification that service is being effected pursuant to § 17-24-401 , and by paying the Secretary of State the sum of twenty-five dollars ($25.00). A certificate by the Secretary of State showing service and attached to the copy of the process presented to him or her for that purpose shall be sufficient evidence of the service. Service upon the Secretary of State as attorney shall be service upon the principal. (b) The Secretary of State shall immediately mail one (1) copy of the court process to the defendant in the court proceeding by first class mail at the defendant's last known principal place of business, and shall keep a record of all process which shall show the day and hour of receipt. The Secretary of State shall file an affidavit showing compliance with this section in the court proceedings on or before the date the defendant is required to appear or respond, unless an extension of time is allowed by the court. (c) No plaintiff or complainant shall be entitled to a judgment or determination by default in any court proceeding in which process is served under this section until the expiration of forty-five (45) days from the date of filing of the affidavit of compliance. (d) Nothing contained in this section shall limit or abridge the right to serve any process, notice, order, pleading, or demand upon any person, partnership, association, or corporation in any other manner now or hereafter permitted by law.
+
+Acts 1969, No. 214, § 3; A.S.A. 1947, § 71-2012; Acts 1999, No. 1500, § 5.
+
+## Section 17-24-404 - Security prerequisite to filing defense pleading - Exception - Postponement
+
+(a) Before any nonresident person, partnership, association, or any foreign corporation upon whom service of process is had as provided by § 17-24-403 files or causes to be filed any pleading in any court action, suit, or proceeding instituted against a person, partnership, association, or corporation, he or she or it shall deposit with the clerk of the court in which the action, suit, or proceeding is pending cash or securities or bond with good and sufficient sureties to be approved by the court, in an amount to be fixed by the court sufficient to secure the payment of any final judgment which may be rendered in the court proceeding. (b) The court may in its discretion make an order dispensing with the deposit or bond when the person, partnership, association, or corporation makes a showing satisfactory to the court that it maintains in the State of Arkansas funds or securities, in trust or otherwise, sufficient and available to satisfy any final judgment which may be entered in the court action, suit, or proceeding. (c) In any action, suit, or proceeding in which service is made as provided in § 17-24-403 , the court, in its discretion, may order any postponement as may be necessary to afford the defendant reasonable opportunity to comply with subsection (a) of this section and to defend any court action.
+
+Acts 1969, No. 214, §§ 4, 5; A.S.A. 1947, §§ 71-2013, 71-2014.
+
+## Section 17-24-501 - Title
+
+This subchapter shall be known and may be cited as the "Arkansas Fair Debt Collection Practices Act".
+
+Acts 2009, No. 1455, § 1.
+
+## Section 17-24-502 - Definitions
+
+As used in this subchapter: (1) "Communication" means the conveying of information regarding a debt directly or indirectly to a person; (2) "Consumer" means a natural person obligated or allegedly obligated to pay a debt; (3) (A) "Creditor" means a person: (i) Who offers or extends credit, creating a debt; or (ii) To whom a debt is owed. (B) "Creditor" does not include a person to the extent that he or she receives an assignment or transfer of a debt in default solely to facilitate collection of the debt for another; (4) "Debt" means an obligation or alleged obligation of a consumer to pay money arising out of a transaction in which the money, property, insurance, or services that are the subject of the transaction are primarily for personal, family, or household purposes, whether or not the obligation has been reduced to judgment; (5) (A) "Debt collector" means a person who uses an instrumentality of interstate commerce or the mails in a business whose principal purpose is the collection of debts or who regularly collects or attempts to collect, directly or indirectly, debts owed or due or asserted to be owed or due another. (B) Except as provided in subdivision (5)(D)(vi) of this section, "debt collector" includes a creditor who, in the process of collecting his or her own debts, uses a name other than his or her own that would indicate that a third person is collecting or attempting to collect the debts. (C) As used in § 17-24-507(b)(6) , "debt collector" includes a person who uses an instrumentality of interstate commerce or the mails in a business whose principal purpose is the enforcement of security interests. (D) "Debt collector" does not include any: (i) Officer or employee of a creditor while, in the name of the creditor, collecting debts for the creditor; (ii) Person while acting as a debt collector for another person, both of whom are related by common ownership or affiliated by corporate control, if the person acting as a debt collector does so only for persons to whom it is so related or affiliated and if the principal business of the person is not the collection of debts; (iii) Officer or employee of the United States or a state to the extent that collecting or attempting to collect a debt is in the performance of his or her official duties; (iv) Person while serving or attempting to serve legal process on another person in connection with the judicial enforcement of a debt; (v) Nonprofit organization that, at the request of consumers, performs bona fide consumer credit counseling and assists consumers in the liquidation of their debts by receiving payments from the consumers and distributing the amounts to creditors; or (vi) Person collecting or attempting to collect a debt owed or due or asserted to be owed or due another to the extent the collection activity: (a) Is incidental to a bona fide fiduciary obligation or a bona fide escrow arrangement; (b) Concerns a debt that was originated by the person; (c) Concerns a debt that was not in default at the time it was obtained by the person; or (d) Concerns a debt obtained by the person as a secured party in a commercial credit transaction involving the creditor; and (6) "Location information" means: (A) A consumer's place of abode and his or her telephone number at the consumer's place of abode; or (B) The consumer's place of employment.
+
+Acts 2009, No. 1455, § 1.
+
+## Section 17-24-503 - Acquisition of location information
+
+A debt collector communicating with a person other than the consumer to acquire location information about the consumer shall: (1) Identify himself or herself, state that he or she is confirming or correcting location information concerning the consumer, and only if expressly requested, identify his or her employer; (2) Not state that the consumer owes a debt; (3) Not communicate with the person more than one (1) time unless: (A) Requested to do so by the person; or (B) The debt collector reasonably believes that: (i) The earlier response of the person is erroneous or incomplete; and (ii) The person now has correct or complete location information; (4) Not communicate by postcard; (5) Not use a language or symbol on a envelope or in the contents of a communication effected by the mails or telegram that indicates that the debt collector is in the debt collection business or that the communication relates to the collection of a debt; and (6) After the debt collector knows the consumer is represented by an attorney with regard to the subject debt and has knowledge of or can readily ascertain the attorney's name and address, not communicate with a person other than that attorney unless the attorney fails to respond to communication from the debt collector within a reasonable period of time.
+
+Acts 2009, No. 1455, § 1.
+
+## Section 17-24-504 - Communication in connection with debt collection
+
+(a) Without the prior consent of the consumer given directly to the debt collector or the express permission of a court of competent jurisdiction, a debt collector may not communicate with a consumer in connection with the collection of a debt: (1) (A) At an unusual time or place or a time or place known or which should be known to be inconvenient to the consumer. (B) In the absence of knowledge of circumstances to the contrary, a debt collector shall assume that the convenient time for communicating with a consumer is after 8:00 a.m. and before 9:00 p.m. local time at the consumer's location; (2) If the debt collector knows the consumer is represented by an attorney with respect to the debt and has knowledge of or can readily ascertain the attorney's name and address, unless: (A) The attorney fails to respond within a reasonable period of time to a communication from the debt collector; or (B) The attorney consents to direct communication with the consumer; or (3) At the consumer's place of employment if the debt collector knows or has reason to know that the consumer's employer prohibits the consumer from receiving the communication. (b) Except as provided in § 17-24-503 , without the prior consent of the consumer given directly to the debt collector or the express permission of a court of competent jurisdiction, or as reasonably necessary to effectuate a postjudgment judicial remedy, a debt collector may not communicate in connection with the collection of a debt with a person other than the consumer, his or her attorney, a consumer reporting agency if otherwise permitted by law, the creditor, the attorney of the creditor, or the attorney of the debt collector. (c) If a consumer notifies a debt collector in writing that the consumer refuses to pay a debt or that the consumer wishes the debt collector to cease further communication with the consumer, the debt collector shall not communicate further with the consumer with respect to the debt, except: (1) To advise the consumer that the debt collector's further efforts are being terminated; (2) To notify the consumer that the debt collector or creditor may invoke specified remedies that are ordinarily invoked by the debt collector or creditor; or (3) (A) When applicable, to notify the consumer that the debt collector or creditor intends to invoke a specified remedy. (B) If the notice from the consumer is made by mail, notification is complete upon receipt. (d) As used in this section, "consumer" includes the consumer's spouse, parent if the consumer is a minor, guardian, executor, or administrator.
+
+Acts 2009, No. 1455, § 1.
+
+## Section 17-24-505 - Harassment or abuse
+
+(a) A debt collector may not engage in a conduct the natural consequence of which is to harass, oppress, or abuse a person in connection with the collection of a debt. (b) Without limiting the general application of subsection (a) of this section, the following conduct is a violation of this section: (1) The use or threat of use of violence or other criminal means to harm the physical person, reputation, or property of a person; (2) The use of obscene or profane language or language the natural consequence of which is to abuse the hearer or reader; (3) The publication of a list of consumers who allegedly refuse to pay debts, except to a consumer reporting agency or to persons meeting the requirements of 15 U.S.C. § 1681a(f) or 15 U.S.C. § 1681b(3) , as they existed on January 1, 2009; (4) The advertisement for sale of a debt to coerce payment of the debt; (5) Causing a telephone to ring or engaging a person in telephone conversation repeatedly or continuously with intent to annoy, abuse, or harass a person at the called number; or (6) Except as provided in § 17-24-503 , the placement of telephone calls without meaningful disclosure of the caller's identity.
+
+Acts 2009, No. 1455, § 1.
+
+## Section 17-24-506 - False or misleading representations
+
+(a) A debt collector may not use a false, deceptive, or misleading representation or means in connection with the collection of a debt. (b) Without limiting the general application of subsection (a) of this section, the following conduct is a violation of this section: (1) The false representation or implication that the debt collector is vouched for, bonded by, or affiliated with the United States or a state, including without limitation the use of a badge, uniform, or facsimile thereof; (2) The false representation of: (A) The character, amount, or legal status of a debt; or (B) Any services rendered or compensation that may be lawfully received by a debt collector for the collection of a debt; (3) The false representation or implication that an individual is an attorney or that a communication is from an attorney; (4) The representation or implication that nonpayment of a debt will result in the arrest or imprisonment of a person or the seizure, garnishment, attachment, or sale of a property or wages of a person unless the action is lawful and the debt collector or creditor intends to take the action; (5) The threat to take an action that cannot legally be taken or that is not intended to be taken; (6) The false representation or implication that a sale, referral, or other transfer of an interest in a debt will cause the consumer to: (A) Lose a claim or defense to payment of the debt; or (B) Become subject to a practice prohibited by this subchapter; (7) The false representation or implication that the consumer committed a crime or other conduct in order to disgrace the consumer; (8) Communicating or threatening to communicate to a person credit information that is known or that should be known to be false, including without limitation the failure to communicate that a disputed debt is disputed; (9) The use or distribution of a written communication that simulates or is falsely represented to be a document authorized, issued, or approved by a court, official, or agency of the United States or a state or that creates a false impression as to its source, authorization, or approval; (10) The use of a false representation or deceptive means to collect or attempt to collect a debt or to obtain information concerning a consumer; (11) The failure to disclose: (A) In the initial written communication with the consumer and, in addition, if the initial communication with the consumer is oral in the initial oral communication, that the debt collector is attempting to collect a debt and that any information obtained will be used for that purpose; and (B) In subsequent communications, that the communication is from a debt collector, except that this subdivision (b)(11) does not apply to a formal pleading made in connection with a legal action; (12) The false representation or implication that accounts have been turned over to innocent purchasers for value; (13) The false representation or implication that documents are legal process; (14) The use of a business, company, or organization name other than the true name of the debt collector's business, company, or organization; (15) The false representation or implication that documents are not legal process forms or do not require action by the consumer; or (16) The false representation or implication that a debt collector operates or is employed by a consumer reporting agency as defined by 15 U.S.C. § 1681a(f) , as it existed on January 1, 2009.
+
+Acts 2009, No. 1455, § 1.
+
+## Section 17-24-507 - Unfair practices
+
+(a) A debt collector may not use unfair or unconscionable means to collect or attempt to collect a debt. (b) Without limiting the general application of subsection (a) of this section, the following actions of a debt collector violate this section: (1) The collection of an amount, including interest, a fee, a charge, or an expense incidental to the principal obligation unless the amount is expressly authorized by the agreement creating the debt or permitted by law; (2) The acceptance by a debt collector from a person of a check or other payment instrument postdated by more than five (5) days unless the person is notified in writing of the debt collector's intent to deposit the check or instrument not more than ten (10) nor less than three (3) business days before the deposit; (3) The solicitation by a debt collector of a postdated check or other postdated payment instrument for the purpose of threatening or instituting criminal prosecution; (4) Depositing or threatening to deposit a postdated check or other postdated payment instrument before the date on the check or instrument; (5) Causing charges to be made to a person for communications by concealment of the true purpose of the communication, including without limitation charges for collect telephone calls and telegrams; (6) Taking or threatening to take a nonjudicial action to effect dispossession or disablement of property if: (A) No present right exists to possession of the property claimed as collateral through an enforceable security interest; (B) No present intention exists to take possession of the property; or (C) The property is exempt by law from the dispossession or disablement; (7) Communicating with a consumer regarding a debt by postcard; or (8) Using a language or symbol other than the debt collector's address on an envelope when communicating with a consumer by use of the mails or by telegram, except that a debt collector may use his or her business name if the name does not indicate that he or she is in the debt collection business.
+
+Acts 2009, No. 1455, § 1.
+
+## Section 17-24-508 - Validation of debts
+
+(a) At the time of the initial communication or within five (5) days after the initial communication with a consumer in connection with the collection of a debt, unless the consumer has paid the debt, a debt collector shall send the consumer a written notice containing: (1) The amount of the debt; (2) The name of the creditor to whom the debt is owed; (3) A statement that unless the consumer within thirty (30) days after receipt of the notice disputes the validity of the debt or a portion of the debt, the debt will be assumed to be valid by the debt collector; (4) A statement that if the consumer notifies the debt collector in writing within the thirty-day period that the debt or a portion of the debt is disputed, the debt collector will obtain verification of the debt or a copy of a judgment against the consumer and a copy of the verification or judgment will be mailed to the consumer by the debt collector; and (5) A statement that upon the consumer's written request within the thirty-day period, the debt collector will provide the consumer with the name and address of the original creditor if different from the current creditor. (b) If the consumer notifies the debt collector in writing within the thirty-day period described in subsection (a) of this section that the debt or a portion of the debt is disputed or that the consumer requests the name and address of the original creditor, the debt collector shall cease collection of the debt or a disputed portion of the debt until the debt collector obtains verification of the debt or a copy of a judgment or the name and address of the original creditor, and a copy of the verification or judgment or name and address of the original creditor is mailed to the consumer by the debt collector. (c) The failure of a consumer to dispute the validity of a debt under this section is not an admission of liability by the consumer.
+
+Acts 2009, No. 1455, § 1.
+
+## Section 17-24-509 - Multiple debts
+
+If a consumer owes multiple debts and makes a single payment to a debt collector with respect to the debts, the debt collector may not apply the payment to a debt that is disputed by the consumer and, if applicable, shall apply the payment in accordance with the consumer's directions.
+
+Acts 2009, No. 1455, § 1.
+
+## Section 17-24-510 - Legal actions by debt collectors
+
+(a) A debt collector who brings a legal action on a debt against a consumer shall: (1) For an action to enforce an interest in real property securing the consumer's obligation, bring the action in the county where all or part of the real property is located; or (2) For an action not described in subdivision (a)(1) of this section, bring the action only in the county: (A) In which the consumer signed the contract sued upon; or (B) In which the consumer resides at the commencement of the action. (b) This subchapter does not create a cause of action by a debt collector.
+
+Acts 2009, No. 1455, § 1.
+
+## Section 17-24-511 - Furnishing certain deceptive forms
+
+(a) It is unlawful to design, compile, and furnish a form knowing that the form would be used to create the false belief in a consumer that a person other than the creditor of the consumer is participating in the collection of or in an attempt to collect a debt the consumer allegedly owes the creditor, when in fact the person is not participating in collecting or attempting to collect the debt. (b) A person who violates this section is liable to the same extent and in the same manner as a debt collector is liable under § 17-24-512 for failure to comply with this subchapter.
+
+Acts 2009, No. 1455, § 1.
+
+## Section 17-24-512 - Civil liability
+
+(a) Except as otherwise provided by this section, a debt collector who fails to comply with this subchapter with respect to a person is liable to the person in an amount equal to the sum of: (1) An actual damage sustained by the person as a result of the failure; (2) In the case of: (A) An action by an individual, the additional damages as the court may allow not exceeding one thousand dollars ($1,000); or (B) A class action: (i) The amount each named plaintiff could recover under subdivision (a)(2)(A) of this section; and (ii) The amount the court may allow for all other class members without regard to a minimum individual recovery not to exceed the lesser of five hundred thousand dollars ($500,000) or one percent (1%) of the net worth of the debt collector; and (3) (A) In the case of a successful action to enforce the foregoing liability, the costs of the action, together with a reasonable attorney's fee as determined by the court. (B) If the court finds that an action under this section was brought in bad faith or for the purpose of harassment, the court may award to the defendant attorney's fees reasonable in relation to the work expended and costs. (b) In determining the amount of liability in an action under subsection (a) of this section, the court shall consider among other relevant factors: (1) In an individual action under subdivision (a)(2)(A) of this section, the frequency and persistence of noncompliance by the debt collector, the nature of the noncompliance, and the extent to which the noncompliance was intentional; or (2) In a class action under subdivision (a)(2)(B) of this section, the frequency and persistence of noncompliance by the debt collector, the nature of the noncompliance, the resources of the debt collector, the number of persons adversely affected, and the extent to which the debt collector's noncompliance was intentional. (c) A debt collector may not be held liable in an action brought under this subchapter if the debt collector shows by a preponderance of the evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid the error. (d) An action to enforce a liability created by this subchapter may be brought in a court of competent jurisdiction within one (1) year from the date on which the violation occurs. (e) A provision of this section imposing liability shall not apply to an act done or omitted in good faith in conformity with an advisory opinion of the Federal Trade Commission addressing appropriate conduct under the federal Fair Debt Collection Practices Act, 15 U.S.C. § 1692 - 1692p , notwithstanding that after the act or omission has occurred, the opinion is amended, rescinded, or determined by judicial or other authority to be invalid for a reason.
+
+Acts 2009, No. 1455, § 1.
