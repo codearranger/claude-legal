@@ -1,0 +1,29 @@
+{
+  "corpus": "jury-instructions",
+  "verified": "2026-06-05",
+  "verbatim": false,
+  "access_posture": "pointer-stub",
+  "reason": "WPI/WPIC are drafted by the WA Supreme Court Committee on Jury Instructions but are copyrighted and published by Thomson Reuters/West. Free public access is by agreement (use limited to legal practice/research; commercial re-use and redistribution prohibited). Not a public-domain edict, so not snapshotted verbatim. The govt.westlaw.com host is bot-gated against bulk extraction.",
+  "entry_point": "https://www.courts.wa.gov/index.cfm?fa=home.contentDisplay&location=PatternJuryInstructions",
+  "contact": "JuryInstructions@courts.wa.gov",
+  "sets": [
+    {
+      "set": "WPI",
+      "title": "Washington Pattern Jury Instructions: Civil",
+      "published_as": "6 & 6A Wash. Prac. (7th ed.)",
+      "file": "WPI-civil.md",
+      "free_access_url": "https://govt.westlaw.com/wciji/Index",
+      "numbering": "WPI <chapter>.<n>",
+      "primary": true
+    },
+    {
+      "set": "WPIC",
+      "title": "Washington Pattern Jury Instructions: Criminal",
+      "published_as": "11 & 11A Wash. Prac.",
+      "file": "WPIC-criminal.md",
+      "free_access_url": "reach from entry_point (criminal database slug is volatile)",
+      "numbering": "WPIC <chapter>.<n>; Parts I-XVI",
+      "primary": false
+    }
+  ]
+}

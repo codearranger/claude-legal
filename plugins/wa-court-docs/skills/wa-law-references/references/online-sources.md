@@ -59,6 +59,26 @@ site. URLs have been stable for many years. HTML is clean and
 scrapable. If a URL 404s, drop back to the rule-set landing page and
 search for the rule number.
 
+## Washington Pattern Jury Instructions (WPI / WPIC)
+
+Entry point: `https://www.courts.wa.gov/index.cfm?fa=home.contentDisplay&location=PatternJuryInstructions`
+
+| Set | Purpose | URL |
+|----------|---------|-------------------|
+| WPI (Civil) | Washington Pattern Jury Instructions: Civil | `https://govt.westlaw.com/wciji/Index` |
+| WPIC (Criminal) | Washington Pattern Jury Instructions: Criminal | reach from the AOC entry point (criminal database slug is volatile) |
+
+**Access / copyright note**: WPI and WPIC are **copyrighted by Thomson
+Reuters/West** and offered free to the public *by agreement* (legal-practice
+and research use only; commercial re-use and redistribution prohibited). They
+are **not** public-domain edicts, so this plugin **indexes** them
+(`jury-instructions/`) rather than mirroring the text. The `govt.westlaw.com`
+host is bot-gated — WebFetch will typically be refused. Use the AOC landing
+page above as the stable jumping-off point, then browse the West site's table
+of contents by hand (the free site has no search). Do not scrape the
+instruction text into the repo. See
+[`jury-instructions/README.md`](./jury-instructions/README.md).
+
 ## Washington Statutes (RCW)
 
 Base: `https://app.leg.wa.gov/RCW/`

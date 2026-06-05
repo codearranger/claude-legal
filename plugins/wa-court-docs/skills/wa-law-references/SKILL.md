@@ -12,7 +12,9 @@ description: >
   "CR 37(a)(4)", "reciprocal fee-shifting", "lodestar", "GR 14",
   "Bluebook", "Washington citation format", "Wn.2d", "P.3d",
   "KCLCR", "KCDCLCR", "King County local rule", "canonical URL",
-  "verify citation", "fetch court rule". Covers statewide civil
+  "verify citation", "fetch court rule", "jury instruction",
+  "pattern jury instruction", "WPI", "WPIC", "WPI 10.01",
+  "proposed instruction", "verdict form". Covers statewide civil
   rules (CR / CRLJ), evidence rules (ER), GR 14 citation format,
   RCW 4.84 fees-and-costs, local rules for King County Superior
   and District Court, general civil key cases (SJ standard,
@@ -23,7 +25,7 @@ description: >
   subject-matter skill (e.g., wa-consumer-debt). Compose with
   wa-statewide-format, wa-kcdc, wa-pro-se, and wa-fact-check as
   needed.
-version: 0.5.0
+version: 0.6.0
 ---
 
 # Washington Law References — General Civil Practice
@@ -51,6 +53,8 @@ Ask: *what is the user trying to establish procedurally?*
   `references/fees-and-costs.md`
 - **A local-rule question** (KCLCR for Superior; KCDCLCR for
   District) → start with `references/local-rules.md`
+- **A jury instruction** (pattern instruction, WPI/WPIC number,
+  verdict form) → start with `references/jury-instructions/`
 - **Citation format** → `references/citation-format.md`
 - **Canonical URL or citation verification** → start with
   `references/online-sources.md` and hand off to `wa-fact-check`
@@ -145,6 +149,27 @@ Federal citations follow Bluebook. See
 `references/citation-format.md` for patterns for Washington and
 federal citations, parallel cites, short-form references, and
 GR 14 compliance.
+
+## Pattern jury instructions
+
+Washington's pattern jury instructions are the **WPI** (Civil) and
+**WPIC** (Criminal), drafted by the Supreme Court Committee on Jury
+Instructions. **`references/jury-instructions/` indexes them — it does
+not reproduce them.** Unlike the RCW and the court rules (public-domain
+edicts snapshotted verbatim elsewhere in this plugin), WPI/WPIC are
+**copyrighted by Thomson Reuters/West** and offered free to the public
+only *by agreement* (legal-practice/research use; no commercial re-use
+or redistribution). So this corpus carries a topic-number index +
+canonical pointers + access posture, and the authoritative text is
+reached via the AOC landing page and the West free-access site.
+
+- Civil set (the plugin's focus) → `references/jury-instructions/WPI-civil.md`
+- Criminal companion → `references/jury-instructions/WPIC-criminal.md`
+
+A pattern instruction is a drafting aid, not authority: open the live
+instruction (with its Notes on Use and Comment), confirm the underlying
+RCW/case is current via `wa-fact-check`, and cite the controlling
+statute or case — not the pattern number — as the legal authority.
 
 ## Canonical online sources
 
