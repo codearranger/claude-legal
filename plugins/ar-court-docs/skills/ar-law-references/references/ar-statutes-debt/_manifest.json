@@ -1,1 +1,7 @@
-{"version":"0.1.0","sources":[],"last_pulled":null}
+{
+  "version": "0.1.0",
+  "last_pulled": null,
+  "mode": "curated-summary",
+  "source": "curated pending verbatim pull via pull_arkansas_statutes.py (Justia mirror law.justia.com/codes/arkansas/)",
+  "notes": "Curated structural section-level summaries authored offline (clearly labeled NOT verbatim). A future verbatim pull supersedes them; the _file_is_stub guard preserves them until then."
+}
