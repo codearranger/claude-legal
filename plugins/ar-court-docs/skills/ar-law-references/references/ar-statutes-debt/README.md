@@ -5,10 +5,16 @@ chapters most relevant to civil practice. The directory slug
 (`ar-statutes-debt`) is **legacy, retained for path stability** — the
 scope is the full **civil + family + consumer** surface, not debt-only.
 
-> Status: pending the first pull. Until `pull_arkansas_statutes.py`
-> populates this directory, the skills cite the **section numbers** and
-> describe the frameworks; the verbatim text lives at
-> **arkleg.state.ar.us** (and the Justia mirror).
+> **Current status: curated summaries (not yet verbatim).** This
+> directory ships **curated, citation-rich structural summaries** of
+> each chapter (one `Ark-Code-T<T>-Ch<C>.md` file per pull target) —
+> every file is clearly labeled "CURATED SUMMARY — NOT VERBATIM" and
+> points at the canonical Justia / **arkleg.state.ar.us** text. They
+> were authored offline because the verbatim puller needs network
+> access. Running `pull_arkansas_statutes.py` from a networked
+> environment replaces them with verbatim section text (the
+> `_file_is_stub` guard preserves the curated content until a successful
+> pull supersedes it).
 
 ## Scope — pull targets (the civil + family + consumer surface)
 

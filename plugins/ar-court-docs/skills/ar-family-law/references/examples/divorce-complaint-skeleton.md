@@ -1,3 +1,5 @@
+<!-- SYNTHETIC EXAMPLE — fictional parties, not legal advice, not a form to file as-is. Illustrates structure only. -->
+
 # Example skeleton — Arkansas Complaint for Divorce (illustrative)
 
 > **NOT LEGAL ADVICE.** Illustrative skeleton only — not a form to file

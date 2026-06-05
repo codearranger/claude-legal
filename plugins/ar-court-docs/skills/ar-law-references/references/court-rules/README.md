@@ -6,9 +6,14 @@ that the `ar-court-docs` skills point at; the summaries in
 `../civil-rules.md` and `../evidence-rules.md` describe these rules but
 the **verbatim text here governs**.
 
-> Status: pending the first pull. Until `pull_arkansas_rules.py`
-> populates this directory, the skills cite the rule **numbers** and
-> describe the frameworks; the verbatim text lives at **arcourts.gov**.
+> **Current status: curated summaries (not yet verbatim).** This
+> directory ships **curated, citation-rich structural summaries** of
+> each rule set — every file is clearly labeled "CURATED SUMMARY — NOT
+> VERBATIM" and points at the canonical **arcourts.gov** text. They were
+> authored offline because the verbatim puller needs network access.
+> Running `pull_arkansas_rules.py` from a networked environment replaces
+> them with verbatim text (the `_file_is_stub` guard preserves the
+> curated content until a successful pull supersedes it).
 
 ## Scope — what gets pulled here
 
