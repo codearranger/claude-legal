@@ -12,8 +12,8 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 
 | Plugin | What it covers |
 |---|---|
-| [`claude-legal-federal-laws`](plugins/claude-legal-federal-laws/README.md) | Canonical federal consumer-finance corpora (FDCPA / FCRA / TILA / ECOA / Reg B-Z, RESPA / SCRA / FHA / TSR), the Bankruptcy Code, and the model UCC — a dependency of every state plugin — plus a nationwide FCRA consumer credit-report-rights skills layer. |
-| [`claude-legal-immigration-laws`](plugins/claude-legal-immigration-laws/README.md) | U.S. immigration law (INA / 8 CFR / 22 CFR / FAM mirrored verbatim + EOIR court rules), an on-demand case-law index (circuits / BIA / AAO), and an 11-skill venue-independent self-help layer. |
+| [`claude-legal-federal-laws`](plugins/claude-legal-federal-laws/README.md) | Canonical federal consumer-finance corpora (FDCPA / FCRA / TILA / ECOA / Reg B-Z, RESPA / SCRA / FHA / TSR), the Bankruptcy Code, and the model UCC — a dependency of every state plugin — plus a nationwide FCRA consumer credit-report-rights skills layer, bundled CourtListener + Legal Data Hunter MCP servers, and a `case-law-research` skill that drives them. |
+| [`claude-legal-immigration-laws`](plugins/claude-legal-immigration-laws/README.md) | U.S. immigration law (INA / 8 CFR / 22 CFR / FAM mirrored verbatim + EOIR court rules), an on-demand case-law index (circuits / BIA / AAO), and a 12-skill venue-independent self-help layer (incl. `immigration-case-law`, which drives the bundled MCP servers). |
 
 ### State plugins
 
@@ -63,7 +63,7 @@ The two shared plugins bundle two free remote MCP servers (declared in each plug
 | [CourtListener](https://www.courtlistener.com/help/api/) | `https://mcp.courtlistener.com/` | Free Law Project's case-law database — millions of federal + state opinions, the RECAP archive of PACER dockets, oral arguments, and a judges database | Free CourtListener account; OAuth sign-in on first use (no API token needed) |
 | [Legal Data Hunter](https://legaldatahunter.com/connect) | `https://legaldatahunter.com/mcp` | Multi-jurisdictional legal research — court decisions, statutes/regulations, and doctrine across 100+ countries with hybrid semantic + keyword search | Free; GitHub/Google sign-in on first use |
 
-Both connect automatically when the plugins are enabled; run `/mcp` in Claude Code to complete the one-time sign-in for each. These power the on-demand case-law layer that the `*-fact-check` skills and each plugin's `legal-data-apis.md` index describe — reference corpora (statutes, court rules) are snapshotted in-repo, while case law is fetched live.
+Both connect automatically when the plugins are enabled; run `/mcp` in Claude Code to complete the one-time sign-in for each. These power the on-demand case-law layer that the `*-fact-check` skills and each plugin's `legal-data-apis.md` index describe — reference corpora (statutes, court rules) are snapshotted in-repo, while case law is fetched live. Two dedicated research skills make sure the agent actually reaches for them: `case-law-research` (in `claude-legal-federal-laws`, so it's available wherever any state plugin is installed) and `immigration-case-law` (in `claude-legal-immigration-laws`) — both enforce never-cite-a-case-from-memory, quote-checking against retrieved text, and confidence-flagged results.
 
 ### Companion marketplace: Claude for Legal
 
@@ -84,7 +84,7 @@ Anthropic's [`claude-for-legal`](https://github.com/anthropics/claude-for-legal)
 | `mi-court-docs` | verbatim MCL — 13 topic files / ~70 sections / ~211 KB via `pull_michigan_statutes.py` from legislature.mi.gov (objectName=mcl-600-5701 per-section scheme) | verbatim MCR (ch. 1-4) + MRE — 362 rules / ~1.4 MB via `pull_michigan_rules.py` (courtrules.net mirror; courts.michigan.gov gates its rule-asset URLs) + curated civil-rules / evidence-rules / fees / citation / key-cases / online-sources | shared |
 | `az-court-docs` | verbatim A.R.S. — 12 topic files / ~60 sections via `pull_arizona_statutes.py` from azleg.gov (ungated per-section .htm fragments) | verbatim ARCP + Ariz. R. Evid. + ARFLP + JCRCP — 4 files / ~406 rules via `pull_arizona_rules.py` (courtrules.net mirror; azcourts.gov is Cloudflare-gated) + curated civil-rules / evidence-rules / family-rules / fees / citation / key-cases / online-sources | shared |
 | `claude-legal-federal-laws` | n/a | n/a | **20 federal-debt-laws + 4 UCC + 8 Bankruptcy** |
-| `claude-legal-immigration-laws` | INA = 8 U.S.C. ch 12, 5 subchapters / ~1.6 MB verbatim via `pull_ina.py` (+ INA↔8 USC crosswalk) | 33 CFR parts / ~3.6 MB verbatim via `pull_immigration_cfr.py` (8 CFR DHS ch I + EOIR/BIA ch V + 22 CFR visa/passport); EOIR court-rules corpus (binding 8 CFR 1003/1240/1208 + ICPM / BIA-PM stubs via `pull_eoir_manuals.py`) | n/a — standalone; FAM ~3.6 MB verbatim via `pull_fam.py`; **11-skill self-help layer** (v0.3.0); case law (circuits / BIA / AAO) on-demand per `legal-data-apis.md` |
+| `claude-legal-immigration-laws` | INA = 8 U.S.C. ch 12, 5 subchapters / ~1.6 MB verbatim via `pull_ina.py` (+ INA↔8 USC crosswalk) | 33 CFR parts / ~3.6 MB verbatim via `pull_immigration_cfr.py` (8 CFR DHS ch I + EOIR/BIA ch V + 22 CFR visa/passport); EOIR court-rules corpus (binding 8 CFR 1003/1240/1208 + ICPM / BIA-PM stubs via `pull_eoir_manuals.py`) | n/a — standalone; FAM ~3.6 MB verbatim via `pull_fam.py`; **12-skill self-help layer**; case law (circuits / BIA / AAO) on-demand per `legal-data-apis.md` |
 
 ## Repo layout
 
@@ -103,7 +103,7 @@ claude-legal/
 │   │       ├── federal-debt-laws/    # FDCPA, FCRA, TILA, ECOA, EFTA, Garnishment, RESPA, SCRA, FHA, TSR + Reg B/E/F/M/N/P/V/X/Z/DD
 │   │       ├── federal-bankruptcy/   # Title 11 U.S.C. chapters 1, 3, 5, 7, 11, 12, 13, 15
 │   │       └── ucc-model/            # Model UCC Articles 1, 2, 3, 9
-│   ├── claude-legal-immigration-laws/  # SHARED immigration plugin: reference corpora + 11-skill self-help layer (v0.3.0)
+│   ├── claude-legal-immigration-laws/  # SHARED immigration plugin: reference corpora + 12-skill self-help layer
 │   │   ├── .claude-plugin/plugin.json
 │   │   ├── skills/                        # 11 venue-independent skills (immigration-pro-se, eoir-immigration-courts, eoir-removal-defense, bia-appeals, circuit-petition-for-review, consular-visa-refusal, …)
 │   │   └── references/

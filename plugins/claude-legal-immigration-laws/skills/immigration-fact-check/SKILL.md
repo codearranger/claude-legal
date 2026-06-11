@@ -22,7 +22,7 @@ description: >
   **This is a verification skill, not a drafting skill** — it flags issues and
   suggests fixes, but never silently rewrites. Composes with every drafting
   skill in this plugin.
-version: 0.1.0
+version: 0.1.1
 ---
 
 # Fact-Check an Immigration Filing
@@ -84,9 +84,10 @@ part/section exists and supports the proposition.
 
 Case law is **not** snapshotted — verify on demand per
 [`../../references/legal-data-apis.md`](../../references/legal-data-apis.md).
-Use **CourtListener Citation Lookup / MCP** (`POST .../citation-lookup/`, or the
-MCP `analyze_citations` / `search` tools) to confirm a **circuit** opinion is
-real and says what the draft claims — watch for circuit misattribution (the
+Use the **bundled CourtListener MCP server** (declared in this plugin's
+`.mcp.json`; if its tools are absent, have the user run `/mcp` to sign in) —
+the citation-lookup / search tools, per the `immigration-case-law` skill — to
+confirm a **circuit** opinion is real and says what the draft claims — watch for circuit misattribution (the
 Ninth Circuit `ca9` has the largest immigration docket). **BIA precedent** is
 cited **"I&N Dec."** (e.g., *Matter of A-B-*, 28 I&N Dec. 199 (BIA 2021)) —
 EOIR's Virtual Law Library is the publisher of record and CourtListener indexes
