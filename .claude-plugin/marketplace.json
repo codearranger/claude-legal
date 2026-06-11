@@ -9,14 +9,14 @@
     "claude-for-legal"
   ],
   "metadata": {
-    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents — one plugin per state plus two shared federal reference plugins (claude-legal-federal-laws and claude-legal-immigration-laws). Each plugin ships matter-neutral civil-procedure skills plus subject-matter bundles and verbatim reference corpora; the state plugins depend on claude-legal-federal-laws for the shared federal / UCC / Bankruptcy content, and every plugin depends on document-skills from the anthropic-agent-skills marketplace (github.com/anthropics/skills) for DOCX / PDF / PPTX / XLSX document output. Anthropic's claude-for-legal marketplace (github.com/anthropics/claude-for-legal — practice-area plugins for commercial, privacy, corporate, employment, litigation, IP, and legal-education workflows) is an allowlisted companion marketplace that composes with these plugins. Per-plugin detail lives in each plugin's README.md. Currently ten state plugins (WA, OR, CA, CO, IN, NY, OH, TN, MI, AZ) plus the two shared plugins.",
-    "version": "0.30.0"
+    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents — one plugin per state plus two shared federal reference plugins (claude-legal-federal-laws and claude-legal-immigration-laws). Each plugin ships matter-neutral civil-procedure skills plus subject-matter bundles and verbatim reference corpora; the state plugins depend on claude-legal-federal-laws for the shared federal / UCC / Bankruptcy content, and every plugin depends on document-skills from the anthropic-agent-skills marketplace (github.com/anthropics/skills) for DOCX / PDF / PPTX / XLSX document output. Anthropic's claude-for-legal marketplace (github.com/anthropics/claude-for-legal — practice-area plugins for commercial, privacy, corporate, employment, litigation, IP, and legal-education workflows) is an allowlisted companion marketplace that composes with these plugins. The two shared plugins bundle two free remote MCP servers — CourtListener (mcp.courtlistener.com) and Legal Data Hunter (legaldatahunter.com/mcp) — for on-demand case-law and statute lookup. Per-plugin detail lives in each plugin's README.md. Currently ten state plugins (WA, OR, CA, CO, IN, NY, OH, TN, MI, AZ) plus the two shared plugins.",
+    "version": "0.31.0"
   },
   "plugins": [
     {
       "name": "claude-legal-federal-laws",
       "source": "./plugins/claude-legal-federal-laws",
-      "description": "Shared federal reference plugin: canonical FDCPA / FCRA / TILA / ECOA / Reg B-Z + RESPA / SCRA / FHA / FTC Telemarketing Sales Rule, the Title 11 Bankruptcy Code, and the model UCC (a dependency of every state plugin, dereferenced from in-tree symlinks at install time), plus a nationwide FCRA consumer credit-report-rights skills layer. Full detail in the plugin README.",
+      "description": "Shared federal reference plugin: canonical FDCPA / FCRA / TILA / ECOA / Reg B-Z + RESPA / SCRA / FHA / FTC Telemarketing Sales Rule, the Title 11 Bankruptcy Code, and the model UCC (a dependency of every state plugin, dereferenced from in-tree symlinks at install time), plus a nationwide FCRA consumer credit-report-rights skills layer and two bundled free MCP servers (CourtListener + Legal Data Hunter) for on-demand case-law lookup. Full detail in the plugin README.",
       "category": "legal",
       "keywords": [
         "legal",
@@ -38,13 +38,16 @@
         "adverse-action",
         "identity-theft",
         "date-of-first-delinquency",
-        "specialty-consumer-report"
+        "specialty-consumer-report",
+        "courtlistener",
+        "legal-data-hunter",
+        "mcp"
       ]
     },
     {
       "name": "claude-legal-immigration-laws",
       "source": "./plugins/claude-legal-immigration-laws",
-      "description": "Shared U.S. immigration-law plugin: INA (8 U.S.C. ch. 12), 8 CFR + 22 CFR, and the Foreign Affairs Manual mirrored verbatim, plus an EOIR court-rules corpus; an on-demand case-law index for the federal circuits, the Board of Immigration Appeals, and the USCIS AAO; and an 11-skill, venue-independent, document-producing self-help layer. Full detail in the plugin README.",
+      "description": "Shared U.S. immigration-law plugin: INA (8 U.S.C. ch. 12), 8 CFR + 22 CFR, and the Foreign Affairs Manual mirrored verbatim, plus an EOIR court-rules corpus; an on-demand case-law index for the federal circuits, the Board of Immigration Appeals, and the USCIS AAO, backed by two bundled free MCP servers (CourtListener + Legal Data Hunter); and an 11-skill, venue-independent, document-producing self-help layer. Full detail in the plugin README.",
       "category": "legal",
       "keywords": [
         "legal",
@@ -66,7 +69,9 @@
         "asylum",
         "naturalization",
         "shared-references",
-        "courtlistener"
+        "courtlistener",
+        "legal-data-hunter",
+        "mcp"
       ]
     },
     {

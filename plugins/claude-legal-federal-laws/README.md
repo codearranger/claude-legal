@@ -23,6 +23,15 @@ The federal and model-UCC corpora live in one canonical place rather than being 
 
 State plugins declare this plugin in their `plugin.json` `dependencies` array. When a user runs `/plugin install <state>-court-docs@claude-legal`, the Claude Code marketplace runtime auto-installs this plugin alongside, dereferences the symlinks each state plugin uses to point into this directory (per the Claude Code plugin spec, symlinks within a marketplace are followed and the target content is copied into the install cache), and the federal/UCC files end up locally available under each state plugin's `references/` tree at runtime.
 
+## Bundled MCP servers
+
+The plugin's [`.mcp.json`](.mcp.json) declares two free remote MCP servers, which connect automatically when the plugin is enabled (run `/mcp` in Claude Code to complete the one-time sign-in for each):
+
+- **CourtListener** (`https://mcp.courtlistener.com/`) — Free Law Project's legal-research database: millions of federal and state opinions, the RECAP archive of PACER dockets, oral arguments, and a judges database. Free CourtListener account; OAuth sign-in — no API token needed.
+- **Legal Data Hunter** (`https://legaldatahunter.com/mcp`) — multi-jurisdictional legal research (court decisions, statutes/regulations, doctrine across 100+ countries) with hybrid semantic + keyword search. Free; GitHub/Google sign-in.
+
+Because every state plugin depends on this plugin, these servers are available anywhere any state plugin is installed. They serve the on-demand case-law layer described in each state plugin's `legal-data-apis.md` — reference corpora (statutes, court rules) stay snapshotted in-repo, while case law is fetched live.
+
 ## Refresh
 
 The quarterly `refresh-references` GitHub Action runs `pull_federal_debt_laws.py` and `pull_ucc.py` against the paths in this plugin, then opens a PR. Federal/UCC content is now updated once per quarter instead of once per state.

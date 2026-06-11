@@ -21,6 +21,13 @@ Snapshots the canonical **rules** verbatim:
 
 Each lives under `references/` with its own README (scope, pull mechanics, access posture): `immigration-statutes/`, `immigration-regulations/`, `foreign-affairs-manual/`, `court-rules/`, plus `legal-data-apis.md` (the on-demand case-law index) and `online-sources.md`.
 
+## Bundled MCP servers
+
+The plugin's [`.mcp.json`](.mcp.json) declares two free remote MCP servers that serve the on-demand case-law layer (they connect automatically when the plugin is enabled; run `/mcp` in Claude Code to complete the one-time sign-in for each):
+
+- **CourtListener** (`https://mcp.courtlistener.com/`) — Free Law Project's database of federal-court opinions (including the circuit-court petitions for review indexed in `legal-data-apis.md`), RECAP/PACER dockets, oral arguments, and judges. Free CourtListener account; OAuth sign-in — no API token needed.
+- **Legal Data Hunter** (`https://legaldatahunter.com/mcp`) — multi-jurisdictional legal research (court decisions, statutes/regulations, doctrine across 100+ countries). Free; GitHub/Google sign-in.
+
 ## Refresh
 
 `scripts/pull_ina.py` · `scripts/pull_immigration_cfr.py` · `scripts/pull_fam.py` (AIA-chases fam.state.gov's omitted TLS intermediate, then crawls its JSON TOC API) · `scripts/pull_eoir_manuals.py`.
