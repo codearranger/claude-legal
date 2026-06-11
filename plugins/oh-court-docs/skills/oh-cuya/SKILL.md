@@ -2,7 +2,7 @@
 name: oh-cuya
 description: >
   Use when drafting or filing in Cuyahoga County Court of Common Pleas (Cleveland). Triggers include the court name, its case number format, and local-rule references. Layers on top of `oh-statewide-format`.
-version: 0.3.0
+version: 0.4.0
 ---
 
 # Cuyahoga County Court of Common Pleas (Cleveland)
@@ -23,8 +23,9 @@ version: 0.3.0
 
 - Cuyahoga is Ohio's largest county by population and the highest civil-filing volume in the state.
 - Heavy consumer-debt docket — many cases route to Cleveland Municipal Court (~$15k cap) before reaching Common Pleas.
-- Loc. R. 21.4 explicitly requires meet-and-confer before a motion to compel.
+- Loc. R. 8.0(E) governs discovery motions: discovery requests and responses are **not** filed with the court, and any motion on a discovery dispute must attach the disputed request and the responses to it. (Loc. R. 21.x is Arbitration/Mediation; former 21.2–21.4 are repealed.)
 - Several judges require working paper copies for briefs over 15 pages.
+- Full verbatim rules: `oh-law-references/references/local-rules/Cuyahoga-CommonPleas-LocalRules.md` (July 2025).
 
 ## Filing flow
 

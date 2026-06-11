@@ -119,6 +119,15 @@ TARGETS: List[ChapterTarget] = [
     ChapterTarget("1345", "RC-Chapter-1345",
                   "Consumer Sales Practices Act (CSPA)",
                   "Ohio Revised Code Chapter 1345"),
+    # --- Retail installment sales (auto financing) + vehicle titles/liens ---
+    ChapterTarget("1317", "RC-Chapter-1317",
+                  "Retail Installment Sales Act (RISA) — installment "
+                  "contracts, repossession notice/cure (auto financing)",
+                  "Ohio Revised Code Chapter 1317"),
+    ChapterTarget("4505", "RC-Chapter-4505",
+                  "Certificate of Motor Vehicle Title Law — title + "
+                  "lien perfection (R.C. 4505.13)",
+                  "Ohio Revised Code Chapter 4505"),
     # --- Civil procedure / limitations / enforcement ---
     ChapterTarget("2305", "RC-Chapter-2305",
                   "Statutes of Limitations + General Civil Procedure",

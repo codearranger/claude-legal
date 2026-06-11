@@ -2,7 +2,7 @@
 name: oh-county-courts
 description: >
   Use when filing in an Ohio Court of Common Pleas other than the 8 flagship counties (Cuyahoga, Franklin, Hamilton, Summit, Montgomery, Lucas, Stark, Butler). Triggers include any other Ohio county's Common Pleas name (Mahoning / Youngstown, Warren, Lake, Lorain, Trumbull, Clark, Greene, etc.). Layers on top of `oh-statewide-format` with the common-denominator Loc. R. patterns across Ohio's 88 county Courts of Common Pleas.
-version: 0.3.0
+version: 0.4.0
 ---
 
 # Ohio County Common Pleas (Long-tail Roll-up)
@@ -49,7 +49,7 @@ operate them as separate courts within Common Pleas.
 | Greene | Xenia | 0.17M | Dayton's eastern suburbs |
 | Wood | Bowling Green | 0.13M | Toledo's southern suburbs |
 | Portage | Ravenna | 0.16M | Kent State; Cleveland exurbs |
-| Delaware | Delaware | 0.22M | Columbus's northern suburbs; Common Pleas at commonpleas.co.delaware.oh.us — verify Gen. Div. Loc. R. + e-filing before filing |
+| Delaware | Delaware | 0.22M | Columbus's northern suburbs; Gen. Div. Loc. R. mirrored verbatim at `oh-law-references/references/local-rules/Delaware-CommonPleas-LocalRules.md` (eff. 4/14/2025) — still confirm the court's current version + e-filing before filing |
 | Allen | Lima | 0.10M | Northwest / industrial |
 | Mercer / Auglaize / Putnam | rural | low | low-volume rural civil dockets |
 
@@ -81,17 +81,25 @@ Verify per-court before assuming e-filing is available.
 A repossession or deficiency suit filed in a non-flagship
 Common Pleas court (e.g., Delaware County) runs on the
 statewide Civ. R. baseline plus that county's Loc. R.; the
-**substantive** defense is Ohio's UCC Article 9 at
-**R.C. Chapter 1309**, carried verbatim in
-`oh-law-references/references/oh-statutes-debt/RC-Chapter-1309.md`.
-Defending two such actions, check each for:
+**substantive** defense layers three statutes, all carried
+verbatim in `oh-law-references/references/oh-statutes-debt/`:
 
-- **Notice of disposition** before sale — R.C. 1309.611
-  (defective/absent notice limits the deficiency under
-  R.C. 1309.626).
-- **Commercially reasonable** disposition — R.C. 1309.610(B).
-- **Chain of title** / standing of the assignee-plaintiff —
-  R.C. 1309.406.
+- **UCC Article 9 — `RC-Chapter-1309.md`** (the disposition
+  regime):
+  - **Notice of disposition** before sale — R.C. 1309.611
+    (defective/absent notice limits the deficiency under
+    R.C. 1309.626).
+  - **Commercially reasonable** disposition — R.C. 1309.610(B).
+  - **Chain of title** / standing of the assignee-plaintiff —
+    R.C. 1309.406.
+- **Retail Installment Sales Act — `RC-Chapter-1317.md`**: if
+  the loan is a retail installment contract (most auto
+  financing), RISA's contract-form and notice/cure provisions
+  apply on top of Article 9.
+- **Certificate of Motor Vehicle Title Law —
+  `RC-Chapter-4505.md`**: lien perfection on the vehicle runs
+  through the certificate of title (R.C. 4505.13) — check that
+  the plaintiff's security interest was properly noted.
 
 See `oh-consumer-debt` for the full repossession-deficiency
 fact-pattern and RFP/RFA banks.
