@@ -15,7 +15,7 @@ Snapshots the canonical **rules** verbatim:
 
 **Case law is indexed for on-demand lookup, not snapshotted** (it is too large/fast-moving to mirror): the federal **circuit courts** (petitions for review under INA § 242 / 8 U.S.C. § 1252, via CourtListener), the **Board of Immigration Appeals** (I&N Dec., via the EOIR Virtual Law Library), and the USCIS **Administrative Appeals Office (AAO)**.
 
-**As of v0.3.0** it also ships an **11-skill, venue-independent, document-producing self-help layer** (matter-neutral, documents-not-advice, with prominent get-a-lawyer / notario-fraud warnings): `immigration-pro-se`, `eoir-immigration-courts`, `immigration-deadlines`, `immigration-fact-check`, `eoir-removal-defense`, `eoir-motions-to-reopen-reconsider`, `bia-appeals`, `uscis-benefit-requests`, `immigration-foia`, `circuit-petition-for-review`, `consular-visa-refusal`.
+It also ships a **12-skill, venue-independent, document-producing self-help layer** (matter-neutral, documents-not-advice, with prominent get-a-lawyer / notario-fraud warnings): `immigration-pro-se`, `eoir-immigration-courts`, `immigration-deadlines`, `immigration-fact-check`, `immigration-case-law` (live circuit / BIA / country-of-origin-law research via the bundled MCP servers), `eoir-removal-defense`, `eoir-motions-to-reopen-reconsider`, `bia-appeals`, `uscis-benefit-requests`, `immigration-foia`, `circuit-petition-for-review`, `consular-visa-refusal`.
 
 ## Reference corpora
 
@@ -27,6 +27,8 @@ The plugin's [`.mcp.json`](.mcp.json) declares two free remote MCP servers that 
 
 - **CourtListener** (`https://mcp.courtlistener.com/`) — Free Law Project's database of federal-court opinions (including the circuit-court petitions for review indexed in `legal-data-apis.md`), RECAP/PACER dockets, oral arguments, and judges. Free CourtListener account; OAuth sign-in — no API token needed.
 - **Legal Data Hunter** (`https://legaldatahunter.com/mcp`) — multi-jurisdictional legal research (court decisions, statutes/regulations, doctrine across 100+ countries). Free; GitHub/Google sign-in.
+
+The `immigration-case-law` skill drives both servers — forum-aware routing (circuits / BIA / AAO / district dockets; country-of-origin law for asylum), never-cite-from-memory, and quote-check discipline — and hands finished drafts to `immigration-fact-check`.
 
 ## Refresh
 
