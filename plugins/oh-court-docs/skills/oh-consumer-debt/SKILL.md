@@ -24,7 +24,7 @@ description: >
   "Ohio chain of title", "Ohio statute of limitations debt",
   "R.C. 2305.06", "Ohio FDCPA counterclaim", "medical debt
   Ohio", "Ohio credit card lawsuit defense".
-version: 0.1.0
+version: 0.2.0
 ---
 
 # Ohio Consumer Debt — Statutory + Common-Law Defenses
@@ -108,6 +108,16 @@ Plaintiff is auto-finance company after repossession.
 - **Notice of disposition** — R.C. 1309.611 requires pre-
   sale notice to debtor; failure to give notice bars or
   reduces deficiency under R.C. 1309.626.
+- **Retail Installment Sales Act** — R.C. Chapter 1317
+  (`oh-law-references/references/oh-statutes-debt/RC-Chapter-1317.md`):
+  most auto financing is a retail installment contract, so
+  RISA's contract-form and notice/cure requirements apply on
+  top of Article 9.
+- **Lien perfection on the title** — R.C. Chapter 4505
+  (`RC-Chapter-4505.md`); the security interest is perfected
+  by notation on the certificate of title (R.C. 4505.13).
+  Test whether the plaintiff actually holds a perfected,
+  properly assigned interest.
 - **Insurance / GAP credit** — verify any GAP insurance was
   applied before deficiency calculated.
 

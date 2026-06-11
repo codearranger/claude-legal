@@ -119,6 +119,15 @@ TARGETS: List[ChapterTarget] = [
     ChapterTarget("1345", "RC-Chapter-1345",
                   "Consumer Sales Practices Act (CSPA)",
                   "Ohio Revised Code Chapter 1345"),
+    # --- Retail installment sales (auto financing) + vehicle titles/liens ---
+    ChapterTarget("1317", "RC-Chapter-1317",
+                  "Retail Installment Sales Act (RISA) — installment "
+                  "contracts, repossession notice/cure (auto financing)",
+                  "Ohio Revised Code Chapter 1317"),
+    ChapterTarget("4505", "RC-Chapter-4505",
+                  "Certificate of Motor Vehicle Title Law — title + "
+                  "lien perfection (R.C. 4505.13)",
+                  "Ohio Revised Code Chapter 4505"),
     # --- Civil procedure / limitations / enforcement ---
     ChapterTarget("2305", "RC-Chapter-2305",
                   "Statutes of Limitations + General Civil Procedure",
@@ -155,10 +164,75 @@ TARGETS: List[ChapterTarget] = [
     ChapterTarget("3115", "RC-Chapter-3115",
                   "Uniform Interstate Family Support Act (UIFSA)",
                   "Ohio Revised Code Chapter 3115"),
+    # --- Personal injury / torts ---
+    ChapterTarget("2125", "RC-Chapter-2125",
+                  "Wrongful Death",
+                  "Ohio Revised Code Chapter 2125"),
+    ChapterTarget("2307", "RC-Chapter-2307",
+                  "Civil Actions — Product Liability (2307.71-.80), "
+                  "Contribution, Joint & Several Liability",
+                  "Ohio Revised Code Chapter 2307"),
+    ChapterTarget("2315", "RC-Chapter-2315",
+                  "Trial Procedure — Comparative Negligence (2315.33), "
+                  "Noneconomic-Damage Caps (2315.18), Punitive (2315.21)",
+                  "Ohio Revised Code Chapter 2315"),
+    ChapterTarget("2323", "RC-Chapter-2323",
+                  "Specific Civil Actions — Med-Mal Noneconomic Caps "
+                  "(2323.43), Frivolous Conduct (2323.51), Cognovits "
+                  "(2323.13)",
+                  "Ohio Revised Code Chapter 2323"),
+    ChapterTarget("2744", "RC-Chapter-2744",
+                  "Political Subdivision Tort Immunity",
+                  "Ohio Revised Code Chapter 2744"),
+    ChapterTarget("955", "RC-Chapter-955",
+                  "Dogs — Strict-Liability Dog-Bite (955.28)",
+                  "Ohio Revised Code Chapter 955"),
+    # --- Employment ---
+    ChapterTarget("4111", "RC-Chapter-4111",
+                  "Minimum Fair Wage Standards",
+                  "Ohio Revised Code Chapter 4111"),
+    ChapterTarget("4112", "RC-Chapter-4112",
+                  "Civil Rights — Employment Discrimination",
+                  "Ohio Revised Code Chapter 4112"),
+    ChapterTarget("4113", "RC-Chapter-4113",
+                  "Miscellaneous Labor — Whistleblower (4113.52), "
+                  "Prompt-Pay (4113.15)",
+                  "Ohio Revised Code Chapter 4113"),
+    ChapterTarget("4123", "RC-Chapter-4123",
+                  "Workers' Compensation",
+                  "Ohio Revised Code Chapter 4123"),
+    ChapterTarget("4141", "RC-Chapter-4141",
+                  "Unemployment Compensation",
+                  "Ohio Revised Code Chapter 4141"),
+    # --- Commercial / business disputes ---
+    ChapterTarget("1333", "RC-Chapter-1333",
+                  "Trade Practices — Trade Secrets (OUTSA) + Deceptive "
+                  "Trade Practices",
+                  "Ohio Revised Code Chapter 1333"),
+    ChapterTarget("1336", "RC-Chapter-1336",
+                  "Uniform Fraudulent Transfer Act (Voidable Transactions)",
+                  "Ohio Revised Code Chapter 1336"),
+    ChapterTarget("4165", "RC-Chapter-4165",
+                  "Deceptive Trade Practices Act (B2B / Lanham-analog)",
+                  "Ohio Revised Code Chapter 4165"),
+    ChapterTarget("1701", "RC-Chapter-1701",
+                  "General Corporation Law",
+                  "Ohio Revised Code Chapter 1701"),
+    ChapterTarget("1706", "RC-Chapter-1706",
+                  "Ohio Revised Limited Liability Company Act",
+                  "Ohio Revised Code Chapter 1706"),
+    ChapterTarget("2711", "RC-Chapter-2711",
+                  "Arbitration",
+                  "Ohio Revised Code Chapter 2711"),
     # --- Juvenile Court ---
     ChapterTarget("2151", "RC-Chapter-2151",
                   "Juvenile Court — Abuse, Neglect, Dependency",
                   "Ohio Revised Code Chapter 2151"),
+    # --- Judicial disqualification / recusal ---
+    ChapterTarget("2701", "RC-Chapter-2701",
+                  "Courts — General Provisions; Disqualification of Judges "
+                  "(R.C. 2701.03 affidavit of disqualification)",
+                  "Ohio Revised Code Chapter 2701"),
     # --- Court-specific procedural codes ---
     ChapterTarget("1901", "RC-Chapter-1901",
                   "Municipal Court Act",
