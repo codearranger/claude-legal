@@ -16,6 +16,7 @@ credit-report-rights skills layer.
   | `consumer-report-accuracy` | PII hygiene; Date of First Delinquency + re-aging; the "disputed by consumer" flag |
   | `consumer-harm-documentation` | Communication logs, damages ledgers, and harm declarations |
   | `consumer-credit-monitoring` | Adverse-action proof; § 1681i(d) re-notification; ongoing review |
+  | `case-law-research` | Live legal research via the bundled MCP servers (below): U.S. case law / RECAP dockets / judges via CourtListener, multi-jurisdictional + foreign law via Legal Data Hunter; never-cite-from-memory + quote-check discipline |
 
 ## Why it's a plugin
 
@@ -30,7 +31,7 @@ The plugin's [`.mcp.json`](.mcp.json) declares two free remote MCP servers, whic
 - **CourtListener** (`https://mcp.courtlistener.com/`) — Free Law Project's legal-research database: millions of federal and state opinions, the RECAP archive of PACER dockets, oral arguments, and a judges database. Free CourtListener account; OAuth sign-in — no API token needed.
 - **Legal Data Hunter** (`https://legaldatahunter.com/mcp`) — multi-jurisdictional legal research (court decisions, statutes/regulations, doctrine across 100+ countries) with hybrid semantic + keyword search. Free; GitHub/Google sign-in.
 
-Because every state plugin depends on this plugin, these servers are available anywhere any state plugin is installed. They serve the on-demand case-law layer described in each state plugin's `legal-data-apis.md` — reference corpora (statutes, court rules) stay snapshotted in-repo, while case law is fetched live.
+Because every state plugin depends on this plugin, these servers are available anywhere any state plugin is installed. They serve the on-demand case-law layer described in each state plugin's `legal-data-apis.md` — reference corpora (statutes, court rules) stay snapshotted in-repo, while case law is fetched live. The `case-law-research` skill drives them: it routes each research question to the right server, enforces never-cite-a-case-from-memory and quote-check discipline, and hands confidence-flagged results to the per-state `*-fact-check` skills.
 
 ## Refresh
 
