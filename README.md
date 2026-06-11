@@ -34,11 +34,12 @@ All state plugins are architected the same way: matter-neutral civil-procedure s
 
 ## Install
 
-Add this marketplace and the Anthropic Agent Skills marketplace (which hosts the `document-skills` dependency) to Claude Code or Cowork, then install the state plugins you want:
+Add this marketplace and the Anthropic Agent Skills marketplace (which hosts the `document-skills` dependency) to Claude Code or Cowork, then install the state plugins you want. Optionally add Anthropic's Claude for Legal marketplace as well — a companion suite of practice-area plugins:
 
 ```
 /plugin marketplace add https://github.com/codearranger/claude-legal
 /plugin marketplace add anthropics/skills
+/plugin marketplace add anthropics/claude-for-legal
 /plugin install wa-court-docs@claude-legal
 /plugin install or-court-docs@claude-legal
 /plugin install ca-court-docs@claude-legal
@@ -52,6 +53,21 @@ Add this marketplace and the Anthropic Agent Skills marketplace (which hosts the
 ```
 
 Each state plugin declares `claude-legal-federal-laws` as a `dependencies:` entry, so the marketplace runtime installs the shared plugin automatically — no need to install it explicitly. Every plugin (state + shared) also declares a cross-marketplace dependency on `document-skills` from the [`anthropic-agent-skills`](https://github.com/anthropics/skills) marketplace — Anthropic's DOCX / PDF / PPTX / XLSX document-creation skills — so generated filings can be produced as real Word/PDF documents. The dependency auto-installs as long as the `anthropics/skills` marketplace has been added (the `/plugin marketplace add anthropics/skills` line above); if it hasn't, the dependency is left unresolved until you add it.
+
+### Bundled MCP servers (free legal-research services)
+
+The two shared plugins bundle two free remote MCP servers (declared in each plugin's `.mcp.json`), so installing any state plugin wires them up automatically:
+
+| Server | URL | What it provides | Auth |
+|---|---|---|---|
+| [CourtListener](https://www.courtlistener.com/help/api/) | `https://mcp.courtlistener.com/` | Free Law Project's case-law database — millions of federal + state opinions, the RECAP archive of PACER dockets, oral arguments, and a judges database | Free CourtListener account; OAuth sign-in on first use (no API token needed) |
+| [Legal Data Hunter](https://legaldatahunter.com/connect) | `https://legaldatahunter.com/mcp` | Multi-jurisdictional legal research — court decisions, statutes/regulations, and doctrine across 100+ countries with hybrid semantic + keyword search | Free; GitHub/Google sign-in on first use |
+
+Both connect automatically when the plugins are enabled; run `/mcp` in Claude Code to complete the one-time sign-in for each. These power the on-demand case-law layer that the `*-fact-check` skills and each plugin's `legal-data-apis.md` index describe — reference corpora (statutes, court rules) are snapshotted in-repo, while case law is fetched live.
+
+### Companion marketplace: Claude for Legal
+
+Anthropic's [`claude-for-legal`](https://github.com/anthropics/claude-for-legal) marketplace ships practice-area plugins for legal workflows — `commercial-legal` (vendor agreements, NDAs, SaaS review), `privacy-legal` (DPAs, DSARs, PIAs), `corporate-legal` (M&A diligence), `employment-legal`, `litigation-legal` (matter intake, chronologies, claim charts, briefs), `regulatory-legal`, `ai-governance-legal`, `ip-legal`, `law-student`, `legal-clinic`, `legal-builder-hub`, and the Thomson Reuters `cocounsel-legal` connector. None of these are installed automatically — install the ones you want with `/plugin install <plugin>@claude-for-legal` after adding the marketplace. This marketplace allowlists `claude-for-legal` in `allowCrossMarketplaceDependenciesOn`, so claude-legal plugins may declare dependencies on its plugins in the future without users hitting a `cross-marketplace` install error.
 
 ## Reference corpora at a glance
 
