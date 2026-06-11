@@ -2,7 +2,7 @@
 name: oh-law-references
 description: >
   Use to look up Ohio civil-procedure rules (Civ. R.), evidence rules (Evid. R.), Rules of Superintendence, Rules of Professional Conduct, statutes (R.C.), and citation format. Triggers include 'Ohio Civ. R.', 'Ohio Evid. R.', 'Ohio Revised Code', 'R.C. lookup', 'Ohio Sup. R.', 'Ohio Prof. Cond. R.', 'Ohio public-domain citation', 'codes.ohio.gov', 'Ohio rule of court'. Canonical reference corpora for the plugin live in this skill's references/ directory.
-version: 0.2.0
+version: 0.3.0
 ---
 
 # Ohio Law References

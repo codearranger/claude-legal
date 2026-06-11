@@ -159,6 +159,11 @@ TARGETS: List[ChapterTarget] = [
     ChapterTarget("2151", "RC-Chapter-2151",
                   "Juvenile Court — Abuse, Neglect, Dependency",
                   "Ohio Revised Code Chapter 2151"),
+    # --- Judicial disqualification / recusal ---
+    ChapterTarget("2701", "RC-Chapter-2701",
+                  "Courts — General Provisions; Disqualification of Judges "
+                  "(R.C. 2701.03 affidavit of disqualification)",
+                  "Ohio Revised Code Chapter 2701"),
     # --- Court-specific procedural codes ---
     ChapterTarget("1901", "RC-Chapter-1901",
                   "Municipal Court Act",

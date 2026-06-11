@@ -1,8 +1,8 @@
 ---
 name: oh-hearings
 description: >
-  Use to prepare for Ohio court hearings — oral argument, case-management conferences, evidentiary hearings, remote-appearance protocols. Triggers include 'Ohio court hearing', 'Common Pleas oral argument', 'Ohio Civ. R. 53 magistrate', 'Ohio remote hearing', 'Ohio video conferencing court', 'pretrial conference Ohio'. Covers oral-argument conventions, the Civ. R. 53 magistrate process with the 14-day objection clock, remote-appearance practice (Cisco Webex statewide default but per-judge variations).
-version: 0.2.0
+  Use to prepare for Ohio court hearings — oral argument, case-management conferences, evidentiary hearings, remote-appearance protocols. Triggers include 'Ohio court hearing', 'Common Pleas oral argument', 'Ohio Civ. R. 53 magistrate', 'Ohio remote hearing', 'Ohio video conferencing court', 'pretrial conference Ohio'. Covers oral-argument conventions, the Civ. R. 53 magistrate process with the 14-day objection clock, remote-appearance practice (Cisco Webex statewide default but per-judge variations). Also covers seeking disqualification (recusal) of a judge — the R.C. 2701.03 affidavit-of-disqualification procedure for Common Pleas judges (filed with the Clerk of the Ohio Supreme Court; Chief Justice rules) and R.C. 2701.031 for municipal/county judges. Triggers include 'recuse Ohio judge', 'disqualify Ohio judge', 'affidavit of disqualification', 'Ohio judge bias', 'R.C. 2701.03'.
+version: 0.3.0
 ---
 
 # Ohio Hearings
@@ -74,6 +74,41 @@ COVID-19 and most have retained it for routine hearings:
   John Smith, [Pro Se / for the defendant]."
 - Bring 3 copies of any document you reference (one for
   the judge, one for opposing counsel, one for yourself)
+
+## Seeking disqualification (recusal) of the judge
+
+Ohio does **not** disqualify a sitting trial judge by a
+"motion to recuse" filed with that judge. The mechanism is
+statutory, and the choice of mechanism depends on the court:
+
+- **Common Pleas judge** — file an **affidavit of
+  disqualification** with the **Clerk of the Ohio Supreme
+  Court** under **R.C. 2701.03**. The Chief Justice of the
+  Supreme Court (not the trial judge) rules on it. Key
+  mechanics in `oh-law-references/references/oh-statutes-debt/RC-Chapter-2701.md`:
+  - File **not less than seven calendar days** before the
+    next scheduled hearing (R.C. 2701.03(B)).
+  - The affidavit must state the **specific** facts/grounds
+    of bias, prejudice, interest, or disqualification, and
+    include the required statements under R.C. 2701.03(B)(1)–(4).
+  - A properly filed affidavit **deprives the judge of
+    authority** to preside until the Chief Justice rules
+    (R.C. 2701.03(D)), except for the limited matters listed
+    in (D)(2)–(3).
+- **Municipal or county court judge** — the parallel
+  procedure is **R.C. 2701.031** (affidavit filed with the
+  Clerk of the Supreme Court; the Chief Justice or designee
+  rules).
+- **Substantive standard** — the Jud. Cond. R. 2.11
+  disqualification grounds (personal bias/prejudice,
+  financial interest, prior involvement) supply the
+  substance; see `oh-law-references/references/court-rules/JudicialConduct.md`.
+
+A pro se litigant who files an ordinary "motion to recuse"
+with the trial judge has used the wrong vehicle for a Common
+Pleas matter — the affidavit-of-disqualification route is
+the operative one. See `oh-cuya` for the Cuyahoga-specific
+filing posture.
 
 ## Composition with other oh- skills
 

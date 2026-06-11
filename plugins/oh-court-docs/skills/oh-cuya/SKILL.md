@@ -2,7 +2,7 @@
 name: oh-cuya
 description: >
   Use when drafting or filing in Cuyahoga County Court of Common Pleas (Cleveland). Triggers include the court name, its case number format, and local-rule references. Layers on top of `oh-statewide-format`.
-version: 0.2.0
+version: 0.3.0
 ---
 
 # Cuyahoga County Court of Common Pleas (Cleveland)
@@ -36,11 +36,26 @@ version: 0.2.0
 5. **Notice of Hearing** if the motion requires a hearing
    date (see `oh-schedule-hearing`)
 
+## Disqualifying the assigned judge
+
+To seek removal of a Cuyahoga Common Pleas judge for bias,
+prejudice, or interest, **do not** file a motion to recuse
+with the judge. File an **affidavit of disqualification**
+with the **Clerk of the Ohio Supreme Court** under
+**R.C. 2701.03** — the Chief Justice rules on it, and a
+timely affidavit suspends the judge's authority to preside
+until that ruling. Full mechanics (the 7-day-before-hearing
+timing, required contents, and authority-suspension rule)
+are in `oh-hearings` → "Seeking disqualification (recusal)
+of the judge" and the statute at
+`oh-law-references/references/oh-statutes-debt/RC-Chapter-2701.md`.
+
 ## Composition with other oh- skills
 
 - `oh-statewide-format` — Civ. R. 10 caption + signature
 - `oh-discovery` — Civ. R. 33/34/36 practice
 - `oh-first-30-days` — 28-day Civ. R. 12(A)(1) answer
+- `oh-hearings` — R.C. 2701.03 affidavit of disqualification
 - `oh-draft-motion` / `-declaration` / `-note` / `-order` —
   scaffolders adapted to this court's local rules
 - `oh-pro-se` — pro-se conventions
