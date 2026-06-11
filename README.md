@@ -19,7 +19,7 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 
 | Plugin | Coverage |
 |---|---|
-| [`wa-court-docs`](plugins/wa-court-docs/README.md) | Washington — GR 14; 6 venues + 6 subject bundles + CPA + CEMA; 32 skills |
+| [`wa-court-docs`](plugins/wa-court-docs/README.md) | Washington — GR 14; 6 venues + 6 subject bundles + CPA + CEMA + federal W.D. Wash. pro se venue; 33 skills |
 | [`or-court-docs`](plugins/or-court-docs/README.md) | Oregon — UTCR 2.010; Multnomah + Washington Co + roll-up; consumer-debt (no-interrogatories quirk) |
 | [`ca-court-docs`](plugins/ca-court-docs/README.md) | California — CRC 2.100-2.119; LASC + SFSC + roll-up; consumer-debt |
 | [`co-court-docs`](plugins/co-court-docs/README.md) | Colorado — C.R.C.P. 10 + CJD 11-01; Denver + Arapahoe + roll-up; consumer-debt + family-law; 22 skills |

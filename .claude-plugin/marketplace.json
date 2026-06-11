@@ -10,7 +10,7 @@
   ],
   "metadata": {
     "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents — one plugin per state plus two shared federal reference plugins (claude-legal-federal-laws and claude-legal-immigration-laws). Each plugin ships matter-neutral civil-procedure skills plus subject-matter bundles and verbatim reference corpora; the state plugins depend on claude-legal-federal-laws for the shared federal / UCC / Bankruptcy content, and every plugin depends on document-skills from the anthropic-agent-skills marketplace (github.com/anthropics/skills) for DOCX / PDF / PPTX / XLSX document output. Anthropic's claude-for-legal marketplace (github.com/anthropics/claude-for-legal — practice-area plugins for commercial, privacy, corporate, employment, litigation, IP, and legal-education workflows) is an allowlisted companion marketplace that composes with these plugins. The two shared plugins bundle two free remote MCP servers — CourtListener (mcp.courtlistener.com) and Legal Data Hunter (legaldatahunter.com/mcp) — for on-demand case-law and statute lookup, with dedicated research skills (case-law-research, immigration-case-law) that route the agent to them. Per-plugin detail lives in each plugin's README.md. Currently ten state plugins (WA, OR, CA, CO, IN, NY, OH, TN, MI, AZ) plus the two shared plugins.",
-    "version": "0.32.0"
+    "version": "0.33.0"
   },
   "plugins": [
     {
@@ -77,7 +77,7 @@
     {
       "name": "wa-court-docs",
       "source": "./plugins/wa-court-docs",
-      "description": "Washington court documents: GR 14 formatting; King / Pierce / Snohomish / Spokane venues + family-law department + county roll-up; six subject bundles (consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes) plus a matter-neutral CPA/UDAP skill (Consumer Protection Act, RCW 19.86 — Hangman Ridge) and a CEMA (RCW 19.190 anti-spam; Brown v. Old Navy) skill. Full detail in the plugin README.",
+      "description": "Washington court documents: GR 14 formatting; King / Pierce / Snohomish / Spokane venues + family-law department + county roll-up; six subject bundles (consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes) plus a matter-neutral CPA/UDAP skill (Consumer Protection Act, RCW 19.86 — Hangman Ridge), a CEMA (RCW 19.190 anti-spam; Brown v. Old Navy) skill, and a federal-court venue skill for the U.S. District Court for the Western District of Washington (wa-wawd-pro-se: FRCP + LCR, noting dates, IFP, CM/ECF, Ninth Circuit appeals). Full detail in the plugin README.",
       "category": "legal",
       "keywords": [
         "washington",
@@ -117,7 +117,11 @@
         "washington-cpa",
         "rcw-19-86",
         "hangman-ridge",
-        "ucc"
+        "ucc",
+        "federal-court",
+        "wawd",
+        "western-district-of-washington",
+        "cm-ecf"
       ]
     },
     {

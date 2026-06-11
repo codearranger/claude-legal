@@ -10,6 +10,7 @@ Draft and format documents for Washington State courts.
 - Handles **exhibit lists and cover pages** with consistent pagination and footers
 - Covers **King County District Court** (including South Division / Burien) local practice
 - Supports **pro se** workflows using the pro-se drafting framework
+- Covers **federal court** too: `wa-wawd-pro-se` is a venue skill for the **U.S. District Court for the Western District of Washington** (Seattle/Tacoma) — FRCP + Local Civil Rules, the LCR 7(d) noting-date system, IFP, CM/ECF pro se registration, FRCP 4 service, and Ninth Circuit appeal basics, mirroring the court's official Pro Se Guide (Rev. Jul-24) and forms catalog
 - Guides the **first 30 days** after service — deadline computation, motion-to-dismiss vs. answer triage, affirmative-defense and counterclaim planning
 - Provides **discovery procedure** (matter-neutral) and subject-matter request banks (currently debt-buyer)
 - Guides **hearing preparation** for in-person and Zoom — oral argument structure, courtroom etiquette, day-of checklist
@@ -37,6 +38,7 @@ All functionality is exposed as **skills**. There are no slash commands — the 
 | `wa-statewide-format` | GR 14 formatting rules, caption structure, signature blocks, exhibit handling, the four document templates |
 | `wa-kcdc` | King County District Court specifics — divisions, civil motion docket, filing procedures |
 | `wa-pro-se` | pro-se drafting framework for drafting (fact-front-loaded, concise, written to the judge), service protocols, common pro se pitfalls |
+| `wa-wawd-pro-se` | FEDERAL venue: W.D. Washington (Seattle/Tacoma) pro se — FRCP + LCR (not GR 14), county-based courthouse division, $405 fee / IFP, LCR 5.2(a) redaction, FRCP 4 service, CM/ECF registration, LCR 7(d) noting dates, sealed docs, FBA civil-rights clinic, Ninth Circuit appeals; court's Pro Se Guide + forms mirrored in references/ |
 | `wa-law-references` | Civil rules (CR/CRLJ), Evidence Rules (ER), fees and costs (RCW 4.84, CR 37), local rules (KCLCR, KCDCLCR), citation format, canonical online sources, general-civil key cases |
 | `wa-discovery` | Matter-neutral discovery framework — RFPs, interrogatories, RFAs, meet and confer, motion to compel |
 | `wa-hearings` | Courtroom etiquette, oral argument structure, remote hearings, hearing-day checklist |
