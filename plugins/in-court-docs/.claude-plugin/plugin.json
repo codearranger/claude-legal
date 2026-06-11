@@ -1,8 +1,12 @@
 {
   "name": "in-court-docs",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "dependencies": [
-    "claude-legal-federal-laws"
+    "claude-legal-federal-laws",
+    {
+      "name": "document-skills",
+      "marketplace": "anthropic-agent-skills"
+    }
   ],
   "description": "Draft and format pleadings, declarations, motions, notices, and proposed orders for Indiana courts. Applies Indiana Trial Rule 5(E) statewide formatting; includes Marion Superior Court and Lake Superior Court specifics plus a county-courts roll-up; supports pro se workflows. Architected as matter-neutral civil-procedure skills (Ind. Trial R. civil rules, Ind. Evid. R. evidence rules, fees and costs, local rules, citation format per the Indiana Citation Manual) plus subject-matter bundles. Two subject-matter bundles ship: in-consumer-debt (FDCPA / Reg F / IUCCC / DCSA / chain-of-title doctrine) and in-family-law (paternity at IC 31-14 — the JP case-type backbone, dissolution at IC 31-15 under Indiana's equitable-distribution regime, child support at IC 31-16 with the Indiana Child Support Guidelines court rule, custody and parenting time at IC 31-17 with the Indiana Parenting Time Guidelines court rule, adoption at IC 31-19, UCCJEA at IC 31-21, DCS / CHINS / TPR / delinquency at IC 31-25 / 31-30 / 31-32 / 31-34 / 31-35 / 31-37, protection orders at IC 34-26-5). The in-family-court venue skill covers Indiana's family-law topology — no separate Family Court trial court; large counties (Marion, Lake, Allen, Vanderburgh, Hamilton, St. Joseph) have dedicated Juvenile Divisions; smaller counties (like Bartholomew) consolidate family-law jurisdiction in the Circuit Court. Follows a thin-skill architecture: SKILL.md bodies describe procedural frameworks and point at the references corpus for current statutory text, dollar thresholds, day counts, and section subsections rather than embedding them. All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
   "author": {

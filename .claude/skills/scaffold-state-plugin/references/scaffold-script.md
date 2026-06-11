@@ -126,8 +126,9 @@ That's 21 SKILL.md files, 2 corpus READMEs (only the state-specific
 corpora — `court-rules/` and `<state>-statutes-debt/` — get a real
 directory with a README; `federal-debt-laws` and `ucc-model` are
 created as symlinks into the shared `claude-legal-federal-laws`
-plugin), 1 plugin.json declaring
-`"dependencies": ["claude-legal-federal-laws"]`, 1 evals README,
+plugin), 1 plugin.json declaring dependencies on
+`claude-legal-federal-laws` and on `document-skills` from the
+`anthropic-agent-skills` marketplace, 1 evals README,
 2 copied scripts, and ~30 empty directories.
 
 ## What the script does NOT do

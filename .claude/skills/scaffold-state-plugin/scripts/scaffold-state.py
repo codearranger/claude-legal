@@ -523,7 +523,17 @@ def render_plugin_json(cfg: StateConfig) -> str:
             # dependency and dereferences the in-tree symlinks at
             # install time. See ../../symlink wiring in
             # create_state_plugin() below.
-            "dependencies": ["claude-legal-federal-laws"],
+            # Every plugin also depends on Anthropic's document-skills
+            # (DOCX / PDF / PPTX / XLSX) from the anthropic-agent-skills
+            # marketplace; the root marketplace.json allowlists it via
+            # allowCrossMarketplaceDependenciesOn.
+            "dependencies": [
+                "claude-legal-federal-laws",
+                {
+                    "name": "document-skills",
+                    "marketplace": "anthropic-agent-skills",
+                },
+            ],
             "description": (
                 f"Draft and format pleadings, declarations, motions,"
                 f" notices, and proposed orders for {cfg.name} courts."

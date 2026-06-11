@@ -1,8 +1,12 @@
 {
   "name": "tn-court-docs",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "dependencies": [
-    "claude-legal-federal-laws"
+    "claude-legal-federal-laws",
+    {
+      "name": "document-skills",
+      "marketplace": "anthropic-agent-skills"
+    }
   ],
   "description": "Draft and format pleadings, declarations, motions, notices, and proposed orders for Tennessee courts. Applies Tenn. R. Civ. P. 10 + local-rule statewide formatting across Tennessee's three trial-court layers — Circuit Court, Chancery Court (with Clerk & Master + Chancellor), and the limited-jurisdiction General Sessions Court (the dominant consumer-debt and detainer forum, with de novo appeal to Circuit). Ships dedicated venue skills for the four largest counties — Davidson (Nashville, 20th JD), Shelby (Memphis, 30th JD), Knox (Knoxville, 6th JD), and Hamilton (Chattanooga, 11th JD) — plus a General Sessions skill, a Juvenile Court skill, and a county-courts roll-up; supports pro se workflows. Architected as matter-neutral civil-procedure skills (Tenn. R. Civ. P. civil rules, Tenn. R. Evid. evidence rules, fees and costs, local rules, citation per Tennessee conventions and Tenn. Sup. Ct. R. 4) plus six subject-matter bundles: tn-consumer-debt (FDCPA / Reg F / Tennessee Consumer Protection Act / Tennessee Collection Service Act licensing / 2024 § 20-6-104 debt-buyer documentation rule / chain of title), tn-family-law (Title 36 equitable-distribution divorce, income-shares child support, the four Tennessee alimony types, permanent parenting plans), tn-landlord-tenant (URLTA at Tenn. Code Ann. 66-28 with its county-population threshold + non-URLTA counties + detainer warrants + CARES Act 30-day notice overlay), tn-personal-injury (McIntyre modified comparative fault, the 1-year tort SOL, the Health Care Liability Act pre-suit notice + certificate of good faith, the GTLA, the 2011 tort-reform damages caps upheld in McClay v. Airport Management Services), tn-employment (THRA + TDA + TPPA whistleblower + Wage Regulation Act + right-to-work + Murfreesboro Medical v. Udom non-compete reasonableness + Workers' Comp + Court of Workers' Compensation Claims forum split), and tn-commercial-disputes (Chancery as equity forum + Davidson Business Court + TCPA Pursell B2B exclusion + TUTSA trade secrets + UVTA fraudulent transfer + Tennessee Revised LLC Act + Tennessee Business Corporation Act + Tennessee Uniform Arbitration Act + Tennessee Securities Act + Rule 9.02 fraud particularity). All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
   "author": {

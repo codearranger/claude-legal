@@ -14,14 +14,16 @@ description: >
   the format-check and case-calendar scripts parameterized to
   the new state's holidays and format rule, registers the plugin
   in marketplace.json, and updates CLAUDE.md and README.md. The
-  scaffolder declares "dependencies: [claude-legal-federal-laws]"
-  in the new plugin.json and lays down symlinks at references/
+  scaffolder declares dependencies on claude-legal-federal-laws
+  and on document-skills from the anthropic-agent-skills
+  marketplace (Anthropic's DOCX/PDF/PPTX/XLSX skills) in the new
+  plugin.json and lays down symlinks at references/
   federal-debt-laws and references/ucc-model pointing into the
   shared plugin — federal corpora are NOT duplicated per state.
   This is a **project-scoped skill** — it lives in .claude/
   skills/ and runs against the marketplace repo as a whole. It
   is NOT a marketplace plugin.
-version: 0.5.0
+version: 0.6.0
 ---
 
 # Scaffold a New State Plugin
@@ -311,8 +313,10 @@ dive. Each `<state>-law-references` skill needs:
   plugin via `../../../../claude-legal-federal-laws/...`. Do
   NOT create a real directory here. The scaffold script lays
   this symlink down automatically; if you author the plugin by
-  hand, declare `"dependencies": ["claude-legal-federal-laws"]`
-  in plugin.json and run `ln -s` for the symlink.
+  hand, declare `"dependencies": ["claude-legal-federal-laws",
+  {"name": "document-skills", "marketplace":
+  "anthropic-agent-skills"}]` in plugin.json and run `ln -s`
+  for the symlink.
 - `ucc-model/` *(symlink)* — same shared plugin; same symlink
   target convention. Same dependency.
 - `<state>-statutes-debt/` — **state's civil-practice +

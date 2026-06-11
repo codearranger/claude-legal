@@ -34,10 +34,11 @@ All state plugins are architected the same way: matter-neutral civil-procedure s
 
 ## Install
 
-Add this marketplace to Claude Code or Cowork, then install the state plugins you want:
+Add this marketplace and the Anthropic Agent Skills marketplace (which hosts the `document-skills` dependency) to Claude Code or Cowork, then install the state plugins you want:
 
 ```
 /plugin marketplace add https://github.com/codearranger/claude-legal
+/plugin marketplace add anthropics/skills
 /plugin install wa-court-docs@claude-legal
 /plugin install or-court-docs@claude-legal
 /plugin install ca-court-docs@claude-legal
@@ -50,7 +51,7 @@ Add this marketplace to Claude Code or Cowork, then install the state plugins yo
 /plugin install az-court-docs@claude-legal
 ```
 
-Each state plugin declares `claude-legal-federal-laws` as a `dependencies:` entry, so the marketplace runtime installs the shared plugin automatically — no need to install it explicitly.
+Each state plugin declares `claude-legal-federal-laws` as a `dependencies:` entry, so the marketplace runtime installs the shared plugin automatically — no need to install it explicitly. Every plugin (state + shared) also declares a cross-marketplace dependency on `document-skills` from the [`anthropic-agent-skills`](https://github.com/anthropics/skills) marketplace — Anthropic's DOCX / PDF / PPTX / XLSX document-creation skills — so generated filings can be produced as real Word/PDF documents. The dependency auto-installs as long as the `anthropics/skills` marketplace has been added (the `/plugin marketplace add anthropics/skills` line above); if it hasn't, the dependency is left unresolved until you add it.
 
 ## Reference corpora at a glance
 
