@@ -20,13 +20,13 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 | Plugin | Coverage |
 |---|---|
 | [`wa-court-docs`](plugins/wa-court-docs/README.md) | Washington — GR 14; 6 venues + 6 subject bundles + CPA + CEMA + federal W.D. Wash. pro se venue; 33 skills |
-| [`or-court-docs`](plugins/or-court-docs/README.md) | Oregon — UTCR 2.010; Multnomah + Washington Co + roll-up; consumer-debt (no-interrogatories quirk) |
-| [`ca-court-docs`](plugins/ca-court-docs/README.md) | California — CRC 2.100-2.119; LASC + SFSC + roll-up; consumer-debt |
+| [`or-court-docs`](plugins/or-court-docs/README.md) | Oregon — UTCR 2.010; Multnomah + Washington Co + roll-up; consumer-debt (no-interrogatories quirk); 21 skills |
+| [`ca-court-docs`](plugins/ca-court-docs/README.md) | California — CRC 2.100-2.119; LASC + SFSC + roll-up; consumer-debt; 21 skills |
 | [`co-court-docs`](plugins/co-court-docs/README.md) | Colorado — C.R.C.P. 10 + CJD 11-01; Denver + Arapahoe + roll-up; consumer-debt + family-law; 22 skills |
 | [`in-court-docs`](plugins/in-court-docs/README.md) | Indiana — T.R. 5(E); Marion + Lake + roll-up; consumer-debt + family-law; 23 skills |
 | [`ny-court-docs`](plugins/ny-court-docs/README.md) | New York — 22 NYCRR § 202.5 / NYSCEF; 5 flagship Supreme Courts + District / City / Justice / Family / Housing courts; 5 subject bundles; 35 skills |
 | [`oh-court-docs`](plugins/oh-court-docs/README.md) | Ohio — Civ. R. 10; 8 Common Pleas venues + municipal + family (verbatim Cuyahoga + Delaware local rules); 5 subject bundles (consumer-debt + family-law + personal-injury + employment + commercial-disputes); 33 skills |
-| [`tn-court-docs`](plugins/tn-court-docs/README.md) | Tennessee — local-rule format; Circuit / Chancery / General Sessions; 4 subject bundles; 29 skills |
+| [`tn-court-docs`](plugins/tn-court-docs/README.md) | Tennessee — local-rule format; Circuit / Chancery / General Sessions; 6 subject bundles; 31 skills |
 | [`mi-court-docs`](plugins/mi-court-docs/README.md) | Michigan — MCR 1.109 / 2.113; Wayne + Oakland + 36th District + family; 6 subject bundles; 29 skills |
 | [`az-court-docs`](plugins/az-court-docs/README.md) | Arizona — Ariz. R. Civ. P. 10 / 7.1; Maricopa + Pima + Justice + family; 6 subject bundles; 28 skills |
 
@@ -113,14 +113,14 @@ claude-legal/
 │   │       ├── court-rules/               # EOIR ICPM + BIA Practice Manual stubs (binding rules = 8 CFR 1003/1240/1208)
 │   │       ├── legal-data-apis.md         # on-demand case law: circuits / BIA / AAO
 │   │       └── online-sources.md          # canonical human-facing URLs
-│   ├── wa-court-docs/                # Washington (30 skills — 6 venues incl. wa-family-court + 6 subject bundles: consumer-debt + family-law + landlord-tenant + personal-injury + employment + commercial-disputes)
+│   ├── wa-court-docs/                # Washington (33 skills — 6 venues incl. wa-family-court + 6 subject bundles + wa-cpa + wa-cema + federal W.D. Wash. pro se venue)
 │   ├── or-court-docs/                # Oregon (21 skills)
 │   ├── ca-court-docs/                # California (21 skills)
 │   ├── co-court-docs/                # Colorado (22 skills — incl. co-family-law)
 │   ├── in-court-docs/                # Indiana (23 skills — adds in-family-court + in-family-law)
 │   ├── ny-court-docs/                # New York (35 skills — 5 flagship Supreme Court venues + 2 dedicated Long Island District Courts + 2 NYC Civil/Housing Court skills + upstate City Courts + Justice Courts + Family Court + 5 subject bundles)
 │   ├── oh-court-docs/                # Ohio (33 skills — 8 flagship Common Pleas + Common Pleas roll-up + Municipal Court layer + Family Court + 5 subject bundles)
-│   ├── tn-court-docs/                # Tennessee (29 skills — 4 flagship counties + General Sessions + county roll-up + split family/juvenile + 4 subject bundles)
+│   ├── tn-court-docs/                # Tennessee (31 skills — 4 flagship counties + General Sessions + county roll-up + split family/juvenile + 6 subject bundles)
 │   ├── mi-court-docs/                # Michigan (29 skills — Wayne/Oakland Circuit + 36th District + Circuit/District roll-ups + Family Division + 6 subject bundles)
 │   └── az-court-docs/                # Arizona (28 skills — Maricopa/Pima Superior + Justice Courts + Superior-courts roll-up + Family Department + 6 subject bundles)
 └── scripts/                          # Shared marketplace scripts
