@@ -1,28 +1,20 @@
 ---
 name: or-discovery
 description: >
-  This skill should be used when drafting, responding to, or
-  compelling discovery in an Oregon civil case across any subject
-  matter. Triggers include "requests for production", "RFP",
-  "depositions", "RFA", "requests for admission", "meet and
-  confer", "ORCP 36 conference", "ORCP 46 motion", "motion to
-  compel", "discovery responses", "discovery objections", "ORCP
-  43 objections", "privilege log", "proportionality", "ORCP 43
-  limits", "ORCP 39", "ORCP 45", "ORCP 46", "no interrogatories
-  in Oregon", "Oregon discovery rules". Covers the matter-neutral
-  procedural framework: discovery request drafting, response
-  drafting and objections, meet-and-confer mechanics, and the full
-  motion-to-compel workflow with mandatory fee-shifting under
-  ORCP 46 A(4)(a). **Important Oregon quirk**: written
-  interrogatories are NOT available under the ORCP as a matter
-  of right — the available discovery tools are depositions (ORCP
-  39), requests for production (ORCP 43), physical/mental exams
-  (ORCP 44), and requests for admission (ORCP 45). Subject-matter-
-  specific request banks (e.g., debt-buyer RFPs targeting chain
-  of title) live with the relevant subject-matter skill (e.g.,
-  or-consumer-debt). Compose with or-statewide-format, or-pro-se,
+  Use this skill for discovery in Oregon civil cases. Triggers
+  include "RFP", "depositions", "RFA", "requests for admission",
+  "meet and confer", "ORCP 46", "motion to compel", "discovery
+  objections", "privilege log", "ORCP 39", "ORCP 43", "ORCP 45".
+  Covers discovery request drafting, response strategy, meet-and-
+  confer mechanics, and motion-to-compel with mandatory fee-
+  shifting (ORCP 46 A(4)(a)). **Important**: written
+  interrogatories are NOT available as of right — use depositions
+  (ORCP 39), RFPs (ORCP 43), physical/mental exams (ORCP 44), or
+  RFAs (ORCP 45). Subject-matter request banks (e.g., debt-buyer
+  RFPs) live with relevant subject-matter skill (e.g., or-
+  consumer-debt). Composes with or-statewide-format, or-pro-se,
   or-law-references, or-draft-motion, and or-fact-check.
-version: 0.1.0
+version: 0.1.2
 ---
 
 # Oregon Discovery — Procedural Reference

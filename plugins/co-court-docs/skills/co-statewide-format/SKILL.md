@@ -1,23 +1,16 @@
 ---
 name: co-statewide-format
 description: >
-  This skill should be used when the user asks to "draft a pleading",
-  "format a Colorado court document", "apply C.R.C.P. 10", "apply CJD
-  11-01", "build a Colorado caption", "build a Colorado flexible
-  caption", "create a declaration", "format a motion", "draft a
-  motion under Rule 121", or "draft a proposed order" for any
-  Colorado state court (district court, county court, water court,
-  probate court, or juvenile court). Covers C.R.C.P. 10
-  form-of-pleadings requirements, Chief Justice Directive 11-01
-  statewide standards for pleading filing, the Colorado statewide
-  flexible caption (four-row layout: court-type selector + county +
-  court address; party block; attorney-or-party-without-attorney
-  block paired with the COURT USE ONLY case-number / division /
-  courtroom box; form title), numbered paragraphs, signature blocks
-  (with Colorado attorney-registration number when applicable),
-  exhibit lists, and citation format per the Colorado Appellate
-  Court conventions and the ICW Style Manual.
-version: 0.6.0
+  Use when drafting Colorado court documents — pleadings, motions,
+  declarations, proposed orders under **C.R.C.P. 10** (form of pleadings)
+  and **Chief Justice Directive 11-01** (statewide filing standards).
+  Covers the **flexible caption** (four-row table: court-type / county /
+  address; parties; attorney/pro se + COURT USE ONLY box; title),
+  numbered paragraphs, signature blocks (with Colorado attorney
+  registration #), exhibits, footer with page count, line numbering,
+  and citation format. Triggers: "draft a Colorado pleading", "C.R.C.P.
+  10", "CJD 11-01", "flexible caption", "Colorado declaration".
+version: 0.6.1
 ---
 
 # Colorado Statewide Court Document Formatting

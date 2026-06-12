@@ -1,24 +1,20 @@
 ---
 name: or-wccc
 description: >
-  This skill should be used when drafting or filing documents in
-  the Washington County Circuit Court (Oregon — "WCCC"), Oregon's
-  second-largest trial court, sitting in Hillsboro. Triggers
-  include "Washington County" (in an Oregon context), "WCCC",
-  "Washington County Circuit Court", "Hillsboro Circuit Court",
-  "WCCC Civil", "Hillsboro courthouse", "Washington County SLR",
-  "Washington County local rules", or any Oregon case venued in
-  Washington County (`25CV#####` filed there). **Important**:
-  "Washington County" in Oregon is the suburban Portland county
-  whose seat is Hillsboro — NOT to be confused with the state of
-  Washington. For the state of Washington's courts, use the
-  separate `wa-court-docs` plugin. Covers Washington County SLR,
-  civil motion scheduling (motion docket model — Washington County
-  uses a more centralized scheduling system than Multnomah), the
-  Hillsboro Justice Services Building, eFiling through OJD File
-  and Serve, and the working-copy practice. Layer on top of
+  Use this skill when drafting or filing documents in Washington
+  County Circuit Court (Oregon — "WCCC"), Oregon's second-largest
+  trial court in Hillsboro. Triggers include "Washington County"
+  (Oregon context), "WCCC", "Hillsboro Circuit Court", "Hillsboro
+  courthouse", "Washington County SLR", "Washington County local
+  rules", or any Oregon case in Washington County (25CV#####
+  format). **Important**: "Washington County" in Oregon (Hillsboro
+  seat) is distinct from the state of Washington — use
+  `wa-court-docs` for Washington state courts. Covers Washington
+  County SLR, civil motion scheduling via Civil Division,
+  Hillsboro courthouse details, OJD File and Serve eFiling, and
+  working-copy practice (15-page threshold). Layer on top of
   `or-statewide-format`.
-version: 0.1.1
+version: 0.1.2
 ---
 
 # Washington County Circuit Court (Oregon)

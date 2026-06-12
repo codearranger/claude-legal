@@ -1,34 +1,22 @@
 ---
 name: consumer-harm-documentation
 description: >
-  Use this skill to help a consumer build the documentation and
-  evidence record that underpins a Fair Credit Reporting Act (FCRA) or
-  related consumer claim and drives settlement value — capturing
-  violations, lies, and the concrete and emotional harm caused by
-  inaccurate reporting or unlawful collection. Triggers include
-  "document my damages", "prove harm", "record the call", "can I
-  record the collector", "they hung up on me", "they refused to let me
-  record", "track my postage and time", "communication log", "harm
-  log", "damages worksheet", "emotional distress evidence", "Apple
-  Watch health data", "wearable data for my claim", "doctor letter for
-  stress", "written breakdown from the creditor", "how much was I
-  harmed", "settlement value". Covers logging every communication with
-  creditors / collectors / CRAs, the state-by-state call-recording
-  consent rules (one-party vs. all-party — verify before recording),
-  capturing refusals-to-record and hang-ups as bad-faith evidence,
-  filming online portal/chat interactions, the harm taxonomy (higher
-  interest, credit/service denials, insurance hikes, job and
-  tenant-screening denials, time and postage via a dedicated "firm
-  books" mailing log), saving statements and requesting written cost
-  breakdowns from creditors, and documenting emotional / physiological
-  distress via providers or wearables (including converting wearable
-  health data into a harm declaration with Claude). Produces
-  communication logs, harm/damages ledgers, and harm-declaration
-  scaffolds. Composes with consumer-report-ordering,
-  consumer-credit-disputes, consumer-report-accuracy,
-  consumer-credit-monitoring, the state *-consumer-debt bundles, and
-  the state *-pro-se skills.
-version: 0.1.0
+  Use this skill to build documentation and evidence for FCRA or
+  consumer claims. Triggers include "document my damages", "prove
+  harm", "record the call", "they hung up on me", "track postage
+  and time", "communication log", "harm log", "damages worksheet",
+  "emotional distress", "wearable data", "written breakdown from
+  creditor", "settlement value". Covers logging communications,
+  call-recording consent rules (verify by state), capturing hang-ups
+  as bad-faith evidence, filming online interactions, harm taxonomy
+  (higher interest, denials, insurance hikes, "firm books" log),
+  requesting cost breakdowns, and documenting emotional distress.
+  Produces communication logs, harm ledgers, and harm-declaration
+  scaffolds. Composes with consumer-report-ordering, consumer-
+  credit-disputes, consumer-report-accuracy, consumer-credit-
+  monitoring, state *-consumer-debt bundles, and state *-pro-se.
+version: 0.1.2
+version: 0.1.1
 ---
 
 # Consumer Harm Documentation & Evidence

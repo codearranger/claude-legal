@@ -1,23 +1,15 @@
 ---
 name: in-statewide-format
 description: >
-  This skill should be used when the user asks to "draft a pleading",
-  "format an Indiana court document", "apply Indiana Trial Rule 5(E)",
-  "Indiana Trial Rule 10", "Indiana caption format", "build a
-  caption", "create a declaration for Indiana", "format a motion for
-  Marion Superior Court", "Indiana proposed order", "Indiana
-  pleading paper", or any similar request for statewide Indiana
-  document formatting. Covers Indiana Trial Rule 5(E) page format
-  (paper size, margins, font, line spacing, footer pagination),
-  Indiana Trial Rule 10 (caption + paragraph numbering), Indiana
-  Trial Rule 11(A) signature block, the statewide Odyssey e-filing
-  conventions, certifications under Indiana Trial Rule 11(B), and
-  citation format per the Indiana Supreme Court Rules on Citation.
-  Trigger phrases: "format an Indiana pleading", "Indiana caption",
-  "T.R. 5(E)", "T.R. 10", "Trial Rule 11 signature", "Indiana
-  declaration", "Odyssey eFile Indiana", "Marion County caption",
-  "Indiana Supreme Court Rule on Citation".
-version: 0.4.0
+  Use when drafting Indiana court documents — pleadings, motions,
+  declarations, proposed orders, formatting under **Indiana Trial
+  Rule 5(E)** (paper size, margins, font, line spacing, footer), **T.R.
+  10** (caption, paragraph numbering), **T.R. 11(A)** (signature block),
+  **Odyssey e-filing conventions**, and citation format per the
+  Indiana Supreme Court Rules on Citation. Triggers: "format an Indiana
+  pleading", "Indiana caption", "T.R. 5(E)", "T.R. 10", "Trial Rule 11
+  signature", "Indiana declaration", "Odyssey eFile Indiana".
+version: 0.4.1
 ---
 
 # Indiana Statewide Court Document Formatting

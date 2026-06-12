@@ -1,29 +1,21 @@
 ---
 name: or-first-30-days
 description: >
-  Use this skill when an Oregon defendant has just been served
-  with a civil summons and complaint in any subject-matter case
-  and the answer window is running. Triggers include "I was just
-  served", "I got served with a summons", "summons and complaint",
-  "what do I do first", "how much time do I have to respond",
-  "just served, now what", "initial response", "first steps after
-  being sued", "deadline to answer", "answer the complaint",
-  "affirmative defenses checklist", "counterclaim planning", "ORCP
-  21", "motion to dismiss or answer", "general denial", "should I
-  plead counterclaims". Covers the matter-neutral from-service-
-  through-answer-filed window in Oregon: ORCP 7 C(2) 30-day
-  response deadline, ORCP 21 motion-to-dismiss vs. answer triage,
-  general affirmative-defenses checklist, counterclaim mechanics
-  and compulsory-counterclaim analysis (ORCP 22), evidence
-  preservation, and initial discovery planning. For subject-
-  matter-specific fact patterns, substantive defenses, and
-  counterclaim menus, compose with the relevant subject-matter
-  skill (e.g., or-consumer-debt for debt-collection cases).
-  Composes with or-deadlines, or-draft-motion, or-draft-
-  declaration, or-discovery, or-law-references, or-fact-check,
-  or-file-packet, and (if default already entered) or-post-
-  judgment.
-version: 0.1.0
+  Use this skill when an Oregon defendant is served with a summons
+  and complaint. Triggers include "I was just served", "summons and
+  complaint", "what do I do first", "deadline to answer", "answer
+  the complaint", "affirmative defenses checklist", "counterclaim
+  planning", "ORCP 21", "motion to dismiss or answer", "plead
+  counterclaims". Covers ORCP 7 C(2) 30-day deadline, ORCP 21
+  motion-to-dismiss triage, affirmative-defenses checklist,
+  counterclaim mechanics (ORCP 22), evidence preservation, and
+  discovery planning. For subject-matter fact patterns and
+  counterclaim menus, compose with relevant subject-matter skill
+  (e.g., or-consumer-debt). Composes with or-deadlines, or-draft-
+  motion, or-draft-declaration, or-discovery, or-law-references,
+  or-fact-check, or-file-packet, and (if default entered) or-
+  post-judgment.
+version: 0.1.2
 ---
 
 # Oregon — First 30 Days After Service

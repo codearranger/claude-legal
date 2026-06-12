@@ -1,28 +1,17 @@
 ---
 name: co-family-law
 description: >
-  This skill should be used when handling a Colorado family-law /
-  domestic-relations matter, especially dissolution of marriage
-  (divorce), declaration of invalidity of marriage (annulment),
-  legal separation, allocation of parental responsibilities,
-  parenting time, child support, and maintenance (spousal support).
-  Triggers include "divorce in Colorado", "Colorado dissolution of
-  marriage", "uncontested divorce Colorado", "Colorado custody",
-  "Colorado parenting plan", "parental responsibilities Colorado",
-  "C.R.S. 14-10", "UDMA", "Colorado child support guideline",
-  "C.R.S. 14-10-115", "annulment Colorado", "declaration of
-  invalidity Colorado", "C.R.S. 14-10-111", "Colorado maintenance",
-  "Colorado alimony", "C.R.S. 14-10-114", "legal separation
-  Colorado", "C.R.C.P. 16.2", "sworn financial statement Colorado",
-  "JDF 1099", "JDF 1111", "post-decree modification Colorado". A
-  subject-matter bundle covering the Uniform Dissolution of Marriage
-  Act (UDMA — C.R.S. art. 10 of title 14), C.R.C.P. 16.2 mandatory
-  domestic-case management with the Sworn Financial Statement,
-  decision-making and parenting time under C.R.S. § 14-10-124, the
-  C.R.S. § 14-10-115 child-support guidelines and online worksheet,
-  modification under C.R.S. § 14-10-122, common-law marriage, and the
-  Hague Convention recognition for international relocation.
-version: 0.2.0
+  Use for Colorado family-law matters — dissolution/annulment/legal
+  separation, parental responsibilities, parenting time, child support,
+  maintenance. Covers **Uniform Dissolution of Marriage Act (UDMA —
+  C.R.S. art. 10 of title 14)**, **C.R.C.P. 16.2** mandatory domestic
+  case management with **Sworn Financial Statement**, **C.R.S.
+  § 14-10-115** child-support guidelines, **C.R.S. § 14-10-114**
+  maintenance, allocation of parental responsibilities (**C.R.S.
+  § 14-10-124**), modification (**C.R.S. § 14-10-122**), common-law
+  marriage. Triggers: "divorce Colorado", "Colorado dissolution",
+  "Colorado custody", "C.R.S. 14-10", "UDMA", "child support guideline".
+version: 0.2.1
 ---
 
 # Colorado Family Law — Divorce, Annulment, Child Support

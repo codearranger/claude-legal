@@ -1,25 +1,17 @@
 ---
 name: co-consumer-debt
 description: >
-  This skill should be used when defending a Colorado consumer
-  against a debt-collection lawsuit (typically by a debt buyer or
-  collection agency). Triggers include "Colorado debt-buyer
-  lawsuit", "Midland Credit lawsuit Colorado", "Portfolio Recovery
-  Colorado", "Cavalry SPV Colorado", "LVNV Funding Colorado", "I was
-  sued by a debt collector in Colorado", "Colorado FDCPA", "Colorado
-  Rosenthal-equivalent", "CFDCPA", "Colorado Consumer Protection
-  Act", "C.R.S. § 5-16", "C.R.S. § 6-1-105", "Colorado collection
-  agency licensure", "Colorado statute of limitations on credit-card
-  debt", "chain of title Colorado debt", "credit-card SOL 6 years
-  Colorado". Subject-matter bundle covering FDCPA, Regulation F, the
-  Colorado Fair Debt Collection Practices Act (CFDCPA — C.R.S.
-  art. 16 of title 5), the Colorado Consumer Protection Act (CCPA —
-  C.R.S. art. 1 of title 6), the Uniform Consumer Credit Code (UCCC
-  — C.R.S. art. 1-9 of title 5), Colorado collection-agency
-  licensure under the Administrator of the UCCC (Colorado AG's
-  Collection Agency Board), chain-of-title doctrine under Colorado
-  UCC Article 9 (C.R.S. art. 9 of title 4), and the SOL framework.
-version: 0.1.0
+  Use when defending a Colorado consumer-debt case — debt-buyer
+  suits, collection actions. Covers **FDCPA + Reg F**, **Colorado Fair
+  Debt Collection Practices Act (CFDCPA — C.R.S. art. 16 of title 5)**
+  with **licensure requirement** (C.R.S. § 5-16-115), **Colorado
+  Consumer Protection Act (CCPA — C.R.S. art. 1 of title 6)** with
+  **treble damages**, **UCCC (C.R.S. art. 1-9 of title 5)**, **chain of
+  title under Colorado UCC Article 9**, and **6-year SOL on credit-card
+  debt**. Triggers: "Colorado debt-buyer lawsuit", "Midland Credit
+  Colorado", "CFDCPA", "Colorado consumer protection", "chain of title
+  Colorado".
+version: 0.1.1
 ---
 
 # Colorado Consumer-Debt Defense

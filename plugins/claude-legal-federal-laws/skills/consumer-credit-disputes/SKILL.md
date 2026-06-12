@@ -1,35 +1,21 @@
 ---
 name: consumer-credit-disputes
 description: >
-  Use this skill to help a consumer file a LAWFUL Fair Credit Reporting
-  Act (FCRA) dispute directly with the credit reporting companies — the
-  step that actually triggers a reinvestigation duty (15 U.S.C. § 1681i)
-  and builds a claim — and to escalate to regulators AFTER the dispute.
-  Triggers include "dispute my credit report", "how do I dispute",
-  "dispute letter", "609 letter", "611 dispute", "method of
+  Use this skill to help a consumer file a LAWFUL Fair Credit
+  Reporting Act (FCRA) dispute directly with the credit reporting
+  agencies — the step that actually triggers the reinvestigation duty
+  (15 U.S.C. § 1681i) — and to escalate to regulators AFTER the
+  dispute. Triggers include "dispute my credit report", "how do I
+  dispute", "dispute letter", "609 letter", "611 dispute", "method of
   verification", "e-OSCAR", "certified mail dispute", "the bureau
   verified it", "reinvestigation", "identity theft block", "block this
   fraud account", "605B", "human trafficking block", "CFPB complaint",
-  "Attorney General complaint", "BBB complaint", "bona fide error",
-  "willful violation", "credit repair company", "restart my disputes".
-  Core rule the skill enforces: a complaint to the CFPB / state AG alone
-  is NOT an FCRA dispute and does not trigger legal duties — the dispute
-  must go directly to the CRA (e-OSCAR portal or, preferably, certified
-  mail) and be documented with proof to survive a motion to dismiss or
-  summary judgment. Covers the 30-day ordinary reinvestigation clock
-  (45 if FACTA-extended), the 4-business-day identity-theft block under
-  § 1681c-2 and trafficking block under § 1681c-3, manual (wet-ink, NON-
-  eSigned) identity-theft affidavits, the credit-repair-service caution,
-  starting disputes over when prior ones were not lawfully filed, and
-  post-dispute multi-regulator escalation (CFPB, state AG, financial-
-  protection agencies, BBB, civil-rights bodies) to defeat the bona fide
-  error defense by showing willfulness. Produces § 1681i dispute letters,
-  § 1681c-2 identity-theft block requests, follow-up / notice-of-failure
-  letters, and multi-regulator complaint packets. Composes with
-  consumer-report-ordering, consumer-report-accuracy,
-  consumer-harm-documentation, consumer-credit-monitoring, the state
-  *-consumer-debt bundles, and the state *-pro-se skills.
-version: 0.1.1
+  "bona fide error", "credit repair company", "restart my disputes".
+  Core rule: a regulator complaint alone is NOT an FCRA dispute — the
+  dispute must go directly to the CRA (e-OSCAR or certified mail) with
+  documented proof; identity-theft affidavits are wet-ink signed,
+  never eSigned.
+version: 0.1.2
 ---
 
 # Consumer Credit Disputes

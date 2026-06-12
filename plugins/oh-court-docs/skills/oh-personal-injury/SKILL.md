@@ -1,42 +1,18 @@
 ---
 name: oh-personal-injury
 description: >
-  Use when handling an Ohio personal-injury or tort matter —
-  negligence, premises liability, auto collision, product
-  liability, medical malpractice, wrongful death, dog bite,
-  or a tort claim against a government. Covers **modified
-  comparative negligence** (R.C. 2315.33 — recovery barred
-  only if the plaintiff's contributory fault is GREATER THAN
-  50%; damages diminished proportionally under R.C. 2315.34-
-  .35), **several-vs-joint liability** (R.C. 2307.22 —
-  noneconomic damages SEVERAL only, economic damages joint-
-  and-several only against a defendant MORE THAN 50% at
-  fault), the **2005 S.B. 80 damages caps** (noneconomic cap
-  R.C. 2315.18 — greater of $250,000 or 3× economic, capped
-  at $350,000/plaintiff and $500,000/occurrence, with the
-  catastrophic-injury exception; punitive cap R.C. 2315.21 —
-  generally 2× compensatory), **medical malpractice** (1-year
-  SOL R.C. 2305.113(A), the 180-day-letter extension R.C.
-  2305.113(B), the 4-year statute of repose R.C.
-  2305.113(C), the med-mal noneconomic cap R.C. 2323.43, and
-  the **affidavit of merit** under Civ. R. 10(D)(2)),
-  **product liability** (the OPLA at R.C. 2307.71-.80, which
-  abrogates common-law product claims, plus the 10-year
-  product statute of repose at R.C. 2305.10(C)), **wrongful
-  death** (R.C. Chapter 2125 — 2-year SOL at R.C. 2125.02(F)),
-  **political-subdivision immunity** (R.C. Chapter 2744 —
-  three-tier analysis + the R.C. 2744.05 damages limits),
-  and **dog-bite strict liability** (R.C. 955.28(B)).
-  Triggers include "Ohio personal injury", "Ohio negligence",
-  "Ohio comparative negligence", "R.C. 2315.33", "Ohio
-  damages cap", "R.C. 2315.18", "Ohio noneconomic cap",
-  "Ohio punitive damages cap", "Ohio product liability",
-  "OPLA", "R.C. 2307.71", "Ohio wrongful death", "R.C. 2125",
-  "Ohio dog bite", "R.C. 955.28", "Ohio political subdivision
-  immunity", "R.C. 2744", "Ohio medical malpractice", "Ohio
-  affidavit of merit", "Ohio med-mal statute of repose",
-  "Ohio tort SOL", "Ohio several liability".
-version: 0.1.0
+  Use for Ohio personal-injury / tort matters — negligence, auto,
+  product liability, med-mal, wrongful death, government tort. Covers
+  **modified comparative negligence** (R.C. 2315.33 — **51% bar**),
+  **several vs. joint liability** (R.C. 2307.22), **2005 S.B. 80 damages
+  caps** (noneconomic **R.C. 2315.18**, punitive **R.C. 2315.21**),
+  **med-mal** (**1-year SOL** with **180-day letter**, **4-year repose**,
+  **affidavit of merit**), **OPLA product liability** (R.C. 2307.71,
+  **10-year repose**), **wrongful death** (**R.C. Chapter 2125**),
+  **political-subdivision immunity** (R.C. Chapter 2744), **dog-bite
+  strict liability** (R.C. 955.28). Triggers: "Ohio personal injury",
+  "R.C. 2315.33", "Ohio damages cap", "Ohio product liability".
+version: 0.1.1
 ---
 
 # Ohio Personal Injury — Substantive Framework

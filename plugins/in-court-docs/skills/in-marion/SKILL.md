@@ -1,24 +1,16 @@
 ---
 name: in-marion
 description: >
-  This skill should be used when the user asks to "file in Marion
-  Superior Court", "Marion County Indianapolis", "Marion Civil
-  Division", "LR49", "Marion local rule", "Indianapolis civil
-  court", "City-County Building", "Marion small claims",
-  "Indianapolis pro se", "Marion CMS pretrial", or any similar
-  Marion County, Indiana filing question. Covers Marion Superior
-  Court's 36-courtroom configuration (Civil, Criminal, Probate,
-  Juvenile, and Domestic Relations divisions), the random-rotation
-  case assignment to Civil Division courtrooms, Marion County Local
-  Rules of Court (the LR49 series), the Marion County Civil
-  Pretrial Practice and Procedure (CPC) case-management standards,
-  the township small-claims courts under IC 33-34, and chambers /
-  e-filing logistics at the City-County Building, 200 E. Washington
-  St., Indianapolis. Trigger phrases: "Marion Superior", "Marion
-  Civil Division", "LR49-TR", "Civil Pretrial Practice and
-  Procedure", "Indianapolis e-filing", "Marion small claims",
-  "Pike Township small claims".
-version: 0.1.0
+  Use for Marion Superior Court (Indianapolis) — Indiana's largest
+  civil court. Covers the **36-courtroom configuration** (Civil,
+  Criminal, Probate, Juvenile, Domestic Relations divisions), **random
+  case assignment** to Civil courtrooms, **Marion County Local Rules
+  (LR49)**, **Civil Pretrial Practice & Procedure (CPC)** case
+  management, **township small-claims courts (IC 33-34)**, and
+  **Odyssey e-filing** at the City-County Building. Triggers: "Marion
+  Superior", "Marion Civil Division", "LR49-TR", "Civil Pretrial
+  Practice", "Marion small claims".
+version: 0.1.1
 ---
 
 # Marion Superior Court — Indianapolis (Indiana's Highest-Volume Civil Trial Court)

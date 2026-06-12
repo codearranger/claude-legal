@@ -1,29 +1,20 @@
 ---
 name: case-law-research
 description: >
-  Use this skill whenever a matter needs LIVE legal research — case law,
-  dockets, judges, or law outside the snapshotted corpora — so the agent
-  reaches for the two bundled free MCP servers (CourtListener and Legal
-  Data Hunter) instead of answering from memory or generic web search.
-  Triggers include "find case law", "find cases about", "cases on point",
-  "is there precedent for", "search for opinions", "what did the court
-  hold in", "look up this opinion", "verify this citation", "is this case
-  real", "cite-check", "is this still good law", "shepardize", "negative
-  treatment", "who cites this case", "check the docket", "pull the
-  docket", "PACER", "RECAP", "find the complaint in", "court records for
-  this case", "research the judge", "judge's history", "oral argument
-  recording", "find the law in another state", "what's the statute in
-  [other jurisdiction]", "foreign law", "law in [country]", "compare
-  across jurisdictions". Routes U.S. case law / federal dockets / judges /
-  oral arguments to the CourtListener MCP (search, read_document,
-  citation lookup) and multi-jurisdictional or non-U.S. statutes, case
-  law, and doctrine to the Legal Data Hunter MCP. Enforces the
-  research discipline: snapshot-first for statutes and court rules
-  already mirrored in the marketplace corpora, live-lookup for case law,
-  never cite from memory, quote-check every holding against retrieved
-  text. Composes with every state *-fact-check skill, the subject-matter
-  bundles, and immigration-case-law in the immigration plugin.
-version: 0.1.0
+  Use this skill whenever a matter needs LIVE legal research — case
+  law, dockets, judges, or law outside the snapshotted corpora — via
+  the bundled free CourtListener and Legal Data Hunter MCP servers,
+  never from memory or generic web search. Triggers include "find case
+  law", "cases on point", "is there precedent for", "what did the
+  court hold in", "look up this opinion", "verify this citation", "is
+  this case real", "cite-check", "is this still good law",
+  "shepardize", "negative treatment", "who cites this case", "check
+  the docket", "PACER", "RECAP", "research the judge", "oral argument
+  recording", "foreign law", "law in [country]". Routes U.S. case law
+  and dockets to CourtListener, non-U.S. and multi-jurisdictional law
+  to Legal Data Hunter. Cardinal rule: never cite a case from memory —
+  quote-check every holding against retrieved text.
+version: 0.1.1
 ---
 
 # Case-Law Research (bundled MCP servers)

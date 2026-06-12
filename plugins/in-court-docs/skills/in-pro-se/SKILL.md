@@ -1,25 +1,15 @@
 ---
 name: in-pro-se
 description: >
-  This skill should be used when the user is a self-represented
-  litigant (pro se) in an Indiana court and asks about "how do I
-  represent myself in Indiana", "pro se Indiana forms", "Indiana
-  self-represented", "JDF Indiana", "Indiana Self-Help Center",
-  "do I need a lawyer to file in Marion", "Indiana pro se
-  appearance", "how do I serve a defendant in Indiana",
-  "small claims pro se Indiana", "Indiana fee waiver", "Indiana
-  proceeding in forma pauperis", or any related self-help
-  question. Covers Indiana's pro se framework, the Indiana
-  Supreme Court Office of Judicial Administration self-help
-  resources, service of process under Indiana Trial Rule 4, the
-  Parker procedural framework adapted for Indiana, T.R. 11(A)
-  pro se signature requirements, Goossens v. Goossens equal-
-  standards doctrine, and county Self-Help Centers. Trigger
-  phrases: "pro se Indiana", "Indiana self-represented",
-  "Indiana pro se appearance", "Trial Rule 4 service",
-  "Indiana fee waiver", "indiana self-help center", "indiana
-  state court pro se forms".
-version: 0.1.1
+  Use for self-represented (pro se) litigants in Indiana courts.
+  Covers **pro se framework**, **service under Trial Rule 4**,
+  **Parker procedural protocol**, **T.R. 11(A) pro se signature**,
+  ***Goossens v. Goossens* equal-standards doctrine** (pro se held to
+  same rules as counsel), fee waivers under **IC 33-37-3-2**, Odyssey
+  e-filing, and county Self-Help Centers. Triggers: "pro se Indiana",
+  "Indiana self-represented", "Indiana pro se appearance", "Trial Rule
+  4 service", "Indiana fee waiver", "indiana self-help center".
+version: 0.1.2
 ---
 
 # Pro Se Drafting and Procedure for Indiana Courts

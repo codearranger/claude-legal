@@ -1,26 +1,17 @@
 ---
 name: oh-family-law
 description: >
-  Use when handling an Ohio family-law matter — divorce
-  (R.C. Chapter 3105), dissolution (R.C. 3105.61-65), legal
-  separation (R.C. 3105.17), annulment (R.C. 3105.31),
-  allocation of parental rights and responsibilities (R.C.
-  Chapter 3109), child support (R.C. Chapter 3119 — income-
-  shares model with **$300,000 combined-income cap and 10%
-  modification threshold at R.C. 3119.79**), spousal
-  support (R.C. 3105.18), property distribution (R.C.
-  3105.171 — **equitable distribution, NOT community
-  property**), civil protection orders (R.C. 3113.31),
-  UCCJEA (R.C. Chapter 3127), UIFSA (R.C. Chapter 3115),
-  juvenile court matters (R.C. Chapter 2151 — abuse /
-  neglect / dependency / paternity / unruly / delinquent),
-  and post-decree modification. Triggers include "Ohio
-  divorce", "Ohio dissolution", "Ohio child support
-  worksheet", "R.C. 3119", "Ohio shared parenting", "Ohio
-  spousal support", "R.C. 3105.171", "Ohio CPO", "Ohio
-  paternity", "R.C. 2151", "Ohio juvenile court", "Ohio
-  parenting plan", "Ohio domestic relations".
-version: 0.1.0
+  Use for Ohio family-law matters — divorce, dissolution, legal
+  separation, annulment, child support, spousal support, parenting,
+  property division. Covers **R.C. Chapter 3105** (divorce/dissolution),
+  **R.C. Chapter 3109** (allocation of parental rights),
+  **R.C. Chapter 3119** (child support — income-shares, **$300k cap**,
+  **10% mod threshold**), **R.C. 3105.171** (property division —
+  **equitable, NOT community property**), spousal support (**R.C.
+  3105.18**), CPOs (**R.C. 3113.31**), UCCJEA/UIFSA, and juvenile court
+  (**R.C. Chapter 2151**). Triggers: "Ohio divorce", "Ohio dissolution",
+  "R.C. 3119", "Ohio child support", "equitable distribution".
+version: 0.1.1
 ---
 
 # Ohio Family Law — Substantive Framework

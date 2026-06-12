@@ -3,27 +3,21 @@ name: in-consumer-debt
 description: >
   This skill should be used when the user asks about "Indiana
   consumer debt", "FDCPA Indiana", "Indiana debt collection
-  defense", "Indiana credit card collection", "Indiana debt
-  buyer", "debt-buyer chain of title Indiana", "Indiana
-  Deceptive Consumer Sales Act", "DCSA Indiana", "IC 24-5-0.5",
-  "Indiana Uniform Consumer Credit Code", "IUCCC", "IC 24-4.5",
-  "Indiana 6-year SOL credit card", "IC 34-11-2-7", "IC
-  34-11-2-9", "Indiana wage garnishment 25%", "Indiana collection
-  lawsuit defense", "Midland Credit Indiana", "Portfolio Recovery
-  Indiana", "Cavalry Indiana", "Indiana credit reporting", or any
-  related consumer-debt-defense question. Subject-matter bundle
-  covering: federal FDCPA + Regulation F, Indiana Deceptive
-  Consumer Sales Act (IC 24-5-0.5) with treble damages, Indiana
-  Uniform Consumer Credit Code (IC 24-4.5), chain-of-title
-  doctrine in debt-buyer cases, Indiana statute-of-limitations
-  framework under IC 34-11-2, the 5 most common fact patterns,
-  and RFP / RFA / interrogatory banks. Trigger phrases: "FDCPA
-  Indiana", "DCSA Indiana",
-  "Indiana debt buyer defense", "Indiana 6-year SOL", "chain of
-  title Indiana", "IC 24-5-0.5", "Indiana wage garnishment",
-  "Midland Indiana", "Portfolio Recovery Indiana", "Cavalry
-  SPV Indiana".
-version: 0.1.0
+  defense", "Indiana debt buyer defense", "chain of title
+  Indiana", "Indiana Deceptive Consumer Sales Act", "DCSA
+  Indiana", "IC 24-5-0.5", "Indiana Uniform Consumer Credit
+  Code", "IUCCC", "Indiana 6-year SOL credit card", "Indiana
+  wage garnishment", "Midland Credit Indiana", "Portfolio
+  Recovery Indiana", "Cavalry Indiana", or any related
+  consumer-debt-defense question. Subject-matter bundle
+  covering the federal FDCPA + Regulation F, the Indiana
+  Deceptive Consumer Sales Act (treble damages), the Indiana
+  Uniform Consumer Credit Code, chain-of-title doctrine in
+  debt-buyer cases, the Indiana statute-of-limitations
+  framework, the 5 most common fact patterns, and RFP / RFA /
+  interrogatory banks. Indiana has no state collection-agency
+  licensing regime — defense leans on chain of title + FDCPA.
+version: 0.1.1
 ---
 
 # Indiana Consumer-Debt Defense

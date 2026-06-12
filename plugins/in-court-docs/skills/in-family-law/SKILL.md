@@ -1,36 +1,17 @@
 ---
 name: in-family-law
 description: >
-  Use when handling an Indiana family-law matter —
-  paternity (IC 31-14, the **JP case-type** backbone for
-  non-marital children), dissolution / annulment / legal
-  separation (IC 31-15 — Indiana is an **equitable-
-  distribution** state, NOT community property), child
-  support (IC 31-16 + the **Indiana Child Support
-  Guidelines** published as a court rule), custody and
-  parenting time (IC 31-17 + the **Indiana Parenting
-  Time Guidelines** published as a court rule),
-  adoption (IC 31-19), the **Uniform Child Custody
-  Jurisdiction and Enforcement Act (UCCJEA)** at IC
-  31-21, Department of Child Services (IC 31-25),
-  juvenile court jurisdiction (IC 31-30) and procedure
-  (IC 31-32), Children In Need of Services / CHINS (IC
-  31-34), termination of parental rights / TPR (IC
-  31-35), juvenile delinquency and status offenses
-  (IC 31-37), and protection orders (IC 34-26-5). The
-  substantive law lives in IC Title 31 (Family and
-  Juvenile Law); current statutory text, combined-income
-  caps under the Child Support Guidelines, modification-
-  threshold percentages, and specific subsection cites
-  live in the references corpus, not embedded here.
-  Triggers include "Indiana divorce", "IN paternity",
-  "IC 31-14", "JP case", "Indiana child support",
-  "IC 31-16", "Indiana Child Support Guidelines", "IN
-  custody", "IC 31-17", "Indiana Parenting Time
-  Guidelines", "IN equitable distribution", "IC 31-15",
-  "IN UCCJEA", "IC 31-21", "Indiana CHINS", "IC 31-34",
-  "Indiana adoption", "IC 31-19", "Indiana family law".
-version: 0.1.0
+  Use for Indiana family-law substantive matters — paternity (**IC
+  31-14**), dissolution/annulment/legal separation (**IC 31-15** —
+  **equitable distribution, NOT community property**), child support
+  (**IC 31-16** + **Indiana Child Support Guidelines**), custody/parenting
+  time (**IC 31-17** + **Indiana Parenting Time Guidelines**), adoption
+  (**IC 31-19**), UCCJEA (**IC 31-21**), CHINS (**IC 31-34**), TPR (**IC
+  31-35**), and protection orders (**IC 34-26-5**). Reference corpus holds
+  current statutory text, thresholds, and subsection detail. Triggers:
+  "Indiana divorce", "IN paternity", "IC 31-14", "Indiana child support",
+  "IC 31-16", "IN custody", "IN equitable distribution".
+version: 0.1.1
 ---
 
 # Indiana Family Law — Subject-Matter Bundle

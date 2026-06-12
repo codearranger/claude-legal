@@ -1,30 +1,16 @@
 ---
 name: oh-consumer-debt
 description: >
-  Use when defending an Ohio consumer-debt case (debt-buyer
-  collection suit, original-creditor account-stated claim,
-  medical-debt action, credit-card balance-transfer dispute,
-  CSPA counterclaim). Covers the **Ohio Consumer Sales
-  Practices Act** at R.C. Chapter 1345 with **treble damages
-  under R.C. 1345.09(B)**, **mandatory attorney's fees under
-  R.C. 1345.09(F)**, the **2-year SOL on CSPA claims at R.C.
-  1345.10(C)**, federal FDCPA + Reg F overlays, chain-of-
-  title doctrine for debt buyers, Ohio's UCC Article 9
-  enactment at R.C. Chapter 1309 for assignment authority,
-  and the **Ohio 6-year SOL on written contracts at R.C.
-  2305.06** (reduced from 15 years by 2012's S.B. 224 and
-  further reduced from 8 to 6 by 2021's S.B. 13). Note: Ohio
-  has **NO collection-agency licensure regime** — unlike
-  Washington's RCW 19.16 or Colorado's CFDCPA registration,
-  Ohio debt buyers do not register with any state agency, so
-  capacity-to-sue defenses lean on chain-of-title and FDCPA
-  rather than licensure status. Triggers include "Ohio
-  consumer debt", "Ohio CSPA", "Ohio collection lawsuit",
-  "Ohio debt buyer defense", "R.C. 1345 treble damages",
-  "Ohio chain of title", "Ohio statute of limitations debt",
-  "R.C. 2305.06", "Ohio FDCPA counterclaim", "medical debt
-  Ohio", "Ohio credit card lawsuit defense".
-version: 0.2.0
+  Use for Ohio consumer-debt defense — debt-buyer suits, collection
+  actions. Covers **Ohio Consumer Sales Practices Act (R.C. Chapter
+  1345)** with **treble damages + mandatory fees**, **2-year CSPA SOL**,
+  **FDCPA + Reg F** overlays, **chain-of-title doctrine**, **Ohio UCC
+  Article 9** (R.C. Chapter 1309), and **6-year SOL on written
+  contracts** (R.C. 2305.06). **NO collection-agency licensure in Ohio**
+  — defenses lean on chain-of-title and FDCPA. Triggers: "Ohio consumer
+  debt", "Ohio CSPA", "R.C. 1345 treble damages", "Ohio chain of title",
+  "Ohio debt buyer", "medical debt Ohio".
+version: 0.2.1
 ---
 
 # Ohio Consumer Debt — Statutory + Common-Law Defenses
