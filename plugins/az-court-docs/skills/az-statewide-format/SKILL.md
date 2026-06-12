@@ -1,27 +1,19 @@
 ---
 name: az-statewide-format
 description: >
-  This skill should be used when the user asks to "format an
-  Arizona pleading", "draft an Arizona court document", "apply
-  Ariz. R. Civ. P. 10", "build an Arizona caption", "format an
-  Arizona complaint", or "format an Arizona motion" for any
-  Arizona state court — Superior Court, Justice Court, or a
-  family-law proceeding. Triggers include "Arizona caption",
-  "Superior Court of Arizona caption", "Ariz. R. Civ. P. 10",
-  "form of pleadings Arizona", "Rule 7.1 motion", "AZTurboCourt",
-  "Arizona e-filing", "certificate of service Arizona", "Rule 11
-  signature Arizona", "State Bar of Arizona bar number", "line
-  numbering", "Arizona motion format", "how do I format an
-  Arizona complaint", and "what does an Arizona caption look
-  like". Covers Ariz. R. Civ. P. 10 form of pleadings, Rule 7.1
-  motion form and oral-argument requests, the Arizona caption,
-  numbered paragraphs, the Rule 11 signature block with the State
-  Bar of Arizona bar number, Rule 5 / Rule 5.1 filing and service
-  with AZTurboCourt e-filing, the certificate of service,
-  line-numbered pleading-paper conventions, the running footer,
-  and Arizona citation format. It is the canonical home for the
-  marketplace layout conventions for Arizona filings.
-version: 0.1.0
+  Use when the user asks to "format an Arizona pleading", "draft an Arizona
+  court document", "apply Ariz. R. Civ. P. 10", "build an Arizona caption",
+  "format an Arizona complaint", or "format an Arizona motion" for any
+  Arizona state court — Superior Court, Justice Court, or family-law
+  proceeding. Triggers: "Arizona caption", "Ariz. R. Civ. P. 10", "form of
+  pleadings Arizona", "Rule 7.1 motion", "AZTurboCourt", "Arizona e-filing",
+  "certificate of service Arizona", "line numbering", "Arizona motion format",
+  "how do I format an Arizona complaint". Covers the Ariz. R. Civ. P. 10
+  caption form, numbered paragraphs, Rule 11 signature block with State Bar
+  bar number, Rule 5 electronic filing via AZTurboCourt, certificate of
+  service, line-numbered pleading paper, footer conventions, and Arizona
+  citation format.
+version: 0.1.1
 ---
 
 # Arizona Statewide Court Document Formatting

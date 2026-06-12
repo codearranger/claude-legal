@@ -1,28 +1,18 @@
 ---
 name: az-superior-courts
 description: >
-  This skill should be used when filing in an Arizona Superior
-  Court other than Maricopa County or Pima County, which have
-  their own overlay skills. The Superior Court is Arizona's
-  single statewide general-jurisdiction trial court, with a
-  division in each of the 15 counties. Covers the most-populous
-  of the other 13 as a directory — Pinal, Yavapai, Mohave, Yuma,
-  Coconino, Cochise, Navajo, Apache, Gila, Graham, Greenlee, La
-  Paz, and Santa Cruz — each being the Superior Court "in and
-  for" that county, all applying the statewide Ariz. R. Civ. P.
-  but each with its own local rules and its own
-  compulsory-arbitration jurisdictional limit set by local rule.
-  Triggers include "Arizona Superior Court", "Pinal County
-  Superior Court", "Yavapai Superior Court", "Mohave Superior
-  Court", "Coconino Superior Court", "Yuma County Superior
-  Court", "Cochise County Superior Court", "which Arizona
-  Superior Court", "what county is my Arizona case in", "Arizona
-  county superior court local rules", and "Arizona compulsory
-  arbitration limit". Tells the reader to confirm the county's
-  local rules, its compulsory-arbitration limit, and its
-  AZTurboCourt e-filing status before relying on any specific.
+  Use when filing in an Arizona Superior Court other than Maricopa or Pima,
+  which have their own overlay skills. The Superior Court is Arizona's single
+  general-jurisdiction court, with a division in each of 15 counties. Covers
+  the other 13 counties as a directory, all applying statewide Ariz. R. Civ. P.
+  but each with its own local rules and compulsory-arbitration jurisdictional
+  limit set by local rule. Triggers: "Arizona Superior Court", "Pinal County
+  Superior Court", "Yavapai Superior Court", "which Arizona Superior Court",
+  "what county is my Arizona case in", "Arizona county superior court local
+  rules", "Arizona compulsory arbitration limit". Tells reader to confirm the
+  county's local rules, compulsory-arbitration limit, and AZTurboCourt status.
   Layer on top of `az-statewide-format`.
-version: 0.1.0
+version: 0.1.1
 ---
 
 # Arizona Superior Courts — Roll-Up

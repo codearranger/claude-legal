@@ -1,26 +1,19 @@
 ---
 name: az-family-court
 description: >
-  This skill should be used to choose a venue and handle filing
-  mechanics for an Arizona domestic-relations case heard in the
-  Family Department of the Superior Court — dissolution of marriage,
-  legal separation, annulment, legal decision-making and parenting
-  time, child support, spousal maintenance, paternity, and protective
-  orders. It flags the single most important Arizona procedural fact:
-  family cases run on the SEPARATE Arizona Rules of Family Law
-  Procedure (ARFLP), not the Arizona Rules of Civil Procedure, with
-  mandatory disclosure under ARFLP Rule 49. Use it for where to file,
-  the Conciliation Court, the parent information program, parenting
-  conferences and mediation, AZTurboCourt e-filing, and self-service-
-  center family forms. Triggers include "Arizona family court", "file
-  for divorce Arizona", "dissolution of marriage Arizona", "Arizona
-  legal decision-making parenting time", "ARFLP Arizona family rules",
-  "Arizona order of protection", "Conciliation Court Arizona", "where
-  do I file for divorce in Arizona", "Arizona parenting plan", "Arizona
-  Rule 49 disclosure". A venue/procedural skill for the Family
-  Department; defers substantive divorce/decision-making/support law to
-  az-family-law and document form to az-statewide-format.
-version: 0.1.0
+  Use to choose venue and handle filing mechanics for Arizona domestic-relations
+  case in Family Department of Superior Court — dissolution, legal separation,
+  annulment, legal decision-making, parenting time, child support, spousal
+  maintenance, paternity, protective orders. CRITICAL FLAG: family cases run on
+  SEPARATE Arizona Rules of Family Law Procedure (ARFLP), not ARCP, with
+  mandatory disclosure (Rule 49). Covers venue, Conciliation Court, parent
+  information program, parenting conferences, mediation, AZTurboCourt e-filing,
+  family forms. Triggers: "Arizona family court", "file for divorce Arizona",
+  "dissolution of marriage Arizona", "Arizona legal decision-making parenting
+  time", "ARFLP Arizona family rules", "Arizona order of protection", "Conciliation
+  Court Arizona", "Arizona parenting plan", "Arizona Rule 49 disclosure".
+  Venue/procedural skill; defers substantive law to `az-family-law`.
+version: 0.1.4
 ---
 
 # Arizona Family Court — Family Department of the Superior Court

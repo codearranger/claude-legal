@@ -1,26 +1,19 @@
 ---
 name: az-justice-courts
 description: >
-  This skill should be used when filing in or defending a case in
-  an Arizona Justice Court — the state's limited-jurisdiction trial
-  court and the dominant consumer-debt and eviction forum. Triggers
-  include "Arizona Justice Court", "Arizona small claims", "sued for
-  a debt Arizona Justice Court", "Arizona eviction special
-  detainer", "JCRCP", "Justice Court answer Arizona", "Arizona
-  forcible detainer", "justice of the peace Arizona", "small claims
-  division Arizona", "which Justice Court precinct", "Justice Court
-  jurisdiction $10,000 Arizona", and "appeal Justice Court to
-  Superior Court Arizona". Covers the civil money jurisdiction cap
-  under A.R.S. § 22-201, the small claims division under A.R.S.
-  § 22-503 (no attorneys without consent; no appeal under
-  § 22-519), residential eviction "special detainer" under A.R.S.
-  § 33-1377 and forcible detainer under A.R.S. § 12-1171 et seq.,
-  the separate Justice Court Rules of Civil Procedure (JCRCP), how
-  a case is commenced and served, the answer deadline, AZTurboCourt
-  e-filing, the high default-judgment volume in debt cases, and the
-  appeal to Superior Court under A.R.S. § 22-261. Layer on top of
-  `az-statewide-format`.
-version: 0.1.0
+  Use when filing in or defending a case in an Arizona Justice Court — the
+  limited-jurisdiction trial court and dominant consumer-debt and eviction
+  forum. Triggers: "Arizona Justice Court", "Arizona small claims", "sued
+  for a debt Arizona Justice Court", "Arizona eviction special detainer",
+  "JCRCP", "Justice Court answer Arizona", "justice of the peace Arizona",
+  "small claims division Arizona", "which Justice Court precinct", "appeal
+  Justice Court to Superior Court Arizona". Covers the separate Justice Court
+  Rules of Civil Procedure (JCRCP) — critical flag: do not use Superior Court
+  rules. Covers civil jurisdiction, small-claims division (no appeal), special
+  detainer / forcible detainer eviction procedures, answer deadlines, the high
+  default-judgment volume in debt cases, and appeal to Superior Court. Layer
+  on top of `az-statewide-format`.
+version: 0.1.1
 ---
 
 # Arizona Justice Courts

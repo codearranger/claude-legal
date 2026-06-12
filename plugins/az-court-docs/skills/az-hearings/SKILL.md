@@ -1,22 +1,18 @@
 ---
 name: az-hearings
 description: >
-  Use when preparing for or conducting a hearing in an Arizona court
-  (Superior Court or a limited-jurisdiction Justice Court). Triggers
-  include "Arizona motion hearing", "Rule 7.1 oral argument Arizona",
-  "request oral argument Arizona", "remote hearing Arizona", "telephonic
-  hearing Arizona", "scheduling conference Rule 16 Arizona", "Arizona
-  case management conference", "comprehensive pretrial conference
-  Arizona", "compulsory arbitration hearing Arizona", "Rule 72 arbitration
-  Arizona", "Arizona settlement conference", "courtroom etiquette
-  Arizona", "hearing-day checklist Arizona", "how do I argue a motion in
-  Arizona". Covers motion practice and oral argument under Ariz. R. Civ.
-  P. 7.1 (including when the court may decide on the briefs without oral
-  argument), remote/telephonic appearances, scheduling and case-management
-  conferences under Rule 16, the comprehensive pretrial conference,
-  compulsory-arbitration hearings under Rules 72-77, courtroom etiquette,
-  and the hearing-day packet.
-version: 0.1.0
+  Use when preparing for or conducting a hearing in an Arizona court (Superior
+  Court or Justice Court). Triggers: "Arizona motion hearing", "Rule 7.1 oral
+  argument Arizona", "request oral argument Arizona", "remote hearing Arizona",
+  "telephonic hearing Arizona", "scheduling conference Rule 16 Arizona", "Arizona
+  case management conference", "compulsory arbitration hearing Arizona", "Rule 72
+  arbitration Arizona", "courtroom etiquette Arizona", "hearing-day checklist
+  Arizona", "how do I argue a motion in Arizona". Covers motion practice and
+  oral argument under Ariz. R. Civ. P. 7.1 (critical: court may decide on briefs
+  without oral argument even if requested), remote/telephonic appearances, Rule
+  16 scheduling and case-management conferences, compulsory-arbitration hearings
+  under Rules 72-77, courtroom etiquette, and hearing-day packet.
+version: 0.1.1
 ---
 
 # Arizona Hearings
