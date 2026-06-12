@@ -2,26 +2,20 @@
 name: ny-suffolk-dc
 description: >
   Use when drafting or filing in Suffolk County District Court
-  — the second Long Island District Court (Uniform District
-  Court Act) that handles civil actions up to $15,000, summary
-  proceedings (landlord-tenant), small claims, and misdemeanor
-  and violation criminal matters in the five western Suffolk
-  towns. Triggers include 'Suffolk District Court', 'Suffolk
-  County District Court', 'Central Islip courthouse', 'First
-  District Suffolk', 'Suffolk Landlord Tenant Part', 'Suffolk
-  Small Claims Part', 'UDCA', 'Uniform District Court Act'.
-  Covers Suffolk District Court's six geographic districts
-  (limited to the five western towns plus Brookhaven), the
-  Civil Part / L&T Part / Small Claims Part / Commercial Claims
-  Part division of business, 22 NYCRR Part 212 format
-  compliance, and the UDCA's $15,000 jurisdictional ceiling.
-  IMPORTANT: Suffolk District Court does NOT cover the eastern
-  towns (East Hampton, Southampton, Riverhead, Shelter Island,
-  Southold) — those route to the Suffolk County Justice
-  Courts in each town. NOT a substitute for Suffolk Supreme
-  Court; the District Court is a separate court with its own
-  filing system.
-version: 0.1.0
+  (Uniform District Court Act) — the second Long Island District Court
+  handling civil actions up to $15,000, landlord-tenant summary
+  proceedings, and small claims in five western towns + Brookhaven.
+  Triggers include 'Suffolk District Court', 'Suffolk County District
+  Court', 'Central Islip courthouse', 'Suffolk Landlord Tenant Part',
+  'UDCA', 'Uniform District Court Act'. Covers Suffolk DC's six
+  geographic districts (five western towns + Brookhaven), Civil Part /
+  L&T Part / Small Claims Part / Commercial Claims Part, 22 NYCRR Part
+  212 format, and $15,000 UDCA jurisdictional ceiling. IMPORTANT:
+  Suffolk DC does NOT cover eastern towns (East Hampton, Southampton,
+  Riverhead, Shelter Island, Southold) — they route to Town Justice
+  Courts. NOT a substitute for Suffolk Supreme Court (separate court
+  with own filing system).
+version: 0.1.1
 ---
 
 # Suffolk County District Court

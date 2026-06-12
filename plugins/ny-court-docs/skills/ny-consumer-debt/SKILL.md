@@ -1,27 +1,19 @@
 ---
 name: ny-consumer-debt
 description: >
-  Subject-matter bundle for New York consumer-debt defense.
-  Triggers include 'defending a debt-collection lawsuit in
-  New York', 'NYC Civil Court debt case', 'sued for credit
-  card debt in NY', 'consumer-credit complaint defense',
-  'CPLR 213(a) 3-year SOL', 'Consumer Credit Fairness Act',
-  'CCFA 2022 New York', 'CPLR 3015(e)', '22 NYCRR § 202.27-a',
-  'GBL § 349 deceptive practices', 'NY GBL § 600 collection
-  agency', 'Midland Funding', 'debt buyer', 'chain of title',
-  'sewer service', 'CPLR 4544 small-print contracts', 'FDCPA
-  in New York', 'Reg F'. Covers FDCPA + Regulation F, the
-  2022 Consumer Credit Fairness Act (L 2021, ch 593, eff.
-  April 7, 2022) — including the 3-year SOL on consumer-
-  credit at CPLR 213(a), the CPLR 3015(e) heightened-pleading
-  rule, the 22 NYCRR § 202.27-a heightened default-judgment
-  evidence rule, and the CPLR 308(six) additional-mailing
-  rule — plus N.Y. GBL § 600 et seq. (collection-agency
-  licensing in NYC and certain counties), N.Y. GBL § 349
-  (deceptive acts), CPLR 4544 small-print contracts, chain
-  of title under N.Y. UCC Article 9, fact-pattern triage,
-  and RFP/RFA banks.
-version: 0.1.1
+  Subject-matter bundle for New York consumer-debt defense. Triggers
+  include 'defending a debt-collection lawsuit in New York', 'NYC Civil
+  Court debt case', 'sued for credit card debt in NY', 'CPLR 213(a)
+  3-year SOL', 'Consumer Credit Fairness Act', 'CCFA 2022 New York',
+  'GBL § 349 deceptive practices', 'NY GBL § 600 collection agency',
+  'debt buyer', 'chain of title', 'sewer service', 'FDCPA in New York'.
+  Covers **FDCPA + Regulation F**, **2022 Consumer Credit Fairness Act**
+  (3-year SOL at CPLR 213(a), CPLR 3015(e) heightened pleading, 22 NYCRR
+  § 202.27-a heightened default-judgment evidence, CPLR 308(six) additional
+  mailing), **NY GBL § 600** collection-agency licensing, **GBL § 349**
+  deceptive acts, **CPLR 4544** small-print contracts, **chain of title**
+  under NY UCC Article 9, fact-pattern triage, and RFP/RFA banks.
+version: 0.1.2
 ---
 
 # New York Consumer-Debt Defense

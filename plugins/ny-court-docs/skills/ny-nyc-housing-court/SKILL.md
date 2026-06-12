@@ -1,36 +1,19 @@
 ---
 name: ny-nyc-housing-court
 description: >
-  Use when drafting or filing in the Housing Part of the
-  Civil Court of the City of New York — the dedicated
-  summary-proceedings forum for RPAPL Article 7 nonpayment
-  and holdover petitions across five boroughs. Largest L&T
-  forum in the country (~200,000+ filings annually pre-
-  COVID). Triggers include 'NYC Housing Court', 'Housing
-  Part', 'NYC L&T', 'New York Housing Court', 'Brooklyn
-  Housing Court', 'Bronx Housing Court', '111 Centre
-  Housing', '141 Livingston Housing', 'RPAPL 711',
-  'nonpayment petition', 'holdover petition', '14-day rent
-  demand', 'Notice of Petition Housing Court', '22 NYCRR
-  § 208.42', 'Right to Counsel NYC', 'Local Law 136', 'NYCHA
-  housing court', 'Section 8 termination', 'ERAP stay',
-  'good cause eviction NYC', 'Pathway Home', 'predicate
-  notice'. Covers the 14-day rent-demand requirement under
-  RPAPL § 711(2) (post-HSTPA 2019), the 30/60/90-day
-  holdover notice scaled by tenancy length under RPL
-  § 226-c, NYC Local Law 136 of 2017 universal right-to-
-  counsel for income-qualifying tenants under NYC Admin
-  Code § 26-1301, the Emergency Rental Assistance Program
-  (ERAP) automatic-stay mechanic, NYCHA and Section 8
-  termination procedures, rent-regulated tenancy defenses
-  (Rent Stabilization, Rent Control, Loft Law), warranty-
-  of-habitability counterclaims under RPL § 235-b, and
-  the 2024 Good Cause Eviction Law overlay. NOT a
-  substitute for `ny-nyc-civil-court` (Civil Part) — the
-  Housing Part is a distinct calendar with its own clerk,
-  Judges, and procedural overlay even though both sit
-  inside the NYC Civil Court system.
-version: 0.1.0
+  Use when drafting or filing in the Housing Part of NYC Civil Court — the
+  dedicated summary-proceedings forum for RPAPL Article 7 nonpayment and
+  holdover petitions across five boroughs (largest L&T forum in country,
+  ~200,000+ filings annually pre-COVID). Triggers include 'NYC Housing
+  Court', 'Housing Part', 'RPAPL 711', 'nonpayment petition', 'holdover
+  petition', '14-day rent demand', 'Right to Counsel NYC', 'Local Law 136',
+  'ERAP stay', 'good cause eviction NYC'. Covers **RPAPL § 711(2)** 14-day
+  rent-demand (post-HSTPA 2019); **RPL § 226-c** 30/60/90-day holdover notice;
+  **NYC Local Law 136** universal right-to-counsel; **ERAP** automatic-stay;
+  NYCHA/Section 8 termination; rent-regulated defenses; warranty-of-habitability
+  counterclaims under RPL § 235-b; and **2024 Good Cause Eviction Law**. NOT
+  a substitute for `ny-nyc-civil-court` (distinct calendar).
+version: 0.1.2
 ---
 
 # NYC Housing Court (Civil Court of the City of New York — Housing Part)

@@ -1,25 +1,20 @@
 ---
 name: ny-statewide-format
 description: >
-  Use when drafting or formatting any document for a New York
-  state court (Supreme Court, County Court, Civil Court of the
-  City of New York, District Court, City Court, or Town/Village
-  Justice Court). Triggers include 'draft a New York pleading',
-  'format an affidavit', 'apply 22 NYCRR § 202.5', '22 NYCRR
-  202.5-b NYSCEF format', 'build a New York caption', 'serif
-  vs. sans serif on a New York filing', 'verify NY citation
-  style', 'Tanbook citation', 'New York Law Reports Style
-  Manual', 'CPLR caption', 'put the index number on a NY
-  filing', 'verified complaint format', 'affirmation under
-  CPLR 2106'. Covers 22 NYCRR § 202.5 page/font/margin
-  requirements, 22 NYCRR § 202.5-b NYSCEF electronic-filing
-  technical requirements, the New York caption (CPLR 305(a) /
-  CPLR 2101), document-title conventions, the verified-vs.-
-  unverified pleading distinction (CPLR 3020–3021), affidavit
-  (CPLR 2309) vs. affirmation (CPLR 2106) signature blocks,
-  and citation format per the New York Law Reports Style Manual
-  (Tanbook).
-version: 0.4.0
+  Use when drafting or formatting any document for a New York state
+  court (Supreme Court, County Court, Civil Court of the City of New
+  York, District Court, City Court, or Town/Village Justice Court).
+  Triggers include 'draft a New York pleading', 'format an affidavit',
+  'apply 22 NYCRR § 202.5', '22 NYCRR 202.5-b NYSCEF format', 'build a
+  New York caption', 'verify NY citation style', 'Tanbook citation',
+  'CPLR caption', 'verified complaint format', 'affirmation under CPLR
+  2106'. Covers **22 NYCRR § 202.5** page/font/margin requirements,
+  **22 NYCRR § 202.5-b** NYSCEF electronic-filing, **New York caption**
+  (CPLR 305(a) / CPLR 2101), document-title conventions, **verified vs.
+  unverified pleading** distinction (CPLR 3020–3021), affidavit (CPLR
+  2309) vs. affirmation (CPLR 2106) signature blocks, and **Tanbook**
+  citation format.
+version: 0.4.1
 ---
 
 # New York Statewide Format
