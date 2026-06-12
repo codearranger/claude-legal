@@ -16,3 +16,7 @@ jobs:
           python-version: '3.12'
       - name: Lint SKILL.md frontmatter
         run: python3 scripts/lint-skills.py
+      - name: Install pytest
+        run: pip install pytest
+      - name: Run case-calendar tests
+        run: python3 -m pytest tests/ -q
