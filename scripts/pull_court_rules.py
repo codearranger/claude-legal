@@ -333,7 +333,10 @@ def main() -> int:
                 f"- Source: {list_url}\n- Pulled: {date.today().isoformat()}\n\n"
                 f"_No individual rules extracted from the list page._\n"
             )
-            (out_dir / f"{set_id.replace(' ', '_')}.md").write_text(md, encoding="utf-8")
+            out_path_empty = out_dir / f"{set_id.replace(' ', '_')}.md"
+            tmp = out_path_empty.with_suffix(".md.tmp")
+            tmp.write_text(md, encoding="utf-8")
+            tmp.replace(out_path_empty)
             continue
 
         texts: dict[str, str] = {}
@@ -352,7 +355,9 @@ def main() -> int:
 
         md = render_set_md(set_id, group, full_title, rules, texts, errors)
         out_path = out_dir / f"{set_id.replace(' ', '_')}.md"
-        out_path.write_text(md, encoding="utf-8")
+        tmp = out_path.with_suffix(".md.tmp")
+        tmp.write_text(md, encoding="utf-8")
+        tmp.replace(out_path)
         print(f"  wrote {out_path} ({len(rules)} rules, {len(errors)} errors)", flush=True)
         grand_total += len(rules)
         grand_failed += len(errors)
@@ -369,7 +374,10 @@ def main() -> int:
         )
 
     if args.manifest:
-        Path(args.manifest).write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+        manifest_path = Path(args.manifest)
+        tmp = manifest_path.with_suffix(".json.tmp")
+        tmp.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+        tmp.replace(manifest_path)
         print(f"\nmanifest -> {args.manifest}", flush=True)
 
     print(f"\nDone. {grand_total} rules across {len(manifest['sets'])} sets, {grand_failed} extraction errors.", flush=True)

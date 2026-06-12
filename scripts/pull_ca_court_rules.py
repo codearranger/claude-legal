@@ -494,10 +494,13 @@ def main() -> int:
         )
 
         if not rule_entries:
-            (out_dir / f"{stem}.md").write_text(
+            out_path_empty = out_dir / f"{stem}.md"
+            tmp = out_path_empty.with_suffix(".md.tmp")
+            tmp.write_text(
                 f"# {description}\n\n_No rules extracted from {index_url}._\n",
                 encoding="utf-8",
             )
+            tmp.replace(out_path_empty)
             continue
 
         fetched: dict[str, tuple[str, str, str, str | None]] = {}
@@ -520,7 +523,9 @@ def main() -> int:
 
         md = render_title_md(stem, description, title_slug, entries, fetched)
         out_path = out_dir / f"{stem}.md"
-        out_path.write_text(md, encoding="utf-8")
+        tmp = out_path.with_suffix(".md.tmp")
+        tmp.write_text(md, encoding="utf-8")
+        tmp.replace(out_path)
         print(f"  wrote {out_path} ({len(md):,} bytes)", flush=True)
         grand_total += len(rule_entries)
 
@@ -540,7 +545,9 @@ def main() -> int:
                 print(f"  skip (file already authored): {target}", flush=True)
                 continue
             md = render_local_rules_pointer(stem, court_name, url)
-            target.write_text(md, encoding="utf-8")
+            tmp = target.with_suffix(".md.tmp")
+            tmp.write_text(md, encoding="utf-8")
+            tmp.replace(target)
             print(f"  wrote {target}", flush=True)
 
     print(

@@ -1,22 +1,18 @@
 ---
 name: eoir-motions-to-reopen-reconsider
 description: >
-  Use this skill to assemble a motion to reopen or a motion to reconsider a
-  removal (or deportation / exclusion) decision before EOIR — either the
-  immigration judge or the Board of Immigration Appeals — including the special
-  variant that rescinds an in-absentia removal order and the ineffective-
-  assistance-of-counsel reopening that must satisfy the Matter of Lozada
-  requirements. Triggers include "motion to reopen", "motion to reconsider",
-  "reopen my removal order", "in absentia order", "ordered removed in absentia",
-  "missed my immigration hearing", "didn't get notice of hearing", "changed
-  country conditions", "ineffective assistance immigration", "Lozada", "90 day
-  motion to reopen", "rescind in absentia", "I want to reopen my case", "the IJ
-  got the law wrong", "new evidence in my removal case". Produces a motion-to-
-  reopen scaffold, a motion-to-reconsider scaffold, an in-absentia-rescission
-  variant, and a Lozada compliance checklist. Composes with eoir-removal-defense,
-  bia-appeals, immigration-deadlines, circuit-petition-for-review, and
-  immigration-fact-check.
-version: 0.1.0
+  Use this skill to assemble a motion to reopen or motion to reconsider a
+  removal decision before EOIR (immigration judge or BIA), including in-absentia
+  rescission and ineffective-assistance-of-counsel (Lozada) motions. Triggers:
+  "motion to reopen", "motion to reconsider", "reopen my removal order", "in
+  absentia order", "ordered removed in absentia", "missed my hearing", "didn't
+  get notice", "changed country conditions", "Lozada", "90 day motion to
+  reopen", "new evidence in my case". Produces motion-to-reopen scaffold, motion-
+  to-reconsider scaffold, in-absentia-rescission variant, Lozada checklist.
+  Flags: **90-day and 30-day deadlines are short and often uncurable** (8 CFR §
+  1003.23 / § 1003.2). Composes with eoir-removal-defense, bia-appeals,
+  immigration-deadlines, and immigration-fact-check.
+version: 0.1.1
 ---
 
 # EOIR — Motions to Reopen and Motions to Reconsider

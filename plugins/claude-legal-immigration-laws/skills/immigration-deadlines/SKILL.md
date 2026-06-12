@@ -2,23 +2,18 @@
 name: immigration-deadlines
 description: >
   Use this skill to identify, catalog, and compute the controlling deadline in
-  any U.S. immigration matter, and to produce a deadline-triage worksheet before
-  a single filing goes out. It is the immigration analog of the state
-  *-deadlines skills. Triggers include "what's my deadline", "how long do I have
-  to appeal", "30 days to appeal the immigration judge", "BIA appeal deadline",
-  "EOIR-26 deadline", "petition for review deadline", "30 days to the circuit",
-  "motion to reopen deadline", "90 days to reopen", "motion to reconsider", "in
-  absentia order deadline", "missed my hearing", "1-year asylum deadline", "one
-  year filing deadline asylum", "changed circumstances asylum", "voluntary
-  departure period", "how long is my voluntary departure", "overstayed voluntary
-  departure", "RFE due date", "NOID response time", "respond to RFE", "10 days
-  before hearing", "continuous physical presence", "stop-time rule", "10 years
-  cancellation", "continuous residence naturalization", "physical presence
-  naturalization", "is my deadline jurisdictional", "can I still file". The skill
-  warns that immigration has NO universal mailbox rule, that each forum sets its
-  own receipt/filing rules, and that several immigration deadlines are
-  jurisdictional and uncurable. It PRODUCES a deadline worksheet — not advice.
-version: 0.1.0
+  any U.S. immigration matter; produce a deadline-triage worksheet before
+  filing. The immigration analog of state *-deadlines skills. Triggers: "what's
+  my deadline", "how long do I have to appeal", "30 days to appeal", "BIA
+  appeal deadline", "EOIR-26 deadline", "petition for review deadline", "motion
+  to reopen deadline", "90 days to reopen", "motion to reconsider", "in
+  absentia order deadline", "1-year asylum deadline", "voluntary departure
+  period", "RFE due date", "NOID response time", "continuous physical presence",
+  "10 years cancellation", "is my deadline jurisdictional", "can I still file".
+  Warns: **immigration has NO universal mailbox rule; each forum sets its own
+  receipt/filing rules**. Many deadlines are **jurisdictional and uncurable**.
+  Produces deadline-triage worksheet with authority and flag for each clock.
+version: 0.1.1
 ---
 
 # Immigration — Deadline Catalog & Computation

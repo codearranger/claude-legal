@@ -1,27 +1,19 @@
 ---
 name: eoir-removal-defense
 description: >
-  Use this skill to assemble a respondent's filings in removal proceedings
-  before an immigration judge — the substantive companion to the
-  eoir-immigration-courts format anchor. Covers entering an appearance,
-  PLEADING to the Notice to Appear at the master calendar hearing (admit/deny
-  each factual allegation; concede or contest the charge(s) of removability),
-  designating the relief sought, and the workhorse motions in proceedings
-  (continuance, change of venue, administrative closure / termination,
-  prehearing statement and the call-up exhibit deadline). Triggers include "I
-  got an NTA", "notice to appear", "master calendar hearing", "plead to the
-  charges", "deny the allegations", "admit the allegations", "concede
-  removability", "contest removability", "removal defense", "respondent
-  filings", "designate relief", "apply for cancellation of removal", "asylum in
-  immigration court", "adjustment in removal proceedings", "voluntary
-  departure", "motion to continue immigration", "change of venue immigration
-  court", "motion to terminate removal", "administrative closure". Produces a
-  pleading scaffold (allegation-by-allegation admit/deny + charge
-  concede/contest), a motion-to-continue scaffold, a motion-to-change-venue
-  scaffold, and a relief-application cover/index. Routes motions to reopen or
-  reconsider to eoir-motions-to-reopen-reconsider. Composes with
-  eoir-immigration-courts, immigration-deadlines, and immigration-fact-check.
-version: 0.1.0
+  Use this skill to assemble respondent filings in removal proceedings before an
+  immigration judge (the substantive companion to eoir-immigration-courts).
+  Covers entering appearance, pleading to the Notice to Appear (admit/deny
+  allegations, concede/contest charges), designating relief, and motions
+  (continuance, change of venue, administrative closure, prehearing statement).
+  Triggers: "I got an NTA", "notice to appear", "master calendar hearing",
+  "plead to the charges", "deny allegations", "removal defense", "designate
+  relief", "cancellation of removal", "asylum in immigration court", "voluntary
+  departure", "motion to continue", "change of venue", "administrative closure".
+  Produces pleading scaffold (admit/deny + concede/contest), motion-to-continue
+  and motion-to-change-venue scaffolds, relief-application cover/index. Routes
+  reopen/reconsider motions to eoir-motions-to-reopen-reconsider.
+version: 0.1.1
 ---
 
 # EOIR — Removal Defense (Respondent Filings)
