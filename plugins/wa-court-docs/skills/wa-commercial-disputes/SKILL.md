@@ -1,34 +1,16 @@
 ---
 name: wa-commercial-disputes
 description: >
-  Use when handling a Washington commercial-disputes
-  matter — breach of contract under common law + UCC
-  sales (RCW 62A.2), the **Washington Consumer Protection
-  Act (CPA) at RCW 19.86** as the state's general
-  unfair-competition + deceptive-act statute (with the
-  **Hangman Ridge 5-element test** and treble damages +
-  mandatory attorney's fees), the **Washington Business
-  Corporation Act at RCW 23B** (shareholder rights,
-  director duties, dissenters' appraisal rights, judicial
-  dissolution), the Washington LLC Act at RCW 25.15
-  (2016 overhaul), partnership under RCW 25.05, the
-  **UCC at RCW 62A** (Articles 1, 2, 3, 4, 7, 8, 9A), the
-  WA Mandatory Arbitration of Civil Actions (MAR) regime,
-  forum-selection / choice-of-law enforcement, and the
-  Washington enactment of statute of frauds at RCW 19.36.
-  Substantive framework lives in RCW Title 19 (business
-  regulation, CPA), Title 23B (corporations), Title 25
-  (partnerships + LLCs), Title 62A (UCC), and Title 7
-  (special proceedings, MAR). Current treble-damages
-  cap, MAR jurisdictional cap, and section-level rules
-  live in the references corpus, not embedded here.
-  Triggers include "Washington commercial dispute", "WA
-  breach of contract", "WA CPA", "Washington CPA", "RCW
-  19.86", "Hangman Ridge", "WA dissolution corporation",
-  "RCW 23B", "WA UCC", "RCW 62A", "WA dissenter's
-  rights", "WA judicial dissolution LLC", "Washington
-  MAR", "RCW 7.06".
-version: 0.2.0
+  Use when handling a Washington commercial-disputes matter — breach of
+  contract (common law + UCC sales), Washington CPA (RCW 19.86) as the
+  unfair-competition statute with Hangman Ridge 5-element test and treble
+  damages, Business Corporation Act (RCW 23B) covering shareholder/director
+  duties and judicial dissolution, LLC Act (RCW 25.15), partnership (RCW
+  25.05), UCC (RCW 62A), Mandatory Arbitration of Civil Actions (RCW 7.06),
+  and statute of frauds (RCW 19.36). Triggers include "commercial dispute",
+  "breach of contract", "CPA", "Hangman Ridge", "dissolution corporation",
+  "dissenter's rights", "judicial dissolution", "MAR", "UCC".
+version: 0.2.1
 ---
 
 # Washington Commercial Disputes — Subject-Matter Bundle

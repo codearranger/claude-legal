@@ -1,31 +1,17 @@
 ---
 name: wa-consumer-debt
 description: >
-  Use this skill for Washington consumer-debt defense — debt-buyer
-  suits, original-creditor collection cases, and any matter turning
-  on the FDCPA, CFPB Regulation F, the Washington Collection Agency
-  Act (RCW 19.16), or the Washington Consumer Protection Act
-  (RCW 19.86) as applied to debt collection. Triggers include "debt
-  buyer", "I was sued on a credit card", "collection agency sued me",
-  "FDCPA", "1692e", "1692f", "1692g", "validation notice",
-  "Regulation F", "12 CFR 1006", "Hangman Ridge", "RCW 19.16", "RCW
-  19.86", "RCW 19.16.440", "CPA counterclaim", "statute of
-  limitations on this debt", "time-barred debt", "zombie debt",
-  "re-aged debt", "chain of title", "bill of sale", "assignment
-  schedule", "original cardholder agreement", "monthly statements",
-  "Certificate of Indebtedness", "remote custodian", "ER 803
-  business records", "ER 901 authentication", "Ziegler",
-  "Discover Bank v. Bridges", "CACH", "Unifund", "Palisades",
-  "Midland", "Portfolio Recovery", "LVNV", "Velocity Investments",
-  "Jefferson Capital", "Gray v. Suttell", "Panag", "unlicensed
-  collection agency". Covers substantive law, fact-pattern triage,
-  chain-of-title doctrine, and discovery targeting the elements a debt
-  buyer must prove. Composes with
-  wa-first-30-days (initial response), wa-discovery (procedure),
-  wa-law-references (civil rules, evidence rules, fees-and-costs,
-  local rules, online sources), wa-statewide-format, wa-kcdc, and
-  wa-pro-se.
-version: 0.3.1
+  Use this skill for Washington consumer-debt defense — debt-buyer suits,
+  original-creditor collection, FDCPA claims, or CFPB Regulation F /
+  Washington Collection Agency Act (RCW 19.16) / Washington CPA (RCW 19.86)
+  issues in debt collection. Triggers include "debt buyer", "I was sued on a
+  credit card", "collection agency sued me", "FDCPA", "validation notice",
+  "Regulation F", "RCW 19.16", "RCW 19.86", "CPA counterclaim", "statute of
+  limitations on this debt", "time-barred debt", "chain of title", "original
+  cardholder agreement", "Certificate of Indebtedness". Covers substantive law,
+  fact-pattern triage, chain-of-title doctrine, and discovery targeting
+  plaintiff's elements.
+version: 0.3.2
 ---
 
 # Washington Consumer-Debt Defense

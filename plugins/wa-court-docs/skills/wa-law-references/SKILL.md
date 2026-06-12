@@ -1,29 +1,17 @@
 ---
 name: wa-law-references
 description: >
-  This skill should be used when the user needs to cite, apply, or
-  research law that bears on Washington civil court practice across
-  any subject matter. Triggers include "CR 12", "CR 26", "CR 37",
-  "CR 56", "CR 60", "CRLJ", "civil rules", "evidence rules", "ER
-  803", "ER 901", "ER 902", "ER 1002", "best evidence", "hearsay
-  exception", "business records", "authentication", "meet and
-  confer", "motion to compel", "summary judgment standard",
-  "attorney fees", "prevailing party", "RCW 4.84", "CR 11 sanctions",
-  "CR 37(a)(4)", "reciprocal fee-shifting", "lodestar", "GR 14",
-  "Bluebook", "Washington citation format", "Wn.2d", "P.3d",
-  "KCLCR", "KCDCLCR", "King County local rule", "canonical URL",
-  "verify citation", "fetch court rule". Covers statewide civil
-  rules (CR / CRLJ), evidence rules (ER), GR 14 citation format,
-  RCW 4.84 fees-and-costs, local rules for King County Superior
-  and District Court, general civil key cases (SJ standard,
-  fee-shifting, CR 60), and the canonical online-sources catalog
-  for fetching current rule text, statutes, and case law. For
-  subject-matter-specific law (debt collection, landlord-tenant,
-  family, personal injury, criminal), compose with the relevant
-  subject-matter skill (e.g., wa-consumer-debt). Compose with
-  wa-statewide-format, wa-kcdc, wa-pro-se, and wa-fact-check as
-  needed.
-version: 0.5.0
+  Use when the user needs to cite, apply, or research Washington civil
+  court practice law across any subject matter. Triggers include "CR 12",
+  "CR 26", "CR 56", "CR 60", "CRLJ", "civil rules", "evidence rules",
+  "hearsay exception", "business records", "authentication", "motion to
+  compel", "summary judgment standard", "attorney fees", "prevailing
+  party", "RCW 4.84", "sanctions", "fee-shifting", "GR 14", "Washington
+  citation format", "KCLCR", "King County local rule". Covers statewide
+  civil rules (CR / CRLJ), evidence rules, GR 14 citation format, RCW 4.84
+  fees-and-costs, local rules (King County Superior/District), general
+  civil key cases, and canonical online-sources catalog.
+version: 0.5.1
 ---
 
 # Washington Law References — General Civil Practice

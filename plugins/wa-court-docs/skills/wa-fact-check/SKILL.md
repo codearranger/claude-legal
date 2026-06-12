@@ -1,30 +1,18 @@
 ---
 name: wa-fact-check
 description: >
-  Use this skill to fact-check a Washington court filing (or a
-  packet of filings) before it goes out the door. Triggers include
-  "fact check this", "fact-check", "verify citations", "check my
-  citations", "are my cites right", "consistency check", "audit
-  this filing", "cite-check", "shepardize", "verify the law",
-  "verify the facts", "double-check the draft", "check for
-  hallucinations". Runs four passes: (1) **citation verification**
-  — every Wn./Wn. App./P.2d/P.3d/U.S./S.Ct./F./F. App'x/RCW/CR/
-  CRLJ/ER/GR/U.S.C./C.F.R. cite resolves to a real source with
-  the claimed holding or text; (2) **internal consistency** —
-  dates, party names, cause number, dollar amounts, paragraph
-  cross-refs all agree within the document; (3) **packet
-  consistency** — caption, parties, cause number, and key facts
-  agree across every document in the packet (motion, declaration,
-  exhibits, order, note); (4) **sworn-vs.-argued consistency** —
-  no fact recited in a motion contradicts a sworn statement in a
-  declaration or affidavit. Uses the canonical URLs catalogued in
-  `wa-law-references/references/online-sources.md` for citation
-  verification. Composes with `wa-quality-check` (format pass),
-  `wa-law-references` (citation conventions), and the draft-*
-  skills (re-drafts flagged issues). **This is a verification
-  skill, not a drafting skill** — it flags issues for the user and
-  suggests fixes, but does not silently rewrite content.
-version: 0.2.1
+  Use this skill to fact-check a Washington court filing (or packet of
+  filings) before filing. Triggers include "fact check this", "fact-check",
+  "verify citations", "check my citations", "consistency check", "audit this
+  filing", "cite-check", "shepardize", "verify the law", "double-check the
+  draft", "check for hallucinations". Runs four passes: (1) citation
+  verification (RCW/CR/CRLJ/ER/GR/U.S.C./C.F.R./case law resolves to real
+  sources); (2) internal consistency (dates, party names, cause number, dollar
+  amounts, paragraph cross-refs); (3) packet consistency (caption, parties,
+  cause number, key facts across documents); (4) sworn-vs.-argued consistency
+  (facts in motion match declarations). Flags issues for user; does not
+  silently rewrite content.
+version: 0.2.2
 ---
 
 # Fact-Check a Washington Court Filing

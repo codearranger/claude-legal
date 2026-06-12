@@ -1,31 +1,18 @@
 ---
 name: wa-cpa
 description: >
-  Use this skill for Washington Consumer Protection Act (CPA / UDAP)
-  claims and defenses — the general unfair-or-deceptive-acts statute,
-  RCW 19.86, applicable to any consumer or business matter (not just
-  debt or B2B). This is the matter-neutral CPA home that the
-  subject-matter bundles compose with. Triggers include "Consumer
-  Protection Act", "Washington CPA", "RCW 19.86", "19.86.020",
-  "19.86.090", "19.86.093", "UDAP", "unfair or deceptive act or
-  practice", "unfair business practice", "deceptive practice",
-  "consumer fraud", "Hangman Ridge", "five elements", "public interest
-  element", "per se CPA violation", "capacity to deceive", "treble
-  damages", "$25,000 cap", "attorney fees CPA", "trade or commerce",
-  "injury to business or property", "Panag", "Klem", "Indoor
-  Billboard", "Michael v. Mosquera-Lacy", "Short v. Demopolis",
-  "Nordstrom v. Tampourlos", "regulated industry exemption", "19.86.170",
-  "serve the attorney general", "19.86.095", "CPA statute of
-  limitations", "19.86.120", "CPA counterclaim". Covers the five
-  Hangman Ridge elements, the unfair-vs-deceptive distinction (Klem),
-  the codified public-interest factors (RCW 19.86.093), per se
-  pathways, remedies (actual + treble capped at $25,000 + mandatory
-  attorney fees + injunction), the 4-year SOL, the regulated-industry
-  exemption, and AG service. Composes with wa-consumer-debt (RCW 19.16
-  per se), wa-commercial-disputes (B2B CPA), wa-cema (RCW 19.190 per
-  se), wa-first-30-days, wa-discovery, wa-draft-motion / -declaration,
-  wa-law-references, wa-statewide-format, and wa-pro-se.
-version: 0.1.0
+  Use this skill for Washington Consumer Protection Act (RCW 19.86) claims
+  and defenses — the general unfair-or-deceptive-acts statute applicable
+  to any consumer or business matter. This is the matter-neutral CPA home
+  that subject-matter bundles compose with. Triggers include "Consumer
+  Protection Act", "Washington CPA", "RCW 19.86", "UDAP", "unfair or
+  deceptive act or practice", "consumer fraud", "Hangman Ridge", "five
+  elements", "public interest element", "per se CPA violation", "treble
+  damages", "attorney fees CPA". Covers the five Hangman Ridge elements,
+  the unfair-vs-deceptive distinction, codified public-interest factors,
+  per se pathways, remedies (actual + treble capped at $25,000 + mandatory
+  attorney fees), the 4-year SOL, and regulated-industry exemption.
+version: 0.1.1
 ---
 
 # Washington Consumer Protection Act (CPA / UDAP) — RCW 19.86

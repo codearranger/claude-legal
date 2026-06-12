@@ -1,28 +1,17 @@
 ---
 name: wa-first-30-days
 description: >
-  Use this skill when a Washington defendant has just been served
-  with a civil summons and complaint in any subject-matter case
-  and the answer window is running. Triggers include "I was just
-  served", "I got served with a summons", "summons and complaint",
-  "what do I do first", "how much time do I have to respond",
-  "just served, now what", "initial response", "first steps after
-  being sued", "deadline to answer", "answer the complaint",
-  "affirmative defenses checklist", "counterclaim planning", "CR
-  12", "CRLJ 12", "motion to dismiss or answer", "general denial",
-  "should I plead counterclaims". Covers the matter-neutral
-  from-service-through-answer-filed window: CR 12 / CRLJ 12
-  response deadline, motion-to-dismiss vs. answer triage, general
-  affirmative-defenses checklist, counterclaim mechanics and
-  compulsory-counterclaim analysis, evidence preservation, and
-  initial discovery planning. For subject-matter-specific fact
-  patterns, substantive defenses, and counterclaim menus, compose
-  with the relevant subject-matter skill (e.g., wa-consumer-debt
-  for debt-collection cases). Composes with wa-deadlines,
-  wa-draft-motion, wa-draft-declaration, wa-discovery,
-  wa-law-references, wa-fact-check, wa-file-packet, and (if default
-  already entered) wa-post-judgment.
-version: 0.3.1
+  Use this skill when a Washington defendant has just been served with a
+  civil summons and complaint in any subject-matter case and the answer
+  window is running. Triggers include "I was just served", "summons and
+  complaint", "what do I do first", "deadline to answer", "answer the
+  complaint", "affirmative defenses checklist", "counterclaim planning",
+  "CR 12", "CRLJ 12", "motion to dismiss or answer". Covers the matter-neutral
+  from-service-through-answer window: CR 12 / CRLJ 12 response deadline,
+  motion-to-dismiss vs. answer triage, affirmative-defenses checklist,
+  counterclaim mechanics, compulsory-counterclaim analysis, evidence
+  preservation, and initial discovery planning.
+version: 0.3.2
 ---
 
 # The First 30 Days — From Service Through Answer
