@@ -11,8 +11,8 @@ description: >
   fall", "Arizona wrongful death", "Arizona UM UIM". Covers pure comparative negligence (A.R.S. § 12-2505), several liability with
   abolition of joint liability and nonparty-at-fault (§ 12-2506), constitutional
   prohibition on damage caps, medical-malpractice expert-affidavit gate (§
-  12-2603), 180-day notice and 1-year SOL against public entities, 2-year SOL,
-  dog-bite strict liability, UM/UIM.
+  12-2603), 180-day notice / 1-year SOL against public entities, 2-year SOL,
+  dog-bite strict liability, UM/UIM coverage.
 version: 0.1.8
 ---
 

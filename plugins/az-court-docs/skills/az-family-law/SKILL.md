@@ -8,11 +8,11 @@ description: >
   broken Arizona", "Arizona divorce waiting period", "covenant marriage Arizona",
   "Arizona community property", "legal decision-making Arizona", "Arizona parenting
   time", "Arizona child support", "spousal maintenance Arizona", "Arizona relocation",
-  "Arizona UCCJEA", "Arizona UIFSA". Covers: no-fault dissolution (A.R.S. § 25-312) with 60/90-day waiting/residency,
+  "Arizona UCCJEA", "Arizona UIFSA". Covers: no-fault dissolution (A.R.S. § 25-312) with 60/90-day waiting,
   covenant marriage (§ 25-901 et seq.), community-property (§ 25-211/25-213/
   25-318), legal decision-making and parenting time (§ 25-401/25-403), relocation
-  (§ 25-408), child support (§ 25-320 + Guidelines), spousal maintenance (§
-  25-319 + Guidelines), bar on common-law marriage (§ 25-111), UCCJEA / UIFSA.
+  (§ 25-408), child support (§ 25-320 + Guidelines), spousal maintenance (§ 25-319
+  + Guidelines), bar on common-law marriage (§ 25-111), UCCJEA / UIFSA.
 version: 0.1.8
 ---
 
