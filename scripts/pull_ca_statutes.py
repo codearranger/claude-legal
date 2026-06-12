@@ -869,6 +869,22 @@ CODE_DISPLAY = {
 }
 
 
+# Marker emitted into every file this puller writes. Files in the corpus
+# that lack it are hand-authored curated content (Overview + commentary
+# shape) and must not be silently replaced with a raw verbatim scrape.
+VERBATIM_MARKER = "Verbatim text from the California Legislative Information website"
+
+
+def _file_is_curated(path: Path) -> bool:
+    if not path.exists():
+        return False
+    try:
+        head = path.read_text(encoding="utf-8", errors="replace")[:4000]
+    except OSError:
+        return False
+    return VERBATIM_MARKER not in head
+
+
 def render_file_md(
     stem: str,
     description: str,
@@ -884,7 +900,7 @@ def render_file_md(
     out.append(f"- Pulled: {today}")
     out.append(f"- Sections: {len(sections)}")
     out.append("")
-    out.append("> Verbatim text from the California Legislative Information website.")
+    out.append(f"> {VERBATIM_MARKER}.")
     out.append("> Citation history and notes are preserved as published.")
     out.append("")
 
@@ -938,6 +954,15 @@ def main() -> int:
         action="store_true",
         help="Print URLs without fetching.",
     )
+    ap.add_argument(
+        "--overwrite-curated",
+        action="store_true",
+        help=(
+            "Replace existing hand-authored curated files (those without the "
+            "puller's verbatim marker) with verbatim scrape. Off by default "
+            "so a routine refresh can't clobber curated content."
+        ),
+    )
     args = ap.parse_args()
 
     out_dir = Path(args.out)
@@ -959,6 +984,15 @@ def main() -> int:
 
     for stem, description, sections in FILES:
         if only and stem not in only:
+            continue
+        out_path = out_dir / f"{stem}.md"
+        if not args.overwrite_curated and _file_is_curated(out_path):
+            print(
+                f"\n=== {stem} — SKIP: {out_path} is hand-authored curated "
+                f"content (no verbatim marker); pass --overwrite-curated to "
+                f"replace it",
+                flush=True,
+            )
             continue
         print(f"\n=== {stem} — {description} ===", flush=True)
         print(f"  {len(sections)} sections", flush=True)
@@ -982,8 +1016,9 @@ def main() -> int:
                     grand_failed += 1
 
         md = render_file_md(stem, description, sections, fetched)
-        out_path = out_dir / f"{stem}.md"
-        out_path.write_text(md, encoding="utf-8")
+        tmp_path = out_path.with_suffix(".md.tmp")
+        tmp_path.write_text(md, encoding="utf-8")
+        tmp_path.replace(out_path)
         print(f"  wrote {out_path} ({len(md):,} bytes)", flush=True)
         grand_total += len(sections)
 
