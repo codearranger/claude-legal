@@ -1,33 +1,20 @@
 ---
 name: ca-fact-check
 description: >
-  Use this skill to fact-check a California court filing (or a
-  packet of filings) before it goes out the door. Triggers include
-  "fact check this", "fact-check my motion", "verify citations",
-  "check my cites", "are my California citations right", "check
-  the case law", "consistency check", "audit this filing",
-  "cite-check California", "verify the statute", "verify the
-  regulation", "double-check the draft", "check for
-  hallucinations", "California Style Manual format", "verify
-  CRC rule", "check my Cal App cite". Runs four passes:
-  (1) citation verification — every Cal. / Cal.App. / Cal.Rptr. /
-  US / S.Ct. / F. / F.3d / CCP / Cal. Rules of Court / Evid.
-  Code / Cal. Civ. Code / USC / CFR cite resolves to a real source
-  with the claimed holding or text, using courts.ca.gov, CourtListener,
-  and leginfo.legislature.ca.gov; (2) internal consistency — dates,
-  party names, case number, dollar amounts, paragraph cross-refs
-  all agree within the document; (3) packet consistency — caption,
-  parties, case number, and key facts agree across every document
-  in the packet (motion, declaration, exhibits, proposed order,
-  proof of service); (4) sworn-vs.-argued consistency — no fact
-  recited in a motion contradicts a sworn statement in a
-  declaration. Uses canonical URLs in
-  ca-law-references/references/online-sources.md. This is a
-  verification skill, not a drafting skill — it flags issues and
-  proposes corrections, but does not silently rewrite the filing.
-  Composes with ca-quality-check (format pass), ca-law-references
-  (citation conventions), and the draft-* skills.
-version: 0.1.0
+  Use to fact-check a California court filing (or packet) before
+  filing. Triggers include "fact check this", "verify citations",
+  "check my cites", "consistency check", "cite-check California",
+  "verify the statute", "double-check the draft", "California
+  Style Manual format", "verify CRC rule". Runs four passes:
+  (1) citation verification — cites resolve to real sources with
+  correct holdings using courts.ca.gov, CourtListener, and
+  leginfo.legislature.ca.gov; (2) internal consistency — dates,
+  parties, case number, amounts within document agree;
+  (3) packet consistency — captions, parties, case number agree
+  across documents; (4) sworn-vs.-argued consistency — no fact
+  recited in motion contradicts a sworn declaration. Flags issues
+  and proposes corrections without silently rewriting.
+version: 0.1.1
 ---
 
 # Fact-Check California Court Filings

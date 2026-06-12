@@ -1,24 +1,18 @@
 ---
 name: tn-law-references
 description: >
-  Matter-neutral reference catalog for Tennessee civil practice.
-  Contains the Tenn. R. Civ. P. (Tennessee Rules of Civil Procedure)
-  summary, the Tenn. R. Evid. (Tennessee Rules of Evidence) summary
-  with emphasis on the 803(6) business-records exception and Rule 902
-  self-authentication, the fees-and-costs framework, citation format
-  (Tenn. Sup. Ct. R. 4 on published / unpublished opinions; Bluebook
-  default), the index of where county local rules live, and the
-  canonical online-sources catalog. Triggers include "Tennessee civil
-  rule", "Tenn. R. Civ. P.", "TRCP", "Tenn. R. Evid.", "Tennessee
-  evidence rule", "Tenn. Code Ann. § ...", "T.C.A.", "Tennessee
-  citation format", "what's the Tennessee rule on X", "look up
-  Tennessee law on X", "Circuit Court", "Chancery Court", "General
-  Sessions", "S.W.3d Tenn", "tncourts.gov", "Tennessee Code". Other
-  skills cite this one for specific rule numbers and case authorities;
-  the heavy reference corpora (court-rules, tn-statutes-debt,
-  federal-debt-laws, federal-bankruptcy, ucc-model) live in this
-  skill's `references/` subdirectory.
-version: 0.2.0
+  Matter-neutral reference catalog for Tennessee civil practice. Contains
+  Tenn. R. Civ. P. / Tenn. R. Evid. summaries, fees-and-costs framework,
+  citation format (Tenn. Sup. Ct. R. 4 published/unpublished; Bluebook),
+  court structure (Circuit, Chancery, General Sessions with its $25k cap +
+  unlimited detainer jurisdiction; 10-day de novo appeal), and local-rules
+  index. Emphasizes 803(6) business-records exception and 902 self-
+  authentication (critical for debt matters). Hosts the reference corpora:
+  verbatim court-rules (Tenn. R. Civ. P., Tenn. R. Evid., local rules),
+  tn-statutes-debt (Tennessee Code chapters), federal-debt-laws (symlink),
+  federal-bankruptcy (symlink), ucc-model (symlink). Other skills cite this
+  one for rule numbers and case authorities.
+version: 0.2.1
 ---
 
 # Tennessee Law References

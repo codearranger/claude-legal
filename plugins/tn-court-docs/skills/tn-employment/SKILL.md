@@ -1,40 +1,18 @@
 ---
 name: tn-employment
 description: >
-  Subject-matter bundle for Tennessee employment matters —
-  workplace discrimination, harassment, retaliation, wage-and-hour
-  claims, whistleblower, non-compete, and the workers'-compensation
-  exclusive-remedy regime. Triggers include "Tennessee employment",
-  "Tennessee discrimination at work", "Tennessee Human Rights Act",
-  "THRA", "Tenn. Code Ann. 4-21-101", "Tennessee Disability Act",
-  "TDA", "Tenn. Code Ann. 8-50-103", "Tennessee Public Protection
-  Act", "TPPA", "Tenn. Code Ann. 50-1-304", "Tennessee whistleblower",
-  "Tennessee wage payment", "Tenn. Code Ann. 50-2-101", "Tennessee
-  wage theft", "Tennessee unpaid wages", "Tennessee final paycheck",
-  "Tennessee right to work", "Tennessee non-compete", "Tennessee
-  restrictive covenant", "Murfreesboro Medical Clinic v. Udom",
-  "Tennessee at-will employment", "Stein v. Davidson Hotel",
-  "Tennessee workers compensation", "Court of Workers' Compensation
-  Claims", "CWCC Tennessee", "Tenn. Code Ann. 50-6-237", "Tennessee
-  E-Verify", "Tennessee Lawful Employment Act", "FLSA Tennessee",
-  "Title VII Tennessee EEOC". Covers the THRA at Tenn. Code Ann.
-  § 4-21-101 et seq. (8+ employee coverage; 1-year judicial SOL at
-  § 4-21-311; 180-day administrative window to the Tennessee Human
-  Rights Commission at § 4-21-302), the TDA at § 8-50-103, the TPPA
-  whistleblower regime at § 50-1-304 with its strict "sole reason"
-  element (Williams v. City of Burns, 465 S.W.3d 96 (Tenn. 2015)),
-  the Wage Regulation Act at § 50-2-101 et seq. (no state minimum
-  wage — FLSA $7.25 applies; final-wage timing at § 50-2-103; treble
-  damages on willful nonpayment under § 50-2-101(a)(2)), Tennessee's
-  right-to-work statute at § 50-1-201 et seq. (constitutionalized by
-  the Nov. 2022 amendment to Tenn. Const. art. XI § 21), common-law
-  non-compete enforceability under Murfreesboro Medical Clinic v.
-  Udom, 166 S.W.3d 674 (Tenn. 2005), the at-will baseline confirmed
-  by Stein v. Davidson Hotel, 945 S.W.2d 714 (Tenn. 1997), and the
-  workers'-compensation exclusive remedy at § 50-6-108 with post-
-  7/1/14 adjudication routed to the Court of Workers' Compensation
-  Claims under § 50-6-237.
-version: 0.1.0
+  Subject-matter bundle for Tennessee employment matters — discrimination,
+  harassment, retaliation, wage-and-hour, whistleblower, non-compete, and
+  workers'-compensation. Covers THRA (§ 4-21-101 et seq.; 8+ employee; 1-year
+  judicial SOL); TDA (§ 8-50-103); TPPA whistleblower (§ 50-1-304) with strict
+  "sole reason" element per Williams v. City of Burns; Wage Regulation Act (§
+  50-2-101 et seq.; no state minimum — FLSA $7.25; treble damages on willful
+  nonpayment); right-to-work (§ 50-1-201 et seq.; constitutionalized Nov. 2022);
+  non-compete reasonableness per Murfreesboro Medical v. Udom; at-will
+  employment (Stein v. Davidson Hotel); workers'-compensation exclusive remedy
+  (§ 50-6-108) with post-7/1/14 Court of Workers' Compensation Claims forum
+  split (§ 50-6-237).
+version: 0.1.1
 ---
 
 # Tennessee Employment Law

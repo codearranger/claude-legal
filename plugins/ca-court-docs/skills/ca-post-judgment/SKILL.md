@@ -1,30 +1,19 @@
 ---
 name: ca-post-judgment
 description: >
-  Navigate post-judgment procedures in California. Use when the user
-  asks about vacating a default judgment or an order after a non-jury
-  trial, responding to a wage garnishment or bank levy, claiming
-  exemptions from execution, answering a judgment-debtor examination,
-  requesting a debtor exam of the other side, or filing an
-  acknowledgment of satisfaction after a judgment is paid. Triggers
+  Use to navigate post-judgment procedures in California. Triggers
   include "I got a default judgment entered against me", "how do I
-  vacate a default", "CCP 473", "motion to vacate judgment",
-  "judgment creditor is garnishing my wages", "wage garnishment
-  California", "how do I claim an exemption", "EJ-160", "WG-006",
-  "claim of exemption", "judgment debtor exam", "debtor examination
-  California", "the judgment has been paid — how do I get a
-  satisfaction filed", "EJ-100 satisfaction of judgment", "writ of
-  execution California", "how long does a California judgment last",
-  "renew a judgment", "new trial motion California", "CCP 657",
-  "CCP 663 motion to vacate". Covers Code of Civil Procedure §§ 473
-  (relief from default or order — 6-month mandatory-or-discretionary
-  window), 657 (new trial), 663 (motion to vacate judgment after
-  non-jury trial), 685.010–685.030 (enforcement), 695–697 (judgment
-  lien), 706–708 (wage garnishment and levy), and 724.010–724.260
-  (satisfaction of judgment including the 15-day demand procedure).
-  Composes with ca-deadlines, ca-draft-motion, ca-draft-declaration,
-  ca-quality-check, ca-fact-check, and ca-file-packet.
-version: 0.1.0
+  vacate a default", "motion to vacate judgment", "wage garnishment
+  California", "claim of exemption", "EJ-160", "WG-006", "judgment
+  debtor exam", "satisfaction of judgment", "EJ-100", "writ of
+  execution California", "renew a judgment", "new trial motion",
+  "CCP 473", "CCP 657", "CCP 663". Covers Code of Civil Procedure
+  §§ 473 (relief from default/order — 6-month window), 657 (new
+  trial), 663 (vacate non-jury judgment), 685.010–685.030
+  (enforcement), 695–697 (judgment lien), 706–708 (wage
+  garnishment and levy), 724.010–724.260 (satisfaction of
+  judgment including 15-day demand).
+version: 0.1.1
 ---
 
 # California Post-Judgment Procedure

@@ -1,27 +1,20 @@
 ---
 name: mi-landlord-tenant
 description: >
-  Subject-matter bundle for Michigan landlord-tenant disputes —
-  residential evictions (summary proceedings to recover possession),
-  notice requirements, security deposits, the Truth in Renting Act,
-  the statutory covenant of fitness, retaliation, and habitability,
-  from both the tenant and landlord side. Triggers include "eviction
-  Michigan", "summary proceedings Michigan", "7-day notice to quit
-  Michigan", "demand for possession Michigan", "DC 100 eviction",
-  "Michigan landlord tenant", "security deposit Michigan MCL 554.602",
-  "Truth in Renting Act", "MCL 600.5714", "MCR 4.201", "Michigan
-  eviction defense", "order of eviction Michigan", "writ of
-  restitution Michigan", "MCL 554.134", "Michigan habitability",
-  "MCL 554.139", "retaliatory eviction Michigan", "MCL 600.5720",
-  "Michigan rent escrow", "double damages security deposit Michigan".
-  Covers the summary-proceedings statute (MCL 600.5701-600.5759) and
-  MCR 4.201, the notice/demand-for-possession regime (MCL 554.134 +
-  the DC 100 forms), security deposits (MCL 554.601-554.616 with the
-  1-1/2-month cap and double-damages remedy), the Truth in Renting
-  Act (MCL 554.631+), the statutory covenant of fitness (MCL
-  554.139), retaliatory eviction (MCL 600.5720), and the
-  post-judgment 10-day stay before the order of eviction.
-version: 0.1.0
+  Subject-matter bundle for Michigan landlord-tenant disputes: residential
+  evictions, notice requirements, security deposits, Truth in Renting Act,
+  statutory covenant of fitness, retaliation, habitability. Triggers include
+  "eviction Michigan", "summary proceedings Michigan", "7-day notice to quit",
+  "demand for possession Michigan", "MCL 600.5714", "MCR 4.201", "security
+  deposit Michigan MCL 554.602", "Truth in Renting Act", "MCL 554.139"
+  habitability, "retaliatory eviction Michigan MCL 600.5720", "double damages
+  security deposit". Covers summary-proceedings statute (MCL 600.5701-5759,
+  MCR 4.201), notice/demand regime (MCL 554.134, DC 100 forms), security
+  deposits with 1-1/2-month cap and double-damages remedy (MCL 554.601-616),
+  Truth in Renting Act (MCL 554.631), statutory covenant of fitness (MCL
+  554.139), retaliatory eviction (MCL 600.5720), and post-judgment stay
+  before order of eviction (MCL 600.5744).
+version: 0.2.0
 ---
 
 # Michigan Landlord-Tenant

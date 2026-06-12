@@ -1,29 +1,19 @@
 ---
 name: tn-consumer-debt
 description: >
-  This skill should be used when defending a Tennessee consumer
-  against a debt-collection lawsuit (typically by a debt buyer or
-  collection agency, often in General Sessions Court). Triggers
-  include "Tennessee debt-buyer lawsuit", "sued in General Sessions",
-  "Midland Credit lawsuit Tennessee", "Portfolio Recovery Tennessee",
-  "Cavalry SPV Tennessee", "LVNV Funding Tennessee", "I was sued by a
-  debt collector in Tennessee", "Tennessee FDCPA", "Tennessee
-  Consumer Protection Act", "TCPA debt", "Tennessee Collection
-  Service Act", "Tenn. Code Ann. 62-20", "Tenn. Code Ann. 20-6-104",
-  "debt-buyer default judgment Tennessee", "Tennessee collection
-  agency license", "Tennessee statute of limitations on credit-card
-  debt", "Tenn. Code Ann. 28-3-109", "sworn account Tennessee",
-  "chain of title Tennessee debt", "credit-card SOL 6 years
-  Tennessee", "de novo appeal to Circuit". Subject-matter bundle
-  covering the federal FDCPA / Regulation F / FCRA layer, the
-  Tennessee Consumer Protection Act (Tenn. Code Ann. § 47-18-101 et
-  seq.) and its limits in the collection context under Pursell, the
-  Tennessee Collection Service Act (Tenn. Code Ann. Title 62, Ch.
-  20), the new pre-default-judgment documentation requirement for
-  debt-buyer plaintiffs at Tenn. Code Ann. § 20-6-104, chain-of-title
-  doctrine under Tennessee UCC Article 9, the SOL framework, and the
-  General Sessions / de novo-appeal forum strategy.
-version: 0.1.0
+  Subject-matter bundle for defending a Tennessee consumer against
+  debt-collection suits (typically in General Sessions Court). Covers federal
+  FDCPA / Regulation F / FCRA layer; Tennessee Consumer Protection Act (§
+  47-18-101 et seq.) with Pursell B2B-collection-conduct limit; Tennessee
+  Collection Service Act (Title 62, Ch. 20) licensing; 2024 § 20-6-104 pre-
+  default-judgment documentation requirement for debt-buyer plaintiffs; chain-
+  of-title under Tennessee UCC Article 9; SOL framework (6-year open-account /
+  4-year goods); sworn-account device (§ 24-5-107); General Sessions $25k
+  civil cap with unlimited detainer jurisdiction; 10-day de novo appeal to
+  Circuit (§ 27-5-108) where formal discovery applies; 5-pattern fact-pattern
+  triage (stale debt, original creditor's contract, medical debt, default
+  judgment already entered, FDCPA counterclaim).
+version: 0.1.1
 ---
 
 # Tennessee Consumer-Debt Defense

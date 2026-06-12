@@ -1,42 +1,21 @@
 ---
 name: ca-law-references
 description: >
-  This skill should be used when the user needs to cite, apply, or
-  research law that bears on California civil court practice across
-  any subject matter. Triggers include "CCP 437c", "Code Civ. Proc.,
-  § 437c", "summary judgment California", "CCP 2016", "Civil
-  Discovery Act", "California discovery rules", "CEC 1271",
-  "Cal. Evid. Code § 1271", "business records California",
-  "authentication California evidence", "hearsay exception
-  California", "California citation format", "California Style
-  Manual", "CSM", "Cal.", "Cal.App.", "Cal.Rptr.", "California
-  prevailing party fees", "CCP 1032", "CCP 1033.5", "cost
-  memorandum California", "motion to tax costs", "CCP 998
-  offer", "Civ. Code § 1717", "attorney fees contract
-  California", "CCP 1021.5 private attorney general", "LASC
-  local rules", "SFSC local rules", "Cal. Rules of Court rule
-  3.1308", "CRC 3.1300", "CRC 3.700", "case management
-  conference California", "California civil demurrer",
-  "CCP 430.10", "CCP 431.30", "motion to strike California",
-  "CCP 435", "California answer deadline", "30 days to answer
-  California", "verify California citation", "Aguilar v.
-  Atlantic Richfield", "Howell v. Hamilton Meats", "collateral
-  source California", "Riverisland parol evidence", "canonical
-  URL California courts", "fetch California court rule".
-  Covers the California Code of Civil Procedure (CCP), the
-  California Evidence Code (CEC, Cal. Evid. Code), California
-  Rules of Court (CRC), fees and costs under CCP §§ 1032 and
-  1033.5, local rules for LASC, SFSC, OCSC, and other Superior
-  Courts, general civil key cases, the California Style Manual
-  citation conventions, and the canonical online-sources catalog
-  for fetching current rule text, statutes, and case law. For
-  subject-matter-specific law (debt collection under Rosenthal
-  FDCPA or the UCL, landlord-tenant, family, personal injury),
-  compose with the relevant subject-matter skill (e.g.,
-  ca-consumer-debt). Compose with ca-statewide-format,
-  ca-lasc / ca-sfsc / ca-county-courts, ca-pro-se, and
-  ca-fact-check as needed.
-version: 0.1.0
+  Use when researching law bearing on California civil court
+  practice. Triggers include "CCP 437c", "summary judgment
+  California", "Civil Discovery Act", "business records
+  California", "authentication evidence California", "California
+  citation format", "California Style Manual", "prevailing party
+  fees", "motion to tax costs", "CCP 998 offer", "attorney fees
+  contract", "LASC local rules", "case management conference",
+  "demurrer", "motion to strike", "answer deadline", "collateral
+  source California", "canonical URL California courts".
+  Covers California Code of Civil Procedure (CCP), Evidence Code
+  (CEC), California Rules of Court (CRC), fees and costs under
+  CCP §§ 1032 and 1033.5, local rules, general civil key cases,
+  California Style Manual citation conventions, and online-sources
+  catalog.
+version: 0.1.1
 ---
 
 # California Law References — General Civil Practice

@@ -1,31 +1,18 @@
 ---
 name: tn-statewide-format
 description: >
-  This skill should be used when the user asks to "draft a pleading",
-  "format a Tennessee court document", "apply Tenn. R. Civ. P. 10",
-  "build a Tennessee caption", "format a complaint", "format a
-  motion", "draft a declaration or affidavit", "draft a proposed
-  order", or "format a filing" for any Tennessee state court —
-  Circuit Court, Chancery Court, or General Sessions Court. Triggers
-  include "Tennessee caption", "Tenn. R. Civ. P. 10", "Rule 10.01
-  caption", "Rule 10.02 numbered paragraphs", "Rule 11 signature",
-  "BPR number", "Board of Professional Responsibility number",
-  "certificate of service Rule 5", "Circuit Court for Davidson
-  County", "Chancery Court for Shelby County at Memphis", "Docket
-  No.", "how do I format a Tennessee complaint", "what margins does a
-  Tennessee court require", and "S.W.3d citation Tennessee". Covers
-  Tenn. R. Civ. P. 10 form-of-pleadings requirements, the Tennessee
-  caption (court identifier line, party block, docket-number line,
-  centered document title), numbered paragraphs, attaching written
-  instruments, the Rule 11 signature block with the attorney's
-  Tennessee Board of Professional Responsibility (BPR) number,
-  certificate of service under Rule 5, line-numbered pleading-paper
-  conventions, and Tennessee citation format (S.W.3d, Tenn. Sup. Ct.
-  R. 4, Bluebook). It is the canonical home for the marketplace
-  layout conventions and the key point that Tennessee has no
-  statewide page/margin/font rule — typography and page limits come
-  from each court's LOCAL RULES.
-version: 0.1.0
+  Use when the user asks to "draft a pleading", "format a Tennessee court
+  document", "apply Tenn. R. Civ. P. 10", "build a Tennessee caption", or
+  "format a filing" for any Tennessee court. Covers Tenn. R. Civ. P. 10
+  form-of-pleadings (caption with party block, docket-number line, document
+  title; numbered paragraphs; attaching written instruments), the Rule 11
+  signature block with BPR number, certificate of service under Rule 5,
+  line-numbered pleading-paper conventions, and Tennessee citation format
+  (S.W.3d, Tenn. Sup. Ct. R. 4, Bluebook). Key point: Tennessee has NO
+  statewide page/margin/font rule — typography and page limits come from
+  each court's LOCAL RULES. Line numbering is universal marketplace convention
+  applied by default to pleadings.
+version: 0.1.1
 ---
 
 # Tennessee Statewide Court Document Formatting

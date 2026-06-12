@@ -1,27 +1,17 @@
 ---
 name: mi-statewide-format
 description: >
-  This skill should be used when the user asks to "format a
-  Michigan pleading", "draft a Michigan court document", "apply
-  MCR 1.109", "build a Michigan caption", "format a complaint",
-  "format a Michigan motion", "draft a declaration or affidavit",
-  or "format a filing" for any Michigan state court — Circuit
-  Court, District Court, or Probate Court. Triggers include
-  "Michigan caption", "MCR 1.109", "MCR 2.113", "form of
-  pleadings Michigan", "MiFILE", "MiCOURT TrueFiling", "proof of
-  service Michigan", "MCR 2.107", "line numbering", "Michigan
-  motion format", "P-number", "Michigan attorney bar number",
-  "how do I format a Michigan complaint", and "what margins does
-  a Michigan court require". Covers MCR 1.109 form of court
-  documents (legibility, paper, captioning, electronic filing,
-  the MCR 1.109(E) signature requirement and sanctions, and MCR
-  1.109(D)(3) verification), MCR 2.113 form of pleadings, the
-  Michigan caption, numbered paragraphs, the signature block with
-  the attorney's State Bar "P-number", proof of service under MCR
-  2.107, line-numbered pleading-paper conventions, the running
-  footer, and Michigan citation format. It is the canonical home
-  for the marketplace layout conventions for Michigan filings.
-version: 0.1.0
+  Use when formatting a Michigan pleading or court document. Triggers include
+  "Michigan caption", "MCR 1.109", "MCR 2.113", "MiFILE", "proof of service
+  Michigan", "P-number", "how do I format a Michigan complaint". Covers MCR
+  1.109 (document format, legibility, paper, caption, the MCR 1.109(E)
+  signature requirement and sanctions, verification), MCR 2.113 (form of
+  pleadings, caption, numbered paragraphs), the Michigan caption structure,
+  the attorney's State Bar "P-number", proof of service under MCR 2.107,
+  line-numbered pleading-paper conventions, the running footer, and Michigan
+  citation format per the Michigan Appellate Opinion Manual. Canonical home
+  for marketplace layout conventions for Michigan filings.
+version: 0.2.0
 ---
 
 # Michigan Statewide Court Document Formatting

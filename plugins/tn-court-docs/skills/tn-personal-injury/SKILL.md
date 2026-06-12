@@ -1,39 +1,18 @@
 ---
 name: tn-personal-injury
 description: >
-  Subject-matter bundle for Tennessee personal-injury and tort
-  actions. Triggers include "Tennessee personal injury", "Tennessee
-  car accident", "Tennessee auto accident lawsuit", "Tennessee slip
-  and fall", "modified comparative fault", "49% bar", "McIntyre v.
-  Balentine", "Tennessee 1-year tort SOL", "Tenn. Code Ann.
-  28-3-104", "Tenn. Code Ann. 28-3-105 property damage", "Tennessee
-  health care liability", "Tennessee medical malpractice", "pre-suit
-  notice 60 days", "certificate of good faith", "Tenn. Code Ann.
-  29-26-121", "Tenn. Code Ann. 29-26-122", "GTLA Tennessee",
-  "governmental tort liability act", "Tenn. Code Ann. 29-20-101",
-  "Tennessee tort damages cap", "Tennessee non-economic cap",
-  "Tenn. Code Ann. 29-39-102", "Tenn. Code Ann. 29-39-104",
-  "McClay v. Airport Management", "Tennessee punitive damages cap",
-  "suing the city in Tennessee", "Tennessee wrongful death",
-  "Tennessee survival statute", "Tenn. Code Ann. 20-5-106",
-  "Tennessee TPLA", "Tennessee products liability", "Tenn. Code Ann.
-  29-28-101", "Tennessee 10-year statute of repose", "Tennessee
-  premises liability", "Coln v. City of Savannah", "Tennessee UM",
-  "Tennessee UIM", "uninsured motorist Tennessee", "Tennessee dog
-  bite". Covers Tennessee's modified comparative fault with the 49%
-  bar (McIntyre v. Balentine), the SOL catalog (1-year personal
-  injury under § 28-3-104; 3-year property damage under § 28-3-105),
-  the 2011 tort-reform damages caps at Tenn. Code Ann. § 29-39-102
-  ($750k/$1M non-economic) and § 29-39-104 (punitive cap; greater of
-  $500k or 2x compensatory) as upheld in McClay v. Airport
-  Management Services, 596 S.W.3d 686 (Tenn. 2020), the
-  Governmental Tort Liability Act with its $300k/$700k caps and
-  shortened limitations period, the Health Care Liability Act with
-  the 60-day pre-suit notice and the certificate of good faith, the
-  Tennessee Products Liability Act with its 10-year statute of
-  repose, wrongful death under Tenn. Code Ann. § 20-5-106, and the
-  Tennessee UM/UIM regime at § 56-7-1201.
-version: 0.2.0
+  Subject-matter bundle for Tennessee personal-injury and tort actions. Covers
+  McIntyre v. Balentine modified comparative fault (49% bar); SOLs (1-year
+  personal injury § 28-3-104, 3-year property damage § 28-3-105); 2011 tort-
+  reform damages caps (§ 29-39-102 non-economic $750k/$1M catastrophic; § 29-
+  39-104 punitives greater of $500k or 2x compensatory; upheld in McClay v.
+  Airport Management Services); Governmental Tort Liability Act (§ 29-20-101;
+  $300k/$700k caps; ~12-month SOL; bench trial); Health Care Liability Act (§
+  29-26-121 60-day pre-suit notice; § 29-26-122 certificate of good faith; §
+  29-26-116 3-year statute of repose); Tennessee Products Liability Act (§
+  29-28-103 10-year statute of repose); wrongful death (§ 20-5-106); UM/UIM (§
+  56-7-1201).
+version: 0.2.1
 ---
 
 # Tennessee Personal-Injury Practice

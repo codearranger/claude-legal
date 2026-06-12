@@ -1,22 +1,17 @@
 ---
 name: mi-first-30-days
 description: >
-  Use when a Michigan defendant has just been served with a civil
-  complaint or summons. Triggers include "I got served Michigan",
-  "answer a Michigan complaint", "I was sued in Michigan", "served with
-  a summons in Michigan", "21 days to answer Michigan", "28 days to
-  answer Michigan", "affirmative defenses Michigan MCR 2.111", "MCR
-  2.108 answer deadline", "motion for summary disposition", "summary
-  disposition MCR 2.116", "MCR 2.116(C)(8)", "MCR 2.116(C)(10)", "set
-  aside default Michigan", "default judgment Michigan MCR 2.603",
-  "counterclaim Michigan", "jury demand Michigan", "first 30 days after
-  being sued in Michigan". Covers the MCR 2.108 answer window (21 days
-  personal / 28 days mail or out-of-state), the MCR 2.111 form of the
-  answer and the MCR 2.111(F) affirmative-defenses-must-be-stated-
-  separately-or-waived trap, summary disposition under MCR 2.116, the
-  MCR 2.603 default and set-aside standard, MCR 2.203 joinder of claims
-  and the compulsory-claim rule, and MCR 2.508 jury demand timing.
-version: 0.1.0
+  Use when a Michigan defendant is served with a civil complaint. Triggers
+  include "I got served Michigan", "answer Michigan complaint", "I was sued",
+  "21 days to answer Michigan", "MCR 2.108 answer deadline", "motion for
+  summary disposition MCR 2.116", "set aside default Michigan MCR 2.603",
+  "affirmative defenses Michigan", "counterclaim Michigan", "jury demand
+  Michigan". Covers MCR 2.108 answer window (21 days personal / 28 days
+  mail/out-of-state); MCR 2.111 answer form with MCR 2.111(F) affirmative-
+  defenses-separately-or-waived rule; summary disposition (MCR 2.116); MCR
+  2.603 default and set-aside standard; MCR 2.203 joinder and compulsory-
+  claim rule; MCR 2.508 jury demand timing.
+version: 0.2.0
 ---
 
 # Michigan — First 30 Days After Service

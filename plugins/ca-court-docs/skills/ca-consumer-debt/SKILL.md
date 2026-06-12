@@ -2,41 +2,20 @@
 name: ca-consumer-debt
 description: >
   Use this skill for California consumer-debt defense — debt-buyer
-  suits, original-creditor collection cases, and any matter turning
-  on the FDCPA, CFPB Regulation F, the California Rosenthal Fair Debt
-  Collection Practices Act (Cal. Civ. Code, §§ 1788-1788.33), the
-  California Debt Collection Licensing Act (Cal. Fin. Code,
-  §§ 100000 et seq.), the Fair Debt Buying Practices Act (Cal.
-  Civ. Code, §§ 1788.50 et seq.), or the California UCL (Cal. Bus.
-  & Prof. Code, § 17200). Triggers include "California debt-buyer
-  defense", "I was sued on a credit card in California",
-  "collection agency sued me in California", "Rosenthal Act
-  violation", "Cal. Civ. Code 1788", "Cal. Civ. Code 1788.17",
-  "Cal. Civ. Code § 1788.30", "FDBPA chain of title",
-  "Cal. Civ. Code 1788.50", "Cal. Civ. Code 1788.58",
-  "CDCLA licensing defense", "DFPI debt-collector license",
-  "Cal. Fin. Code 100000", "California statute of limitations on
-  credit-card debt", "CCP 337", "CCP 339", "four-year written
-  contract California", "time-barred debt California",
-  "zombie debt California", "chain of title California debt buyer",
-  "bill of sale California debt", "Cal. Evid. Code 1271",
-  "business records California debt", "FDCPA", "1692e", "1692f",
-  "1692g", "validation notice", "Regulation F", "12 CFR 1006",
-  "unlicensed debt collector California", "LVNV", "Midland
-  Funding", "Portfolio Recovery", "Unifund", "Cavalry SPV",
-  "CACH LLC", "Encore Capital", "Velocity Investments",
-  "Rosenthal counterclaim", "UCL 17200 debt", "California
-  consumer debt attorney fees". Subject-matter bundle of FDCPA /
-  Reg F / Rosenthal Act / CDCLA / FDBPA / UCL substantive law
-  plus chain-of-title doctrine and discovery banks (RFPs, RFAs,
-  interrogatories) for debt-defense litigation in California
-  superior and limited-jurisdiction courts.
-  Composes with all matter-neutral procedural skills
-  (ca-statewide-format, ca-lasc / ca-sfsc / ca-county-courts,
-  ca-pro-se, ca-law-references, ca-discovery, ca-first-30-days,
-  ca-fact-check, ca-deadlines, ca-post-judgment, and all
-  draft-* skills).
-version: 0.1.1
+  suits, original-creditor collection cases, and matters involving
+  FDCPA, Regulation F, California Rosenthal Act, CDCLA licensing,
+  FDBPA chain of title, or California UCL. Triggers include
+  "California debt-buyer defense", "I was sued on a credit card
+  in California", "collection agency sued me", "Rosenthal Act",
+  "FDBPA chain of title", "unlicensed debt collector California",
+  "validation notice", "time-barred debt California", "chain of
+  title California debt", "business records California debt",
+  "Rosenthal counterclaim", "consumer debt attorney fees".
+  Subject-matter bundle covering FDCPA / Reg F / Rosenthal Act /
+  CDCLA / FDBPA / UCL substantive law, chain-of-title doctrine,
+  and discovery banks (RFPs, RFAs, interrogatories) for
+  debt-defense litigation.
+version: 0.1.2
 ---
 
 # California Consumer-Debt Defense

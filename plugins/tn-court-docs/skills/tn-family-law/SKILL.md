@@ -1,34 +1,17 @@
 ---
 name: tn-family-law
 description: >
-  This skill should be used for any Tennessee family-law /
-  domestic-relations matter: divorce, annulment, legal separation,
-  child custody and the permanent parenting plan, child support,
-  alimony, parentage / paternity, parental relocation, and orders
-  of protection. Triggers include "divorce in Tennessee", "Tennessee
-  divorce grounds", "irreconcilable differences Tennessee",
-  "inappropriate marital conduct", "Tenn. Code Ann. 36-4-101",
-  "Tenn. Code Ann. 36-4-103", "Tennessee waiting period divorce",
-  "equitable distribution Tennessee", "Tenn. Code Ann. 36-4-121",
-  "Tennessee parenting plan", "permanent parenting plan",
-  "Tenn. Code Ann. 36-6-401", "best interest Tennessee child",
-  "Tenn. Code Ann. 36-6-106", "child support Tennessee", "income
-  shares Tennessee", "Tennessee child support guidelines",
-  "Tenn. Code Ann. 36-5-101", "Tennessee alimony", "alimony in
-  futuro", "rehabilitative alimony Tennessee", "transitional
-  alimony", "Tenn. Code Ann. 36-5-121", "paternity Tennessee",
-  "parentage Tennessee", "Tennessee relocation parent",
-  "Tenn. Code Ann. 36-6-108", "Tennessee UCCJEA", "Tennessee UIFSA",
-  "order of protection Tennessee", "common-law marriage Tennessee".
-  A subject-matter bundle covering Title 36 of the Tennessee Code:
-  divorce grounds and procedure (§§ 36-4-101, 36-4-103), equitable
-  distribution (§ 36-4-121), the income-shares child-support model
-  (§ 36-5-101), the four Tennessee alimony types (§ 36-5-121),
-  permanent parenting plans and best-interest factors
-  (§§ 36-6-401 et seq., 36-6-106), relocation (§ 36-6-108), UCCJEA
-  (§ 36-6-201 et seq.), UIFSA (§ 36-5-2001 et seq.), and orders of
-  protection (§ 36-3-601 et seq.).
-version: 0.1.0
+  Subject-matter bundle for Tennessee family-law matters. Covers Title 36:
+  divorce grounds + procedure (§ 36-4-101 fault/irreconcilable-differences;
+  § 36-4-103 60/90-day waiting period); equitable distribution (§ 36-4-121);
+  income-shares child support (§ 36-5-101 + current Guidelines); four alimony
+  types with rehabilitative/transitional preference (§ 36-5-121); permanent
+  parenting plans + best-interest factors (§§ 36-6-401, 36-6-106); relocation
+  (post-2018 § 36-6-108 60-day notice framework); UCCJEA jurisdiction (§
+  36-6-201 et seq.); UIFSA interstate enforcement (§ 36-5-2001 et seq.);
+  parentage/paternity; orders of protection (§ 36-3-601 et seq.); no Tennessee
+  common-law marriage. For venue mechanics use `tn-family-court`.
+version: 0.1.1
 ---
 
 # Tennessee Family Law — Title 36

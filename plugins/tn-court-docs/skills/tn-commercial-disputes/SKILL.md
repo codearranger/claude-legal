@@ -1,40 +1,18 @@
 ---
 name: tn-commercial-disputes
 description: >
-  Subject-matter bundle for Tennessee commercial / business-to-
-  business litigation — contract, trade secret, fraudulent transfer,
-  intracorporate dispute, business-tort, and equitable-remedy
-  practice. Triggers include "Tennessee commercial litigation",
-  "Tennessee business dispute", "Tennessee contract breach",
-  "Tennessee Chancery commercial", "Davidson Business Court",
-  "Tennessee trade secret", "TUTSA", "Tenn. Code Ann. 47-25-1701",
-  "Tennessee fraudulent transfer", "TUFTA", "Tenn. Code Ann.
-  66-3-301", "Tennessee Uniform Voidable Transactions Act",
-  "Tennessee LLC dissolution", "Tennessee Revised LLC Act", "Tenn.
-  Code Ann. 48-249-101", "Tennessee Business Corporation Act",
-  "Tenn. Code Ann. 48-11-101", "Tennessee derivative action",
-  "Tennessee tortious interference", "Tennessee fraud particularity",
-  "Tenn. R. Civ. P. 9.02", "Tennessee Consumer Protection Act
-  business", "Pursell v. First American National Bank", "Tennessee
-  Securities Act 1980", "Tenn. Code Ann. 48-1-101", "Tennessee
-  arbitration", "Tennessee Uniform Arbitration Act", "Tenn. Code
-  Ann. 29-5-301", "Tennessee usury", "Tenn. Code Ann. 47-14",
-  "Tennessee accord and satisfaction", "Tennessee promissory
-  estoppel". Covers the Chancery Court as Tennessee's principal
-  commercial-equity forum, Davidson County's Business Court program
-  in the 20th JD, the **TCPA's narrow business-to-business reach
-  under Pursell v. First American National Bank, 937 S.W.2d 838
-  (Tenn. 1996)**, the Tennessee Uniform Trade Secrets Act at § 47-
-  25-1701 et seq., the Uniform Voidable Transactions Act (the 2003
-  rename + 2015 modernization of TUFTA) at § 66-3-301 et seq., the
-  Tennessee Revised LLC Act at § 48-249-101 et seq., the Tennessee
-  Business Corporation Act at § 48-11-101 et seq., Rule 9.02
-  fraud-with-particularity pleading, derivative actions, dissolution
-  and buy-out, business torts (tortious interference; civil
-  conspiracy; conversion), the **Tennessee Uniform Arbitration Act**
-  at § 29-5-301 et seq. plus FAA preemption practice, and the
-  Tennessee Securities Act at § 48-1-101 et seq.
-version: 0.1.0
+  Subject-matter bundle for Tennessee commercial / business-to-business
+  litigation. Covers Chancery Court (the principal commercial-equity forum),
+  Davidson Business Court, the TCPA's narrow B2B reach under Pursell v. First
+  American National Bank, Tennessee Uniform Trade Secrets Act (TUTSA, §
+  47-25-1701 et seq.), Uniform Voidable Transactions Act (§ 66-3-301 et seq.),
+  Tennessee Revised LLC Act (§ 48-249-101 et seq.), Tennessee Business
+  Corporation Act (§ 48-11-101 et seq.), Rule 9.02 fraud-with-particularity
+  pleading, derivative actions, LLC/corporate dissolution and buy-out, business
+  torts (tortious interference, civil conspiracy, conversion), Tennessee
+  Uniform Arbitration Act (§ 29-5-301 et seq.) with FAA preemption, and
+  Tennessee Securities Act (§ 48-1-101 et seq.).
+version: 0.1.1
 ---
 
 # Tennessee Commercial Disputes

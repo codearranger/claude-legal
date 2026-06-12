@@ -1,24 +1,18 @@
 ---
 name: mi-quality-check
 description: >
-  Use to QC, review, or validate a Michigan court document before
-  filing. Triggers include "quality check Michigan filing", "is my
-  Michigan motion ready to file", "MCR 1.109 compliance", "pre-filing
-  review Michigan", "QC this Michigan document", "review my Michigan
-  filing", "check this motion before I file it in Michigan", "validate
-  this Michigan affidavit", "audit this Michigan packet", "run a
-  quality check on my Michigan filing", "is my Wayne Circuit motion
-  ready". Runs a two-pass check: (1) format pass — MCR 1.109 document
-  format and signature, MCR 2.113 caption and pleading form, MCR 2.107
-  proof of service, line numbering + footer + "Page X of Y" per the
-  marketplace conventions, redaction of protected personal
-  identifying information under MCR 1.109(D); (2) content pass —
-  citations resolve (hand to mi-fact-check), affirmative defenses
-  separately stated under MCR 2.111(F), required-component
-  completeness, attachments, packet consistency. Lighter touch than
-  mi-fact-check, which goes deep on evidentiary citations and
-  sworn-versus-argued alignment.
-version: 0.1.0
+  Use to QC, review, or validate a Michigan court document before filing.
+  Triggers include "quality check Michigan filing", "is my Michigan motion
+  ready to file", "MCR 1.109 compliance", "pre-filing review Michigan", "QC
+  this Michigan document", "validate this Michigan affidavit". Runs two-pass
+  check: (1) format pass — MCR 1.109 document format and signature, MCR
+  2.113 caption and pleading form, MCR 2.107 proof of service, line
+  numbering + footer + "Page X of Y", redaction of protected personal info
+  (MCR 1.109(D)); (2) content pass — citations resolvability, affirmative
+  defenses separately stated (MCR 2.111(F)), required-component completeness,
+  attachments, packet consistency. Lighter than `mi-fact-check`; defers
+  evidentiary citations to that skill.
+version: 0.2.0
 ---
 
 # Michigan Pre-Filing Quality Check

@@ -1,38 +1,18 @@
 ---
 name: mi-commercial-disputes
 description: >
-  Subject-matter bundle for Michigan commercial / business-to-
-  business civil litigation — contract, trade secret, fraudulent
-  transfer, intracorporate (LLC / corporate) dispute, business-tort,
-  and arbitration practice. Triggers include "Michigan commercial
-  litigation", "Michigan business dispute", "Michigan business court",
-  "Michigan commercial dispute", "MCL 600.8031", "MCL 600.8033",
-  "Michigan contract breach", "UCC Article 2 Michigan", "MCL 440.2725",
-  "Michigan secured transaction", "MCL 440.9101", "Michigan LLC dispute",
-  "Michigan Limited Liability Company Act", "MCL 450.4101", "Michigan
-  LLC oppression", "MCL 450.4515", "Michigan judicial dissolution",
-  "shareholder oppression Michigan", "MCL 450.1489", "willfully unfair
-  and oppressive conduct", "Michigan Business Corporation Act", "MCL
-  450.1101", "Michigan derivative action", "MUTSA trade secret Michigan",
-  "Michigan Uniform Trade Secrets Act", "MCL 445.1901", "Michigan
-  fraudulent transfer", "Uniform Voidable Transactions Act Michigan",
-  "MCL 566.31", "tortious interference Michigan", "Michigan civil
-  conspiracy", "Michigan conversion", "statutory conversion MCL
-  600.2919a", "Michigan fraud particularity", "MCR 2.112(B)", "Michigan
-  arbitration", "Michigan Uniform Arbitration Act", "MCL 691.1681".
-  Covers the mandatory Business Court in circuits with 3+ judges
-  (MCL 600.8031–600.8047) and its statutory exclusions, the Michigan
-  UCC (Articles 2 / 3 / 9 at MCL 440.1101 et seq.), the Michigan
-  Limited Liability Company Act (MCL 450.4101 et seq.) and Business
-  Corporation Act (MCL 450.1101 et seq.) with shareholder oppression
-  at MCL 450.1489, the Michigan Uniform Trade Secrets Act (MCL
-  445.1901 et seq.), the Uniform Voidable Transactions Act (MCL 566.31
-  et seq.), business torts (tortious interference, civil conspiracy,
-  conversion including statutory treble-damages conversion at MCL
-  600.2919a), MCR 2.112(B)(1) fraud-with-particularity pleading, and
-  the Michigan Uniform Arbitration Act at MCL 691.1681 et seq. plus
-  FAA preemption practice.
-version: 0.1.0
+  Subject-matter bundle for Michigan commercial and business-to-business
+  civil litigation. Triggers include "Michigan commercial litigation",
+  "Michigan business court", "MCL 450.1489" shareholder oppression, "MCL
+  445.1901" trade secrets, "MCL 566.31" fraudulent transfer, "tortious
+  interference Michigan", "statutory conversion MCL 600.2919a". Covers
+  mandatory Business Court (MCL 600.8031), Michigan UCC (Articles 2/3/9),
+  LLC and Corporation Acts (MCL 450.4101, 450.1101), shareholder oppression,
+  MUTSA trade secrets, voidable transactions, business torts (tortious
+  interference, conspiracy, statutory conversion with treble damages),
+  fraud-with-particularity pleading (MCR 2.112(B)(1)), and Uniform
+  Arbitration Act (MCL 691.1681) plus FAA preemption.
+version: 0.2.0
 ---
 
 # Michigan Commercial Disputes

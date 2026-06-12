@@ -1,25 +1,15 @@
 ---
 name: ca-county-courts
 description: >
-  This skill should be used when drafting or filing civil documents
-  in a California superior court other than Los Angeles (use
-  `ca-lasc`) or San Francisco (use `ca-sfsc`) — covering the
-  state's other most-populous counties: Orange (Santa Ana), San
-  Diego, Riverside, San Bernardino, Santa Clara (San Jose),
-  Alameda (Oakland), Sacramento, Contra Costa (Martinez), and
-  Fresno. Triggers include any of those county names plus "Superior
-  Court", "where do I file", "eFiling", "e-file California",
-  "local rules", "civil motion calendar", "tentative ruling",
-  "Orange County Superior Court", "San Diego Superior Court",
-  "René C. Davidson Courthouse", "Riverside Superior Court",
-  "San Bernardino Superior Court", "Santa Clara Superior Court",
-  "Alameda Superior Court", "Sacramento Superior Court", "Contra
-  Costa Superior Court", "Fresno Superior Court", or a case
-  venued in one of those counties. For Los Angeles use `ca-lasc`;
-  for San Francisco use `ca-sfsc`. Layer on top of
-  `ca-statewide-format`, and consult `ca-law-references` for
-  statutory text.
-version: 0.1.0
+  Use when drafting or filing in California superior courts other
+  than Los Angeles or San Francisco — Orange, San Diego, Riverside,
+  San Bernardino, Santa Clara, Alameda, Sacramento, Contra Costa,
+  Fresno counties. Triggers include county names plus "Superior
+  Court", "where do I file", "eFiling", "local rules", "civil
+  motion calendar", "tentative ruling", or case venue in those
+  counties. For Los Angeles use `ca-lasc`; for San Francisco use
+  `ca-sfsc`. Layer on `ca-statewide-format`.
+version: 0.1.1
 ---
 
 # California county superior courts (non-LA / non-SF)

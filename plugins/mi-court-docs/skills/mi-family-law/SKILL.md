@@ -1,35 +1,19 @@
 ---
 name: mi-family-law
 description: >
-  This skill should be used for any Michigan family-law /
-  domestic-relations matter: divorce, property division, child
-  custody, parenting time, child support, spousal support
-  (alimony), change of domicile / relocation, and the interstate
-  jurisdiction overlays. Triggers include "Michigan divorce",
-  "divorce in Michigan", "no-fault divorce Michigan",
-  "MCL 552.6", "Michigan divorce waiting period",
-  "child custody Michigan", "Child Custody Act",
-  "best interest factors MCL 722.23", "established custodial
-  environment", "parenting time Michigan", "change of domicile
-  100 mile rule", "MCL 722.31", "Michigan child support formula",
-  "Michigan child support", "MCSF", "spousal support Michigan",
-  "alimony Michigan", "Michigan property division equitable",
-  "marital vs separate property Michigan", "Sparks v Sparks",
-  "Michigan common-law marriage", "Michigan UCCJEA",
-  "Michigan UIFSA". A subject-matter bundle covering Michigan's
-  family code: no-fault divorce (MCL 552.6) with the 60-day /
-  180-day waiting periods (MCL 552.9f) and residency (MCL 552.9);
-  equitable distribution under the Sparks v Sparks factors with
-  invasion of separate property (MCL 552.19, 552.401); custody and
-  the best-interest factors under the Child Custody Act
-  (MCL 722.21 et seq., MCL 722.23) with the established custodial
-  environment; parenting time (MCL 722.27a) and the 100-mile
-  change-of-domicile rule (MCL 722.31); child support
-  (MCL 552.605 + the Michigan Child Support Formula); spousal
-  support (MCL 552.23, 552.28); abolition of common-law marriage
-  (MCL 551.2); and UCCJEA (MCL 722.1101 et seq.) / UIFSA
-  (MCL 552.2101 et seq.).
-version: 0.1.0
+  Use for any Michigan family-law matter: divorce, property division, custody,
+  parenting time, child support, spousal support, relocation. Triggers include
+  "Michigan divorce", "no-fault divorce Michigan", "MCL 552.6", "child custody
+  Michigan", "MCL 722.23" best-interest factors, "parenting time Michigan",
+  "100 mile rule", "Michigan child support formula", "spousal support
+  Michigan", "Sparks v Sparks" equitable distribution. Covers no-fault divorce
+  (MCL 552.6) with 60/180-day waiting periods and residency (MCL 552.9);
+  equitable distribution under Sparks v Sparks factors (MCL 552.19, 552.401);
+  custody and best-interest factors (MCL 722.21, 722.23); established custodial
+  environment; parenting time (MCL 722.27a) and 100-mile change-of-domicile
+  rule (MCL 722.31); income-shares child support (MCL 552.605); spousal
+  support (MCL 552.23, 552.28); UCCJEA/UIFSA for interstate cases.
+version: 0.2.0
 ---
 
 # Michigan Family Law

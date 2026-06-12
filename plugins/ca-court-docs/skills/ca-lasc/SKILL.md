@@ -1,25 +1,17 @@
 ---
 name: ca-lasc
 description: >
-  This skill should be used when drafting or filing documents in
-  Los Angeles Superior Court (LASC), the largest unified trial
-  court in the United States. Triggers include "Los Angeles
-  Superior Court", "LASC", "Stanley Mosk Courthouse", "111 N.
-  Hill Street", "Spring Street Courthouse", "Norwalk courthouse",
-  "Van Nuys courthouse", "Pomona courthouse", "Long Beach courthouse",
-  "Pasadena courthouse", "Compton courthouse", "LASC civil filing",
-  "LASC Court Reservation System", "LASC CRS", "reserve a motion
-  in Los Angeles", "LASC tentative ruling", "LASC local rules",
-  "LA Superior Court e-filing", "Odyssey eFileCA Los Angeles",
-  "LASC case management conference", "CMC statement CM-110",
-  "draft a motion in LA Superior Court", "Los Angeles civil
-  motion calendar", or any case with an LASC case number (e.g.,
-  24STCV12345, 24CMCV12345). Covers LASC local rules, the Court
-  Reservation System (CRS) for civil motions, the tentative-ruling
-  regime under Cal. Rules of Court, rule 3.1308 and LASC Local
-  Rule 3.31, mandatory eFiling via Odyssey eFileCA, and case
-  management conferences. Layer on top of `ca-statewide-format`.
-version: 0.1.0
+  Use when drafting or filing in Los Angeles Superior Court (LASC),
+  the largest unified trial court in the U.S. Triggers include
+  "Los Angeles Superior Court", "LASC", "Stanley Mosk Courthouse",
+  "Spring Street Courthouse", "LASC Court Reservation System",
+  "LASC CRS", "LASC tentative ruling", "LASC local rules",
+  "Odyssey eFileCA Los Angeles", "CMC statement CM-110", or LASC
+  case numbers (24STCV12345, 24CMCV12345). Covers LASC local rules,
+  Court Reservation System (CRS), tentative-ruling regime, mandatory
+  eFiling via Odyssey eFileCA, and case management conferences.
+  Layer on `ca-statewide-format`.
+version: 0.1.1
 ---
 
 # Los Angeles Superior Court (LASC)
