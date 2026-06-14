@@ -1,34 +1,18 @@
 ---
 name: mi-personal-injury
 description: >
-  Subject-matter bundle for Michigan personal-injury and tort
-  actions. Triggers include "Michigan personal injury", "Michigan
-  car accident", "Michigan auto accident lawsuit", "no-fault
-  Michigan", "Michigan no-fault insurance", "Michigan PIP", "serious
-  impairment of body function", "tort threshold Michigan",
-  "McCormick v Carrier", "MCL 500.3135", "MCL 500.3101", "Michigan
-  comparative fault 51%", "Michigan modified comparative fault",
-  "MCL 600.2959", "MCL 600.6304", "several liability Michigan",
-  "Michigan slip and fall", "Michigan premises liability",
-  "Michigan medical malpractice", "notice of intent Michigan",
-  "182-day notice Michigan", "MCL 600.2912b", "affidavit of merit",
-  "MCL 600.2912d", "Michigan medical malpractice affidavit of
-  merit", "Michigan non-economic damages cap", "MCL 600.1483",
-  "MCL 600.2169", "product liability Michigan", "MCL 600.2946",
-  "Michigan wrongful death", "MCL 600.2922", "governmental immunity
-  Michigan", "MCL 691.1407", "GTLA Michigan", "Michigan tort SOL",
-  "MCL 600.5805", "MCL 600.5838a". Covers Michigan's modified
-  comparative fault with the 51% bar on non-economic damages
-  (MCL 600.2959) and several liability (MCL 600.6304), the no-fault
-  automobile regime (MCL 500.3101 et seq.) with the 2019 reforms
-  and the MCL 500.3135 tort threshold as construed in McCormick v
-  Carrier, the products-liability framework (MCL 600.2945-2949a),
-  the medical-malpractice pre-suit gates (182-day Notice of Intent
-  under MCL 600.2912b, Affidavit of Merit under MCL 600.2912d,
-  expert qualifications under MCL 600.2169) with the non-economic
-  caps at MCL 600.1483, wrongful death under MCL 600.2922, and
-  governmental immunity under the GTLA at MCL 691.1401 et seq.
-version: 0.1.0
+  Subject-matter bundle for Michigan personal-injury and tort actions.
+  Triggers include "Michigan personal injury", "Michigan auto accident",
+  "no-fault Michigan", "MCL 500.3135" tort threshold, "McCormick v Carrier",
+  "Michigan comparative fault 51%", "medical malpractice Michigan", "182-day
+  notice Michigan", "product liability Michigan", "wrongful death Michigan",
+  "GTLA Michigan" governmental immunity. Covers modified comparative fault
+  with 51% non-economic bar (MCL 600.2959) and several liability (MCL
+  600.6304); no-fault auto regime (MCL 500.3101) with tort threshold
+  (MCL 500.3135); products liability; medical-malpractice pre-suit gates
+  (MCL 600.2912b, 2912d) with non-economic caps (MCL 600.1483); wrongful
+  death (MCL 600.2922); GTLA governmental immunity (MCL 691.1401).
+version: 0.2.0
 ---
 
 # Michigan Personal-Injury Practice

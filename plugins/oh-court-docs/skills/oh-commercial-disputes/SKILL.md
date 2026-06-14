@@ -2,43 +2,24 @@
 name: oh-commercial-disputes
 description: >
   Use when handling an Ohio commercial / business
-  litigation matter — trade-secret misappropriation under
-  the **Ohio Uniform Trade Secrets Act (OUTSA)** at R.C.
-  1333.61-1333.69 (with **exemplary damages up to 3× for
-  willful and malicious misappropriation under R.C.
-  1333.63(B)** and **statutory displacement of conflicting
-  common-law tort remedies under R.C. 1333.67**), the
-  **Ohio Deceptive Trade Practices Act** at R.C. Chapter
-  4165 (the B2B / competitor Lanham-Act analog — distinct
-  from the consumer-only CSPA), **fraudulent transfer**
-  under Ohio's Uniform Fraudulent Transfer Act at R.C.
-  Chapter 1336 (Ohio has NOT adopted the renamed UVTA),
-  corporate disputes under the **General Corporation Law**
-  at R.C. Chapter 1701 (appraisal / dissenters' rights at
-  R.C. 1701.85, judicial dissolution at R.C. 1701.91,
-  derivative actions, and the *Crosby v. Beam* close-
-  corporation fiduciary duty), LLC disputes under the
-  **Ohio Revised LLC Act** at R.C. Chapter 1706 (effective
-  Feb 11, 2022; the **charging order is the exclusive
-  remedy** at R.C. 1706.342(F); derivative action at R.C.
-  1706.61; judicial dissolution at R.C. 1706.47),
-  **arbitration** under R.C. Chapter 2711 (stay at R.C.
-  2711.02, compel at R.C. 2711.03, vacatur/modification at
-  R.C. 2711.10-.11), fraud-pleading particularity under
-  Civ. R. 9(B), common-law business torts (tortious
-  interference, civil conspiracy, conversion, unjust
-  enrichment, promissory estoppel), and non-compete
-  reasonableness under *Raimonde v. Van Vlerah*. Triggers
-  include "Ohio commercial dispute", "Ohio business
-  litigation", "Ohio trade secrets", "OUTSA", "R.C.
-  1333.61", "Ohio deceptive trade practices", "R.C. 4165",
-  "Ohio fraudulent transfer", "R.C. 1336", "Ohio LLC
-  dispute", "R.C. 1706", "Ohio shareholder derivative",
-  "Ohio corporation dissolution", "R.C. 1701", "Ohio
-  arbitration", "R.C. 2711", "Ohio non-compete", "Ohio
-  business tort", "Ohio charging order", "Ohio commercial
-  docket".
-version: 0.1.0
+  litigation matter — trade secrets under the **Ohio
+  Uniform Trade Secrets Act (OUTSA)**, the **Ohio Deceptive
+  Trade Practices Act** (the B2B / competitor analog,
+  distinct from the consumer-only CSPA), fraudulent
+  transfer under Ohio's UFTA (Ohio has NOT adopted the
+  renamed UVTA), corporate disputes under the General
+  Corporation Law, LLC disputes under the **Ohio Revised
+  LLC Act** (wholly replaced effective 2022 — verify
+  section numbers), arbitration, Civ. R. 9(B) fraud
+  particularity, common-law business torts, and non-compete
+  reasonableness. Triggers include "Ohio commercial
+  dispute", "Ohio business litigation", "Ohio trade
+  secrets", "OUTSA", "Ohio deceptive trade practices",
+  "Ohio fraudulent transfer", "Ohio LLC dispute", "Ohio
+  shareholder derivative", "Ohio corporation dissolution",
+  "Ohio arbitration", "Ohio non-compete", "Ohio business
+  tort", "Ohio charging order", "Ohio commercial docket".
+version: 0.1.1
 ---
 
 # Ohio Commercial Disputes — Substantive Framework

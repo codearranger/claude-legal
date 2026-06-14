@@ -1,30 +1,19 @@
 ---
 name: or-law-references
-version: 0.3.0
+version: 0.3.1
 description: >
-  This skill should be used when the user needs to cite, apply, or
-  research law that bears on Oregon civil court practice across any
-  subject matter. Triggers include "ORCP 21", "ORCP 36", "ORCP 43",
-  "ORCP 46", "ORCP 47", "ORCP 71", "Oregon civil rules", "Oregon
-  evidence code", "OEC 803", "OEC 901", "OEC 902", "OEC 1002",
-  "best evidence", "hearsay exception", "business records",
-  "authentication", "meet and confer", "motion to compel", "summary
-  judgment standard", "attorney fees", "prevailing party", "ORS
-  20", "ORS 20.075", "ORS 20.105", "ORCP 17 sanctions",
-  "ORCP 46 fee-shifting", "lodestar", "UTCR", "Oregon citation
-  format", "Oregon Style Manual", "Or", "Or App", "P3d",
-  "Multnomah SLR", "Washington County SLR", "canonical URL",
-  "verify citation", "fetch court rule". Covers Oregon Rules of
-  Civil Procedure (ORCP), the Oregon Evidence Code (OEC, codified
-  at ORS 40.010 et seq.), UTCR citation format, ORS 20 fees-and-
-  costs, local SLRs for Multnomah and Washington County, general
-  civil key cases (SJ standard, fee-shifting, ORCP 71), and the
-  canonical online-sources catalog for fetching current rule text,
-  statutes, and case law. For subject-matter-specific law (debt
-  collection, landlord-tenant, family, personal injury, criminal),
-  compose with the relevant subject-matter skill (e.g.,
-  or-consumer-debt). Compose with or-statewide-format, or-multcc /
-  or-wccc, or-pro-se, and or-fact-check as needed.
+  Use this skill to cite, apply, or research Oregon civil law.
+  Triggers include "ORCP 21", "ORCP 43", "ORCP 46", "ORCP 47",
+  "ORCP 71", "Oregon civil rules", "OEC 803", "OEC 901", "OEC 902",
+  "business records", "authentication", "motion to compel",
+  "attorney fees", "ORS 20", "lodestar", "UTCR", "Oregon citation
+  format", "Or", "P3d", "SLR". Covers ORCP, OEC (ORS 40.010 et
+  seq.), UTCR citation format, ORS 20 fees-and-costs, local SLRs,
+  key civil cases, and canonical online-sources. For subject-matter-
+  specific law (debt collection, landlord-tenant, etc.), compose
+  with relevant subject-matter skill (e.g., or-consumer-debt).
+  Composes with or-statewide-format, or-multcc / or-wccc,
+  or-pro-se, and or-fact-check.
 ---
 
 # Oregon Law References — General Civil Practice

@@ -1,35 +1,19 @@
 ---
 name: az-personal-injury
 description: >
-  Subject-matter bundle for Arizona personal-injury and tort
-  actions. Triggers include "Arizona personal injury", "Arizona car
-  accident", "Arizona auto accident lawsuit", "Arizona pure
-  comparative negligence", "Arizona comparative fault", "A.R.S.
-  12-2505", "Arizona several liability", "joint liability abolished
-  Arizona", "A.R.S. 12-2506", "nonparty at fault Arizona", "notice
-  of nonparty at fault", "Arizona no damages cap", "Arizona no
-  non-economic cap", "Arizona Constitution damages", "Arizona
-  medical malpractice", "Arizona medical malpractice expert
-  affidavit", "preliminary expert opinion affidavit Arizona",
-  "A.R.S. 12-2603", "A.R.S. 12-2604", "Arizona notice of claim",
-  "Arizona notice of claim 180 days", "A.R.S. 12-821.01", "Arizona
-  public entity lawsuit", "Arizona personal injury statute of
-  limitations", "A.R.S. 12-542", "dog bite Arizona", "A.R.S.
-  11-1025", "Arizona slip and fall", "Arizona premises liability",
-  "Arizona wrongful death", "Arizona UM UIM". Covers Arizona's
-  PURE comparative negligence (A.R.S. § 12-2505 — recovery reduced
-  by fault share but never barred), several liability with the
-  abolition of joint liability and the nonparty-at-fault mechanism
-  (A.R.S. § 12-2506), the constitutional prohibition on statutory
-  damage caps (Ariz. Const. art. 2 § 31 + art. 18 § 6 — Arizona has
-  NO med-mal or non-economic damages cap), the medical-malpractice
-  preliminary-expert-opinion-affidavit gate (A.R.S. § 12-2603) and
-  expert qualification (A.R.S. § 12-2604), the strict 180-day
-  notice of claim and 1-year SOL against public entities (A.R.S.
-  §§ 12-821.01 / 12-821), the 2-year personal-injury SOL (A.R.S.
-  § 12-542), dog-bite strict liability (A.R.S. §§ 11-1025 / 11-1020),
-  and UM/UIM coverage.
-version: 0.1.0
+  Subject-matter bundle for Arizona personal-injury and tort actions. Triggers:
+  "Arizona personal injury", "Arizona car accident", "Arizona auto accident",
+  "Arizona pure comparative negligence", "Arizona comparative fault", "Arizona
+  several liability", "joint liability abolished Arizona", "nonparty at fault
+  Arizona", "Arizona no damages cap", "Arizona Constitution damages", "Arizona
+  medical malpractice", "preliminary expert opinion affidavit Arizona", "Arizona
+  notice of claim", "Arizona public entity", "dog bite Arizona", "Arizona slip and
+  fall", "Arizona wrongful death", "Arizona UM UIM". Covers pure comparative negligence (A.R.S. § 12-2505), several liability with
+  abolition of joint liability and nonparty-at-fault (§ 12-2506), constitutional
+  prohibition on damage caps, medical-malpractice expert-affidavit gate (§
+  12-2603), 180-day notice / 1-year SOL against public entities, 2-year SOL,
+  dog-bite strict liability, UM/UIM coverage.
+version: 0.1.8
 ---
 
 # Arizona Personal-Injury Practice

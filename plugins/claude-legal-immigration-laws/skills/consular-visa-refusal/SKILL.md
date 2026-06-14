@@ -1,25 +1,18 @@
 ---
 name: consular-visa-refusal
 description: >
-  Use this skill when a visa application was REFUSED at a U.S. consulate or
-  embassy abroad (a Department of State forum — NOT USCIS and NOT the immigration
-  court). It identifies the refusal type from the refusal sheet — an INA § 221(g)
-  incomplete-application / "administrative processing" hold (usually curable by
-  submitting the missing document) versus a substantive INA § 212(a)
-  ineligibility (an inadmissibility ground) — maps the waivers (Form I-601, Form
-  I-601A provisional unlawful-presence waiver, and the INA § 212(d)(3)
-  nonimmigrant waiver), and warns about CONSULAR NONREVIEWABILITY (there is
-  generally no court appeal of a consular refusal). Triggers include "visa
-  refused", "221g", "221(g)", "administrative processing", "consulate denied my
-  visa", "embassy refused visa", "212a ineligibility", "212(a) ground",
-  "I-601 waiver", "I-601A provisional waiver", "212(d)(3) waiver", "unlawful
-  presence bar", "3-year bar", "10-year bar", "misrepresentation visa",
-  "reconsider consular refusal", "supervisory review", "advisory opinion",
-  "LegalNet", "what to do after visa denial", "DS-260 refused", "DS-160 refused".
-  Produces a § 221(g) document-submission cover letter, a waiver-assembly
-  checklist, and a request-for-reconsideration / supervisory-review letter to the
-  post. Documents, not advice.
-version: 0.1.0
+  Use this skill when a visa application was REFUSED at a U.S. consulate (a
+  Department of State forum — NOT USCIS or immigration court). Identifies refusal
+  type from refusal sheet — INA § 221(g) administrative-processing hold (curable
+  by submitting missing document) versus INA § 212(a) ineligibility ground. Maps
+  waivers: Form I-601, I-601A (unlawful-presence provisional), § 212(d)(3)
+  nonimmigrant. Triggers: "visa refused", "221g", "administrative processing",
+  "consulate denied my visa", "212a ineligibility", "I-601 waiver", "I-601A",
+  "unlawful presence bar", "misrepresentation visa", "supervisory review",
+  "what to do after visa denial", "DS-260 refused". Produces § 221(g)
+  document-submission letter, waiver-assembly checklist, reconsideration letter
+  to post. Warns: there is generally no court appeal of consular refusal.
+version: 0.1.1
 ---
 
 # Consular Visa Refusal — Department of State

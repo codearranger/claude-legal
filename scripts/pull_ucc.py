@@ -223,7 +223,9 @@ def main() -> int:
         ordered = [results[s] for s in section_ids if s in results]
         md = render_article_md(article, title, ordered)
         path = out_dir / f"Article-{article}.md"
-        path.write_text(md, encoding="utf-8")
+        tmp = path.with_suffix(".md.tmp")
+        tmp.write_text(md, encoding="utf-8")
+        tmp.replace(path)
         print(f"  wrote {path} ({len(md):,} bytes)", flush=True)
 
         # Cool-off between articles so Cornell's rate-limit bucket can refill.

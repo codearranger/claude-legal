@@ -1,19 +1,16 @@
 ---
 name: az-consumer-debt
 description: >
-  This skill should be used when defending an Arizona consumer against a debt-collection lawsuit
-  (typically by a debt buyer or collection agency, usually in Justice Court). Triggers include
-  "sued for a debt Arizona", "debt collector Arizona", "Arizona Consumer Fraud Act", "debt buyer
-  Arizona", "time-barred debt Arizona Mertola", "credit card statute of limitations Arizona",
-  "FDCPA Arizona", "Arizona collection agency license", "Justice Court debt Arizona", "Midland
-  Credit Arizona", "Portfolio Recovery Arizona", "LVNV Funding Arizona", "A.R.S. 44-1521", "A.R.S.
-  12-548", "chain of title Arizona debt", "default judgment Arizona debt". Subject-matter bundle
-  covering the federal FDCPA / Regulation F layer, the Arizona Consumer Fraud Act (A.R.S. § 44-1521
-  et seq.), the Arizona collection-agency licensing regime under A.R.S. Title 32, Chapter 9 (DIFI),
-  chain-of-title doctrine under Arizona UCC Article 9, the statute-of-limitations framework
-  (including the *Mertola* credit-card acceleration rule), the two-way attorney-fee exposure under
-  A.R.S. § 12-341.01, and the Justice Court forum.
-version: 0.1.0
+  Use when defending an Arizona consumer against a debt-collection lawsuit (typically by debt buyer
+  or collection agency, usually in Justice Court). Triggers: "sued for a debt Arizona", "debt
+  collector Arizona", "Arizona Consumer Fraud Act", "debt buyer Arizona", "time-barred debt Arizona
+  Mertola", "credit card statute of limitations Arizona", "FDCPA Arizona", "Arizona collection
+  agency license", "Justice Court debt Arizona", "chain of title Arizona debt", "default judgment
+  Arizona debt". Subject-matter bundle covering federal FDCPA / Regulation F layer, Arizona
+  Consumer Fraud Act, DIFI collection-agency licensing (A.R.S. Title 32), chain-of-title under
+  Arizona UCC Article 9, statute-of-limitations framework including *Mertola* credit-card
+  acceleration rule, two-way attorney-fee exposure (A.R.S. § 12-341.01), Justice Court forum.
+version: 0.1.2
 ---
 
 # Arizona Consumer-Debt Defense

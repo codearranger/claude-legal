@@ -1,29 +1,17 @@
 ---
 name: wa-pierce
 description: >
-  Use when handling a Pierce County, Washington Superior
-  Court case — civil practice at the **County-City
-  Building in Tacoma** (930 Tacoma Avenue South), the
-  second-most-populous county in Washington with ~922,000
-  residents. Pierce County Superior Court handles general
-  civil + family + criminal + juvenile + probate matters
-  with **Pierce County Local Rules of Superior Court
-  (PCLR)** overlaying the general CR + GR. Pierce
-  participates in **Mandatory Arbitration of Civil
-  Actions (MAR) under RCW 7.06** for civil cases below
-  the local jurisdictional cap (cap varies by county
-  under RCW 7.06.020 — read current value from the
-  references corpus). Coverage includes the **Pierce
-  County electronic filing system (LINX)**, the
-  case-management order issued under PCLR 16, the family-
-  law commissioner system under RCW 2.24, and Pierce
-  County General Orders on remote appearances. Appeals
-  route to Court of Appeals **Division II** (seated in
-  Tacoma). Triggers include "Pierce County Superior
-  Court", "Tacoma Superior Court", "PCLR", "Pierce
-  County local rules", "Pierce County e-filing", "Pierce
-  County family law", "Pierce MAR", "Division II".
-version: 0.2.0
+  Use when handling a Pierce County, Washington Superior Court case — civil
+  practice at the County-City Building in Tacoma (930 Tacoma Avenue South),
+  second-most-populous county (~922,000 residents). Covers general civil +
+  family + criminal + juvenile + probate with Pierce County Local Rules of
+  Superior Court (PCLR) overlaying CR + GR. Pierce participates in Mandatory
+  Arbitration (RCW 7.06) for civil cases below local jurisdictional cap.
+  Coverage includes LINX e-filing system, case-management order (PCLR 16),
+  family-law commissioner system (RCW 2.24), and remote-appearance orders.
+  Appeals route to Court of Appeals Division II (Tacoma). Triggers include
+  "Pierce County Superior Court", "Tacoma Superior Court", "PCLR".
+version: 0.2.1
 ---
 
 # Pierce County Superior Court — Venue Skill

@@ -1,29 +1,17 @@
 ---
 name: wa-personal-injury
 description: >
-  Use when handling a Washington personal-injury matter —
-  negligence (Washington applies **pure comparative
-  fault**, no plaintiff-fault bar), wrongful death,
-  product liability under the **Washington Product
-  Liability Act (WPLA) at RCW 7.72**, medical malpractice
-  under **RCW 7.70**, the 1986 Reform Act's general
-  several-liability rule (with the enumerated joint-
-  liability carve-outs), and the **Notice of Tort Claim**
-  prerequisite for suits against the State of Washington
-  (RCW 4.92) or local governments (RCW 4.96). Substantive
-  framework lives in RCW Title 4 (Civil Procedure
-  including comparative fault + wrongful death +
-  limitations) and RCW Chapter 7.70 / 7.72 (special PI
-  actions). Current SOL day-counts, statutes of repose,
-  notice-of-claim periods, and joint-liability carve-outs
-  live in the references corpus, not embedded here.
-  Triggers include "Washington personal injury", "WA car
-  accident", "WA medical malpractice", "RCW 7.70", "WPLA",
-  "Washington product liability", "RCW 7.72", "WA
-  comparative fault", "RCW 4.22", "WA wrongful death",
-  "RCW 4.20", "WA Notice of Tort Claim", "RCW 4.92",
-  "RCW 4.96".
-version: 0.2.0
+  Use when handling a Washington personal-injury matter — negligence (pure
+  comparative fault, no plaintiff-fault bar), wrongful death, product
+  liability (WPLA at RCW 7.72), medical malpractice (RCW 7.70), 1986 Reform
+  Act's several-liability rule (with enumerated joint-liability carve-outs),
+  and Notice of Tort Claim prerequisite for state (RCW 4.92) or local
+  government (RCW 4.96) suits. Substantive framework: RCW Title 4 (Civil
+  Procedure, comparative fault, wrongful death, limitations) + RCW Chapters
+  7.70 / 7.72. Triggers include "personal injury", "car accident", "medical
+  malpractice", "WPLA", "product liability", "comparative fault", "wrongful
+  death", "Notice of Tort Claim".
+version: 0.2.1
 ---
 
 # Washington Personal Injury — Subject-Matter Bundle

@@ -1,38 +1,17 @@
 ---
 name: oh-employment
 description: >
-  Use when handling an Ohio employment-law matter —
-  workplace discrimination, harassment, wrongful
-  termination, wage / hour, prompt-pay, whistleblower,
-  workers'-compensation retaliation or workplace
-  intentional tort, unemployment-compensation appeals, or
-  non-compete enforceability. Centers on **R.C. Chapter
-  4112** as overhauled by the **2021 Employment Law
-  Uniformity Act (H.B. 352, eff. 4/15/2021)** — a single
-  uniform **2-year statute of limitations** (R.C.
-  4112.052(C)), **mandatory administrative exhaustion**
-  through an **Ohio Civil Rights Commission (OCRC)** charge
-  before most civil actions (R.C. 4112.051 / 4112.052(B)),
-  **elimination of individual supervisor/manager liability**
-  in most cases, and a codified **Faragher/Ellerth
-  affirmative defense** for hostile-environment claims (R.C.
-  4112.054). Also covers minimum wage (R.C. Chapter 4111 +
-  **Ohio Const. art. II § 34a**), overtime (R.C. 4111.03),
-  prompt-pay liquidated damages (R.C. 4113.15),
-  whistleblower (R.C. 4113.52), workers'-comp exclusive
-  remedy (R.C. 4123.74 / 4123.741) + the narrow employer
-  intentional-tort exception (R.C. 2745.01) + anti-
-  retaliation (R.C. 4123.90), unemployment compensation
-  (R.C. Chapter 4141), and common-law non-competes
-  (*Raimonde v. Van Vlerah*). Triggers include "Ohio
-  employment law", "Ohio discrimination", "R.C. 4112",
-  "Ohio Civil Rights Commission", "OCRC charge", "Ohio
-  wrongful termination", "Ohio whistleblower", "R.C.
-  4113.52", "Ohio minimum wage", "Ohio wage claim", "Ohio
-  prompt pay", "R.C. 4113.15", "Ohio workers compensation",
-  "R.C. 4123", "Ohio workplace intentional tort", "R.C.
-  2745.01", "Ohio non-compete", "Ohio unemployment".
-version: 0.1.0
+  Use for Ohio employment-law matters — discrimination, wrongful
+  termination, wage/hour, whistleblower, workers' comp, unemployment.
+  Centers on **R.C. Chapter 4112** (as overhauled by **2021 H.B. 352**)
+  with **2-year SOL**, **mandatory OCRC charge exhaustion**,
+  **Faragher/Ellerth defense**. Also covers **minimum wage** (**Ohio
+  Const. art. II § 34a**), **prompt-pay** (R.C. 4113.15), **whistleblower**
+  (R.C. 4113.52), **workers' comp exclusive remedy** (R.C. 4123) +
+  intentional-tort exception (R.C. 2745.01), **unemployment** (R.C.
+  Chapter 4141), and non-competes (*Raimonde*). Triggers: "Ohio
+  employment law", "R.C. 4112", "OCRC charge", "Ohio whistleblower".
+version: 0.1.1
 ---
 
 # Ohio Employment Law — Substantive Framework

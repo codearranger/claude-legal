@@ -1,26 +1,19 @@
 ---
 name: ca-quality-check
 description: >
-  Use this skill when the user asks to QC, review, format-check,
-  or otherwise validate a California court document before filing.
-  Triggers include "check this document", "QC this", "is this CRC
-  compliant", "format check California", "review my motion before
-  I file", "run a compliance check", "check my declaration California",
-  "California Rules of Court 2.100", "line numbering check",
-  "check my caption", "is this the right Judicial Council form
-  version", "check proof of service California", "separate statement
-  required", "CRC 3.1345", "CRC 3.1113 page limit", "memorandum
-  page limit California". Runs a two-pass check: (1) a CRC
-  2.100–2.119 format pass via scripts/format-check.py (paper, margins,
-  line spacing, fonts, line numbering, two-hole punch, footer) and
-  (2) a content pass checking caption accuracy, document title,
-  signature block, proof of service, meet-and-confer declaration
-  if required, separate statement for motions to compel further
-  (CRC 3.1345), facts supported by declaration, correct current
-  Judicial Council form version, and correct tentative-ruling
-  protocol if applicable. Composes with ca-statewide-format and
-  the relevant court skill (ca-lasc, ca-sfsc, ca-county-courts).
-version: 0.1.0
+  Use to QC, review, format-check, or validate a California court
+  document before filing. Triggers include "check this document",
+  "QC this", "format check California", "review my motion before
+  I file", "CRC compliant", "line numbering check", "check my
+  caption", "proof of service California", "separate statement
+  required", "CRC 3.1345", "memorandum page limit". Runs two-pass
+  check: (1) CRC 2.100–2.119 format check (paper, margins, line
+  spacing, fonts, line numbering, two-hole punch, footer) via
+  scripts/format-check.py; (2) content check (caption, title,
+  signature block, proof of service, meet-and-confer declaration,
+  separate statement for motion to compel, facts supported by
+  declaration, correct Judicial Council form version).
+version: 0.1.1
 ---
 
 # Quality Check — Format + Content (California)

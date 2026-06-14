@@ -1,32 +1,22 @@
 ---
 name: consumer-report-accuracy
 description: >
-  Use this skill to help a consumer audit and correct the data on a
-  consumer report — personal identifying information (PII) and the
-  key tradeline data points that control reporting duration, scoring,
-  and statute-of-limitations exposure. Triggers include "wrong info on
-  my credit report", "update my address on my report", "remove old
-  address", "wrong employer on report", "wrong name / phone number",
-  "Date of First Delinquency", "DOFD", "re-aged debt", "they re-aged
-  my account", "debt buyer changed the date", "how long can this stay
-  on my report", "disputed by consumer", "mark it disputed", "dispute
-  comment", "why didn't my score go up", "the dispute flag is missing",
-  "monitor my report weekly", "annualcreditreport.com". Covers PII
-  hygiene (removing stale addresses/phones that cause mistaken matches
-  and fraud, and requesting a furnisher's contact info when active
-  reporting blocks removal), the Date of First Delinquency as the legal
-  clock for the ~7-year reporting period (15 U.S.C. § 1681c) and for
-  debt statute-of-limitations analysis, watching for debt-buyer
-  re-aging, ensuring disputed items carry the "disputed by consumer"
-  flag so they are excluded from scoring (immediate score lift), and a
-  monitoring cadence (weekly pulls; sticky-note annotation of
-  questionable items to organize evidence). Produces PII correction
-  requests, re-aging challenge letters, and dispute-mark verification
-  checklists. Composes with consumer-report-ordering,
-  consumer-credit-disputes, consumer-harm-documentation,
-  consumer-credit-monitoring, the state *-consumer-debt bundles, and
-  the state *-pro-se skills.
-version: 0.1.0
+  Use this skill to audit and correct consumer-report data: PII and
+  tradeline points affecting reporting duration, scoring, and SOL.
+  Triggers include "wrong info on my credit report", "update my
+  address", "Date of First Delinquency", "DOFD", "re-aged debt",
+  "disputed by consumer", "mark it disputed", "why didn't my score
+  go up", "dispute flag missing", "monitor my report weekly".
+  Covers PII hygiene (remove stale addresses/phones causing mistaken
+  matches and fraud), Date of First Delinquency clock (§ 1681c) and
+  SOL anchor, watching for re-aging, ensuring "disputed by consumer"
+  flag for score lift, and weekly monitoring. Produces PII
+  correction requests, re-aging challenge letters, and dispute-mark
+  checklists. Composes with consumer-report-ordering, consumer-
+  credit-disputes, consumer-harm-documentation, consumer-credit-
+  monitoring, state *-consumer-debt bundles, and state *-pro-se.
+version: 0.1.2
+version: 0.1.1
 ---
 
 # Consumer Report Accuracy & Key Data Points

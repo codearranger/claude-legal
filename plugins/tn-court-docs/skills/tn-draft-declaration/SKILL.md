@@ -1,22 +1,17 @@
 ---
 name: tn-draft-declaration
 description: >
-  This skill should be used to scaffold a sworn factual statement for a
-  Tennessee court filing. In Tennessee the standard sworn support
-  document is an AFFIDAVIT sworn before a notary public. Triggers
-  include "draft a Tennessee affidavit", "draft an affidavit in support
-  of summary judgment", "sworn statement Tennessee", "notarized
-  affidavit for a Tennessee motion", "draft an affidavit of account",
-  "supporting affidavit under Tenn. R. Civ. P. 56", "declaration under
-  penalty of perjury Tennessee". Produces a notarized affidavit (the
-  default) with a personal-knowledge foundation, numbered paragraphs
-  under Tenn. R. Civ. P. 10.02, exhibit references under Rule 10.03, a
-  jurat, and a notary block. Notes that whether an unsworn declaration
-  under penalty of perjury is accepted depends on the matter and court,
-  so the reader should verify before relying on one. Composes with
-  `tn-statewide-format` for the caption, `tn-draft-motion` for the
-  supported motion, and `tn-draft-order` for the proposed order.
-version: 0.1.0
+  Use to scaffold a sworn factual statement for Tennessee court filings.
+  Tennessee's default is a notarized affidavit (sworn before a notary public).
+  Produces an affidavit with personal-knowledge foundation, numbered paragraphs
+  under Tenn. R. Civ. P. 10.02, exhibit references under Rule 10.03, jurat,
+  and notary block. Commonly used for summary-judgment support under Rule 56,
+  affidavit of account in debt matters, or fact affidavits supporting motions.
+  Notes that unsworn declarations under penalty of perjury may be accepted in
+  limited contexts — verify before relying. Composes with `tn-statewide-format`
+  for the caption, `tn-draft-motion` for the supported motion, and
+  `tn-draft-order` for the proposed order.
+version: 0.1.1
 ---
 
 # Draft a Tennessee Affidavit

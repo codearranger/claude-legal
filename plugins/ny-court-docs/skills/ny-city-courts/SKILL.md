@@ -2,31 +2,22 @@
 name: ny-city-courts
 description: >
   Use when drafting or filing in an upstate City Court — the
-  limited-jurisdiction civil layer outside the City of New
-  York established under the **Uniform City Court Act
-  (UCCA)** with procedural rules at **22 NYCRR Part 210**.
-  Triggers include 'Buffalo City Court', 'Rochester City
-  Court', 'Syracuse City Court', 'Albany City Court',
-  'Yonkers City Court', 'White Plains City Court', 'New
-  Rochelle City Court', 'Mount Vernon City Court', 'Niagara
-  Falls City Court', 'Schenectady City Court', 'Utica City
-  Court', 'Troy City Court', 'Binghamton City Court',
-  'Auburn City Court', 'Watertown City Court', 'Glen Cove
-  City Court', 'Long Beach City Court', 'Newburgh City
-  Court', 'UCCA', 'Uniform City Court Act', '22 NYCRR Part
-  210', 'upstate City Court'. Covers the ~60 City Courts
-  with civil jurisdiction up to **$15,000**, small claims up
-  to $5,000 (varies by city; some go to $3,000), housing
-  parts where they exist (Buffalo, Rochester, Yonkers,
-  White Plains, others), and the variable e-filing
-  rollout (NYSCEF is mandatory in several upstate City
-  Courts and expanding). NOT for NYC Civil Court (separate
-  court under Civil Court Act § 110 — see
-  `ny-nyc-civil-court`); not for Town & Village Justice
-  Courts (UJCA — see `ny-justice-courts`); not for Long
-  Island District Courts (UDCA — see `ny-nassau-dc` and
-  `ny-suffolk-dc`).
-version: 0.1.0
+  limited-jurisdiction civil layer outside New York City
+  under the **Uniform City Court Act (UCCA)** with
+  procedural rules at **22 NYCRR Part 210**. Triggers
+  include 'Buffalo City Court', 'Rochester City Court',
+  'Syracuse City Court', 'Albany City Court', 'Yonkers City
+  Court', 'White Plains City Court', 'Schenectady City
+  Court', 'Utica City Court', 'Troy City Court', 'UCCA',
+  'Uniform City Court Act', '22 NYCRR Part 210', 'upstate
+  City Court'. Covers the ~60 City Courts' civil and
+  small-claims jurisdiction, Housing Parts where they exist,
+  and the variable NYSCEF e-filing rollout. NOT for NYC
+  Civil Court (see `ny-nyc-civil-court`); not for Town &
+  Village Justice Courts (UJCA — see `ny-justice-courts`);
+  not for Long Island District Courts (UDCA — see
+  `ny-nassau-dc` and `ny-suffolk-dc`).
+version: 0.1.1
 ---
 
 # Upstate City Courts (UCCA / 22 NYCRR Part 210)

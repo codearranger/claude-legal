@@ -1,24 +1,20 @@
 ---
 name: az-quality-check
 description: >
-  Use to QC, review, or validate an Arizona court document before
-  filing. Triggers include "quality check Arizona filing", "is my
-  Arizona motion ready to file", "Ariz. R. Civ. P. 10 compliance",
-  "pre-filing review Arizona", "QC this Arizona document", "review my
-  Arizona filing", "check this motion before I file it in Arizona",
-  "validate this Arizona affidavit", "audit this Arizona packet", "run
-  a quality check on my Arizona filing", "is my Maricopa Superior
-  Court motion ready". Runs a two-pass check: (1) format pass —
-  Ariz. R. Civ. P. 10 caption and numbered paragraphs, Rule 7.1 motion
-  form, Rule 11 signature with the State Bar of Arizona bar number,
-  line numbering + footer + "Page X of Y" per the marketplace
-  conventions, Rule 5 certificate of service; (2) content pass —
-  citations resolve (hand to az-fact-check), affirmative defenses
-  pleaded under Rule 8(d), the correct rule set for the forum (ARCP
-  vs. ARFLP vs. JCRCP), and required attachments including a proposed
-  form of order for motions. Lighter touch than az-fact-check, which
-  goes deep on evidentiary citations and sworn-versus-argued alignment.
-version: 0.1.0
+  Use to QC, review, or validate an Arizona court document before filing.
+  Triggers: "quality check Arizona filing", "is my Arizona motion ready to
+  file", "Ariz. R. Civ. P. 10 compliance", "pre-filing review Arizona", "QC
+  this Arizona document", "check this motion before I file it in Arizona",
+  "validate this Arizona affidavit", "audit this Arizona packet", "is my
+  Maricopa Superior Court motion ready". Runs two passes: (1) format pass —
+  Ariz. R. Civ. P. 10 caption, Rule 7.1 motion form, Rule 11 signature with
+  State Bar bar number, line numbering + footer + "Page X of Y", Rule 5
+  certificate of service; (2) content pass — affirmative defenses pleaded,
+  correct rule set for forum (ARCP vs. ARFLP vs. JCRCP critical flag),
+  required attachments including proposed form of order. Lighter touch than
+  `az-fact-check`, which deep-dives evidentiary citations and sworn-vs-argued
+  alignment.
+version: 0.1.1
 ---
 
 # Arizona Pre-Filing Quality Check

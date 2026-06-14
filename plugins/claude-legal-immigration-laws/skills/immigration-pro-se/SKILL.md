@@ -1,24 +1,19 @@
 ---
 name: immigration-pro-se
 description: >
-  Use this skill FIRST when a self-represented person is dealing with any U.S.
-  immigration matter and needs orientation before drafting — it maps the four
-  separate forums (USCIS benefits, EOIR immigration court / the Board of
-  Immigration Appeals, Department of State consular processing, and federal
-  circuit petitions for review) so the right downstream skill is used and the
-  right body of rules is cited. Triggers include "I got an NTA", "notice to
-  appear", "immigration court date", "I have a master calendar hearing", "USCIS
-  denied", "received an RFE", "my visa was refused", "221g", "I want to appeal
-  to the BIA", "petition for review", "what's my A-number", "how do I find my
-  case", "do I need a lawyer for immigration", "notario", "can someone represent
-  me in immigration court", "EOIR-28", "G-28", "respondent pro se", "self-
-  represented immigration". The skill enforces the documents-not-advice
-  boundary, flags when the stakes require a licensed immigration attorney or an
-  EOIR-accredited representative, warns about notario / unauthorized-practice
-  fraud, locates the case (EOIR automated portal, USCIS online account,
-  A-number), and routes to the venue-specific skills. Composes with every other
-  skill in this plugin and with the state *-pro-se skills.
-version: 0.1.0
+  Use this skill FIRST when a self-represented person needs orientation in any
+  U.S. immigration matter — maps the four separate forums (USCIS benefits, EOIR
+  immigration court/BIA, Department of State consular processing, federal
+  circuit review) so the right downstream skill is used. Triggers: "I got an
+  NTA", "notice to appear", "immigration court date", "master calendar hearing",
+  "USCIS denied", "received an RFE", "my visa was refused", "221g", "appeal to
+  the BIA", "petition for review", "what's my A-number", "how do I find my
+  case", "do I need a lawyer", "notario", "EOIR-28", "G-28", "self-represented
+  immigration". Enforces documents-not-advice boundary; warns about notario
+  fraud; locates the case (EOIR portal, USCIS account, A-number); establishes
+  controlling deadline; routes to venue-specific skills. Composes with every
+  other skill in this plugin and with state *-pro-se skills.
+version: 0.1.1
 ---
 
 # Immigration — Pro Se Orientation

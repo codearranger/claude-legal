@@ -1,36 +1,19 @@
 ---
 name: ny-commercial-disputes
 description: >
-  Use when drafting or filing a commercial-litigation action
-  under New York law — breach of contract, breach of
-  fiduciary duty, business torts, fraud, account stated,
-  UCC commercial disputes, business-divorce / shareholder
-  oppression, judicial dissolution. Triggers include
-  '22 NYCRR 202.70 Commercial Division', 'Commercial
-  Division Rules', 'CPLR 3016(b) fraud particularity',
-  'NY CPLR 213(2) 6-year contract SOL', 'NY GOL 5-1401
-  choice-of-law $250,000', 'GOL 5-1402 forum selection',
-  'BCL 1104-a oppression', 'BCL 720 fiduciary duty',
-  'LLC Law 702 dissolution', 'Faithless Servant Doctrine',
-  'NY Comm Div discovery limits', 'Commercial Division 25-
-  page brief', 'BCL 624 books and records', 'breach of
-  fiduciary duty NY', 'business divorce NY', 'NY judicial
-  dissolution', 'account stated NY', 'guaranty action NY'.
-  Covers the NY commercial litigation environment — the
-  Commercial Division at 22 NYCRR § 202.70 (separate
-  procedural rule set with county-by-county monetary
-  thresholds and the proportionality-in-discovery rule
-  unique to the Comm Div), the substantive frameworks
-  (Business Corporation Law fiduciary duty and dissolution
-  remedies, LLC Law analog, the Faithless Servant Doctrine,
-  pre-judgment interest at the statutory 9% rate under CPLR
-  5004), the heightened fraud-pleading particularity
-  requirement at CPLR 3016(b), and the choice-of-law and
-  forum-selection benefits NY provides under General
-  Obligations Law §§ 5-1401 and 5-1402 (the "$250,000
-  threshold" that makes NY a destination forum for
-  commercial disputes).
-version: 0.1.0
+  Use when drafting or filing a commercial-litigation action — breach of
+  contract, fiduciary duty, business torts, fraud, account stated, UCC
+  disputes, shareholder oppression, judicial dissolution. Triggers include
+  '22 NYCRR 202.70 Commercial Division', 'CPLR 3016(b) fraud particularity',
+  'BCL 1104-a oppression', 'BCL 720 fiduciary duty', 'LLC Law 702 dissolution',
+  'Faithless Servant Doctrine', 'business divorce NY', 'judicial dissolution'.
+  Covers **Commercial Division** at 22 NYCRR § 202.70 (separate procedural rule
+  set, county-by-county thresholds, proportionality-in-discovery); BCL fiduciary
+  duty and dissolution; Faithless Servant Doctrine; 9% pre-judgment interest
+  under CPLR 5004; CPLR 3016(b) fraud-pleading particularity; and GOL §§
+  5-1401 / 5-1402 choice-of-law / forum-selection ($250k/$1M thresholds make
+  NY a destination forum).
+version: 0.1.2
 ---
 
 # New York Commercial Litigation

@@ -1,35 +1,17 @@
 ---
 name: tn-landlord-tenant
 description: >
-  Subject-matter bundle for Tennessee landlord-tenant disputes —
-  residential evictions (detainer warrants), the Uniform Residential
-  Landlord and Tenant Act, security deposits, habitability, and
-  retaliation. Triggers include "Tennessee eviction", "detainer
-  warrant", "forcible entry and detainer Tennessee", "URLTA
-  Tennessee", "Uniform Residential Landlord and Tenant Act", "Tenn.
-  Code Ann. 66-28", "Tenn. Code Ann. 66-7", "Tenn. Code Ann. 29-18",
-  "14-day notice Tennessee", "Tennessee notice to quit", "Tennessee
-  security deposit", "Tenn. Code Ann. 66-28-301", "landlord tenant
-  Tennessee", "eviction defense Tennessee", "sued for possession in
-  General Sessions", "possession bond Tennessee", "Tenn. Code Ann.
-  29-18-130", "de novo appeal eviction Tennessee", "Tenn. Code Ann.
-  27-5-108", "Tennessee habitability", "Tenn. Code Ann. 66-28-304",
-  "Tennessee CARES Act 30-day notice", "Tennessee self-help
-  eviction", "Tennessee retaliation", "Tenn. Code Ann. 66-28-514",
-  "Section 8 Tennessee", "Memphis source of income", "Tennessee
-  source of income discrimination", "Schiminger v. Cooperage
-  Project". Covers URLTA's over-75,000-population county
-  applicability threshold (Tenn. Code Ann. § 66-28-102), the general
-  landlord-tenant law for non-URLTA counties at Tenn. Code Ann.
-  § 66-7-101 et seq., the 14-day nonpayment notice (§ 66-28-505)
-  with the CARES Act 30-day overlay for federally-subsidized
-  properties, detainer-warrant practice in General Sessions under
-  Tenn. Code Ann. § 29-18-101 et seq. with the 10-day de novo
-  appeal to Circuit and the possession bond under § 29-18-130, plus
-  security deposits at § 66-28-301, the warranty of habitability
-  under § 66-28-304, the self-help eviction prohibition, retaliation
-  protections, fair-housing overlay, and the tenant-defense posture.
-version: 0.2.0
+  Subject-matter bundle for Tennessee residential landlord-tenant disputes.
+  Covers URLTA (§ 66-28) for counties over 75,000 population vs. general law
+  (§ 66-7) for counties at or below 75,000; 14-day URLTA nonpayment notice
+  (§ 66-28-505) with CARES Act 30-day overlay for federally-subsidized housing
+  (Section 8, LIHTC, federally-backed mortgages); detainer-warrant practice in
+  General Sessions (§ 29-18-101 et seq.) with 10-day de novo appeal to Circuit
+  (§ 27-5-108) and possession bond (§ 29-18-130); security deposits (§
+  66-28-301); warranty of habitability (§ 66-28-304); self-help-eviction
+  prohibition (§ 66-28-504) with 3-month / 3x-damages remedy; retaliation
+  presumption (§ 66-28-514); fair-housing (FHA, THRA); tenant-defense posture.
+version: 0.2.1
 ---
 
 # Tennessee Landlord-Tenant

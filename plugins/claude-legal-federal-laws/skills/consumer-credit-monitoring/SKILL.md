@@ -1,33 +1,22 @@
 ---
 name: consumer-credit-monitoring
 description: >
-  Use this skill to help a consumer apply the proactive, ongoing
-  strategy that generates proof of harm and propagates corrections —
-  the strategic-application and monitoring layer of a Fair Credit
-  Reporting Act (FCRA) matter. Triggers include "should I apply for
-  credit", "generate a denial letter", "I need an adverse action
-  letter", "apply to create proof of harm", "send corrected report to
-  everyone", "notify everyone who pulled my credit", "who pulled my
-  credit report", "soft vs hard inquiry", "re-notify after dispute",
-  "1681i(d)", "annual report review", "review on my birthday",
-  "specialty report review", "check report after data breach",
-  "data breach class action", "convert denial into approval".
-  Covers applying for credit within the last 3-6 months (even with a
-  low score) to generate adverse-action letters that establish harm
-  and standing, demanding the CRA re-send the corrected report to
-  everyone who received it (15 U.S.C. § 1681i(d) — 6-month window for
-  most uses, 2-year for employment), monitoring soft and hard
-  inquiries so every relevant party gets corrected data, re-pulling
-  reports after data-breach notifications, a fixed-date annual review
-  (e.g., birthday) of all Big-3 and specialty reports (insurance,
-  utility, medical, prescription), and the rising-data-breach
-  litigation context. Produces § 1681i(d) re-notification demand
-  letters, annual-review calendars/checklists, and post-breach action
-  checklists. Composes with consumer-report-ordering,
-  consumer-credit-disputes, consumer-report-accuracy,
-  consumer-harm-documentation, the state *-consumer-debt bundles, and
-  the state *-pro-se skills.
-version: 0.1.1
+  Use this skill for FCRA strategy: proof of harm and propagating
+  corrections. Triggers include "should I apply for credit",
+  "generate a denial letter", "adverse action letter", "send
+  corrected report to everyone", "soft vs hard inquiry", "re-notify
+  after dispute", "1681i(d)", "annual report review", "review on
+  my birthday", "check report after data breach". Covers applying
+  for credit to generate adverse-action letters, demanding CRA re-
+  send corrected reports to all recipients (§ 1681i(d) — 6-month /
+  2-year employment), monitoring inquiries, re-pulling after data-
+  breach notices, and annual reviews. Produces § 1681i(d) re-
+  notification demands, annual checklists, and post-breach
+  checklists. Composes with consumer-report-ordering, consumer-
+  credit-disputes, consumer-report-accuracy, consumer-harm-
+  documentation, state *-consumer-debt bundles, and state *-pro-se.
+version: 0.1.3
+version: 0.1.2
 ---
 
 # Consumer Credit Monitoring & Strategy

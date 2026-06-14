@@ -1,23 +1,17 @@
 ---
 name: bia-appeals
 description: >
-  Use this skill to assemble the documents for appealing an immigration judge's
-  decision to the Board of Immigration Appeals (BIA) — the Notice of Appeal
-  (Form EOIR-26), the statement of issues, the optional appeal brief, and the
-  fee-waiver request (Form EOIR-26A). It anchors on the binding regulations at
-  8 CFR § 1003.1–§ 1003.8 and § 1003.38 and on the BIA Practice Manual for
-  mechanics. Triggers include "appeal to the BIA", "Board of Immigration
-  Appeals", "EOIR-26", "notice of appeal immigration", "appeal the immigration
-  judge", "30 days to appeal removal", "BIA brief", "summary dismissal BIA",
-  "fee waiver EOIR-26A", "standard of review BIA", "the IJ denied my case", "I
-  want to appeal my removal order", "how do I write a statement of issues for
-  the BIA". The skill produces an EOIR-26 cover / statement-of-issues scaffold,
-  an appeal-brief outline, and an EOIR-26A fee-waiver cover. It enforces the
-  documents-not-advice boundary and flags the 30-day appeal deadline as
-  jurisdictional and uncurable. Composes with eoir-removal-defense,
-  eoir-motions-to-reopen-reconsider, circuit-petition-for-review,
-  immigration-deadlines, eoir-immigration-courts, and immigration-fact-check.
-version: 0.1.0
+  Use this skill to appeal an immigration judge's decision to the Board of
+  Immigration Appeals (BIA) — assemble the EOIR-26 Notice of Appeal, the
+  statement of issues, the optional brief, and fee-waiver request (EOIR-26A).
+  Triggers: "appeal to the BIA", "EOIR-26", "appeal the immigration judge",
+  "30 days to appeal removal", "BIA brief", "summary dismissal BIA", "I want
+  to appeal my removal order", "statement of issues". Produces EOIR-26 scaffold,
+  appeal-brief outline, and fee-waiver cover. Flags the **30-day appeal
+  deadline as jurisdictional and uncurable** (8 CFR § 1003.38). Composes with
+  eoir-removal-defense, circuit-petition-for-review, immigration-deadlines,
+  and immigration-fact-check.
+version: 0.1.1
 ---
 
 # BIA Appeals — Appealing an Immigration Judge's Decision

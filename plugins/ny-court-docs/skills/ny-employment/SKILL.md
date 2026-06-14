@@ -1,34 +1,19 @@
 ---
 name: ny-employment
 description: >
-  Use when drafting or filing a New York employment-related
-  civil action — workplace discrimination, harassment,
-  retaliation, wage-and-hour violations, whistleblower,
-  WARN Act, restrictive covenants. Triggers include 'NY
-  Exec Law 296', 'NYS Human Rights Law', 'NYS HRL',
-  'NYSHRL', 'NYC Human Rights Law', 'NYC HRL', 'NYCHRL',
-  'NYC Admin Code 8-107', 'NYC Local Law 92', 'NYC Local
-  Law 100', 'Labor Law 740 whistleblower', 'Labor Law 191
-  frequency of pay', 'Labor Law 198 wage theft', 'NYS WARN
-  Act', 'NYS Sexual Harassment Act 2018', 'CROWN Act',
-  'EPL Article 6 worker classification', 'NY Labor Law
-  198-c', 'CPLR 214(2) 3-year statutory', 'EEOC Notice of
-  Right to Sue'. Covers the **New York State Human Rights
-  Law (NY Exec Law § 296)** with its broader-than-Title-VII
-  scope, the **New York City Human Rights Law (NYC Admin
-  Code § 8-107)** — widely considered the broadest civil-
-  rights statute in the country with the *Williams v. NYC
-  Housing Authority* "construed broadly" rule, the 2019
-  reforms expanding the NYS HRL to all employers regardless
-  of size, the Labor Law §§ 191/198 wage-theft regime,
-  Labor Law § 740 whistleblower (post-2022 amendments),
-  the NYS WARN Act (60-day notice for layoffs of 25+), the
-  2018 Sexual Harassment Act, the CROWN Act (race
-  discrimination based on hair), the EEOC charge-of-
-  discrimination exhaustion sequence for federal claims
-  filed concurrently, and the procedural deadlines unique
-  to NY employment practice.
-version: 0.1.0
+  Use when drafting or filing a New York employment action — workplace
+  discrimination, harassment, retaliation, wage-and-hour violations,
+  whistleblower, WARN Act, restrictive covenants. Triggers include 'NY
+  Exec Law 296', 'NYS Human Rights Law', 'NYC Human Rights Law', 'NYC
+  Admin Code 8-107', 'Labor Law 740 whistleblower', 'Labor Law 191 frequency
+  of pay', 'Labor Law 198 wage theft', 'EEOC Notice of Right to Sue'.
+  Covers **NY Exec Law § 296** (NYS HRL, broader-than-Title-VII, all-size
+  coverage post-2019); **NYC Admin Code § 8-107** (broadest civil-rights
+  statute; *Williams v. NYC Housing Authority* construed-broadly rule);
+  Labor Law §§ 191/198 wage-theft; Labor Law § 740 whistleblower (post-2022);
+  NYS WARN Act; 2018 Sexual Harassment Act; CROWN Act; EEOC exhaustion; and
+  NY employment SOLs (1 yr DHR, 3 yr judicial HRL, 6 yr wage theft).
+version: 0.1.2
 ---
 
 # New York Employment Law

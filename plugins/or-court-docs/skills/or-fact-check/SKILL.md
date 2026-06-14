@@ -1,31 +1,20 @@
 ---
 name: or-fact-check
 description: >
-  Use this skill to fact-check an Oregon court filing (or a packet
-  of filings) before it goes out the door. Triggers include "fact
-  check this", "fact-check", "verify citations", "check my
-  citations", "are my cites right", "consistency check", "audit
-  this filing", "cite-check", "verify the law", "verify the
-  facts", "double-check the draft", "check for hallucinations".
-  Runs four passes: (1) **citation verification** — every Or / Or
-  App / P2d / P3d / US / S Ct / F / F3d / ORS / ORCP / OEC / UTCR
-  / SLR / USC / CFR cite resolves to a real source with the
-  claimed holding or text; (2) **internal consistency** — dates,
-  party names, cause number, dollar amounts, paragraph cross-refs
-  all agree within the document; (3) **packet consistency** —
-  caption, parties, cause number, and key facts agree across every
-  document in the packet (motion, declaration, exhibits, order,
-  notice); (4) **sworn-vs.-argued consistency** — no fact recited
-  in a motion contradicts a sworn statement in a declaration.
-  Uses the canonical URLs catalogued in
-  `or-law-references/references/online-sources.md` for citation
-  verification. Composes with `or-quality-check` (format pass),
-  `or-law-references` (citation conventions), and the draft-*
-  skills (re-drafts flagged issues). **This is a verification
-  skill, not a drafting skill** — it flags issues for the user
-  and proposes specific corrections, but does not silently
-  rewrite the filing without the user's review.
-version: 0.1.0
+  Use this skill to fact-check Oregon court filings before filing.
+  Triggers include "fact check", "verify citations", "check my
+  citations", "consistency check", "audit this filing", "cite-
+  check", "check for hallucinations". Runs four passes: (1)
+  **citation verification** — every Or / Or App / P2d / P3d / US /
+  S Ct / F / F3d / ORS / ORCP / OEC cite resolves to a real source;
+  (2) **internal consistency** — dates, party names, cause number,
+  amounts agree within document; (3) **packet consistency** —
+  caption, parties agree across motion, declaration, order, notice;
+  (4) **sworn-vs.-argued consistency** — no motion fact contradicts
+  declaration. Uses canonical URLs in online-sources catalog.
+  Composes with or-quality-check, or-law-references, and draft-*
+  skills. **Verification only** — flags issues; does not rewrite.
+version: 0.1.1
 ---
 
 # Fact-Check Oregon Court Filings

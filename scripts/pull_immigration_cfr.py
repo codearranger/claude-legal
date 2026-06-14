@@ -223,7 +223,9 @@ def main() -> int:
             failed += 1
             continue
         path = out_dir / f"{out_file}.md"
-        path.write_text(md, encoding="utf-8")
+        tmp = path.with_suffix(".md.tmp")
+        tmp.write_text(md, encoding="utf-8")
+        tmp.replace(path)
         wrote += 1
         print(f"  wrote {path} ({len(md):,} bytes)", flush=True)
 
@@ -235,7 +237,10 @@ def main() -> int:
         "mode": "verbatim",
         "notes": "Pulled by scripts/pull_immigration_cfr.py. Curated 8 CFR (DHS ch I + EOIR ch V) and 22 CFR visa/passport parts.",
     }
-    (out_dir / "_manifest.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
+    manifest_path = out_dir / "_manifest.json"
+    tmp = manifest_path.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
+    tmp.replace(manifest_path)
     print(f"Done. Wrote {wrote} part file(s), {failed} failed.", flush=True)
     return 0 if failed == 0 else 1
 

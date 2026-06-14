@@ -1,24 +1,15 @@
 ---
 name: in-law-references
 description: >
-  This skill should be used as the canonical reference catalog for
-  Indiana civil practice — invoke when the user asks "what's the
-  rule for ...", "Indiana Trial Rule ...", "Indiana evidence
-  rule", "Indiana Code section", "Indiana citation format", "where
-  can I find Indiana court rules", "Indiana filing fees",
-  "Indiana judicial holidays", "Indiana Rules of Court", "C.R.S.
-  versus IC", "Indiana attorney general opinion", "Indiana
-  Supreme Court Rule on Citation". Houses the canonical reference
-  corpora for the in-court-docs plugin: Indiana Trial Rules,
-  Indiana Rules of Evidence, Indiana Appellate Rules, Indiana
-  Small Claims Rules, the Indiana Code chapters most relevant to
-  civil practice, the federal-debt-laws and ucc-model corpora
-  shared across state plugins, and the Indiana Supreme Court Rule
-  on Citation. Trigger phrases: "Indiana civil rules", "Ind.
-  Trial R.", "Ind. Evid. R.", "Indiana Code lookup", "IC SOL",
-  "Indiana filing fees", "Indiana legal holidays", "Indiana
-  citation format", "small claims rules Indiana".
-version: 0.1.0
+  Canonical reference catalog for Indiana civil practice. Houses
+  **Indiana Trial Rules**, **Indiana Rules of Evidence**, **Appellate
+  Rules**, **Small Claims Rules**, relevant **IC chapters**, shared
+  **federal-debt-laws** and **UCC model**, and **Indiana Supreme Court
+  Rule on Citation**. Use when asked "what's the rule...", "Indiana
+  Trial Rule...", "Indiana Code...", "filing fees", "legal holidays",
+  "citation format". Triggers: "Indiana civil rules", "Ind. Trial R.",
+  "Ind. Evid. R.", "Indiana Code lookup", "IC SOL".
+version: 0.1.1
 ---
 
 # Indiana Law References — Canonical Catalog

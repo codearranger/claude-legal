@@ -1,39 +1,19 @@
 ---
 name: az-commercial-disputes
 description: >
-  Subject-matter bundle for Arizona commercial / business-to-business
-  civil litigation — contract, trade secret, fraudulent transfer,
-  intracorporate (LLC / corporate) dispute, business-tort, civil
-  racketeering, and arbitration practice. Triggers include "Arizona
-  commercial litigation", "Arizona business dispute", "Maricopa
-  Commercial Court", "Arizona complex commercial case", "Arizona
-  contract breach", "Arizona attorney fees 12-341.01", "A.R.S.
-  12-341.01", "UCC Article 2 Arizona", "A.R.S. 47-2725", "Arizona
-  secured transaction", "A.R.S. 47-9101", "Arizona LLC dispute
-  A.R.S. 29-3101", "Arizona Limited Liability Company Act", "Arizona
-  RULLCA", "Arizona judicial dissolution", "Arizona derivative
-  action", "Arizona Business Corporation Act", "A.R.S. 10-101",
-  "shareholder remedies Arizona", "Arizona trade secret AUTSA",
-  "Arizona Uniform Trade Secrets Act", "A.R.S. 44-401", "Arizona
-  fraudulent transfer", "Uniform Fraudulent Transfer Act Arizona",
-  "A.R.S. 44-1001", "tortious interference Arizona", "Arizona civil
-  conspiracy", "Arizona conversion", "Arizona civil racketeering
-  13-2314.04", "Arizona civil RICO", "Arizona fraud particularity",
-  "Arizona Rule 9(b)", "Arizona arbitration 12-3001", "Arizona
-  Revised Uniform Arbitration Act". Covers the Maricopa County
-  Commercial Court complex-commercial docket, the Arizona UCC at
-  A.R.S. Title 47 (Articles 2 / 3 / 9), the 2019 Arizona LLC Act /
-  Arizona RULLCA at A.R.S. § 29-3101 et seq., the Arizona Business
-  Corporation Act at A.R.S. § 10-101 et seq., the Arizona Uniform
-  Trade Secrets Act at A.R.S. § 44-401 et seq., the Uniform
-  Fraudulent Transfer Act at A.R.S. § 44-1001 et seq., the
-  discretionary contract-action attorney-fee statute at A.R.S.
-  § 12-341.01, business torts including statutory civil racketeering
-  with treble damages at A.R.S. § 13-2314.04, Ariz. R. Civ. P. 9(b)
-  fraud-with-particularity pleading, and the Revised Uniform
-  Arbitration Act at A.R.S. § 12-3001 et seq. plus FAA-preemption
-  practice.
-version: 0.1.0
+  Subject-matter bundle for Arizona commercial / business-to-business civil
+  litigation — contract disputes, trade secret, fraudulent transfer, LLC /
+  corporate disputes, business torts, civil racketeering, arbitration. Triggers:
+  "Arizona commercial litigation", "Arizona business dispute", "Maricopa
+  Commercial Court", "Arizona contract breach", "Arizona attorney fees", "UCC
+  Arizona", "Arizona LLC dispute", "Arizona RULLCA", "Arizona judicial dissolution",
+  "Arizona derivative action", "Arizona trade secret", "Arizona fraudulent
+  transfer", "tortious interference", "Arizona civil RICO", "Arizona fraud
+  particularity", "Arizona arbitration". Covers Maricopa Commercial Court, UCC,
+  LLC Act, Business Corporation Act, Arizona Uniform Trade Secrets Act, Uniform
+  Fraudulent Transfer Act, contract-action attorney-fee statute (A.R.S. §
+  12-341.01), civil racketeering with treble damages, Rule 9(b) fraud pleading.
+version: 0.1.8
 ---
 
 # Arizona Commercial Disputes

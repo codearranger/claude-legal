@@ -1,31 +1,22 @@
 ---
 name: consumer-report-ordering
 description: >
-  Use this skill to help a consumer order ALL of their consumer
-  reports — the Big-3 credit bureaus (Equifax, Experian, TransUnion)
-  AND the nationwide specialty consumer-reporting agencies (insurance
-  / LexisNexis C.L.U.E., employment / The Work Number, tenant-screening,
-  medical / MIB, prescription / Milliman, check & deposit-account /
-  ChexSystems / Early Warning, utility / NCTUE) — so the consumer can
-  fully exercise their Fair Credit Reporting Act (FCRA) rights and
-  surface errors that cause higher interest rates and other financial
-  harm. Triggers include "order my credit report", "get all my credit
-  reports", "annualcreditreport.com", "free credit report", "specialty
-  consumer report", "CLUE report", "ChexSystems", "LexisNexis report",
-  "MIB report", "tenant screening report", "free report after denial",
-  "free report after adverse action", "I was denied credit", "data
-  breach free report", "identity theft free report", "they never sent
-  my report", "bureau missed the deadline". Covers the free-report
-  entitlements (annual, post-adverse-action under 15 U.S.C. § 1681j(b),
-  and the data-breach / identity-theft / public-assistance /
-  unemployment triggers), the specialty-CRA directory, and the private
-  right of action when an agency fails to deliver a report on time
-  (§§ 1681n / 1681o). Produces report-request checklists, specialty-CRA
-  request letters, and post-adverse-action free-report demands.
-  Composes with consumer-credit-disputes, consumer-report-accuracy,
-  consumer-harm-documentation, consumer-credit-monitoring, the state
-  *-consumer-debt bundles, and the state *-pro-se skills.
-version: 0.1.1
+  Use this skill to order all consumer reports: Big-3 bureaus and
+  specialty CRAs (C.L.U.E., The Work Number, tenant-screening, MIB,
+  ChexSystems, NCTUE). Triggers include "order my credit report",
+  "annualcreditreport.com", "free credit report", "specialty
+  report", "CLUE report", "ChexSystems", "free report after adverse
+  action", "I was denied credit", "data breach free report",
+  "identity theft free report". Covers free-report entitlements
+  (annual, post-adverse-action § 1681j(b), data-breach / identity-
+  theft / unemployment), specialty-CRA directory, and non-delivery
+  private right of action (§§ 1681n / 1681o). Produces report-
+  request checklists, specialty-CRA request letters, and post-
+  adverse-action demands. Composes with consumer-credit-disputes,
+  consumer-report-accuracy, consumer-harm-documentation, consumer-
+  credit-monitoring, state *-consumer-debt bundles, and state
+  *-pro-se skills.
+version: 0.1.2
 ---
 
 # Consumer Report Ordering

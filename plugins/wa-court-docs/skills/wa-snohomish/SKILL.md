@@ -1,28 +1,17 @@
 ---
 name: wa-snohomish
 description: >
-  Use when handling a Snohomish County, Washington
-  Superior Court case — civil practice at the **Snohomish
-  County Mission Building courthouse in Everett** (3000
-  Rockefeller Avenue), Washington's third-most-populous
-  county with ~830,000 residents. Snohomish County
-  Superior Court handles general civil + family +
-  criminal + juvenile matters with **Snohomish County
-  Local Rules of Superior Court (SCLR)** overlaying the
-  general CR + GR. Coverage includes Snohomish's **e-
-  filing system**, the case-management order issued under
-  SCLR 16, the family-law calendar at the Mission
-  Building, the Snohomish County Family Law Commissioner
-  system under RCW 2.24, Snohomish's participation in
-  **Mandatory Arbitration of Civil Actions (MAR) under
-  RCW 7.06** (current cap per RCW 7.06.020 and the local
-  MAR order — read from the references corpus), and the
-  Snohomish County General Order on remote hearings.
-  Triggers include "Snohomish County Superior Court",
-  "Everett Superior Court", "SCLR", "Snohomish local
-  rules", "Snohomish County e-filing", "Snohomish County
-  family law", "Snohomish MAR".
-version: 0.2.0
+  Use when handling a Snohomish County, Washington Superior Court case —
+  civil practice at the Mission Building courthouse in Everett (3000
+  Rockefeller Avenue), third-most-populous county (~830,000 residents).
+  Covers general civil + family + criminal + juvenile with Snohomish County
+  Local Rules of Superior Court (SCLR) overlaying CR + GR. Coverage includes
+  e-filing system, case-management order (SCLR 16), family-law calendar at
+  Mission Building, Family Law Commissioner system (RCW 2.24), Mandatory
+  Arbitration participation (RCW 7.06), and remote-hearing orders. Appeals
+  route to Division I (Seattle). Triggers include "Snohomish County Superior
+  Court", "Everett Superior Court", "SCLR".
+version: 0.2.1
 ---
 
 # Snohomish County Superior Court — Venue Skill

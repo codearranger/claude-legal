@@ -1,37 +1,20 @@
 ---
 name: mi-employment
 description: >
-  Subject-matter bundle for Michigan employment matters —
-  workplace discrimination, harassment, retaliation, wage-and-hour
-  claims, whistleblower, non-compete, and the workers'-disability-
-  compensation exclusive-remedy regime. Triggers include "Michigan
-  employment", "Michigan employment discrimination", "Elliott-Larsen
-  ELCRA", "Elliott-Larsen Civil Rights Act", "MCL 37.2101", "Michigan
-  sexual orientation gender identity discrimination", "Rouch World",
-  "Persons with Disabilities Civil Rights Act", "PWDCRA", "MCL
-  37.1101", "Michigan whistleblower", "Whistleblowers' Protection
-  Act", "MCL 15.361", "Michigan unpaid wages", "Payment of Wages and
-  Fringe Benefits Act", "MCL 408.471", "Michigan final paycheck",
-  "Michigan minimum wage 2025", "Improved Workforce Opportunity Wage
-  Act", "Michigan Earned Sick Time Act", "Mothering Justice v
-  Attorney General", "Michigan non-compete", "Michigan restrictive
-  covenant", "Michigan Antitrust Reform Act", "MARA", "MCL 445.774a",
-  "Michigan wrongful termination", "at-will Michigan Toussaint",
-  "Toussaint v Blue Cross", "legitimate expectations Michigan",
-  "workers comp exclusive remedy Michigan", "Worker's Disability
-  Compensation Act", "MCL 418.131". Covers ELCRA at MCL 37.2101 et
-  seq. (1+ employee coverage; the 2023 amendment and Rouch World
-  adding sexual orientation and gender identity; no damages cap), the
-  PWDCRA at MCL 37.1101 et seq., the WPA at MCL 15.361 et seq. (90-day
-  SOL), the Payment of Wages and Fringe Benefits Act at MCL 408.471 et
-  seq., the Improved Workforce Opportunity Wage Act minimum wage at MCL
-  408.931 et seq. and the Earned Sick Time Act as reinstated by
-  Mothering Justice and amended Feb. 21, 2025, the Toussaint
-  legitimate-expectations exception to at-will employment, non-compete
-  reasonableness under MARA at MCL 445.774a, and the workers'-
-  compensation exclusive remedy with the intentional-tort exception
-  at MCL 418.131.
-version: 0.1.0
+  Subject-matter bundle for Michigan employment matters: discrimination,
+  harassment, retaliation, wage-and-hour, whistleblower, non-compete, and
+  workers'-compensation exclusive remedy. Triggers include "Michigan
+  employment discrimination", "Elliott-Larsen ELCRA MCL 37.2101", "PWDCRA
+  MCL 37.1101", "MCL 15.361" whistleblower, "Michigan minimum wage", "MCL
+  408.471" Payment of Wages Act, "Mothering Justice", "MARA MCL 445.774a"
+  non-compete, "MCL 418.131" workers' comp exclusive remedy. Covers ELCRA
+  (1+ employee; 2023 amendment adding sexual orientation/gender identity);
+  PWDCRA; WPA (90-day SOL); Payment of Wages and Fringe Benefits Act; minimum
+  wage and Earned Sick Time Act (as amended Feb. 21, 2025 by Mothering
+  Justice); Toussaint legitimate-expectations at-will exception; MARA
+  non-compete reasonableness; workers'-compensation exclusive remedy with
+  intentional-tort exception.
+version: 0.2.0
 ---
 
 # Michigan Employment Law

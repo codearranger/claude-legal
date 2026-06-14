@@ -1,21 +1,17 @@
 ---
 name: circuit-petition-for-review
 description: >
-  Use this skill to assemble and orient a **petition for review (PFR)** of a
-  FINAL order of removal in a U.S. Court of Appeals under INA § 242 / 8 U.S.C.
-  § 1252 — the exclusive vehicle for judicial review of a removal order, filed
-  with the circuit court (NOT EOIR). Triggers include "petition for review",
-  "appeal removal to federal court", "court of appeals immigration", "PFR",
-  "INA 242", "8 USC 1252", "stay of removal", "30 days to petition for review",
-  "BIA denied my appeal what next", "judicial review removal order",
-  "exhaustion immigration appeal", "circuit court immigration appeal", "final
-  order of removal review". The skill drafts a PFR caption/notice scaffold, a
-  filing checklist (the jurisdictional 30-day deadline, venue, exhaustion, the
-  certified administrative record), a stay-of-removal motion outline, and an
-  exhaustion worksheet. It enforces the documents-not-advice boundary and flags
-  loudly that the 30-day deadline is jurisdictional and uncurable and that
-  federal appellate counsel is strongly advised.
-version: 0.1.0
+  Use this skill to file a petition for review (PFR) of a final removal order
+  in a U.S. Court of Appeals under INA § 242 / 8 U.S.C. § 1252 — judicial
+  review of a removal order (filed with the circuit court, NOT EOIR). Triggers:
+  "petition for review", "court of appeals immigration", "PFR", "INA 242",
+  "30 days to petition for review", "stay of removal", "exhaustion immigration
+  appeal", "judicial review removal order", "federal court immigration appeal".
+  Drafts PFR caption scaffold, filing checklist (venue, exhaustion, certified
+  record), stay-of-removal motion outline. Flags the **30-day deadline is
+  jurisdictional and uncurable** (INA § 242(b)(1)). Composes with bia-appeals,
+  immigration-deadlines, and immigration-fact-check.
+version: 0.1.1
 ---
 
 # Immigration — Circuit Petition for Review (PFR)

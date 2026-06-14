@@ -2,35 +2,22 @@
 name: or-consumer-debt
 description: >
   Use this skill for Oregon consumer-debt defense — debt-buyer
-  suits, original-creditor collection cases, and any matter
-  turning on the FDCPA, CFPB Regulation F, the Oregon Collection
-  Agency Registration Act (ORS 697.005 et seq.), or the Oregon
-  Unlawful Trade Practices Act (UTPA, ORS 646.605 et seq.) as
-  applied to debt collection. Triggers include "debt buyer", "I
-  was sued on a credit card", "collection agency sued me",
-  "FDCPA", "1692e", "1692f", "1692g", "validation notice",
-  "Regulation F", "12 CFR 1006", "UTPA", "Oregon Unlawful Trade
-  Practices", "ORS 646.605", "ORS 646.608", "ORS 646.638", "ORS
-  697", "ORS 697.005", "ORS 697.015", "ORS 697.058", "UTPA
-  counterclaim", "statute of limitations on this debt", "ORS
-  12.080", "time-barred debt", "zombie debt", "re-aged debt",
-  "chain of title", "bill of sale", "assignment schedule",
-  "original cardholder agreement", "monthly statements",
-  "Certificate of Indebtedness", "remote custodian", "OEC 803
-  business records", "OEC 901 authentication", "OEC 902(11)",
-  "CACH", "Unifund", "Palisades", "Midland", "Portfolio
-  Recovery", "LVNV", "Velocity Investments", "Jefferson
-  Capital", "unlicensed collection agency in Oregon", "DCBS
-  registration", "Phillips v. Beaverton". Subject-matter
-  bundle of FDCPA / Reg F / Oregon UTPA / ORS 697 substantive
-  law plus chain-of-title doctrine and discovery banks (RFPs,
-  RFAs) for debt-defense litigation in Oregon circuit court.
-  Composes with all matter-neutral procedural skills
-  (or-statewide-format, or-multcc / or-wccc / or-county-courts,
-  or-pro-se, or-law-references, or-discovery, or-first-30-days,
-  or-fact-check, or-deadlines, or-post-judgment, and all
-  draft-* skills).
-version: 0.1.1
+  suits and collection cases turning on FDCPA, Regulation F, ORS
+  697 (Collection Agency Registration Act), or Oregon UTPA (ORS
+  646.605 et seq.). Triggers include "debt buyer", "collection
+  agency sued me", "FDCPA", "1692e", "1692f", "1692g",
+  "validation notice", "Regulation F", "UTPA", "ORS 697", "time-
+  barred debt", "zombie debt", "re-aged debt", "chain of title",
+  "bill of sale", "assignment schedule", "cardholder agreement",
+  "unlicensed collection agency", "DCBS registration". Subject-
+  matter bundle covering FDCPA / Reg F / Oregon UTPA / ORS 697
+  substantive law, chain-of-title doctrine, and RFP/RFA banks
+  for debt-defense litigation. Composes with or-statewide-format,
+  or-multcc / or-wccc / or-county-courts, or-pro-se,
+  or-law-references, or-discovery, or-first-30-days,
+  or-fact-check, or-deadlines, or-post-judgment, and draft-*
+  skills.
+version: 0.1.2
 ---
 
 # Oregon Consumer-Debt Defense

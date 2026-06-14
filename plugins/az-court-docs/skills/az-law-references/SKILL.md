@@ -1,35 +1,20 @@
 ---
 name: az-law-references
 description: >
-  Matter-neutral reference catalog for Arizona civil practice. Contains
-  the Arizona Rules of Civil Procedure (Ariz. R. Civ. P.) map — pleadings
-  (Rules 7-15), the distinctive mandatory initial disclosure under Rule
-  26.1, the tiered-case discovery system under Rule 26.2 (Tier 1/2/3 by
-  amount in controversy), interrogatories (Rule 33), production (Rule 34),
-  admissions (Rule 36), depositions (Rule 30), summary judgment (Rule 56),
-  dismissal (Rule 12(b)(6)), default (Rule 55), judgments (Rules 54/58),
-  new trial (Rule 59), relief (Rule 60), and compulsory arbitration (Rules
-  72-77); the separate Arizona Rules of Family Law Procedure (ARFLP) that
-  govern Title 25 cases; the Arizona Rules of Evidence (Ariz. R. Evid.)
-  map with the business-records exception (Rule 803(6)), self-
-  authentication (Rule 902(11)), and Arizona's adoption of Daubert by rule
-  (Rule 702); the fees-and-costs framework (A.R.S. § 12-341 prevailing-
-  party costs, § 12-341.01 discretionary attorney fees in contract
-  actions, Rule 68 offer of judgment, § 12-302 deferral/waiver); Bluebook-
-  based Arizona citation conventions; landmark Arizona civil and family
-  precedents; and the canonical online-sources and data-API catalog.
-  Triggers include "Arizona civil rule", "Ariz. R. Civ. P.", "Rule 26.1",
-  "Rule 26.2", "Arizona tier", "tiered discovery", "Arizona summary
-  judgment", "Rule 56 Arizona", "compulsory arbitration", "Arizona
-  evidence rule", "Ariz. R. Evid.", "Rule 803(6)", "ARFLP", "Arizona
-  family law procedure", "A.R.S. § ...", "Arizona Revised Statutes",
-  "Arizona citation format", "what's the Arizona rule on X", "look up
-  Arizona law on X", "azcourts.gov", "azleg.gov", "Ariz.", "P.3d". Other
-  skills cite this one for rule numbers, statute citations, and case
-  authorities; the heavy reference corpora (court-rules, az-statutes-debt,
-  federal-debt-laws, federal-bankruptcy, ucc-model) live in this skill's
-  `references/` subdirectory.
-version: 0.1.0
+  Matter-neutral reference catalog for Arizona civil practice. Contains Ariz.
+  R. Civ. P. maps (pleadings, mandatory initial disclosure Rule 26.1, tiered-case
+  discovery Rule 26.2 Tier 1/2/3, interrogatories, production, admissions,
+  depositions, summary judgment, default, judgments, relief, compulsory
+  arbitration); separate ARFLP (Arizona Rules of Family Law Procedure); Ariz.
+  R. Evid. including business-records (Rule 803(6)), self-authentication (Rule
+  902(11)), Daubert adoption (Rule 702); fees-and-costs framework; Bluebook
+  citation conventions; landmark precedents; online-sources/data-API catalog.
+  Triggers: "Arizona civil rule", "Ariz. R. Civ. P.", "Rule 26.1", "Rule 26.2",
+  "tiered discovery", "Arizona summary judgment", "compulsory arbitration",
+  "Arizona evidence rule", "Ariz. R. Evid.", "ARFLP", "A.R.S. § ...", "Arizona
+  citation format", "look up Arizona law on X". Host skill for reference
+  corpora.
+version: 0.1.2
 ---
 
 # Arizona Law References

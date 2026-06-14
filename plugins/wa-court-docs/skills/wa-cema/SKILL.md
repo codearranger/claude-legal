@@ -1,29 +1,17 @@
 ---
 name: wa-cema
 description: >
-  Use this skill for Washington Commercial Electronic Mail Act
-  (CEMA, RCW 19.190) matters — claims (or defense) over commercial
-  spam e-mail and commercial text messages sent to Washington
-  residents with a false or misleading subject line or a
-  misrepresented transmission path. Triggers include "CEMA",
-  "Commercial Electronic Mail Act", "RCW 19.190", "19.190.020",
-  "19.190.030", "19.190.040", "spam email lawsuit", "spam text
-  message", "false subject line", "misleading subject line",
-  "deceptive subject line", "$500 per email", "commercial electronic
-  mail message", "commercial electronic text message", "CAN-SPAM",
-  "CAN-SPAM preemption", "Old Navy", "Brown v. Old Navy", "Wright v.
-  Lyft", "Chen v. Sur La Table", "per se CPA violation spam",
-  "class action spam Washington", "header falsification", "from line
-  spoofing", "promotional email subject line". Covers the CEMA
-  elements, the post-2025 *Brown v. Old Navy* broad reading of the
-  subject-line prohibition, the per se Consumer Protection Act route
-  and CEMA's $500 statutory damages, common defenses (CAN-SPAM
-  savings-clause preemption, the commercial-purpose gate, consent,
-  the pending 2026 amendment), and fact-pattern triage. Composes with
-  wa-consumer-debt (the CPA / Hangman Ridge framework), wa-first-30-days,
-  wa-discovery, wa-draft-motion / -declaration, wa-law-references,
-  wa-statewide-format, and wa-pro-se.
-version: 0.1.0
+  Use this skill for Washington Commercial Electronic Mail Act (CEMA, RCW
+  19.190) matters — claims or defense over commercial spam e-mail and text
+  messages with false/misleading subject lines or misrepresented transmission
+  paths. Triggers include "CEMA", "Commercial Electronic Mail Act", "RCW
+  19.190", "spam email lawsuit", "spam text message", "false subject line",
+  "misleading subject line", "$500 per email", "commercial electronic mail",
+  "CAN-SPAM", "Brown v. Old Navy". Covers CEMA elements, the Brown v. Old Navy
+  subject-line construction, per se CPA route, $500 statutory damages per
+  message (no actual-damages requirement), common defenses (CAN-SPAM
+  preemption, commercial-purpose gate, consent), and fact-pattern triage.
+version: 0.1.1
 ---
 
 # Washington CEMA — Commercial Electronic Mail Act (RCW 19.190)

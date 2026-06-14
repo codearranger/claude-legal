@@ -1,25 +1,20 @@
 ---
 name: ca-discovery
 description: >
-  Use when drafting, responding to, or compelling discovery in a
-  California civil case across any subject matter. Triggers include
-  "requests for production", "RFP", "RFA", "requests for admission",
-  "interrogatories", "specially prepared interrogatories", "form
-  interrogatories", "DISC-001", "DISC-002", "deposition", "meet and
-  confer", "motion to compel", "motion to compel further", "discovery
-  cutoff", "CCP 2030", "CCP 2031", "CCP 2033", "2024.020", "rule of
-  35", "separate statement", "CRC 3.1345", "discovery objections",
-  "privilege log", "protective order", "45-day deadline", "discovery
-  sanctions", "CCP 2023.030". Covers the California Civil Discovery
-  Act (CCP §§ 2016.010 et seq.): discovery scope, the six methods,
-  interrogatory limits, the Rule of 35, meet-and-confer requirements,
-  the 45-day jurisdictional deadline for motions to compel further
-  responses, mandatory separate statements, and monetary sanctions
-  under CCP § 2023.030. Subject-matter-specific request banks
-  (chain-of-title RFPs, consumer-debt RFAs) live with ca-consumer-debt.
-  Compose with ca-statewide-format, ca-pro-se, ca-law-references,
-  ca-draft-motion, and ca-fact-check.
-version: 0.1.0
+  Use when drafting, responding to, or compelling discovery in
+  California civil cases. Triggers include "requests for production",
+  "RFP", "RFA", "interrogatories", "specially prepared
+  interrogatories", "form interrogatories", "DISC-001",
+  "deposition", "meet and confer", "motion to compel", "discovery
+  cutoff", "rule of 35", "separate statement", "CRC 3.1345",
+  "discovery objections", "privilege log", "45-day deadline",
+  "discovery sanctions". Covers California Civil Discovery Act
+  (CCP §§ 2016.010 et seq.): scope, six methods, interrogatory
+  limits, Rule of 35, meet-and-confer requirements, 45-day
+  jurisdictional deadline for motions to compel further,
+  mandatory separate statements, and sanctions under CCP
+  § 2023.030.
+version: 0.1.1
 ---
 
 # California Discovery — Procedural Reference

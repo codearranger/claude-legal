@@ -579,7 +579,9 @@ def main() -> int:
         out_dir = out_root / corpus
         out_dir.mkdir(parents=True, exist_ok=True)
         path = out_dir / f"{short}.md"
-        path.write_text(md, encoding="utf-8")
+        tmp = path.with_suffix(".md.tmp")
+        tmp.write_text(md, encoding="utf-8")
+        tmp.replace(path)
         print(f"  wrote {path} ({len(md):,} bytes)", flush=True)
 
     # ----- CFR -----
@@ -596,7 +598,9 @@ def main() -> int:
         out_dir = out_root / corpus
         out_dir.mkdir(parents=True, exist_ok=True)
         path = out_dir / f"{short}.md"
-        path.write_text(md, encoding="utf-8")
+        tmp = path.with_suffix(".md.tmp")
+        tmp.write_text(md, encoding="utf-8")
+        tmp.replace(path)
         print(f"  wrote {path} ({len(md):,} bytes)", flush=True)
 
     return 0

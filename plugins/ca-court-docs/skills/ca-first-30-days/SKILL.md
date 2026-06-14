@@ -1,33 +1,20 @@
 ---
 name: ca-first-30-days
 description: >
-  Use this skill when a California defendant has just been served
-  with a civil summons and complaint and the response window is
-  running. Triggers include "I was just served in California",
-  "I got served with a summons and complaint", "California summons
-  — what do I do", "how much time do I have to respond", "deadline
-  to answer a California complaint", "30 days to answer", "first
-  steps after being sued in California", "answer the complaint
-  California", "should I file a demurrer", "meet and confer
-  CCP 430.41", "motion to strike California", "anti-SLAPP motion
-  California CCP 425.16", "affirmative defenses California",
-  "general denial CCP 431.30", "cross-complaint California",
-  "compulsory counterclaim California", "default California
-  CCP 585", "how to avoid default California". Covers the matter-
-  neutral from-service-through-response-filed window in California:
-  CCP § 412.20(a)(3) 30-day response window (plus 10 days for mail
-  under § 415.30(c)); response options (Answer, General Demurrer
-  under §§ 430.10(e)/(f), Motion to Strike under § 435, Anti-SLAPP
+  Use when a California defendant has just been served with a
+  summons and complaint. Triggers include "I was just served",
+  "I got served with a summons", "how much time to respond",
+  "deadline to answer a California complaint", "30 days to answer",
+  "first steps after being sued", "should I file a demurrer",
+  "motion to strike California", "anti-SLAPP motion", "affirmative
+  defenses", "cross-complaint", "default California". Covers the
+  from-service-through-response window: CCP § 412.20(a)(3) 30-day
+  response (plus 10 days for mail); response options (Answer,
+  Demurrer under § 430.10, Motion to Strike under § 435, Anti-SLAPP
   under § 425.16, Motion to Quash under § 418.10, Cross-Complaint
-  under §§ 426.10–426.50); mandatory meet-and-confer before demurrer
-  (§ 430.41) and motion to strike (§ 435.5); affirmative defenses
-  and verification rules; default and default judgment under § 585.
-  For subject-matter-specific defenses and counterclaims, compose
-  with the relevant subject-matter skill (e.g., ca-consumer-debt
-  for debt-collection cases). Composes with ca-deadlines, ca-draft-
-  motion, ca-draft-declaration, ca-quality-check, ca-fact-check,
-  ca-file-packet, and (if default already entered) ca-post-judgment.
-version: 0.1.0
+  under §§ 426.10–426.50); mandatory meet-and-confer; affirmative
+  defenses; default procedures under § 585.
+version: 0.1.1
 ---
 
 # California — First 30 Days After Service

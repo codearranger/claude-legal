@@ -1,26 +1,20 @@
 ---
 name: az-first-30-days
 description: >
-  Use when an Arizona defendant has just been served with a civil
-  complaint or summons. Triggers include "I got served Arizona",
-  "answer an Arizona complaint", "I was sued in Arizona", "served with
-  a summons in Arizona", "20 days to answer Arizona", "30 days to
-  answer Arizona", "affirmative defenses Arizona Rule 8(d)", "Arizona
-  Rule 12(a) answer deadline", "motion to dismiss Arizona Rule
-  12(b)(6)", "Rule 12(b)(6) Arizona", "set aside default Arizona Rule
-  55", "entry of default Arizona", "default judgment Arizona",
-  "counterclaim Arizona Rule 13", "jury demand Arizona Rule 38",
-  "compulsory arbitration Arizona", "first 30 days after being sued in
-  Arizona". Covers the Ariz. R. Civ. P. 12(a) answer window (20 days
-  served in-state / 30 days served out-of-state), the Rule 8 form of an
-  answer with Rule 8(c) admissions/denials and Rule 8(d) affirmative
-  defenses, the Rule 12(b) motion-to-dismiss grounds (incl. 12(b)(6)
-  failure to state a claim and conversion to Rule 56 summary judgment),
-  the Rule 55 entry-of-default / cure-window / set-aside framework, Rule
-  13 compulsory and permissive counterclaims, Rule 38 jury demand, and —
-  prominently — the Rules 72-77 compulsory-arbitration program for cases
-  under the county's jurisdictional limit.
-version: 0.1.0
+  Use when an Arizona defendant has just been served with a civil complaint
+  or summons. Triggers: "I got served Arizona", "answer an Arizona complaint",
+  "I was sued in Arizona", "served with a summons in Arizona", "20 days to
+  answer Arizona", "affirmative defenses Arizona Rule 8(d)", "motion to dismiss
+  Arizona Rule 12(b)(6)", "set aside default Arizona Rule 55", "entry of default
+  Arizona", "counterclaim Arizona Rule 13", "jury demand Arizona Rule 38",
+  "compulsory arbitration Arizona", "first 30 days after being sued in Arizona".
+  Covers Ariz. R. Civ. P. 12(a) answer window (20 days in-state / 30 days
+  out-of-state), Rule 8 answer with admissions/denials, Rule 8(d) affirmative
+  defenses (WAIVER RISK if omitted), Rule 12(b) motion-to-dismiss grounds,
+  Rule 55 default entry / set-aside, Rule 13 counterclaims, Rule 38 jury
+  demand, Rules 72-77 compulsory arbitration program keyed to county dollar
+  threshold.
+version: 0.1.2
 ---
 
 # Arizona — First 30 Days After Service

@@ -1,6 +1,6 @@
 {
   "name": "ny-court-docs",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "dependencies": [
     "claude-legal-federal-laws",
     {

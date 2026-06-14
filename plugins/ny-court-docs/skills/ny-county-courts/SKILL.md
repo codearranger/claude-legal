@@ -1,26 +1,19 @@
 ---
 name: ny-county-courts
 description: >
-  Use when filing in a New York **Supreme Court** Civil Term
-  other than the five flagship counties (New York, Kings,
-  Bronx, Nassau, Queens). Triggers include 'Suffolk County
-  Supreme Court', 'Westchester County Supreme Court', 'Erie
-  County Supreme Court', 'Monroe County Supreme Court',
-  'Onondaga County Supreme Court', 'Richmond County Supreme
-  Court' (Staten Island), 'Rockland Supreme', 'Albany
-  Supreme', 'Orange Supreme', 'Dutchess Supreme', 'Saratoga
-  Supreme', 'Oneida Supreme', 'Niagara Supreme', 'Onondaga
-  Supreme'. Now narrowly scoped to **Supreme Court Civil
-  Term** only — the long-tail roll-up of upstate Supreme
-  Courts plus Richmond. For other civil-court layers use the
-  dedicated skills: `ny-nyc-civil-court` (NYC Civil Court
-  $50k cap, 5 boroughs), `ny-nyc-housing-court` (RPAPL Art
-  7 summary proceedings in NYC), `ny-nassau-dc` /
-  `ny-suffolk-dc` (Long Island UDCA District Courts $15k
-  cap), `ny-city-courts` (upstate UCCA City Courts $15k
-  cap), `ny-justice-courts` (Town & Village UJCA Justice
-  Courts $3k cap).
-version: 0.3.0
+  Use when filing in a New York **Supreme Court** Civil Term other
+  than the five flagship counties (New York, Kings, Bronx, Nassau,
+  Queens). Triggers include 'Suffolk County Supreme Court', 'Westchester
+  County Supreme Court', 'Erie County Supreme Court', 'Monroe County
+  Supreme Court', 'Onondaga Supreme', 'Richmond County Supreme Court'
+  (Staten Island). Now narrowly scoped to **Supreme Court Civil Term**
+  only — the long-tail roll-up of upstate Supreme Courts plus Richmond.
+  For other civil-court layers use dedicated skills: `ny-nyc-civil-court`
+  (NYC Civil Court $50k cap), `ny-nyc-housing-court` (RPAPL Art 7 summary
+  proceedings), `ny-nassau-dc` / `ny-suffolk-dc` (Long Island UDCA District
+  Courts $15k cap), `ny-city-courts` (upstate UCCA City Courts $15k cap),
+  `ny-justice-courts` (Town & Village UJCA Justice Courts $3k cap).
+version: 0.3.1
 ---
 
 # New York County Courts — Long-tail Roll-up

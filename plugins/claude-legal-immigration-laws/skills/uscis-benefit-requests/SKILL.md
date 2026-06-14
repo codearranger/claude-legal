@@ -1,25 +1,18 @@
 ---
 name: uscis-benefit-requests
 description: >
-  Use this skill to assemble the paperwork for a USCIS benefit request — the
-  DHS/USCIS forum that adjudicates petitions and applications on the papers,
-  NOT the EOIR immigration court. It drafts the cover letter, the tabbed
-  evidence index / exhibit list, the response to a Request for Evidence (RFE)
-  or Notice of Intent to Deny (NOID), and an expedite-request letter, and it
-  explains the "initial evidence" concept under 8 CFR § 103.2(b). Triggers
-  include "USCIS cover letter", "I-130 cover letter", "adjustment of status
-  package", "received an RFE", "request for evidence", "respond to RFE", "how
-  to respond to USCIS", "NOID", "notice of intent to deny", "evidence index
-  immigration", "exhibit list USCIS", "expedite request USCIS", "I-485
-  package", "naturalization N-400 package", "I-140 cover letter", "case status
-  receipt number". The skill drills the cardinal RFE/NOID rules: respond by the
-  deadline PRINTED ON THE NOTICE (never assume a fixed number of days), address
-  every item, and submit ALL evidence at once — a partial response is
-  adjudicated on the record as filed (8 CFR § 103.2(b)(11)). It produces
-  documents, not legal strategy; substantive eligibility analysis routes to a
-  licensed immigration attorney. Composes with immigration-pro-se,
-  immigration-deadlines, immigration-foia, and immigration-fact-check.
-version: 0.1.0
+  Use this skill to assemble paperwork for a USCIS benefit request (DHS/USCIS
+  forum adjudicating petitions and applications on papers, NOT immigration
+  court). Drafts cover letter, tabbed evidence index, RFE/NOID responses,
+  expedite letter. Explains initial evidence under 8 CFR § 103.2(b). Triggers:
+  "USCIS cover letter", "I-130", "adjustment of status package", "received an
+  RFE", "respond to RFE", "NOID", "notice of intent to deny", "evidence index",
+  "exhibit list", "I-485 package", "N-400 package", "receipt number". Cardinal
+  rules: **respond by deadline PRINTED ON NOTICE** (never assume days); address
+  every item; **submit ALL evidence at once** — partial response adjudicated as
+  filed (8 CFR § 103.2(b)(11)). Produces documents, not strategy. Composes with
+  immigration-pro-se, immigration-deadlines, and immigration-fact-check.
+version: 0.1.1
 ---
 
 # USCIS Benefit Requests — Cover Letters, Evidence Indexes, RFE/NOID Responses

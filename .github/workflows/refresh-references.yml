@@ -101,9 +101,11 @@ jobs:
       # only write output after a unit fully completes, so a timed-out
       # step leaves the existing files untouched.
       #
-      # Excluded everywhere:
-      #   - pull_ca_statutes.py — known content regression
-      #   - pull_co_court_rules.py — TODO (CO court-rules puller not yet implemented)
+      # Curated-content guards: 19 of the 33 ca-statutes-debt files are
+      # hand-authored curated summaries, not puller output.
+      # pull_ca_statutes.py skips any existing file without its verbatim
+      # marker (override: --overwrite-curated), so the CA statutes step
+      # below refreshes only the puller-produced verbatim files.
 
       # ---- federal — shared corpus consumed by every state plugin ----
       - name: Federal — debt laws
@@ -202,6 +204,12 @@ jobs:
         continue-on-error: true
         timeout-minutes: 10
         run: python3 scripts/pull_ca_court_rules.py --workers 8
+
+      - name: CA — statutes (verbatim files only; curated files are guard-skipped)
+        if: matrix.target == 'ca'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_ca_statutes.py --workers 8
 
       # ---- CO ----
       - name: CO — statute corpus (titles 4, 5, 6, 13, 14, 24)

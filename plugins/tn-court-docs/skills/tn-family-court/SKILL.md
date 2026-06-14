@@ -1,23 +1,17 @@
 ---
 name: tn-family-court
 description: >
-  This skill should be used to choose a venue and handle filing
-  mechanics for a Tennessee divorce / domestic-relations case heard in
-  the general-jurisdiction trial courts — Circuit Court or Chancery
-  Court. Use it for where to file a divorce, the Circuit-vs-Chancery
-  choice, intake, the permanent-parenting-plan requirement, mediation
-  expectations, and self-represented divorce. Triggers include "where
-  do I file for divorce in Tennessee", "Circuit Court divorce
-  Tennessee", "Chancery Court divorce Tennessee", "Tennessee divorce
-  venue", "Tenn. Code Ann. 36-4-101", "Tennessee divorce filing",
-  "divorce in Tennessee", "Tennessee parenting plan filing",
-  "Tennessee marital dissolution agreement", "uncontested divorce
-  Tennessee", "Tennessee divorce clerk and master", "Tennessee
-  divorce residency". A venue skill for Tennessee divorce and
-  custody/support incident to divorce and between married parents
-  (Circuit + Chancery); defers substantive Title 36 law to
-  tn-family-law and document form to tn-statewide-format.
-version: 0.1.0
+  Venue skill for Tennessee divorce and custody/support matters in Circuit or
+  Chancery Courts. Covers where to file, Circuit-vs-Chancery choice, intake
+  mechanics, jurisdiction and venue confirmation, permanent-parenting-plan
+  requirement, UCCJEA allegations (home-state jurisdiction), mediation
+  expectations, mandatory parenting-education seminar, self-represented (pro
+  se) divorce packets, filing fees / fee waivers, service of process, and the
+  60/90-day irreconcilable-differences waiting period (§ 36-4-103). Defers
+  substantive Title 36 law (grounds, equitable distribution, child support,
+  alimony, parenting-plan best-interest factors, UCCJEA/UIFSA, relocation) to
+  `tn-family-law` and document format to `tn-statewide-format`.
+version: 0.1.1
 ---
 
 # Tennessee Family Court — Circuit and Chancery

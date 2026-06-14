@@ -1,24 +1,16 @@
 ---
 name: mi-circuit-courts
 description: >
-  This skill should be used when filing in a Michigan circuit
-  court other than Wayne County (Third Circuit) or Oakland County
-  (Sixth Circuit), which have their own overlay skills. Covers
-  the most-populous circuits as a directory — Macomb (16th), Kent
-  (17th, Grand Rapids), Genesee (7th, Flint), Washtenaw (22nd,
-  Ann Arbor), Ingham (30th, Lansing), Kalamazoo (9th), Ottawa
-  (20th), Saginaw (10th) — plus how to find any county's circuit
-  and its local administrative orders. Triggers include "Michigan
-  circuit court", "Macomb circuit court", "Kent County circuit
-  Grand Rapids", "Genesee circuit Flint", "Washtenaw circuit Ann
-  Arbor", "Ingham circuit Lansing", "Kalamazoo circuit court",
-  "Ottawa County circuit", "Saginaw circuit court", "which
-  circuit court Michigan", "what circuit is my county in", "find
-  my county's local administrative order", and "Michigan Business
-  Court". Tells the reader to confirm the specific circuit's local
-  rules and MiFILE e-filing status before relying on any
-  specific. Layer on top of `mi-statewide-format`.
-version: 0.1.0
+  Use when filing in a Michigan circuit court other than Wayne (Third) or
+  Oakland (Sixth), which have dedicated skills. Covers most-populous circuits
+  (Macomb 16th, Kent 17th, Genesee 7th, Washtenaw 22nd, Ingham 30th,
+  Kalamazoo 9th, Ottawa 20th, Saginaw 10th) with directory of counties and
+  circuits. Triggers include "Michigan circuit court", "Macomb circuit",
+  "Kent County circuit", "which circuit court Michigan", "Michigan Business
+  Court", "find my county's local administrative order". Layer on top of
+  `mi-statewide-format`. Confirm the circuit's local rules and MiFILE
+  e-filing status before filing.
+version: 0.2.0
 ---
 
 # Michigan Circuit Courts — Roll-Up

@@ -1,27 +1,20 @@
 ---
 name: ny-landlord-tenant
 description: >
-  Subject-matter bundle for New York landlord-tenant defense
-  and prosecution — particularly residential summary
-  proceedings under RPAPL Article 7. Triggers include
-  'eviction defense New York', 'NYC Housing Court', 'RPAPL
-  711 holdover', 'RPAPL 731 nonpayment', 'RPAPL 741
-  petition', 'CPLR 411 special proceeding', 'HSTPA 2019',
-  'Housing Stability and Tenant Protection Act', 'Good
-  Cause Eviction Law 2024', 'rent stabilization', 'Loft Law',
-  'RPL 235-b warranty of habitability', 'RPL 235-f roommate
-  rights', 'Real Property Law 226-c', '14-day demand
-  letter', '30-day notice to vacate', 'cure period', 'NY
-  Housing Court answer', 'Civil Court ERAP', 'NYC tenant
-  rights'. Covers RPAPL Article 7 summary proceedings
-  (holdover + nonpayment), the 2019 HSTPA reforms
-  (limitations on rent increases, security deposits,
-  attorney's-fee shifting), the 2024 Good Cause Eviction
-  Law (RPL Article 6-A), RPL 235-b warranty of habitability,
-  ERAP / Emergency Rental Assistance, and NYC Housing Court
-  practice including the Tenant Defense Center / right to
-  counsel under NYC Admin Code § 26-1301.
-version: 0.1.0
+  Subject-matter bundle for New York landlord-tenant defense and
+  prosecution — particularly residential summary proceedings under RPAPL
+  Article 7. Triggers include 'eviction defense New York', 'NYC Housing
+  Court', 'RPAPL 711 holdover', 'RPAPL 731 nonpayment', 'HSTPA 2019',
+  'Housing Stability and Tenant Protection Act', 'Good Cause Eviction
+  Law 2024', 'rent stabilization', 'RPL 235-b warranty of habitability',
+  'Real Property Law 226-c', '14-day demand letter', '30-day notice to
+  vacate'. Covers **RPAPL Article 7** summary proceedings (holdover +
+  nonpayment); **2019 HSTPA** reforms (rent increases, security deposits,
+  attorney's-fee shifting); **2024 Good Cause Eviction Law** (RPL Article
+  6-A); **RPL 235-b** warranty of habitability; **ERAP** automatic stay;
+  and **NYC Housing Court** practice including right-to-counsel under NYC
+  Admin Code § 26-1301.
+version: 0.1.1
 ---
 
 # New York Landlord-Tenant Practice

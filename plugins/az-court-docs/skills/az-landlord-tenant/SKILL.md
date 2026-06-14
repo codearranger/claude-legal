@@ -1,28 +1,19 @@
 ---
 name: az-landlord-tenant
 description: >
-  Subject-matter bundle for Arizona landlord-tenant disputes —
-  residential evictions ("special detainer" actions in Justice
-  Court), the predicate notices, security deposits, habitability and
-  the landlord's maintenance obligations, repair-and-deduct, and
-  retaliation, from both the tenant and landlord side. Triggers
-  include "eviction Arizona", "special detainer Arizona", "5-day
-  notice Arizona rent", "10-day notice Arizona lease violation",
-  "ARLTA A.R.S. 33-1301", "Arizona Residential Landlord and Tenant
-  Act", "Arizona security deposit 33-1321", "Arizona landlord
-  tenant", "RPEA Arizona eviction", "forcible detainer Arizona",
-  "writ of restitution Arizona", "Arizona habitability 33-1324",
-  "repair and deduct Arizona", "retaliation Arizona 33-1381", and
-  "mobile home park Arizona 33-1401". Covers the Arizona Residential
-  Landlord and Tenant Act (A.R.S. § 33-1301 et seq.), special
-  detainer (A.R.S. § 33-1377) under the Rules of Procedure for
-  Eviction Actions (RPEA), forcible detainer (A.R.S. § 12-1171 et
-  seq.), the § 33-1368 notice regime, security deposits (A.R.S.
-  § 33-1321), the landlord's maintenance duty (A.R.S. § 33-1324),
-  repair-and-deduct (A.R.S. § 33-1363), retaliation (A.R.S.
-  § 33-1381), and the Mobile Home Parks Act (A.R.S. § 33-1401 et
-  seq.).
-version: 0.1.0
+  Subject-matter bundle for Arizona residential landlord-tenant disputes —
+  evictions ("special detainer" in Justice Court), predicate notices, security
+  deposits, habitability, maintenance duties, repair-and-deduct, retaliation.
+  Triggers: "eviction Arizona", "special detainer Arizona", "5-day notice Arizona
+  rent", "10-day notice Arizona lease violation", "ARLTA A.R.S. 33-1301", "Arizona
+  Residential Landlord and Tenant Act", "Arizona security deposit", "Arizona
+  landlord tenant", "RPEA Arizona eviction", "forcible detainer Arizona", "writ
+  of restitution Arizona", "Arizona habitability", "repair and deduct Arizona",
+  "retaliation Arizona". Covers ARLTA (A.R.S. § 33-1301 et seq.), special detainer
+  (§ 33-1377) under Rules of Procedure for Eviction Actions (RPEA), notice regime
+  (§ 33-1368), security deposits (§ 33-1321), maintenance duty, repair-and-deduct
+  (§ 33-1363), retaliation (§ 33-1381), Mobile Home Parks Act.
+version: 0.1.3
 ---
 
 # Arizona Landlord-Tenant

@@ -1,28 +1,17 @@
 ---
 name: wa-landlord-tenant
 description: >
-  Use when handling a Washington landlord-tenant matter —
-  residential evictions, unlawful-detainer summary
-  proceedings, manufactured / mobile-home L&T, security-
-  deposit recovery, warranty of habitability, retaliation,
-  ERP referrals, and the statewide tenant Right to Counsel
-  for eviction defense. Substantive framework lives in
-  **RCW 59.18 (RLTA)** + RCW 59.20 (mobile-home L&T) +
-  RCW 59.12 (unlawful-detainer summary proceedings).
-  Coverage includes the 2021 just-cause-eviction reform
-  (SB 5160 → RCW 59.18.650), the 2019 mandatory-form
-  pay-or-vacate reform (SB 5600 → RCW 59.18.057), and the
-  HB 1815 statewide tenant Right to Counsel — the first
-  state-level RTC in the U.S. Current notice periods,
-  damages caps, deposit-return windows, and just-cause
-  enumeration live in the references corpus, not embedded
-  here. Triggers include "Washington eviction", "WA tenant
-  rights", "RCW 59.18", "Washington unlawful detainer",
-  "WA security deposit", "WA warranty of habitability",
-  "WA just cause eviction", "WA right to counsel", "WA
-  eviction resolution program", "WA mobile home park
-  eviction".
-version: 0.2.0
+  Use when handling a Washington landlord-tenant matter — residential
+  evictions, unlawful-detainer summary proceedings, mobile-home L&T,
+  security-deposit recovery, warranty of habitability, retaliation, ERP
+  referrals, and tenant Right to Counsel for eviction defense. Substantive
+  framework: RCW 59.18 (RLTA), RCW 59.20 (mobile homes), RCW 59.12
+  (summary proceedings). Covers 2021 just-cause-eviction reform (SB 5160),
+  2019 pay-or-vacate reform (SB 5600), and statewide tenant Right to Counsel
+  (HB 1815). Triggers include "Washington eviction", "tenant rights", "RCW
+  59.18", "unlawful detainer", "security deposit", "warranty of
+  habitability", "just cause eviction", "right to counsel".
+version: 0.2.1
 ---
 
 # Washington Landlord-Tenant — Subject-Matter Bundle

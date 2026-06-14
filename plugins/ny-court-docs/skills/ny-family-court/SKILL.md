@@ -1,42 +1,20 @@
 ---
 name: ny-family-court
 description: >
-  Use when drafting or filing in **New York Family Court** —
-  the specialized trial court established under Article VI
-  § 13 of the NY Constitution and the **Family Court Act
-  (FCA)**, handling child custody, visitation, child support,
-  paternity, juvenile delinquency, PINS (Persons In Need of
-  Supervision), foster care + termination of parental rights
-  (Article 10 abuse and neglect / Article 6 adoption),
-  family-offense / orders of protection, and related family-
-  law matters. Triggers include 'NY Family Court', 'Family
-  Court Act', 'FCA Article 4', 'FCA Article 5', 'FCA Article
-  6', 'FCA Article 7', 'FCA Article 8', 'FCA Article 10',
-  'CSSA child support', 'CSSA 17% basic', 'NY Family Court
-  child support', 'Family Court custody', 'family offense
-  petition', 'order of protection NY', 'PINS petition',
-  'juvenile delinquency', 'paternity petition', 'JDF
-  adoption', 'NYC Family Court 60 Lafayette', 'Kings Family
-  Court', 'Bronx Family Court', 'Queens Family Court',
-  'Richmond Family Court', '22 NYCRR Part 205'. Covers the
-  **Child Support Standards Act (CSSA)** at FCA § 413 / DRL
-  § 240(1-b) with the 17/25/29/31/35% basic child-support
-  percentages and the $183,000 (2024) combined-income cap;
-  the **best-interests** custody framework under *Eschbach v.
-  Eschbach* (1982) and *Friederwitzer v. Friederwitzer*
-  (1982); the **Article 10 abuse and neglect** process with
-  ACS (NYC) / DSS (rest of state); **Article 7 PINS**
-  proceedings; **Article 8 family-offense** petitions with
-  the qualifying-relationship + qualifying-offense framework
-  and Order of Protection mechanics; **paternity** under
-  Article 5 with the genetic-marker test; **Article 3
-  juvenile delinquency** with Raise-the-Age impacts; and the
-  **referee + Support Magistrate** judicial structure unique
-  to Family Court. NOT for divorce or matrimonial property
-  distribution — those route to Supreme Court Matrimonial
-  Part (`ny-nyco`, `ny-kings` etc.). NOT for adoptions of
-  adults or Surrogate's Court probate matters.
-version: 0.1.0
+  Use when drafting or filing in New York Family Court — the specialized
+  trial court handling child custody, visitation, child support, paternity,
+  juvenile delinquency, PINS, abuse/neglect (Article 10), family-offense /
+  orders of protection. Triggers include 'NY Family Court', 'Family Court
+  Act', 'FCA Article 4', 'FCA Article 8', 'CSSA child support', 'CSSA 17%
+  basic', 'Family Court custody', 'family offense petition', 'PINS petition'.
+  Covers **Child Support Standards Act (CSSA)** at FCA § 413 (17/25/29/31/35%,
+  $183k cap); **best-interests** custody framework; **Article 10 abuse/neglect**
+  with ACS (NYC) / DSS; **Article 8 family-offense** Orders of Protection;
+  **paternity** under Article 5; **Article 3 juvenile delinquency** with
+  Raise-the-Age; and the **Support Magistrate** + referee structure. NOT for
+  divorce / matrimonial property (Supreme Court Matrimonial Part) or adoptions
+  of adults.
+version: 0.1.2
 ---
 
 # New York Family Court (Family Court Act / 22 NYCRR Part 205)

@@ -1,23 +1,18 @@
 ---
 name: tn-pro-se
 description: >
-  This skill should be used when drafting Tennessee court documents for
-  a self-represented (pro se) litigant. Triggers include "pro se",
-  "self-represented", "filing without a lawyer in Tennessee", "drafting
-  a pro se motion in Tennessee", "drafting an answer without an
-  attorney", "represent myself in Tennessee court", "do I need a notary
-  in Tennessee", "small claims General Sessions without a lawyer".
-  Covers the pro-se drafting framework adapted for Tennessee civil
-  practice, service under Tenn. R. Civ. P. 5, the signature-block
-  convention (pro se filers OMIT the attorney BPR number and add
-  "Pro Se / Self-Represented"; attorneys sign under Rule 11 with their
-  Tennessee Board of Professional Responsibility number), the practical
-  differences between the formal Circuit / Chancery forums and the
-  informal General Sessions forum, and Tennessee self-help resources
-  (the tncourts.gov self-help center and AOC approved forms where they
-  exist). Composes with `tn-statewide-format`, `tn-draft-motion`, and
-  `tn-general-sessions`.
-version: 0.1.0
+  Use when drafting Tennessee court documents for a self-represented (pro se)
+  litigant. Covers pro-se drafting framework (substantial-compliance-with-form
+  standard; no substantive advocacy from bench); Tenn. R. Civ. P. 4/5 service
+  mechanics; signature-block convention (pro se filers OMIT the attorney BPR
+  number, add "Pro Se / Self-Represented"); practical differences between
+  formal Circuit / Chancery forums (written motions, affidavits, memoranda,
+  proposed orders; 30-day answer) vs. informal General Sessions forum (no
+  formal pleadings; testimony at hearing; 10-day de novo appeal to Circuit);
+  Tennessee self-help resources (tncourts.gov self-help center; AOC-approved
+  forms where they exist). Composes with `tn-statewide-format`, `tn-draft-
+  motion`, `tn-general-sessions`.
+version: 0.1.1
 ---
 
 # Pro Se Drafting for Tennessee

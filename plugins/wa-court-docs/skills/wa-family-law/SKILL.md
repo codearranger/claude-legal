@@ -1,31 +1,15 @@
 ---
 name: wa-family-law
 description: >
-  Use when handling a Washington family-law matter —
-  dissolution / legal separation / annulment, child support
-  and modification, parenting plans (best-interests +
-  limitations-factors framework), allocation of decision-
-  making, spousal maintenance, property distribution
-  (Washington is a **community-property** state, distinct
-  from equitable-distribution jurisdictions), parentage,
-  UCCJEA / UIFSA interstate jurisdiction, the **2022
-  consolidated civil-protection-order regime at RCW 7.105**
-  (covers DV, sexual-assault, stalking, harassment,
-  vulnerable-adult, and extreme-risk orders in a single
-  chapter), child-abuse reporting + dependency overlap
-  with DCYF, and post-decree modification. Substantive
-  framework lives in RCW Title 26 (Domestic Relations) +
-  Title 13 (Juvenile Court) + Title 50A (PFML, where it
-  intersects with family-leave issues); current statutory
-  text and thresholds are in the references corpus rather
-  than enumerated here. Triggers include "Washington
-  divorce", "WA parenting plan", "WA child support",
-  "RCW 26.09", "Washington community property",
-  "RCW 26.16", "WA spousal maintenance", "RCW 7.105 civil
-  protection order", "WA UCCJEA", "RCW 26.27", "WA UIFSA",
-  "RCW 26.21A", "WA parentage UPA", "RCW 26.26A",
-  "Washington dissolution", "WA family court".
-version: 0.2.0
+  Use when handling a Washington family-law matter — dissolution / legal
+  separation / annulment, child support and modification, parenting plans,
+  allocation of decision-making, spousal maintenance, property distribution
+  (Washington is community-property), parentage, UCCJEA / UIFSA, civil
+  protection orders (RCW 7.105), and post-decree modification. Triggers
+  include "Washington divorce", "parenting plan", "child support", "RCW 26.09",
+  "community property", "RCW 26.16", "spousal maintenance", "RCW 7.105 civil
+  protection order", "UCCJEA", "UIFSA", "parentage", "dissolution".
+version: 0.2.1
 ---
 
 # Washington Family Law — Subject-Matter Bundle

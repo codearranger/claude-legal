@@ -1,37 +1,18 @@
 ---
 name: wa-family-court
 description: >
-  Use when handling a Washington family-law matter at the
-  trial-court level — the Superior Court Family Law
-  Department in each county hears dissolution, parenting,
-  child support, modification, contempt, paternity, and
-  protection-order cases. Washington has **no separate
-  Family Court trial court**; family matters sit inside
-  the general-jurisdiction Superior Court but are
-  administered by a dedicated Family Law Department in
-  most counties. Coverage includes mandatory AOC forms
-  (FL Divorce, FL All Family, FL Parentage, FL Domestic
-  Violence, FL Modify, FL Non-Parental Custody) under GR
-  31, county-specific intake procedures (Family Law
-  Facilitator availability under RCW 26.12.180), the
-  county-by-county case-scheduling-order practice, the
-  family-court commissioner system under RCW 2.24,
-  mandatory parenting-seminar requirements (set by
-  individual county local rule), the **2020 family-law
-  form modernization** (mandatory plain-language AOC
-  forms), GAL appointment under RCW 26.12.175 and CR
-  17(c), the **2022 RCW 7.105 consolidated civil-
-  protection-order intake** at superior court (vs.
-  district court for some categories), and the
-  **mandatory parenting-plan intake** for cases
-  involving minor children. Triggers include "Washington
-  family court", "WA family law facilitator", "WA AOC
-  family forms", "Washington Family Law Department", "WA
-  dissolution petition", "WA parenting plan filing", "WA
-  family court commissioner", "King County Family Law",
-  "Pierce County Family Law", "WA family-law local
-  rules".
-version: 0.2.0
+  Use when handling a Washington family-law matter at the trial-court level
+  — the Superior Court Family Law Department. Washington has no separate
+  Family Court trial court; family matters sit inside the general-jurisdiction
+  Superior Court but are administered by a dedicated Family Law Department in
+  most counties. Triggers include "Washington family court", "family law
+  facilitator", "AOC family forms", "dissolution petition", "parenting plan
+  filing", "family court commissioner", "King County Family Law", "Pierce
+  County Family Law", "family-law local rules". Coverage includes mandatory
+  AOC forms under GR 31, county-specific intake procedures, case-scheduling
+  deadlines, the family-court commissioner system (RCW 2.24), mandatory
+  parenting seminars, GAL appointment, and civil protection orders (RCW 7.105).
+version: 0.2.1
 ---
 
 # Washington Family Court — Venue Mechanics

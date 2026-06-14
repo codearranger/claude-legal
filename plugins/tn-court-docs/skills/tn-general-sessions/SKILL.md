@@ -1,23 +1,17 @@
 ---
 name: tn-general-sessions
 description: >
-  This skill should be used when a Tennessee civil case is in a
-  General Sessions Court — the limited-jurisdiction, high-volume,
-  informal forum that hears most consumer-debt collection suits and
-  all eviction (detainer) warrants. Triggers include "General Sessions
-  Court", "sued in General Sessions", "civil warrant", "detainer
-  warrant", "forcible entry and detainer", "FED warrant", "eviction
-  warrant Tennessee", "$25,000 General Sessions limit", "de novo
-  appeal to Circuit Court", "appeal a General Sessions judgment",
-  "Tenn. Code Ann. § 16-15-501", "Tenn. Code Ann. § 27-5-108", and
-  "do the rules of civil procedure apply in General Sessions". Covers
-  the General Sessions civil monetary cap, the unlimited detainer
-  jurisdiction, the civil-warrant pleading model, the informal-
-  procedure regime (the TRCP do not apply except as specifically made
-  applicable), the absence of formal discovery as of right, and the
-  10-day de novo appeal route to Circuit Court. Layer on top of
-  `tn-statewide-format`.
-version: 0.1.0
+  Use for Tennessee civil cases in General Sessions Court — limited-jurisdiction,
+  high-volume, informal forum (dominant consumer-debt and eviction forum).
+  Covers $25,000 civil monetary cap with unlimited detainer (eviction)
+  jurisdiction; civil-warrant pleading model (informal, not formal Tenn. R.
+  Civ. P. 10 captioned complaint); informal procedure (TRCP do not apply except
+  as specifically made applicable); no formal discovery as of right; 10-day de
+  novo appeal to Circuit Court (§ 27-5-108) where full formal procedure applies.
+  For General Sessions appearance: no written answer needed; testimony at
+  hearing suffices. Debt-buyer documentation requirement (§ 20-6-104) applies
+  to defaults. Layer on top of `tn-statewide-format`.
+version: 0.1.1
 ---
 
 # Tennessee General Sessions Court

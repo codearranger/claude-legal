@@ -1,38 +1,8 @@
 ---
 name: in-family-court
 description: >
-  Use when handling an Indiana family-law matter at the
-  trial-court level — paternity (JP case type), dissolution
-  with children (DC) or without (DN), child support (DR),
-  custody / parenting time, adoption (AD), guardianship of
-  a minor (GU), CHINS (JC) abuse / neglect / dependency,
-  delinquency (JD), status offenses (JS), juvenile
-  miscellaneous (JM), and termination of parental rights
-  (JT). Indiana has **no separate Family Court trial
-  court**; family matters are heard by the **general-
-  jurisdiction Circuit Court or Superior Court** in each
-  county, with juvenile / paternity / CHINS / delinquency
-  routed to a **Juvenile Division** in the larger counties
-  (Marion, Lake, Allen, Hamilton, Vanderburgh, etc.) and
-  to the **Circuit Court directly** in counties without a
-  separate juvenile docket (Bartholomew, Brown, many
-  smaller counties). Coverage includes the Indiana
-  Odyssey case-type code framework (DC / DN / DR / JP /
-  JC / JD / JS / JM / JT / AD / GU), the juvenile-court
-  jurisdictional framework at IC 31-30 + procedural
-  framework at IC 31-32, paternity establishment + orders
-  under IC 31-14 (the JP-case statutory backbone), Indiana
-  Trial Rules application to family-court practice
-  (including the IC 31-15 mandatory-disclosures framework
-  for DC cases), and the county-by-county routing rules
-  for which division hears which case type. Triggers
-  include "Indiana family court", "IN paternity", "JP
-  case", "IC 31-14", "IN juvenile court", "IN CHINS",
-  "IN dissolution with children", "IN custody filing",
-  "Bartholomew Circuit Court paternity", "Marion Juvenile
-  Court", "Lake Superior Court juvenile", "IN parenting
-  time guidelines".
-version: 0.1.0
+  Use for Indiana family-court matters — paternity (**JP case**), dissolution (**DC/DN**), child support (**DR**), custody / parenting time, adoption (**AD**), CHINS (**JC**), delinquency (**JD**). Indiana has **no separate Family Court**; family matters are heard by Circuit or Superior Court, with juvenile routed to a **Juvenile Division** in large counties (Marion, Lake, Allen, Hamilton) or **Circuit Court directly** in smaller counties (Bartholomew). Covers Odyssey case-type codes, paternity under **IC 31-14**, juvenile jurisdiction at **IC 31-30**, and county-by-county routing. Triggers: "Indiana family court", "IN paternity", "JP case", "IC 31-14", "IN juvenile court", "IN CHINS", "IN dissolution".
+version: 0.1.1
 ---
 
 # Indiana Family Court — Venue Mechanics

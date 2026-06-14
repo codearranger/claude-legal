@@ -1,24 +1,16 @@
 ---
 name: wa-deadlines
 description: >
-  Use this skill whenever the user asks about timing or deadlines in
-  a Washington civil case. Triggers include "when is my answer due",
-  "when is the response brief due", "compute the deadline", "how many
-  court days", "what's the reply deadline", "I was served — when do I
-  have to answer", "when does my discovery response have to go out",
-  "how long do I have to file a motion to vacate", "exemption claim
-  deadline", "FDCPA statute of limitations", "is this deadline past".
-  Computes court-day and calendar-day deadlines under CR 6 / CRLJ 6
-  using RCW 1.16.050 holidays (with Saturday→Friday / Sunday→Monday
-  observed-day rule), and covers garnishment timing under RCW 6.27,
-  post-judgment motion deadlines under CR 59 / CR 60 / RAP 5.2, and
-  WA statutes of limitation at RCW 4.16. Deterministic date
-  arithmetic is delegated to `scripts/case-calendar.py`, which is
-  the **canonical source** for current day counts and holidays —
-  this skill does NOT enumerate them. The substantive rules + RCW
-  text live in `wa-law-references/references/court-rules/` and
-  `wa-law-references/references/wa-rcw-debt/`.
-version: 0.2.0
+  Use this skill whenever the user asks about timing or deadlines in a
+  Washington civil case. Triggers include "when is my answer due", "compute
+  the deadline", "how many court days", "I was served — when do I have to
+  answer", "how long do I have to file a motion to vacate", "statute of
+  limitations". Computes court-day and calendar-day deadlines under CR 6 /
+  CRLJ 6 using RCW 1.16.050 holidays, and covers garnishment timing (RCW
+  6.27), post-judgment motion deadlines (CR 59 / 60 / RAP 5.2), and WA
+  statutes of limitation (RCW 4.16). Date arithmetic delegated to
+  `scripts/case-calendar.py` (canonical source for day counts and holidays).
+version: 0.2.1
 ---
 
 # Washington Case Deadlines

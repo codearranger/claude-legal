@@ -1,35 +1,20 @@
 ---
 name: ny-personal-injury
 description: >
-  Use when drafting or filing a personal-injury action under
-  New York law. Triggers include 'personal injury New York',
-  'NY PI', 'motor vehicle accident NY', 'no-fault Insurance
-  Law 51', 'serious injury threshold', 'NY slip and fall',
-  'NY medical malpractice', 'CPLR 214 3-year SOL', 'CPLR
-  214(5)', 'CPLR 214-a 2.5-year malpractice', 'CPLR 215 1-
-  year intentional', 'CPLR 214-c discovery rule toxic',
-  'Labor Law 240', 'Labor Law 241(6)', 'Labor Law 200',
-  'Article 16 several liability', 'Article 14-A
-  comparative fault', 'CPLR 1602', 'wrongful death EPTL
-  5-4.1', 'GML 50-e Notice of Claim 90 days', 'NY no-fault
-  threshold', 'Adult Survivors Act', 'Child Victims Act',
-  'CPLR 4548 evidentiary admission'. Covers the NY no-fault
-  Insurance Law Article 51 + the "serious injury" threshold
-  at Insurance Law § 5102(d) gateway, the CPLR 1411 pure-
-  comparative-fault rule (Article 14-A) and CPLR Article 16
-  several-liability cap for non-economic damages, Labor Law
-  §§ 200/240/241 construction-site liability (the absolute
-  liability under § 240(1) "scaffold law"), medical
-  malpractice CPLR 214-a 30-month SOL with continuous-
-  treatment tolling, CPLR 214-c toxic-tort discovery-rule
-  SOL, wrongful death under EPTL Article 5 Part 4, the
-  General Municipal Law § 50-e 90-day Notice of Claim
-  predicate for actions against state actors, the **Child
-  Victims Act** (CPLR 214-g, 2019) and **Adult Survivors
-  Act** (CPLR 214-j, 2022) revival windows for sexual-
-  abuse claims, and the bill-of-particulars practice unique
-  to NY personal-injury practice.
-version: 0.1.0
+  Use when drafting or filing a personal-injury action — motor vehicle
+  accident, slip and fall, medical malpractice, construction-site injury,
+  wrongful death, sex-abuse revival claims. Triggers include 'personal injury
+  New York', 'NY PI', 'no-fault Insurance Law 51', 'serious injury threshold',
+  'Labor Law 240', 'Labor Law 241(6)', 'Article 14-A comparative fault',
+  'Article 16 several liability', 'GML 50-e Notice of Claim 90 days'.
+  Covers **Insurance Law Article 51** no-fault + serious injury threshold
+  (§ 5102(d)); **CPLR 1411** pure comparative fault; **CPLR Article 16**
+  several-liability cap for non-economic damages; **Labor Law §§ 200/240/241**
+  construction-site (absolute liability under § 240(1) "scaffold law");
+  med-mal **CPLR 214-a** 30-month SOL; **CPLR 214-c** toxic-tort discovery
+  rule; **wrongful death** under EPTL § 5-4.1; **GML § 50-e** 90-day Notice
+  of Claim; and bill-of-particulars practice.
+version: 0.1.2
 ---
 
 # New York Personal-Injury Practice

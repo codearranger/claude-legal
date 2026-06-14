@@ -3,31 +3,16 @@ name: wa-wawd-pro-se
 description: >
   Use this skill when a self-represented litigant is filing or litigating
   a civil case in FEDERAL court in western Washington — the U.S. District
-  Court for the Western District of Washington (W.D. Wash. / WAWD, Seattle
-  and Tacoma courthouses). Triggers include "file in federal court",
-  "Western District of Washington", "WAWD", "U.S. District Court Seattle",
-  "U.S. District Court Tacoma", "sue a federal agency", "civil rights
-  lawsuit" (§ 1983 / Bivens), "employment discrimination in federal
-  court", "Social Security appeal", "denial of Social Security benefits",
-  "diversity jurisdiction", "federal complaint", "civil cover sheet",
-  "federal summons", "IFP federal", "in forma pauperis", "waive the
-  federal filing fee", "court-appointed counsel federal", "CM/ECF pro
-  se", "noting date federal", "LCR 7", "serve the United States",
-  "FRCP 4 service", "appeal to the Ninth Circuit", "federal civil rights
-  clinic". CRITICAL: this is a DIFFERENT rule universe from the rest of
-  this plugin — the FRCP + W.D. Wash. Local Civil Rules (LCR) govern, NOT
-  the Washington CR/CRLJ or GR 14. Covers the Seattle-vs-Tacoma county
-  division, jurisdiction triage (federal question / U.S. party /
-  diversity over $75k — family-law and landlord-tenant matters belong in
-  state court), opening a case (complaint + civil cover sheet + $405 fee
-  or IFP), LCR 5.2(a) redaction, FRCP 4 service including serving the
-  United States, CM/ECF pro se registration, the LCR 7(d) noting-date
-  system (same-day / 14-day / 21-day / 28-day / in limine), sealed
-  documents under LCR 5(g), the FBA Federal Civil Rights Legal Clinic,
-  and Ninth Circuit appeal basics. Built from the court's official
-  "Representing Yourself (Pro Se)" page and Pro Se Guide (Rev. Jul-24),
-  mirrored in this skill's references/.
-version: 0.1.0
+  Court for the Western District of Washington (W.D. Wash. / WAWD). Triggers
+  include "file in federal court", "WAWD", "U.S. District Court Seattle/Tacoma",
+  "sue a federal agency", "civil rights lawsuit", "Social Security appeal",
+  "diversity jurisdiction", "federal complaint", "CM/ECF pro se", "FRCP 4
+  service", "appeal to the Ninth Circuit". CRITICAL: this is a DIFFERENT rule
+  universe — the FRCP + W.D. Wash. Local Civil Rules govern, NOT state
+  CR/CRLJ or GR 14. Covers jurisdiction triage, opening a case, service,
+  CM/ECF registration, the LCR 7(d) noting-date system, sealed documents,
+  and Ninth Circuit appeal basics.
+version: 0.1.1
 ---
 
 # W.D. Washington Federal Court — Pro Se (WAWD)

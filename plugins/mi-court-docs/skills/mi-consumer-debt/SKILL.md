@@ -1,21 +1,17 @@
 ---
 name: mi-consumer-debt
 description: >
-  This skill should be used when defending a Michigan consumer against a debt-collection lawsuit
-  (typically by a debt buyer or collection agency, usually in District Court). Triggers include
-  "sued for a debt Michigan", "debt collector Michigan", "Michigan RCPA MCL 445.251", "debt buyer
-  Michigan", "time-barred debt Michigan", "FDCPA Michigan", "Michigan collection agency license",
-  "36th District Court debt", "Midland Credit Michigan", "Portfolio Recovery Michigan", "LVNV
-  Funding Michigan", "Michigan Regulation of Collection Practices Act", "Michigan Consumer
-  Protection Act debt", "MCL 339.901 collection agency", "statute of limitations credit card
-  Michigan", "MCL 600.5807", "chain of title Michigan debt", "set aside default judgment Michigan
-  debt". Subject-matter bundle covering the federal FDCPA / Regulation F / FCRA layer, the Michigan
-  Regulation of Collection Practices Act (MCL 445.251 et seq.), the Michigan Occupational Code
-  Article 9 collection-agency licensing regime (MCL 339.901 et seq.), the Michigan Consumer
-  Protection Act (MCL 445.901 et seq.) and its judicially narrowed regulated-conduct exemption,
-  chain-of-title doctrine under Michigan UCC Article 9, the SOL framework, and the District Court
-  forum.
-version: 0.1.0
+  Use when defending a Michigan consumer against a debt-collection lawsuit.
+  Triggers include "sued for a debt Michigan", "debt buyer Michigan", "FDCPA
+  Michigan", "MCL 445.251" RCPA, "MCL 339.901" collection agency license,
+  "time-barred debt Michigan", "chain of title Michigan debt". Covers federal
+  FDCPA, Regulation F, FCRA; Michigan Regulation of Collection Practices Act
+  (MCL 445.251); collection-agency licensing (MCL 339.901); Michigan Consumer
+  Protection Act (MCL 445.901) with regulated-conduct exemption; chain-of-title
+  under Michigan UCC Article 9; statutes of limitations (MCL 600.5807); and the
+  District Court forum. Includes five fact-pattern triage, discovery banks, and
+  affirmative-defenses catalog.
+version: 0.2.0
 ---
 
 # Michigan Consumer-Debt Defense

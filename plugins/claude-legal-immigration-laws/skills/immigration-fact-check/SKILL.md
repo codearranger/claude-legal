@@ -1,28 +1,19 @@
 ---
 name: immigration-fact-check
 description: >
-  Use this skill to verify the citations and internal consistency of any
-  immigration draft (brief, motion, declaration, USCIS cover letter, BIA
-  appeal, petition for review) before it is filed or sent. Triggers include
-  "verify this immigration citation", "is this INA cite right", "INA vs USC
-  section", "check my immigration brief", "fact check immigration", "is this
-  BIA case real", "cite-check this", "verify the law", "is 8 CFR 208 or 1208
-  right", "DHS or EOIR regulation", "is this FAM cite controlling", "check for
-  hallucinations", "consistency check", "audit this filing", "are my cites
-  right", "verify my A-number is consistent". Runs four passes: (1) **citation
-  verification** — every INA / 8 U.S.C. / 8 CFR / 22 CFR / FAM / I&N Dec. /
-  circuit-court cite resolves to a real source with the claimed holding or
-  text; (2) **internal consistency** — dates, A-number, receipt numbers, party
-  names, paragraph cross-refs agree within the document; (3) **packet
-  consistency** — caption, A-number, names, and key facts agree across every
-  document in the filing; (4) **sworn-vs.-argued consistency** — no fact in a
-  brief contradicts a sworn declaration or affidavit. Knows the immigration
-  citation traps: the INA-section-vs-8-U.S.C.-section mismatch, the
-  DHS-vs-EOIR regulation duplication, and that FAM is agency guidance, not law.
-  **This is a verification skill, not a drafting skill** — it flags issues and
-  suggests fixes, but never silently rewrites. Composes with every drafting
-  skill in this plugin.
-version: 0.1.1
+  Use this skill to verify citations and consistency of any immigration draft
+  (brief, motion, declaration, USCIS letter, BIA appeal, petition for review).
+  Triggers: "verify this immigration citation", "is this INA cite right", "INA
+  vs USC", "check my immigration brief", "fact check", "is this BIA case real",
+  "cite-check", "8 CFR 208 or 1208", "DHS or EOIR regulation", "FAM cite",
+  "check hallucinations", "consistency check", "audit this filing", "A-number
+  consistent". Four passes: (1) citation verification — INA/USC/CFR/FAM/I&N
+  Dec./circuit cites resolve to real sources; (2) internal consistency — dates,
+  A-number, names, cross-refs; (3) packet consistency — caption, A-number
+  across documents; (4) sworn-vs-argued consistency — brief facts don't
+  contradict declarations. Flags: INA-vs-8-U.S.C. mismatch, DHS-vs-EOIR
+  duplication, FAM-is-guidance-not-law. **Verification only** — never rewrites.
+version: 0.1.2
 ---
 
 # Fact-Check an Immigration Filing

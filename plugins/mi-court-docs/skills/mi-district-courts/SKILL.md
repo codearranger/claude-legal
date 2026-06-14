@@ -1,25 +1,18 @@
 ---
 name: mi-district-courts
 description: >
-  This skill should be used when filing in a Michigan district
-  court other than the 36th District Court (Detroit), which has
-  its own overlay skill. Michigan's district courts are the
-  limited-jurisdiction trial courts and the dominant
-  consumer-debt and eviction forum. Triggers include "Michigan
-  district court", "district court debt lawsuit", "Michigan
-  eviction district court", "small claims Michigan", "district
-  court jurisdiction $25000 Michigan", "which district court
-  Michigan", "summary proceedings Michigan", "MCR 4.201",
-  "landlord-tenant district court", "civil infraction Michigan",
-  "what district am I in Michigan", and "find my Michigan
-  district court". Covers the $25,000 civil money jurisdiction
-  cap (MCL 600.8301), landlord-tenant summary proceedings (MCL
-  600.5701 et seq. / MCR 4.201), the small claims division (MCR
-  4.301 et seq.), civil infractions, how district courts are
-  numbered and organized, and how to find the controlling
-  district court plus its local administrative orders and MiFILE
-  e-filing status. Layer on top of `mi-statewide-format`.
-version: 0.1.0
+  Use when filing in a Michigan district court other than 36th District
+  (Detroit), which has its own skill. Michigan's limited-jurisdiction trial
+  courts dominant in consumer-debt and eviction. Triggers include "Michigan
+  district court", "district court debt", "Michigan eviction", "small claims
+  Michigan", "which district court Michigan", "summary proceedings Michigan",
+  "MCR 4.201", "civil infraction Michigan". Covers $25k civil jurisdiction
+  cap (MCL 600.8301), landlord-tenant summary proceedings (MCL 600.5701,
+  MCR 4.201), small claims division (MCR 4.301), civil infractions, district
+  numbering and organization, and how to find controlling district court, its
+  local orders, and MiFILE e-filing status. Layer on top of
+  `mi-statewide-format`.
+version: 0.2.0
 ---
 
 # Michigan District Courts — Roll-Up

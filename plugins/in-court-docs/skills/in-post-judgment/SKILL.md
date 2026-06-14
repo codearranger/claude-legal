@@ -1,25 +1,15 @@
 ---
 name: in-post-judgment
 description: >
-  This skill should be used when the user asks about "motion to
-  correct error", "Trial Rule 59", "T.R. 60(B) relief from
-  judgment", "Indiana motion to vacate", "Indiana garnishment",
-  "garnishment exemption claim", "Indiana proceedings
-  supplemental", "T.R. 69", "Indiana judgment debtor exam",
-  "Indiana satisfaction of judgment", "Indiana judgment lien",
-  "Indiana writ of execution", "Indiana asset hunt", "exempt
-  property Indiana", "Indiana homestead exemption", "wage
-  garnishment Indiana 25%", or any related post-judgment topic.
-  Covers Indiana Trial Rule 59 motion to correct error, Trial
-  Rule 60(B) relief from judgment, Trial Rule 69 proceedings
-  supplemental, the Indiana statutory exemptions under IC
-  34-55-10, the federal CCPA / IC 24-4.5-5-105 wage-garnishment
-  cap, and judgment satisfaction practice. Trigger phrases:
-  "T.R. 59 motion", "T.R. 60(B)", "Indiana proceedings
-  supplemental", "Indiana wage garnishment", "garnishment
-  exemption", "Indiana judgment lien", "Indiana homestead
-  exemption $22,750".
-version: 0.1.0
+  Use for post-judgment matters in Indiana — **T.R. 59 motion to
+  correct error** (Indiana-specific, 30-day, jurisdictional), **T.R.
+  60(B) relief from judgment**, **T.R. 69 proceedings supplemental**
+  (judgment debtor exam, garnishment), exemptions under **IC 34-55-10**,
+  federal **CCPA / IC 24-4.5-5-105** wage-garnishment cap (25%),
+  judgment satisfaction, and appeal mechanics. Triggers: "T.R. 59
+  motion", "T.R. 60(B)", "Indiana wage garnishment", "garnishment
+  exemption", "Indiana homestead exemption".
+version: 0.1.1
 ---
 
 # Indiana Post-Judgment Procedure

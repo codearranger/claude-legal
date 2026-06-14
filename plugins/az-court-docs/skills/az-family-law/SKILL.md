@@ -1,37 +1,19 @@
 ---
 name: az-family-law
 description: >
-  This skill should be used for any Arizona family-law /
-  domestic-relations matter: dissolution of marriage (divorce),
-  covenant marriage, community-property division, legal
-  decision-making and parenting time, child support, spousal
-  maintenance, relocation of a child, and the interstate
-  jurisdiction overlays. Triggers include "Arizona divorce",
-  "divorce in Arizona", "Arizona dissolution of marriage",
-  "irretrievably broken Arizona", "Arizona divorce waiting period",
-  "covenant marriage Arizona", "Arizona community property",
-  "sole and separate property Arizona", "A.R.S. 25-211",
-  "legal decision-making Arizona", "Arizona parenting time",
-  "Arizona custody best interests", "A.R.S. 25-403",
-  "Arizona child support guidelines", "Arizona child support",
-  "spousal maintenance Arizona", "Arizona spousal maintenance
-  guidelines", "alimony Arizona", "Arizona relocation child",
-  "move-away Arizona", "Arizona common-law marriage",
-  "Arizona UCCJEA", "Arizona UIFSA". A subject-matter bundle
-  covering Arizona's family code: no-fault dissolution
-  (A.R.S. § 25-312) with the 60-day waiting period
-  (A.R.S. § 25-329) and 90-day residency; covenant marriage
-  (A.R.S. § 25-901 et seq.) dissolvable only on the limited
-  grounds of A.R.S. § 25-903; community-property division under
-  A.R.S. §§ 25-211 / 25-213 / 25-318; legal decision-making and
-  parenting time (A.R.S. §§ 25-401, 25-403, 25-403.01, 25-403.03);
-  relocation (A.R.S. § 25-408); child support (A.R.S. § 25-320 +
-  the Arizona Child Support Guidelines); spousal maintenance
-  (A.R.S. § 25-319 + the 2023 Arizona Spousal Maintenance
-  Guidelines); the bar on common-law marriage (A.R.S. § 25-111);
-  and UCCJEA (A.R.S. § 25-1001 et seq.) / UIFSA
-  (A.R.S. § 25-1201 et seq.).
-version: 0.1.0
+  Use for any Arizona family-law / domestic-relations matter: dissolution (divorce),
+  covenant marriage, community-property division, legal decision-making, parenting
+  time, child support, spousal maintenance, relocation, interstate jurisdiction.
+  Triggers: "Arizona divorce", "dissolution of marriage Arizona", "irretrievably
+  broken Arizona", "Arizona divorce waiting period", "covenant marriage Arizona",
+  "Arizona community property", "legal decision-making Arizona", "Arizona parenting
+  time", "Arizona child support", "spousal maintenance Arizona", "Arizona relocation",
+  "Arizona UCCJEA", "Arizona UIFSA". Covers: no-fault dissolution (A.R.S. § 25-312) with 60/90-day waiting,
+  covenant marriage (§ 25-901 et seq.), community-property (§ 25-211/25-213/
+  25-318), legal decision-making and parenting time (§ 25-401/25-403), relocation
+  (§ 25-408), child support (§ 25-320 + Guidelines), spousal maintenance (§ 25-319
+  + Guidelines), bar on common-law marriage (§ 25-111), UCCJEA / UIFSA.
+version: 0.1.8
 ---
 
 # Arizona Family Law

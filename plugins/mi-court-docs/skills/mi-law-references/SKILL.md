@@ -1,29 +1,19 @@
 ---
 name: mi-law-references
 description: >
-  Matter-neutral reference catalog for Michigan civil practice.
-  Contains the Michigan Court Rules (MCR) civil-practice map (Chapter 1
-  general/format, Chapter 2 civil procedure including summary disposition
-  under MCR 2.116, Chapter 3 special proceedings, Chapter 4 district
-  court / landlord-tenant / small claims), the Michigan Rules of
-  Evidence (MRE) map with emphasis on the business-records exception
-  (MRE 803(6)) and self-authentication (MRE 902(11)) and the 2024
-  restyling, the fees-and-costs framework (MCL 600.2401+, MCR 2.625,
-  offer-of-judgment costs under MCR 2.405, the 2022 end of MCR 2.403
-  case-evaluation sanctions, frivolous-filing sanctions under MCL
-  600.2591 / MCR 1.109(E)), citation format per the Michigan Appellate
-  Opinion Manual, landmark Michigan civil and family precedents, and the
-  canonical online-sources and data-API catalog. Triggers include
-  "Michigan civil rule", "MCR", "MCR 2.116", "summary disposition",
-  "Michigan evidence rule", "MRE", "MRE 803(6)", "MCL 600...", "Michigan
-  Compiled Laws", "Michigan citation format", "what's the Michigan rule
-  on X", "look up Michigan law on X", "courts.michigan.gov",
-  "legislature.mi.gov", "Mich App", "NW2d". Other skills cite this one
-  for rule numbers, statute citations, and case authorities; the heavy
-  reference corpora (court-rules, mi-statutes-debt, federal-debt-laws,
-  federal-bankruptcy, ucc-model) live in this skill's `references/`
-  subdirectory.
-version: 0.1.0
+  Matter-neutral reference catalog for Michigan civil practice. Contains MCR
+  civil-practice map (Chapters 1-4), Michigan Rules of Evidence (MRE) including
+  business-records exception (MRE 803(6)), self-authentication (MRE 902(11)),
+  fees-and-costs framework, citation format per Michigan Appellate Opinion
+  Manual, landmark Michigan civil and family precedents, and canonical
+  online-sources and data-API catalog. Triggers include "Michigan civil rule",
+  "MCR 2.116", "summary disposition", "Michigan evidence rule", "MRE 803(6)",
+  "MCL 600...", "Michigan citation format", "courts.michigan.gov",
+  "legislature.mi.gov". Other skills cite this one for rule numbers, statute
+  citations, and case authorities. Heavy reference corpora (court-rules,
+  mi-statutes-debt, federal-debt-laws, federal-bankruptcy, ucc-model) live in
+  this skill's `references/` subdirectory.
+version: 0.2.0
 ---
 
 # Michigan Law References

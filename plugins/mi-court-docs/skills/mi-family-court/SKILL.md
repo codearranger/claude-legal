@@ -1,23 +1,18 @@
 ---
 name: mi-family-court
 description: >
-  This skill should be used to choose a venue and handle filing
-  mechanics for a Michigan domestic-relations case heard in the
-  Family Division of Circuit Court — divorce, custody, parenting
-  time, child and spousal support, paternity, juvenile, adoption,
-  name change, emancipation, and personal protection orders (PPOs).
-  Use it for where to file, the Friend of the Court office's role in
-  support/custody/parenting-time enforcement, intake, SCAO mandatory
-  forms, mediation expectations, and self-represented family filings.
-  Triggers include "Michigan family court", "Family Division circuit
-  court", "Friend of the Court Michigan", "Michigan PPO personal
-  protection order", "file for divorce Michigan", "custody Michigan",
-  "MCR 3.200 domestic relations", "where do I file for divorce in
-  Michigan", "Michigan parenting time enforcement", "Michigan child
-  support FOC". A venue/procedural skill for the Family Division;
-  defers substantive divorce/custody/support law to mi-family-law and
-  document form to mi-statewide-format.
-version: 0.1.0
+  Use to choose a venue and handle filing mechanics for Michigan
+  domestic-relations cases in the Family Division of Circuit Court: divorce,
+  custody, parenting time, child/spousal support, paternity, juvenile,
+  adoption, name change, PPOs. Triggers include "Michigan family court",
+  "Friend of the Court Michigan", "Michigan PPO", "file for divorce Michigan",
+  "MCR 3.200 domestic relations", "where to file for divorce in Michigan",
+  "Michigan child support FOC". Covers where to file, Friend of the Court's
+  role in support/custody/parenting-time enforcement, intake, SCAO mandatory
+  forms, mediation expectations, and self-represented family filings. Defers
+  substantive divorce/custody/support law to `mi-family-law` and document
+  form to `mi-statewide-format`.
+version: 0.2.0
 ---
 
 # Michigan Family Court — Family Division of Circuit Court

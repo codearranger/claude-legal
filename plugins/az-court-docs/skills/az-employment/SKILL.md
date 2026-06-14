@@ -1,38 +1,19 @@
 ---
 name: az-employment
 description: >
-  Subject-matter bundle for Arizona employment matters —
-  wrongful termination, workplace discrimination, harassment,
-  retaliation, unpaid wages, minimum wage and paid sick time,
-  non-compete enforcement, and the workers'-compensation
-  exclusive-remedy regime. Triggers include "Arizona employment",
-  "Arizona wrongful termination", "Arizona Employment Protection
-  Act", "AEPA", "A.R.S. 23-1501", "Arizona at-will employment",
-  "ACRA Arizona discrimination", "Arizona Civil Rights Act",
-  "A.R.S. 41-1461", "Arizona Civil Rights Division",
-  "Arizona unpaid wages treble", "Arizona Wage Act", "A.R.S.
-  23-355", "A.R.S. 23-350", "Arizona final paycheck", "Arizona
-  minimum wage", "Fair Wages and Healthy Families Act", "A.R.S.
-  23-363", "Arizona earned paid sick time", "A.R.S. 23-371",
-  "Arizona non-compete", "Arizona non-compete Farber", "Valley
-  Medical Specialists v Farber", "Arizona restrictive covenant",
-  "Arizona whistleblower retaliatory discharge", "workers comp
-  exclusive remedy Arizona", "A.R.S. 23-1022", "Arizona
-  right-to-work". Covers the AEPA at A.R.S. 23-1501 (Arizona's
-  at-will baseline and the exclusive, narrowly enumerated
-  framework for common-law wrongful-discharge / public-policy
-  claims), the ACRA at A.R.S. 41-1461 et seq. (Title VII-mirroring
-  discrimination administered by the AG's Civil Rights Division,
-  15+ employee coverage), the Arizona Wage Act at A.R.S.
-  23-350 et seq. with the A.R.S. 23-355 treble-damages remedy for
-  unpaid wages, minimum wage and earned paid sick time under the
-  Fair Wages and Healthy Families Act (A.R.S. 23-363 / 23-371 et
-  seq. — annually indexed rate, corpus-driven), common-law
-  non-compete reasonableness under Valley Medical Specialists v.
-  Farber, 194 Ariz. 363 (1999), the workers'-compensation
-  exclusive remedy at A.R.S. 23-1022, and Arizona's right-to-work
-  guarantee (Ariz. Const. art. 25).
-version: 0.1.0
+  Subject-matter bundle for Arizona employment matters — wrongful termination,
+  workplace discrimination, harassment, retaliation, unpaid wages, minimum wage,
+  paid sick time, non-compete, workers'-compensation. Triggers: "Arizona
+  employment", "Arizona wrongful termination", "AEPA", "Arizona at-will", "ACRA
+  Arizona discrimination", "Arizona Civil Rights Act", "Arizona unpaid wages",
+  "Arizona Wage Act", "Arizona minimum wage", "Arizona paid sick time", "Arizona
+  non-compete", "Valley Medical Specialists v Farber", "workers comp exclusive
+  remedy", "Arizona right-to-work". Covers AEPA (A.R.S. 23-1501) at-will baseline, ACRA
+  (A.R.S. 41-1461) Title VII discrimination (15+ employees), Arizona Wage Act (§
+  23-350 et seq.) with treble-damages (§ 23-355), minimum wage and paid sick time
+  (§ 23-363/23-371), non-compete per *Valley Medical Specialists v.
+  Farber*, workers'-compensation exclusive remedy (§ 23-1022), right-to-work.
+version: 0.1.7
 ---
 
 # Arizona Employment Law

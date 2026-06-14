@@ -449,7 +449,9 @@ def main() -> int:
 
         md = render_chapter_md(chapter, description, chapter_caption, sections, fetched)
         out_path = out_dir / f"RCW-{short.replace('.', '_')}.md"
-        out_path.write_text(md, encoding="utf-8")
+        tmp = out_path.with_suffix(".md.tmp")
+        tmp.write_text(md, encoding="utf-8")
+        tmp.replace(out_path)
         print(f"  wrote {out_path} ({len(md):,} bytes)", flush=True)
         grand_total += len(sections)
 

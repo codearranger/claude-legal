@@ -1,35 +1,18 @@
 ---
 name: ny-justice-courts
 description: >
-  Use when drafting or filing in a New York Town or Village
-  Justice Court — the ~1,250 court-of-record limited-
-  jurisdiction civil layer established under the **Uniform
-  Justice Court Act (UJCA)** with procedural rules at
-  **22 NYCRR Part 214**. Triggers include 'Town Justice
-  Court', 'Village Justice Court', 'Town Court', 'Village
-  Court', 'East Hampton Justice Court', 'Southampton Town
-  Justice Court', 'Riverhead Town Justice Court', 'Southold
-  Town Justice Court', 'Shelter Island Town Justice Court',
-  'Greenburgh Town Court', 'Brookhaven Town Court' (limited),
-  'Smithtown Town Court' (limited), 'UJCA', 'Uniform Justice
-  Court Act', '$3,000 small claims', 'Justice Court Manual',
-  'OCA Office of Court Administration justice court', 'Town
-  Court traffic and L&T'. Covers the civil jurisdiction up
-  to $3,000 (UJCA § 202), small claims up to $3,000 (UJCA
-  § 1801), and the part-time-judge dynamics that distinguish
-  Justice Courts from full-time courts: most Town and Village
-  Justice Courts sit in town halls or municipal buildings
-  with part-time elected lay judges and a single clerk;
-  hearings are often held in the evening; the L&T docket is
-  often substantial in rural and exurban towns. NOT for
-  cities (UCCA — see `ny-city-courts`); not for Long Island
-  Districts (UDCA — see `ny-nassau-dc` and `ny-suffolk-dc`);
-  not for NYC Civil Court (Civil Court Act — see
-  `ny-nyc-civil-court`). Especially relevant for **eastern
-  Suffolk County** (East Hampton, Southampton, Riverhead,
-  Shelter Island, Southold), which is excluded from Suffolk
-  District Court coverage.
-version: 0.1.0
+  Use when drafting or filing in a New York Town or Village Justice Court
+  (~1,250 courts statewide) established under the Uniform Justice Court Act
+  (UJCA) with procedural rules at 22 NYCRR Part 214. Triggers include 'Town
+  Justice Court', 'Village Justice Court', 'UJCA', '$3,000 small claims',
+  'East Hampton Justice', 'Southampton Town', 'Riverhead Town', 'Shelter Island'.
+  Covers civil jurisdiction up to $3,000 (UJCA § 202), small claims up to $3,000,
+  and part-time-judge lay-bench dynamics. NOT for cities (use `ny-city-courts`),
+  Long Island Districts (use `ny-nassau-dc` / `ny-suffolk-dc`), or NYC Civil
+  Court (use `ny-nyc-civil-court`). Especially relevant for **eastern Suffolk
+  County** (East Hampton, Southampton, Riverhead, Shelter Island, Southold),
+  which routes to Town Justice Courts, not Suffolk District Court.
+version: 0.1.2
 ---
 
 # Town & Village Justice Courts (UJCA / 22 NYCRR Part 214)

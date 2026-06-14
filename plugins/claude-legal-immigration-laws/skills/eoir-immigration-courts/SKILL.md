@@ -1,27 +1,19 @@
 ---
 name: eoir-immigration-courts
 description: >
-  Use this skill to understand the immigration-court system and the procedural
-  "court rules" that govern filings before it — the structural / formatting
-  anchor for every EOIR filing, analogous to a state plugin's statewide-format
-  skill. Covers the Executive Office for Immigration Review (EOIR): the ~70
-  immigration courts and the Office of the Chief Immigration Judge, the
-  immigration judges and the Board of Immigration Appeals, jurisdiction and
-  venue (and change of venue), the master-calendar vs. individual-calendar
-  hearing structure, and the two layers of procedural authority — the BINDING
-  regulations at 8 CFR Part 1003 / 1240 / 1208 and the procedural manuals (the
-  Immigration Court Practice Manual and the BIA Practice Manual). Triggers
-  include "immigration court rules", "ICPM", "immigration court practice
-  manual", "BIA practice manual", "how do I file in immigration court", "EOIR
-  filing format", "ECAS", "EOIR eFiling", "master calendar vs individual
-  hearing", "change of venue immigration court", "which immigration court",
-  "page limits immigration court", "proof of service EOIR", "tab and label
-  exhibits", "cover page immigration court", "what court is my removal case in".
-  Produces filing-format checklists, a caption/cover-page + proof-of-service
-  scaffold, and venue / change-of-venue worksheets. Composes with
-  eoir-removal-defense, eoir-motions-to-reopen-reconsider, bia-appeals,
-  immigration-deadlines, and immigration-fact-check.
-version: 0.1.0
+  Use this skill to understand the EOIR immigration-court system and filing
+  rules — the structural/formatting anchor for every EOIR filing. Covers the
+  Executive Office for Immigration Review (EOIR): ~70 courts, immigration
+  judges, Board of Immigration Appeals, jurisdiction, venue, change of venue,
+  master-calendar vs. individual-calendar hearings, and the procedural authority
+  (8 CFR Parts 1003/1240/1208 binding regulations + ICPM/BIA Practice Manual
+  guidance). Triggers: "immigration court rules", "ICPM", "how do I file in
+  immigration court", "EOIR filing format", "ECAS", "eFiling", "master calendar
+  hearing", "change of venue", "page limits immigration court", "proof of
+  service EOIR", "cover page", "which immigration court". Produces filing
+  checklists, caption/cover-page/service scaffold, venue worksheets. Composes
+  with eoir-removal-defense, bia-appeals, and immigration-fact-check.
+version: 0.1.1
 ---
 
 # EOIR — The Immigration Courts and Their Rules

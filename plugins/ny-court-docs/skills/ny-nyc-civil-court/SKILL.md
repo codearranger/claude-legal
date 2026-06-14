@@ -1,31 +1,19 @@
 ---
 name: ny-nyc-civil-court
 description: >
-  Use when drafting or filing in the Civil Court of the City
-  of New York — the separate trial court (Civil Court Act,
-  NYC Charter § 2300 et seq.) handling civil actions up to
-  $50,000 and small claims up to $10,000 across five borough
-  branches. Triggers include 'NYC Civil Court', 'Civil Court
-  of the City of New York', 'New York County Civil Court',
-  'Kings County Civil Court', 'Brooklyn Civil Court', 'Bronx
-  Civil Court', 'Queens Civil Court', 'Richmond County Civil
-  Court', 'Staten Island Civil Court', '111 Centre Street
-  civil', '141 Livingston Street civil', 'CCEF', 'UCMS NYC',
-  'Consumer Credit Part', 'NYC Civil Court small claims',
-  '$50,000 civil', '$10,000 small claims', 'CPLR 3015(e)
-  default-judgment scrutiny', '22 NYCRR § 208', '22 NYCRR
-  § 202.27-a', 'Notice of Petition Civil Court'. Covers
-  the five borough branches' filing protocols, the Consumer
-  Credit Part procedures (the highest-volume debt-collection
-  forum in the state, ~150,000+ filings annually pre-CCFA),
-  the 22 NYCRR Part 208 / § 208.6-a default-scrutiny rule,
-  the UCMS / CCEF electronic-filing system (distinct from
-  NYSCEF used in Supreme Court), and the borough-specific
-  scheduling and clerk practices. NOT a substitute for
-  Supreme Court (`ny-nyco`, `ny-kings`, etc.) — Civil Court
-  is a separate court with its own jurisdictional ceiling
-  and its own filing system.
-version: 0.1.0
+  Use when drafting or filing in the Civil Court of the City of New York
+  — the separate trial court (Civil Court Act, NYC Charter § 2300 et seq.)
+  handling civil actions up to $50,000 and small claims up to $10,000 across
+  five borough branches. Triggers include 'NYC Civil Court', 'Civil Court of
+  the City of New York', 'Civil Court small claims', 'CCEF', 'UCMS NYC',
+  'Consumer Credit Part', '$50,000 civil', '22 NYCRR § 208', '22 NYCRR
+  § 202.27-a'. Covers five borough branches' filing protocols; Consumer Credit
+  Part procedures (highest-volume debt-collection forum in state, ~150,000+
+  filings pre-CCFA); 22 NYCRR Part 208 / § 208.6-a default-scrutiny rule;
+  UCMS / CCEF electronic-filing system (distinct from NYSCEF); and borough-specific
+  scheduling. NOT a substitute for Supreme Court (separate jurisdictional ceiling
+  + filing system).
+version: 0.1.2
 ---
 
 # Civil Court of the City of New York

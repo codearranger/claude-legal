@@ -1,27 +1,19 @@
 ---
 name: immigration-case-law
 description: >
-  Use this skill whenever an immigration matter needs LIVE case-law or
-  foreign-law research, so the agent reaches for the two bundled free MCP
-  servers (CourtListener and Legal Data Hunter) instead of citing from
-  memory. Triggers include "find circuit case law on", "what does the
-  Ninth Circuit say about", "petition for review precedent", "find BIA
-  decisions", "Matter of", "is this immigration case real", "verify this
-  I&N Dec. cite", "asylum case law", "cancellation of removal precedent",
-  "particular social group cases", "categorical approach case law",
-  "find the federal docket", "habeas precedent", "country conditions
-  law", "what is the law in [country of origin]", "is [conduct] illegal
-  in [country]", "foreign statute for my asylum claim". Routes circuit /
-  Supreme Court / district-court authority and federal dockets to the
-  CourtListener MCP, BIA precedent (I&N Dec.) to CourtListener plus the
-  EOIR Virtual Law Library as publisher of record, AAO non-precedent
-  decisions to the USCIS reading room, and country-of-origin law
-  (statutes, penal codes, case law of 100+ countries — often decisive in
-  asylum claims) to the Legal Data Hunter MCP. Enforces never-cite-from-
-  memory, the INA-vs-8-U.S.C. search trap, and the AG-certification
-  check for BIA precedent. Composes with immigration-fact-check,
-  circuit-petition-for-review, bia-appeals, and eoir-removal-defense.
-version: 0.1.0
+  Use this skill for LIVE case-law or foreign-law research in immigration
+  matters — routes to bundled free MCP servers (CourtListener and Legal Data
+  Hunter) instead of citing from memory. Triggers: "find circuit case law on",
+  "Ninth Circuit immigration", "petition for review precedent", "find BIA
+  decisions", "Matter of", "verify this I&N Dec. cite", "asylum case law",
+  "cancellation precedent", "particular social group cases", "find the federal
+  docket", "country conditions law", "what is the law in [country]", "is
+  [conduct] illegal in [country]", "foreign statute for my asylum claim". Routes
+  circuit/Supreme Court/district-court authority and dockets to CourtListener;
+  BIA precedent (I&N Dec.) to CourtListener + EOIR Virtual Law Library; AAO to
+  USCIS reading room; country-of-origin law (100+ countries) to Legal Data
+  Hunter. Enforces never-cite-from-memory and AG-certification check.
+version: 0.1.1
 ---
 
 # Immigration Case-Law Research (bundled MCP servers)

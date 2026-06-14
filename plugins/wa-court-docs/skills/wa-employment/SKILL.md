@@ -1,29 +1,16 @@
 ---
 name: wa-employment
 description: >
-  Use when handling a Washington employment matter —
-  wage-and-hour claims, payment of wages, the **Washington
-  Law Against Discrimination (WLAD) at RCW 49.60** (with
-  no statutory damages cap and mandatory attorney's fees),
-  Paid Sick Leave, Paid Family and Medical Leave under
-  RCW Title 50A, the Equal Pay Opportunity Act, the
-  Healthy Starts Act pregnancy-accommodation regime, the
-  **non-compete reform at RCW 49.62** that invalidates
-  non-competes below an annual-COL-adjusted salary
-  threshold, and the **L&I-exclusive workers'-
-  compensation regime at RCW 51** with its narrow
-  intentional-injury carve-out. Substantive framework
-  lives in RCW Title 49 (Labor) + Title 50A (PFML) +
-  Title 51 (Industrial Insurance). Current minimum wage,
-  damages multipliers, threshold dollar amounts, and SOL
-  day counts live in the references corpus, not embedded
-  here. Triggers include "Washington employment", "WA
-  wage theft", "RCW 49.48", "WLAD", "RCW 49.60", "WA Paid
-  Sick Leave", "WA PFML", "RCW 50A", "WA non-compete",
-  "RCW 49.62", "WA workers compensation L&I", "WA pay
-  transparency", "RCW 49.58", "WA discrimination at
-  work".
-version: 0.2.0
+  Use when handling a Washington employment matter — wage-and-hour claims,
+  wage payment, WLAD (RCW 49.60) with no damages cap and mandatory attorney's
+  fees, Paid Sick Leave, PFML (RCW 50A), Equal Pay Opportunity Act, non-compete
+  reform (RCW 49.62) invalidating non-competes below COL-adjusted salary
+  threshold, and L&I-exclusive workers' compensation (RCW 51) with narrow
+  intentional-injury carve-out. Substantive framework: RCW Title 49 (Labor),
+  Title 50A (PFML), Title 51 (Workers' Comp). Triggers include "Washington
+  employment", "wage theft", "WLAD", "RCW 49.60", "Paid Sick Leave", "PFML",
+  "non-compete", "RCW 49.62", "workers compensation", "discrimination".
+version: 0.2.1
 ---
 
 # Washington Employment Law — Subject-Matter Bundle
