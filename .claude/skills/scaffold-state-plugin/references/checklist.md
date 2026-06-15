@@ -151,7 +151,7 @@ for the full puller-design discipline.
 
 ## Phase 1 — Plugin manifest
 
-- [ ] Create `plugins/<abbr>-court-docs/.claude-plugin/plugin.json`
+- [ ] Create `plugins/us-<abbr>-court-docs/.claude-plugin/plugin.json`
 - [ ] Set `name`, `version: "0.1.0"`, `description`, keywords
 - [ ] **Add `"dependencies": ["claude-legal-federal-laws",
       {"name": "document-skills", "marketplace":
@@ -173,7 +173,7 @@ for the full puller-design discipline.
 ## Phase 2 — Directory scaffolding
 
 - [ ] Create the 21 skill directories under
-      `plugins/<abbr>-court-docs/skills/`:
+      `plugins/us-<abbr>-court-docs/skills/`:
   - [ ] `<abbr>-statewide-format/references/templates/`
   - [ ] `<abbr>-<primary-court-slug>/references/`
   - [ ] `<abbr>-<secondary-court-slug>/references/`
@@ -207,8 +207,8 @@ for the full puller-design discipline.
   - [ ] `<abbr>-consumer-debt/references/examples/`
   - [ ] `<abbr>-family-law/references/examples/` (NEW
         BASELINE — subject bundle alongside consumer-debt)
-- [ ] Create `plugins/<abbr>-court-docs/scripts/`
-- [ ] Create `plugins/<abbr>-court-docs/evals/` with the five
+- [ ] Create `plugins/us-<abbr>-court-docs/scripts/`
+- [ ] Create `plugins/us-<abbr>-court-docs/evals/` with the five
       subdirs: drafting, formatting, procedural, subject-
       matter, integration
 
@@ -242,7 +242,7 @@ Required for every SKILL.md:
 ```bash
 # In the new SKILL.md, look for drift hazards:
 grep -nE '\$[0-9]+|[0-9]+ days|[0-9]+ years|[0-9]+%|RCW [0-9]+\.[0-9]+\.[0-9]+\(' \
-  plugins/<abbr>-court-docs/skills/<abbr>-*/SKILL.md
+  plugins/us-<abbr>-court-docs/skills/<abbr>-*/SKILL.md
 ```
 
 Each hit should be one of:
@@ -458,13 +458,13 @@ The substantive bundle. Mirror `co-family-law` structure:
 
 ## Phase 5 — Scripts
 
-- [ ] Adapt `plugins/<abbr>-court-docs/scripts/format-check.py`
+- [ ] Adapt `plugins/us-<abbr>-court-docs/scripts/format-check.py`
       from the OR plugin
   - Update rule reference in the report header
   - Adjust acceptable-fonts list to state convention
   - Adjust color-handling per state rule (some states allow
     color in certain contexts)
-- [ ] Adapt `plugins/<abbr>-court-docs/scripts/case-calendar.py`
+- [ ] Adapt `plugins/us-<abbr>-court-docs/scripts/case-calendar.py`
       from the OR plugin
   - Update FIXED_HOLIDAYS list with state-specific holidays
   - Update WEEK_HOLIDAYS list if state has unique week-based
@@ -550,7 +550,7 @@ grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
 |wa-court-docs|or-court-docs|ca-court-docs|co-court-docs|in-court-docs|ny-court-docs\
 |like (Oregon|California|Colorado|Indiana|Washington|New York)\
 |unlike (Oregon|California|Colorado|Indiana|Washington|New York)\
-|federal/(WA|OR|CA|CO|IN|NY)" plugins/<abbr>-court-docs/ \
+|federal/(WA|OR|CA|CO|IN|NY)" plugins/us-<abbr>-court-docs/ \
   --include="*.md" --include="*.json"
 ```
 
@@ -568,7 +568,7 @@ grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
 
 - [ ] `python3 -m json.tool .claude-plugin/marketplace.json`
       — must round-trip
-- [ ] `python3 -m json.tool plugins/<abbr>-court-docs/.claude-plugin/plugin.json`
+- [ ] `python3 -m json.tool plugins/us-<abbr>-court-docs/.claude-plugin/plugin.json`
       — must round-trip
 - [ ] Any `_manifest.json` files produced by pull scripts
       round-trip cleanly
@@ -581,11 +581,11 @@ Run this scan to confirm every `<state>-XXX` reference inside
 the plugin resolves to an actual skill directory:
 
 ```bash
-for f in plugins/<abbr>-court-docs/skills/*/SKILL.md; do
+for f in plugins/us-<abbr>-court-docs/skills/*/SKILL.md; do
   base=$(basename $(dirname $f))
   grep -oE '<abbr>-[a-z0-9][a-z0-9-]+' "$f" | sort -u | while read ref; do
-    if [ "$ref" = "$base" ] || [ "$ref" = "<abbr>-court-docs" ]; then continue; fi
-    if [ ! -d "plugins/<abbr>-court-docs/skills/$ref" ]; then
+    if [ "$ref" = "$base" ] || [ "$ref" = "us-<abbr>-court-docs" ]; then continue; fi
+    if [ ! -d "plugins/us-<abbr>-court-docs/skills/$ref" ]; then
       echo "  $base -> BROKEN: $ref"
     fi
   done
@@ -604,7 +604,7 @@ corpus instead:
 # Look for embedded dollar amounts, year-tagged thresholds,
 # specific day counts, and subsection-level cites:
 grep -nE '\$[0-9]+|[0-9]+ days|[0-9]+ years|[0-9]+%|RCW [0-9]+\.[0-9]+\.[0-9]+\(|2024 threshold|2025 threshold' \
-  plugins/<abbr>-court-docs/skills/*/SKILL.md
+  plugins/us-<abbr>-court-docs/skills/*/SKILL.md
 ```
 
 For each hit, classify:
@@ -623,7 +623,7 @@ hazards:
 
 ```bash
 grep -nE '\$[0-9]+|[0-9]+ days|[0-9]+ years|[0-9]+%|2024 threshold|2025 threshold' \
-  plugins/<abbr>-court-docs/evals/**/*.md
+  plugins/us-<abbr>-court-docs/evals/**/*.md
 ```
 
 Same classification. User-prompt facts are fine; embedded

@@ -121,7 +121,7 @@ and 35 skills depending on state complexity.
 The 23-skill base, parameterized by the items above:
 
 ```
-plugins/<abbr>-court-docs/
+plugins/us-<abbr>-court-docs/
   .claude-plugin/plugin.json
   scripts/
     format-check.py            # state format-rule compliance
@@ -215,7 +215,7 @@ python3 .claude/skills/scaffold-state-plugin/scripts/scaffold-state.py \
 
 The script:
 
-- Creates `plugins/<abbr>-court-docs/` and all 21 skill dirs
+- Creates `plugins/us-<abbr>-court-docs/` and all 21 skill dirs
 - Generates a `plugin.json` from the provided metadata
 - Copies the OR `format-check.py` and `case-calendar.py` to
   the new plugin, parameterizing the format rule and the
@@ -671,7 +671,7 @@ grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
 |wa-court-docs|or-court-docs|ca-court-docs|co-court-docs|in-court-docs|ny-court-docs\
 |like (Oregon|California|Colorado|Indiana|Washington|New York)\
 |unlike (Oregon|California|Colorado|Indiana|Washington|New York)\
-|federal/(WA|OR|CA|CO|IN|NY)" plugins/<abbr>-court-docs/ \
+|federal/(WA|OR|CA|CO|IN|NY)" plugins/us-<abbr>-court-docs/ \
   --include="*.md" --include="*.json"
 ```
 

@@ -515,7 +515,7 @@ def render_plugin_json(cfg: StateConfig) -> str:
     """Render the plugin.json file."""
     return json.dumps(
         {
-            "name": f"{cfg.abbr}-court-docs",
+            "name": f"us-{cfg.abbr}-court-docs",
             "version": "0.1.0",
             # State plugins depend on the shared federal-laws plugin
             # rather than embedding federal-debt-laws / ucc-model
@@ -583,11 +583,11 @@ def render_plugin_json(cfg: StateConfig) -> str:
 
 
 def render_plugin_readme(cfg: StateConfig) -> str:
-    """Render the top-level plugins/<abbr>-court-docs/README.md — the
+    """Render the top-level plugins/us-<abbr>-court-docs/README.md — the
     canonical human-facing plugin detail (the marketplace standard). The
     root README.md links here; marketplace.json carries only a short blurb."""
     return (
-        f"# {cfg.abbr}-court-docs — {cfg.name}\n\n"
+        f"# us-{cfg.abbr}-court-docs — {cfg.name}\n\n"
         f"Draft and format pleadings, declarations, motions, and proposed "
         f"orders for {cfg.name} courts.\n\n"
         f"> **NOT LEGAL ADVICE.** Output is a drafting aid; verify every "
@@ -638,7 +638,7 @@ def render_eval_readme(cfg: StateConfig) -> str:
     return f"""# Evals — Skill Regression Tests ({cfg.name})
 
 This folder contains prompt-based regression tests for each
-skill in the `{cfg.abbr}-court-docs` plugin.
+skill in the `us-{cfg.abbr}-court-docs` plugin.
 
 > **TODO**: Author evals across the five categories
 > (drafting, formatting, procedural, subject-matter,
@@ -659,7 +659,7 @@ skill in the `{cfg.abbr}-court-docs` plugin.
 
 def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool) -> None:
     """Generate the full plugin directory tree."""
-    plugin_dir = root / "plugins" / f"{cfg.abbr}-court-docs"
+    plugin_dir = root / "plugins" / f"us-{cfg.abbr}-court-docs"
 
     if plugin_dir.exists() and not force:
         print(
@@ -789,12 +789,12 @@ def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool
           f" for {cfg.name}")
     print("  4. Add 18+ evals across the five categories")
     print(f"  5. Flesh out the plugin README at"
-          f" plugins/{cfg.abbr}-court-docs/README.md (the canonical detail;"
+          f" plugins/us-{cfg.abbr}-court-docs/README.md (the canonical detail;"
           " a starter was written — fill in the TODO)")
-    print(f"  6. Register {cfg.abbr}-court-docs in"
+    print(f"  6. Register us-{cfg.abbr}-court-docs in"
           " .claude-plugin/marketplace.json (short blurb ending"
           " \"Full detail in the plugin README.\")")
-    print(f"  7. Add a one-row link to plugins/{cfg.abbr}-court-docs/README.md"
+    print(f"  7. Add a one-row link to plugins/us-{cfg.abbr}-court-docs/README.md"
           " in the root README.md table; update CLAUDE.md")
     print("  8. Run `python3 scripts/lint-skills.py`")
 
