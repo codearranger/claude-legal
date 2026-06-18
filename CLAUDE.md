@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state, plus two shared federal reference plugins. It ships **twelve plugins total — ten state plugins + two shared federal reference plugins**. **Each plugin's `README.md` is the canonical detail** on skills, venues, subject bundles, reference corpora, and quirks.
 
-- **`claude-legal-federal-laws`** — Shared plugin holding the canonical copy of federal U.S. debt-collection and consumer-finance law (FDCPA, FCRA, TILA, ECOA, Reg B–Z), the model UCC (Articles 1, 2, 3, 9), and the Bankruptcy Code (Title 11 chapters 1–15). Every state plugin declares this as a dependency and symlinks into its `references/` tree. Also ships a 6-skill nationwide FCRA consumer credit-report-rights self-help layer (`consumer-report-ordering`, `consumer-credit-disputes`, `consumer-report-accuracy`, `consumer-harm-documentation`, `consumer-credit-monitoring`) plus a `case-law-research` skill that drives the bundled CourtListener + Legal Data Hunter MCP servers.
+- **`claude-legal-federal-laws`** — Shared plugin holding the canonical copy of federal U.S. debt-collection and consumer-finance law (FDCPA, FCRA, TILA, ECOA, Reg B–Z), the model UCC (Articles 1, 2, 3, 9), the Bankruptcy Code (Title 11 chapters 1–15), and the Americans with Disabilities Act (42 U.S.C. ch. 126) with its DOJ/EEOC implementing regulations (29 CFR 1630; 28 CFR 35/36 incl. the 2010 ADA Standards). Every state plugin declares this as a dependency and symlinks into its `references/` tree. Also ships a 5-skill nationwide FCRA consumer credit-report-rights self-help layer (`consumer-report-ordering`, `consumer-credit-disputes`, `consumer-report-accuracy`, `consumer-harm-documentation`, `consumer-credit-monitoring`), an `ada-rights` ADA self-help skill (Title I/II/III accommodation requests, grievances, DOJ complaints, EEOC charge intake), plus a `case-law-research` skill that drives the bundled CourtListener + Legal Data Hunter MCP servers.
 
 - **`claude-legal-immigration-laws`** — Shared, venue-independent plugin for U.S. immigration law. Snapshotted verbatim: INA (8 U.S.C. Chapter 12), curated 8 CFR (DHS ch. I + EOIR/BIA ch. V) + 22 CFR visa/passport, and the Foreign Affairs Manual (AIA-chased from fam.state.gov). EOIR court-rules corpus (binding 8 CFR 1003/1240/1208 + ICPM/BIA-manual pointer stubs). Case law is on-demand (not snapshotted) via CourtListener + Legal Data Hunter. Also ships a 12-skill venue-independent self-help layer.
 
@@ -52,7 +52,7 @@ Per-plugin detail (full skills list, venues, subject bundles, reference corpora,
 
 | Plugin | Skills | Venue skills | Subject bundles | Distinctive | README |
 |---|---|---|---|---|---|
-| `claude-legal-federal-laws` | 6 | — | — | FCRA self-help (5) + `case-law-research`; bundled CourtListener + Legal Data Hunter MCP; shared federal corpora dependency of every state plugin | [README](plugins/claude-legal-federal-laws/README.md) |
+| `claude-legal-federal-laws` | 7 | — | — | FCRA self-help (5) + `ada-rights` (ADA Title I/II/III) + `case-law-research`; bundled CourtListener + Legal Data Hunter MCP; shared federal corpora dependency of every state plugin | [README](plugins/claude-legal-federal-laws/README.md) |
 | `claude-legal-immigration-laws` | 12 | 2 (EOIR + USCIS forums) | — | INA / 8 CFR / FAM verbatim; case law on-demand; notario-fraud warnings; severe-consequence gates | [README](plugins/claude-legal-immigration-laws/README.md) |
 | `wa-court-docs` | 33 | 6 + federal W.D. Wash. pro se | consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes + wa-cpa + wa-cema | GR 14; community property; RCW 7.105 CPO; thin-skill architecture pioneer | [README](plugins/wa-court-docs/README.md) |
 | `or-court-docs` | 21 | 2 + roll-up | consumer-debt | UTCR 2.010; **no interrogatories** without court order | [README](plugins/or-court-docs/README.md) |
@@ -71,7 +71,7 @@ Each plugin's `README.md` carries full corpus detail (scope, pull mechanics, acc
 
 | Plugin | State-specific corpora | State-specific pullers | Access notes |
 |---|---|---|---|
-| `claude-legal-federal-laws` | `federal-debt-laws/` (20 sources), `federal-bankruptcy/` (8 chapters), `ucc-model/` (Arts 1/2/3/9) | `pull_federal_debt_laws.py`, `pull_ucc.py` | uscode.house.gov USLM XML + ecfr.gov versioner; open |
+| `claude-legal-federal-laws` | `federal-debt-laws/` (20 sources), `federal-bankruptcy/` (8 chapters), `ucc-model/` (Arts 1/2/3/9), `ada-laws/` (ADA statute + 29 CFR 1630 + 28 CFR 35/36) | `pull_federal_debt_laws.py`, `pull_ucc.py`, `pull_ada.py` | uscode.house.gov USLM XML + ecfr.gov versioner; open |
 | `claude-legal-immigration-laws` | `immigration-statutes/` (INA), `immigration-regulations/` (8 CFR + 22 CFR), `foreign-affairs-manual/` (FAM verbatim), `court-rules/` (EOIR stubs) | `pull_ina.py`, `pull_immigration_cfr.py`, `pull_fam.py`, `pull_eoir_manuals.py` | fam.state.gov AIA-chases omitted TLS intermediate; EOIR manuals = pointer stubs (JS-rendered + Akamai-gated) |
 | `wa-court-docs` | `court-rules/` (1,233 rules / 35 sets), `wa-rcw-debt/` (93 RCW chapters / 3,266 sections) | `pull_court_rules.py`, `pull_wa_rcw.py` | courts.wa.gov PDFs; app.leg.wa.gov; open |
 | `or-court-docs` | `court-rules/` (7 rule sets / ~2.4 MB), `or-ors-debt/` (35 ORS chapters / ~5.6 MB) | `pull_oregon_rules.py`, `pull_oregon_ors.py` | oregonlegislature.gov HTML/PDF; OJD SharePoint REST API; open |
@@ -99,6 +99,7 @@ python3 scripts/pull_court_rules.py --workers 12 \
   --manifest plugins/wa-court-docs/skills/wa-law-references/references/court-rules/_manifest.json
 python3 scripts/pull_federal_debt_laws.py
 python3 scripts/pull_ucc.py --workers 8
+python3 scripts/pull_ada.py                                    # ADA statute + 29 CFR 1630 + 28 CFR 35/36 → ada-laws/
 python3 scripts/pull_wa_rcw.py --workers 12
 
 # Refresh reference corpora — Oregon
@@ -275,7 +276,8 @@ plugins/claude-legal-federal-laws/  # SHARED federal-law plugin; depended on by 
   references/federal-debt-laws/     # FDCPA, FCRA, TILA, ECOA, EFTA, RESPA, SCRA, FHA, TSR + Reg B/E/F/M/N/P/V/X/Z/DD — canonical source
   references/federal-bankruptcy/    # Title 11 U.S.C. chapters 1, 3, 5, 7, 11, 12, 13, 15 — canonical source
   references/ucc-model/             # Model UCC Articles 1, 2, 3, 9 — canonical source
-  skills/                           # 6 skills: consumer-report-ordering, consumer-credit-disputes, consumer-report-accuracy, consumer-harm-documentation, consumer-credit-monitoring, case-law-research
+  references/ada-laws/              # ADA (42 U.S.C. ch. 126) + 29 CFR 1630 + 28 CFR 35/36 (incl. 2010 ADA Standards) — canonical source
+  skills/                           # 7 skills: consumer-report-ordering, consumer-credit-disputes, consumer-report-accuracy, consumer-harm-documentation, consumer-credit-monitoring, ada-rights, case-law-research
   .mcp.json                         # bundled free MCP servers: courtlistener + legal-data-hunter
 plugins/claude-legal-immigration-laws/  # SHARED immigration-law plugin: reference corpora + 12-skill self-help layer
   .claude-plugin/plugin.json
@@ -312,6 +314,7 @@ scripts/
   pull_wa_rcw.py                    # app.leg.wa.gov → WA RCW chapters
   pull_federal_debt_laws.py         # uscode.house.gov + ecfr.gov → shared federal corpus
   pull_ucc.py                       # law.cornell.edu/ucc → shared model UCC
+  pull_ada.py                       # uscode.house.gov + ecfr.gov → ADA statute + DOJ/EEOC regs
   pull_oregon_rules.py              # oregonlegislature.gov + courts.oregon.gov SharePoint → OR court rules
   pull_oregon_ors.py                # oregonlegislature.gov → OR ORS chapters
   pull_ca_court_rules.py            # courts.ca.gov/cms/rules → CA court rules

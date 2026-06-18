@@ -12,7 +12,7 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 
 | Plugin | What it covers |
 |---|---|
-| [`claude-legal-federal-laws`](plugins/claude-legal-federal-laws/README.md) | Canonical federal consumer-finance corpora (FDCPA / FCRA / TILA / ECOA / Reg B-Z, RESPA / SCRA / FHA / TSR), the Bankruptcy Code, and the model UCC — a dependency of every state plugin — plus a nationwide FCRA consumer credit-report-rights skills layer, bundled CourtListener + Legal Data Hunter MCP servers, and a `case-law-research` skill that drives them. |
+| [`claude-legal-federal-laws`](plugins/claude-legal-federal-laws/README.md) | Canonical federal consumer-finance corpora (FDCPA / FCRA / TILA / ECOA / Reg B-Z, RESPA / SCRA / FHA / TSR), the Bankruptcy Code, the model UCC, and the Americans with Disabilities Act (42 U.S.C. ch. 126) with its DOJ/EEOC regulations (29 CFR 1630, 28 CFR 35/36) — a dependency of every state plugin — plus a nationwide FCRA consumer credit-report-rights skills layer, an `ada-rights` ADA self-help skill, bundled CourtListener + Legal Data Hunter MCP servers, and a `case-law-research` skill that drives them. |
 | [`claude-legal-immigration-laws`](plugins/claude-legal-immigration-laws/README.md) | U.S. immigration law (INA / 8 CFR / 22 CFR / FAM mirrored verbatim + EOIR court rules), an on-demand case-law index (circuits / BIA / AAO), and a 12-skill venue-independent self-help layer (incl. `immigration-case-law`, which drives the bundled MCP servers). |
 
 ### State plugins
@@ -83,7 +83,7 @@ Anthropic's [`claude-for-legal`](https://github.com/anthropics/claude-for-legal)
 | `tn-court-docs` | 25 Tenn. Code Ann. chapters via `pull_tn_statutes.py`; well-formed pointer stubs when Justia 403s the runner | 4 statewide rule sets / ~2.7 MB / 473 rule sub-pages verbatim via `pull_tn_court_rules.py` from tncourts.gov; county local rules as a pointer stub | shared |
 | `mi-court-docs` | verbatim MCL — 13 topic files / ~70 sections / ~211 KB via `pull_michigan_statutes.py` from legislature.mi.gov (objectName=mcl-600-5701 per-section scheme) | verbatim MCR (ch. 1-4) + MRE — 362 rules / ~1.4 MB via `pull_michigan_rules.py` (courtrules.net mirror; courts.michigan.gov gates its rule-asset URLs) + curated civil-rules / evidence-rules / fees / citation / key-cases / online-sources | shared |
 | `az-court-docs` | verbatim A.R.S. — 12 topic files / ~60 sections via `pull_arizona_statutes.py` from azleg.gov (ungated per-section .htm fragments) | verbatim ARCP + Ariz. R. Evid. + ARFLP + JCRCP — 4 files / ~406 rules via `pull_arizona_rules.py` (courtrules.net mirror; azcourts.gov is Cloudflare-gated) + curated civil-rules / evidence-rules / family-rules / fees / citation / key-cases / online-sources | shared |
-| `claude-legal-federal-laws` | n/a | n/a | **20 federal-debt-laws + 4 UCC + 8 Bankruptcy** |
+| `claude-legal-federal-laws` | n/a | n/a | **20 federal-debt-laws + 4 UCC + 8 Bankruptcy + 4 ADA (statute + 29 CFR 1630 + 28 CFR 35/36)** via `pull_federal_debt_laws.py` / `pull_ucc.py` / `pull_ada.py` |
 | `claude-legal-immigration-laws` | INA = 8 U.S.C. ch 12, 5 subchapters / ~1.6 MB verbatim via `pull_ina.py` (+ INA↔8 USC crosswalk) | 33 CFR parts / ~3.6 MB verbatim via `pull_immigration_cfr.py` (8 CFR DHS ch I + EOIR/BIA ch V + 22 CFR visa/passport); EOIR court-rules corpus (binding 8 CFR 1003/1240/1208 + ICPM / BIA-PM stubs via `pull_eoir_manuals.py`) | n/a — standalone; FAM ~3.6 MB verbatim via `pull_fam.py`; **12-skill self-help layer**; case law (circuits / BIA / AAO) on-demand per `legal-data-apis.md` |
 
 ## Repo layout
@@ -102,7 +102,8 @@ claude-legal/
 │   │   └── references/
 │   │       ├── federal-debt-laws/    # FDCPA, FCRA, TILA, ECOA, EFTA, Garnishment, RESPA, SCRA, FHA, TSR + Reg B/E/F/M/N/P/V/X/Z/DD
 │   │       ├── federal-bankruptcy/   # Title 11 U.S.C. chapters 1, 3, 5, 7, 11, 12, 13, 15
-│   │       └── ucc-model/            # Model UCC Articles 1, 2, 3, 9
+│   │       ├── ucc-model/            # Model UCC Articles 1, 2, 3, 9
+│   │       └── ada-laws/             # ADA (42 U.S.C. ch. 126) + 29 CFR 1630 + 28 CFR 35/36 (incl. 2010 ADA Standards)
 │   ├── claude-legal-immigration-laws/  # SHARED immigration plugin: reference corpora + 12-skill self-help layer
 │   │   ├── .claude-plugin/plugin.json
 │   │   ├── skills/                        # 11 venue-independent skills (immigration-pro-se, eoir-immigration-courts, eoir-removal-defense, bia-appeals, circuit-petition-for-review, consular-visa-refusal, …)
@@ -148,6 +149,7 @@ claude-legal/
     ├── pull_arizona_statutes.py      # azleg.gov (ungated per-section .htm fragments) → verbatim A.R.S.
     ├── pull_federal_debt_laws.py     # USC titles 11/12/15/42/50 + CFR titles 12/16 → shared federal corpus
     ├── pull_ucc.py                   # law.cornell.edu/ucc → shared model UCC
+    ├── pull_ada.py                   # uscode.house.gov + ecfr.gov → ADA statute + DOJ/EEOC regs
     ├── pull_ina.py                   # uscode.house.gov USLM XML → INA (8 U.S.C. ch 12)
     ├── pull_immigration_cfr.py       # ecfr.gov versioner API → 8 CFR + 22 CFR immigration parts
     ├── pull_fam.py                   # fam.state.gov JSON TOC API + /FAM/<vol>/<id>.html (AIA-chases the server's omitted TLS intermediate) → FAM verbatim

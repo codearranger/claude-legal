@@ -124,6 +124,16 @@ jobs:
         timeout-minutes: 15
         run: python3 scripts/pull_ucc.py
 
+      # ADA statute (42 U.S.C. ch. 126) from uscode.house.gov USLM XML and
+      # the EEOC/DOJ implementing regs (29 CFR 1630, 28 CFR 35/36) from the
+      # eCFR versioner API — both ungated government endpoints, same shape as
+      # the federal-debt-laws pull.
+      - name: Federal — ADA statute + DOJ/EEOC regulations
+        if: matrix.target == 'federal'
+        continue-on-error: true
+        timeout-minutes: 10
+        run: python3 scripts/pull_ada.py
+
       # ---- immigration — shared, venue-independent corpus ----
       # INA (8 U.S.C. ch 12) from uscode.house.gov USLM XML and the
       # curated 8 CFR / 22 CFR parts from the eCFR versioner API both
