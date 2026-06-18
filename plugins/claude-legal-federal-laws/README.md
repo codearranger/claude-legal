@@ -7,6 +7,7 @@ credit-report-rights skills layer.
 
 - `references/federal-debt-laws/` — verbatim text of U.S. consumer-finance and debt-collection statutes (FDCPA, FCRA, TILA, ECOA) and the CFPB regulations that implement them (Reg B, Reg F, Reg V, Reg Z). Pulled from `uscode.house.gov` USLM XML and the eCFR Versioner API by [`scripts/pull_federal_debt_laws.py`](../../scripts/pull_federal_debt_laws.py).
 - `references/ucc-model/` — model Uniform Commercial Code, Articles 1 (General Provisions), 2 (Sales), 3 (Negotiable Instruments), and 9 (Secured Transactions). The *model* text as drafted by ALI/ULC; pulled from Cornell Legal Information Institute (`law.cornell.edu/ucc`) by [`scripts/pull_ucc.py`](../../scripts/pull_ucc.py). State-court matters should cite the enacting state code (e.g., RCW Title 62A for Washington), not the model text — the model is included here for interpreting uniform language across states.
+- `references/ada-laws/` — the **Americans with Disabilities Act** (42 U.S.C. ch. 126, §§ 12101–12213) and its three core implementing regulations: EEOC Title I (29 C.F.R. Part 1630), DOJ Title II (28 C.F.R. Part 35), and DOJ Title III (28 C.F.R. Part 36, whose appendices carry the 2010 ADA Standards for Accessible Design). Verbatim from `uscode.house.gov` USLM XML and the eCFR Versioner API; pulled by [`scripts/pull_ada.py`](../../scripts/pull_ada.py). Mirrors the corpus at [ada.gov/law-and-regs](https://www.ada.gov/law-and-regs/). See [`references/ada-laws/README.md`](references/ada-laws/README.md).
 - `skills/` — a **consumer credit-report-rights skills layer** built on the FCRA (15 U.S.C. §§ 1681 et seq.). These are state-independent, matter-neutral self-help skills that produce documents (request/dispute letters, identity-theft block requests, communication logs, damages ledgers, harm declarations, re-notification demands, review checklists), not legal advice. They cite the FCRA text in `references/federal-debt-laws/FCRA.md` and compose with the per-state `*-consumer-debt` and `*-pro-se` skills.
 
   | Skill | Role |
@@ -16,6 +17,7 @@ credit-report-rights skills layer.
   | `consumer-report-accuracy` | PII hygiene; Date of First Delinquency + re-aging; the "disputed by consumer" flag |
   | `consumer-harm-documentation` | Communication logs, damages ledgers, and harm declarations |
   | `consumer-credit-monitoring` | Adverse-action proof; § 1681i(d) re-notification; ongoing review |
+  | `ada-rights` | Nationwide ADA self-help: reasonable-accommodation / reasonable-modification requests, ADA grievances, DOJ ADA complaints, and EEOC charge intake — routed across Title I (employment / 29 CFR 1630), Title II (state & local government / 28 CFR 35), and Title III (public accommodations / 28 CFR 36 + 2010 Standards) |
   | `case-law-research` | Live legal research via the bundled MCP servers (below): U.S. case law / RECAP dockets / judges via CourtListener, multi-jurisdictional + foreign law via Legal Data Hunter; never-cite-from-memory + quote-check discipline |
 
 ## Why it's a plugin
@@ -35,7 +37,7 @@ Because every state plugin depends on this plugin, these servers are available a
 
 ## Refresh
 
-The quarterly `refresh-references` GitHub Action runs `pull_federal_debt_laws.py` and `pull_ucc.py` against the paths in this plugin, then opens a PR. Federal/UCC content is now updated once per quarter instead of once per state.
+The quarterly `refresh-references` GitHub Action runs `pull_federal_debt_laws.py`, `pull_ucc.py`, and `pull_ada.py` against the paths in this plugin, then opens a PR. Federal/UCC/ADA content is now updated once per quarter instead of once per state.
 
 ## Not legal advice
 
