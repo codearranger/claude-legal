@@ -1,0 +1,36 @@
+{
+  "name": "id-court-docs",
+  "version": "0.1.0",
+  "dependencies": [
+    "claude-legal-federal-laws",
+    {
+      "name": "document-skills",
+      "marketplace": "anthropic-agent-skills"
+    }
+  ],
+  "description": "Draft and format pleadings, declarations, motions, notices of hearing, and proposed orders for Idaho's District Courts and their Magistrate Divisions. Applies the I.R.C.P. 2 / 10 form-of-documents rules; includes Ada County (Fourth Judicial District / Boise) and Bonneville County (Seventh Judicial District / Idaho Falls) District Court specifics plus a statewide county/judicial-district roll-up; supports self-represented (pro se) workflows on the iCourt e-filing system. Architected as matter-neutral civil-procedure skills (I.R.C.P. civil rules — note time computation lives in I.R.C.P. 2.2, not Rule 6 — I.R.E. evidence rules, fees and costs, deadlines, citation format) plus subject-matter bundles. Ships a consumer-debt bundle (FDCPA / Reg F / Idaho Consumer Protection Act / Idaho Collection Agency Act licensing / chain of title) and a family-law bundle (the separate Idaho Rules of Family Law Procedure, community property, and the Idaho Child Support Guidelines). All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/claude-legal",
+  "repository": "https://github.com/codearranger/claude-legal",
+  "license": "MIT",
+  "keywords": [
+    "idaho",
+    "legal",
+    "pleadings",
+    "pro-se",
+    "i.r.c.p.",
+    "i.r.e.",
+    "civil-rules",
+    "evidence-rules",
+    "discovery",
+    "hearings",
+    "post-judgment",
+    "fact-check",
+    "fdcpa",
+    "consumer-protection",
+    "debt-collection"
+  ]
+}

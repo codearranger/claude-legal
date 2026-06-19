@@ -1,0 +1,40 @@
+{
+  "version": "0.1.0",
+  "last_pulled": "2026-06-19",
+  "mode": "stub",
+  "source": "https://isc.idaho.gov/rules-procedure/",
+  "puller": "scripts/pull_idaho_rules.py",
+  "notes": "Pointer-stub corpus. To be populated verbatim by a future scripts/pull_idaho_rules.py from the Idaho Supreme Court rules pages (isc.idaho.gov). Per-rule print pattern https://isc.idaho.gov/rules-procedure/print/ircp/<n> and the https://isc.idaho.gov/ircp<n>-new pages; rule-set landings at /rules-procedure/ire, /rules-procedure/irfl, and /rules-procedure/irefs. Until the puller runs, each file is a well-formed pointer stub (header + canonical URL + scope note) directing to the canonical source. A _file_is_stub guard should preserve any committed verbatim content on a failed run.",
+  "targets": [
+    {
+      "set": "I.R.C.P.",
+      "name": "Idaho Rules of Civil Procedure",
+      "file": "IRCP-civil-procedure.md",
+      "url": "https://isc.idaho.gov/rules-procedure/ircp"
+    },
+    {
+      "set": "I.R.E.",
+      "name": "Idaho Rules of Evidence",
+      "file": "IRE-evidence.md",
+      "url": "https://isc.idaho.gov/rules-procedure/ire"
+    },
+    {
+      "set": "I.R.F.L.P.",
+      "name": "Idaho Rules of Family Law Procedure",
+      "file": "IRFLP-family-law-procedure.md",
+      "url": "https://isc.idaho.gov/rules-procedure/irfl"
+    },
+    {
+      "set": "I.A.R.",
+      "name": "Idaho Appellate Rules",
+      "file": "IAR-appellate.md",
+      "url": "https://isc.idaho.gov/rules-procedure/iar"
+    },
+    {
+      "set": "I.R.E.F.S.",
+      "name": "Idaho Rules for Electronic Filing and Service",
+      "file": null,
+      "url": "https://isc.idaho.gov/rules-procedure/irefs"
+    }
+  ]
+}
