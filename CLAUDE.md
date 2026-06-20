@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state, plus two shared federal reference plugins. It ships **twelve plugins total — ten state plugins + two shared federal reference plugins**. **Each plugin's `README.md` is the canonical detail** on skills, venues, subject bundles, reference corpora, and quirks.
+The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state, plus two shared federal reference plugins. It ships **thirteen plugins total — eleven state plugins + two shared federal reference plugins**. **Each plugin's `README.md` is the canonical detail** on skills, venues, subject bundles, reference corpora, and quirks.
 
 - **`claude-legal-federal-laws`** — Shared plugin holding the canonical copy of federal U.S. debt-collection and consumer-finance law (FDCPA, FCRA, TILA, ECOA, Reg B–Z), the model UCC (Articles 1, 2, 3, 9), the Bankruptcy Code (Title 11 chapters 1–15), and the Americans with Disabilities Act (42 U.S.C. ch. 126) with its DOJ/EEOC implementing regulations (29 CFR 1630; 28 CFR 35/36 incl. the 2010 ADA Standards). Every state plugin declares this as a dependency and symlinks into its `references/` tree. Also ships a 5-skill nationwide FCRA consumer credit-report-rights self-help layer (`consumer-report-ordering`, `consumer-credit-disputes`, `consumer-report-accuracy`, `consumer-harm-documentation`, `consumer-credit-monitoring`), an `ada-rights` ADA self-help skill (Title I/II/III accommodation requests, grievances, DOJ complaints, EEOC charge intake), plus a `case-law-research` skill that drives the bundled CourtListener + Legal Data Hunter MCP servers.
 
@@ -29,6 +29,8 @@ The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of cou
 - **`mi-court-docs`** — Michigan. MCR 1.109 / 2.113 formatting; Wayne + Oakland Circuit Courts + 36th District Court (Detroit) + roll-ups + Family Division; 6 subject bundles; 29 skills.
 
 - **`az-court-docs`** — Arizona. Ariz. R. Civ. P. 10 / 7.1 formatting; Maricopa + Pima Superior Courts + Justice Courts + Family Department + Superior-courts roll-up; 6 subject bundles; 28 skills.
+
+- **`id-court-docs`** — Idaho. I.R.C.P. 2 / 10 form-of-documents formatting; unified District Court (7 judicial districts) + Magistrate Division; Ada County (Fourth Judicial District / Boise) + Bonneville County (Seventh Judicial District / Idaho Falls) + judicial-district roll-up + Family Court; consumer-debt + family-law bundles; 23 skills. Key quirks: time computation lives in **I.R.C.P. 2.2** (Rule 6 is *[Reserved]*), the statewide format spec lives in **I.R.C.P. 2** (not Rule 10), a separate **Idaho Rules of Family Law Procedure (I.R.F.L.P.)** set heard in the Magistrate Division, community property, and Idaho Code § 73-108 holidays (no state Juneteenth; Columbus Day observed). Idaho allows interrogatories (40-cap, I.R.C.P. 33).
 
 Output is documents, not advice; everything is bracketed by a "not legal advice" disclaimer that downstream skills repeat.
 
@@ -64,6 +66,7 @@ Per-plugin detail (full skills list, venues, subject bundles, reference corpora,
 | `tn-court-docs` | 31 | 4 county + General Sessions + family + juvenile + roll-up | consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes | No statewide format rule; 10-day de novo appeal; Chancery / Clerk & Master titles; Good Friday + Columbus Day holidays | [README](plugins/tn-court-docs/README.md) |
 | `mi-court-docs` | 29 | 2 Circuit + 36th District + roll-ups + Family | consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes | MCR 1.109 / 2.113; no-fault auto; 100-mile rule; Lincoln's Birthday + day-after-Thanksgiving | [README](plugins/mi-court-docs/README.md) |
 | `az-court-docs` | 28 | 2 Superior + Justice + Family + roll-up | consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes | ARCP 10 / 7.1 + separate ARFLP + JCRCP; community property; constitutional bar on damages caps; covenant marriage | [README](plugins/az-court-docs/README.md) |
+| `id-court-docs` | 23 | 2 District (Ada + Bonneville) + Magistrate Division + judicial-district roll-up + Family Court | consumer-debt, family-law | I.R.C.P. 2 / 10; **time computation at I.R.C.P. 2.2 (Rule 6 reserved)**; separate I.R.F.L.P. family rules; community property; allows interrogatories (40-cap); § 73-108 holidays (no state Juneteenth; Columbus Day) | [README](plugins/id-court-docs/README.md) |
 
 ## Reference corpora at a glance
 
@@ -83,6 +86,7 @@ Each plugin's `README.md` carries full corpus detail (scope, pull mechanics, acc
 | `tn-court-docs` | `court-rules/` (4 statewide rule sets / ~2.7 MB / 473 sub-pages verbatim + local-rules directory), `tn-statutes-debt/` (25 TCA chapters / ~2.6 MB) | `pull_tn_court_rules.py`, `pull_tn_statutes.py` | tncourts.gov Drupal HTML open; Justia Cloudflare-gated (curl_cffi Chrome impersonation; stubs on 403) |
 | `mi-court-docs` | `court-rules/` (MCR ch. 1-4 + MRE / 362 rules / ~1.4 MB), `mi-statutes-debt/` (13 topic files / ~211 KB) | `pull_michigan_rules.py`, `pull_michigan_statutes.py` | courts.michigan.gov bot-gated (mirrors courtrules.net); legislature.mi.gov open (objectName= scheme) |
 | `az-court-docs` | `court-rules/` (ARCP + Evid. + ARFLP + JCRCP / ~406 rules verbatim), `az-statutes-debt/` (12 topic files) | `pull_arizona_rules.py`, `pull_arizona_statutes.py` | azcourts.gov Cloudflare-gated (mirrors courtrules.net); azleg.gov ungated .htm fragments |
+| `id-court-docs` | `court-rules/` (verbatim I.R.C.P. + I.R.E. + I.R.F.L.P. + I.A.R. — 53 rules / 4 files), `id-statutes-debt/` (verbatim Idaho Code — Title 5/11/12/28/32/55/73 + consumer-protection/collection-agency, 8 topic files / 43 sections) | `pull_idaho_rules.py`, `pull_idaho_statutes.py` | isc.idaho.gov per-rule print views (the `-new` landings are JS-rendered), legislature.idaho.gov Idaho Code — both open |
 
 ## Common commands
 
@@ -188,6 +192,17 @@ python3 scripts/pull_arizona_rules.py --workers 2 \
 python3 plugins/az-court-docs/scripts/format-check.py <file>   # Ariz. R. Civ. P. 10 / 7.1 compliance
 python3 plugins/az-court-docs/scripts/case-calendar.py ...     # Ariz. R. Civ. P. 6 deadline arithmetic with A.R.S. § 1-301 holidays
 python3 plugins/az-court-docs/scripts/case-calendar.py --rules # List Arizona named deadline rules
+
+# Refresh reference corpora — Idaho
+python3 scripts/pull_idaho_statutes.py --workers 4 \
+  --out plugins/id-court-docs/skills/id-law-references/references/id-statutes-debt
+python3 scripts/pull_idaho_rules.py --workers 2 \
+  --out plugins/id-court-docs/skills/id-law-references/references/court-rules
+
+# Idaho scripts
+python3 plugins/id-court-docs/scripts/format-check.py <file>   # I.R.C.P. 2 / 10 compliance
+python3 plugins/id-court-docs/scripts/case-calendar.py ...     # I.R.C.P. 2.2 deadline arithmetic (Rule 6 reserved) with Idaho Code § 73-108 holidays
+python3 plugins/id-court-docs/scripts/case-calendar.py --rules # List Idaho named deadline rules
 ```
 
 The lint also runs in CI on every push/PR (`.github/workflows/lint-skills.yml`).
@@ -307,6 +322,7 @@ plugins/oh-court-docs/              # 33 skills (8 Common Pleas + municipal + fa
 plugins/tn-court-docs/              # 31 skills (4 county + General Sessions + family + juvenile + roll-up + 6 subject bundles)
 plugins/mi-court-docs/              # 29 skills (Wayne/Oakland Circuit + 36th District + roll-ups + Family + 6 subject bundles)
 plugins/az-court-docs/              # 28 skills (Maricopa/Pima + Justice Courts + Superior roll-up + Family + 6 subject bundles)
+plugins/id-court-docs/              # 23 skills (Ada/Bonneville District Courts + Magistrate Division + judicial-district roll-up + Family Court + consumer-debt & family-law bundles)
 scripts/
   lint-skills.py                    # frontmatter + name/dir-match linter
   hooks/pre-commit                  # symlink target for .git/hooks/pre-commit
@@ -333,6 +349,8 @@ scripts/
   pull_michigan_statutes.py         # legislature.mi.gov (objectName per-section scheme) → verbatim MCL
   pull_arizona_rules.py             # courtrules.net mirror → AZ ARCP + Ariz. R. Evid. + ARFLP + JCRCP verbatim
   pull_arizona_statutes.py          # azleg.gov (ungated per-section .htm fragments) → verbatim A.R.S.
+  pull_idaho_rules.py               # isc.idaho.gov per-rule print views → verbatim ID I.R.C.P. + I.R.E. + I.R.F.L.P. + I.A.R.
+  pull_idaho_statutes.py            # legislature.idaho.gov → verbatim Idaho Code sections (bounded, topic-grouped)
   pull_ina.py                       # uscode.house.gov USLM XML → INA (8 U.S.C. ch 12)
   pull_immigration_cfr.py           # ecfr.gov versioner API → 8 CFR + 22 CFR immigration parts
   pull_fam.py                       # fam.state.gov JSON TOC API + /FAM/<vol>/<id>.html (AIA-chases omitted TLS intermediate) → FAM verbatim
