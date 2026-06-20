@@ -1,38 +1,37 @@
 # court-rules Corpus — Idaho
 
-> **NOT LEGAL ADVICE.** Reference corpus. Confirm every rule against the
-> canonical isc.idaho.gov page and check for pending amendments before
-> relying on it.
+> **NOT LEGAL ADVICE.** Confirm every rule against the canonical
+> isc.idaho.gov page and check for pending amendments before relying on it.
 
-This corpus holds the Idaho court-rules content most relevant to civil and
-family practice. It is **populated verbatim by a future
-`scripts/pull_idaho_rules.py`** that fetches from the Idaho Supreme Court
-(`isc.idaho.gov`) rules pages.
+This corpus holds **verbatim Idaho court-rule text** for the rules most
+relevant to civil and family practice, fetched from the Idaho Supreme
+Court (`isc.idaho.gov`) per-rule print views. Each set file carries the
+verbatim rule text under `## Rule N. Title` headings. It is a **bounded,
+representative** set — the rules a drafter actually cites — not an
+enumeration of every rule in every set.
 
-## Current state — pointer stubs (mode `stub`)
+## Mode
 
-Until the puller runs, this directory holds **well-formed pointer-stub
-digests** (header + canonical URL + scope note) for each rule set. They are
-**not** verbatim rule text — they direct you to the canonical isc.idaho.gov
-source. See `_manifest.json` for the corpus mode, version, and intended
-targets.
+- **Mode:** `verbatim` (fetched rule text).
+- **Source:** Idaho Supreme Court — https://isc.idaho.gov/rules-procedure/
+- **Puller:** `scripts/pull_idaho_rules.py`
 
-## Pointer-stub files
+## Set files
 
 - `IRCP-civil-procedure.md` — Idaho Rules of Civil Procedure (I.R.C.P.)
 - `IRE-evidence.md` — Idaho Rules of Evidence (I.R.E.)
 - `IRFLP-family-law-procedure.md` — Idaho Rules of Family Law Procedure (I.R.F.L.P.)
 - `IAR-appellate.md` — Idaho Appellate Rules (I.A.R.)
 
-The **I.R.E.F.S.** (Idaho Rules for Electronic Filing and Service) is also an
-intended pull target (see `_manifest.json`); its e-filing mechanics are
-summarized in the host skill's `SKILL.md` and `online-sources.md`.
+The **I.R.E.F.S.** (Idaho Rules for Electronic Filing and Service) is
+referenced for filing mechanics in the host skill's `SKILL.md` and
+`online-sources.md` rather than snapshotted as a dedicated file.
 
-## How it will be populated
+## Refresh
 
-`scripts/pull_idaho_rules.py` will fetch the per-rule pages from
-`isc.idaho.gov` (print pattern `https://isc.idaho.gov/rules-procedure/print/ircp/<n>`
-and the `https://isc.idaho.gov/ircp<n>-new` pages, plus the I.R.E. / I.R.F.L.
-/ I.R.E.F.S. rule-set landings), convert them to Markdown, and write verbatim
-text here — replacing these stubs. A `_file_is_stub` guard should preserve any
-committed verbatim content on a failed run.
+`scripts/pull_idaho_rules.py` fetches the per-rule print pages
+(`https://isc.idaho.gov/rules-procedure/print/<slug>/<rule>`), strips the
+site chrome, and writes verbatim Markdown per set (the set→rule map lives
+in `_manifest.json`). A `_file_is_stub` guard preserves committed verbatim
+content on a failed run; pass `--force` to overwrite. Widen a set by adding
+rule numbers to its `rules` list in `_manifest.json`.

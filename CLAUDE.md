@@ -86,7 +86,7 @@ Each plugin's `README.md` carries full corpus detail (scope, pull mechanics, acc
 | `tn-court-docs` | `court-rules/` (4 statewide rule sets / ~2.7 MB / 473 sub-pages verbatim + local-rules directory), `tn-statutes-debt/` (25 TCA chapters / ~2.6 MB) | `pull_tn_court_rules.py`, `pull_tn_statutes.py` | tncourts.gov Drupal HTML open; Justia Cloudflare-gated (curl_cffi Chrome impersonation; stubs on 403) |
 | `mi-court-docs` | `court-rules/` (MCR ch. 1-4 + MRE / 362 rules / ~1.4 MB), `mi-statutes-debt/` (13 topic files / ~211 KB) | `pull_michigan_rules.py`, `pull_michigan_statutes.py` | courts.michigan.gov bot-gated (mirrors courtrules.net); legislature.mi.gov open (objectName= scheme) |
 | `az-court-docs` | `court-rules/` (ARCP + Evid. + ARFLP + JCRCP / ~406 rules verbatim), `az-statutes-debt/` (12 topic files) | `pull_arizona_rules.py`, `pull_arizona_statutes.py` | azcourts.gov Cloudflare-gated (mirrors courtrules.net); azleg.gov ungated .htm fragments |
-| `id-court-docs` | `court-rules/` (I.R.C.P. + I.R.E. + I.R.F.L.P. + I.A.R. + I.R.E.F.S. pointer stubs), `id-statutes-debt/` (curated Idaho Code digests — Title 5/11/12/28/32/55/73 + consumer-protection/collection-agency) | `pull_idaho_rules.py`, `pull_idaho_statutes.py` | isc.idaho.gov (JS-rendered; stubs pending puller), legislature.idaho.gov Idaho Code open |
+| `id-court-docs` | `court-rules/` (verbatim I.R.C.P. + I.R.E. + I.R.F.L.P. + I.A.R. — 53 rules / 4 files), `id-statutes-debt/` (verbatim Idaho Code — Title 5/11/12/28/32/55/73 + consumer-protection/collection-agency, 8 topic files / 43 sections) | `pull_idaho_rules.py`, `pull_idaho_statutes.py` | isc.idaho.gov per-rule print views (the `-new` landings are JS-rendered), legislature.idaho.gov Idaho Code — both open |
 
 ## Common commands
 
@@ -349,8 +349,8 @@ scripts/
   pull_michigan_statutes.py         # legislature.mi.gov (objectName per-section scheme) → verbatim MCL
   pull_arizona_rules.py             # courtrules.net mirror → AZ ARCP + Ariz. R. Evid. + ARFLP + JCRCP verbatim
   pull_arizona_statutes.py          # azleg.gov (ungated per-section .htm fragments) → verbatim A.R.S.
-  pull_idaho_rules.py               # isc.idaho.gov → ID I.R.C.P. + I.R.E. + I.R.F.L.P. + I.A.R. + I.R.E.F.S. (JS-rendered; pointer stubs pending puller)
-  pull_idaho_statutes.py            # legislature.idaho.gov → Idaho Code chapters (curated digests)
+  pull_idaho_rules.py               # isc.idaho.gov per-rule print views → verbatim ID I.R.C.P. + I.R.E. + I.R.F.L.P. + I.A.R.
+  pull_idaho_statutes.py            # legislature.idaho.gov → verbatim Idaho Code sections (bounded, topic-grouped)
   pull_ina.py                       # uscode.house.gov USLM XML → INA (8 U.S.C. ch 12)
   pull_immigration_cfr.py           # ecfr.gov versioner API → 8 CFR + 22 CFR immigration parts
   pull_fam.py                       # fam.state.gov JSON TOC API + /FAM/<vol>/<id>.html (AIA-chases omitted TLS intermediate) → FAM verbatim

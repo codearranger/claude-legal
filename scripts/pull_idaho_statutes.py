@@ -141,6 +141,36 @@ class _TextExtractor(HTMLParser):
                 self.chunks.append(text)
 
 
+def _clean_statute_body(text: str) -> str:
+    """Slice the verbatim statute body out of the full page text.
+
+    legislature.idaho.gov wraps each section in site chrome. The statute
+    body sits between the search box ("Search Constitution") and the
+    "How current is this law?" footer; the trailing "History:" block is
+    part of the section and is kept. We then drop the repeated
+    TITLE/CHAPTER preamble, starting the entry at the section-number
+    line."""
+    start = text.rfind("Search Constitution")
+    if start != -1:
+        text = text[start + len("Search Constitution"):]
+    for end_marker in ("How current is this law", "How Current Is This Law"):
+        idx = text.find(end_marker)
+        if idx != -1:
+            text = text[:idx]
+            break
+    text = text.strip()
+    # Drop the "TITLE n / <name> / CHAPTER n / <name>" preamble lines by
+    # starting at the first line that looks like a section number
+    # ("5-216." / "32-11-101.").
+    lines = text.split("\n")
+    for i, line in enumerate(lines):
+        if re.match(r"^\d+[-\dA-Za-z]*\.\s*$", line.strip()) or re.match(
+            r"^\d+[-\dA-Za-z]*\.\s", line.strip()
+        ):
+            return "\n".join(lines[i:]).strip()
+    return text
+
+
 def fetch_section(url: str, timeout: int = 30) -> str | None:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     try:
@@ -151,19 +181,22 @@ def fetch_section(url: str, timeout: int = 30) -> str | None:
     parser = _TextExtractor()
     parser.feed(raw)
     text = "\n".join(parser.chunks)
-    # Heuristic: the statute body should mention the section number region.
-    if len(text) < 40:
+    body = _clean_statute_body(text)
+    # A real section body carries substantive text; a 404/redirect shell
+    # collapses to almost nothing once chrome is stripped.
+    if len(body) < 40:
         return None
-    return text
+    return body
 
 
 def render_topic(title: str, entries: list[tuple[str, str | None, str | None]]) -> str:
     """entries: list of (section_label, url, fetched_text_or_None)."""
     lines = [f"# {title} — Idaho Code", ""]
     lines.append(
-        "> **NOT LEGAL ADVICE.** Fetched/curated digest of Idaho Code "
-        "sections. Verify against the current official text at "
-        "legislature.idaho.gov before relying on any figure or wording."
+        "> **NOT LEGAL ADVICE.** Verbatim Idaho Code text fetched from "
+        "legislature.idaho.gov (statutes are updated to the website July 1 "
+        "following the legislative session). Verify currency against the "
+        "official source before relying on any figure or wording."
     )
     lines.append("")
     any_text = False

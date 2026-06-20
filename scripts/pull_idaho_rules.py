@@ -1,35 +1,42 @@
 #!/usr/bin/env python3
-"""Pull (or stub) the Idaho court-rules corpus from the Idaho Supreme
-Court rules site.
+"""Pull verbatim Idaho court-rule text from the Idaho Supreme Court rules
+site (isc.idaho.gov) and write one Markdown file per rule SET.
 
 Output (default):
     plugins/id-court-docs/skills/id-law-references/references/court-rules/
 
-One Markdown file per rule SET (I.R.C.P., I.R.E., I.R.F.L.P., I.A.R.).
-The set→file→URL map is read from the corpus's own `_manifest.json`.
+The set→file→slug→rule-list map is read from the corpus's own
+`_manifest.json`.
 
-## Source and posture
+## Source
 
-The Idaho Supreme Court publishes its rules at isc.idaho.gov. The rule
-landing pages (e.g. https://isc.idaho.gov/rules-procedure/ircp) and many
-per-rule views are JavaScript-rendered, so a plain HTTP fetch does not
-reliably yield clean verbatim rule text. There is a per-rule "print"
-pattern — https://isc.idaho.gov/rules-procedure/print/ircp/<n> — that
-serves more static markup when reachable.
+The Idaho Supreme Court publishes a per-rule **print view** that serves
+clean, static HTML (the `-new` landing pages are JavaScript-rendered and
+are not usable for verbatim extraction). The print URL is:
 
-Because verbatim extraction is not reliable without a headless browser,
-this corpus ships as **well-formed pointer stubs** (header + canonical
-URL + scope note). This puller:
+    https://isc.idaho.gov/rules-procedure/print/<slug>/<rule>
 
-- writes/refreshes a pointer stub for each target in the manifest, and
-- if a rule set's print-pattern fetch succeeds and yields substantial
-  text, embeds it (best-effort).
+where `<slug>` is the rule-set slug (`ircp`, `ire`, `irfl`, `iar`) and
+`<rule>` is the rule number (e.g. `2.2`, `803`, `120`, `14`). Each print
+page begins with the set name and the "Rule N. Title" heading, followed
+by the verbatim rule body and the adoption/amendment history.
 
-## Regression protection
+## Curation philosophy
 
-A `_file_is_stub` guard prevents a failed or JS-blocked run from
-clobbering any verbatim content a later mechanism may have committed: a
-non-stub file is left untouched unless `--force` is passed.
+This is a BOUNDED corpus — the rules an Idaho civil-practice /
+family-law drafter actually cites — not an enumeration of every rule in
+every set. Widen a set by adding rule numbers to its `rules` list in the
+manifest.
+
+## Behavior on failure / regression protection
+
+- A rule whose print page is missing or empty is **skipped** (not
+  emitted as a gap), so a generous rule list yields clean output.
+- A set in which EVERY listed rule fails is written as a well-formed
+  pointer stub carrying the canonical URL.
+- A `_file_is_stub` guard prevents a failed/offline run from clobbering
+  committed verbatim content: a non-stub file is left untouched unless
+  `--force` is passed.
 
 ## Usage
 
@@ -60,6 +67,7 @@ USER_AGENT = (
 DEFAULT_OUT = (
     "plugins/id-court-docs/skills/id-law-references/references/court-rules"
 )
+PRINT_BASE = "https://isc.idaho.gov/rules-procedure/print"
 STUB_MARKER = "<!-- id-court-rules: pointer-stub -->"
 
 
@@ -94,7 +102,7 @@ class _TextExtractor(HTMLParser):
                 self.chunks.append(t)
 
 
-def fetch_text(url: str, timeout: int = 30) -> str | None:
+def _raw_text(url: str, timeout: int = 30) -> str | None:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
@@ -103,17 +111,65 @@ def fetch_text(url: str, timeout: int = 30) -> str | None:
         return None
     p = _TextExtractor()
     p.feed(raw)
-    text = "\n".join(p.chunks)
-    # JS-rendered shells return little real content; require substance.
-    if len(text) < 600:
+    return "\n".join(p.chunks)
+
+
+def fetch_rule(slug: str, rule: str, set_name: str) -> tuple[str, str] | None:
+    """Return (heading, body) for a single rule's print page, or None."""
+    url = f"{PRINT_BASE}/{slug}/{rule}"
+    text = _raw_text(url)
+    if not text:
         return None
-    return text
+    lines = text.split("\n")
+    if len(lines) < 3:
+        return None
+    # lines[0] = set name; lines[1] = "Rule N. Title"; lines[2..] = body,
+    # which may begin with a redundant "<set name> Rule N. Title." line.
+    heading = lines[1].strip()
+    if not heading.lower().startswith("rule"):
+        # Unexpected shell / 404 page.
+        return None
+    rest = lines[2:]
+    if rest and rest[0].strip().startswith(set_name):
+        rest = rest[1:]
+    body = "\n".join(rest).strip()
+    if len(body) < 60:
+        return None
+    return heading, body
+
+
+def render_set(target: dict, rules: list[tuple[str, str]]) -> str:
+    name = target.get("name", target.get("set", "Idaho rule set"))
+    code = target.get("set", "")
+    slug = target.get("slug", "")
+    url = target.get("url", "")
+    lines = [f"# {name} ({code})", ""]
+    lines.append(
+        "> **NOT LEGAL ADVICE.** Verbatim rule text fetched from the Idaho "
+        "Supreme Court rules site. Verify against the current official text "
+        "before relying on any rule."
+    )
+    lines.append("")
+    lines.append(f"Source: {url}")
+    lines.append(
+        f"Per-rule print pattern: `{PRINT_BASE}/{slug}/<rule>`"
+    )
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    for heading, body in rules:
+        lines.append(f"## {heading}")
+        lines.append("")
+        lines.append(body)
+        lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
 
 
 def render_stub(target: dict) -> str:
     name = target.get("name", target.get("set", "Idaho rule set"))
     url = target.get("url", "https://isc.idaho.gov/rules-procedure")
     code = target.get("set", "")
+    slug = target.get("slug", "")
     return (
         f"# {name} ({code})\n\n"
         f"{STUB_MARKER}\n\n"
@@ -123,27 +179,7 @@ def render_stub(target: dict) -> str:
         f"pull lands, consult the canonical source.\n\n"
         f"## Canonical source\n\n"
         f"- {url}\n"
-        f"- Per-rule print view: `https://isc.idaho.gov/rules-procedure/"
-        f"print/{code.lower().replace('.', '').replace(' ', '')}/<n>`\n\n"
-        f"## Scope\n\n"
-        f"This corpus holds the verbatim {name} most relevant to drafting "
-        f"and filing in Idaho's District Courts and their Magistrate "
-        f"Divisions. Cite specific rules from the canonical source until "
-        f"the verbatim text is pulled.\n"
-    )
-
-
-def render_verbatim(target: dict, text: str) -> str:
-    name = target.get("name", target.get("set", "Idaho rule set"))
-    url = target.get("url", "")
-    code = target.get("set", "")
-    return (
-        f"# {name} ({code})\n\n"
-        f"> **NOT LEGAL ADVICE.** Fetched from the Idaho Supreme Court "
-        f"rules site; verify against the current official text before "
-        f"relying on any specific rule.\n\n"
-        f"Source: {url}\n\n"
-        f"---\n\n{text}\n"
+        f"- Per-rule print view: `{PRINT_BASE}/{slug}/<rule>`\n"
     )
 
 
@@ -154,7 +190,7 @@ def file_is_stub(path: Path) -> bool:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Pull/stub the Idaho court-rules corpus")
+    ap = argparse.ArgumentParser(description="Pull verbatim Idaho court rules")
     ap.add_argument("--out", default=None, help="Output dir (default: court-rules)")
     ap.add_argument("--only", nargs="*", help="Limit to these files (stem or filename)")
     ap.add_argument("--workers", type=int, default=2, help="(reserved; fetch is sequential)")
@@ -190,14 +226,20 @@ def main() -> int:
             skipped += 1
             continue
 
-        text = None
-        if not args.stubs_only:
-            text = fetch_text(target.get("url", ""))
+        slug = target.get("slug")
+        rule_nums = target.get("rules", [])
+        fetched: list[tuple[str, str]] = []
+        if not args.stubs_only and slug and rule_nums:
+            set_name = target.get("name", "")
+            for rn in rule_nums:
+                got = fetch_rule(slug, str(rn), set_name)
+                if got:
+                    fetched.append(got)
 
-        if text:
-            path.write_text(render_verbatim(target, text), encoding="utf-8")
+        if fetched:
+            path.write_text(render_set(target, fetched), encoding="utf-8")
             wrote += 1
-            print(f"WROTE {fname}")
+            print(f"WROTE {fname} ({len(fetched)}/{len(rule_nums)} rules)")
         else:
             path.write_text(render_stub(target), encoding="utf-8")
             stubbed += 1

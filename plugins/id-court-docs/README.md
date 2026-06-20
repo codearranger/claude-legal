@@ -33,8 +33,8 @@ Architected as matter-neutral civil-procedure skills — statewide format, disco
 
 Under `skills/id-law-references/references/` (each corpus dir has its own README):
 
-- `court-rules/` — I.R.C.P., I.R.E., I.R.F.L.P., I.A.R., I.R.E.F.S. (verbatim text populated by `scripts/pull_idaho_rules.py` from isc.idaho.gov; pointer stubs until the puller runs).
-- `id-statutes-debt/` — curated digests of the Idaho Code chapters most relevant to civil + family practice (Title 5 limitations, Title 11 exemptions/garnishment, Title 12 fees, Title 28 credit code, Title 32 family law, Title 55 homestead, Title 73 holidays, and the consumer-protection / collection-agency chapters).
+- `court-rules/` — **verbatim** I.R.C.P., I.R.E., I.R.F.L.P., and I.A.R. rule text (53 rules across 4 files) fetched by `scripts/pull_idaho_rules.py` from the isc.idaho.gov per-rule print views. (I.R.E.F.S. e-filing mechanics are summarized in the skills rather than snapshotted.)
+- `id-statutes-debt/` — **verbatim** Idaho Code text (8 topic files / ~44 sections) for the chapters most relevant to civil + family practice (Title 5 limitations, Title 11 exemptions/garnishment, Title 12 fees, Title 28 credit code + UCC Article 9, Title 32 family law, Title 55 homestead, Title 73 holidays, and the consumer-protection / collection-agency chapters), fetched by `scripts/pull_idaho_statutes.py` from legislature.idaho.gov.
 - `federal-debt-laws/`, `federal-bankruptcy/`, `ucc-model/` — **symlinks** into the shared `claude-legal-federal-laws` plugin (declared as a dependency; dereferenced at install time).
 
 ## Scripts

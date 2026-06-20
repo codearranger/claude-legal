@@ -15,7 +15,7 @@ description: >
   "Idaho time computation", "I.R.E.", "I.R.F.L.P.", "Idaho Code section",
   "Idaho citation format", "look up Idaho law on X". Host skill for reference
   corpora.
-version: 0.1.0
+version: 0.1.1
 ---
 
 # Idaho Law References
@@ -41,8 +41,8 @@ references/
 ├── key-cases.md            # Landmark Idaho civil + family precedents
 ├── online-sources.md       # Canonical human-facing URLs
 ├── legal-data-apis.md      # Programmatic access (isc.idaho.gov, legislature.idaho.gov, CourtListener)
-├── court-rules/            # Pointer-stub digests of I.R.C.P./I.R.E./I.R.F.L.P./I.A.R. — corpus (future verbatim pull)
-├── id-statutes-debt/       # Curated Idaho Code digests for civil practice — corpus
+├── court-rules/            # Verbatim I.R.C.P./I.R.E./I.R.F.L.P./I.A.R. rule text — corpus
+├── id-statutes-debt/       # Verbatim Idaho Code sections for civil practice — corpus
 ├── federal-debt-laws/      # FDCPA, FCRA, TILA, etc. (symlink into the
 │                           #   shared claude-legal-federal-laws plugin)
 ├── federal-bankruptcy/     # Title 11 U.S.C. (symlink into shared plugin)
@@ -219,8 +219,8 @@ is set by I.R.E.F.S. 6. See `references/online-sources.md` for the portal.
 - `references/key-cases.md` — landmark Idaho civil + family precedents
 - `references/online-sources.md` — canonical human-facing URLs
 - `references/legal-data-apis.md` — programmatic access index
-- `references/court-rules/` — pointer-stub digests of I.R.C.P. / I.R.E. / I.R.F.L.P. / I.A.R. (future verbatim pull)
-- `references/id-statutes-debt/` — curated Idaho Code digests for civil practice
+- `references/court-rules/` — verbatim I.R.C.P. / I.R.E. / I.R.F.L.P. / I.A.R. rule text (bounded set)
+- `references/id-statutes-debt/` — verbatim Idaho Code sections for civil practice (bounded set)
 - `references/federal-debt-laws/` — federal-law corpus (symlink)
 - `references/federal-bankruptcy/` — Title 11 U.S.C. corpus (symlink)
 - `references/ucc-model/` — Model UCC text (symlink)

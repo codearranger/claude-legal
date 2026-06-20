@@ -1,23 +1,22 @@
 # id-statutes-debt Corpus — Idaho
 
-> **NOT LEGAL ADVICE.** Curated digest corpus. Confirm every section and
-> **especially every dollar amount** against the current Idaho Code on
-> legislature.idaho.gov before relying on it.
+> **NOT LEGAL ADVICE.** Confirm every section and **especially every
+> dollar amount** against the current Idaho Code on legislature.idaho.gov
+> before relying on it. Idaho statutes are updated to the website July 1
+> following each legislative session.
 
-This corpus holds **curated, topic-grouped digests** of the Idaho Code
-sections most relevant to civil practice, consumer-debt defense, exemptions,
-family law, and deadline arithmetic. Each file gives **citations plus a short
-scope summary per section** — it is **not** a full verbatim enumeration of the
-Idaho Code. **Dollar amounts are flagged "verify current figure"** because they
-are revised periodically.
+This corpus holds **verbatim Idaho Code text** for the sections most
+relevant to civil practice, consumer-debt defense, exemptions, family
+law, and deadline arithmetic. Each file carries the verbatim section text
+(catchline + body + History) under `## Idaho Code §` headings. It is a
+**bounded, representative** set — the sections a drafter reaches for — not
+a full enumeration of the Idaho Code.
 
 ## Mode
 
-- **Mode:** `curated-digest` (citation + scope summary per section; not
-  verbatim).
+- **Mode:** `verbatim` (fetched section text).
 - **Source:** Idaho Legislature — https://legislature.idaho.gov/statutesrules/idstat/
-- **Puller:** a future `scripts/pull_idaho_statutes.py` will fetch verbatim
-  section text from legislature.idaho.gov and may expand these digests.
+- **Puller:** `scripts/pull_idaho_statutes.py`
 
 ## Topic files
 
@@ -30,9 +29,12 @@ are revised periodically.
 - `holidays-Title73.md` — legal holidays for deadline arithmetic (Title 73)
 - `ucc-article9-Title28.md` — Idaho UCC Article 9 secured transactions (Title 28)
 
-## How it will be populated
+## Refresh
 
-`scripts/pull_idaho_statutes.py` will fetch the per-section pages from
+`scripts/pull_idaho_statutes.py` fetches the per-section pages from
 `https://legislature.idaho.gov/statutesrules/idstat/title<t>/t<t>ch<c>/sect<s>/`,
-extract the section body, and may replace or augment these curated digests with
-verbatim text. Verify dollar figures against the live source on each refresh.
+slices out the verbatim section body, and writes one file per topic group
+(the topic→section map lives in `_manifest.json`). A curated-content guard
+keeps an offline run from clobbering committed text; pass
+`--overwrite-curated` to force a refresh. Verify dollar figures against the
+live source on each refresh.

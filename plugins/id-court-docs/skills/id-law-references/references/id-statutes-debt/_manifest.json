@@ -1,10 +1,10 @@
 {
   "version": "0.1.0",
-  "last_pulled": "2026-06-19",
-  "mode": "curated-digest",
+  "last_pulled": "2026-06-20",
+  "mode": "verbatim",
   "source": "https://legislature.idaho.gov/statutesrules/idstat/",
   "puller": "scripts/pull_idaho_statutes.py",
-  "notes": "Curated, topic-grouped digests of Idaho Code sections for civil practice (citation + short scope summary per section; not verbatim). Dollar amounts are flagged 'verify current figure' because they are revised periodically. To be expanded/replaced by a future scripts/pull_idaho_statutes.py fetching verbatim section text from legislature.idaho.gov at /statutesrules/idstat/title<t>/t<t>ch<c>/sect<s>/.",
+  "notes": "Topic-grouped, BOUNDED corpus of verbatim Idaho Code sections for civil + family practice, fetched by scripts/pull_idaho_statutes.py from legislature.idaho.gov at /statutesrules/idstat/title<t>/t<t>ch<c>/sect<s>/. Each file carries the verbatim section text (catchline + body + History) under '## Idaho Code §' headings. This is a representative set (the sections a drafter reaches for), not a full enumeration of the Idaho Code; statutes are updated to the website July 1 following the legislative session, so verify currency before filing. A _file_is_stub guard and a curated-content guard keep an offline run from clobbering committed text (pass --overwrite-curated / --force to replace).",
   "topics": [
     {
       "file": "Title5-limitations.md",
@@ -44,7 +44,7 @@
     {
       "file": "ucc-article9-Title28.md",
       "title": "Idaho UCC Article 9 secured transactions",
-      "sections": ["I.C. Title 28, ch. 9"]
+      "sections": ["I.C. 28-9-109", "I.C. 28-9-203", "I.C. 28-9-317", "I.C. 28-9-322", "I.C. 28-9-609", "I.C. 28-9-610"]
     }
   ]
 }
