@@ -27,6 +27,7 @@ on:
           - tn
           - mi
           - az
+          - tx
 
 permissions:
   contents: write
@@ -53,7 +54,7 @@ jobs:
           TARGET: ${{ github.event.inputs.target }}
         run: |
           case "${TARGET:-all}" in
-            all)     targets='["federal","immigration","wa","or","ca","co","in","ny","oh","tn","mi","az"]' ;;
+            all)     targets='["federal","immigration","wa","or","ca","co","in","ny","oh","tn","mi","az","tx"]' ;;
             federal) targets='["federal"]' ;;
             immigration) targets='["immigration"]' ;;
             wa)      targets='["wa"]' ;;
@@ -66,6 +67,7 @@ jobs:
             tn)      targets='["tn"]' ;;
             mi)      targets='["mi"]' ;;
             az)      targets='["az"]' ;;
+            tx)      targets='["tx"]' ;;
             *)       echo "unexpected target: $TARGET" >&2; exit 1 ;;
           esac
           echo "targets=$targets" >> "$GITHUB_OUTPUT"
@@ -401,6 +403,31 @@ jobs:
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_arizona_rules.py
+
+      # ---- TX ----
+      # Texas statutes come from the Legislature's open per-chapter HTML
+      # (statutes.capitol.texas.gov / the tcss.legis.texas.gov file server),
+      # so the statutes puller mirrors verbatim. The Texas court rules
+      # (TRCP incl. Part V, Tex. R. Evid., Tex. R. App. P.) are extracted
+      # from the consolidated PDFs OCA publishes at txcourts.gov, which
+      # requires the `pypdf` package; without it (or on a failed fetch) the
+      # rules puller falls back to canonical-URL pointer stubs and the
+      # _file_is_stub guard preserves committed verbatim content.
+      - name: TX — Texas statutes (CPRC / Finance Ch. 392 / DTPA + UCC 9 / Property / Family / Gov't Code)
+        if: matrix.target == 'tx'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_texas_statutes.py --workers 4
+
+      - name: TX — install pypdf for the rules puller
+        if: matrix.target == 'tx'
+        run: pip3 install --break-system-packages pypdf
+
+      - name: TX — Texas court rules (TRCP + Part V Justice Court + Tex. R. Evid. + Tex. R. App. P.)
+        if: matrix.target == 'tx'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_texas_rules.py --workers 2
 
       # ---- Finalize ----
 

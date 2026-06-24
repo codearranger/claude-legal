@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state, plus two shared federal reference plugins. It ships **thirteen plugins total — eleven state plugins + two shared federal reference plugins**. **Each plugin's `README.md` is the canonical detail** on skills, venues, subject bundles, reference corpora, and quirks.
+The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state, plus two shared federal reference plugins. It ships **fourteen plugins total — twelve state plugins + two shared federal reference plugins**. **Each plugin's `README.md` is the canonical detail** on skills, venues, subject bundles, reference corpora, and quirks.
 
 - **`claude-legal-federal-laws`** — Shared plugin holding the canonical copy of federal U.S. debt-collection and consumer-finance law (FDCPA, FCRA, TILA, ECOA, Reg B–Z), the model UCC (Articles 1, 2, 3, 9), the Bankruptcy Code (Title 11 chapters 1–15), and the Americans with Disabilities Act (42 U.S.C. ch. 126) with its DOJ/EEOC implementing regulations (29 CFR 1630; 28 CFR 35/36 incl. the 2010 ADA Standards). Every state plugin declares this as a dependency and symlinks into its `references/` tree. Also ships a 5-skill nationwide FCRA consumer credit-report-rights self-help layer (`consumer-report-ordering`, `consumer-credit-disputes`, `consumer-report-accuracy`, `consumer-harm-documentation`, `consumer-credit-monitoring`), an `ada-rights` ADA self-help skill (Title I/II/III accommodation requests, grievances, DOJ complaints, EEOC charge intake), plus a `case-law-research` skill that drives the bundled CourtListener + Legal Data Hunter MCP servers.
 
@@ -31,6 +31,8 @@ The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of cou
 - **`az-court-docs`** — Arizona. Ariz. R. Civ. P. 10 / 7.1 formatting; Maricopa + Pima Superior Courts + Justice Courts + Family Department + Superior-courts roll-up; 6 subject bundles; 28 skills.
 
 - **`id-court-docs`** — Idaho. I.R.C.P. 2 / 10 form-of-documents formatting; unified District Court (7 judicial districts) + Magistrate Division; Ada County (Fourth Judicial District / Boise) + Bonneville County (Seventh Judicial District / Idaho Falls) + judicial-district roll-up + Family Court; consumer-debt + family-law bundles; 23 skills. Key quirks: time computation lives in **I.R.C.P. 2.2** (Rule 6 is *[Reserved]*), the statewide format spec lives in **I.R.C.P. 2** (not Rule 10), a separate **Idaho Rules of Family Law Procedure (I.R.F.L.P.)** set heard in the Magistrate Division, community property, and Idaho Code § 73-108 holidays (no state Juneteenth; Columbus Day observed). Idaho allows interrogatories (40-cap, I.R.C.P. 33).
+
+- **`tx-court-docs`** — Texas. No single statewide pleading-paper rule (form flows from TRCP 45/47/57 + the Supreme Court e-filing standards); Harris + Dallas County District Courts + District/County-Court-at-Law roll-up + the Justice of the Peace layer (TRCP Part V, Rules 500–510) including **Smith County (Tyler) Justice Court** + Family Court; consumer-debt + family-law bundles; 25 skills. Key quirks: the **Rule 99 "Monday rule"** answer deadline (10 a.m. the Monday next after 20 days), **no-evidence summary judgment** (166a(i)), **sworn-account** (185) met only by a **verified denial** (93), **special exceptions** / Rule 91a (no general demurrer), the **Rule 47(c)** relief-range statement, **discovery-control-plan Levels 1/2/3** (190) + expedited actions (169), justice-court procedure where the civil/evidence rules largely don't apply (500.3(e)) with de-novo appeal to county court, community property, wages largely exempt from garnishment (Tex. Const. art. XVI § 28), and Tex. Gov't Code § 662.003 holidays (Juneteenth + Friday-after-Thanksgiving court-closed).
 
 Output is documents, not advice; everything is bracketed by a "not legal advice" disclaimer that downstream skills repeat.
 
@@ -67,6 +69,7 @@ Per-plugin detail (full skills list, venues, subject bundles, reference corpora,
 | `mi-court-docs` | 29 | 2 Circuit + 36th District + roll-ups + Family | consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes | MCR 1.109 / 2.113; no-fault auto; 100-mile rule; Lincoln's Birthday + day-after-Thanksgiving | [README](plugins/mi-court-docs/README.md) |
 | `az-court-docs` | 28 | 2 Superior + Justice + Family + roll-up | consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes | ARCP 10 / 7.1 + separate ARFLP + JCRCP; community property; constitutional bar on damages caps; covenant marriage | [README](plugins/az-court-docs/README.md) |
 | `id-court-docs` | 23 | 2 District (Ada + Bonneville) + Magistrate Division + judicial-district roll-up + Family Court | consumer-debt, family-law | I.R.C.P. 2 / 10; **time computation at I.R.C.P. 2.2 (Rule 6 reserved)**; separate I.R.F.L.P. family rules; community property; allows interrogatories (40-cap); § 73-108 holidays (no state Juneteenth; Columbus Day) | [README](plugins/id-court-docs/README.md) |
+| `tx-court-docs` | 25 | 2 District (Harris + Dallas) + County-Courts roll-up + Justice Courts (TRCP 500–510) + Smith County (Tyler) JP + Family Court | consumer-debt, family-law | No statewide format rule (TRCP 45/47/57 + e-filing standards); **Rule 99 "Monday rule"** answer; no-evidence SJ (166a(i)); sworn-account 185 / verified-denial 93; Rule 47(c) relief statement; discovery Levels 1/2/3 (190); community property; wages exempt from garnishment | [README](plugins/tx-court-docs/README.md) |
 
 ## Reference corpora at a glance
 
@@ -87,6 +90,7 @@ Each plugin's `README.md` carries full corpus detail (scope, pull mechanics, acc
 | `mi-court-docs` | `court-rules/` (MCR ch. 1-4 + MRE / 362 rules / ~1.4 MB), `mi-statutes-debt/` (13 topic files / ~211 KB) | `pull_michigan_rules.py`, `pull_michigan_statutes.py` | courts.michigan.gov bot-gated (mirrors courtrules.net); legislature.mi.gov open (objectName= scheme) |
 | `az-court-docs` | `court-rules/` (ARCP + Evid. + ARFLP + JCRCP / ~406 rules verbatim), `az-statutes-debt/` (12 topic files) | `pull_arizona_rules.py`, `pull_arizona_statutes.py` | azcourts.gov Cloudflare-gated (mirrors courtrules.net); azleg.gov ungated .htm fragments |
 | `id-court-docs` | `court-rules/` (verbatim I.R.C.P. + I.R.E. + I.R.F.L.P. + I.A.R. — 53 rules / 4 files), `id-statutes-debt/` (verbatim Idaho Code — Title 5/11/12/28/32/55/73 + consumer-protection/collection-agency, 8 topic files / 43 sections) | `pull_idaho_rules.py`, `pull_idaho_statutes.py` | isc.idaho.gov per-rule print views (the `-new` landings are JS-rendered), legislature.idaho.gov Idaho Code — both open |
+| `tx-court-docs` | `court-rules/` (TRCP incl. Part V justice-court rules + Tex. R. Evid. + Tex. R. App. P. — 4 set files), `tx-statutes-debt/` (Tex. Civ. Prac. & Rem. / Finance Ch. 392 / Bus. & Com. DTPA + UCC 9 / Property exemptions+eviction / Family Code / Gov't Code holidays — 9 topic files) | `pull_texas_rules.py`, `pull_texas_statutes.py` | statutes.capitol.texas.gov per-chapter HTML (open); txcourts.gov rule PDFs |
 
 ## Common commands
 
@@ -203,6 +207,17 @@ python3 scripts/pull_idaho_rules.py --workers 2 \
 python3 plugins/id-court-docs/scripts/format-check.py <file>   # I.R.C.P. 2 / 10 compliance
 python3 plugins/id-court-docs/scripts/case-calendar.py ...     # I.R.C.P. 2.2 deadline arithmetic (Rule 6 reserved) with Idaho Code § 73-108 holidays
 python3 plugins/id-court-docs/scripts/case-calendar.py --rules # List Idaho named deadline rules
+
+# Refresh reference corpora — Texas
+python3 scripts/pull_texas_statutes.py --workers 4 \
+  --out plugins/tx-court-docs/skills/tx-law-references/references/tx-statutes-debt
+python3 scripts/pull_texas_rules.py --workers 2 \
+  --out plugins/tx-court-docs/skills/tx-law-references/references/court-rules
+
+# Texas scripts
+python3 plugins/tx-court-docs/scripts/format-check.py <file>   # marketplace format baseline (Letter / 1" / 12pt / footer)
+python3 plugins/tx-court-docs/scripts/case-calendar.py ...     # Tex. R. Civ. P. 4 deadline arithmetic with Tex. Gov't Code § 662.003 holidays (incl. the Rule 99 "Monday rule" answer)
+python3 plugins/tx-court-docs/scripts/case-calendar.py --rules # List Texas named deadline rules
 ```
 
 The lint also runs in CI on every push/PR (`.github/workflows/lint-skills.yml`).
@@ -323,6 +338,7 @@ plugins/tn-court-docs/              # 31 skills (4 county + General Sessions + f
 plugins/mi-court-docs/              # 29 skills (Wayne/Oakland Circuit + 36th District + roll-ups + Family + 6 subject bundles)
 plugins/az-court-docs/              # 28 skills (Maricopa/Pima + Justice Courts + Superior roll-up + Family + 6 subject bundles)
 plugins/id-court-docs/              # 23 skills (Ada/Bonneville District Courts + Magistrate Division + judicial-district roll-up + Family Court + consumer-debt & family-law bundles)
+plugins/tx-court-docs/              # 25 skills (Harris/Dallas District Courts + County-Courts roll-up + Justice of the Peace courts TRCP 500–510 incl. Smith County (Tyler) JP + Family Court + consumer-debt & family-law bundles)
 scripts/
   lint-skills.py                    # frontmatter + name/dir-match linter
   hooks/pre-commit                  # symlink target for .git/hooks/pre-commit
@@ -351,6 +367,8 @@ scripts/
   pull_arizona_statutes.py          # azleg.gov (ungated per-section .htm fragments) → verbatim A.R.S.
   pull_idaho_rules.py               # isc.idaho.gov per-rule print views → verbatim ID I.R.C.P. + I.R.E. + I.R.F.L.P. + I.A.R.
   pull_idaho_statutes.py            # legislature.idaho.gov → verbatim Idaho Code sections (bounded, topic-grouped)
+  pull_texas_rules.py               # txcourts.gov → TRCP (incl. Part V justice-court rules) + Tex. R. Evid. + Tex. R. App. P.
+  pull_texas_statutes.py            # statutes.capitol.texas.gov per-chapter HTML → verbatim Texas statute sections (bounded, topic-grouped)
   pull_ina.py                       # uscode.house.gov USLM XML → INA (8 U.S.C. ch 12)
   pull_immigration_cfr.py           # ecfr.gov versioner API → 8 CFR + 22 CFR immigration parts
   pull_fam.py                       # fam.state.gov JSON TOC API + /FAM/<vol>/<id>.html (AIA-chases omitted TLS intermediate) → FAM verbatim
