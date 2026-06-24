@@ -28,6 +28,7 @@ on:
           - mi
           - az
           - tx
+          - id
 
 permissions:
   contents: write
@@ -54,7 +55,7 @@ jobs:
           TARGET: ${{ github.event.inputs.target }}
         run: |
           case "${TARGET:-all}" in
-            all)     targets='["federal","immigration","wa","or","ca","co","in","ny","oh","tn","mi","az","tx"]' ;;
+            all)     targets='["federal","immigration","wa","or","ca","co","in","ny","oh","tn","mi","az","tx","id"]' ;;
             federal) targets='["federal"]' ;;
             immigration) targets='["immigration"]' ;;
             wa)      targets='["wa"]' ;;
@@ -68,6 +69,7 @@ jobs:
             mi)      targets='["mi"]' ;;
             az)      targets='["az"]' ;;
             tx)      targets='["tx"]' ;;
+            id)      targets='["id"]' ;;
             *)       echo "unexpected target: $TARGET" >&2; exit 1 ;;
           esac
           echo "targets=$targets" >> "$GITHUB_OUTPUT"
@@ -428,6 +430,28 @@ jobs:
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_texas_rules.py --workers 2
+
+      # ---- ID ----
+      # Idaho Code sections come as curated verbatim digests from
+      # legislature.idaho.gov; pull_idaho_statutes.py runs without
+      # --overwrite-curated here so the quarterly refresh preserves any
+      # hand-curated files (its curated-content + _file_is_stub guards do
+      # the rest). The Idaho court rules (I.R.C.P. / I.R.E. / I.R.F.L.P. /
+      # I.A.R.) mirror verbatim from the isc.idaho.gov per-rule print
+      # views (the -new landing pages are JS-rendered); on a failed fetch
+      # the rules puller writes pointer stubs and the _file_is_stub guard
+      # preserves committed verbatim content.
+      - name: ID — Idaho Code (limitations / exemptions / fees / credit code + UCC 9 / family / homestead / holidays)
+        if: matrix.target == 'id'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_idaho_statutes.py --workers 4
+
+      - name: ID — Idaho court rules (I.R.C.P. + I.R.E. + I.R.F.L.P. + I.A.R.)
+        if: matrix.target == 'id'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python3 scripts/pull_idaho_rules.py --workers 2
 
       # ---- Finalize ----
 
