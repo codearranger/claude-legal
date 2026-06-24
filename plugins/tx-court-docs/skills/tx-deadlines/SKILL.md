@@ -68,7 +68,7 @@ amended periodically.
 > answer is then due at 10:00 a.m. on the **next Monday** following.
 > Compute it with `--rule answer-due`. **Justice Court answers run on a
 > different clock — by the end of the 14th day after service (TRCP
-> 502.5)** — use `--rule jp-answer-due`. See `tx-first-30-days`.
+> 502.5)** — use `--rule answer-due-justice`. See `tx-first-30-days`.
 
 ## Texas legal holidays — Tex. Gov't Code § 662.003
 
@@ -110,19 +110,17 @@ most commonly invoked:
 | Rule key | Days | Authority |
 |---|---|---|
 | `answer-due` | Monday rule (+20 → next Mon. 10 a.m.) | TRCP 99 |
-| `jp-answer-due` | +14 | TRCP 502.5 (justice court) |
+| `answer-due-justice` | +14 | TRCP 502.5 (justice court) |
 | `interrogatory-response` | +30 | TRCP 197.2 |
 | `rfp-response` | +30 | TRCP 196 |
 | `rfa-response` | +30 | TRCP 198.2(c) (failure deems admitted) |
 | `sj-motion-before-hearing` | −21 | TRCP 166a(c) (counted backward from hearing) |
 | `sj-response-before-hearing` | −7 | TRCP 166a(c) (counted backward from hearing) |
-| `rule-91a-deadline` | +60 | TRCP 91a (from service of challenged pleading) |
-| `new-trial-motion` | +30 | TRCP 329b(a) (from signing of judgment) |
-| `modify-judgment` | +30 | TRCP 329b(g) |
+| `rule-91a-motion` | +60 | TRCP 91a (from the first pleading asserting the challenged claim) |
+| `motion-new-trial` | +30 | TRCP 329b(a), (g) (new trial / to modify, correct, or reform; from signing of judgment) |
 | `plenary-power` | +30 | TRCP 329b(d) (extended by timely post-judgment motions) |
-| `notice-of-appeal` | +30 | Tex. R. App. P. 26.1 (90 if a post-judgment motion is timely filed) |
-| `costs-of-court` | see corpus | TRCP 131/133 |
-| `sol-debt-contract` | see corpus | CPRC § 16.004 (4 years) |
+| `appeal` | +30 | Tex. R. App. P. 26.1 (use `appeal-with-mnt` for 90 if a post-judgment motion is timely filed) |
+| `sol-debt` | see corpus | CPRC § 16.004 (4 years) |
 | `sol-personal-injury` | see corpus | CPRC § 16.003 (2 years) |
 | `sol-dtpa` | see corpus | Tex. Bus. & Com. Code § 17.565 (2 years) |
 | `sol-judgment-dormancy` | see corpus | CPRC § 34.001 (10 years) |
@@ -142,7 +140,7 @@ python3 scripts/case-calendar.py --rules
 python3 scripts/case-calendar.py --from 2026-03-12 --rule answer-due
 
 # Justice-court answer — 14 days from service 2026-03-12
-python3 scripts/case-calendar.py --from 2026-03-12 --rule jp-answer-due
+python3 scripts/case-calendar.py --from 2026-03-12 --rule answer-due-justice
 
 # Discovery responses — 30 days from service 2026-04-01
 python3 scripts/case-calendar.py --from 2026-04-01 --rule interrogatory-response
@@ -152,7 +150,7 @@ python3 scripts/case-calendar.py --from 2026-04-01 --rule rfa-response
 python3 scripts/case-calendar.py --from 2026-06-15 --rule sj-motion-before-hearing
 
 # Motion for new trial — 30 days after judgment signed 2026-05-20
-python3 scripts/case-calendar.py --from 2026-05-20 --rule new-trial-motion
+python3 scripts/case-calendar.py --from 2026-05-20 --rule motion-new-trial
 
 # Ad hoc count — 30 calendar days from service, with roll-forward
 python3 scripts/case-calendar.py --from 2026-04-01 --days 30 --mode calendar

@@ -151,7 +151,7 @@ The limitations bar is the single most powerful defense in stale-debt cases. The
 |---|---|---|
 | **Debt / breach of contract (incl. credit-card and open accounts)** | **4 years** | CPRC § 16.004 |
 | **Residual (no other period prescribed)** | **4 years** | CPRC § 16.051 |
-| **DTPA / TDCA-via-DTPA claim** | **2 years** | Tex. Bus. & Com. Code § 16.565 / § 17.565 |
+| **DTPA / TDCA-via-DTPA claim** | **2 years** | Tex. Bus. & Com. Code § 17.565 |
 | **Action on a foreign judgment / domesticated judgment** | (verify) | CPRC Ch. 16 / Ch. 35 |
 
 - **Most consumer debt is on a 4-year clock.** Credit-card balances, open accounts, and other

@@ -202,7 +202,7 @@ be **pleaded** or they may be waived). Common Texas defenses:
 
 If a default judgment is already entered, a defendant may move for new
 trial to set it aside. Texas applies the **Craddock v. Sunshine Bus
-Lines** standard (*Craddock v. Sunshine Bus Lines, Inc.*, 134 S.W.2d
+Lines** standard (*Craddock v. Sunshine Bus Lines, Inc.*, 133 S.W.2d
 124 (Tex. 1939)): the movant must show that (1) the failure to answer
 was **not intentional or the result of conscious indifference** but due
 to accident or mistake; (2) the motion sets up a **meritorious

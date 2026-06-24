@@ -29,8 +29,7 @@ version: 0.1.0
 
 Use this skill when the matter is in a **Smith County Justice Court**
 — the court of a **Justice of the Peace** sitting in a Smith County
-**precinct**. Smith County's county seat is **Tyler**, and the county
-sits in the **Seventh Administrative Judicial Region** of Texas. This
+**precinct**. Smith County's county seat is **Tyler**. This
 skill **layers on top of** `tx-justice-courts` (which carries the
 statewide **TRCP Part V, Rules 500–510** framework) and
 `tx-statewide-format`. Read those for the rules that control;

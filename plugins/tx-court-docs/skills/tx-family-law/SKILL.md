@@ -174,7 +174,7 @@ monthly net resources** that **steps up by the number of children** before the c
   for a single person, Social Security / mandatory retirement, union dues, and the cost of the
   child's health- and dental-insurance) to reach **monthly net resources**.
 - **The guideline percentages — § 154.125.** A guideline percentage is applied to net resources,
-  **increasing with the number of children** before the court (with adjustments under **§ 154.129**
+  **increasing with the number of children** before the court (with adjustments under **§§ 154.128–154.129**
   when the obligor supports children in more than one household). State the model qualitatively; do
   **not** rely on a remembered percentage table — confirm the current percentages against
   `../tx-law-references/references/tx-statutes-debt/`.

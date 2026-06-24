@@ -70,7 +70,7 @@ from `../tx-law-references/references/`.
 
 A defendant hit with a **no-answer or post-answer default** may move for
 new trial to set it aside under **Craddock v. Sunshine Bus Lines, Inc.**,
-134 S.W.2d 124 (Tex. 1939): the movant must show (1) the failure to
+133 S.W.2d 124 (Tex. 1939): the movant must show (1) the failure to
 answer / appear was **not intentional or the result of conscious
 indifference** but accident or mistake; (2) a **meritorious defense**;
 and (3) that a new trial will **not cause delay or injury** to the
