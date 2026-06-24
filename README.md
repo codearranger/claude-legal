@@ -6,7 +6,7 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 
 ## What's in here
 
-**Thirteen plugins** — eleven state plugins plus two shared federal reference plugins. **Each plugin's `README.md` is the canonical detail**; this list links to them.
+**Fourteen plugins** — twelve state plugins plus two shared federal reference plugins. **Each plugin's `README.md` is the canonical detail**; this list links to them.
 
 ### Shared federal reference plugins
 
@@ -30,6 +30,7 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 | [`mi-court-docs`](plugins/mi-court-docs/README.md) | Michigan — MCR 1.109 / 2.113; Wayne + Oakland + 36th District + family; 6 subject bundles; 29 skills |
 | [`az-court-docs`](plugins/az-court-docs/README.md) | Arizona — Ariz. R. Civ. P. 10 / 7.1; Maricopa + Pima + Justice + family; 6 subject bundles; 28 skills |
 | [`id-court-docs`](plugins/id-court-docs/README.md) | Idaho — I.R.C.P. 2 / 10; Ada (4th Dist. / Boise) + Bonneville (7th Dist. / Idaho Falls) + Magistrate Division + county roll-up; consumer-debt + family-law bundles; 23 skills. Quirks: time computation at I.R.C.P. 2.2 (Rule 6 reserved), separate I.R.F.L.P. family rules, community property |
+| [`tx-court-docs`](plugins/tx-court-docs/README.md) | Texas — no statewide format rule (TRCP 45/47/57 + e-filing standards); Harris + Dallas District Courts + County-Courts roll-up + Justice of the Peace courts (TRCP 500–510) incl. **Smith County (Tyler) Justice Court** + Family Court; consumer-debt + family-law bundles; 25 skills. Quirks: the Rule 99 "Monday rule" answer, no-evidence summary judgment (166a(i)), sworn-account 185 / verified-denial 93, Rule 47(c) relief statement, discovery Levels 1/2/3, community property, wages exempt from garnishment |
 
 All state plugins are architected the same way: matter-neutral civil-procedure skills (statewide format, civil + evidence rules, fees, local rules, citation, discovery, first-30-days, hearings, filing, post-judgment, fact-check, deadlines) plus subject-matter bundles, sharing federal / UCC / Bankruptcy content via the `claude-legal-federal-laws` dependency rather than copying it per plugin. The marketplace is organized one plugin per state; more can be added under `plugins/` as it grows.
 
@@ -52,6 +53,7 @@ Add this marketplace and the Anthropic Agent Skills marketplace (which hosts the
 /plugin install mi-court-docs@claude-legal
 /plugin install az-court-docs@claude-legal
 /plugin install id-court-docs@claude-legal
+/plugin install tx-court-docs@claude-legal
 ```
 
 Each state plugin declares `claude-legal-federal-laws` as a `dependencies:` entry, so the marketplace runtime installs the shared plugin automatically — no need to install it explicitly. Every plugin (state + shared) also declares a cross-marketplace dependency on `document-skills` from the [`anthropic-agent-skills`](https://github.com/anthropics/skills) marketplace — Anthropic's DOCX / PDF / PPTX / XLSX document-creation skills — so generated filings can be produced as real Word/PDF documents. The dependency auto-installs as long as the `anthropics/skills` marketplace has been added (the `/plugin marketplace add anthropics/skills` line above); if it hasn't, the dependency is left unresolved until you add it.
@@ -86,6 +88,7 @@ Anthropic's [`claude-for-legal`](https://github.com/anthropics/claude-for-legal)
 | `mi-court-docs` | verbatim MCL — 13 topic files / ~70 sections / ~211 KB via `pull_michigan_statutes.py` from legislature.mi.gov (objectName=mcl-600-5701 per-section scheme) | verbatim MCR (ch. 1-4) + MRE — 362 rules / ~1.4 MB via `pull_michigan_rules.py` (courtrules.net mirror; courts.michigan.gov gates its rule-asset URLs) + curated civil-rules / evidence-rules / fees / citation / key-cases / online-sources | shared |
 | `az-court-docs` | verbatim A.R.S. — 12 topic files / ~60 sections via `pull_arizona_statutes.py` from azleg.gov (ungated per-section .htm fragments) | verbatim ARCP + Ariz. R. Evid. + ARFLP + JCRCP — 4 files / ~406 rules via `pull_arizona_rules.py` (courtrules.net mirror; azcourts.gov is Cloudflare-gated) + curated civil-rules / evidence-rules / family-rules / fees / citation / key-cases / online-sources | shared |
 | `id-court-docs` | verbatim Idaho Code — 8 topic files / ~44 sections (Title 5 limitations / Title 11 exemptions-garnishment / Title 12 fees / Title 28 credit code + UCC Art. 9 / Title 32 family / Title 55 homestead / Title 73 holidays / consumer-protection + collection-agency) via `pull_idaho_statutes.py` from legislature.idaho.gov | verbatim I.R.C.P. + I.R.E. + I.R.F.L.P. + I.A.R. — 4 files / 53 rules via `pull_idaho_rules.py` from isc.idaho.gov per-rule print views + curated civil-rules / evidence-rules / family-rules / fees / citation / key-cases / online-sources / legal-data-apis | shared |
+| `tx-court-docs` | verbatim Texas statutes — 9 topic files (Civ. Prac. & Rem. limitations/fees-judgments/proportionate-responsibility / Finance Code Ch. 392 debt collection / Bus. & Com. DTPA + UCC Art. 9 / Property exemptions-eviction / Family Code / Gov't Code holidays-courts) via `pull_texas_statutes.py` from statutes.capitol.texas.gov per-chapter HTML | verbatim TRCP (incl. Part V justice-court rules) via `pull_texas_rules.py` from the txcourts.gov consolidated PDF; Tex. R. Evid. + Tex. R. App. P. as pointer stubs until a clean PDF pull lands + curated civil-rules / evidence-rules / family-rules / fees / citation / key-cases / online-sources / legal-data-apis | shared |
 | `claude-legal-federal-laws` | n/a | n/a | **20 federal-debt-laws + 4 UCC + 8 Bankruptcy + 4 ADA (statute + 29 CFR 1630 + 28 CFR 35/36)** via `pull_federal_debt_laws.py` / `pull_ucc.py` / `pull_ada.py` |
 | `claude-legal-immigration-laws` | INA = 8 U.S.C. ch 12, 5 subchapters / ~1.6 MB verbatim via `pull_ina.py` (+ INA↔8 USC crosswalk) | 33 CFR parts / ~3.6 MB verbatim via `pull_immigration_cfr.py` (8 CFR DHS ch I + EOIR/BIA ch V + 22 CFR visa/passport); EOIR court-rules corpus (binding 8 CFR 1003/1240/1208 + ICPM / BIA-PM stubs via `pull_eoir_manuals.py`) | n/a — standalone; FAM ~3.6 MB verbatim via `pull_fam.py`; **12-skill self-help layer**; case law (circuits / BIA / AAO) on-demand per `legal-data-apis.md` |
 
@@ -127,7 +130,8 @@ claude-legal/
 │   ├── tn-court-docs/                # Tennessee (31 skills — 4 flagship counties + General Sessions + county roll-up + split family/juvenile + 6 subject bundles)
 │   ├── mi-court-docs/                # Michigan (29 skills — Wayne/Oakland Circuit + 36th District + Circuit/District roll-ups + Family Division + 6 subject bundles)
 │   ├── az-court-docs/                # Arizona (28 skills — Maricopa/Pima Superior + Justice Courts + Superior-courts roll-up + Family Department + 6 subject bundles)
-│   └── id-court-docs/                # Idaho (23 skills — Ada/Bonneville District Courts + Magistrate Division + judicial-district roll-up + Family Court + consumer-debt & family-law bundles)
+│   ├── id-court-docs/                # Idaho (23 skills — Ada/Bonneville District Courts + Magistrate Division + judicial-district roll-up + Family Court + consumer-debt & family-law bundles)
+│   └── tx-court-docs/                # Texas (25 skills — Harris/Dallas District Courts + County-Courts roll-up + Justice of the Peace courts (TRCP 500–510) incl. Smith County (Tyler) JP + Family Court + consumer-debt & family-law bundles)
 └── scripts/                          # Shared marketplace scripts
     ├── lint-skills.py                # Frontmatter + name/dir-match linter
     ├── hooks/pre-commit              # Symlink target for git hook
@@ -151,6 +155,8 @@ claude-legal/
     ├── pull_michigan_statutes.py     # legislature.mi.gov (objectName per-section scheme) → verbatim MCL
     ├── pull_arizona_rules.py         # courtrules.net mirror → AZ ARCP + Ariz. R. Evid. + ARFLP + JCRCP verbatim (azcourts.gov is Cloudflare-gated)
     ├── pull_arizona_statutes.py      # azleg.gov (ungated per-section .htm fragments) → verbatim A.R.S.
+    ├── pull_texas_rules.py           # txcourts.gov → TRCP (incl. Part V justice-court rules) + Tex. R. Evid. + Tex. R. App. P.
+    ├── pull_texas_statutes.py        # statutes.capitol.texas.gov per-chapter HTML → verbatim Texas statute sections
     ├── pull_federal_debt_laws.py     # USC titles 11/12/15/42/50 + CFR titles 12/16 → shared federal corpus
     ├── pull_ucc.py                   # law.cornell.edu/ucc → shared model UCC
     ├── pull_ada.py                   # uscode.house.gov + ecfr.gov → ADA statute + DOJ/EEOC regs
