@@ -133,7 +133,7 @@ _RULE_HEADING_RE = re.compile(
     r"(?im)^RULE\s+([0-9]+[A-Za-z]?(?:\.[0-9]+[A-Za-z]?)?)\.\s+(.+?)\s*$"
 )
 _SUBRULE_HEADING_RE = re.compile(
-    r"(?m)^\s*([0-9]+\.[0-9]+[A-Za-z]?)\s+([A-Z][A-Za-z].+?)\s*$"
+    r"(?m)^\s*([0-9]+\.[0-9]+[A-Za-z]?)\.?\s+([A-Z][A-Za-z].+?)\s*$"
 )
 
 
@@ -200,20 +200,48 @@ def _clean_body(body: str) -> str:
 
 
 def extract_rules(txt: str, wanted: list[str]) -> list[tuple[str, str, str]]:
-    """Return [(rule_number, title, body)] for each wanted rule found."""
+    """Return [(rule_number, title, body)] for each wanted rule found.
+
+    Most rules' bodies run from their heading to the next rule heading. But
+    several Texas rules are UMBRELLA headings whose substance lives entirely
+    in dotted sub-rules (e.g. RULE 510. EVICTION CASES is immediately
+    followed by RULE 510.1, 510.2, ...). For such a rule the inter-heading
+    slice is empty, so we instead capture the parent heading plus every
+    sub-rule of that parent, up to the next heading that is NOT a descendant
+    of the requested rule."""
     headings = _all_real_headings(txt)
-    by_num: dict[str, tuple[str, str, str]] = {}
-    for i, (num, title, _start, body_start) in enumerate(headings):
-        nxt = headings[i + 1][2] if i + 1 < len(headings) else len(txt)
-        body = _clean_body(txt[body_start:nxt])
-        if len(body) < 40:
-            continue
-        # Keep the FIRST substantive occurrence per rule number.
-        by_num.setdefault(num, (num, title, body))
+    # All occurrence indices per rule number, in document order. A rule's
+    # heading typically appears twice: once in the table of contents (where
+    # the next heading immediately follows, leaving an empty body) and once
+    # at the real body. We try every occurrence and keep the one whose body
+    # window is substantive.
+    occ: dict[str, list[int]] = {}
+    for i, (num, _title, _s, _bs) in enumerate(headings):
+        occ.setdefault(num, []).append(i)
+
+    def is_descendant(child: str, parent: str) -> bool:
+        return child == parent or child.startswith(parent + ".")
+
+    def body_for(i: int, w: str) -> tuple[str, str]:
+        num, title, _start, body_start = headings[i]
+        # Extend the body window across any descendant sub-rule headings so
+        # an umbrella rule (e.g. RULE 510. EVICTION CASES) pulls in its
+        # sub-rule text verbatim.
+        j = i + 1
+        while j < len(headings) and is_descendant(headings[j][0], w):
+            j += 1
+        end = headings[j][2] if j < len(headings) else len(txt)
+        return title, _clean_body(txt[body_start:end])
+
     out: list[tuple[str, str, str]] = []
     for w in wanted:
-        if w in by_num:
-            out.append(by_num[w])
+        best: tuple[str, str] | None = None
+        for i in occ.get(w, []):
+            title, body = body_for(i, w)
+            if best is None or len(body) > len(best[1]):
+                best = (title, body)
+        if best and len(best[1]) >= 40:
+            out.append((w, best[0], best[1]))
     return out
 
 

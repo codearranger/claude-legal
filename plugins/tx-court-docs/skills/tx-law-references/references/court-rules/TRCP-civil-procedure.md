@@ -332,6 +332,11 @@ Comment to 1990 change: To supply attorney telecopier information with other ide
 information on pleadings. Documents telephonically transferred are permitted to be filed under
 changes in Rule 45.
 
+## Rule 79. THE PETITION
+
+The petition shall state the names of the parties and their residences, if known, together with the
+contents prescribed in Rule 47 above.
+
 ## Rule 90. WAIVER OF DEFECTS IN PLEADING
 
 General demurrers shall not be used. Every defect, omission or fault in a pleading either of form
@@ -1178,10 +1183,491 @@ Discovery
 
 [RULE 189. Repealed effective April 1, 1984]
 
+## Rule 190. DISCOVERY LIMITATIONS
+
+190.1 Discovery Control Plan Required.
+
+Every case must be governed by a discovery control plan as provided in this Rule. A plaintiff must
+allege in the first numbered paragraph of the original petition whether discovery is intended to be
+conducted under Level 1, 2, or 3 of this Rule.
+
+190.2 Discovery Control Plan - Expedited Actions and Divorces Involving $250,000 or Less
+(Level 1)
+
+Page 110
+
+(a) Application. This subdivision applies to:
+
+(1) any suit that is governed by the expedited actions process in Rule 169; and
+
+(2) unless the parties agree that rule 190.3 should apply or the court orders a discovery
+control plan under Rule 190.4, any suit for divorce not involving children in which
+a party pleads that the value of the marital estate is more than zero but not more
+than $250,000.
+
+(b) Limitations. Discovery is subject to the limitations provided elsewhere in these rules and
+to the following additional limitations:
+
+(1) Discovery period.
+(A) In a suit not governed by the Family Code, all discovery must be conducted
+during the discovery period, which begins when the first initial disclosures
+are due and continues for 180 days.
+
+(B) In a suit governed by the Family Code, all discovery must be conducted
+during the discovery period, which begins when the suit is filed and
+continues until 180 days after the date the first request for discovery of any
+kind is served on a party.
+
+(2) Total time for oral depositions. Each party may have no more than 20 hours in
+total to examine and cross-examine all witnesses in oral depositions. The court may
+modify the deposition hours so that no party is given unfair advantage.
+
+(3) Interrogatories. Any party may serve on any other party no more than 15 written
+interrogatories, excluding interrogatories asking a party only to identify or
+authenticate specific documents. Each discrete subpart of an interrogatory is
+considered a separate interrogatory.
+
+(4) Requests for Production. Any party may serve on any other party no more than
+15 written requests for production. Each discrete subpart of a request for
+production is considered a separate request for production.
+
+(5) Requests for Admissions. Any party may serve on any other party no more than
+15 written requests for admissions. Each discrete subpart of a request for
+admission is considered a separate request for admission.
+
+(c) Reopening Discovery. If a suit is removed from the expedited actions process in Rule
+169 or, in a divorce, the filing of a pleading renders this subdivision no longer applicable,
+the discovery period reopens, and discovery must be completed within the limitations
+provided in Rules 190.3 or 190.4, whichever is applicable. Any person previously deposed
+may be redeposed. On motion of any party, the court should continue the trial date if
+necessary to permit completion of discovery.
+
+Page 111
+
+190.3 Discovery Control Plan - By Rule (Level 2)
+
+(a) Application. Unless a suit is governed by a discovery control plan under Rules 190.2 or
+190.4, discovery must be conducted in accordance with this subdivision.
+
+(b) Limitations. Discovery is subject to the limitations provided elsewhere in these rules and
+to the following additional limitations:
+
+(1) Discovery period.
+
+(A) In a suit not governed by the Family Code, all discovery must be conducted
+during the discovery period, which begins when the first initial disclosures
+are due and continues until the earlier of:
+
+(i) 30 days before the date set for trial; or
+
+(ii) nine months after the first initial disclosures are due.
+
+(B) In a suit governed by the Family Code, all discovery must be conducted
+during the discovery period, which begins when the suit is filed and
+continues until thirty days before the date set for trial.
+
+(2) Total time for oral depositions. Each side may have no more than 50 hours in
+oral depositions to examine and cross-examine parties on the opposing side, experts
+designated by those parties, and persons who are subject to those parties' control.
+"Side" refers to all the litigants with generally common interests in the litigation. If
+one side designates more than two experts, the opposing side may have an
+additional six hours of total deposition time for each additional expert designated.
+The court may m odify the deposition hours and must do so when a side or party
+would be given unfair advantage.
+
+(3) Interrogatories. Any party may serve on any other party no more than 25 written
+interrogatories, excluding interrogatories asking a party only to identify or
+authenticate specific documents. Each discrete subpart of an interrogatory is
+considered a separate interrogatory.
+
+190.4 Discovery Control Plan - By Order (Level 3)
+
+(a) Application. The court must, on a party's motion, and may, on its own initiative, order
+that discovery be conducted in accordance with a discovery control plan tailored to the
+circumstances of the specific suit. The parties may submit an agreed order to the court for
+its consideration. The court should act on a party's motion or agreed order under this
+subdivision as promptly as reasonably possible.
+
+(b) Limitations. The discovery control plan ordered by the court may address any
+issue concerning discovery or the matters listed in Rule 166, and may change any
+Page 112
+
+limitation on the time for or amount of discovery set forth in these rules. The
+discovery limitations of Rule 190.2, if applicable, or otherwise of Rule 190.3 apply
+unless specifically changed in the discovery control plan ordered by the court. The
+plan must include:
+
+(1) a date for trial or for a conference to determine a trial setting;
+
+(2) a discovery period during which either all discovery must be conducted or all
+discovery requests must be sent, for the entire case or an appropriate phase of it;
+
+(3) appropriate limits on the amount of discovery; and
+
+(4) deadlines for joining additional parties, amending or supplementing pleadings, and
+designating expert witnesses.
+
+190.5 Modification of Discovery Control Plan
+
+The court may modify a discovery control plan at any time and must do so when the interest of
+justice requires. Unless a suit is governed by the expedited actions process in Rule 169, the court
+must allow additional discovery:
+
+(a) related to new, amended or supplemental pleadings, or new information disclosed
+in a discovery response or in an amended or supplemental response, if:
+
+(1) the pleadings or responses were made after the deadline for completion of
+discovery or so nearly before that deadline that an adverse party does not
+have an adequate opportunity to conduct discovery related to the new
+matters, and
+
+(2) the adverse party would be unfairly prejudiced without such additional
+discovery;
+
+(b) regarding matters that have changed materially after the discovery cutoff if trial is
+set or postponed so that the trial date is more than three months after the discovery
+period ends.
+
+190.6 Certain Types of Discovery Excepted
+
+This rule's limitations on discovery do not apply to or include discovery conducted under Rule 202
+("Depositions Before Suit or to Investigate Claims"), or Rule 621a ("Discovery and Enforcement
+of Judgment"). But Rule 202 cannot be used to circumvent the limitations of this rule.
+
+Notes and Comments
+
+Comment to 1999 change:
+
+Page 113
+
+1. This rule establishes three tiers of discovery plans and requires that every case be
+in one at all times. Whether a case is in Level 1 is determined by the pleadings. To be in Level 3,
+the court must order a specific plan for the case, either on a party’s motion or on the court’s own
+initiative. The plan may be one agreed to by the parties and submitted as an agreed order. A Level
+3 plan may simply adopt Level 1 or Level 2 restrictions. Separate Level 3 plans for phases of the
+case may be appropriate. Until a Level 3 plan is ordered, a case that is not in Level 1 is in Level 2.
+The initial pleading required by Rule 190.1 is merely to notify the court and other parties of the
+plaintiff’s intention; it does not bind the court or other parties. A plaintiff’s fa ilure to state in the
+initial pleading that the case should be in Level 1 does not waive application of Rule 190.2.
+
+2. Rule 190.2 does not apply to suits for injunctive relief or divorces involving
+children. The requirement of an affirmative pleading of limited relief (e.g.: “Plaintiff affirmatively
+pleads that he seeks only monetary relief aggregating $50,000 or less, excluding costs, pre -
+judgment interest and attorneys’ fees”) does not conflict with other pleading requirements, such as
+Rule 47 and Tex. Rev. Civ. Stat. Ann. art. 4590i, § 5.01. In a suit to which Rule 190.2 applies, the
+relief awarded cannot exceed the relief pleaded because the purpose of the rule, unlike Rule 47, is
+to bind the pleader to a maximum claim. Thus, the rule in Greenhalgh v. Service Lloyds Ins. Co.,
+787 S.W.2d 938 (Tex. 1990), does not apply.
+
+3. “Discrete subparts” of interrogatories are counted as single interrogatories, but not
+every separate factual inquiry is a discrete subpart. See Fed. R. Civ. P. 33(a). While not susceptible
+of precise definition, see Braden v. Downey , 811 S.W.2d 922, 972- 928 (Tex. 1991), a “discrete
+subpart” is, in general, one that calls for information that is not logically or factually related to the
+primary interrogatory. The number of sets of interrogatories is no longer limited to two.
+
+4. As other rules make clear, unless otherwise ordered or agreed, parties seeking
+discovery must serve requests sufficiently far in advance of the end of the discovery period that
+the deadline for responding will be within the discovery period. The court may order a deadline
+for sending discovery requests in lieu of or in addition to a deadline for completing discovery.
+
+5. Use of forms of discovery other than depositions and interrogatories, such as
+requests for disclosure, admissions, or production of documents, are not restricted in Levels 1 and
+2. But depositions on written questions cannot be used to circumvent the limits on interrogatories.
+
+6. The concept of “side” in Rule 190.3(b)(2) borrows from Rule 233, which governs
+the allocation of peremptory strikes, and from Fed. R. Civ. P. 30(a)(2). In most cases there are only
+two sides – plaintiffs and defendants. In complex cases, however, there ma y be more than two
+sides, such as when defendants have sued third parties not named by plaintiffs, or when defendants
+have sued each other. As an example, if P1 and P2 sue D1, D2, and D3, and D1 sues D2 and D3,
+Ps would together be entitled to depose Ds and others permitted by the rule ( i.e., Ds’ experts and
+persons subject to Ds’ control) for 50 hours, and Ds would together be entitled to depose Ps and
+others for 50 hours. D1 would also be entitled to depose D2 and D3 and others for 50 hours on
+matters in controversy among them, and D2 and D3 would together be entitled to depose D1 and
+others for 50 hours.
+
+Page 114
+
+7. Any matter listed in Rule 166 may be addressed in an order issued under Rule
+190.4. A pretrial order under Rule 166 may be used in individual cases regardless of the discovery
+level.
+
+8. For purposes of defining discovery periods, “trial” does not include summary
+judgment.
+
+Comment to 2013 change: Rule 190 is amended to implement section 22.004(h) of the Texas
+Government Code, which calls for rules to promote the prompt, efficient, and cost -effective
+resolution of civil actions when the amount in controversy does not exceed $100,000. Rule 190.2
+now applies to expedited actions, as defined by Rule 169. Rule 190.2 continues to apply to divorces
+not involving children in which the value of the marital estate is not more than $50,000, which are
+otherwise exempt from the expedited actions process. Amended Rule 190.2(b) ends the discovery
+period 180 days af ter the date the first discovery request is served; imposes a fifteen limit
+maximum on interrogatories, requests for production, and requests for admission; and allows for
+additional disclosures. Although expedited actions are not subject to mandatory addit ional
+discovery under amended Rule 190.5, the court may still allow additional discovery if the
+conditions of Rule 190.5(a) are met.
+
+Comment to 2021 change: Rule 190.2 is amended to implement section 22.004(h- 1) of the Texas
+Government Code. Under amended Rule 190.2, Level 1 discovery limitations now apply to a
+broader subset of civil actions: expedited actions under Rule 169, which is also amended to
+implement section 22.004(h- 1) of the Texas Government Code, and divorces not involving
+children in which the value of the marital estate is not more than $250,000. Level 1 limitations are
+revised to impose a twenty- hour limit on oral deposi tions. Disclosure requests under Rule
+190.2(b)(6) and Rule 194 are now replaced by required disclosures under Rule 194, as amended.
+The discovery periods under Rules 190.2(b)(1) and 190.3(b)(1) are revised to reference the
+required disclosures.
+
 ## Rule 193. WRITTEN DISCOVERY: RESPONSE; OBJECTION;  ASSERTION OF
 
 PRIVILEGE; SUPPLEMENTATION AND AMENDMENT; FAILURE TO TIMELY
 RESPOND; PRESUMPTION OF AUTHENTICITY
+
+193.1 Responding to Written Discovery; Duty to Make Complete Response.
+
+A party must respond to written discovery in writing within the time provided by court order or
+these rules. When responding to written discovery, a party must make a complete response, based
+Page 124
+
+on all information reasonably available to the responding party or its attorney at the time the
+response is made. The responding party's answers, objections, and other responses must be
+preceded by the request or required disclosure to which they apply.
+
+193.2 Objecting to Written Discovery
+
+(a) Form and time for objections. A party must make any objection to written discovery in
+writing - either in the response or in a separate document - within the time for response.
+The party must state specifically the legal or factual basis for the objection and the extent
+to which the party is refusing to comply with the request.
+
+(b) Duty to respond when partially objecting; objection to time or place of production.
+A party must comply with as much of the request to which the party has made no objection
+unless it is unreasonable under the circumstances to do so before obtaining a ruling on the
+objection. If the responding party objects to the requested time or place of production, the
+responding party must state a reasonable time and place for complying with the request
+and must comply at that time and place without further request or order.
+
+(c) Good faith basis for objection. A party may object to written discovery only if a good
+faith factual and legal basis for the objection exists at the time the objection is made.
+
+(d) Amendment. An objection or response to written discovery may be amended or
+supplemented to state an objection or basis that, at the time the objection or response
+initially was made, either was inapplicable or was unknown after reasonable inquiry.
+
+(e) Waiver of objection. An objection that is not made within the time required, or that is
+obscured by numerous unfounded objections, is waived unless the court excuses the waiver
+for good cause shown.
+
+(f) No objection to preserve privilege. A party should not object to a request for written
+discovery on the grounds that it calls for production of material or information that is
+privileged but should instead comply with Rule 193.3. A party who objects to production
+of privileged material or information does not waive the privilege but must comply with
+Rule 193.3 when the error is pointed out.
+
+193.3 Asserting a Privilege
+
+A party may preserve a privilege from written discovery in accordance with this subdivision.
+
+(a) Withholding privileged material or information. A party who claims that
+material or information responsive to written discovery is privileged may withhold
+the privileged material or information from the response. The party must state --in
+the response (or an amended or supplemental response) or in a separate document-
+-that:
+
+Page 125
+
+(1) information or material responsive to the request or required disclosure has
+been withheld,
+
+(2) the request or required disclosure to which the information or material
+relates, and
+
+(3) the privilege or privileges asserted.
+
+(b) Description of withheld material or information. After receiving a response
+indicating that material or information has been withheld from production, a party
+seeking discovery may serve a written request that the withholding party identify
+the information and material withheld. Within 15 days of service of that request,
+the withholding party must serve a response that:
+
+(1) describes the information or materials withheld that, without revealing the
+privileged information itself or otherwise waiving the privilege, enables
+other parties to assess the applicability of the privilege, and
+
+(2) asserts a specific privilege for each item or group of items withheld.
+
+(c) Exemption. Without complying with paragraphs (a) and (b), a party may
+withhold a privileged communication to or from a lawyer or lawyer's representative
+or a privileged document of a lawyer or lawyer's representative
+
+(1) created or made from the point at which a party consults a lawyer with a
+view to obtaining professional legal services from the lawyer in the
+prosecution or defense of a specific claim in the litigation in which
+discovery is requested or required, and
+
+(2) concerning the litigation in which the discovery is requested or required.
+
+(d) Privilege not waived by production. A party who produces material or
+information without intending to waive a claim of privilege does not waive that
+claim under these rules or the Rules of Evidence if - within ten days or a shorter
+time ordered by the court, after the producing party actua lly discovers that such
+production was made - the producing party amends the response, identifying the
+material or information produced and stating the privilege asserted. If the producing
+party thus amends the response to assert a privilege, any party who has obtained
+the specific material or information must promptly return the specified material or
+information and any copies pending any ruling by the court denying the privilege.
+
+193.4 Hearing and Ruling on Objections and Assertions of Privilege.
+
+(a) Hearing. Any party may at any reasonable time request a hearing on an objection or claim
+of privilege asserted under this rule. The party making the objection or asserting the
+privilege must present any evidence necessary to support the objection or privilege. The
+Page 126
+
+evidence may be testimony presented at the hearing or affidavits served at least seven days
+before the hearing or at such other reasonable time as the court permits. If the court
+determines that an in camera review of some or all of the requested discovery or required
+disclosure is necessary, that material or information must be segregated and produced to
+the court in a sealed wrapper within a reasonable time following the hearing.
+
+(b) Ruling. To the extent the court sustains the objection or claim of privilege, the responding
+party has no further duty to respond to that request or required disclosure. To the extent the
+court overrules the objection or claim of privilege, the responding party must produce the
+requested or required material or information within 30 days after the court's ruling or at
+such time as the court orders. A party need not request a ruling on that party's own objection
+or assertion of privilege to preserve the objection or privilege.
+
+(c) Use of material or information withheld under claim of privilege. A party may not
+use--at any hearing or trial--material or information withheld from discovery under a claim
+of privilege, including a claim sustained by the court, without timely amending or
+supplementing the party's response to that discovery.
+
+193.5 Amending or Supplementing Responses to Written Discovery.
+
+(a) Duty to amend or supplement. If a party learns that the party's response to written
+discovery was incomplete or incorrect when made, or, although complete and correct when
+made, is no longer complete and correct, the party must amend or supplement the response:
+
+(1) to the extent that the written discovery sought the identification of persons with
+knowledge of relevant facts, trial witnesses, or expert witnesses, and
+
+(2) to the extent that the written discovery sought other information, unless the
+additional or corrective information has been made known to the other parties in
+writing, on the record at a deposition, or through other discovery responses.
+
+(b) Time and form of amended or supplemental response. An amended or supplemental
+response must be made reasonably promptly after the party discovers the necessity for such
+a response. Except as otherwise provided by these rules, it is presumed that an amended or
+supplemental response made less than 30 days before trial was not made reasonably
+promptly. An amended or supplemental response must be in the same form as the initial
+response and must be verified by the party if the original response was require d to be
+verified by the party, but the failure to comply with this requirement does not make the
+amended or supplemental response untimely unless the party making the response refuses
+to correct the defect within a reasonable time after it is pointed out.
+
+193.6 Failing to Timely Respond - Effect on Trial
+
+(a) Exclusion of evidence and exceptions. A party who fails to make, amend, or supplement
+a discovery response, including a required disclosure, in a timely manner may not introduce
+in evidence the material or information that was not timely disclosed, or offer the testimony
+Page 127
+
+of a witness (other than a named party) who was not timely identified, unless the court
+finds that:
+
+(1) there was good cause for the failure to timely make, amend, or supplement the
+discovery response; or
+
+(2) the failure to timely make, amend, or supplement the discovery response will not
+unfairly surprise or unfairly prejudice the other parties.
+
+(b) Burden of establishing exception. The burden of establishing good cause or the lack of
+unfair surprise or unfair prejudice is on the party seeking to introduce the evidence or call
+the witness. A finding of good cause or of the lack of unfair surprise or unfair prejudice
+must be supported by the record.
+
+(c) Continuance. Even if the party seeking to introduce the evidence or call the witness fails
+to carry the burden under paragraph (b), the court may grant a continuance or temporarily
+postpone the trial to allow a response to be made, amended, or supplemented, and to allow
+opposing parties to conduct discovery regarding any new information presented by that
+response.
+
+193.7 Production of Documents Self-Authenticating
+
+A party's production of a document in response to written discovery authenticates the document
+for use against that party in any pretrial proceeding or at trial unless - within ten days or a longer
+or shorter time ordered by the court, after the producing party has actual notice that the document
+will be used - the party objects to the authenticity of the document, or any part of it, stating the
+specific basis for objection. An objection must be either on the record or in writing and must have
+a good faith factual and legal basis. An objection made to the authenticity of only part of a
+document does not affect the authenticity of the remainder. If objection is made, the party
+attempting to use the document should be given a reasonable opportunity to establis h its
+authenticity.
+
+Notes and Comments
+
+Comment to 1999 change:
+
+1. This rule imposes a duty upon parties to make a complete response to written
+discovery based upon all information reasonable available, subject to objections and privileges.
+
+2. An objection to a written discovery does not excuse the responding party from
+complying with the request to the extent no objection is made. But a party may object to a request
+for “all documents relevant to the lawsuit” as overly broad and not in complia nce with the rule
+requiring specific requests for documents and refuse to comply with it entirely. See Loftin v.
+Martin, 776 S.W.2d 145 (Tex. 1989). A party may also object to a request for a litigation file on
+the ground that it is overly broad and may assert that on its face the request seeks only materials
+protected by privilege. See National Union Fire Ins. Co. v. Valdez, 863 S.W.2d 458 (Tex. 1993).
+Page 128
+
+A party who objects to production of documents from a remote time period should produce
+documents from a more recent period unless that production would be burdensome and duplicative
+should the objection be overruled.
+
+3. This rule governs the presentation of all privileges including work product. It
+dispenses with objections to written discovery requests on the basis that responsive information or
+materials are protected by a specific privilege from discovery. Instead, the rule requires parties to
+state that information or materials have been withheld and to identify the privilege upon which the
+party relies. The statement should not be made prophylactically, but only when specific
+information and materials have been withheld. The party must amend or supplement the statement
+if additional privileged information or material is found subsequent to the initial response. Thus,
+when large numbers of documents are being produced, a party may amend the initial response
+when documents are found as to which the party claims privilege. A party need not state that
+material created by or for lawyers for the litigation has been withheld as it can be assumed that
+such material will be withheld from virtually any request on the grounds of attorney -client
+privilege or work product. However, the rule does not prohibit a party from specifically requesting
+the material or information if the party has a good faith basis for asserting that it is discoverable.
+An example would be material or inf ormation described by Rule 503(d)(1) of the Rules of
+Evidence.
+
+4. Rule 193.3(d) is a new provision that allows a party to assert a claim of privilege to
+material or information produced inadvertently without intending to waive the privilege. The
+provision is commonly used in complex cases to reduce costs and risks in la rge document
+productions. The focus is on the intent to waive the privilege, not the intent to produce the material
+or information. A party who fails to diligently screen documents before producing them does not
+waive a claim of privilege. This rule is thus broader than Tex. R. Evid. 511 and overturns Granada
+Corp. v. First Court of Appeals , 844 S.W.2d 223 (Tex. 1992), to the extent the two conflict. The
+ten-day period (which may be shortened by the court) allowed for an amended response does not
+run from the production of the material or information but from the party’s first awareness of t he
+mistake. To avoid complications at trial, a party may identify prior to trial the documents intended
+to be offered, thereby triggering the obligation to assert any overlooked privilege under this rule.
+A trial court may also order this procedure.
+
+5. This rule imposes no duty to supplement or amend deposition testimony. The only
+duty to supplement deposition testimony is provided in Rule 195.6.
+
+6. Any party can request a hearing in which the court will resolve issues brought up
+in objections or withholding statements. The party seeking to avoid discovery has the burden of
+proving the objection or privilege.
+
+7. The self -authenticating provision is new. Authentication is, of course, but a
+condition precedent to admissibility and does not establish admissibility. See Tex. R. Evid. 901(a).
+The ten-day period allowed for objection to authenticity (which period may be altered by the court
+in appropriate circumstances) does not run from the production of the material or information but
+from the party’s actual awareness that the document will be used. To avoid complications at trial,
+a party may identify prior to trial the documents intended to be offered, thereby triggering the
+Page 129
+
+obligation to object to authenticity. A trial court may also order this procedure. An objection to
+authenticity must be made in good faith.
 
 ## Rule 193.7. Production of Documents Self-Authenticating
 
@@ -1262,9 +1748,886 @@ Page 129
 obligation to object to authenticity. A trial court may also order this procedure. An objection to
 authenticity must be made in good faith.
 
+## Rule 194. REQU IRED DISCLOSURES IN SUITS NOT GOVERNED BY THE
+
+FAMILY CODE
+
+194.1 Duty to Disclose; Production.
+
+(a) Duty to Disclose. Except in a suit governed by the Family Code, as exempted by Rule
+194.2(c), or as otherwise agreed by the parties or ordered by the court, a party must, without
+awaiting a discovery request, provide to the other parties the information or material
+described in Rule 194.2, 194.3, and 194.4.
+
+(b) Production. If a party does not produce copies of all responsive documents, electronically
+stored information, and tangible things with the response, the response must state a
+reasonable time and method for the production of these items. The responding party must
+produce the items at the time and in the method stated, unless otherwise agreed by the
+parties or ordered by the court, and must provide the requesting party a reasonable
+opportunity to inspect them.
+
+194.2 Initial Disclosures.
+
+(a) Time for Initial Disclosures. A party must make the initial disclosures within 30 days
+after the filing of the first answer or general appearance unless a different time is set by the
+parties’ agreement or court order. A party that is first served or otherwise joined after the
+filing of the first answer or general appearance must make the initial disclosures within 30
+days after being served or joined, unless a different time is set by the parties’ agreement or
+court order.
+
+(b) Content. Without awaiting a discovery request, a party must provide to the other parties:
+
+(1) the correct names of the parties to the lawsuit;
+
+(2) the name, address, and telephone number of any potential parties;
+
+(3) the legal theories and, in general, the factual bases of the responding party's claims
+or defenses (the responding party need not marshal all evidence that may be offered
+at trial);
+
+(4) the amount and any method of calculating economic damages;
+
+(5) the name, address, and telephone number of persons having knowledge of relevant
+facts, and a brief statement of each identified person's connection with the case;
+
+(6) a copy–or a description by category and location –of all documents, electronically
+stored information, and tangible things that the responding party has in its
+Page 130
+
+possession, custody, or control, and may use to support its claims or defenses,
+unless the use would be solely for impeachment;
+
+(7) any indemnity and insuring agreements described in Rule 192.3(f);
+
+(8) any settlement agreements described in Rule 192.3(g);
+
+(9) any witness statements described in Rule 192.3(h);
+
+(10) in a suit alleging physical or mental injury and damages from the occurrence that
+is the subject of the case, all medical records and bills that are reasonably related to
+the injuries or damages asserted or, in lieu thereof, an authorization permitting th e
+disclosure of such medical records and bills;
+
+(11) in a suit alleging physical or mental injury and damages from the occurrence that
+is the subject of the case, all medical records and bills obtained by the responding
+party by virtue of an authorization furnished by the requesting party; and
+
+(12) the name, address, and telephone number of any person who may be designated as
+a responsible third party.
+
+(c) Proceedings Exempt from Initial Disclosure. The following proceedings are exempt
+from initial disclosure, but a court may order the parties to make particular disclosures and
+set the time for disclosure:
+
+(1) an action for review on an administrative record;
+
+(2) a forfeiture action arising from a state statute;
+
+(3) a petition for habeas corpus;
+
+(4) an action involving domestic violence; and
+
+(5) an action on appeal from a justice court.
+
+194.3 Testifying Expert Disclosures.
+
+In addition to the disclosures required by Rule 194.2, a party must disclose to the other parties
+testifying expert information as provided by Rule 195.
+
+194.4 Pretrial Disclosures.
+
+(a) In General. In addition to the disclosures required by Rule 194.2 and 194.3, a party must
+provide to the other parties and promptly file the following information about the evidence
+that it may present at trial other than solely for impeachment:
+Page 131
+
+(1) the name and, if not previously provided, the address, and telephone number of
+each witness–separately identifying those the party expects to present and those it
+may call if the need arises; and
+
+(2) a list identifying each document or other exhibits, including summaries of other
+evidence–separately identifying those items the party expects to offer and those it
+may offer if the need arises.
+
+(b) Time for Pretrial Disclosures. Unless the court orders otherwise, these disclosures must
+be made at least 30 days before trial.
+
+194.5 No Objection or Assertion of Work Product.
+
+No objection or assertion of work product is permitted to a disclosure under this rule.
+
+194.6 Certain Responses Not Admissible.
+
+A disclosure under Rule 194.2(b)(3) and (4) that has been changed by an amended or supplemental
+response is not admissible and may not be used for impeachment.
+
+Notes and Comments
+
+Comment to 1999 change:
+
+1. Disclosure is designed to afford parties basic discovery of specific categories of
+information, not automatically in every case, but upon request, without preparation of a lengthy
+inquiry, and without objection or assertion of work product. In those extrem ely rare cases when
+information ordinarily discoverable should be protected, such as when revealing a person’s
+residence might result in harm to the person, a party may move for protection. A party may assert
+any applicable privileges other than work produ ct using the procedures of Rule 193.3 applicable
+to other written discovery. Otherwise, to fail to respond fully to a request for disclosure would be
+an abuse of the discovery process.
+
+2. Rules 194.2(c) and (d) permit a party further inquiry into another’s legal theories
+and factual claims than is often provided in notice pleadings. So- called “contention
+interrogatories” are used for the same purpose. Such interrogatories are not properly used to require
+a party to marshal evidence or brief legal issues. Paragraphs (c) and (d) are intended to require
+disclosure of a party’s basic assertions, whether in prosecution of claims or in defense. Thus, for
+example, a plaintiff would be required to disclose that he or she claimed damages suffered in a car
+wreck caused by defendant’s negligence in speeding, and would be required to state how loss of
+past earnings and future earning capacity was calculated, but would not be required to state the
+speed at which defendant was allegedly driving. Paragraph (d) does not require a party, either a
+plaintiff or a defendant, to state a method of calculating non-economic damages, such as for mental
+anguish. In the same example, defendant would be required to di sclose his or her denial of the
+speeding allegation and any basis for contesting the damage calculations.
+Page 132
+
+3. Responses under Rule 194.2(c) and (d) that have been amended or supplemented
+are inadmissible and cannot be used for impeachment, but other evidence of changes in position
+is not likewise barred.
+
+Comment to 2021 change: Rule 194 is amended to implement section 22.004(h- 1) of the Texas
+Government Code. Rule 194 is amended based on Federal Rule of Civil Procedure 26(a) to require
+disclosure of basic discovery automatically, without awaiting a discovery request. A party is not
+excused from making its disclosures because it has not fully investigated the case or because it
+challenges the sufficiency of another party’s disclosures or because another party has not made its
+disclosures. As with other written discovery responses, required disclosures must be signed under
+Rule 191.3, complete under Rule 193.1, served under rule 191.5, and timely amended or
+supplemented under Rule 193.5.
+
+Comment to 2023 change: Rule 194 is amended to implement chapter 301 of the Family Code.
+
 ## Rule 196. REQUESTS FOR PRODUCTION AND INSPECTION TO PARTIES;
 
 REQUESTS AND MOTIONS FOR ENTRY UPON PROPERTY
+
+196.1 Request for Production and Inspection to Parties.
+
+(a) Request. A party may serve on another party--no later than 30 days before the end of the
+discovery period-- a request for production or for inspection, to inspect, sample, test,
+photograph and copy documents or tangible things within the scope of discovery.
+
+(b) Contents of request. The request must specify the items to be produced or inspected,
+either by individual item or by category, and describe with reasonable particularity each
+item and category. The request must specify a reasonable time (on or after the date on
+which the response is due) and place for production. If the requesting party will sample or
+test the requested items, the means, manner and procedure for testing or sampling must be
+described with sufficient specificity to inform the producing party of the means, manner,
+and procedure for testing or sampling.
+
+(c) Requests for production of medical or mental health records regarding nonparties.
+
+(1) Service of request on nonparty. If a party requests another party to produce
+medical or mental health records regarding a nonparty, the requesting party must
+serve the nonparty with the request for production under Rule 21a.
+
+(2) Exceptions. A party is not required to serve the request for production on a
+nonparty whose medical records are sought if:
+
+(A) the nonparty signs a release of the records that is effective as to the
+requesting party;
+
+(B) the identity of the nonparty whose records are sought will not directly or
+indirectly be disclosed by production of the records; or
+Page 141
+
+(C) the court, upon a showing of good cause by the party seeking the records,
+orders that service is not required.
+
+(3) Confidentiality. Nothing in this rule excuses compliance with laws concerning
+the confidentiality of medical or mental health records.
+
+196.2 Response to Request for Production and Inspection.
+
+(a) Time for response. The responding party must serve a written response on the requesting
+party within 30 days after service of the request, except that a defendant in a suit governed
+by the Family Code served with a request before the defendant’s answer is due need not
+respond until 50 days after service of the request.
+
+(b) Content of response. With respect to each item or category of items, the responding party
+must state objections and assert privileges as required by these rules, and state, as
+appropriate, that:
+
+(1) production, inspection, or other requested action will be permitted as requested;
+
+(2) the requested items are being served on the requesting party with the response;
+
+(3) production, inspection, or other requested action will take place at a specified time
+and place, if the responding party is objecting to the time and place of production;
+or
+
+(4) no items have been identified - after a diligent search - that are responsive to the
+request.
+
+196.3 Production.
+
+(a) Time and place of production. Subject to any objections stated in the response, the
+responding party must produce the requested documents or tangible things within the
+person's possession, custody or control at either the time and place requested or the time
+and place stated in the r esponse, unless otherwise agreed by the parties or ordered by the
+court, and must provide the requesting party a reasonable opportunity to inspect them.
+
+(b) Copies. The responding party may produce copies in lieu of originals unless a question
+is raised as to the authenticity of the original or in the circumstances it would be unfair to
+produce copies in lieu of originals. If originals are produced, the responding party is
+entitled to retain the originals while the requesting party inspects and copies them.
+
+(c) Organization. The responding party must either produce documents and tangible things
+as they are kept in the usual course of business or organize and label them to correspond
+with the categories in the request.
+
+Page 142
+
+196.4 Electronic or Magnetic Data.
+
+To obtain discovery of data or information that exists in electronic or magnetic form, the requesting
+party must specifically request production of electronic or magnetic data and specify the form in
+which the requesting party wants it produced. The responding party must produce the electronic
+or magnetic data that is responsive to the request and is reasonably available to the responding
+party in its ordinary course of business. If the responding party cannot - through reasonable efforts
+-retrieve the data or information requested or produce it in the form requested, the responding party
+must state an objection complying with these rules. If the court orders the responding party to
+comply with the request, the court must also order that the requesting party pay the reasonable
+expenses of any extraordinary steps required to retrieve and produce the information.
+
+196.5 Destruction or Alteration.
+
+Testing, sampling or examination of an item may not destroy or materially alter an item unless
+previously authorized by the court.
+
+196.6 Expenses of Production.
+
+Unless otherwise ordered by the court for good cause, the expense of producing items will be borne
+by the responding party and the expense of inspecting, sampling, testing, photographing, and
+copying items produced will be borne by the requesting party.
+
+196.7 Request of Motion for Entry Upon Property.
+
+(a) Request or motion. A party may gain entry on designated land or other property to
+inspect, measure, survey, photograph, test, or sample the property or any designated object
+or operation thereon by serving - no later than 30 days before the end of any applicable
+discovery period -
+
+(1) a request on all parties if the land or property belongs to a party, or
+
+(2) a motion and notice of hearing on all parties and the nonparty if the land or property
+belongs to a nonparty. If the identity or address of the nonparty is unknown and
+cannot be obtained through reasonable diligence, the court must permit service by
+means other than those specified in Rule 21a that are reasonably calculated to give
+the nonparty notice of the motion and hearing.
+
+(b) Time, place, and other conditions. The request for entry upon a party's property, or the
+order for entry upon a nonparty's property, must state the time, place, manner, conditions,
+and scope of the inspection, and must specifically describe any desired means, manner, and
+procedure for tes ting or sampling, and the person or persons by whom the inspection,
+testing, or sampling is to be made.
+
+Page 143
+
+(c) Response to request for entry.
+
+(1) Time to respond. The responding party must serve a written response on the
+requesting party within 30 days after service of the request, except that a defendant
+in a suit governed by the Family Code served with a request before the defendant’s
+answer is due need not respond until 50 days after service of the request.
+
+(2) Content of response. The responding party must state objections and assert
+privileges as required by these rules, and state, as appropriate, that:
+
+(A) entry or other requested action will be permitted as requested;
+
+(B) entry or other requested action will take place at a specified time and place,
+if the responding party is objecting to the time and place of production; or
+
+(C) entry or other requested action cannot be permitted for reasons stated in the
+response.
+
+(d) Requirements for order for entry on nonparty's property. An order for entry on a
+nonparty's property may issue only for good cause shown and only if the land, property, or
+object thereon as to which discovery is sought is relevant to the subject matter of the action.
+
+Notes and Comments
+
+Comment to 1999 change:
+
+1. “Document and tangible things” are defined in Rule 192.3(b).
+
+2. A party requesting sampling or testing must describe the procedure with sufficient
+specificity to enable the responding party to make any appropriate objections.
+
+3. A party requesting production of magnetic or electronic data must specifically
+request the data, specify the form in which it wants the data produced, and specify any
+extraordinary steps for retrieval and translation. Unless ordered otherwise, the responding party
+need only produce the data reasonably available in the ordinary course of business in reasonably
+usable form.
+
+4. The rule clarifies how the expenses of production are to be allocated absent a court
+order to the contrary.
+
+5. The obligation of parties to produce documents within their possession, custody or
+control is explained in Rule 192.3(b).
+
+6. Parties may request production and inspection of documents and tangible things
+from nonparties under Rule 205.3.
+
+Page 144
+
+7. Rule 196.3(b) is based on Tex. R. Evid. 1003.
+
+8. Rule 196.1(c) is merely a notice requirement and does not expand the scope of
+discovery of a nonparty’s medical records.
+
+## Rule 197. INTERROGATORIES TO PARTIES
+
+197.1 Interrogatories.
+
+A party may serve on another party - no later than 30 days before the end of the discovery period
+-written interrogatories to inquire about any matter within the scope of discovery except matters
+covered by Rule 195. An interrogatory may inquire whether a party makes a specific legal or
+factual contention and may ask the responding party to state the legal theories and to describe in
+general the factual bases for the party's claims or defenses, but interrogatories may not be used to
+require the responding party to marshal all of its available proof or the proof the party intends to
+offer at trial.
+
+197.2 Response to Interrogatories.
+
+(a) Time for response. The responding party must serve a written response on the requesting
+party within 30 days after service of the interrogatories, except that a defendant in a suit
+governed by the Family Code served with a request before the defendant’s answer is due
+need not respond until 50 days after service of the request.
+
+(b) Content of response. A response must include the party's answers to the interrogatories
+and may include objections and assertions of privilege as required under these rules.
+
+(c) Option to produce records. If the answer to an interrogatory may be derived or
+ascertained from public records, from the responding party's business records, or from a
+compilation, abstract or summary of the responding party's business records, and the
+burden of deriving or ascert aining the answer is substantially the same for the requesting
+party as for the responding party, the responding party may answer the interrogatory by
+specifying and, if applicable, producing the records or compilation, abstra ct or summary
+of the records. The records from which the answer may be derived or ascertained must be
+specified in sufficient detail to permit the requesting party to locate and identify them as
+readily as can the responding party. If the responding party has specified business records,
+the responding party must state a reasonable time and place for examination of the
+documents. The responding party must produce the documents at the time and place stated,
+unless otherwise agreed by the parties or ordered by the court, and must provide the
+requesting party a reasonable opportunity to inspect them.
+
+(d) Verification required; exceptions. A responding party - not an agent or attorney as
+otherwise permitted by Rule 14 - must sign the answers under oath except that:
+
+(1) when answers are based on information obtained from other persons, the party may
+so state, and
+Page 145
+
+(2) a party need not sign answers to interrogatories about persons with knowledge of
+relevant facts, trial witnesses, and legal contentions.
+
+197.3 Use.
+
+Answers to interrogatories may be used only against the responding party. An answer to an
+interrogatory inquiring about matters described in Rule 194.2( b)(3) and (b)(4) that has been
+amended or supplemented is not admissible and may not be used for impeachment.
+
+Notes and Comments
+
+Comment to 1999 change:
+
+1. Interrogatories about specific legal or factual assertions – such as, whether a party
+claims a breach of implied warranty, or when a party contends that limitations began to run – are
+proper, but interrogatories that ask a party to state all legal and factual assertions are improper. As
+with requests for disclosure, interrogatories may be used to ascertain basic legal and factual claims
+and defenses but may not be used to force a party to marshal evidence. Use of the answers to such
+interrogatories is limited, just as the use of similar disclosures under Rule 194.6 is.
+
+2. Rule 191’s requirement that a party’s attorney sign all discovery responses and
+objections applies to interrogatory responses and objections. In addition, the responding party must
+sign some interrogatory answers under oath, as specified by the rule. Answ ers in amended and
+supplemental responses must be signed by the party under oath only if the original answers were
+required to be signed under oath. The failure to sign or verify answers is only a formal defect that
+does not otherwise impair the answers unless the party refuses to sign or verify the answers after
+the defect is pointed out.
+
+## Rule 198. REQUESTS FOR ADMISSIONS
+
+198.1 Request for Admissions.
+A party may serve on another party - no later than 30 days before the end of the discovery period
+-written requests that the other party admit the truth of any matter within the scope of discovery,
+including statements of opinion or of fact or of the appli cation of law to fact, or the genuineness
+of any documents served with the request or otherwise made available for inspection and copying.
+Each matter for which an admission is requested must be stated separately.
+
+198.2 Response to Requests for Admissions.
+
+(a) Time for response. The responding party must serve a written response on the requesting
+party within 30 days after service of the request, except that a defendant in a suit governed
+by the Family Code served with a request before the defendant’s answer is due need not
+respond until 50 days after service of the request.
+
+Page 146
+
+(b) Content of response. Unless the responding party states an objection or asserts a
+privilege, the responding party must specifically admit or deny the request or explain in
+detail the reasons that the responding party cannot admit or deny the request. A response
+must fairly meet the substance of the request. The responding party may qualify an answer,
+or deny a request in part, only when good faith requires. Lack of information or knowledge
+is not a proper response unless the responding party states tha t a reasonable inquiry was
+made but that the information known or easily obtainable is insufficient to enable the
+responding party to admit or deny. An assertion that the request presents an issue for trial
+is not a proper response.
+
+(c) Effect of failure to respond. If a response is not timely served, the request is considered
+admitted without the necessity of a court order.
+
+198.3 Effect of Admissions; Withdrawal or Amendment.
+
+Any admission made by a party under this rule may be used solely in the pending action and not
+in any other proceeding. A matter admitted under this rule is conclusively established as to the
+party making the admission unless the court permits the party to withdraw or amend the admission.
+The court may permit the party to withdraw or amend the admission if:
+
+(a) the party shows good cause for the withdrawal or amendment; and
+
+(b) the court finds that the parties relying upon the responses and deemed admissions
+will not be unduly prejudiced and that the presentation of the merits of the action
+will be subserved by permitting the party to amend or withdraw the admission.
+
+## Rule 199. DEPOSITIONS UPON ORAL EXAMINATION
+
+199.1 Oral Examination; Alternative Methods of Conducting or Recording.
+
+(a) Generally. A party may take the testimony of any person or entity by deposition on oral
+examination before any officer authorized by law to take depositions. The testimony,
+objections, and any other statements during the deposition must be recorded at the time
+they are given or made.
+
+(b) Depositions by telephone or other remote electronic means. A party may take an oral
+deposition by telephone or other remote electronic means if the party gives reasonable prior
+written notice of intent to do so. For the purposes of these rules, an oral deposition taken
+by telephone or other remote electronic mea ns is considered as having been taken in the
+district and at the place where the witness is located when answering the questions.
+
+(c) Non-stenographic recording. Any party may cause a deposition upon oral examination
+to be recorded by other than stenographic means, including videotape recording. The party
+requesting the non -stenographic recording will be responsible for obtaining a person
+authorized by law to adm inister the oath and for assuring that the recording will be
+intelligible, accurate, and trustworthy. At least five days prior to the deposition, the party
+Page 147
+
+must serve on the witness and all parties a notice, either in the notice of deposition or
+separately, that the deposition will be recorded by other than stenographic means. This
+notice must state the method of non- stenographic recording to be used and whet her the
+deposition will also be recorded stenographically. Any other party may then serve written
+notice designating another method of recording in addition to the method specified, at the
+expense of such other party unless the court orders otherwise.
+
+199.2 Procedure for Noticing Oral Depositions.
+
+(a) Time to notice deposition. A notice of intent to take an oral deposition must be served
+on the witness and all parties a reasonable time before the deposition is taken. An oral
+deposition may be taken outside the discovery period only by agreement of the parties or
+with leave of court.
+
+(b) Content of notice.
+
+(1) Identity of witness; organizations. The notice must state the name of the
+witness, which may be either an individual or a public or private corporation,
+partnership, association, governmental agency, or other organization. If an
+organization is named as the witness, the notice must describe with reasonable
+particularity the matters on which examination is requested. In response, the
+organization named in the notice must - a reasonable time before the deposition -
+designate one or more individuals to testify on its behalf and set forth, for each
+individual designated, the matters on which the individual will testify. Each
+individual designated must testify as to matters that are known or reasonably
+available to the organization. This subdivision does not preclude taking a deposition
+by any other procedure authorized by these rules.
+
+(2) Time and place. The notice must state a reasonable time and place for the oral
+deposition. The place may be in:
+
+(A) the county of the witness's residence;
+
+(B) the county where the witness is employed or regularly transacts business in
+person;
+
+(C) the county of suit, if the witness is a party or a person designated by a party
+under Rule 199.2(b)(1);
+
+(D) the county where the witness was served with the subpoena, or within 150
+miles of the place of service, if the witness is not a resident of Texas or is a
+transient person; or
+
+(E) subject to the foregoing, at any other convenient place directed by the court
+in which the cause is pending.
+
+Page 148
+
+(3) Alternative means of conducting and recording. The notice must state whether
+the deposition is to be taken by telephone or other remote electronic means and
+identify the means. If the deposition is to be recorded by nonstenographic means,
+the notice may include the notice required by Rule 199.1(c).
+
+(4) Additional attendees. The notice may include the notice concerning additional
+attendees required by Rule 199.5(a)(3).
+
+(5) Request for production of documents. A notice may include a request that the
+witness produce at the deposition documents or tangible things within the scope of
+discovery and within the witness's possession, custody, or control. If the witness is
+a nonparty, the request must comply with Rule 205 and the designation of materials
+required to be identified in the subpoena must be attached to, or included in, the
+notice. The nonparty's response to the request is governed by Rules 176 and 205.
+When the witness is a party or subject to the control of a party, document requests
+under this subdivision are governed by Rules 193 and 196.
+
+199.3 Compelling Witness to Attend.
+
+A party may compel the witness to attend the oral deposition by serving the witness with a
+subpoena under Rule 176. If the witness is a party or is retained by, employed by, or otherwise
+subject to the control of a party, however, service of the notice of oral deposition upon the party's
+attorney has the same effect as a subpoena served on the witness.
+
+199.4 Objections to Time and Place of Oral Deposition.
+
+A party or witness may object to the time and place designated for an oral deposition by motion
+for protective order or by motion to quash the notice of deposition. If the motion is filed by the
+third business day after service of the notice of deposition, an objection to the time and place of a
+deposition stays the oral deposition until the motion can be determined.
+
+199.5 Examination, Objection, and Conduct During Oral Depositions.
+
+(a) Attendance.
+
+(1) Witness. The witness must remain in attendance from day to day until the
+deposition is begun and completed.
+
+(2) Attendance by party. A party may attend an oral deposition in person, even if
+the deposition is taken by telephone or other remote electronic means. If a
+deposition is taken by telephone or other remote electronic means, the party
+noticing the deposition must make arrangements for all persons to attend by the
+same means. If the party noticing the deposition appears in person, any other party
+may appear by telephone or other remote electronic means if that party makes the
+necessary arrangements with the deposition officer and the party noticing the
+deposition.
+Page 149
+
+(3) Other attendees. If any party intends to have in attendance any persons other than
+the witness, parties, spouses of parties, counsel, employees of counsel, and the
+officer taking the oral deposition, that party must give reasonable notice to all
+parties, either in the notice of deposition or separately, of the identity of the other
+persons.
+
+(b) Oath; examination. Every person whose deposition is taken by oral examination must
+first be placed under oath. The parties may examine and cross -examine the witness. Any
+party, in lieu of participating in the examination, may serve written questions in a sealed
+envelope on the party noticing the oral deposition, who must deliver them to the deposition
+officer, who must open the envelope and propound them to the witness.
+
+(c) Time limitation. No side may examine or cross -examine an individual witness for more
+than six hours. Breaks during depositions do not count against this limitation.
+
+(d) Conduct during the oral deposition; conferences. The oral deposition must be
+conducted in the same manner as if the testimony were being obtained in court during trial.
+Counsel should cooperate with and be courteous to each other and to the witness. The
+witness should not be evasive and should not unduly delay the examination. Private
+conferences between the witness and the witness's attorney during the actual taking of the
+deposition are improper except for the purpose of determining whether a privile ge should
+be asserted. Private conferences may be held, however, during agreed recesses and
+adjournments. If the lawyers and witnesses do not comply with this rule, the court may
+allow in evidence at trial statements, objections, discussions, and other occurrences during
+the oral deposition that reflect upon the credibility of the witness or the testimony.
+
+(e) Objections. Objections to questions during the oral deposition are limited to "Objection,
+leading" and "Objection, form." Objections to testimony during the oral deposition are
+limited to "Objection, non -responsive." These objections are waived if not stated as
+phrased during the oral deposition. All other objections need not be made or recorded
+during the oral deposition to be later raised with the court. The objecting party must give a
+clear and concise explanation of an objection if requested by the party taking the oral
+deposition, or the objection is waived. Argumentative or suggestive objections or
+explanations waive objection and may be grounds for terminating the oral deposition or
+assessing costs or other sanctions. The officer taking the oral deposition will not rule on
+objections but must record them for ruling by the court. The officer taking the oral
+deposition must not fail to record testimony because an objection has been made.
+
+(f) Instructions not to answer. An attorney may instruct a witness not to answer a question
+during an oral deposition only if necessary to preserve a privilege, comply with a court
+order or these rules, protect a witness from an abusive question or one for which any answer
+would be misleading, or secure a ruling pursuant to paragraph (g). The attorney instructing
+the witness not to answer must give a concise, non- argumentative, non- suggestive
+explanation of the grounds for the instruction if requested by the party who asked the
+question.
+Page 150
+
+(g) Suspending the deposition. If the time limitations for the deposition have expired or the
+deposition is being conducted or defended in violation of these rules, a party or witness
+may suspend the oral deposition for the time necessary to obtain a ruling.
+
+(h) Good faith required. An attorney must not ask a question at an oral deposition solely to
+harass or mislead the witness, for any other improper purpose, or without a good faith legal
+basis at the time. An attorney must not object to a question at an oral deposition, instruct
+the witness not to answer a question, or suspend the deposition unless there is a good faith
+factual and legal basis for doing so at the time.
+
+199.6 Hearing on Objections.
+
+Any party may, at any reasonable time, request a hearing on an objection or privilege asserted by
+an instruction not to answer or suspension of the deposition; provided the failure of a party to
+obtain a ruling prior to trial does not waive any objection or privilege. The party seeking to avoid
+discovery must present any evidence necessary to support the objection or privilege either by
+testimony at the hearing or by affidavits served on opposing parties at least seven days before the
+hearing. If the court determines that an in camera review of some or all of the requested discovery
+is necessary to rule, answers to the deposition questions may be made in camera, to be transcribed
+and sealed in the event the privilege is sustained, or made in an affidavit produced to the court in
+a sealed wrapper.
+
+Notes and Comments
+
+Comments to 1999 change:
+
+1. Rule 199.2(b)(5) incorporates the procedures and limitations applicable to requests
+for production or inspection under Rule 196, including the 30-day deadline for responses, as well
+as the procedures and duties imposed by Rule 193.
+
+2. For purposes of Rule 199.5(c), each person designated by an organization under
+Rule 199.2(b)(1) is a separate witness.
+
+3. The requirement of Rule 199.5(d) that depositions be conducted in the same manner
+as if the testimony were being obtained in court is a limit on the conduct of the lawyers and
+witnesses in the deposition, not on the scope of the interrogation permitted by Rule 192.
+
+4. An objection to the form of a question includes objections that the question calls
+for speculation, calls for a narrative answer, is vague, is confusing, or is ambiguous. Ordinarily, a
+witness must answer a question at a deposition subject to the objection. An objection may therefore
+be inadequate if a question incorporates such unfair assumptions or is worded so that any answer
+would necessarily be misleading. A witness should not be required to answer whether he has yet
+ceased conduct he denies ever doing, subject to an objection to form ( i.e., that the question is
+confusing or assumes facts not in evidence) because any answer would necessarily be misleading
+on account of the way in which the question is put. The witness may be instructed not to answer.
+Page 151
+
+Abusive questions include questions that inquire into matters clearly beyond the scope of discovery
+or that are argumentative, repetitious, or harassing.
+
+Comment to 2021 change: Rule 199.1(b) is amended in response to changes to section 154.105 of
+the Texas Government Code governing the administration of oaths by court reporters.
+
+[RULE 200. Repealed effective January 1, 1999; see, Rule 199.1 et seq. ]
+
+## Rule 215. ABUSE OF DISCOVERY; SANCTIONS
+
+215.1 Motion for Sanctions or Order Compelling Discovery.
+
+A party, upon reasonable notice to other parties and all other persons affected thereby, may apply
+for sanctions or an order compelling discovery as follows:
+
+(a) Appropriate court. On matters relating to a deposition, an application for an
+order to a party may be made to the court in which the action is pending, or to any
+district court in the district where the deposition is being taken. An application for
+an order to a deponent w ho is not a party shall be made to the court in the district
+Page 165
+
+where the deposition is being taken. As to all other discovery matters, an application
+for an order will be made to the court in which the action is pending.
+
+(b) Motion.
+
+(1) If a party or other deponent which is a corporation or other entity fails to
+make a designation under Rules 199.2(b)(1) or 200.1(b); or
+
+(2) if a party, or other deponent, or a person designated to testify on behalf of a
+party or other deponent fails:
+
+(A) to appear before the officer who is to take his deposition, after being
+served with a proper notice; or
+
+(B) to answer a question propounded or submitted upon oral
+examination or upon written questions; or
+
+(3) if a party fails:
+
+(A) to serve answers or objections to interrogatories submitted under
+Rule 197, after proper service of the interrogatories; or
+
+(B) to answer an interrogatory submitted under Rule 197; or
+
+(C) to serve a written response to a request for inspection submitted
+under Rule 196, after proper service of the request; or
+
+(D) to respond that discovery will be permitted as requested or fails to
+permit discovery as requested in response to a request for inspection
+submitted under Rule 196; the discovering party may move for an
+order compelling a designation, an appearance, an answer or
+answers, or inspection or production in accordance with the request,
+or apply to the court in which the action is pending for the imposition
+of any sanction authorized by Rule 215.2(b) without the necessity
+of first having obtained a court order compelling such discovery.
+
+When taking a deposition on oral examination, the proponent of the question may
+complete or adjourn the examination before he applies for an order.
+
+If the court denies the motion in whole or in part, it may make such protective order
+as it would have been empowered to make on a motion pursuant to Rule 192.6.
+
+(c) Evasive or incomplete answer. For purposes of this subdivision an evasive or
+incomplete answer is to be treated as a failure to answer.
+
+Page 166
+
+(d) Disposition of motion to compel: award of expenses. If the motion is granted,
+the court shall, after opportunity for hearing, require a party or deponent whose
+conduct necessitated the motion or the party or attorney advising such conduct or
+both of them to pay, at such time as ordered by the court, the m oving party the
+reasonable expenses incurred in obtaining the order, including attorney fees, unless
+the court finds that the opposition to the motion was substantially justified or that
+other circumst ances make an award of expenses unjust. Such an order shall be
+subject to review on appeal from the final judgment.
+
+If the motion is denied, the court may, after opportunity for hearing, require the
+moving party or attorney advising such motion to pay to the party or deponent who
+opposed the motion the reasonable expenses incurred in opposing the motion,
+including attorney fees, unless the court finds that the making of the motion was
+substantially justified or that other circumstances make an award of expenses
+unjust.
+
+If the motion is granted in part and denied in part, the court may apportion the
+reasonable expenses incurred in relation to the motion among the parties and
+persons in a just manner.
+
+In determining the amount of reasonable expenses, including attorney fees, to be
+awarded in connection with a motion, the trial court shall award expenses which
+are reasonable in relation to the amount of work reasonably expended in obtaining
+an order compelling compliance or in opposing a motion which is denied.
+
+(e) Providing person's own statement. If a party fails to comply with any person's
+written request for the person's own statement as provided in Rule 192.3(h), the
+person who made the request may move for an order compelling compliance. If the
+motion is granted, the movant may recover the ex penses incurred in obtaining the
+order, including attorney fees, which are reasonable in relation to the amount of
+work reasonably expended in obtaining the order.
+
+215.2 Failure to Comply with Order or with Discovery Request.
+
+(a) Sanctions by court in district where deposition is taken. If a deponent fails to appear
+or to be sworn or to answer a question after being directed to do so by a district court in the
+district in which the deposition is being taken, the failure may be considered a contempt of
+that court.
+
+(b) Sanctions by court in which action is pending. If a party or an officer, director, or
+managing agent of a party or a person designated under Rules 199.2(b)(1) or 200.1(b) to
+testify on behalf of a party fails to comply with proper discovery requests or to obey an
+order to provide or permit discovery, including an order made under Rules 204 or 215.1,
+the court in which the action is pending may, after notice and hearing, make such orders in
+regard to the failure as are just, and among others the following:
+
+Page 167
+
+(1) an order disallowing any further discovery of any kind or of a particular kind by
+the disobedient party;
+
+(2) an order charging all or any portion of the expenses of discovery or taxable court
+costs or both against the disobedient party or the attorney advising him;
+
+(3) an order that the matters regarding which the order was made or any other
+designated facts shall be taken to be established for the purposes of the action in
+accordance with the claim of the party obtaining the order;
+
+(4) an order refusing to allow the disobedient party to support or oppose designated
+claims or defenses, or prohibiting him from introducing designated matters in
+evidence;
+
+(5) an order striking out pleadings or parts thereof, or staying further proceedings until
+the order is obeyed, or dismissing with or without prejudice the action or
+proceedings or any part thereof, or rendering a judgment by default against the
+disobedient party;
+
+(6) in lieu of any of the foregoing orders or in addition thereto, an order treating as a
+contempt of court the failure to obey any orders except an order to submit to a
+physical or mental examination;
+
+(7) when a party has failed to comply with an order under Rule 204 requiring him to
+appear or produce another for examination, such orders as are listed in paragraphs
+(1), (2), (3), (4) or (5) of this subdivision, unless the person failing to comply shows
+that he is unable to appear or to produce such person for examination.
+
+(8) In lieu of any of the foregoing orders or in addition thereto, the court shall require
+the party failing to obey the order or the attorney advising him, or both, to pay, at
+such time as ordered by the court, the reasonable expenses, including attorney fees,
+caused by the failure, unless the court finds that the failure was substantially
+justified or that other circumstances make an award of expenses unjust. Such an
+order shall be subject to review on appeal from the final judgment.
+
+(c) Sanction against nonparty for violation of Rules 196.7 or 205.3. If a nonparty fails to
+comply with an order under Rules 196.7 or 205.3, the court which made the order may treat
+the failure to obey as contempt of court.
+
+215.3 Abuse of Discovery Process in Seeking, Making, or Resisting Discovery.
+If the court finds a party is abusing the discovery process in seeking, making or resisting discovery
+or if the court finds that any interrogatory or request for inspection or production is unreasonably
+frivolous, oppressive, or harassing, or that a response or answer is unreasonably frivolous or made
+for purposes of delay, then the court in which the action is pending may, after notice and hearing,
+impose any appropriate sanction authorized by paragraphs (1), (2), (3), (4), (5), and (8) of Rule
+215.2(b). Such order of sanction shall be subject to review on appeal from the final judgment.
+Page 168
+
+Notes and Comments
+
+Comment to 1990 change: To require notice and hearing before an imposition of sanctions under
+paragraph 3, and to specify that such sanctions be appropriate.
+
+215.4 Failure to Comply with Rule 198
+
+(a) Motion. A party who has requested an admission under Rule 198 may move to determine
+the sufficiency of the answer or objection. For purposes of this subdivision an evasive or
+incomplete answer may be treated as a failure to answer. Unless the court determines th at
+an objection is justified, it shall order that an answer be served. If the court determines that
+an answer does not comply with the requirements of Rule 198, it may order either that the
+matter is admitted or that an amended answer be served. The provis ions of Rule 215.1(d)
+apply to the award of expenses incurred in relation to the motion.
+
+(b) Expenses on failure to admit. If a party fails to admit the genuineness of any document
+or the truth of any matter as requested under Rule 198 and if the party requesting the
+admissions thereafter proves the genuineness of the document or the truth of the matter, he
+may apply to the court for an order requiring the other party to pay him the reasonable
+expenses incurred in making that proof, including reasonable attorney fees. The court shall
+make the order unless it finds that (1) the request was held objectionable pursuant to Rule
+193, or (2) the admission sought was of no substantial importance, or (3) the party failing
+to admit had a reasonable ground to believe that he might prevail on the matter, or (4) there
+was other good reason for the failure to admit.
+
+215.5 Failure of Party or Witness to Attend to or Serve Subpoena; Expenses.
+
+(a) Failure of party giving notice to attend. If the party giving the notice of the taking of
+an oral deposition fails to attend and proceed therewith and another party attends in person
+or by attorney pursuant to the notice, the court may order the party giving the notice to pay
+such other party the reasonable expenses incurred by him and his attorney in attending,
+including reasonable attorney fees.
+
+(b) Failure of witness to attend. If a party gives notice of the taking of an oral deposition of
+a witness and the witness does not attend because of the fault of the party giving the notice,
+if another party attends in person or by attorney because he expects the deposition of that
+witness to be taken, the court may order the party giving the notice to pay such other party
+the reasonable expenses incurred by him and his attorney in attending, including reasonable
+attorney fees.
+
+215.6 Exhibits to Motions and Responses.
+
+Motions or responses made under this rule may have exhibits attached including affidavits,
+discovery pleadings, or any other documents.
+
+Page 169
+
+Notes and Comments
+
+Comments to 1999 change: The references in this rule to other discovery rules are changed to
+reflect the revisions in those rules, and former Rule 203 is added as Rule 215.5 in place of the
+former provision, which is superseded by Rule 193.6.
+
+Section 10. - The Jury in Court
 
 ## Rule 296. REQUESTS FOR FINDINGS OF FACTS AND CONCLUSIONS OF LAW
 
