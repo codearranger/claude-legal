@@ -1,31 +1,45 @@
-# TODO: Adapt this script for Georgia.
-# Update format-rule references, holidays, and named rules for Georgia.
-
 #!/usr/bin/env python3
 """
-case-calendar.py — Compute Oregon court deadlines.
+case-calendar.py — Compute Georgia court deadlines.
 
-Supports calendar-day and court-day counting with Oregon state
-holidays (ORS 187.010) excluded for court-day mode.
+Supports calendar-day and court-day counting with Georgia legal
+holidays (O.C.G.A. § 1-4-1) excluded for court-day mode, and the
+Georgia time-computation rules (O.C.G.A. § 1-3-1(d)(3), incorporated
+into the Civil Practice Act by O.C.G.A. § 9-11-6(a)):
+
+  - The first day is not counted; the last day is counted.
+  - If the last day is a Saturday, Sunday, or § 1-4-1 legal holiday,
+    the period runs through the next business day.
+  - When the prescribed period is LESS THAN seven days, intermediate
+    Saturdays, Sundays, and legal holidays are excluded from the count.
 
 Usage:
-    case-calendar.py --from YYYY-MM-DD --days N --mode [calendar|court] \
-                     [--jurisdiction oregon|federal]
+    case-calendar.py --from YYYY-MM-DD --days N --mode [calendar|court]
     case-calendar.py --from YYYY-MM-DD --rule RULE_KEY
     case-calendar.py --rules
 
 Examples:
-    # Answer due — 30 calendar days from service 2025-04-15
-    case-calendar.py --from 2025-04-15 --days 30 --mode calendar
-
-    # SOL on contract — 6 years from last activity 2019-03-15
-    case-calendar.py --from 2019-03-15 --rule sol-written-contract
-
-    # Apply a named rule
+    # Answer due — 30 days from service 2025-04-15
     case-calendar.py --from 2025-04-15 --rule answer-due
+
+    # SOL on a credit-card debt — 6 years from default 2019-03-15
+    case-calendar.py --from 2019-03-15 --rule sol-credit-card
 
     # List known rules
     case-calendar.py --rules
+
+NOTE ON HOLIDAYS: Georgia sets exactly thirteen state-holiday days
+each year by gubernatorial proclamation (O.C.G.A. § 1-4-1(b)). Ten of
+them follow predictable federal-style rules and are computed here. The
+remaining few FLOAT year to year and are NOT auto-computed:
+  - Washington's Birthday is statutorily a February federal holiday but
+    Georgia defers its OBSERVANCE to the year-end cluster (often Dec. 24).
+  - The spring "State Holiday" (the date formerly published as
+    Confederate Memorial Day, statutorily anchored near April 26).
+  - In some years a second floating "State Holiday."
+For court deadlines that land near late December or late April, verify
+the court's actual closure against the per-year schedule at
+georgia.gov / the AOC, because a floated holiday can push a rollover.
 """
 
 import argparse
@@ -34,15 +48,12 @@ import sys
 from typing import Optional
 
 
-# Oregon legal holidays (ORS 187.010)
-# Holidays falling on Saturday are observed on Friday; Sunday -> Monday
-# (ORS 187.020).
-#
-# NOTE: Oregon does NOT recognize the Friday after Thanksgiving as a
-# statewide legal holiday (Washington does).
+# Georgia legal holidays with predictable dates (O.C.G.A. § 1-4-1,
+# incorporating the federal holidays as of Jan. 1, 2022). Saturday
+# observance shifts to Friday; Sunday to Monday (federal practice).
 FIXED_HOLIDAYS = [
     (1, 1),    # New Year's Day
-    (6, 19),   # Juneteenth
+    (6, 19),   # Juneteenth (observed in Georgia)
     (7, 4),    # Independence Day
     (11, 11),  # Veterans Day
     (12, 25),  # Christmas Day
@@ -51,212 +62,231 @@ FIXED_HOLIDAYS = [
 # Week-based holidays (n-th weekday of month)
 WEEK_HOLIDAYS = [
     # (month, weekday [0=Mon], ordinal [1=first, -1=last])
-    (1, 0, 3),   # MLK — 3rd Monday of January
-    (2, 0, 3),   # Presidents' Day — 3rd Monday of February
+    (1, 0, 3),   # MLK Jr.'s Birthday — 3rd Monday of January
     (5, 0, -1),  # Memorial Day — last Monday of May
     (9, 0, 1),   # Labor Day — 1st Monday of September
-    (11, 3, 4),  # Thanksgiving — 4th Thursday of November
+    (10, 0, 2),  # Columbus Day — 2nd Monday of October (observed)
+    (11, 3, 4),  # Thanksgiving Day — 4th Thursday of November
 ]
 
 
 # Named rules: (days, mode, description, authority)
+# Day counts for multi-year statutes of limitation are approximate
+# (≈365.25/yr); always confirm the exact calendar date and any tolling
+# or revival (O.C.G.A. §§ 9-3-110, 9-3-112) before relying on an SOL.
 RULES = {
-    # Initial response
+    # --- Initial response (Civil Practice Act) ---
     "answer-due": (
         30, "calendar",
-        "Answer due after personal service in Oregon",
-        "ORCP 7 C(2)",
+        "Answer due — 30 days after service of summons and complaint",
+        "O.C.G.A. § 9-11-12(a)",
     ),
-    "answer-due-mail": (
-        33, "calendar",
-        "Answer due after service by mail (+3 mail days)",
-        "ORCP 7 C(2), 10 C",
+    "open-default-as-of-right": (
+        15, "calendar",
+        "Open default as a matter of right (pay costs) — 15 days after "
+        "the case goes into default; run from the day after answer was due",
+        "O.C.G.A. § 9-11-55(a)",
     ),
-    "return-of-service": (
-        63, "calendar",
-        "Return of Service must be filed within 63 days of service",
-        "ORCP 7 D(3)",
-    ),
-    "response-amended": (
-        14, "calendar",
-        "Response to amended complaint",
-        "ORCP 23 A (typical)",
+    "amended-pleading-response": (
+        15, "calendar",
+        "Response to an amended pleading (or within the original answer "
+        "period, whichever is longer)",
+        "O.C.G.A. § 9-11-15(a)",
     ),
 
-    # Discovery
+    # --- Discovery (Civil Practice Act) ---
+    "interrogatory-response": (
+        30, "calendar",
+        "Interrogatory answers due (30 days after service)",
+        "O.C.G.A. § 9-11-33(a)",
+    ),
+    "interrogatory-response-with-summons": (
+        45, "calendar",
+        "Interrogatory answers due when served with the summons "
+        "(defendant gets 45 days after service of summons)",
+        "O.C.G.A. § 9-11-33(a)",
+    ),
     "rfp-response": (
         30, "calendar",
-        "RFP response due (ORCP 43 B)",
-        "ORCP 43 B",
+        "Response to Request for Production due (30 days after service)",
+        "O.C.G.A. § 9-11-34(b)",
     ),
     "rfp-response-with-summons": (
         45, "calendar",
-        "RFP response due (served with summons; ORCP 43 B)",
-        "ORCP 43 B",
+        "RFP response due when served with the summons (45 days)",
+        "O.C.G.A. § 9-11-34(b)",
     ),
     "rfa-response": (
         30, "calendar",
-        "RFA response due (ORCP 45 B); failure deems admitted",
-        "ORCP 45 B",
+        "Response to Request for Admission due (30 days); unanswered "
+        "matters are DEEMED ADMITTED",
+        "O.C.G.A. § 9-11-36(a)",
     ),
     "rfa-response-with-summons": (
         45, "calendar",
-        "RFA response due (served with summons; ORCP 45 B)",
-        "ORCP 45 B",
+        "RFA response due when served with the summons (45 days); "
+        "unanswered matters are DEEMED ADMITTED",
+        "O.C.G.A. § 9-11-36(a)",
     ),
-    "deposition-notice-party": (
-        5, "calendar",
-        "Deposition notice — party (5 days)",
-        "ORCP 39 B",
-    ),
-    "deposition-notice-nonparty": (
-        7, "calendar",
-        "Deposition notice — non-party (7 days; subpoena required)",
-        "ORCP 39 B, 55",
+    "discovery-period": (
+        180, "calendar",
+        "Default discovery period — 6 months from the filing of the "
+        "answer (extendable by order/local rule)",
+        "USCR 5",
     ),
 
-    # Summary judgment (ORCP 47 C)
-    "sj-motion": (
-        -60, "calendar",
-        "SJ motion filed before trial (at least 60 days before)",
-        "ORCP 47 C",
+    # --- Summary judgment + motion practice ---
+    "sj-motion-before-hearing": (
+        -30, "calendar",
+        "Summary-judgment motion must be served at least 30 days before "
+        "the hearing",
+        "O.C.G.A. § 9-11-56(c)",
     ),
-    "sj-response": (
-        20, "calendar",
-        "SJ response due (20 days after service)",
-        "ORCP 47 C",
-    ),
-    "sj-reply": (
-        5, "calendar",
-        "SJ reply due (5 days after service of response)",
-        "ORCP 47 C",
-    ),
-    "sj-hearing": (
-        11, "calendar",
-        "SJ hearing must be at least 11 days after reply filing",
-        "ORCP 47 C",
-    ),
-
-    # Motion practice
-    "response-motion-typical": (
-        14, "calendar",
-        "Motion response (typical Oregon local SLR)",
-        "Local SLR; ORCP 36, 46",
-    ),
-    "reply-motion-typical": (
-        7, "calendar",
-        "Motion reply (typical Oregon local SLR)",
-        "Local SLR",
-    ),
-
-    # Post-judgment
-    "vacation-cap": (
-        365, "calendar",
-        "ORCP 71 B(1)-(3) — outer 1-year deadline",
-        "ORCP 71 B",
-    ),
-    "appeal-circuit": (
+    "motion-response": (
         30, "calendar",
-        "Notice of Appeal — circuit to Court of Appeals",
-        "ORS 19.255, ORAP 5.30",
+        "Response to a motion due (typical) — 30 days after service of "
+        "the motion",
+        "USCR 6.2",
     ),
-    "amend-judgment": (
-        10, "calendar",
-        "Motion to amend judgment",
-        "ORCP 64",
+
+    # --- Dispossessory (landlord-tenant) ---
+    "dispossessory-answer": (
+        7, "calendar",
+        "Answer to a dispossessory (eviction) summons — 7 days from "
+        "actual service",
+        "O.C.G.A. § 44-7-51(b)",
     ),
-    "garnishment-challenge": (
+    "dispossessory-writ": (
+        7, "calendar",
+        "Writ of possession effective 7 days after judgment for the "
+        "landlord",
+        "O.C.G.A. § 44-7-55(a)",
+    ),
+
+    # --- Post-judgment ---
+    "motion-new-trial": (
         30, "calendar",
-        "Challenge to Writ of Garnishment — exemption claim",
-        "ORS 18.700+",
+        "Motion for new trial — 30 days after entry of judgment",
+        "O.C.G.A. § 5-5-40(a)",
     ),
-    "judgment-life": (
-        3653, "calendar",  # 10 years (approx; 3652 + 1 leap)
-        "Judgment lifespan (10 years, renewable)",
-        "ORS 18.182",
+    "motion-jnov": (
+        30, "calendar",
+        "Motion for judgment notwithstanding the verdict — 30 days "
+        "after entry of judgment",
+        "O.C.G.A. § 9-11-50(b)",
     ),
-    "fee-statement-orcp-68": (
-        14, "calendar",
-        "Statement of Attorney Fees and Costs (ORCP 68 C(2))",
-        "ORCP 68 C(2)",
+    "notice-of-appeal": (
+        30, "calendar",
+        "Notice of appeal — 30 days after entry of the appealable order "
+        "or judgment",
+        "O.C.G.A. § 5-6-38(a)",
     ),
-    "cost-bill": (
-        14, "calendar",
-        "Cost bill under ORCP 68",
-        "ORCP 68 C",
+    "set-aside-judgment": (
+        1096, "calendar",  # 3 years
+        "Motion to set aside (non-amendable defect / certain grounds) — "
+        "within 3 years of judgment",
+        "O.C.G.A. § 9-11-60(f)",
+    ),
+    "judgment-dormancy": (
+        2557, "calendar",  # 7 years
+        "Judgment becomes dormant 7 years after entry unless a writ of "
+        "execution is issued and entered on the GED",
+        "O.C.G.A. § 9-12-60",
+    ),
+    "revive-dormant-judgment": (
+        1096, "calendar",  # 3 years
+        "Revive a dormant judgment (scire facias / renewal) — within 3 "
+        "years of dormancy",
+        "O.C.G.A. § 9-12-61",
     ),
 
-    # Arbitration
-    "arbitration-trial-de-novo": (
+    # --- Garnishment (post-2016 chapter) ---
+    "garnishment-claim": (
         20, "calendar",
-        "Trial de novo request from arbitration award",
-        "ORS 36.425",
+        "Defendant's claim/challenge to garnishment — file promptly "
+        "(before disbursement/distribution); ~20 days after the "
+        "garnishee's answer is the practical window",
+        "O.C.G.A. §§ 18-4-15, 18-4-93",
     ),
 
-    # Statutes of limitation (defenses)
+    # --- FBPA pre-suit demand ---
+    "fbpa-demand": (
+        -30, "calendar",
+        "FBPA written demand for relief must be delivered at least 30 "
+        "days BEFORE filing suit (statutory prerequisite; does not toll "
+        "the SOL)",
+        "O.C.G.A. § 10-1-399(b)",
+    ),
+
+    # --- Statutes of limitation (defenses) ---
     "sol-written-contract": (
-        2191, "calendar",  # 6 years (approx; account for leap years as ~365.25)
-        "SOL — written contract (6 years)",
-        "ORS 12.080(1)",
+        2191, "calendar",  # 6 years
+        "SOL — simple written contract (6 years from due and payable)",
+        "O.C.G.A. § 9-3-24",
+    ),
+    "sol-credit-card": (
+        2191, "calendar",  # 6 years
+        "SOL — credit-card debt on a written cardmember agreement "
+        "(6 years; Hill v. American Express; Phoenix Recovery v. Mehta)",
+        "O.C.G.A. § 9-3-24",
     ),
     "sol-open-account": (
-        2191, "calendar",
-        "SOL — open account (6 years)",
-        "ORS 12.080(2)-(4)",
+        1461, "calendar",  # 4 years
+        "SOL — open account / oral contract / implied promise (4 years); "
+        "the better classification where no written agreement is produced",
+        "O.C.G.A. § 9-3-25",
     ),
-    "sol-statutory-liability": (
-        2191, "calendar",
-        "SOL — statutory liability (6 years; UTPA repose; ORS 697)",
-        "ORS 12.080(2)",
+    "sol-contract-catchall": (
+        1461, "calendar",  # 4 years
+        "SOL — other contracts not otherwise provided for (4 years)",
+        "O.C.G.A. § 9-3-26",
     ),
-    "sol-tort-personal-injury": (
+    "sol-personal-injury": (
         730, "calendar",  # 2 years
-        "SOL — personal injury (2 years)",
-        "ORS 12.110",
+        "SOL — injuries to the person (2 years)",
+        "O.C.G.A. § 9-3-33",
     ),
-    "sol-fraud-discovery": (
-        730, "calendar",
-        "SOL — fraud (2 years from discovery; 10-year repose)",
-        "ORS 12.110(1)",
+    "sol-defamation": (
+        365, "calendar",  # 1 year
+        "SOL — injury to reputation / defamation (1 year)",
+        "O.C.G.A. § 9-3-33",
     ),
-    "sol-real-property": (
-        3653, "calendar",
-        "SOL — real property (10 years)",
-        "ORS 12.040",
+    "sol-realty": (
+        1461, "calendar",  # 4 years
+        "SOL — trespass upon or damage to realty (4 years)",
+        "O.C.G.A. § 9-3-30",
     ),
-
-    # Consumer-protection SOLs
-    "sol-utpa-discovery": (
-        365, "calendar",
-        "SOL — UTPA from discovery (1 year; 6-year repose)",
-        "ORS 646.638(6)",
+    "sol-personalty": (
+        1461, "calendar",  # 4 years
+        "SOL — injury to / conversion / recovery of personalty (4 years)",
+        "O.C.G.A. §§ 9-3-31, 9-3-32",
     ),
-    "sol-utpa-repose": (
-        2191, "calendar",
-        "SOL — UTPA outer repose (6 years from violation)",
-        "ORS 646.638(6)",
+    "sol-fbpa": (
+        730, "calendar",  # 2 years
+        "SOL — Fair Business Practices Act (2 years)",
+        "O.C.G.A. § 10-1-401",
     ),
     "sol-fdcpa": (
         365, "calendar",
         "SOL — FDCPA (1 year from violation)",
-        "15 USC § 1692k(d)",
+        "15 U.S.C. § 1692k(d)",
     ),
     "sol-fcra-discovery": (
         730, "calendar",
         "SOL — FCRA (2 years from discovery; 5-year repose)",
-        "15 USC § 1681p",
+        "15 U.S.C. § 1681p",
     ),
     "sol-tila": (
         365, "calendar",
         "SOL — TILA (1 year from violation)",
-        "15 USC § 1640(e)",
+        "15 U.S.C. § 1640(e)",
     ),
 
-    # FDCPA / Reg F window
+    # --- FDCPA / Reg F window ---
     "fdcpa-validation-period": (
         30, "calendar",
-        "Consumer's window to dispute debt (FDCPA validation)",
-        "15 USC § 1692g; 12 CFR § 1006.34",
+        "Consumer's window to dispute the debt (FDCPA validation)",
+        "15 U.S.C. § 1692g; 12 C.F.R. § 1006.34",
     ),
 }
 
@@ -269,7 +299,6 @@ def _nth_weekday(year: int, month: int, weekday: int, n: int) -> datetime.date:
         day = 1 + offset + (n - 1) * 7
         return datetime.date(year, month, day)
     else:
-        # Last weekday
         if month == 12:
             next_month_first = datetime.date(year + 1, 1, 1)
         else:
@@ -279,14 +308,16 @@ def _nth_weekday(year: int, month: int, weekday: int, n: int) -> datetime.date:
         return last_day - datetime.timedelta(days=offset)
 
 
-def or_holidays(year: int) -> set:
-    """Return set of Oregon state legal holidays for a year (ORS 187.010)."""
+def ga_holidays(year: int) -> set:
+    """Return the set of predictable Georgia legal holidays for a year
+    (O.C.G.A. § 1-4-1). See the module docstring: the floating
+    "State Holiday" days and the deferred Washington's Birthday
+    observance are proclamation-driven and are NOT included here."""
     holidays = set()
 
     for m, d in FIXED_HOLIDAYS:
         date = datetime.date(year, m, d)
-        # Observed-day shift per ORS 187.020
-        if date.weekday() == 5:   # Saturday → Friday
+        if date.weekday() == 5:    # Saturday → Friday
             date -= datetime.timedelta(days=1)
         elif date.weekday() == 6:  # Sunday → Monday
             date += datetime.timedelta(days=1)
@@ -295,37 +326,44 @@ def or_holidays(year: int) -> set:
     for m, wd, n in WEEK_HOLIDAYS:
         holidays.add(_nth_weekday(year, m, wd, n))
 
-    # Oregon does NOT recognize the day after Thanksgiving as a
-    # statewide legal holiday (unlike Washington's Native American
-    # Heritage Day under RCW 1.16.050).
+    # Day after Thanksgiving — published as a "State Holiday" and a
+    # routine court-closure day in Georgia.
+    thanksgiving = _nth_weekday(year, 11, 3, 4)
+    holidays.add(thanksgiving + datetime.timedelta(days=1))
+
     return holidays
 
 
 def is_court_day(d: datetime.date) -> bool:
-    """True if d is a court day (not a weekend or Oregon legal holiday)."""
-    if d.weekday() >= 5:   # Saturday or Sunday
+    """True if d is a court day (not a weekend or Georgia legal holiday)."""
+    if d.weekday() >= 5:
         return False
-    if d in or_holidays(d.year):
+    if d in ga_holidays(d.year):
         return False
     return True
 
 
 def add_calendar_days(start: datetime.date, n: int) -> datetime.date:
-    """Add calendar days. Apply ORCP 10 A end-of-period rule:
-    if the final day falls on weekend or holiday, extend to next business
-    day."""
+    """Add calendar days under O.C.G.A. § 1-3-1(d)(3).
+
+    For a period of 7 or more days: count calendar days, then if the
+    last day is a weekend or holiday extend to the next business day.
+    For a period of FEWER than 7 days: exclude intermediate weekends
+    and holidays from the count (effectively count business days)."""
+    if n == 0:
+        return start
+    if abs(n) < 7:
+        # Sub-7-day periods exclude intermediate Sat/Sun/holidays.
+        return add_court_days(start, n)
     end = start + datetime.timedelta(days=n)
-    if n != 0:
-        # ORCP 10 A: if last day is weekend or holiday, extend to next
-        # business day (only for forward computation).
-        step = 1 if n > 0 else -1
-        while not is_court_day(end):
-            end += datetime.timedelta(days=step)
+    step = 1 if n > 0 else -1
+    while not is_court_day(end):
+        end += datetime.timedelta(days=step)
     return end
 
 
 def add_court_days(start: datetime.date, n: int) -> datetime.date:
-    """Count n court days forward (if n>0) or backward (if n<0)."""
+    """Count n court days forward (n>0) or backward (n<0)."""
     if n == 0:
         return start
     step = 1 if n > 0 else -1
@@ -368,7 +406,7 @@ def format_result(
     today = datetime.date.today()
     delta = (deadline - today).days
     if delta == 0:
-        lines.append(f"  Status: TODAY")
+        lines.append("  Status: TODAY")
     elif delta < 0:
         lines.append(f"  Status: {abs(delta)} day(s) ago (OVERDUE if not done)")
     else:
@@ -397,9 +435,7 @@ def parse_date(s: str) -> datetime.date:
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Compute Oregon court deadlines"
-    )
+    parser = argparse.ArgumentParser(description="Compute Georgia court deadlines")
     parser.add_argument("--from", dest="from_date", help="Triggering date (YYYY-MM-DD)")
     parser.add_argument("--days", type=int, help="Number of days (negative = before)")
     parser.add_argument(
