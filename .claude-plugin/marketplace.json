@@ -9,8 +9,8 @@
     "claude-for-legal"
   ],
   "metadata": {
-    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents — one plugin per state plus two shared federal reference plugins (claude-legal-federal-laws and claude-legal-immigration-laws). Each plugin ships matter-neutral civil-procedure skills plus subject-matter bundles and verbatim reference corpora; the state plugins depend on claude-legal-federal-laws for the shared federal / UCC / Bankruptcy content, and every plugin depends on document-skills from the anthropic-agent-skills marketplace (github.com/anthropics/skills) for DOCX / PDF / PPTX / XLSX document output. Anthropic's claude-for-legal marketplace (github.com/anthropics/claude-for-legal — practice-area plugins for commercial, privacy, corporate, employment, litigation, IP, and legal-education workflows) is an allowlisted companion marketplace that composes with these plugins. The two shared plugins bundle two free remote MCP servers — CourtListener (mcp.courtlistener.com) and Legal Data Hunter (legaldatahunter.com/mcp) — for on-demand case-law and statute lookup, with dedicated research skills (case-law-research, immigration-case-law) that route the agent to them. Per-plugin detail lives in each plugin's README.md. Currently twelve state plugins (WA, OR, CA, CO, IN, NY, OH, TN, MI, AZ, ID, TX) plus the two shared plugins.",
-    "version": "0.36.0"
+    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents — one plugin per state plus two shared federal reference plugins (claude-legal-federal-laws and claude-legal-immigration-laws). Each plugin ships matter-neutral civil-procedure skills plus subject-matter bundles and verbatim reference corpora; the state plugins depend on claude-legal-federal-laws for the shared federal / UCC / Bankruptcy content, and every plugin depends on document-skills from the anthropic-agent-skills marketplace (github.com/anthropics/skills) for DOCX / PDF / PPTX / XLSX document output. Anthropic's claude-for-legal marketplace (github.com/anthropics/claude-for-legal — practice-area plugins for commercial, privacy, corporate, employment, litigation, IP, and legal-education workflows) is an allowlisted companion marketplace that composes with these plugins. The two shared plugins bundle two free remote MCP servers — CourtListener (mcp.courtlistener.com) and Legal Data Hunter (legaldatahunter.com/mcp) — for on-demand case-law and statute lookup, with dedicated research skills (case-law-research, immigration-case-law) that route the agent to them. Per-plugin detail lives in each plugin's README.md. Currently thirteen state plugins (WA, OR, CA, CO, IN, NY, OH, TN, MI, AZ, ID, TX, GA) plus the two shared plugins.",
+    "version": "0.37.0"
   },
   "plugins": [
     {
@@ -678,6 +678,63 @@
         "child-support",
         "conservatorship",
         "uccjea",
+        "shared-references"
+      ]
+    },
+    {
+      "name": "ga-court-docs",
+      "source": "./plugins/ga-court-docs",
+      "description": "Georgia court documents: no single statewide pleading-paper rule (form flows from O.C.G.A. § 9-11-10 + the Uniform Superior/State Court Rules + statewide e-filing standards); Fulton + Cobb + Gwinnett County Superior Courts, a State Court venue (civil/misdemeanor — where most debt suits land), a Magistrate small-claims venue, a county roll-up, and a Superior Court family-division venue; consumer-debt (federal-FDCPA-forward / FBPA treble damages / post-2016 garnishment / chain-of-title) and family-law (equitable distribution / income-shares child support) bundles. Georgia quirks: the 30-day answer with an open-default-as-of-right cure window (O.C.G.A. § 9-11-55), the Superior/State court jurisdictional split, no state licensing of most debt collectors, and credit-card debt under the 6-year written-contract SOL. Full detail in the plugin README.",
+      "category": "legal",
+      "keywords": [
+        "georgia",
+        "ga",
+        "legal",
+        "pleadings",
+        "pro-se",
+        "ocga",
+        "georgia-civil-practice-act",
+        "uniform-superior-court-rules",
+        "uscr",
+        "georgia-evidence-code",
+        "title-24",
+        "fulton-county",
+        "cobb-county",
+        "gwinnett-county",
+        "superior-court",
+        "state-court",
+        "magistrate-court",
+        "small-claims",
+        "atlanta",
+        "marietta",
+        "lawrenceville",
+        "peachcourt",
+        "odyssey-efile",
+        "civil-rules",
+        "evidence-rules",
+        "discovery",
+        "hearings",
+        "post-judgment",
+        "fact-check",
+        "deadlines",
+        "fdcpa",
+        "reg-f",
+        "fbpa",
+        "fair-business-practices-act",
+        "consumer-protection",
+        "debt-collection",
+        "garnishment",
+        "strickland-v-alexander",
+        "chain-of-title",
+        "family-law",
+        "divorce",
+        "equitable-distribution",
+        "child-support",
+        "income-shares",
+        "custody",
+        "parenting-plan",
+        "uccjea",
+        "family-violence-act",
         "shared-references"
       ]
     }

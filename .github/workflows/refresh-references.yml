@@ -29,6 +29,7 @@ on:
           - az
           - tx
           - id
+          - ga
 
 permissions:
   contents: write
@@ -55,7 +56,7 @@ jobs:
           TARGET: ${{ github.event.inputs.target }}
         run: |
           case "${TARGET:-all}" in
-            all)     targets='["federal","immigration","wa","or","ca","co","in","ny","oh","tn","mi","az","tx","id"]' ;;
+            all)     targets='["federal","immigration","wa","or","ca","co","in","ny","oh","tn","mi","az","tx","id","ga"]' ;;
             federal) targets='["federal"]' ;;
             immigration) targets='["immigration"]' ;;
             wa)      targets='["wa"]' ;;
@@ -70,6 +71,7 @@ jobs:
             az)      targets='["az"]' ;;
             tx)      targets='["tx"]' ;;
             id)      targets='["id"]' ;;
+            ga)      targets='["ga"]' ;;
             *)       echo "unexpected target: $TARGET" >&2; exit 1 ;;
           esac
           echo "targets=$targets" >> "$GITHUB_OUTPUT"
@@ -452,6 +454,39 @@ jobs:
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_idaho_rules.py --workers 2
+
+      # ---- GA ----
+      # Georgia's official O.C.G.A. statute text is published by LexisNexis
+      # under copyright (paywalled), so the statutes puller targets the open
+      # FindLaw mirror (codes.findlaw.com/ga) with Justia + ga.elaws.us as
+      # fallbacks. FindLaw and Justia sit behind Cloudflare bot-fight that
+      # fingerprints the TLS handshake and 403s stdlib urllib; the puller uses
+      # curl_cffi Chrome impersonation (installed below) when available and
+      # falls back to urllib. The court-rules puller pulls the Uniform
+      # Superior/State/Magistrate rules + appellate rules from georgiacourts.gov
+      # PDFs (needs pypdf) and the courtrules.net HTML mirror (also
+      # Cloudflare-gated → curl_cffi). GitHub Actions runner IPs sometimes pass
+      # Cloudflare's IP-reputation check and sometimes don't; both steps are
+      # `continue-on-error: true`. Both pullers run with --force so the
+      # quarterly refresh re-pulls current text, and a per-file
+      # "never regress verbatim → stub" guard preserves committed verbatim
+      # content when a transient upstream failure would otherwise stub it — so
+      # the worst case for a CI refresh is no change rather than a regression.
+      - name: GA — install curl_cffi + pypdf for the pullers
+        if: matrix.target == 'ga'
+        run: pip3 install --break-system-packages curl_cffi pypdf
+
+      - name: GA — O.C.G.A. statutes (CPA / limitations / evidence / FBPA / garnishment / exemptions / family / courts / UCC)
+        if: matrix.target == 'ga'
+        continue-on-error: true
+        timeout-minutes: 20
+        run: python3 scripts/pull_georgia_statutes.py --workers 4 --force
+
+      - name: GA — court rules (Uniform Superior/State/Magistrate + Supreme + Court of Appeals)
+        if: matrix.target == 'ga'
+        continue-on-error: true
+        timeout-minutes: 20
+        run: python3 scripts/pull_georgia_rules.py --workers 2 --force
 
       # ---- Finalize ----
 
