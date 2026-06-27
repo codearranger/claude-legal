@@ -105,20 +105,43 @@ def _abs_url(u: str) -> str:
     return GEORGIACOURTS + u
 
 
+def _curl_cffi_get(url: str, timeout: int) -> bytes | None:
+    """Fetch bytes with curl_cffi Chrome-TLS impersonation when available.
+    The courtrules.net HTML mirror sits behind Cloudflare, which 403s stdlib
+    urllib; Chrome impersonation passes where urllib cannot. Returns None if
+    the package is absent or the fetch fails (caller falls back to urllib)."""
+    try:
+        from curl_cffi import requests as creq  # type: ignore
+    except Exception:
+        return None
+    try:
+        r = creq.get(url, impersonate="chrome", timeout=timeout)
+        if r.status_code == 200 and r.content:
+            return r.content
+    except Exception:
+        return None
+    return None
+
+
 def download_pdf(pdf: str, timeout: int = 90) -> bytes | None:
     url = _abs_url(pdf)
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            data = resp.read()
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError):
-        return None
-    if not data.startswith(b"%PDF"):
+    data = _curl_cffi_get(url, timeout)
+    if data is None:
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                data = resp.read()
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError):
+            return None
+    if not data or not data.startswith(b"%PDF"):
         return None
     return data
 
 
 def fetch_html(url: str, timeout: int = 60) -> str | None:
+    data = _curl_cffi_get(_abs_url(url), timeout)
+    if data is not None:
+        return data.decode("utf-8", "replace")
     req = urllib.request.Request(_abs_url(url), headers={"User-Agent": USER_AGENT})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
@@ -408,6 +431,12 @@ def main() -> int:
             wrote += 1
             print(f"WROTE {fname} ({len(rules)}/{len(wanted)} rules)")
         else:
+            # Never regress committed verbatim content to a stub: a transient
+            # upstream failure on a --force refresh keeps the real text.
+            if path.exists() and not _file_is_stub(path):
+                skipped += 1
+                print(f"KEEP (verbatim; fetch failed this run) {fname} — {reason}")
+                continue
             path.write_text(render_stub(target, reason), encoding="utf-8")
             stubbed += 1
             print(f"STUB  {fname} — {reason}")

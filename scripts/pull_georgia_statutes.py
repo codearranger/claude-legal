@@ -130,7 +130,30 @@ def elaws_url(section: str) -> str:
     return f"https://ga.elaws.us/ocga/{section}"
 
 
+def _fetch_curl_cffi(url: str, timeout: int = 45) -> str | None:
+    """Fetch with curl_cffi Chrome-TLS impersonation when available. FindLaw
+    and Justia sit behind Cloudflare bot-fight, which fingerprints the TLS
+    handshake and 403s stdlib urllib even from a clean IP. curl_cffi's
+    Chrome impersonation passes where urllib cannot. Returns None if the
+    package is absent or the fetch fails (caller falls back to urllib)."""
+    try:
+        from curl_cffi import requests as creq  # type: ignore
+    except Exception:
+        return None
+    try:
+        r = creq.get(url, impersonate="chrome", timeout=timeout)
+        if r.status_code == 200 and r.text:
+            return r.text
+    except Exception:
+        return None
+    return None
+
+
 def _fetch(url: str, timeout: int = 45) -> str | None:
+    # curl_cffi first (bypasses Cloudflare on findlaw/justia), urllib fallback.
+    txt = _fetch_curl_cffi(url, timeout)
+    if txt:
+        return txt
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
@@ -168,46 +191,80 @@ def _tags_to_text(fragment: str) -> str:
     return "\n".join(out).strip()
 
 
-# FindLaw wraps the section body in a content container; the markup has shifted
-# over redesigns, so we try a few container patterns and fall back to the
-# whole <body>. We then strip obvious chrome (nav, "Read this complete...",
-# cookie/marketing boilerplate) heuristically.
-_FINDLAW_BODY_RE = re.compile(
-    r'(?is)<div[^>]*class="[^"]*(?:codes-text|primary-content|content-block)[^"]*"[^>]*>(.*?)</div>\s*</div>'
-)
 _BODY_RE = re.compile(r"(?is)<body\b[^>]*>(.*?)</body>")
+
+# FindLaw renders the section body between the "Current as of <date> | Updated
+# by Findlaw Staff" byline and the "Previous/Next Part of Code" / "Back to
+# Chapter List" navigation. Slicing on those literal boundaries is robust to
+# the container markup shifting across FindLaw redesigns.
+_FL_START_RE = re.compile(r"(?is)Updated by\b.*?Findlaw Staff")
+_FL_END_RE = re.compile(
+    r"(?is)(Previous Part of Code|Next Part of Code|Back to Chapter List"
+    r"|Cite this article|Was this helpful|Welcome to FindLaw)"
+)
+
+# Lines that signal page chrome rather than statute text. If, after dropping
+# these, nothing substantive remains, the page is treated as a miss so the
+# next mirror is tried and a chrome-only page is NEVER written as verbatim.
+# (ga.elaws.us serves a JS-rendered shell whose static HTML is pure nav — this
+# is what keeps it from being mistaken for section text.)
+_CHROME_SIGNATURES = (
+    "you are using an outdated browser",
+    "free access to georgia legal information",
+    "welcome to findlaw",
+    "learn about the law",
+    "find a lawyer",
+    "latest blog posts",
+    "for legal professionals",
+    "need to find an attorney",
+    "read this complete",
+    "findlaw codes",
+    "cookie",
+    "advertisement",
+    "newsletter",
+    "subscribe",
+    "javascript",
+    "all rights reserved",
+    "search all georgia codes",
+    "ecases",
+    "counties & cities of georgia",
+)
 
 
 def _extract_section_text(raw: str) -> str | None:
     """Pull readable section text out of a fetched HTML page. Returns None if
-    nothing substantive is found."""
-    m = _FINDLAW_BODY_RE.search(raw)
-    chunk = m.group(1) if m else None
-    if not chunk:
+    nothing substantive is found (so the caller tries the next mirror and a
+    gated/interstitial/JS-shell page is never written as verbatim)."""
+    # FindLaw: slice between the byline and the navigation.
+    chunk = None
+    ms = _FL_START_RE.search(raw)
+    if ms:
+        rest = raw[ms.end():]
+        me = _FL_END_RE.search(rest)
+        chunk = rest[: me.start()] if me else rest
+    if chunk is None:
         m = _BODY_RE.search(raw)
         chunk = m.group(1) if m else raw
+
+    # The end boundary can land inside an attribute (e.g. a nav button's
+    # title="Previous Part of Code"), leaving a dangling partial tag at the
+    # slice edge. Drop a leading/trailing partial tag before stripping.
+    chunk = re.sub(r"(?s)<[^>]*$", "", chunk)
+    chunk = re.sub(r"(?s)^[^<]*>", "", chunk)
+
     text = _tags_to_text(chunk)
     if not text:
         return None
-    # Drop common chrome lines that mirrors prepend/append.
-    drop_substr = (
-        "read this complete",
-        "findlaw codes",
-        "cookie",
-        "advertisement",
-        "newsletter",
-        "subscribe",
-        "javascript",
-        "all rights reserved",
-    )
     kept = [
         ln
         for ln in text.split("\n")
-        if not any(d in ln.lower() for d in drop_substr)
+        if not any(sig in ln.lower() for sig in _CHROME_SIGNATURES)
     ]
     text = "\n".join(kept).strip()
-    # Require some real heft so a chrome-only / interstitial page is treated as
-    # a miss (and the next mirror is tried).
+    # Collapse the runs of blank lines the chrome-drop may leave behind.
+    text = re.sub(r"\n{3,}", "\n\n", text).strip()
+    # Require real heft so a chrome-only / interstitial / JS-shell page is a
+    # miss rather than a false-positive verbatim capture.
     if len(text) < 60:
         return None
     return text
@@ -328,6 +385,15 @@ def main() -> int:
             results[sec] = fetch_section(sec, title_slug, args.stubs_only)
 
         content = render_topic(topic, results)
+        # Never regress committed verbatim content to a stub: if this run
+        # produced a stub (every section failed) but the file on disk is
+        # already verbatim, keep the existing file. This makes a --force
+        # quarterly refresh safe — a transient upstream outage bumps nothing
+        # rather than wiping real text.
+        if STUB_MARKER in content and path.exists() and not _file_is_stub(path):
+            skipped += 1
+            print(f"KEEP (verbatim; fetch failed this run) {fname}")
+            continue
         path.write_text(content, encoding="utf-8")
         if STUB_MARKER in content:
             stubbed += 1
