@@ -13,9 +13,16 @@ into the Civil Practice Act by O.C.G.A. § 9-11-6(a)):
   - When the prescribed period is LESS THAN seven days, intermediate
     Saturdays, Sundays, and legal holidays are excluded from the count.
 
+The +3-days-for-mail/e-mail rule (O.C.G.A. § 9-11-6(e)): when a party
+must act within a prescribed period after SERVICE OF A PAPER (not
+process) and that paper was served by mail or e-mail, three days are
+added to the prescribed period. Pass --mail-service to apply it. It
+does NOT apply to service of the original summons and complaint, and
+it is not relevant to statutes of limitation.
+
 Usage:
     case-calendar.py --from YYYY-MM-DD --days N --mode [calendar|court]
-    case-calendar.py --from YYYY-MM-DD --rule RULE_KEY
+    case-calendar.py --from YYYY-MM-DD --rule RULE_KEY [--mail-service]
     case-calendar.py --rules
 
 Examples:
@@ -434,6 +441,23 @@ def parse_date(s: str) -> datetime.date:
         sys.exit(2)
 
 
+def compute_with_service(start: datetime.date, days: int, mode: str, mail: bool):
+    """Compute a deadline, applying the O.C.G.A. § 9-11-6(e) +3-days-for-
+    mail/e-mail rule when `mail` is set and the period is a forward
+    response period (days > 0). The three days extend the prescribed
+    period (added before the end-of-period weekend/holiday rollover).
+    Returns (deadline, applied_mail_bool)."""
+    if mail and days > 0:
+        if mode == "calendar":
+            return compute_deadline(start, days + 3, mode), True
+        # Court-day period: add 3 calendar days, then roll to a court day.
+        base = add_court_days(start, days) + datetime.timedelta(days=3)
+        while not is_court_day(base):
+            base += datetime.timedelta(days=1)
+        return base, True
+    return compute_deadline(start, days, mode), False
+
+
 def main():
     parser = argparse.ArgumentParser(description="Compute Georgia court deadlines")
     parser.add_argument("--from", dest="from_date", help="Triggering date (YYYY-MM-DD)")
@@ -446,6 +470,12 @@ def main():
     )
     parser.add_argument("--rule", help="Named rule (see --rules)")
     parser.add_argument("--rules", action="store_true", help="List known rules")
+    parser.add_argument(
+        "--mail-service",
+        action="store_true",
+        help="Add 3 days for service by mail/e-mail (O.C.G.A. § 9-11-6(e); "
+        "response periods only, not process or SOLs)",
+    )
     args = parser.parse_args()
 
     if args.rules:
@@ -456,21 +486,26 @@ def main():
         parser.error("--from is required")
 
     start = parse_date(args.from_date)
+    mail_note = "  +3 days added for service by mail/e-mail (O.C.G.A. § 9-11-6(e))"
 
     if args.rule:
         if args.rule not in RULES:
             print(f"Error: unknown rule '{args.rule}'. Run --rules to list.", file=sys.stderr)
             return 2
         days, mode, desc, auth = RULES[args.rule]
-        deadline = compute_deadline(start, days, mode)
+        deadline, applied = compute_with_service(start, days, mode, args.mail_service)
         print(format_result(start, days, mode, deadline, desc, auth))
+        if applied:
+            print(mail_note)
         return 0
 
     if args.days is None:
         parser.error("Either --days or --rule is required")
 
-    deadline = compute_deadline(start, args.days, args.mode)
+    deadline, applied = compute_with_service(start, args.days, args.mode, args.mail_service)
     print(format_result(start, args.days, args.mode, deadline))
+    if applied:
+        print(mail_note)
     return 0
 
 

@@ -16,7 +16,7 @@ description: >
   / holiday roll-forward and the sub-7-day exclusion of intermediate
   weekends and holidays, and maps named civil rules and statutes of
   limitation to days plus authority via the bundled calendar script.
-version: 0.1.0
+version: 0.2.0
 ---
 
 # Georgia Case Deadlines
@@ -52,6 +52,23 @@ The roll-forward at the end can only extend a deadline; it never
 shortens one. A "minus" period (e.g., a notice that must be served a
 minimum number of days *before* an event) counts backward under the
 same rule.
+
+### The +3-days-for-mail/e-mail rule — O.C.G.A. § 9-11-6(e)
+
+When a party must act within a prescribed period **after service of a
+paper** and that paper was served **by mail or by e-mail**, **three
+days are added to the prescribed period** (the three days extend the
+period before the end-of-period weekend/holiday roll-forward). Two
+limits to flag:
+
+- It applies only to **post-complaint papers** — **not to service of
+  the original summons and complaint** (so the 30-day answer period is
+  not extended by mailing the complaint).
+- It is irrelevant to **statutes of limitation**.
+
+`scripts/case-calendar.py --mail-service` applies the +3 days to a
+forward response period (e.g., a discovery response served by mail:
+`--rule rfp-response --mail-service`).
 
 ## Georgia legal holidays — O.C.G.A. § 1-4-1
 
