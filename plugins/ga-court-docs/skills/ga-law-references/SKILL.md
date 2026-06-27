@@ -16,7 +16,7 @@ description: >
   case law", "what's the Georgia rule on X". Every other ga- skill
   cites into this corpus for rule numbers, statute sections, and case
   authorities.
-version: 0.1.0
+version: 0.2.0
 ---
 
 # Georgia Law References
