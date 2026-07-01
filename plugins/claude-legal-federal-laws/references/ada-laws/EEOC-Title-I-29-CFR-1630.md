@@ -3,7 +3,7 @@
 - Citation: 29 C.F.R. Part 1630
 - As of: 2026-01-01
 - Source: https://www.ecfr.gov/current/title-29/part-1630
-- Pulled: 2026-06-18
+- Pulled: 2026-07-01
 
 > Verbatim text from the eCFR XML versioner API. Inline italics (`*`) and
 > bold (`**`) preserved; tables, figures, and footnotes flattened to plain text.

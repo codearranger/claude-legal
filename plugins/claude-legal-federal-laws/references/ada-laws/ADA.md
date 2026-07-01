@@ -4,7 +4,7 @@
 - USC Chapter: CHAPTER 126— EQUAL OPPORTUNITY FOR INDIVIDUALS WITH DISABILITIES
 - Release point: Public Law 119-84
 - Source: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-chapter126&edition=prelim
-- Pulled: 2026-06-18
+- Pulled: 2026-07-01
 
 > Verbatim text from the Office of the Law Revision Counsel USLM XML.
 > Cross-references and parts/subparts hierarchy preserved.

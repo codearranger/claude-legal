@@ -4,7 +4,7 @@
 - USC Chapter: CHAPTER 12— ADJUSTMENT OF DEBTS OF A FAMILY FARMER OR FISHERMAN WITH REGULAR ANNUAL INCOME
 - Release point: Public Law 119-84
 - Source: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-chapter12&edition=prelim
-- Pulled: 2026-05-13
+- Pulled: 2026-07-01
 
 > Verbatim text from the Office of the Law Revision Counsel USLM XML.
 > Cross-references and parts/subparts hierarchy preserved.
