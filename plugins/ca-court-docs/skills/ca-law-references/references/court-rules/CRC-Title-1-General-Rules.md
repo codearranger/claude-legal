@@ -2,7 +2,7 @@
 
 - Citation: Cal. Rules of Court, General Rules
 - Source: https://courts.ca.gov/cms/rules/index/one
-- Pulled: 2026-05-14
+- Pulled: 2026-07-01
 - Rules: 27
 
 > Verbatim rule text scraped from courts.ca.gov.

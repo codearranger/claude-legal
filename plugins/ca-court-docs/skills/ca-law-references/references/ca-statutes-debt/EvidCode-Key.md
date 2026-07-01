@@ -2,7 +2,7 @@
 
 - Description: Evidence Code — relevance / hearsay / authentication / best evidence
 - Source: https://leginfo.legislature.ca.gov/faces/codes.xhtml
-- Pulled: 2026-05-13
+- Pulled: 2026-07-01
 - Sections: 26
 
 > Verbatim text from the California Legislative Information website.

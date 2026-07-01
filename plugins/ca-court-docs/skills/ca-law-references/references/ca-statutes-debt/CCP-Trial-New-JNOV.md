@@ -2,7 +2,7 @@
 
 - Description: New trial / JNOV / vacate (CCP §§ 657-663a)
 - Source: https://leginfo.legislature.ca.gov/faces/codes.xhtml
-- Pulled: 2026-05-13
+- Pulled: 2026-07-01
 - Sections: 9
 
 > Verbatim text from the California Legislative Information website.

@@ -2,7 +2,7 @@
 
 - Citation: Cal. Rules of Court, Probate Rules
 - Source: https://courts.ca.gov/cms/rules/index/seven
-- Pulled: 2026-05-14
+- Pulled: 2026-07-01
 - Rules: 115
 
 > Verbatim rule text scraped from courts.ca.gov.
@@ -152,11 +152,11 @@
   - [Rule 7.2205 — Definitions](#rule-7-2205)
   - [Rule 7.2210 — General provisions](#rule-7-2210)
 
-**Article 2. Commencement of Proceedings**
+**Article 2. Beginning of Proceedings**
 
-  - [Rule 7.2221 — Papers to be filed (§ 5975)](#rule-7-2221)
+  - [Rule 7.2221 — Papers to be filed (§ 5975, 5978)](#rule-7-2221)
   - [Rule 7.2223 — Venue and transfer (§ 5973)](#rule-7-2223)
-  - [Rule 7.2225 — Persons who may file petition (§§ 5974, 5978)](#rule-7-2225)
+  - [Rule 7.2225 — Persons who may file petition (§§ 5974, 5978) [Repealed]](#rule-7-2225)
   - [Rule 7.2230 — Counsel for respondent (§§ 5976(c), 5977(a)(3)(A), (a)(5)(C) & (b)(1))](#rule-7-2230)
 
 **Article 3. Notice and Joinder**
@@ -3380,18 +3380,24 @@ Advisory Committee Comment
 
 **Subdivision ****(d)(4).** The subdivision is intended to describe the effect of existing law. No provision of law precludes concurrent jurisdiction or, conversely, confers exclusive jurisdiction on any court over matters relating to the mental health treatment of persons who meet the statutory jurisdictional criteria of each court, unless otherwise specified.
 
-## Article 2. Commencement of Proceedings
+## Article 2. Beginning of Proceedings
 
 <a id="rule-7-2221"></a>
-#### Rule 7.2221. Papers to be filed (§ 5975)
+#### Rule 7.2221. Papers to be filed (§ 5975, 5978)
 
 Source: https://courts.ca.gov/cms/rules/index/seven/rule7_2221
 
 **(a) Alternative petitions to begin CARE Act proceedings**
 
-A petition to commence CARE Act proceedings must be made on *Petition to Begin CARE Act Proceedings* (form CARE-100) or, if the petitioner is a licensed behavioral health professional as defined in section 5971(*l*), on *Petition to Begin CARE Act Proceedings by Licensed Behavioral Health Professional Only* (form CARE-102).
+A petition begin CARE Act proceedings must be made on one of the following:
 
-*(Subd (a) amended effective January 1, 2026; adopted effective July 1, 2025.)*
+(1) A *Petition to Begin CARE Act Proceedings* (form CARE-100) filed by any person authorized to petition by section 5974 or 5978;
+
+(2) A *Petition to Begin CARE Act Proceedings by Licensed Behavioral Health Professional Only* (form CARE-102) filed by a licensed behavioral health professional as defined in section 5971(m); or
+
+(3) A written referral under section 5978 if the CARE Act court deems the referral to be a petition as authorized by that section.
+
+*(Subd (a) amended effective July 1, 2026; adopted July 1, 2025; previously amended effective January 1, 2026.)*
 
 **(b) Documentation required to support *Petition to Begin CARE Act Proceedings***
 
@@ -3409,7 +3415,7 @@ If using Petition to Begin CARE Act Proceedings by Licensed Behavioral Health Pr
 
 *(Subd (c) amended effective January 1, 2026; adopted effective July 1, 2025.)*
 
-*Rule 7.2221 amended effective January 1, 2026; adopted September 1, 2023; previously amended effective September 1, 2024, and July 1, 2025.*
+*Rule 7.2221 amended effective July 1, 2026; adopted September 1, 2023; previously amended effective September 1, 2024, July 1, 2025, and January 1, 2026.*
 
 <a id="rule-7-2223"></a>
 #### Rule 7.2223. Venue and transfer (§ 5973)
@@ -3418,13 +3424,15 @@ Source: https://courts.ca.gov/cms/rules/index/seven/rule7_2223
 
 **(a) Filing **
 
-A petition to commence CARE Act proceedings may be filed in the superior court of:
+A petition to begin CARE Act proceedings may be filed in the superior court of:
 
 (1) The county where the respondent resides at the time of filing;
 
 (2) The county where the respondent is found at the time of filing; or
 
 (3) A county where the respondent is a defendant or respondent in a pending criminal or civil action or proceeding.
+
+*(Subd (a) amended effective July 1, 2026.)*
 
 **(b) Transfer **
 
@@ -3450,20 +3458,14 @@ If the court orders the proceeding transferred to the superior court of the resp
 
 (4) If the transferring court has not received a notification of receipt within 60 days of the transfer order, it must make a reasonable inquiry into the status of the transferred proceeding.
 
-Rule 7.2223 adopted effective September 1, 2023.
+Rule 7.2223 amended effective July 1, 2026; adopted September 1, 2023.
 
 <a id="rule-7-2225"></a>
-#### Rule 7.2225. Persons who may file petition (§§ 5974, 5978)
+#### Rule 7.2225. Persons who may file petition (§§ 5974, 5978) [Repealed]
 
 Source: https://courts.ca.gov/cms/rules/index/seven/rule7_2225
 
-**(a) Persons who may file petition **
-
-Any person identified in section 5974 may file a petition to begin CARE Act proceedings. If a petition is based on a referral authorized by section 5978, only the person designated in that section may file the petition.
-
-(Subd (a) amended effective September 1, 2024.)
-
-Rule 7.2225 amended effective September 1, 2024; adopted effective September 1, 2023.
+*Rule 7.2225 repealed effective July 1, 2026; adopted September 1, 2023; previously amended effective September 1, 2024.*
 
 <a id="rule-7-2230"></a>
 #### Rule 7.2230. Counsel for respondent (§§ 5976(c), 5977(a)(3)(A), (a)(5)(C) & (b)(1))
@@ -3482,7 +3484,9 @@ If the court finds that the petitioner has made a prima facie showing that the r
 
 **(b) Copy of petition **
 
-On appointment, the court must provide a copy of the petition packet to appointed counsel.
+On appointment, the court must provide to counsel a copy of the petition.
+
+*(Subd (b) amended effective July 1, 2026.)*
 
 **(c) Substitution (§ 5977(b)(1)) **
 
@@ -3494,7 +3498,7 @@ On appointment, the court must provide a copy of the petition packet to appointe
 
 (2) The respondent must make arrangements for the compensation, if any, of chosen counsel.
 
-Rule 7.2230 amended effective September 1, 2024; adopted September 1, 2023.
+*Rule 7.2230 amended effective July 1, 2026; adopted September 1, 2023: previously amended effective September 1, 2024.*
 
 ## Article 3. Notice and Joinder
 
@@ -3511,9 +3515,11 @@ Source: https://courts.ca.gov/cms/rules/index/seven/rule7_2235
 
 (3) Notice must be given on *Notice of Order for CARE Act Report *(form CARE-106) and must include a copy of *Order for CARE Act Report *(form CARE-105) issued by the court.
 
-(4) Notice to the respondent and the respondent's counsel must also include a copy of the petition packet filed to begin the proceedings and *Information for Respondents-About the CARE Act *(form CARE-060-INFO).
+(4) Notice to the respondent and the respondent's counsel must also include a copy of the petition and *Information for Respondents-About the CARE Act *(form CARE-060-INFO).
 
 (5) If the court grants the county agency additional time to engage the respondent in voluntary treatment and services before filing the report, the county agency must, within five calendar days of the order, serve written notice of the extended report deadline on the respondent, the respondent's counsel, and the petitioner on form CARE-106 as provided in (d).
+
+(Subd (a) amended effective July 1, 2026.)
 
 **(b) Notice of initial appearance (§ 5977(a)(3)(A), (a)(5)(C)) **
 
@@ -3527,7 +3533,7 @@ Source: https://courts.ca.gov/cms/rules/index/seven/rule7_2235
 
 (B) Notice to the respondent must include copies of the following:
 
-(i) The petition packet filed to begin the proceedings;
+(i) The petition;
 
 (ii) Any report ordered and filed under section 5977(a)(3);
 
@@ -3541,13 +3547,15 @@ Source: https://courts.ca.gov/cms/rules/index/seven/rule7_2235
 
 (B) Notice to the respondent's counsel must include copies of the following:
 
-(i) The petition packet filed to begin the proceedings; and
+(i) The petition; and
 
 (ii) Any report ordered under section 5977(a)(3).
 
 (5) *Notice to other persons *
 
 Notice must be served on all other persons entitled to receive notice by any method provided in (d).
+
+*(Subd (b) amended effective July 1, 2026.)*
 
 **(c) Notice of other hearings (§§ 5977-5977.3, 5979) **
 
@@ -3579,7 +3587,7 @@ Nothing in these rules limits the right of the respondent to waive personal serv
 
 *(Subd (e) adopted effective July 1, 2025.)*
 
-*Rule 7.2235 amended effective July 1, 2025; adopted effective September 1, 2023.*
+*Rule 7.2235 amended effective July 1, 2026; adopted effective September 1, 2023; previously amended effective July 1, 2025.*
 
 <a id="rule-7-2240"></a>
 #### Rule 7.2240. Joinder of local government entity (§ 5977.1(d)(4))

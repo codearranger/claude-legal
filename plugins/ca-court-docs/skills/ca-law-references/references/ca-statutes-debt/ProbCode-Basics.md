@@ -2,7 +2,7 @@
 
 - Description: Intestate succession + probate procedure (Prob. Code §§ 6400-13150)
 - Source: https://leginfo.legislature.ca.gov/faces/codes.xhtml
-- Pulled: 2026-05-13
+- Pulled: 2026-07-01
 - Sections: 21
 
 > Verbatim text from the California Legislative Information website.

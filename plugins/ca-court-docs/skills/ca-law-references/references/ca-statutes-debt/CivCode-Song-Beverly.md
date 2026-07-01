@@ -2,7 +2,7 @@
 
 - Description: Song-Beverly Warranty Act (Civ. Code §§ 1790-1795.8)
 - Source: https://leginfo.legislature.ca.gov/faces/codes.xhtml
-- Pulled: 2026-05-13
+- Pulled: 2026-07-01
 - Sections: 20
 
 > Verbatim text from the California Legislative Information website.

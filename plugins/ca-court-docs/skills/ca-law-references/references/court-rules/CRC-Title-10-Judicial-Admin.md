@@ -2,8 +2,8 @@
 
 - Citation: Cal. Rules of Court, Judicial Administration Rules
 - Source: https://courts.ca.gov/cms/rules/index/ten
-- Pulled: 2026-05-14
-- Rules: 185
+- Pulled: 2026-07-01
+- Rules: 186
 
 > Verbatim rule text scraped from courts.ca.gov.
 > The Judicial Council periodically amends these rules.
@@ -99,6 +99,7 @@
 - *Chapter 6. Court Technology, Information, and Automation*
   - [Rule 10.400 — Judicial Branch Statistical Information System (JBSIS)](#rule-10-400)
   - [Rule 10.430 — Generative artificial intelligence use policies](#rule-10-430)
+  - [Rule 10.440 — Reporting civil arrests in court facilities](#rule-10-440)
 - *Chapter 7. Minimum Education Requirements, Expectations, and Recommendations*
   - [Rule 10.451 — Judicial branch education](#rule-10-451)
   - [Rule 10.452 — Minimum education requirements, expectations, and recommendations](#rule-10-452)
@@ -3715,6 +3716,51 @@ Rule 10.430 adopted effective September 1, 2025.
 **Subdivision (c). **California Standards of Judicial Administration, standard 10.80 covers the use of generative AI by judicial officers for any task within their adjudicative role.
 
 **Subdivision (d).** This subdivision does not require any court to permit the use of generative AI by court staff or judicial officers. Courts may entirely prohibit the use of generative AI and may also set restrictions on how generative AI may be used for court-related work, such as allowing or prohibiting the use of specific generative AI tools, allowing use of generative AI only for particular tasks, or requiring approval for the use of generative AI. Courts that are required by subdivision (b) to adopt a use policy because they are not prohibiting the use of generative AI for court-related work can comply with subdivision (d) by adopting verbatim the nonoptional sections of the *Model Policy for Use of Generative Artificial Intelligence*, or by adopting a policy that uses substantially similar language. Courts adopting a generative AI use policy under this rule may make their policy more restrictive than the rule requires and may include provisions not covered by rule 10.430.
+
+<a id="rule-10-440"></a>
+#### Rule 10.440. Reporting civil arrests in court facilities
+
+Source: https://courts.ca.gov/cms/rules/index/ten/rule10_440
+
+**(a) Definitions **
+
+As used in this rule, the following definitions apply:
+
+(1) “Civil arrest” means the arrest of, or a communicated intent to arrest, an individual for an alleged violation of civil law. It does not include an arrest for an alleged violation of criminal law, or for contempt.
+
+(2) “Court facility” has the same meaning as that provided in Government Code section 70301(d).
+
+**(b) Reporting to the Judicial Council**
+
+Beginning June 2026, each superior court must report to the Judicial Council, in a form, manner, and frequency determined by, and on dates specified by, the Administrative Director, the following information relating to any civil arrest in a court facility, if known:
+
+(1) The date, time, and location of each civil arrest;
+
+(2) Whether the civil arrest resulted in an individual being taken into custody;
+
+(3) The name of the agency conducting the civil arrest;
+
+(4) Whether law enforcement officers conducting the civil arrest were in uniform or plain clothes;
+
+(5) Whether law enforcement officers conducting the civil arrest presented government-issued law enforcement identification;
+
+(6) Whether law enforcement officers conducting the civil arrest presented a warrant;
+
+(7) If a warrant was presented, the type of warrant; and
+
+(8) Any other information, as determined by the Administrative Director, necessary to evaluate the impact of civil arrests in court facilities.
+
+**(c) Personal identifying information of targeted individual**
+
+Information reported under (b) must not include the identity, or other personal identifying information, of any individual who was a target for civil arrest.
+
+*Rule 10.440 adopted effective May 1, 2026.*
+
+**Advisory Committee Comment **
+
+It is anticipated that the Judicial Council may compile and publish in periodic reports the information collected under this rule, in accordance with applicable data publication policy.
+
+**Subdivision (b).** “Administrative Director” refers to the Administrative Director of the Courts appointed by the Judicial Council. (See Cal. Rules of Court, rule 10.80(a).)
 
 ### Chapter 7. Minimum Education Requirements, Expectations, and Recommendations
 

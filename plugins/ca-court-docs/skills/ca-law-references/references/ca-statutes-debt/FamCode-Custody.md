@@ -2,7 +2,7 @@
 
 - Description: Custody and visitation (Fam. Code §§ 3010-3200)
 - Source: https://leginfo.legislature.ca.gov/faces/codes.xhtml
-- Pulled: 2026-05-13
+- Pulled: 2026-07-01
 - Sections: 16
 
 > Verbatim text from the California Legislative Information website.

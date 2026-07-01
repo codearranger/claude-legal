@@ -2,7 +2,7 @@
 
 - Citation: Cal. Rules of Court, Rules Applicable in All Trial Courts
 - Source: https://courts.ca.gov/cms/rules/index/two
-- Pulled: 2026-05-14
+- Pulled: 2026-07-01
 - Rules: 145
 
 > Verbatim rule text scraped from courts.ca.gov.
@@ -143,7 +143,6 @@
   - [Rule 2.575 — Confidential information in name change proceedings under address confidentiality program](#rule-2-575)
   - [Rule 2.576 — Access to name of the petitioner](#rule-2-576)
   - [Rule 2.577 — Procedures for filing confidential name change records under seal](#rule-2-577)
-- *Chapter 6. Other Sealed or Closed Records*
   - [Rule 2.580 — Request for delayed public disclosure](#rule-2-580)
   - [Rule 2.585 — Confidential in-camera proceedings](#rule-2-585)
 
@@ -3036,13 +3035,13 @@ In a county where complaints in civil cases may be filed in more than one locati
 
 (Subd (b) amended effective January 1, 2007.)
 
-**(c) Special cover sheet omitting names of the parties **
+**(c) Special cover sheet omitting names of the parties**
 
-In a False Claims Act case, the complaint and every other paper filed while the case is under seal must have a completed *Confidential Cover Sheet-False Claims Action *(form MC-060) affixed to the first page.
+In a False Claims Act case, the complaint and every other paper filed while the case is under seal must have a completed *Confidential Cover Sheet—False Claims Action* (form CM-011) affixed to the first page.
 
-(Subd (c) amended effective January 1, 2007.)
+*(Subd (c) amended effective July 1, 2026; previously amended effective January 1, 2007.)*
 
-**(d) Filing of papers under seal **
+**(d) Filing of papers under seal**
 
 When the complaint or other paper in a False Claims Act case is filed under seal, the clerk must stamp both the cover sheet and the caption page of the paper.
 
@@ -3054,7 +3053,7 @@ Records in a False Claims Act case that are confidential and under seal must be 
 
 (Subd (e) amended effective January 1, 2007.)
 
-Rule 2.571 amended and renumbered effective January 1, 2007; adopted as rule 243.6 effective July 1, 2002.
+*Rule 2.571 amended effective July 1, 2026; previously amended and renumbered effective January 1, 2007; adopted as rule 243.6 effective July 1, 2002.*
 
 <a id="rule-2-572"></a>
 #### Rule 2.572. Ex parte application for an extension of time
@@ -3131,13 +3130,9 @@ As used in this chapter, unless the context or subject matter otherwise requires
 
 **(b) Application of chapter **
 
-The rules in this chapter apply to records filed in a change of name proceeding under Code of Civil Procedure section 1277(b) by a confidential name change petitioner who alleges any of the following reasons or circumstances as a reason for the name change:
+The rules in this chapter apply to records filed in a change of name proceeding by a confidential name change petitioner who alleges any of the reasons or circumstances listed in Code of Civil Procedure section 1277(b) as a reason for the name change.
 
-(1) The petitioner is seeking to avoid domestic violence, as defined in Family Code section 6211.
-
-(2) The petitioner is seeking to avoid stalking, as defined in Penal Code section 646.9.
-
-(3) The petitioner is, or is filing on behalf of, a victim of sexual assault, as defined in Evidence Code section 1036.2.
+*(Subd (b) amended effective July 1, 2026.)*
 
 **(c) Confidentiality of current name of the petitioner **
 
@@ -3151,7 +3146,7 @@ To maintain the confidentiality provided under Code of Civil Procedure section 1
 
 To maintain the confidentiality provided under Code of Civil Procedure section 1277(b) for the petitioner's proposed name, the petitioner must not include the proposed name on the petition for name change or any other record in the proceedings. In any form that requests the petitioner's proposed name, the petitioner and the court must indicate that the proposed name is confidential and on file with the Secretary of State under the provisions of the Safe at Home address confidentiality program.
 
-Rule 2.575 adopted effective January 1, 2010.
+*Rule 2.575 amended effective July 1, 2026; adopted January 1, 2010.*
 
 <a id="rule-2-576"></a>
 #### Rule 2.576. Access to name of the petitioner
@@ -3179,7 +3174,9 @@ Source: https://courts.ca.gov/cms/rules/index/two/rule2_577
 
 **(a) Court approval required **
 
-Records in a name change proceeding may not be filed under seal without a court order. A request by a confidential name change petitioner to file records under seal may be made under the procedures in this chapter. A request by any other petitioner to file records under seal must be made under rules 2.550-2.573.
+Records in a name change proceeding brought by a confidential name change petitioner may not be filed under seal without a court order. A request by a confidential name change petitioner to file records under seal may be made under the procedures in this chapter.
+
+*(Subd (a) amended effective July 1, 2026.)*
 
 **(b) Application to file records in confidential name change proceedings under seal **
 
@@ -3243,11 +3240,15 @@ Sealed records must be securely filed and kept separate from the public file in 
 
 (2) Any member of the public seeking to unseal a record or a court proposing to do so on its own motion must follow the procedures described in rule 2.551(h).
 
-Rule 2.577 amended effective January 1, 2017; adopted effective January 1, 2010; previously amended effective January 1, 2016.
+*Rule 2.577 amended effective July 1, 2026; adopted effective January 1, 2010; previously amended effective January 1, 2016; and January 1, 2017.*
 
-Title 2, Trial Court Rules-Division 4, Court Records-Chapter 6, Other Sealed or Closed Records; renumbered effective January 1, 2010; adopted as Chapter 5 effective January 1, 2007.
+**Advisory Committee Comment**
 
-### Chapter 6. Other Sealed or Closed Records
+This rule is not intended to abrogate or limit any duty of the court to keep court records confidential (for example, court records, including the index, register of actions, and any other case information available through court systems used to provide the public with electronic access to court records, associated with a proceeding for a change of name or gender and sex identifier, or both, under Health and Safety Code section 103437).
+
+**Subdivision (a).** This subdivision describes procedures for filing records under seal in a name change proceeding brought by a confidential name change petitioner (a participant in the Safe at Home address confidentiality program). (See rule 2.575(a)(1).)
+
+.
 
 <a id="rule-2-580"></a>
 #### Rule 2.580. Request for delayed public disclosure
@@ -4642,13 +4643,13 @@ As used in this rule:
 
 (4) "On call" means all same-day notice procedures used to inform prospective jurors of the time they are to report for jury service.
 
-(5) "Telephone standby" means all previous-day notice procedures used to inform prospective jurors of their date to report for service.
+(5) “Standby” means all previous-day notice procedures used to inform prospective jurors of their date to report for service. “Telephone standby” means all previous-day notice procedures used to inform prospective jurors of their date to report for service.
 
-(Subd (b) amended effective January 1, 2007.)
+*(Subd (b) amended effective July 1, 2026; previously amended effective January 1, 2007.)*
 
 **(c) One-day/one-trial **
 
-Each trial court system must implement a juror management program under which a person has fulfilled his or her jury service obligation when the person has:
+Each trial court system must implement a juror management program under which a person’s jury service obligation is fulfilled when the person has:
 
 (1) Served on one trial until discharged;
 
@@ -4658,9 +4659,9 @@ Each trial court system must implement a juror management program under which a 
 
 (4) Served one day on call; or
 
-(5) Served no more than five court days on telephone standby.
+(5) Served on standby for no more than five court days.
 
-(Subd (c) amended effective January 1, 2007.)
+*(Subd (c) amended effective July 1, 2026; previously amended effective January 1, 2007.)*
 
 **(d) Exemption **
 
@@ -4686,7 +4687,7 @@ If the council finds good cause, it may grant an exemption for a limited period 
 
 (Subd (d) amended effective January 1, 2007.)
 
-Rule 2.1002 amended and renumbered effective January 1, 2007; adopted as rule 861 effective July 1, 1999.
+*Rule 2.1002 amended effective July 1, 2026; adopted as rule 861 effective July 1, 1999; previously amended and renumbered effective January 1, 2007.*
 
 <a id="rule-2-1004"></a>
 #### Rule 2.1004. Scheduling accommodations for jurors
@@ -4710,9 +4711,9 @@ Rule 2.1004 amended and renumbered effective January 1, 2007; adopted as rule 85
 
 Source: https://courts.ca.gov/cms/rules/index/two/rule2_1006
 
-A mother who is breastfeeding a child may request that jury service be deferred for up to one year, and may renew that request as long as she is breastfeeding. If the request is made in writing, under penalty of perjury, the jury commissioner must grant it without requiring the prospective juror to appear at court.
+A prospective juror who is breastfeeding a child may request that jury service be deferred for up to one year, and may renew that request as long as the prospective juror is breastfeeding. If the request is made in writing, under penalty of perjury, the jury commissioner must grant it without requiring the prospective juror to appear at court.
 
-Rule 2.1006 renumbered effective January 1, 2007; adopted as rule 859 effective July 1, 2001.
+*Rule 2.1006 amended effective July 1, 2026; adopted as rule 859 effective July 1, 2001; renumbered effective January 1, 2007*
 
 <a id="rule-2-1008"></a>
 #### Rule 2.1008. Excuses from jury service
@@ -4761,7 +4762,7 @@ An excuse on the ground of undue hardship may be granted for any of the followin
 
 (C) The expected length of service; and
 
-(D) Whether service can reasonably be expected to compromise the prospective juror's ability to support himself or herself or his or her dependents, or so disrupt the economic stability of any individual as to be against the interests of justice.
+(D) Whether service can reasonably be expected to compromise the prospective juror’s ability to support the prospective juror or any dependents, or so disrupt the economic stability of any individual as to be against the interests of justice.
 
 (4) The prospective juror will bear an undue risk of material injury to or destruction of the prospective juror's property or property entrusted to the prospective juror, and it is not feasible to make alternative arrangements to alleviate the risk. In determining whether to excuse the prospective juror for this reason, consideration must be given to:
 
@@ -4781,15 +4782,15 @@ An excuse on the ground of undue hardship may be granted for any of the followin
 
 (7) The prospective juror has a personal obligation to provide actual and necessary care to another, including sick, aged, or infirm dependents, or a child who requires the prospective juror's personal care and attention, and no comparable substitute care is either available or practical without imposing an undue economic hardship on the prospective juror or person cared for. If the request to be excused is based on care provided to a sick, disabled, or infirm person, the prospective juror may be required to furnish verification or a method of verification that the person being cared for is in need of regular and personal care.
 
-(Subd (d) amended effective January 1, 2007.)
+*(Subd (d) amended effective July 1, 2026; previously amended effective January 1, 2007.)*
 
 **(e) Excuse based on previous jury service **
 
-A prospective juror who has served on a grand or trial jury or was summoned and appeared for jury service in any state or federal court during the previous 12 months must be excused from service on request. The jury commissioner, in his or her discretion, may establish a longer period of repose.
+A prospective juror who has served on a grand or trial jury or was summoned and appeared for jury service in any state or federal court during the previous 12 months must be excused from service on request. The jury commissioner has discretion to establish a longer period of repose.
 
-(Subd (e) amended effective January 1, 2007.)
+*(Subd (e) amended effective July 1, 2026; previously amended effective January 1, 2007.)*
 
-Rule 2.1008 amended and renumbered effective January 1, 2007; adopted as rule 860 effective July 1, 1997.
+*Rule 2.1008 amended effective July 1, 2026; adopted as rule 860 effective July 1, 1997; previously amended and renumbered effective January 1, 2007.*
 
 <a id="rule-2-1009"></a>
 #### Rule 2.1009. Permanent medical excuse from jury service
@@ -4869,9 +4870,9 @@ A motion to set aside sanctions imposed by default must contain a short and conc
 
 **(c) Judicial Council form may be used **
 
-A motion to set aside sanctions imposed by default may be made by completing and filing *Juror's Motion to Set Aside Sanctions and Order *(form MC-070).
+A motion to set aside sanctions imposed by default may be made by completing and filing *Juror's Motion to Set Aside Sanctions and Order *(form JURY-010).
 
-(Subd (c) amended effective January 1, 2007.)
+*(Subd (c) amended effective July 1, 2026; previously amended effective January 1, 2007.)*
 
 **(d) Hearing **
 
@@ -4891,7 +4892,7 @@ Nothing in this rule relieves a prospective juror of the obligation of jury serv
 
 The court must provide a copy of this rule to the prospective juror against whom sanctions have been imposed.
 
-Rule 2.1010 amended effective January 1, 2010; adopted as rule 862 effective January 1, 2005; previously amended effective January 1, 2007.
+*Rule 2.1010 amended effective July 1, 2026; adopted as rule 862 effective January 1, 2005; previously amended effective January 1, 2007, and January 1, 2010.*
 
 ### Chapter 2. Conduct of Trial
 

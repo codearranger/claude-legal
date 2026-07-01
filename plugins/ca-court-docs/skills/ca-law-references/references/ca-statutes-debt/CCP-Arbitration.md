@@ -2,7 +2,7 @@
 
 - Description: California Arbitration Act (CCP §§ 1280-1294.2)
 - Source: https://leginfo.legislature.ca.gov/faces/codes.xhtml
-- Pulled: 2026-05-13
+- Pulled: 2026-07-01
 - Sections: 16
 
 > Verbatim text from the California Legislative Information website.

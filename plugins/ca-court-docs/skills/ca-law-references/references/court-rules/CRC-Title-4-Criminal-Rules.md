@@ -2,7 +2,7 @@
 
 - Citation: Cal. Rules of Court, Criminal Rules
 - Source: https://courts.ca.gov/cms/rules/index/four
-- Pulled: 2026-05-14
+- Pulled: 2026-07-01
 - Rules: 99
 
 > Verbatim rule text scraped from courts.ca.gov.
@@ -843,15 +843,7 @@ Source: https://courts.ca.gov/cms/rules/index/four/rule4_130
 
 **(a) Application **
 
-(1) This rule applies to proceedings in the superior court under Penal Code section 1367 et seq. to determine the mental competency of a criminal defendant.
-
-(2) The requirements of subdivision (d)(2) apply only to a formal competency evaluation ordered by the court under Penal Code section 1369(a).
-
-(3) The requirements of subdivision (d)(2) do not apply to a brief preliminary evaluation of the defendant's competency if:
-
-(A) The parties stipulate to a brief preliminary evaluation; and
-
-(B) The court orders the evaluation in accordance with a local rule of court that specifies the content of the evaluation and the procedure for its preparation and submission to the court.
+The duty to initiate a competency proceeding may arise at any time before judgment, and after judgment in a proceeding to revoke probation, mandatory supervision, postrelease community supervision, or parole.
 
 *(Subd (a) amended effective January 1, 2026; previously amended effective January 1, 2018.)*
 
@@ -3247,27 +3239,37 @@ Source: https://courts.ca.gov/cms/rules/index/four/rule4_551
 
 (B) The custodian of any record pertaining to the petitioner's case, directing the custodian to produce the record or a certified copy to be filed with the clerk of the court.
 
-(2) A copy of the request must be sent to the petitioner. The informal response, if any, must be served on the petitioner by the party of whom the request is made. The informal response must be in writing and must be served and filed within 15 days. If any informal response is filed, the court must notify the petitioner that he or she may reply to the informal response within 15 days from the date of service of the response on the petitioner. If the informal response consists of records or copies of records, a copy of every record and document furnished to the court must be furnished to the petitioner.
+(2) A copy of the request must be sent to the petitioner or, if represented, petitioner’s counsel.
 
-(3) After receiving an informal response, the court may not deny the petition until the petitioner has filed a timely reply to the informal response or the 15-day period provided for a reply under (b)(2) has expired.
+(3) The informal response must be in writing and must be served and filed within 15 days. If the petitioner is not represented by counsel in the habeas corpus proceeding, the informal response must be served on the petitioner. If the petitioner is represented by counsel in the habeas corpus proceeding, the informal response must be served on the petitioner’s counsel. If any informal response is filed, the court must notify the petitioner that a reply may be filed within 15 days from the date of service of the response on the petitioner or counsel. If the informal response consists of records or copies of records, a copy of every record and document furnished to the court must be furnished to the petitioner or counsel.
 
-(Subd (b) amended effective January 1, 2007; adopted effective January 1, 2002.)
+(4) After receiving an informal response, the court may not deny the petition until the petitioner has filed a timely reply to the informal response or the 15-day period provided for a reply under (b)(2) has expired.
+
+(Subd (b) amended effective July 1, 2026; adopted January 1, 2002; previously amended effective January 1, 2007.)
 
 **(c) Order to show cause **
 
-(1) The court must issue an order to show cause if the petitioner has made a prima facie showing that the petitioner is entitled to relief. In doing so, the court takes petitioner’s factual allegations as true and makes a preliminary assessment regarding whether the petitioner would be entitled to relief if the petitioner’s factual allegations were proved. If so, the court must issue an order to show cause.
+(1) Except as provided in (2), the court must issue an order to show cause if the petitioner has made a prima facie showing that the petitioner is entitled to relief. In doing so, the court takes petitioner’s factual allegations as true and makes a preliminary assessment regarding whether the petitioner would be entitled to relief if the petitioner’s factual allegations were proved. If so, the court must issue an order to show cause.
 
-(2) An order to show cause is a determination that the petitioner has made a showing that they may be entitled to relief. It does not grant the relief sought in the petition.
+(2) When a petition raises a claim under Penal Code section 745(a), the court must issue an order to show cause if the petitioner has made a prima facie showing, which means that the petitioner has produced facts that, if true, establish that there is a substantial likelihood that a violation of section 745(a) has occurred. A prima facie determination must be based on the petitioner’s showing and the record.
 
-*(Subd (c) amended effective September 1, 2024; adopted effective January 1, 2002.; previously amended effective January 1, 2007.)*
+(3) An order to show cause is a determination that the petitioner has made a showing that they may be entitled to relief. It does not grant the relief sought in the petition.
+
+*(Subd (c) amended effective July 1, 2026; adopted January 1, 2002.; previously amended effective January 1, 2007; and September 1, 2024.)*
 
 **(d) Appointment of counsel**
 
-(1) On issuing an order to show cause, the court must appoint counsel for any unrepresented petitioner who desires but cannot afford counsel.
+(1) When a petition raises a claim under Penal Code section 745(a) and requests appointment of counsel, the court must appoint counsel if the petitioner cannot afford counsel and either:
 
-(2) When a petition raises a claim under Penal Code section 745(a) and requests appointment of counsel, the court must appoint counsel if the petitioner cannot afford counsel and either the petition alleges facts that would establish a violation of section 745(a) or the State Public Defender requests that counsel be appointed. Newly appointed counsel may amend a petition filed before their appointment.
+(A) The State Public Defender requests that counsel be appointed.; or
 
-*(Subd (d) adopted effective September 1, 2024.)*
+(B) The petition pleads a plausible allegation of a violation of section 745(a). This inquiry is limited to the facial sufficiency of the allegations of the petition alone.
+
+(2) Newly appointed counsel may amend a petition filed before their appointment.
+
+(3) On issuing an order to show cause, the court must appoint counsel for any unrepresented petitioner who desires but cannot afford counsel.
+
+*(Subd (d) amended effective July 1, 2026; adopted effective September 1, 2024.)*
 
 **(e) Return **
 
@@ -3303,15 +3305,17 @@ On motion of any party or on the court's own motion, for good cause stated in th
 
 (Subd (i) amended and relettered effective September 1, 2024; adopted as subd (f) effective January 1, 1982; previously amended and relettered as subd (h) effective January 1, 2002.)
 
-Rule 4.551 amended effective September 1, 2024; adopted as rule 260 effective January 1, 1982; previously renumbered as rule 4.500 effective January 1, 2001; previously amended and renumbered effective January 1, 2002; previously amended effective January 1, 2004, January 1, 2007, January 1, 2009, and January 22, 2019.
+*Rule 4.551 amended effective July 1, 2026; adopted as rule 260 effective January 1, 1982; previously renumbered as rule 4.500 effective January 1, 2001; previously amended and renumbered effective January 1, 2002; previously amended effective January 1, 2004, January 1, 2007, January 1, 2009, January 22, 2019, and September 1, 2024.*
 
 Advisory Committee Comment
 
-The court must appoint counsel on the issuance of an order to show cause. (*In re Clark *(1993) 5 Cal.4th 750, 780 and *People v. Shipman *(1965) 62 Cal.2d 226, 231-232.) The Court of Appeal has held that under Penal Code section 987.2, counties bear the expense of appointed counsel in a habeas corpus proceeding challenging the underlying conviction. (*Charlton v. Superior Court *(1979) 93 Cal.App.3d 858, 862.) Penal Code section 987.2 authorizes appointment of the public defender, or private counsel if there is no public defender available, for indigents in criminal proceedings.
-
-The issue of whether the prima facie showing for a petition for writ of habeas corpus under section 1473(e) is the same as in section 745(h)(2) or defined in subdivision (c)(1) of this rule (see *In re Marquez* (2007) 153 Cal.App.4th 1, 11) is unresolved.
+Except for claims raising a violation of Penal Code section 745(a) that are addressed in subdivision (d)(1), the court must appoint counsel on the issuance of an order to show cause. (*In re Clark* (1993) 5 Cal.4th 750, 780 and *People v. Shipman *(1965) 62 Cal.2d 226, 231–232.) The Court of Appeal has held that under Penal Code section 987.2, counties bear the expense of appointed counsel in a habeas corpus proceeding challenging the underlying conviction. (*Charlton v. Superior Court *(1979) 93 Cal.App.3d 858, 862.) Penal Code section 987.2 authorizes appointment of the public defender, or private counsel if there is no public defender available, for indigents in criminal proceedings.
 
 **Subdivision (a)(4) and (7).** The committee’s revisions reflect the language in section 1473(e) and are not intended to limit a court’s discretion and authority in habeas corpus proceedings that do not include claims under section 745.
+
+**Subdivision (b).** As in other cases, when considering a petition raising a claim under Penal Code section 745(a), the court may request an informal response from the state. In addition, for claims under Penal Code section 745(a), the court should consider simultaneously appointing counsel for an unrepresented petitioner under the standards of section 1473(e)(5).
+
+**Subdivision (d).** The standard set out in paragraph (1)(B) is to be construed as a minimal pleading requirement consistent with the Legislature’s statement of intent in Assembly Bill 1071 (Stats. 2025, ch. 721).
 
 <a id="rule-4-552"></a>
 #### Rule 4.552. Habeas corpus jurisdiction

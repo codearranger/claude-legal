@@ -2,7 +2,7 @@
 
 - Description: Dissolution / nullity / legal separation (Fam. Code §§ 2310-2403)
 - Source: https://leginfo.legislature.ca.gov/faces/codes.xhtml
-- Pulled: 2026-05-13
+- Pulled: 2026-07-01
 - Sections: 12
 
 > Verbatim text from the California Legislative Information website.
@@ -67,57 +67,7 @@ Source: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawC
 
 Source: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=2330.
 
-(a) A proceeding for dissolution of marriage or for legal separation of the parties is commenced by filing a petition or joint petition entitled “In re the marriage of ____ and ____,” which shall state whether it is a petition for dissolution of the marriage or for legal separation of the parties.
-
-(b) In a proceeding for dissolution of marriage or for legal separation of the parties, the petition shall set forth, among other matters, as nearly as can be ascertained, the following facts:
-
-(1) The date of marriage.
-
-(2) The date of separation.
-
-(3) The number of years from marriage to separation.
-
-(4) The number of children of the marriage, if any, and if none a statement of that fact.
-
-(5) The age and birth date of each minor child of the marriage.
-
-(c) In a joint petition proceeding for dissolution of marriage or for legal separation of the parties, the joint petition shall set forth, among other matters, as nearly as can be ascertained, the following facts:
-
-(1) The date of the marriage.
-
-(2) (A) If there are children of the marriage, all of the following information:
-
-(i) The number of children.
-
-(ii) The age of each child.
-
-(iii) The date of birth of each child.
-
-(B) If there are no children of the marriage, a statement of that fact.
-
-(3) (A) A list of issues upon which the parties intend to resolve by agreement, which may include, but is not limited to, the following:
-
-(i) The legal grounds for dissolution or legal separation.
-
-(ii) The date of separation.
-
-(iii) Child custody.
-
-(iv) Child support.
-
-(v) Spousal support or domestic partner support.
-
-(vi) Separate property.
-
-(vii) Community and quasi-community property.
-
-(viii) Restoration of former name.
-
-(ix) Attorney’s fees and costs.
-
-(B) The list of issues required by subparagraph (A) shall represent all of the matters at issue in the dissolution. If the parties have an issue that they do not intend to resolve by agreement, they shall file a petition pursuant to subdivision (b).
-
-*(Amended by Stats. 2024, Ch. 190, Sec. 1. (SB 1427) Effective January 1, 2025.)*
+> **Fetch failed:** URLError: <urlopen error timed out>
 
 <a id="sec-fam-2335"></a>
 ## Cal. Fam. Code § 2335 — Misnomer not a defense

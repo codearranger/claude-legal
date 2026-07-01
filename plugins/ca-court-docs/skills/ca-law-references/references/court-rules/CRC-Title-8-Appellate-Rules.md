@@ -2,7 +2,7 @@
 
 - Citation: Cal. Rules of Court, Appellate Rules
 - Source: https://courts.ca.gov/cms/rules/index/eight
-- Pulled: 2026-05-14
+- Pulled: 2026-07-01
 - Rules: 336
 
 > Verbatim rule text scraped from courts.ca.gov.
@@ -1783,7 +1783,7 @@ Source: https://courts.ca.gov/cms/rules/index/eight/rule8_74
 
 (4) *Protection of sensitive information*: Electronic filers must comply with rules 1.201, 8.45, 8.46, 8.47, and 8.401 regarding the protection of sensitive information, except for those requirements exclusively applicable to paper form.
 
-(5) *Size and multiple files*: An electronic filing may not be larger than 25 megabytes. This rule does not change the limitations on word count or number of pages otherwise established by the California Rules of Court for documents filed in the court. Although certain provisions in the California Rules of Court require volumes of no more than 300 pages (see, e.g., rules 8.124(d)(1), 8.144(b)(6), 8.144(g)), an electronic filing may exceed 300 pages so long as its individual components comply with the 300-page volume requirement and the electronic filing does not exceed 25 megabytes. If a document exceeds the 25-megabyte file-size limitation, the electronic filer must submit the document in more than one file, with each file 25 megabytes or less. The first file must include a master chronological and alphabetical index stating the contents for all files. Each file must have a cover page stating (a) the file number for that file and the total number of files for that document, (b) the volumes contained in that file, and (c) the page numbers contained in that file. (For example: File 2 of 4, Volumes 3-4, pp. 301-499.) In addition, each file must be paginated consecutively across all files in the document, including the cover pages for each file. (For example, if the first file ends on page 300, the cover of the second file must be page 301.) If a multiple-file document is submitted to the court in both electronic form and paper form, the cover pages for each file must be included in the paper documents.
+(5) *Size and multiple files*: An electronic filing may not be larger than 100 megabytes. This rule does not change the limitations on word count or number of pages otherwise established by the California Rules of Court for documents filed in the court. Although certain provisions in the California Rules of Court require volumes of no more than 300 pages (see, e.g., rules 8.124(d)(1), 8.144(b)(6), 8.144(g)), an electronic filing may exceed 300 pages so long as its individual components comply with the 300-page volume requirement and the electronic filing does not exceed 100 megabytes. If a document exceeds the 100-megabyte file-size limitation, the electronic filer must submit the document in more than one file, with each file 100 megabytes or less. The first file must include a master chronological and alphabetical index stating the contents for all files. Each file must have a cover page stating (a) the file number for that file and the total number of files for that document, (b) the volumes contained in that file, and (c) the page numbers contained in that file. (For example: File 2 of 4, Volumes 3–4, pp. 301–499.) In addition, each file must be paginated consecutively across all files in the document, including the cover pages for each file. (For example, if the first file ends on page 300, the cover of the second file must be page 301.) If a multiple-file document is submitted to the court in both electronic form and paper form, the cover pages for each file must be included in the paper documents.
 
 (6) *Manual Filing*:
 
@@ -1805,7 +1805,7 @@ Except as provided in (B), the cover-or first page, if there is no cover-of ever
 
 If more than one attorney from a law firm, corporation, or public law office is representing one party and is joining in the document, the name and State Bar number of each attorney joining in the electronic document must be provided on the cover. The law firm, corporation, or public law office representing each party must designate one attorney to receive notices and other communication in the case from the court by placing an asterisk before that attorney's name on the cover and must provide the contact information specified under (A) for that attorney. Contact information for the other attorneys from the same law firm, corporation, or public law office is not required but may be provided.
 
-(Subd (a) amended effective January 1, 2020; previously amended effective January 1, 2011.)
+*(Subd (a) amended effective July 1, 2026; previously amended effective January 1, 2011, and January 1, 2020.)*
 
 **(b) Additional formatting requirements applicable to documents prepared for electronic filing in the first instance in a reviewing court **
 
@@ -1853,7 +1853,7 @@ This rule prevails over other formatting rules.
 
 (Subd (d) adopted effective January 1, 2020.)
 
-Rule 8.74 amended effective January 1, 2020; adopted as rule 8.76 effective July 1, 2010; previously amended and renumbered effective January 1, 2017; previously amended effective January 1, 2011.
+*Rule 8.74 amended effective July 1, 2026; adopted as rule 8.76 effective July 1, 2010; previously amended and renumbered effective January 1, 2017; previously amended effective January 1, 2011, and January 1, 2020.*
 
 Advisory Committee Comment
 
@@ -5718,7 +5718,13 @@ Before ruling on the petition, the court may order the custodian of any relevant
 
 **(d) Order to show cause **
 
-If the petitioner has made the required prima facie showing that he or she is entitled to relief, the court must issue an order to show cause. An order to show cause does not grant the relief sought in the petition.
+(1) Except as provided in (2), if the petitioner has made the required prima facie showing that he or she is entitled to relief, the court must issue an order to show cause. In doing so, the court takes petitioner’s factual allegations as true and makes a preliminary assessment regarding whether the petitioner would be entitled to relief if the petitioner’s factual allegations were proved. If so, the court must issue an order to show cause.
+
+(2) When a petition raises a claim under section 745(a), the court must issue an order to show cause if the petitioner has made a prima facie showing, which means that the defendant has produced facts that, if true, establish that there is a substantial likelihood that a violation of section 745(a) occurred. A prima facie determination must be based on the petitioner’s showing and the record.
+
+(3) An order to show cause does not grant the relief sought in the petition.
+
+*(Subd (d) amended effective July 1, 2026.)*
 
 **(e) Return to the superior court **
 
@@ -5732,23 +5738,33 @@ If the return is ordered to be filed in the Supreme Court or the Court of Appeal
 
 **(g) Appointment of counsel**
 
-(1) If the return is ordered to be filed in the Supreme Court or the Court of Appeal, the court in which the return is ordered filed must appoint counsel for any unrepresented petitioner who desires but cannot afford counsel.
+(1) Except as provided in (2), if the return is ordered to be filed in the Supreme Court or the Court of Appeal, the court in which the return is ordered filed must appoint counsel for any unrepresented petitioner who desires but cannot afford counsel.
 
-(2) When a petition raises a claim under Penal Code section 745(a) and requests appointment of counsel, the court must appoint counsel if the petitioner cannot afford counsel and either the petition alleges facts that would establish a violation of section 745(a) or the State Public Defender requests that counsel be appointed. Newly appointed counsel may amend a petition filed before their appointment.
+(2) When a petition raises a claim under Penal Code section 745(a) and requests appointment of counsel, the court must appoint counsel if the petitioner cannot afford counsel and either:
 
-(Subd (g) was adopted effective September 1, 2024.)
+(A) The State Public Defender requests that counsel be appointed; or
 
-Rule 8.385 amended effective September 1, 2024; adopted effective January 1, 2009; previously amended effective January 1, 2012, January 1, 2014, and January 1, 2016.
+(B) The petition pleads a plausible allegation of a violation of section 745(a). This inquiry is limited to the facial sufficiency of the allegations of the petition alone.
+
+(3) Newly appointed counsel may amend a petition filed before their appointment.
+
+*(Subd (g) amended effective July 1, 2026; adopted September 1, 2024.)*
+
+*Rule 8.385 amended effective July 1, 2026; adopted effective January 1, 2009; previously amended effective January 1, 2012, January 1, 2014, January 1, 2016, and September 1, 2024.*
 
 Advisory Committee Comment
 
 **Subdivision (a). **Examples of confidential records include Penal Code section 1203.03 diagnostic reports, records closed to inspection by court order under *People v. Marsden *(1970) 2 Cal.3d 118 or *Pitchess v. Superior Court *(1974) 11 Cal.3d 531, in-camera proceedings on a confidential informant, and defense expert funding requests (Pen. Code, § 987.9; *Keenan v. Superior Court *(1982) 31 Cal.3d 424, 430).** **
+
+**Subdivision (b). **As in other cases, when considering a petition raising a claim under Penal Code section 745(a), the court may request an informal written response from the state. In addition, for claims under Penal Code section 745(a), the court should consider simultaneously appointing counsel for an unrepresented petitioner under the standards of section 1473(e)(5).
 
 **Subdivision (c). **Except for subdivision (c)(2), rule 8.385(c) restates former section 6.5 of the Standards of Judicial Administration. Subdivision (c)(2) is based on the California Supreme Court decision in *In re Roberts *(2005) 36 Cal.4th 575, which provides that petitions for writ of habeas corpus challenging denial or suitability for parole should first be adjudicated in the trial court that rendered the underlying judgment. The committee notes, however, that courts of appeal have original jurisdiction in writ proceedings and may, under appropriate circumstances, adjudicate a petition that challenges the denial or suitability of parole even if the petition was not first adjudicated by the trial court that rendered the underlying judgment. (*In re Kler *(2010) 188 Cal.App.4th 1399.) A court of appeal may, for example, adjudicate a petition that follows the court's prior reversal of a denial of parole by the Board of Parole Hearings where the issues presented by the petition directly flow from the court of appeal's prior decision and the limited hearing conducted. (*Id. *at 1404-05.)
 
 **Subdivision (d). **Case law establishes the specificity of the factual allegations and support for these allegations required in a petition for a writ of habeas corpus (see, e.g., *People v. Duvall *(1995) 9 Cal.4th 464, 474-475, and *Ex parte Swain *(1949) 34 Cal.2d 300, 303-304). A court evaluating whether a petition meeting these requirements makes a prima facie showing asks whether, assuming the petition's factual allegations are true, the petitioner would be entitled to relief (*People v. Duvall, *supra).
 
 Issuing an order to show cause is just one of the actions a court might take on a petition for a writ of habeas corpus. Examples of other actions that a court might take include denying the petition summarily, requesting an informal response from the respondent under (b), or denying the petition without prejudice under (c) because it is filed in an inappropriate court.
+
+**Subdivision (g).** The standard set out in paragraph (2)(B) is to be construed as a minimal pleading requirement consistent with the Legislature’s statement of intent in Assembly Bill 1071 (Stats. 2025, ch. 721).
 
 <a id="rule-8-386"></a>
 #### Rule 8.386. Proceedings if the return is ordered to be filed in the reviewing court

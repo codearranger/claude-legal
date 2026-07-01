@@ -2,7 +2,7 @@
 
 - Description: Damages framework (Civ. Code §§ 3274-3359)
 - Source: https://leginfo.legislature.ca.gov/faces/codes.xhtml
-- Pulled: 2026-05-13
+- Pulled: 2026-07-01
 - Sections: 18
 
 > Verbatim text from the California Legislative Information website.
@@ -34,9 +34,7 @@
 
 Source: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3274.
 
-As a general rule, compensation is the relief or remedy provided by the law of this State for the violation of private rights, and the means of securing their observance; and specific and preventive relief may be given in no other cases than those specified in this Part of the Civil Code.
-
-*(Enacted 1872.)*
+> **Fetch failed:** HTTPError: HTTP Error 403: Forbidden
 
 <a id="sec-civ-3281"></a>
 ## Cal. Civ. Code § 3281 — Damages defined
@@ -128,11 +126,7 @@ Source: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawC
 
 Source: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3300.
 
-**[3300.] **
-
-Section Thirty-three Hundred. For the breach of an obligation arising from contract, the measure of damages, except where otherwise expressly provided by this Code, is the amount which will compensate the party aggrieved for all the detriment proximately caused thereby, or which, in the ordinary course of things, would be likely to result therefrom.
-
-*(Amended by Code Amendments 1873-74, Ch. 612.)*
+> **Fetch failed:** HTTPError: HTTP Error 403: Forbidden
 
 <a id="sec-civ-3301"></a>
 ## Cal. Civ. Code § 3301 — Contract damages — certainty

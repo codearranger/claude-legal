@@ -2,7 +2,7 @@
 
 - Description: Contract formation (Civ. Code §§ 1549-1692)
 - Source: https://leginfo.legislature.ca.gov/faces/codes.xhtml
-- Pulled: 2026-05-13
+- Pulled: 2026-07-01
 - Sections: 23
 
 > Verbatim text from the California Legislative Information website.
