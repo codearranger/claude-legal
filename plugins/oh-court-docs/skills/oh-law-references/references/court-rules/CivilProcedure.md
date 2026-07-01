@@ -1,7 +1,7 @@
 # Ohio Rules of Civil Procedure (Civ. R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/civil/CivilProcedure.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;
@@ -14,9 +14,9 @@
        Title I SCOPE OF RULES-ONE FORM OF ACTION
 
 Rule
-1      Scope of rules: applicability; construction; exceptions
-1.1    Definitions
-2      One form of action
+1    Scope of rules: applicability; construction; exceptions
+1.1  Definitions
+2    One form of action
 
        Title II COMMENCEMENT OF ACTION AND VENUE; SERVICE OF
        PROCESS; SERVICE AND FILING OF PLEADINGS AND OTHER PAPERS
@@ -101,60 +101,93 @@ Rule
 52     Findings by the court
 53     Magistrates
 
-       Title VII JUDGMENT
+        Title VII JUDGMENT
 
 Rule
-54     Judgments; costs
-55     Default
-56     Summary judgment
-57     Declaratory judgments
-58     Entry of judgment
-59     New trials
-60     Relief from judgment or order
-61     Harmless error
-62     Stay of proceedings to enforce a judgment
-63     Disability of a judge
+54      Judgments; costs
+55      Default
+56      Summary judgment
+57      Declaratory judgments
+58      Entry of judgment
+59      New trials
+60      Relief from judgment or order
+61      Harmless error
+62      Stay of proceedings to enforce a judgment
+63      Disability of a judge
 
-       Title VIII PROVISIONAL AND FINAL REMEDIES
+        Title VIII PROVISIONAL AND FINAL REMEDIES
 
-64     Seizure of person or property
-65     Injunctions
-65.1   Civil Protection Orders
-66     Receivers
-67     [Reserved]
-68     Offer of judgment
-69     Execution
-70     Judgment for specific acts; vesting title
-71     Process in behalf of and against persons not parties
-72     [Reserved]
+64      Seizure of person or property
+65      Injunctions
+65.1    Civil Protection Orders
+65.2    Civil Protection Order Forms
+66      Receivers
+67      [Reserved]
+68      Offer of judgment
+69      Execution
+70      Judgment for specific acts; vesting title
+71      Process in behalf of and against persons not parties
+72      [Reserved]
 
-       Title IX PROBATE, JUVENILE, AND DOMESTIC RELATIONS
-             PROCEEDINGS
+        Title IX PROBATE, JUVENILE, AND DOMESTIC RELATIONS
+              PROCEEDINGS
 
-73     Probate division of the court of common pleas
-74     [Reserved]
-75     Divorce, annulment, and legal separation actions
-76     [Reserved]
-77     [Reserved]
-78     [Reserved]
-79     [Reserved]
-80     [Reserved]
-81     References to Ohio Revised Code
+73      Probate division of the court of common pleas
+73.1    Definitions
+73.10   Wills
+73.11   Application for letters of authority to administer estate and notice of appointment
+73.12   Appraisers
+73.13   Claims against estate
+73.14   Application to sell personal property
+73.15   Accounts
+73.16   Land sales – R.C. Chapter 2127
+73.17   Estates of minors of not more than twenty-five thousand dollars
+73.18   Settlement of injury claims of minors
+73.19   Settlement of claims of or against adult wards
+73.2    Standard probate forms
+73.20   Settlement of wrongful death and survival claims
+73.21   Counsel fees
 
-       Title X GENERAL PROVISIONS
+73.22 Executor’s and administrator’s commissions
+73.23 Guardian’s compensation
+73.24 Trustee’s compensation
+73.25 Local rules
+73.26 Exception to the rules
+73.27 Compliance
+73.28 Probate division of the court of common pleas – case management in decedent’s estates,
+      guardianship, and trusts
+73.29 Dispute resolution
+73.3 Specifications for printing probate forms
+73.4 Hours of the court
+73.5 Conduct in the court
+73.6 Examination of probate records
+73.7 Continuances
+73.8 Filing and judgment entries
+73.9 Deposit for court costs
+74    [Reserved]
+75    Divorce, annulment, and legal separation actions
+76    [Reserved]
+77    [Reserved]
+78    [Reserved]
+79    [Reserved]
+80    [Reserved]
+81    References to Ohio Revised Code
 
-82     Jurisdiction unaffected
-83     Local rules of practice
-84     Forms
-85     Title
+        Title X GENERAL PROVISIONS
 
+82      Jurisdiction unaffected
+83      Local rules of practice
+84      Forms
+85      Title
 Rule
-86     Effective date
+86      Effective date
 
-       APPENDIX OF FORMS
+        APPENDIX OF FORMS
 
-Forms 1-20    General Civil Forms
-Forms 1-32    Domestic Relations Forms
+Forms 1-20     General Civil Forms
+Forms 1-32     Domestic Relations Forms
+Forms 1-31     Civil Protection Order Forms
+Forms 1-45     Probate Forms
 
                 TITLE I.         SCOPE OF RULES—ONE FORM OF ACTION.
 
@@ -163,8 +196,8 @@ RULE 1.         Scope of Rules: Applicability; Construction; Exceptions.
 (A)     Applicability
 
         These rules prescribe the procedure to be followed in all courts of this state in the exercise
-        of civil jurisdiction at law or in equity, with the exceptions stated in division (C) of this
-        rule.
+        of civil jurisdiction at law or in equity, except as provided in Rule 1(C), Rule 73, and Rule
+        75.
 
 (B)     Construction
 
@@ -202,19 +235,19 @@ RULE 1.1.      Definitions.
 
 As used in these rules:
 
-(A)    “Appear,” “appearance,” or “in person” mean the physical or remote presence of an
-individual.
+       (A)     “Appear,” “appearance,” or “in person” mean the physical or remote presence of
+               an individual.
 
-(B)    “Attendance” means the physical or remote presence of an individual.
+       (B)     “Attendance” means the physical or remote presence of an individual.
 
-(C)      “Open court” includes a court proceeding open to the public in person or by remote access
-to the live proceeding.
+       (C)     “Open court” includes a court proceeding open to the public in person or by remote
+               access to the live proceeding.
 
-(D)    “Personally” means the physical or remote presence of an individual except as provided by
-Civ.R. 4.1 through 4.5 and Civ.R. 45.
+       (D)     “Personally” means the physical or remote presence of an individual except as
+               provided by Civ.R. 4.1 through 4.5 and Civ.R. 45.
 
-(E)     “Remote presence” means the presence of a person who is using live two-way video and
-audio technology.
+       (E)     “Remote presence” means the presence of a person who is using live two-way video
+               and audio technology.
 
 Effective Date: July 1, 2023
 
@@ -261,71 +294,76 @@ RULE 3.      Commencement of Action; Venue.
 
              (2)     The county in which the defendant has his or her principal place of business;
 
-             (3)    A county in which the defendant conducted activity that gave rise to the
-             claim for relief;
+             (3)     A county in which the defendant conducted activity that gave rise to the
+                     claim for relief;
 
-             (4)      A county in which a public officer maintains his or her principal office if
-             suit is brought against the officer in the officer’s official capacity;
+             (4)     A county in which a public officer maintains his or her principal office if
+                     suit is brought against the officer in the officer’s official capacity;
 
              (5)     A county in which the property, or any part of the property, is situated if the
-             subject of the action is real property or tangible personal property;
+                     subject of the action is real property or tangible personal property;
 
-             (6)     The county in which all or part of the claim for relief arose; or, if the claim
-             for relief arose upon a river, other watercourse, or a road, that is the boundary of
-             the state, or of two or more counties, in any county bordering on the river,
-             watercourse, or road, and opposite to the place where the claim for relief arose;
+            (6)    The county in which all or part of the claim for relief arose; or, if the claim
+                   for relief arose upon a river, other watercourse, or a road, that is the
+                   boundary of the state, or of two or more counties, in any county bordering
+                   on the river, watercourse, or road, and opposite to the place where the claim
+                   for relief arose;
 
-             (7)     In actions described in Civ.R. 4.3, in the county where plaintiff resides;
+            (7)    In actions described in Civ.R. 4.3, in the county where plaintiff resides;
 
-             (8)    In an action against an executor, administrator, guardian, or trustee, in the
-             county in which the executor, administrator, guardian, or trustee was appointed;
+            (8)    In an action against an executor, administrator, guardian, or trustee, in the
+                   county in which the executor, administrator, guardian, or trustee was
+                   appointed;
 
-             (9)    In actions for divorce, annulment, or legal separation, in the county in which
-             the plaintiff is and has been a resident for at least ninety days immediately
-             preceding the filing of the complaint;
+            (9)    In actions for divorce, annulment, or legal separation, in the county in which
+                   the plaintiff is and has been a resident for at least ninety days immediately
+                   preceding the filing of the complaint;
 
-             (10) In actions for a civil protection order, in the county in which the petitioner
-             currently or temporarily resides;
+            (10)   In actions for a civil protection order, in the county in which the petitioner
+                   currently or temporarily resides;
 
-             (11) In tort actions involving asbestos claims, silicosis claims, or mixed dust
-             disease claims, only in the county in which all of the exposed plaintiffs reside, a
-             county where all of the exposed plaintiffs were exposed to asbestos, silica, or mixed
-             dust, or the county in which the defendant has his or her principal place of business.
+            (11)   In tort actions involving asbestos claims, silicosis claims, or mixed dust
+                   disease claims, only in the county in which all of the exposed plaintiffs
+                   reside, a county where all of the exposed plaintiffs were exposed to
+                   asbestos, silica, or mixed dust, or the county in which the defendant has his
+                   or her principal place of business.
 
-             (12) If there is no available forum in divisions (C)(1) to (C)(10) of this rule, in
-             the county in which plaintiff resides, has his or her principal place of business, or
-             regularly and systematically conducts business activity;
+            (12)   If there is no available forum in divisions (C)(1) to (C)(10) of this rule, in
+                   the county in which plaintiff resides, has his or her principal place of
+                   business, or regularly and systematically conducts business activity;
 
-             (13)    If there is no available forum in divisions (C)(1) to (C)(11) of this rule:
+            (13)   If there is no available forum in divisions (C)(1) to (C)(11) of this rule:
 
-                     (a)    In a county in which defendant has property or debts owing to the
-                     defendant subject to attachment or garnishment;
+                           (a)    In a county in which defendant has property or debts owing
+                                  to the defendant subject to attachment or garnishment;
 
-                     (b)     In a county in which defendant has appointed an agent to receive
-                     service of process or in which an agent has been appointed by operation of
-                     law.
+                           (b)    In a county in which defendant has appointed an agent to
+                                  receive service of process or in which an agent has been
+                                  appointed by operation of law.
 
 (D)   Change of venue
 
-      (1)     When an action has been commenced in a county other than stated to be proper in
-      division (C) of this rule, upon timely assertion of the defense of improper venue as provided
-      in Civ.R. 12, the court shall transfer the action to a county stated to be proper in division
-      (C) of this rule.
+      (1)   When an action has been commenced in a county other than stated to be proper in
+            division (C) of this rule, upon timely assertion of the defense of improper venue as
+            provided in Civ.R. 12, the court shall transfer the action to a county stated to be
+            proper in division (C) of this rule.
 
       (2)     When an action is transferred to a county which is proper, the court may assess
-      costs, including reasonable attorney fees, to the time of transfer against the party who
-      commenced the action in a county other than stated to be proper in division (C) of this rule.
+              costs, including reasonable attorney fees, to the time of transfer against the party
+              who commenced the action in a county other than stated to be proper in division
+              (C) of this rule.
 
       (3)     Before entering a default judgment in an action in which the defendant has not
-      appeared, the court, if it finds that the action has been commenced in a county other than
-      stated to be proper in division (C) of this rule, may transfer the action to a county that is
-      proper. The clerk of the court to which the action is transferred shall notify the defendant
-      of the transfer, stating in the notice that the defendant shall have twenty-eight days from
-      the receipt of the notice to answer in the transferred action.
+              appeared, the court, if it finds that the action has been commenced in a county other
+              than stated to be proper in division (C) of this rule, may transfer the action to a
+              county that is proper. The clerk of the court to which the action is transferred shall
+              notify the defendant of the transfer, stating in the notice that the defendant shall
+              have twenty-eight days from the receipt of the notice to answer in the transferred
+              action.
 
       (4)     Upon motion of any party or upon its own motion the court may transfer any action
-      to an adjoining county within this state when it appears that a fair and impartial trial cannot
-      be had in the county in which the suit is pending.
+              to an adjoining county within this state when it appears that a fair and impartial trial
+              cannot be had in the county in which the suit is pending.
 
 (E)   Venue: no proper forum in Ohio
 
@@ -360,49 +398,51 @@ RULE 3.      Commencement of Action; Venue.
 (G)   Venue: notice of pending litigation; transfer of judgments
 
       (1)    When an action affecting the title to or possession of real property or tangible
-      personal property is commenced in a county other than the county in which all of the real
-      property or tangible personal property is situated, the plaintiff shall cause a certified copy
+             personal property is commenced in a county other than the county in which all of
+             the real property or tangible personal property is situated, the plaintiff shall cause a
+             certified copy of the complaint to be filed with the clerk of the court of common
+             pleas in each county or additional county in which the real property or tangible
+             personal property affected by the action is situated. If the plaintiff fails to file a
+             certified copy of the complaint, third persons will not be charged with notice of the
+             pendency of the action.
 
-of the complaint to be filed with the clerk of the court of common pleas in each county or
-additional county in which the real property or tangible personal property affected by the
-action is situated. If the plaintiff fails to file a certified copy of the complaint, third persons
-will not be charged with notice of the pendency of the action.
+             To the extent authorized by the laws of the United States, division (G)(1) of this
+             rule also applies to actions, other than proceedings in bankruptcy, affecting title to
+             or possession of real property in this state commenced in a United States District
+             Court whenever the real property is situated wholly or partly in a county other than
+             the county in which the permanent records of the court are kept.
 
-To the extent authorized by the laws of the United States, division (G)(1) of this rule also
-applies to actions, other than proceedings in bankruptcy, affecting title to or possession of
-real property in this state commenced in a United States District Court whenever the real
-property is situated wholly or partly in a county other than the county in which the
-permanent records of the court are kept.
+      (2)    After final judgment, or upon dismissal of the action, the clerk of the court that
+             issued the judgment shall transmit a certified copy of the judgment or dismissal to
+             the clerk of the court of common pleas in each county or additional county in which
+             real or tangible personal property affected by the action is situated.
 
-(2)     After final judgment, or upon dismissal of the action, the clerk of the court that
-issued the judgment shall transmit a certified copy of the judgment or dismissal to the clerk
-of the court of common pleas in each county or additional county in which real or tangible
-personal property affected by the action is situated.
+      (3)    When the clerk has transmitted a certified copy of the judgment to another county
+             in accordance with division (G)(2) of this rule, and the judgment is later appealed,
+             vacated, or modified, the appellant or the party at whose instance the judgment was
+             vacated or modified must cause a certified copy of the notice of appeal or order of
+             vacation or modification to be filed with the clerk of the court of common pleas of
+             each county or additional county in which the real property or tangible personal
+             property is situated. Unless a certified copy of the notice of appeal or order of
+             vacation or modification is so filed, third persons will not be charged with notice
+             of the appeal, vacation, or modification.
 
-(3)      When the clerk has transmitted a certified copy of the judgment to another county
-in accordance with division (G)(2) of this rule, and the judgment is later appealed, vacated,
-or modified, the appellant or the party at whose instance the judgment was vacated or
-modified must cause a certified copy of the notice of appeal or order of vacation or
-modification to be filed with the clerk of the court of common pleas of each county or
-additional county in which the real property or tangible personal property is situated.
-Unless a certified copy of the notice of appeal or order of vacation or modification is so
-filed, third persons will not be charged with notice of the appeal, vacation, or modification.
+      (4)    The clerk of the court receiving a certified copy filed or transmitted in accordance
+             with the provisions of division (G) of this rule shall number, index, docket, and file
+             it in the records of the receiving court. The clerk shall index the first certified copy
+             received in connection with a particular action in the indices to the records of
+             actions commenced in the clerk’s own court, but may number, docket, and file it in
+             either the regular records of the court or in a separate set of records. When the clerk
+             subsequently receives a certified copy in connection with that same action, the clerk
+             need not index it, but shall docket and file it in the same set of records under the
+             same case number previously assigned to the action.
 
-(4)      The clerk of the court receiving a certified copy filed or transmitted in accordance
-with the provisions of division (G) of this rule shall number, index, docket, and file it in
-the records of the receiving court. The clerk shall index the first certified copy received in
-connection with a particular action in the indices to the records of actions commenced in
-the clerk’s own court, but may number, docket, and file it in either the regular records of
-the court or in a separate set of records. When the clerk subsequently receives a certified
-copy in connection with that same action, the clerk need not index it, but shall docket and
-file it in the same set of records under the same case number previously assigned to the
-action.
+      (5)    When an action affecting title to registered land is commenced in a county other
+             than the county in which all of such land is situated, any certified copy required or
+             permitted by this division (G) of this rule shall be filed with or transmitted to the
 
-(5)    When an action affecting title to registered land is commenced in a county other
-than the county in which all of such land is situated, any certified copy required or
-permitted by this division (G) of this rule shall be filed with or transmitted to the county
-recorder, rather than the clerk of the court of common pleas, of each county or additional
-county in which the land is situated.
+                county recorder, rather than the clerk of the court of common pleas, of each county
+                or additional county in which the land is situated.
 
 (H)     Venue: collateral attack; appeal
 
@@ -415,17 +455,17 @@ county in which the land is situated.
 
         As used in division (C)(11) of this rule:
 
-                (1)   “Asbestos claim” has the same meaning as in section 2307.91 of the Revised
-                Code;
+                (1)      “Asbestos claim” has the same meaning as in section 2307.91 of the Revised
+                         Code;
 
-                (2)     “Silicosis claim” and “mixed dust disease claim” have the same meaning as
-                in section 2307.84 of the Revised Code;
+                (2)      “Silicosis claim” and “mixed dust disease claim” have the same meaning as
+                         in section 2307.84 of the Revised Code;
 
-                (3)     In reference to an asbestos claim, “tort action” has the same meaning as in
-                section 2307.91 of the Revised Code;
+                (3)      In reference to an asbestos claim, “tort action” has the same meaning as in
+                         section 2307.91 of the Revised Code;
 
-                (4)     In reference to a silicosis claim or a mixed dust disease claim, “tort action”
-                has the same meaning as in section 2307.84 of the Revised Code.
+                (4)      In reference to a silicosis claim or a mixed dust disease claim, “tort action”
+                         has the same meaning as in section 2307.84 of the Revised Code.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1971; July 1, 1986; July 1, 1991; July 1, 1998; July 1, 2005; July 1, 2018
@@ -451,7 +491,7 @@ Cty. (1987), 34 Ohio St. 3d 15, 17, 516 N.E. 2d 232 (“the term, ‘resides,’
 ought to be ‘liberally construed and not confused with [the] requirements for domicile.’”(quoting McCormac,
 Ohio Civil Rules Practice). The respondent remains free to challenge venue under Civ.R. 3(D).
 
-        Nonsubstantive grammatical revisions were also made to this division.
+           Nonsubstantive grammatical revisions were also made to this division.
 
 Rule 3(C)          Change of venue
 
@@ -483,14 +523,14 @@ in which the defendant has his or her principal place of business.
            Existing divisions (B)(11) and (12) have been renumbered to reflect the addition of new division
 (B)(11).
 
-Rule 3(H)         Definitions
+Rule 3(H)          Definitions
 
         Division (H) is added to reference the statutory definitions of “asbestos claim,” “silicosis claim,”
 “mixed dust disease claim,” and “tort action” for purposes of Civ.R. 3(B)(11).
 
                                    Staff Note (July 1, 2018 Amendment)
 
-New Division (B)          Limited appearance by attorney
+New Division (B)           Limited appearance by attorney
 
 This and other July 1, 2018 amendments to the Ohio Rules of Civil Procedure encourage attorneys to assist
 pro se parties on a limited basis without undertaking the full representation of the client on all issues related
@@ -508,7 +548,6 @@ proper Notice of Completion of Limited Appearance in accordance with Civ.R. 5.
 The benefits of division (B) are obtained only by filing a notice of limited appearance identified as such.
 The notice of limited appearance must clearly describe the scope of the limited representation and state
 that the limitation of appearance has been authorized by the party for whom the appearance is made. It is
-
 intended that any doubt about the scope of the limited representation be resolved in a manner that promotes
 the interests of justice and those of the client and opposing party.
 
@@ -658,51 +697,54 @@ described in Civ.R. 4.3 and 4.5. Provisions for waiver of service are described 
                        the fact and method of notification on the appearance docket. The clerk
                        shall file the return receipt or returned envelope in the records of the action.
 
-             (3)     Costs
+             (3)    Costs
 
-                     All postage and commercial carrier service fees shall be charged to costs.
-                     If the parties to be served are numerous and the clerk determines there is
-                     insufficient security for costs, the clerk may require the party requesting
-                     service to advance an amount estimated by the clerk to be sufficient to pay
-                     the costs of delivery.
+                    All postage and commercial carrier service fees shall be charged to costs.
+                    If the parties to be served are numerous and the clerk determines there is
+                    insufficient security for costs, the clerk may require the party requesting
+                    service to advance an amount estimated by the clerk to be sufficient to pay
+                    the costs of delivery.
 
 (B)   Personal service
 
       When the plaintiff files a written request with the clerk for personal service, service of
       process shall be made by that method.
 
-             (1)     Civil process server; general
+             (1)    Civil process server; general
 
-                     When process issued from the Supreme Court, a court of appeals, a court of
-                     common pleas, or a county court is to be served personally under this
-                     division, the clerk of the court shall deliver the process and sufficient copies
-                     of the process and complaint, or other document to be served, to the sheriff
-                     of the county in which the party to be served resides or may be found. When
-                     process issues from the municipal court, delivery shall be to the bailiff of
-                     the court for service on all defendants who reside or may be found within
-                     the county or counties in which that court has territorial jurisdiction and to
-                     the sheriff of any other county in this state for service upon a defendant who
-                     resides in or may be found in that other county. In the alternative, process
-                     issuing from any of these courts may be delivered by the clerk to a person
-                     designated by court order to serve civil process under division (E) of this
-                     rule.
+                    When process issued from the Supreme Court, a court of appeals, a court of
+                    common pleas, or a county court is to be served personally under this
+                    division, the clerk of the court shall deliver the process and sufficient copies
+                    of the process and complaint, or other document to be served, to the sheriff
+                    of the county in which the party to be served resides or may be found. When
+                    process issues from the municipal court, delivery shall be to the bailiff of
+                    the court for service on all defendants who reside or may be found within
+                    the county or counties in which that court has territorial jurisdiction and to
+                    the sheriff of any other county in this state for service upon a defendant who
+                    resides in or may be found in that other county. In the alternative, process
+                    issuing from any of these courts may be delivered by the clerk to a person
+                    designated by court order to serve civil process under division (E) of this
+                    rule.
 
-             (2)     Civil process server; procedure
+             (2)    Civil process server; procedure
 
-                     (a)     The person serving process shall locate the person to be served and
-                     shall tender a copy of the process and accompanying documents to the
-                     person to be served. When the copy of the process has been served, the
-                     person serving process shall endorse that fact on the process and return it to
-                     the clerk, who shall make the appropriate entry on the appearance docket.
+                    (a)     The person serving process shall locate the person to be served and
+                            shall tender a copy of the process and accompanying documents to
+                            the person to be served. When the copy of the process has been
+                            served, the person serving process shall endorse that fact on the
+                            process and return it to the clerk, who shall make the appropriate
+                            entry on the appearance docket.
 
-                     (b)     When the person serving process is unable to serve a copy of the
-                     process within twenty-eight days, the person shall endorse that fact and the
-                     reasons therefor on the process and return the process and copies to the clerk
-                     who shall make the appropriate entry on the appearance docket. In the event
-                     of failure of service, the clerk shall follow the notification procedure set
-                     forth in division (A)(2) of this rule. Failure to make service within the
-                     twenty-eight-day period and failure to make proof of service do not affect
-                     the validity of the service.
+                    (b)     When the person serving process is unable to serve a copy of the
+                            process within twenty-eight days, the person shall endorse that fact
+                            and the reasons therefor on the process and return the process and
+                            copies to the clerk who shall make the appropriate entry on the
+                            appearance docket. In the event of failure of service, the clerk shall
+                            follow the notification procedure set forth in division (A)(2) of this
+                            rule. Failure to make service within the twenty-eight-day period and
+
+                             failure to make proof of service do not affect the validity of the
+                             service.
 
 (C)   Residence service
 
@@ -724,22 +766,22 @@ described in Civ.R. 4.3 and 4.5. Provisions for waiver of service are described 
 
              (2)     Civil process server; procedure
 
-                     (a)    The person serving process shall effect service by leaving a copy of
-                     the process and the complaint, or other document to be served, at the usual
-                     place of residence of the person to be served with some person of suitable
-                     age and discretion then residing therein. When the copy of the process has
-                     been served, the person serving process shall endorse that fact on the
-                     process and return it to the clerk, who shall make the appropriate entry on
-                     the appearance docket.
+                     (a)     The person serving process shall effect service by leaving a copy of
+                             the process and the complaint, or other document to be served, at the
+                             usual place of residence of the person to be served with some person
+                             of suitable age and discretion then residing therein. When the copy
+                             of the process has been served, the person serving process shall
+                             endorse that fact on the process and return it to the clerk, who shall
+                             make the appropriate entry on the appearance docket.
 
                      (b)     When the person serving process is unable to serve a copy of the
-                     process within twenty-eight days, the person shall endorse that fact and the
-                     reasons therefor on the process, and return the process and copies to the
-                     clerk, who shall make the appropriate entry on the appearance docket. In
-                     the event of failure of service, the clerk shall follow the notification
-                     procedure set forth in division (A)(2) of this rule. Failure to make service
-                     within the twenty-eight-day period and failure to make proof of service do
-                     not affect the validity of service.
+                             process within twenty-eight days, the person shall endorse that fact
+                             and the reasons therefor on the process, and return the process and
+                             copies to the clerk, who shall make the appropriate entry on the
+                             appearance docket. In the event of failure of service, the clerk shall
+                             follow the notification procedure set forth in division (A)(2) of this
+                             rule. Failure to make service within the twenty-eight-day period and
+                             failure to make proof of service do not affect the validity of service.
 
 (D)   Civil process server; applicant requirements
 
@@ -747,19 +789,19 @@ described in Civ.R. 4.3 and 4.5. Provisions for waiver of service are described 
       (C) of this rule, an applicant shall certify the applicant satisfies each of the following
       requirements:
 
-             (1)     Not less than eighteen years of age;
+                (1)      Not less than eighteen years of age;
 
-                (2)     Not a party to the proceeding, related to a party to the proceeding, or having
-                a financial interest in the outcome of the proceeding;
+                (2)      Not a party to the proceeding, related to a party to the proceeding, or having
+                         a financial interest in the outcome of the proceeding;
 
                 (3)      A United States citizen or a legal resident of the United States;
 
-                (4)     Hold a valid government-issued identification card, passport, or driver’s
-                license;
+                (4)      Hold a valid government-issued identification card, passport, or driver’s
+                         license;
 
-                (5)     Not convicted in the last ten years of any felony, offense of violence, or
-                offense involving dishonesty or false statement, and not currently under community
-                control sanctions, probation, post-release control, or parole;
+                (5)      Not convicted in the last ten years of any felony, offense of violence, or
+                         offense involving dishonesty or false statement, and not currently under
+                         community control sanctions, probation, post-release control, or parole;
 
                 (6)      Not currently a respondent under any civil protection order;
 
@@ -834,97 +876,102 @@ RULE 4.2.     Process: Who May be Served.
 Service of process pursuant to Civ.R. 4 through Civ.R. 4.6, except service by publication as
 provided in Civ.R. 4.4(A), shall be made as follows:
 
-       (A)   Upon an individual, other than a person under sixteen years of age or an
-       incompetent person, by serving the individual;
+       (A)    Upon an individual, other than a person under sixteen years of age or an
+              incompetent person, by serving the individual;
 
-       (B)     Upon a person under sixteen years of age by serving either the person’s guardian
-       or any one of the following persons with whom the person to be served lives or resides: a
-       parent or the individual having the care of the person; or by serving the person if the person
-       neither has a guardian nor lives or resides with a parent or a person having his or her care;
+       (B)    Upon a person under sixteen years of age by serving either the person’s guardian
+              or any one of the following persons with whom the person to be served lives or
+              resides: a parent or the individual having the care of the person; or by serving the
+              person if the person neither has a guardian nor lives or resides with a parent or a
+              person having his or her care;
 
-       (C)     Upon an incompetent person by serving either the incompetent's guardian or the
-       person designated in division (E) of this rule, but if no guardian has been appointed and
-       the incompetent is not under confinement or commitment, by serving the incompetent;
+       (C)    Upon an incompetent person by serving either the incompetent's guardian or the
+              person designated in division (E) of this rule, but if no guardian has been appointed
+              and the incompetent is not under confinement or commitment, by serving the
+              incompetent;
 
-       (D)     Upon an individual confined to a penal institution of this state or of a subdivision
-       of this state by serving the individual, except that when the individual to be served is a
-       person under sixteen years of age, the provisions of division (B) of this rule shall be
-       applicable;
+       (D)    Upon an individual confined to a penal institution of this state or of a subdivision
+              of this state by serving the individual, except that when the individual to be served
+              is a person under sixteen years of age, the provisions of division (B) of this rule
+              shall be applicable;
 
        (E)    Upon an incompetent person who is confined in any institution for the mentally ill
-       or mentally deficient or committed by order of court to the custody of some other institution
-       or person by serving the superintendent or similar official of the institution to which the
-       incompetent is confined or committed or the person to whose custody the incompetent is
-       committed;
+              or mentally deficient or committed by order of court to the custody of some other
+              institution or person by serving the superintendent or similar official of the
+              institution to which the incompetent is confined or committed or the person to
+              whose custody the incompetent is committed;
 
-       (F)      Upon a corporation either domestic or foreign: by serving the agent authorized by
-       appointment or by law to receive service of process; or by serving the corporation at any
-       of its usual places of business by a method authorized under Civ.R. 4.1(A)(1); or by serving
-       an officer or a managing or general agent of the corporation;
+       (F)    Upon a corporation either domestic or foreign: by serving the agent authorized by
+              appointment or by law to receive service of process; or by serving the corporation
+              at any of its usual places of business by a method authorized under Civ.R.
+              4.1(A)(1); or by serving an officer or a managing or general agent of the
+              corporation;
 
-       (G)      Upon a limited liability company by serving the agent authorized by appointment
-       or by law to receive service of process; or by serving the limited liability company at any
-       of its usual places of business by a method authorized under Civ.R. 4.1(A)(1); or by serving
-       a manager or member;
+       (G)    Upon a limited liability company by serving the agent authorized by appointment
+              or by law to receive service of process; or by serving the limited liability company
+              at any of its usual places of business by a method authorized under Civ.R.
+              4.1(A)(1); or by serving a manager or member;
 
        (H)    Upon a partnership, a limited partnership, or a limited partnership association by
-       serving the entity at any of its usual places of business by a method authorized under Civ.R.
-       4.1(A)(1) or by serving a partner, limited partner, manager, or member;
+              serving the entity at any of its usual places of business by a method authorized
+              under Civ.R. 4.1(A)(1) or by serving a partner, limited partner, manager, or
+              member;
 
-       (I)     Upon an unincorporated association by serving it in its entity name at any of its
-       usual places of business by a method authorized under Civ.R. 4.1(A)(1); or by serving an
-       officer of the unincorporated association;
+       (I)    Upon an unincorporated association by serving it in its entity name at any of its
+              usual places of business by a method authorized under Civ.R. 4.1(A)(1); or by
+              serving an officer of the unincorporated association;
 
-        (J)     Upon a professional association by serving the association in its corporate name at
-        the place where the corporate offices are maintained by a method authorized under Civ.R.
-        4.1(A)(1); or by serving a shareholder;
+       (J)    Upon a professional association by serving the association in its corporate name at
+              the place where the corporate offices are maintained by a method authorized under
+              Civ.R. 4.1(A)(1); or by serving a shareholder;
 
-        (K)      Upon this state or any one of its departments, offices and institutions as defined in
-        division (C) of section 121.01 of the Revised Code, by serving the officer responsible for
-        the administration of the department, office or institution or by serving the attorney general
-        of this state;
+       (K)    Upon this state or any one of its departments, offices and institutions as defined in
+              division (C) of section 121.01 of the Revised Code, by serving the officer
+              responsible for the administration of the department, office or institution or by
+              serving the attorney general of this state;
 
-        (L)      Upon a county or upon any of its offices, agencies, districts, departments,
-        institutions or administrative units, by serving the officer responsible for the administration
-        of the office, agency, district, department, institution or unit or by serving the prosecuting
-        attorney of the county;
+       (L)    Upon a county or upon any of its offices, agencies, districts, departments,
+              institutions or administrative units, by serving the officer responsible for the
+              administration of the office, agency, district, department, institution or unit or by
+              serving the prosecuting attorney of the county;
 
-        (M) Upon a township by serving one or more of the township trustees or the township
-        clerk or by serving the prosecuting attorney of the county in which the township is located,
-        unless the township is organized under Chapter 504. of the Revised Code, in which case
-        service may be made upon the township law director;
+       (M)    Upon a township by serving one or more of the township trustees or the township
+              clerk or by serving the prosecuting attorney of the county in which the township is
+              located, unless the township is organized under Chapter 504. of the Revised Code,
+              in which case service may be made upon the township law director;
 
-        (N)     Upon a municipal corporation or upon any of its offices, departments, agencies,
-        authorities, institutions or administrative units by serving the officer responsible for the
-        administration of the office, department, agency, authority, institution or unit or by serving
-        the city solicitor or comparable legal officer;
+       (N)    Upon a municipal corporation or upon any of its offices, departments, agencies,
+              authorities, institutions or administrative units by serving the officer responsible for
+              the administration of the office, department, agency, authority, institution or unit or
+              by serving the city solicitor or comparable legal officer;
 
-        (O)     Upon any governmental entity not mentioned above by serving the person, officer,
-        group or body responsible for the administration of that entity or by serving the appropriate
-        legal officer, if any, representing the entity. Service upon any person who is a member of
-        the "group" or "body" responsible for the administration of the entity shall be sufficient.
+       (O)    Upon any governmental entity not mentioned above by serving the person, officer,
+              group or body responsible for the administration of that entity or by serving the
+              appropriate legal officer, if any, representing the entity. Service upon any person
+              who is a member of the "group" or "body" responsible for the administration of the
+              entity shall be sufficient.
 
-        Service of process pursuant to Civ.R. 4 through 4.6, except service by publication as
-        provided in Civ.R. 4.4(A), may be made upon an address confidentiality “program
-        participant,” as defined by R.C. 111.41(G), by serving the Secretary of State.
+              Service of process pursuant to Civ.R. 4 through 4.6, except service by publication
+              as provided in Civ.R. 4.4(A), may be made upon an address confidentiality
+              “program participant,” as defined by R.C. 111.41(G), by serving the Secretary of
+              State.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1971; July 1, 1996; July 1, 1997; July 1, 2009; July 1, 2012; July 1, 2016; July
 1, 2017
 
-                                 Staff Note (July 1, 1996 Amendment)
+                                  Staff Note (July 1, 1996 Amendment)
 
 Rule 4.2        Process: who may be served
 
-        In 1991, the General Assembly enacted Chapter 504 of the Ohio Revised Code to give townships
+         In 1991, the General Assembly enacted Chapter 504 of the Ohio Revised Code to give townships
 an option to organize the “limited self-government form” of government. Townships electing this form of
 government are required by law to appoint a law director who “shall be the legal advisor to the board of
 township trustees ... and all other township officers.” R.C. 504.15. Upon attaining Chapter 504 status,
 then, the prosecuting attorney of the county in which the township is located no longer serves as the “legal
 advisor” of the township. The amendment recognizes this statutory development and should facilitate
 service of process in actions against Chapter 504 townships.
-
-                                  Staff Note (July 1, 1997 Amendment)
+                                   Staff Note (July 1, 1997 Amendment)
 
 Rule 4.2        Process: who may be served
 
@@ -983,39 +1030,41 @@ RULE 4.3.    Process: Out-of-State Service.
              (2)     Contracting to supply services or goods in this state;
 
              (3)     Causing tortious injury by an act or omission in this state, including, but not
-             limited to, actions arising out of the ownership, operation, or use of a motor vehicle
-             or aircraft in this state;
+                     limited to, actions arising out of the ownership, operation, or use of a motor
+                     vehicle or aircraft in this state;
 
              (4)     Causing tortious injury in this state by an act or omission outside this state
-             if the person regularly does or solicits business, engages in any other persistent
-             course of conduct, or derives substantial revenue from goods used or consumed or
-             services rendered in this state;
+                     if the person regularly does or solicits business, engages in any other
+                     persistent course of conduct, or derives substantial revenue from goods used
+                     or consumed or services rendered in this state;
 
-             (5)    Causing injury in this state to any person by breach of warranty expressly
-             or impliedly made in the sale of goods outside this state when the person to be
-             served might reasonably have expected the person who was injured to use,
-             consume, or be affected by the goods in this state, provided that the person to be
-             served also regularly does or solicits business, engages in any other persistent
-             course of conduct, or derives substantial revenue from goods used or consumed or
-             services rendered in this state;
+             (5)     Causing injury in this state to any person by breach of warranty expressly
+                     or impliedly made in the sale of goods outside this state when the person to
+                     be served might reasonably have expected the person who was injured to
+                     use, consume, or be affected by the goods in this state, provided that the
+                     person to be served also regularly does or solicits business, engages in any
+                     other persistent course of conduct, or derives substantial revenue from
+                     goods used or consumed or services rendered in this state;
 
              (6)     Having an interest in, using, or possessing real property in this state;
 
-             (7)      Contracting to insure any person, property, or risk located within this state
-             at the time of contracting;
+             (7)     Contracting to insure any person, property, or risk located within this state
+                     at the time of contracting;
 
              (8)     Living in the marital relationship within this state notwithstanding
-             subsequent departure from this state, as to all obligations arising for spousal
-             support, custody, child support, or property settlement, if the other party to the
-             marital relationship continues to reside in this state;
+                     subsequent departure from this state, as to all obligations arising for spousal
+                     support, custody, child support, or property settlement, if the other party to
+                     the marital relationship continues to reside in this state;
 
-             (9)    Causing tortious injury in this state to any person by an act outside this state
-             committed with the purpose of injuring persons, when the person to be served might
-             reasonably have expected that some person would be injured by the act in this state;
+             (9)     Causing tortious injury in this state to any person by an act outside this state
+                     committed with the purpose of injuring persons, when the person to be
 
-                (10) Causing tortious injury to any person by a criminal act, any element of
-                which takes place in this state, that the person to be served commits or in the
-                commission of which the person to be served is guilty of complicity.
+                         served might reasonably have expected that some person would be injured
+                         by the act in this state;
+
+                (10)     Causing tortious injury to any person by a criminal act, any element of
+                         which takes place in this state, that the person to be served commits or in
+                         the commission of which the person to be served is guilty of complicity.
 
 (B)     Methods of service
 
@@ -1056,12 +1105,11 @@ option for service.
 
         Other amendments to this rule are nonsubstantive grammatical or stylistic changes.
 
-                                  Staff Note (July 1, 2012 Amendment)
+                                   Staff Note (July 1, 2012 Amendment)
 
         Rule 4.3(B) is amended to incorporate, rather than restate, the provisions of amended Civ.R.
 4.1(A)(1) through Civ.R. 4.1(A)(3) for service by the clerk. The substantive changes (1) permit the clerk to
 make service of process outside the state using a commercial carrier service to make delivery by any
-
 method requiring a signed receipt and (2) make clear that the method of service of process permitted to be
 made by a person designated by the court is limited to personal service.
 
@@ -1125,13 +1173,13 @@ RULE 4.4.   Process: Service by Publication.
                     to the care, custody, and control of children whose parents are not married,
                     and in all post-decree proceedings:
 
-             (i)   If the residence of the party upon whom service is sought is
-             unknown; and,
+             (i)     If the residence of the party upon whom service is sought is
+                     unknown; and,
 
              (ii)    if the matter is not governed by Civ.R. 65.1; and,
 
-             (iii) If the party requesting service upon another party is
-             proceeding with a poverty affidavit;
+             (iii)   If the party requesting service upon another party is
+                     proceeding with a poverty affidavit;
 
       service by publication shall be made by posting and mail. Before service by
       posting and mail can be made under this division (A)(2)(a), an affidavit of
@@ -1205,7 +1253,7 @@ RULE 4.4.   Process: Service by Publication.
               (2)     Civ.R. 4.3(B) if party to be served is not a resident of this state, or
 
               (3)     Civ.R. 4.5, in the alternative, if service on party to be served is to be effected
-              in a foreign country.
+                      in a foreign country.
 
        If service of process cannot be effected under the provisions of this subdivision or Civ.R.
        4.6(C) or Civ.R. 4.6(D), service of process shall proceed by publication.
@@ -1361,23 +1409,23 @@ provided in this rule.
               In all cases to which division (A) does not apply, service may be made in a manner
               provided by Civ.R. 4.3(B)(1) or, if applicable, Civ.R. 4.4, and may also be made:
 
-                      (1)     In the manner prescribed by the law of the foreign country for
-                      service in that country in an action in any of its courts of general jurisdiction
-                      when service is calculated to give actual notice;
+                      (1)    In the manner prescribed by the law of the foreign country for
+                             service in that country in an action in any of its courts of general
+                             jurisdiction when service is calculated to give actual notice;
 
-                      (2)   As directed by the foreign authority in response to a letter rogatory
-                      when service is calculated to give actual notice;
+                      (2)    As directed by the foreign authority in response to a letter rogatory
+                             when service is calculated to give actual notice;
 
-                      (3)     Upon an individual by delivery to him or her personally;
+                      (3)    Upon an individual by delivery to him or her personally;
 
-                      (4)     Upon a corporation or partnership or association by delivery to an
-                      officer, a managing or general agent;
+                      (4)    Upon a corporation or partnership or association by delivery to an
+                             officer, a managing or general agent;
 
-                      (5)     By any form of delivery requiring a signed receipt, when the clerk
-                      of the court addresses the delivery to the party to be served and delivers the
-                      summons to the person who will make the service;
+                      (5)    By any form of delivery requiring a signed receipt, when the clerk
+                             of the court addresses the delivery to the party to be served and
+                             delivers the summons to the person who will make the service;
 
-                      (6)     As directed by order of the court.
+                      (6)    As directed by order of the court.
 
               Service under division (B)(3) or (B)(6) of this rule may be made by any person not
               less than eighteen years of age who is not a party and who has been designated by
@@ -1527,17 +1575,17 @@ RULE 4.7.    Process: Waiving Service.
 
              (2)     Name the court where the complaint was filed;
 
-             (3)   Be accompanied by a copy of the complaint, two copies of the waiver form
-             appended to this Rule 4.7, and a prepaid means for returning the form;
+             (3)     Be accompanied by a copy of the complaint, two copies of the waiver form
+                     appended to this Rule 4.7, and a prepaid means for returning the form;
 
-             (4)   Inform the defendant, using the form appended to this Rule 4.7, of the
-             consequences of waiving and not waiving service;
+             (4)     Inform the defendant, using the form appended to this Rule 4.7, of the
+                     consequences of waiving and not waiving service;
 
              (5)     State the date when the request is sent;
 
              (6)     Give the defendant a reasonable time of at least twenty-eight days after the
-             request was sent - or at least sixty days if sent to the defendant outside of the United
-             States - to return the waiver;
+                     request was sent - or at least sixty days if sent to the defendant outside of
+                     the United States - to return the waiver;
 
              (7)     Be sent by first-class mail or other reliable means.
 
@@ -1556,7 +1604,7 @@ RULE 4.7.    Process: Waiving Service.
              (1)     The expenses later incurred in making service;
 
              (2)     The reasonable expenses, including attorney's fees, of any motion required
-             to collect those service expenses.
+                     to collect those service expenses.
 
 (D)   Time to answer after a waiver
 
@@ -1788,29 +1836,32 @@ Complaint.
 
                      (b)     Leaving it:
 
-                             (i)      At the person’s office with a clerk or other person in charge
-                             or, if no one is in charge, in a conspicuous place in the office; or
+                                     (i)     At the person’s office with a clerk or other person in
+                                             charge or, if no one is in charge, in a conspicuous
+                                             place in the office; or
 
-                             (ii)   If the person has no office or the office is closed, at the
-                             person’s dwelling or usual place of abode with someone of suitable
-                             age and discretion who resides there;
+                                     (ii)    If the person has no office or the office is closed, at
+                                             the person’s dwelling or usual place of abode with
+                                             someone of suitable age and discretion who resides
+                                             there;
 
-                     (c)    Mailing it to the person’s last known address by United States mail,
-                     in which event service is complete upon mailing;
+                     (c)     Mailing it to the person’s last known address by United States mail,
+                             in which event service is complete upon mailing;
 
                       (d)     Delivering it to a commercial carrier service for delivery to the
-                      person’s last known address within three calendar days, in which event
-                      service is complete upon delivery to the carrier;
+                              person’s last known address within three calendar days, in which
+                              event service is complete upon delivery to the carrier;
 
                       (e)     Leaving it with the clerk of court if the person has no known address;
-                      or
+                              or
 
-                      (f)      Sending it by electronic means to a facsimile number or e-mail
-                      address provided in accordance with Civ.R. 11 by the attorney or party to
-                      be served, or, if mutually agreed in writing by all counsel and unrepresented
-                      parties, any other electronic media platform(s), in which event service is
-                      complete upon transmission, but is not effective if the serving party learns
-                      that it did not reach the person served.
+                      (f)     Sending it by electronic means to a facsimile number or e-mail
+                              address provided in accordance with Civ.R. 11 by the attorney or
+                              party to be served, or, if mutually agreed in writing by all counsel
+                              and unrepresented parties, any other electronic media platform(s),
+                              in which event service is complete upon transmission, but is not
+                              effective if the serving party learns that it did not reach the person
+                              served.
 
       (3)      Using court facilities
 
@@ -1853,18 +1904,19 @@ Complaint.
         of documents by electronic means. The court order or local rule shall include all of the
         following:
 
-                 (1)      Any signature on electronically transmitted documents shall be considered
-                 that of the attorney or party it purports to be for all purposes. If it is established
-                 that the documents were transmitted without authority, the court shall order the
-                 filing stricken.
+                 (1)     Any signature on electronically transmitted documents shall be considered
+                         that of the attorney or party it purports to be for all purposes. If it is
+                         established that the documents were transmitted without authority, the court
+                         shall order the filing stricken.
 
-                 (2)    A provision shall specify the days and hours during which electronically
-                 transmitted documents will be received by the court, and a provision shall specify
-                 when documents received electronically will be considered to have been filed.
+                 (2)     A provision shall specify the days and hours during which electronically
+                         transmitted documents will be received by the court, and a provision shall
+                         specify when documents received electronically will be considered to have
+                         been filed.
 
                  (3)     Any document filed electronically that requires a filing fee may be rejected
-                 by the clerk of court unless the filer has complied with the mechanism established
-                 by the court for the payment of filing fees.
+                         by the clerk of court unless the filer has complied with the mechanism
+                         established by the court for the payment of filing fees.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1971; July 1, 1984; July 1, 1991; July 1, 1994; July 1, 2001; July 1, 2012; July
@@ -1897,7 +1949,7 @@ Rule 5(B)
 by electronic means and by commercial carrier service and (2) to conform the format and language of the
 rule to the December 1, 2007 amendments to Fed.R.Civ.P. 5(b).
 
-        Rule 5(B)(2)(d) permits service of a document by delivering it to a commercial carrier service for
+         Rule 5(B)(2)(d) permits service of a document by delivering it to a commercial carrier service for
 delivery within three calendar days. Rule 5(B)(2)(f) adopts the language of Fed.R.Civ.P. 5(b) stating that
 service by electronic means is not effective if the serving party learns that the document did not reach the
 person to be served. Rule 5(B)(3) emphasizes a party’s duty to provide a proof of service that states the
@@ -1969,35 +2021,86 @@ RULE 6.       Time.
 
 (B)   Time: extension
 
-      When by these rules or by a notice given thereunder or by order of court an act is required
-      or allowed to be done at or within a specified time, the court for cause shown may at any
-      time in its discretion (1) with or without motion or notice order the period enlarged if
-      request therefor is made before the expiration of the period originally prescribed or as
-      extended by a previous order, or (2) upon motion made after the expiration of the specified
-      period permit the act to be done where the failure to act was the result of excusable neglect;
-      but it may not extend the time for taking any action under Civ.R. 50(B), Civ.R. 59(B),
-      Civ.R. 59(D), and Civ.R. 60(B), except to the extent and under the conditions stated in
-      them.
+      (1)     In this division (B), the words “continue” and “continuance” are used in the sense
+              of postponement, delay, and extension of time.
+
+      (2)     Continuance orders
+
+              (a)     When under these rules, a local rule, or a court order an event is scheduled
+                      for a particular date or an act may or must be done within a specified time
+                      or by a particular date, the court for good cause may continue the date or
+                      period of time.
+
+              (b)     No party shall be granted a continuance of a trial or hearing without a
+                      written motion from the party or counsel stating the reason for the
+                      continuance, endorsed in writing by the party as well as counsel, provided
+                      that the trial judge may waive this requirement upon a showing of good
+                      cause. Counsel may sign on behalf of their client per allowance. No court
+                      shall grant a continuance to any party at any time without first setting a
+                      definite date for the trial or hearing.
+
+              (c)     The court may act with or without motion or notice if the court acts, or if a
+                      request is made, before the particular date or the expiration of the specified
+                      time.
+
+              (d)     The court may act on motion made after the particular date or the expiration
+                      of the specified time if the moving party failed to act because of excusable
+                      neglect.
+
+            (e)    The court may not extend the time for taking any action under Civ.R. 50(B),
+                   Civ.R. 59(B), Civ.R. 59(D), and Civ.R. 60(B), except to the extent and
+                   under the conditions stated in those rules.
+
+      (3)   Reasons for continuances
+
+            (a)    Motions should address the timing and impact of any continuance.
+
+                   A party seeking a continuance should explain in writing the rationale for the
+                   request and should be cognizant of the various factors that courts consider
+                   in ruling on such a request, including (i) the timing of the request, (ii) the
+                   length of the proposed continuance, (iii) the age of the case, (iv) the number
+                   and nature of any previous similar requests, (v) the availability of alternative
+                   ways to address the concern underlying the request, (vi) counsel’s diligence
+                   and overall compliance with the case schedule and case deadlines, (vii) the
+                   nature and complexity of the case, (viii) the court’s calendar and the impact
+                   of any continuance on other cases, (ix) whether other parties consent to or
+                   oppose the request, and (x) any inconvenience, increased costs, and
+                   prejudice to the rights and interests of the parties and the public that might
+                   result from the granting or the denial of the request.
+
+            (b)    Witness unavailability.
+
+                   Before requesting a continuance due to the unavailability of a witness,
+                   parties should consider the feasibility of other permitted methods of
+                   recording or facilitating the presentation of testimony under these rules and
+                   local rules, including deposition or remote testimony.
+
+            (c)    Attorney unavailability.
+
+                   When requesting a continuance due to counsel’s unavailability, the moving
+                   party must notify the court about the reason counsel is unavailable and must
+                   indicate when the scheduling conflict arose and was discovered. In most
+                   cases, a trial or hearing that was scheduled first will take priority over a
+                   conflicting trial or hearing.
 
 (C)   Time: motions
 
-      (1)     Motion responses and movants’ replies generally
+      (1)   Motion responses and movants’ replies generally
 
-              Responses to a written motion, other than motions for summary judgment, may be
-              served within fourteen days after service of the motion. Responses to motions for
-              summary judgment may be served within twenty-eight days after service of the
-              motion. A movant’s reply to a response to any written motion may be served within
-              seven days after service of the response to the motion.
+            Responses to a written motion, other than motions for summary judgment, may be
+            served within fourteen days after service of the motion. Responses to motions for
+            summary judgment may be served within twenty-eight days after service of the
+            motion. A movant’s reply to a response to any written motion may be served within
+            seven days after service of the response to the motion.
 
-      (2)     Motions prior to hearing or trial
+        (2)      Motions prior to hearing or trial
 
-              Unless a different period is fixed under these rules or by order of the court, a written
-              motion for purposes of a hearing that is not a trial shall be served no later than
-              fourteen days prior to the hearing, and a written motion for purposes of a trial shall
-              be served no later than twenty-eight days prior to the start of trial. Responses to
-              such motions may be served as provided by Civ.R. 6(C); however, a movant’s reply
-              to the response is not permitted.
-
+                 Unless a different period is fixed under these rules or by order of the court, a written
+                 motion for purposes of a hearing that is not a trial shall be served no later than
+                 fourteen days prior to the hearing, and a written motion for purposes of a trial shall
+                 be served no later than twenty-eight days prior to the start of trial. Responses to
+                 such motions may be served as provided by Civ.R. 6(C); however, a movant’s reply
+                 to the response is not permitted.
         (3)      Modification for good cause upon motion
 
                  Upon motion of a party in an action, and for good cause, the court may reduce or
@@ -2013,7 +2116,7 @@ RULE 6.       Time.
         4.6.
 
 Effective Date: July 1, 1970
-Amended: July 1, 1978; July 1, 2012; July 1, 2015; July 1, 2019
+Amended: July 1, 1978; July 1, 2012; July 1, 2015; July 1, 2019; July 1, 2026
                                    Staff Note (July 1, 2012 Amendment)
 
           Former Civ.R. 6(C) has been eliminated and the remaining divisions of the rule have been re-
@@ -2040,6 +2143,7 @@ determine motions without oral hearing—a practice permitted by Civ.R. 7(B)(2).
 addresses an uncertainty existing under the prior rule as to when a response to a motion is due when there
 is no local rule or court order specifying a time for responding to motions, by specifying a fallback time of
 fourteen days after service of the motion within which to serve arguments in response. In the absence of
+
 a local rule or court order addressing replies, the amendment also permits a movant to serve reply
 arguments within seven days after service of the opposing party's response. The time for filing motion
 responses and replies is governed by Civ.R. 5(D), again in the absence of a local rule or court order
@@ -2076,34 +2180,64 @@ Division (C)(3)
 For example, expediting interlocutory rulings in an action for injunctive relief might constitute good cause
 for reducing the time for responding to certain motions in that action.
 
-                         TITLE III.      PLEADINGS AND MOTIONS.
+                                  Staff Note (July 1, 2026 Amendment)
 
-RULE 7.        Pleadings and Motions.
+        Division (B) has been revised and expanded to include language that formerly appeared in
+Superintendence Rule 41.
 
-(A)    Pleadings
+       Language transferred from Superintendence Rule 41(A) maintains the requirement that the party
+and counsel sign the continuance request and explanation. Language was added to clarify that counsel
+may sign on behalf of the party if the party agrees.
 
-       There shall be a complaint and an answer; a reply to a counterclaim denominated as such;
-       an answer to a cross-claim, if the answer contains a cross-claim; a third-party complaint, if
-       a person who was not an original party is summoned under the provisions of Civ.R. 14;
-       and a third-party answer, if a third-party complaint is served. No other pleading shall be
-       allowed, except that the court may order a reply to an answer or a third-party answer.
+        Drawing on that latter provision’s former text, new division (B)(3)(b) indicates that where a witness
+is expected to be unavailable for a hearing, parties should consider the feasibility of alternatives that might
+obviate the need for a continuance, such as recorded testimony or remote testimony.
 
-(B)    Motions
+          Also shifted from the Superintendence Rules into new division (B)(3)(c) is language indicating that
+where an attorney is scheduled to be in two or more courtrooms at the same time, the attorney must, when
+seeking a continuance, indicate to the court when the scheduling conflict arose and when it came to the
+attorney’s attention. As was true under language formerly in Superintendence Rule 41, in most cases a
+trial or hearing that was scheduled first will take priority over a conflicting trial or hearing.
 
-       (1)     An application to the court for an order shall be by motion which, unless made
-       during a hearing or a trial, shall be made in writing. A motion, whether written or oral,
-       shall state with particularity the grounds therefor, and shall set forth the relief or order
-       sought. A written motion, and any supporting affidavits, shall be served in accordance with
-       Civ.R. 5 unless the motion may be heard ex parte.
+         Added to the same division is new language that directs parties to explain in writing the rationale
+for any continuance request. Included, too, is language intended to apprise parties about the factors that
+Ohio courts consider when addressing continuance requests. See, e.g., Freytag v. Freytag, 2024-Ohio-
+2403, ¶ 8 (3d Dist.); In re B.M., 2024-Ohio-5505, ¶ 84 (4th Dist.); Matter of C.W., 2025-Ohio-282, ¶ 50 (10th
+Dist.); Mentor Economic Assistance Corp. v. Eichels, 2016-Ohio-1162, ¶ 19 (11th Dist.). When seeking a
+continuance, parties would be well-advised to address those factors that are relevant in the case.
 
-       (2)    To expedite its business, the court may make provision by rule or order not
-       inconsistent with these rules for the submission and determination of motions without oral
-       hearing upon brief written statements of reasons in support and opposition.
+       Other stylistic updates intended to improve the readability of the rule and to bring greater clarity to
+some of its existing provisions have also been made.
 
-       (3)    The rules applicable to captions, signing, and other matters of form of pleading
-       apply to all motions and other papers provided for by these rules.
+                          TITLE III.      PLEADINGS AND MOTIONS.
 
-       (4)     All motions shall be signed in accordance with Civ.R. 11.
+RULE 7.         Pleadings and Motions.
+
+(A)     Pleadings
+
+        There shall be a complaint and an answer; a reply to a counterclaim denominated as such;
+        an answer to a cross-claim, if the answer contains a cross-claim; a third-party complaint, if
+        a person who was not an original party is summoned under the provisions of Civ.R. 14;
+        and a third-party answer, if a third-party complaint is served. No other pleading shall be
+        allowed, except that the court may order a reply to an answer or a third-party answer.
+
+(B)     Motions
+
+        (1)     An application to the court for an order shall be by motion which, unless made
+                during a hearing or a trial, shall be made in writing. A motion, whether written or
+                oral, shall state with particularity the grounds therefor, and shall set forth the relief
+                or order sought. A written motion, and any supporting affidavits, shall be served in
+                accordance with Civ.R. 5 unless the motion may be heard ex parte.
+
+        (2)     To expedite its business, the court may make provision by rule or order not
+                inconsistent with these rules for the submission and determination of motions
+                without oral hearing upon brief written statements of reasons in support and
+                opposition.
+
+        (3)     The rules applicable to captions, signing, and other matters of form of pleading
+                apply to all motions and other papers provided for by these rules.
+
+        (4)     All motions shall be signed in accordance with Civ.R. 11.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1984; July 1, 2014; July 1, 2015; July 1, 2019
@@ -2181,15 +2315,16 @@ RULE 8.      General Rules of Pleading.
 (E)    Pleading to be concise and direct; consistency
 
        (1)    Each averment of a pleading shall be simple, concise, and direct. No technical
-       forms of pleading or motions are required.
+              forms of pleading or motions are required.
 
        (2)    A party may set forth two or more statements of a claim or defense alternately or
-       hypothetically, either in one count or defense or in separate counts or defenses. When two
-       or more statements are made in the alternative and one of them if made independently
-       would be sufficient, the pleading is not made insufficient by the insufficiency of one or
-       more of the alternative statements. A party may also state as many separate claims or
-       defenses as he has regardless of consistency and whether based on legal or equitable
-       grounds. All statements shall be made subject to the obligations set forth in Rule 11.
+              hypothetically, either in one count or defense or in separate counts or defenses.
+              When two or more statements are made in the alternative and one of them if made
+              independently would be sufficient, the pleading is not made insufficient by the
+              insufficiency of one or more of the alternative statements. A party may also state
+              as many separate claims or defenses as he has regardless of consistency and whether
+              based on legal or equitable grounds. All statements shall be made subject to the
+              obligations set forth in Rule 11.
 
 (F)    Construction of pleadings
 
@@ -2292,60 +2427,64 @@ RULE 10.     Form of Pleadings.
       (2)    Affidavit of merit; medical, dental, optometric, and chiropractic liability claims
 
              (a)     Except as provided in division (D)(2)(b) of this rule, a complaint that
-             contains a medical claim, dental claim, optometric claim, or chiropractic claim, as
-             defined in R.C. 2305.113, shall be accompanied by one or more affidavits of merit
-             relative to each defendant named in the complaint for whom expert testimony is
-             necessary to establish liability. Affidavits of merit shall be provided by an expert
-             witness meeting the requirements of Evid.R. 702 and, if applicable, also meeting
-             the requirements of Evid.R. 601(B)(5). Affidavits of merit shall include all of the
-             following:
+                     contains a medical claim, dental claim, optometric claim, or chiropractic
+                     claim, as defined in R.C. 2305.113, shall be accompanied by one or more
+                     affidavits of merit relative to each defendant named in the complaint for
+                     whom expert testimony is necessary to establish liability. Affidavits of
+                     merit shall be provided by an expert witness meeting the requirements of
+                     Evid.R. 702 and, if applicable, also meeting the requirements of Evid.R.
+                     601(B)(5). Affidavits of merit shall include all of the following:
 
-       (i)    A statement that the affiant has reviewed all medical records
-       reasonably available to the plaintiff concerning the allegations contained in
-       the complaint;
+              (i)     A statement that the affiant has reviewed all medical records
+                      reasonably available to the plaintiff concerning the
+                      allegations contained in the complaint;
 
-       (ii)    A statement that the affiant is familiar with the applicable standard
-       of care;
+              (ii)    A statement that the affiant is familiar with the applicable
+                      standard of care;
 
-       (iii) The opinion of the affiant that the standard of care was breached by
-       one or more of the defendants to the action and that the breach caused injury
-       to the plaintiff.
+              (iii)   The opinion of the affiant that the standard of care was
+                      breached by one or more of the defendants to the action and
+                      that the breach caused injury to the plaintiff.
 
-(b)     The plaintiff may file a motion to extend the period of time to file an
-affidavit of merit. The motion shall be filed by the plaintiff with the complaint.
-For good cause shown and in accordance with division (c) of this rule, the court
-shall grant the plaintiff a reasonable period of time to file an affidavit of merit, not
-to exceed ninety days, except the time may be extended beyond ninety days if the
-court determines that a defendant or non-party has failed to cooperate with
-discovery or that other circumstances warrant extension.
+(b)   The plaintiff may file a motion to extend the period of time to file an
+      affidavit of merit. The motion shall be filed by the plaintiff with the
+      complaint. For good cause shown and in accordance with division (c) of
+      this rule, the court shall grant the plaintiff a reasonable period of time to file
+      an affidavit of merit, not to exceed ninety days, except the time may be
+      extended beyond ninety days if the court determines that a defendant or non-
+      party has failed to cooperate with discovery or that other circumstances
+      warrant extension.
 
-(c)     In determining whether good cause exists to extend the period of time to
-file an affidavit of merit, the court shall consider the following:
+(c)   In determining whether good cause exists to extend the period of time to
+      file an affidavit of merit, the court shall consider the following:
 
-       (i)     A description of any information necessary in order to obtain an
-       affidavit of merit;
+              (i)     A description of any information necessary in order to obtain
+                      an affidavit of merit;
 
-       (ii)   Whether the information is in the possession or control of a
-       defendant or third party;
+              (ii)    Whether the information is in the possession or control of a
+                      defendant or third party;
 
-       (iii)   The scope and type of discovery necessary to obtain the information;
+              (iii)   The scope and type of discovery necessary to obtain the
+                      information;
 
-       (iv)    What efforts, if any, were taken to obtain the information;
+              (iv)    What efforts, if any, were taken to obtain the information;
 
-       (v)     Any other facts or circumstances relevant to the ability of the
-       plaintiff to obtain an affidavit of merit.
+              (v)     Any other facts or circumstances relevant to the ability of the
+                      plaintiff to obtain an affidavit of merit.
 
-(d)      An affidavit of merit is required to establish the adequacy of the complaint
-and shall not otherwise be admissible as evidence or used for purposes of
-impeachment. Any dismissal for the failure to comply with this rule shall operate
-as a failure otherwise than on the merits.
+(d)   An affidavit of merit is required to establish the adequacy of the complaint
+      and shall not otherwise be admissible as evidence or used for purposes of
+      impeachment. Any dismissal for the failure to comply with this rule shall
+      operate as a failure otherwise than on the merits.
 
-(e)     If an affidavit of merit as required by this rule has been filed as to any
-defendant along with the complaint or amended complaint in which claims are first
-asserted against that defendant, and the affidavit of merit is determined by the court
-to be defective pursuant to the provisions of division (D)(2)(a) of this rule, the court
-shall grant the plaintiff a reasonable time, not to exceed sixty days, to file an
-affidavit of merit intended to cure the defect.
+(e)   If an affidavit of merit as required by this rule has been filed as to any
+      defendant along with the complaint or amended complaint in which claims
+      are first asserted against that defendant, and the affidavit of merit is
+      determined by the court to be defective pursuant to the provisions of
+
+                          division (D)(2)(a) of this rule, the court shall grant the plaintiff a reasonable
+                          time, not to exceed sixty days, to file an affidavit of merit intended to cure
+                          the defect.
 
 (E)     Size of paper filed
 
@@ -2627,19 +2766,20 @@ RULE 12.      Defenses and Objections--When and How Presented--by Pleading or Mo
 
 (H)    Waiver of defenses and objections
 
-       (1)     A defense of lack of jurisdiction over the person, improper venue, insufficiency of
-       process, or insufficiency of service of process is waived (a) if omitted from a motion in the
-       circumstances described in subdivision (G), or (b) if it is neither made by motion under
-       this rule nor included in a responsive pleading or an amendment thereof permitted by Rule
-       15(A) to be made as a matter of course.
+       (1)    A defense of lack of jurisdiction over the person, improper venue, insufficiency of
+              process, or insufficiency of service of process is waived (a) if omitted from a motion
+              in the circumstances described in subdivision (G), or (b) if it is neither made by
+              motion under this rule nor included in a responsive pleading or an amendment
+              thereof permitted by Rule 15(A) to be made as a matter of course.
 
-       (2)     A defense of failure to state a claim upon which relief can be granted, a defense of
-       failure to join a party indispensable under Rule 19, and an objection of failure to state a
-       legal defense to a claim may be made in any pleading permitted or ordered under Rule
-       7(A), or by motion for judgment on the pleadings, or at the trial on the merits.
+       (2)    A defense of failure to state a claim upon which relief can be granted, a defense of
+              failure to join a party indispensable under Rule 19, and an objection of failure to
+              state a legal defense to a claim may be made in any pleading permitted or ordered
+              under Rule 7(A), or by motion for judgment on the pleadings, or at the trial on the
+              merits.
 
-       (3)     Whenever it appears by suggestion of the parties or otherwise that the court lacks
-       jurisdiction on the subject matter, the court shall dismiss the action.
+       (3)    Whenever it appears by suggestion of the parties or otherwise that the court lacks
+              jurisdiction on the subject matter, the court shall dismiss the action.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1983
@@ -2826,7 +2966,7 @@ requiring a responsive pleading, for a period of 28 days after the service of a 
 Under the prior rule, amendment without leave of court was limited to pleadings not requiring a response
 or to which a required response had not been served.
 
-        Rule 15(A) is also amended to limit amendment without leave of court of a complaint or other
+         Rule 15(A) is also amended to limit amendment without leave of court of a complaint or other
 pleading requiring a responsive pleading, to a period of 28 days after service of the pleading when a
 response has not been served. Under the prior rule, the time for amendment without leave of court under
 those circumstances was not limited, and could be made at any time prior to service of a response.
@@ -2844,7 +2984,7 @@ RULE 16.     Pretrial Procedure
              (1)     Expediting disposition of the action;
 
              (2)     Establishing early and continuing control so that the case will not be
-             protracted because of lack of management;
+                     protracted because of lack of management;
 
              (3)     Discouraging wasteful pretrial activities;
 
@@ -2865,7 +3005,7 @@ RULE 16.     Pretrial Procedure
                      (a)     After receiving the parties’ report under Civ.R. 26(F);
 
                      (b)     After consulting with the parties’ attorneys and any unrepresented
-                     parties at a scheduling conference; or
+                             parties at a scheduling conference; or
 
                      (c)     Sua sponte by the court.
 
@@ -2880,18 +3020,18 @@ RULE 16.     Pretrial Procedure
 
             The scheduling order may:
 
-                   (a)    Limit the time to join other parties, amend the pleadings, complete
-                   discovery, and file motions;
+                   (a)     Limit the time to join other parties, amend the pleadings, complete
+                           discovery, and file motions;
 
                    (b)     Modify the timing of disclosures under Civ.R. 26(B)(3);
 
                    (c)     Modify the extent of discovery;
 
                    (d)     Provide for disclosure, discovery, or preservation of electronically
-                   stored information;
+                           stored information;
 
-                   (e)   Direct that before moving for an order relating to discovery, the
-                   movant must request a conference with the court;
+                   (e)     Direct that before moving for an order relating to discovery, the
+                           movant must request a conference with the court;
 
                    (f)     Set dates for pretrial conferences and for trial; and
 
@@ -2922,69 +3062,72 @@ RULE 16.     Pretrial Procedure
 
                    (c)     Itemizations of expenses and special damages;
 
-(d)    The necessity of amendments to the pleadings;
+(d)   The necessity of amendments to the pleadings;
 
-(e)    The exchange of medical reports and hospital records (The
-production by any party of medical reports, medical records, hospital
-records does not constitute a waiver of the privilege granted under section
-2317.02 of the Revised Code.);
+(e)   The exchange of medical reports and hospital records (The
+      production by any party of medical reports, medical records,
+      hospital records does not constitute a waiver of the privilege granted
+      under section 2317.02 of the Revised Code.);
 
-(f)    The number of expert witnesses;
+(f)   The number of expert witnesses;
 
-(g)    The preservation of electronically stored information and other
-information held by the parties or third parties;
+(g)   The preservation of electronically stored information and other
+      information held by the parties or third parties;
 
-(h)      The timing, methods of search and production, and the limitations,
-if any, to be applied to the discovery of documents and electronically stored
-information;
+(h)   The timing, methods of search and production, and the limitations,
+      if any, to be applied to the discovery of documents and electronically
+      stored information;
 
-(i)    Disclosure and the exchange of documents obtained through public
-records requests;
+(i)   Disclosure and the exchange of documents obtained through public
+      records requests;
 
-(j)    Any agreements or decisions on the sharing or shifting of costs
-pursuant to Rule 26(C)(2);
+(j)   Any agreements or decisions on the sharing or shifting of costs
+      pursuant to Rule 26(C)(2);
 
-(k)     The adoption of any agreements by the parties for asserting claims
-of privilege or for protecting designated materials after production;
+(k)   The adoption of any agreements by the parties for asserting claims
+      of privilege or for protecting designated materials after production;
 
-(l)    The imposition of sanctions as authorized by Civ.R. 37;
+(l)   The imposition of sanctions as authorized by Civ.R. 37;
 
-(m)    The possibility of obtaining:
+(m)   The possibility of obtaining:
 
-       (i)     Admissions of fact;
+             (i)     Admissions of fact;
 
-       (ii)   Agreements on admissibility of documents and other
-       evidence to avoid unnecessary testimony or other proof during trial.
+             (ii)    Agreements on admissibility of documents and other
+                     evidence to avoid unnecessary testimony or other
+                     proof during trial.
 
-(n)    Disposing of pending motions;
+(n)   Disposing of pending motions;
 
-(o)    Determination of the applicable deadline for disposition of the case
-pursuant to Sup. R. 39 and 42, and a timetable for:
+(o)   Determination of the applicable deadline for disposition of the case
+      pursuant to Sup.R. 5.21 and 5.22, and a timetable for:
 
-       (i)     Initial disclosures of known and reasonably available non-
-       privileged, non-work product documents and things that support or
-       contradict the specifically pleaded claims and defenses;
+             (i)     Initial disclosures of known and reasonably available
+                     non-privileged, non-work product documents and
+                     things that support or contradict the specifically
+                     pleaded claims and defenses;
 
-       (ii)    Joining parties;
+             (ii)    Joining parties;
 
-       (iii)   Amending the pleadings;
+                                         (iii)   Amending the pleadings;
 
-                                 (iv)    Mediation or other alternative dispute resolution requested
-                                 by parties;
+                                         (iv)    Mediation or other alternative dispute resolution
+                                                 requested by parties;
 
-                                 (v)     Exchanging lists of lay witnesses, expert witnesses and
-                                 reports, and exhibits for trial;
+                                         (v)     Exchanging lists of lay witnesses, expert witnesses
+                                                 and reports, and exhibits for trial;
 
-                                 (vi)    Completing discovery;
+                                         (vi)    Completing discovery;
 
-                                 (vii)   Filing of motions, responses, replies and decisions;
+                                         (vii)   Filing of motions, responses, replies and decisions;
 
-                                 (viii) Further case management conferences; and
+                                         (viii) Further case management conferences; and
 
-                                 (ix)    A trial date, preferably one agreed-upon by the parties.
+                                         (ix)    A trial date, preferably one agreed-upon by the
+                                                 parties.
 
-                        (p)     Facilitating in other ways, the just, speedy, and inexpensive
-                        disposition of the action.
+                        (p)      Facilitating in other ways, the just, speedy, and inexpensive
+                                 disposition of the action.
 
 (D)     Pretrial orders
 
@@ -3011,8 +3154,9 @@ the final paragraph of Rule 16, are stylistic rather than substantive.
 
                                 Staff Note (July 1, 2020 Amendment)
 
-       Civ.R. 16 has been amended to bring the Ohio rule closer to the federal rule, while still allowing
+      Civ.R. 16 has been amended to bring the Ohio rule closer to the federal rule, while still allowing
  for Ohio courts to decide whether to hold a scheduling conference. Civ.R. 16(A) lists several
+
  purposes for why a scheduling conference may be held. In addition, the last paragraph of Civ.R.
  16(A) provides that parties will attempt to agree on the schedules contemplated by Civ.R. 16, and
  courts will endeavor to respect the agreements of the parties. This paragraph is consistent with the
@@ -3148,23 +3292,24 @@ RULE 19.1. Compulsory Joinder.
       as provided in division (B) of this rule, if the person has an interest in or a claim arising
       out of the following situations:
 
-             (1)    Personal injury or property damage to the person or property of the decedent
-             which survives the decedent’s death and a claim for wrongful death to the same
-             decedent if caused by the same wrongful act;
+             (1)     Personal injury or property damage to the person or property of the decedent
+                     which survives the decedent’s death and a claim for wrongful death to the
+                     same decedent if caused by the same wrongful act;
 
-             (2)    Personal injury or property damage to a spouse and a claim of the other
-             spouse for loss of consortium or expenses or property damage if caused by the same
-             wrongful act;
+             (2)     Personal injury or property damage to a spouse and a claim of the other
+                     spouse for loss of consortium or expenses or property damage if caused by
+                     the same wrongful act;
 
-             (3)    Personal injury or property damage to a minor and a claim of the parent or
-             guardian of the minor for loss of consortium or expenses or property damage if
-             caused by the same wrongful act;
+             (3)     Personal injury or property damage to a minor and a claim of the parent or
+                     guardian of the minor for loss of consortium or expenses or property
+                     damage if caused by the same wrongful act;
 
-             (4)    Personal injury or property damage to an employee or agent and a claim of
-             the employer or principal for property damage if caused by the same wrongful act.
+             (4)     Personal injury or property damage to an employee or agent and a claim of
+                     the employer or principal for property damage if caused by the same
+                     wrongful act.
 
              (5)     Personal injury to a parent and a claim of an adult emancipated child of the
-             parent for loss of parental consortium if caused by the same wrongful act.
+                     parent for loss of parental consortium if caused by the same wrongful act.
 
       If the person has not been so joined, the court, subject to division (B) of this rule, shall
       order that the person be made a party upon timely assertion of the defense of failure to join
@@ -3285,47 +3430,49 @@ RULE 23.     Class Actions.
 
              (2)      There are questions of law or fact common to the class;
 
-             (3)    The claims or defenses of the representative parties are typical of the claims
-             or defenses of the class;
+             (3)      The claims or defenses of the representative parties are typical of the claims
+                      or defenses of the class;
 
-             (4)     The representative parties will fairly and adequately protect the interests of
-             the class.
+             (4)      The representative parties will fairly and adequately protect the interests of
+                      the class.
 
 (B)   Types of class actions
 
       A class action may be maintained if Civ.R. 23(A) is satisfied, and if:
 
-             (1)     Prosecuting separate actions by or against individual class members would
-             create a risk of:
+             (1)      Prosecuting separate actions by or against individual class members would
+                      create a risk of:
 
-                      (a)    Inconsistent or varying adjudications with respect to individual class
-                      members that would establish incompatible standards of conduct for the
-                      party opposing the class; or
+                              (a)    Inconsistent or varying adjudications with respect to
+                                     individual class members that would establish incompatible
+                                     standards of conduct for the party opposing the class; or
 
-                      (b)     Adjudications with respect to individual class members that, as a
-                      practical matter, would be dispositive of the interests of the other members
-                      not parties to the individual adjudications or would substantially impair or
-                      impede their ability to protect their interests; or
+                             (b)     Adjudications with respect to individual class members that,
+                                     as a practical matter, would be dispositive of the interests of
+                                     the other members not parties to the individual adjudications
+                                     or would substantially impair or impede their ability to
+                                     protect their interests; or
 
-             (2)    The party opposing the class has acted or refused to act on grounds that
-             apply generally to the class, so that final injunctive relief or corresponding
-             declaratory relief is appropriate respecting the class as a whole; or
+             (2)      The party opposing the class has acted or refused to act on grounds that
+                      apply generally to the class, so that final injunctive relief or corresponding
+                      declaratory relief is appropriate respecting the class as a whole; or
 
-             (3)     The court finds that the questions of law or fact common to class members
-             predominate over any questions affecting only individual members, and that a class
-             action is superior to other available methods for fairly and efficiently adjudicating
-             the controversy. The matters pertinent to these findings include:
+             (3)      The court finds that the questions of law or fact common to class members
+                      predominate over any questions affecting only individual members, and that
+                      a class action is superior to other available methods for fairly and efficiently
+                      adjudicating the controversy. The matters pertinent to these findings
+                      include:
 
-                      (a)    The class members’ interests in individually controlling the
-                      prosecution or defense of separate actions;
+                              (a)    The class members’ interests in individually controlling the
+                                     prosecution or defense of separate actions;
 
-                      (b)    The extent and nature of any litigation concerning the controversy
-                      already begun by or against class members;
+                             (b)      The extent and nature of any litigation concerning the
+                                      controversy already begun by or against class members;
 
-                      (c)     The desirability or undesirability of concentrating the litigation of
-                      the claims in the particular forum; and
+                             (c)      The desirability or undesirability of concentrating the
+                                      litigation of the claims in the particular forum; and
 
-                      (d)    The likely difficulties in managing a class action.
+                             (d)      The likely difficulties in managing a class action.
 
 (C)   Certification order; notice to class members; judgment; issues classes; subclasses
 
@@ -3369,16 +3516,16 @@ RULE 23.     Class Actions.
 
                            (iii)   The class claims, issues, or defenses;
 
-                           (iv)   That a class member may enter an appearance through an
-                           attorney if the member so desires;
+                           (iv)    That a class member may enter an appearance through an
+                                   attorney if the member so desires;
 
-                           (v)    That the court will exclude from the class any member who
-                           requests exclusion;
+                           (v)     That the court will exclude from the class any member who
+                                   requests exclusion;
 
                            (vi)    The time and manner for requesting exclusion; and
 
-                           (vii) The binding effect of a class judgment on members under
-                           Civ.R. 23(C)(3).
+                           (vii)   The binding effect of a class judgment on members under
+                                   Civ.R. 23(C)(3).
 
       (3)   Judgment
 
@@ -3387,9 +3534,10 @@ RULE 23.     Class Actions.
                    (a)     For any class certified under Civ.R. 23(B)(1) or (B)(2), include and
                            describe those whom the court finds to be class members; and
 
-                   (b)    For any class certified under Civ.R. 23(B)(3), include and specify or
-                   describe those to whom the Civ.R. 23(C)(2) notice was directed, who have
-                   not requested exclusion, and whom the court finds to be class members.
+                   (b)     For any class certified under Civ.R. 23(B)(3), include and specify or
+                           describe those to whom the Civ.R. 23(C)(2) notice was directed,
+                           who have not requested exclusion, and whom the court finds to be
+                           class members.
 
       (4)   Particular issues
 
@@ -3407,26 +3555,27 @@ RULE 23.     Class Actions.
 
             In conducting an action under this rule, the court may issue orders that:
 
-                   (a)    Determine the course of proceedings or prescribe measures to
-                   prevent undue repetition or complication in presenting evidence or
-                   argument;
+                     (a)     Determine the course of proceedings or prescribe measures to
+                             prevent undue repetition or complication in presenting evidence or
+                             argument;
 
-                     (b)    Require to protect class members and fairly conduct the action
-                     giving appropriate notice to some or all class members of:
+                     (b)     Require to protect class members and fairly conduct the action
+                             giving appropriate notice to some or all class members of:
 
-                             (i)     Any step in the action;
+                                     (i)     Any step in the action;
 
-                             (ii)    The proposed extent of the judgment; or
+                                     (ii)    The proposed extent of the judgment; or
 
-                             (iii) The members' opportunity to signify whether they consider
-                             the representation fair and adequate, to intervene and present claims
-                             or defenses, or to otherwise come into the action;
+                                     (iii)   The members' opportunity to signify whether they
+                                             consider the representation fair and adequate, to
+                                             intervene and present claims or defenses, or to
+                                             otherwise come into the action;
 
                      (c)     Impose conditions on the representative parties or on intervenors;
 
-                     (d)    Require that the pleadings be amended to eliminate allegations
-                     about representation of absent persons, and that the action proceed
-                     accordingly; or
+                     (d)     Require that the pleadings be amended to eliminate allegations
+                             about representation of absent persons, and that the action
+                                    proceed accordingly; or
 
                      (e)     Deal with similar procedural matters.
 
@@ -3441,23 +3590,24 @@ RULE 23.     Class Actions.
       compromised only with the court's approval. The following procedures apply to a proposed
       settlement, voluntary dismissal, or compromise:
 
-             (1)   The court shall direct notice in a reasonable manner to all class members
-             who would be bound by the proposal.
+             (1)     The court shall direct notice in a reasonable manner to all class members
+                     who would be bound by the proposal.
 
              (2)     If the proposal would bind class members, the court may approve it only
-             after a hearing and on finding that it is fair, reasonable, and adequate.
+                     after a hearing and on finding that it is fair, reasonable, and adequate.
 
-             (3)   The parties seeking approval shall file a statement identifying any
-             agreement made in connection with the proposal.
+             (3)     The parties seeking approval shall file a statement identifying any
+                     agreement made in connection with the proposal.
 
-             (4)    If the class action was previously certified under Civ.R. 23(B)(3), the court
-             may refuse to approve a settlement unless it affords a new opportunity to request
-             exclusion to individual class members who had an earlier opportunity to request
-             exclusion but did not do so.
+             (4)     If the class action was previously certified under Civ.R. 23(B)(3), the court
+                     may refuse to approve a settlement unless it affords a new opportunity to
 
-            (5)    Any class member may object to the proposal if it requires court approval
-            under this division (E); the objection may be withdrawn only with the court's
-            approval.
+                      request exclusion to individual class members who had an earlier
+                      opportunity to request exclusion but did not do so.
+
+            (5)       Any class member may object to the proposal if it requires court approval
+                      under this division (E); the objection may be withdrawn only with the
+                      court's approval.
 
 (F)   Class counsel
 
@@ -3468,26 +3618,27 @@ RULE 23.     Class Actions.
 
                       (a)    Shall consider:
 
-                             (i)    The work counsel has done in identifying or investigating
-                             potential claims in the action;
+                                    (i)        The work counsel has done in identifying or
+                                               investigating potential claims in the action;
 
-                             (ii)  Counsel’s experience in handling class actions, other
-                             complex litigation, and the types of claims asserted in the action;
+                                    (ii)       Counsel’s experience in handling class actions, other
+                                               complex litigation, and the types of claims asserted
+                                               in the action;
 
-                             (iii)   Counsel’s knowledge of the applicable law; and
+                                    (iii)      Counsel’s knowledge of the applicable law; and
 
-                             (iv)   The resources that counsel will commit to representing the
-                             class;
+                                    (iv)       The resources that counsel will commit to
+                                               representing the class;
 
                       (b)    May consider any other matter pertinent to counsel's ability to fairly
-                      and adequately represent the interests of the class;
+                             and adequately represent the interests of the class;
 
-                      (c)     May order potential class counsel to provide information on any
-                      subject pertinent to the appointment and to propose terms for attorney's fees
-                      and nontaxable costs;
+                      (c)    May order potential class counsel to provide information on any
+                             subject pertinent to the appointment and to propose terms for
+                             attorney's fees and nontaxable costs;
 
                       (d)    May include in the appointing order provisions about the award of
-                      attorney's fees or nontaxable costs under Civ.R. 23(G); and
+                             attorney's fees or nontaxable costs under Civ.R. 23(G); and
 
                       (e)    May make further orders in connection with the appointment.
 
@@ -3514,17 +3665,17 @@ RULE 23.     Class Actions.
         apply:
 
                  (1)     A claim for an award shall be made by motion. Notice of the motion shall
-                 be served on all parties and, for motions by class counsel, directed to class members
-                 in a reasonable manner.
+                         be served on all parties and, for motions by class counsel, directed to class
+                         members in a reasonable manner.
 
-                 (2)    A class member, or a party from whom payment is sought, may object to
-                 the motion.
+                 (2)     A class member, or a party from whom payment is sought, may object to
+                         the motion.
 
-                 (3)    The court may hold a hearing and shall state in writing the findings of fact
-                 found separately from the conclusions of law.
+                 (3)     The court may hold a hearing and shall state in writing the findings of fact
+                         found separately from the conclusions of law.
 
-                 (4)    The court may refer issues related to the amount of the award to a magistrate
-                 as provided in Civ.R. 53.
+                 (4)     The court may refer issues related to the amount of the award to a magistrate
+                         as provided in Civ.R. 53.
 
 (H)     Aggregation of claims
 
@@ -3561,48 +3712,48 @@ directs.
 
 Effective Date: July 1, 1970
 
-RULE 24.        Intervention.
+RULE 24.           Intervention.
 
-(A)     Intervention of right
+(A)         Intervention of right
 
-        Upon timely application anyone shall be permitted to intervene in an action: (1) when a
-        statute of this state confers an unconditional right to intervene; or (2) when the applicant
-        claims an interest relating to the property or transaction that is the subject of the action and
-        the applicant is so situated that the disposition of the action may as a practical matter impair
-        or impede the applicant’s ability to protect that interest, unless the applicant's interest is
-        adequately represented by existing parties.
+            Upon timely application anyone shall be permitted to intervene in an action: (1) when a
+            statute of this state confers an unconditional right to intervene; or (2) when the applicant
+            claims an interest relating to the property or transaction that is the subject of the action and
+            the applicant is so situated that the disposition of the action may as a practical matter impair
+            or impede the applicant’s ability to protect that interest, unless the applicant's interest is
+            adequately represented by existing parties.
 
-(B)     Permissive intervention
+(B)         Permissive intervention
 
-        Upon timely application anyone may be permitted to intervene in an action: (1) when a
-        statute of this state confers a conditional right to intervene; or (2) when an applicant's claim
-        or defense and the main action have a question of law or fact in common. When a party to
-        an action relies for ground of claim or defense upon any statute or executive order
-        administered by a federal or state governmental officer or agency or upon any regulation,
-        order, requirement or agreement issued or made pursuant to the statute or executive order,
-        the officer or agency upon timely application may be permitted to intervene in the action.
-        In exercising its discretion the court shall consider whether the intervention will unduly
-        delay or prejudice the adjudication of the rights of the original parties.
+            Upon timely application anyone may be permitted to intervene in an action: (1) when a
+            statute of this state confers a conditional right to intervene; or (2) when an applicant's claim
+            or defense and the main action have a question of law or fact in common. When a party to
+            an action relies for ground of claim or defense upon any statute or executive order
+            administered by a federal or state governmental officer or agency or upon any regulation,
+            order, requirement or agreement issued or made pursuant to the statute or executive order,
+            the officer or agency upon timely application may be permitted to intervene in the action.
+            In exercising its discretion the court shall consider whether the intervention will unduly
+            delay or prejudice the adjudication of the rights of the original parties.
 
-(C)     Procedure
+(C)         Procedure
 
-        A person desiring to intervene shall serve a motion to intervene upon the parties as provided
-        in Civ.R. 5. The motion and any supporting memorandum shall state the grounds for
-        intervention and shall be accompanied by a pleading, as defined in Civ.R. 7(A), setting
-        forth the claim or defense for which intervention is sought. The same procedure shall be
-        followed when a statute of this state gives a right to intervene.
+            A person desiring to intervene shall serve a motion to intervene upon the parties as provided
+            in Civ.R. 5. The motion and any supporting memorandum shall state the grounds for
+            intervention and shall be accompanied by a pleading, as defined in Civ.R. 7(A), setting
+            forth the claim or defense for which intervention is sought. The same procedure shall be
+            followed when a statute of this state gives a right to intervene.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1999
 
-                                Staff Note (July 1, 1999 Amendment)
+                                    Staff Note (July 1, 1999 Amendment)
 
-Rule 24(A)      Intervention of right
+Rule 24(A)         Intervention of right
 
-         Masculine references were made gender-neutral; there were no substantive amendments to this
+            Masculine references were made gender-neutral; there were no substantive amendments to this
 division.
 
-Rule 24(C)      Procedure
+Rule 24(C)         Procedure
 
         The 1999 amendment was intended to clarify that the “pleading” to be filed with a motion to
 intervene requires more than just a memorandum in support of the motion to intervene. The Note following
@@ -3613,19 +3764,20 @@ RULE 25.      Substitution of Parties.
 (A)   Death
 
       (1)     If a party dies and the claim is not thereby extinguished, the court shall, upon
-      motion, order substitution of the proper parties. The motion for substitution may be made
-      by any party or by the successors or representatives of the deceased party and shall be
-      served on the parties as provided in Civ.R. 5 and upon persons not parties in the manner
-      provided in Civ.R. 4 through Civ.R. 4.6 for the service of summons. Unless the motion
-      for substitution is made not later than ninety days after the death is suggested upon the
-      record by service of a statement of the fact of the death as provided herein for the service
-      of the motion, the action shall be dismissed as to the deceased party.
+              motion, order substitution of the proper parties. The motion for substitution may
+              be made by any party or by the successors or representatives of the deceased party
+              and shall be served on the parties as provided in Civ.R. 5 and upon persons not
+              parties in the manner provided in Civ.R. 4 through Civ.R. 4.6 for the service of
+              summons. Unless the motion for substitution is made not later than ninety days
+              after the death is suggested upon the record by service of a statement of the fact of
+              the death as provided herein for the service of the motion, the action shall be
+              dismissed as to the deceased party.
 
       (2)     In the event of the death of one or more of the plaintiffs or of one or more of the
-      defendants in an action in which the right sought to be enforced survives only to the
-      surviving plaintiffs or only against the surviving defendants, the action does not abate. The
-      death shall be suggested upon the record and the action shall proceed in favor of or against
-      the surviving parties.
+              defendants in an action in which the right sought to be enforced survives only to
+              the surviving plaintiffs or only against the surviving defendants, the action does not
+              abate. The death shall be suggested upon the record and the action shall proceed in
+              favor of or against the surviving parties.
 
 (B)   Incompetency
 
@@ -3643,16 +3795,16 @@ RULE 25.      Substitution of Parties.
 (D)   Public officers; death or separation from office
 
       (1)     When a public officer is a party to an action in the public officer’s official capacity
-      and during its pendency dies, resigns, or otherwise ceases to hold office, the action does
-      not abate and the public officer’s successor is automatically substituted as a party.
-      Proceedings following the substitution shall be in the name of the substituted party, but any
-      misnomer not affecting the substantial rights of the parties shall be disregarded. An order
-      of substitution may be entered at any time, but the omission to enter such an order shall not
-      affect the substitution.
+              and during its pendency dies, resigns, or otherwise ceases to hold office, the action
+              does not abate and the public officer’s successor is automatically substituted as a
+              party. Proceedings following the substitution shall be in the name of the substituted
+              party, but any misnomer not affecting the substantial rights of the parties shall be
+              disregarded. An order of substitution may be entered at any time, but the omission
+              to enter such an order shall not affect the substitution.
 
-      (2)    When a public officer sues or is sued in the public officer’s official capacity, the
-      public officer may be described as a party by official title rather than by name. The court
-      however may require the addition of the public officer’s name.
+      (2)     When a public officer sues or is sued in the public officer’s official capacity, the
+              public officer may be described as a party by official title rather than by name. The
+              court however may require the addition of the public officer’s name.
 
 (E)    Suggestion of death or incompetency
 
@@ -3715,64 +3867,72 @@ RULE 26.      General Provisions Governing Discovery.
 
 (3)   Initial Disclosure by a Party
 
-      (a)     Without awaiting a discovery request, a party must provide to the
-      other parties, except as exempted by Civ.R. 26(B)(3)(b) or as otherwise
-      stipulated, or ordered by the court:
+      (a)    Without awaiting a discovery request, a party must provide to the
+             other parties, except as exempted by Civ.R. 26(B)(3)(b) or as
+             otherwise stipulated, or ordered by the court:
 
-             (i)     The name and, if known, the address, telephone number, and
-             e-mail address of each individual likely to have discoverable
-             information - along with the subjects of that information - that the
-             disclosing party may use to support its claims or defenses, unless the
-             use would be solely for impeachment;
+                     (i)     The name and, if known, the address, telephone
+                             number, and e-mail address of each individual likely
+                             to have discoverable information - along with the
+                             subjects of that information - that the disclosing party
+                             may use to support its claims or defenses, unless the
+                             use would be solely for impeachment;
 
-             (ii)    A copy - or a description by category and location - of all
-             documents, electronically stored information, and tangible things
-             that the disclosing party has in its possession, custody, or control
-             and may use to support its claims or defenses, unless the use would
-             be solely for impeachment;
+                     (ii)    A copy - or a description by category and location -
+                             of all documents, electronically stored information,
+                             and tangible things that the disclosing party has in its
+                             possession, custody, or control and may use to
+                             support its claims or defenses, unless the use would
+                             be solely for impeachment;
 
-             (iii) A computation of each category of damages claimed by the
-             disclosing party - who must also make available for inspection and
-             copying as under Civ.R. 34 the documents or other evidentiary
-             material, unless privileged or protected from disclosure, on which
-             each computation is based, including materials bearing on the nature
-             and extent of injuries suffered; and
+                     (iii)   A computation of each category of damages claimed
+                             by the disclosing party - who must also make
+                             available for inspection and copying as under Civ.R.
+                             34 the documents or other evidentiary material,
+                             unless privileged or protected from disclosure, on
+                             which each computation is based, including
+                             materials bearing on the nature and extent of injuries
+                             suffered; and
 
-             (iv)    For inspection and copying as under Civ.R. 34, any
-             insurance agreement under which an insurance business may be
-             liable to satisfy all or part of a possible judgment in the action or to
-             indemnify or reimburse for payments made to satisfy the judgment.
+                     (iv)    For inspection and copying as under Civ.R. 34, any
+                             insurance agreement under which an insurance
+                             business may be liable to satisfy all or part of a
+                             possible judgment in the action or to indemnify or
+                             reimburse for payments made to satisfy the
+                             judgment.
 
       (b)    The following proceedings are exempt from initial disclosure:
 
-             (i)     An action for review on an administrative record;
+                     (i)     An action for review on an administrative record;
 
-             (ii)   An action brought without an attorney by a person in the
-             custody of the United States, a state, or a state subdivision;
+                     (ii)    An action brought without an attorney by a person in
+                             the custody of the United States, a state, or a state
+                             subdivision;
 
-             (iii) An action to enforce or quash an administrative summons or
-             subpoena;
+                     (iii)   An action to enforce or quash an administrative
+                             summons or subpoena;
 
-             (iv)    A proceeding ancillary to a proceeding in another court; and
+                     (iv)    A proceeding ancillary to a proceeding in another
+                     court; and
 
-             (v)     An action to enforce an arbitration award.
+                     (v)     An action to enforce an arbitration award.
 
-      (c)      A party must make the initial disclosures no later than the parties’
-      first pre-trial or case management conference, unless a different time is set
-      by stipulation or court order, or unless a party objects. In ruling on the
-      objection, the court must determine what disclosures, if any, are to be made
-      and must set the time for disclosure.
+      (c)    A party must make the initial disclosures no later than the parties’
+             first pre-trial or case management conference, unless a different time
+             is set by stipulation or court order, or unless a party objects. In
+             ruling on the objection, the court must determine what disclosures,
+             if any, are to be made and must set the time for disclosure.
 
-      (d)     A party that is first served or otherwise joined after the first pre-trial
-      or case management conference must make the initial disclosures within 30
-      days after being served or joined, unless a different time is set by stipulation
-      or court order.
+      (d)    A party that is first served or otherwise joined after the first pre-trial
+             or case management conference must make the initial disclosures
+             within 30 days after being served or joined, unless a different time
+             is set by stipulation or court order.
 
       (e)    A party must make its initial disclosures based on the information
-      then reasonably available to it. A party is not excused from making its
-      disclosures because it has not fully investigated the case or because it
-      challenges the sufficiency of another party's disclosures or because another
-      party has not made its disclosures.
+             then reasonably available to it. A party is not excused from making
+             its disclosures because it has not fully investigated the case or
+             because it challenges the sufficiency of another party's disclosures
+             or because another party has not made its disclosures.
 
 (4)   Trial preparation: materials
 
@@ -3797,6 +3957,7 @@ RULE 26.      General Provisions Governing Discovery.
       order, the party from whom discovery is sought must show that the
       information is not reasonably accessible because of undue burden or cost.
       If that showing is made, the court may nonetheless order discovery from
+
       such sources if the requesting party shows good cause, considering the
       limitations of Rule 26(B)(6). The court may specify conditions for the
       discovery.
@@ -3814,116 +3975,128 @@ RULE 26.      General Provisions Governing Discovery.
              of discovery otherwise allowed by these rules or by local rule if it
              determines that:
 
-                     (i)    The discovery sought is unreasonably cumulative or
-                     duplicative, or can be obtained from some other source that
-                     is more convenient, less burdensome, or less expensive;
+                    (i)      The discovery sought is unreasonably cumulative or
+                             duplicative, or can be obtained from some other
+                             source that is more convenient, less burdensome, or
+                             less expensive;
 
-                     (ii)    The party seeking discovery has had ample
-                     opportunity to obtain the information by discovery in the
-                     action; or
+                    (ii)     The party seeking discovery has had ample
+                             opportunity to obtain the information by discovery in
+                             the action; or
 
-                     (iii) The proposed discovery is outside the scope
-                     permitted by Rule 26(B)(1).
+                     (iii)   The proposed discovery is outside the scope
+                             permitted by Rule 26(B)(1).
 
       (c)    In ordering production of electronically stored information, the
-      court may specify the format, extent, timing, allocation of expenses and
-      other conditions for the discovery of the electronically stored information.
+             court may specify the format, extent, timing, allocation of expenses
+             and other conditions for the discovery of the electronically stored
+             information.
 
 (7)   Disclosure of Expert Testimony
 
-      (a)     A party must disclose to the other parties the identity of any witness
-      it may use at trial to present evidence under Ohio Rule of Evidence 702,
-      703, or 705.
+      (a)    A party must disclose to the other parties the identity of any witness
+             it may use at trial to present evidence under Ohio Rule of Evidence
+             702, 703, or 705.
 
-      (b)     The reports of expert witnesses expected to be called by each party
-      shall be exchanged with all other parties. The parties shall submit expert
-      reports and curricula vitae in accordance with the time schedule established
-      by the Court. The party with the burden of proof as to a particular issue
-      shall be required to first submit expert reports as to that issue. Thereafter,
-      the responding party shall submit opposing expert reports within the
-      schedule established by the Court.
+      (b)    The reports of expert witnesses expected to be called by each party
+             shall be exchanged with all other parties. The parties shall submit
+             expert reports and curricula vitae in accordance with the time
+             schedule established by the Court. The party with the burden of
+             proof as to a particular issue shall be required to first submit expert
+             reports as to that issue. Thereafter, the responding party shall submit
 
-      (c)    Other than under subsection (d), a party may not call an expert
-      witness to testify unless a written report has been procured from the witness
-      and provided to opposing counsel. The report of an expert must disclose a
-      complete statement of all opinions and the basis and reasons for them as to
+      opposing expert reports within the schedule established by the
+      Court.
 
-each matter on which the expert will testify. It must also state the
-compensation for the expert’s study or testimony. Unless good cause is
-shown, all reports and, if applicable, supplemental reports must be supplied
-no later than thirty (30) days prior to trial. An expert will not be permitted
-to testify or provide opinions on matters not disclosed in his or her report.
+(c)   Other than under subsection (d), a party may not call an expert
+      witness to testify unless a written report has been procured from the
+      witness and provided to opposing counsel. The report of an expert
+      must disclose a complete statement of all opinions and the basis and
+      reasons for them as to each matter on which the expert will testify.
+      It must also state the compensation for the expert’s study or
+      testimony. Unless good cause is shown, all reports and, if
+      applicable, supplemental reports must be supplied no later than
+      thirty (30) days prior to trial. An expert will not be permitted to
+      testify or provide opinions on matters not disclosed in his or her
+      report.
 
-(d)     Healthcare Providers. A witness who has provided medical, dental,
-optometric, chiropractic, or mental health care may testify as an expert and
-offer opinions as to matters addressed in the healthcare provider’s records.
-Healthcare providers’ records relevant to the case shall be provided to
-opposing counsel in lieu of an expert report in accordance with the time
-schedule established by the Court.
+(d)   Healthcare Providers. A witness who has provided medical, dental,
+      optometric, chiropractic, or mental health care may testify as an
+      expert and offer opinions as to matters addressed in the healthcare
+      provider’s records. Healthcare providers’ records relevant to the
+      case shall be provided to opposing counsel in lieu of an expert report
+      in accordance with the time schedule established by the Court.
 
-(e)     A party may take a discovery deposition of their opponent's expert
-witness only after the mutual exchange of reports has occurred unless the
-expert is a healthcare provider permitted to testify as an expert under
-subsection (d). Upon good cause shown, additional time after submission
-of both sides' expert reports will be provided for these discovery depositions
-if requested by a party. If a party chooses not to hire an expert in opposition
-to an issue, that party will be permitted to take the discovery deposition of
-the proponent's expert.
+(e)   A party may take a discovery deposition of their opponent's expert
+      witness only after the mutual exchange of reports has occurred
+      unless the expert is a healthcare provider permitted to testify as an
+      expert under subsection (d). Upon good cause shown, additional
+      time after submission of both sides' expert reports will be provided
+      for these discovery depositions if requested by a party. If a party
+      chooses not to hire an expert in opposition to an issue, that party will
+      be permitted to take the discovery deposition of the proponent's
+      expert.
 
-(f)    Drafts of any report provided by any expert, regardless of the form
-in which the draft is recorded, are protected by division (B)(4) of this rule.
+(f)   Drafts of any report provided by any expert, regardless of the form
+      in which the draft is recorded, are protected by division (B)(4) of
+      this rule.
 
-(g)     Communications between a party’s attorney and any witness
-identified as an expert witness under division (B)(7) of this rule regardless
-of the form of the communications, are protected by division (B)(4) of this
-rule except to the extent that the communications:
+(g)   Communications between a party’s attorney and any witness
+      identified as an expert witness under division (B)(7) of this rule
+      regardless of the form of the communications, are protected by
+      division (B)(4) of this rule except to the extent that the
+      communications:
 
-       (i)     Relate to compensation for the expert’s study or testimony;
+             (i)     Relate to compensation for the expert’s study or
+                     testimony;
 
-       (ii)    Identify facts or data that the party’s attorney provided and
-       that the expert considered in forming the opinions to be expressed;
-       or
+                     (ii)    Identify facts or data that the party’s attorney
+                             provided and that the expert considered in forming
+                             the opinions to be expressed; or
 
-       (iii) Identify assumptions that the party’s attorney provided and
-       that the expert relied on in forming the opinions to be expressed.
+                     (iii)   Identify assumptions that the party’s attorney
+                             provided and that the expert relied on in forming the
+                             opinions to be expressed.
 
-(h)    Expert Employed Only for Trial Preparation. Ordinarily, a party
-may not, by interrogatories or deposition, discover facts known or opinions
-held by an expert who has been retained or specially employed by another
-party in anticipation of litigation or to prepare for trial and who is not
-expected to be called as a witness at trial. But a party may do so only:
+      (h)    Expert Employed Only for Trial Preparation. Ordinarily, a party
+             may not, by interrogatories or deposition, discover facts known or
+             opinions held by an expert who has been retained or specially
+             employed by another party in anticipation of litigation or to prepare
+             for trial and who is not expected to be called as a witness at trial.
+             But a party may do so only:
 
-       (i)     As provided in Civ.R. 35(B); or
+                     (i)     As provided in Civ.R. 35(B); or
 
-                            (ii)    On showing exceptional circumstances under which, it is
-                            impracticable for the party to obtain facts or opinions on the same
-                            subject by other means.
+                     (ii)    On showing exceptional circumstances under which,
+                             it is impracticable for the party to obtain facts or
+                             opinions on the same subject by other means.
 
-                            (iii) The party seeking discovery under division (B)(7) of this
-                            rule shall pay the expert a reasonable fee for time spent in
-                            deposition.
+                     (iii)   The party seeking discovery under division (B)(7) of
+                             this rule shall pay the expert a reasonable fee for time
+                             spent in deposition.
 
-             (8)    Claims of privilege or protection of trial-preparation materials
+(8)   Claims of privilege or protection of trial-preparation materials
 
-                    (a)     Information withheld
+      (a)    Information withheld
 
-                            When information subject to discovery is withheld on a claim that it
-                            is privileged or subject to protection as trial preparation materials,
-                            the claim shall be made expressly and shall be supported by a
-                            description of the nature of the documents, communications, or
-                            things not produced that is sufficient to enable the demanding party
-                            to contest the claim.
+             When information subject to discovery is withheld on a claim that it
+             is privileged or subject to protection as trial preparation materials,
+             the claim shall be made expressly and shall be supported by a
+             description of the nature of the documents, communications, or
+             things not produced that is sufficient to enable the demanding party
+             to contest the claim.
 
-                    (b)     Information produced
+      (b)    Information produced
 
-                            If information is produced in discovery that is subject to a claim of
-                            privilege or of protection as trial preparation material, the party
-                            making the claim may notify any party that received the information
-                            of the claim and the basis for it. After being notified, a receiving
-                            party must promptly return, sequester, or destroy the specified
-                            information and any copies within the party’s possession, custody
-                            or control. A party may not use or disclose the information until the
-                            claim is resolved. A receiving party may promptly present the
+             If information is produced in discovery that is subject to a claim of
+             privilege or of protection as trial preparation material, the party
+             making the claim may notify any party that received the information
+             of the claim and the basis for it. After being notified, a receiving
+             party must promptly return, sequester, or destroy the specified
+             information and any copies within the party’s possession, custody
+             or control. A party may not use or disclose the information until the
+             claim is resolved. A receiving party may promptly present the
+
                             information to the court under seal for a determination of the claim
                             of privilege or of protection as trial preparation material. If the
                             receiving party disclosed the information before being notified, it
@@ -3937,27 +4110,28 @@ expected to be called as a witness at trial. But a party may do so only:
       requires to protect a party or person from annoyance, embarrassment, oppression, or undue
       burden or expense, including one or more of the following:
 
-             (1)    That the discovery not be had;
+             (1)     That the discovery not be had;
 
-             (2)    That the discovery may be had only on specified terms and conditions,
-             including a designation of the time or place or the allocation of expenses;
+             (2)     That the discovery may be had only on specified terms and conditions,
+                     including a designation of the time or place or the allocation of expenses;
 
              (3)     That the discovery may be had only by a method of discovery other than
-             that selected by the party seeking discovery;
+                     that selected by the party seeking discovery;
 
              (4)     That certain matters not be inquired into or that the scope of the discovery
-             be limited to certain matters;
+                     be limited to certain matters;
 
              (5)     That discovery be conducted with no one present except persons designated
-             by the court;
+                     by the court;
 
              (6)     That a deposition after being sealed be opened only by order of the court;
 
-             (7)  That a trade secret or other confidential research, development, or
-             commercial information not be disclosed or be disclosed only in a designated way;
+             (7)     That a trade secret or other confidential research, development, or
+                     commercial information not be disclosed or be disclosed only in a
+                     designated way;
 
-             (8)    That the parties simultaneously file specified documents or information
-             enclosed in sealed envelopes to be opened as directed by the court.
+             (8)     That the parties simultaneously file specified documents or information
+                     enclosed in sealed envelopes to be opened as directed by the court.
 
       If the motion for a protective order is denied in whole or in part, the court, on terms and
       conditions as are just, may order that any party or person provide or permit discovery. The
@@ -3983,18 +4157,18 @@ expected to be called as a witness at trial. But a party may do so only:
       when made is under no duty to supplement his response to include information thereafter
       acquired, except as follows:
 
-             (1)      A party is under a duty seasonably to supplement his response with respect
-             to any question directly addressed to (a) the identity and location of person having
-             knowledge of discoverable matters, and (b) the identity of each person expected to
-             be called as an expert witness as trial and the subject matter on which he is expected
-             to testify.
+             (1)     A party is under a duty seasonably to supplement his response with respect
+                     to any question directly addressed to (a) the identity and location of person
+                     having knowledge of discoverable matters, and (b) the identity of each
+                     person expected to be called as an expert witness as trial and the subject
+                     matter on which he is expected to testify.
 
-             (2)    A party who knows or later learns that his response is incorrect is under a
-             duty seasonably to correct the response.
+             (2)     A party who knows or later learns that his response is incorrect is under a
+                     duty seasonably to correct the response.
 
-             (3)   A duty to supplement responses may be imposed by order of the court,
-             agreement of the parties, or at any time prior to trial through requests for
-             supplementation of prior responses.
+             (3)     A duty to supplement responses may be imposed by order of the court,
+                     agreement of the parties, or at any time prior to trial through requests for
+                     supplementation of prior responses.
 
 (F)   Conference of the parties; planning for discovery
 
@@ -4016,49 +4190,49 @@ expected to be called as a witness at trial. But a party may do so only:
              jointly responsible for arranging the conference, for attempting in good faith to
              agree on the proposed discovery plan, and for filing with the court within fourteen
              days after the conference a written report outlining the plan. The court may order
-             the parties or attorneys to attend the conference in person.
 
-      (3)    Discovery plan
+               the parties or attorneys to attend the conference in person.
 
-             A discovery plan shall state the parties’ views and proposals on:
+       (3)     Discovery plan
 
-                    (a)     What changes should be made in the timing, form, or requirement
-                    for disclosures under Civ.R. 26(B), including a statement of when initial
-                    disclosures were made or will be made;
+               A discovery plan shall state the parties’ views and proposals on:
 
-                    (b)    Agreed-upon deadlines for discovery and other items that may be
-                    included in a case schedule to be issued under Civ.R. 16, any proposed
-                    modifications to a schedule already issued under Civ.R. 16, and compliance
+                       (a)     What changes should be made in the timing, form, or requirement
+                               for disclosures under Civ.R. 26(B), including a statement of when
+                               initial disclosures were made or will be made;
 
-                         with Sup. R 39 and 42.
+                       (b)     Agreed-upon deadlines for discovery and other items that may be
+                               included in a case schedule to be issued under Civ.R. 16, any
+                               proposed modifications to a schedule already issued under Civ.R.
+                               16, and compliance with Sup.R. 5.21 and 5.22.
 
-                         (c)     The subjects on which discovery may be needed, when discovery
-                         should be completed, and whether discovery should be conducted in phases
-                         or be limited to or focused on particular issues;
+                       (c)     The subjects on which discovery may be needed, when discovery
+                               should be completed, and whether discovery should be conducted in
+                               phases or be limited to or focused on particular issues;
 
-                         (d)     Any issues about disclosure, discovery, or preservation of
-                         electronically stored information, including the form or forms in which it
-                         should be produced;
+                       (d)     Any issues about disclosure, discovery, or preservation of
+                               electronically stored information, including the form or forms in
+                               which it should be produced;
 
-                         (e)    Disclosure and the exchange of documents obtained through public
-                         records requests;
+                       (e)     Disclosure and the exchange of documents obtained through public
+                               records requests;
 
-                         (f)    Any issues about claims of privilege or of protection as trial-
-                         preparation materials;
+                       (f)     Any issues about claims of privilege or of protection as trial-
+                               preparation materials;
 
-                         (g)   What changes should be made in the limitations on discovery
-                         imposed under these rules or by local rule, and what other limitations should
-                         be imposed;
+                       (g)     What changes should be made in the limitations on discovery
+                               imposed under these rules or by local rule, and what other
+                               limitations should be imposed;
 
-                         (h)    Any other orders that the court should issue under Civ.R. 26(C) or
-                         under Civ.R. 16(B) and (C); and any modifications required or to be
-                         requested under any scheduling order issued under Civ.R. 16.
+                       (h)     Any other orders that the court should issue under Civ.R. 26(C) or
+                               under Civ.R. 16(B) and (C); and any modifications required or to be
+                               requested under any scheduling order issued under Civ.R. 16.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1994; July 1, 2008; July 1, 2012; July 1, 2020; July 1, 2021; July 1, 2022; July
 1, 2023
 
-                                  Staff Note (July 1, 2008 Amendment)
+                                Staff Note (July 1, 2008 Amendment)
 
         Several provisions of the rule are amended to clarify that discovery of electronically stored
 information is permitted.
@@ -4077,10 +4251,9 @@ including allocating costs and other details related to production of electronic
 
         Existing Rule 26(B)(4) is renumbered as 26(B)(5) but no other changes are made.
 
-        Civ.R. 26(B)(6)(a) and (b) apply to all discovery not just electronically stored information. Rule
+         Civ.R. 26(B)(6)(a) and (b) apply to all discovery not just electronically stored information. Rule
 26(B)(6)(a) establishes procedures parties must follow when withholding documents (including
 electronically stored information) based on privilege.
-
          Civ.R. 26(B)(6)(b) provides a mechanism for a party to retrieve inadvertently produced documents
 from an opponent. This is often called a “clawback” provision. A similar provision is included in the federal
 rules and the rules of other states that have modified their civil rules to accommodate e-discovery. It applies
@@ -4120,6 +4293,7 @@ reality that it cannot always operate on a self-regulating basis. The scope of a
 including the increase and pervasiveness of electronically stored information, has greatly increased
 both the potential cost of wide- ranging discovery and the potential for discovery to be used as an
 instrument for delay or oppression. The present amendment reflects the need for continuing and close
+
 judicial involvement in the cases that do not yield readily to the ideal of effective party management.
 It is expected that discovery will be effectively managed by the parties in many cases. But there will
 be important occasions for judicial management, both when the parties are legitimately unable to
@@ -4137,7 +4311,6 @@ proportionality. A party requesting discovery, for example, may have little info
 or expense of responding. A party requested to provide discovery may have little information about
 the importance of the discovery in resolving the issues as understood by the requesting party. Many
 of these uncertainties should be addressed and reduced in the parties' Civ.R. 26(F) conference and
-
 in scheduling and pretrial conferences with the court. But if the parties continue to disagree, the
 discovery dispute could be brought before the court. A party claiming undue burden or expense
 ordinarily has far better information — perhaps the only information — with respect to that part of the
@@ -4194,7 +4367,6 @@ in many cases, obviate the need for a deposition, and will lessen the time and s
 associated with expert discovery. So will permitting the deposition of experts only after the mutual
 exchange of expert reports. Further expense can be lessened by permitting healthcare providers to
 testify as an expert as to matters addressed in medical records, without the necessity of writing a
-
 separate medical report, if such records are timely provided to opposing counsel. Subsection (B)(7)(h)
 is the same as Fed. R. Civ. P. 26(b)(4)(D) and protects facts and opinions held by an expert who is
 not expected to be called as a witness at trial.
@@ -4229,12 +4401,13 @@ sentence, “and for submitting with the court[…][.]”
        6. Civ.R. 26(F)(3)(e) – The Ohio Rule addresses public records disclosure as part of the
 discovery plan whereas the Federal Rule does not.
 
-        7. Civ.R. 26(F)(3)(f) – The Ohio Rule ends with “of protection as trial-preparation
+       7. Civ.R. 26(F)(3)(f) – The Ohio Rule ends with “of protection as trial-preparation
 materials[…][.]” The Federal Rule (Fed. Civ.R. 26(F)(3)(D)) ends with “as trial-preparation materials,
+
 including – if the parties agree on a procedure to assert these claims after production – whether to ask
 the court to include their agreement in an order under Federal Rule of Evidence 502[…][.]”
 
-          8. Civ.R. 26(F)(3)(b) and (i) – these subsections are not included in Fed. Civ.R. 26(F)(3).
+        8. Civ.R. 26(F)(3)(b) and (i) – these subsections are not included in Fed. Civ.R. 26(F)(3).
 
        9. Civ.R. 26(F)(4) – This subsection was removed from the proposed Ohio Rules, but it is
 included in the Federal Rules.
@@ -4244,7 +4417,7 @@ conference among the attorneys and any unrepresented party, and requires the fil
 outlining the results of that conference. This amendment also requires that the discovery plan, to
 which counsel and the parties agree, be in compliance with the time limitations of Sup.R. 39 and 42.
 
-                                  Staff Note (July 1, 2023 Amendment)
+                                 Staff Note (July 1, 2023 Amendment)
 
         Civ.R. 26(B)(8) requires assertions of privilege or trial-preparation protection be made clearly, so
 that the party seeking discovery understands the basis for withholding material and, if appropriate, may
@@ -4264,25 +4437,25 @@ RULE 27.    Perpetuation of Testimony--Depositions Before Action or Pending Appe
             party. The petitioner shall verify that he believes the facts stated in the petition are
             true. The petition shall be entitled in the name of the petitioner and shall show:
 
-                      (a)    That the petitioner or his personal representatives, heirs,
-                      beneficiaries, successors, or assigns may be parties to an action or
-                      proceeding cognizable in a court but is presently unable to bring or defend
-                      it;
+                      (a)   That the petitioner or his personal representatives, heirs,
+                            beneficiaries, successors, or assigns may be parties to an action or
+                            proceeding cognizable in a court but is presently unable to bring or
+                            defend it;
 
-                      (b)     The subject matter of the expected action or proceeding and his
-                      interest therein (if the validity or construction of any written instrument
-                      connected with the subject matter of the deposition may be called in
-                      question a copy shall be attached to the petition);
+                      (b)   The subject matter of the expected action or proceeding and his
+                            interest therein (if the validity or construction of any written
+                            instrument connected with the subject matter of the deposition may
+                            be called in question a copy shall be attached to the petition);
 
-                      (c)     The facts which he desires to establish by the proposed testimony
-                      and his reasons for desiring to perpetuate it;
+                      (c)   The facts which he desires to establish by the proposed testimony
+                            and his reasons for desiring to perpetuate it;
 
-                      (d)    The names or, if the names are unknown, a description of the
-                      persons he expects will be adverse parties and their addresses so far as
-                      known;
+                      (d)   The names or, if the names are unknown, a description of the
+                            persons he expects will be adverse parties and their addresses so far
+                            as known;
 
-                      (e)     The names and addresses of the persons to be examined and the
-                      subject matter of the testimony which he expects to elicit from each.
+                      (e)   The names and addresses of the persons to be examined and the
+                            subject matter of the testimony which he expects to elicit from each.
 
             The petition shall then ask for an order authorizing the petitioner to take the
             depositions of the persons to be examined named in the petition, for the purpose of
@@ -4402,21 +4575,22 @@ RULE 28.     Persons Before Whom Depositions May be Taken.
 
 (D)   Prohibited contracts
 
-      (1)     Any blanket contract for private court reporting services, not related to a particular
-      case or reporting incident, shall be prohibited between a private court reporter or any other
-      person with whom a private court reporter has a principal and agency relationship, and any
-      attorney, party to an action, party having a financial interest in an action, or any entity
-      providing the services of a shorthand reporter.
+      (1)    Any blanket contract for private court reporting services, not related to a particular
+             case or reporting incident, shall be prohibited between a private court reporter or
+             any other person with whom a private court reporter has a principal and agency
+             relationship, and any attorney, party to an action, party having a financial interest
+             in an action, or any entity providing the services of a shorthand reporter.
 
-      (2)     “Blanket contract” means a contract under which a court reporter, court recorder,
-      or court reporting firm agrees to perform all court reporting or court recording services for
-      a client for two or more cases at a rate of compensation fixed in the contract.
+      (2)    “Blanket contract” means a contract under which a court reporter, court recorder,
+             or court reporting firm agrees to perform all court reporting or court recording
+             services for a client for two or more cases at a rate of compensation fixed in the
+             contract.
 
-      (3)     Negotiating or bidding reasonable fees, equal to all parties, on a case-by-case basis
-      is not prohibited.
+      (3)    Negotiating or bidding reasonable fees, equal to all parties, on a case-by-case basis
+             is not prohibited.
 
-      (4)      Division (D) of this rule does not apply to the courts or the administrative tribunals
-      of this state.
+      (4)    Division (D) of this rule does not apply to the courts or the administrative tribunals
+             of this state.
 
 Effective Date: July 1, 1970
 Amended: July 1, 2001; July 1, 2022
@@ -4482,82 +4656,86 @@ RULE 30.     Depositions Upon Oral Examination.
       be taken only by leave of court on such terms as the court prescribes.
 
 (B)   Notice of examination; general requirements; nonstenographic recording;
-production of documents and things; deposition of organization; deposition by telephone or
-remote presence
+      production of documents and things; deposition of organization; deposition by
+      telephone or remote presence
 
-      (1)     A party desiring to take the deposition of any person upon oral examination shall
-      give reasonable notice in writing to every other party to the action. The notice shall state
-      the time and place for taking the deposition and the name and address of each person to be
-      examined, if known, and, if the name is not known, a general description sufficient to
-      identify the person or the particular class or group to which the person belongs. If a
-      subpoena duces tecum is to be served on the person to be examined, a designation of the
-      materials to be produced shall be attached to or included in the notice.
+      (1)    A party desiring to take the deposition of any person upon oral examination shall
+             give reasonable notice in writing to every other party to the action. The notice shall
+             state the time and place for taking the deposition and the name and address of each
+             person to be examined, if known, and, if the name is not known, a general
+             description sufficient to identify the person or the particular class or group to which
+             the person belongs. If a subpoena duces tecum is to be served on the person to be
+             examined, a designation of the materials to be produced shall be attached to or
+             included in the notice.
 
       (2)    If any party shows that when the party was served with notice the party was unable,
-      through the exercise of diligence, to obtain counsel to represent the party at the taking of
-      the deposition, the deposition may not be used against the party.
+             through the exercise of diligence, to obtain counsel to represent the party at the
+             taking of the deposition, the deposition may not be used against the party.
 
-      (3)     If a party taking a deposition wishes to have the testimony recorded by other than
-      stenographic means, the notice shall specify the manner of recording, preserving, and filing
-      the deposition. The court may require stenographic taking or make any other order to
-      ensure that the recorded testimony will be accurate and trustworthy. With prior notice to
-      the deponent and other parties, any party may designate another method for recording the
-      testimony in addition to that specified in the original notice. That party bears the expense
-      of the additional record or transcript unless the court orders otherwise.
+      (3)    If a party taking a deposition wishes to have the testimony recorded by other than
+             stenographic means, the notice shall specify the manner of recording, preserving,
+             and filing the deposition. The court may require stenographic taking or make any
+             other order to ensure that the recorded testimony will be accurate and trustworthy.
+             With prior notice to the deponent and other parties, any party may designate another
+             method for recording the testimony in addition to that specified in the original
+             notice. That party bears the expense of the additional record or transcript unless
+             the court orders otherwise.
 
       (4)    The notice to a party deponent may be accompanied by a request made in
-      compliance with Civ.R. 34 for the production of documents and tangible things at the
-      taking of the deposition.
+             compliance with Civ.R. 34 for the production of documents and tangible things at
+             the taking of the deposition.
 
-      (5)     In its notice or subpoena, a party may name as the deponent a public or private
-      corporation, a partnership, an association, a limited liability entity, a governmental agency,
-      or other entity and shall describe with reasonable particularity the matters for examination.
-      The named organization shall designate one or more officers, directors, or managing
-      agents, or designate other persons who consent to testify on its behalf; and it may set out
-      the matters on which each person designated will testify. Before or promptly after the
-      notice or subpoena is served, the serving party and the organization shall confer in good
+      (5)    In its notice or subpoena, a party may name as the deponent a public or private
+             corporation, a partnership, an association, a limited liability entity, a governmental
+             agency, or other entity and shall describe with reasonable particularity the matters
+             for examination. The named organization shall designate one or more officers,
+             directors, or managing agents, or designate other persons who consent to testify on
 
-      faith about the matters for examination. A subpoena shall advise a nonparty organization
-      of its duty to confer with the serving party and to designate each person who will testify.
-      The persons designated shall testify about information known or reasonably available to
-      the organization. Division (B)(5) does not preclude a deposition by any other procedure
-      allowed by these rules.
+            its behalf; and it may set out the matters on which each person designated will
+            testify. Before or promptly after the notice or subpoena is served, the serving party
+            and the organization shall confer in good faith about the matters for examination.
+            A subpoena shall advise a nonparty organization of its duty to confer with the
+            serving party and to designate each person who will testify. The persons designated
+            shall testify about information known or reasonably available to the organization.
+            Division (B)(5) does not preclude a deposition by any other procedure allowed by
+            these rules.
 
-      (6)     The parties may stipulate or the court may upon motion order that a deposition be
-      taken by telephone or with one or more participants in a remote presence. For purposes of
-      this rule, Civ.R. 28, and Civ.R. 45(C), a deposition taken by telephone or with participants
-      in remote presence is considered to be taken in the jurisdiction in which the case is pending.
+      (6)   The parties may stipulate or the court may upon motion order that a deposition be
+            taken by telephone or with one or more participants in a remote presence. For
+            purposes of this rule, Civ.R. 28, and Civ.R. 45(C), a deposition taken by telephone
+            or with participants in remote presence is considered to be taken in the jurisdiction
+            in which the case is pending.
 
-(C)    Examination and cross-examination; record of examination; oath; objections; written
-questions
+(C)   Examination and cross-examination; record of examination; oath; objections; written
+      questions
 
-      (1)    Examination and cross-examination
+      (1)   Examination and cross-examination
 
-             Each party at the deposition may examine the deponent without regard to which
-             party served notice or called the deposition. In all other respects the examination
-             and cross-examination of a deponent may proceed as they would at trial under the
-             Ohio Rules of Evidence, except Evid.R. 103 and Evid.R. 615. After putting the
-             deponent under oath or affirmation, the officer shall record the testimony by the
-             method designated under Civ.R. 30(B)(3). The testimony shall be recorded by the
-             officer personally or by a person acting in the presence and under the direction of
-             the officer.
+            Each party at the deposition may examine the deponent without regard to which
+            party served notice or called the deposition. In all other respects the examination
+            and cross-examination of a deponent may proceed as they would at trial under the
+            Ohio Rules of Evidence, except Evid.R. 103 and Evid.R. 615. After putting the
+            deponent under oath or affirmation, the officer shall record the testimony by the
+            method designated under Civ.R. 30(B)(3). The testimony shall be recorded by the
+            officer personally or by a person acting in the presence and under the direction of
+            the officer.
 
-      (2)    Objections
+      (2)   Objections
 
-             An objection made at the time of the examination whether to evidence, a party’s
-             conduct, to the officer’s qualifications, to the manner of taking the deposition, or to
-             any other aspect of the deposition shall be noted on the record, but the examination
-             still proceeds, the testimony taken subject to any objection. An objection shall be
-             stated concisely in a nonargumentative and nonsuggestive manner. A person may
-             instruct a deponent not to answer only when necessary to preserve a privilege, to
-             enforce a limitation ordered by a court, or to present a motion under Civ.R. 30(D).
+            An objection made at the time of the examination whether to evidence, a party’s
+            conduct, to the officer’s qualifications, to the manner of taking the deposition, or to
+            any other aspect of the deposition shall be noted on the record, but the examination
+            still proceeds, the testimony taken subject to any objection. An objection shall be
+            stated concisely in a nonargumentative and nonsuggestive manner. A person may
+            instruct a deponent not to answer only when necessary to preserve a privilege, to
+            enforce a limitation ordered by a court, or to present a motion under Civ.R. 30(D).
 
-      (3)    Participating through written questions
+      (3)   Participating through written questions
 
-             Instead of participating in the oral examination, a party may serve written questions
-             in a sealed envelope on the party noticing the deposition, who must deliver them to
-             the officer. The officer must ask the deponent those questions and record the
-             answers verbatim.
+            Instead of participating in the oral examination, a party may serve written questions
+            in a sealed envelope on the party noticing the deposition, who must deliver them to
+            the officer. The officer must ask the deponent those questions and record the
+            answers verbatim.
 
 (D)   Duration; motion to terminate or limit examinations
 
@@ -4607,53 +4785,55 @@ questions
 
       (1)
              (a)     Upon request of any party or order of the court, the officer shall transcribe
-             the deposition. Provided the officer has retained an archival-quality copy of the
-             officer’s notes, the officer shall have no duty to retain paper notes of the deposition
-             testimony. The officer shall certify on the transcribed deposition that the witness
-             was fully sworn or affirmed by the officer and that the transcribed deposition is a
-             true record of the testimony given by the witness. If any of the parties request or
-             the court orders, the officer shall seal the transcribed deposition in an envelope
-             endorsed with the title of the action and marked “Deposition of (here insert name
-             of witness)” and, upon payment of the officer’s fees, promptly shall file it with the
-             court in which the action is pending or send it by United States certified or express
-             mail or commercial carrier service to the clerk of the court for filing.
+                     the deposition. Provided the officer has retained an archival-quality copy
+                     of the officer’s notes, the officer shall have no duty to retain paper notes of
+                     the deposition testimony. The officer shall certify on the transcribed
+                     deposition that the witness was fully sworn or affirmed by the officer and
+                     that the transcribed deposition is a true record of the testimony given by the
+                     witness. If any of the parties request or the court orders, the officer shall
+                     seal the transcribed deposition in an envelope endorsed with the title of the
+                     action and marked “Deposition of (here insert name of witness)” and, upon
+                     payment of the officer’s fees, promptly shall file it with the court in which
+                     the action is pending or send it by United States certified or express mail or
+                     commercial carrier service to the clerk of the court for filing.
 
              (b)     Unless objection is made to their production for inspection during the
-             examination of the witness, documents and things shall be marked for identification
-             and annexed to and returned with the deposition. The materials may be inspected
-             and copied by any party, except that the person producing the materials may
-             substitute copies to be marked for identification, if the person affords to all parties
-             fair opportunity to verify the copies by comparison with the originals. If the person
-             producing the materials requests their return, the officer shall mark them, give each
-             party an opportunity to inspect and copy them, and return them to the person
-             producing them, and the materials may then be used in the same manner as if
-             annexed to and returned with the deposition.
+                     examination of the witness, documents and things shall be marked for
+                     identification and annexed to and returned with the deposition. The
+                     materials may be inspected and copied by any party, except that the person
+                     producing the materials may substitute copies to be marked for
+                     identification, if the person affords to all parties fair opportunity to verify
+                     the copies by comparison with the originals. If the person producing the
+                     materials requests their return, the officer shall mark them, give each party
+                     an opportunity to inspect and copy them, and return them to the person
+                     producing them, and the materials may then be used in the same manner as
+                     if annexed to and returned with the deposition.
 
       (2)    Upon payment, the officer shall furnish a copy of the deposition to any party or to
-      the deponent.
+             the deponent.
 
-      (3)      The party requesting the filing of the deposition shall forthwith give notice of its
-      filing to all other parties.
+      (3)    The party requesting the filing of the deposition shall forthwith give notice of its
+             filing to all other parties.
 
       (4)    As used in division (F) of this rule, “archival-quality copy” means any format of a
-      permanent or enduring nature, including digital, magnetic, optical, or other medium, that
-      allows an officer to transcribe the deposition.
+             permanent or enduring nature, including digital, magnetic, optical, or other
+             medium, that allows an officer to transcribe the deposition.
 
 (G)   Failure to attend or to serve subpoena; expenses
 
-      (1)     If the party giving the notice of the taking of a deposition fails to attend and proceed
-      with the deposition and another party attends in person or by attorney pursuant to the notice,
-      the court may order the party giving the notice to pay to the other party the amount of the
-      reasonable expenses incurred by the other party and the other party’s attorney in so
-      attending, including reasonable attorney’s fees.
+      (1)    If the party giving the notice of the taking of a deposition fails to attend and proceed
+             with the deposition and another party attends in person or by attorney pursuant to
+             the notice, the court may order the party giving the notice to pay to the other party
+             the amount of the reasonable expenses incurred by the other party and the other
+             party’s attorney in so attending, including reasonable attorney’s fees.
 
-      (2)    If the party giving the notice of the taking of a deposition of a witness fails to serve
-      a subpoena upon the witness and the witness because of the failure does not attend, and
-
-        another party attends in person or by attorney because the other party expects the deposition
-        of that witness to be taken, the court may order the party giving the notice to pay to the
-        other party the amount of the reasonable expenses incurred by the other party and the other
-        party’s attorney in so attending, including reasonable attorney’s fees.
+        (2)      If the party giving the notice of the taking of a deposition of a witness fails to serve
+                 a subpoena upon the witness and the witness because of the failure does not attend,
+                 and another party attends in person or by attorney because the other party expects
+                 the deposition of that witness to be taken, the court may order the party giving the
+                 notice to pay to the other party the amount of the reasonable expenses incurred by
+                 the other party and the other party’s attorney in so attending, including reasonable
+                 attorney’s fees.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1976; July 1, 1985; July 1, 1992; July 1, 1994; July 1, 1997; July 1, 2006;
@@ -4700,11 +4880,11 @@ that a careful review of a deposition in that period of time was sometimes pract
 When a deposition is taken close to trial, however, a quick turn-around may be necessary. Consequently,
 division (E) is amended to expand to thirty days the period in which a witness has to review and sign a
 deposition. Exceptions are provided for cases where the deposition is taken within thirty days of trial or
+
 hearing, in which case the seven-day rule still applies, or less than seven days of trial or hearing, in which
 case the trial judge may establish a different deadline. This amendment brings the Ohio rule closer to the
 Federal Rules of Civil Procedure, which give a witness thirty days to review and sign a deposition.
-
-Rule 30(F)      Certification and filing by officer; exhibits; copies; notice of filing
+Rule 30(F)        Certification and filing by officer; exhibits; copies; notice of filing
 
          The 2006 amendment added division (F)(4). The amendment responds to a concern expressed
 by individuals charged with taking or keeping notes of depositions in light of changes in technology and the
@@ -4714,7 +4894,7 @@ a permanent or enduring nature that will allow an officer to transcribe the depo
 definition, division (F)(1)(a) was revised to delete language that required the retention of paper notes of
 deposition testimony for a minimum of five years following the deposition.
 
-                                 Staff Note (July 1, 2015 Amendment)
+                                  Staff Note (July 1, 2015 Amendment)
 
 Rule 30(B)(3)
 
@@ -4728,7 +4908,7 @@ Rule 30(B)(6)
 deposition may be taken by other remote means, such as over the Internet or using a satellite, rather than
 limiting the means of taking to the telephone.
 
-                                 Staff Note (July 1, 2017 Amendment)
+                                  Staff Note (July 1, 2017 Amendment)
 
 Civ.R. 30(C)    Examination and cross-examination; objections
 
@@ -4760,7 +4940,6 @@ Professionalism in 2012.
 
          The amendments also add an introductory sentence to Civ.R. 30(C), which specifies that each
 party at the deposition may examine the deponent without regard to which party served notice or called the
-
 deposition. Although this introductory sentence is not found in the current federal rule, the provision is
 consistent with federal practice. See, Powell v. Time Warner Cable, Inc., Case No. 2:09-CV-00600
 (S.D.Ohio Nov. 2, 2010) (order partially granting motion to compel); Smith v. Logansport Community
@@ -4832,37 +5011,39 @@ RULE 32.     Use of Depositions in Court Proceedings.
       or represented at the taking of the deposition or who had reasonable notice thereof, in
       accordance with any one of the following provisions:
 
-             (1)    Any deposition may be used by any party for the purpose of contradicting
-             or impeaching the testimony of deponent as a witness.
+             (1)     Any deposition may be used by any party for the purpose of contradicting
+                     or impeaching the testimony of deponent as a witness.
 
-             (2)    The deposition of a party or of anyone who at the time of taking the
-             deposition was an officer, director, or managing agent, or a person designated under
-             Rule 30(B)(5) or Rule 31(A) to testify on behalf of a public or private corporation,
-             partnership or association which is a party may be used by an adverse party for any
-             purpose.
+             (2)     The deposition of a party or of anyone who at the time of taking the
+                     deposition was an officer, director, or managing agent, or a person
+                     designated under Rule 30(B)(5) or Rule 31(A) to testify on behalf of a
+                     public or private corporation, partnership or association which is a party
+                     may be used by an adverse party for any purpose.
 
              (3)     The deposition of a witness, whether or not a party, may be used by any
-             party for any purpose if the court finds: (a) that the witness is dead; or (b) that the
-             witness is beyond the subpoena power of the court in which the action is pending
-             or resides outside of the county in which the action is pending unless it appears that
-             the absence of the witness was procured by the party offering the deposition; or (c)
-             that the witness is unable to attend or testify because of age, sickness, infirmity, or
-             imprisonment; or (d) that the party offering the deposition has been unable to
-             procure the attendance of the witness by subpoena; or (e) that the witness is an
-             attending physician or medical expert, although residing within the county in which
-             the action is heard; or (f) that the oral examination of a witness is not required; or
-             (g) upon application and notice, that such exceptional circumstances exist as to
-             make it desirable, in the interest of justice and with due regard to the importance of
-             presenting the testimony of witnesses orally in open court, to allow the deposition
-             to be used.
+                     party for any purpose if the court finds: (a) that the witness is dead; or (b)
+                     that the witness is beyond the subpoena power of the court in which the
+                     action is pending or resides outside of the county in which the action is
+                     pending unless it appears that the absence of the witness was procured by
+                     the party offering the deposition; or (c) that the witness is unable to attend
+                     or testify because of age, sickness, infirmity, or imprisonment; or (d) that
+                     the party offering the deposition has been unable to procure the attendance
+                     of the witness by subpoena; or (e) that the witness is an attending physician
+                     or medical expert, although residing within the county in which the action
+                     is heard; or (f) that the oral examination of a witness is not required; or (g)
+                     upon application and notice, that such exceptional circumstances exist as to
+                     make it desirable, in the interest of justice and with due regard to the
+                     importance of presenting the testimony of witnesses orally in open court, to
+                     allow the deposition to be used.
 
-             (4)    If only part of a deposition is offered in evidence by a party, an adverse
-             party may require him to introduce all of it which is relevant to the part introduced,
-             and any party may introduce any other parts.
+             (4)     If only part of a deposition is offered in evidence by a party, an adverse
+                     party may require him to introduce all of it which is relevant to the part
+                     introduced, and any party may introduce any other parts.
 
       Substitution of parties pursuant to Rule 25 does not affect the right to use depositions
       previously taken. When another action involving the same subject matter is or has been
       brought between the same parties or their representatives or successors in interest, all
+
       depositions lawfully taken in the one action may be used in the other as if originally taken
       therefor.
 
@@ -4904,21 +5085,20 @@ RULE 32.     Use of Depositions in Court Proceedings.
       (3)    As to taking of deposition
 
              (a)     Objections to the competency of a witness or to the competency, relevancy,
-             or materiality of testimony are not waived by failure to make them before or during
-             the taking of the deposition, unless the ground of the objection is one which might
-             have been obviated or removed if presented at that time.
+                     or materiality of testimony are not waived by failure to make them before
+                     or during the taking of the deposition, unless the ground of the objection is
+                     one which might have been obviated or removed if presented at that time.
 
-             (b)    Errors and irregularities occurring at the oral examination in the manner of
-             taking the deposition, in the form of the questions or answers, in the oath or
-             affirmation, or in the conduct of parties and errors of any kind which might be
+              (b)    Errors and irregularities occurring at the oral examination in the manner of
+                     taking the deposition, in the form of the questions or answers, in the oath or
+                     affirmation, or in the conduct of parties and errors of any kind which might
+                     be obviated, removed, or cured if promptly presented, are waived unless
+                     reasonable objection thereto is made at the taking of the deposition.
 
-              obviated, removed, or cured if promptly presented, are waived unless reasonable
-              objection thereto is made at the taking of the deposition.
-
-              (c)     Objections to the form of written questions submitted under Rule 31 are
-              waived unless served in writing upon the party propounding them within the time
-              allowed for serving the succeeding cross or other questions and within seven days
-              after service of the last questions authorized.
+              (c)    Objections to the form of written questions submitted under Rule 31 are
+                     waived unless served in writing upon the party propounding them within
+                     the time allowed for serving the succeeding cross or other questions and
+                     within seven days after service of the last questions authorized.
 
        (4)    As to completion and return of deposition
 
@@ -4948,34 +5128,36 @@ RULE 33.     Interrogatories to Parties.
       interrogatory shall be considered a separate interrogatory.
 
              (1)     If the party served is a public or private corporation or a partnership or
-             association, the organization shall choose one or more of its proper employees,
-             officers, or agents to answer the interrogatories, and the employee, officer, or agent
-             shall furnish information as is known or available to the organization.
+                     association, the organization shall choose one or more of its proper
+                     employees, officers, or agents to answer the interrogatories, and the
+                     employee, officer, or agent shall furnish information as is known or
+                     available to the organization.
 
              (2)     Interrogatories, without leave of court, may be served upon the plaintiff
-             after commencement of the action and upon any other party after service of the
-             summons and complaint upon the party.
+                     after commencement of the action and upon any other party after service of
+                     the summons and complaint upon the party.
 
              (3)     Each interrogatory shall be answered separately and fully in writing under
-             oath, unless it is objected to, in which event the reasons for objection shall be stated
-             in lieu of an answer. The party upon whom the interrogatories have been served
-             shall quote each interrogatory immediately preceding the corresponding answer or
-             objection. When the number of interrogatories exceeds forty without leave of court,
-             the party upon whom the interrogatories have been served need only answer or
-             object to the first forty interrogatories. The answers are to be signed by the person
-             making them, and the objections signed by the attorney making them. The party
-             upon whom the interrogatories have been served shall serve a copy of the answers
-             and objections within a period designated by the party submitting the
-             interrogatories, not less than twenty-eight days after the service of the
-             interrogatories or within such shorter or longer time as the court may allow.
+                     oath, unless it is objected to, in which event the reasons for objection shall
+                     be stated in lieu of an answer. The party upon whom the interrogatories
+                     have been served shall quote each interrogatory immediately preceding the
+                     corresponding answer or objection. When the number of interrogatories
+                     exceeds forty without leave of court, the party upon whom the
+                     interrogatories have been served need only answer or object to the first forty
+                     interrogatories. The answers are to be signed by the person making them,
+                     and the objections signed by the attorney making them. The party upon
+                     whom the interrogatories have been served shall serve a copy of the answers
+                     and objections within a period designated by the party submitting the
+                     interrogatories, not less than twenty-eight days after the service of the
+                     interrogatories or within such shorter or longer time as the court may allow.
 
 (B)   Scope and use at trial
 
       Interrogatories may relate to any matters that can be inquired into under Civ.R. 26(B), and
       the answers may be used to the extent permitted by the rules of evidence.
 
-      The party calling for such examination shall not thereby be concluded but may rebut it by
-      evidence.
+        The party calling for such examination shall not thereby be concluded but may rebut it by
+        evidence.
 
         An interrogatory otherwise proper is not objectionable merely because an answer to the
         interrogatory involves an opinion, contention, or legal conclusion, but the court may order
@@ -5025,10 +5207,9 @@ ensures that the court and parties are not required to consult two documents or 
 document in order to review the full text of an interrogatory and the corresponding answer or objection. The
 provision is similar to the second sentence of S.D. Ohio Civ. R. 26.1.
 
-        To facilitate the responding party’s obligation to include the interrogatories and answers or
+         To facilitate the responding party’s obligation to include the interrogatories and answers or
 objections in the same document, the first paragraph of division (A) was modified to require the party
 submitting interrogatories to provide the responding party with both a printed and an electronic copy of the
-
 interrogatories. The electronic version must be provided in a format that will enable the responding party
 to readily include the interrogatories and corresponding answers and objections in the same document
 without having to retype each interrogatory. A party who is unable to provide an electronic copy of
@@ -5045,7 +5226,7 @@ response to interrogatories.
 
                                   Staff Note (July 1, 2008 Amendment)
 
-     The text of Civ.R. 33(A) is broken into three subparts. This is intended as a stylistic change only to
+      The text of Civ.R. 33(A) is broken into three subparts. This is intended as a stylistic change only to
 make the material more accessible.
 
        Amendments to Civ.R. 33(C) clarify that the responding party’s option to produce business records
@@ -5079,12 +5260,12 @@ the responding party requests that the period be enlarged pursuant to Rule 6(B) 
 party has not provided an electronic copy, that reason shall constitute good cause for granting the requested
 extension, and the court’s order may require that an electronic copy be provided.
 
-        The amendment strikes a balance between the respective duties of the parties when a provision
+       The amendment strikes a balance between the respective duties of the parties when a provision
 which merely makes it easier to transcribe interrogatory answers is not followed. It enforces the duty of the
+
 party propounding interrogatories to provide an electronic copy unless otherwise relieved of that obligation
 by the court. At the same it time makes it clear that a responding party served with a printed copy of
 interrogatories cannot rely on the failure to receive an electronic copy as reason to do nothing and simply
-
 disregard the response time. A Civ.R. 6(B) request for enlargement of the period is an appropriate remedy
 for a responding party in this situation, and the amendment merely provides guidance in that regard. The
 rule states that the failure to receive an electronic copy constitutes good cause under Civ.R. 6(B). The
@@ -5179,30 +5360,33 @@ Things, or Entering Onto Land, For Inspection and Other Purposes.
       means agreed to by the parties. A party who is unable to provide an electronic copy of the
       requests may seek leave of court to be relieved of this requirement.
 
-              (1)     The party upon whom the request is served shall serve a written response
-              within a period designated in the request that is not less than twenty-eight days after
-              the service of the request or within a shorter or longer time as the court may allow.
-              With respect to each item or category, the response shall state that inspection and
-              related activities will be permitted as requested, unless it is objected to, including
-              an objection to the requested form or forms for producing electronically stored
-              information, in which event the reasons for objection shall be stated. If objection is
-              made to part of an item or category, the part shall be specified. If objection is made
-              to the requested form or forms for producing electronically stored information, or
-              if no form was specified in the request, the responding party must state the form or
-              forms it intends to use. The party submitting the request may move for an order
-              under Civ.R. 37 with respect to any objection to or other failure to respond to the
-              request or any part of the request, or any failure to permit inspection as requested.
+              (1)    The party upon whom the request is served shall serve a written response
+                     within a period designated in the request that is not less than twenty-eight
+                     days after the service of the request or within a shorter or longer time as the
+                     court may allow. With respect to each item or category, the response shall
+                     state that inspection and related activities will be permitted as requested,
+                     unless it is objected to, including an objection to the requested form or forms
+                     for producing electronically stored information, in which event the reasons
+                     for objection shall be stated. If objection is made to part of an item or
+                     category, the part shall be specified. If objection is made to the requested
+                     form or forms for producing electronically stored information, or if no form
+                     was specified in the request, the responding party must state the form or
+                     forms it intends to use. The party submitting the request may move for an
+                     order under Civ.R. 37 with respect to any objection to or other failure to
 
-             (2)    A party who produces documents for inspection shall, at its option, produce
-             them as they are kept in the usual course of business or organized and labeled to
-             correspond with the categories in the request.
+                     respond to the request or any part of the request, or any failure to permit
+                     inspection as requested.
+
+             (2)     A party who produces documents for inspection shall, at its option, produce
+                     them as they are kept in the usual course of business or organized and
+                     labeled to correspond with the categories in the request.
 
              (3)     If a request does not specify the form or forms for producing electronically
-             stored information, a responding party may produce the information in a form or
-             forms in which the information is ordinarily maintained if that form is reasonably
-             useable, or in any form that is reasonably useable. Unless ordered by the court or
-             agreed to by the parties, a party need not produce the same electronically stored
-             information in more than one form.
+                     stored information, a responding party may produce the information in a
+                     form or forms in which the information is ordinarily maintained if that
+                     form is reasonably useable, or in any form that is reasonably useable.
+                     Unless ordered by the court or agreed to by the parties, a party need not
+                     produce the same electronically stored information in more than one form.
 
 (C)   Persons not parties
 
@@ -5212,45 +5396,46 @@ Things, or Entering Onto Land, For Inspection and Other Purposes.
 
 (D)   Prior to filing of action
 
-      (1)     Subject to the scope of discovery provisions of Civ.R. 26(B) and 45(F), a person
-      who claims to have a potential cause of action may file a petition to obtain discovery as
-      provided in this rule. Prior to filing a petition for discovery, the person seeking discovery
-      shall make reasonable efforts to obtain voluntarily the information from the person from
-      whom the discovery is sought. The petition shall be captioned in the name of the person
-      seeking discovery and be filed in the court of common pleas in the county in which the
-      person from whom the discovery is sought resides, the person’s principal place of business
-      is located, or the potential action may be filed. The petition shall include all of the
-      following:
+      (1)    Subject to the scope of discovery provisions of Civ.R. 26(B) and 45(F), a person
+             who claims to have a potential cause of action may file a petition to obtain discovery
+             as provided in this rule. Prior to filing a petition for discovery, the person seeking
+             discovery shall make reasonable efforts to obtain voluntarily the information from
+             the person from whom the discovery is sought. The petition shall be captioned in
+             the name of the person seeking discovery and be filed in the court of common pleas
+             in the county in which the person from whom the discovery is sought resides, the
+             person’s principal place of business is located, or the potential action may be filed.
+             The petition shall include all of the following:
 
-             (a)    A statement of the subject matter of the petitioner’s potential cause of action
-             and the petitioner’s interest in the potential cause of action;
+                     (a)     A statement of the subject matter of the petitioner’s potential cause
+                             of action and the petitioner’s interest in the potential cause of action;
 
-             (b)    A statement of the efforts made by the petitioner to obtain voluntarily the
-             information from the person from whom the discovery is sought;
+                     (b)     A statement of the efforts made by the petitioner to obtain
+                             voluntarily the information from the person from whom the
+                             discovery is sought;
 
-             (c)    A statement or description of the information sought to be discovered with
-             reasonable particularity;
+                     (c)     A statement or description of the information sought to be
+                             discovered with reasonable particularity;
 
-             (d)     The names and addresses, if known, of any person the petitioner expects
-             will be an adverse party in the potential action;
+                     (d)     The names and addresses, if known, of any person the petitioner
+                             expects will be an adverse party in the potential action;
 
-             (e)     A request that the court issue an order authorizing the petitioner to obtain
-             the discovery.
+                         (e)      A request that the court issue an order authorizing the petitioner to
+                                  obtain the discovery.
 
-        (2)    The petition shall be served upon the person from whom discovery is sought and,
-        if known, any person the petitioner expects will be an adverse party in the potential action,
-        by one of the methods provided in these rules for service of summons.
+        (2)     The petition shall be served upon the person from whom discovery is sought and,
+                if known, any person the petitioner expects will be an adverse party in the potential
+                action, by one of the methods provided in these rules for service of summons.
 
-        (3)    The court shall issue an order authorizing the petitioner to obtain the requested
-        discovery if the court finds all of the following:
+        (3)     The court shall issue an order authorizing the petitioner to obtain the requested
+                discovery if the court finds all of the following:
 
-                (a)    The discovery is necessary to ascertain the identity of a potential adverse
-                party;
+                         (a)      The discovery is necessary to ascertain the identity of a potential
+                                  adverse party;
 
-                (b)      The petitioner is otherwise unable to bring the contemplated action;
+                         (b)      The petitioner is otherwise unable to bring the contemplated action;
 
-                (c)    The petitioner made reasonable efforts to obtain voluntarily the information
-                from the person from whom the discovery is sought.
+                         (c)      The petitioner made reasonable efforts to obtain voluntarily the
+                                  information from the person from whom the discovery is sought.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1993; July 1, 1994; July 1, 2005; July 1, 2008; July 1, 2017; July 1, 2019; July
@@ -5287,7 +5472,6 @@ stylistic change intended to make the material more accessible.
 
         Civ.R. 34(B)(1) requires the party responding to a request to specifically articulate its objection to
 the form of production of electronically stored information that the opponent has requested. It also requires
-
 a responding party to identify the form in which electronically stored information will be produced if the
 requesting party has not specified the format.
 
@@ -5334,29 +5518,29 @@ RULE 35.      Physical and Mental Examination of Persons.
 
 (B)    Examiner's report
 
-       (1)       If requested by the party against whom an order is made under Rule 35(A) or the
-       person examined, the party causing the examination to be made shall deliver to such party
-       or person a copy of the detailed written report submitted by the examiner to the party
-       causing the examination to be made. The report shall set out the examiner's findings,
-       including results of all tests made, diagnoses and conclusions, together with like reports of
-       all earlier examinations of the same condition. After delivery, the party causing the
-       examination shall be entitled upon request to receive from the party against whom the order
-       is made a like report of any examination, previously or, thereafter made, of the same
-       condition, unless, in the case of a report of examination of a person not a party, the party
-       shows that he is unable to obtain it. The court on motion may make an order against a
-       party to require delivery of a report on such terms as are just. If an examiner fails or refuses
-       to make a report, the court on motion may order, at the expense of the party causing the
-       examination, the taking of the deposition of the examiner if his testimony is to be offered
-       at trial.
+       (1)    If requested by the party against whom an order is made under Rule 35(A) or the
+              person examined, the party causing the examination to be made shall deliver to such
+              party or person a copy of the detailed written report submitted by the examiner to
+              the party causing the examination to be made. The report shall set out the
+              examiner's findings, including results of all tests made, diagnoses and conclusions,
+              together with like reports of all earlier examinations of the same condition. After
+              delivery, the party causing the examination shall be entitled upon request to receive
+              from the party against whom the order is made a like report of any examination,
+              previously or, thereafter made, of the same condition, unless, in the case of a report
+              of examination of a person not a party, the party shows that he is unable to obtain
+              it. The court on motion may make an order against a party to require delivery of a
+              report on such terms as are just. If an examiner fails or refuses to make a report,
+              the court on motion may order, at the expense of the party causing the examination,
+              the taking of the deposition of the examiner if his testimony is to be offered at trial.
 
-       (2)     By requesting and obtaining a report of the examination so ordered or by taking the
-       deposition of the examiner, the party examined waives any privilege he may have in that
-       action or any other involving the same controversy, regarding the testimony of every other
-       person who has examined or may thereafter examine him in respect of the same mental or
-       physical condition.
+       (2)    By requesting and obtaining a report of the examination so ordered or by taking the
+              deposition of the examiner, the party examined waives any privilege he may have
+              in that action or any other involving the same controversy, regarding the testimony
+              of every other person who has examined or may thereafter examine him in respect
+              of the same mental or physical condition.
 
-       (3)     This subdivision, 35(B), applies to examinations made by agreement of the parties,
-       unless the agreement expressly provides otherwise.
+       (3)    This subdivision, 35(B), applies to examinations made by agreement of the parties,
+              unless the agreement expressly provides otherwise.
 
 Effective Date: July 1, 1970
 
@@ -5379,38 +5563,41 @@ RULE 36.     Requests for Admission.
       electronically may serve the request by other means permitted under Civ.R. 5(B)(2).
 
              (1)     Each matter of which an admission is requested shall be separately set forth.
-             The party to whom the requests for admissions have been directed shall quote each
-             request for admission immediately preceding the corresponding answer or
-             objection. The matter is admitted unless, within a period designated in the request,
-             not less than twenty-eight days after service of the request or within such shorter or
-             longer time as the court may allow, the party to whom the request is directed serves
-             upon the party requesting the admission a written answer or objection addressed to
-             the matter, signed by the party or by the party’s attorney.
+                     The party to whom the requests for admissions have been directed shall
+                     quote each request for admission immediately preceding the corresponding
+                     answer or objection. The matter is admitted unless, within a period
+                     designated in the request, not less than twenty-eight days after service of the
+                     request or within such shorter or longer time as the court may allow, the
+                     party to whom the request is directed serves upon the party requesting the
+                     admission a written answer or objection addressed to the matter, signed by
+                     the party or by the party’s attorney.
 
              (2)     If objection is made, the reasons therefor shall be stated. The answer shall
-             specifically deny the matter or set forth in detail the reasons why the answering
-             party cannot truthfully admit or deny the matter. A denial shall fairly meet the
-             substance of the requested admission, and when good faith requires that a party
-             qualify his or her answer, or deny only a part of the matter of which an admission
-             is requested, the party shall specify so much of it as is true and qualify or deny the
-             remainder. An answering party may not give lack of information or knowledge as
-             a reason for failure to admit or deny unless the party states that the party has made
-             reasonable inquiry and that the information known or readily obtainable by the
-             party is insufficient to enable the party to admit or deny. A party who considers
-             that a matter of which an admission has been requested presents a genuine issue for
-             trial may not, on that ground alone, object to the request; the party may, subject to
-             the provisions of Civ.R. 37(C), deny the matter or set forth reasons why the party
-             cannot admit or deny it.
+                     specifically deny the matter or set forth in detail the reasons why the
+                     answering party cannot truthfully admit or deny the matter. A denial shall
+                     fairly meet the substance of the requested admission, and when good faith
+                     requires that a party qualify his or her answer, or deny only a part of the
+                     matter of which an admission is requested, the party shall specify so much
+                     of it as is true and qualify or deny the remainder. An answering party may
+                     not give lack of information or knowledge as a reason for failure to admit
+                     or deny unless the party states that the party has made reasonable inquiry
+                     and that the information known or readily obtainable by the party is
+                     insufficient to enable the party to admit or deny. A party who considers that
+                     a matter of which an admission has been requested presents a genuine issue
+                     for trial may not, on that ground alone, object to the request; the party may,
+                     subject to the provisions of Civ.R. 37(C), deny the matter or set forth
+                     reasons why the party cannot admit or deny it.
 
-             (3)      The party who has requested the admissions may move for an order with
-             respect to the answers or objections. Unless the court determines that an objection
-             is justified, it shall order that an answer be served. If the court determines that an
-             answer does not comply with the requirements of this rule, it may order either that
+             (3)     The party who has requested the admissions may move for an order with
+                     respect to the answers or objections. Unless the court determines that an
 
-                the matter is admitted or that an amended answer be served. The court may, in lieu
-                of these orders, determine that final disposition of the request be made at a pretrial
-                conference or at a designated time prior to trial. The provisions of Civ.R. 37(A)(5)
-                apply to the award of expenses incurred in relation to the motion.
+                        objection is justified, it shall order that an answer be served. If the court
+                        determines that an answer does not comply with the requirements of this
+                        rule, it may order either that the matter is admitted or that an amended
+                        answer be served. The court may, in lieu of these orders, determine that
+                        final disposition of the request be made at a pretrial conference or at a
+                        designated time prior to trial. The provisions of Civ.R. 37(A)(5) apply to
+                        the award of expenses incurred in relation to the motion.
 
 (B)     Effect of admission
 
@@ -5511,7 +5698,6 @@ specifies the consequence and appropriate remedy for this situation.
 party and cannot be less than twenty-eight days, shall run from the day of service of the printed copy, and
 that the failure to provide an electronic copy does not alter the response period. However, if before the
 designated period has expired, the responding party requests that the period be enlarged pursuant to Rule
-
 6(B) because the requesting party has not provided an electronic copy, that reason shall constitute good
 cause for granting the requested extension, and the court’s order may require that an electronic copy be
 provided.
@@ -5563,6 +5749,7 @@ requirement by the court.
          Rule 36(A)(1) is amended to correct an oversight in the final publication of the 2012 amendments
 to the rule. Those prior amendments intended that requests for admission be served by electronic means
 making separate service of a printed copy unnecessary except for unusual circumstances. The final
+
 publication of the 2012 amendment inadvertently retained language from the prior rule stating that the
 designated time for responses runs from service of “a printed copy of” the requests. The quoted words
 were not intended to be included and are stricken. A similar correction is made to Civ.R. 33 with respect
@@ -5609,17 +5796,17 @@ Obligations; Sanctions.
                     A party seeking discovery may move for an order compelling an answer,
                     designation, production, or inspection. This motion may be made if:
 
-                            (i)    A deponent fails to answer a question asked under Civ.R. 30
-                            or Civ.R. 31;
+                            (i)     A deponent fails to answer a question asked under Civ.R. 30
+                                    or Civ.R. 31;
 
-                            (ii)   A corporation or other entity fails to make a designation
-                            under Civ.R. 30(B)(5) or Civ.R. 31(A);
+                            (ii)    A corporation or other entity fails to make a designation
+                                    under Civ.R. 30(B)(5) or Civ.R. 31(A);
 
-                            (iii) A party fails to answer an interrogatory submitted under
-                            Civ.R. 33;
+                            (iii)   A party fails to answer an interrogatory submitted under
+                                    Civ.R. 33;
 
-                            (iv)     A party fails to respond that inspection will be permitted—
-                            or fails to permit inspection—as requested under Civ.R. 34.
+                            (iv)    A party fails to respond that inspection will be permitted—
+                                    or fails to permit inspection—as requested under Civ.R. 34.
 
              (b)    Related to a deposition
 
@@ -5642,10 +5829,10 @@ Obligations; Sanctions.
                    fees. But the court shall not order this payment if:
 
                            (i)     The movant filed the motion before attempting in good faith
-                           to obtain the discovery without court action;
+                                   to obtain the discovery without court action;
 
                            (ii)    The opposing party's response or objection was substantially
-                           justified; or
+                                   justified; or
 
                            (iii)   Other circumstances make an award of expenses unjust.
 
@@ -5674,106 +5861,106 @@ Obligations; Sanctions.
             discovery, including an order made under Civ.R. 35 or Civ.R. 37(A), the court may
             issue further just orders. They may include the following:
 
-                     (a)     Directing that the matters embraced in the order or other designated
-                     facts shall be taken as established for purposes of the action as the prevailing
-                     party claims;
+                    (a)     Directing that the matters embraced in the order or other designated
+                            facts shall be taken as established for purposes of the action as the
+                            prevailing party claims;
 
-                     (b)    Prohibiting the disobedient party from supporting or opposing
-                     designated claims or defenses, or from introducing designated matters in
-                     evidence;
+                    (b)     Prohibiting the disobedient party from supporting or opposing
+                            designated claims or defenses, or from introducing designated
+                            matters in evidence;
 
-                     (c)     Striking pleadings in whole or in part;
+                    (c)     Striking pleadings in whole or in part;
 
-                     (d)     Staying further proceedings until the order is obeyed dismissing;
+                    (d)     Staying further proceedings until the order is obeyed dismissing;
 
-                     (e)     Dismissing the action or proceeding in whole or in part;
+                    (e)     Dismissing the action or proceeding in whole or in part;
 
-                     (f)     Rendering a default judgment against the disobedient party; or
+                    (f)     Rendering a default judgment against the disobedient party; or
 
-                     (g)    Treating as contempt of court the failure to obey any orders except
-                     an order to submit to a physical or mental examination;
+                    (g)     Treating as contempt of court the failure to obey any orders except
+                            an order to submit to a physical or mental examination;
 
-       (2)    For not producing a person for examination
+      (2)    For not producing a person for examination
 
-              If a party fails to comply with an order under Civ.R. 35(A) requiring it to produce
-              another person for examination, the court may issue any of the orders listed in
-              Civ.R. 37(B)(1), unless the disobedient party shows that it cannot produce the other
-              person.
+             If a party fails to comply with an order under Civ.R. 35(A) requiring it to produce
+             another person for examination, the court may issue any of the orders listed in
+             Civ.R. 37(B)(1), unless the disobedient party shows that it cannot produce the other
+             person.
 
-       (3)    Payment of expenses
+      (3)    Payment of expenses
 
-              Instead of or in addition to the orders above, the court shall order the disobedient
-              party, the attorney advising that party, or both to pay the reasonable expenses,
-              including attorney's fees, caused by the failure, unless the failure was substantially
-              justified or other circumstances make an award of expenses unjust.
+             Instead of or in addition to the orders above, the court shall order the disobedient
+             party, the attorney advising that party, or both to pay the reasonable expenses,
+             including attorney's fees, caused by the failure, unless the failure was substantially
+             justified or other circumstances make an award of expenses unjust.
 
-(C)    Sanctions for failure to disclose, to participate in a Civ.R. 26(F) or Civ.R. 30(B)(5)
-conference, to supplement an earlier response, or to admit
+(C)   Sanctions for failure to disclose, to participate in a Civ.R. 26(F) or Civ.R. 30(B)(5)
+      conference, to supplement an earlier response, or to admit
 
-       (1)    Failure to disclose or supplement
+      (1)    Failure to disclose or supplement
 
-              If a party fails to provide information or identify a witness in a timely manner as
-              required by Civ.R. 26(A) or (E), the party is not allowed to use that information or
-              witness to supply evidence on a motion, at a hearing, or at a trial, unless the failure
-              was substantially justified or is harmless. In addition to or instead of this sanction,
-              the court, on motion and after giving an opportunity to be heard, may do any of the
-              following:
+             If a party fails to provide information or identify a witness in a timely manner as
+             required by Civ.R. 26(A) or (E), the party is not allowed to use that information or
+             witness to supply evidence on a motion, at a hearing, or at a trial, unless the failure
+             was substantially justified or is harmless. In addition to or instead of this sanction,
+             the court, on motion and after giving an opportunity to be heard, may do any of the
+             following:
 
-                    (a)    Order payment of the reasonable expenses, including attorney's fees,
-                    caused by the failure;
+                   (a)     Order payment of the reasonable expenses, including attorney's fees,
+                           caused by the failure;
 
-                    (b)     Inform the jury of the party's failure;
+                   (b)     Inform the jury of the party's failure;
 
-                    (c)      Impose other appropriate sanctions, including any of the orders
-                    listed in Civ.R. 37(B)(1)(a) through (g).
+                   (c)     Impose other appropriate sanctions, including any of the orders
+                           listed in Civ.R. 37(B)(1)(a) through (g).
 
-      (2)    Failure to participate
+      (2)   Failure to participate
 
-             If a party fails to participate in a conference or in drafting a discovery plan required
-             by Civ.R. 26(F), or a party fails to confer in good faith as required by Civ.R.
-             30(B)(5), the court, on motion and after giving an opportunity to be heard, may do
-             either of the following:
+            If a party fails to participate in a conference or in drafting a discovery plan required
+            by Civ.R. 26(F), or a party fails to confer in good faith as required by Civ.R.
+            30(B)(5), the court, on motion and after giving an opportunity to be heard, may do
+            either of the following:
 
-                    (a)     Order payment of the reasonable expenses, including attorney’s
-                    fees, caused by the failure;
+                   (a)     Order payment of the reasonable expenses, including attorney’s
+                           fees, caused by the failure;
 
-                    (b)    Impose other appropriate sanctions on a party or the party’s counsel
-                    including any of the orders listed in Civ.R. 37(B)(1)(a) through (g).
+                   (b)     Impose other appropriate sanctions on a party or the party’s counsel
+                           including any of the orders listed in Civ.R. 37(B)(1)(a) through (g).
 
-      (3)    Failure to admit
+      (3)   Failure to admit
 
-             If a party fails to admit what is requested under Civ.R. 36, and if the requesting
-             party later proves a document to be genuine or the matter true, the requesting party
-             may move that the party who failed to admit pay the reasonable expenses, including
-             attorney's fees, incurred in making that proof. The court shall so order unless any
-             of the following circumstances apply:
+            If a party fails to admit what is requested under Civ.R. 36, and if the requesting
+            party later proves a document to be genuine or the matter true, the requesting party
+            may move that the party who failed to admit pay the reasonable expenses, including
+            attorney's fees, incurred in making that proof. The court shall so order unless any
+            of the following circumstances apply:
 
-                    (a)     The request was held objectionable under Civ.R. 36(A);
+                   (a)     The request was held objectionable under Civ.R. 36(A);
 
-                    (b)     The admission sought was of no substantial importance;
+                   (b)     The admission sought was of no substantial importance;
 
-                    (c)    The party failing to admit had a reasonable ground to believe that it
-                    might prevail on the matter;
+                   (c)     The party failing to admit had a reasonable ground to believe that it
+                           might prevail on the matter;
 
-                    (d)     There was other good reason for the failure to admit.
+                   (d)     There was other good reason for the failure to admit.
 
 (D)   Party's failure to attend its own deposition, serve answers to interrogatories, or
-respond to a request for inspection
+      respond to a request for inspection
 
-      (1)    In general
+      (1)   In general
 
-             (a)    Motion; grounds for sanctions
+            (a)    Motion; grounds for sanctions
 
-                    The court may, on motion, order sanctions if:
+                   The court may, on motion, order sanctions if:
 
                              (i)     A party or a party's officer, director, or a managing agent or
-                             a person designated under Civ.R. 30(B)(5) or Civ.R. 31(A) fails,
-                             after being served with a proper notice, to appear for that person's
-                             deposition; or
+                                     a person designated under Civ.R. 30(B)(5) or Civ.R. 31(A)
+                                     fails, after being served with a proper notice, to appear for
+                                     that person's deposition; or
 
                              (ii)    A party, after being properly served with interrogatories
-                             under Civ.R. 33 or a request for inspection under Civ.R. 34, fails to
-                             serve its answers, objections, or written response.
+                                     under Civ.R. 33 or a request for inspection under Civ.R. 34,
+                                     fails to serve its answers, objections, or written response.
 
              (b)     Certification
 
@@ -5802,18 +5989,19 @@ respond to a request for inspection
       conduct of litigation is lost because a party failed to take reasonable steps to preserve it,
       and it cannot be restored or replaced through additional discovery, the court:
 
-             (1)    Upon finding prejudice to another party from loss of the information, may
-             order measures no greater than necessary to cure the prejudice; or
+             (1)     Upon finding prejudice to another party from loss of the information, may
+                     order measures no greater than necessary to cure the prejudice; or
 
              (2)     Only upon finding that the party acted with the intent to deprive another
-             party of the information’s use in the litigation may:
+                     party of the information’s use in the litigation may:
 
-                     (a)     Presume that the lost information was unfavorable to the party;
+                             (a)     Presume that the lost information was unfavorable to the
+                                     party;
 
-                         (b)    Instruct the jury that it may or must presume the information was
-                         unfavorable to the party; or
+                                 (b)     Instruct the jury that it may or must presume the information
+                                         was unfavorable to the party; or
 
-                         (c)     Dismiss the action or enter a default judgment.
+                                 (c)     Dismiss the action or enter a default judgment.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1994; July 1, 2008; July 1, 2016; July 1, 2021; July 1, 2023
@@ -5901,33 +6089,34 @@ RULE 39.     Trial by Jury or by the Court.
 
 (B)   By the court
 
-      (1)     Issues not demanded for trial by jury as provided in Civ.R. 38 shall be tried by the
-      court; but, notwithstanding the failure of a party to demand a jury in an action in which
-      such a demand might have been made of right, the court in its discretion upon motion may
-      order a trial by a jury of any or all issues.
+      (1)    Issues not demanded for trial by jury as provided in Civ.R. 38 shall be tried by the
+             court; but, notwithstanding the failure of a party to demand a jury in an action in
+             which such a demand might have been made of right, the court in its discretion
+             upon motion may order a trial by a jury of any or all issues.
 
       (2)    No later than the deadline set in a case scheduling order or thirty days before a
-      scheduled trial, a party may request that a trial to the court be conducted using live two-
-      way video and audio conference technology. The requesting party shall indicate in the
-      request whether any special accommodations are anticipated or required.
+             scheduled trial, a party may request that a trial to the court be conducted using live
+             two-way video and audio conference technology. The requesting party shall
+             indicate in the request whether any special accommodations are anticipated or
+             required.
 
-      (3)     Upon a party’s request under division (B)(2) of this rule, the court may, in its
-      discretion, conduct the trial using live two-way video and audio conference technology. In
-      deciding on the party’s request, the court shall consider the views of the parties, the
-      anticipated probative value of the evidence, difficulty and expense of presenting witnesses
-      by physical presence versus remote presence, convenience and efficiency for the parties to
-      the case, and the nature and complexity of the issues to be tried. No trial shall be conducted
-      remotely over the objection of a party to the case unless one of the parties is restricted in
-      physical appearance due to one of the following circumstances, or for other good cause
-      shown:
+      (3)    Upon a party’s request under division (B)(2) of this rule, the court may, in its
+             discretion, conduct the trial using live two-way video and audio conference
+             technology. In deciding on the party’s request, the court shall consider the views
+             of the parties, the anticipated probative value of the evidence, difficulty and expense
+             of presenting witnesses by physical presence versus remote presence, convenience
+             and efficiency for the parties to the case, and the nature and complexity of the issues
+             to be tried. No trial shall be conducted remotely over the objection of a party to the
+             case unless one of the parties is restricted in physical appearance due to one of the
+             following circumstances, or for other good cause shown:
 
-             (a)     Active duty in the United States military;
+                     (a)     Active duty in the United States military;
 
-             (b)     Incarceration;
+                     (b)     Incarceration;
 
-             (c)     Medical restrictions;
+                     (c)     Medical restrictions;
 
-             (d)     Significant travel distance from court.
+                     (d)     Significant travel distance from court.
 
 (C)     Advisory jury and trial by consent
 
@@ -5974,12 +6163,13 @@ RULE 41.     Dismissal of Actions.
              without order of court, may dismiss all claims asserted by that plaintiff against a
              defendant by doing either of the following:
 
-                    (a)      Filing a notice of dismissal at any time before the commencement
-                    of trial unless a counterclaim which cannot remain pending for independent
-                    adjudication by the court has been served by that defendant;
+                    (a)     Filing a notice of dismissal at any time before the commencement
+                            of trial unless a counterclaim which cannot remain pending for
+                            independent adjudication by the court has been served by that
+                            defendant;
 
-                    (b)    Filing a stipulation of dismissal signed by all parties who have
-                    appeared in the action.
+                    (b)     Filing a stipulation of dismissal signed by all parties who have
+                            appeared in the action.
 
              Unless otherwise stated in the notice of dismissal or stipulation, the dismissal is
              without prejudice, except that a notice of dismissal operates as an adjudication upon
@@ -6009,8 +6199,8 @@ RULE 41.     Dismissal of Actions.
              After the plaintiff, in an action tried by the court without a jury, has completed the
              presentation of the plaintiff’s evidence, the defendant, without waiving the right to
              offer evidence in the event the motion is not granted, may move for a dismissal on
-             the ground that upon the facts and the law the plaintiff has shown no right to relief.
 
+                the ground that upon the facts and the law the plaintiff has shown no right to relief.
                 The court as trier of the facts may then determine them and render judgment against
                 the plaintiff or may decline to render any judgment until the close of all the
                 evidence. If the court renders judgment on the merits against the plaintiff, the court
@@ -6086,16 +6276,16 @@ RULE 42.     Consolidation; Separate Trials.
 
       (3)    As used in division (A)(2) of this rule:
 
-             (a)      “Asbestos claim” has the same meaning as in R.C. 2307.91;
+                      (a)    “Asbestos claim” has the same meaning as in R.C. 2307.91;
 
-             (b)     “Silicosis claim” and “mixed dust disease claim” have the same meaning as
-             in R.C. 2307.84;
+                      (b)    “Silicosis claim” and “mixed dust disease claim” have the same
+                             meaning as in R.C. 2307.84;
 
-             (c)    In reference to an asbestos claim, “tort action” has the same meaning as in
-             R.C. 2307.91;
+                      (c)    In reference to an asbestos claim, “tort action” has the same meaning
+                             as in R.C. 2307.91;
 
-             (d)     In reference to a silicosis claim or a mixed dust disease claim, “tort action”
-             has the same meaning as in R.C. 2307.84.
+                      (d)    In reference to a silicosis claim or a mixed dust disease claim, “tort
+                             action” has the same meaning as in R.C. 2307.84.
 
 (B)   Separate trials
 
@@ -6167,15 +6357,15 @@ RULE 43.         Taking Testimony.
 
 (D)     Oath or Affirmation
 
-        (1)     The oath or affirmation of the witness may be administered in a manner that allows
-        the person authorized to administer it to verify the identity of the witness at the time it is
-        administered.
+        (1)      The oath or affirmation of the witness may be administered in a manner that allows
+                 the person authorized to administer it to verify the identity of the witness at the time
+                 it is administered.
 
-        (2)    Every witness testifying remotely, including those outside this state, in a trial or
-        other proceeding in open court in Ohio must affirm on the record that the witness has
-        submitted to the jurisdiction of the Ohio court for the purpose of enforcement of his or her
-        oath or affirmation, including any consideration of perjury charges arising from such
-        testimony.
+        (2)      Every witness testifying remotely, including those outside this state, in a trial or
+                 other proceeding in open court in Ohio must affirm on the record that the witness
+                 has submitted to the jurisdiction of the Ohio court for the purpose of enforcement
+                 of his or her oath or affirmation, including any consideration of perjury charges
+                 arising from such testimony.
 
 Effective Date: July 1, 2015; July 1, 2023
 
@@ -6187,7 +6377,7 @@ availability of modern electronic transmission facilities by specifically author
 from a location outside the courtroom. Consistent with Fed.R.Civ.P. 43(c) division (B) provides that a court
 may, in its discretion, consider facts presented by affidavit in deciding a motion.
 
-                                   Staff Note (July 1, 2023 Amendment)
+                                  Staff Note (July 1, 2023 Amendment)
 
        The July 1, 2023, staff note for Civ.R. 39 suggests factors sensibly discussed when considering
 remote proceedings using this rule.
@@ -6256,28 +6446,30 @@ RULE 44.1. Judicial Notice of Certain Law; Determination of Foreign Law.
 
 (A)    Judicial notice of certain law
 
-       (1)     Judicial notice shall be taken of the rules of the supreme court of this state and of
-       the decisional, constitutional, and public statutory law of this state.
+       (1)    Judicial notice shall be taken of the rules of the supreme court of this state and of
+              the decisional, constitutional, and public statutory law of this state.
 
-       (2)     A party who intends to rely on a municipal ordinance, a local rule of court, or an
-       administrative regulation within this state shall give notice in his pleading or other
-       reasonable written notice. The court in taking judicial notice of a municipal ordinance, a
-       local rule of court, or an administrative regulation within this state may inform itself in
-       such manner as it deems proper, and may call upon counsel to aid in obtaining such
-       information. The court's determination shall be treated as a ruling on a question of law and
-       shall be made by the court and not the jury. A court may, however, take judicial notice of
-       its own rules or of a municipal ordinance within the territorial jurisdiction of the court
-       without advance notice in the pleading of a party or other written notice.
+       (2)    A party who intends to rely on a municipal ordinance, a local rule of court, or an
+              administrative regulation within this state shall give notice in his pleading or other
+              reasonable written notice. The court in taking judicial notice of a municipal
+              ordinance, a local rule of court, or an administrative regulation within this state may
+              inform itself in such manner as it deems proper, and may call upon counsel to aid
+              in obtaining such information. The court's determination shall be treated as a ruling
+              on a question of law and shall be made by the court and not the jury. A court may,
+              however, take judicial notice of its own rules or of a municipal ordinance within
+              the territorial jurisdiction of the court without advance notice in the pleading of a
+              party or other written notice.
 
-       (3)     A party who intends to rely on the decisional, constitutional, public statutory law,
-       rules of court, municipal ordinances, or administrative regulations of any other state,
-       territory, and jurisdiction of the United States shall give notice in his pleading or other
-       reasonable notice. The court in taking judicial notice of the decisional, constitutional,
-       public statutory law, rules of court, municipal ordinances, or administrative regulations of
-       any other state, territory, and jurisdiction of the United States may inform itself in such
-       manner as it deems proper, and may call upon counsel to aid in obtaining such information.
-       The court's determination shall be treated as a ruling on a question of law, and shall be
-       made by the court and not the jury.
+       (3)    A party who intends to rely on the decisional, constitutional, public statutory law,
+              rules of court, municipal ordinances, or administrative regulations of any other
+              state, territory, and jurisdiction of the United States shall give notice in his pleading
+              or other reasonable notice. The court in taking judicial notice of the decisional,
+              constitutional, public statutory law, rules of court, municipal ordinances, or
+              administrative regulations of any other state, territory, and jurisdiction of the United
+              States may inform itself in such manner as it deems proper, and may call upon
+              counsel to aid in obtaining such information. The court's determination shall be
+              treated as a ruling on a question of law, and shall be made by the court and not the
+              jury.
 
 (B)    Determination of foreign law
 
@@ -6295,35 +6487,38 @@ RULE 45.    Subpoena.
 
       (1)   Every subpoena shall do all of the following:
 
-            (a)    State the name of the court from which it is issued, the title of the action,
-            and the case number;
+                   (a)     State the name of the court from which it is issued, the title of the
+                           action, and the case number;
 
-            (b)     Command each person to whom it is directed, at a time and place specified
-            in the subpoena, to do at least one of the following:
+                   (b)     Command each person to whom it is directed, at a time and place
+                           specified in the subpoena, to do at least one of the following:
 
-                   (i)      Attend and give testimony at a trial or hearing at any place within
-                   this state;
+                                  (i)     Attend and give testimony at a trial or hearing at any
+                                          place within this state;
 
-                   (ii)   Attend and give testimony at a deposition in the county where the
-                   deponent resides or is employed or transacts business in person, or at such
-                   other convenient place as is fixed by an order of court;
+                                  (ii)    Attend and give testimony at a deposition in the
+                                          county where the deponent resides or is employed
+                                          or transacts business in person, or at such other
+                                          convenient place as is fixed by an order of court;
 
-                   (iii) Produce documents, electronically stored information, or tangible
-                   things at a trial, hearing, or deposition;
+                                  (iii)   Produce     documents,       electronically      stored
+                                          information, or tangible things at a trial, hearing, or
+                                          deposition;
 
-                   (iv)   Produce and permit inspection and copying of any designated
-                   documents or electronically stored information that are in the possession,
-                   custody, or control of the person;
+                                  (iv)    Produce and permit inspection and copying of any
+                                          designated documents or electronically stored
+                                          information that are in the possession, custody, or
+                                          control of the person;
 
-                   (v)     Produce and permit inspection and copying, testing, or sampling of
-                   any tangible things that are in the possession, custody, or control of the
-                   person;
+                                  (v)     Produce and permit inspection and copying, testing,
+                                          or sampling of any tangible things that are in the
+                                          possession, custody, or control of the person;
 
-                   (vi)   Permit entry upon designated land or other property that is in the
-                   possession or control of the person for the purposes described in Civ.R.
-                   34(A)(3).
+                                  (vi)    Permit entry upon designated land or other property
+                                          that is in the possession or control of the person for
+                                          the purposes described in Civ.R. 34(A)(3).
 
-            (c)    Set forth the text of divisions (C) and (D) of this rule.
+                   (c)     Set forth the text of divisions (C) and (D) of this rule.
 
             A command to produce and permit inspection may be joined with a command to
             attend and give testimony, or may be issued separately. A subpoena may specify
@@ -6332,20 +6527,22 @@ RULE 45.    Subpoena.
 
             A subpoena may not be used to obtain the attendance of a party or the production
             of documents by a party in discovery. Rather, a party's attendance at a deposition
-            may be obtained only by notice under Civ.R. 30, and documents or electronically
-            stored information may be obtained from a party in discovery only pursuant to
-            Civ.R. 34.
 
-      (2)     The clerk shall issue a subpoena, signed, but otherwise in blank, to a party
-      requesting it, who shall complete it before service. An attorney who has filed an
-      appearance on behalf of a party in an action may also sign and issue a subpoena on behalf
-      of the court in which the action is pending.
+             may be obtained only by notice under Civ.R. 30, and documents or electronically
+             stored information may be obtained from a party in discovery only pursuant to
+             Civ.R. 34.
 
-      (3)      A party on whose behalf a subpoena is issued under division (A)(1)(b)(ii), (iii), (iv),
-      (v), or (vi) of this rule shall serve prompt written notice, including a copy of the subpoena,
-      on all other parties as provided in Civ.R. 5. If the subpoena is modified, the party on whose
-      behalf the subpoena is issued shall give prompt written notice of the modification,
-      including a copy of the subpoena as modified, to all other parties.
+      (2)    The clerk shall issue a subpoena, signed, but otherwise in blank, to a party
+             requesting it, who shall complete it before service. An attorney who has filed an
+             appearance on behalf of a party in an action may also sign and issue a subpoena on
+             behalf of the court in which the action is pending.
+
+      (3)    A party on whose behalf a subpoena is issued under division (A)(1)(b)(ii), (iii), (iv),
+             (v), or (vi) of this rule shall serve prompt written notice, including a copy of the
+             subpoena, on all other parties as provided in Civ.R. 5. If the subpoena is modified,
+             the party on whose behalf the subpoena is issued shall give prompt written notice
+             of the modification, including a copy of the subpoena as modified, to all other
+             parties.
 
 (B)   Service
 
@@ -6366,100 +6563,104 @@ RULE 45.    Subpoena.
 
 (C)   Protection of persons subject to subpoenas
 
-      (1)     A party or an attorney responsible for the issuance and service of a subpoena shall
-      take reasonable steps to avoid imposing undue burden or expense on a person subject to
-      that subpoena.
+      (1)    A party or an attorney responsible for the issuance and service of a subpoena shall
+             take reasonable steps to avoid imposing undue burden or expense on a person
+             subject to that subpoena.
 
-      (2)     A person commanded to produce under divisions (A)(1)(b), (iii), (iv), (v), or (vi) of
-      this rule need not appear in person at the place of production or inspection unless
-      commanded to attend and give testimony at a deposition, hearing, or trial.
+      (2)    A person commanded to produce under divisions (A)(1)(b), (iii), (iv), (v), or (vi) of
+             this rule need not appear in person at the place of production or inspection unless
+             commanded to attend and give testimony at a deposition, hearing, or trial.
 
-      (3)     Subject to division (D)(2) of this rule, a person commanded to produce under
-      divisions (A)(1)(b), (iii), (iv), (v), or (vi) of this rule may, within fourteen days after service
-      of the subpoena or before the time specified for compliance if such time is less than
-      fourteen days after service, serve upon the party or attorney designated in the subpoena
-      written objections to production. If objection is made, the party serving the subpoena shall
-      not be entitled to production except pursuant to an order of the court by which the subpoena
-      was issued. If objection has been made, the party serving the subpoena, upon notice to the
-      person commanded to produce, may move at any time for an order to compel the
+      (3)    Subject to division (D)(2) of this rule, a person commanded to produce under
+             divisions (A)(1)(b), (iii), (iv), (v), or (vi) of this rule may, within fourteen days after
+             service of the subpoena or before the time specified for compliance if such time is
 
-      production. An order to compel production shall protect any person who is not a party or
-      an officer of a party from significant expense resulting from the production commanded.
+            less than fourteen days after service, serve upon the party or attorney designated in
+            the subpoena written objections to production. If objection is made, the party
+            serving the subpoena shall not be entitled to production except pursuant to an order
+            of the court by which the subpoena was issued. If objection has been made, the
+            party serving the subpoena, upon notice to the person commanded to produce, may
+            move at any time for an order to compel the production. An order to compel
+            production shall protect any person who is not a party or an officer of a party from
+            significant expense resulting from the production commanded.
 
-      (4)      On timely motion, the court from which the subpoena was issued shall quash or
-      modify the subpoena, or order appearance or production only under specified conditions,
-      if the subpoena does any of the following:
+      (4)   On timely motion, the court from which the subpoena was issued shall quash or
+            modify the subpoena, or order appearance or production only under specified
+            conditions, if the subpoena does any of the following:
 
-             (a)     Fails to allow reasonable time to comply;
+                   (a)     Fails to allow reasonable time to comply;
 
-             (b)    Requires disclosure of privileged or otherwise protected matter and no
-             exception or waiver applies;
+                   (b)     Requires disclosure of privileged or otherwise protected matter and
+                           no exception or waiver applies;
 
-             (c)     Requires disclosure of a fact known or opinion held by an expert not
-             retained or specially employed by any party in anticipation of litigation or
-             preparation for trial as described by Civ.R. 26(B)(7)(h), if the fact or opinion does
-             not describe specific events or occurrences in dispute and results from study by that
-             expert that was not made at the request of any party;
+                   (c)     Requires disclosure of a fact known or opinion held by an expert not
+                           retained or specially employed by any party in anticipation of
+                           litigation or preparation for trial as described by Civ.R. 26(B)(7)(h),
+                           if the fact or opinion does not describe specific events or occurrences
+                           in dispute and results from study by that expert that was not made at
+                           the request of any party;
 
-             (d)     Subjects a person to undue burden.
+                   (d)     Subjects a person to undue burden.
 
-      (5)     Before filing a motion pursuant to division (C)(4)(d) of this rule, a person resisting
-      discovery under this rule shall attempt to resolve any claim of undue burden through
-      discussions with the issuing attorney or unrepresented party. A motion filed pursuant to
-      division (C)(4)(d) of this rule shall be supported by an affidavit of the subpoenaed person
-      or a certificate of that person’s attorney of the efforts made to resolve any claim of undue
-      burden.
+      (5)   Before filing a motion pursuant to division (C)(4)(d) of this rule, a person resisting
+            discovery under this rule shall attempt to resolve any claim of undue burden through
+            discussions with the issuing attorney or unrepresented party. A motion filed
+            pursuant to division (C)(4)(d) of this rule shall be supported by an affidavit of the
+            subpoenaed person or a certificate of that person’s attorney of the efforts made to
+            resolve any claim of undue burden.
 
-      (6)    If a motion is made under division (C)(4)(c) or (C)(4)(d) of this rule, the court shall
-      quash or modify the subpoena unless the party in whose behalf the subpoena is issued
-      shows a substantial need for the testimony or material that cannot be otherwise met without
-      undue hardship and assures that the person to whom the subpoena is addressed will be
-      reasonably compensated.
+      (6)   If a motion is made under division (C)(4)(c) or (C)(4)(d) of this rule, the court shall
+            quash or modify the subpoena unless the party in whose behalf the subpoena is
+            issued shows a substantial need for the testimony or material that cannot be
+            otherwise met without undue hardship and assures that the person to whom the
+            subpoena is addressed will be reasonably compensated.
 
 (D)   Duties in responding to subpoena
 
-      (1)     A person responding to a subpoena to produce documents shall, at the person's
-      option, produce them as they are kept in the usual course of business or organized and
-      labeled to correspond with the categories in the subpoena. A person producing documents
-      or electronically stored information pursuant to a subpoena for them shall permit their
-      inspection and copying by all parties present at the time and place set in the subpoena for
-      inspection and copying.
+      (1)   A person responding to a subpoena to produce documents shall, at the person's
+            option, produce them as they are kept in the usual course of business or organized
+            and labeled to correspond with the categories in the subpoena. A person producing
+            documents or electronically stored information pursuant to a subpoena for them
 
-      (2)     If a request does not specify the form or forms for producing electronically stored
-      information, a person responding to a subpoena may produce the information in a form or
-      forms in which the information is ordinarily maintained if that form is reasonably useable,
-      or in any form that is reasonably useable. Unless ordered by the court or agreed to by the
+             shall permit their inspection and copying by all parties present at the time and place
+             set in the subpoena for inspection and copying.
 
-      person subpoenaed, a person responding to a subpoena need not produce the same
-      electronically stored information in more than one form.
+      (2)    If a request does not specify the form or forms for producing electronically stored
+             information, a person responding to a subpoena may produce the information in a
+             form or forms in which the information is ordinarily maintained if that form is
+             reasonably useable, or in any form that is reasonably useable. Unless ordered by
+             the court or agreed to by the person subpoenaed, a person responding to a subpoena
+             need not produce the same electronically stored information in more than one form.
 
-      (3)      A person need not provide discovery of electronically stored information when the
-      production imposes undue burden or expense. On motion to compel discovery or for a
-      protective order, the person from whom electronically stored information is sought must
-      show that the information is not reasonably accessible because of undue burden or expense.
-      If a showing of undue burden or expense is made, the court may nonetheless order
-      production of electronically stored information if the requesting party shows good cause.
-      The court shall consider the factors in Civ.R. 26(B)(6)(b) when determining if good cause
-      exists. In ordering production of electronically stored information, the court may specify
-      the format, extent, timing, allocation of expenses and other conditions for the discovery of
-      the electronically stored information.
+      (3)     A person need not provide discovery of electronically stored information when the
+             production imposes undue burden or expense. On motion to compel discovery or
+             for a protective order, the person from whom electronically stored information is
+             sought must show that the information is not reasonably accessible because of
+             undue burden or expense. If a showing of undue burden or expense is made, the
+             court may nonetheless order production of electronically stored information if the
+             requesting party shows good cause. The court shall consider the factors in Civ.R.
+             26(B)(6)(b) when determining if good cause exists. In ordering production of
+             electronically stored information, the court may specify the format, extent, timing,
+             allocation of expenses and other conditions for the discovery of the electronically
+             stored information.
 
-      (4)     When information subject to a subpoena is withheld on a claim that it is privileged
-      or subject to protection as trial preparation materials, the claim shall be made expressly and
-      shall be supported by a description of the nature of the documents, communications, or
-      things not produced that is sufficient to enable the demanding party to contest the claim.
+      (4)    When information subject to a subpoena is withheld on a claim that it is privileged
+             or subject to protection as trial preparation materials, the claim shall be made
+             expressly and shall be supported by a description of the nature of the documents,
+             communications, or things not produced that is sufficient to enable the demanding
+             party to contest the claim.
 
-      (5)     If information is produced in response to a subpoena that is subject to a claim of
-      privilege or of protection as trial-preparation material, the person making the claim may
-      notify any party that received the information of the claim and the basis for it. After being
-      notified, a receiving party must promptly return, sequester, or destroy the specified
-      information and any copies within the party’s possession, custody or control. A party may
-      not use or disclose the information until the claim is resolved. A receiving party may
-      promptly present the information to the court under seal for a determination of the claim
-      of privilege or of protection as trial-preparation material. If the receiving party disclosed
-      the information before being notified, it must take reasonable steps to retrieve it. The
-      person who produced the information must preserve the information until the claim is
-      resolved.
+      (5)    If information is produced in response to a subpoena that is subject to a claim of
+             privilege or of protection as trial-preparation material, the person making the claim
+             may notify any party that received the information of the claim and the basis for it.
+             After being notified, a receiving party must promptly return, sequester, or destroy
+             the specified information and any copies within the party’s possession, custody or
+             control. A party may not use or disclose the information until the claim is resolved.
+             A receiving party may promptly present the information to the court under seal for
+             a determination of the claim of privilege or of protection as trial-preparation
+             material. If the receiving party disclosed the information before being notified, it
+             must take reasonable steps to retrieve it. The person who produced the information
+             must preserve the information until the claim is resolved.
 
 (E)   Sanctions
 
@@ -6467,15 +6668,16 @@ RULE 45.    Subpoena.
       may be deemed a contempt of the court from which the subpoena issued. A subpoenaed
       person or that person’s attorney who frivolously resists discovery under this rule may be
       required by the court to pay the reasonable expenses, including reasonable attorney’s fees,
-      of the party seeking the discovery. The court from which a subpoena was issued may
-      impose upon a party or attorney in breach of the duty imposed by division (C)(1) of this
-      rule an appropriate sanction, which may include, but is not limited to, lost earnings and
-      reasonable attorney’s fees.
 
-(F)   Privileges
+        of the party seeking the discovery. The court from which a subpoena was issued may
+        impose upon a party or attorney in breach of the duty imposed by division (C)(1) of this
+        rule an appropriate sanction, which may include, but is not limited to, lost earnings and
+        reasonable attorney’s fees.
 
-      Nothing in this rule shall be construed to authorize a party to obtain information protected
-      by any privilege recognized by law, or to authorize any person to disclose such information.
+(F)     Privileges
+
+        Nothing in this rule shall be construed to authorize a party to obtain information protected
+        by any privilege recognized by law, or to authorize any person to disclose such information.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1971; July 1, 1972; July 1, 1993; July 1, 1994; July 1, 2005; July 1, 2008; July
@@ -6519,6 +6721,7 @@ discovery of parties. Civ.R. 45(A) and 45(D)(2) clarify that a party may use sub
 electronically stored information from nonparties. It allows the party issuing the subpoena to specify the
 form or forms of production for electronically stored information while prohibiting the requesting party from
 demanding that the subpoenaed person provide the same information in more than one electronic format.
+
 For example, the party issuing the subpoena may request that a party’s internal memorandums on a
 particular subject be produced in a Word™ file, while financial records be provided in an Excel™
 spreadsheet format or other format commonly used for financial matters.
@@ -6643,20 +6846,20 @@ RULE 47.     Jurors.
 
              (2)     Retain a copy of each proposed question for the record;
 
-             (3)    Instruct the jurors that they shall not display or discuss a proposed question
-             with other jurors;
+             (3)     Instruct the jurors that they shall not display or discuss a proposed question
+                     with other jurors;
 
              (4)     Before reading a question to a witness, provide counsel with an opportunity
-             to object to each question on the record and outside the hearing of the jury;
+                     to object to each question on the record and outside the hearing of the jury;
 
              (5)     Read the question, either as proposed or rephrased, to the witness;
 
              (6)     Permit counsel to reexamine the witness regarding a matter addressed by a
-             juror question;
+                     juror question;
 
-                 (7)    If a question proposed by a juror is not asked, instruct the jurors that they
-                 should not draw any adverse inference from the court’s refusal to ask any question
-                 proposed by a juror.
+                 (7)      If a question proposed by a juror is not asked, instruct the jurors that they
+                          should not draw any adverse inference from the court’s refusal to ask any
+                          question proposed by a juror.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1971; July 1, 1972; July 1, 1975; July 1, 2005; July 1, 2006; July 1, 2009; July
@@ -6820,14 +7023,14 @@ not addressed by the existing rule — the recalling of alternate jurors who are
 retires to deliberate. The amendment specifically prohibits the court from recalling discharged alternate
 jurors.
 
-        Retention. A retained alternate juror has not been discharged. A retained (i.e. not “discharged”)
+         Retention. A retained alternate juror has not been discharged. A retained (i.e. not “discharged”)
 alternate juror continues to be subject to the court’s instructions and admonitions, and thus may not discuss
 the case with anyone “until that alternate replaces a juror or is discharged.” The rule does not address
 whether a “retained” alternate juror may be free to leave — a matter left to the court’s discretion — but good
 practice suggests that the court ensure that a retained alternate juror remain readily available to appear
 before the court to replace an alternate juror if necessary.
 
-        Discharge. “Discharge” occurs when the court does not retain, but instead “discharges” an
+         Discharge. “Discharge” occurs when the court does not retain, but instead “discharges” an
 alternate juror. A discharged (i.e. not “retained”) alternate juror cannot be recalled as a juror.
 
 RULE 48.       Juries: Majority Verdict; Stipulation of Number of Jurors.
@@ -6888,79 +7091,81 @@ Amended: July 1, 1980
 RULE 50.     Motion for a Directed Verdict, for Judgment, or for Judgment
 Notwithstanding the Verdict or in Lieu of Verdict.
 
-(A)    Motion for directed verdict
+(A)   Motion for directed verdict
 
-       (1)    When made
+      (1)    When made
 
-              A motion for a directed verdict may be made on the opening statement of the
-              opponent, at the close of the opponent's evidence or at the close of all the evidence.
+             A motion for a directed verdict may be made on the opening statement of the
+             opponent, at the close of the opponent's evidence or at the close of all the evidence.
 
-       (2)    When not granted
+      (2)    When not granted
 
-              A party who moves for a directed verdict at the close of the evidence offered by an
-              opponent may offer evidence in the event that the motion is not granted, without
-              having reserved the right so to do and to the same extent as if the motion had not
-              been made. A motion for a directed verdict which is not granted is not a waiver of
-              trial by jury even though all parties to the action have moved for directed verdicts.
+             A party who moves for a directed verdict at the close of the evidence offered by an
+             opponent may offer evidence in the event that the motion is not granted, without
+             having reserved the right so to do and to the same extent as if the motion had not
+             been made. A motion for a directed verdict which is not granted is not a waiver of
+             trial by jury even though all parties to the action have moved for directed verdicts.
 
-       (3)    Grounds
+      (3)    Grounds
 
-              A motion for a directed verdict shall state the specific grounds therefor.
+             A motion for a directed verdict shall state the specific grounds therefor.
 
-       (4)    When granted on the evidence
+      (4)    When granted on the evidence
 
-              When a motion for a directed verdict has been properly made, and the trial court,
-              after construing the evidence most strongly in favor of the party against whom the
-              motion is directed, finds that upon any determinative issue reasonable minds could
-              come to but one conclusion upon the evidence submitted and that conclusion is
-              adverse to such party, the court shall sustain the motion and direct a verdict for the
-              moving party as to that issue.
+             When a motion for a directed verdict has been properly made, and the trial court,
+             after construing the evidence most strongly in favor of the party against whom the
+             motion is directed, finds that upon any determinative issue reasonable minds could
+             come to but one conclusion upon the evidence submitted and that conclusion is
+             adverse to such party, the court shall sustain the motion and direct a verdict for the
+             moving party as to that issue.
 
-       (5)    Jury assent unnecessary
+      (5)    Jury assent unnecessary
 
-              The order of the court granting a motion for a directed verdict is effective without
-              any assent of the jury.
+             The order of the court granting a motion for a directed verdict is effective without
+             any assent of the jury.
 
-(B)    Post-trial motion for judgment or for judgment notwithstanding the verdict or in lieu
-of verdict
+(B)   Post-trial motion for judgment or for judgment notwithstanding the verdict or in lieu
+      of verdict
 
-       (1)     Whether or not a motion to direct a verdict has been made or overruled, a party may
-       serve a motion to have the verdict and any judgment entered thereon set aside and to have
-       judgment entered in accordance with the party’s motion. Such a motion shall be served
-       within twenty-eight days of the entry of judgment or, if the clerk has not completed service
-       of the notice of judgment within the three-day period described in Civ.R. 58(B), within
-       twenty-eight days of the date when the clerk actually completes service. If a verdict was
-       not returned, a party may serve a motion for judgment in accordance with the party’s
+      (1)    Whether or not a motion to direct a verdict has been made or overruled, a party may
+             serve a motion to have the verdict and any judgment entered thereon set aside and
+             to have judgment entered in accordance with the party’s motion. Such a motion
+             shall be served within twenty-eight days of the entry of judgment or, if the clerk
+             has not completed service of the notice of judgment within the three-day period
+             described in Civ.R. 58(B), within twenty-eight days of the date when the clerk
+             actually completes service. If a verdict was not returned, a party may serve a motion
 
-      motion within twenty-eight days of the jury’s discharge. A motion for a new trial may be
-      joined with either motion, or a new trial may be requested in the alternative.
+             for judgment in accordance with the party’s motion within twenty-eight days of the
+             jury’s discharge. A motion for a new trial may be joined with either motion, or a
+             new trial may be requested in the alternative.
 
       (2)    Unless otherwise provided by local rule or by order of the court, arguments in
-      response to the motion shall be served within fourteen days of service of the motion, and a
-      movant’s reply may be served within seven days of service of the response to the motion.
+             response to the motion shall be served within fourteen days of service of the motion,
+             and a movant’s reply may be served within seven days of service of the response to
+             the motion.
 
-      (3)     If a verdict was returned, the court may allow the judgment to stand or may reopen
-      the judgment. If the judgment is reopened, the court shall either order a new trial or direct
-      the entry of judgment, but no judgment shall be rendered by the court on the ground that
-      the verdict is against the weight of the evidence. If no verdict was returned the court may
-      direct the entry of judgment or may order a new trial.
+      (3)    If a verdict was returned, the court may allow the judgment to stand or may reopen
+             the judgment. If the judgment is reopened, the court shall either order a new trial
+             or direct the entry of judgment, but no judgment shall be rendered by the court on
+             the ground that the verdict is against the weight of the evidence. If no verdict was
+             returned the court may direct the entry of judgment or may order a new trial.
 
 (C)   Conditional rulings on motion for judgment notwithstanding verdict
 
-      (1)     If the motion for judgment notwithstanding the verdict, provided for in division (B)
-      of this rule, is granted, the court shall also rule on the motion for a new trial, if any, by
-      determining whether it should be granted if the judgment is thereafter vacated or reversed.
-      If the motion for a new trial is thus conditionally granted, the order thereon does not affect
-      the finality of the judgment. In case the motion for a new trial has been conditionally
-      granted and the judgment is reversed on appeal, the new trial shall proceed unless the
-      appellate court has otherwise ordered. In case the motion for a new trial has been
-      conditionally denied, the appellee on appeal may assert error in that denial; and if the
-      judgment is reversed on appeal, subsequent proceedings shall be in accordance with the
-      order of the appellate court.
+      (1)    If the motion for judgment notwithstanding the verdict, provided for in division (B)
+             of this rule, is granted, the court shall also rule on the motion for a new trial, if any,
+             by determining whether it should be granted if the judgment is thereafter vacated
+             or reversed. If the motion for a new trial is thus conditionally granted, the order
+             thereon does not affect the finality of the judgment. In case the motion for a new
+             trial has been conditionally granted and the judgment is reversed on appeal, the new
+             trial shall proceed unless the appellate court has otherwise ordered. In case the
+             motion for a new trial has been conditionally denied, the appellee on appeal may
+             assert error in that denial; and if the judgment is reversed on appeal, subsequent
+             proceedings shall be in accordance with the order of the appellate court.
 
-      (2)     The party whose verdict has been set aside on motion for judgment notwithstanding
-      the verdict may serve a motion for a new trial pursuant to Civ.R. 59 not later than twenty-
-      eight days after entry of the judgment notwithstanding the verdict.
+      (2)    The party whose verdict has been set aside on motion for judgment notwithstanding
+             the verdict may serve a motion for a new trial pursuant to Civ.R. 59 not later than
+             twenty-eight days after entry of the judgment notwithstanding the verdict.
 
 (D)   Denial of motion for judgment notwithstanding verdict
 
@@ -6975,8 +7180,9 @@ of verdict
 
       When in a jury trial a court directs a verdict or grants judgment without or contrary to the
       verdict of the jury, the court shall state the basis for its decision in writing prior to or
-      simultaneous with the entry of judgment. Such statement may be dictated into the record
-      or included in the entry of judgment.
+
+        simultaneous with the entry of judgment. Such statement may be dictated into the record
+        or included in the entry of judgment.
 
 Effective Date: July 1, 1970
 Amended: July 1, 2013; July 1, 2015; July 1, 2018
@@ -7005,7 +7211,7 @@ again in the absence of a local rule or order of the court specifying a differen
                                   Staff Note (July 1, 2018 Amendment)
  Division (B)   Post-trial motion for judgment or for judgment in lieu of verdict
 
-         The amendment provides that if the clerk fails to serve the parties with notice of a judgment in the
+          The amendment provides that if the clerk fails to serve the parties with notice of a judgment in the
  three-day period contemplated by Civ.R. 58(B), the time to serve a post-trial motion for judgment in favor
  of the movant does not begin to run until after the clerk does so. The purpose of the amendment is to
  avoid the harsh result that otherwise can occur if a would-be movant does not receive notice of the
@@ -7101,9 +7307,9 @@ requirements of this rule and Civ.R. 41(B)(2).
 Effective Date: July 1, 1970
 Amended: July 1, 1971; July 1, 1989; July 1, 2015
 
-                                  Staff Note (July 1, 2015 Amendment)
+                                   Staff Note (July 1, 2015 Amendment)
 
-        The rule is amended to (1) replace “conclusions of fact” with “findings of fact” in the first paragraph
+         The rule is amended to (1) replace “conclusions of fact” with “findings of fact” in the first paragraph
 of the rule and (2) include a reference to the findings of fact and conclusions of law required by Civ.R.
 23(G)(3).
 
@@ -7134,13 +7340,13 @@ RULE 53.     Magistrates.
                      (b)    Conduct the trial of any case that will not be tried to a jury;
 
                      (c)    Upon unanimous written consent of the parties, preside over the trial
-                     of any case that will be tried to a jury;
+                            of any case that will be tried to a jury;
 
-                     (d)   Conduct proceedings upon application for the issuance of a
-                     temporary protection order as authorized by law;
+                     (d)    Conduct proceedings upon application for the issuance of a
+                            temporary protection order as authorized by law;
 
-                     (e)     Exercise any other authority specifically vested in magistrates by
-                     statute and consistent with this rule.
+                     (e)    Exercise any other authority specifically vested in magistrates by
+                            statute and consistent with this rule.
 
       (2)    Jury trials before magistrates
 
@@ -7165,8 +7371,8 @@ RULE 53.     Magistrates.
             as if by the court and to do everything necessary for the efficient performance of
             those responsibilities, including but not limited to, the following:
 
-                   (a)    Issuing subpoenas for the attendance of witnesses and the
-                   production of evidence;
+                   (a)     Issuing subpoenas for the attendance of witnesses and the
+                           production of evidence;
 
                    (b)     Ruling upon the admissibility of evidence;
 
@@ -7175,12 +7381,12 @@ RULE 53.     Magistrates.
                    (d)     Calling the parties to the action and examining them under oath;
 
                    (e)     When necessary to obtain the presence of an alleged contemnor in
-                   cases involving direct or indirect contempt of court, issuing an attachment
-                   for the alleged contemnor and setting the type, amount, and any conditions
-                   of bail pursuant to Crim.R. 46;
+                           cases involving direct or indirect contempt of court, issuing an
+                           attachment for the alleged contemnor and setting the type, amount,
+                           and any conditions of bail pursuant to Crim.R. 46;
 
-                   (f)    Imposing, subject to Civ.R. 53(D)(8), appropriate sanctions for civil
-                   or criminal contempt committed in the presence of the magistrate.
+                   (f)     Imposing, subject to Civ.R. 53(D)(8), appropriate sanctions for civil
+                           or criminal contempt committed in the presence of the magistrate.
 
 (D)   Proceedings in Matters Referred to Magistrates
 
@@ -7294,50 +7500,50 @@ RULE 53.     Magistrates.
               considered. The objecting party shall file the transcript or affidavit
               with the court within thirty days after filing objections unless the
 
-                     court extends the time in writing for preparation of the transcript or
-                     other good cause. If a party files timely objections prior to the date
-                     on which a transcript is prepared, the party may seek leave of court
-                     to supplement the objections.
+                    court extends the time in writing for preparation of the transcript or
+                    other good cause. If a party files timely objections prior to the date
+                    on which a transcript is prepared, the party may seek leave of court
+                    to supplement the objections.
 
-              (iv)   Waiver of right to assign adoption by court as error on appeal
+             (iv)   Waiver of right to assign adoption by court as error on appeal
 
-                     Except for a claim of plain error, a party shall not assign as error on
-                     appeal the court’s adoption of any factual finding or legal
-                     conclusion, whether or not specifically designated as a finding of
-                     fact or conclusion of law under Civ.R. 53(D)(3)(a)(ii), unless the
-                     party has objected to that finding or conclusion as required by Civ.R.
-                     53(D)(3)(b).
+                    Except for a claim of plain error, a party shall not assign as error on
+                    appeal the court’s adoption of any factual finding or legal
+                    conclusion, whether or not specifically designated as a finding of
+                    fact or conclusion of law under Civ.R. 53(D)(3)(a)(ii), unless the
+                    party has objected to that finding or conclusion as required by Civ.R.
+                    53(D)(3)(b).
 
-(4)    Action of court on magistrate’s decision and on any objections to magistrate’s
-decision; entry of judgment or interim order by court
+(4)   Action of court on magistrate’s decision and on any objections to magistrate’s
+      decision; entry of judgment or interim order by court
 
-       (a)    Action of court required
+      (a)    Action of court required
 
-              A magistrate’s decision is not effective unless adopted by the court.
+             A magistrate’s decision is not effective unless adopted by the court.
 
-       (b)    Action on magistrate’s decision
+      (b)    Action on magistrate’s decision
 
-              Whether or not objections are timely filed, a court may adopt or reject a
-              magistrate’s decision in whole or in part, with or without modification. A
-              court may hear a previously-referred matter, take additional evidence, or
-              return a matter to a magistrate.
+             Whether or not objections are timely filed, a court may adopt or reject a
+             magistrate’s decision in whole or in part, with or without modification. A
+             court may hear a previously-referred matter, take additional evidence, or
+             return a matter to a magistrate.
 
-       (c)    If no objections are filed
+      (c)    If no objections are filed
 
-              If no timely objections are filed, the court may adopt a magistrate’s
-              decision, unless it determines that there is an error of law or other defect
-              evident on the face of the magistrate’s decision.
+             If no timely objections are filed, the court may adopt a magistrate’s
+             decision, unless it determines that there is an error of law or other defect
+             evident on the face of the magistrate’s decision.
 
-       (d)    Action on objections
+      (d)    Action on objections
 
-              If one or more objections to a magistrate’s decision are timely filed, the
-              court shall rule on those objections. In ruling on objections, the court shall
-              undertake an independent review as to the objected matters to ascertain that
-              the magistrate has properly determined the factual issues and appropriately
-              applied the law. Before so ruling, the court may hear additional evidence
-              but may refuse to do so unless the objecting party demonstrates that the
-              party could not, with reasonable diligence, have produced that evidence for
-              consideration by the magistrate.
+             If one or more objections to a magistrate’s decision are timely filed, the
+             court shall rule on those objections. In ruling on objections, the court shall
+             undertake an independent review as to the objected matters to ascertain that
+             the magistrate has properly determined the factual issues and appropriately
+             applied the law. Before so ruling, the court may hear additional evidence
+             but may refuse to do so unless the objecting party demonstrates that the
+             party could not, with reasonable diligence, have produced that evidence for
+             consideration by the magistrate.
 
       (e)    Entry of judgment or interim order by court
 
@@ -7422,7 +7628,7 @@ courts.
 
 Rule 53(B)      Compensation
 
-         Eliminates the prior authority to tax the compensation of a referee appointed on an interim basis as
+          Eliminates the prior authority to tax the compensation of a referee appointed on an interim basis as
 part of court costs. The Supreme Court Rules Advisory Committee is of the opinion that the salaries of
 judicial officers should be borne by the taxpayers generally, rather than by the parties to cases.
 
@@ -7513,7 +7719,7 @@ deleted the word “proposed”. The amendment is technical only and no substant
 
 Rule 53(A)        Appointment
 
-       The 1998 amendment to this division changed “traffic referee” to “traffic magistrate” to conform to
+        The 1998 amendment to this division changed “traffic referee” to “traffic magistrate” to conform to
 the 1996 amendment of Rule 14 of the Ohio Traffic Rules. No substantive change is intended.
 
 Rule 53(C)        Reference and powers
@@ -7544,7 +7750,6 @@ Rule 53(E)        Decisions in referred matters
         It was suggested to the Rules Advisory Committee that the waiver rule prescribed by sentence four
 of former Civ.R. 53(E)(3)(b) [now division (E)(3)(d)] sometimes surprised counsel and pro se litigants
 because they did not expect to be required to object to a finding of fact or conclusion of law in a magistrate’s
-
 decision in order to assign its adoption by the trial court as error on appeal. A review of relevant appellate
 decisions seemed to confirm that suggestion.
 
@@ -7580,7 +7785,7 @@ of fact.” Sentence four of former Civ.R. 53(E)(3)(b), which prescribes the wai
 that a party may properly file timely objections to a magistrate’s decision even if the trial court has previously
 adopted that decision as permitted by Civ.R. 53(E)(4)(c).
 
-        Third, the amendment adds a new sentence to Civ.R. 53(E)(2), which sentence requires that a
+         Third, the amendment adds a new sentence to Civ.R. 53(E)(2), which sentence requires that a
 magistrate who files a decision which includes findings of fact and conclusions of law also provide a
 conspicuous warning that timely and specific objection as required by Civ.R. 53(E)(3) is necessary to assign
 as error on appeal adoption by the trial court of any finding of fact or conclusion of law. It is ordinarily
@@ -7600,7 +7805,7 @@ significant changes included in the reorganization are noted below.
 
 Rule 53(A)       Appointment
 
-        Civ.R. 53(A) is taken verbatim from sentence one of former Civ.R. 53(A). Sup. R. 19 requires that
+        Civ.R. 53(A) is taken verbatim from sentence one of former Civ.R. 53(A). Sup.R. 19 requires that
 all municipal courts having more than two judges appoint one or more magistrates to hear specified matters.
 See also Crim.R. 19 and Traf.R. 14.
 
@@ -7654,12 +7859,12 @@ marital property under Civ.R. 75(I) (2); or (5) any other orders necessary to th
 before a magistrate. All temporary protection orders, however, including orders issued to avoid bodily harm
 pursuant to Civ.R. 75(I)(2), must be signed by a judge and comply fully with the procedures set forth in R.C.
 3113.31 and related sections. Civ.R. 53(D)(2)(b) replaces language in former Civ.R. 53(C)(3)(b), which
-
 purported to authorize “[a]ny person” to “appeal to the court” from any order of a magistrate “by filing a
 motion to set the order aside.” The new language refers to the appropriate challenge to a magistrate’s
 order as solely a “motion to set aside” the order. Civ.R. 53(D)(2)(b) likewise limits the authorization to file
 a motion to “any party,” though an occasional nonparty may be entitled to file a motion to set aside a
 magistrate’s order. Sentence two of Civ.R. 53(D)(2)(b) changes the trigger for the ten days permitted to
+
 file a motion to set aside a magistrate’s order from entry of the order to filing of the order, as the latter date
 is definite and more easily available to counsel.
 
@@ -7711,7 +7916,6 @@ Ohio St.3d 728, 730, 654 N.E.2d 1254.
           Sentence two of Civ.R. 53(D)(3)(b)(iii) adds a new requirement, adapted from Loc. R. 99.05,
 Franklin Cty. Ct. of Common Pleas, that the requisite transcript or affidavit be filed within thirty days after
 filing objections unless the court extends the time in writing for preparation of the transcript or other good
-
 cause. The last sentence of Civ.R. 53(D)(3)(b)(iii) allows an objecting party to seek leave of court to
 supplement previously filed objections where the additional objections become apparent after a transcript
 has been prepared.
@@ -7765,10 +7969,9 @@ St.3d 52, 2000-Ohio-269, 723 N.E.2d 571.
 properly choose a course of action other than adopting a magistrate’s decision even if there is no error of
 law or other defect evident on the face of the magistrate’s decision.
 
-        Sentence one of Civ.R. 53(D)(4)(d), like sentence one of former Civ.R. 53(E)(4)(b), requires that
+         Sentence one of Civ.R. 53(D)(4)(d), like sentence one of former Civ.R. 53(E)(4)(b), requires that
 the court rule on timely objections. Sentence two of Civ.R. 53(D)(4)(d) requires that, if timely objection is
 made to a magistrate’s decision, the court give greater scrutiny than if no objections are made. The
-
 “independent review as to the objected matters” standard that applies if timely objection is made should be
 distinguished from the lesser scrutiny permitted if no objections to a magistrate’s decision are timely filed,
 the latter standard having been first adopted by former Civ.R. 53(E)(4)(a), effective July 1, 1995, and
@@ -7886,10 +8089,11 @@ which affect Civ.R. 53 include:
         and is not subject to the requirements of that rule;
         Civ.R. 65.1(F)(3)(b): A magistrate’s denial or granting of a protection order after a full hearing does
         not constitute a magistrate’s order or a magistrate’s decision under Civ.R. 53(D)(2) or (3) and Is
-        not subject to the requirements of those rules;
-        Civ.R. 65.1(F)(3)(c)(iv): A court’s adoption, modification, or rejection of a magistrate’s denial or
-        granting of a protection order after a full hearing does not constitute a judgment or interim order
-        under Civ.R. 53(D)(4)(e) and is not subject to the requirements of that rule.
+
+        not subject to the requirements of those rules; Civ.R. 65.1(F)(3)(c)(iv): A court’s adoption,
+        modification, or rejection of a magistrate’s denial or granting of a protection order after a full hearing
+        does not constitute a judgment or interim order under Civ.R. 53(D)(4)(e) and is not subject to the
+        requirements of that rule.
         The adoption of Civ.R. 65.1(F) also nullifies comments in the 2006 Staff Note to Civ.R.
         53(D)(2)(a)(i) relating to the entry of temporary protection orders under R.C. 3113.31.
 
@@ -7900,7 +8104,7 @@ applicable to civil protection order proceedings and to provide the court with t
 application in such proceedings of any other rules to the extent that their application interferes with the
 statutory process or are inconsistent with its purposes.
 
-                                  Staff Note (July 1, 2020 Amendment)
+                                   Staff Note (July 1, 2020 Amendment)
 
 Division (C)(2)
 
@@ -7919,7 +8123,7 @@ findings of the jury and the magistrate’s interlocutory rulings preceding the 
 required to undergo a cumbersome and expensive procedure for which essentially the first line of appeal
 has been to the trial court, rather than directly to a court of appeals.
 
-                                  Staff Note (July 1, 2023 Amendment)
+                                   Staff Note (July 1, 2023 Amendment)
 
         The amendment to division (D)(8)(a) of this rule makes a cross-reference change necessitated by
 prior amendments to the rule.
@@ -8211,15 +8415,18 @@ RULE 58.         Entry of Judgment.
 
 (A)     Preparation; entry; effect; approval
 
-        (1)    Subject to the provisions of Rule 54(B), upon a general verdict of a jury, upon a
-        decision announced, or upon the determination of a periodic payment plan, the court shall
-        promptly cause the judgment to be prepared and, the court having signed it, the clerk shall
-        thereupon enter it upon the journal. A judgment is effective only when entered by the clerk
-        upon the journal.
+        (1)      Subject to the provisions of Rule 54(B), the court must promptly prepare—or ask
+                 one or more of the parties’ attorneys to prepare—a judgment entry when (i) a jury
+                 returns a general verdict, (ii) the court announces a decision, or (iii) the court grants
+                 or denies relief. If a proposed judgment entry is not prepared and presented to the
+                 court by counsel, the entry must be prepared by the court. The judgment entry must
+                 be filed and journalized within 30 days of the verdict, decision, or determination,
+                 absent good cause. A judgment is effective only when entered by the clerk upon
+                 the journal.
 
-        (2)     Approval of a judgment entry by counsel or a party indicates that the entry correctly
-        sets forth the verdict, decision, or determination of the court and does not waive any
-        objection or assignment of error for appeal.
+        (2)      Approval of a judgment entry by counsel or a party indicates that the entry correctly
+                 sets forth the verdict, decision, or determination of the court and does not waive
+                 any objection or assignment of error for appeal.
 
 (B)     Notice of filing
 
@@ -8237,7 +8444,7 @@ RULE 58.         Entry of Judgment.
         Entry of the judgment shall not be delayed for the taxing of costs.
 
 Effective Date: July 1, 1970
-Amended: July 1, 1971; July 1, 1989; July 1, 2012
+Amended: July 1, 1971; July 1, 1989; July 1, 2012; July 1, 2026
 
                                   Staff Note (July 1, 2012 Amendment)
 
@@ -8245,7 +8452,7 @@ Amended: July 1, 1971; July 1, 1989; July 1, 2012
 7(B) of the Rules of Superintendence for the Courts of Ohio. The provision is more appropriately included
 within the civil rules governing the conduct of actions.
 
-        The July 1, 1997 Commentary to Sup. R. 7 stated in pertinent part:
+        The July 1, 1997 Commentary to Sup.R. 7 stated in pertinent part:
 
         [T]he rule was added in 1995 and is intended to address the decision of the Eighth District Court of
 Appeals in Paletta v. Paletta (1990), 68 Ohio App.3d 507. In Paletta, the court of appeals held that the
@@ -8253,8 +8460,14 @@ appellant waived any objection to the judgment of the trial court when his attor
 judgment entry and failed to file objections as required by local rule of court, notwithstanding the attorney’s
 assertion that he did not intend to approve the entry but only to acknowledge its receipt. The 1995
 amendment indicates that a party’s approval of a proposed judgment entry only reflects agreement that the
+
 entry correctly sets forth the decision of the court and does not constitute a waiver of any error or objection
 for purposes of appeal.
+
+                                  Staff Note (July 1, 2026 Amendment)
+
+        The amendment incorporated language from former Sup.R. 7. The court need not wait 30 days
+before journalizing the judgment entry.
 
 RULE 59.     New Trials.
 
@@ -8264,30 +8477,30 @@ RULE 59.     New Trials.
       any of the following grounds:
 
              (1)     Irregularity in the proceedings of the court, jury, magistrate, or prevailing
-             party, or any order of the court or magistrate, or abuse of discretion, by which an
-             aggrieved party was prevented from having a fair trial;
+                     party, or any order of the court or magistrate, or abuse of discretion, by
+                     which an aggrieved party was prevented from having a fair trial;
 
              (2)     Misconduct of the jury or prevailing party;
 
              (3)     Accident or surprise which ordinary prudence could not have guarded
-             against;
+                     against;
 
-             (4)    Excessive or inadequate damages, appearing to have been given under the
-             influence of passion or prejudice;
+             (4)     Excessive or inadequate damages, appearing to have been given under the
+                     influence of passion or prejudice;
 
              (5)     Error in the amount of recovery, whether too large or too small, when the
-             action is upon a contract or for the injury or detention of property;
+                     action is upon a contract or for the injury or detention of property;
 
-             (6)   The judgment is not sustained by the weight of the evidence; however, only
-             one new trial may be granted on the weight of the evidence in the same case;
+             (6)     The judgment is not sustained by the weight of the evidence; however, only
+                     one new trial may be granted on the weight of the evidence in the same case;
 
              (7)     The judgment is contrary to law;
 
-             (8)    Newly discovered evidence, material for the party applying, which with
-             reasonable diligence he could not have discovered and produced at trial;
+             (8)     Newly discovered evidence, material for the party applying, which with
+                     reasonable diligence he could not have discovered and produced at trial;
 
-             (9)    Error of law occurring at the trial and brought to the attention of the trial
-             court by the party making the application.
+             (9)     Error of law occurring at the trial and brought to the attention of the trial
+                     court by the party making the application.
 
       In addition to the above grounds, a new trial may also be granted in the sound discretion
       of the court for good cause shown.
@@ -8395,15 +8608,15 @@ RULE 60.      Relief From Judgment or Order.
 
               (1)     Mistake, inadvertence, surprise or excusable neglect;
 
-              (2)    Newly discovered evidence which by due diligence could not have been
-              discovered in time to move for a new trial under Rule 59(B);
+              (2)     Newly discovered evidence which by due diligence could not have been
+                      discovered in time to move for a new trial under Rule 59(B);
 
-              (3)    Fraud (whether heretofore denominated intrinsic                 or   extrinsic),
-              misrepresentation or other misconduct of an adverse party;
+              (3)     Fraud (whether heretofore denominated intrinsic or                  extrinsic),
+                      misrepresentation or other misconduct of an adverse party;
 
-              (4)    The judgment has been satisfied, released or discharged, or a prior judgment
-              upon which it is based has been reversed or otherwise vacated, or it is no longer
-              equitable that the judgment should have prospective application; or
+              (4)     The judgment has been satisfied, released or discharged, or a prior judgment
+                      upon which it is based has been reversed or otherwise vacated, or it is no
+                      longer equitable that the judgment should have prospective application; or
 
               (5)     Any other reason justifying relief from the judgment.
 
@@ -8561,8 +8774,8 @@ RULE 65.     Injunctions.
              injunction which would be admissible upon the trial on the merits becomes part of
              the record on the trial and need not be repeated upon the trial. This subdivision
 
-              (B)(2) shall be so construed and applied as to save to the parties any rights they
-              may have to trial by jury.
+             (B)(2) shall be so construed and applied as to save to the parties any rights they
+             may have to trial by jury.
 
 (C)   Security
 
@@ -8664,16 +8877,16 @@ RULE 65.1. Civil Protection Orders.
 
       (4)    Modification; contempt; renewal; termination
 
-             (a)      Service of a motion for modification, contempt, renewal, or termination of
-             a civil protection order issued after a full hearing or an approved consent agreement
+             (a)     Service of a motion for modification, contempt, renewal, or termination of
+                     a civil protection order issued after a full hearing or an approved consent
 
-             shall be made in the manner provided for service of process under Civ.R. 4 through
-             Civ.R. 4.6.
+                    agreement shall be made in the manner provided for service of process
+                    under Civ.R. 4 through Civ.R. 4.6.
 
              (b)    After service has been made in accordance with division (C)(4)(a) of this
-             rule, any additional service required to be made on the Respondent and, if
-             applicable, on the parent, guardian, or legal custodian of the Respondent, shall be
-             made in accordance with provisions of Civ.R. 5(B).
+                    rule, any additional service required to be made on the Respondent and, if
+                    applicable, on the parent, guardian, or legal custodian of the Respondent,
+                    shall be made in accordance with provisions of Civ.R. 5(B).
 
       (5)    Confidentiality
 
@@ -8691,9 +8904,9 @@ RULE 65.1. Civil Protection Orders.
              (2)    The identities of the persons permitted to be present, which shall include
                     any victim advocate; and
 
-             (3)     Such terms and conditions deemed by the court to be necessary to assure
-             the safety of the Petitioner, including if applicable, maintaining the confidentiality
-             of the Petitioner’s address and other contact information.
+             (3)    Such terms and conditions deemed by the court to be necessary to assure
+                    the safety of the Petitioner, including if applicable, maintaining the
+                    confidentiality of the Petitioner’s address and other contact information.
 
 (E)   Appointed counsel for minor at full hearing
 
@@ -8720,23 +8933,26 @@ RULE 65.1. Civil Protection Orders.
 
              (b)    Nature of order
 
-                    (i)     A magistrate’s denial or granting of an ex parte protection
-                    order does not require judicial approval, shall otherwise comply
-                    with the statutory requirements relating to an ex parte protection
-                    order, shall be effective when signed by the magistrate and filed with
-                    the clerk, and shall have the same effect as an ex parte protection
-                    order entered by the court without reference to a magistrate.
+                            (i)     A magistrate’s denial or granting of an ex parte
+                                    protection order does not require judicial approval,
+                                    shall otherwise comply with the statutory
+                                    requirements relating to an ex parte protection order,
+                                    shall be effective when signed by the magistrate and
+                                    filed with the clerk, and shall have the same effect as
+                                    an ex parte protection order entered by the court
+                                    without reference to a magistrate.
 
-                    (ii)    A magistrate’s denial or granting of an ex parte protection
-                    order without judicial approval under this division does not
-                    constitute a magistrate’s order or a magistrate’s decision under
-                    Civ.R. 53(D)(2) or (3) and is not subject to the requirements of those
-                    rules.
+                            (ii)    A magistrate’s denial or granting of an ex parte
+                                    protection order without judicial approval under this
+                                    division does not constitute a magistrate’s order or a
+                                    magistrate’s decision under Civ.R. 53(D)(2) or (3)
+                                    and is not subject to the requirements of those rules.
 
-                    (iii) The court’s approval and signing of a magistrate’s denial or
-                    granting of an ex parte protection order entered under this division
-                    does not constitute a judgment or interim order under Civ.R.
-                    53(D)(4)(e) and is not subject to the requirements of that rule.
+                            (iii)   The court’s approval and signing of a magistrate’s
+                                    denial or granting of an ex parte protection order
+                                    entered under this division does not constitute a
+                                    judgment or interim order under Civ.R. 53(D)(4)(e)
+                                    and is not subject to the requirements of that rule.
 
 (3)   Full hearing proceedings
 
@@ -8755,100 +8971,151 @@ RULE 65.1. Civil Protection Orders.
                     or a magistrate’s decision under Civ.R. 53(D)(2) or (3) and is not
                     subject to the requirements of those rules.
 
-             (c)    Court adoption; modification; rejection
+(c)   Court adoption; modification; rejection
 
       (i)     A magistrate’s denial or granting of a protection order after
-      a full hearing shall comply with the statutory requirements relating
-      to such orders and is not effective unless adopted by the court.
+              a full hearing shall comply with the statutory requirements
+              relating to such orders and is not effective unless adopted by
+              the court.
 
       (ii)    When a magistrate has denied or granted a protection order
-      after a full hearing, the court may adopt the magistrate’s denial or
-      granting of the protection order upon review of the order and a
-      determination that there is no error of law or other defect evident on
-      the face of the order.
+              after a full hearing, the court may adopt the magistrate’s
+              denial or granting of the protection order upon review of the
+              order and a determination that there is no error of law or
+              other defect evident on the face of the order.
 
-      (iii) Upon review of a magistrate’s denial or granting of a protection
-      order after a full hearing, the court may modify or reject the
-      magistrate’s order.
+      (iii)   Upon review of a magistrate’s denial or granting of a
+              protection order after a full hearing, the court may modify or
+              reject the magistrate’s order.
 
       (iv)    A court’s adoption, modification, or rejection of a
-      magistrate’s denial or granting of a protection order after a full
-      hearing under this division does not constitute a judgment or interim
-      order under Civ.R. 53(D)(4)(e) and is not subject to the requirements
-      of that rule.
+              magistrate’s denial or granting of a protection order after a
+              full hearing under this division does not constitute a
+              judgment or interim order under Civ.R. 53(D)(4)(e) and is
+              not subject to the requirements of that rule.
 
       (v)     A court’s adoption, modification, or rejection of a
-      magistrate’s denial or granting of a protection order after a full
-      hearing shall be effective when signed by the court and filed with
-      the clerk.
+              magistrate’s denial or granting of a protection order after a
+              full hearing shall be effective when signed by the court and
+              filed with the clerk.
 
 (d)   Objections
 
       (i)     A party may file written objections to a court’s adoption,
-      modification, or rejection of a magistrate’s denial or granting of a
-      protection order after a full hearing, or any terms of such an order,
-      within fourteen days of the court’s filing of the order. If any party
-      timely files objections, any other party may also file objections not
-      later than ten days after the first objections are filed.
+              modification, or rejection of a magistrate’s denial or granting
+              of a protection order after a full hearing, or any terms of such
+              an order, within fourteen days of the court’s filing of the
+              order. If any party timely files objections, any other party
+              may also file objections not later than ten days after the first
+              objections are filed.
 
       (ii)    The timely filing of objections under this division shall not
-      stay the execution of the order.
+              stay the execution of the order.
 
-      (iii) A party filing objections under this division has the burden
-      of showing that an error of law or other defect is evident on the face
-      of the order, or that the credible evidence of record is insufficient to
-      support the granting or denial of the protection order, or that the
-      magistrate abused the magistrate’s discretion in including or failing
-      to include specific terms in the protection order.
+      (iii)   A party filing objections under this division has the burden
+              of showing that an error of law or other defect is evident on
+              the face of the order, or that the credible evidence of record
+              is insufficient to support the granting or denial of the
+              protection order, or that the magistrate abused the
 
-      (iv)    Objections based upon evidence of record shall be supported
-      by a transcript of all the evidence submitted to the magistrate or an
+                                     magistrate’s discretion in including or failing to include
+                                     specific terms in the protection order.
 
-                                 affidavit of that evidence if a transcript is not available. With leave
-                                 of court, alternative technology or manner of reviewing the relevant
-                                 evidence may be considered. The objecting party shall file the
-                                 transcript or affidavit with the court within thirty days after filing
-                                 objections unless the court extends the time in writing for
-                                 preparation of the transcript or other good cause. If a party files
-                                 timely objections prior to the date on which a transcript is prepared,
-                                 the party may seek leave of court to supplement the objections.
+                             (iv)    Objections based upon evidence of record shall be supported
+                                     by a transcript of all the evidence submitted to the magistrate
+                                     or an affidavit of that evidence if a transcript is not available.
+                                     With leave of court, alternative technology or manner of
+                                     reviewing the relevant evidence may be considered. The
+                                     objecting party shall file the transcript or affidavit with the
+                                     court within thirty days after filing objections unless the
+                                     court extends the time in writing for preparation of the
+                                     transcript or other good cause. If a party files timely
+                                     objections prior to the date on which a transcript is prepared,
+                                     the party may seek leave of court to supplement the
+                                     objections.
 
-                         (e)     Motions for modification, contempt, renewal, or termination of civil
-                         protection orders. When a motion for modification, contempt, renewal, or
-                         termination of a civil protection order is referred to a magistrate for
-                         determination, the provisions of this division (F)(3) of this rule relating to
-                         full hearing proceedings shall apply unless such provisions would by their
-                         nature be clearly inapplicable.
+                     (e)     Motions for modification, contempt, renewal, or termination of civil
+                             protection orders. When a motion for modification, contempt,
+                             renewal, or termination of a civil protection order is referred to a
+                             magistrate for determination, the provisions of this division (F)(3)
+                             of this rule relating to full hearing proceedings shall apply unless
+                             such provisions would by their nature be clearly inapplicable.
 
-(G)     Final order; objections prior to appeal; stay of appeal
+(G)   Final order; objections prior to appeal; stay of appeal
 
-        Notwithstanding the provisions of any other rule, an order entered by the court under
-        division (F)(3)(c) or division (F)(3)(e) of this rule is a final, appealable order. However, a
-        party must timely file objections to such an order under division (F)(3)(d) of this rule prior
-        to filing an appeal, and the timely filing of such objections shall stay the running of the
-        time for appeal until the filing of the court’s ruling on the objections.
+      Notwithstanding the provisions of any other rule, an order entered by the court under
+      division (F)(3)(c) or division (F)(3)(e) of this rule is a final, appealable order. However, a
+      party must timely file objections to such an order under division (F)(3)(d) of this rule prior
+      to filing an appeal, and the timely filing of such objections shall stay the running of the
+      time for appeal until the filing of the court’s ruling on the objections.
 
-(H)     Dismissal of petitions for protection orders
+(H)   Protection Order Notice to National Crime Information Center (“NCIC”) Database
+
+      Upon a court’s issuance, modification, or termination of an ex parte or full hearing
+      protection Order or approval or termination of a consent agreement civil protection order,
+      the court shall do both of the following:
+
+             (1)     Follow the instructions in Form 28 (formerly 10-B) Instructions for
+                     Completing a Protection Order Notice to NCIC and thoroughly and
+                     accurately complete a Form 27 (formerly 10-A): Protection Order Notice to
+                     NCIC, or a form substantially similar thereto, to facilitate the correct entry
+                     of the order or agreement into the NCIC database; and
+
+             (2)     Send a completed Form 27 (formerly 10-A): Protection Order Notice to
+                     NCIC, or a form substantially similar thereto, and a copy of the order or
+                     agreement to the local law enforcement agency for entry of the order or
+
+                         agreement into the NCIC Protection Order database National Crime
+                         Information Center Protection Order File and to facilitate nationwide
+                         enforcement of the order or agreement.
+
+(I)     Dismissal of petitions for protection orders
 
         Notwithstanding Civ.R. 41, any dismissal of a petition for domestic violence, dating
         violence, stalking, or sexually oriented offense civil protection order by a court or party,
         other than a denial on the merits, shall not operate as an adjudication of the merits or a bar
         to a subsequent filing of the petition.
 
+(J)     Notification of Existence of a Protection Orders
+
+        (1)     A judge or magistrate who pursuant to statute provides notice to a respondent or
+                defendant about the existence of a protection order issued against said respondent
+                or defendant by another court shall use Form 9 (formerly 10-D): Notice to
+                Respondent or Defendant About Existence of Protection Order, or a form
+                substantially similar thereto, to document the notification. The Court shall then
+                send the form to the clerk of court. The form shall be returned to the clerk of court
+                that issued the protection order as soon as possible, but no later than three business
+                days from the date the notice was provided to the respondent or defendant.
+
+        (2)     A court that issued a protection order shall accept a Form 9 (formerly 10-D): Notice
+                to Respondent or Defendant About Existence of Protection Order, or a form
+                substantially similar thereto, from a judge, magistrate, or law enforcement officer
+                who provided the respondent notice about the existence of the protection order
+                pursuant to statute. The form shall be docketed and maintained in the protection
+                order case file.
+
+(K)     Public Access Exception
+
+        Direct access, as defined in Sup.R. 11.09, is permitted subject to any restrictions imposed
+        by the Constitution, Revised Code, or the Rules of Superintendence. Any record in a
+        protection order case that is likely to reveal the identity or location of a petitioner or another
+        protected person shall not be available through Sup.R. 11.09 through 11.16.
+
 Effective Date: July 1, 2012
-Amended: July 1, 2016; July 1, 2023; July 1, 2025
+Amended: July 1, 2016; July 1, 2023; July 1, 2025; July 1, 2026
                                   Staff Note (July 1, 2012 Amendment)
 
-         The special statutory proceedings established by R.C. 3113.31, R.C. 2151.34, and R.C. 2903.214
+        The special statutory proceedings established by R.C. 3113.31, R.C. 2151.34, and R.C. 2903.214
 provide regulations and requirements for the entry of civil protection orders against adults and juveniles for
 the protection of victims of domestic violence, stalking, and sexually oriented offenses. Each of those
 statutes provides that the proceedings, which customarily proceed pro se, “shall be conducted in
 accordance with the Rules of Civil Procedure.” Rule 65.1 is adopted to provide a set of provisions uniquely
 applicable to those statutory proceedings because application of the existing rules, particularly with respect
+
 to service, discovery, and reference to magistrates, interferes with the statutory process and is inconsistent
 with its purposes.
 
-Division (A)    Applicability; construction; other rules
+Division (A)     Applicability; construction; other rules
 
          Division (A) provides that the rule applies to protection order proceedings under the three specified
 statutes, and specifies that the provisions of the rule are to be interpreted and applied consistently with the
@@ -8955,13 +9222,13 @@ order entered after full hearing, must follow Civ.R. 5(B). In following the auth
 (C)(3) of this rule fosters consistency regarding service subsequent to the original complaint, provides a
 clear direction and discretion regarding the methods of service appropriate for subsequent service in civil
 protection order proceedings under Civ.R. 5(B), and ensures the Respondent receives reliable notice of full
+
 hearing civil protection orders. Additionally, Civ.R. 5(B)(3) requires a proof of service record be created,
 which includes the date and specific manner by which the service was made under Civ.R. 5(B)(2).
 
         Consistent with R.C. 3113.31, R.C. 2151.34, and R.C. 2903.214, division (C)(4)(a) of this rule
 recognizes that the statutory urgency of adjudicating a civil protection order petition is not part of a motion
 for renewal, contempt, modification, or termination of a full hearing civil protection order or an approved
-
 consent agreement. Accordingly, an initial attempt by personal service is not required and any of the
 methods of service under Civ.R. 4 through Civ.R. 4.6 is appropriate for such a motion.
 
@@ -8983,6 +9250,259 @@ This amendment is grounded on two key principles. First, it promotes the fair ad
 including affording the trial court an opportunity to review the transcript and address any insufficiency of
 evidence or abuse of discretion that would render the order or a term of the order unjust. Second, it creates
 a more robust record upon which the appeal may proceed.
+
+                                   Staff Note (July 1, 2026 Amendment)
+
+        (Language Transferred Commentary April 15, 2021 from Sup.R. 10)
+
+        Form 9 (formerly Form 10-D) was adopted, effective April 15, 2021, to implement R.C. 2919.27(D).
+Section 3 of Sub. S.B. 7 of the 132nd General Assembly states as follows:
+
+        The amendments made [to R.C. 2919.27(D)] are intended to supersede the holding of the Ohio
+        Supreme Court in State v. Smith, 136 Ohio St.3d 1, so that unperfected service of a protection
+        order or consent agreement does not preclude a prosecution for a violation of [a protection order
+        or consent agreement].
+
+        Proof of notice of the existence of a protection order is not evidence of service nor does it establish
+that service has been perfected. Service of civil protection order must be in accordance to Rules of Civil
+Procedure. Smith, 136 Ohio St.3d 1, 2013-Ohio-1698 at ¶21.
+
+(Commission Staff Note)
+
+         18 USC 2265(d)(3) limits internet publication of protection order information. The federal statute
+provides that a State “… shall not make available publicly on the Internet any information regarding the
+registration, filing of a petition for, or issuance of a protection order, restraining order or injunction,
+restraining order, or injunction … if such publication would be likely to publicly reveal the identity or location
+of the party protected under such order. A State … may share court-generated and law enforcement-
+generated information contained in secure, governmental registries for protection order enforcement
+purposes.”
+
+Rule 65.2.    Civil Protection Order Forms.
+
+(A)    Distribution of Packets
+
+       (1)    Civil Protection Order Against an Adult Packet
+
+              The division of the Court of Common Pleas with jurisdiction over domestic
+              violence civil protection order proceedings shall distribute upon request a forms
+              packet for use in domestic violence civil protection order proceedings under R.C.
+              3113.31. The forms packet shall include, at a minimum, forms and instructions that
+              are substantially similar to the following:
+
+                     (a)     Form 1 (formerly 10.01-A): General Information About Domestic
+                             Violence Protection Orders;
+
+                     (b)     Form 3 (formerly 10.01-C): Information About Filing A Domestic
+                             Violence Or Dating Violence Civil Protection Order Petition;
+
+                     (c)     Form 4 (formerly 10.01-D): Petition for Domestic Violence Civil
+                             Protection Order (R.C. 3113.31);
+
+                     (d)     Form 5 (formerly 10.01-F): Information for Parenting Proceeding
+                             Affidavit;
+
+                     (e)     Form 6 (formerly 10.01-H): Domestic Violence Civil Protection
+                             Order (CPO) Ex Parte (R.C. 3113.31); and
+
+                     (f)     Form 2 (formerly 10-C): Warning Concerning the Attached
+                             Protection Order or Consent Agreement.
+
+       (2)    Dating Violence Protection Order Packet
+
+              The division of the Court of Common Pleas with jurisdiction over dating violence
+              civil protection order proceedings shall distribute upon request a forms packet for
+              use in dating violence protection order proceedings pursuant to R.C. 3113.31. The
+              packet shall include, at a minimum, forms that are substantially similar to the
+              following:
+
+                     (a)     Form 3 (formerly 10.01-C): Information About Filing A Domestic
+                             Violence Or Dating Violence Civil Protection Order Petition;
+
+                     (b)     Form 13 (formerly 10.01-P): Petition for Dating Violence Civil
+                             Protection Order;
+
+                     (c)     Form 14 (formerly 10.01-Q): Dating Violence Civil Protection
+                             Order (DTCPO) Ex Parte; and
+
+             (d)     Form 2 (formerly 10-C): Warning Concerning the Attached
+                     Protection Order or Consent Agreement.
+
+(3)   Civil Stalking and Civil Sexually Oriented Offense Protection Order Packet
+
+      The division of the Court of Common Pleas with jurisdiction over civil stalking and
+      civil sexually oriented offense protection order proceedings shall distribute upon
+      request a forms packet for use in civil stalking protection order or civil sexually
+      oriented offense protection order proceedings pursuant to R.C. 2903.214. The
+      packet shall include, at a minimum, forms and instructions that are substantially
+      similar to the following:
+
+             (a)     Form 23 (formerly 10.03-G): Instructions for Obtaining Civil
+                     Stalking Protection Order or Civil Sexually Oriented Offense
+                     Protection Order (SSOOPO);
+
+             (b)     Form 24 (formerly 10.03-D): Petition for Civil Stalking Protection
+                     Order or Sexually Oriented Offense Protection Order (SSOOPO)
+                     (R.C. 2903.214); and
+
+             (c)     Form 25 (formerly 10.03-E): Civil Stalking Protection Order or
+                     Civil Sexually Oriented Offense Protection Order (SSOOPO) Ex
+                     Parte (R.C. 2903.14).
+
+(4)   Civil Protection Order Against a Minor Packet
+
+      The division of a court of common pleas that has jurisdiction to issue a civil
+      protection order against a minor pursuant to R.C. 2151.34 and 3113.31 shall
+      distribute, upon request, a forms packet for use in juvenile civil protection order
+      proceedings against a juvenile respondent pursuant to R.C. 2151.34 and 3113.31.
+      The packet shall include, at a minimum, forms that are substantially similar to the
+      following:
+
+             (a)     Form 18 (formerly 10.05-A): Information About Filing A Juvenile
+                     Civil Protection Order Or A Juvenile Domestic Violence Civil
+                     Protection Order Petition; and
+
+             (b)     Form 19 (formerly 10.05-B): Petition For Juvenile Civil Protection
+                     Order or Juvenile Domestic Violence Civil Protection Order (R.C.
+                     2151.34 and 3113.31); and
+
+             (c)     Form 2 (formerly 10-C): Warning Concerning the Attached
+                     Protection Order or Consent Agreement.
+
+(B)   Use of Protection Order Forms and Protection Order Warning
+
+      (1)   Domestic Violence Civil Protection Order and Consent Agreement Against an
+            Adult
+
+            (a)    In every case in which a court issues an ex parte or full hearing civil
+                   protection order or approves a consent agreement against an adult pursuant
+                   to R.C. 3113.31, the court shall use the applicable forms that are
+                   substantially similar to Form 6 (formerly 10.01-H): Domestic Violence
+                   Civil Protection Order (CPO) Ex Parte (R.C. 3113.31), Form 7 (formerly
+                   10.01-I): Domestic Violence Civil Protection Order (CPO) Full Hearing
+                   (R.C. 3113.31); or Form 8 (formerly 10.01-J): Consent Agreement and
+                   Domestic Violence Civil Protection Order (R.C. 3113.31) and include a
+                   cover sheet that is substantially similar to Form 2: Warning Concerning the
+                   Attached Protection Order or Consent Agreement.
+
+            (b)    In every case in which the court modifies the terms of a full hearing civil
+                   protection order or a consent agreement pursuant to R.C. 3113.31, it shall
+                   use the applicable forms that are substantially similar to Form 10 (formerly
+                   10.01-L): Judgment Entry on Motion to Modify/Terminate Domestic
+                   Violence or Dating Violence Civil Protection Order or Consent Agreement
+                   and Form 11 (formerly 10.01-M): Modified Domestic Violence Civil
+                   Protection Order and include a cover sheet that is substantially similar to
+                   Form 2 (formerly 10-C): Warning Concerning the Attached Protection
+                   Order or Consent Agreement.
+
+      (2)   Dating Violence Protection Orders
+
+            (a)    In every case in which a court issues an ex parte or full hearing dating
+                   violence protection order or approves a consent agreement pursuant to R.C.
+                   3113.31, the court shall use the applicable forms that are substantially
+                   similar to Form 14 (formerly 10.01-Q): Dating Violence Civil Protection
+                   Order (DTCPO) Ex Parte, Form 15 (formerly 10.01-R): Dating Violence
+                   Civil Protection Order (DTCPO) Full Hearing, or Form 16 (formerly 10.01-
+                   S): Consent Agreement and Dating Violence Civil Protection Order and
+                   include a cover sheet that is substantially similar to Form 2 Warning
+                   Concerning the Attached Protection Order or Consent Agreement.
+
+            (b)    In every case in which the court modifies the terms of a dating violence
+                   protection order or a consent agreement pursuant to statute, it shall use the
+                   applicable forms that are substantially similar to Form 10 (formerly 10.01-
+                   L): Judgment Entry on Motion to Modify/Terminate Domestic Violence or
+                   Dating Violence Civil Protection Order or Consent Agreement and Form 17
+                   (formerly 10.01-T): Modified Dating Violence Civil Protection Order and
+                   include a cover sheet that is substantially similar to Form 2 (formerly 10-
+
+             C): Warning Concerning the Attached Protection Order or Consent
+             Agreement.
+
+(3)   Civil Stalking Protection Order or Civil Sexually Oriented Offense Protection
+      Orders
+
+      In every case in which a court issues an ex parte or full hearing civil stalking
+      protection order or a civil sexually oriented offense protection order pursuant to
+      R.C. 2903.214, it shall use the applicable form that is substantially similar to Form
+      25 (formerly 10.03-E): Civil Stalking Protection Order or Civil Sexually Oriented
+      Offense Protection Order (SSOOPO) Ex Parte (R.C. 2903.14) or Form 26 (formerly
+      10.03-F): Civil Stalking Protection Order or Civil Sexually Oriented Offense
+      Protection Order (SSOOPO) Full Hearing (R.C. 2903.14) and include a cover sheet
+      that is substantially similar to Form 2 (formerly 10-C): Warning Concerning the
+      Attached Protection Order or Consent Agreement.
+
+(4)   Civil Protection Order Against a Minor
+
+      In every case in which a court issues an ex parte or full hearing civil protection
+      order against a minor pursuant to R.C. 2151.34, it shall use the applicable form that
+      is substantially similar to Form 20 (formerly 10.05-C): Juvenile Civil Protection
+      Order Or Juvenile Domestic Violence Civil Protection Order Ex Parte (R.C.
+      2151.34 Or 3113.31) or Form 21 (formerly 10.05-D): Juvenile Civil Protection
+      Order Full Hearing (R.C. 2151.34) and include a cover sheet that is substantially
+      similar to Form 2 (formerly 10-C): Warning Concerning the Attached Protection
+      Order or Consent Agreement.
+
+(5)   Domestic Civil Protection Order Against a Minor
+
+      In every case in which a court issues an ex parte or full hearing civil protection
+      order against a minor pursuant to R.C. 3113.31, it shall use the applicable form that
+      is substantially similar to Form 20 (formerly 10.05-C): Juvenile Civil Protection
+      Order Or Juvenile Domestic Violence Civil Protection Order Ex Parte (R.C.
+      2151.34 Or 3113.31) or Form 22 (formerly 10.05-E): Juvenile Domestic Violence
+      Civil Protection Order And Consent Agreement Protection Order and include a
+      cover sheet that is substantially similar to Form 2 (formerly 10-C): Warning
+      Concerning the Attached Protection Order or Consent Agreement.
+
+(6)   Notice of Deadly Weapons Surrender
+
+      In every case in which a court orders the respondent to surrender deadly weapons,
+      including firearms and ammunition, into the protective custody of law enforcement,
+      the court shall enter into the docket a form that is substantially similar to Form 31
+      (formerly 10-F): Notice of Receipt when the same is received from law
+      enforcement.
+
+        (7)     Wireless Service Transfer Order
+
+                In every case in which a court orders the transfer of wireless service as a term of an
+                ex parte or full hearing civil protection order, it shall complete a form that is
+                substantially similar to Form 29 (formerly 10-E): Wireless Service Transfer Order
+                in Domestic Violence Civil Protection Order.
+
+Effective Date: July 1, 2026
+
+                                  Staff Note (July 1, 2026 Amendment)
+
+        (Transferred Commentary January 1, 1998, from Sup.R. 10.01)
+
+        On December 9, 1994, Am.Sub.H.B. No. 335 became effective, which made significant changes to
+Ohio’s domestic violence laws. Section 4 of Am.Sub.H.B. 335 states as follows:
+
+        The General Assembly hereby requests the Supreme Court, in consultation with the
+        Department of Human Services, to prescribe a form that is to be filed by a petitioner seeking
+        a civil protection order under section 3113.31 of the Revised Code and that makes
+        reference to all the forms of relief that a court is authorized to grant under division (E) of
+        section 3113.31 of the Revised Code, as amended by this act, contains space for the
+        petitioner to request any of those forms of relief, and includes instructions for completing
+        the form so that a petitioner may file the form without the assistance of an attorney.
+
+       The Supreme Court, in consultation with its Domestic Violence Task Force, developed forms in
+response to the General Assembly’s request in Am.Sub.H.B. No. 335.
+
+         During its eighteen months of study, the Supreme Court’s Domestic Violence Task Force
+determined that due to the variety of protection order forms used by Ohio courts, it can be difficult for law
+enforcement officers to recognize valid protection orders and understand the pertinent provisions of such
+orders. The Task Force also discovered that misconceptions exist in regard to the penalties for violating
+protection orders. Upon recommendation of the Task Force, the Court developed this rule and Forms
+10.02-A and 10C to address these concerns.
+
+        (Commission Staff Note)
+
+         Civ.R. 65.2(B)(6) references Form 31, which requires notification to be provided to the court by law
+enforcement when a person surrenders to law enforcement a deadly weapon or ammunition pursuant to a
+court’s protection order. The term “deadly weapon” is defined in R.C. 2923.11(A) to include “any instrument,
+device, or thing capable of inflicting death, and designed or specially adapted for use as a weapon, or
+possessed, carried, or used as a weapon.” This includes firearms, see e.g. R.C. 2923.11(B)-(G). This
+comports with 18 U.S. Code § 922(g)(8), which prohibits the possession of “any firearm or ammunition” by
+a person who is subject to a protection order issued after a full hearing or by consent agreement.
 
 RULE 66.      Receivers.
 
@@ -9049,10 +9569,12 @@ RULE 73.      Probate Division of the Court of Common Pleas.
 
 (A)   Applicability
 
-      These Rules of Civil Procedure shall apply to proceedings in the probate division of the
-      court of common pleas as indicated in this rule. Additionally, all of the Rules of Civil
-      Procedure, though not specifically mentioned in this rule, shall apply except to the extent
-      that by their nature they would be clearly inapplicable.
+      (1)     Rules 73 to 73.29 apply only to proceedings in the probate division of the court of
+              common pleas.
+
+      (2)     To the extent of any conflict, Rules 73 to 73.29 take precedence over any other
+              provision of the Rules of Civil Procedure. Otherwise, the Rules of Civil Procedure
+              apply except to the extent that by their nature they would be clearly inapplicable.
 
 (B)   Venue
 
@@ -9085,34 +9607,35 @@ RULE 73.      Probate Division of the Court of Common Pleas.
       and may be served by or on behalf of any interested party without court intervention by
       one of the following methods:
 
-              (1)     By delivering a copy to the person to be served;
+             (1)     By delivering a copy to the person to be served;
 
              (2)     By leaving a copy at the usual place of residence of the person to be served;
 
              (3)     By United States certified or express mail return receipt requested, or by a
-             commercial carrier service utilizing any form of delivery requiring a signed receipt,
-             addressed to the person to be served at the person’s usual place of residence with
-             instructions to the delivering postal employee or to the carrier to show to whom
-             delivered, date of delivery, and address where delivered, provided that the certified
-             or express mail envelope or return of the commercial carrier is not returned showing
-             failure of delivery;
+                     commercial carrier service utilizing any form of delivery requiring a signed
+                     receipt, addressed to the person to be served at the person’s usual place of
+                     residence with instructions to the delivering postal employee or to the
+                     carrier to show to whom delivered, date of delivery, and address where
+                     delivered, provided that the certified or express mail envelope or return of
+                     the commercial carrier is not returned showing failure of delivery;
 
-             (4)    By United States ordinary mail after a returned United States certified or
-             express mail envelope or return of the commercial carrier shows that it was refused;
+             (4)     By United States ordinary mail after a returned United States certified or
+                     express mail envelope or return of the commercial carrier shows that it was
+                     refused;
 
              (5)     By United States ordinary mail after a United States certified or express
-             mail or commercial carrier envelope is returned with an endorsement stating that it
-             was unclaimed or a similar endorsement indicating the item was unclaimed,
-             provided that the United States ordinary mail envelope is not returned by the postal
-             authorities showing failure of delivery;
+                     mail or commercial carrier envelope is returned with an endorsement stating
+                     that it was unclaimed or a similar endorsement indicating the item was
+                     unclaimed, provided that the United States ordinary mail envelope is not
+                     returned by the postal authorities showing failure of delivery;
 
              (6)     By publication once each week for three consecutive weeks in some
-             newspaper of general circulation in the county when the name, usual place of
-             residence, or existence of the person to be served is unknown and cannot with
-             reasonable diligence be ascertained; provided that before publication may be
-             utilized, the person giving notice shall file an affidavit which states that the name,
-             usual place of residence, or existence of the person to be served is unknown and
-             cannot with reasonable diligence be ascertained;
+                     newspaper of general circulation in the county when the name, usual place
+                     of residence, or existence of the person to be served is unknown and cannot
+                     with reasonable diligence be ascertained; provided that before publication
+                     may be utilized, the person giving notice shall file an affidavit which states
+                     that the name, usual place of residence, or existence of the person to be
+                     served is unknown and cannot with reasonable diligence be ascertained;
 
              (7)     By other method as the court may direct.
 
@@ -9142,12 +9665,12 @@ RULE 73.      Probate Division of the Court of Common Pleas.
 (H)   Forms used in probate practice
 
       Forms used in proceedings in the probate division of the courts of common pleas shall be
-      those prescribed in the rule applicable to standard probate forms in the Rules of
-      Superintendence. Forms not prescribed in such rule may be used as permitted in that rule.
+      those prescribed in Civ.R. 73.2. Forms not prescribed in such rule may be used as permitted
+      in that rule.
 
       Blank forms reproduced for use in probate practice for any filing to which the rule
       applicable to specifications for printing probate forms of the Rules of Superintendence
-      applies shall conform to the specifications set forth in that rule.
+      applies shall conform to the specifications set forth in Civ.R. 73.3.
 
       No pleading, application, acknowledgment, certification, account, report, statement,
       allegation, or other matter filed in the probate division of the courts of common pleas shall
@@ -9170,26 +9693,27 @@ RULE 73.      Probate Division of the Court of Common Pleas.
       by electronic means. If the court adopts such local rules, they shall include all of the
       following:
 
-             (1)      Any signature on electronically transmitted documents shall be considered
-             that of the attorney or party it purports to be for all purposes. If it is established
-             that the documents were transmitted without authority, the court shall order the
-             filing stricken.
+             (1)     Any signature on electronically transmitted documents shall be considered
+                     that of the attorney or party it purports to be for all purposes. If it is
+                     established that the documents were transmitted without authority, the court
+                     shall order the filing stricken.
 
-                 (2)    A provision shall specify the days and hours during which electronically
-                 transmitted documents will be received by the court, and a provision shall specify
-                 when documents received electronically will be considered to have been filed.
+                  (2)     A provision shall specify the days and hours during which electronically
+                          transmitted documents will be received by the court, and a provision shall
+                          specify when documents received electronically will be considered to have
+                          been filed.
 
-                 (3)     Any document filed electronically that requires a filing fee may be rejected
-                 by the clerk of court unless the filer has complied with the mechanism established
-                 by the court for the payment of filing fees.
+                  (3)     Any document filed electronically that requires a filing fee may be rejected
+                          by the clerk of court unless the filer has complied with the mechanism
+                          established by the court for the payment of filing fees.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1971; July 1, 1975; July 1, 1977; July 1, 1980; July 1, 1996; July 1, 1997; July
-1, 2001; July 1, 2012; July 1, 2023
+1, 2001; July 1, 2012; July 1, 2023; July 1, 2026
 
                                   Staff Note (July 1, 1996 Amendment)
 
-Rule 73(I)       Notice of Filing of Judgments
+Rule 73(I)        Notice of Filing of Judgments
 
          In 1989, Civ.R. 58 was amended to, among other things, make clear that a clerk of courts shall
 serve signed judgments upon parties. After that amendment, there apparently has been some confusion
@@ -9198,7 +9722,7 @@ that Civ.R. 58(B) does apply to probate proceedings, in the manner indicated.
 
                                   Staff Note (July 1, 1997 Amendment)
 
-Rule 73          Probate division of the court of common pleas
+Rule 73           Probate division of the court of common pleas
 
          Prior to the 1997 amendment, service of process under this rule was permitted only by certified
 mail. It appears that service of process by express mail, i.e. as that sort of mail is delivered by the United
@@ -9216,7 +9740,7 @@ amendment.
 
                                   Staff Note (July 1, 2001 Amendment)
 
-Civil Rule 73    Probate Division of the Court of Common Pleas
+Civil Rule 73     Probate Division of the Court of Common Pleas
 
          The amendments to this rule were part of a group of amendments that were submitted by the Ohio
 Courts Digital Signatures Task Force to establish minimum standards for the use of information systems,
@@ -9227,8 +9751,8 @@ Appellate Rule 13.
          As part of this electronic filing and signature project, the following rules were amended effective
 July 1, 2001: Civil Rules 5, 11, and 73; Criminal Rule 12; Juvenile Rule 8; and Appellate Rules 13 and 18.
 In addition, Rule 26 of the Rules of Superintendence for Courts of Ohio was amended and Rule of
-Superintendence 27 was added to complement the rules of procedure. Superintendence Rule 27
 
+Superintendence 27 was added to complement the rules of procedure. Superintendence Rule 27
 establishes a process by which minimum standards for information technology are promulgated, and
 requires that courts submit any local rule involving the use of information technology to a technology
 standards committee designated by the Supreme Court for approval.
@@ -9239,6 +9763,899 @@ standards committee designated by the Supreme Court for approval.
 4.1 relating to service of process by commercial carrier service and Civ.R. 4.6 relating to returns of service
 showing “refused” or “unclaimed” when service of process is attempted by U.S. certified or express mail or
 by commercial carrier service.
+
+RULE 73.1. Definitions.
+
+In Rules 73.1 to 73.29 “case” means any of the following when filed in the probate division of the
+court of common pleas:
+
+       (A)     A civil complaint, petition, or administrative appeal;
+
+       (B)     A decedent’s estate; a testamentary, inter vivos or wrongful death trust; a
+               guardianship, conservatorship or request for emergency orders pursuant to division
+               (B)(3) of 2111.02 of the Revised Code; an adoption or name change. Each
+               beneficiary of a wrongful death trust, each ward or conservatee, each adoptee and
+               each individual requesting a change of name in those proceedings with multiple
+               interested parties, shall be considered a separate “case.”
+
+       (C)     Any other proceeding for which a case number is assigned including but not limited
+               to the following: tax filings, filings of wills for probate or record, real estate
+               transfers, and filings of foreign records where an estate is not opened; release from
+               administration; minor’s settlements; birth corrections; delayed birth registrations;
+               mental retardation or tuberculosis commitments; petition for protective services;
+               petition to compel HIV testing; an application to appoint a guardian, trustee,
+               protector, or conservator of a mentally retarded or developmentally disabled
+               person; acknowledgment of paternity; a petition for release of adoption
+               information; powers of attorney including those for health care; declarations
+               concerning life-sustaining treatment; proceedings to designate heir; applications to
+               disinter or to oppose disinterment; and voluntary assignment for the benefit of
+               creditors.
+
+Effective Date: July 1, 2026
+
+RULE 73.10. Wills.
+
+(A)    Before an application is made to admit the will to probate, to appoint an estate fiduciary,
+       or to relieve an estate from administration, each applicant or the applicant’s attorney shall
+       examine the index of wills deposited pursuant to section 2107.07 of the Revised Code.
+       Wills deposited pursuant to section 2107.07 of the Revised Code previous to the will
+       offered for probate shall be filed in the estate proceedings for record purposes only.
+
+(B)    Fiduciaries appointed to administer testate estates shall file a Certificate of Service of
+       Notice of Probate of Will (Standard Probate Form 2.4) within two months of their
+       appointment or be subject to removal proceedings. If required by the court, proof of service
+       shall consist of either waivers of notice of the probate of will or signed receipt as provided
+       under Civil Rule 73(E)(3), or if necessary, under Civil Rule 73(E)(4) and (5). A waiver of
+       notice may not be signed by any minor, or on behalf of a minor sixteen or seventeen years
+       of age. See Civil Rule 4.2.
+
+Effective Date: July 1, 2026
+
+RULE 73.11. Application for Letters of Authority to Administer Estate and Notice of
+Appointment.
+
+(A)    Notice of an application for appointment of administrator shall be served at least seven
+       days prior to the date set for hearing. If there is no known surviving spouse or next of kin
+       resident of the state, the notice shall be served upon persons designated by the court.
+
+(B)    The administrator shall give notice of the appointment within seven days after the
+       appointment to all persons entitled to inherit, including persons entitled to an allowance for
+       support, unless those persons have been provided notice of the hearing on the appointment
+       or have waived notice.
+
+(C)    The probate court shall serve as provided by Civil Rule 73(E)(3) the spousal citation and
+       summary of rights required by R.C. 2106.02 to the surviving spouse within 7 days of the
+       initial appointment of the administrator or executor, unless a different time is established
+       by local court rule.
+
+Effective Date: July 1, 2026
+
+RULE 73.12. Appraisers.
+
+(A)    Without special application to the court, a fiduciary may allow to the appraiser as
+       compensation for services a reasonable amount agreed upon between the fiduciary and the
+       appraiser, provided the compensation does not exceed the amount allowed by local court
+       rule. If no local court rule exists, the compensation shall be subject to court approval.
+
+(B)    If, by reason of the special and unusual character of the property to be appraised, the
+       fiduciary is of the opinion that the appraisal requires the services of persons qualified in
+       the evaluation of that property, a qualified appraiser may be appointed and allowed
+       compensation as provided in division (A) of this rule.
+
+Effective Date: July 1, 2026
+
+RULE 73.13. Claims Against Estate.
+
+(A)    When a claim has been filed with the court pursuant to section 2117.06 of the Revised
+       Code, the fiduciary shall file a copy of any rejection of the claim with the court.
+
+(B)    If the court requires a hearing on claims or the fiduciary requests a hearing on claims or
+       insolvency, the fiduciary shall file a schedule of all claims against the estate with the court.
+       The schedule of claims shall be filed with the fiduciary’s application for hearing or within
+       ten days after the court notifies the fiduciary of a court-initiated hearing.
+
+Effective Date: July 1, 2026
+
+RULE 73.14. Application to Sell Personal Property.
+
+An application to sell personal property shall include an adequate description of the property.
+Except for good cause shown, an order of sale shall not be granted prior to the filing of the
+inventory.
+
+Effective Date: July 1, 2026
+
+RULE 73.15. Accounts.
+
+(A)    The vouchers or other proofs required by section 2109.302 and 2109.303 of the Revised
+       Code and receipts filed or exhibited pursuant to section 2109.32(B)(1)(b) of the Revised
+       Code, shall be referenced to the account by number, letter, or date.
+
+(B)    If land has been sold during the accounting period, the account shall show the gross amount
+       of the proceeds and include a copy of the closing statement itemizing all of the
+       disbursements.
+
+(C)    Receipts for distributive shares signed by persons holding power of attorney may be
+       accepted, provided the power of attorney is recorded in the county in which the estate is
+       being administered and a copy of the recorded power is attached to the account.
+
+(D)    Exhibiting assets.
+
+       (1)    The court may require that all assets be exhibited at the time of filing a partial
+              account.
+
+       (2)    Cash balances may be verified by exhibiting a financial institution statement,
+              passbook, or a current letter from the financial institution in which the funds are
+              deposited certifying the amount of funds on deposit to the credit of the fiduciary.
+              Assets held in a safe deposit box of a fiduciary or by a surety company on
+              fiduciary’s bond may be exhibited by filing a current inventory of the assets. The
+              inventory shall be certified by the manager of the safe deposit box department of
+              the financial institution leasing the safe deposit box or by a qualified officer of the
+              surety company if the assets are held by a surety. If the assets are held by a bank,
+              trust company, brokerage firm, or other financial institution, exhibition may be
+              made by proper certification as to the assets so held. For good cause shown, the
+              court may designate a deputy clerk of the court to make an examination of the assets
+              located in the county, not physically exhibited to the court or may appoint a
+              commissioner for that purpose if the assets are located outside the county. The
+              commissioner appointed shall make a written report of findings to the court.
+
+(E)    A final or distributive account shall not be approved until all court costs have been paid.
+
+Effective Date: July 1, 2026
+
+RULE 73.16. Land Sales – R.C. Chapter 2127.
+
+(A)    In all land sale proceedings, the plaintiff, prior to the issuance of an order finding the sale
+       necessary, shall file with the court evidence of title showing the record condition of the
+       title to the premises described in the complaint and prepared by a title company licensed
+       by the state of Ohio, an attorney’s certificate, or other evidence of title satisfactory to the
+       court. Evidence of title shall be to a date subsequent to the date on which the complaint
+       was filed.
+
+(B)    The plaintiff shall give notice of the time and place of sale by regular mail at least three
+       weeks prior to the date of a public sale to all defendants at their last known addresses. Prior
+       to the public sale, the plaintiff shall file a certificate stating that the required notice was
+       given to the defendants and the sale was advertised pursuant to section 2127.32 of the
+       Revised Code.
+
+(C)    In all private land sale proceedings by civil action, the judgment entry confirming sale,
+       ordering issuance of deed, and ordering distribution shall show the gross amount of the
+       proceeds and include a copy of the proposed closing statement itemizing all of the proposed
+       disbursements.
+
+(D)    The court may appoint a disinterested person, answerable to the court, who shall investigate
+       the circumstances surrounding the proposed transaction, view the property, ascertain
+       whether the proposed sale is justified and report findings in writing. The report shall be a
+       part of the record. The compensation for the person performing these services shall be
+       fixed by the court, according to the circumstances of each case, and shall be taxed as costs.
+
+Effective Date: July 1, 2026
+
+RULE 73.17. Estates of Minors of Not More Than Twenty-Five Thousand Dollars.
+
+(A)    Each application relating to a minor shall be submitted by the parent or parents or by the
+       person having custody of the minor and shall be captioned in the name of the minor.
+
+(B)    Each application shall indicate the amount of money or property to which the minor is
+       entitled and to whom such money or property shall be paid or delivered. Unless the court
+       otherwise orders, if no guardian has been appointed for either the receipt of an estate of a
+       minor or the receipt of a settlement for injury to a minor, the attorney representing the
+       interests of the minor shall prepare an entry that orders all of the following:
+
+              (1)     The deposit of the funds in a financial institution in the name of the minor;
+
+              (2)     Impounding the principal and interest;
+
+              (3)     Releasing the funds only upon an order of the court or to the minor at the
+                      age of majority.
+
+(C)    The entry shall be presented at the time the entry dispensing with appointment of a guardian
+       or approving settlement is approved. The attorney shall be responsible for depositing the
+       funds and for providing the financial institution with a copy of the entry. The attorney shall
+       obtain a Verification of Receipt and Deposit (Standard Probate Form 22.3) from the
+       financial institution and file the form with the court within seven days from the issuance of
+       the entry.
+
+Effective Date: July 1, 2026
+
+RULE 73.18. Settlement of Injury Claims of Minors.
+
+(A)    An application for settlement of a minor’s claim shall be brought by the guardian of the
+       estate. If there is no guardian appointed and the court dispenses with the need for a
+       guardian, the application shall be brought by the parents of the child or the parent or other
+       individual having custody of the child. The noncustodial parent or parents shall be entitled
+       to seven days notice of the application to settle the minor’s claim which notice may be
+       waived. The application shall be captioned in the name of the minor.
+
+(B)    The application shall be accompanied by a current statement of an examining physician in
+       respect to the injuries sustained, the extent of recovery, and the permanency of any injuries.
+       The application shall state what additional consideration, if any, is being paid to persons
+       other than the minor as a result of the incident causing the injury to the minor. The
+       application shall state what arrangement, if any, has been made with respect to counsel
+       fees. Counsel fees shall be subject to approval by the court.
+
+(C)    The injured minor and the applicant shall be present at the hearing.
+
+Effective Date: July 1, 2026
+
+RULE 73.19. Settlement of Claims of or Against Adult Wards.
+
+(A)    An application for settlement of a claim in favor of or against an adult ward shall be brought
+       by the guardian of the estate. Notice of the hearing on the application shall be given to all
+       persons who are interested parties to the proposed settlement, as determined by the court.
+       The court may authorize or direct the guardian of the ward’s estate to compromise and
+       settle claims as the court considers to be in the best interest of the ward. The court may
+       dispense with notice of hearing.
+
+(B)    The application for settlement of an injury claim shall be accompanied by a current
+       statement of an examining physician describing the injuries sustained, the extent of
+       recovery from those injuries, and permanency of any injuries. The application shall state
+       what additional consideration, if any, is being paid to persons other than the ward as a result
+       of the incident causing the injury to the ward. The application shall state what arrangement,
+       if any, has been made with respect to counsel fees. Counsel fees shall be subject to
+       approval by the court.
+
+Effective Date: July 1, 2026
+
+RULE 73.2. Standard Probate Forms.
+
+(A)    Applicability. This rule prescribes the format, content, and use of standard forms for
+       designated applications, pleadings, waivers, notices, entries, and other filings in certain
+       proceedings in the probate division of the courts of common pleas.
+
+       Where a standard form has not been prescribed by this rule, the form used shall be that
+       required by the Civil Rules, or prescribed or permitted by the probate division of the court
+       of common pleas in which it is being filed.
+
+(B)    Modification of standard forms; pleadings and filings prepared for particular cases.
+
+       (1)      A printed, blank standard form may be modified by deletion or interlineation to
+       meet the circumstances of a particular case or proceeding, if the modification can be
+       accomplished neatly and conveniently. No court shall require the modification of a
+       standard form as a routine matter. If any allegation, statement, data, information, pleading,
+       or filing is required by an appropriate local rule of court and a standard form does not make
+       provision therefor, it shall be provided in a separate or supplemental filing.
+
+       (2)      Even though a standard form is prescribed, an original instrument may be prepared
+       for filing. Any such instrument shall be typed on eight and one-half by eleven inch paper.
+       The caption prescribed in Civ.R. 73.3 shall be used, and the instrument shall follow the
+       format prescribed for the standard forms. Any such instrument may modify the language
+       of the standard form, omit inapplicable matter required by the standard form, and add
+       matter not included in the standard form to the extent required by the circumstances of the
+       particular case or proceeding.
+
+(C)    Standard probate forms. The standard forms prescribed for use in the probate division
+       of the courts of common pleas are the Standard Probate Forms as approved and published
+       by the Supreme Court of Ohio.
+
+Effective Date: July 1, 2026
+
+RULE 73.20. Settlement of Wrongful Death and Survival Claims.
+
+(A)    An application to approve settlement and Distribution of Wrongful Death and Survival
+       Claims (Standard Probate Form 14.0) shall contain a statement of facts, including the
+       amount to be allocated to the settlement of the claim and the amount, if any, to be allocated
+       to the settlement of the survival claim. The application shall include the proposed
+       distribution of the net proceeds allocated to the wrongful death claim.
+
+(B)    The fiduciary shall give written notice of the hearing and a copy of the application to all
+       interested persons who have not waived notice of the hearing. Notwithstanding the waivers
+       and consents of the interested persons, the court shall retain jurisdiction over the settlement,
+       allocation, and distribution of the claims.
+
+(C)    The application shall state what arrangements, if any, have been made with respect to
+       counsel fees. Counsel fees shall be subject to approval by the court.
+
+Effective Date: July 1, 2026
+
+RULE 73.21. Counsel Fees.
+
+(A)    Attorney fees in all matters shall be governed by Rule 1.5 of the Ohio Rules of Professional
+       Conduct.
+
+(B)    Attorney fees for the administration of estates shall not be paid until the final account is
+       prepared for filing unless otherwise approved by the court upon application and for good
+       cause shown.
+(C)    Attorney fees may be allowed if there is a written application that sets forth the amount
+       requested and will be awarded only after proper hearing, unless otherwise modified by
+       local rule.
+
+(D)    The court may set a hearing on any application for allowance of attorney fees regardless of
+       the fact that the required consents of the beneficiaries have been given.
+
+(E)    Except for good cause shown, attorney fees shall not be allowed to attorneys representing
+       fiduciaries who are delinquent in filing the accounts required by section 2109.30 of the
+       Revised Code.
+
+(F)    If a hearing is scheduled on an application for the allowance of attorney fees, notice shall
+       be given to all parties affected by the payment of fees, unless otherwise ordered by the
+       court.
+
+(G)    An application shall be filed for the allowance of counsel fees for services rendered to a
+       guardian, trustee, or other fiduciary. The application may be filed by the fiduciary or
+       attorney. The application shall set forth a statement of the services rendered and the amount
+       claimed in conformity with division (A) of this rule.
+
+(H)    There shall be no minimum or maximum fees that automatically will be approved by the
+       court.
+
+(I)    Prior to a fiduciary entering into a contingent fee contract with an attorney for services, an
+       application for authority to enter into the fee contract shall be filed with the court, unless
+       otherwise ordered by local court rule. The contingent fee on the amount obtained shall be
+       subject to approval by the court.
+
+Effective Date: July 1, 2026
+
+RULE 73.22. Executor’s and Administrator’s Commissions.
+
+(A)    Additional compensation for extraordinary services may be allowed upon an application
+       setting forth an itemized statement of the services rendered and the amount of
+       compensation requested. The court may require the application to be set for hearing with
+       notice given to interested persons in accordance with Civil Rule 73(E).
+
+(B)    The court may deny or reduce commissions if there is a delinquency in the filing of an
+       inventory or an account, or if, after hearing, the court finds that the executor or
+       administrator has not faithfully discharged the duties of the office.
+
+(C)    The commissions of co-executors or co-administrators in the aggregate shall not exceed
+       the commissions that would have been allowed to one executor or administrator acting
+       alone, except where the instrument under which the co-executors serve provides otherwise.
+
+(D)    Where counsel fees have been awarded for services to the estate that normally would have
+       been performed by the executor or administrator, the executor or administrator
+       commission, except for good cause shown, shall be reduced by the amount awarded to
+       counsel for those services.
+
+Effective Date: July 1, 2026
+
+RULE 73.23. Guardian’s Compensation.
+
+(A)    Setting of compensation
+
+       Guardian’s compensation shall be set by local rule.
+
+(B)    Itemization of expenses
+
+       A guardian shall itemize all expenses relative to the guardianship of the ward and shall not
+       charge fees or costs in excess of those approved by the probate division of a court of
+       common pleas.
+
+(C)    Additional compensation
+
+       Additional compensation for extraordinary services, reimbursement for expenses incurred
+       and compensation of a guardian of a person only may be allowed upon an application
+       setting forth an itemized statement of the services rendered and expenses incurred and the
+       amount for which compensation is applied. The probate division of a court of common
+       pleas may require the application to be set for hearing with notice given to interested
+       persons in accordance with Civ.R. 73(E).
+
+(D)    Co-guardians
+
+       The compensation of co-guardians in the aggregate shall not exceed the compensation that
+       would have been allowed to one guardian acting alone.
+
+(E)    Denial or reduction of compensation
+
+       The probate division of a court of common pleas may deny or reduce compensation if there
+       is a delinquency in the filing of an inventory or account, or after hearing, the court finds
+       the guardian has not faithfully discharged the duties of the office.
+
+Effective Date: July 1, 2026
+
+RULE 73.24. Trustee’s Compensation.
+
+(A)    Trustee’s compensation shall be set by local rule.
+
+(B)    Additional compensation for extraordinary services may be allowed upon application
+       setting forth an itemized statement of the services rendered and the amount of
+       compensation requested. The court may require that the application be set for hearing with
+       notice given to interested parties in accordance with Civil Rule 73(E).
+
+(C)    The compensation of co-trustees in the aggregate shall not exceed the compensation that
+       would have been allowed to one trustee acting alone, except where the instrument under
+       which the co-trustees are acting provides otherwise.
+
+(D)    Except for good cause shown, neither compensation for a trustee nor fees to counsel
+       representing the trustee shall be allowed while the trustee is delinquent in the filing of an
+       account.
+
+(E)    The court may deny or reduce compensation if there is a delinquency in the filing of an
+       inventory or account, or after hearing, the court finds the trustee has not faithfully
+       discharged other duties of the office.
+
+Effective Date: July 1, 2026
+
+RULE 73.25. Local Rules.
+
+Local rules of the court shall be numbered to correspond with the numbering of these rules and
+shall incorporate the number of the rule it is intended to supplement. For example, a local rule that
+supplements Rule 73.12 shall be designated Local Rule 73.12.
+
+Effective Date: July 1, 2026
+
+RULE 73.26. Exception to the Rules.
+
+Upon application, and for good cause shown, the probate division of the court of common pleas
+may grant exception to Rules 73 to 73.29.
+
+Effective Date: July 1, 2026
+
+RULE 73.27. Compliance.
+
+Failure to comply with these rules may result in sanctions as the court may direct.
+
+Effective Date: July 1, 2026
+
+RULE 73.28. Probate Division of the Court of Common Pleas -- Case Management in
+Decedent’s Estates, Guardianship, and Trusts.
+
+(A)    Each fiduciary shall adhere to the statutory or court-ordered time period for filing the
+       inventory, account, and, if applicable, guardian’s report. The citation process set forth in
+       section 2109.31 of the Revised Code shall be utilized to ensure compliance. The attorney
+       of record and the fiduciary shall be subject to the citation process. The court may modify
+       or deny fiduciary commissions or attorney fees, or both, to enforce adherence to the filing
+       time periods.
+
+(B)
+       (1)    If a decedent’s estate must remain open more than six months pursuant to R.C.
+              2109.301(B)(1), the fiduciary shall file an application to extend administration
+              (Standard Probate Form 13.8).
+
+       (2)    An application to extend the time for filing an inventory, account, or guardian’s
+              report, shall not be granted unless the fiduciary has signed the application.
+
+(C)    The fiduciary and the attorney shall prepare, sign, and file a written status report with the
+       court in all decedent’s estates that remain open after a period of thirteen months from the
+       date of the appointment of the fiduciary and annually thereafter. At the court’s discretion,
+       the fiduciary and the attorney shall appear for a status review.
+
+(D)    The court may issue a citation to the attorney of record for a fiduciary who is delinquent in
+       the filing of an inventory, account, or guardian’s report to show cause why the attorney
+       should not be barred from being appointed in any new proceeding before the court or
+       serving as attorney of record in any new estate, guardianship, or trust until all of the
+       delinquent pleadings are filed.
+
+(E)    Upon filing of the exceptions to an inventory or to an account, the exceptor shall cause the
+       exceptions to be set for a pretrial within thirty days. The attorneys and their clients, or
+       individuals if not represented by an attorney, shall appear at the pretrial. The trial shall be
+       set as soon as practical after pretrial. The court may dispense with the pretrial and proceed
+       directly to trial.
+
+Effective Date: July 1, 2026
+
+RULE 73.29. Dispute Resolution.
+
+The probate division of a court of common pleas or a family court exercising probate jurisdiction
+may encourage the use of alternative dispute resolution in any matter the court deems appropriate.
+A judge is authorized to facilitate the use of voluntary alternative dispute resolution processes by
+taking any one or more of the following actions in disputes brought to the attention of the court:
+
+       (A)     Suggesting that the parties engage in settlement negotiations and appropriately
+               participate in such negotiations;
+
+       (B)     Informing the parties about eldercaring coordination, if available, and, upon
+               agreement of the parties, entering an appropriate order either referring the dispute
+               to eldercaring coordination or implementing the result of the eldercaring
+               coordination process. As used in this rule, “eldercaring coordination” means a
+               dispute resolution process modeled after the concept of parenting coordination for
+               high-conflict families regarding the care and safety of elders.
+
+       (C)     Referring the parties to mediation consistent with Sup.R. 6.05 and a local rule
+               governing mediation, if any;
+
+       (D)     Informing the parties about the availability of early neutral evaluation programs,
+               including those offered by local bar associations, and, upon agreement of the
+               parties, entering an appropriate order doing any of the following:
+
+                       (1)     Referring the dispute to early neutral evaluation;
+
+                       (2)     Staying the proceedings in the litigation for up to sixty days pending
+                               completion of the early neutral evaluation process;
+
+                       (3)     Implementing the result of the early neutral evaluation process.
+
+       (E)     Upon request of the parties to the litigation, evidenced by a written certification of
+               agreement from all parties, entering such orders to refer the dispute to any other
+               alternative dispute resolution method as the judge deems to be consistent with the
+               interest of justice.
+
+Effective Date: July 1, 2026
+
+RULE 73.3. Specifications for Printing Probate Forms.
+
+(A)   Applicability
+
+      (1)    The specifications in this rule govern the reproduction of blank forms intended for,
+             or used in, the administration of decedents’ estates, guardianships, minor
+             settlements, disinterment, change of name, release of medical and billing records,
+             wrongful death, and adoptions in this state, including:
+
+                      (a)   Standard forms prescribed in Rule 73.2;
+
+                      (b)   Commercially prepared blank forms, including standard and
+                            nonstandard forms, designed for use in any aspect of the
+                            administration of decedents’ estates, guardianships, and adoptions;
+
+                      (c)   Blank forms prescribed by local rule of court for use in situations
+                            for which no standard form is prescribed.
+
+      (2)    This rule does not apply to any of the following:
+
+                      (a)   Any pleading, application, entry, waiver, notice, or other filing that
+                            is prepared ad hoc for use in a particular case or proceeding, or that
+                            is not reproduced in any manner for use as a blank form;
+
+                      (b)   Any routing slip, memorandum index, cost bill, or other form
+                            designed solely for internal administrative or clerical use;
+
+                      (c)   Forms intended for use in matters other than the administration of
+                            decedents’ estates, guardianships, or adoptions;
+
+                      (d)   Estate tax returns, reports, and other forms prescribed by the
+                            Department of Taxation.
+
+(B)   Size of forms
+
+      All forms filed, including those filed by electronic means, shall be on pages not exceeding
+      eight and one-half by eleven inches, without backing or cover.
+
+(C)   Margins
+
+      Right and left margins shall be approximately one-half to three-quarters of one inch, and
+      shall be justified. The top margin shall be approximately seven-eighths to one and one-
+      eighth inches, measured from the top edge of the paper to the top of the first line of the
+      caption. The distance between the bottom of the repeat of the main heading at the foot of
+      the first page shall be as required by division (K) of this rule.
+
+(D)   Font
+
+      (1)    All type shall be sans serif. Bold face type shall be used only as required or
+             permitted by division (D)(2) of this rule. Italics shall not be used. Except as
+             provided in division (D)(3) of this rule, all type shall be upper and lower case.
+
+      (2)    Bold face type shall be used for the main heading immediately following the
+             caption, and for the form number and repeat of the main heading at the foot of the
+             first page. In addition bold face type may be used for:
+
+                    (a)     The caption;
+
+                    (b)     Subheadings;
+
+                    (c)     Directions enclosed in brackets;
+
+                    (d)     Instructions or identification under a blank line, indicating what is
+                            to be inserted in the line or identifying the office or status of a signer;
+
+                    (e)     Column headings;
+
+                    (f)     Any matter not covered in division (D)(2)(a) to (e) of this rule, for
+                            which the use of bold face type is expressly indicated on a standard
+                            form in Rule 73.2.
+
+      (3)    The following shall be printed in all capital letters:
+
+                    (a)     The first two lines of the caption;
+
+                    (b)     The main heading immediately following the caption;
+
+                    (c)     All subheadings;
+
+                    (d)     The form number and repeat of the main heading at the foot of the
+                            first page;
+
+                    (e)     Any matter not covered in division (D)(3)(a) to (d) of this rule, for
+                            which the use of all capital letters is expressly indicated on a
+                            standard form in Rule 73.2.
+
+(E)   Type sizes
+
+      (1)    The following type sizes shall be used:
+
+                    (a)     Main headings immediately following the caption shall use sixteen-
+                            point or larger type;
+
+                     (b)    The first line of the caption, and all subheadings, shall use not
+                            smaller than twelve-point nor larger than sixteen-point type;
+
+                     (c)    The last two lines of the caption, the body, and the form number and
+                            repeat of the main heading at the foot of the first page, shall use not
+                            smaller than eight-point nor larger than twelve-point type;
+
+                     (d)    Instructions or identification under a blank line, indicating what is
+                            to be inserted in the line or identifying the office or status of a signer,
+                            shall use not larger than eight-point type.
+
+      (2)    Whatever type size is used with the limitations of division (E)(1) of this rule:
+
+                    (a)     The first line of the caption and all subheadings shall use type at
+                            least two points smaller than the main heading immediately
+                            following the caption;
+
+                    (b)     The last two lines of the caption, the body, and the form number and
+                            repeat of the main heading at the foot of the first page, shall use type
+                            at least two points smaller than the subheadings;
+
+                    (c)     Instructions or identification under a blank line, indicating what is
+                            to be inserted in the line or identifying the office or status of a signer,
+                            shall use type at least two points smaller than the body.
+
+(F)   Vertical spacing
+
+      (1)    The vertical spacing on all forms shall be in units of one pica, to conform to
+             standard typewriter vertical spacing.
+
+      (2)    In order to permit optimum placement and promote visual appeal, the main heading
+             and any subheading may be moved up or down within the available area without
+             regard to the vertical spacing of the rest of the form, provided the rest of the form
+             from head to foot maintains vertical spacing in units of one pica.
+
+(G)   Centering
+
+      The first line of the caption, the main heading, any explanatory information supplementing
+      the main heading and appearing directly below it, subheadings, and the form number and
+      repeat of the main heading at the foot of the first page of a form, shall be centered.
+
+(H)   Blank lines; length; vertical spacing in series
+
+      (1)    Blanks to be filled in shall be indicated by a printed solid line. Wherever possible,
+             such lines shall be of sufficient length to accommodate comfortably all characters
+
+            included in any word, phrase, name, date, or other information that might
+            reasonably be expected to be placed in the blank. Spaces and punctuation shall be
+            included in counting characters. It shall be assumed that six pica will accommodate
+            ten characters in calculating the length of a line.
+
+      (2)   Wherever possible, blank lines shall be a minimum length of:
+
+                   (a)      Eight pica, when the name of a county is to be inserted;
+
+                   (b)      Eighteen pica, when a date is to be inserted;
+
+                   (c)      Twenty pica, when a name or signature is to be inserted;
+
+                   (d)      Eight pica, not counting the dollar sign, when a dollar amount is to
+                            be inserted.
+
+      (3)   One, or two or more blank lines may be used for the insertion of an address.
+            Wherever possible, such lines shall be a minimum length of:
+
+                   (a)      Forty pica when a single line is used;
+
+                   (b)      Twenty pica per line when two or more lines are used.
+
+      (4)   When a series of signature lines, lines for tabulating particular information, or other
+            blank lines in vertical series are called for in a form, then except where expressly
+            indicated on a standard form in Rule 73.2, the vertical spacing between lines shall
+            be two pica. This spacing shall be maintained without regard to instructions or
+            identification printed below a line.
+
+(I)   Boxes to be checked
+
+      (1)   Where a form calls for a “check” or “X” to be inserted, a box shall be used for the
+            purpose. The box shall precede the information to which it refers.
+
+      (2)   When a series of “checks” or “X’s” are called for in the same sentence or paragraph,
+            each box and the information to which it refers shall be set apart visually from the
+            preceding and following information in the same sentence or paragraph. Any
+            device that provides visual separation and minimizes possible confusion may be
+            used, including without limitation space-hyphen-space or a double or triple space,
+            as in the following example:
+
+            “[check one of the following] - [ ]Decedent’s will has been admitted to probate in
+            this court - [ ]To applicant’s knowledge decedent did not leave a will.”
+
+(J)   Caption
+
+      (1)   Except as provided in division (J)(3) of this rule, the following captions shall be
+            used, respectively, on all forms for the administration of decedents’ estates,
+            guardianships, and adoptions:
+
+      PROBATE COURT OF                                                     COUNTY, OHIO
+
+      ESTATE OF                                                            DECEASED
+
+      CASE NO.                     ;
+
+      PROBATE COURT OF                                                     COUNTY, OHIO
+
+      GUARDIANSHIP OF
+
+      CASE NO.                     ;
+
+      PROBATE COURT OF                                                     COUNTY, OHIO
+
+      ADOPTION OF
+                                   (Name after adoption)
+
+      CASE NO.                                     .
+
+      (2)   The first line of the caption shall be centered. The second and third lines shall begin
+            at the left margin and end at the right margin. The vertical space between the first
+            and second lines may be two or three pica. The vertical space between the second
+            and third lines shall be two pica.
+
+      (3)   The following variations from the caption prescribed in division (J)(1) and (2) of
+            this rule are permitted:
+
+                   (a)     The blank line in the first line of the caption may be replaced by the
+                           imprinted name of a particular county.
+
+                   (b)     The caption may be expanded to include the address of a particular
+                           court, using type of any suitable size. In such case, the blank lines
+                           intended for the court’s address in the body of any form and
+                           introductory material for the address such as, “the court is located at
+                           __________,” shall be omitted.
+
+                   (c)     In Standard Decedents’ Estates Form 5.5, and in any other
+                           decedents’ estates form dealing with two or more estates, the last
+                           two lines of the caption shall be omitted.
+
+(K)   Form number and repeat of main heading
+
+      (1)    The main heading of a form, which appears immediately below the caption on the
+             first page of a form, shall be repeated at the foot of the first page. If the form is a
+             standard form, the repeat of the main heading shall be preceded on the same line by
+             the form number.
+
+      (2)    The form number and repeat of the main heading shall be centered, and located not
+             higher than three-eighths inch above the bottom edge of the form.
+
+(L)   Printing front and back
+
+      When a standard probate form consists of more than one page, each page shall contain the
+      case number in the upper portion of the page.
+
+(M)   Standard forms to govern; variations
+
+      (1)    Matters not specifically covered in this rule are governed by the standard forms
+             prescribed in Rule 73.2. Overall, the format of all printed blank forms, whether
+             standard or nonstandard, shall conform substantially to the standard forms. Except
+             as provided in division (M)(2) of this rule, no additions to, deletions from, or
+             changes in the form, content, or language of the standard forms are permitted when
+             printing blank standard forms.
+
+      (2)    The following variations from the standard forms in Rule 73.2 are permitted:
+
+                    (a)     In any form calling for a court’s address, the blank lines intended
+                            for the insertion of such information may be replaced by the
+                            imprinted information itself. If the court’s address is imprinted in
+                            the caption, the blank lines in the body of the form for the address
+                            and introductory material for the address shall be omitted as
+                            provided in division (J)(3) of this rule.
+
+                    (b)     The name as well as the title of the probate judge may be imprinted
+                            below a judge’s signature line on any form.
+
+                    (c)     In any form calling for the attorney’s typed or printed name, address,
+                            telephone number, and attorney identification number, the blank
+                            lines intended for the insertion of that information may be replaced
+                            by the imprinted information itself. The signature line for the
+                            attorney shall be retained.
+
+                    (d)     In Standard Decedents’ Estates Form 4.2, the portion of the form
+                            below the date line and principal’s signature line, and above the
+                            repeat at the foot of the page, may be replaced by the imprinted name
+
+                               and address of a corporate surety, identified in some appropriate
+                               manner as the surety on the particular bond, and including a
+                               signature line for the attorney in fact. The last paragraph of the body
+                               of the form, relating to justification of personal sureties, shall be
+                               omitted.
+
+                     (e)       When standard forms are generated by computer, they shall conform
+                               to all specifications for standard forms stated in this rule. A court
+                               may accept for filing nonstandard computer generated forms for the
+                               receipts and disbursements attached to a standard account form or
+                               the schedule of assets attached to a standard inventory and appraisal
+                               form.
+
+                     (f)       All forms may include suitable coding for optical or magnetic
+                               scanning, or similar system designed to aid docketing, indexing, cost
+                               accounting, or other administrative or clerical activities.
+
+                     (g)       On all forms, the publisher may add its name, logotype, or other
+                               suitable identification. The size, style, and placement shall be such
+                               as not to detract from, interfere with, or overpower any part of the
+                               form.
+
+                     (h)       Wherever a form contains “20__” or “200__”, a blank line shall be
+                               substituted to accommodate the correct year.
+
+Effective Date: July 1, 2026
+
+RULE 73.4. Hours of the Court.
+
+Each court shall establish hours for the transaction of business.
+
+Effective Date: July 1, 2026
+
+RULE 73.5. Conduct in the Court.
+
+(A)    Proper decorum in the court is necessary to the administration of the court’s function. Any
+       conduct that interferes or tends to interfere with the proper administration of the court’s
+       business is prohibited.
+
+(B)    No audio or visual transmission or recording device, other than a device used by a court
+       reporter making a record in a proceeding, or the making or taking of pictures shall be
+       permitted without the express consent of the court in advance and pursuant to Rule 11.00
+       of the Rules of Superintendence for the Courts of Ohio.
+
+Effective Date: July 1, 2026
+
+RULE 73.6. Examination of Probate Records.
+
+(A)    Records shall not be removed from the court, except when approved by the judge.
+       Violation of this rule may result in the issuance of a citation for contempt.
+
+(B)    Copies of records may be obtained at a cost per page as authorized by the judge.
+
+(C)    Adoption, mental illness, minor settlements, and mental retardation proceedings are
+       confidential. Records of those proceedings, and other records that are confidential by
+       statute, may be accessed as authorized by the judge.
+
+(D)    A citation for contempt of court may be issued against anyone who divulges or receives
+       information from confidential records without authorization of the judge.
+
+Effective Date: July 1, 2026
+
+RULE 73.7. Continuances.
+
+(A)    Motions for continuance shall be submitted in writing with the proper caption and case
+       number.
+
+(B)    Except on motion of the court, no continuance shall be granted in the absence of proof of
+       reasonable notice to, or consent by, the adverse party or the party’s counsel. Failure to
+       object to the continuance within a reasonable time after receiving notice shall be considered
+       consent to the continuance.
+
+(C)    A proposed entry shall be filed with a motion for continuance, leaving the time and date
+       blank for the court to set a new date.
+
+Effective Date: July 1, 2026
+
+RULE 73.8. Filings and Judgment Entries.
+
+(A)    All filings, except wills, shall be on eight and one-half by eleven inch paper, without
+       backings, of stock that can be microfilmed.
+
+(B)    All filings shall contain the name, address, telephone number, e-mail address, and attorney
+       registration number of the individual counsel representing the fiduciary and, in the absence
+       of counsel, the name, address, and telephone number of the fiduciary. Any filing not
+       containing the above requirements may be refused.
+
+(C)    Failure of the fiduciary to notify the court of the fiduciary’s current address shall be
+       grounds for removal. Not less than ten days written notice of the hearing to remove shall
+       be given to the fiduciary by regular mail at the last address contained in the case file or by
+       other method of service as the court may direct.
+
+(D)    Filings containing partially or wholly illegible signatures of counsel, parties or officers
+       administering oaths may be refused, or, if filed, may be stricken, unless the typewritten or
+       printed name of the person whose signature is purported to appear is clearly indicated on
+       the filing.
+
+(E)    All pleadings, motions, or other filings are to be typed or printed in ink and correctly
+       captioned.
+
+(F)    Unless the court otherwise directs, counsel for the party in whose favor a judgment is
+       rendered, shall prepare the proposed judgment entry and submit the original to the court
+       with a copy to counsel for the opposing party. The proposed judgment entry shall be
+       submitted within seven days after the judgment is rendered. Counsel for the opposing party
+       shall have seven days to object to the court. If the party in whose favor a judgment is
+       rendered fails to comply with this division, the matter may be dismissed or the court may
+       prepare and file the appropriate entry.
+
+(G)    When a pleading, motion, judgment entry or other filing consists of more than one page,
+       each page shall contain the case number in the upper portion of the page.
+
+Effective Date: July 1, 2026
+
+RULE 73.9. Deposit for Court Costs.
+
+(A)    Deposits in the amount set forth in a local rule shall be required upon the filing of any
+       action or proceeding and additional deposits may be required.
+
+(B)    The deposit may be applied as filings occur.
+
+Effective Date: July 1, 2026
 
                                 RULE 74.      [RESERVED].
 
@@ -9258,22 +10675,22 @@ RULE 75.     Divorce, Annulment, and Legal Separation Actions.
       Civ.R. 14, 19, 19.1, and 24 shall not apply in divorce, annulment, or legal separation
       actions, however:
 
-             (1)     A person or corporation having possession of, control of, or claiming an
-             interest in property, whether real, personal, or mixed, out of which a party seeks a
-             division of marital property, a distributive award, or an award of spousal support
-             or other support, may be made a party defendant;
+             (1)      A person or corporation having possession of, control of, or claiming an
+                      interest in property, whether real, personal, or mixed, out of which a party
+                      seeks a division of marital property, a distributive award, or an award of
+                      spousal support or other support, may be made a party defendant;
 
-             (2)     When it is essential to protect the interests of a child, the court may join
-             the child of the parties as a party defendant and appoint a guardian ad litem and
-             legal counsel, if necessary, for the child and tax the costs;
+             (2)      When it is essential to protect the interests of a child, the court may join
+                      the child of the parties as a party defendant and appoint a guardian ad
+                      litem and legal counsel, if necessary, for the child and tax the costs;
 
-             (3)     The court may make any person or agency claiming to have an interest in
-             or rights to a child by rule or statute, including but not limited to R.C. 3109.04
-             and R.C. 3109.051, a party defendant;
+             (3)      The court may make any person or agency claiming to have an interest in
+                      or rights to a child by rule or statute, including but not limited to R.C.
+                      3109.04 and R.C. 3109.051, a party defendant;
 
-             (4)     When child support is ordered, the court, on its own motion or that of an
-             interested person, after notice to the party ordered to pay child support and to his
-             or her employer, may make the employer a party defendant.
+             (4)      When child support is ordered, the court, on its own motion or that of an
+                      interested person, after notice to the party ordered to pay child support and
+                      to his or her employer, may make the employer a party defendant.
 
 (C)   Trial by court or magistrate
 
@@ -9308,22 +10725,23 @@ RULE 75.     Divorce, Annulment, and Legal Separation Actions.
       enter final judgment as to a claim for divorce, dissolution of marriage, annulment, or legal
       separation unless one of the following applies:
 
-             (1)     The judgment also divides the property of the parties, determines the
-             appropriateness of an order of spousal support, and, where applicable, either
-             allocates parental rights and responsibilities, including payment of child support,
-             between the parties or orders shared parenting of minor children;
+              (1)     The judgment also divides the property of the parties, determines the
+                      appropriateness of an order of spousal support, and, where applicable, either
+                      allocates parental rights and responsibilities, including payment of child
+                      support, between the parties or orders shared parenting of minor children;
 
-             (2)    Issues of property division, spousal support, and allocation of parental rights
-             and responsibilities or shared parenting have been finally determined in orders,
-             previously entered by the court, that are incorporated into the judgment;
+              (2)     Issues of property division, spousal support, and allocation of parental rights
+                      and responsibilities or shared parenting have been finally determined in
+                      orders, previously entered by the court, that are incorporated into the
+                      judgment;
 
-             (3)    The court includes in the judgment the express determination required by
-             Civ.R. 54(B) and a final determination that either of the following applies:
+              (3)     The court includes in the judgment the express determination required by
+                      Civ.R. 54(B) and a final determination that either of the following applies:
 
-                     (a)     The court lacks jurisdiction to determine such issues;
+                              (a)     The court lacks jurisdiction to determine such issues;
 
-                     (b)    In a legal separation action, the division of the property of the parties
-                     would be inappropriate at that time.
+                              (b)     In a legal separation action, the division of the property of
+                                      the parties would be inappropriate at that time.
 
 (G)   Civil protection order
 
@@ -9337,8 +10755,8 @@ RULE 75.     Divorce, Annulment, and Legal Separation Actions.
       responsibilities for the care of children, a spousal or other support order, shall be made to
       the trial court in the first instance, whether made before or after a notice of appeal is filed.
       The trial court may grant relief upon terms as to bond or otherwise as it considers proper
-      for the security of the rights of the adverse party and in the best interests of the children
 
+      for the security of the rights of the adverse party and in the best interests of the children
       involved. Civ.R. 62(B) does not apply to orders allocating parental rights and
       responsibilities for the care of children or a spousal or other support order. An order
       entered upon motion under this rule may be vacated or modified by the appellate court.
@@ -9398,25 +10816,26 @@ RULE 75.     Divorce, Annulment, and Legal Separation Actions.
 
 (N)   Temporary orders of spousal support, child support, and custody
 
-      (1)     When requested in the complaint, answer, or counterclaim, or by motion served
-      with the pleading, upon satisfactory proof by affidavit duly filed with the clerk of the court,
-      the court or magistrate, without oral hearing and for good cause shown, may grant a
-      temporary order regarding spousal support to either of the parties for the party's sustenance
-      and expenses during the suit and may make a temporary order regarding the support,
-      maintenance, and allocation of parental rights and responsibilities for the care of children
-      of the marriage, whether natural or adopted, during the pendency of the action for divorce,
-      annulment, or legal separation.
+      (1)    When requested in the complaint, answer, or counterclaim, or by motion served
+             with the pleading, upon satisfactory proof by affidavit duly filed with the clerk of
+             the court, the court or magistrate, without oral hearing and for good cause shown,
+             may grant a temporary order regarding spousal support to either of the parties for
+             the party's sustenance and expenses during the suit and may make a temporary order
+             regarding the support, maintenance, and allocation of parental rights and
+             responsibilities for the care of children of the marriage, whether natural or adopted,
+             during the pendency of the action for divorce, annulment, or legal separation.
 
-      (2)     Counter affidavits may be filed by the other party within fourteen days from the
-      service of the complaint, answer, counterclaim, or motion, all affidavits to be used by the
-      court or magistrate in making a temporary spousal support order, child support order, and
-      order allocating parental rights and responsibilities for the care of children. Upon request,
-      in writing, after any temporary spousal support, child support, or order allocating parental
-      rights and responsibilities for the care of children is journalized, the court shall grant the
-      party so requesting an oral hearing within twenty-eight days to modify the temporary order.
-      A request for oral hearing shall not suspend or delay the commencement of spousal support
-      or other support payments previously ordered or change the allocation of parental rights
-      and responsibilities until the order is modified by journal entry after the oral hearing.
+      (2)    Counter affidavits may be filed by the other party within fourteen days from the
+             service of the complaint, answer, counterclaim, or motion, all affidavits to be used
+             by the court or magistrate in making a temporary spousal support order, child
+             support order, and order allocating parental rights and responsibilities for the care
+             of children. Upon request, in writing, after any temporary spousal support, child
+             support, or order allocating parental rights and responsibilities for the care of
+             children is journalized, the court shall grant the party so requesting an oral hearing
+             within twenty-eight days to modify the temporary order. A request for oral hearing
+             shall not suspend or delay the commencement of spousal support or other support
+             payments previously ordered or change the allocation of parental rights and
+             responsibilities until the order is modified by journal entry after the oral hearing.
 
 (O)   Delay of decree
 
@@ -9425,8 +10844,9 @@ RULE 75.     Divorce, Annulment, and Legal Separation Actions.
       party to whom parental rights and responsibilities for the care of the child are allocated, the
       court may delay entering a decree for divorce or annulment until the party, to the
       satisfaction of the court, secures the payment of the spousal support or the child support
-      for the child, or delivers custody of the child to the party to whom parental rights and
-      responsibilities are allocated.
+
+          for the child, or delivers custody of the child to the party to whom parental rights and
+          responsibilities are allocated.
 
 (P)       Dismissal of domestic relations actions
 
@@ -9560,14 +10980,14 @@ Effective Date: July 1, 1970
 
 RULE 83.         Rule of Court.
 
-(A)     A court may adopt local rules of practice which shall not be inconsistent with these rules
-or with other rules promulgated by the Supreme Court and shall file its local rules of practice with
-the Clerk of the Supreme Court.
+(A)       A court may adopt local rules of practice which shall not be inconsistent with these rules
+          or with other rules promulgated by the Supreme Court and shall file its local rules of
+          practice with the Clerk of the Supreme Court.
 
-(B)    Local rules of practice shall be adopted only after the court gives appropriate notice and an
-opportunity for comment. If a court determines that there is an immediate need for a rule, it may
-adopt the rule without prior notice and opportunity for comment, but promptly shall afford notice
-and opportunity for comment.
+(B)       Local rules of practice shall be adopted only after the court gives appropriate notice and an
+          opportunity for comment. If a court determines that there is an immediate need for a rule,
+          it may adopt the rule without prior notice and opportunity for comment, but promptly shall
+          afford notice and opportunity for comment.
 
 Effective Date: July 1, 1970
 Amended: July 1, 1994; July 1, 2000
@@ -9586,7 +11006,7 @@ consistent with that intent. See 2 J. Klein & S. Darling, Baldwin’s Ohio Pract
 
         The amendment was intended to (1) remove any doubt about the intent of the rule, (2) serve as a
 reminder that local rules of practice must be consistent with the Civil Rules and with other rules promulgated
-by the Supreme Court, and (3) make Civ.R. 83(A) more clearly consistent with Sup. R. 5(A).
+by the Supreme Court, and (3) make Civ.R. 83(A) more clearly consistent with Sup.R. 5(A).
 
           Division (B) was amended in technical respects only; no substantive change was intended.
 
@@ -9635,8525 +11055,591 @@ RULE 86.     Effective Date.
       application in a particular action pending when the amendments take effect would not be
       feasible or would work injustice, in which event the former procedure applies.
 
-          APPENDIX OF FORMS
-
-FORMS 1 THROUGH 20: GENERAL CIVIL FORMS
-
                                    APPENDIX OF FORMS
-                                       (See Rule 84)
 
-                             INTRODUCTORY STATEMENT
+The forms which follow are intended for illustration only. They are limited in number inasmuch
+as no attempt is made to furnish a manual of forms. The forms are expressly declared by Rule 84
+to be sufficient under the rules. Departures from the forms shall not void papers which are
+otherwise sufficient, and the forms may be varied when necessary to meet the facts of a particular
+case. Where appropriate, the forms assume that the action was brought in the Court of Common
+Pleas, Franklin County, Ohio.
 
-      The forms which follow are intended for illustration only. They are limited in number
-inasmuch as no attempt is made to furnish a manual of forms.
+General Civil Forms                  Forms 1-20
+Domestic Relations Forms             Forms 1-32
+Civil Protection Order Forms         Forms 1-31
+Probate Forms                        Forms 1-45
 
-       The forms are expressly declared by Rule 84 to be sufficient under the rules.
+GENERAL CIVIL FORMS
+FORM 1         Caption and Summons
 
-       Departures from the forms shall not void papers which are otherwise sufficient, and the
-forms may be varied when necessary to meet the facts of a particular case.
+FORM 2         Complaint on a Promissory Note
 
-     Where appropriate, the forms assume that the action has been brought in the Court of
-Common Pleas, Franklin County, Ohio.
+FORM 2A        Complaint on a Promissory Note (Reason for Omission on Copy Stated)
 
-                            FORM 1. CAPTION AND SUMMONS
+FORM 3         Complaint on an Account
 
-                                 COURT OF COMMON PLEAS
-                                _____________ COUNTY, OHIO
+FORM 4         Complaint for Goods Sold and Delivered
 
-__________________                                    )       Case No. _________________
-[Street Address]                                      )       Judge ____________________
-[City, State Zip]                                     )
-        Plaintiff                                     )
-                       v.                             )       SUMMONS
-__________________                                    )
-[Street Address]                                      )
-[City, State Zip]                                     )
-        Defendant                                     )
+FORM 5         Complaint for Money Lent
 
-        To the following named defendant(s):
+FORM 6         Complaint for Money Paid by Mistake
+FORM 7         Complaint for Money Had and Received
 
-Name:                                                 Address:
-                                                      ________________________________
+FORM 8         Complaint for Negligence
 
-                                                      ________________________________
+FORM 9         Complaint for Negligence Where Plaintiff Is Unable to Determine Definitely
+               Whether the Person Responsible Is C.D. or E.F. or Whether Both Are Responsible
+               and Where His Evidence May Justify a Finding of Willfulness or of Recklessness
+               or of Negligence
 
-                                                      ________________________________
+FORM 10        Complaint for Conversion
 
-       You have been named as a defendant in this Court. The Plaintiff(s) has filed a lawsuit
-against you. A copy of the Complaint is attached. The Plaintiff’s attorney and that attorney’s
-address are: ____________________________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
+FORM 11        Complaint for Specific Performance of Contract to Convey Land
+FORM 12        Complaint on Claim for Debt and to Set Aside Fraudulent Conveyance Under Rule
+               18(B)
+FORM 13        Complaint for Interpleader and Declaratory Relief
 
-    You must deliver to the Plaintiff’s attorney (or the Plaintiff if not represented by an attorney)
-a written Answer to the Complaint within 28 days; Civil Rule 5 explains the ways that you may
-deliver the Answer (http://www.supremecourt.ohio.gov/LegalResources/Rules/civil/Civil
-Procedure.pdf ). You must then file a copy of the Answer with this Court within three days after
-you serve it on the Plaintiff(s). If you fail to serve and file an Answer, the Court may enter
-judgment against you for the relief requested in the Complaint.
+FORM 14    Motion to Dismiss, Presenting Defenses of Failure to State of Claim, of Lack of
+           Service of Process, and Lack of Jurisdiction Under Rule 12(B)
 
-    You may wish to hire an attorney to represent you. Because this is a civil suit, the Court
-cannot appoint an attorney for you. If you need help to find a lawyer, contact a local bar association
-and request assistance.
+FORM 15    Answer Presenting Defenses Under Rule 12(B)
 
-Date: _______________________________                 Clerk: _________________________
+FORM 16    Summons Against Third-Party Defendant
 
-                                              Note
+FORM 16A   Complaint Against Third-Party Defendant
 
-       The caption above designates the particular paper as a "SUMMONS." The particular
-pleading or paper should contain an appropriate designation, thus: "COMPLAINT," "ANSWER,"
-etc. A more specific designation in a caption is also appropriate, thus: "MOTION TO
-INTERVENE AS A DEFENDANT."
+FORM 17    Motion to Intervene as a Defendant Under Rule 24
 
-                    ********************************
+FORM 18    Judgment on Jury Verdict
+FORM 19    Judgment on Decision by the Court
 
-     ***Multilingual notice:
+FORM 20    Civil Fee Waiver Affidavit and Order
 
-    You have been named as a defendant in this Court. You must file an answer within 28 days;
-if you fail to answer, the Court may enter judgment against you for the relief stated in the
-Complaint. Seek assistance from both an interpreter and an attorney. Your inability to understand,
-write, or speak English will not be a defense to possible judgment against you.
+DOMESTIC RELATIONS FORMS
 
-1.   Spanish (US)
+FORM 1     Affidavit of Basic Information, Income, and Expenses
 
-     ***Aviso multilingüe:
+FORM 2     Affidavit of Property and Debt
 
-     Este Tribunal lo ha declarado como acusado. Debe presentar una respuesta en un plazo de 28
-días. Si no contesta en dicho plazo, el Tribunal podrá dictar sentencia en su contra por el amparo
-que se detalla en la demanda. Solicite la ayuda de un intérprete y de un abogado. Su incapacidad
-para comprender, escribir o hablar inglés no se considerará como defensa ante una posible
-sentencia en su contra.
+FORM 3     Parenting Proceeding Affidavit
 
-2.   Somali
+FORM 4     Health Insurance Affidavit
 
-     ***Ogeysiis luqadda badan ah:
+FORM 5     Motion and Affidavit or Counter Affidavit for Temporary Orders Without Oral
+           Hearing
 
-     Waxaa laguu magacaabay sida eedeysane gudaha Maxkamadan. Waa in aad ku soo gudbisaa
-jawaab 28 maalmood gudahood; haddii aad ku guuldareysto jawaabta, Maxkamada laga yaabo in
-ay gasho xukun adiga kaa soo horjeedo ee ka nasashada lagu sheegay Cabashada. Raadi caawinta
-ka timid labadaba turjubaanka iyo qareenka. Karti la’aantaada aad ku fahmo, ku qoro, ama ku
-hadasho Af Ingiriisiga ma noqon doonto difaacida xukunkaaga suuralka ah ee adiga kugu lidka
-ah.
+FORM 6     Complaint for Divorce Without Children
 
-3.    Russian
+FORM 7     Complaint for Divorce With Children
+FORM 8     Counterclaim for Divorce Without Children
 
-      ***Уведомление на разных языках:
+FORM 9     Counterclaim for Divorce With Children
 
-    Вы были названы в качестве ответчика в данном суде. Вы должны предoставить ответ
-в течение 28 дней; если Ваш ответ не будет получен, суд может вынести решение против
-Вас и удовлетворить содержащиеся в жалобе требования. Воспользуйтесь услугами
-переводчика и адвоката. Тот факт, что Вы не понимаете английскую речь и не можете
-читать и писать по-английски, не является препятствием для возможного вынесения
-судебного решения против Вас.
+FORM 10    Answer to Complaint for Divorce Without Children
 
-4.    Arabic
+FORM 11    Answer to Complaint for Divorce With Children
 
-                                                                                                           :‫***ﻣﻼﺣﻈﺔ ﻣﺘﻌﺪدة اﻟﻠﻐﺎت‬
+FORM 12    Reply to Counterclaim for Divorce Without Children
 
-‫ ﻓﻘﺪ ﺗﺼﺪر اﻟﻤﺤﻜﻤﺔ ﺣﻜﻤً ﺎ ﺿﺪك ﺑﺎﻟﺘﻌﻮﯾﺾ‬،‫ ﯾﻮﻣً ﺎ؛ وإذا ﻟﻢ ﺗﻘﻢ ﺑﺎﻟﺮد‬28 ‫ ﯾﺠﺐ أن ﺗﻘﺪم ردًا ﺧﻼل‬.‫ﻟﻘﺪ ﺗﻢ اﻋﺘﺒﺎرك ﻣﺪﻋﻰ ﻋﻠﯿﮫ ﻓﻲ ھﺬه اﻟﻤﺤﻜﻤﺔ‬
-‫ ﻓﻠﻦ ﺗُﻌﺪ ﻋﺪم ﻗﺪرﺗﻚ ﻋﻠﻰ ﻓﮭﻢ اﻟﻠﻐﺔ اﻹﻧﺠﻠﯿﺰﯾﺔ أو ﻛﺘﺎﺑﺘﮭﺎ أو ﺗﺤﺪﺛﮭﺎ‬. ٍ‫ اطﻠﺐ اﻟﻤﺴﺎﻋﺪة ﻣﻦ ﻣﺘﺮﺟﻢ ﻓﻮري وﻣﺤﺎم‬.‫اﻟﻤﻨﺼﻮص ﻋﻠﯿﮫ ﻓﻲ ھﺬه اﻟﺸﻜﻮى اﻟﻘﻀﺎﺋﯿﺔ‬
-                                                                                                           .‫دﻓﺎﻋًﺎ ﻟﻚ أﻣﺎم اﻟﺤﻜﻢ اﻟﻤﺤﺘﻤﻞ ﺿﺪك‬
+FORM 13    Reply to Counterclaim for Divorce With Children
 
-5.    Chinese (Simplified)
+FORM 14    Judgment Entry - Decree of Divorce Without Children
+FORM 15    Judgment Entry - Decree of Divorce With Children
 
-      ***多語版本通知：
+FORM 16    Judgment Entry Converting Interest in Real Estate
 
-  您在本法庭已被列为被告。您必须于                               28
-日内递交答辩状；如果没有递交答辩状，法庭会针对诉状中声明的补救措施对您作出不利判决。请向口译人员和律
-师寻求帮助。您无法理解、书写或说英语的情况不能作为对您可能作出不利判决的辩护理由。
+FORM 17   Petition for Dissolution of Marriage and Waiver of Service of Summons
 
-             INSTRUCTIONS FOR PERSONAL OR RESIDENCE SERVICE
+FORM 18   Judgment Entry - Decree of Dissolution of Marriage
 
-To:___________________________________________________________________________
+FORM 19   Separation Agreement
 
-You are instructed to make personal--residence [cross out one] service upon defendant(s)
-______________________________________________________________________________
-                                            (name)
-at ____________________________________________________________________________
-                    (address for service if different from body of summons).
-______________________________________________________________________________
+FORM 20   Shared Parenting Plan
+FORM 21   Parenting Plan
 
-Special instructions for server:_____________________________________________________
-______________________________________________________________________________
-______________________________________________________________________________
+FORM 22   Parenting Judgment Entry
 
-                 ********************************
+FORM 23   Complaint for Parentage, Allocation of Parental Rights and Responsibilities and
+          Parenting Time
 
-                      RETURN OF SERVICE OF SUMMONS
-                               (PERSONAL)
+FORM 24   Motion for Contempt, Affidavit, and Instructions for Service
 
-            Fees                  I received this summons on ___________, 20____, at
-Service$__________         _________ o'clock, __.m., and made personal service of it upon
-Mileage      $__________   ___________________________________by locating him --
-Copy         $__________   them (cross out one) and tendering a copy of the summons and
-Docket       $__________   accompanying documents, on _____________, 20 ___.
-Return       $__________
- Total       $__________
-                           __________________________________________________
-                           Sheriff -- Bailiff -- Process Server
-                           By _______________________________________________
-                           Deputy
+FORM 25   Show Cause Order and Notice
 
-               ********************************
+FORM 26   Motion for Change of Parenting Time (Companionship and Visitation)
 
-                      RETURN OF SERVICE OF SUMMONS
-                               (RESIDENCE)
+FORM 27   Motion for Change of Parental Rights and Responsibilities (Custody)
 
-            Fees                   I received this summons on ___________, 20____, at
-Service$__________         _________ o'clock, __.m., and made residence service of it upon
-Mileage      $__________   ___________________________________by leaving it at his -
-Copy         $__________   - their (cross out one) usual place of residence with
-Docket       $__________   _______________, a person of suitable age and discretion then
-Return       $__________   residing therein, a copy of the summons, a copy of the complaint
- Total       $__________   and accompanying documents, on _____________, 20 ___.
+FORM 28   Motion for Change of Child Support, Medical Support, Tax Exemption, or Other
+          Child-related Expenses
 
-                           __________________________________________________
-                           Sheriff -- Bailiff -- Process Server
-                           By _______________________________________________
-                           Deputy
+FORM 29   Explanation of Health Care Bills
 
-               ********************************
+FORM 30   Waiver of Service of Summons
+FORM 31   Request for Service
 
-                    FORM 2. COMPLAINT ON A PROMISSORY NOTE
+FORM 32   Motion to Intervene
 
-                                   COURT OF COMMON PLEAS
-                                   FRANKLIN COUNTY, OHIO
+CIVIL PROTECTION ORDER FORMS
 
-A.B., Plaintiff                                          )
-(address)                                                )
+FORM 1    General Information About Domestic Violence Protection Orders
 
-                        v.                               )       No.______________
+FORM 2    Warning Concerning the Attached Protection Order or Consent Agreement
 
-C.D., Defendant                                          )
-(address)                                                )       COMPLAINT
+FORM 3    Information About Filing a Domestic Violence or Dating Violence Civil Protection
+          Order Petition
 
-       1. Defendant on or about _________________, 20____, executed and delivered to plaintiff
-a promissory note, a copy of which is hereto attached as Exhibit A.
+FORM 4    Petition for Domestic Violence Civil Protection Order (R.C. 3113.31)
 
-        2. Defendant owes to plaintiff the amount of said note and interest.
+FORM 5    Information for Parenting Proceeding Affidavit
 
-        Wherefore plaintiff demands judgment against defendant for the sum of ________dollars,
-interest, and costs.
+FORM 6    Domestic Violence Civil Protection Order (CPO) Ex Parte (R.C. 3113.31)
 
-                                                         ___________________________________
-                                                         (Attorney for Plaintiff)
-                                                         ___________________________________
-                                                         (Address)
-                                                         ___________________________________
+FORM 7    Domestic Violence Civil Protection Order (CPO) Full Hearing (R.C. 3113.31)
 
-                                                  Note
+FORM 8    Consent Agreement and Domestic Violence Civil Protection Order (R.C. 3113.31)
 
-        1. The pleader should follow the form above if he has possession of a copy of the note. The
-pleader should attach a copy of the note to the pleading. See Rule 10(D).
+FORM 9    Notice to Respondent or Defendant About Existence of Protection Order
 
-        2. Under the rules free joinder of claims is permitted. See Rule 8(E) and Rule 18. Consequently
-the claims set forth in each and all of the following forms may be joined with this complaint or with each
-other. Ordinarily each claim should be stated in a separate division of the complaint, and the divisions
-should be designated as counts successively numbered (i.e., COUNT ONE, COUNT TWO, etc.). See Rule
-10(B). In particular the rules permit alternative and inconsistent pleading. See Rule 8(E)(2).
+FORM 10   Judgment Entry on Motion to Modify/Terminate Civil Protection Order or Consent
+          Agreement
 
-        3. The attorney must sign the pleading. See Rule 11. The pleading need not be verified. See
-Rule 11.
+FORM 11   Modified Domestic Violence Civil Protection Order
 
-      [Effective: July 1, 1970.]
+FORM 12   Motion for Contempt of a Domestic Violence or Dating Violence Civil Protection
+          Order
 
-                    FORM 2A. COMPLAINT ON A PROMISSORY NOTE
-                      (REASON FOR OMISSION OF COPY STATED)
+FORM 13   Petition for Dating Violence Civil Protection Order
 
-       1. Defendant on or about_______________, 20____, executed and delivered to plaintiff a
-promissory note
+FORM 14   Dating Violence Civil Protection Order (DTCPO) Ex Parte
+FORM 15   Dating Violence Civil Protection Order (DTCPO) Full Hearing
 
-      [in the following words and figures: (here set out the note verbatim)]
+FORM 16   Consent Agreement and Dating Violence Civil Protection Order
 
-                                                    or
+FORM 17   Modified Dating Violence Civil Protection Order
 
-      [whereby defendant promised to pay plaintiff or order on________________, 20 _____, the
-      sum of __________ dollars with interest thereon at the rate of _____ percent per annum].
+FORM 18   Information About Filing a Juvenile Civil Protection Order or a Juvenile Domestic
+          Violence Civil Protection Order Petition
 
-         2. Plaintiff is unable to attach a copy of the said note because (here set out the reason for
-failure to attach the note).
+FORM 19   Petition for Juvenile Civil Protection Order and Juvenile Domestic Violence
+          Protection Order (R.C. 2151.34 and 3113.31)
 
-        3. Defendant owes to plaintiff the amount of said note and interest.
+FORM 20   Juvenile Civil Protection Order or Juvenile Domestic Violence Civil Protection
+          Order Ex Parte (R.C. 2151.34 or 3113.31)
 
-        Wherefore (etc. as in Form 2).
+FORM 21   Juvenile Civil Protection Order Full Hearing (R.C. 2151.34)
 
-                                                   Note
+FORM 22   Juvenile Domestic Violence Civil Protection Order and Consent Agreement
+          Protection Order
 
-        1. The pleader states why, under Rule 10(D), he is unable to attach a copy of the note.
+FORM 23   Instructions for Obtaining Civil Stalking Protection Order or Civil Sexually
+          Oriented Offense Protection Order (SSOOPO)
 
-        2. If pleader can set forth the note verbatim from information at hand, he may do so.
+FORM 24   Petition for Civil Stalking Protection Order or Civil Sexually Oriented Offense
+          Protection Order (SSOOPO) (R.C. 2903.214)
 
-        3. Or pleader may plead the legal effect of the note, he being unable to attach a copy of the note.
+FORM 25   Civil Stalking Protection Order or Civil Sexually Oriented Offense Protection
+          Order (SSOOPO) Ex Parte (R.C. 2903.214)
 
-         4. This type form may be used in other situations whenever pleader is required to attach a copy of
-an instrument, but a copy of the instrument is not available to him.
+FORM 26   Civil Stalking Protection Order or Civil Sexually Oriented Offense Protection
+          Order (SSOOPO) Full Hearing (R.C. 2903.214)
+FORM 27   Protection Order Notice to NCIC
 
-      [Effective: July 1, 1970.]
+FORM 28     Instructions for Completing a Protection Order Notice to NCIC
 
-                       FORM 3. COMPLAINT ON AN ACCOUNT
+FORM 29     Wireless Service Transfer Order in Domestic Violence Civil Protection Order
 
-       Defendant owes plaintiff _____________ dollars according to the account hereto annexed
-as Exhibit A.
+FORM 30     Motion to Modify or Terminate Domestic Violence Protection Order or Consent
+            Agreement
 
-       Wherefore (etc. as in Form 2).
+FORM 31     Notice of Receipt
 
-     [Effective: July 1, 1970.]
+PROBATE FORMS
 
-              FORM 4. COMPLAINT FOR GOODS SOLD AND DELIVERED
+FORM 1.0    Surviving Spouse, Children, Next of Kin, Legatees, and Devisees
 
-       Defendant owes plaintiff __________ dollars for goods sold and delivered by plaintiff to
-defendant between______________, 20_______, and______________, 20_____.
+FORM 2.0    Application to Probate Will
+FORM 2.1    Waiver of Notice of Probate of Will
 
-         Wherefore (etc. as in Form 2).
+FORM 2.2    Notice of Probate of Will
 
-                                                  Note
+FORM 2.3    Entry Admitting Will to Probate
 
-         This form may be used where the action is for an agreed price or for the reasonable value of the
-goods.
+FORM 2.4    Certificate of Service of Notice of Probate of Will
 
-     [Effective: July 1, 1970.]
+FORM 3.0    Appointment of Appraiser
 
-                      FORM 5. COMPLAINT FOR MONEY LENT
+FORM 4.0    Application for Authority to Administer Estate
 
-      Defendant owes plaintiff _____________ dollars for money lent by plaintiff to defendant
-on______________, 20____.
+FORM 4.1    Supplemental Application for Ancillary Administration
+FORM 4.2    Fiduciary's Bond
 
-       Wherefore (etc. as in Form 2).
+FORM 4.3    Waiver of Right to Administer
 
-     [Effective: July 1, 1970.]
+FORM 4.4    Notice and Citation of Hearing on Appointment of Fiduciary
 
-               FORM 6. COMPLAINT FOR MONEY PAID BY MISTAKE
+FORM 4.5    Entry Appointing Fiduciary; Letter of Authority
 
-       Defendant owes plaintiff ____________ dollars for money paid by plaintiff to defendant
-by mistake on_____________, 20____, under the following circumstances: [here state the
-circumstances with particularity--see Rule 9(B) ].
+FORM 5.0    Application to Relieve Estate From Administration
 
-       Wherefore (etc. as in Form 2).
+FORM 5.1    Assets and Liabilities of Estate to be Relieved from Administration
 
-     [Effective: July 1, 1970.]
+FORM 5.2    Waiver of Notice of Application to Relieve Estate from Administration
 
-             FORM 7. COMPLAINT FOR MONEY HAD AND RECEIVED
+FORM 5.3    Notice of Application to Relieve Estate from Administration
+FORM 5.4    Publication of Notice
 
-      Defendant owes plaintiff ____________ dollars for money had and received from one G.H.
-on____________, 20_____, to be paid by defendant to plaintiff.
+FORM 5.5    Publication of Notice Proof of Publication
 
-       Wherefore (etc. as in Form 2).
+FORM 5.6    Entry Relieving Estate from Administration
 
-     [Effective: July 1, 1970.]
+FORM 5.10   Summary Release From Administration
 
-                             FORM 8. COMPLAINT FOR NEGLIGENCE
+FORM 5.11    Entry Granting Summary Release From Administration
 
-       1. On_____________, 20_____, in a public highway called ___________Street
-in___________, Ohio, defendant negligently drove a motor vehicle against plaintiff who was then
-crossing said highway.
+FORM 6.0     Inventory and Appraisal
 
-       2. As a result plaintiff was thrown down and had his leg broken and was otherwise injured,
-was prevented from transacting his business, suffered great pain of body and mind, and incurred
-expenses for medical attention and hospitalization in the sum of one thousand dollars.
+FORM 6.1     Schedule of Assets
 
-       Wherefore plaintiff demands judgment against defendant in the sum of __________ dollars
-and costs.
+FORM 6.2     Waiver of Notice of Hearing on Inventory
+FORM 6.3     Notice of Hearing on Inventory
 
-                                                         Note
+FORM 7.0     Certification of Notice to Administrator of Medicaid Estate Recovery Program
 
-           Since contributory negligence is an affirmative defense, the complaint need contain no allegation of due care
-of plaintiff.
+FORM 7.0(A) Notice to Administrator of Medicaid Estate Recovery
 
-       [Effective: July 1, 1970.]
+FORM 7.1     Application for Family Allowance
 
-           FORM 9. COMPLAINT FOR NEGLIGENCE WHERE PLAINTIFF
-               IS UNABLE TO DETERMINE DEFINITELY WHETHER
-                    THE PERSON RESPONSIBLE IS C.D. OR E.F.
-                   OR WHETHER BOTH ARE RESPONSIBLE AND
-                 WHERE HIS EVIDENCE MAY JUSTIFY A FINDING
-           OF WILFULNESS OR OF RECKLESSNESS OR OF NEGLIGENCE
+FORM 7.2     Application for Apportionment of Family Allowance
 
-A.B., Plaintiff                                     )
-(address)                                           )      No. __________
+FORM 8.0     Citation to Surviving Spouse to Exercise Elective Rights
 
-          v.                                        )
+FORM 8.1     Election of Surviving Spouse to Take Under Will
 
-C.D. and E.F., Defendants                           )      COMPLAINT
-(addresses)                                         )
+FORM 8.2     Election of Surviving Spouse to Take Against Will
+FORM 8.3     Summary of General Rights of Surviving Spouse
 
-       1. On       , 19 , in a public highway called      Street in     , Ohio, defendant C.D. or
-defendant E.F., or both defendants C.D. and E.F. wilfully or recklessly or negligently drove or
-caused to be driven a motor vehicle against plaintiff who was then crossing said highway.
+FORM 8.4     Certificate of Service and Notice of Citation to Surviving Spouse to Exercise
+             Elective Rights
 
-       2. As a result plaintiff was thrown down and had his leg broken and was otherwise injured,
-was prevented from transacting his business, suffered great pain of body and mind, and incurred
-expenses for medical attention and hospitalization in the sum of one thousand dollars.
+FORM 8.5     Return for Certificate of Service of Citation to Surviving Spouse to Exercise
+             Elective Rights
 
-       Wherefore plaintiff demands judgment against C.D. or against E.F. or against both in the
-sum of ______ dollars and costs.
+FORM 8.6     Waiver of Service to Surviving Spouse of the Citation to Elect
 
-      [Effective: July 1, 1970.]
+FORM 9.0     Application to Sell Personal Property
 
-                       FORM 10. COMPLAINT FOR CONVERSION
+FORM 9.1     Entry Authorizing Sale of Personal Property
 
-        On or about        , 19 , defendant converted to his own use ten bonds of the       Company
-(here insert brief identification as by number and issue) of the value of       dollars, the property
-of plaintiff.
+FORM 9.2     Notice of Sale of Personal Property
 
-       Wherefore plaintiff demands judgment against defendant in the sum of         dollars, interest,
-and costs.
+FORM 10.0    Application to Distribute in Kind
 
-      [Effective: July 1, 1970.]
+FORM 10.1    Entry Approving Distribution in Kind
 
-               FORM 11. COMPLAINT FOR SPECIFIC PERFORMANCE
-                        OF CONTRACT TO CONVEY LAND
+FORM 10.2    Notice of Hearing on Application to Distribute in Kind
+FORM 11.0    Consent to Power to Sell Real Estate
 
-       1. On our about      , 19 , plaintiff and defendant entered into an agreement in writing a
-copy of which is hereto annexed as Exhibit A.
+FORM 12.0    Application for Certificate of Transfer
 
-       2. In accord with the provisions of said agreement plaintiff tendered to defendant the
-purchase price and requested a conveyance of the land, but defendant refused to accept the tender
-and refused to make the conveyance.
+FORM 12.1    Certificate of Transfer
 
-       3. Plaintiff now offers to pay the purchase price.
+FORM 13.0    Fiduciary's Account
 
-       Wherefore plaintiff demands (1) that defendant be required specifically to perform said
-agreement, (2) damages in the sum of one thousand dollars, and (3) that if specific performance is
-not granted plaintiff have judgment against defendant in the sum of      dollars.
+FORM 13.1    Receipts and Disbursements
 
-                                              Note
+FORM 13.2    Assets Remaining in Fiduciary's Hands
 
-       The demand for relief seeks specific performance as well as ancillary damages resulting
-from the delay. In addition the demand for relief seeks damages in a certain sum if the court finds
-it impossible to grant specific performance as where, in the interim, defendant has conveyed the
-property to a purchaser for value without notice.
+FORM 13.3    Entry Approving and Settling Account
 
-      [Effective: July 1, 1970.]
+FORM 13.4    Waiver of Partial Account
+FORM 13.5    Notice of Hearing on Account
 
-                FORM 12. COMPLAINT ON CLAIM FOR DEBT
-       AND TO SET ASIDE FRAUDULENT CONVEYANCE UNDER RULE 18(B)
+FORM 13.6    Certificate of Termination
 
-A.B., Plaintiff                                       )
-(address)                                             )       No. _________
+FORM 13.7    Waiver of Notice of Hearing on Account
 
-           v.                                         )
+FORM 13.8    Application to Extend Administration
 
-C.D. and E.F., Defendants                             ) COMPLAINT
-(addresses)                                           )
+FORM 13.9    Certificate of Service of Account to Heirs or Beneficiaries
 
-       1. Defendant C.D. on or about       executed and delivered to plaintiff a promissory note,
-a copy of which is hereto annexed as Exhibit A.
+FORM 13.10 Notice to Extend Administration
 
-       2. Defendant C.D. owes to plaintiff the amount of said note and interest.
+FORM 13.11 Application to Disburse Attorney Decedent's Trust Account(s)
 
-        3. Defendant C.D. on or about       conveyed all his property, real and personal [or specify
-and describe] to defendant E.F. for the purpose of defrauding plaintiff and hindering and delaying
-the collection of the indebtedness evidenced by the note above referred to.
+FORM 13.12 Notice of Will Location
+FORM 14.0    Application to Approve Settlement and Distribution of Wrongful Death and
+             Survival Claims
+FORM 14.1    Waiver and Consent Wrongful Death and Survival Claims
 
-       Wherefore plaintiff demands:
+FORM 14.2    Entry Approving Settlement and Distribution of Wrongful Death and Survival
+             Claims
 
-        (1) That plaintiff have judgment against defendant C.D. for          dollars and interest; (2)
-that the aforesaid conveyance to defendant E.F. be declared void and the judgment herein be
-declared a lien on said property; (3) that plaintiff have judgment against the defendants for costs.
+FORM 14.3    Report of Distribution of Wrongful Death and Survival Claims
 
-      [Effective: July 1, 1970.]
+FORM 15.0    Next of Kin of Proposed Ward
 
-   FORM 13. COMPLAINT FOR INTERPLEADER AND DECLARATORY RELIEF
+FORM 15.01 Judgment Entry Setting Hearing on Application for Appointment of Guardian
 
-        1. On or about     , 19 , plaintiff issued to G.H. a policy of life insurance, a copy of which
-is attached as Exhibit A, whereby plaintiff promised to pay to K.L. as beneficiary the sum of
-dollars upon the death of G.H. The policy required the payment by G.H. of a stipulated premium
-on      , 19 , and annually thereafter as a condition precedent to its continuance in force.
+FORM 15.1    Waiver of Notice and Consent
 
-        2. No part of the premium due          , 19 , was ever paid and the policy ceased to have any
-force or effect on     , 19 .
+FORM 15.2    Fiduciary's Acceptance - Guardian
 
-      3. Thereafter, on        , 19 , G.H. and K.L. died as the result of a collision between a
-locomotive and the automobile in which G.H. and K.L. were riding.
+FORM 15.3    Guardian's Bond
 
-         4. Defendant C.D. is the duly appointed and acting executor of the will of G.H.; defendant
-E.F. is the duly appointed and acting executor of the will of K.L.; defendant X.Y. claims to have
-been duly designated as beneficiary of said policy in place of K.L.
+FORM 15.4    Letters of Guardianship
+FORM 15.5    Guardian's Inventory
 
-        5. Each of defendants, C.D., E.F., and X.Y. is claiming that the abovementioned policy
-was in full force and effect at the time of the death of G.H.; each of them is claiming to be the only
-person entitled to receive payment of the amount of the policy and has made demand for payment
-thereof.
+FORM 15.6    Application to Release Funds to Guardian
 
-       6. By reason of these conflicting claims of the defendants, plaintiff is in great doubt as to
-which defendant is entitled to be paid the amount of the policy, if it was in force at the death of
-G.H.
+FORM 15.7    Application for Authority to Expend Funds
 
-       Wherefore plaintiff demands that the court adjudge:
+FORM 15.8    Guardian's Account
 
-        (1) That none of the defendants is entitled to recover from plaintiff the amount of said
-policy or any part thereof.
+FORM 15.9    Oath of Guardian
 
-        (2) That each of the defendants be restrained from instituting any action against plaintiff
-for the recovery of the amount of said policy or any part thereof.
+FORM 16.0    Application for Appointment of Guardian of Minor
 
-       (3) That, if the court shall determine that said policy was in force at the death of G.H., the
-defendants be required to interplead and settle between themselves their rights to the money due
-under said policy, and that plaintiff be discharged from all liability in the premises except to the
-person whom the court shall adjudge entitled to the amount of said policy.
+FORM 16.1    Affidavit
 
-       (4) That plaintiff recover its costs.
+FORM 16.2    Selection of Guardian by Minor over Fourteen Years of Age
+FORM 16.3    Notice of Hearing for Appointment of Guardian of Minor (To Minor Over Age 14)
 
-      [Effective: July 1, 1970.]
+FORM 16.4    Notice of Hearing on Application for Appointment Guardian of Minor to Parent,
+             Known Next of Kin and Person Having Custody
+FORM 16.5    Judgment Entry Appointment of Guardian of Minor
 
-          FORM 14. MOTION TO DISMISS, PRESENTING DEFENSES OF
-             FAILURE TO STATE A CLAIM, OF LACK OF SERVICE
-        OF PROCESS, AND OF LACK OF JURISDICTION UNDER RULE 12(B)
+FORM 17.0    Application for Appointment of Guardian (an Alleged Incompetent)
 
-                                 COURT OF COMMON PLEAS
-                                 FRANKLIN COUNTY, OHIO
+FORM 17.1    Statement of Expert Evaluation
 
-A.B., Plaintiff                                      )
-(address)                                            )       No. _________
+FORM 17.1A Supplement for Emergency Guardianship of Person
 
-           v.                                        )
+FORM 17.3    Notice to Prospective Ward of Application and Hearing
 
-C.D. Corporation, Defendant                          )       MOTION TO DISMISS
-(address)                                            )
+FORM 17.4    Notice of Hearing for Appointment of Guardian of Alleged Incompetent Person
 
-       The defendant moves the court as follows:
+FORM 17.5    Judgment Entry Appointment of Guardian for Incompetent Person
+FORM 17.7    Guardian's Report
 
-       1. To dismiss the action because the complaint fails to state a claim against defendant upon
-which relief can be granted.
+FORM 17.8    Court Investigator's Report on Proposed Guardianship
 
-        2. To dismiss the action or in lieu thereof to quash the return of service of summons on the
-grounds (a) that the defendant is a corporation organized under the laws of Delaware and was not
-and is not subject to service of process within this state, and (b) that the defendant has not been
-properly served with process in this action, all of which more clearly appears in the affidavits of
-M.N. and X.Y. hereto attached as Exhibit A and Exhibit B, respectively.
+FORM 17.10 Service of Notice Information for Adult Guardianship
 
-        3. To dismiss the action on the ground that the court lacks jurisdiction because [here state
-the reasons why the court lacks jurisdiction].
+FORM 18.0    Petition for Adoption of Minor
 
-                                                     ___________________________________
-                                                     (Attorney for Defendant)
-                                                     ___________________________________
-                                                     (Address)
-                                                     ___________________________________
+FORM 18.1    Judgment Entry Setting Hearing and Ordering Notice
 
-                                         SERVICE OF COPY
+FORM 18.2    Notice of Hearing on Petition for Adoption
 
-      A copy hereof was served upon X.Y., attorney for plaintiff, by mailing it to him on June 1,
-19 [or set forth other method of service upon X.Y.].
+FORM 18.3    Consent to Adoption
+FORM 18.4    Judgment Entry Finding Consent Not Required
 
-                                                         ___________________________________
-                                                         (Attorney for Defendant)
+FORM 18.5    Interlocutory Order of Adoption
 
-                                                  Note
+FORM 18.6    Final Decree of Adoption (After Interlocutory Order)
 
-        1. The form gives various examples of defenses which may be raised by motion under Rule 12(B).
+FORM 18.7    Final Decree of Adoption (Without Interlocutory Order)
 
-        2. Whether the motion should be accompanied by a notice of hearing on the motion or whether the
-motion should be accompanied by a memorandum brief depends upon the rules of a particular local court.
-See Rule 7(B) and the rules of the local court regarding motion practice.
+FORM 18.8    Adoption Certificate for Parents
 
-        3. All papers after the original pleading required to be served upon an opposite party shall have
-endorsed thereon, when filed with the court, a statement setting forth the date and method of service. See
-Rule 5.
+FORM 18.9    Petitioner's Account
 
-      [Effective: July 1, 1970; amended effective July 1, 1971.]
+FORM 19.0    Petition for Adoption of Adult
 
-          FORM 15. ANSWER PRESENTING DEFENSES UNDER RULE 12(B)
+FORM 19.1    Final Order of Adoption of Adult
 
-A.B., Plaintiff                                       )
-(address)                                             )       No. __________
+FORM 19.2    Petition to Recognize Foreign Adoption
 
-           v.                                         )
+FORM 19.3    Order for Ohio Birth Record for Foreign Born Child
+FORM 19.4    Notice to the Child Support Enforcement Agency
 
-C.D. and E.F., Defendants                             )       ANSWER, COUNTERCLAIM,
-(addresses)                                           )       AND CROSS-CLAIM
+FORM 20.1    Affidavit of Mental Illness
 
-                                         FIRST DEFENSE
+FORM 20.2    Certificate of Examination
 
-       The complaint fails to state a claim against defendant C.D. upon which relief can be
-granted.
+FOMR 20.3    Affidavit of Refusal of Doctor’s Evaluation
 
-                                       SECOND DEFENSE
+FORM 20.4    Order Referring Affidavit for Screening
 
-        If defendant C.D. is indebted to plaintiff for the goods mentioned in the complaint, he is
-indebted to him jointly with G.H. G.H. is alive, is a resident of this state, is subject to the
-jurisdiction of this court and can be made a party but has not been made one.
+FORM 20.5    Temporary Order of Detention
 
-                                        THIRD DEFENSE
+FORM 20.6    Order to Convey
 
-        Defendant C.D. admits the allegation contained in paragraphs 1 and 4 of the complaint;
-alleges that he is without knowledge or information sufficient to form a belief as to the truth of the
-allegations contained in paragraph 2 of the complaint; and denies each and every other allegation
-contained in the complaint.
+FORM 20.7    Order Transferring Jurisdiction
+FORM 20.8    Notice to Respondent of Initial Hearing
 
-                                       FOURTH DEFENSE
+FORM 20.9    Notice of Hearing
 
-       The right of action set forth in the complaint did not accrue within        years next before
-the commencement of this action.
+FORM 20.10 Order Appointing Counsel
 
-                                        COUNTERCLAIM
+FORM 20.11 Motion to Appoint Independent Expert
 
-      [Here set forth any claim as a counterclaim in the manner in which a claim is pleaded in a
-complaint.]
+FORM 20.12 Order Appointing Independent Expert
 
-                           CROSS-CLAIM AGAINST DEFENDANT M.N.
+FORM 21.0    Application for Change of Name of Adult
+FORM 21.01 Affidavit in Support of Application for Change of Name of Adult
+FORM 21.02 Affidavit in Support of Application for Change of Name of Minor
 
-       [Here set forth the claim constituting a cross-claim against defendant M.N. in the manner
-in which a claim is pleaded in a complaint.]
+FORM 21.03 Judgment Entry Setting Hearing and Ordering Notice
 
-                                                           ___________________________________
-                                                           (Attorney for Defendant, C.D.)
+FORM 21.07 Affidavit in Support of Application to Conform Legal Name of Adult
 
-                                                           ___________________________________
-                                                           (Address)
-                                                           ___________________________________
+FORM 21.09 Affidavit in Support of Application to Conform Legal Name of Minor
 
-                                     (Service of Copy as in Form 14)
+FORM 21.1    Judgment Entry - Change of Name of Adult
 
-                                                    Note
+FORM 21.2    Application for Change of Name of Minor
 
-        1. The above form contains examples of certain defenses provided for in Rule 12(B). The first
-defense challenges the legal sufficiency of the complaint. It is a substitute for a motion to dismiss; that is,
-under former practice the issue raised by the first defense would have been raised by demurrer, and under
-present practice the same issue might have been raised by motion at the option of the defendant. See Rule
-12(B).
+FORM 21.3    Judgment Entry - Change of Name of Minor
+FORM 21.4    Consent to Change of Name
 
-         2. The second defense embodies the old plea in abatement. The decision thereon, however, may,
-for example, well provide under Rule 19(A) or Rule 21 for the citing in of the party rather than an abatement
-of the action.
+FORM 21.5    Notice of Hearing on Change of Name
 
-        3. The third defense is an answer on the merits.
+FORM 21.6    Application to Waive Publication Requirement and Seal File
 
-        4. The fourth defense is one of the affirmative defenses provided for in Rule 8(C).
+FORM 21.6A Application to Waive Publication and Seal File
 
-        5. The answer also includes a counterclaim and a cross-claim. See Rule 12(B).
+FORM 21.6B Application to Waive Publication and Seal File
+FORM 21.7    Application to Conform Legal Name of Adult
 
-      [Effective: July 1, 1970.]
+FORM 21.8    Judgment Entry Conforming Legal Name of Adult
 
-             FORM 16. SUMMONS AGAINST THIRD-PARTY DEFENDANT
+FORM 21.9    Application to Conform Legal Name of Minor
 
-                                   COURT OF COMMON PLEAS
-                                   FRANKLIN COUNTY, OHIO
+FORM 21.10 Judgment Entry Conforming Legal Name of Minor
 
-A.B., Plaintiff                                        )
-(address)                                              )
-           v.                                          )
-C.D., Defendant and Third-Party                        )      No. ___________
-Plaintiff                                              )
-(address)                                              )      SUMMONS
-           v.                                          )
-E.F., Third-Party Defendant                            )
-(address)                                              )
+FORM 21.11 Judgment Entry Setting Hearing and Ordering Notice
 
-To the above-named Third-Party Defendant:
+FORM 21.12 Notice of Hearing on Conforming Legal Name
 
-        You are hereby summoned and required to serve upon               , plaintiff's attorney whose
-address is       and upon         , who is attorney for C.D., defendant and third-party plaintiff, and
-whose address is        , an answer to the third-party complaint which is herewith served upon you
-within twenty-eight days after the service of this summons upon you exclusive of the day of
-service. If you fail to do so, judgment by default will be taken against you for the relief demanded
-in the third-party complaint. There is also served upon you herewith a copy of the complaint of
-the plaintiff which you may but are not required to answer. Your answer to the third-party
-complaint and your answer to the plaintiff's complaint must also be filed with the court.
+FORM 21.13 Consent to Name Conformity
 
-                                                       ___________________________________
-                                                       (Clerk of Court)
-                                                       By ______________________ Deputy Clerk
-Dated _______________________________
+FORM 21.14 Release for Criminal Background Check
+FORM 22.0    Application to Settle a Minor's Claim and Entry Setting Hearing
 
-                                                Note
+FORM 22.1    Waiver and Consent to Settle Minor's Claim
 
-        It may be necessary, depending upon when the third-party complaint is served, to seek leave of
-court by motion to bring in a third-party defendant. See Rule 14(A).
+FORM 22.2    Entry Approving Settlement of a Minor's Claim
 
-      [Effective: July 1, 1970.]
+FORM 22.3    Verification of Receipt and Deposit
 
-          FORM 16A. COMPLAINT AGAINST THIRD-PARTY DEFENDANT
+FORM 22.4    Report of Distribution and Entry Minor's Claim
 
-                                   COURT OF COMMON PLEAS
-                                   FRANKLIN COUNTY, OHIO
+FORM 22.5    Application to Settle a Claim of an Adult Ward
+FORM 22.6    Entry Approving Settlement of a Claim of an Adult Ward
+FORM 22.7    Report of Distribution and Entry
 
-A.B., Plaintiff                                           )
-(address)                                                 )
-           v.                                             )
-C.D., Defendant and Third-Party                           )     No. ___________
-Plaintiff                                                 )
-(address)                                                 ) THIRD-PARTY COMPLAINT
-           v.                                             )
-E.F., Third-Party Defendant                               )
-(address)                                                 )
+FORM 23.0    Petition for Protective Services
 
-       1. Plaintiff A.B. has filed against defendant C.D. a complaint, a copy of which is hereto
-attached as Exhibit A.
+FORM 23.1    Notice of Petition for Court Ordered Protective Services
 
-      2. [Here state the grounds upon which C.D. is entitled to recover from E.F., all or part of
-what A.B. may recover from C.D. The statement should be framed as in an original complaint.]
+FORM 23.2    Petition for Emergency Protective Services
 
-       Wherefore C.D. demands judgment against third-party defendant E.F. for all sums [make
-appropriate change where C.D. is entitled to only partial recovery over against E.F.] that may be
-adjudged against defendant C.D. in favor of plaintiff A.B.
+FORM 23.3    Notice of Petition for Court Ordered Protective Services on an Emergency Basis
 
-                                                          ___________________________________
-                                                          (Attorney for C.D.,
-                                                          Third-Party Plaintiff)
-                                                          ___________________________________
-                                                          (Address)
-                                                          ___________________________________
+FORM 23.4    Petition for Temporary Restraining Order to Prevent Interference With
+             Investigation of Reported Abuse of an Adult
 
-                                                   Note
+FORM 23.6    Petition for Temporary Restraining Order to Prevent Interference With the
+             Provision of Protective Services to an Adult
 
-       It is necessary to comply with Rule 5 regarding service of third-party papers on plaintiff.
+FORM 23.7    Notice of Hearing on Petition for Temporary Restraining Order to Prevent
+             Interference With the Provision of Services
 
-     [Effective: July 1, 1970.]
+FORM 24.0    Representation of Insolvency
 
-      FORM 17. MOTION TO INTERVENE AS A DEFENDANT UNDER RULE 24
+FORM 24.1    Judgment Entry Setting Hearing and Ordering Notice
 
-                                    COURT OF COMMON PLEAS
-                                    FRANKLIN COUNTY, OHIO
+FORM 24.2    Notice of Hearing on Representation of Insolvency and Schedule of Claims
 
-A.B., Plaintiff                                   )
-(address)                                         )    No.
-           v.                                     )
-C.D., Defendant                                   )    MOTION TO INTERVENE
-(address)                                         )    AS A DEFENDANT
-E.F., Applicant for Intervention                  )
-(address)                                         )
+FORM 24.3    Verification of Service Notice of Hearing on Representation of Insolvency and
+             Schedule of Claims
 
-        E.F. moves for leave to intervene as a defendant in this action in order to assert the defenses
-set forth in his proposed answer, of which a copy is hereto attached, on the ground that [here insert
-the appropriate grounds of intervention].
+FORM 24.4    Schedule of Claims
 
-                                                  (Attorney for E.F.,
-                                                  Applicant for Intervention)
+FORM 24.5    Continuation Schedule of Claims
+FORM 24.6    Judgment Entry of Insolvency
 
-                                                  (Address)
+FORM 25.0    Application for Order to Disinter Remains
 
-(Adopted eff. 7-1-70)
+FORM 25.1    Judgment Entry Setting Hearing on Application for Disinterment
 
-                                 Note (Amended Effective July 1, 1999)
+FORM 25.2    Notice of Hearing on Application for Disinterment
 
-          It is necessary that a motion to intervene be accompanied by a pleading as required in Civ.R. 24(C).
-It is also necessary to comply with Civ.R. 5 regarding service of the motion on the parties to the action.
+FORM 25.3    Affidavit of Service of Notice on Hearing on Application for Disinterment
 
-                          FORM 18. JUDGMENT ON JURY VERDICT
+FORM 25.4    Verification of Reinterment
 
-                                      COURT OF COMMON PLEAS
-                                       FRANKLIN COUNTY OHIO
+FORM 25.5    Waiver of Notice of Application to Disinter Remains
+FORM 25.6    Order to Disinter Remains
 
-A.B., Plaintiff                                              )
-(address)                                                    )     No. ____________
-           v.                                                )
-C.D., Defendant                                              )     JUDGMENT
-(address)                                                    )
+FORM 26.0    Petition for Involuntary Treatment for Alcohol and Other Drug Abuse
 
-        This action came on for trial before the Court and a jury, and the issues having been duly
-tried and the jury having duly rendered its verdict,
+FORM 26.1    Certificate of Physician
 
-        It is ordered and adjudged [that the plaintiff A.B. recover of the defendant C.D. the sum
-of     , with interest thereon at the rate of  percent as provided by law, and his costs of action.]
+FORM 26.2: Affidavit of Refusal of Examination
 
-       [that the plaintiff take nothing, that the action be dismissed on the merits, and that the
-defendant C.D. recover of the plaintiff A.B. his costs of action.]
+FORM 26.3    Statement of Treatment
 
-        Dated at       , Ohio, this          day of     , 19
+FORM 26.4: Notice of Hearing on Petition
 
-                                                             ___________________________________
-                                                             Judge, Court of Common Pleas
+FORM 26.5    Notice to Respondent and Order to Appear for Examinations and Hearing
 
-Journalized this       day of         , 19
+FORM 26.6    Notice to Respondent and Emergency Order to Report to Hospital
+FORM 26.7    Respondent's Rights
 
-______________________________
-Clerk of Court
+FORM 26.8    Affidavit of Indigency
 
-By                                            Deputy Clerk
+FORM 26.9    Entry Appointing Counsel
 
-                                                      Note
+FORM 26.10 Probable Cause Hearing Decision and Entry
 
-         This form is illustrative of the judgment to be entered upon the general verdict of a jury. It deals
-with the cases where there is a general jury verdict awarding the plaintiff money damages or finding for the
-defendant, but is adaptable to other situations of jury verdict.
+FORM 26.11 Entry Setting Hearing & Ordering Notice
 
-      [Effective: July 1, 1970.]
+FORM 26.12 Summons
 
-                   FORM 19. JUDGMENT ON DECISION BY THE COURT
+FORM 26.13 Order to Transport
 
-                                    COURT OF COMMON PLEAS
-                                    FRANKLIN COUNTY, OHIO
+FORM 26.14 Order
+FORM 27.0     Notice to Guardian-Submission of Comments or Complaints
 
-A.B., Plaintiff                                              )
-(address)                                                    )      No. ___________
-           v.                                                )
-C.D., Defendant                                              )      JUDGMENT
-(address)                                                    )
+FORM 27.1     Notice to Guardian and Maker of Comments or Complaints-Disposition of
+              Comments or Complaints
+FORM 27.2     Notification of Compliance with Guardian Education Requirements
 
-         This action came on for [trial] [hearing] before the Court, and the issues having been duly
-[tried] [heard] and a decision having been duly rendered,
+FORM 27.3     Notice of/Application for Change of Address
 
-        It is ordered and adjudged [that the plaintiff A.B. recover of the defendant C.D. the sum
-of     , with interest thereon at the rate of  percent as provided by law, and his costs of action.]
+FORM 27.4     Entry on Application to Change Address of the Ward
 
-       [that the plaintiff take nothing, that the action be dismissed on the merits, and that the
-defendant C.D. recover of the plaintiff A.B. his costs of action.]
+FORM 27.5     Annual Registration Guardian with Ten or More Wards
 
-Dated at       , Ohio, this       day of       , 19
+FORM 27.6     Annual Fee Schedule
 
-                                                             ___________________________________
-                                                             Judge, Court of Common Pleas
+FORM 27.7     Annual Guardianship Plan-Person
 
-Journalized this        day of       , 19
+FORM 27.8     Annual Guardianship Plan-Estate
+FORM 27.9     Application to Terminate Guardianship
 
-_______________________________
-Clerk of Court
+FORM 27.10 Notification of Guardian's Receipt of Fees Other Than Through Guardianship
 
-By ____________________________ Deputy Clerk
+FORM 27.11 Notification of Ward's Important Legal Papers
 
-                                                      Note
+FORM 27.12 Guardian Receipt
 
-        This form is illustrative of the judgment to be entered upon a decision of the court. It deals with the
-cases of decisions by the court awarding a party only money damages or costs, but is adaptable to other
-decisions by the court.
+FORM 28.0     Motion by Guardian or Real Estate Sale by Consent
 
-      [Effective: July 1, 1970.]
+FORM 28.1     Consent to Power to sell Real Estate-Guardianship
 
-                     FORM 20. CIVIL FEE WAIVER AFFIDAVIT AND ORDER
+FORM 29.0     Application to Release Medical Records and Medical Billing Records
+FORM 29.1     Entry Authorizing Release of Medical Records and Medical Billing Records
 
-                          IN ____________________________________________
-                          _______________________________________________
-                                                     )        CASE NO.
-                                                     )
-                     Plaintiff,                      )        JUDGE
-                                                     )
-              vs.                                    )
-                                                     )        FINANCIAL DISCLOSURE / FEE-
-                                                     )        WAIVER AFFIDAVIT
-                     Defendant.                      )        AND ORDER
+FORM 29.2     Report on Receipt of Medical Records and Medical Billing Records
 
-Pursuant to R.C. 2323.311, the below-named Applicant requests that the Court determine that the Applicant
-is an indigent litigant and be granted a waiver of the prepayment of costs or fees in the above captioned
-matter. The Applicant submits the following information in support of said request.
-                                              Personal Information
- Applicant’s First Name                                   Applicant’s Last Name
+FORM 29.3     Notice of Application to Release Medical Records and Medical Billing Records
 
- Applicant’s Date of Birth                                Last 4 Digits of Applicant’s SSN
+FORM 29.4     Waiver of Notice/Consent
 
- Applicant’s Address
+FORM 30.0     Birth Certificate Correction
 
-                                         Other Persons Living in Your Household
- First Name                       Last Name              Is this person a child Relationship (Spouse or Child)
-                                                         under 18?
-                                                         ☐ Yes      ☐ No
-
-                                                         ☐ Yes      ☐ No
-
-                                                         ☐ Yes      ☐ No
-                                                 Public Benefits
- I receive the following public benefits and my gross income, including the cash benefits marked below, does not
- exceed 187.5% of the federal poverty guidelines.
- Place an “X” next to any benefits you receive.
- Ohio Works First 1: ___ SSI 2: ___ Medicaid 3: ___ Veterans Pension Benefit 4: ___ SNAP / Food Stamps 5: ___
-
-                                             Monthly Income
- I am NOT able to access my spouse’s income ☐
-                                                         Spouse (If Living
-                                          Applicant                                Total Monthly Income
-                                                         in Household)
-
- Gross Monthly Employment Income,
- including Self-Employment Income
- (Before Taxes)                            $                 $                 $
- Unemployment, Worker’s Compensation,
- Spousal Support (If Receiving)            $            $           $
-                                               TOTAL MONTHLY INCOME $                $
-                                                Liquid Assets
- Type of Asset                                         Estimated Value
- Cash on Hand                                          $
- Available Cash in Checking, Savings, Money Market
- Accounts                                              $
- Stocks, Bonds, CDs                                    $
- Other Liquid Assets                                   $
-                                  Total Liquid Assets $
-                                              Monthly Expenses
-                      Column A                                                Column B
- Type of Expense                      Amount             Type of Expense                      Amount
- Rent / Mortgage / Property Tax /                        Insurance (Medical, Dental,
- Insurance                        $                      Auto, etc.)                      $
- Food / Paper Products/Cleaning                          Child or Spousal Support that
- Products/Toiletries              $                      You Pay                          $
-                                                         Medical / Dental Expenses or
- Utilities (Heat, Gas, Electric,                         Associated Costs of Caring for a
- Water / Sewer, Trash)            $                      Sick or Disabled Family Member $
- Transportation / Gas             $                      Credit Card, Other Loans         $
- Phone                            $                      Taxes Withheld or Owed           $
- Child Care                       $                      Other (e.g. garnishments)        $
-    Total Column A Expenses $                                 Total Column B Expenses $
-                        TOTAL MONTHLY EXPENSES (Column A + Column B)
-
-I, ______________________________________, hereby certify that the information I have provided on
-                 (Print Name)
-this financial disclosure form is true to the best of my knowledge and that I am unable to prepay the costs
-or fees in this case.
-                                                       ____________________________________
-                                                       Signature
-NOTARY PUBLIC:
-Sworn to before me and signed in my presence this ______ day of _______________________, 20_____,
-in ___________________ County, Ohio.
-
-                                                             ____________________________________
-                                                             Notary Public (Signature)
-
-                                                             ____________________________________
-                                                             Notary Public (Printed)
-                                                             My Commission expires:________________
-
-If available, an individual duly authorized to administer this oath at the Clerk of Court’s Office will do so
-at no cost to the Applicant.
-____________________________________________________________________________________________
-
-                                                ORDER
-☐ Upon the request of the Applicant and the Court’s review, the Court finds that the Applicant IS an
-  indigent litigant and GRANTS a waiver of the prepayment of costs or fees in this matter. Pursuant
-  to R.C. 2323.311(B)(3), upon the filing of a civil action or proceeding and the affidavit of indigency
-  under division (B)(1) of this section, the clerk of the court shall accept the action, motion, or
-  proceeding for filing.
-☐ Upon the request of the Applicant and the Court’s review, the Court finds that the Applicant is NOT
-  an indigent litigant and DENIES a waiver of the prepayment of costs or fees in this matter.
-  Applicant is granted thirty (30) days from the issuance of this Order to make the required advance
-  deposit or security. Failure to do so within the time allotted may result in dismissal of the applicant’s
-  filing.
-
-IT IS SO ORDERED
-
-________________________________________________                           ________________________
-Judge / Magistrate                                                         Date
-
-     [Effective: April 15, 2020; amended effective April 15, 2022; July 1, 2023.]
-
-                                                         APPENDIX
-
-R.C. 2323.311(B)
-
-(4) A judge or magistrate of the court shall review the affidavit of indigency as filed pursuant to division (B)(2) of this
-section and shall approve or deny the applicant's application to qualify as an indigent litigant. The judge or magistrate shall
-approve the application if the applicant's gross income does not exceed one hundred eighty-seven and five-tenths per cent
-of the federal poverty guidelines as determined by the United States department of health and human services for the state
-of Ohio and the applicant's monthly expenses are equal to or in excess of the applicant's liquid assets as specified in
-division (C)(2) of section 120-1-03 of the Administrative Code, as amended, or a substantially similar provision. If the
-application is approved, the clerk shall waive the advance deposit or security and the court shall proceed with the civil
-action or proceeding. If the application is denied, the clerk shall retain the filing of the action or proceeding, and the court
-shall issue an order granting the applicant whose application is denied thirty days to make the required advance deposit or
-security, prior to any dismissal or other action on the filing of the civil action or proceeding.
-
-(6) Nothing in this section shall prevent a court from approving or affirming an application to qualify as an indigent litigant
-for an applicant whose gross income exceeds one hundred eighty-seven and five-tenths per cent of the federal poverty
-guidelines as determined by the United States department of health and human services for the state of Ohio, or whose liquid
-assets equal or exceed the applicant's monthly expenses as specified in division (C)(2) of section 120-1-03 of the
-Administrative Code, as amended, or a substantially similar provision.
-
- 1Ohio Works First Income Limit: 50% FPL (R.C. 5107.10(D)(1)(a))
- 2SSI Income Limit: cannot have countable income that exceeds the Federal Benefit Rate (FBR). 2019 FBR: $771
-
- monthly for single disabled individual; $1157 monthly for disabled couple (20 CFR 416.1100)
- 3Medicaid Income Limit:
-
- Modified Adjusted Gross Income (MAGI):138% FPL (OAC 5160:1-4-01; 42 USC 1396a(a)(10)(A)(i)(VIII))
- Aged, Blind or Disabled: $791 for single person; $1177 for disabled couple
- 4Veterans Pension Benefit Income Limit: $13,535 annually / $1,127 monthly for a single person; $17,724 annually /
-
- $1,477 monthly for a veteran with one dependent
- 5Supplemental Nutrition Assistance Program (SNAP) Income Limit: 130% FPL for assistance groups with
-
- nondisabled/nonelderly member; 165% FPL for elderly and disabled assistance groups (OAC 5101:4-4-11; Food
- Assistance Change Transmittal No. 61)
-
-FORMS 1 THROUGH 32: DOMESTIC RELATIONS FORMS
-
-                                     IN THE COURT OF COMMON PLEAS
-                                 ______________________________ DIVISION
-                                 ______________________________ COUNTY, OHIO
-
-                                                                       Case No.
-  Plaintiff/Petitioner 1
-                                                                       Judge
-                   vs./and
-                                                                       Magistrate
-
-  Defendant/Petitioner 2
-
-  Instructions: Check local court rules to determine when this form must be filed. This affidavit is used
-  to make complete disclosure of income, expenses, and money owed. It is used to determine child and
-  spousal support. Do not leave any category blank. For each item, if none, put “NONE.” If you do not
-  know exact figures for any item, give your best estimate, and put “EST.” If you need more space, add
-  additional pages.
-
-                     AFFIDAVIT OF BASIC INFORMATION, INCOME, AND EXPENSES
-
-                             Affidavit of _____________________________________
-                                                            (Print Name)
-
-              Date of marriage                            Date of separation
-
-  SECTION I – BASIC INFORMATION
-  Plaintiff/Petitioner 1                                   Defendant/Petitioner 2
-
-    Date of Birth _____________________________ Date of Birth ______________________________
-    Last 4 Digits of Social Security # XXX-XX-_____ Last 4 Digits of Social Security # XXX-XX-______
-    Phone Number___________________________                 Phone Number___________________________
-    Email Address___________________________               Email Address____________________________
-    Is an interpreter needed?  Yes or  No                Is an interpreter needed?  Yes or  No
-    If yes, explain: ___________________________ If yes, explain: ___________________________
-    Health:                                                 Health:
-     Good  Fair  Poor                                     Good  Fair  Poor
-    If health is not good, please explain:                If health is not good, please explain:
-
-Supreme Court of Ohio                                                                              Page 1 of 8
-Uniform Domestic Relations Form – Affidavit 1 AFFIDAVIT
-OF BASIC INFORMATION, INCOME, AND EXPENSES
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021
-
-     Education: (Check highest level achieved)                 Education: (Check highest level achieved)
-      Grade School  High School                               Grade School  High School
-      Associate  Bachelor’s  Post Graduate                   Associate  Bachelor’s  Post Graduate
-
-     Other Technical Certifications:                           Other Technical Certifications:
-
-     Active Member of the U.S. Military                        Active Member of the U.S. Military
-      Yes  No                                                 Yes  No
-
-   SECTION II – INCOME
-                                                  Plaintiff/Petitioner 1                  Defendant/Petitioner 2
-                              Employed                Yes  No                              Yes  No
-                  Date of Employment        _______________________                _______________________
-                      Name of Employer      _______________________                _______________________
-                        Payroll Address     _______________________                _______________________
-                Payroll City, State, Zip    _______________________                _______________________
-      Scheduled Paychecks Per Year             12  24  26  52                     12  24  26  52
-
-  A. YEARLY INCOME, OVERTIME, COMMISSIONS, AND BONUSES FOR PAST THREE YEARS
-
-                            Plaintiff/Petitioner 1                            Year          Defendant/Petitioner 2
-                            $__________________          3 years ago         20            $
-   Base yearly income       $__________________          2 years ago         20            $
-                            $__________________              Last year       20            $
-
-                            $__________________          3 years ago         20            $__________________
-   Yearly overtime,
-   commissions,             $__________________          2 years ago         20            $__________________
-   and/or bonuses           $__________________              Last year       20            $__________________
-
-  B. COMPUTATION OF CURRENT INCOME
-
-                                               Plaintiff/Petitioner 1                Defendant/Petitioner 2
-
-  Base Yearly Income                          $                                       $
-
-  Average yearly overtime,
-  commissions, and/or bonuses
-  over last 3 years (from part A)             $                                       $
-
-Supreme Court of Ohio                                                                                   Page 2 of 8
-Uniform Domestic Relations Form – Affidavit 1 AFFIDAVIT OF
-BASIC INFORMATION, INCOME, AND EXPENSES
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021
-
- Unemployment Compensation                  $                               $
- Disability Benefits
-       Workers’ Compensation                $_________________              $_________________
-
-       Social Security                      $_________________              $_________________
-
-       Other:                               $                               $
-
- Retirement Benefits
-      Social Security                       $_________________              $_________________
-
-       Other:                               $                               $
-
- Spousal Support Received                   $                               $
-
- Interest and dividend income
- (source)                                   $                               $
-
- Other income (type and source)
- __________________________                 $                               $
-
- TOTAL YEARLY INCOME                        $                               $
-
- Supplemental Security Income
- (SSI) and/or public assistance             $                               $
-
- Social Security or Veteran’s
- benefits received for child(ren)
-  Based on parent’s disability
-  Based on child’s disability              $                               $
-
- Child support you receive from
- a child support enforcement
- agency or court order for minor
- and/or dependent child(ren) not
- of the marriage or relationship            $                               $
-
- SECTION III – CHILDREN AND HOUSEHOLD RESIDENTS
-
- Minor and/or dependent child(ren) who is/are adopted or born from this marriage or relationship:
-
-                 Name                             Date of birth                  Living with
-
-Supreme Court of Ohio                                                                           Page 3 of 8
-Uniform Domestic Relations Form – Affidavit 1 AFFIDAVIT
-OF BASIC INFORMATION, INCOME, AND EXPENSES
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021
-
- In addition to the above child(ren):
- Plaintiff/Petitioner 1 has              other minor biological or adopted child(ren).
- Defendant/Petitioner 2 has                 other minor biological or adopted child(ren).
- There is/are               adult(s) in your household.
-
- SECTION IV – EXPENSES
-
-  List monthly expenses below for your present household.
-
-  A. MONTHLY HOUSING EXPENSES
-
-  Rent or first mortgage (including taxes and insurance)                           $
-  Second mortgage/equity line of credit                                            $
-  Real estate taxes (if not included above)                                        $
-  Renter or homeowner's insurance (if not included above)                          $
-  Homeowner or condominium association fee                                         $
-  Utilities
-   ° Electric                                                                      $
-   ° Gas, fuel oil, propane                                                        $
-   ° Water and sewer                                                               $
-   ° Telephone and/or cell phone                                                   $
-   ° Trash collection                                                              $
-   ° Cable/satellite television                                                    $
-   ° Internet service                                                              $
-  Cleaning                                                                         $
-  Lawn service and/or snow removal                                                 $
-  Other: ______________________________________________________ $
-          ______________________________________________________ $
-                                                            TOTAL MONTHLY: $
-
-  B. OTHER MONTHLY LIVING EXPENSES
-
-  Food
-   ° Groceries (including food, paper, cleaning products, toiletries, and other)   $
-   ° Restaurant                                                                    $
-  Transportation
-   ° Vehicle loan, lease                                                           $
-   ° Vehicle maintenance                                                           $
-   ° Gasoline                                                                      $
-
-Supreme Court of Ohio                                                                       Page 4 of 8
-Uniform Domestic Relations Form – Affidavit 1 AFFIDAVIT
-OF BASIC INFORMATION, INCOME, AND EXPENSES
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021
-
-   ° Parking, public transportation                                        $
-  Clothing
-   ° Clothes (other than child(ren)’s)                                     $
-   ° Dry cleaning and laundry                                              $
- Personal grooming
-   ° Hair and nail care                                                    $
-   ° Other: ____________________________________________________ $
- Other: _______________________________________________________ $
-                                                          TOTAL MONTHLY: $
-
-  C. MONTHLY MINOR CHILD-RELATED EXPENSES
-     (for child(ren) of the marriage or relationship)
-
-  Work and/or education-related child care                                 $
-  Other child care                                                         $
-  Extraordinary parenting time travel cost                                 $
-  School tuition                                                           $
-  School lunches                                                           $
-  School supplies                                                          $
-  Extracurricular activities and lessons                                   $
-  Clothing                                                                 $
-  Child(ren)’s allowances                                                  $
-  Special and extraordinary needs of child(ren) (not included elsewhere)   $
-  Other:                                                                   $
-                                                          TOTAL MONTHLY: $
-
-  D. MONTHLY INSURANCE PREMIUMS
-
-  Life                                                                     $
-  Auto                                                                     $
-  Health                                                                   $
-  Disability                                                               $
-  Other:                                                                   $
-                                                          TOTAL MONTHLY: $
-
-Supreme Court of Ohio                                                          Page 5 of 8
-Uniform Domestic Relations Form – Affidavit 1 AFFIDAVIT
-OF BASIC INFORMATION, INCOME, AND EXPENSES
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021
-
-  E. MONTHLY WORK AND EDUCATION EXPENSES FOR SELF
-
-  Mandatory work expenses (union dues, uniforms, or other)                     $
-  Additional income taxes paid (not deducted from wages)                       $
-  Tuition                                                                      $
-  Books, fees, and other                                                       $
-  College loan                                                                 $
-  Other: ______________________________________________________ $
-            ______________________________________________________ $
-                                                          TOTAL MONTHLY: $
-
-  F. MONTHLY HEALTH CARE EXPENSES
-     (not covered by insurance)
-
-  Physicians                                                                   $
-  Dentists and orthodontists                                                   $
-  Optometrists and opticians                                                   $
-  Prescriptions                                                                $
-  Other:                                                                       $
-                                                          TOTAL MONTHLY: $
-
-  G. MISCELLANEOUS MONTHLY EXPENSES
-
-  Extraordinary obligations for other minor/handicapped child(ren) [for
-  child(ren) who were not born of this marriage or relationship and were not
-  adopted by these parties]                                                    $
-  Child support for child(ren) who were not born of this marriage
-  or relationship and were not adopted by these parties                        $
-  Expenses paid for adult child(ren) or other dependent(s)                     $
-  Spousal support paid to former spouse(s)                                     $
-  Subscriptions and books                                                      $
-  Charitable contributions                                                     $
-  Memberships (associations and clubs)                                         $
-  Travel and vacations                                                         $
-  Pets                                                                         $
-  Gifts                                                                        $
-  Attorney fees                                                                $
-
-Supreme Court of Ohio                                                              Page 6 of 8
-Uniform Domestic Relations Form – Affidavit 1 AFFIDAVIT
-OF BASIC INFORMATION, INCOME, AND EXPENSES
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021
-
- Other: _______________________________________________________ $
-         _______________________________________________________ $
-                                                            TOTAL MONTHLY: $
-
-  H. MONTHLY INSTALLMENT PAYMENTS INCLUDING BANKRUPTCY PAYMENTS
-
-      (Do not repeat expenses already listed.)
-      Examples: car, credit card, rent-to-own, or cash advance payments
-
-      To whom paid                   Purpose                 Balance due           Monthly payment
-                                                                               $
-                                                                               $
-                                                                               $
-                                                                               $
-                                                                               $
-                                                                               $
-                                                                               $
-                                                                               $
-                                                                               $
-                                                                               $
-                                                                               $
-                                                                               $
-                                                          TOTAL MONTHLY:       $
-
-            GRAND TOTAL MONTHLY EXPENSES (Sum of A through H):                 $
-
-Supreme Court of Ohio                                                                       Page 7 of 8
-Uniform Domestic Relations Form – Affidavit 1 AFFIDAVIT
-OF BASIC INFORMATION, INCOME, AND EXPENSES
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021
-
-                                           OATH OR AFFIRMATION
-                                   (Do not sign until Notary Public is present)
-
- I, (print name)                           , swear or affirm that I have read this Affidavit and, to the best
- of my knowledge and belief, the facts and information stated in this Affidavit are true, accurate, and
- complete. I understand that if I do not tell the truth, I may be subject to penalties for perjury.
-
-                                                               Your Signature
-
-  STATE OF _____________________                  )
-                                                  ) SS
-  COUNTY OF ___________________                   )
-
- Sworn to or affirmed before me by                                 this       day of               ,       .
-
-                                                              ______________________________________
-                                                              Signature of Notary Public
-
-                                                              ______________________________________
-                                                              Printed Name of Notary Public
-
-                                                               Commission Expiration Date: _____________
-                                                               (Affix seal here)
-
-Supreme Court of Ohio                                                                             Page 8 of 8
-Uniform Domestic Relations Form – Affidavit 1 AFFIDAVIT
-OF BASIC INFORMATION, INCOME, AND EXPENSES
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021
-
-                                     IN THE COURT OF COMMON PLEAS
-                                 ______________________________ DIVISION
-                                 ______________________________ COUNTY, OHIO
-
-                                                                     Case No.
-Plaintiff/Petitioner 1
-                                                                     Judge
-                vs./and
-                                                                     Magistrate
-
-Defendant/Petitioner 2
-
-Instructions: Check local court rules to determine when this form must be filed. List ALL OF YOUR PROPERTY AND
-DEBTS, THE PROPERTY AND DEBTS OF YOUR SPOUSE, AND ANY JOINT PROPERTY OR DEBTS. You must
-provide the most recent value for each asset and balance owed for each debt. Do not leave any category blank. For each
-item, if none, put “NONE.” If you do not know exact figures for any item, give your best estimate, and put “EST.” If more
-space is needed, add additional pages.
-
-                                      AFFIDAVIT OF PROPERTY AND DEBT
-                               Affidavit of _________________________________
-                                                              (Print Name)
-
-I. REAL ESTATE INTERESTS
-
-               Address                    Present Fair           Titled To         Mortgage Balance           Equity
-                                          Market Value
-
-1.__________________________          $                     _______________        $                      $
-  __________________________
-
-2.__________________________          $                     _______________        $                      $
-  __________________________
-
-                                                    TOTAL SECTION I: REAL ESTATE INTERESTS: $
-
-II. OTHER ASSETS
-
-                   Category                          Description                       Titled To              Value
-    A. Vehicles and Other Certificate (Include model and year of
-    of Title Property                 automobiles, trucks, motorcycles,
-                                      boats, motors, motor homes, trailers,
-                                      ATVs, snowmobiles, jet skis, etc.)
-
-1. ____________________________ _____________________________                     ________________    $
-
-2. ____________________________ _____________________________                     ________________    $
-
-Supreme Court of Ohio                                                                                         Page 1 of 5
-Uniform Domestic Relations Form – Affidavit 2
-AFFIDAVIT OF PROPERTY AND DEBT
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021
-
-               Category                            Description                Titled To            Value
-
-3. ____________________________ _____________________________              ________________   $ _______________
-
-4. ____________________________ _____________________________              ________________   $ _______________
-
-5. ____________________________ _____________________________              ________________   $ _______________
-
-6. ____________________________ _____________________________              ________________   $ _______________
-
-    B. Financial Accounts               (Include checking, savings, CDs,
-                                        POD accounts, money market
-                                        accounts, etc.)
-
-1. ____________________________ _____________________________              ________________   $ _______________
-
-2. ____________________________ _____________________________              ________________   $ _______________
-
-3. ____________________________ _____________________________              ________________   $ _______________
-
-4. ____________________________ _____________________________              ________________   $ _______________
-
-    C. Pensions & Retirement            (Include profit-sharing, IRAs,
-    Plans                               401(k) plans, etc. Describe each
-                                        type of plan)
-
-1. ____________________________ _____________________________              ________________   $ _______________
-
-2. ____________________________ _____________________________              ________________   $ _______________
-
-3. ____________________________ _____________________________              ________________   $ _______________
-
-4. ____________________________ _____________________________              ________________   $ _______________
-
-    D. Publicly Held Stocks,            (Name of company and number of
-    Bonds, Securities & Mutual          shares)
-    Funds
-
-1. ____________________________ _____________________________              ________________   $ _______________
-
-2. ____________________________ _____________________________              ________________   $ _______________
-
-3. ____________________________ _____________________________              ________________   $ _______________
-
-4. ____________________________ _____________________________              ________________   $ _______________
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form – Affidavit 2
-AFFIDAVIT OF PROPERTY AND DEBT
-Approved under Ohio Civil Rule 84
-Amended: XXXX, 2021                                                                                 Page 2 of 5
-
-               Category                             Description                Titled To            Value
-
-   E. Closely Held Stocks & Other       (Type of ownership and number of
-   Business Interests and Name          shares)
-   of Company
-
-1. ____________________________ _____________________________              ________________ $ _______________
-
-2. ____________________________ _____________________________              ________________ $ _______________
-
-   F. Life Insurance (Company           (Insured Life)                                        Cash Value and
-   Name and Term or Whole Life)                                                               Loan Balance, if
-                                                                                              any
-
-1. ____________________________ _____________________________              ________________ $ _______________
-
-2. ____________________________ _____________________________              ________________ $ _______________
-
-3. ____________________________ _____________________________              ________________ $ _______________
-
-4. ____________________________ _____________________________              ________________ $ _______________
-
-   G. Furniture & Household
-   Goods, Furnishings, and
-   Appliances
-
-1. ____________________________ _____________________________              ________________ $ _______________
-
-2. ____________________________ _____________________________              ________________ $ _______________
-
-3. ____________________________ _____________________________              ________________ $ _______________
-
-4. ____________________________ _____________________________              ________________ $ _______________
-
-   H. Safe Deposit Box
-   (Give location and contents)
-
-1. ____________________________ _____________________________              ________________ $ _______________
-
-2. ____________________________ _____________________________              ________________ $ _______________
-
-3. ____________________________ _____________________________              ________________ $ _______________
-
-4. ____________________________ _____________________________              ________________ $ _______________
-
-   I. All Other Assets Not Listed       (If necessary, attach additional
-   Above (including jewelry, art,       pages)
-   tools, firearms, and other
-   collectibles)
-
-1. ___________________________ _____________________________               ________________   $ _______________
-
-2. ___________________________ _____________________________               ________________   $ _______________
-
-                                                            TOTAL SECTION II: OTHER ASSETS:   $ _______________
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form – Affidavit 2
-AFFIDAVIT OF PROPERTY AND DEBT
-Approved under Ohio Civil Rule 84
-Amended: XXXX, 2021                                                                                    Page 3 of 5
-
-III. SEPARATE PROPERTY CLAIMS
-Separate property includes, but is not limited to, property owned before marriage and gifts or inheritances to
-only one spouse.
-
-     Description                                                                 Why do you claim        Present Fair Market
-                                                                                 this as separate        Value
-                                                                                 property?
-
-1. ____________________________ _____________________________                   ________________ $ _______________
-
-2. ____________________________ _____________________________                   ________________ $ _______________
-
-3. ____________________________ _____________________________                   ________________ $ _______________
-
-4. ____________________________ _____________________________                   ________________ $ _______________
-
-                                           TOTAL SECTION III: SEPARATE PROPERTY CLAIMS: $ _______________
-
-IV. DEBT
-
-List ALL OF YOUR DEBTS, your spouse’s debts, and any joint debts. Do not leave any category blank. For each item,
-if none, put “NONE.” If you don’t know exact figures for any item, give your best estimate, and put “EST.” If more space
-is needed to explain, please attach an additional page with the explanation and identify which question you are
-answering.
-
-     Type                               Name of Creditor                   Name on          Total Debt        Monthly
-                                                                           Account          Due               Payment
-     A. Secured Debt (Mortgages,
-     Car, etc.)
-
-1.   __________________________         _________________________         ____________ $___________           $___________
-
-2.   __________________________         _________________________         ____________ $___________           $___________
-
-3.   __________________________         _________________________         ____________ $___________           $___________
-
-4.   __________________________         _________________________         ____________ $___________           $___________
-
-5.   __________________________         _________________________         ____________ $___________           $___________
-
-     B. Unsecured Debt (Credit
-     cards, medical bills, other
-     debts)
-
-1.   __________________________         _________________________         ____________ $___________           $___________
-
-2.   __________________________         _________________________         ____________ $___________           $___________
-
-3.   __________________________         _________________________         ____________ $___________           $___________
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form – Affidavit 2
-AFFIDAVIT OF PROPERTY AND DEBT
-Approved under Ohio Civil Rule 84
-Amended: XXXX, 2021                                                                                              Page 4 of 5
-
-     Type                               Name of Creditor               Name on          Total Debt        Monthly
-                                                                       Account          Due               Payment
-
-4.   __________________________        _________________________       ____________ $___________          $___________
-
-5.   __________________________        _________________________       ____________ $___________          $___________
-
-                                                                          TOTAL SECTION IV: DEBT: $ ___________
-
-V. BANKRUPTCY
-
-     Filed by                           Date of Filing                 Date of          Type of Case      Current
-                                                                       Discharge or     (Ch. 7, 11, 12,   Monthly
-                                                                       Relief from      13)               Payments
-                                                                       Stay
-
-1.   __________________________        _________________________       ____________ $___________          $___________
-
-2.   __________________________        _________________________       ____________ $___________          $___________
-
-                                                                  TOTAL SECTION V: BANKRUPTCY: $ ___________
-
-                                             OATH OR AFFIRMATION
-                                     (Do not sign until Notary Public is present)
-
-I, (print name)                                  , swear or affirm that I have read this Affidavit and, to the best
-of my knowledge and belief, the facts and information stated in this Affidavit are true, accurate, and complete. I
-understand that if I do not tell the truth, I may be subject to penalties for perjury.
-
-                                                                       Your Signature
-
-STATE OF _____________________ )
-                               ) SS
-COUNTY OF ___________________ )
-
-Sworn to or affirmed before me by                                        this       day of                  ,        .
-
-                                                                       __________________________________
-                                                                       Signature of Notary Public
-
-                                                                       __________________________________
-                                                                       Printed Name of Notary Public
-
-                 (Affix seal here)                                     Commission Expiration Date: ___________
-
-Uniform Domestic Relations Form – Affidavit 2
-AFFIDAVIT OF PROPERTY AND DEBT
-Approved under Ohio Civil Rule 84
-Amended: XXXX, 2021                                                                                         Page 5 of 5
-
-                                        IN THE COURT OF COMMON PLEAS
-                                                                DIVISION
-                                                                COUNTY, OHIO
-
-                                                              Case No.
- Plaintiff/Petitioner 1
-                                                              Judge
-                          vs./and
-                                                              Magistrate
-
- Defendant/Petitioner 2/Respondent
-
- Instructions: Check local court rules to determine when this form must be filed. By law, this affidavit must be
- filed and served with any Complaint, Petition or Motion regarding the allocation of parental rights and
- responsibilities, parenting time, custody, or visitation. Each party has a continuing duty while this case is pending
- to inform the Court of any parenting proceeding concerning the child(ren) in any other court in this or any other
- state. If more space is needed, add additional pages.
-
-                            PARENTING PROCEEDING AFFIDAVIT (R.C. 3127.23(A))
-                               Affidavit of
-                                                                 (Print Name)
-
-ONLY CHECK THE FOLLOWING BOX IF YOU BELIEVE THAT THE HEALTH, SAFETY, OR LIBERTY OF
-YOURSELF OR YOUR CHILD(REN) WOULD BE JEOPARDIZED BY THE DISCLOSURE OF YOUR ADDRESS
-OR IDENTIFYING INFORMATION. YOU ACKNOWLEDGE THAT THE COURT MAY CONDUCT A HEARING
-REGARDING THE BASIS FOR YOUR REQUEST.
-
-      Pursuant to R.C. 3127.23(D), I allege that my health, safety, or liberty or that of my child(ren) would be
-      jeopardized by the disclosure of identifying information to my spouse or the public. Therefore, I request that
-      my address be placed under seal. I have marked the corresponding box next to each address I am requesting
-      to be sealed.
-
- 1.     (Number): _______ Minor child(ren) is/are subject to this case as follows:
-
-Insert the information requested below for all minor or dependent children of the parties. You must list the
-residences for all places where the children have lived for the last FIVE years.
-
- a. Child’s name                                   Place of birth               Date of birth              Sex      M      F
- _____________________________________________     ________________________     ________________________
-
-                                     Address
-      Date of residence                             Person child lived with (name and address)                   Relationship
-                                    Confidential
- ___________________                               ___________________________________
-       to present                                  ___________________________________                     ________________
-
- ___________________                               ___________________________________
- to _________________                              ___________________________________                     ________________
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form – Affidavit 3
- PARENTING PROCEEDING AFFIDAVIT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                                  Page 1 of 4
-
- ___________________                             ___________________________________
- to _________________                            ___________________________________                   ________________
-
- ___________________                             ___________________________________
- to _________________                                                                                  ________________
-                                                 ___________________________________
-
- b. Child’s name                                 Place of birth             Date of birth              Sex      M      F
- _____________________________________________   ________________________   ________________________
-
-     Check this box if the information below is the same as in Section 1(a). Skip to the next question.
-                                 Address
-     Date of residence                            Person child lived with (name and address)                 Relationship
-                                Confidential
- ___________________                             ___________________________________
-       to present                                ___________________________________                   ________________
-
- ___________________                             ___________________________________
- to _________________                            ___________________________________                   ________________
-
- ___________________                             ___________________________________
- to _________________                            ___________________________________                   ________________
-
- ___________________                             ___________________________________
- to _________________                            ___________________________________                   ________________
-
- c. Child’s name                                 Place of birth             Date of birth              Sex      M      F
- _____________________________________________   ________________________   ________________________
-
-     Check this box if the information below is the same as in Section 1(a). Skip to the next question.
-                                 Address
-     Date of residence                            Person child lived with (name and address)                 Relationship
-                                Confidential
- ___________________                             ___________________________________
-       to present                                ___________________________________                   ________________
-
- ___________________                             ___________________________________
- to _________________                            ___________________________________                   ________________
-
- ___________________                             ___________________________________
- to _________________                            ___________________________________                   ________________
-
- ___________________                             ___________________________________
- to _________________                            ___________________________________                   ________________
-
-d. Additional children are listed on Attachment 1(d). (Provide requested information for additional children on an
-   attachment labeled 1(d).)
- Supreme Court of Ohio
- Uniform Domestic Relations Form – Affidavit 3
- PARENTING PROCEEDING AFFIDAVIT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                              Page 2 of 4
-
- 2.    Participation in custody case(s): (Check only one box)
-            I HAVE NOT participated as a party, witness, or in any capacity in any other case, in this or any other
-            state, concerning the custody of or visitation (parenting time), with any child subject to this case.
-             I HAVE participated as a party, witness, or in any capacity in any other case, in this or any other state,
-             concerning the custody of or visitation (parenting time), with any child subject to this case.
-
-             Explain:
-
-       a.    Name of each child: __________________________________________________________________
-       b.    Type of case: _______________________________________________________________________
-       c.    Court and State: ____________________________________________________________________
-       d.    Date and court order or judgment (if any): ________________________________________________
-
- 3.    Information about custody case(s): (Check only one box)
-            I HAVE NO INFORMATION of any cases that could affect the current case, including any cases relating
-            to custody; domestic violence or protection orders; dependency, neglect, or abuse allegations; or
-            adoptions concerning any child subject to this case.
-
-             I HAVE THE FOLLOWING INFORMATION concerning cases that could affect the current case,
-             including any cases relating to custody; domestic violence or protection orders; dependency, neglect,
-             or abuse allegations; or adoptions concerning a child subject to this case, other than listed in Paragraph
-             2.
-             Explain:
-
-       a.    Name of each child: _________________________________________________________________
-       b.    Type of case: ______________________________________________________________________
-       c.    Court and State: ____________________________________________________________________
-       d.    Date and court order or judgment (if any): ________________________________________________
-
- 4.      Information about criminal convictions:
-List all of the criminal convictions, including guilty pleas, for you and the members of your household for the following
-offenses: any criminal offense involving acts that resulted in a child being abused or neglected; any domestic
-violence offense that is a violation of R.C. 2919.25; any sexually oriented offense as defined in R.C. 2950.01; and
-any offense involving a victim who was a family or household member at the time of the offense and caused physical
-harm to the victim during the commission of the offense.
-
-            NAME                      CASE NUMBER            COURT/COUNTY/STATE                     CHARGE
-
- 5.    Persons not a party to this case: (Check only one box)
-           I DO NOT KNOW OF ANY PERSON not a party to this case who has physical custody or claims to
-           have custody or visitation rights with respect to any child subject to this case.
-
-             I KNOW THAT THE FOLLOWING NAMED PERSON(S) not a party to this case has/have physical
-             custody or claim(s) to have custody or visitation rights with respect to any child subject to this case.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form – Affidavit 3
- PARENTING PROCEEDING AFFIDAVIT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                       Page 3 of 4
-
-        a.    Name/Address of Person: _________________________________________________________
-                 has physical custody    claims custody rights claims visitation rights
-              Name of each child: ______________________________________________________________
-
-        b.    Name/Address of Person: _________________________________________________________
-                 has physical custody    claims custody rights claims visitation rights
-              Name of each child: ______________________________________________________________
-
-        c.    Name/Address of Person: _________________________________________________________
-                 has physical custody    claims custody rights claims visitation rights
-              Name of each child: ______________________________________________________________
-
-6. I understand that I have a continuing duty to advise this Court of any custody, visitation, parenting time,
-   divorce, dissolution of marriage, separation, neglect, abuse, dependency, guardianship, parentage,
-   termination of parental rights, or protection order from domestic violence case concerning the children
-   about whom information is obtained during this case.
-
-                                               OATH OR AFFIRMATION
-                                       (Do not sign until Notary Public is present)
-
-I, (print name)                                          , swear or affirm that I have read this Affidavit and, to the
-best of my knowledge and belief, the facts and information stated in this Affidavit are true, accurate, and complete.
-I understand that if I do not tell the truth, I may be subject to penalties for perjury.
-
-                                                                    Your Signature
-
- STATE OF _____________________ )
-                                            ) SS
- COUNTY OF ___________________ )
-
- Sworn to or affirmed before me by _________________________this ______day of ______________,______.
-
-                                                                         ___________________________________
-                                                                         Signature of Notary Public
-
-                                                                         ___________________________________
-                                                                         Printed Name of Notary Public
-
-                                                                         Commission Expiration Date: ___________
-
-                                                                         (Affix seal here)
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form – Affidavit 3
- PARENTING PROCEEDING AFFIDAVIT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                    Page 4 of 4
-
-                                      IN THE COURT OF COMMON PLEAS
-                                                           DIVISION
-                                                           COUNTY, OHIO
-
-                                                                           Case No.
-Plaintiff/Petitioner 1
-                                                                           Judge
-                   vs./and
-                                                                           Magistrate
-
-Defendant/Petitioner 2
-
-Instructions: Check local court rules to determine when this form must be filed. This affidavit is used to disclose
-health insurance coverage that is available for children of the relationship. It is also used to determine child support.
-If more space is needed, add additional pages.
-
-                                         HEALTH INSURANCE AFFIDAVIT
-                             Affidavit of ____________________________________
-                                                           (Print Name)
-
-                                                                 Plaintiff/Petitioner 1       Defendant/Petitioner 2
-Is/are your child(ren) currently enrolled in a government-
-provided program (i.e. Healthy Start/ Medicaid)?                          Yes           No           Yes            No
-
-Is/are your child(ren) enrolled in an individual (non-group
-or COBRA) health insurance plan?                                          Yes           No           Yes            No
-
-Is/are your child(ren) enrolled in a plan found through the
-exchange/Affordable HealthCare Marketplace?                               Yes           No           Yes            No
-
-Is/are your child(ren) enrolled in a health insurance
-plan through a group (employer or other organization)?                    Yes           No           Yes            No
-
-If your child(ren) is/are not enrolled, does/do he/she/they
-have health insurance available through a group                           Yes           No           Yes            No
-(employer or other organization)?
-Does the available insurance cover primary care services
-within 30 miles of the children’s home?                                   Yes           No           Yes            No
-
-Under the available insurance, what is the annual premium
-you pay for family coverage?
-                                                                 $ ________________           $ ________________
-
-Name of group (employer or organization)
-that provides health insurance                  _ _______________________ _ _______________________
-
-Address                                         _ _______________________ _ _______________________
-                                                _ _______________________ _ _______________________
-Phone Number                                    _ _______________________               ________________________
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form – Affidavit 4
-HEALTH INSURANCE AFFIDAVIT
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                      Page 1 of 2
-
-                                                    OATH OR AFFIRMATION
-                                            (Do not sign until Notary Public is present)
-
-   I, (print name)                                , swear or affirm that I have read this Affidavit and, to the best of my
-   knowledge and belief, the facts and information stated in this Affidavit are true, accurate, and complete. I understand
-   that if I do not tell the truth, I may be subject to penalties for perjury.
-
-                                                                               __________________________________
-                                                                               Your Signature
-
-  STATE OF _____________________ )
-                                 ) SS
-  COUNTY OF ___________________ )
-
-   Sworn to or affirmed before me by ________________________this _____day of _______________,_________.
-
-                                                                               __________________________________
-                                                                               Signature of Notary Public
-
-                                                                               __________________________________
-                                                                               Printed Name of Notary Public
-
-                                                                               Commission Expiration Date: __________
-
-                                                                               (Affix seal here)
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form – Affidavit 4
-HEALTH INSURANCE AFFIDAVIT
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                          Page 2 of 2
-
-                               IN THE COURT OF COMMON PLEAS
-                           ______________________________ DIVISION
-                           ______________________________ COUNTY, OHIO
-
-                                                            Case No.
-Plaintiff
-                                                            Judge
-                         vs.
-                                                            Magistrate
-
-Defendant
-
-WARNING:           This form is not a substitute for the benefit of the advice of legal counsel.
-                   It is highly recommended that you consult an attorney.
-Instructions: Check local court rules to determine when this form must be filed. This form is used to request
-temporary orders in your divorce or legal separation case. After a party serves a Motion and Affidavit, the other
-party has 14 days to file a Counter Affidavit and serve it on the party who filed the Motion. The Court may require
-additional forms to accompany this document. You must check the requirements of the county in which you file.
-If more space is needed, add additional pages.
-
-                               MOTION AND AFFIDAVIT OR COUNTER AFFIDAVIT
-                                        FOR TEMPORARY ORDERS
-                                         WITHOUT ORAL HEARING
-
- Check one box below to show whether you are filing a (A) Motion and Affidavit or (B) Counter Affidavit.
-     (A) Motion and Affidavit
-                                                              (name), the Movant, files this Motion and
-       Affidavit under Civ.R. 75(N) and/or under R.C. 3109.043 to request the temporary orders checked here.
-
-       Check only those that apply.                     Residential parenting rights (custody)
-                                                        Parenting time (companionship or visitation)
-                                                        Child support
-                                                        Spousal support (if married)
-                                                        Payment of debts and/or expenses
-                                                        Other: ________________________________________
-
-       THE OTHER PARTY HAS FOURTEEN (14) DAYS FROM THE DATE ON WHICH THIS MOTION IS
-       SERVED TO FILE A COUNTER AFFIDAVIT AND SERVE IT UPON THE PARTY WHO FILED THE
-       MOTION. (See below)
-
-       (B) Counter Affidavit
-       Movant files this Counter Affidavit in response to a Motion and Affidavit.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form – Affidavit 5
- MOTION AND AFFIDAVIT OR COUNTER AFFIDAVIT FOR
- TEMPORARY ORDERS WITHOUT ORAL HEARING
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                   Page 1 of 5
-
-     Complete the following information, whether filing Motion and Affidavit or Counter Affidavit.
-     (Check all that apply)
-
-1.               The parties are living separately.
-                 Date of separation is                    .
-                 The parties are living together.
-                 The parties have no minor children. (Skip to number 6)
-                 The parties have (a) minor child(ren) who was/were born from or adopted during this relationship.
-                 (List child(ren) here)
-                        Name                               Date of birth                    Living with
-
-                 In addition to the above child(ren),
-                             Movant has __________________ other biological or adopted minor child(ren).
-                             Other party has _______________ other biological or adopted minor child(ren).
-                             There is/are __________________ adult(s) in Movant’s household.
-
-2.        Movant’s child(ren) attend(s) school in:
-                _________________________________ public school district
-                Other: (Explain)
-                All children do not attend school in the same district. (Explain)
-
-3.               Movant requests to be named the temporary residential parent and/or legal custodian of the
-                 child(ren): (Specify child(ren) if request is not for all child(ren))
-
-                 Movant does not object to the other parent or party being named the temporary residential parent
-                 and/or legal custodian of the child(ren): (Specify child(ren) if request is not for all child(ren))
-
-4.               Movant has reached an agreement regarding parenting time (companionship or visitation) with the
-                 other parent or party as follows:
-
-      Supreme Court of Ohio
-      Uniform Domestic Relations Form – Affidavit 5
-      MOTION AND AFFIDAVIT OR COUNTER AFFIDAVIT FOR
-      TEMPORARY ORDERS WITHOUT ORAL HEARING
-      Approved under Ohio Civil Rule 84
-      Amended: June 1, 2021                                                                               Page 2 of 5
-
-                Movant wishes to exercise the following parenting time (companionship or visitation):
-
-                Movant wishes for the other parent or party to exercise the following parenting time (companionship
-                or visitation):
-
-                Movant requests that the other parent or party’s parenting time (companionship or visitation) be
-                supervised: (Explain the reason for request.)
-
-                Name of an appropriate supervisor
-
-5.              A Court or agency has made a child support order concerning the child(ren).
-                Name of Court/Agency
-                Date of Order
-                SETS No.
-
-6.       Movant requests the Court to order the other parent or party to pay:
-               $                                   child support per month
-                $                                 spousal support per month (only if married)
-                $                                 attorney fees, expert fees, Court costs
-                The following debts and/or expenses:
-
-7.              Movant requests the Court order the following other relief:
-
-8.              Movant is willing to attend mediation.
-                Movant is not willing to attend mediation.
-
-     Supreme Court of Ohio
-     Uniform Domestic Relations Form – Affidavit 5
-     MOTION AND AFFIDAVIT OR COUNTER AFFIDAVIT FOR
-     TEMPORARY ORDERS WITHOUT ORAL HEARING
-     Approved under Ohio Civil Rule 84
-     Amended: June 1, 2021                                                                               Page 3 of 5
-
-9.                   Movant requests the following Court services. (See local rules of Court for available services.)
-
-                     State specific reasons why Court services are required.
-
-                                                                  Attorney or Self Represented Party Signature
-                                                                  _____________________________________________
-                                                                  Printed Name
-                                                                  _____________________________________________
-                                                                  Address
-                                                                  _____________________________________________
-                                                                  City, State, Zip
-                                                                  ________________________________________________________
-                                                                  Phone Number
-                                                                  _____________________________________________
-                                                                  Fax Number
-                                                                  _____________________________________________
-                                                                  E-mail
-                                                                  _____________________________________________
-                                                                  Supreme Court Reg No. (if any)
-
-                                                OATH OR AFFIRMATION
-                                        (Do not sign until Notary Public is present)
-
-     I, (print name)_________________________________________, swear or affirm that I have read this Affidavit
-     and, to the best of my knowledge and belief, the facts and information stated in this Affidavit are true, accurate, and
-     complete. I understand that if I do not tell the truth, I may be subject to penalties for perjury.
-
-                                                                 Signature
-
-     STATE OF _______________ )
-                              ) SS
-     COUNTY OF _____________ )
-
-     Sworn to or affirmed before me by ________________________this _________day of ______________,
-     _________.
-
-                                                                 Signature of Notary Public
-
-                                                                 _____________________________________________
-                                                                 Printed Name of Notary Public
-
-                                                                 Commission Expiration Date:______________________
-
-                                                                 (Affix seal here)
-
-        Supreme Court of Ohio
-        Uniform Domestic Relations Form – Affidavit 5
-        MOTION AND AFFIDAVIT OR COUNTER AFFIDAVIT FOR
-        TEMPORARY ORDERS WITHOUT ORAL HEARING
-        Approved under Ohio Civil Rule 84
-        Amended: June 1, 2021                                                                                     Page 4 of 5
-
-                                           NOTICE OF HEARING
-          (Check with local Court to obtain a hearing date and time and for scheduling procedure)
-
-You are hereby given notice that this Motion for Temporary Orders will come before the Court for consideration
-on Affidavits only, without oral testimony, before Judge/Magistrate ___________________________________,
-at _________________ a.m./p.m. on _______________________________, 20_________.
-
-                                         CERTIFICATE OF SERVICE
-                                         (Check the boxes that apply)
-
-I delivered a copy of the:     Motion and Affidavit or    Counter Affidavit
-
-On:      (Date)                                                , 20
-
-To:      (Print name of other party’s attorney or, if there is no attorney, print name of the party)
-
-At:      (Print address or fax number)
-
-By:               As instructed in the Request for Service (Uniform Domestic Relations Form 31/Uniform
-                  Juvenile Form 10) filed with the Clerk of Courts
-                  Regular U.S. Mail
-                  Fax
-                  Hand Delivery
-                  Other:
-
-                                                              Signature
-
-  Supreme Court of Ohio
-  Uniform Domestic Relations Form – Affidavit 5
-  MOTION AND AFFIDAVIT OR COUNTER AFFIDAVIT FOR
-  TEMPORARY ORDERS WITHOUT ORAL HEARING
-  Approved under Ohio Civil Rule 84
-  Amended: June 1, 2021                                                                                  Page 5 of 5
-
-                              IN THE COURT OF COMMON PLEAS
-                      ___________________________ DIVISION
-                      ___________________________ COUNTY, OHIO
-
-                                                              Case No.
-Name
-                                                              Judge
-Street Address
-                                                              Magistrate
-City, State and Zip Code
-
-                                              Plaintiff
-
-                           vs.
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                              Defendant
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: This form is used to request a divorce if you and your spouse do not have (a) minor child(ren),
- adult child(ren) attending high school, or child(ren) with disabilities. Check to determine if you meet the residency
- requirement to file in this county. A Request for Service (Uniform Domestic Relations Form 31/Uniform Juvenile
- Form 10) must be filed with this form. The Court may require additional forms to accompany this document. You
- must check the requirements of the county in which you file. YOU MUST UPDATE THE CLERK OF COURTS
- IF ANY OF THE ABOVE CONTACT INFORMATION CHANGES.
-
-                            COMPLAINT FOR DIVORCE WITHOUT CHILDREN
-
- Now comes Plaintiff and states as follows:
-
- 1.    Plaintiff has been a resident of the State of Ohio for at least six (6) months immediately before filing this
-       Complaint.
-
- 2.       Plaintiff has been a resident of                                       County for at least ninety (90) days
-          immediately before filing this Complaint; OR
-          Defendant resides in                                        County where this Complaint is filed.
-
- 3.    Plaintiff and Defendant were married on                                                     (date of marriage)
-       in                                                                                 (city or county, and state).
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 6
- COMPLAINT FOR DIVORCE WITHOUT CHILDREN
- Approved under Ohio Civil Rule 84
-                                                                                                            Page 1 of 2
-
-4.      Neither party is pregnant OR     a party is pregnant.
-
-        Any child(ren) born from or adopted during this marriage or relationship, is/are now adults and
-     none are mentally or physically disabled and incapable of supporting or maintaining themselves.
-
-       Military Service:
-        Neither Plaintiff nor Defendant is an active-duty servicemember of the United States military.
-        Plaintiff and/or    Defendant is an active-duty servicemember of the United States military.
-
-7.   Plaintiff is entitled to a divorce from Defendant based upon the following grounds: (check all that apply)
-         Plaintiff and Defendant are incompatible.
-         Plaintiff and Defendant have lived separate and apart without cohabitation and without interruption for
-         one (1) year.
-         Plaintiff or Defendant had a Husband or Wife living at the time of the marriage.
-         Defendant has been willfully absent for one (1) year.
-         Defendant is guilty of adultery.
-         Defendant is guilty of extreme cruelty.
-         Defendant is guilty of fraudulent contract.
-         Defendant is guilty of gross neglect of duty.
-        Defendant is guilty of habitual drunkenness.
-        Defendant is imprisoned in a state or federal correctional institution at the time of filing this Complaint.
-        Defendant procured a divorce outside this state by virtue of which Defendant has been released from
-        the obligations of the marriage, while those obligations remain binding on Plaintiff.
-
-8    Plaintiff and Defendant are owners of real estate and/or personal property.
-
-Plaintiff requests that a divorce be granted from Defendant. Plaintiff further requests that the Court determine
-an equitable division of property and debts and order the following: (check all that apply)
-           Defendant pay spousal support;
-           Plaintiff be restored to the former name of: _______________________________________________;
-           Defendant pay Plaintiff’s attorney fees;
-           Defendant pay the Court costs of the proceeding;
-     and any further relief deemed proper.
-
-                                                          _______________________________________________________
-                                                          Attorney or Self Represented Party Signature
-                                                          _______________________________________________________
-                                                          Printed Name
-                                                          _______________________________________________________
-                                                          Address
-                                                          _______________________________________________________
-                                                          City, State, Zip
-                                                          ________________________________________________________
-                                                          Phone Number
-                                                          _______________________________________________________
-                                                          Fax Number
-                                                          _______________________________________________________
-                                                          E-mail
-                                                          _______________________________________________________
-                                                          Supreme Court Reg No. (if any)
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 6
-COMPLAINT FOR DIVORCE WITHOUT CHILDREN
-Approved under Ohio Civil Rule 84
-                                                                                                          Page 2 of 2
-
-                                  IN THE COURT OF COMMON PLEAS
-                              ______________________________ DIVISION
-                              ______________________________ COUNTY, OHIO
-
-                                                                 Case No.
-Name
-                                                                 Judge
-Street Address
-                                                                 Magistrate
-City, State and Zip Code
-
-                                                Plaintiff
-
-                            vs.
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                                Defendant
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: This form is used to request a divorce if you and your spouse have (a) minor child(ren), adult child(ren)
- attending high school, or child(ren) with disabilities, and/or a party is pregnant. Check to determine if you meet the
- residency requirement to file in this county. A Request for Service (Uniform Domestic Relations Form 31/Juvenile
- Form 10) and a Parenting Proceeding Affidavit (Uniform Domestic Relations Form - Affidavit 3) must be filed with
- this form. The Court may require additional forms to accompany this document. You must check the requirements
- of the county in which you file. YOU MUST UPDATE THE CLERK OF COURTS IF ANY OF THE ABOVE
- CONTACT INFORMATION CHANGES.
-
-                                  COMPLAINT FOR DIVORCE WITH CHILDREN
-
- Now comes Plaintiff and states as follows:
-
-  1.   Plaintiff has been a resident of the State of Ohio for at least six (6) months immediately before filing this
-       Complaint.
-
-  2.      Plaintiff has been a resident of                                         County for at least ninety (90) days
-          immediately before filing this Complaint; OR
-          The Defendant resides in                                       County where this Complaint is filed.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 7
- COMPLAINT FOR DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                       Page 1 of 3
-
- 3.   Plaintiff and Defendant were married on _____________________________________ (date of marriage)
-      in ______________________________________________________________(city or county, and state).
-
- 4.      Neither party is pregnant OR     a party is pregnant.
-
- 5.   Check all that apply: (If more space is needed, add additional pages)
-
-         The following child(ren) was/were born of the parties’ relationship prior to the marriage:
-                               Name of Child                                  Date of Birth
-
-         The following child(ren) was/were born from or adopted during this marriage:
-                               Name of Child                               Date of Birth
-
-         The following child(ren) was/were born from or adopted during this marriage or relationship and is/are
-         mentally or physically disabled and will be incapable of supporting or maintaining themselves:
-                               Name of Child                                 Date of Birth
-
-         The following child(ren) is/are subject to an existing order of parenting or support of another Court or
-      agency:
-                       Name of Child                             Date of Birth          Name of Court or Agency
-
-         One party is not the parent of the following child(ren) who was/were born during the marriage:
-                               Name of Child                                Date of Birth
-
- 6.   Military Service:
-
-          Neither Plaintiff nor Defendant is an active-duty servicemember of the United States military.
-          Plaintiff and/or    Defendant is an active-duty servicemember of the United States military.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 7
-COMPLAINT FOR DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                      Page 2 of 3
-
- 7.   Plaintiff is entitled to a divorce from Defendant based upon the following grounds: (check all that apply)
-          Plaintiff and Defendant are incompatible.
-          Plaintiff and Defendant have lived separate and apart without cohabitation and without interruption for
-          one (1) year.
-          Plaintiff or Defendant had a Husband or Wife living at the time of the marriage.
-          Defendant has been willfully absent for one (1) year.
-          Defendant is guilty of adultery.
-          Defendant is guilty of extreme cruelty.
-          Defendant is guilty of fraudulent contract.
-          Defendant is guilty of gross neglect of duty.
-          Defendant is guilty of habitual drunkenness.
-          Defendant is imprisoned in a state or federal correctional institution at the time of filing this Complaint.
-          Defendant procured a divorce outside this state by virtue of which Defendant has been released from the
-          obligations of the marriage, while those obligations remain binding on Plaintiff.
-
- 8.   Plaintiff and Defendant are owners of real estate and/or personal property.
-
-Plaintiff requests that a divorce be granted from Defendant. Plaintiff further requests that the Court determine an
-equitable division of property and debts and order the following: (check all that apply)
-            Plaintiff be designated the residential parent and legal custodian of the following minor child(ren):
-            _________________________________________________________________________________;
-            Defendant be designated the residential parent and legal custodian of the following minor child(ren):
-            _________________________________________________________________________________;
-            the non-residential parent be granted specific parenting time;
-            Plaintiff and Defendant be granted shared parenting of the following minor child(ren):
-            __________________________________________________________________________________
-            pursuant to a Shared Parenting Plan (Uniform Domestic Relations Form 20), which Plaintiff will prepare
-            and file with the Court;
-            Defendant pay child support, cash medical support, and health care expenses;
-            Defendant pay spousal support;
-            Plaintiff be restored to the former name of ____________________________________________;
-            Defendant pay Plaintiff’s attorney fees;
-            Defendant pay the Court costs of the proceeding;
-       and any further relief deemed proper.
-
-                                                            Attorney or Self Represented Party Signature
-                                                            ________________________________________________________
-                                                            Printed Name
-                                                            ________________________________________________________
-                                                            Address
-                                                            ________________________________________________________
-                                                            City, State, Zip
-                                                            ________________________________________________________
-                                                            Phone Number
-                                                            _______________________________________________________
-                                                            Fax Number
-                                                            _______________________________________________________
-                                                            E-mail
-                                                            _______________________________________________________
-                                                            Supreme Court Reg No. (if any)
-Supreme Court of Ohio
-Uniform Domestic Relations Form 7
-COMPLAINT FOR DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                       Page 3 of 3
-
-                                 IN THE COURT OF COMMON PLEAS
-                             ______________________________ DIVISION
-                             ______________________________ COUNTY, OHIO
-
-                                                              Case No.
-Name
-                                                              Judge
-Street Address
-                                                              Magistrate
-City, State and Zip Code
-
-                                             Plaintiff
-
-                           vs.
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                             Defendant
-
-WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-         It is highly recommended that you consult an attorney.
-Instructions: After a Complaint has been filed, this form is used by a Defendant to request a divorce if you and
-your spouse do not have (a) minor child(ren), adult child(ren) attending high school, or child(ren) with disabilities.
-A Request for Service (Uniform Domestic Relations Form 31/Juvenile Form 10) must be filed with this form. The
-Court may require additional forms to accompany this document. You must check the requirements of the county
-in which you file. YOU MUST UPDATE THE CLERK OF COURTS IF ANY OF THE ABOVE CONTACT
-INFORMATION CHANGES.
-
-                           COUNTERCLAIM FOR DIVORCE WITHOUT CHILDREN
-
- Now comes Defendant and states as follows:
-
-  1.   Plaintiff filed a Complaint for Divorce or a Complaint for Legal Separation.
-
-  2.   Plaintiff alleged proper jurisdiction and venue.
-
-  3.   Plaintiff and Defendant were married on                                                    (date of marriage)
-       in                                                                                 (city or county, and state).
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 8
- COUNTERCLAIM FOR DIVORCE WITHOUT CHILDREN
- Approved under Ohio Civil Rule 84
- (IIHFWLYH'DWH6HSWHPEHU                                                                        Page 1 of 3
-
- 4.      Neither party is pregnant OR      a party is pregnant.
-
-       Any child(ren) born from or adopted during this marriage or relationship is/are are now adults and none
-      arementally or physically disabled and incapable of supporting or maintaining themselves.
-
-    Military Service:
-          Neither Plaintiff nor Defendant is an active-duty servicemember of the United States military.
-          Plaintiff and/or    Defendant is an active-duty servicemember of the United States military.
-
- 7.   Defendant is entitled to a divorce from Plaintiff based upon the following grounds: (check all that apply)
-         Plaintiff and Defendant are incompatible.
-         Plaintiff and Defendant have lived separate and apart without cohabitation and without interruption for
-         one (1) year.
-         Plaintiff or Defendant had a Husband or Wife living at the time of the marriage.
-         Plaintiff has been willfully absent for one (1) year.
-         Plaintiff is guilty of adultery.
-         Plaintiff is guilty of extreme cruelty.
-         Plaintiff is guilty of fraudulent contract.
-         Plaintiff is guilty of gross neglect of duty.
-         Plaintiff is guilty of habitual drunkenness.
-         Plaintiff is imprisoned in a state or federal correctional institution at the time of filing the Complaint.
-         Plaintiff procured a divorce outside this state by virtue of which Plaintiff has been released from the
-         obligations of the marriage, while those obligations remain binding on Defendant.
-
- 8.   Plaintiff and Defendant are owners of real estate and/or personal property.
-
-Defendant requests that a divorce be granted from Plaintiff. Defendant further requests that the Court determine
-an equitable division of property and debts and order the following: (check all that apply)
-          Plaintiff pay spousal support;
-          Defendant be restored to the former name of ____________________________________________;
-          Plaintiff pay Defendant’s attorney fees;
-          Plaintiff pay the court costs of the proceeding;
-     and any further relief deemed proper.
-
-                                                         Attorney or Self Represented Party Signature
-                                                         __________________________________________________________
-                                                         Printed Name
-                                                         __________________________________________________________
-                                                         Address
-                                                         __________________________________________________________
-                                                         City, State, Zip
-                                                         __________________________________________________________
-                                                         Phone Number
-                                                         __________________________________________________________
-                                                         Fax Number
-                                                         __________________________________________________________
-                                                         E-mail
-                                                         __________________________________________________________
-                                                         Supreme Court Reg No. (if any)
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 8
-COUNTERCLAIM FOR DIVORCE WITHOUT CHILDREN
-Approved under Ohio Civil Rule 84
-(IIHFWLYH'DWH6HSWHPEHU                                                                        Page 2 of 3
-
-                                         CERTIFICATE OF SERVICE
-                                         (Check the boxes that apply)
-
-Defendant delivered a copy of the Counterclaim for Divorce without Children.
-
-On:      (Date)                                                , 20
-
-To:      (Print name of other party’s attorney or, if there is no attorney, print name of the party)
-
-At:      (Print address or fax number)
-
-By:               As instructed in the Request for Service (Uniform Domestic Relations Form 31/Juvenile Form 10)
-                  filed with the Clerk of Courts
-                  Regular U.S. Mail
-                  Fax
-                  Hand Delivery
-                  Other:
-
-                                                              Signature
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 8
-COUNTERCLAIM FOR DIVORCE WITHOUT CHILDREN
-Approved under Ohio Civil Rule 84
-(IIHFWLYH'DWH6HSWHPEHU                                                                    Page 3 of 3
-
-                                 IN THE COURT OF COMMON PLEAS
-                             ______________________________ DIVISION
-                             ______________________________ COUNTY, OHIO
-
-                                                               Case No.
-Name
-                                                               Judge
-Street Address
-                                                               Magistrate
-City, State and Zip Code
-
-                                              Plaintiff
-
-                           vs.
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                              Defendant
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: After a Complaint has been filed, this form is used by a Defendant to request a divorce if you and
- your spouse have (a) minor child(ren), adult child(ren) attending high school, or child(ren) with disabilities, and/or
- a party is pregnant. A Request for Service (Uniform Domestic Relations Form 31/Juvenile Form 10) and a
- Parenting Proceeding Affidavit (Uniform Domestic Relations Form - Affidavit 3) must be filed with this form. The
- Court may require additional forms to accompany this document. You must check the requirements of the county
- in which you file. YOU MUST UPDATE THE CLERK OF COURTS IF ANY OF THE ABOVE CONTACT
- INFORMATION CHANGES.
-
-                            COUNTERCLAIM FOR DIVORCE WITH CHILDREN
-
- Now comes Defendant and states as follows:
-
-  1.   Plaintiff filed a Complaint for Divorce or a Complaint for Legal Separation.
-
-  2.   Plaintiff alleged proper jurisdiction and venue.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 9
- COUNTERCLAIM FOR DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Effective Date: June 1, 2021                                                                                Page 1 of 4
-
- 3.   Plaintiff and Defendant were married on                                                    (date of marriage)
-      in                                                                                (city or county, and state).
-
- 4.      Neither party is pregnant OR     a party is pregnant.
-
- 5.   Check all that apply: (If more space is needed, add additional pages)
-
-         The following child(ren) was/were born of the parties’ relationship prior to the marriage:
-                                Name of Child                              Date of Birth
-
-         The following child(ren) was/were born from or adopted during this marriage:
-                                Name of Child                           Date of Birth
-
-         The following child(ren) was/were born from or adopted during this marriage or relationship and is/are
-         mentally or physically disabled and will be incapable of supporting or maintaining themselves:
-                                Name of Child                             Date of Birth
-
-         The following child(ren) is/are subject to an existing order of parenting or support of another Court or
-      agency:
-                       Name of Child                            Date of Birth          Name of Court or Agency
-
-         One party is not the parent of the following child(ren) who was/were born during the marriage:
-                                Name of Child                             Date of Birth
-
- 6.   Military Service:
-
-          Neither Plaintiff nor Defendant is an active-duty servicemember of the United States military.
-          Plaintiff and/or    Defendant is an active-duty servicemember of the United States military.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 9
-COUNTERCLAIM FOR DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Effective Date: June 1, 2021                                                                               Page 2 of 4
-
- 7.   Defendant is entitled to a divorce from Plaintiff based upon the following grounds: (check all that apply)
-          Plaintiff and Defendant are incompatible.
-          Plaintiff and Defendant have lived separate and apart without cohabitation and without interruption for
-          one (1) year.
-          Plaintiff or Defendant had a Husband or Wife living at the time of the marriage.
-          Plaintiff has been willfully absent for one (1) year.
-          Plaintiff is guilty of adultery.
-          Plaintiff is guilty of extreme cruelty.
-          Plaintiff is guilty of fraudulent contract.
-          Plaintiff is guilty of gross neglect of duty.
-          Plaintiff is guilty of habitual drunkenness.
-          Plaintiff is imprisoned in a state or federal correctional institution at the time of filing the Complaint.
-          Plaintiff procured a divorce outside this state by virtue of which Plaintiff has been released from the
-          obligations of the marriage, while those obligations remain binding on Defendant.
-
- 8.   Plaintiff and Defendant are owners of real estate and/or personal property.
-
-Defendant requests that a divorce be granted from Plaintiff. Defendant further requests that the Court determine
-an equitable division of property and debts and order the following: (check all that apply)
-          Plaintiff be designated the residential parent and legal custodian of the following minor child(ren):
-          ________________________________________________________________________________;
-          Defendant be designated the residential parent and legal custodian of the following minor child(ren):
-          ________________________________________________________________________________;
-          the non-residential parent be granted specific parenting time;
-          Plaintiff and Defendant be granted shared parenting of the following minor child(ren):
-          ________________________________________________________________________________
-          pursuant to a Shared Parenting Plan (Uniform Domestic Relations Form 20), which Defendant will
-          prepare and file with the Court;
-          Plaintiff pay child support, cash medical support, and health care expenses;
-          Plaintiff pay spousal support;
-          Defendant be restored to the former name of ____________________________________________;
-          Plaintiff pay Defendant’s attorney fees;
-          Plaintiff pay the court costs of the proceeding;
-      and any further relief deemed proper.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 9
-COUNTERCLAIM FOR DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Effective Date: June 1, 2021                                                                               Page 3 of 4
-
-                                                           Attorney or Self Represented Party Signature
-                                                           ________________________________________________________
-                                                           Printed Name
-                                                           ________________________________________________________
-                                                           Address
-                                                           ________________________________________________________
-                                                           City, State, Zip
-                                                           ________________________________________________________
-                                                           Phone Number
-                                                           ________________________________________________________
-                                                           Fax Number
-                                                           ________________________________________________________
-                                                           E-mail
-                                                           ________________________________________________________
-                                                           Supreme Court Reg No. (if any)
-
-                                         CERTIFICATE OF SERVICE
-                                         (Check the boxes that apply)
-
-Defendant delivered a copy of the Counterclaim for Divorce with Children.
-
-On:      (Date)                                                , 20
-
-To:      (Print name of other party’s attorney or, if there is no attorney, print name of the party)
-
-At:      (Print address or fax number)
-
-By:               As instructed in the Request for Service (Uniform Domestic Relations Form 31/Juvenile Form 10)
-                  filed with the Clerk of Courts
-                  Regular U.S. Mail
-                  Fax
-                  Hand Delivery
-                  Other:
-
-                                                              Signature
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 9
-COUNTERCLAIM FOR DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Effective Date: June 1, 2021                                                                              Page 4 of 4
-
-                                 IN THE COURT OF COMMON PLEAS
-                             ______________________________ DIVISION
-                             ______________________________ COUNTY, OHIO
-
-                                                               Case No.
-Name
-                                                               Judge
-Street Address
-                                                               Magistrate
-City, State and Zip Code
-
-                                             Plaintiff
-
-                           vs.
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                             Defendant
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: This form is used in response to a filing of a Complaint for Divorce without Children, and allows you
- to agree with or dispute the statements made in the Complaint for Divorce without Children. The Court may require
- additional forms to accompany this document. You must check the requirements of the county in which you file.
- YOU MUST UPDATE THE CLERK OF COURTS IF ANY OF THE ABOVE CONTACT INFORMATION
- CHANGES.
-
-                          ANSWER TO COMPLAINT FOR DIVORCE WITHOUT CHILDREN
-
- In Answer to Plaintiff’s Complaint for Divorce, Defendant states as follows:
-
- ADMIT     DENY
-                     1.    Plaintiff has been a resident of the State of Ohio for at least six (6) months immediately
-                           before filing the Complaint.
-
-                     2.    Plaintiff has been a resident of the County stated in the Complaint for at least ninety (90)
-                           days immediately before filing the Complaint; OR
-                           Defendant resides in the County where the Complaint was filed.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 10
- ANSWER TO COMPLAINT FOR DIVORCE WITHOUT CHILDREN
- Approved under Ohio Civil Rule 84
- (IIHFWLYH'DWH6HSWHPEHU                                                                          Page 1 of 3
-
-ADMIT   DENY
-                 3.   The date of Plaintiff and Defendant’s marriage stated in the Complaint.
-                      The place of Plaintiff and Defendant’s marriage stated in the Complaint.
-
-                 4.   Neither party is pregnant.
-                      A party is pregnant.
-
-                 5.   Any child(ren) born from or adopted during this marriage or relationship is/are now adults
-                      and none are mentally or physically disabled and incapable of supporting or maintaining
-                      themselves.
-
-                 6.   Plaintiff is an active-duty servicemember of the United States military.
-                      Defendant is an active-duty servicemember of the United States military.
-
-                 7.   Defendant further admits or denies the following grounds for divorce:
-                      Plaintiff and Defendant are incompatible.
-                      Plaintiff and Defendant have lived separate and apart without cohabitation and without
-                      interruption for one (1) year.
-                      Plaintiff or Defendant had a Husband or Wife living at the time of the marriage.
-                      Defendant has been willfully absent for one (1) year.
-                      Defendant is guilty of adultery.
-                      Defendant is guilty of extreme cruelty.
-                      Defendant is guilty of fraudulent contract.
-                      Defendant is guilty of gross neglect of duty.
-                      Defendant is guilty of habitual drunkenness.
-                      Defendant is imprisoned in a state or federal correctional institution at the time of filing
-                      the Complaint.
-                      Defendant procured a divorce outside this state by virtue of which Defendant has been
-                      released from the obligations of the marriage, while those obligations remain binding on
-                      Plaintiff.
-
-                 8.   Plaintiff and Defendant are owners of real estate and/or personal property.
-
-                 9.   Defendant denies any allegations not specifically admitted.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 10
-ANSWER TO COMPLAINT FOR DIVORCE WITHOUT CHILDREN
-Approved under Ohio Civil Rule 84
-(IIHFWLYH'DWH6HSWHPEHU                                                                      Page 2 of 3
-
-Defendant requests: (select one)
-                  the Complaint for Divorce be dismissed OR
-                  a divorce be granted
-           and any further relief deemed proper.
-
-                                                          Attorney or Self Represented Party Signature
-
-                                                          __________________________________________________________
-                                                          Printed Name
-
-                                                          __________________________________________________________
-                                                          Address
-
-                                                          __________________________________________________________
-                                                          City, State, Zip
-
-                                                          __________________________________________________________
-                                                          Phone Number
-
-                                                          __________________________________________________________
-                                                          Fax Number
-
-                                                          __________________________________________________________
-                                                          E-mail
-
-                                                          __________________________________________________________
-                                                          Supreme Court Reg No. (if any)
-
-                                           CERTIFICATE OF SERVICE
-                                           (Check the boxes that apply)
-
-Defendant delivered a copy of the Answer to Complaint for Divorce without Children
-
-On: (Date)                                                 ,       20
-
-To: (Print name of other party’s attorney or, if there is no attorney, print name of the party.)
-
-At:   (Print address or fax number)
-
-By:          As instructed in the Request for Service (Uniform Domestic Relations Form 31/Uniform Juvenile
-             Form 10) filed with the Clerk of Courts
-             Regular U.S. Mail
-             Fax
-             Hand Delivery
-             Other:
-
-                                                          Signature
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 10
-ANSWER TO COMPLAINT FOR DIVORCE WITHOUT CHILDREN
-Approved under Ohio Civil Rule 84
-(IIHFWLYH'DWH6HSWHPEHU                                                                       Page 3 of 3
-
-                                 IN THE COURT OF COMMON PLEAS
-                             ______________________________ DIVISION
-                             ______________________________ COUNTY, OHIO
-
-                                                               Case No.
-Name
-                                                               Judge
-Street Address
-                                                               Magistrate
-City, State and Zip Code
-
-                                             Plaintiff
-
-                           vs.
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                             Defendant
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: This form is used in response to a filing of a Complaint for Divorce with Children, and allows you to
- agree with or dispute the statements made in the Complaint for Divorce with Children. The Court may require
- additional forms to accompany this document. You must check the requirements of the county in which you file.
- YOU MUST UPDATE THE CLERK OF COURTS IF ANY OF THE ABOVE CONTACT INFORMATION
- CHANGES.
-
-                           ANSWER TO COMPLAINT FOR DIVORCE WITH CHILDREN
-
- In Answer to Plaintiff’s Complaint for Divorce, Defendant states as follows:
-
- ADMIT     DENY
-                     1.    Plaintiff has been a resident of the State of Ohio for at least six (6) months immediately
-                           before filing the Complaint.
-
-                     2.    Plaintiff has been a resident of the County stated in the Complaint for at least ninety (90)
-                           days immediately before filing the Complaint; OR
-                           Defendant resides in the County where the Complaint was filed.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 11
- ANSWER TO COMPLAINT FOR DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                       Page 1 of 3
-
-ADMIT    DENY
-                  3.   The date of Plaintiff and Defendant’s marriage stated in the Complaint.
-                       The place of Plaintiff and Defendant’s marriage stated in the Complaint.
-
-                  4.   Neither party is pregnant.
-                       A party is pregnant.
-
-                  5.   The child(ren) stated in the Complaint was/were born of the relationship prior to the
-                       marriage.
-                       The child(ren) stated in the Complaint was/were born from or adopted during this
-                       marriage.
-                       The child(ren) stated in the Complaint was/were born from or adopted during this
-                       marriage or relationship and is/are mentally or physically disabled and will be incapable
-                       of supporting or maintaining themselves.
-                       The child(ren) stated in the Complaint is/are subject to an existing order of parenting or
-                       support of another Court or agency.
-                       One party is not the parent of the child(ren) stated in the Complaint who was/were born
-                       during the marriage.
-
-                  6.   Plaintiff is an active-duty servicemember of the United States military.
-                       Defendant is an active-duty servicemember of the United States military.
-
-                  7.   Defendant further admits or denies the following grounds for divorce:
-                       Plaintiff and Defendant are incompatible.
-                       Plaintiff and Defendant have lived separate and apart without cohabitation and without
-                       interruption for one (1) year.
-                       Plaintiff or Defendant had a Husband or Wife living at the time of the marriage.
-                       Defendant has been willfully absent for one (1) year.
-                       Defendant is guilty of adultery.
-                       Defendant is guilty of extreme cruelty.
-                       Defendant is guilty of fraudulent contract.
-                       Defendant is guilty of gross neglect of duty.
-                       Defendant is guilty of habitual drunkenness.
-                       Defendant is imprisoned in a state or federal correctional institution at the time of filing
-                       the Complaint.
-                       Defendant procured a divorce outside this state by virtue of which Defendant has been
-                       released from the obligations of the marriage, while those obligations remain binding on
-                       Plaintiff.
-
-                  8.   Plaintiff and Defendant are owners of real estate and/or personal property.
-
-                  9.   Defendant denies any allegations not specifically admitted.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 11
-ANSWER TO COMPLAINT FOR DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                    Page 2 of 3
-
-Defendant requests: (select one)
-                  the Complaint for Divorce be dismissed OR
-                  a divorce be granted
-           and any further relief deemed proper.
-
-                                                           Attorney or Self Represented Party Signature
-                                                           _________________________________________________________
-                                                           Printed Name
-                                                           _________________________________________________________
-                                                           Address
-                                                           _________________________________________________________
-                                                           City, State, Zip
-                                                           _________________________________________________________
-                                                           Phone Number
-                                                           _________________________________________________________
-                                                           Fax Number
-                                                           _________________________________________________________
-                                                           E-mail
-                                                           _________________________________________________________
-                                                           Supreme Court Reg No. (if any)
-
-                                         CERTIFICATE OF SERVICE
-                                         (Check the boxes that apply)
-
-Defendant delivered a copy of the Answer to Complaint for Divorce with Children.
-
-On:      (Date)                                                , 20
-
-To:      (Print name of other party’s attorney or, if there is no attorney, print name of the party)
-
-At:      (Print address or fax number)
-
-By:               As instructed in the Request for Service (Uniform Domestic Relations Form 31/Juvenile Form 10)
-                  filed with the Clerk of Courts
-                  Regular U.S. Mail
-                  Fax
-                  Hand Delivery
-                  Other:
-
-                                                              Signature
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 11
-ANSWER TO COMPLAINT FOR DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                     Page 3 of 3
-
-                                  IN THE COURT OF COMMON PLEAS
-                              ______________________________ DIVISION
-                              ______________________________ COUNTY, OHIO
-
-                                                                Case No.
-Name
-                                                                Judge
-Street Address
-                                                                Magistrate
-City, State and Zip Code
-
-                                              Plaintiff
-
-                            vs.
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                              Defendant
-
-WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-         It is highly recommended that you consult an attorney.
-Instructions: This form is used in response to a filing of a Counterclaim for Divorce without Children, and allows you
-to agree with or dispute the statements made in the Counterclaim for Divorce without Children. The Court may
-require additional forms to accompany this document. You must check the requirements of the county in which you
-file. YOU MUST UPDATE THE CLERK OF COURTS IF ANY OF THE ABOVE CONTACT INFORMATION
-CHANGES.
-
-                    REPLY TO COUNTERCLAIM FOR DIVORCE WITHOUT CHILDREN
-
- In Reply to Defendant’s Counterclaim for Divorce, Plaintiff states as follows:
-
-                      1.   Plaintiff filed a Complaint for Divorce or a Complaint for Legal Separation
-
-                      2.   Plaintiff alleged proper jurisdiction and venue.
-
- ADMIT     DENY
-                      3.   The date of Plaintiff and Defendant’s marriage stated in the Counterclaim.
-                           The place of Plaintiff and Defendant’s marriage stated in the Counterclaim.
-
-   Supreme Court of Ohio
-   Uniform Domestic Relations Form 12
-   REPLY TO COUNTERCLAIM FOR DIVORCE WITHOUT CHILDREN
-   Approved under Ohio Civil Rule 84
-   Effective Date: June 1, 2021                                                                             Page 1 of 3
-
-ADMIT   DENY
-                 4.   Neither party is pregnant.
-                      A party is pregnant.
-
-                 5.   Any child(ren) born from or adopted during this marriage or relationship is/are now adults
-                      and none are mentally or physically disabled and incapable of supporting or maintaining
-                      themselves.
-
-                 6.   Plaintiff is an active-duty servicemember of the United States military.
-                      Defendant is an active-duty servicemember of the United States military.
-
-                 7.   Plaintiff further admits or denies the following grounds for divorce:
-                      Plaintiff and Defendant are incompatible.
-                      Plaintiff and Defendant have lived separate and apart without cohabitation and without
-                      interruption for one (1) year.
-                      Plaintiff or Defendant had a Husband or Wife living at the time of the marriage.
-                      Plaintiff has been willfully absent for one (1) year.
-                      Plaintiff is guilty of adultery.
-                      Plaintiff is guilty of extreme cruelty.
-                      Plaintiff is guilty of fraudulent contract.
-                      Plaintiff is guilty of gross neglect of duty.
-                      Plaintiff is guilty of habitual drunkenness.
-                      Plaintiff is imprisoned in a state or federal correctional institution at the time of the filing the
-                      Complaint.
-                      Plaintiff procured a divorce outside this state by virtue of which Plaintiff has been released
-                      from the obligations of the marriage, while those obligations remain binding on Defendant.
-
-                 8.   Plaintiff and Defendant are owners of real estate and/or personal property.
-
-                 9.   Plaintiff denies any allegations not specifically admitted.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 12
- REPLY TO COUNTERCLAIM FOR DIVORCE WITHOUT CHILDREN
- Approved under Ohio Civil Rule 84
- Effective Date: June 1, 2021                                                                                  Page 2 of 3
-
-The Plaintiff requests:
-                    the Counterclaim for Divorce be dismissed OR
-                    a divorce be granted
-             and any further relief deemed proper.
-
-                                                            Attorney or Self Represented Party Signature
-                                                            _________________________________________________________
-                                                            Printed Name
-                                                            _________________________________________________________
-                                                            Address
-                                                            _________________________________________________________
-                                                            City, State, Zip
-                                                            _________________________________________________________
-                                                            Phone Number
-                                                            _________________________________________________________
-                                                            Fax Number
-                                                            _________________________________________________________
-                                                            E-mail
-                                                            _________________________________________________________
-                                                            Supreme Court Reg No. (if any)
-
-                                            CERTIFICATE OF SERVICE
-                                            (Check the boxes that apply)
-
-Plaintiff delivered a copy of the Reply to Counterclaim for Divorce without Children.
-
-On:         (Date)                                                , 20
-
-To:         (Print name of other party’s attorney or, if there is no attorney, print name of the party)
-
-At:         (Print address or fax number)
-
-By:                  As instructed in the Request for Service (Uniform Domestic Relations Form 31/Juvenile Form
-                     10) filed with the Clerk of Courts
-                     Regular U.S. Mail
-                     Fax
-                     Hand Delivery
-                     Other:
-
-                                                                 Signature
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 12
- REPLY TO COUNTERCLAIM FOR DIVORCE WITHOUT CHILDREN
- Approved under Ohio Civil Rule 84
- Effective Date: June 1, 2021                                                                             Page 3 of 3
-
-                                IN THE COURT OF COMMON PLEAS
-                            ______________________________ DIVISION
-                            ______________________________ COUNTY, OHIO
-
-                                                               Case No.
-Name
-                                                               Judge
-Street Address
-                                                               Magistrate
-City, State and Zip Code
-
-                                             Plaintiff
-
-                            vs.
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                             Defendant
-
-WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-         It is highly recommended that you consult an attorney.
-Instructions: This form is used in response to a filing of a Counterclaim for Divorce with Children, and allows
-you to agree with or dispute the statements made in the Counterclaim for Divorce with Children. The Court may
-require additional forms to accompany this document. You must check the requirements of the county in which
-you file. YOU MUST UPDATE THE CLERK OF COURTS IF ANY OF THE ABOVE CONTACT INFORMATION
-CHANGES.
-
-                          REPLY TO COUNTERCLAIM FOR DIVORCE WITH CHILDREN
-
- In Reply to Defendant’s Counterclaim for Divorce, Plaintiff states as follows:
-
-                     1.    Plaintiff filed a Complaint for Divorce or a Complaint for Legal Separation.
-
-                     2.    Plaintiff alleged proper jurisdiction and venue.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 13
- REPLY TO COUNTERCLAIM FOR DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Effective Date: June 1, 2021                                                                             Page 1 of 3
-
-ADMIT    DENY
-                  3.   The date of Plaintiff and Defendant’s marriage stated in the Counterclaim.
-                       The place of Plaintiff and Defendant’s marriage stated in the Counterclaim.
-
-                  4.   Neither party is pregnant.
-                       A party is pregnant.
-
-                  5.   The child(ren) stated in the Counterclaim was/were born of the relationship prior to the
-                       marriage.
-                       The child(ren) stated in the Counterclaim was/were born from or adopted during this
-                       marriage.
-                       The child(ren) stated in the Counterclaim was/were born from or adopted during this
-                       marriage or relationship and is/are mentally or physically disabled and will be incapable
-                       of supporting or maintaining themselves.
-                       The child(ren) stated in the Counterclaim is/are subject to an existing order of parenting
-                       or support of another Court or agency.
-                       One party is not the parent of the child(ren) stated in the Counterclaim who was/were
-                       born during the marriage.
-
-                  6.   Plaintiff is an active-duty servicemember of the United States military.
-                       Defendant is an active-duty servicemember of the United States military.
-
-                  7.   Plaintiff further admits or denies the following grounds for divorce:
-                       Plaintiff and Defendant are incompatible.
-                       Plaintiff and Defendant have lived separate and apart without cohabitation and without
-                       interruption for one (1) year.
-                       Plaintiff or Defendant had a Husband or Wife living at the time of the marriage.
-                       Plaintiff has been willfully absent for one (1) year.
-                       Plaintiff is guilty of adultery.
-                       Plaintiff is guilty of extreme cruelty.
-                       Plaintiff is guilty of fraudulent contract.
-                       Plaintiff is guilty of gross neglect of duty.
-                       Plaintiff is guilty of habitual drunkenness.
-                       Plaintiff is imprisoned in a state or federal correctional institution at the time of the filing
-                       the Complaint.
-                       Plaintiff procured a divorce outside this state by virtue of which Plaintiff has been
-                       released from the obligations of the marriage, while those obligations remain binding
-                       on Defendant.
-
-                  8.   Plaintiff and Defendant are owners of real estate and/or personal property.
-
-                  9.   Plaintiff denies any allegations not specifically admitted.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 13
-REPLY TO COUNTERCLAIM FOR DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Effective Date: June 1, 2021                                                                                 Page 2 of 3
-
-Plaintiff requests:
-                   the Counterclaim for Divorce be dismissed OR
-                   a divorce be granted
-               and any further relief deemed proper.
-
-                                                         Attorney or Self Represented Party Signature
-                                                         ________________________________________________________
-                                                         Printed Name
-                                                         ________________________________________________________
-                                                         Address
-                                                         ________________________________________________________
-                                                         City, State, Zip
-                                                         ________________________________________________________
-                                                         Phone Number
-                                                         ________________________________________________________
-                                                         Fax Number
-                                                         ________________________________________________________
-                                                         E-mail
-                                                         ________________________________________________________
-                                                         Supreme Court Reg No. (if any)
-
-                                          CERTIFICATE OF SERVICE
-                                          (Check the boxes that apply)
-
-Plaintiff delivered a copy of the Reply to Counterclaim for Divorce with Children.
-
-On:       (Date)                                                , 20
-
-To:       (Print name of other party’s attorney or, if there is no attorney, print name of the party)
-
-At:       (Print address or fax number)
-
-By:                As instructed in the Request for Service (Uniform Domestic Relations Form 31/Juvenile
-                   Form 10) filed with the Clerk of Courts
-                   Regular U.S. Mail
-                   Fax
-                   Hand Delivery
-                   Other:
-
-                                                                Signature
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 13
-REPLY TO COUNTERCLAIM FOR DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Effective Date: June 1, 2021                                                                            Page 3 of 3
-
-                                    ,17+(&28572)&200213/($6
-                                BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB',9,6,21
-                            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB&2817<2+,2
-  
-                                                            &DVH1R 
-1DPH                                                       
-                                                            -XGJH
-6WUHHW$GGUHVV                                              
-                                                            0DJLVWUDWH
-&LW\6WDWHDQG=LS&RGH                                    
-                                                            
-                                            3ODLQWLII       
-                                                            
-                            YV                                        
-                                                             
-                                                           
-1DPH                                                        
-                                                            
-6WUHHW$GGUHVV                                              
-                                                            
-&LW\6WDWHDQG=LS&RGH                                    
-                                                            
-                                            'HIHQGDQW       
-                                                             
-                   -8'*0(17(175<±'(&5((2)',925&(:,7+287&+,/'5(1
- 
-7KLV PDWWHU FDPH RQ IRU ILQDO KHDULQJ RQ BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBEHIRUH  -XGJH   0DJLVWUDWH
-BBBBBBBBBBBBBBBBBBBBBBBBBBBB XSRQ 3ODLQWLII¶V &RPSODLQW IRU 'LYRUFH ZLWKRXW &KLOGUHQ ILOHG RQ
-BBBBBBBBBBBBBBBBBBBBBBBDQGRU'HIHQGDQW¶V&RXQWHUFODLPILOHGRQBBBBBBBBBBBBBBBBBBBBBBBBBBBDQGXSRQ
-WKHIROORZLQJBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-                                                             
-                                                         ),1',1*6
- 
-8SRQDUHYLHZRIWKHUHFRUGWHVWLPRQ\DQGHYLGHQFHSUHVHQWHGWKH&RXUWPDNHVWKHIROORZLQJILQGLQJV
- 
-$     &KHFNDOOWKDWDSSO\
-           'HIHQGDQW ZDV SURSHUO\ VHUYHG ZLWK 6XPPRQV D FRS\ RI WKH &RPSODLQW DQG ERWK SDUWLHV UHFHLYHG
-           1RWLFHRI+HDULQJ
-          'HIHQGDQWILOHGD:DLYHURI6HUYLFH
-        
-           'HIHQGDQWILOHGDQ$QVZHUWR3ODLQWLII¶V&RPSODLQW
-             
-
-           'HIHQGDQWIDLOHGWRILOHDQ$QVZHUWR3ODLQWLII¶V&RPSODLQWRUSOHDGGHVSLWHEHLQJSURSHUO\VHUYHGZLWK
-           6XPPRQVDFRS\RIWKH&RPSODLQW
-
- 6XSUHPH&RXUWRI2KLR
- 8QLIRUP'RPHVWLF5HODWLRQV)RUP
- -8'*0(17(175<'(&5((2)',925&(:,7+287&+,/'5(1
- $SSURYHGXQGHU2KLR&LYLO5XOH
-             
- (IIHFWLYH'DWH6HSWHPEHU                                                                         3DJH RI
-
-           'HIHQGDQWILOHGD&RXQWHUFODLP
-           3ODLQWLIIILOHGD5HSO\WR'HIHQGDQW¶V&RXQWHUFODLP
-           3ODLQWLIIIDLOHGWRILOHD5HSO\WR'HIHQGDQW¶V&RXQWHUFODLP
-           
-%         3ODLQWLIIZDVSUHVHQWDWWKH+HDULQJ
-           BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBDSSHDUHGDVFRXQVHOIRU3ODLQWLII
-           3ODLQWLIIIDLOHGWRDSSHDU
-           'HIHQGDQWZDVSUHVHQWDWWKH+HDULQJ
-           BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB DSSHDUHGDVFRXQVHOIRU'HIHQGDQW
-           'HIHQGDQWIDLOHGWRDSSHDU
-        
-&      3ODLQWLIIZDVDUHVLGHQWRIWKH6WDWHRI2KLRIRUDWOHDVWVL[  PRQWKVLPPHGLDWHO\EHIRUHWKH&RPSODLQW
-         DQGRU&RXQWHUFODLPZDVZHUHILOHG
-        
-'   $WWKHWLPHWKH&RPSODLQWDQGRU&RXQWHUFODLPZDVZHUHILOHG
-           3ODLQWLIIZDVDUHVLGHQWRIWKLVFRXQW\IRUDWOHDVWQLQHW\  GD\VLPPHGLDWHO\EHIRUHWKHILOLQJ
-           'HIHQGDQWZDVDUHVLGHQWRIWKLVFRXQW\
-           9HQXHLVSURSHUEDVHGXSRQ BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-      
-(    7KLV&RXUWKDVMXULVGLFWLRQDQGYHQXHLVSURSHUWRGHWHUPLQHDOORIWKHLVVXHVUDLVHGE\WKHSOHDGLQJVDQG
-       PRWLRQV
-      
-)    3ODLQWLIIDQG'HIHQGDQWZHUHPDUULHGRQ                                                              GDWHRIPDUULDJH
-      LQ                                                                                       FLW\RUFRXQW\DQGVWDWH 
-      
-*    7KHWHUPLQDWLRQRIPDUULDJHLV WKHGDWHRI)LQDO+HDULQJRU WKHGDWH VSHFLILHG
-          
-          
-+    &KLOGUHQ
-          1HLWKHUSDUW\LVSUHJQDQW25 DSDUW\LVSUHJQDQW
-      
-       $Q\ FKLOG UHQ  ERUQ IURP RU DGRSWHG GXULQJ WKLV PDUULDJH RU UHODWLRQVKLS LVDUH QRZ DGXOWV DQG QRQH DUH
-      PHQWDOO\RUSK\VLFDOO\GLVDEOHGDQG LQFDSDEOHRIVXSSRUWLQJRUPDLQWDLQLQJWKHPVHOYHV
-      
-,    0LOLWDU\6HUYLFH
-           1HLWKHU3ODLQWLIIQRU'HIHQGDQWLVDQDFWLYHGXW\VHUYLFHPHPEHURIWKH8QLWHG6WDWHVPLOLWDU\
-            3ODLQWLIIDQGRU 'HIHQGDQWLVDQDFWLYHGXW\VHUYLFHPHPEHURIWKH8QLWHG6WDWHVPLOLWDU\KRZHYHU
-            DFWLYHGXW\VHUYLFHGLGQRWLPSDFWWKHPHPEHU VDELOLW\WRSURVHFXWHRUGHIHQGWKLVDFWLRQ
-      
--    7KHGLYRUFHVKRXOGEHJUDQWHGRQWKHIROORZLQJJURXQG V 
-       
-            3ODLQWLIIDQG'HIHQGDQWDUHLQFRPSDWLEOH
-             
-
-            3ODLQWLIIDQG'HIHQGDQWKDYHOLYHGVHSDUDWHDQGDSDUWZLWKRXWFRKDELWDWLRQDQGZLWKRXWLQWHUUXSWLRQIRU
-            RQH  \HDU
-           3ODLQWLIIRU 'HIHQGDQWKDGD+XVEDQGRU:LIHOLYLQJDWWKHWLPHRIWKHPDUULDJH
-           3ODLQWLIIRU 'HIHQGDQWKDVEHHQZLOOIXOO\DEVHQWIRURQH  \HDU
- 6XSUHPH&RXUWRI2KLR
- 8QLIRUP'RPHVWLF5HODWLRQV)RUP
- -8'*0(17(175<'(&5((2)',925&(:,7+287&+,/'5(1
- $SSURYHGXQGHU2KLR&LYLO5XOH
-             
- (IIHFWLYH'DWH6HSWHPEHU                                                                             3DJH RI
-
-                    3ODLQWLIIRU 'HIHQGDQWLVJXLOW\RIDGXOWHU\
-                    3ODLQWLIIRU 'HIHQGDQWLVJXLOW\RIH[WUHPHFUXHOW\
-                    3ODLQWLIIRU 'HIHQGDQWLVJXLOW\RIIUDXGXOHQWFRQWUDFW
-                    3ODLQWLIIRU 'HIHQGDQWLVJXLOW\RIJURVVQHJOHFWRIGXW\
-           
-                     3ODLQWLIIRU 'HIHQGDQWLVJXLOW\RIKDELWXDOGUXQNHQQHVV
-                        
-
-                     3ODLQWLII RU  'HIHQGDQW ZDV LPSULVRQHG LQ D VWDWH RU IHGHUDO FRUUHFWLRQDO LQVWLWXWLRQ DW WKH WLPH WKH
-           
-                      &RPSODLQWZDVILOHG
-                        
-
-                     3ODLQWLII RU  'HIHQGDQW SURFXUHG D GLYRUFH RXWVLGH WKLV VWDWH E\ YLUWXH RI ZKLFK   3ODLQWLII RU
-                         'HIHQGDQWKDVEHHQUHOHDVHGIURPWKHREOLJDWLRQVRIWKHPDUULDJHZKLOHWKRVHREOLJDWLRQVUHPDLQ
-                     ELQGLQJRQ 3ODLQWLIIRU 'HIHQGDQW
-         
-.            3ODLQWLII DQGRU  'HIHQGDQW WKURXJK WHVWLPRQ\ RU DIILGDYLW PDGH IXOO DQG FRPSOHWH GLVFORVXUH RI DOO
-                 PDULWDOSURSHUW\VHSDUDWHSURSHUW\DQGDQ\RWKHUDVVHWVGHEWVLQFRPHDQGH[SHQVHV
-             
-/         7KH&RXUWILQGVWKDW
-              WKHSDUWLHVSUHVHQWHGWKH&RXUWZLWKDZULWWHQ6HSDUDWLRQ$JUHHPHQWRUUHDGDVHWWOHPHQWRIDOOLVVXHV
-                 LQWRWKHUHFRUG7KHZULWWHQ6HSDUDWLRQ$JUHHPHQWLVDWWDFKHGKHUHWRDV([KLELW$7KH&RXUWILQGVWKH
-                 DJUHHPHQWWREHDIDLUDQGHTXLWDEOHGLYLVLRQRISURSHUW\DQGGHEWVDQGDQDSSURSULDWHUHVROXWLRQRIDOO
-                 LVVXHVNQRZLQJO\DQGYROXQWDULO\HQWHUHGLQWRE\WKHSDUWLHV
-             
-               D0DJLVWUDWH¶V'HFLVLRQZDVILOHGRQ BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-                    
-                            
-
-                       QRREMHFWLRQVKDYLQJEHHQILOHGWKH&RXUWDFFHSWVWKH0DJLVWUDWH¶VILQGLQJVRIIDFWDQGDGRSWVWKH
-                                
-
-                        UHFRPPHQGDWLRQVPDNLQJWKHPWKHRUGHURIWKH&RXUW                
-
-                       WKH&RXUWUXOHGXSRQDOOREMHFWLRQVWRWKH0DJLVWUDWH¶V'HFLVLRQE\DVHSDUDWH-XGJPHQW(QWU\
-                                                                                                                                       
-
-                     
-                       
-
-        
-                
-
-                WKHSDUWLHVGLGQRWSUHVHQWWKH&RXUWZLWKDZULWWHQ6HSDUDWLRQ$JUHHPHQWRUUHDGDVHWWOHPHQWRIDOO
-                 LVVXHVLQWRWKHUHFRUG%DVHGXSRQWKHHYLGHQFHSUHVHQWHGE\WKHSDUWLHVZKRDSSHDUHGWKH&RXUW
-                 PDNHVWKHILQGLQJVVHWIRUWKKHUHLQXSRQZKLFKLWPDNHVDIDLUDQGHTXLWDEOHGLYLVLRQRISURSHUW\DQG
-    
-                 GHEWVDQGDQDSSURSULDWHUHVROXWLRQRIDOOLVVXHVRIWKHSDUWLHV
-
-                    
-                      7KHSDUWLHVKDYHWKHIROORZLQJVHSDUDWHDVVHWV
-                               3DUW\                                $VVHW                                             9DOXH
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                     
-                     7KHSDUWLHVKDYHWKHIROORZLQJVHSDUDWHGHEWV
-                               3DUW\                                 'HEW                                             %DODQFH
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                     
-    6XSUHPH&RXUWRI2KLR
-    8QLIRUP'RPHVWLF5HODWLRQV)RUP
-    -8'*0(17(175<'(&5((2)',925&(:,7+287&+,/'5(1
-    $SSURYHGXQGHU2KLR&LYLO5XOH
-                
-    (IIHFWLYH'DWH6HSWHPEHU                                                                                        3DJH RI
-
-                 7KHSDUWLHVKDYHWKHIROORZLQJPDULWDODVVHWV
-                                              $VVHW                                                  9DOXH
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-       
-                 7KHSDUWLHVKDYHWKHIROORZLQJPDULWDOGHEWV
-                                               'HEW                                                %DODQFH
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                 
-       
-                 7KH&RXUWPDNHVWKHIROORZLQJILQGLQJVUHJDUGLQJWKHVSRXVDOVXSSRUWIDFWRUVVHWIRUWKLQ5& 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-        
-0      7KH&RXUWILQGVWKDW3ODLQWLIILQFXUUHGDWWRUQH\IHHVDQGOLWLJDWLRQH[SHQVHVLQWKHDPRXQWRI 
-         DQG'HIHQGDQWLQFXUUHGDWWRUQH\IHHVDQGOLWLJDWLRQH[SHQVHVLQWKHDPRXQWRI                      ,WLV
-        HTXLWDEOHWKDW(select one)
-            
-            
-
-                (DFKSDUW\SD\KLVRUKHUDWWRUQH\IHHVDQGOLWLJDWLRQ H[SHQVHVLIDQ\
-           
-                 3ODLQWLIISD\DOORUSDUWRI'HIHQGDQW¶VDWWRUQH\IHHVDQGOLWLJDWLRQH[SHQVHVDVIROORZV
-           
-                  
-                 
- 6XSUHPH&RXUWRI2KLR
- 8QLIRUP'RPHVWLF5HODWLRQV)RUP
- -8'*0(17(175<'(&5((2)',925&(:,7+287&+,/'5(1
- $SSURYHGXQGHU2KLR&LYLO5XOH
-             
- (IIHFWLYH'DWH6HSWHPEHU                                                                          3DJH RI
-
-             'HIHQGDQWSD\DOORUSDUWRI3ODLQWLII¶VDWWRUQH\IHHVDQGOLWLJDWLRQH[SHQVHVDVIROORZV
-              
-
-            
-         
-1       7KH&RXUWIXUWKHUILQGVWKDW 
-         
-         
-         
-                                                           
-                                                       -8'*0(17
-    
-%DVHGXSRQWKHILQGLQJVVHWIRUWKDERYHLWLVWKHUHIRUH25'(5('$'-8'*('DQG'(&5((' WKDW
-    
-),567',925&(*5$17('
-    3ODLQWLII 'HIHQGDQWLVDUHJUDQWHGDGLYRUFHRQWKHJURXQGVVHWIRUWKDERYH%RWKSDUWLHVDUHUHOHDVHGIURPWKH
-REOLJDWLRQV RI WKHLU PDUULDJH H[FHSW IRU WKRVH REOLJDWLRQV OLVWHG EHORZ RU DV VHW IRUWK LQ WKH DWWDFKHG
-    6HSDUDWLRQ$JUHHPHQW 0DJLVWUDWH¶V'HFLVLRQZKLFKLVLQFRUSRUDWHGLQWKLV-XGJPHQW(QWU\DVLIIXOO\UHZULWWHQ
-DQGRU DVLVVHWIRUWKKHUHLQ
-  
-6(&21'3523(57< 
-7KHSDUWLHV¶SURSHUW\VKDOOEHGLYLGHGDVIROORZV
-  
-$      3ODLQWLIILVDZDUGHGWKHIROORZLQJVHSDUDWHSURSHUW\
-         
-         
-         
-         
-         
-%       'HIHQGDQWLVDZDUGHGWKHIROORZLQJVHSDUDWHSURSHUW\
-           
-           
-           
-           
-           
-&      (DFKSDUW\LVDZDUGHGDOORIWKHKRXVHKROGJRRGVIXUQLWXUHIXUQLVKLQJVDQGRWKHUSHUVRQDOSURSHUW\FXUUHQWO\
-         LQWKHLUUHVSHFWLYHSRVVHVVLRQIUHHDQGFOHDURIDQ\FODLPRIWKHRWKHUSDUW\H[FHSWDVVSHFLILFDOO\VHWIRUWKLQ
-         6HFWLRQV'(DQG)EHORZ
-           
-'       3ODLQWLIILVDZDUGHGWKHIROORZLQJUHDOHVWDWHDQGLWHPVRISHUVRQDOSURSHUW\IUHHDQGFOHDUIURPDOOFODLPVRI
-          'HIHQGDQW
-         
-           
-           
-           
-           
-
-    6XSUHPH&RXUWRI2KLR
-    8QLIRUP'RPHVWLF5HODWLRQV)RUP
-    -8'*0(17(175<'(&5((2)',925&(:,7+287&+,/'5(1
-    $SSURYHGXQGHU2KLR&LYLO5XOH
-                
-    (IIHFWLYH'DWH6HSWHPEHU                                                                         3DJH RI
-
-(    'HIHQGDQWLVDZDUGHGWKHIROORZLQJUHDOHVWDWHDQGLWHPVRISHUVRQDOSURSHUW\IUHHDQGFOHDUIURPDOOFODLPV
-       RI3ODLQWLII
-        
-        
-        
-        
-        
-)    2WKHURUGHUVUHJDUGLQJSURSHUW\
-        
-        
-        
-        
-        
-*    7KHSDUWLHVVKDOOWDNHDOOQHFHVVDU\VWHSVWRWUDQVIHUOHJDOWLWOHDQGSRVVHVVLRQRISURSHUW\DQGWDNHDSSURSULDWH
-       DFWLRQVWRLPSOHPHQWDQGHIIHFWXDWHWKHGLYLVLRQRIUHWLUHPHQWDFFRXQWVZLWKLQWKLUW\  GD\VRIWKLV-XGJPHQW
-       (QWU\7KH&RXUWUHVHUYHVMXULVGLFWLRQRYHUWKHFRPSOHWLRQILOLQJTXDOLILFDWLRQDQGRUDSSURYDORIDQ\GRFXPHQW
-       QHFHVVDU\WRWUDQVIHUDVVHWV
-      
-+    2WKHURUGHUVUHJDUGLQJWUDQVIHUV
-        
-        
-        
-        
-
-7+,5''(%7
-7KHSDUWLHV¶GHEWVVKDOOEHGLYLGHGDVIROORZV
-  
-$   3ODLQWLIIVKDOOSD\WKHIROORZLQJGHEWVDQGKROG'HIHQGDQWKDUPOHVVIURPDOOFODLPV
-     
-     
-     
-     
-     
-     
-     
-%   'HIHQGDQWVKDOOSD\WKHIROORZLQJGHEWVDQGKROG3ODLQWLIIKDUPOHVVIURPDOOFODLPV
-       
-       
-       
-       
-       
-       
-       
-
- 6XSUHPH&RXUWRI2KLR
- 8QLIRUP'RPHVWLF5HODWLRQV)RUP
- -8'*0(17(175<'(&5((2)',925&(:,7+287&+,/'5(1
- $SSURYHGXQGHU2KLR&LYLO5XOH
-             
- (IIHFWLYH'DWH6HSWHPEHU                                                                         3DJH RI
-
-&      %DQNUXSWF\
-        7KH &RXUW KDV FRQWLQXLQJ MXULVGLFWLRQ WR GHWHUPLQH ZKHWKHU D GHEW DVVLJQHG WR D SDUW\ TXDOLILHV DV DQ
-         H[FHSWLRQWRGLVFKDUJHLQEDQNUXSWF\DFFRUGLQJWRIHGHUDOODZ
-         
-'      1HLWKHUSDUW\VKDOOLQFXUOLDELOLWLHVDJDLQVWWKHRWKHUSDUW\LQWKHIXWXUH
-
-)2857+63286$/6833257
-$  6SRXVDO6XSSRUW1RW$ZDUGHG
-          1HLWKHU3ODLQWLIIQRU'HIHQGDQWVKDOOSD\VSRXVDOVXSSRUWWRWKHRWKHUVXEMHFWWRDQ\MXULVGLFWLRQUHVHUYHG
-         LQ6HFWLRQ(EHORZ
-    
-%  6SRXVDO6XSSRUW$ZDUGHG
-          3ODLQWLII   'HIHQGDQW VKDOO SD\ VSRXVDO VXSSRUW WR          3ODLQWLII     'HIHQGDQW LQ WKH DPRXQW RI
-          BBBBBBBBBBBBBBBB SHU PRQWK FRPPHQFLQJ RQ BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB  6SRXVDO
-          VXSSRUWVKDOOFRQWLQXH IRUDSHULRGRIBBBBBBBBBBBBBBBBBBBBBBBBPRQWKV25 XQWLOIXUWKHURUGHU
-        RIWKLV&RXUW
-      
-&  0HWKRGRI3D\PHQWRI6SRXVDO6XSSRUW
-        6SRXVDOVXSSRUWSD\PHQWVVKDOOEHPDGHGLUHFWO\WR 3ODLQWLII 'HIHQGDQW
-                 
-
-         6SRXVDOVXSSRUWSD\PHQWVSOXVWZRSHUFHQW  SURFHVVLQJFKDUJHVKDOOEHPDGHWRWKH2KLR&KLOG
-          6XSSRUW3D\PHQW&HQWUDO32%R[&ROXPEXV2KLRDVDGPLQLVWHUHGWKURXJKWKH
-          BBBBBBBBBBBBBBBBBBBBBBBBB&RXQW\&KLOG6XSSRUW(QIRUFHPHQW$JHQF\E\ LQFRPHZLWKKROGLQJ
-         RU RWKHUBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-         
-'  7HUPLQDWLRQRI6SRXVDO6XSSRUW
-     6SRXVDOVXSSRUWVKDOOWHUPLQDWHHDUOLHUWKDQWKHDERYHVWDWHGGDWHXSRQ3ODLQWLII¶VRU'HIHQGDQW¶VGHDWKRULQ
-    WKHHYHQWRIWKHIROORZLQJ
-         7KHFRKDELWDWLRQRIWKHSHUVRQUHFHLYLQJVXSSRUWLQDUHODWLRQVKLSFRPSDUDEOHWRPDUULDJH
-         7KHUHPDUULDJHRIWKHSHUVRQUHFHLYLQJVXSSRUW
-         2WKHU specify  
-      
-(  5HVHUYDWLRQRI-XULVGLFWLRQ
-     8QGHU DOO FLUFXPVWDQFHV WKH &RXUW VKDOO UHWDLQ MXULVGLFWLRQ RYHU WKH LVVXH RI VSRXVDO VXSSRUW WR KHDU DQG
-     GHWHUPLQHD0RWLRQIRU5HOLHIIURP-XGJPHQWSXUVXDQWWR&LY5 % 
-     
-    2QRWKHUPDWWHUVLQYROYLQJVSRXVDOVXSSRUW check all that apply
-         7KH&RXUWVKDOOUHWDLQMXULVGLFWLRQWRPRGLI\WKHDPRXQWRIWKHVSRXVDOVXSSRUWRUGHU
-         7KH&RXUWVKDOO127UHWDLQMXULVGLFWLRQWRPRGLI\WKHDPRXQWRIWKHVSRXVDOVXSSRUWRUGHU
-         7KH&RXUWVKDOOUHWDLQMXULVGLFWLRQWRPRGLI\WKH GXUDWLRQRIWKHVSRXVDOVXSSRUWRUGHU
-                     
-
-         7KH&RXUWVKDOO127UHWDLQMXULVGLFWLRQWRPRGLI\WKHGXUDWLRQRIWKHVSRXVDOVXSSRUWRUGHU
-          
-
-            7KH&RXUWVKDOOUHWDLQMXULVGLFWLRQWRHVWDEOLVKRUPRGLI\WKHDPRXQWDQGRUGXUDWLRQRIVSRXVDOVXSSRUW
-              
-
-           LQWKHHYHQWHLWKHUSDUW\ILOHVEDQNUXSWF\
-  
-)  2WKHURUGHUVUHJDUGLQJVSRXVDOVXSSRUW
-     
-     
-     
-    6XSUHPH&RXUWRI2KLR
-    8QLIRUP'RPHVWLF5HODWLRQV)RUP
-    -8'*0(17(175<'(&5((2)',925&(:,7+287&+,/'5(1
-    $SSURYHGXQGHU2KLR&LYLO5XOH
-                
-    (IIHFWLYH'DWH6HSWHPEHU                                                                            3DJH RI
-    
-
-*       $UUHDUDJHRU2YHUSD\PHQW
-              $Q\WHPSRUDU\VSRXVDOVXSSRUWDUUHDUDJHRURYHUSD\PHQWVKDOO VXUYLYHWKLV-XGJPHQW(QWU\
-              $Q\WHPSRUDU\VSRXVDOVXSSRUWDUUHDUDJHRURYHUSD\PHQWVKDOO QRWVXUYLYHWKLV-XGJPHQW(QWU\
-              2WKHUBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-
-),)7+1$0(
-                                                                                                   LVUHVWRUHGWRWKH
-IRUPHUQDPHRI 
-
-6,;7+27+(525'(56
-  
-  
-  
-  
-6(9(17+7(0325$5<25'(56
-$OOWHPSRUDU\RUGHUVLQWKLVFDVHDUHWHUPLQDWHG
-
-(,*+7+3$<0(172)$77251(<)((6$1'/,7,*$7,21(;3(16(6 select one 
-     (DFKSDUW\VKDOOSD\KLVKHURZQDWWRUQH\IHHVDQGOLWLJDWLRQH[SHQVHVLIDQ\
-     3ODLQWLIIVKDOOSD\              RIDWWRUQH\IHHVDQGOLWLJDWLRQH[SHQVHVLQFXUUHGE\'HIHQGDQW7KHVDPH
- VKDOOEHSDLGDVIROORZV 
- 
-     'HIHQGDQWVKDOOSD\                   RIDWWRUQH\IHHVDQGOLWLJDWLRQH[SHQVHVLQFXUUHGE\3ODLQWLII7KHVDPH
- VKDOOEHSDLGDVIROORZV 
- 
-
-1,17+&2857&2676
-&RXUWFRVWVDUH
-     7D[HGWRWKHGHSRVLW&RXUWFRVWVGXHDERYHWKHGHSRVLWVKDOOEHSDLGDVIROORZV
-     
-     2WKHU specify  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 6XSUHPH&RXUWRI2KLR
- 8QLIRUP'RPHVWLF5HODWLRQV)RUP
- -8'*0(17(175<'(&5((2)',925&(:,7+287&+,/'5(1
- $SSURYHGXQGHU2KLR&LYLO5XOH
-             
- (IIHFWLYH'DWH6HSWHPEHU                                                                        3DJH RI
-
-7(17+&/(5.2)&28576
-7KH&OHUNRI&RXUWVVKDOOSURYLGH
-    DFHUWLILHGFRS\WR 
-    DILOHVWDPSHGFRS\WR
-  
-  
-                            
-                                                                   -8'*(
-                                                                                          
-                                                          
-                                                          
-3ODLQWLII6LJQDWXUH                                        'HIHQGDQW6LJQDWXUH 
-                                                            
-                                                           
-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-3ULQWHG1DPH                                               3ULQWHG1DPH
-                                                           
-                                                           
-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB        BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-3ODLQWLII¶V$WWRUQH\6LJQDWXUH                             'HIHQGDQW¶V$WWRUQH\6LJQDWXUH
-                                                           
-                                                           
-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-3ULQWHG1DPH                                               3ULQWHG1DPH
-                                                           
-                                                           
-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-6XSUHPH&RXUW5HJ1R                                      6XSUHPH&RXUW5HJ1R
-
-
-127,&(  7KLV LV D ILQDO DSSHDODEOH RUGHU  7KH &OHUN LV GLUHFWHG WR VHUYH XSRQ DOO SDUWLHV QRWLFH RI WKLV
--XGJPHQW(QWU\DQGLWVGDWHRIHQWU\XSRQWKHMRXUQDOLQDFFRUGDQFHZLWK&LY5 % LQWKHPDQQHUSURYLGHG
-LQ&LY5 % 
-    
-
-    6XSUHPH&RXUWRI2KLR
-    8QLIRUP'RPHVWLF5HODWLRQV)RUP
-    -8'*0(17(175<'(&5((2)',925&(:,7+287&+,/'5(1
-    $SSURYHGXQGHU2KLR&LYLO5XOH
-                
-    (IIHFWLYH'DWH6HSWHPEHU                                                                          3DJH RI
-    
-
-                                 IN THE COURT OF COMMON PLEAS
-                             ______________________________ DIVISION
-                             ______________________________ COUNTY, OHIO
-
-                                                            Case No.
-Name
-                                                            Judge
-Street Address
-                                                            Magistrate
-City, State and Zip Code
-
-                                           Plaintiff
-
-                           vs.
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                           Defendant
-
-                     JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
-
-This matter came on for final hearing on _______________________________before  Judge      Magistrate
-____________________________         upon   Plaintiff’s Complaint for Divorce  with  Children    filed
-on____________________________ and/or Defendant’s Counterclaim filed on___________________________
-and upon the following: ________________________________________________________________________.
-
-                                                       FINDINGS
-
-Upon a review of the record, testimony, and evidence presented, the Court makes the following findings:
-
-A.      Check all that apply:
-           Defendant was properly served with Summons, a copy of the Complaint, and both parties received
-           Notice of Hearing.
-           Defendant filed a Waiver of Service.
-           Defendant filed an Answer to Plaintiff’s Complaint.
-            Defendant failed to file an Answer to Plaintiff’s Complaint or plead, despite being properly served with
-            Summons and a copy of the Complaint.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                    Page 1 of 23
-
-          Defendant filed a Counterclaim.
-          Plaintiff filed a Reply to Defendant’s Counterclaim.
-          Plaintiff failed to file a Reply to Defendant’s Counterclaim.
-
-B.        Plaintiff was present at the Hearing.
-          ________________________________________ appeared as counsel for Plaintiff.
-          Plaintiff failed to appear.
-          Defendant was present at the Hearing.
-          ________________________________________appeared as counsel for Defendant.
-          Defendant failed to appear.
-
-C.    Plaintiff was a resident of the State of Ohio for at least six (6) months immediately before the Complaint and/or
-      Counterclaim was/were filed.
-
-D.    At the time the Complaint and/or Counterclaim was/were filed:
-          Plaintiff was a resident of this county for at least ninety (90) days immediately before the filing.
-          Defendant was a resident of this county.
-          Venue is proper based upon: __________________________________________________________
-
-E.    This Court has jurisdiction and venue is proper to determine all of the issues raised by the pleadings and
-      motions.
-
-F.    Plaintiff and Defendant were married on                                                     (date of marriage)
-      in                                                                           (city or county, and state).
-
-G.    The termination of marriage is     the date of Final Hearing or     the date specified:
-
-H.    Children:
-         Neither party is pregnant OR       a party is pregnant.
-
-          The following child(ren) was/were born of the parties’ relationship prior to the marriage:
-                         Name of Child                            Date of Birth
-
-          The following child(ren) was/were born from or adopted during this marriage:
-                         Name of Child                         Date of Birth
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                     Page 2 of 23
-
-         The following child(ren) was/were born from or adopted during this marriage or relationship and is/are
-         mentally or physically disabled and will be incapable of supporting or maintaining themselves:
-                         Name of Child                            Date of Birth
-
-        The following child(ren) is/are subject to an existing order of parenting or support of another Court or
-        agency:
-                       Name of Child                             Date of Birth          Name of Court or Agency
-
-        One party is not the parent of the following child(ren) who was/were born during the marriage:
-                        Name of Child                             Date of Birth
-
-I.    Military Service:
-         Neither Plaintiff nor Defendant is an active-duty servicemember of the United States military.
-          Plaintiff and/or    Defendant is an active-duty servicemember of the United States military; however,
-          active-duty service did not impact the member's ability to prosecute or defend this action.
-
-J.    The divorce should be granted on the following ground(s):
-        Plaintiff and Defendant are incompatible.
-        Plaintiff and Defendant have lived separate and apart without cohabitation and without interruption for one
-        (1) year.
-        Plaintiff or   Defendant had a Husband or Wife living at the time of the marriage.
-        Plaintiff or   Defendant has been willfully absent for one (1) year.
-        Plaintiff or   Defendant is guilty of adultery.
-        Plaintiff or   Defendant is guilty of extreme cruelty.
-        Plaintiff or   Defendant is guilty of fraudulent contract.
-        Plaintiff or   Defendant is guilty of gross neglect of duty.
-        Plaintiff or   Defendant is guilty of habitual drunkenness.
-        Plaintiff or    Defendant was imprisoned in a state or federal correctional institution at the time the
-        Complaint was filed.
-        Plaintiff or     Defendant procured a divorce outside this state by virtue of which             Plaintiff or
-            Defendant has been released from the obligations of the marriage, while those obligations remain
-        binding on     Plaintiff or  Defendant.
-
-K.       Plaintiff and/or  Defendant through testimony or affidavit made full and complete disclosure of all marital
-         property, separate property, and any other assets, debts, income, and expenses.
-
-L.    The Court finds that:
-        the parties presented the Court with a written Separation Agreement or read a settlement of all issues
-        into the record. The written Separation Agreement is attached hereto as Exhibit A. The Court finds the
-        agreement to be a fair and equitable division of property and debts and an appropriate resolution of all
-        issues, knowingly and voluntarily entered into by the parties.
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                   Page 3 of 23
-
-        the parties presented the Court with a written Shared Parenting Plan or Parenting Plan, or read a
-        settlement of all issues involving their parental rights and responsibilities into the record. The
-           Shared Parenting Plan        Parenting Plan is attached hereto as Exhibit B. The Court finds that the
-        agreed allocation of parental rights and responsibilities is in the minor child(ren)’s best interest and that
-        the parties entered into it knowingly and voluntarily.
-
-        a Magistrate’s Decision was filed on: ___________________________________________________.
-                    no objections having been filed, the Court accepts the Magistrate’s findings of fact and adopts
-                    the recommendations, making them the order of the Court.
-                    the Court ruled upon all objections to the Magistrate’s Decision by a separate Judgment Entry.
-
-        the parties did not present the Court with a written Separation Agreement or read a settlement of all issues
-        into the record. Based upon the evidence presented by the parties who appeared, the Court makes the
-        findings set forth herein upon which it makes a fair and equitable division of property and debts and an
-        appropriate resolution of all issues of the parties.
-
-       The parties have the following separate assets:
-                 Party                                Asset                                       Value
-
-       The parties have the following separate debts:
-                 Party                                Debt                                       Balance
-
-        The parties have the following marital assets:
-                                           Asset                                                  Value
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 15
-JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                      Page 4 of 23
-
-         The parties have the following marital debts:
-                                           Debt                                                    Balance
-
-         The Court makes the following findings regarding the spousal support factors set forth in R.C. 3105.18:
-
-         The parties did not present the Court with a written Shared Parenting Plan or Parenting Plan or read a
-         settlement of their parental rights into the record. Based upon the evidence presented by the parties who
-         appeared, the Court makes the following findings relating to the factors set forth in R.C. 3109.04 and/or
-         3109.051 upon which it allocates the parties’ parental rights and responsibilities in the child(ren)’s best
-         interest:
-
-M.    The Court finds that Plaintiff incurred attorney fees and litigation expenses in the amount of   $
-      and Defendant incurred attorney fees and litigation expenses in the amount of $                            . It is
-      equitable that: (select one)
-          Each party pay his or her attorney fees and litigation expenses, if any.
-          Plaintiff pay all or part of Defendant’s attorney fees and litigation expenses as follows:
-
-          Defendant pay all or part of Plaintiff’s attorney fees and litigation expenses as follows:
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                     Page 5 of 23
-
-N.    The Court further finds that:
-
-                                                     JUDGMENT
-
-Based upon the findings set forth above, it is, therefore, ORDERED, ADJUDGED and DECREED that:
-
-FIRST: DIVORCE GRANTED
-   Plaintiff   Defendant is/are granted a divorce on the grounds set forth above. Both parties are released from
-the obligations of their marriage except for those obligations listed below or as set forth in the attached
-    Separation Agreement        Shared Parenting Plan            Parenting Plan        Magistrate’s Decision which is
-incorporated in this Judgment Entry as if fully rewritten and/or    as is set forth herein.
-
-SECOND: PROPERTY
-The parties’ property shall be divided as follows:
-
-A.    Plaintiff is awarded the following separate property:
-
-B.    Defendant is awarded the following separate property:
-
-C.    Each party is awarded all of the household goods, furniture, furnishings, and other personal property currently
-      in their respective possession, free and clear of any claim of the other party, except as specifically set forth in
-      Sections D, E, and F below.
-
-D.    Plaintiff is awarded the following real estate and items of personal property, free and clear from all claims of
-      Defendant:
-
-E.    Defendant is awarded the following real estate and items of personal property, free and clear from all claims
-      of Plaintiff:
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                        Page 6 of 23
-
-F.    Other orders regarding property:
-
-G.    The parties shall take all necessary steps to transfer legal title and possession of property and take appropriate
-      actions to implement and effectuate the division of retirement accounts within thirty (30) days of this Judgment
-      Entry. The Court reserves jurisdiction over the completion, filing, qualification and/or approval of any
-      document necessary to transfer assets.
-
-H.    Other orders regarding transfers:
-
-THIRD: DEBT
-The parties’ debts shall be divided as follows:
-
-A.    Plaintiff shall pay the following debts and hold Defendant harmless from all claims:
-
-B.    Defendant shall pay the following debts and hold Plaintiff harmless from all claims:
-
-C.    Bankruptcy
-      The Court has continuing jurisdiction to determine whether a debt assigned to a party qualifies as an exception
-      to discharge in bankruptcy according to federal law.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                       Page 7 of 23
-
-D.    Neither party shall incur liabilities against the other party in the future.
-
-FOURTH: SPOUSAL SUPPORT
-A.  Spousal Support Not Awarded
-       Neither Plaintiff nor Defendant shall pay spousal support to the other, subject to any jurisdiction reserved
-       in Section E below.
-
-B.    Spousal Support Awarded
-         Plaintiff      Defendant shall pay spousal support to     Plaintiff Defendant in the amount of
-         $________________ per month commencing on _________________________________. Spousal
-         support shall continue    for a period of ________________________ months OR    until further order
-         of this Court.
-
-C.    Method of Payment of Spousal Support:
-         Spousal support payments shall be made directly to Plaintiff  Defendant.
-         Spousal support payments, plus two percent (2%) processing charge, shall be made to the Ohio Child
-         Support Payment Central, P. O. Box 182372, Columbus, Ohio 43218-2372, as administered through the
-         _________________________ County Child Support Enforcement Agency by:        income withholding or
-            other ___________________________________.
-
-D.    Termination of Spousal Support
-      Spousal support shall terminate earlier than the above stated date upon Plaintiff’s or Defendant’s death or in
-      the event of the following:
-         The cohabitation of the person receiving support in a relationship comparable to marriage.
-         The remarriage of the person receiving support.
-         Other: (specify)
-
-E.    Reservation of Jurisdiction
-      Under all circumstances, the Court shall retain jurisdiction over the issue of spousal support to hear and
-      determine a Motion for Relief from Judgment pursuant to Civ.R. 60(B).
-
-      On other matters involving spousal support: (check all that apply)
-        The Court shall retain jurisdiction to modify the amount of the spousal support order.
-        The Court shall NOT retain jurisdiction to modify the amount of the spousal support order.
-        The Court shall retain jurisdiction to modify the duration of the spousal support order.
-        The Court shall NOT retain jurisdiction to modify the duration of the spousal support order.
-        The Court shall retain jurisdiction to establish or modify the amount and/or duration of spousal support in
-         the event either party files bankruptcy.
-
-F.    Other orders regarding spousal support:
-
-G.    Arrearage or Overpayment
-         Any temporary spousal support arrearage or overpayment shall survive this Judgment Entry.
-         Any temporary spousal support arrearage or overpayment shall not survive this Judgment Entry.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                   Page 8 of 23
-
-         Other:
-
-FIFTH: NAME
-                                                                                                    is restored to the
-former name of
-
-SIXTH: ALLOCATION OF PARENTAL RIGHTS AND RESPONSIBILITIES
-       (No Shared Parenting Plan or Parenting Plan)
-A.   Parental rights and responsibilities shall be allocated as follows:
-        Plaintiff is designated as the residential parent and legal custodian of the following minor child(ren):
-
-         Defendant is designated as the residential parent and legal custodian of the following minor child(ren):
-
-         Each party shall have parenting time with the minor child(ren) who is/are not residing with him/her according
-         to   the parenting time schedule attached hereto and made a part hereof or          other:
-
-         Subject to the Court’s continuing jurisdiction,    Plaintiff   Defendant shall not have parenting time with
-         the child(ren) for the following reasons:
-
-B.    Relocation Notice
-      Pursuant to R.C. 3109.051(G):
-
-      If the residential parent intends to move to a residence other than the residence specified in the Court Order,
-      the parent shall file a notice of intent to relocate with this Court. Except as provided in R.C. 3109.051(G)(2),
-      (3), and (4), the Court shall send a copy of the notice to the parent who is not the residential parent. Upon
-      receipt of the notice, the Court, on its own motion or the motion of the parent who is not the residential parent,
-      may schedule a hearing with notice to both parents to determine whether it is in the best interest of the
-      child(ren) to revise the parenting time schedule for the child(ren).
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                       Page 9 of 23
-
-     The obligation under this notice applies to both parents in a Shared Parenting Plan.
-
-        The non-residential parent shall inform the Court and other parent in writing of changes in address and
-        telephone, including cellular telephone number, unless otherwise provided by Court Order.
-
-        The residential parent shall inform the Court and other parent in writing of changes in address and
-        telephone, including cellular telephone number, unless otherwise provided by Court Order.
-
-     The relocation notice must be filed with the Court that granted the divorce and allocated parental rights and
-     responsibilities (print name and address of Court):
-
-     Other orders:
-
-C.   Records Access Notice
-     Pursuant to R.C. 3109.051(H) and 3319.321(B)(5)(a):
-
-     Subject to R.C. 3125.16 and 3319.321(F), the non-residential parent is entitled access to any record related
-     to the child(ren) to which the residential parent is legally provided access under the same terms and conditions
-     as the residential parent, unless otherwise restricted. Any keeper of a record who knowingly fails to comply
-     with permitting record access is in contempt of Court.
-
-     Restrictions or limitations:
-       None
-       Restrictions or limitations to non-residential parent regarding records access are as follows:
-
-D.   Day Care Access Notice
-     Pursuant to R.C. 3109.051(I):
-
-     In accordance with R.C. 5104.039, the non-residential parent is entitled access to any day care center that is
-     or will be attended by the child(ren) with whom parenting time is granted to the same extent that the residential
-     parent is granted access to the center, unless otherwise restricted.
-
-     Restrictions or limitations:
-       None
-       Restrictions or limitations to non-residential parent regarding day care access are as follows:
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                    Page 10 of 23
-
-E.    School Activities Access Notice
-      Pursuant to R.C. 3109.051(J):
-
-      Subject to R.C. 3319.321(F), the non-residential parent is entitled access to any student activity related to the
-      child(ren) to which the residential parent is legally provided access under the same terms and conditions as
-      the residential parent, unless otherwise restricted. Any school employee or official who knowingly fails to
-      comply with permitting school activities access is in contempt of Court.
-
-      Restrictions or limitations:
-        None
-        Restrictions or limitations to non-residential parent regarding school activities access are as follows:
-
-SEVENTH: CHILD SUPPORT
-As required by law, a completed Child Support Worksheet is attached to this document.
-
-The Order for child support and cash medical support is effective ____________________, 20________.
-
-For purposes of this order:
-   Plaintiff  Defendant is the child support obligor (pays support).
-   Plaintiff  Defendant is the child support obligee (receives support).
-
-The following information is provided in accordance with R.C. 3105.72 and 3121.30:
-
-SUPPORT OBLIGOR (pays support):
-
-      Name (First, MI, Last):
-      Social Security Number:           xxx-xx-________________(fill in last four digits)
-      Date of Birth:
-
-SUPPORT OBLIGEE (receives support):
-
-      Name (First, MI, Last):
-      Social Security Number:           xxx-xx-________________(fill in last four digits)
-      Date of Birth:
-
-A.    Guideline Child Support Amount
-      The guideline child support obligation, as determined by the Child Support Worksheet, is
-      $________________ per child, per month for ________ (number) child(ren), for a total of
-      $________________ per month. (Line 24 Sole/Shared Parenting Child Support Computation Worksheet or
-      Line 25 Split Parenting Child Support Computation Worksheet)
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                     Page 11 of 23
-
-B.   Overnight Parenting Time Adjustment
-        The child support obligor does not have Court ordered parenting time which is equal to or exceeds ninety
-        (90) overnights.
-        The child support obligor has Court ordered parenting time which is equal to or exceeds ninety (90)
-        overnights. The above computation reflects an automatic ten percent (10%) adjustment in the guideline
-        child support obligation.
-
-C.   Overnight Parenting Time Deviation
-        Pursuant to R.C. 3119.231, there is extended Court ordered parenting time which:
-
-           exceeds ninety (90) overnights but is not more than 146 overnights (__________ overnights).
-
-              A deviation is not granted.
-              The annual obligation would be unjust and inappropriate and, therefore, not in the best interest of the
-              minor child(ren). A deviation is granted for the following reasons:
-
-                                                     – OR –
-
-           is equal to or exceeds 147 overnights (________________ overnights).
-
-           A deviation is   granted      not granted for the following reasons:
-
-D.   Other Deviation Factors (if applicable)
-        Pursuant to R.C. 3119.22, 3119.23 and/or 3119.24, the annual obligation would be unjust and inappropriate
-        and, therefore, not in the best interest of the minor child(ren) for the following reason(s):
-
-                                              (Check all that apply)
-              Special and unusual needs of the child(ren), including needs arising from the physical or
-              psychological condition of the child(ren)
-
-              Other Court ordered payments
-
-              Extended parenting time or extraordinary costs associated with parenting time, including
-              extraordinary travel expenses when exchanging the child(ren) for parenting time
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 15
-JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                    Page 12 of 23
-
-            Financial resources and the earning ability of the child(ren)
-
-            Relative financial resources, including the disparity in income between parties or households, other
-            assets, and the needs of each parent
-
-            Obligee’s income, if the obligee’s annual income is equal to or less than one hundred percent (100%)
-            of the federal poverty level
-
-            Benefits that either parent receives from remarriage or sharing living expenses with another person
-
-            Amount of federal, state, and local taxes actually paid or estimated to be paid by a parent or both
-            parents
-
-            Significant in-kind contributions from a parent, including, but not limited to, direct payment for lessons,
-            sports equipment, schooling, or clothing
-
-            Extraordinary work-related expenses incurred by either parent
-
-            Standard of living and circumstances of each parent and the standard of living the child(ren) would
-            have enjoyed had the marriage continued or had the parents been married
-
-            Educational opportunities that would have been available to the child(ren) had the circumstances
-            requiring a child support order not arisen
-
-            The responsibility of each parent for the support of others, including support of (a) child(ren) with
-            disabilities who are not subject to the support order
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 15
-JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                     Page 13 of 23
-
-              Post-secondary educational expenses paid for by a parent for the parent’s own child(ren), regardless
-              of whether the child(ren) is/are emancipated
-
-              Costs incurred or reasonably anticipated to be incurred by the parents in compliance with Court
-              ordered reunification efforts in child abuse, neglect, or dependency cases
-
-              Extraordinary child care costs required for the child(ren) that exceed the maximum state-wide
-              average cost estimate as described in R.C. 3119.05(P)(1)(d), including extraordinary costs
-              associated with caring for (a) child(ren) with specialized physical, psychological, or educational
-              needs
-
-              Any other relevant factor: (specify)
-
-              Extraordinary circumstances associated with shared parenting: (Only if Shared Parenting is ordered
-              - check all that apply)
-                  Ability of each parent to maintain adequate housing for the child(ren)
-                   Each parent’s expenses, including child care expenses, school tuition, medical expenses, dental
-                   expenses, and other relevant expenses
-                   Any other relevant circumstances: (specify)
-
-E.   Monthly Child Support Obligation
-     The child support obligor (pays support) shall pay child support in the amount of $_________________ per
-     child, per month for ____________ (number) child(ren), for a total of $_________________ per month, plus
-     two percent (2%) processing charge. (If there is no child support deviation, Line 24 Sole/Shared Child Support
-     Computation Worksheet, or Line 25 Split Parenting Child Support Computation Worksheet. If there is a
-     deviation in child support, Line 26 Sole/Shared Child Support Computation Worksheet, or Line 27 Split
-     Parenting Child Support Computation Worksheet.)
-
-F.   Arrearage or Overpayment
-             Child support arrearage or overpayment for the minor child(ren) payable either by administrative
-             order, temporary or final order shall survive and continue as an enforceable obligation until paid in
-             full.
-             Child support arrearage or overpayment for the minor child(ren) payable either by administrative
-             order, temporary or final order shall not survive and continue as an enforceable obligation until paid
-             in full, except those arrearages assigned to and due to the Department of Job and Family Services.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                 Page 14 of 23
-
-G.   Method to Secure Support Payment(s)
-     All support under this Order shall be withheld or deducted from the income or assets of the support obligor
-     pursuant to a withholding or deduction notice or appropriate Order issued in accordance with R.C. Chapters
-     3119, 3121, 3123, and 3125 or a withdrawal directive issued pursuant to R.C. 3123.24 to 3123.38 and shall
-     be forwarded to the obligee in accordance with R.C. Chapters 3119, 3121, 3123, and 3125.
-
-     The support obligor shall immediately notify the ___________________ County Child Support Enforcement
-     Agency, in writing, of any change in employment (including self-employment), receipt of additional
-     income/monies or termination of benefits. The support obligor shall include a description of the nature of the
-     employment and the name, business address, and telephone number of any employer.
-
-     The specific withholding or deduction requirements to be used to collect the support shall be set forth and
-     determined by reference to the notices that are sent out by the Child Support Enforcement Agency in
-     accordance with R.C. 3121.03 and shall be determined without the need for any amendment to the support
-     order. Those notices, plus the notices provided by the Child Support Enforcement Agency that require the
-     child support obligor to notify the Child Support Enforcement Agency of any change in his/her employment
-     status or of any other change in the status of his/her assets, are final and enforceable by the court. Each
-     withholding notice shall be for the current child support, current cash medical support, any arrearage payment,
-     and processing charges.
-
-     All support shall be paid through Ohio Child Support Payment Central (OCSPC), P.O. Box 182372,
-     Columbus, Ohio 43218-2372. Checks or money orders shall be made payable to “OCSPC”. All payments
-     shall include the following: Obligor’s name, Social Security Number, SETS case number, and Domestic
-     Relations Court case number. If there is to be a withholding/deduction order, the support obligor shall
-     make payments directly to OCSPC until the income source/financial institution begins
-     withholding/deducting in the appropriate amount.
-
-     Pursuant to R.C. 3121.45, any payment of money by the child support obligor to the child support obligee that
-     is not made through OCSPC or the Child Support Enforcement Agency administering the support order shall
-     not be considered a payment under the support order and, unless the payment is made to discharge an
-     obligation other than support, shall be deemed a gift.
-
-     Payments shall be made in the manner ordered by the Court. If payments are to be made other than on a
-     monthly basis, the required monthly administration by the _________________ County Child Support
-     Enforcement Agency does not affect the frequency or the amount of the support payments to be made under
-     the order.
-
-                                    (Check one of the following three boxes)
-              The support obligor receives income from an income source.
-
-              A withholding or deduction notice shall issue to:
-              INCOME SOURCE:
-              ADDRESS:
-
-                                                      – OR –
-
-              The support obligor has nonexempt funds on deposit in an account at a financial institution.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 15
-JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                   Page 15 of 23
-
-         A withholding or deduction notice shall issue to:
-         FINANCIAL INSTITUTION:
-         ADDRESS:
-
-         If withholding from a financial account, the support obligor shall immediately notify the
-         _____________________ County Child Support Enforcement Agency of the number and description of
-         the account from which support shall be deducted, and the name, branch, business address, and routing
-         number of the financial institution if not set forth above.
-
-         The support obligor shall immediately notify the ________________ County Child Support Enforcement
-         Agency of any change in the status of an account from which support is being deducted or the opening of
-         a new account with any financial institution.
-
-                                                      – OR –
-
-              The support obligor has no attachable income source at this time.
-
-          The support obligor shall immediately notify the ________________ County Child Support Enforcement
-          Agency, in writing, if the support obligor begins to receive income from a payor. The notice shall include
-          a description of the nature of any new employment, and the name, business address, and telephone
-          number of any new employer.
-
-               The support obligor shall seek employment, if able to engage in employment. Obligor’s employment
-               search        must        include   registration       with       Ohio     Means         Jobs       at
-               https://jobseeker.ohiomeansjobs.monster.com.           Obligor shall immediately notify the
-               _____________________________ County Child Support Enforcement Agency, in writing, upon
-               commencement or change of employment (including self-employment), receipt of additional
-               income/monies, obtaining ownership of asset of value of $500.00 or more, receipt or termination of
-               benefits, or the opening of an account at a financial institution. The support obligor shall include a
-               description of the nature of the employment and the name, business address, and telephone
-               number of any employer.               The support obligor shall immediately notify the
-               _____________________________ County Child Support Enforcement Agency of any change in
-               the status of an account from which support is being deducted or the opening of a new account with
-               any financial institution.
-
-H.   Duration and Termination of Support & Required Notices
-     The duty of child support and cash medical support for each child shall continue until further order of Court or
-     until the above-named child reaches age eighteen (18) unless one of the following circumstances applies:
-          •     The child is mentally or physically disabled and is incapable of supporting or maintaining himself,
-                herself or themselves.
-          •     The parents have agreed to continue child support beyond the date it would otherwise terminate.
-          •     The child continuously attends a recognized and accredited high school on a full-time basis so long
-                as the child has not, as yet, reached the age of nineteen (19) years old. Under this circumstance,
-                child support will end at the time the child graduates or ceases to attend a recognized and accredited
-                high school on a full-time basis or when the child reaches the age of nineteen (19), whichever occurs
-                first.
-
-     The child support and cash medical support order will remain in effect during seasonal vacation periods until
-     the order terminates.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                   Page 16 of 23
-
-       The parties have agreed that the child support and cash medical support obligation will extend beyond the
-       time when it would otherwise end. The terms and conditions of that agreement are as follows:
-
-       The parties have (a) child(ren) who is/are mentally or physically disabled and incapable of supporting or
-       maintaining himself, herself or themselves, and child support and cash medical support will extend beyond
-       the time when it would otherwise end. The name of the child(ren) and the nature of the mental or physical
-       disability(ies) is/are as follows:
-
-    The residential parent and legal custodian of the child(ren) shall immediately notify, and the child support obligor
-    may notify, the ______________________ County Child Support Enforcement Agency of any reason for which
-    the child support order should terminate, including, but not limited to, the child’s death, marriage, emancipation
-    (age 18 or high school completion/termination), enlistment in the Armed Services, deportation, or change of
-    legal custody. A willful failure to notify the ______________________ County Child Support Enforcement
-    Agency may be contempt of Court.
-
-    EACH PARTY TO THIS SUPPORT ORDER MUST NOTIFY THE CHILD SUPPORT ENFORCEMENT
-    AGENCY IN WRITING OF HIS OR HER CURRENT MAILING ADDRESS, CURRENT RESIDENCE
-    ADDRESS, CURRENT RESIDENCE TELEPHONE NUMBER, CURRENT DRIVER’S LICENSE NUMBER,
-    AND OF ANY CHANGES IN THAT INFORMATION. EACH PARTY MUST NOTIFY THE AGENCY OF ALL
-    CHANGES UNTIL FURTHER NOTICE FROM THE COURT OR AGENCY, WHICHEVER ISSUED THE
-    SUPPORT ORDER.
-
-    IF YOU ARE THE OBLIGOR UNDER A CHILD SUPPORT ORDER AND YOU FAIL TO MAKE THE
-    REQUIRED NOTIFICATIONS, YOU MAY BE FINED UP TO $50 FOR A FIRST OFFENSE, $100 FOR A
-    SECOND OFFENSE, AND $500 FOR EACH SUBSEQUENT OFFENSE. IF YOU ARE AN OBLIGOR OR
-    OBLIGEE UNDER ANY SUPPORT ORDER ISSUED BY A COURT AND YOU WILLFULLY FAIL TO GIVE
-    THE REQUIRED NOTICES, YOU MAY BE FOUND IN CONTEMPT OF COURT AND BE SUBJECTED TO
-    FINES UP TO $1,000 AND IMPRISONMENT FOR NOT MORE THAN 90 DAYS.
-
-    IF YOU ARE AN OBLIGOR OR OBLIGEE AND YOU FAIL TO GIVE THE REQUIRED NOTICES TO THE
-    CHILD SUPPORT ENFORCEMENT AGENCY, YOU MAY NOT RECEIVE NOTICE OF THE CHANGES AND
-    REQUESTS TO CHANGE THE CHILD SUPPORT AMOUNT, HEALTH CARE PROVISIONS, OR
-    TERMINATION OF THE CHILD SUPPORT ORDER. IF YOU ARE AN OBLIGOR AND YOU FAIL TO GIVE
-    THE REQUIRED NOTICES, YOU MAY NOT RECEIVE NOTICE OF THE FOLLOWING ENFORCEMENT
-    ACTIONS AGAINST YOU: IMPOSITION OF LIENS AGAINST YOUR PROPERTY; LOSS OF YOUR
-    PROFESSIONAL OR OCCUPATIONAL LICENSE, DRIVER’S LICENSE, OR RECREATIONAL LICENSE;
-    WITHHOLDING FROM YOUR INCOME; ACCESS RESTRICTION AND DEDUCTION FROM YOUR
-    ACCOUNTS IN FINANCIAL INSTITUTIONS; AND ANY OTHER ACTION PERMITTED BY LAW TO OBTAIN
-    MONEY FROM YOU TO SATISFY YOUR SUPPORT OBLIGATION.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 15
-JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                      Page 17 of 23
-
-EIGHTH: HEALTH INSURANCE COVERAGE
-A.       Private Health Insurance Coverage IS NOT available for the minor child(ren).
-
-           Neither parent has accessible private health insurance coverage available at a reasonable cost to cover
-           the minor child(ren) at the time of the issuance of this order.
-
-           The child support obligee shall obtain health care coverage (private health insurance coverage or public
-           health care plan) for the child(ren) not later than thirty (30) days after it becomes available at a
-           reasonable cost, and shall inform the _______________ County Child Support Enforcement Agency
-           when health care coverage for the child(ren) has been obtained.
-
-           If private health insurance coverage becomes available to the child support obligor at a reasonable cost,
-           the child support obligor shall inform the __________________ County Child Support Enforcement
-           Agency and may seek a modification of health care coverage from the Court with respect to a Court child
-           support order, or from the agency with respect to an administrative support order.
-
-B.        Private Health Insurance Coverage IS available for the minor child(ren).
-
-            Plaintiff has private health insurance coverage for the minor child(ren);
-            Defendant has private health insurance coverage for the minor child(ren); or
-            Both parents have private health insurance coverage available for the minor child(ren).
-
-             1. Accessibility of Private Health Insurance Coverage.
-
-              The available private health insurance coverage for the minor child(ren) is accessible because:
-
-                                     (Check one of the following three boxes)
-                   Primary care services are within thirty (30) miles of the child(ren)’s residence.
-                   The Court permits primary care services farther than thirty (30) miles of the child(ren)’s residence
-                   because residents in the geographic area customarily travel farther distances.
-                   Primary care services are accessible by public transportation because public transportation is
-                   the child support obligee’s only source of transportation.
-
-         2. Reasonableness of Cost of Private Health Insurance Coverage.
-
-              Pursuant to R.C. 3119.29(F), for purposes of determining reasonable cost, the total cost of private
-              health insurance coverage to the person required to provide private health insurance coverage for the
-              child(ren) subject to the child support order does not exceed an amount equal to five percent (5%) of
-              the annual income of that person.
-
-                                  (Check one of the following two sections)
-                   The total cost of private health insurance coverage available to          Plaintiff and/or
-                     Defendant does not exceed that parent’s Health Insurance Maximum. (Line 8 Child Support
-                   Computation Worksheet)
-
-                                                           – OR –
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                    Page 18 of 23
-
-                The total cost of private health insurance coverage available to    Plaintiff and/or
-                   Defendant exceeds that parent’s Health Insurance Maximum. (Line 8 Child Support
-                Computation Worksheet)
-
-                                               (Check one of the three sections below)
-                              Both parents agree that     Plaintiff Defendant or    Both parents shall obtain or
-                              maintain private health insurance coverage, the cost of which exceeds the Health
-                              Insurance Maximum for that parent.
-
-                                                                – OR –
-
-                              Plaintiff Defendant has requested to obtain or maintain private health insurance
-                              coverage, the cost of which exceeds the Health Insurance Maximum for that parent.
-
-                                                                – OR –
-
-                              It is in the best interest of the child(ren) for Plaintiff  Defendant to obtain or
-                              maintain private health insurance coverage for the child(ren) even though the total
-                              cost of private health insurance coverage exceeds that parent’s Health Insurance
-                              Maximum. The cost of private health insurance coverage will not impose an undue
-                              financial burden because:
-
-           3. Person Required to Provide Private Health Insurance Coverage.
-
-                  Plaintiff   Defendant        Both parents shall provide private health insurance coverage for the
-                  child(ren) until further order of Court for the following reasons:
-
-                                         (Check one of the following six boxes)
-                                 The child support obligee is rebuttably presumed to be the appropriate parent to
-                                 provide private health insurance coverage for the child(ren).
-                                 The child support obligor already has private health insurance coverage for the
-                                 child(ren) that is reasonable in cost.
-                                 The child support obligor already has private health insurance coverage in place
-                                 for the child(ren) that is not reasonable in cost, but the child support obligor
-                                 wishes to be named the private health insurance obligor and provide coverage.
-                                 The child support obligor can obtain private health insurance coverage for the
-                                 child(ren) that is reasonable in cost through an employer or other source.
-                                 The child support obligee is a non-parent individual or agency that has no duty
-                                 to provide medical support.
-                                 Both parents wish to provide and already have private health insurance coverage
-                                 in place or have private health insurance coverage available for the child(ren).
-                     If both parents are providing private health insurance coverage for the minor child(ren),
-                     Plaintiff’s    Defendant’s private health insurance coverage plan shall be considered the
-                     primary private health insurance coverage plan for the child(ren).
-                                Should private health insurance coverage be cancelled for any reason, the parent
-                                ordered to maintain private health insurance coverage shall immediately notify the
-                                other parent of the cancellation.
-Supreme Court of Ohio
-Uniform Domestic Relations Form 15
-JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                 Page 19 of 23
-
-C.      Health Care Coverage Requirements
-
-        Within thirty (30) days after the issuance of this support order, the person required to provide health care
-        coverage for the child(ren) must provide to the other parent or to the child support obligee information
-        regarding the benefits, limitations, and exclusions of the coverage, copies of any forms necessary to
-        receive reimbursement, payment or other benefits under the coverage, and a copy of any necessary proof
-        of coverage.
-
-        Within thirty (30) days after the issuance of this order, the person required to provide health care coverage
-        for the child(ren) shall provide to the Child Support Enforcement Agency documentation that verifies health
-        care coverage is being provided as ordered.
-
-        The individual who is designated to be reimbursed for health care expenses for the child(ren) is:
-
-                        Name:
-                        Address:
-
-        The person required to provide health care coverage for the child(ren) shall designate the child(ren) as
-        covered dependent(s) under any health care coverage policy, contract, or plan.
-
-        Pursuant to R.C. 3119.32(E), the employer of the person required to provide health care coverage for the
-        child(ren) is required to release to the other parent, any person subject to an order issued under R.C.
-        3109.19, or the Child Support Enforcement Agency, on written request, any necessary information on the
-        health care coverage, including the name and address of the health plan administrator and any policy,
-        contract, or plan number, and to otherwise comply with R.C. 3119.32 and any order or notice issued under
-        R.C. 3119.32.
-
-         Pursuant to R.C. 3119.32(G), if the person required to obtain health care coverage for the child(ren)
-         subject to this child support order obtains new employment, the agency shall comply with the requirements
-         of R.C. 3119.34, which may result in the issuance of a notice requiring the new employer to take whatever
-         action is necessary to enroll the children in private health care insurance coverage provided by the new
-         employer, when insurance is not being provided by any other source.
-
-NINTH: CASH MEDICAL SUPPORT & CHILDREN’S HEALTH CARE EXPENSES
-A.      Liability for Child(ren)’s Health Care Expenses
-
-        Pursuant to R.C. 3119.30(A), both parents are liable for the health care expenses of the child(ren) who
-        is/are not covered by private health insurance coverage.
-
-        Cash medical support is an amount paid in a child support order toward the ordinary health care expenses
-        incurred during a calendar year. Ordinary health care expenses include copayments and deductibles, and
-        uninsured health-related costs.
-
-        Extraordinary health care expenses are any uninsured health care expenses incurred for a child during a
-        calendar year that exceed the total cash medical support amount owed by the parents during that year.
-
-        Each party shall have access to all health care records of the child(ren) as provided by law, or as otherwise
-        limited in this document.
-
-        The term “health care expense” or “health care records” shall include, but not be limited to, medical, dental,
-        orthodontic, optical, pharmaceutical, surgical, hospital, major medical, psychological, psychiatric,
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                    Page 20 of 23
-
-        outpatient, doctor, therapy, counseling, prosthetic, and/or all other expenses/records including
-        preventative health expenses/records related to the treatment of the human body and mind.
-
-        The parent who receives a health care bill, and/or an Explanation of Benefits (EOB), or who incurs a health
-        care expense, shall provide the other parent the original or a copy of the bill, and/or EOB, if available,
-        within (thirty) 30 days of the date on the bill or EOB, or a receipt, absent extraordinary circumstances. The
-        other parent shall reimburse the parent incurring the expenses or pay directly to the health care provider,
-        that parent’s percentage share of the bill as shown in Section D below.
-
-B.      Guideline Cash Medical Support Obligation
-
-        The parents’ combined annual cash medical support obligation, as determined by the applicable
-        worksheet, is $____________________________. (Line 23a Child Support Computation Worksheet)
-
-        The Obligor’s (pays support) guideline annual cash medical support                            obligation    is
-        $_________________________. (Line 23b Child Support Computation Worksheet)
-
-        The Obligee’s (receives support) guideline annual cash medical support obligation is
-        $________________________. (Line 23b Child Support Computation Worksheet) The Obligee’s cash
-        medical support obligation is not subject to collection by the Child Support Enforcement Agency.
-
-C.       Deviation in Cash Medical Support (if applicable)
-
-         Pursuant to R.C. 3119.22, 3119.23 and/or 3119.24, the annual guideline cash medical support obligation
-         would be unjust and inappropriate and, therefore, not in the best interest of the minor child(ren) for the
-         following reason(s):
-
-                The same reasons referenced in this document regarding the child support deviation.
-
-                                                             – OR –
-
-D.      Cash Medical Support Obligation and Division of Child(ren)’s Health Care Expenses
-
-                                   (Check one of the following two boxes)
-                The cash medical support obligation is not deviated.
-
-                Obligor shall pay cash medical support in the amount of $______________ per child, per month,
-                for _______ (number) child(ren) for a total of $______________, per month, plus two percent
-                (2%) processing charge through the Child Support Enforcement Agency. (Line 27 Sole/Shared
-                Parenting Child Support Computation Worksheet, or Line 29 Split Parenting Child Support
-                Computation Worksheet)
-
-                Plaintiff shall pay _______% and Defendant shall pay ______% of the health care expenses
-                incurred for a child during a calendar year that exceed $__________, the parents’ total combined
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                   Page 21 of 23
-
-                   annual cash medical support obligation, as determined by the applicable worksheet. (Line 23a
-                   Child Support Computation Worksheet)
-
-                                                         – OR –
-
-                 The cash medical support obligation is deviated.
-
-                 Obligor shall pay cash medical support in the amount of $___________ per child, per month, for
-                 ____(number) child(ren) for a total of $_____________, per month, plus two percent (2%)
-                 processing charge through the Child Support Enforcement Agency. (Line 29 Sole/Shared Parenting
-                 Child Support Computation Worksheet, or Line 31 Split Parenting Child Support Computation
-                 Worksheet)
-
-                 Obligee’s cash medical support obligation is deviated to $______________ per month. (Line 29,
-                 Sole/Shared Parenting Child Support Computation Worksheet or Line 31 Split Parenting Child
-                 Support Computation Worksheet) Obligee’s cash medical support obligation is not subject to
-                 collection by the Child Support Enforcement Agency.
-
-                 Plaintiff shall pay _______% and the Defendant shall pay _______% of the health care expenses
-                 incurred for a child during a calendar year that exceed $______________, the parents’ total
-                 combined annual deviated cash medical support obligation, as determined by the applicable
-                 worksheet. (Line 29 amounts added together and multiplied by twelve Sole/Shared Child Support
-                 Computation Worksheet, Line 31 amounts added together and multiplied by twelve Split Parenting
-                 Child Support Computation Worksheet)
-
-TENTH: TAX DEPENDENCY (The award of a tax dependency exemption may affect the ability to secure
- health insurance through the Marketplace.)
-A.              Plaintiff shall be entitled to claim the following minor child(ren) as (a) dependent(s) for all tax
-                purposes for      even-numbered tax years       odd-numbered tax years       all eligible tax years, so
-                long as substantially current in any child support required to be paid as of December 31 of the tax
-                year in question: ________________________________________________________________.
-
-                 Defendant shall be entitled to claim the following minor child(ren) as (a) dependent(s) for all tax
-                 purposes for    even-numbered tax years        odd-numbered tax years        all eligible tax years, so
-                 long as substantially current in any child support required to be paid as of December 31 of the tax
-                 year                                                                                                  in
-                 question:_________________________________________________________________.
-B.               Other orders regarding tax exemptions: (specify)
-
-If a non-residential parent is entitled to claim the child(ren), the residential parent is required to execute and deliver
-Internal Revenue Service Form 8332, or its successor, together with any other required forms as set out in section
-152 of the Internal Revenue Code, as amended, on or before February 15th of the year following the tax year in
-question, to allow the non-residential parent to claim the minor child(ren).
-
-ELEVENTH: OTHER ORDERS
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                        Page 22 of 23
-
-TWELFTH: TEMPORARY ORDERS
-All temporary orders in this case are terminated.
-
-THIRTEENTH: PAYMENT OF ATTORNEY FEES AND LITIGATION EXPENSES (select one)
-    Each party shall pay his/her own attorney fees and litigation expenses, if any.
-    Plaintiff shall pay                     of attorney fees and litigation expenses incurred by Defendant. The
-    same shall be paid as follows:
-    Defendant shall pay                        of attorney fees and litigation expenses incurred by Plaintiff. The
-    same shall be paid as follows:
-
-FOURTEENTH: COURT COSTS
-Court costs are: (select one)
-      Taxed to the deposit. Court costs due above the deposit shall be paid as follows:
-
-       Other (specify):
-
-FIFTEENTH: CLERK OF COURTS
-The Clerk of Courts shall provide:
-    a certified copy to:
-    a file stamped copy to: Child Support Enforcement Agency
-
-                                              JUDGE
-
-Plaintiff Signature                                         Defendant Signature
-
-_______________________________________________________     ____________________________________________________
-Printed Name                                                Printed Name
-
-_______________________________________________________     ____________________________________________________
-Plaintiff’s Attorney Signature                              Defendant’s Attorney Signature
-
-_______________________________________________________     ____________________________________________________
-Printed Name                                                Printed Name
-
-_______________________________________________________     ____________________________________________________
-Supreme Court Reg No.                                       Supreme Court Reg No.
-
-NOTICE. This is a final appealable order. The Clerk is directed to serve upon all parties notice of this
-Judgment Entry and its date of entry upon the journal in accordance with Civ.R. 5(B), in the manner provided
-in Civ.R. 58(B).
-   2
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 15
- JUDGMENT ENTRY – DECREE OF DIVORCE WITH CHILDREN
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                 Page 23 of 23
-
-                                     ,17+(&28572)&200213/($6
-                                 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB',9,6,21
-                            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB&2817<2+,2
- 
-                                                             &DVH1R
-1DPH                                                        
-                                                             -XGJH
-6WUHHW$GGUHVV                                              
-                                                             0DJLVWUDWH
-&LW\6WDWHDQG=LS&RGH                                    
-
-                                   3ODLQWLII3HWLWLRQHU   
-                                                            
-                         YVDQG                            
-                                                            
-                                                            
-1DPH                                                        
-                                                            
-6WUHHW$GGUHVV                                              
-                                                            
-&LW\6WDWHDQG=LS&RGH                                    
-
-                                'HIHQGDQW3HWLWLRQHU      
- 
-                      -8'*0(17(175<&219(57,1*,17(5(67,15($/(67$7(
-  
-7KH SDUWLHV¶ PDUULDJH ZDV WHUPLQDWHG LQ D -XGJPHQW (QWU\ ILOHG RQ BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-3XUVXDQW WR VDLG -XGJPHQW (QWU\ LW LV 25'(5(' WKDW BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB LV GLYHVWHG RI DOO
-ULJKWVWLWOHDQGLQWHUHVWLQWKHUHDOHVWDWHDVVHWIRUWKLQWKHOHJDOGHVFULSWLRQLQFOXGLQJGHHGUHIHUHQFHDQG3HUPDQHQW
-3DUFHO1XPEHUDWWDFKHGKHUHWRDV([KLELW$DQGPDGHDSDUWKHUHRI
-  
-,WLVIXUWKHU25'(5('WKDWBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBLVYHVWHGZLWKDOOULJKWVWLWOHDQGLQWHUHVWRI
-WKH UHDO HVWDWH GHVFULEHG LQ ([KLELW $ DWWDFKHG KHUHWR DQG PDGH D SDUW KHUHRI  7KH $XGLWRU DQG 5HFRUGHU
-RIBBBBBBBBBBBBBBBBBBBBBBB&RXQW\DUH25'(5('WRDFFHSWWKLV-XGJPHQW(QWU\DVWUDQVIHURIVXFKLQWHUHVWDQG
-UHIOHFWWKHVDPHRQWKHLUERRNVDQGUHFRUGV7KHILOLQJRIWKLV-XGJPHQW(QWU\ZLWKWKH5HFRUGHUDQG$XGLWRUVKDOO
-HIIHFWXDWHWKHFRQYH\DQFHRIWKHUHDOHVWDWHLQWHUHVW
- 
-&RXUWFRVWVVKDOOEH
-   7D[HGWRWKHGHSRVLW&RXUWFRVWVGXHDERYHWKHGHSRVLWVKDOOEHSDLGDVIROORZV 
- 
-                      
-   2WKHU specify  
-                                                        
-                                                        
-                                                       -8'*(
-      
-
-6XSUHPH&RXUWRI2KLR
-8QLIRUP'RPHVWLF5HODWLRQV)RUP
--8'*0(17(175<&219(57,1*,17(5(67,15($/(67$7(
-$SSURYHGXQGHU2KLR&LYLO5XOH
-                
-$PHQGHG6HSWHPEHU                                                                                     3DJH RI
-      
-
-                                 IN THE COURT OF COMMON PLEAS
-                             ______________________________ DIVISION
-                             ______________________________ COUNTY, OHIO
-
-                                                               Case No.
-Name
-                                                               Judge
-Street Address
-                                                               Magistrate
-City, State and Zip Code
-
-                                             Petitioner 1
-
-                           and
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                             Petitioner 2
-
-WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-         It is highly recommended that you consult an attorney.
- Instructions: This form is used to request ending the marriage when the parties have agreed on all aspects of
- the termination, including the division of real estate, personal property, debts, spousal support, and, if there is/are
- (a) child(ren), allocation of parental rights and responsibilities (custody), parenting time (companionship and
- visitation) and child support. A Separation Agreement (Uniform Domestic Relations Form 19) must be filed with
- this Petition. If there is/are child(ren), a Parenting Proceeding Affidavit (Uniform Domestic Relations Form 3) and
- either a Shared Parenting Plan (Uniform Domestic Relations Form 20) or a Parenting Plan (Uniform Domestic
- Relations Form 21) must be filed with this Petition. The Court may require additional forms to accompany this
- document. You must check the requirements of the county in which you file. YOU MUST UPDATE THE CLERK OF
- COURTS IF ANY OF THE ABOVE CONTACT INFORMATION CHANGES.
-
-       PETITION FOR DISSOLUTION OF MARRIAGE AND WAIVER OF SERVICE OF SUMMONS
-                           WITH CHILDREN   WITHOUT CHILDREN
-
-Now come Petitioners and state as follows:
-
-  1.       Petitioner 1     Petitioner 2  Both parties has/have been (a) resident(s) of the State of Ohio for at
-           least six (6) months immediately before the filing of this Petition.
-
-  2.    Petitioners consent to venue.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 17
-PETITION FOR DISSOLUTION OF MARRIAGE AND WAIVER OF SERVICE OF SUMMONS
-Approved under Ohio Civil Rule 84
-Amended: June 1,2021                                                                                           Page 1 of 3
-
-  3.   Petitioners were married on                                                               (date of marriage)
-       in                                                                               (city or county, and state).
-
-  4.      Neither party is pregnant OR     a party is pregnant.
-
-  5.   Check all that apply: (If more space is needed, add additional pages)
-
-          There is/are no minor child(ren) born from or adopted during this marriage or relationship.
-
-          The following child(ren) was/were born of the parties’ relationship prior to the marriage:
-                                   Name of Child                                  Date of Birth
-
-          The following child(ren) was/were born from or adopted during this marriage:
-                                   Name of Child                               Date of Birth
-
-          The following child(ren) was/were born from or adopted during this marriage or relationship and is/are
-          mentally or physically disabled and will be incapable of supporting or maintaining themselves:
-                                    Name of Child                                Date of Birth
-
-          The following child(ren) is/are subject to an existing order of parenting or support of another Court or
-       agency:
-                        Name of Child                             Date of Birth          Name of Court or Agency
-
-          One party is not the parent of the following child(ren) who was/were born during the marriage:
-                                   Name of Child                                Date of Birth
-
-  6.   Military Service:
-
-          Neither Petitioner 1 nor Petitioner 2 is an active-duty servicemember of the United States military.
-          Petitioner 1 and/or     Petitioner 2 is an active-duty servicemember of the United States military.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 17
-PETITION FOR DISSOLUTION OF MARRIAGE AND WAIVER OF SERVICE OF SUMMONS
-Approved under Ohio Civil Rule 84
-Amended: June 1,2021                                                                                       Page 2 of 3
-
-    7.    Petitioners entered into a Separation Agreement which is attached and incorporated herein as if fully
-          written.
-
-    8.    If Petitioners have (a) minor child(ren): (select one)
-              Petitioners agreed to a Shared Parenting Plan which is attached and incorporated herein as if fully
-              written.
-              Petitioners agreed to a Parenting Plan which is attached and incorporated herein as if fully written.
-
-    9.    Petitioners are both over eighteen (18) years of age, are not under any disability, and waive all rights to
-          receive Summons for the dissolution action through the Clerk of Courts.
-
-  10.       _________________________________________________, requests to be restored to the former
-          name of                                                                                                    .
-
-Petitioners request that the Court dissolve their marriage and issue a Judgment Entry-Decree of Dissolution of
-Marriage adopting the terms of the Separation Agreement and the Shared Parenting Plan or Parenting Plan, if
-there is/are (a) child(ren).
-
-Petitioner 1 Signature                                       Petitioner 2 Signature
-
-___________________________________________                  _____________________________________________
-Printed Name                                                 Printed Name
-
-___________________________________________                  _____________________________________________
-Address                                                      Address
-
-___________________________________________                  _____________________________________________
-City, State, Zip                                             City, State, Zip
-______________________________________________________       ________________________________________________________
-Phone Number                                                 Phone Number
-
-___________________________________________                  _____________________________________________
-Fax Number                                                   Fax Number
-
-___________________________________________                  _____________________________________________
-E-mail                                                       E-mail
-
-Petitioner 1 Attorney Signature                              Petitioner 2 Attorney Signature
-
-___________________________________________                  _____________________________________________
-Printed Name                                                 Printed Name
-
-___________________________________________                  _____________________________________________
-Address                                                      Address
-
-___________________________________________                  _____________________________________________
-City, State, Zip                                             City, State, Zip
-______________________________________________________       ________________________________________________________
-Phone Number                                                 Phone Number
-
-___________________________________________                  _____________________________________________
-Fax Number                                                   Fax Number
-
-___________________________________________                  _____________________________________________
-E-mail                                                       E-mail
-
-___________________________________________                  _____________________________________________
-Supreme Court Reg No.                                        Supreme Court Reg No.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 17
-PETITION FOR DISSOLUTION OF MARRIAGE AND WAIVER OF SERVICE OF SUMMONS
-Approved under Ohio Civil Rule 84
-Amended: June 1,2021                                                                                        Page 3 of 3
-
-                             IN THE COURT OF COMMON PLEAS
-                     ___________________________ DIVISION
-                     ___________________________ COUNTY, OHIO
-
-                                                              Case No.
-Name
-                                                              Judge
-Street Address
-                                                              Magistrate
-City, State and Zip Code
-
-                                            Petitioner 1
-
-                           and
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                            Petitioner 2
-
-                   JUDGMENT ENTRY – DECREE OF DISSOLUTION OF MARRIAGE
-                            WITH CHILDREN   WITHOUT CHILDREN
-
-This matter came on for hearing on____________________________________ before   Judge       Magistrate
-_______________________________________________________, upon the Petition for Dissolution of Marriage
-filed on ___________________________________________.
-
-Petitioner 1 was present and     was       was not represented by counsel________________________________.
-Petitioner 2 was present and     was       was not represented by counsel________________________________.
-
-                                                     FINDINGS
-   1.      Petitioner 1  Petitioner 2   Both parties was/were (a) resident(s) of the State of Ohio for at least six
-           (6) months immediately before the filing of the Petition.
-
-   2.   Both parties consented to venue.
-
-   3.       Not less than thirty (30) days nor more than ninety (90) days have elapsed after the filing of the
-           Petition.
-           The parties successfully completed a collaborative family law process and not more than ninety (90)
-           days have elapsed since the filing of the Petition.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 18
- JUDGMENT ENTRY – DECREE OF DISSOLUTION OF MARRIAGE
- Approved under Ohio Civil Rule 84
- (IIHFWLYH'DWH6HSWHPEHU                                                                     Page 1 of 4
-
-  4.   The parties were married on                                                               (date of marriage)
-       in                                                                               (city or county, and state).
-
-  5.      Neither party is pregnant OR     a party is pregnant.
-
-  6.      There is/are no minor child(ren) born from or adopted during this marriage or relationship.
-
-          The following child(ren) was/were born of the parties’ relationship prior to the marriage:
-
-                                   Name of Child                                  Date of Birth
-
-          The following child(ren) was/were born from or adopted during this marriage:
-                                   Name of Child                               Date of Birth
-
-          The following child(ren) was/were born from or adopted during this marriage or relationship and is/are
-          mentally or physically disabled and will be incapable of supporting or maintaining themselves:
-                                    Name of Child                                Date of Birth
-
-          The following child(ren) is/are subject to an existing order of parenting or support of another Court:
-                                    Name of Child                                 Date of Birth
-
-          One party is not the parent of the following child(ren) who was/were born during the marriage:
-                                   Name of Child                                Date of Birth
-
-  7.   Military Service:
-
-          Neither Petitioner 1 nor Petitioner 2 is an active-duty servicemember of the United States military.
-           Petitioner 1 and/or      Petitioner 2 is an active-duty servicemember of the United States military;
-           however, active-duty service did not impact the member's ability to prosecute or defend this action.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 18
-JUDGMENT ENTRY – DECREE OF DISSOLUTION OF MARRIAGE
-Approved under Ohio Civil Rule 84
-(IIHFWLYH'DWH6HSWHPEHU                                                                       Page 2 of 4
-
-   8.   Upon examination under oath, the parties acknowledged that they voluntarily entered into a Separation
-        Agreement which was attached to the Petition,         as modified on ________________________, and is
-        attached hereto as Exhibit A. Petitioners are satisfied with the terms of the Agreement, fully understand
-        same and believe it is a fair and equitable division of their assets and debts. Petitioners desire the Court
-        to approve and adopt the Agreement.
-
-   9.   Upon examination under oath, the parties acknowledged that they voluntarily entered into a     Shared
-        Parenting Plan OR          Parenting Plan which was attached to the Petition,        as modified on
-        __________________________, and is attached hereto as Exhibit B. Petitioners are satisfied with the
-        terms of the Plan, fully understand same and believe it to be in the best interest of their child(ren).
-        Petitioners desire the Court to approve and adopt the Plan.
-
-  10.   ____________________________________________________ requests to be restored to the former
-        name of_________________________________________________________________.
-
-  11.   Petitioners desire to have the marriage dissolved.
-
-                                                   JUDGMENT
-Based upon the findings set forth above, it is, therefore, ORDERED, ADJUDGED and DECREED:
-
-FIRST: DISSOLUTION GRANTED
-
-The dissolution of marriage is granted.
-
-The Court approves the:
-           Separation Agreement OR   Amended Separation Agreement
-           Shared Parenting Plan OR   Amended Shared Parenting Plan
-           Parenting Plan OR    Amended Parenting Plan
-
-as submitted and releases the parties from the obligations of their marriage except as set forth in the attached
-Agreement and     Plan which is/are incorporated in this Judgment Entry – Decree of Dissolution of Marriage as if
-fully rewritten.
-
-The parties shall fulfill each and every obligation imposed by the Agreement and Plan as submitted and modified,
-if applicable. This Judgment Entry – Decree of Dissolution shall constitute a Parenting Decree under R.C.
-3109.04(D).
-
-SECOND: NAME
-
-    ___________________________________________________________________ is restored to the former
-    name of _______________________________________________________________________________.
-
-THIRD: OTHER
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 18
- JUDGMENT ENTRY – DECREE OF DISSOLUTION OF MARRIAGE
- Approved under Ohio Civil Rule 84
- (IIHFWLYH'DWH6HSWHPEHU                                                                      Page 3 of 4
-
- FOURTH: COURT COSTS
-
- Court costs are:
-    Taxed to the deposit. Court costs due above the deposit shall be paid as follows:
-
-      Other: (specify)
-
- FIFTH: CLERK OF COURTS
-
- The Clerk of Courts shall provide:
-    a certified copy to:
-    a file stamped copy to: Child Support Enforcement Agency, if there are children
-
-                                                         JUDGE
-
- Petitioner 1 Signature                                  Petitioner 2 Signature
-
- _____________________________________________________   __________________________________________________________
- Printed Name                                            Printed Name
-
- ____________________________________________________    __________________________________________________________
- Petitioner 1’s Attorney Signature                       Petitioner 2’s Attorney Signature
-
- ____________________________________________________    __________________________________________________________
- Printed Name                                            Printed Name
-
- _____________________________________________________   __________________________________________________________
- Supreme Court Reg No.                                   Supreme Court Reg No.
-
-The Clerk is directed to serve upon all parties notice of this Judgment Entry and its date of entry upon the
-journal in accordance with Civ.R. 5(B), in the manner provided in Civ.R. 58(B).
-
-  Supreme Court of Ohio
-  Uniform Domestic Relations Form 18
-  JUDGMENT ENTRY – DECREE OF DISSOLUTION OF MARRIAGE
-  Approved under Ohio Civil Rule 84
-  (IIHFWLYH'DWH6HSWHPEHU                                                                   Page 4 of 4
-
-                               IN THE COURT OF COMMON PLEAS
-                       ___________________________ DIVISION
-                       ___________________________ COUNTY, OHIO
-
-                                                        Case No.
-Name
-                                                        Judge
-Street Address
-                                                        Magistrate
-City, State and Zip Code
-
-                            Plaintiff/Petitioner 1
-
-                       vs./and
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                            Defendant/Petitioner 2
-
-WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-         It is highly recommended that you consult an attorney.
-Instructions: This form is used to present an agreement to the Court regarding spousal support, the division of
-personal property, real estate, and debts resulting from the termination of marriage. If the parties have any minor
-child(ren) or child(ren) with disabilities, a Shared Parenting Plan (Uniform Domestic Relations Form 20) or Parenting
-Plan (Uniform Domestic Relations Form 21) must be attached. The Court may require additional forms to accompany
-this document. You must check the requirements of the county in which you file. YOU MUST UPDATE THE CLERK
-OF COURTS IF ANY OF THE ABOVE CONTACT INFORMATION CHANGES.
-
-                                            SEPARATION AGREEMENT
-
-The parties, ___________________________ and ___________________________, state as follows:
-
-   1. The parties were married on                                                                   (date of marriage)
-       in                                                                                   (city or county, and state).
-
-   2. The parties request that the termination of marriage be    the date of the final hearing or   the date specified:
-                                                                                                                       .
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 19
- SEPARATION AGREEMENT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                     Page 1 of 14
-
-   3. The parties intend to live separate and apart.
-
-   4. Each party completed (a) financial disclosure affidavit(s) which fully and accurately lists and values all marital
-      property, separate property, and any other assets, debts, income, and expenses.
-
-   5. Each party acknowledges that he/she reviewed the other party’s completed financial disclosure affidavit(s).
-
-   6. Each party’s financial disclosure affidavit(s) shall be filed in the Court’s Family File pursuant to Sup.R. 44(C)(2)(h)
-      no later than the date upon which this Agreement is filed.
-
-   7. Neither party has knowledge of any other property or debts of any kind in which either party has an interest.
-
-   8. Each party had the opportunity to value and verify all marital property, separate property, and debts.
-
-   9. A party’s willful failure to disclose may result in the Court awarding the other party three (3) times the value of
-      the property, assets, income, or expenses that were not disclosed.
-
-  10. This Agreement addresses spousal support, property, and debt division.
-
-  11. This Agreement is the complete agreement of the parties.
-
-  12. There are no other representations, agreements, statements, or prior writings that shall have any effect on this
-      Agreement.
-
-  13. Each party fully understands this Agreement and has knowingly and voluntarily signed this Agreement.
-
-  14. No change to the terms of this Agreement shall be valid unless in writing and knowingly and voluntarily signed
-      by both parties and incorporated into a Court order.
-
-The parties agree as follows:
-
-FIRST: SEPARATION
-The parties shall live separate and apart. Neither party shall interfere with the activities, personal life, or privacy of the
-other, harass the other, or engage in any conduct calculated to restrain, embarrass, injure, or hinder the other in any
-way.
-
-SECOND: PROPERTY
-Marital property is defined in R.C. 3105.171. Generally, marital property is property acquired during the marriage
-which is owned by either or both spouses and property in which either spouse has an interest.
-
-Separate property is defined in R.C. 3105.171. Generally, separate property is property that was inherited, acquired
-by one spouse prior to the date of marriage, acquired after a decree of legal separation under R.C. 3107.17, excluded
-by a valid antenuptial agreement, received as compensation for personal injury, (except for loss of marital earnings
-and compensation for expenses paid from marital assets), or any gift of property that was given to only one (1) spouse.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 19
- SEPARATION AGREEMENT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                           Page 2 of 14
-
-A.     Real Estate: (select one)
-Real estate includes, but is not limited to, land, mortgaged properties, buildings, fixtures attached to buildings, attached
-structures (for example, garage, in-ground pool), condominiums, time shares, mobile homes officially converted to real
-estate, natural condition stakes (for example, gas, oil, mineral rights, existing soil, including trees and landscape), and
-remainder rights in real estate.
-
-   1.      Neither party has any ownership interest in any real estate.
-
-   2.      One or both of the parties has/have an interest in real estate and agree to distribute the interest(s) as follows:
-
-                   Address or Parcel Number of Property                                          Party
-
-   3. A legal description of the property (found in the property’s deed) should be attached.
-
-   4. Each party shall pay and hold the other harmless from any debt, including mortgages, real estate taxes and
-      assessments, and other liens owing on real estate received unless otherwise stated in this Agreement.
-
-   5. Other arrangements regarding real estate, including, but not limited to, refinancing or sale:
-
-If the real estate is not in the name of the party to whom it is distributed, the parties shall transfer the property
-to the proper party no later than thirty (30) days after filing the Final Judgment Entry unless otherwise provided
-in this Agreement.
-
-B.      Titled Vehicles: (select one)
-Titled vehicles include, but are not limited to, boats, trailers, automobiles, motorcycles, trucks, mobile homes not
-officially converted to real estate, golf carts, motor scooters, sport utility vehicles (SUV), recreational vehicles (RV),
-and all purpose vehicles (APV). Provide vehicle year, make, model, and vehicle identification or serial number
-(VIN/SN) for all titled vehicle(s).
-
-   1.     Neither party has any ownership interest in any titled vehicle(s).
-
-   2.     Plaintiff/Petitioner 1 shall receive the following titled vehicle(s) free and clear of any claim of
-          Defendant/Petitioner 2:
-
-               Year                   Make                     Model                               VIN/SN
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 19
- SEPARATION AGREEMENT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                          Page 3 of 14
-
-   3.    Defendant/Petitioner 2 shall receive the following titled vehicle(s) free and clear of any claim of
-         Plaintiff/Petitioner 1
-
-               Year                   Make                   Model                              VIN/SN
-
-   4. Each party shall pay and hold the other harmless from any debt owing on the titled vehicle(s) received unless
-      otherwise stated in this Agreement.
-
-   5. Other arrangements regarding titled vehicles, including, but not limited to, refinancing or sale:
-
-If any vehicle’s title is not in the name of the party to whom it is distributed, the current title holder shall
-transfer that title to the proper party no later than thirty (30) days after filing the Final Judgment Entry unless
-otherwise provided in this Agreement. If title cannot be transferred immediately to the party to whom the
-vehicle is distributed, the party holding the title shall make the following arrangements to obtain and pay for
-license plates, registration, and insurance:
-
-C.     Household Goods and Personal Property: (select one)
-Household goods and personal property include, but are not limited to, pets, appliances, electronics, tools, air
-conditioner window units, doghouses, lawn mowers, above-ground pools, safety deposit boxes, jewelry, furniture,
-firearms, silverware, collections, china, and books.
-
-   1.     The parties divided all of their household goods and personal property. Each party shall retain all household
-          goods and personal property in his/her possession. The parties are satisfied with the division.
-
-   2.     The parties divided all of their household goods and personal property. Each party shall retain all household
-          goods and personal property in his/her possession, except as follows:
-
-          Plaintiff/Petitioner 1 shall receive:
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 19
- SEPARATION AGREEMENT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                     Page 4 of 14
-
-          Defendant/Petitioner 2 shall receive:
-
-   3. Delivery or pick-up of household goods and personal property shall be as follows:
-
-   4. Each party shall pay and hold the other harmless from any debt owing on the household goods and personal
-      property he/she receives unless otherwise stated in this Agreement.
-
-   5. Other arrangements regarding household goods and personal property:
-
-D.    Financial Accounts: (select one)
-Financial accounts include, but are not limited to, checking, savings, certificates of deposit, money market accounts,
-medical or health savings accounts, education or college saving plans (for example, 529 Plan), and trusts.
-
-   1.      Neither party has any ownership interest in any financial accounts.
-
-   2.      Plaintiff/Petitioner 1 shall receive the following:
-
-                        Institution                        Current Name(s)                  Type of Account
-                                                             on Account
-                                                                                       checking    saving
-                                                                                       other:
-                                                                                       checking    saving
-                                                                                       other:
-                                                                                       checking    saving
-                                                                                       other:
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 19
- SEPARATION AGREEMENT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                      Page 5 of 14
-
-     3.      Defendant/Petitioner 2 shall receive the following:
-
-                          Institution                        Current Name(s)                    Type of Account
-                                                               on Account
-                                                                                           checking   saving
-                                                                                           other:
-                                                                                           checking   saving
-                                                                                           other:
-                                                                                           checking   saving
-                                                                                           other:
-
-     4. Each party shall pay and hold the other harmless from any debt owing on the financial accounts he/she receives
-        unless otherwise stated in this Agreement.
-
-     5. Other arrangements regarding financial accounts:
-
-If any financial account is not held in the name of the party to whom it is distributed, the parties shall transfer
-the financial account to the proper party no later than thirty (30) days after filing the Final Judgment Entry
-unless otherwise provided in this Agreement.
-
-E.        Stocks, Bonds, Securities, and Mutual Funds: (select one)
-     1.      Neither party has an interest in any stocks, bonds, securities, or mutual funds.
-
-     2.      Plaintiff/Petitioner 1 shall receive the following:
-
-                          Institution                         Current Name(s)              Quantity and Description
-                                                                on Account
-
-     3.      Defendant/Petitioner 2 shall receive the following:
-
-                          Institution                         Current Name(s)              Quantity and Description
-                                                                on Account
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 19
- SEPARATION AGREEMENT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                         Page 6 of 14
-
-     4. Each party shall pay and hold the other harmless from any debt owing on the stocks, bonds, securities, or
-        mutual funds he/she receives unless otherwise stated in this Agreement.
-
-     5. Other arrangements regarding the stocks, bonds, securities, or mutual funds:
-
-If any stock, bond, security, or mutual fund is not in the name of the party to whom it is distributed, the parties
-shall transfer the stock, bond, security, or mutual fund to the proper party no later than thirty (30) days after
-filing the Final Judgment Entry unless otherwise provided in this Agreement.
-
-F.        Business Interests: (select one)
-     1.      Neither party has any interest in any business.
-
-     2.      Plaintiff/Petitioner 1 shall receive the following:
-
-                             Name of Business                                  Ownership Interest
-
-     3.       Defendant/Petitioner 2 shall receive the following:
-
-                             Name of Business                                  Ownership Interest
-
-     4. Each party shall pay and hold the other harmless from any debt owing on the business interests he/she receives
-        unless otherwise stated in this Agreement.
-
-     5. Other arrangements regarding business interests:
-
-If any business is not in the name of the party to whom it is distributed, the parties shall transfer the business
-to the proper party no later than thirty (30) days after filing the Final Judgment Entry unless otherwise provided
-in this Agreement.
-
-G.      Pension, Profit Sharing, IRA, 401(k), Deferred Compensation, and Other Retirement Plans:
-        (select one)
-     1.    Neither party has any interest in any pension, profit sharing, IRA, 401(k), deferred compensation, or other
-           retirement plans.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 19
- SEPARATION AGREEMENT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                    Page 7 of 14
-
-   2.      Plaintiff/Petitioner 1 shall receive the following:
-
-                        Institution                         Name(s) on Plan             Amount/Share
-
-   3.      Defendant/Petitioner 2 shall receive the following:
-
-                        Institution                         Name(s) on Plan             Amount/Share
-
-        4. Each party shall pay and hold the other harmless from any debt owing on any pension, profit sharing, IRA,
-           401(k), deferred compensation, or other retirement plans he/she receives unless otherwise stated in this
-           Agreement.
-
-        5. Other arrangements regarding pension, profit sharing, IRA, 401(k), deferred compensation, or other
-           retirement plans:
-
-The parties shall arrange the transfer of any distributed interest in any pension, profit sharing, IRA, 401(k),
-deferred compensation, or other retirement plans to the proper party no later than thirty (30) days after filing
-the Final Judgment Entry unless otherwise provided in this Agreement.
-
-A Qualified Domestic Relations Order (QDRO), Division of Property Order (DOPO), or other required Order
-may be necessary to divide some of these assets. The QDRO, DOPO, or other required Order shall be prepared
-by: ____________________________________ and submitted to the Court within ninety (90) days after the final
-hearing. Expenses of preparation, approval, and filing shall be paid as follows:
-
-The parties acknowledge that failure to file a QDRO, DOPO, or other required Order to effectuate the
-distribution of an interest in a pension, profit sharing, IRA, 401(k), deferred compensation, or other retirement
-plan may detrimentally affect the distribution of the retirement interest(s) and may result in further legal
-proceedings. The Court shall retain jurisdiction to effectuate the intended distribution of retirement interests
-and to issue, interpret, and enforce the terms of documents of transfer.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 19
- SEPARATION AGREEMENT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                  Page 8 of 14
-
-H.         Life Insurance Policies: (select one)
-      1.          Neither party has any interest in any life insurance policy(ies) with a cash value.
-
-      2.         Plaintiff/Petitioner 1 shall receive the following policy(ies):
-
-      3.         Defendant/Petitioner 2 shall receive the following policy(ies):
-
-      4. Each party shall pay and hold the other harmless from any debt owing on the life insurance policy(ies) he/she
-         receives unless otherwise stated in this Agreement.
-
-      5. Other arrangements regarding life insurance policy(ies):
-
-If any life insurance policy is not in the name of the party to whom it is distributed, the parties shall transfer
-the life insurance policy to the proper party no later than thirty (30) days after filing the Final Judgment Entry
-unless otherwise provided in this Agreement.
-
-I.       Other Property: (select one)
-      1.      Neither party has any other property.
-
-      2.         Other property owned by one or both of the parties shall be distributed as follows:
-
-                                          Description of Property                                       Party
-
-      3. Each party shall pay and hold the other harmless from any debt owing on the property he/she receives
-         unless otherwise stated in this Agreement.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 19
- SEPARATION AGREEMENT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                      Page 9 of 14
-
-     4. Other arrangements regarding the property above:
-
-If the property listed above is not in the possession or titled in the name of the party to whom it is distributed,
-the parties shall transfer the property to the proper party no later than thirty (30) days after filing the Final
-Judgment Entry unless otherwise provided in this Agreement.
-
-THIRD: DEBTS (select one)
-    1.     Neither party owes any debt(s) which are not paid in full each month, including, but not limited to, credit
-           cards, medical bills, student loans, tax obligations, and 401(k) or insurance loans.
-
-     2.        Plaintiff/Petitioner 1 shall pay the following debt(s):
-
-                              Creditor                              Balance                  Current Name
-                                                                                              on Account
-
-     3.        Defendant/Petitioner 2 shall pay the following debt(s):
-
-                              Creditor                              Balance                   Current Name
-                                                                                               on Account
-
-     4. Each party shall pay and hold the other harmless from the above listed debt unless otherwise stated in this
-        Agreement
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 19
-SEPARATION AGREEMENT
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                    Page 10 of 14
-
-      5. Other arrangements regarding debt(s), including refinancing:
-
-      6. The Court has continuing jurisdiction to determine whether a debt assigned to a party qualifies as an
-         exception to discharge in bankruptcy.
-
-      7. Neither party shall incur liabilities in the name of the other party in the future.
-
-FOURTH: SPOUSAL SUPPORT
-A.    No Spousal Support Obligation
-           Neither Plaintiff/Petitioner 1 nor Defendant/Petitioner 2 shall pay spousal support to the other, subject
-           to any jurisdiction reserved in Section E below.
-
-B.        Spousal Support Obligation
-              Plaintiff/Petitioner 1 Defendant/Petitioner 2 shall pay spousal support to      Plaintiff/Petitioner 1
-              Defendant/Petitioner 2 in the amount of $________________ per month commencing on
-              __________________________________. Spousal support shall continue                     for a period of
-              ________________________ months OR           until further order of this Court.
-
-C.        Method of Payment of Spousal Support:
-               Spousal support payments shall be made directly to  Plaintiff/Petitioner 1  Defendant/Petitioner 2.
-               (Direct payment can only be made if there are no minor child(ren) and in accordance with R.C.
-               3121.441.)
-               Spousal support payments, plus two percent (2%) processing charge, shall be made to the Ohio Child
-               Support Payment Central, P. O. Box 182372, Columbus, Ohio 43218-2372, as administered through
-               the _________________________ County Child Support Enforcement Agency by:                  income
-               withholding or   other ___________________________________.
-
-D.        Termination of Spousal Support
-          Spousal support shall terminate earlier than the above stated date upon Plaintiff/Petitioner 1’s or
-          Defendant/Petitioner 2’s death or in the event of the following: (check all that apply)
-               The cohabitation of the person receiving support in a relationship comparable to marriage.
-               The remarriage of the person receiving support.
-               Other: (specify)
-
-E.        Reservation of Jurisdiction
-          Under all circumstances, the Court shall retain jurisdiction over the issue of spousal support to hear and
-          determine a Motion for Relief from Judgment pursuant to Civ.R. 60(B).
-          On other matters involving spousal support: (check all that apply)
-               The Court shall retain jurisdiction to establish or modify the amount and/or duration of spousal
-               support in the event either party files bankruptcy.
-               The Court shall NOT retain jurisdiction to establish or modify the amount and/or duration of spousal
-               support in the event either party files bankruptcy.
-               The Court shall retain jurisdiction to modify the amount of the spousal support order.
- Supreme Court of Ohio
- Uniform Domestic Relations Form 19
- SEPARATION AGREEMENT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                  Page 11 of 14
-
-                The Court shall NOT retain jurisdiction to modify the amount of the spousal support order.
-                The Court shall retain jurisdiction to modify the duration of the spousal support order.
-                The Court shall NOT retain jurisdiction to modify the duration of the spousal support order.
-
-F.        Other orders regarding spousal support: (specify)
-
-G.        Arrearage or Overpayment
-               Any temporary spousal support arrearage or overpayment shall survive the Judgment Entry.
-               Any temporary spousal support arrearage or overpayment shall not survive the Judgment Entry.
-               Other:
-
-FIFTH: NAME
-                                                                                                  shall be restored
-     to the former name of
-
-SIXTH: ALLOCATION OF PARENTAL RIGHTS AND RESPONSIBILITIES, PARENTING TIME, CHILD SUPPORT,
-        AND HEALTH CARE
-            The parties do not have (a) child(ren) subject to the jurisdiction of the Court.
-            The parties have (a) child(ren) subject to the jurisdiction of the Court, and a
-                 Parenting Plan is attached
-                 Shared Parenting Plan is attached.
-
-SEVENTH: OTHER
-The parties agree to the following additional matters:
-
-EIGHTH: NON-USE OF OTHER’S CREDIT
-Neither party shall incur any debt or obligation upon the credit of the other or in their joint names. If a party incurs such
-debt or obligation that party shall repay, indemnify, and hold the other harmless as to any such debt or obligation. All
-joint credit card accounts shall be immediately cancelled. All joint credit cards shall be immediately destroyed.
-
-NINTH: INCORPORATION INTO JUDGMENT ENTRY
-If one or both of the parties institute or have instituted proceedings for dissolution, divorce, or separation, this
-Agreement shall be presented to the Court with the request that it be adjudicated to be fair, just, and proper, and
-incorporated into a Judgment Entry.
-
-TENTH: PERFORMANCE OF NECESSARY ACTS
-Upon execution and approval of this Agreement by the Court, each party shall deliver to the other party, or permit the
-other party to take possession of all items of property to which each is entitled under the terms of this Agreement, and
-shall make all periodic payments required under the terms of this Agreement.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 19
- SEPARATION AGREEMENT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                         Page 12 of 14
-
-ELEVENTH: SEVERABILITY
-If any provision of this Agreement is held to be invalid or unenforceable, all other provisions shall continue in full force
-and effect.
-
-TWELFTH: APPLICABLE LAW
-All of the provisions of this Agreement shall be construed and enforced in accordance with the laws of the State of
-Ohio.
-
-THIRTEENTH: MUTUAL RELEASE
-Except as otherwise provided, the parties release and forever discharge each other from any and all actions, suits,
-debts, claims, demands, and obligations whatsoever, both in law and in equity, which either of them ever had, now
-has, or may have or assert against the other upon or by reason of any matter or cause to the date of the execution of
-this Agreement.
-
-Each party waives all rights of inheritance and the right to share in the estate of the other, and waives all rights which
-would otherwise be available as a surviving spouse, except payments or rights included in this Agreement.
-
-Plaintiff/Petitioner 1 Signature                                 Defendant/Petitioner 2 Signature
-
-______________________________________________________           _______________________________________________________
-Printed Name                                                     Printed Name
-
-______________________________________________________           ______________________________________________________
-Date                                                             Date
-
-                                                   ACKNOWLEDGMENT
-
-     STATE OF OHIO                                      )
-                                                        ) SS
-     COUNTY OF ___________________                      )
-
-             Before me, a Notary Public, personally appeared __________________________, Plaintiff/Petitioner
-     1, who acknowledged that Plaintiff/Petitioner 1 has signed the Separation Agreement, that Plaintiff/Petitioner 1
-     understands the Separation Agreement, and that Plaintiff/Petitioner 1 is aware of the consequences of signing
-     the Separation Agreement.
-
-               The      foregoing     Separation      Agreement      was     acknowledged        before      me       this
-     __________________________                (date)   by     ___________________________________________
-     (Plaintiff/Petitioner 1). No oath or affirmation was administered to the signer with regard to this notarial act.
-
-                                                        ________________________________________________
-                                                        Signature of Notary Public
-
-                                                        ________________________________________________
-                                                        Printed Name of Notary Public
-
-                                                        Commission Expiration Date: ________________________
-
-                                                        (Affix seal here)
- Supreme Court of Ohio
- Uniform Domestic Relations Form 19
- SEPARATION AGREEMENT
- Approved under Ohio Civil Rule 84
- Amended: June 1, 2021                                                                                         Page 13 of 14
-
-   STATE OF OHIO                                     )
-                                                     ) SS
-   COUNTY OF ___________________                     )
-
-            Before me, a Notary Public, personally appeared __________________________,
-   Defendant/Petitioner 2, who acknowledged that Defendant/Petitioner 2 has signed the Separation Agreement,
-   that Defendant/Petitioner 2 understands the Separation Agreement, and that Defendant/Petitioner 2 is aware
-   of the consequences of signing the Separation Agreement.
-
-          The      foregoing     Separation      Agreement     was       acknowledged       before      me      this
-   __________________________           (date)      by    ___________________________________________
-   (Defendant/Petitioner 2). No oath or affirmation was administered to the signer with regard to this notarial act.
-
-                                                     ________________________________________________
-                                                     Signature of Notary Public
-
-                                                     ________________________________________________
-                                                     Printed Name of Notary Public
-
-                                                     Commission Expiration Date: ________________________
-
-                                                     (Affix seal here)
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 19
-SEPARATION AGREEMENT
-Approved under Ohio Civil Rule 84
-Amended: June 1, 2021                                                                                     Page 14 of 14
-
-                                  IN THE COURT OF COMMON PLEAS
-                                                      DIVISION
-                                                      COUNTY, OHIO
-
-IN THE MATTER OF:
-
-A Minor
-
-                                                               Case No.
-Name
-                                                               Judge
-Street Address
-                                                               Magistrate
-City, State and Zip Code
-                                  Plaintiff/Petitioner 1
-
-                       vs./and
-
-Name
-
-Street Address
-
-City, State and Zip Code
-                               Defendant/Petitioner 2
-
-WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-         It is highly recommended that you consult an attorney.
- Instructions: The Parenting Time Schedule must be attached to this Plan. Parents are urged to consult the
- Planning for Parenting Time Guide: Ohio's Guide for Parents Living Apart and Domestic Violence & Allocation of
- Parental Rights and Responsibilities available at www.supremecourt.ohio.gov.
-
-                                            SHARED PARENTING PLAN
-
-The parents, ________________________________________________, “Plaintiff/Petitioner 1”, and
-________________________________________________, Defendant/Petitioner 2”, have ______________
-(number) child(ren) from the marriage or relationship. Of the child(ren), ______________ (number) is/are
-emancipated adult(s) and not under any disability. The following ______________ (number) child(ren) are minor
-child(ren) and/or mentally or physically disabled child(ren) incapable of supporting or maintaining themselves:
-
-                             Name of Child                                   Date of Birth
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 20
- SHARED PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                              Page 1 of 18
-
-The parents agree to the care, parenting, and control of their child(ren) as provided in this Shared Parenting Plan.
-
-FIRST: PARENTS’ RIGHTS
-Unless otherwise stated herein, the parents shall have:
-     A. The right to participate in major decisions concerning the child(ren)'s health, social situation, morals,
-         welfare, education, and economic environment.
-     B. The right to reasonable telephone contact with the child(ren) when they are with the other parent.
-     C. The right to participate in the selection of doctors, psychologists, psychiatrists, hospitals, and other health
-         care providers for the child(ren).
-     D. The right to authorize medical, surgical, hospital, dental, institutional, psychological, and psychiatric care
-         for the child(ren) and obtain a second opinion regarding medical conditions or treatment.
-     E. The right to be notified in case of an injury to or illness of the child(ren).
-     F. The right to be present with the child(ren) at medical, dental, and other health-related examinations and
-         treatments, including, but not limited to, psychological and psychiatric care.
-     G. The right to inspect and receive the child(ren)’s medical and dental records and the right to consult with
-         any treating physician, dentist, and/or other health care provider, including, but not limited to, psychologists
-         and psychiatrists.
-     H. The right to consult with school officials concerning the child(ren)'s welfare and educational status, and
-         the right to inspect and receive the child(ren)’s student records to the extent permitted by law.
-      I. The right to receive copies of all school reports, calendars of school events, notices of parent-teacher
-         conferences, and school programs.
-     J. The right to attend and participate in parent-teacher conferences, school trips, school programs, and other
-         school activities to which parents are invited.
-     K. The right to attend and participate with the child(ren) in athletic programs and other extracurricular
-         activities.
-     L. The right to receive notice of the other parent’s intention to relocate.
-
-SECOND: ALLOCATION OF PARENTAL RIGHTS AND RESPONSIBILITIES
-    A. General Responsibilities
-       Each parent shall take all measures necessary to foster respect and affection between the child(ren) and
-       the other parent. Neither parent shall do anything that may estrange the child(ren) from the other parent,
-       or impair the child(ren)’s high regard for the other parent.
-
-      B. The parents have shared parenting of the child(ren) as specified in this Plan. Each parent, regardless of
-         where an individual child is residing at a particular point in time, as specified in this Plan, is the “residential
-         parent,” “the residential parent and legal custodian,” or the “custodial parent” of that child.
-
-     C. Parenting Time Schedule
-        A parenting time schedule must be attached to this Plan.
-
-         The parents shall have parenting time with the child(ren) according to the attached parenting time
-         schedule, which shows the times that the child(ren) shall be with each parent on weekdays, weekends,
-         holidays and days of special meaning, and vacations.
-
-         The parties may voluntarily modify the parenting time schedule, if agreed; however, the Court cannot
-         enforce any change in the parenting time schedule unless it is made an Order of the Court.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 20
- SHARED PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                         Page 2 of 18
-
-   D.   Transportation to School and Parenting Time
-        Absent other agreement of the parties included in the attached parenting time schedule, each parent shall
-        be responsible for providing transportation for the child(ren) at the beginning of the parent’s parenting time
-        period. Each parent shall be responsible for providing transportation for the child(ren) to and from school
-        during that parent’s parenting time period.
-
-             Other agreement regarding transportation to school and parenting time:
-
-   E.   School Placement
-        The designation of a particular parent as the residential parent for the purposes of determining the school
-        placement of the child(ren) does not affect the designation of each parent as the “residential parent,”
-        “residential parent and legal custodian,” or the “custodial parent of the child(ren)”.
-
-        Plaintiff/Petitioner 1 shall be designated as the residential parent for school placement purposes of the
-        following child(ren):
-        ___________________________________________________________________________________
-
-        Defendant/Petitioner 2 shall be designated as the residential parent for school placement purposes of the
-        following child(ren):
-        ___________________________________________________________________________________
-
-             Other agreement regarding school placement:
-
-   F.   Education Decisions Other than School Placement
-        Each parent shall consult with the other regarding any important education decisions affecting the
-        child(ren). Important education decisions affecting the child(ren) shall be made by agreement of the
-        parties. Each parent shall be reasonable in attempting to reach an agreement on such matters. In the
-        event the parties cannot agree on education decisions other than school placement, the decision of:
-
-             Plaintiff/Petitioner 1 shall be binding on the parents and the following child(ren):
-
-             Defendant/Petitioner 2 shall be binding on the parents and the following child(ren):
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 20
-SHARED PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                    Page 3 of 18
-
-   G. Responsibility for Child Activities
-   1. Participation in Activities
-      The parents shall give careful consideration of the child(ren)’s best interest and the child(ren)’s wishes in
-      scheduling activities. Neither parent will unreasonably withhold agreement to any particular activity. The
-      parents shall be reasonable with respect to this provision and take into consideration the needs and
-      interests of the child(ren) at all times. The scheduling of events, appointments, and activities shall not be
-      done in a manner to cause undue inconvenience or harassment to the other parent. Both parents must
-      understand that the child(ren) need(s) to be able to participate in regular activities without interference and
-      with the support of both parents.
-      Absent other agreement by the parents, the child(ren) shall continue to participate in those extracurricular
-      activities, school-related and other activities in which they are currently enrolled, uninterrupted.
-
-             Other agreement regarding participation in current or new extracurricular, school-related or other
-             activities:
-
-       Each parent shall provide the other with notice of all extracurricular activities, school-related or otherwise,
-       in which the child(ren) participates, schedules of all activities (handwritten if no formal schedule is provided
-       by the activity) and the name of the activity leader (including address and telephone number if reasonably
-       available).
-
-   2. Transportation to Activities
-      Absent other agreement by the parents, it is the responsibility of the parent in possession of the child(ren)
-      to provide transportation to an activity.
-
-             Other agreement regarding transportation:
-
-   3. Payment of Expenses Related to Activities
-      Each parent shall notify the other about any and all expenses arising from the child’s extracurricular, school-
-      related, or other activities.
-
-       Absent other agreement of the parents, the parents shall divide the costs and expenses associated with
-       their child(ren)’s participation in any extracurricular, school-related, or other activities as follows:
-             Plaintiff/Petitioner 1 __________________________________________________________
-             Defendant/Petitioner 2 ________________________________________________________
-             Other agreement regarding the division of extracurricular, school-related, or other activity expenses:
-
-       The parent incurring an expense related to an extracurricular, school-related, or other activity shall forward
-       a copy of the bill or invoice to the other parent as soon as practicable. Absent other agreement of the
-       parents as stated herein, reimbursement or payment shall be made within thirty (30) days of receipt of the
-       bill or invoice.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 20
-SHARED PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                     Page 4 of 18
-
-             Other agreement regarding reimbursement or payment of expenses:
-
-   H.    Health Care Responsibilities
-         Each parent shall promptly notify the other parent if a child experiences a serious injury, has a serious
-         or chronic illness, or receives treatment in an emergency room or hospital. Each parent shall notify the
-         other parent of the emergency, the child's status, locale, and any other pertinent information as soon as
-         practical, but in any event within twenty-four (24) hours. Each parent shall provide the other with the
-         names and telephone numbers of all health care providers for the child(ren).
-
-         Each parent shall consult the other about the child(ren)’s health care needs and each shall immediately
-         notify the other parent about all major non-emergency health care decisions before authorizing a course
-         of treatment. Each parent has a right to know the necessity for treatment, proposed cost, and proposed
-         payment schedule. Each parent may also secure an independent evaluation at that parent’s expense to
-         determine the necessity for treatment.
-
-         If the parties cannot agree regarding a course of treatment,                  Plaintiff’s/Petitioner 1’s
-         Defendant’s/Petitioner 2’s (select one) decision shall control.
-
-    I.   Current Address and Telephone Number
-         Plaintiff’s/Petitioner 1’s current home address and telephone number, including cellular telephone
-         number:
-
-         Defendant’s/Petitioner 2’s current home address and telephone number, including cellular telephone
-         number:
-
-    J.   Relocation Notice
-         Pursuant to R.C. 3109.051(G):
-
-         If either parent intends to move to a residence other than the residence specified in the Court order, the
-         parent shall file a notice of intent to relocate with this Court. Except as provided in R.C. 3109.051(G)(2),
-         (3), and (4), the Court shall send a copy of the notice to the other parent. Upon receipt of the notice, the
-         Court, on its own motion or the motion of either parent, may schedule a hearing with notice to both
-         parents to determine whether it is in the best interest of the child(ren) to revise the parenting time
-         schedule for the child(ren).
-
-         Each parent shall inform the Court and the other parent, in writing, of changes in address and telephone,
-         including cellular telephone number, unless otherwise provided by Court order.
-
-         The relocation notice must be filed with the Court granting the allocation of parental rights and
-         responsibilities: (print name and address of Court)
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 20
-SHARED PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                     Page 5 of 18
-
-    K.   Records Access Notice
-         Pursuant to R.C. 3109.051(H) and 3319.321(B)(5)(a):
-
-         Subject to R.C. 3125.16 and 3319.321(F), both parents are entitled access to any record related to the
-         child(ren), unless otherwise restricted. Any keeper of a record who knowingly fails to comply with
-         permitting record access is in contempt of Court.
-
-         Restrictions or limitations:
-           None
-           Restrictions or limitations to records access are as follows:
-
-    L.   Day Care Access Notice
-         Pursuant to R.C. 3109.051(I):
-
-         In accordance with R.C. 5104.039, both parents are entitled access to any day care center that is or will
-         be attended by the child(ren) unless otherwise restricted.
-
-         Restrictions or limitations:
-           None
-           Restrictions or limitations to day care access are as follows:
-
-    M.   School Activities Access Notice
-         Pursuant to R.C. 3109.051(J):
-
-         Subject to R.C. 3319.321(F), both parents are entitled access to any student activity related to the
-         child(ren), unless otherwise restricted. Any school employee or official who knowingly fails to comply
-         with permitting school activities access is in contempt of Court.
-
-         Restrictions or limitations:
-           None
-           Restrictions or limitations to school activities access are as follows:
-
-THIRD: CHILD SUPPORT
-As required by law, a completed Child Support Worksheet is attached to this document.
-
-The Order for child support and cash medical support is effective ____________________, 20________.
-
-For purposes of this order:
-
-   Plaintiff/Petitioner 1    Defendant/Petitioner 2 is the child support obligor (pays support).
-   Plaintiff/Petitioner 1    Defendant/Petitioner 2 is the child support obligee (receives support).
- Supreme Court of Ohio
- Uniform Domestic Relations Form 20
- SHARED PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                 Page 6 of 18
-
-The following information is provided in accordance with R.C. 3105.72 and 3121.30:
-
-SUPPORT OBLIGOR (pays support):
-
-         Name (First, MI, Last):
-         Social Security Number:            xxx-xx-________________ (fill in last four digits)
-         Date of Birth:
-
- SUPPORT OBLIGEE (receives support):
-
-         Name (First, MI, Last):
-         Social Security Number:            xxx-xx-_________________ (fill in last four digits)
-         Date of Birth:
-
- A.     Guideline Child Support Amount
-        The guideline child support obligation, as determined by the Child Support Worksheet, is
-        $________________ per child, per month for ________ (number) child(ren), for a total of
-        $________________ per month. (Line 24 Sole/Shared Parenting Child Support Computation Worksheet
-        or Line 25 Split Parenting Child Support Computation Worksheet)
-
- B.     Overnight Parenting Time Adjustment
-            The child support obligor does not have Court ordered parenting time which is equal to or exceeds
-            ninety (90) overnights.
-            The child support obligor has Court ordered parenting time which is equal to or exceeds ninety (90)
-            overnights. The above computation reflects an automatic ten percent (10%) adjustment in the
-            guideline child support obligation.
-
- C.     Overnight Parenting Time Deviation
-            Pursuant to R.C. 3119.231, there is extended Court ordered parenting time which:
-
-              exceeds ninety (90) overnights but is not more than 146 overnights (__________ overnights).
-
-                    A deviation is not granted.
-                    The annual obligation would be unjust and inappropriate and, therefore, not in the best interest
-                    of the minor child(ren). A deviation is granted for the following reasons:
-
-                                                          – OR –
-
-              is equal to or exceeds 147 overnights (________________ overnights).
-
-                   A deviation is      granted      not granted for the following reasons:
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 20
- SHARED PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                   Page 7 of 18
-
-D.     Other Deviation Factors (if applicable)
-           Pursuant to R.C. 3119.22, 3119.23 and/or 3119.24, the annual obligation would be unjust and
-           inappropriate and, therefore, not in the best interest of the minor child(ren) for the following reason(s):
-
-                                                 (Check all that apply)
-             Special and unusual needs of the child(ren), including needs arising from the physical or
-             psychological condition of the child(ren)
-
-             Other Court ordered payments
-
-             Extended parenting time or extraordinary costs associated with parenting time, including
-             extraordinary travel expenses when exchanging the child(ren) for parenting time
-
-             Financial resources and the earning ability of the child(ren)
-
-             Relative financial resources, including the disparity in income between parties or households, other
-             assets, and the needs of each parent
-
-             Obligee’s income, if the obligee’s annual income is equal to or less than one hundred percent (100%)
-             of the federal poverty level
-
-             Benefits that either parent receives from remarriage or sharing living expenses with another person
-
-             Amount of federal, state, and local taxes actually paid or estimated to be paid by a parent or both
-             parents
-
-             Significant in-kind contributions from a parent, including, but not limited to, direct payment for lessons,
-             sports equipment, schooling, or clothing
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 20
-SHARED PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                       Page 8 of 18
-
-             Extraordinary work-related expenses incurred by either parent
-
-             Standard of living and circumstances of each parent and the standard of living the child(ren) would
-             have enjoyed had the marriage continued or had the parents been married
-
-             Educational opportunities that would have been available to the child(ren) had the circumstances
-             requiring a child support order not arisen
-
-             The responsibility of each parent for the support of others, including support of (a) child(ren) with
-             disabilities who is/are not subject to the support order
-
-             Post-secondary educational expenses paid for by a parent for the parent’s own child(ren), regardless
-             of whether the child(ren) is/are emancipated
-
-             Costs incurred or reasonably anticipated to be incurred by the parents in compliance with Court
-             ordered reunification efforts in child abuse, neglect, or dependency cases
-
-             Extraordinary child care costs required for the child(ren) that exceed the maximum state-wide
-             average cost estimate as described in R.C. 3119.05(P)(1)(d), including extraordinary costs
-             associated with caring for (a) child(ren) with specialized physical, psychological, or educational needs
-
-             Any other relevant factor: (specify)
-
-             Extraordinary circumstances associated with shared parenting: (Only if Shared Parenting is ordered
-             - check all that apply)
-                  Ability of each parent to maintain adequate housing for the child(ren)
-                  Each parent’s expenses, including child care expenses, school tuition, medical expenses,
-                  dental expenses, and other relevant expenses
-                  Any other relevant circumstances: (specify)
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 20
-SHARED PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                    Page 9 of 18
-
-E.     Monthly Child Support Obligation
-       The child support obligor (pays support) shall pay child support in the amount of $_________________
-       per child, per month for ____________ (number) child(ren), for a total of $_________________ per
-       month, plus two percent (2%) processing charge. (If there is no child support deviation, Line 24
-       Sole/Shared Child Support Computation Worksheet, or Line 25 Split Parenting Child Support Computation
-       Worksheet. If there is a deviation in child support, Line 26 Sole/Shared Child Support Computation
-       Worksheet, or Line 27 Split Parenting Child Support Computation Worksheet.)
-
-F.     Arrearage or Overpayment
-            Child support arrearage or overpayment for the minor child(ren) payable either by administrative
-            order, temporary or final order shall survive and continue as an enforceable obligation until paid in
-            full.
-            Child support arrearage or overpayment for the minor child(ren) payable either by administrative
-            order, temporary or final order shall not survive and continue as an enforceable obligation until paid
-            in full, except the arrearage assigned to and due to the Department of Job and Family Services.
-
-G.     Method to Secure Support Payment(s)
-       All support under this Order shall be withheld or deducted from the income or assets of the support obligor
-       pursuant to a withholding or deduction notice or appropriate Order issued in accordance with R.C.
-       Chapters 3119, 3121, 3123, and 3125 or a withdrawal directive issued pursuant to R.C. 3123.24 to 3123.38
-       and shall be forwarded to the obligee in accordance with R.C. Chapters 3119, 3121, 3123, and 3125.
-
-       The support obligor shall immediately notify the ___________________ County Child Support
-       Enforcement Agency, in writing, of any change in employment (including self-employment), receipt of
-       additional income/monies or termination of benefits. The support obligor shall include a description of the
-       nature of the employment and the name, business address and telephone number of any employer.
-
-       The specific withholding or deduction requirements to be used to collect the support shall be set forth and
-       determined by reference to the notices that are sent out by the Child Support Enforcement Agency in
-       accordance with R.C. 3121.03 and shall be determined without the need for any amendment to the support
-       order. Those notices, plus the notices provided by the Child Support Enforcement Agency that require the
-       child support obligor to notify the Child Support Enforcement Agency of any change in his/her employment
-       status or of any other change in the status of his/her assets, are final and enforceable by the court. Each
-       withholding notice shall be for the current child support, current cash medical support, any arrearage
-       payment, and processing charges.
-
-       All support shall be paid through Ohio Child Support Payment Central (OCSPC), P.O. Box 182372,
-       Columbus, Ohio 43218-2372. Checks or money orders shall be made payable to “OCSPC”. All payments
-       shall include the following: Obligor’s name, Social Security Number, SETS case number and Domestic
-       Relations Court case number. If there is to be a withholding/deduction order, the support obligor
-       shall make payments directly to OCSPC until the income source/financial institution begins
-       withholding/deducting in the appropriate amount.
-
-       Pursuant to R.C. 3121.45, any payment of money by the child support obligor to the child support obligee
-       that is not made through Ohio Child Support Payment Central or the Child Support Enforcement Agency
-       administering the support order shall not be considered a payment under the support order and, unless
-       the payment is made to discharge an obligation other than support, shall be deemed a gift.
-
-       Payments shall be made in the manner ordered by the Court. If payments are to be made other than on
-       a monthly basis, the required monthly administration by the _________________ County Child Support
-       Enforcement Agency does not affect the frequency or the amount of the support payments to be made
-       under the order.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 20
-SHARED PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                 Page 10 of 18
-
-                                    (Check one of the following three boxes)
-                   The support obligor receives income from an income source.
-
-             A withholding or deduction notice shall issue to:
-             INCOME SOURCE:
-             ADDRESS:
-
-                                                         – OR –
-
-                   The support obligor has nonexempt funds on deposit in an account at a financial institution.
-
-             A withholding or deduction notice shall issue to:
-             FINANCIAL INSTITUTION:
-             ADDRESS:
-
-             If withholding from a financial account, the support obligor shall immediately notify the
-             _____________________ County Child Support Enforcement Agency of the number and description
-             of the account from which support shall be deducted, and the name, branch, business address and
-             routing number of the financial institution if not set forth above.
-
-             The support obligor shall immediately notify the ________________ County Child Support
-             Enforcement Agency of any change in the status of an account from which support is being deducted
-             or the opening of a new account with any financial institution.
-
-                                                         – OR –
-
-                   The support obligor has no attachable income source at this time.
-
-             The support obligor shall immediately notify the ________________ County Child Support
-             Enforcement Agency, in writing, if the support obligor begins to receive income from a payor. The
-             notice shall include a description of the nature of any new employment, and the name, business
-             address and telephone number of any new employer.
-
-                   The support obligor shall seek employment, if able to engage in employment. Obligor’s
-                   employment search must include registration with Ohio Means Jobs at
-                   https://jobseeker.ohiomeansjobs.monster.com.         Obligor shall immediately notify the
-                   _____________________________ County Child Support Enforcement Agency, in writing,
-                   upon commencement or change of employment (including self-employment), receipt of
-                   additional income/monies, obtaining ownership of asset of value of $500.00 or more, receipt or
-                   termination of benefits or the opening of an account at a financial institution. The support obligor
-                   shall include a description of the nature of the employment and the name, business address
-                   and telephone number of any employer. The support obligor shall immediately notify the
-                   _____________________________ County Child Support Enforcement Agency of any change
-                   in the status of an account from which support is being deducted or the opening of a new
-                   account with any financial institution.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 20
-SHARED PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                     Page 11 of 18
-
-H.     Duration and Termination of Support & Required Notices
-       The duty of child support and cash medical support for each child shall continue until further order of Court
-       or until the above-named child reaches age eighteen (18) unless one of the following circumstances
-       applies:
-           •     The child is mentally or physically disabled and is incapable of supporting or maintaining himself,
-                 herself or themselves.
-           •     The parents have agreed to continue child support beyond the date it would otherwise terminate.
-           •     The child continuously attends a recognized and accredited high school on a full-time basis so
-                 long as the child has not, as yet, reached the age of nineteen (19) years old. Under this
-                 circumstance, child support will end at the time the child graduates or ceases to attend a
-                 recognized and accredited high school on a full-time basis or when the child reaches the age of
-                 nineteen (19), whichever occurs first.
-
-       The child support and cash medical support order will remain in effect during seasonal vacation periods
-       until the order terminates.
-
-             The parties have agreed that the child support and cash medical support obligation will extend beyond
-             the time when it would otherwise end. The terms and conditions of that agreement are as follows:
-
-             The parties have (a) child(ren) who is/are mentally or physically disabled and incapable of supporting
-             or maintaining himself, herself or themselves, and child support and cash medical support will extend
-             beyond the time when it would otherwise end. The name of the child(ren) and the nature of the mental
-             or physical disability(ies) is/are as follows:
-
-       The residential parent and legal custodian of the child(ren) shall immediately notify, and the child support
-       obligor may notify, the ______________________ County Child Support Enforcement Agency of any
-       reason for which the child support order should terminate, including, but not limited to, the child’s death,
-       marriage, emancipation (age 18 or high school completion/termination), enlistment in the Armed Services,
-       deportation, or change of legal custody. A willful failure to notify the ______________________ County
-       Child Support Enforcement Agency may be contempt of Court.
-
-       EACH PARTY TO THIS SUPPORT ORDER MUST NOTIFY THE CHILD SUPPORT ENFORCEMENT
-       AGENCY IN WRITING OF HIS OR HER CURRENT MAILING ADDRESS, CURRENT RESIDENCE
-       ADDRESS, CURRENT RESIDENCE TELEPHONE NUMBER, CURRENT DRIVER’S LICENSE
-       NUMBER, AND OF ANY CHANGES IN THAT INFORMATION. EACH PARTY MUST NOTIFY THE
-       AGENCY OF ALL CHANGES UNTIL FURTHER NOTICE FROM THE COURT OR AGENCY,
-       WHICHEVER ISSUED THE SUPPORT ORDER.
-
-       IF YOU ARE THE OBLIGOR UNDER A CHILD SUPPORT ORDER AND YOU FAIL TO MAKE THE
-       REQUIRED NOTIFICATIONS, YOU MAY BE FINED UP TO $50 FOR A FIRST OFFENSE, $100 FOR A
-       SECOND OFFENSE, AND $500 FOR EACH SUBSEQUENT OFFENSE.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 20
-SHARED PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                  Page 12 of 18
-
-         IF YOU ARE AN OBLIGOR OR OBLIGEE UNDER ANY SUPPORT ORDER ISSUED BY A COURT AND
-         YOU WILLFULLY FAIL TO GIVE THE REQUIRED NOTICES, YOU MAY BE FOUND IN CONTEMPT OF
-         COURT AND BE SUBJECTED TO FINES UP TO $1,000 AND IMPRISONMENT FOR NOT MORE THAN
-         90 DAYS.
-
-         IF YOU ARE AN OBLIGOR OR OBLIGEE AND YOU FAIL TO GIVE THE REQUIRED NOTICES TO THE
-         CHILD SUPPORT ENFORCEMENT AGENCY, YOU MAY NOT RECEIVE NOTICE OF THE CHANGES
-         AND REQUESTS TO CHANGE THE CHILD SUPPORT AMOUNT, HEALTH CARE PROVISIONS, OR
-         TERMINATION OF THE CHILD SUPPORT ORDER. IF YOU ARE AN OBLIGOR AND YOU FAIL TO
-         GIVE THE REQUIRED NOTICES, YOU MAY NOT RECEIVE NOTICE OF THE FOLLOWING
-         ENFORCEMENT ACTIONS AGAINST YOU: IMPOSITION OF LIENS AGAINST YOUR PROPERTY;
-         LOSS OF YOUR PROFESSIONAL OR OCCUPATIONAL LICENSE, DRIVER’S LICENSE, OR
-         RECREATIONAL LICENSE; WITHHOLDING FROM YOUR INCOME; ACCESS RESTRICTION AND
-         DEDUCTION FROM YOUR ACCOUNTS IN FINANCIAL INSTITUTIONS; AND ANY OTHER ACTION
-         PERMITTED BY LAW TO OBTAIN MONEY FROM YOU TO SATISFY YOUR SUPPORT OBLIGATION.
-
-FOURTH: HEALTH INSURANCE COVERAGE.
-   A.    Private Health Insurance Coverage IS NOT available for the minor child(ren).
-
-              Neither parent has accessible private health insurance coverage available at a reasonable cost to
-              cover the minor child(ren) at the time of the issuance of this order.
-
-              The child support obligee shall obtain health care coverage (private health insurance coverage or
-              public health care plan) for the child(ren) not later than thirty (30) days after it becomes available at
-              a reasonable cost, and shall inform the _______________ County Child Support Enforcement
-              Agency (CSEA) when health care coverage for the child(ren) has been obtained.
-
-              If private health insurance coverage becomes available to the child support obligor at a reasonable
-              cost, the child support obligor shall inform the __________________ County Child Support
-              Enforcement Agency (CSEA) and may seek a modification of health care coverage from the Court
-              with respect to a Court child support order, or from the agency with respect to an administrative
-              support order.
-
-    B.        Private Health Insurance Coverage IS available for the minor child(ren).
-
-                    Plaintiff/Petitioner 1 has private health insurance coverage for the minor child(ren);
-                    Defendant/Petitioner 2 has private health insurance coverage for the minor child(ren); or
-                    Both parents have private health insurance coverage available for the minor child(ren).
-
-               1.    Accessibility of Private Health Insurance Coverage.
-
-                     The available private health insurance coverage for the minor child(ren) is accessible because:
-
-                                        (Check one of the following three boxes)
-                               Primary care services are within thirty (30) miles of the child(ren)’s residence.
-                               The Court permits primary care services farther than thirty (30) miles of the child(ren)’s
-                               residence because residents in the geographic area customarily travel farther
-                               distances.
-                               Primary care services are accessible by public transportation because public
-                               transportation is the child support obligee’s only source of transportation.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 20
- SHARED PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                      Page 13 of 18
-
-              2.    Reasonableness of Cost of Private Health Insurance Coverage.
-
-                    Pursuant to R.C. 3119.29(F), for purposes of determining reasonable cost, the total cost of
-                    private health insurance coverage to the person required to provide private health insurance
-                    coverage for the child(ren) subject to the child support order does not exceed an amount equal
-                    to five percent of the annual income of that person.
-
-                                         (Check one of the following two sections)
-                             The total cost of private health insurance coverage available to Plaintiff/Petitioner
-                             1 and/or    Defendant/Petitioner 2 does not exceed that parent’s Health Insurance
-                             Maximum. (Line 8 Child Support Computation Worksheet)
-
-                                                         – OR –
-                             The total cost of private health insurance coverage available to   Plaintiff/Petitioner
-                             1 and/or    Defendant/Petitioner 2 exceeds that parent’s Health Insurance Maximum
-                             (Line 8 Child Support Computation Worksheet);
-
-                                                   (Check one of the three sections below)
-                                 Both parents agree that      Plaintiff/Petitioner 1  Defendant/Petitioner 2 or
-                                 Both parents shall obtain or maintain private health insurance coverage, the cost
-                                 of which exceeds the Health Insurance Maximum for that parent.
-
-                                                                    – OR –
-
-                                  Plaintiff/Petitioner 1 Defendant/Petitioner 2 has requested to obtain or maintain
-                                  private health insurance coverage, the cost of which exceeds the Health
-                                  Insurance Maximum for that parent.
-
-                                                                    – OR –
-
-                                  It is in the best interest of the child(ren) for               Plaintiff/Petitioner 1
-                                     Defendant/Petitioner 2 to obtain or maintain private health insurance coverage
-                                  for the child(ren) even though the total cost of private health insurance coverage
-                                  exceeds that parent’s Health Insurance Maximum. The cost of private health
-                                  insurance coverage will not impose an undue financial burden because:
-
-              3.    Person Required to Provide Private Health Insurance Coverage.
-
-                     Plaintiff/Petitioner 1 Defendant/Petitioner 2        Both parents shall provide private health
-                     insurance coverage for the child(ren) until further order of Court for the following reasons:
-
-                                         (Check one of the following six boxes)
-                                  The child support obligee is rebuttably presumed to be the appropriate parent to
-                                  provide private health insurance coverage for the child(ren).
-                                  The child support obligor already has private health insurance coverage for the
-                                  child(ren) that is reasonable in cost.
-                                  The child support obligor already has private health insurance coverage in place
-                                  for the child(ren) that is not reasonable in cost, but the child support obligor wishes
-                                  to be named the private health insurance obligor and provide coverage.
-Supreme Court of Ohio
-Uniform Domestic Relations Form 20
-SHARED PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                      Page 14 of 18
-
-                                  The child support obligor can obtain private health insurance coverage for the
-                                  child(ren) that is reasonable in cost through an employer or other source.
-                                  The child support obligee is a non-parent individual or agency that has no duty to
-                                  provide medical support.
-                                  Both parents wish to provide and already have private health insurance coverage
-                                  in place or have private health insurance coverage available for the child(ren).
-
-                                     If both parents are providing private health insurance coverage for the minor
-                                     child(ren), Plaintiff’s/Petitioner 1’s Defendant’s/Petitioner 2’s private health
-                                     insurance coverage plan shall be considered the primary private health
-                                     insurance coverage plan for the child(ren).
-
-                                     Should private health insurance coverage be cancelled for any reason, the
-                                     parent ordered to maintain private health insurance coverage shall immediately
-                                     notify the other parent of the cancellation.
-
- C.    Health Care Coverage Requirements
-
-       Within thirty (30) days after the issuance of this support order, the person required to provide health care
-       coverage for the child(ren) must provide to the other parent or to the child support obligee information
-       regarding the benefits, limitations, and exclusions of the coverage, copies of any forms necessary to
-       receive reimbursement, payment or other benefits under the coverage, and a copy of any necessary proof
-       of coverage.
-
-       Within thirty (30) days after the issuance of this order, the person required to provide health care coverage
-       for the child(ren) shall provide to the Child Support Enforcement Agency documentation that verifies health
-       care coverage is being provided as ordered.
-
-       The individual who is designated to be reimbursed for health care expenses for the child(ren) is:
-
-                               Name:
-                               Address:
-
-       The person required to provide health care coverage for the child(ren) shall designate the child(ren) as
-       covered dependent(s) under any health care coverage policy, contract, or plan.
-
-       Pursuant to R.C. 3119.32(E), the employer of the person required to provide health care coverage for the
-       child(ren) is required to release to the other parent, any person subject to an order issued under R.C.
-       3109.19, or the Child Support Enforcement Agency, on written request, any necessary information on the
-       health care coverage, including the name and address of the health plan administrator and any policy,
-       contract, or plan number, and to otherwise comply with R.C. 3119.32 and any order or notice issued under
-       R.C. 3119.32.
-
-       Pursuant to R.C. 3119.32(G), if the person required to obtain health care coverage for the child(ren)
-       subject to this child support order obtains new employment, the agency shall comply with the requirements
-       of R.C. 3119.34, which may result in the issuance of a notice requiring the new employer to take whatever
-       action is necessary to enroll the children in private health care insurance coverage provided by the new
-       employer, when insurance is not being provided by any other source.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 20
-SHARED PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                   Page 15 of 18
-
-FIFTH: CASH MEDICAL SUPPORT & CHILDREN’S HEALTH CARE EXPENSES
-   A. Liability for child(ren)’s Health Care Expenses
-
-       Pursuant to R.C. 3119.30(A), both parents are liable for the health care expenses of the child(ren) who
-       is/are not covered by private health insurance coverage.
-
-       Cash medical support is an amount paid in a child support order toward the ordinary health care expenses
-       incurred during a calendar year. Ordinary health care expenses include copayments and deductibles, and
-       uninsured health-related costs.
-
-       Extraordinary health care expenses are any uninsured health care expenses incurred for a child during a
-       calendar year that exceed the total cash medical support amount owed by the parents during that year.
-
-       Each party shall have access to all health care records of the child(ren) as provided by law, or as otherwise
-       limited in this document.
-
-       The term “health care expense” or “health care records” shall include, but not be limited to, medical, dental,
-       orthodontic, optical, pharmaceutical, surgical, hospital, major medical, psychological, psychiatric,
-       outpatient, doctor, therapy, counseling, prosthetic, and/or all other expenses/records including
-       preventative health expenses/records related to the treatment of the human body and mind.
-
-        The parent who receives a health care bill, and/or an Explanation of Benefits (EOB), or who incurs a
-        health care expense, shall provide the other parent the original or a copy of the bill, and/or EOB, if
-        available, within (thirty) 30 days of the date on the bill or EOB, or a receipt, absent extraordinary
-        circumstances. The other parent shall reimburse the parent incurring the expenses or pay directly to the
-        health care provider, that parent’s percentage share of the bill as shown in Section D below.
-
-  B.   Guideline Cash Medical Support Obligation
-
-       The parents’ combined annual cash medical support obligation, as determined by the applicable
-       worksheet, is $____________________________. (Line 23a Child Support Computation Worksheet)
-
-       The Obligor’s (pays support) guideline annual cash medical support                            obligation    is
-       $_________________________. (Line 23b Child Support Computation Worksheet)
-
-       The Obligee’s (receives support) guideline annual cash medical support obligation is
-       $________________________. (Line 23b Child Support Computation Worksheet) The Obligee’s cash
-       medical support obligation is not subject to collection by the Child Support Enforcement Agency.
-
-  C.   Deviation in Cash Medical Support (if applicable)
-
-       Pursuant to R.C. 3119.22, 3119.23 and/or 3119.24, the annual guideline cash medical support obligation
-       would be unjust and inappropriate and, therefore, not in the best interest of the minor child(ren) for the
-       following reason(s):
-
-             The same reasons referenced in this document regarding the child support deviation.
-
-                                                         – OR –
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 20
-SHARED PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                   Page 16 of 18
-
-  D.    Cash Medical Support Obligation and Division of Child(ren)’s Health Care Expenses
-
-                                     (Check one of the following two boxes)
-                  The cash medical support obligation is not deviated.
-
-                  Obligor shall pay cash medical support in the amount of $______________ per child, per month,
-                  for _______ (number) child(ren) for a total of $______________, per month, plus two percent
-                  (2%) processing charge through the Child Support Enforcement Agency. (Line 27 Sole/Shared
-                  Parenting Child Support Computation Worksheet, or Line 29 Split Parenting Child Support
-                  Computation Worksheet)
-
-                  Plaintiff/Petitioner 1 shall pay _______% and Defendant/Petitioner 2 shall pay ______% of the
-                  health care expenses incurred for a child during a calendar year that exceed $__________, the
-                  parents’ total combined annual cash medical support obligation, as determined by the applicable
-                  worksheet. (Line 23a Child Support Computation Worksheet)
-
-                                                           – OR –
-
-                  The cash medical support obligation is deviated.
-
-                  Obligor shall pay cash medical support in the amount of $___________ per child, per month, for
-                  ____(number) child(ren) for a total of $_____________, per month, plus two percent (2%)
-                  processing charge through the Child Support Enforcement Agency. (Line 29 Sole/Shared
-                  Parenting Child Support Computation Worksheet, or Line 31 Split Parenting Child Support
-                  Computation Worksheet)
-
-                  Obligee’s cash medical support obligation is deviated to $______________ per month. (Line 29,
-                  Sole/Shared Parenting Child Support Computation Worksheet or Line 31 Split Parenting Child
-                  Support Computation Worksheet) Obligee’s cash medical support obligation is not subject to
-                  collection by the Child Support Enforcement Agency.
-
-                  Plaintiff/Petitioner 1 shall pay _______% and the Defendant/Petitioner 2 shall pay _______% of
-                  the health care expenses incurred for a child during a calendar year that exceed
-                  $______________, the parents’ total combined annual deviated cash medical support obligation,
-                  as determined by the applicable worksheet. (Line 29 amounts added together and multiplied by
-                  twelve Sole/Shared Child Support Computation Worksheet, Line 31 amounts added together and
-                  multiplied by twelve Split Parenting Child Support Computation Worksheet)
-
-SIXTH: TAX DEPENDENCY
-   A.      Plaintiff/Petitioner 1 shall be entitled to claim the following minor child(ren) as (a) dependent(s) for all
-        tax purposes for      even-numbered tax years         odd-numbered tax years       all eligible tax years, so long
-        as Plaintiff/Petitioner 1 is substantially current in any child support Plaintiff/Petitioner 1 is required to pay
-        as of December 31 of the tax year in question: __________________________________________
-
-             Defendant/Petitioner 2 shall be entitled to claim the following minor child(ren) as (a) dependent(s) for
-         all tax purposes for    even-numbered tax years         odd-numbered tax years       all eligible tax years, so
-         long as Defendant/Petitioner 2 is substantially current in any child support Defendant/Petitioner 2 is
-         required to pay as of December 31 of the tax year in question:_________________________________
-
-   B.       Other orders regarding tax dependency: (specify)
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 20
- SHARED PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                      Page 17 of 18
-
-If a parent who has a child less than half of the time is entitled to claim the child, the other parent shall execute
-and deliver Internal Revenue Service Form 8332, or its successor, together with any other required forms as set
-out in section 152 of the Internal Revenue Code, as amended, on or before February 15th of the year following
-the tax year in question.
-
-SEVENTH: MODIFICATION
-This Shared Parenting Plan may be modified by agreement of the parties or by the Court.
-
-EIGHTH: OTHER
-
-Upon approval by the Court, this Shared Parenting Plan shall be incorporated in the Judgment Entry.
-
-Plaintiff/Petitioner 1 Signature                               Defendant/Petitioner 2 Signature
-_______________________________________________________        _____________________________________________________
-Printed Name                                                   Printed Name
-
-_______________________________________________________        _____________________________________________________
-Plaintiff/Petitioner 1 Attorney Signature                      Defendant/Petitioner 2 Attorney Signature
-______________________________________________________         _____________________________________________________
-Printed Name                                                   Printed Name
-_______________________________________________________        _____________________________________________________
-Supreme Court Reg No.                                          Supreme Court Reg No.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 20
- SHARED PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                   Page 18 of 18
-
-                                      IN THE COURT OF COMMON PLEAS
-                                                          DIVISION
-                                                          COUNTY, OHIO
-
-IN THE MATTER OF:
-
-A Minor
-
-                                                               Case No.
-Name
-                                                               Judge
-Street Address
-                                                               Magistrate
-City, State and Zip Code
-
-                                      Plaintiff/Petitioner 1
-
-                          vs./and
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                    Defendant/Petitioner 2
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: The Parenting Time Schedule must be attached to this Plan. Parents are urged to consult the
- Planning for Parenting Time Guide: Ohio's Guide for Parents Living Apart and Domestic Violence & Allocation of
- Parental Rights and Responsibilities available at www.supremecourt.ohio.gov.
-
-                                                   PARENTING PLAN
-
- The parents, ________________________________________________ “Plaintiff/Petitioner 1”, and
- ________________________________________________ “Defendant/Petitioner 2”, have _____________
- (number) child(ren) from the marriage or relationship. Of the child(ren), _____________ (number) is/are
- emancipated adult(s) and not under any disability. The following _____________ (number) child(ren) are minor
- child(ren) and/or mentally or physically disabled child(ren) incapable of supporting or maintaining themselves:
-
-                              Name of Child                                   Date of Birth
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 21
- PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                               Page 1 of 17
-
-The parents agree to the care, parenting, and control of their child(ren) as provided in this Parenting Plan.
-
-FIRST: PARENTS’ RIGHTS
-Unless otherwise stated herein, the parents shall have:
-   A. The right to reasonable telephone contact with the child(ren) when they are with the other parent.
-   B. The right to be notified in case of an injury to or illness of the minor child(ren).
-   C. The right to inspect and receive the minor child(ren)’s medical and dental records and the right to consult with
-      any treating physician, dentist, and/or other health care provider, including, but not limited to, psychologists
-      and psychiatrists.
-   D. The right to consult with school officials concerning the minor child(ren)'s welfare and educational status, and
-      the right to inspect and receive the child(ren)’s student records to the extent permitted by law.
-   E. The right to receive copies of all school reports, calendars of school events, notices of parent-teacher
-      conferences, and school programs.
-   F. The right to attend and participate in parent-teacher conferences, school trips, school programs, and other
-      school activities to which parents are invited.
-   G. The right to attend and participate with the child(ren) in athletic programs and other extracurricular activities.
-
-SECOND: ALLOCATION OF PARENTAL RIGHTS AND RESPONSIBILITIES
-  A. General Responsibilities
-     Each parent shall take all measures necessary to foster respect and affection between the child(ren) and the
-     other parent. Neither parent shall do anything that may estrange the child(ren) from the other parent, or impair
-     the child(ren)’s high regard for the other parent.
-
-   B. Residential Parent and Legal Custodian
-         Plaintiff/Petitioner 1 shall be the residential parent and legal custodian of the following child(ren):
-
-                            Name of Child                                         Date of Birth
-
-           Defendant/Petitioner 2 shall be the residential parent and legal custodian of the following child(ren):
-
-                            Name of Child                                         Date of Birth
-
-   C. Parenting Time Schedule
-      A parenting time schedule must be attached to this Plan.
-
-       The parents shall have parenting time with the child(ren) according to the attached parenting time schedule,
-       which shows the times that the child(ren) shall be with each parent on weekdays, weekends, holidays and
-       days of special meaning, and vacations.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 21
- PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                       Page 2 of 17
-
-      The parties may voluntarily modify the parenting time schedule, if agreed; however, the Court cannot enforce
-      any change in the parenting time schedule unless it is made an Order of the Court.
-
-  D. Transportation: (select one)
-     Absent other agreement of the parties included in the attached parenting time schedule, each parent shall be
-     responsible for providing transportation for the child(ren) at the beginning of the parent’s parenting time
-     period. Each parent shall be responsible for providing transportation for the child(ren) to and from school
-     during that parent’s parenting time period.
-
-           Other agreement regarding transportation to school and parenting time:
-
-  E. Responsibility for Child Activities
-       1. Participation in Activities
-          The scheduling of events, appointments, and activities shall not be done in a manner to cause undue
-          inconvenience or harassment to the other parent. Both parents must understand that the child(ren)
-          need(s) to be able to participate in regular activities without interference and with the support of both
-          parents.
-
-            Absent other agreement by the parents, the child(ren) shall continue to participate in those
-            extracurricular activities, school-related and other activities in which they are currently enrolled,
-            uninterrupted.
-
-            Other agreement regarding participation in current or new extracurricular, school-related or other
-            activities:
-
-            Each parent shall provide the other with notice of all extracurricular activities, school-related or
-            otherwise, in which the child(ren) participates, schedules of all activities (handwritten if no formal
-            schedule is provided by the activity) and the name of the activity leader (including address and
-            telephone number if reasonably available).
-
-         2. Transportation to Activities
-            Absent other agreement by the parents, it is the responsibility of the parent in possession of the
-            child(ren) to provide transportation to an activity.
-
-            Other agreement regarding transportation:
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 21
-PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                   Page 3 of 17
-
-         3. Payment of Expenses Related to Activities
-            Each parent shall notify the other about any and all expenses arising from the child’s extracurricular,
-            school-related, or other activities.
-
-            Absent other agreement of the parents, the parents shall pay the costs and expenses associated with
-            their child(ren)’s participation in any extracurricular, school-related, or other activities as follows:
-
-                       Plaintiff/Petitioner 1 _________________________________________________________
-                       Defendant/Petitioner 2 _______________________________________________________
-                       Other agreement regarding the payment of extracurricular, school-related, or other activity
-                       expenses:
-
-            The parent incurring an expense related to an extracurricular, school-related, or other activity shall
-            forward a copy of the bill or invoice to the other parent as soon as practicable. Absent other agreement
-            of the parents as stated herein, reimbursement or payment shall be made within thirty (30) days of
-            receipt of the bill or invoice.
-
-            Other agreement regarding reimbursement or payment of expenses:
-
-  F. Health Care Responsibilities
-     Each parent shall promptly notify the other parent if a child experiences a serious injury, has a serious or
-     chronic illness, or receives treatment in an emergency room or hospital. Each parent shall notify the other
-     parent of the emergency, the child's status, locale, and any other pertinent information as soon as practical,
-     but in any event within twenty-four (24) hours. Each parent shall provide the other with the names and
-     telephone numbers of all health care providers for the child(ren).
-
-            Other agreement regarding health care responsibilities:
-
-  G. Current Address and Telephone Number
-     Plaintiff’s/Petitioner 1’s current home address and telephone number, including cellular telephone number:
-
-      Defendant’s/Petitioner 2’s current home address and telephone number, including cellular telephone number:
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 21
-PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                    Page 4 of 17
-
-  H. Relocation Notice
-     Pursuant to R.C. 3109.051(G):
-
-      If the residential parent intends to move to a residence other than the residence specified in the Court order,
-      the parent shall file a notice of intent to relocate with this Court. Except as provided in R.C. 3109.051(G)(2),
-      (3), and (4), the Court shall send a copy of the notice to the parent who is not the residential parent. Upon
-      receipt of the notice, the Court, on its own motion or the motion of the parent who is not the residential parent,
-      may schedule a hearing with notice to both parents to determine whether it is in the best interest of the
-      child(ren) to revise the parenting time schedule for the child(ren).
-
-         The non-residential parent shall inform the Court and the other parent, in writing, of changes in address
-      and telephone, including cellular telephone number, unless otherwise provided by court order.
-
-      The relocation notice must be filed with the Court granting the allocation of parental rights and responsibilities:
-      (print name and address of the Court)
-
-   I. Records Access Notice
-      Pursuant to R.C. 3109.051(H) and 3319.321(B)(5)(a):
-
-      Subject to R.C. 3125.16 and 3319.321(F), the parent who is not the residential parent is entitled access to
-      any record that is related to the child(ren), and to which the residential parent is legally provided access under
-      the same terms and conditions as the residential parent. Any keeper of a record who knowingly fails to
-      comply with any record access order is in contempt of Court.
-
-      Restrictions or limitations:
-        None
-        Restrictions or limitations to non-residential parent regarding records access are as follows:
-
-  J. Day Care Access Notice
-     Pursuant to R.C. 3109.051(I):
-
-      In accordance with R.C. 5104.039, the parent who is not the residential parent is entitled access to any day
-      care center that is or will be attended by the child(ren) with whom parenting time is granted, to the same
-      extent that the residential parent is granted access to the center unless otherwise restricted.
-
-      Restrictions or limitations:
-        None
-        Restrictions or limitations to non-residential parent regarding day care access are as follows:
-
-  K. School Activities Access Notice
-     Pursuant to R.C. 3109.051(J):
-
-      Subject to R.C. 3319.321(F), the parent who is not the residential parent is entitled access to any student
-      activity that is related to the child(ren) and to which the residential parent is legally provided access, under
-Supreme Court of Ohio
-Uniform Domestic Relations Form 21
-PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                         Page 5 of 17
-
-       the same terms and conditions as the residential parent unless otherwise restricted. Any school employee
-       or official who knowingly fails to comply with this school activities access order is in contempt of Court.
-
-       Restrictions or limitations:
-         None
-         Restrictions or limitations to non-residential parent regarding school activities access are as follows:
-
-THIRD: CHILD SUPPORT
-As required by law, a completed Child Support Worksheet is attached to this document.
-
-The Order for child support and cash medical support is effective ____________________, 20________.
-For purposes of this order:
-   Plaintiff/Petitioner 1   Defendant/Petitioner 2 is the child support obligor (pays support).
-   Plaintiff/Petitioner 1   Defendant/Petitioner 2 is the child support obligee (receives support).
-
-The following information is provided in accordance with R.C. 3105.72 and R.C. 3121.30:
-
-SUPPORT OBLIGOR (pays support):
-
-       Name (First, MI, Last):
-       Social Security Number:          xxx-xx-__________________ (fill in last four digits)
-       Date of Birth:
-
-SUPPORT OBLIGEE (receives support):
-
-       Name (First, MI, Last):
-       Social Security Number:          xxx-xx-_________________ (fill in last four digits)
-       Date of Birth:
-
-A.     Guideline Child Support Amount
-       The guideline child support obligation, as determined by the Child Support Worksheet, is
-       $________________ per child, per month for ________ (number) child(ren), for a total of
-       $________________ per month. (Line 24 Sole/Shared Parenting Child Support Computation Worksheet or
-       Line 25 Split Parenting Child Support Computation Worksheet)
-
-B.     Overnight Parenting Time Adjustment
-          The child support obligor does not have Court ordered parenting time which is equal to or exceeds ninety
-          (90) overnights.
-          The child support obligor has Court ordered parenting time which is equal to or exceeds ninety (90)
-          overnights. The above computation reflects an automatic ten percent (10%) adjustment in the guideline
-          child support obligation.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 21
- PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                     Page 6 of 17
-
-C.    Overnight Parenting Time Deviation
-         Pursuant to R.C. 3119.231, there is extended Court ordered parenting time which:
-
-               exceeds ninety (90) overnights but is not more than 146 overnights (__________ overnights).
-
-                 A deviation is not granted.
-                 The annual obligation would be unjust and inappropriate and, therefore, not in the best interest of
-                 the minor child(ren). A deviation is granted for the following reasons:
-
-                                                          – OR –
-
-               is equal to or exceeds 147 overnights (________________ overnights).
-
-               A deviation is     granted       not granted for the following reasons:
-
-D.    Other Deviation Factors (if applicable)
-         Pursuant to R.C. 3119.22, 3119.23 and/or 3119.24, the annual obligation would be unjust and
-         inappropriate and, therefore, not in the best interest of the minor child(ren) for the following reason(s):
-
-                                               (Check all that apply)
-                 Special and unusual needs of the child(ren), including needs arising from the physical or
-                 psychological condition of the child(ren)
-
-                 Other Court ordered payments
-
-                 Extended parenting time or extraordinary costs associated with parenting time, including
-                 extraordinary travel expenses when exchanging the child(ren) for parenting time
-
-                 Financial resources and the earning ability of the child(ren)
-
-                 Relative financial resources, including the disparity in income between parties or households, other
-                 assets, and the needs of each parent
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 21
-PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                     Page 7 of 17
-
-                 Obligee’s income, if the obligee’s annual income is equal to or less than one hundred percent
-                 (100%) of the federal poverty level
-
-                 Benefits that either parent receives from remarriage or sharing living expenses with another person
-
-                 Amount of federal, state, and local taxes actually paid or estimated to be paid by a parent or both
-                 parents
-
-                 Significant in-kind contributions from a parent, including, but not limited to, direct payment for
-                 lessons, sports equipment, schooling, or clothing
-
-                 Extraordinary work-related expenses incurred by either parent
-
-                 Standard of living and circumstances of each parent and the standard of living the child(ren) would
-                 have enjoyed had the marriage continued or had the parents been married
-
-                 Educational opportunities that would have been available to the child(ren) had the circumstances
-                 requiring a child support order not arisen
-
-                 The responsibility of each parent for the support of others, including support of (a) child(ren) with
-                 disabilities who is/are not subject to the support order
-
-                 Post-secondary educational expenses paid for by a parent for the parent’s own child(ren),
-                 regardless of whether the child(ren) is/are emancipated
-
-                  Costs incurred or reasonably anticipated to be incurred by the parents in compliance with Court
-                  ordered reunification efforts in child abuse, neglect, or dependency cases
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 21
-PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                      Page 8 of 17
-
-                   Extraordinary child care costs required for the child(ren) that exceed the maximum state-wide
-                   average cost estimate as described in R.C. 3119.05(P)(1)(d), including extraordinary costs
-                   associated with caring for (a) child(ren) with specialized physical, psychological, or educational
-                   needs
-
-                   Any other relevant factor: (specify)
-
-                   Extraordinary circumstances associated with shared parenting: (Only if Shared Parenting is
-                   ordered - check all that apply)
-                       Ability of each parent to maintain adequate housing for the child(ren)
-                       Each parent’s expenses, including child care expenses, school tuition, medical expenses,
-                       dental expenses, and other relevant expenses
-                       Any other relevant circumstances: (specify)
-
-E.     Monthly Child Support Obligation
-       The child support obligor (pays support) shall pay child support in the amount of $_________________ per
-       child, per month for ____________ (number) child(ren), for a total of $_________________ per month, plus
-       two percent (2%) processing charge. (If there is no child support deviation, Line 24 Sole/Shared Child Support
-       Computation Worksheet, or Line 25 Split Parenting Child Support Computation Worksheet. If there is a
-       deviation in child support, Line 26 Sole/Shared Child Support Computation Worksheet, or Line 27 Split
-       Parenting Child Support Computation Worksheet.)
-
-F.     Arrearage or Overpayment
-             Child support arrearage or overpayment for the minor child(ren) payable either by administrative order,
-             temporary or final order shall survive and continue as an enforceable obligation until paid in full.
-             Child support arrearage or overpayment for the minor child(ren) payable either by administrative order,
-             temporary or final order shall not survive and continue as an enforceable obligation until paid in full,
-             except those arrearages assigned to and due to the Department of Job and Family Services.
-
-G.     Method to Secure Support Payment(s)
-       All support under this Order shall be withheld or deducted from the income or assets of the support obligor
-       pursuant to a withholding or deduction notice or appropriate Order issued in accordance with R.C. Chapters
-       3119, 3121, 3123, and 3125 or a withdrawal directive issued pursuant to R.C. 3123.24 to 3123.38 and shall
-       be forwarded to the obligee in accordance with R.C. Chapters 3119, 3121, 3123, and 3125.
-
-       The support obligor shall immediately notify the _____________________ County Child Support
-       Enforcement Agency, in writing, of any change in employment (including self-employment), receipt of
-       additional income/monies or termination of benefits. The support obligor shall include a description of the
-       nature of the employment and the name, business address and telephone number of any employer.
-
-       The specific withholding or deduction requirements to be used to collect the support shall be set forth and
-       determined by reference to the notices that are sent out by the Child Support Enforcement Agency in
-       accordance with R.C. 3121.03 and shall be determined without the need for any amendment to the support
-       order. Those notices, plus the notices provided by the Child Support Enforcement Agency that require the
-       child support obligor to notify the Child Support Enforcement Agency of any change in his/her employment
-       status or of any other change in the status of his/her assets, are final and enforceable by the court. Each
- Supreme Court of Ohio
- Uniform Domestic Relations Form 21
- PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                    Page 9 of 17
-
-      withholding notice shall be for the current child support, current cash medical support, any arrearage payment,
-      and processing charges.
-
-      All support shall be paid through Ohio Child Support Payment Central (OCSPC), P.O. Box 182372,
-      Columbus, Ohio 43218-2372. Checks or money orders shall be made payable to “OCSPC”. All payments
-      shall include the following: Obligor’s name, Social Security Number, SETS case number and Domestic
-      Relations Court case number. If there is to be a withholding/deduction order, the support obligor shall
-      make payments directly to OCSPC until the income source/financial institution begins
-      withholding/deducting in the appropriate amount.
-
-      Pursuant to R.C. 3121.45, any payment of money by the child support obligor to the child support obligee that
-      is not made through Ohio Child Support Payment Central or the Child Support Enforcement Agency
-      administering the support order shall not be considered a payment under the support order and, unless the
-      payment is made to discharge an obligation other than support, shall be deemed a gift.
-
-      Payments shall be made in the manner ordered by the Court. If payments are to be made other than on a
-      monthly basis, the required monthly administration by the ___________________ County Child Support
-      Enforcement Agency does not affect the frequency or the amount of the support payments to be made under
-      the order.
-
-                                     (Check one of the following three boxes)
-               The support obligor receives income from an income source.
-
-         A withholding or deduction notice shall issue to:
-         INCOME SOURCE:
-         ADDRESS:
-
-                                                              – OR –
-
-               The support obligor has nonexempt funds on deposit in an account at a financial institution.
-
-         A withholding or deduction notice shall issue to:
-         FINANCIAL INSTITUTION:
-         ADDRESS:
-
-         If withholding from a financial account, the support obligor shall immediately notify the
-         _____________________ County Child Support Enforcement Agency of the number and description of
-         the account from which support shall be deducted, and the name, branch, business address and routing
-         number of the financial institution if not set forth above.
-
-         The support obligor shall immediately notify the ________________ County Child Support Enforcement
-         Agency of any change in the status of an account from which support is being deducted or the opening of
-         a new account with any financial institution.
-                                                       – OR –
-
-              The support obligor has no attachable income source at this time.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 21
-PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                    Page 10 of 17
-
-          The support obligor shall immediately notify the ________________ County Child Support Enforcement
-          Agency, in writing, if the support obligor begins to receive income from a payor. The notice shall include
-          a description of the nature of any new employment, and the name, business address and telephone
-          number of any new employer.
-
-                 The support obligor shall seek employment, if able to engage in employment. Obligor’s
-                 employment       search      must     include   registration   with    Ohio    Means      Jobs      at
-                 https://jobseeker.ohiomeansjobs.monster.com.            Obligor shall immediately notify the
-                 _____________________________ County Child Support Enforcement Agency, in writing, upon
-                 commencement or change of employment (including self-employment), receipt of additional
-                 income/monies, obtaining ownership of asset of value of $500.00 or more, receipt or termination of
-                 benefits or the opening of an account at a financial institution. The support obligor shall include a
-                 description of the nature of the employment and the name, business address and telephone number
-                 of    any      employer.          The     support    obligor   shall    immediately     notify    the
-                 _____________________________ County Child Support Enforcement Agency of any change in
-                 the status of an account from which support is being deducted or the opening of a new account with
-                 any financial institution.
-
-H.    Duration and Termination of Support & Required Notices
-      The duty of child support and cash medical support for each child shall continue until further order of Court or
-      until the above-named child reaches age eighteen (18) unless one of the following circumstances applies:
-           •     The child is mentally or physically disabled and is incapable of supporting or maintaining himself,
-                 herself or themselves.
-           •     The parents have agreed to continue child support beyond the date it would otherwise terminate.
-           •     The child continuously attends a recognized and accredited high school on a full-time basis so long
-                 as the child has not, as yet, reached the age of nineteen (19) years old. Under this circumstance,
-                 child support will end at the time the child graduates or ceases to attend a recognized and accredited
-                 high school on a full-time basis or when the child reaches the age of nineteen (19), whichever occurs
-                 first.
-
-      The child support and cash medical support order will remain in effect during seasonal vacation periods until
-      the order terminates.
-
-          The parties have agreed that the child support and cash medical support obligation will extend beyond the
-          time when it would otherwise end. The terms and conditions of that agreement are as follows:
-
-          The parties have (a) child(ren) who is/are mentally or physically disabled and incapable of supporting or
-          maintaining himself, herself or themselves, and child support and cash medical support will extend beyond
-          the time when it would otherwise end. The name of the child(ren) and the nature of the mental or physical
-          disability(ies) is/are as follows:
-
-      The residential parent and legal custodian of the child(ren) shall immediately notify, and the child support
-      obligor may notify, the ______________________ County Child Support Enforcement Agency of any reason
-Supreme Court of Ohio
-Uniform Domestic Relations Form 21
-PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                      Page 11 of 17
-
-       for which the child support order should terminate, including, but not limited to, the child’s death, marriage,
-       emancipation (age 18 or high school completion/termination), enlistment in the Armed Services, deportation,
-       or change of legal custody. A willful failure to notify the ______________________ County Child Support
-       Enforcement Agency may be contempt of Court.
-
-       EACH PARTY TO THIS SUPPORT ORDER MUST NOTIFY THE CHILD SUPPORT ENFORCEMENT
-       AGENCY IN WRITING OF HIS OR HER CURRENT MAILING ADDRESS, CURRENT RESIDENCE
-       ADDRESS, CURRENT RESIDENCE TELEPHONE NUMBER, CURRENT DRIVER’S LICENSE NUMBER,
-       AND OF ANY CHANGES IN THAT INFORMATION. EACH PARTY MUST NOTIFY THE AGENCY OF ALL
-       CHANGES UNTIL FURTHER NOTICE FROM THE COURT OR AGENCY, WHICHEVER ISSUED THE
-       SUPPORT ORDER.
-
-       IF YOU ARE THE OBLIGOR UNDER A CHILD SUPPORT ORDER AND YOU FAIL TO MAKE THE
-       REQUIRED NOTIFICATIONS, YOU MAY BE FINED UP TO $50 FOR A FIRST OFFENSE, $100 FOR A
-       SECOND OFFENSE, AND $500 FOR EACH SUBSEQUENT OFFENSE. IF YOU ARE AN OBLIGOR OR
-       OBLIGEE UNDER ANY SUPPORT ORDER ISSUED BY A COURT AND YOU WILLFULLY FAIL TO GIVE
-       THE REQUIRED NOTICES, YOU MAY BE FOUND IN CONTEMPT OF COURT AND BE SUBJECTED TO
-       FINES UP TO $1,000 AND IMPRISONMENT FOR NOT MORE THAN 90 DAYS.
-
-       IF YOU ARE AN OBLIGOR OR OBLIGEE AND YOU FAIL TO GIVE THE REQUIRED NOTICES TO THE
-       CHILD SUPPORT ENFORCEMENT AGENCY, YOU MAY NOT RECEIVE NOTICE OF THE CHANGES AND
-       REQUESTS TO CHANGE THE CHILD SUPPORT AMOUNT, HEALTH CARE PROVISIONS, OR
-       TERMINATION OF THE CHILD SUPPORT ORDER. IF YOU ARE AN OBLIGOR AND YOU FAIL TO GIVE
-       THE REQUIRED NOTICES, YOU MAY NOT RECEIVE NOTICE OF THE FOLLOWING ENFORCEMENT
-       ACTIONS AGAINST YOU: IMPOSITION OF LIENS AGAINST YOUR PROPERTY; LOSS OF YOUR
-       PROFESSIONAL OR OCCUPATIONAL LICENSE, DRIVER’S LICENSE, OR RECREATIONAL LICENSE;
-       WITHHOLDING FROM YOUR INCOME; ACCESS RESTRICTION AND DEDUCTION FROM YOUR
-       ACCOUNTS IN FINANCIAL INSTITUTIONS; AND ANY OTHER ACTION PERMITTED BY LAW TO OBTAIN
-       MONEY FROM YOU TO SATISFY YOUR SUPPORT OBLIGATION.
-
-FOURTH: HEALTH INSURANCE COVERAGE
-A.    Private Health Insurance Coverage IS NOT available for the minor child(ren).
-
-          Neither parent has accessible private health insurance coverage available at a reasonable cost to cover the
-          minor child(ren) at the time of the issuance of this order.
-
-          The child support obligee shall obtain health care coverage (private health insurance coverage or public
-          health care plan) for the child(ren) not later than thirty (30) days after it becomes available at a reasonable
-          cost, and shall inform the _______________ County Child Support Enforcement Agency (CSEA) when
-          health care coverage for the child(ren) has been obtained.
-
-          If private health insurance coverage becomes available to the child support obligor at a reasonable cost,
-          the child support obligor shall inform the __________________ County Child Support Enforcement Agency
-          (CSEA) and may seek a modification of health care coverage from the Court with respect to a Court child
-          support order, or from the agency with respect to an administrative support order.
-
-B.         Private Health Insurance Coverage IS available for the minor child(ren).
-
-                Plaintiff/Petitioner 1 has private health insurance coverage for the minor child(ren);
-                Defendant/Petitioner 2 has private health insurance coverage for the minor child(ren); or
-                Both parents have private health insurance coverage available for the minor child(ren).
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 21
- PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                      Page 12 of 17
-
-            1. Accessibility of Private Health Insurance Coverage.
-
-               The available private health insurance coverage for the minor child(ren) is accessible because:
-
-                                           (Check one of the following three boxes)
-                     Primary care services are within thirty (30) miles of the child(ren)’s residence.
-                     The Court permits primary care services farther than thirty (30) miles of the child(ren)’s residence
-                     because residents in the geographic area customarily travel farther distances.
-                     Primary care services are accessible by public transportation because public transportation is
-                     the child support obligee’s only source of transportation.
-
-            2. Reasonableness of Cost of Private Health Insurance Coverage.
-
-                 Pursuant to R.C. 3119.29(F), for purposes of determining reasonable cost, the total cost of private
-                 health insurance coverage to the person required to provide private health insurance coverage for
-                 the child(ren) subject to the child support order does not exceed an amount equal to five percent of
-                 the annual income of that person.
-
-                                      (Check one of the following two sections)
-                     The total cost of private health insurance coverage available to  Plaintiff/Petitioner 1 and/or
-                        Defendant/Petitioner 2 does not exceed that parent’s Health Insurance Maximum. (Line 8
-                     Child Support Computation Worksheet)
-
-                                                              – OR –
-
-                     The total cost of private health insurance coverage available to Plaintiff/Petitioner 1 and/or
-                        Defendant/Petitioner 2 exceeds that parent’s Health Insurance Maximum (Line 8 Child
-                     Support Computation Worksheet);
-
-                                       (Check one of the three sections below)
-                                   Both parents agree that Plaintiff/Petitioner 1 Defendant/Petitioner 2 or         Both
-                                   parents shall obtain or maintain private health insurance coverage, the cost of which
-                                   exceeds the Health Insurance Maximum for that parent.
-
-                                                              – OR –
-
-                                   Plaintiff/Petitioner 1 Defendant/Petitioner 2 has requested to obtain or maintain
-                                   private health insurance coverage, the cost of which exceeds the Health Insurance
-                                   Maximum for that parent.
-
-                                                              – OR –
-
-                                   It is in the best interest of the child(ren) for               Plaintiff/Petitioner 1
-                                      Defendant/Petitioner 2 to obtain or maintain private health insurance coverage
-                                   for the child(ren) even though the total cost of private health insurance coverage
-                                   exceeds that parent’s Health Insurance Maximum. The cost of private health
-                                   insurance coverage will not impose an undue financial burden because:
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 21
-PARENTING PLAN
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                       Page 13 of 17
-
-             3. Person Required to Provide Private Health Insurance Coverage.
-
-                      Plaintiff/Petitioner 1  Defendant/Petitioner 2         Both parents shall provide private health
-                      insurance coverage for the child(ren) until further order of Court for the following reasons:
-
-                                          (Check one of the following six boxes)
-                                    The child support obligee is rebuttably presumed to be the appropriate parent to
-                                    provide private health insurance coverage for the child(ren).
-                                    The child support obligor already has private health insurance coverage for the
-                                    child(ren) that is reasonable in cost.
-                                    The child support obligor already has private health insurance coverage in place
-                                    for the child(ren) that is not reasonable in cost, but the child support obligor wishes
-                                    to be named the private health insurance obligor and provide coverage.
-                                    The child support obligor can obtain private health insurance coverage for the
-                                    child(ren) that is reasonable in cost through an employer or other source.
-                                    The child support obligee is a non-parent individual or agency that has no duty to
-                                    provide medical support.
-                                    Both parents wish to provide and already have private health insurance coverage
-                                    in place or have private health insurance coverage available for the child(ren).
-
-                                      If both parents are providing private health insurance coverage for the minor
-                                      child(ren), Plaintiff’s/Petitioner 1’s Defendant’s/Petitioner 2’s private health
-                                      insurance coverage plan shall be considered the primary private health insurance
-                                      coverage plan for the child(ren).
-
-                                      Should private health insurance coverage be cancelled for any reason, the parent
-                                      ordered to maintain private health insurance coverage shall immediately notify
-                                      the other parent of the cancellation.
-
-C.        Health Care Coverage Requirements
-
-          Within thirty (30) days after the issuance of this support order, the person required to provide health care
-          coverage for the child(ren) must provide to the other parent or to the child support obligee information
-          regarding the benefits, limitations, and exclusions of the coverage, copies of any forms necessary to receive
-          reimbursement, payment or other benefits under the coverage, and a copy of any necessary proof of
-          coverage.
-
-          Within thirty (30) days after the issuance of this order, the person required to provide health care coverage
-          for the child(ren) shall provide to the Child Support Enforcement Agency documentation that verifies health
-          care coverage is being provided as ordered.
-
-          The individual who is designated to be reimbursed for health care expenses for the child(ren) is:
-
-                         Name:
-                         Address:
-
-         The person required to provide health care coverage for the child(ren) shall designate the child(ren) as
-         covered dependent(s) under any health care coverage policy, contract, or plan.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 21
- PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                         Page 14 of 17
-
-         Pursuant to R.C. 3119.32(E), the employer of the person required to provide health care coverage for the
-         child(ren) is required to release to the other parent, any person subject to an order issued under R.C.
-         3109.19, or the Child Support Enforcement Agency, on written request, any necessary information on the
-         health care coverage, including the name and address of the health plan administrator and any policy,
-         contract, or plan number, and to otherwise comply with R.C. 3119.32 and any order or notice issued under
-         R.C. 3119.32.
-
-         Pursuant to R.C. 3119.32(G), if the person required to obtain health care coverage for the child(ren) subject
-         to this child support order obtains new employment, the agency shall comply with the requirements of R.C.
-         3119.34, which may result in the issuance of a notice requiring the new employer to take whatever action
-         is necessary to enroll the children in private health care insurance coverage provided by the new employer,
-         when insurance is not being provided by any other source.
-
-FIFTH: CASH MEDICAL SUPPORT & CHILDREN’S HEALTH CARE EXPENSES
-A.      Liability for child(ren)’s Health Care Expenses
-
-          Pursuant to R.C. 3119.30(A), both parents are liable for the health care expenses of the child(ren) who
-          is/are not covered by private health insurance coverage.
-
-          Cash medical support is an amount paid in a child support order toward the ordinary health care expenses
-          incurred during a calendar year. Ordinary health care expenses include copayments and deductibles, and
-          uninsured health-related costs.
-
-          Extraordinary health care expenses are any uninsured health care expenses incurred for a child during a
-          calendar year that exceed the total cash medical support amount owed by the parents during that year.
-
-          Each party shall have access to all health care records of the child(ren) as provided by law, or as otherwise
-          limited in this document.
-
-          The term “health care expense” or “health care records” shall include, but not be limited to, medical, dental,
-          orthodontic, optical, pharmaceutical, surgical, hospital, major medical, psychological, psychiatric,
-          outpatient, doctor, therapy, counseling, prosthetic, and/or all other expenses/records including preventative
-          health expenses/records related to the treatment of the human body and mind.
-
-          The parent who receives a health care bill, and/or an Explanation of Benefits (EOB), or who incurs a health
-          care expense, shall provide the other parent the original or a copy of the bill, and/or EOB, if available, within
-          (thirty) 30 days of the date on the bill or EOB, or a receipt, absent extraordinary circumstances. The other
-          parent shall reimburse the parent incurring the expenses or pay directly to the health care provider, that
-          parent’s percentage share of the bill as shown in Section D below.
-
-B.        Guideline Cash Medical Support Obligation
-
-          The parents’ combined annual cash medical support obligation, as determined by the applicable
-          worksheet, is $____________________________. (Line 23a Child Support Computation Worksheet)
-
-          The Obligor’s (pays support) guideline annual cash medical support                               obligation    is
-          $_________________________. (Line 23b Child Support Computation Worksheet)
-
-          The Obligee’s (receives support) guideline annual cash medical support obligation is
-          $________________________. (Line 23b Child Support Computation Worksheet) The Obligee’s cash
-          medical support obligation is not subject to collection by the Child Support Enforcement Agency.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 21
- PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                        Page 15 of 17
-
-C.        Deviation in Cash Medical Support (if applicable)
-
-          Pursuant to R.C. 3119.22, 3119.23 and/or 3119.24, the annual guideline cash medical support obligation
-          would be unjust and inappropriate and, therefore, not in the best interest of the minor child(ren) for the
-          following reason(s):
-
-                 The same reasons referenced in this document regarding the child support deviation.
-
-                                                           – OR –
-
-D.        Cash Medical Support Obligation and Division of Child(ren)’s Health Care Expenses
-
-                                       (Check one of the following two boxes)
-                         The cash medical support obligation is not deviated.
-
-                         Obligor shall pay cash medical support in the amount of $______________ per child, per
-                         month, for _______ (number) child(ren) for a total of $______________, per month, plus two
-                         percent (2%) processing charge through the Child Support Enforcement Agency. (Line 27
-                         Sole/Shared Parenting Child Support Computation Worksheet, or Line 29 Split Parenting
-                         Child Support Computation Worksheet)
-
-                         Plaintiff/Petitioner 1 shall pay _______% and Defendant/Petitioner 2 shall pay ______% of
-                         the health care expenses incurred for a child during a calendar year that exceeds
-                         $__________, the parents’ total combined annual cash medical support obligation, as
-                         determined by the applicable worksheet. (Line 23a Child Support Computation Worksheet)
-
-                                                               – OR –
-
-                        The cash medical support obligation is deviated.
-
-                        Obligor shall pay cash medical support in the amount of $___________ per child, per month,
-                        for ____(number) child(ren) for a total of $_____________, per month, plus two percent (2%)
-                        processing charge through the Child Support Enforcement Agency. (Line 29 Sole/Shared
-                        Parenting Child Support Computation Worksheet, or Line 31 Split Parenting Child Support
-                        Computation Worksheet)
-
-                        Obligee’s cash medical support obligation is deviated to $______________ per month. (Line
-                        29, Sole/Shared Parenting Child Support Computation Worksheet or Line 31 Split Parenting
-                        Child Support Computation Worksheet) Obligee’s cash medical support obligation is not
-                        subject to collection by the Child Support Enforcement Agency.
-
-                        Plaintiff/Petitioner 1 shall pay _______% and the Defendant/Petitioner 2 shall pay _______%
-                        of the health care expenses incurred for a child during a calendar year that exceeds
-                        $______________, the parents’ total combined annual deviated cash medical support
-                        obligation, as determined by the applicable worksheet. (Line 29 amounts added together and
-                        multiplied by twelve Sole/Shared Child Support Computation Worksheet, Line 31 amounts
-                        added together and multiplied by twelve Split Parenting Child Support Computation
-                        Worksheet)
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 21
- PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                  Page 16 of 17
-
-SIXTH: TAX EXEMPTIONS
-   A.       Plaintiff/Petitioner 1 shall be entitled to claim the following minor child(ren) for all tax purposes for
-        even-numbered tax years          odd-numbered tax years         all eligible tax years, so long as Plaintiff/Petitioner
-        1 is substantially current in any child support Plaintiff/Petitioner 1 is required to pay as of December 31 of
-        the tax year in question:_________________________________________________________________
-
-               Defendant/Petitioner 2 shall be entitled to claim the following minor child(ren) for all tax purposes for
-            even-numbered tax years            odd-numbered tax years             all eligible tax years, so long as
-            Defendant/Petitioner 2 is substantially current in any child support Defendant/Petitioner 2 is required to pay
-            as of December 31 of the tax year in question:________________________________________________
-
-    B.          Other orders regarding tax exemptions: (specify)
-
-If a non-residential parent is entitled to claim the child(ren), the residential parent is required to execute and deliver
-Internal Revenue Service Form 8332, or its successor, together with any other required forms as set out in section
-152 of the Internal Revenue Code, as amended, on or before February 15th of the year following the tax year in
-question, to allow the non-residential parent to claim the minor child(ren).
-
-SEVENTH: MODIFICATION
-This Parenting Plan may be modified by agreement of the parties or by the Court.
-
-EIGHTH: OTHER
-
-Upon approval by the Court, this Parenting Plan shall be incorporated in the Judgment Entry.
-
-Plaintiff/Petitioner 1 Signature                                 Defendant/Petitioner 2 Signature
-_________________________________________________________        ________________________________________________________
-Printed Name                                                     Printed Name
-
-_________________________________________________________        ________________________________________________________
-Plaintiff/Petitioner 1 Attorney Signature                        Defendant/Petitioner 2 Attorney Signature
-_________________________________________________________        ________________________________________________________
-Printed Name                                                     Printed Name
-_________________________________________________________        ________________________________________________________
-Supreme Court Reg No.                                            Supreme Court Reg No.
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 21
- PARENTING PLAN
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                            Page 17 of 17
-
-                                             ,17+(&28572)&200213/($6
-                                                                 ',9,6,21
-                                                                 &2817<2+,2
-    
-,17+(0$77(52)
-
-$0LQRU
-                                                                    &DVH1R     
-1DPH                                                             
-                                                                    -XGJH   
-6WUHHW$GGUHVV        
-                                                                    0DJLVWUDWH
-&LW\6WDWHDQG=LS&RGH              
-                                        3ODLQWLII3HWLWLRQHU      
-                                                                     
-                                                                    
-                            YVDQG                              
-                                                                    
-1DPH                                                                
-                                                                    
-6WUHHW$GGUHVV           
-                                                                    
-&LW\6WDWHDQG=LS&RGH                 
-                                        'HIHQGDQW3HWLWLRQHU    
-                                                                    
-                                                                
-                                                    3$5(17,1*-8'*0(17(175<
-                                                                
-7KLVFDVHFDPHEHIRUHWKH&RXUWRQBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBIRUDQ2UGHUDOORFDWLQJ
-SDUHQWDOULJKWVDQGUHVSRQVLELOLWLHVIRUWKHFDUHRIWKHIROORZLQJFKLOG UHQ 
-
-                            1DPHRI&KLOG                                     'DWHRI%LUWK
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
-
-DFFRUGLQJWRWKHDWWDFKHG 3DUHQWLQJ3ODQRU 6KDUHG3DUHQWLQJ3ODQ
-
-7KH&RXUWDSSURYHVWKH3ODQDQGLQFRUSRUDWHVLWLQWRWKLV-XGJPHQW(QWU\DVLIIXOO\UHZULWWHQKHUHLQ7KHSDUHQWV
-VKDOODELGHE\DOORIWKHWHUPVDQGFRQGLWLRQVRIWKH3ODQ 
-    
-    
-    
-    
- 6XSUHPH&RXUWRI2KLR
- 8QLIRUP'RPHVWLF5HODWLRQV)RUP
- 8QLIRUP-XYHQLOH)RUP
- 3$5(17,1*-8'*0(17(175<
- $SSURYHGXQGHU2KLR&LYLO5XOHDQG2KLR-XYHQLOH5XOH
- $PHQGHG September 21, 2020                                                                            3DJH RI
-     
-
-27+(525'(56
-
-
-
-
-7(0325$5<25'(56
-$OOWHPSRUDU\RUGHUVLQWKLVFDVHVKDOOEHWHUPLQDWHG
-
-&2857&2676
-&RXUWFRVWVVKDOOEH select one 
-    7D[HGWRWKHGHSRVLW&RXUWFRVWVGXHDERYHWKHGHSRVLWVKDOOEHSDLGDVIROORZV
-      
-      2WKHU specify  
-
-&/(5.2)&28576
-7KH&OHUNRI&RXUWVVKDOOSURYLGH
-     DFHUWLILHGFRS\WR 
-     DILOHVWDPSHGFRS\WR &KLOG6XSSRUW(QIRUFHPHQW$JHQF\
-                                 
-                                 
-  
-  
-  
-                                              -8'*(
-                                                          
-                                                          
-3ODLQWLII3HWLWLRQHU6LJQDWXUH                         'HIHQGDQW3HWLWLRQHU6LJQDWXUH
-                                                                  
-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-3ULQWHG1DPH                                                      3ULQWHG1DPH
-                                                                  
-                                                                  
-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-3ODLQWLII3HWLWLRQHU$WWRUQH\6LJQDWXUH                         'HIHQGDQW3HWLWLRQHU$WWRUQH\6LJQDWXUH
-                                                                  
-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-3ULQWHG1DPH                                                      3ULQWHG1DPH
-                                                                  
-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-6XSUHPH&RXUW5HJ1R                                             6XSUHPH&RXUW5HJ1R
-
-
-127,&(  7KLV LV D ILQDO DSSHDODEOH RUGHU  7KH &OHUN LV GLUHFWHG WR VHUYH XSRQ DOO SDUWLHV QRWLFH RI WKLV
--XGJPHQW(QWU\DQGLWVGDWHRIHQWU\XSRQWKHMRXUQDOLQDFFRUGDQFHZLWK&LY5 % LQWKHPDQQHUSURYLGHG
-LQ&LY5 % 
-      
-
-    6XSUHPH&RXUWRI2KLR
-    8QLIRUP'RPHVWLF5HODWLRQV)RUP
-    8QLIRUP-XYHQLOH)RUP
-    3$5(17,1*-8'*0(17(175<
-    $SSURYHGXQGHU2KLR&LYLO5XOHDQG2KLR-XYHQLOH5XOH
-    $PHQGHG September 21, 2020                                                                                    3DJH RI
-      
-
-                                  IN THE COURT OF COMMON PLEAS
-                                                      DIVISION
-                                                      COUNTY, OHIO
-IN THE MATTER OF:
-
-A Minor
-
-                                                             Case No.
-Name
-                                                             Judge
-Street Address
-                                                             Magistrate
-City, State and Zip Code
-
-                                            Plaintiff
-
-                           vs.
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                                            Defendant
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: This form is used to establish parentage of the child(ren), be designated as the residential parent, or
- obtain parenting time (companionship and visitation) with the child(ren). A Request for Service (Uniform Domestic
- Relations Form 31), a Parenting Proceeding Affidavit (Uniform Domestic Relations Form - Affidavit 3) and an
- Affidavit of Basic Information, Income and Expenses (Uniform Domestic Relations Form - Affidavit 1) must be filed
- with this Complaint. The Court may require additional forms to accompany this document. You must check the
- requirements of the county in which you file. YOU MUST UPDATE THE CLERK OF COURTS IF ANY OF THE
- ABOVE CONTACT INFORMATION CHANGES.
-
-                             COMPLAINT FOR PARENTAGE,
-          ALLOCATION OF PARENTAL RIGHTS AND RESPONSIBILITIES (CUSTODY), AND
-                   PARENTING TIME (COMPANIONSHIP AND VISITATION)
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 23
- Uniform Juvenile Form 2
- COMPLAINT FOR PARENTAGE, ALLOCATION OF PARENTAL RIGHTS AND RESPONSIBILITIES AND
- PARENTING TIME
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: June 1, 2021                                                                                      Page 1 of 3
-
-Now comes Plaintiff and states as follows:
-1. Plaintiff is a parent of the following child(ren):
-                              Name of Child                                     Date of Birth
-
-2.   Defendant, _____________________________________ (name) is a parent of the following child(ren):
-                              Name of Child                                     Date of Birth
-
-3.   The child(ren) has/have resided in ________________________________________ County, Ohio since
-     ________________________ (date).
-
-4.   A parent-child relationship has been established for the following child(ren):
-                      Name of Child                          Date of Birth                    Established by
-                                                                                          Acknowledgement of Paternity
-                                                                                          Administrative Order
-                                                                                          Court Order
-                                                                                          Acknowledgement of Paternity
-                                                                                          Administrative Order
-                                                                                          Court Order
-                                                                                          Acknowledgement of Paternity
-                                                                                          Administrative Order
-                                                                                          Court Order
-                                                                                          Acknowledgement of Paternity
-                                                                                          Administrative Order
-                                                                                          Court Order
-
-5.   A parent-child relationship has not been established for the following child(ren):
-                              Name of Child                                     Date of Birth
-
-6.      No Court has issued an order of parenting or support for the following child(ren):
-                              Name of Child                                     Date of Birth
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 23
-Uniform Juvenile Form 2
-COMPLAINT FOR PARENTAGE, ALLOCATION OF PARENTAL RIGHTS AND RESPONSIBILITIES AND
-PARENTING TIME
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                        Page 2 of 3
-
-       The following child(ren) is/are subject to an existing order of parenting or support of another Court:
-                            Name of Child                                           Date of Birth
-
-7.   Plaintiff requests that the Court: (check all that apply)
-                  Order genetic testing and determine the parent of the child(ren).
-                  Designate ____________________________________________ (parent’s name) as the parent
-                  of the child(ren) ________________________________________________________________
-                  ______________________________________________________________(child(ren)’s name).
-                  Change the child(ren)’s name to ____________________________________________________.
-
-               Correct the child(ren)’s birth certificate(s) to indicate the child(ren)’s parent.
-               Adopt the proposed Shared Parenting Plan which is attached.
-               Adopt the proposed Parenting Plan which is attached.
-               Designate the residential parent and legal custodian of the child(ren).
-               Order reasonable parenting time (companionship or visitation).
-               Order child support, allocate the income tax dependency exemption, and determine who should
-               provide health insurance coverage for the child(ren).
-               Order the Ohio Department of Health to prepare (a) new birth certificate(s) for the child(ren).
-               Other: (specify)
-
-                                                        Attorney or Self Represented Party Signature
-
-                                                        ____________________________________________________________
-                                                        Printed Name
-
-                                                        ____________________________________________________________
-                                                        Address
-
-                                                        ____________________________________________________________
-                                                        City, State, Zip
-
-                                                        ____________________________________________________________
-                                                        Phone Number
-
-                                                        ____________________________________________________________
-                                                        Fax Number
-
-                                                        ____________________________________________________________
-                                                        E-mail
-
-                                                        ____________________________________________________________
-                                                        Supreme Court Reg No. (if any)
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 23
-Uniform Juvenile Form 2
-COMPLAINT FOR PARENTAGE, ALLOCATION OF PARENTAL RIGHTS AND RESPONSIBILITIES AND
-PARENTING TIME
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: June 1, 2021                                                                                     Page 3 of 3
-
-                                 IN THE COURT OF COMMON PLEAS
-                                                     DIVISION
-                                                     COUNTY, OHIO
-IN THE MATTER OF:
-
-A Minor
-
-                                                            Case No.
-Name
-                                                            Judge
-Street Address
-                                                            Magistrate
-City, State and Zip Code
-
-                                   Plaintiff/Petitioner 1
-
-                       vs./and
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                   Defendant/Petitioner 2/Respondent
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: This form is used to request the enforcement of a Court order and hold the other party in contempt
- for violating the Court order. A proposed Show Cause Order and Notice (Uniform Domestic Relations Form
- 25/Uniform Juvenile Form 4) must be filed with this Motion. The Court may require additional forms to accompany
- this document. You must check the requirements of the county in which you file. YOU MUST UPDATE THE
- CLERK OF COURTS IF ANY OF THE ABOVE CONTACT INFORMATION CHANGES.
-
-            MOTION FOR CONTEMPT, AFFIDAVIT, AND INSTRUCTIONS FOR SERVICE
-
-Now comes __________________________________________ (name), the Movant, and requests an order for
-_________________________________________ (other party’s name) to appear and show cause why he/she
-should not be held in contempt for violating a Court order regarding the following: (check all that apply)
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 24
- Uniform Juvenile Form 3
- MOTION FOR CONTEMPT, AFFIDAVIT, AND INSTRUCTIONS FOR SERVICE
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: September 21, 2020                                                                           Page 1 of 4
-
-    1.     Interference with parenting time or other parenting orders filed on ____________________ (date),
-           as follows:_______________________________________________________________________
-
-    2.     Failure to pay child support as required by the order filed on ____________________ (date). The
-           total arrearage owed is $_______________________ as reflected in the attached printout from the
-           County Child Support Enforcement Agency.
-
-    3.     Failure to pay spousal support as required by the order filed on____________________ (date). The
-           total arrearage owed is $_______________________ as reflected in the attached printout from the
-           County Child Support Enforcement Agency, if spousal support is paid through the agency.
-
-    4.     Failure to pay or reimburse health care expenses incurred for the minor child(ren) as required by the
-           order filed on ____________________ (date). The total amount owed is $______________________
-           as reflected in the attached Explanation of Health Care Bills (Uniform Domestic Relations Form
-           29/Uniform Juvenile Form 8).
-
-    5.     Failure to comply with the Court's order(s) filed on ____________________ (date) regarding:
-           (check all that apply)
-               Transfer of real estate, as follows:
-
-               Payment of debt, as follows:
-
-               Refinance of debt, as follows:
-
-               Distribution of personal property, as follows:
-
-               Other: (specify)
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 24
-Uniform Juvenile Form 3
-MOTION FOR CONTEMPT, AFFIDAVIT, AND INSTRUCTIONS FOR SERVICE
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: September 21, 2020                                                                          Page 2 of 4
-
-Movant requests that the Court order the following: (check all that apply)
-         Finding ___________________ (other party’s name) in contempt of Court;
-         Assessing reasonable attorney fees;
-         Assessing Court costs of the proceedings;
-         and any further relief deemed proper.
-
-                                                         Attorney or Self Represented Party Signature
-                                                         _________________________________________________________
-                                                         Printed Name
-                                                         _________________________________________________________
-                                                         Address
-                                                         _________________________________________________________
-                                                         City, State, Zip
-                                                         _________________________________________________________
-                                                         Phone Number
-                                                         _________________________________________________________
-                                                         Fax Number
-                                                         _________________________________________________________
-                                                         E-mail
-                                                         _________________________________________________________
-                                                         Supreme Court Reg No. (if any)
-
-                                           OATH OR AFFIRMATION
-                                    (Do not sign until Notary Public is present)
-
-I, _________________________________ (name), swear or affirm that I have read this document and, to the
-best of my knowledge and belief, the facts and information stated in this document are true, accurate and
-complete. I understand that if I do not tell the truth, I may be subject to penalties for perjury.
-
-                                                         Signature
-STATE OF ______________)
-                       ) SS
-COUNTY OF ____________ )
-
-Sworn to or affirmed before me by ________________________this _________day of ______________,
-________________.
-
-                                                         Signature of Notary Public
-
-                                                         ______________________________________________
-                                                         Printed Name of Notary Public
-
-                                                         Commission Expiration Date: _______________________
-
-                                                         (Affix seal here)
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 24
- Uniform Juvenile Form 3
- MOTION FOR CONTEMPT, AFFIDAVIT, AND INSTRUCTIONS FOR SERVICE
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: September 21, 2020                                                                            Page 3 of 4
-
-                                    INSTRUCTIONS TO THE CLERK
-To the Clerk of Courts:
-
-Please serve the Motion for Contempt, Affidavit, Show Cause Order and Notice and Instructions to the Clerk on
-the following party as I have indicated below:
-
-_____________________________ Plaintiff/Defendant/Petitioner/Respondent/Other Party by:
-      Certified Mail, Return Receipt Requested
-      Issuance to Sheriff of ______________________ County, Ohio for  Personal or    Residence service
-      Other: (specify) _______________________________________________________________________
-
-                                                    Signature
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 24
- Uniform Juvenile Form 3
- MOTION FOR CONTEMPT, AFFIDAVIT, AND INSTRUCTIONS FOR SERVICE
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: September 21, 2020                                                                        Page 4 of 4
-
-                                        ,17+(&28572)&200213/($6
-                                                            ',9,6,21
-                                                            &2817<2+,2
-    
-,17+(0$77(52)
-                                                                  
-$0LQRU
-
-                                                                      &DVH1R
-1DPH
-                                                                      -XGJH
-6WUHHW$GGUHVV
-                                                                      0DJLVWUDWH
-&LW\6WDWHDQG=LS&RGH
-
-                                        3ODLQWLII3HWLWLRQHU     
-                                                                  
-                             YVDQG                              
-                                                                   
-                                                                      
-1DPH
-                                                                      
-6WUHHW$GGUHVV
-
-&LW\6WDWHDQG=LS&RGH
-
-                      'HIHQGDQW3HWLWLRQHU5HVSRQGHQW
-    
-    ,QVWUXFWLRQV7KLVIRUPLVXVHGWREULQJWKHRWKHUSDUW\WR&RXUWWRGHIHQGKLVKHUIDLOXUHWRIROORZWKH&RXUW
-    RUGHU   $ 0RWLRQ IRU &RQWHPSW $IILGDYLW DQG ,QVWUXFWLRQV IRU 6HUYLFH 8QLIRUP 'RPHVWLF 5HODWLRQV )RUP
-    8QLIRUP-XYHQLOH)RUP PXVWEHILOHGZLWKWKLVRUGHU
-
-                                         6+2:&$86(25'(5$1'127,&(
-72 
-     3/$,17,))'()(1'$173(7,7,21(55(6321'(1727+(53$57<
-
-<RXDUHKHUHE\25'(5('WRDSSHDUDQGVKRZFDXVHZK\\RXVKRXOGQRWEHKHOGLQFRQWHPSWIRUIDLOXUHWRREH\
-WKH&RXUWRUGHUDVGHVFULEHGLQWKH0RWLRQIRU&RQWHPSW
-    
-    
-    
-    
-         
-    6XSUHPH&RXUWRI2KLR
-    8QLIRUP'RPHVWLF5HODWLRQV)RUP
-    8QLIRUP-XYHQLOH)RUP
-    6+2:&$86(25'(5$1'127,&(
-    $SSURYHGXQGHU2KLR&LYLO5XOHDQG2KLR-XYHQLOH5XOH
-    $PHQGHGSeptember 21, 2020                                                                                3DJH RI
-         
-
-                                                  127,&(2)+($5,1*
-                                              7KH&RXUWZLOOFRPSOHWHWKLVSDUW
-                                                                 
-<RXDUH25'(5('WRDSSHDULQWKH                                                            &RXQW\&RPPRQ3OHDV&RXUW
-                                 'LYLVLRQLQ&RXUWURRP                     ORFDWHGDW                
-
-RQ                                             DW                                R¶FORFNDQGVKRZFDXVHZK\\RXVKRXOG
-QRWEHKHOGLQFRQWHPSWRIWKLV&RXUW
-
-                                                           127,&(
-
-  )DLOXUHWRDSSHDUDVRUGHUHGPD\UHVXOWLQWKHLVVXDQFHRIDEHQFKZDUUDQWIRUDQLPPHGLDWHDUUHVW
-    
-  )DLOXUHWRDSSHDUPD\UHVXOWLQDQLPPHGLDWHLQFRPHZLWKKROGLQJRUGHGXFWLRQ
-    
-  <RXKDYHWKHULJKWWREHUHSUHVHQWHGE\DQDWWRUQH\
-    
-  ,I\RXFDQQRWDIIRUGDQDWWRUQH\\RXPXVWDSSO\IRUDSXEOLFGHIHQGHURUDSSRLQWHGFRXQVHODVDSSURSULDWH
-     ZLWKLQWKUHHEXVLQHVVGD\VDIWHUUHFHLSWRIWKLVVKRZFDXVHRUGHU
-   
-  $FRQWLQXDQFHPD\QRWEHJUDQWHGWRREWDLQFRXQVHOLI\RXKDYHPDGHQRJRRGIDLWKHIIRUWWRVHFXUHRQH
-   
-  ,IIRXQGJXLOW\\RXPD\EHVHQWHQFHGDVIROORZV
-        D )LUVWRIIHQVH±DILQHRIQRWPRUHWKDQDQGRUDGHILQLWHWHUPRILPSULVRQPHQWRIQRWPRUHWKDQ
-            WKLUW\  GD\VLQMDLORUERWK
-           
-        E 6HFRQGRIIHQVH±DILQHRIQRWPRUHWKDQDQGRUDGHILQLWHWHUPRILPSULVRQPHQWRIQRWPRUH
-            WKDQVL[W\  GD\VLQMDLORUERWK
-           
-        F 7KLUGRIIHQVH±DILQHRIQRWPRUHWKDQDQGRUDGHILQLWHWHUPRILPSULVRQPHQWRIQRWPRUH
-            WKDQQLQHW\  GD\VLQMDLORUERWK
-
-  7KH&RXUWPD\JUDQW\RXOLPLWHGGULYLQJSULYLOHJHVXQGHU5&LI\RXUGULYHU¶VOLFHQVHZDVVXVSHQGHG
-     EDVHGRQDQRWLFHLVVXHGE\DFKLOGVXSSRUWHQIRUFHPHQWDJHQF\EHFDXVH\RXDUHLQGHIDXOWXQGHUDFKLOG
-     VXSSRUWRUGHURU\RXKDYHIDLOHGWRFRPSO\ZLWKDVXESRHQDRUZDUUDQWLVVXHGE\DFRXUWRUDJHQF\ZLWKUHVSHFW
-     WRDSURFHHGLQJWRHQIRUFHDFKLOGVXSSRUWRUGHU<RXPXVWUHTXHVWOLPLWHGGULYLQJSULYLOHJHVDQG\RXUUHTXHVW
-     PXVWEHDFFRPSDQLHGE\DUHFHQWFRS\RI\RXUGULYHU¶VDEVWUDFWGULYLQJUHFRUGIURPWKHUHJLVWUDURIPRWRU
-     YHKLFOHV
-
-                                                                                      
-                                                                              -8'*(0$*,675$7(
-
-       
-
-       
-  6XSUHPH&RXUWRI2KLR
-  8QLIRUP'RPHVWLF5HODWLRQV)RUP
-  8QLIRUP-XYHQLOH)RUP
-  6+2:&$86(25'(5$1'127,&(
-  $SSURYHGXQGHU2KLR&LYLO5XOHDQG2KLR-XYHQLOH5XOH
-  $PHQGHGSeptember 21, 2020                                                                               3DJH RI
-       
-
-                              IN THE COURT OF COMMON PLEAS
-                                                  DIVISION
-                                                  COUNTY, OHIO
-
-IN THE MATTER OF:
-
-A Minor
-
-                                                           Case No.
-Name
-                                                           Judge
-Street Address
-                                                           Magistrate
-City, State and Zip Code
-
-                                  Plaintiff/Petitioner 1
-
-                       vs./and
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                  Defendant/Petitioner 2/Respondent
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: This form is used to request a change in the parenting time (companionship and visitation) order.
- A Request for Service (Uniform Domestic Relations Form 31/Uniform Juvenile Form 10) and a Parenting
- Proceeding Affidavit (Uniform Domestic Relations Form – Affidavit 3) must be filed with this Motion. YOU MUST
- UPDATE THE CLERK OF COURTS IF ANY OF THE ABOVE CONTACT INFORMATION CHANGES.
-
-          MOTION FOR CHANGE OF PARENTING TIME (COMPANIONSHIP AND VISITATION)
-
-Now comes _____________________________________________ (name), the Movant, and requests a change
-in the existing parenting time (companionship and visitation) order filed on ______________________(date)
-regarding the following minor child(ren):
-
-                           Name of Child                                       Date of Birth
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 26
- Uniform Juvenile Form 5
- MOTION FOR CHANGE OF PARENTING TIME (COMPANIONSHIP AND VISITATION)
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: September 21, 2020                                                                          Page 1 of 2
-
-Parental rights and responsibilities are currently allocated as follows:
-
-Movant requests that the Court change the parenting time (companionship and visitation) order because:
-
-Movant requests that the Court change the existing parenting time (companionship and visitation) order as follows:
-
-Movant believes that the requested changes are in the child(ren)’s best interest.
-
-Movant requests that the Court order the following: (check all that apply)
-                 Assessing reasonable attorney fees;
-                 Assessing Court costs of the proceedings;
-                 and any further relief deemed proper.
-
-                                                          Attorney or Self Represented Party Signature
-                                                          __________________________________________________________
-                                                          Printed Name
-                                                          __________________________________________________________
-                                                          Address
-                                                          __________________________________________________________
-                                                          City, State, Zip
-                                                          __________________________________________________________
-                                                          Phone Number
-                                                          __________________________________________________________
-                                                          Fax Number
-                                                          __________________________________________________________
-                                                          E-mail
-                                                          __________________________________________________________
-                                                          Supreme Court Reg No. (if any)
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 26
- Uniform Juvenile Form 5
- MOTION FOR CHANGE OF PARENTING TIME (COMPANIONSHIP AND VISITATION)
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: September 21, 2020                                                                             Page 2 of 2
-
-                                 IN THE COURT OF COMMON PLEAS
-                                                     DIVISION
-                                                     COUNTY, OHIO
-
-IN THE MATTER OF:
-
-A Minor
-
-                                                           Case No.
-Name
-                                                           Judge
-Street Address
-                                                           Magistrate
-City, State and Zip Code
-
-                                  Plaintiff/Petitioner 1
-
-                       vs./and
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                   Defendant/Petitioner 2/Respondent
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: This form is used to request a change in a Shared Parenting Plan, a Parenting Plan, or a change in
- the designation of the sole residential parent and legal custodian. A Request for Service (Uniform Domestic
- Relations Form 31/Uniform Juvenile Form 10) and a Parenting Proceeding Affidavit (Uniform Domestic Relations
- Form – Affidavit 3) must be filed with this Motion. YOU MUST UPDATE THE CLERK OF COURTS IF ANY OF
- THE ABOVE CONTACT INFORMATION CHANGES.
-
-          MOTION FOR CHANGE OF PARENTAL RIGHTS AND RESPONSIBILITIES (CUSTODY)
-
-Now comes _____________________________________________ (name), the Movant, and requests a change
-in the allocation of parental rights and responsibilities (custody) order filed on ________________________ (date)
-regarding the following minor child(ren):
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 27
- Uniform Juvenile Form 6
- MOTION FOR CHANGE OF PARENTAL RIGHTS AND RESPONSIBILITIES (CUSTODY)
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: September 21, 2020                                                                            Page 1 of 2
-
-                            Name of Child                                           Date of Birth
-
-Parental rights and responsibilities are currently allocated as follows:
-
-Since the Court issued the existing order, circumstances of the child(ren), residential parent, or legal custodian have
-changed as follows:
-
-Movant requests that the Court change the existing order as follows:
-
-Movant believes that the requested changes are in the child(ren)’s best interest.
-
-Movant requests that the Court order the following: (check all that apply)
-                 Assessing reasonable attorney fees;
-                 Assessing Court costs of the proceedings;
-                 and any further relief deemed proper.
-
-                                                         Attorney or Self Represented Party Signature
-                                                         _____________________________________________________________
-                                                         Printed Name
-                                                         _____________________________________________________________
-                                                         Address
-                                                         _____________________________________________________________
-                                                         City, State, Zip
-                                                         _____________________________________________________________
-                                                         Phone Number
-                                                         _____________________________________________________________
-                                                         Fax Number
-                                                         _____________________________________________________________
-                                                         E-mail
-                                                         _____________________________________________________________
-                                                         Supreme Court Reg No. (if any)
- Supreme Court of Ohio
- Uniform Domestic Relations Form 27
- Uniform Juvenile Form 6
- MOTION FOR CHANGE OF PARENTAL RIGHTS AND RESPONSIBILITIES (CUSTODY)
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: September 21, 2020                                                                                 Page 2 of 2
-
-                                 IN THE COURT OF COMMON PLEAS
-                                                     DIVISION
-                                                     COUNTY, OHIO
-
- IN THE MATTER OF:
-
-A Minor
-
-                                                            Case No.
-Name
-                                                            Judge
-Street Address
-                                                            Magistrate
-City, State and Zip Code
-
-                                   Plaintiff/Petitioner 1
-
-                       vs./and
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                  Defendant/Petitioner 2/Respondent
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: This form is used to request a change in child support or child support-related matters. A Request
- for Service (Uniform Domestic Relations Form 31/Uniform Juvenile Form 10) and an Affidavit of Basic Information,
- Income, and Expenses (Uniform Domestic Relations Form–Affidavit 1) must be filed with this Motion. The Court
- may require additional forms to accompany this document. You must check the requirements of the county in
- which you file. YOU MUST UPDATE THE CLERK OF COURTS IF ANY OF THE ABOVE CONTACT
- INFORMATION CHANGES.
-
-                  MOTION FOR CHANGE OF CHILD SUPPORT, MEDICAL SUPPORT,
-                    TAX EXEMPTION, OR OTHER CHILD-RELATED EXPENSES
-
- Now comes ________________________________ (name), the Movant, and requests a change in the obligation
- to provide support or the right to receive support for the minor child(ren) as follows: (check all that apply)
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 28
- Uniform Juvenile Form 7
- MOTION FOR CHANGE OF CHILD SUPPORT, MEDICAL SUPPORT, TAX EXEMPTION, OR
- OTHER CHILD-RELATED EXPENSES
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: September 21, 2020                                                                            Page 1 of 2
-
-            The amount of child support or cash medical support.
-            The person responsible for providing health insurance.
-            The division of non-insured health care expenses.
-            The person who can claim the child(ren) as dependents for tax purposes.
-            Other child-related expenses.
-
-Since the Court issued the existing Order, circumstances have changed as follows:
-
-Movant requests that the Court change the existing order as follows:
-
-Movant believes that the requested changes are in the child(ren)'s best interest.
-
-Movant requests that the Court order the following: (check all that apply)
-           Assessing reasonable attorney fees;
-           Assessing Court costs of the proceedings;
-           and any further relief deemed proper.
-
-                                                       Attorney or Self Represented Party Signature
-                                                       ____________________________________________________________
-                                                       Printed Name
-                                                       ____________________________________________________________
-                                                       Address
-                                                       ____________________________________________________________
-                                                       City, State, Zip
-                                                       ____________________________________________________________
-                                                       Phone Number
-                                                       ____________________________________________________________
-                                                       Fax Number
-                                                       ____________________________________________________________
-                                                       E-mail
-                                                       ____________________________________________________________
-                                                       Supreme Court Reg No. (if any)
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 28
- Uniform Juvenile Form 7
- MOTION FOR CHANGE OF CHILD SUPPORT, MEDICAL SUPPORT, TAX EXEMPTION, OR
- OTHER CHILD-RELATED EXPENSES
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: September 21, 2020                                                                             Page 2 of 2
-
-     Name of Child:                                                                        Case No.
-
-     Instructions: This form is used when you are claiming the other party has not paid health care bills. Use a separate form for each child. A Motion for Contempt and Affidavit
-     (Uniform Domestic Relations Form 24/Uniform Juvenile Form 3) and a Show Cause Order and Notice to the Clerk (Uniform Domestic Relations Form 25/Uniform Juvenile
-     Form 4) must be filed. You must bring copies of health care bills, Explanation of Benefits forms, and proof of payment to the hearing. Be prepared to indicate the amount
-     owed to you, service providers, collection agencies, or other entities. If more space is needed, add additional pages. The Court may require additional forms to accompany
-     this document. You must check the requirements of the county in which you file.
-
-                                                                  EXPLANATION OF HEALTH CARE BILLS
-
-     Date of          Name of Service Provider (e.g., Doctor,            Total Bill   Date Bill Sent   Amount         Amount       Amount           Amount         Amount
-     Treatment        Dentist, Therapist, Hospital) & Services                        to Other         Insurance      You Paid     Paid by          of Unpaid      Due from
-                      Provided                                                        Party            Paid                        Other Party      Bill           Other Party
-
-                                                                                                                Total Amount of Claim $
-1
-    Your Signature                                                Date
-
-    Supreme Court of Ohio
-    Uniform Domestic Relations Form 29
-    Uniform Juvenile Form 8
-    Explanation of Health Care Bills
-    Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-    Amended: September 21, 2020                                                                                                                                        Page 1 of 1
-
-                                 IN THE COURT OF COMMON PLEAS
-                                                     DIVISION
-                                                     COUNTY, OHIO
-IN THE MATTER OF:
-
-A Minor
-
-                                                               Case No.
-Name
-                                                               Judge
-Street Address
-                                                               Magistrate
-City, State and Zip
-
-                                      Plaintiff/Petitioner 1
-
-                          vs./and
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                      Defendant/Petitioner 2/Respondent
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: This form is used when you want to waive the right to receive service of documents filed or to be
- filed by the other party. The Court may require additional forms to accompany this document. You must check the
- requirements of the county in which you file. YOU MUST UPDATE THE CLERK OF COURTS IF ANY OF THE
- ABOVE CONTACT INFORMATION CHANGES.
-
-                                        WAIVER OF SERVICE OF SUMMONS
-
- Now comes _____________________________________ (name) and acknowledges that I am                              Plaintiff
-    Defendant       Petitioner   Respondent (select one). I further acknowledge that I am over the age of eighteen
- (18), am not under disability, and that I received a copy of the following documents filed or to be filed by the other
- party: (check all that apply)
-
-               Complaint for Divorce with Children
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 30
- Uniform Juvenile Form 9
- WAIVER OF SERVICE OF SUMMONS
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: September 21, 2020                                                                                   Page 1 of 2
-
-              Complaint for Divorce without Children
-              Complaint for Parentage, Allocation of Parental Rights and Responsibilities
-              Petition for Dissolution
-              Motion and Affidavit or Counter Affidavit for Temporary Orders
-              Motion for Change of Parental Rights and Responsibilities (Custody)
-              Motion for Change of Parenting Time (Companionship and Visitation)
-              Motion for Change of Child Support, Medical Support, Tax Exemption, or Other Child-Related
-              Expenses
-              Motion for Contempt and Affidavit
-              Separation Agreement
-              Parenting Plan
-              Shared Parenting Plan
-              Affidavit of Income and Expenses
-              Affidavit of Property
-              Parenting Proceeding Affidavit
-              Health Insurance Affidavit
-              Explanation of Health Care Bills
-              Agreed Judgment Entry
-              Other: (specify)
-
-I waive service of said document(s) by the Clerk of Court.
-
-                                                              Self Represented Party Signature
-
-                                                              ____________________________________________________________
-                                                              Printed Name
-
-                                                              ____________________________________________________________
-                                                              Address
-
-                                                              ____________________________________________________________
-                                                              City, State, Zip
-
-                                                              ____________________________________________________________
-                                                              Phone Number
-
-                                                              ____________________________________________________________
-                                                              Fax Number
-
-                                                              ____________________________________________________________
-                                                              E-mail
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 30
-Uniform Juvenile Form 9
-WAIVER OF SERVICE OF SUMMONS
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: September 21, 2020                                                                                     Page 2 of 2
-
-                                   IN THE COURT OF COMMON PLEAS
-                                                       DIVISION
-                                                       COUNTY, OHIO
-IN THE MATTER OF:
-
-A Minor
-                                                               Case No.
-Name
-                                                               Judge
-Street Address
-                                                               Magistrate
-City, State and Zip Code
-
-                                      Plaintiff/Petitioner 1
-
-                         vs./and
-
-Name
-
-Street Address
-
-City, State and Zip Code
-
-                     Defendant/Petitioner 2/Respondent
-
- WARNING: This form is not a substitute for the benefit of the advice of legal counsel.
-          It is highly recommended that you consult an attorney.
- Instructions: This form is used when you want to request documents to be served on the other party. You must
- indicate the requested method of service by marking the appropriate box. The Court may require additional forms
- to accompany this document. You must check the requirements of the county in which you file. YOU MUST
- UPDATE THE CLERK OF COURTS IF ANY OF THE ABOVE CONTACT INFORMATION CHANGES.
-
-                                               REQUEST FOR SERVICE
-
- TO THE CLERK OF COURT:
-
- Please serve the following documents: (check all that apply)
-
-               Complaint for Divorce with Children
-
- Supreme Court of Ohio
- Uniform Domestic Relations Form 31
- Uniform Juvenile Form 10
- REQUEST FOR SERVICE
- Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
- Amended: September 21, 2020                                                                          Page 1 of 3
-
-              Complaint for Divorce without Children
-              Complaint for Parentage, Allocation of Parental Rights and Responsibilities
-              Petition for Dissolution
-              Motion and Affidavit or Counter Affidavit for Temporary Orders
-              Motion for Change of Parental Rights and Responsibilities (Custody)
-              Motion for Change of Parenting Time (Companionship and Visitation)
-              Motion for Change of Child Support, Medical Support, Tax Exemption, or Other Child-Related
-              Expenses
-              Motion for Contempt and Affidavit
-              Separation Agreement
-              Parenting Plan
-              Shared Parenting Plan
-              Affidavit of Income and Expenses
-              Affidavit of Property
-              Parenting Proceeding Affidavit
-              Health Insurance Affidavit
-              Explanation of Health Care Bills
-              Agreed Judgment Entry
-              Other: (specify)
-
-Please serve the following parties with the above marked documents:
-
-         Defendant/Petitioner 2/Respondent at
-         __________________________________________________________________________(address) by:
-            Certified Mail, Return Receipt Requested
-            Issuance to Sheriff of                   County, Ohio for Personal or Residence service
-            Other: (specify)
-
-         Plaintiff/Petitioner 1 at
-         __________________________________________________________________________(address) by:
-            Certified Mail, Return Receipt Requested
-            Issuance to Sheriff of                   County, Ohio for Personal or Residence service
-            Other: (specify)
-
-         ________________________________________________County Child Support Enforcement Agency at
-         __________________________________________________________________________(address) by:
-            Certified Mail, Return Receipt Requested
-            Issuance to Sheriff of                   County, Ohio for Personal or Residence service
-            Other: (specify)
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 31
-Uniform Juvenile Form 10
-REQUEST FOR SERVICE
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: September 21, 2020                                                                    Page 2 of 3
-
-         Other _____________________________________________________________________________ at
-         __________________________________________________________________________(address) by:
-            Certified Mail, Return Receipt Requested
-            Issuance to Sheriff of                   County, Ohio for Personal or Residence service
-            Other: (specify)
-
-SPECIAL INSTRUCTIONS TO SHERIFF:
-
-                                                              Attorney or Self Represented Party Signature
-
-                                                              ____________________________________________________________
-                                                              Printed Name
-
-                                                              ____________________________________________________________
-                                                              Address
-
-                                                              ____________________________________________________________
-                                                              City, State, Zip
-
-                                                              ____________________________________________________________
-                                                              Phone Number
-
-                                                              ____________________________________________________________
-                                                              Fax Number
-
-                                                              ____________________________________________________________
-                                                              E-mail
-
-                                                              ____________________________________________________________
-                                                              Supreme Court Reg No. (if any)
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 31
-Uniform Juvenile Form 10
-REQUEST FOR SERVICE
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule 46
-Amended: September 21, 2020                                                                                    Page 3 of 3
-
-General Information & Instructions: Motion to Intervene
-
-These instructions are intended to be a general guide to help you complete and file these forms, serve
-them on the opposing parties, and get your request before the court. These do not guarantee that
-you will be successful in your motion but are to assist you in preparing your request.
-
-A Motion to Intervene is a request to a court asking that you be joined as a party to a case.
-For example, parties to a case may be a child’s mother, father, or legal custodian. This motion
-must be filed with the clerk’s office of the court where the current (or closed) case is being
-heard.
-
-When you file a motion, you must inform all parties of your request through the official court
-process. You must notify them with official court documents, including a copy of the signed
-Motion to Intervene. This is what it means to have them “served.”
-
-A Request for Service form (Supreme Court of Ohio Uniform Domestic Relations Form
-31/Juvenile Form 10) is used to select how you want the parties to be served. You can find this
-form at www.supremecourt.ohio.gov or on your local court’s website.
-
-A Certificate of Service must be signed and filed with your Motion to Intervene. This shows
-that all the parties to the case have been informed of your request to the court.
-
-What documents you will need:
-    Motion to Intervene with Certificate of Service
-    A separate (additional) pleading/document asking the court for the change you want,
-         such as a change in custody or child support with a Request for Service
-
-It is your responsibility to do the following:
-    •    Provide accurate contact information for each party.
-    •    Contact the Clerk of Court’s Office if you do not know the case number or judge or
-         magistrate’s name.
-    •    Check with your local court to see if there are additional requirements.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 32
-Uniform Juvenile Form 11
-MOTION TO INTERVENE
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule
-42 Effective Date: January 22, 2026                                                      Page 1 of 5
-
-Next Steps
-   •    Take your completed paperwork to the clerk’s office of the appropriate court and ask if
-        a hearing on your motion will be scheduled and how you will be notified of the date and
-        time of your hearing.
-   •    Pay the filing fee. If you cannot afford to pay the filing fee, you can use the Affidavit of
-        Indigency/Fee Waiver Affidavit and Order Form (Supreme Court of Ohio Form
-        20). This form asks that you be allowed to file without paying a fee in advance. You may
-        still be responsible for paying the fee at the end of the case. You can find this form at
-        www.supremecourt.ohio.gov or on your local court’s website.
-   •    If your contact information changes, you must notify the court of these changes, or your
-        motion could be dismissed.
-   •    Contact the clerk’s office before your hearing to make sure the parties received their
-        paperwork. You will be required to provide a new address or choose a different method
-        of service if the paperwork is undeliverable. If notice cannot be made and the party does
-        not appear at the hearing, your motion could be dismissed.
-   •    The Motion to Intervene must be granted before the court can consider any request for
-        custody, visitation, companionship, child support, or other type of change.
-
-       The Court and Clerk of Court’s staff cannot give legal advice. Contact a lawyer, legal aid
-             office, or Ohio Legal Help at www.ohiolegalhelp.org if you have questions.
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 32
-Uniform Juvenile Form 11
-MOTION TO INTERVENE
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule
-42 Effective Date: January 22, 2026                                                    Page 2 of 5
-
-                                IN THE COURT OF COMMON PLEAS
-                              __________________________________ DIVISION
-                              ____________________________COUNTY, OHIO
-
-IN THE MATTER OF:
-______________________________________________________
-
-______________________________________________________       Case No. _____________________________
-Name
-______________________________________________________
-Address
-______________________________________________________
-City, State, Zip
-
-                                       Plaintiff
-                        vs.
-
-______________________________________________________
-Name
-______________________________________________________
-Address
-______________________________________________________
-City, State, Zip
-
-                                       Defendant
-                        vs.
-
-______________________________________________________
-Your Name
-______________________________________________________
-Your Address
-______________________________________________________
-Your City, State, Zip
-
-                                       Intervenor
-
-                                     MOTION TO INTERVENE
-This form is to request to become a party to a domestic relations or juvenile court case. A separate
-       motion must be filed with this motion. If more space is needed, add additional pages.
-
-1. My relationship with the child is (for example, grandparent, aunt, uncle, family friend, etc.)
-    ______________________________________________________________________________________________
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 32
-Uniform Juvenile Form 11
-MOTION TO INTERVENE
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule
-42 Effective Date: January 22, 2026                                                    Page 3 of 5
-
-2. I, ____________________________________, request to be added as a party to the case because:
-   ______________________________________________________________________________________________
-   ______________________________________________________________________________________________
-   ______________________________________________________________________________________________
-   ______________________________________________________________________________________________
-   ______________________________________________________________________________________________
-   ______________________________________________________________________________________________
-   ______________________________________________________________________________________________
-   ______________________________________________________________________________________________
-
-3. I am requesting to be made a party to this case because I am seeking one of the following
-   listed below. I understand I must file a separate motion for this request along with this
-   motion to intervene.
-        Legal Custody
-        Temporary Custody
-        Visitation/Companionship
-        Child Support as a Caretaker
-        Other ________________________________________________________________________________
-
-4. This motion is submitted by:  Me as a self-represented litigant or  Attorney.
-
-                                                       __________________________________________
-                                                                                            Signature
-                                                       __________________________________________
-                                                                                        Printed Name
-                                                       __________________________________________
-                                                            Attorney Registration Number if applicable
-                                                       __________________________________________
-                                                                                  Telephone Number
-                                                       ________________________________________
-                                                                                        Email Address
-                                                       __________________________________________
-                                                                                                  Date
-
-Supreme Court of Ohio
-Uniform Domestic Relations Form 32
-Uniform Juvenile Form 11
-MOTION TO INTERVENE
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule
-42 Effective Date: January 22, 2026                                                      Page 4 of 5
-
-                                      CERTIFICATE OF SERVICE
-                             Service should be made to all parties in the case.
-                   Attach an additional sheet if you are serving more than three parties.
-
-I certify that a copy of this motion was sent to the following parties on the following date
-___________________________________, 20________.
-
-______________________________________________________
-Party Name                                                  This motion was sent by:
-______________________________________________________         Regular U.S. Mail
-Address
-                                                               E-mail (to the address on file with the court)
-______________________________________________________
-City, State, Zip                                               Hand Delivery
-
-______________________________________________________         Fax
-Phone (if known)                                               Other ______________________________________
-______________________________________________________
-E-mail Address on File with the Court (if known)
-
-______________________________________________________
-Party Name                                                  This motion was sent by:
-______________________________________________________         Regular U.S. Mail
-Address
-                                                               E-mail (to the address on file with the court)
-______________________________________________________
-                                                               Hand Delivery
-City, State, Zip
-______________________________________________________         Fax
-Phone (if known)                                               Other ______________________________________
-______________________________________________________
-E-mail Address on File with the Court (if known)
-
-______________________________________________________
-Party Name                                                  This motion was sent by:
-______________________________________________________         Regular U.S. Mail
-Address
-                                                               E-mail (to the address on file with the court)
-______________________________________________________
-City, State, Zip                                               Hand Delivery
-
-______________________________________________________         Fax
-Phone (if known)                                               Other ______________________________________
-______________________________________________________
-E-mail Address on File with the Court (if known)
-
-                                                           _________________________________________
-                                                            Signature of Attorney or Self-Represented Litigant
-Supreme Court of Ohio
-Uniform Domestic Relations Form 32
-Uniform Juvenile Form 11
-MOTION TO INTERVENE
-Approved under Ohio Civil Rule 84 and Ohio Juvenile Rule
-42 Effective Date: January 22, 2026                                                          Page 5 of 5
+FORM 45(D) Confidential Disclosure of Personal Identifiers

@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 2744 — Political Subdivision Tort Immunity
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-2744
-> **Fetched:** 2026-06-11
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 

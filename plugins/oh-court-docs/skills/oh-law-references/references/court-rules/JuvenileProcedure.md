@@ -1,7 +1,7 @@
 # Ohio Rules of Juvenile Procedure (Juv. R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/juvenile/JuvenileProcedure.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;
@@ -34,7 +34,7 @@ Rule
 20     Service and filing of papers when required subsequent to filing of complaint
 21     Preliminary conferences
 22     Pleadings and motions; defenses and objections
-23     Continuance
+23     [Reserved]
 24     Discovery
 25     Depositions
 26     Victim's Rights and Responsibilities
@@ -64,6 +64,31 @@ Rule
 47     Effective date
 48     Title
 
+APPENDIX OF FORMS
+
+FORM 1        Parenting Judgment Entry
+
+FORM 2        Complaint for Parentage, Allocation of Parental Rights and Responsibilities and
+              Parenting Time
+
+FORM 3        Motion for Contempt, Affidavit, and Instructions for Service
+
+FORM 4        Show Cause Order and Notice
+FORM 5        Motion for Change of Parenting Time (Companionship and Visitation)
+
+FORM 6        Motion for Change of Parental Rights and Responsibilities (Custody)
+
+FORM 7        Motion for Change of Child Support, Medical Support, Tax Exemption, or Other
+              Child-related Expenses
+
+FORM 8        Explanation of Health Care Bills
+
+FORM 9        Waiver of Service of Summons
+
+FORM 10       Request for Service
+
+FORM 11       Motion to Intervene
+
 RULE 1.      Scope of Rules: Applicability; Construction; Exceptions.
 
 (A)   Applicability
@@ -77,19 +102,19 @@ RULE 1.      Scope of Rules: Applicability; Construction; Exceptions.
       These rules shall be liberally interpreted and construed so as to effectuate the following
       purposes:
 
-             (1)     To effect the just determination of every juvenile court proceeding by
-             ensuring the parties a fair hearing and the recognition and enforcement of their
-             constitutional and other legal rights;
+             (1)      To effect the just determination of every juvenile court proceeding by
+                      ensuring the parties a fair hearing and the recognition and enforcement of
+                      their constitutional and other legal rights;
 
-             (2)    To secure simplicity and uniformity in procedure, fairness in
-             administration, and the elimination of unjustifiable expense and delay;
+             (2)      To secure simplicity and uniformity in procedure, fairness in
+                      administration, and the elimination of unjustifiable expense and delay;
 
-             (3)     To provide for the care, protection, and mental and physical development
-             of children subject to the jurisdiction of the juvenile court, and to protect the welfare
-             of the community; and
+             (3)      To provide for the care, protection, and mental and physical development
+                      of children subject to the jurisdiction of the juvenile court, and to protect
+                      the welfare of the community; and
 
-             (4)    To protect the public interest by treating children as persons in need of
-             supervision, care and rehabilitation.
+             (4)      To protect the public interest by treating children as persons in need of
+                      supervision, care and rehabilitation.
 
 (C)   Exceptions
 
@@ -123,183 +148,186 @@ As used in these rules:
        (A)     "Abused child" has the same meaning as in section 2151.031 of the Revised Code.
 
        (B)     "Adjudicatory hearing" means a hearing to determine whether a child is a juvenile
-       traffic offender, delinquent, unruly, abused, neglected, or dependent or otherwise within
-       the jurisdiction of the court.
+               traffic offender, delinquent, unruly, abused, neglected, or dependent or otherwise
+               within the jurisdiction of the court.
 
        (C)     "Agreement for temporary custody" means a voluntary agreement that is authorized
-       by section 5103.15 of the Revised Code and transfers the temporary custody of a child to
-       a public children services agency or a private child placing agency.
+               by section 5103.15 of the Revised Code and transfers the temporary custody of a
+               child to a public children services agency or a private child placing agency.
 
-       (D)    “Appear,” “appearance,” or “in person” mean the physical or remote presence of
-       an individual.
+       (D)     “Appear,” “appearance,” or “in person” mean the physical or remote presence of
+               an individual.
 
        (E)     “Attendance” means the physical or remote presence of an individual.
 
-       (F)   "Child" has the same meaning as in sections 2151.011 and 2152.02 of the Revised
-       Code.
+       (F)     "Child" has the same meaning as in sections 2151.011 and 2152.02 of the Revised
+               Code.
 
        (G)     “Chronic truant” has the same meaning as in section 2151.011 of the Revised Code.
 
        (H)     "Complaint" means the legal document that sets forth the allegations that form the
-       basis for juvenile court jurisdiction.
+               basis for juvenile court jurisdiction.
 
-       (I)    "Court proceeding" means all action taken by a court from the earlier of (1) the time
-       a complaint is filed and (2) the time a person first appears before an officer of a juvenile
-       court until the court relinquishes jurisdiction over such child.
+       (I)     "Court proceeding" means all action taken by a court from the earlier of (1) the time
+               a complaint is filed and (2) the time a person first appears before an officer of a
+               juvenile court until the court relinquishes jurisdiction over such child.
 
-       (J)    "Custodian" means a person who has legal custody of a child or a public children’s
-       services agency or private child-placing agency that has permanent, temporary, or legal
-       custody of a child.
+       (J)     "Custodian" means a person who has legal custody of a child or a public children’s
+               services agency or private child-placing agency that has permanent, temporary, or
+               legal custody of a child.
 
-       (K)   "Delinquent child" has the same meaning as in section 2152.02 of the Revised
-       Code.
+       (K)     "Delinquent child" has the same meaning as in section 2152.02 of the Revised
+               Code.
 
        (L)     "Dependent child" has the same meaning as in section 2151.04 of the Revised Code.
 
-       (M) "Detention" means the temporary care of children in restricted facilities pending
-       court adjudication or disposition.
+       (M)     "Detention" means the temporary care of children in restricted facilities pending
+               court adjudication or disposition.
 
        (N)     "Detention hearing" means a hearing to determine whether a child shall be held in
-       detention or shelter care prior to or pending execution of a final dispositional order.
+               detention or shelter care prior to or pending execution of a final dispositional order.
 
 (O)    "Dispositional hearing" means a hearing to determine what action shall be taken
-concerning a child who is within the jurisdiction of the court.
+       concerning a child who is within the jurisdiction of the court.
 
-(P)     "Guardian" means a person, association, or corporation that is granted authority by
-a probate court pursuant to Chapter 2111 of the Revised Code to exercise parental rights
-over a child to the extent provided in the court's order and subject to the residual parental
-rights of the child's parents.
+(P)    "Guardian" means a person, association, or corporation that is granted authority by
+       a probate court pursuant to Chapter 2111 of the Revised Code to exercise parental
+       rights over a child to the extent provided in the court's order and subject to the
+       residual parental rights of the child's parents.
 
 (Q)    "Guardian ad litem" means a person appointed to protect the interests of a party in
-a juvenile court proceeding.
+       a juvenile court proceeding.
 
 (R)    “Habitual truant” has the same meaning as in section 2151.011 of the Revised Code.
 
-(S)   "Hearing" means any portion of a juvenile court proceeding before the court,
-whether summary in nature or by examination of witnesses.
+(S)    "Hearing" means any portion of a juvenile court proceeding before the court,
+       whether summary in nature or by examination of witnesses.
 
 (T)    "Indigent person" means a person who, at the time need is determined, is unable by
-reason of lack of property or income to provide for full payment of legal counsel and all
-other necessary expenses of representation.
+       reason of lack of property or income to provide for full payment of legal counsel
+       and all other necessary expenses of representation.
 
-(U)     "Juvenile court" means a division of the court of common pleas, or a juvenile court
-separately and independently created, that has jurisdiction under Chapters 2151 and 2152
-of the Revised Code.
+(U)    "Juvenile court" means a division of the court of common pleas, or a juvenile court
+       separately and independently created, that has jurisdiction under Chapters 2151 and
+       2152 of the Revised Code.
 
 (V)    "Juvenile judge" means a judge of a court having jurisdiction under Chapters 2151
-and 2152 of the Revised Code.
+       and 2152 of the Revised Code.
 
-(W) "Juvenile traffic offender" has the same meaning as in section 2152.02 of the
-Revised Code.
+(W)    "Juvenile traffic offender" has the same meaning as in section 2152.02 of the
+       Revised Code.
 
-(X)      "Legal custody" means a legal status that vests in the custodian the right to have
-physical care and control of the child and to determine where and with whom the child
-shall live, and the right and duty to protect, train, and discipline the child and provide the
-child with food, shelter, education, and medical care, all subject to any residual parental
-rights, privileges, and responsibilities. An individual granted legal custody shall exercise
-the rights and responsibilities personally unless otherwise authorized by any section of the
-Revised Code or by the court.
+(X)    "Legal custody" means a legal status that vests in the custodian the right to have
+       physical care and control of the child and to determine where and with whom the
+       child shall live, and the right and duty to protect, train, and discipline the child and
+       provide the child with food, shelter, education, and medical care, all subject to any
+       residual parental rights, privileges, and responsibilities. An individual granted legal
+       custody shall exercise the rights and responsibilities personally unless otherwise
+       authorized by any section of the Revised Code or by the court.
 
 (Y)    "Mental examination" means an examination by a psychiatrist or psychologist.
 
 (Z)    "Neglected child" has the same meaning as in section 2151.03 of the Revised Code.
 
 (AA) “Open court” includes a court proceeding open to the public in person or by remote
-access to the live proceeding.
+     access to the live proceeding.
 
 (BB) "Party" means a child who is the subject of a juvenile court proceeding, the child's
-spouse, if any, the child's parent or parents, or if the parent of a child is a child, the parent
-of that parent, in appropriate cases, the child's custodian, guardian, or guardian ad litem,
-the state, and any other person specifically designated by the court.
+     spouse, if any, the child's parent or parents, or if the parent of a child is a child, the
+     parent of that parent, in appropriate cases, the child's custodian, guardian, or
+     guardian ad litem, the state, and any other person specifically designated by the
+     court.
 
 (CC) "Permanent custody" means a legal status that vests in a public children’s services
-agency or a private child-placing agency, all parental rights, duties, and obligations,
-including the right to consent to adoption, and divests the natural parents or adoptive
-parents of any and all parental rights, privileges, and obligations, including all residual
-rights and obligations.
+     agency or a private child-placing agency, all parental rights, duties, and obligations,
+     including the right to consent to adoption, and divests the natural parents or
+     adoptive parents of any and all parental rights, privileges, and obligations, including
+     all residual rights and obligations.
 
 (DD) "Permanent surrender" means the act of the parents or, if a child has only one
-parent, of the parent of a child, by a voluntary agreement authorized by section 5103.15 of
-the Revised Code, to transfer the permanent custody of the child to a public children’s
-services agency or a private child-placing agency.
+     parent, of the parent of a child, by a voluntary agreement authorized by section
+     5103.15 of the Revised Code, to transfer the permanent custody of the child to a
+     public children’s services agency or a private child-placing agency.
 
-(EE) "Person" includes an individual, association, corporation, or partnership and the
-state or any of its political subdivisions, departments, or agencies.
+(EE)   "Person" includes an individual, association, corporation, or partnership and the
+       state or any of its political subdivisions, departments, or agencies.
 
-(FF)    “Personally” means the physical or remote presence of an individual.
+(FF)   “Personally” means the physical or remote presence of an individual.
 
 (GG) "Physical examination" means an examination by a physician.
 
 (HH) “Planned permanent living arrangement” means an order of a juvenile court
-pursuant to which both of the following apply:
+     pursuant to which both of the following apply:
 
-        (1)     The court gives legal custody of a child to a public children’s services
-        agency or a private child-placing agency without the termination of parental
-        rights;
+               (1)     The court gives legal custody of a child to a public children’s
+                       services agency or a private child-placing agency without the
+                       termination of parental rights;
 
-        (2)     The order permits the agency to make an appropriate placement of the child
-        and to enter into a written planned permanent living arrangement agreement with a
-        foster care provider or with another person or agency with whom the child is placed.
+               (2)     The order permits the agency to make an appropriate placement of
+                       the child and to enter into a written planned permanent living
+                       arrangement agreement with a foster care provider or with another
+                       person or agency with whom the child is placed.
 
-(II)    "Private child-placing agency" means any association, as defined in section
-5103.02 of the Revised Code that is certified pursuant to sections 5103.03 to 5103.05 of
-the Revised Code to accept temporary, permanent, or legal custody of children and place
-the children for either foster care or adoption.
+(II)   "Private child-placing agency" means any association, as defined in section
+       5103.02 of the Revised Code that is certified pursuant to sections 5103.03 to
+       5103.05 of the Revised Code to accept temporary, permanent, or legal custody of
+       children and place the children for either foster care or adoption.
 
 (JJ)   "Public children’s services agency" means a children’s services board or a county
-department of human services that has assumed the administration of the children’s
-services function prescribed by Chapter 5153 of the Revised Code.
+       department of human services that has assumed the administration of the children’s
+       services function prescribed by Chapter 5153 of the Revised Code.
 
 (KK) “Remote presence” means the presence of a person who is using live two-way video
-and audio technology.
+     and audio technology.
 
-(LL) “Removal action” means a statutory action filed by the superintendent of a school
-district for the removal of a child in an out-of-county foster home placement.
+(LL)   “Removal action” means a statutory action filed by the superintendent of a school
+       district for the removal of a child in an out-of-county foster home placement.
 
 (MM) "Residence or legal settlement" means a location as defined by section 2151.06 of
-the Revised Code.
+     the Revised Code.
 
 (NN) "Residual parental rights, privileges, and responsibilities" means those rights,
-privileges, and responsibilities remaining with the natural parent after the transfer of legal
-custody of the child, including but not limited to the privilege of reasonable visitation,
-consent to adoption, the privilege to determine the child's religious affiliation, and the
-responsibility for support.
+     privileges, and responsibilities remaining with the natural parent after the transfer
+     of legal custody of the child, including but not limited to the privilege of reasonable
+     visitation, consent to adoption, the privilege to determine the child's religious
+     affiliation, and the responsibility for support.
 
 (OO) “Rule of court” means a rule promulgated by the Supreme Court or a rule
-concerning local practice adopted by another court that is not inconsistent with the rules
-promulgated by the Supreme Court and that is filed with the Supreme Court.
+     concerning local practice adopted by another court that is not inconsistent with the
+     rules promulgated by the Supreme Court and that is filed with the Supreme Court.
 
-(PP) “Serious youthful offender” means a child eligible for sentencing as described in
-sections 2152.11 and 2152.13 of the Revised Code.
+(PP)   “Serious youthful offender” means a child eligible for sentencing as described in
+       sections 2152.11 and 2152.13 of the Revised Code.
 
 (QQ) "Serious youthful offender proceedings" means proceedings after a probable cause
-determination that a child is eligible for sentencing as described in sections 2152.11 and
-2152.13 of the Revised Code. Serious youthful offender proceedings cease to be serious
-youthful offender proceedings once a child has been determined by the trier of fact not to
-be a serious youthful offender or the juvenile judge has determined not to impose a serious
-youthful offender disposition on a child eligible for discretionary serious youthful offender
-sentencing.
+     determination that a child is eligible for sentencing as described in sections 2152.11
+     and 2152.13 of the Revised Code. Serious youthful offender proceedings cease to
+     be serious youthful offender proceedings once a child has been determined by the
+     trier of fact not to be a serious youthful offender or the juvenile judge has
+     determined not to impose a serious youthful offender disposition on a child eligible
+     for discretionary serious youthful offender sentencing.
 
 (RR) "Shelter care" means the temporary care of children in physically unrestricted
-facilities, pending court adjudication or disposition.
+     facilities, pending court adjudication or disposition.
 
-(SS) "Social history" means the personal and family history of a child or any other party
-to a juvenile proceeding and may include the prior record of the person with the juvenile
-court or any other court.
+(SS)   "Social history" means the personal and family history of a child or any other party
+       to a juvenile proceeding and may include the prior record of the person with the
+       juvenile court or any other court.
 
-(TT) "Temporary custody" means legal custody of a child who is removed from the
-child's home, which custody may be terminated at any time at the discretion of the court
-or, if the legal custody is granted in an agreement for temporary custody, by the person or
-persons who executed the agreement.
+(TT)   "Temporary custody" means legal custody of a child who is removed from the
+       child's home, which custody may be terminated at any time at the discretion of the
+       court or, if the legal custody is granted in an agreement for temporary custody, by
+       the person or persons who executed the agreement.
 
 (UU) "Unruly child" has the same meaning as in section 2151.022 of the Revised Code.
 
 (VV) "Ward of court" means a child over whom the court assumes continuing
-jurisdiction.
+     jurisdiction.
 
         (WW) “Victim” has the same meaning as provided in Chapter 2930 of the Revised Code.
-        For purposes of these rules, the term “victim” includes the “victim’s representative” and
-        “victim’s attorney.” as those terms are defined in Chapter 2930 of the Revised Code.
+            For purposes of these rules, the term “victim” includes the “victim’s representative”
+            and “victim’s attorney.” as those terms are defined in Chapter 2930 of the Revised
+            Code.
 
 Effective Date: July 1, 1972
 Amended: July 1, 1994; July 1, 1998; July 1, 2001; July 1, 2002; July 1, 2023; July 1, 2025
@@ -348,6 +376,7 @@ Juvenile Rule 2          Definitions
 
          The July 1, 2002, amendments substituted the language of “planned permanent living arrangement”
 for the former language of “long term foster care,” to conform to the new legislative designation for these
+
 child-placing arrangements. Former division (W), “Long term foster care,” was deleted, a new division (DD),
 “Planned permanent living arrangement,” was added, and other divisions were relettered accordingly.
 
@@ -373,55 +402,56 @@ whether there can be a “victim” prior to the return of a guilty verdict or a
 “victim” encompasses all stages of the process and should not be interpreted as diminishing the
 constitutional presumption of innocence.
 
-RULE 3.         Waiver of Rights.
+RULE 3.        Waiver of Rights.
 
 (A)    A child’s right to be represented by counsel may not be waived in the following
-circumstances:
+       circumstances:
 
-        (1)     At a hearing conducted pursuant to Juv.R. 30;
+               (1)     At a hearing conducted pursuant to Juv.R. 30;
 
-        (2)     When a serious youthful offender dispositional sentence has been requested; or
+               (2)     When a serious youthful offender dispositional sentence has been
+                       requested; or
 
-        (3)    When there is a conflict or disagreement between the child and the parent, guardian,
-        or custodian; or if the parent, guardian, or custodian requests that the child be removed
-        from the home.
+               (3)     When there is a conflict or disagreement between the child and the parent,
+                       guardian, or custodian; or if the parent, guardian, or custodian requests that
+                       the child be removed from the home.
 
-(B)     If a child is facing the potential loss of liberty, the child shall be informed on the record of
-the child’s right to counsel and the disadvantages of self-representation.
+(B)    If a child is facing the potential loss of liberty, the child shall be informed on the record of
+       the child’s right to counsel and the disadvantages of self-representation.
 
-(C)     If a child is charged with a felony offense, the court shall not allow any waiver of counsel
-unless the child has met privately with an attorney to discuss the child’s right to counsel and the
-disadvantages of self-representation.
+(C)    If a child is charged with a felony offense, the court shall not allow any waiver of counsel
+       unless the child has met privately with an attorney to discuss the child’s right to counsel
+       and the disadvantages of self-representation.
 
-(D)     Any waiver of the right to counsel shall be made in open court, recorded, and in writing.
-In determining whether a child has knowingly, intelligently, and voluntarily waived the right to
-counsel, the court shall look to the totality of the circumstances including, but not limited to: the
-child’s age; intelligence; education; background and experience generally and in the court system
-specifically; the child’s emotional stability; and the complexity of the proceedings. The Court shall
-ensure that a child consults with a parent, custodian, guardian, or guardian ad litem, before any
-waiver of counsel. However, no parent, guardian, custodian, or other person may waive the child’s
-right to counsel.
+(D)    Any waiver of the right to counsel shall be made in open court, recorded, and in writing.
+       In determining whether a child has knowingly, intelligently, and voluntarily waived the
+       right to counsel, the court shall look to the totality of the circumstances including, but not
+       limited to: the child’s age; intelligence; education; background and experience generally
+       and in the court system specifically; the child’s emotional stability; and the complexity of
+       the proceedings. The Court shall ensure that a child consults with a parent, custodian,
+       guardian, or guardian ad litem, before any waiver of counsel. However, no parent,
+       guardian, custodian, or other person may waive the child’s right to counsel.
 
 (E)     Other rights of a child may be waived with permission of the court.
 
-(F)      A victim who fails to request initial notice pursuant to law, or who later opts out of
-receiving notices, may resubmit their request to receive notices at any time, as provided by law.
+(F)    A victim who fails to request initial notice pursuant to law, or who later opts out of
+       receiving notices, may resubmit their request to receive notices at any time, as provided by
+       law.
 
 Effective Date: July 1, 1972
 Amended: July 1, 1994; July 1, 2012; July 1, 2025
 
                                 Staff Note (July 1, 2012 Amendment)
 
-        Ohio Revised Code §2151.352 establishes that juveniles have a right to counsel.
+       Ohio Revised Code §2151.352 establishes that juveniles have a right to counsel.
 
         The amended rule is intended to implement a process for the mandates of the United States
 Supreme Court's decision In re Gault (1967), 387 U.S. 1 and the Supreme Court of Ohio's decision In re
 C.S. (2007), 115 Ohio St.3d 267, 2007-Ohio-4919, to ensure children have meaningful access to counsel
 and are able to make informed decisions about their legal representation.
 
-       Under Juv.R. 3 as it existed prior to amendment, a child facing a mandatory or discretionary
+        Under Juv.R. 3 as it existed prior to amendment, a child facing a mandatory or discretionary
 bindover to adult court could not waive counsel. The amended rule adds to this prohibition on waiver of
-
 counsel by including a child charged as a serious youthful offender pursuant to ORC §2152.13 as required
 by ORC §2152.13(C)(2).
 
@@ -431,52 +461,52 @@ adverse in the proceeding, a conflict exists and the child should be appointed c
 custodian, or guardian and the child disagree on the question of whether counsel is necessary for the child
 or if the right to counsel should be waived, counsel should be appointed.
 
-RULE 4.        Assistance of Counsel; Guardian Ad Litem.
+RULE 4.      Assistance of Counsel; Guardian Ad Litem.
 
-(A)    Assistance of counsel
+(A)   Assistance of counsel
 
-       Every party shall have the right to be represented by counsel and every child, parent,
-       custodian, or other person in loco parentis the right to appointed counsel if indigent. These
-       rights shall arise when a person becomes a party to a juvenile court proceeding. This rule
-       shall not be construed to provide for a right to appointed counsel in cases in which that
-       right is not otherwise provided for by constitution or statute.
+      Every party shall have the right to be represented by counsel and every child, parent,
+      custodian, or other person in loco parentis the right to appointed counsel if indigent. These
+      rights shall arise when a person becomes a party to a juvenile court proceeding. This rule
+      shall not be construed to provide for a right to appointed counsel in cases in which that
+      right is not otherwise provided for by constitution or statute.
 
-(B)    Guardian ad litem; when appointed
+(B)   Guardian ad litem; when appointed
 
-       The court shall appoint a guardian ad litem to protect the interests of a child or incompetent
-       adult in a juvenile court proceeding when:
+      The court shall appoint a guardian ad litem to protect the interests of a child or incompetent
+      adult in a juvenile court proceeding when:
 
-               (1)     The child has no parents, guardian, or legal custodian;
+             (1)     The child has no parents, guardian, or legal custodian;
 
-               (2)     The interests of the child and the interests of the parent may conflict;
+             (2)     The interests of the child and the interests of the parent may conflict;
 
-               (3)   The parent is under eighteen years of age or appears to be mentally
-               incompetent;
+             (3)     The parent is under eighteen years of age or appears to be mentally
+                     incompetent;
 
-               (4)     The court believes that the parent of the child is not capable of representing
-               the best interest of the child;
+             (4)     The court believes that the parent of the child is not capable of representing
+                     the best interest of the child;
 
-               (5)    Any proceeding involves allegations of abuse, neglect, or dependency,
-               voluntary surrender of permanent custody, or termination of parental rights as soon
-               as possible after the commencement of such proceeding;
+             (5)     Any proceeding involves allegations of abuse, neglect, or dependency,
+                     voluntary surrender of permanent custody, or termination of parental rights
+                     as soon as possible after the commencement of such proceeding;
 
-               (6)     There is an agreement for the voluntary surrender of temporary custody that
-               is made in accordance with section 5103.15 of the Revised Code, and thereafter
-               there is a request for extension of the voluntary agreement;
+             (6)     There is an agreement for the voluntary surrender of temporary custody that
+                     is made in accordance with section 5103.15 of the Revised Code, and
+                     thereafter there is a request for extension of the voluntary agreement;
 
-               (7)     The proceeding is a removal action;
+             (7)     The proceeding is a removal action;
 
-               (8)    Appointment is otherwise necessary to meet the requirements of a fair
-               hearing;
+             (8)     Appointment is otherwise necessary to meet the requirements of a fair
+                     hearing;
 
-               (9)     If a court appoints a person who is not an attorney admitted to the practice
-               of law in this state to be a guardian ad litem, the court may appoint an attorney
-               admitted to the practice of law in this state to serve as attorney for the guardian ad
-               litem, child, or ward.
+             (9)     If a court appoints a person who is not an attorney admitted to the practice
+                     of law in this state to be a guardian ad litem, the court may appoint an
+                     attorney admitted to the practice of law in this state to serve as attorney for
+                     the guardian ad litem, child, or ward.
 
-(C)     If a person is serving as Guardian ad litem for a child or ward, and the court finds a conflict
-exists between the role of the Guardian ad litem and the interest or wishes of the child of the ward,
-the court shall appoint counsel for the child or ward.
+(C)   If a person is serving as Guardian ad litem for a child or ward, and the court finds a conflict
+      exists between the role of the Guardian ad litem and the interest or wishes of the child of
+      the ward, the court shall appoint counsel for the child or ward.
 
 (D)    Appearance of attorneys
 
@@ -502,22 +532,22 @@ the court shall appoint counsel for the child or ward.
 (H)    Victim’s Attorney
 
        Victims may retain an attorney to assert their constitutional and statutory rights. Counsel
-       will not be appointed for victims, except pursuant to Revised Code 2907.02(F), as
-       provided by law.
+       will not be appointed for victims, except pursuant to Revised Code 2907.02(F), as provided
+       by law.
 
 Effective Date: July 1, 1972
 Amended: July 1, 1976; July 1, 1994; July 1, 1995; July 1, 1998; July 1, 2020; July 1, 2025
 
 RULE 5.         Use of Juvenile’s Initials.
 
-(A)    In a juvenile court decision submitted for publication, the names of all juveniles shall be
-replaced with initials in the caption and body of the published decision. In any press release or
-other public presentation of information from a juvenile court, the names of any juvenile shall be
-replaced with initials.
+(A)     In a juvenile court decision submitted for publication, the names of all juveniles shall be
+        replaced with initials in the caption and body of the published decision. In any press release
+        or other public presentation of information from a juvenile court, the names of any juvenile
+        shall be replaced with initials.
 
 (B)     Juvenile courts may enact local rules for the use of juveniles’ initials in juvenile court
-documents. In the absence of a local rule, all juvenile court pleadings and other documents filed
-in any juvenile court shall use the full names of juveniles rather than their initials.
+        documents. In the absence of a local rule, all juvenile court pleadings and other documents
+        filed in any juvenile court shall use the full names of juveniles rather than their initials.
 
                                  Staff Note (July 1, 2012 Amendments)
 
@@ -530,48 +560,58 @@ RULE 6.      Taking Into Custody.
 
 (A)   A child may be taken into custody:
 
-      (1)    Pursuant to an order of the court;
+             (1)    Pursuant to an order of the court;
 
-      (2)    Pursuant to the law of arrest;
+             (2)    Pursuant to the law of arrest;
 
-      (3)     By a law enforcement officer or duly authorized officer of the court when any of
-      the following conditions exist:
+             (3)    By a law enforcement officer or duly authorized officer of the court when
+                    any of the following conditions exist:
 
-             (a)     There are reasonable grounds to believe that the child is suffering from
-             illness or injury and is not receiving proper care, and the child's removal is
-             necessary to prevent immediate or threatened physical or emotional harm;
+                           (a)     There are reasonable grounds to believe that the child is
+                                   suffering from illness or injury and is not receiving proper
+                                   care, and the child's removal is necessary to prevent
+                                   immediate or threatened physical or emotional harm;
 
-             (b)    There are reasonable grounds to believe that the child is in immediate
-             danger from the child's surroundings and that the child's removal is necessary to
-             prevent immediate or threatened physical or emotional harm;
+                           (b)     There are reasonable grounds to believe that the child is in
+                                   immediate danger from the child's surroundings and that the
+                                   child's removal is necessary to prevent immediate or
+                                   threatened physical or emotional harm;
 
-             (c)    There are reasonable grounds to believe that a parent, guardian, custodian,
-             or other household member of the child has abused or neglected another child in
-             the household, and that the child is in danger of immediate or threatened physical
-             or emotional harm;
+                           (c)     There are reasonable grounds to believe that a parent,
+                                   guardian, custodian, or other household member of the child
+                                   has abused or neglected another child in the household, and
+                                   that the child is in danger of immediate or threatened
+                                   physical or emotional harm;
 
-             (d)     There are reasonable grounds to believe that the child has run away from
-             the child's parents, guardian, or other custodian;
+                           (d)     There are reasonable grounds to believe that the child has
+                                   run away from the child's parents, guardian, or other
+                                   custodian;
 
-             (e)    There are reasonable grounds to believe that the conduct, conditions, or
-             surroundings of the child are endangering the health, welfare, or safety of the child;
+                           (e)     There are reasonable grounds to believe that the conduct,
+                                   conditions, or surroundings of the child are endangering the
+                                   health, welfare, or safety of the child;
 
-             (f)     During the pendency of court proceedings, there are reasonable grounds to
-             believe that the child may abscond or be removed from the jurisdiction of the court
-             or will not be brought to the court;
+                           (f)     During the pendency of court proceedings, there are
+                                   reasonable grounds to believe that the child may abscond or
+                                   be removed from the jurisdiction of the court or will not be
+                                   brought to the court;
 
-             (g)     A juvenile judge or designated magistrate has found that there is probable
-             cause to believe any of the conditions set forth in division (A)(3)(a), (b), or (c) of
-             this rule are present, has found that reasonable efforts have been made to notify the
-             child's parents, guardian ad litem or custodian that the child may be placed into
-             shelter care, except where notification would jeopardize the physical or emotional
-             safety of the child or result in the child's removal from the court's jurisdiction, and
-             has ordered ex parte, by telephone or otherwise, the taking of the child into custody.
+                           (g)     A juvenile judge or designated magistrate has found that
+                                   there is probable cause to believe any of the conditions set
+                                   forth in division (A)(3)(a), (b), or (c) of this rule are present,
+                                   has found that reasonable efforts have been made to notify
+                                   the child's parents, guardian ad litem or custodian that the
+                                   child may be placed into shelter care, except where
 
-      (4)    By the judge or designated magistrate ex parte pending the outcome of the
-      adjudicatory and dispositional hearing in an abuse, neglect, or dependency proceeding,
-      where it appears to the court that the best interest and welfare of the child require the
-      immediate issuance of a shelter care order.
+                                    notification would jeopardize the physical or emotional
+                                    safety of the child or result in the child's removal from the
+                                    court's jurisdiction, and has ordered ex parte, by telephone
+                                    or otherwise, the taking of the child into custody.
+
+             (4)     By the judge or designated magistrate ex parte pending the outcome of the
+                     adjudicatory and dispositional hearing in an abuse, neglect, or dependency
+                     proceeding, where it appears to the court that the best interest and welfare
+                     of the child require the immediate issuance of a shelter care order.
 
 (B)   Probable cause hearing
 
@@ -592,19 +632,20 @@ RULE 7.      Detention and Shelter Care.
 
              (1)     Detention or shelter care is required:
 
-                     (a)   To protect the child from immediate or threatened physical or
-                     emotional harm; or
+                             (a)     To protect the child from immediate or threatened physical
+                                     or emotional harm; or
 
-                     (b)     To protect the person or property of others from immediate or
-                     threatened physical or emotional harm.
+                             (b)     To protect the person or property of others from immediate
+                                     or threatened physical or emotional harm.
 
              (2)     The child may abscond or be removed from the jurisdiction of the court;
 
-             (3)    The child has no parent, guardian, custodian or other person able to provide
-             supervision and care for the child and return the child to the court when required;
+             (3)     The child has no parent, guardian, custodian or other person able to provide
+                     supervision and care for the child and return the child to the court when
+                     required;
 
-             (4)   An order for placement of the child in detention or shelter care has been
-             made by the court;
+             (4)     An order for placement of the child in detention or shelter care has been
+                     made by the court;
 
              (5)     Confinement is authorized by statute.
 
@@ -616,8 +657,8 @@ RULE 7.      Detention and Shelter Care.
              (1)     Release the child to a parent, guardian, or other custodian;
 
              (2)     Where detention or shelter care appears to be required under the standards
-             of division (A) of this rule, bring the child to the court or deliver the child to a place
-             of detention or shelter care designated by the court.
+                     of division (A) of this rule, bring the child to the court or deliver the child
+                     to a place of detention or shelter care designated by the court.
 
 (C)   Initial procedure upon detention
 
@@ -634,32 +675,33 @@ RULE 7.      Detention and Shelter Care.
 
              (1)     Release the child to the care of a parent, guardian or custodian;
 
-             (2)      Where detention or shelter care is required under the standards of division
-             (A) of this rule, admit the child to the facility or place the child in some appropriate
-             facility.
+             (2)     Where detention or shelter care is required under the standards of division
+                     (A) of this rule, admit the child to the facility or place the child in some
+                     appropriate facility.
 
 (E)   Procedure after admission
 
       When a child has been admitted to detention or shelter care the admissions officer shall do
       all of the following:
 
-             (1)    Prepare a report stating the time the child was brought to the facility and the
-             reasons the child was admitted;
+             (1)     Prepare a report stating the time the child was brought to the facility and the
+                     reasons the child was admitted;
 
              (2)     Advise the child of the right to telephone parents and counsel immediately
-             and at reasonable times thereafter and the time, place, and purpose of the detention
-             hearing;
+                     and at reasonable times thereafter and the time, place, and purpose of the
+                     detention hearing;
 
-             (3)    Use reasonable diligence to contact the child's parent, guardian, or custodian
-             and advise that person of all of the following:
+             (3)     Use reasonable diligence to contact the child's parent, guardian, or custodian
+                     and advise that person of all of the following:
 
-                     (a)     The place of and reasons for detention;
+                             (a)     The place of and reasons for detention;
 
-                     (b)     The time the child may be visited;
+                             (b)     The time the child may be visited;
 
-                     (c)     The time, place, and purpose of the detention hearing;
+                             (c)     The time, place, and purpose of the detention hearing;
 
-                     (d)     The right to counsel and appointed counsel in the case of indigency.
+                             (d)    The right to counsel and appointed counsel in the case of
+                             indigency.
 
 (F)   Detention hearing
 
@@ -670,53 +712,54 @@ RULE 7.      Detention and Shelter Care.
              detention or shelter care or the next court day, whichever is earlier, to determine
              whether detention or shelter care is required. Reasonable oral or written notice of
              the time, place, and purpose of the detention hearing shall be given to the child and
-             to the parents, guardian, or other custodian, if that person or those persons can be
-             found, and to the victim pursuant to law.
 
-      (2)    Hearing: advisement of rights
+            to the parents, guardian, or other custodian, if that person or those persons can be
+            found, and to the victim pursuant to law.
 
-             Prior to the hearing, the court shall inform the parties of the right to counsel and to
-             appointed counsel if indigent and the child's right to remain silent with respect to
-             any allegation of a juvenile traffic offense, delinquency, or unruliness.
+      (2)   Hearing: advisement of rights
 
-      (3)    Hearing procedure
+            Prior to the hearing, the court shall inform the parties of the right to counsel and to
+            appointed counsel if indigent and the child's right to remain silent with respect to
+            any allegation of a juvenile traffic offense, delinquency, or unruliness.
 
-             The court may consider any evidence, including the reports filed by the person who
-             brought the child to the facility and the admissions officer, without regard to formal
-             rules of evidence. Unless it appears from the hearing that the child's detention or
-             shelter care is required under division (A) of this rule, and except as provided in
-             division (F)(4) of this rule, the court shall order the child's release to a parent,
-             guardian, or custodian. Whenever abuse, neglect, or dependency is alleged, the
-             court shall determine whether there are any appropriate relatives of the child who
-             are willing to be temporary custodians and, if so, appoint an appropriate relative as
-             the temporary custodian of the child. The court shall make a reasonable efforts
-             determination in accordance with Juv.R. 27(B)(1). The victim, if present, has the
-             right to be heard orally, in writing, or both, on the conditions of release.
+      (3)   Hearing procedure
 
-      (4)    Release of child; serious youthful offender
+            The court may consider any evidence, including the reports filed by the person who
+            brought the child to the facility and the admissions officer, without regard to formal
+            rules of evidence. Unless it appears from the hearing that the child's detention or
+            shelter care is required under division (A) of this rule, and except as provided in
+            division (F)(4) of this rule, the court shall order the child's release to a parent,
+            guardian, or custodian. Whenever abuse, neglect, or dependency is alleged, the
+            court shall determine whether there are any appropriate relatives of the child who
+            are willing to be temporary custodians and, if so, appoint an appropriate relative as
+            the temporary custodian of the child. The court shall make a reasonable efforts
+            determination in accordance with Juv.R. 27(B)(1). The victim, if present, has the
+            right to be heard orally, in writing, or both, on the conditions of release.
 
-             With respect to a child alleged to be or adjudicated a serious youthful offender, the
-             juvenile court shall set the terms and conditions for release of the child.
+      (4)   Release of child; serious youthful offender
 
-      (5)    Notice to victim
+            With respect to a child alleged to be or adjudicated a serious youthful offender, the
+            juvenile court shall set the terms and conditions for release of the child.
 
-             The prosecutor shall notify a victim of court orders pertaining to the detention or
-             release of the child or any modifications to the conditions of release if requested
-             by the victim. If the prosecutor is not involved in this stage of the proceeding, the
-             court shall notify a victim of court orders pertaining to the detention or release of
-             a child or any modifications to the conditions of release if requested by the victim.
+      (5)   Notice to victim
+
+            The prosecutor shall notify a victim of court orders pertaining to the detention or
+            release of the child or any modifications to the conditions of release if requested
+            by the victim. If the prosecutor is not involved in this stage of the proceeding, the
+            court shall notify a victim of court orders pertaining to the detention or release of
+            a child or any modifications to the conditions of release if requested by the victim.
 
 (G)   Rehearing
 
-      (1)     If a parent, guardian, or custodian did not receive notice of the initial hearing and
-      did not appear or waive appearance at the hearing, the court shall rehear the matter
-      promptly. After a child is placed in shelter care or detention care, any party and the
-      guardian ad litem of the child may file a motion with the court requesting that the child be
-      released from detention or shelter care. Upon the filing of the motion, the court shall hold
-      a hearing within seventy-two hours.
+      (1)   If a parent, guardian, or custodian did not receive notice of the initial hearing and
+            did not appear or waive appearance at the hearing, the court shall rehear the matter
+            promptly. After a child is placed in shelter care or detention care, any party and the
+            guardian ad litem of the child may file a motion with the court requesting that the
+            child be released from detention or shelter care. Upon the filing of the motion, the
+            court shall hold a hearing within seventy-two hours.
 
-      (2)     When required by law to rehear the matter of an alleged delinquent’s release, the
-      court shall do so promptly.
+      (2)   When required by law to rehear the matter of an alleged delinquent’s release, the
+            court shall do so promptly.
 
 (H)     Separation from adults
 
@@ -769,16 +812,17 @@ A court shall provide, by court order or local rule, for the filing of documents
 The court order or local rule shall include all of the following:
 
         (A)     Any signature on electronically transmitted documents shall be considered that of
-        the attorney or party it purports to be for all purposes. If it is established that the documents
-        were transmitted without authority, the court shall order the filing stricken.
+                the attorney or party it purports to be for all purposes. If it is established that the
+                documents were transmitted without authority, the court shall order the filing
+                stricken.
 
-        (B)    A provision shall specify the days and hours during which electronically
-        transmitted documents will be received by the court, and a provision shall specify when
-        documents received electronically will be considered to have been filed.
+        (B)     A provision shall specify the days and hours during which electronically
+                transmitted documents will be received by the court, and a provision shall specify
+                when documents received electronically will be considered to have been filed.
 
         (C)     Any document filed electronically that requires a filing fee may be rejected by the
-        clerk of court unless the filer has complied with the mechanism established by the court
-        for the payment of filing fees.
+                clerk of court unless the filer has complied with the mechanism established by the
+                court for the payment of filing fees.
 
 Effective Date: July 1, 1994
 Amended: July 1, 1996; July 1, 2001; July 1, 2023
@@ -802,21 +846,65 @@ establishes a process by which minimum standards for information technology are 
 requires that courts submit any local rule involving the use of information technology to a technology
 standards committee designated by the Supreme Court for approval.
 
-RULE 9.       Intake.
+RULE 9.      Intake.
 
-(A)    Court action to be avoided
+(A)   Court action to be avoided
 
-       In all appropriate cases formal court action should be avoided and other community
-       resources utilized to ameliorate situations brought to the attention of the court.
+      In all appropriate cases formal court action should be avoided and other community
+      resources utilized to ameliorate situations brought to the attention of the court.
 
-(B)    Notification
+(B)   Notification
 
-       If formal court action is avoided pursuant to division (A) of this rule, the court shall notify
-       the prosecuting attorney and the victim of the offense in accordance with Chapter 2930 of
-       the Revised Code.
+      If formal court action is avoided pursuant to division (A) of this rule, the court shall notify
+      the prosecuting attorney and the victim of the offense in accordance with Chapter 2930 of
+      the Revised Code.
+
+(C)   Pre-initial appearance diversion
+
+      (1)    As used in this division (C) of this rule, pre-initial appearance diversion means the
+             redirection of a youth to intervention services prior to an initial appearance before
+             a judge or magistrate. This does not apply to pre-trial or post-adjudication
+             diversion.
+
+      (2)    Each court using pre-initial appearance diversion shall adopt a local rule outlining
+             its procedures and practices for using pre-initial appearance diversion.
+
+      (3)    A court using pre-initial appearance diversion shall develop written guidelines
+             outlining eligibility and process in consultation with local criminal justice partners
+             such as law enforcement, prosecutor, public defender/court-appointed counsel,
+             victim advocates, youth and families with prior juvenile court involvement,
+             behavioral health providers, and community organizations. The guidelines shall
+             include the following:
+
+                     (a)     Criteria for when pre-initial appearance diversion is appropriate,
+                             including the referral process, eligibility criteria, use of evidence-
+                             based screening and assessment tools, and the process by which
+                             eligibility and assessment will be applied to each individual case.
+
+                     (b)     Procedures for adhering to Article I, Section 10a of the Ohio
+                             Constitution and Chapter 2930 of the Revised Code, including the
+                             procedure for notifying the victim, the process by which the victim
+                             will have the opportunity to be heard, and the procedure for
+                             determining restitution. The procedure should identify which entity
+                             is making notifications to the victim at each stage of the pre-initial
+                             appearance diversion process.
+
+                     (c)     Procedures for accessing and sealing pre-initial appearance
+                             diversion records.
+
+        (4)     A court using pre-initial appearance diversion shall notify the Supreme Court if it
+                discontinues using pre-initial appearance diversion.
 
 Effective Date: July 1, 1972
-Amended: July 1, 2024
+Amended: July 1, 2024; July 1, 2026
+
+                                 Staff Note (July 1, 2026 Amendment)
+
+Juvenile Rule 9(C)      Pre-initial appearance diversion
+
+        Rule 9(C) was added to require courts using pre-initial appearance diversion to establish written
+guidelines. These guidelines promote adherence to court procedures and promote fairness and
+transparency in how pre-initial appearance diversion interventions are utilized.
 
 RULE 10.       Complaint.
 
@@ -854,15 +942,15 @@ RULE 10.       Complaint.
       The complaint, which may be upon information and belief, shall satisfy all of the following
       requirements:
 
-               (1)    State in ordinary and concise language the essential facts that bring the
-               proceeding within the jurisdiction of the court, and in juvenile traffic offense and
-               delinquency proceedings, shall contain the numerical designation of the statute or
-               ordinance alleged to have been violated;
+               (1)   State in ordinary and concise language the essential facts that bring the
+                     proceeding within the jurisdiction of the court, and in juvenile traffic
+                     offense and delinquency proceedings, shall contain the numerical
+                     designation of the statute or ordinance alleged to have been violated;
 
-               (2)     Contain the name and address of the parent, guardian, or custodian of the
-               child or state that the name or address is unknown;
+               (2)   Contain the name and address of the parent, guardian, or custodian of the
+                     child or state that the name or address is unknown;
 
-               (3)    Be made under oath.
+               (3)   Be made under oath.
 
 (C)     Complaint: juvenile traffic offense
 
@@ -898,7 +986,7 @@ Amended: July 1, 1975; July 1, 1976; July 1, 1994; July 1, 1998; July 1, 2001; J
 Juvenile Rule 10        Complaint
 Juvenile Rule 10(A)     Filing
 
-        Rule 10(A) was amended to conform to the Sub. Sen. Bill 181 (effective September 4, 2000)
+         Rule 10(A) was amended to conform to the Sub. Sen. Bill 181 (effective September 4, 2000)
 changes that provide in R. C. section 2151.27(A)(2) that chronic and habitual truancy complaints against
 both children and adults responsible for them may also be properly venued in the county in which the child
 is supposed to be attending public school.
@@ -968,63 +1056,66 @@ Surgical Treatment.
 
 (B)   Temporary orders
 
-      (1)     Pending hearing on a complaint, the judge or magistrate may issue temporary orders
-      with respect to the relations and conduct of other persons toward a child who is the subject
-      of the complaint as the child's interest and welfare may require.
+      (1)    Pending hearing on a complaint, the judge or magistrate may issue temporary orders
+             with respect to the relations and conduct of other persons toward a child who is the
+             subject of the complaint as the child's interest and welfare may require.
 
-      (2)     Upon the filing of an abuse, neglect, or dependency complaint, any party may by
-      motion request that the court issue any of the following temporary orders to protect the best
-      interest of the child:
+      (2)    Upon the filing of an abuse, neglect, or dependency complaint, any party may by
+             motion request that the court issue any of the following temporary orders to protect
+             the best interest of the child:
 
-             (a)     An order granting temporary custody of the child to a particular party;
+                     (a)    An order granting temporary custody of the child to a particular
+                            party;
 
-             (b)    An order for the taking of the child into custody pending the outcome of the
-             adjudicatory and dispositional hearings;
+                     (b)    An order for the taking of the child into custody pending the
+                            outcome of the adjudicatory and dispositional hearings;
 
-             (c)     An order granting, limiting, or eliminating visitation rights with respect to
-             the child;
+                     (c)    An order granting, limiting, or eliminating visitation rights with
+                            respect to the child;
 
-             (d)    An order for the payment of child support and continued maintenance of
-             any medical, surgical, or hospital policies of insurance for the child that existed at
-             the time of the filing of the complaint, petition, writ, or other document;
+                     (d)    An order for the payment of child support and continued
+                            maintenance of any medical, surgical, or hospital policies of
+                            insurance for the child that existed at the time of the filing of the
+                            complaint, petition, writ, or other document;
 
-             (e)    An order requiring a party to vacate a residence that will be lawfully
-             occupied by the child;
+                     (e)    An order requiring a party to vacate a residence that will be lawfully
+                            occupied by the child;
 
-             (f)     An order requiring a party to attend an appropriate counseling program that
-             is reasonably available to that party;
+                     (f)    An order requiring a party to attend an appropriate counseling
+                            program that is reasonably available to that party;
 
-             (g)    Any other order that restrains or otherwise controls the conduct of any party
-             which conduct would not be in the best interest of the child.
+                     (g)    Any other order that restrains or otherwise controls the conduct of
+                            any party which conduct would not be in the best interest of the
+                            child.
 
-      (3)     The orders permitted by division (B)(2) of this rule may be granted ex parte if it
-      appears that the best interest and welfare of the child require immediate issuance. If the
-      court issues the requested ex parte order, the court shall hold a hearing to review the order
-      within seventy-two hours after it is issued or before the end of the next court day after the
-      day on which it is issued, whichever occurs first. The court shall appoint a guardian ad
-      litem for the child prior to the hearing. The court shall give written notice of the hearing
+      (3)    The orders permitted by division (B)(2) of this rule may be granted ex parte if it
+             appears that the best interest and welfare of the child require immediate issuance.
+             If the court issues the requested ex parte order, the court shall hold a hearing to
 
-      by means reasonably likely to result in the party's receiving actual notice and include all of
-      the following:
+             review the order within seventy-two hours after it is issued or before the end of the
+             next court day after the day on which it is issued, whichever occurs first. The court
+             shall appoint a guardian ad litem for the child prior to the hearing. The court shall
+             give written notice of the hearing by means reasonably likely to result in the party's
+             receiving actual notice and include all of the following:
 
-             (a)     The date, time, and location of the hearing;
+                     (a)     The date, time, and location of the hearing;
 
-             (b)     The issues to be addressed at the hearing;
+                     (b)     The issues to be addressed at the hearing;
 
-             (c)    A statement that every party to the hearing has a right to counsel and to
-             court appointed counsel, if the party is indigent;
+                     (c)     A statement that every party to the hearing has a right to counsel and
+                             to court appointed counsel, if the party is indigent;
 
-             (d)    The name, telephone number, and address of the person requesting the
-             order;
+                     (d)     The name, telephone number, and address of the person requesting
+                             the order;
 
-             (e)     A copy of the order, except when it is not possible to obtain it because of
-             the exigent circumstances in the case.
+                     (e)     A copy of the order, except when it is not possible to obtain it
+                             because of the exigent circumstances in the case.
 
-      (4)     The court may review any order under this rule at any time upon motion of any
-      party for good cause shown or upon the motion of the court.
+      (4)    The court may review any order under this rule at any time upon motion of any
+             party for good cause shown or upon the motion of the court.
 
       (5)    If the court does not grant an ex parte order, the court shall hold a shelter care
-      hearing on the motion within ten days after the motion is filed.
+             hearing on the motion within ten days after the motion is filed.
 
 (C)   Emergency medical and surgical treatment
 
@@ -1052,14 +1143,14 @@ Surgical Treatment.
       Upon the finding of probable cause at a shelter care hearing that a child is an abused child,
       the court may do any of the following:
 
-             (1)    Upon motion by the court or of any party, issue reasonable protective orders
-             with respect to the interviewing or deposition of the child;
+             (1)     Upon motion by the court or of any party, issue reasonable protective orders
+                     with respect to the interviewing or deposition of the child;
 
-             (2)    Order that the child's testimony be videotaped for preservation of the
-             testimony for possible use in any other proceedings in the case;
+             (2)     Order that the child's testimony be videotaped for preservation of the
+                     testimony for possible use in any other proceedings in the case;
 
              (3)     Set any additional conditions with respect to the child or the case involving
-             the child that are in the best interest of the child.
+                     the child that are in the best interest of the child.
 
 (G)   Payment
 
@@ -1084,13 +1175,13 @@ RULE 14.     Termination, Extension or Modification of Temporary Custody Orders.
       of section 2151.415 of the Revised Code, files a motion requesting that any of the following
       orders of disposition be issued:
 
-             (1)    An order that the child be returned home with custody to the child's parents,
-             guardian, or custodian without any restrictions;
+             (1)     An order that the child be returned home with custody to the child's parents,
+                     guardian, or custodian without any restrictions;
 
              (2)     An order for protective supervision;
 
              (3)     An order that the child be placed in the legal custody of a relative or other
-             interested individual;
+                     interested individual;
 
              (4)     An order terminating parental rights;
 
@@ -1145,51 +1236,53 @@ RULE 15.     Process: Issuance, Form.
 
       The summons shall contain:
 
-             (1)    The name of the party or person with whom the child may be or, if unknown,
-             any name or description by which the party or person can be identified with
-             reasonable certainty.
+             (1)     The name of the party or person with whom the child may be or, if unknown,
+                     any name or description by which the party or person can be identified with
+                     reasonable certainty.
 
-             (2)    A summary statement of the complaint and in juvenile traffic offense and
-             delinquency proceedings the numerical designation of the applicable statute or
-             ordinance.
+             (2)     A summary statement of the complaint and in juvenile traffic offense and
+                     delinquency proceedings the numerical designation of the applicable statute
+                     or ordinance.
 
              (3)     A statement that any party is entitled to be represented by an attorney and
-             that upon request the court will appoint an attorney for an indigent party entitled to
-             appointed counsel under Juv.R. 4(A).
+                     that upon request the court will appoint an attorney for an indigent party
+                     entitled to appointed counsel under Juv.R. 4(A).
 
-             (4)    An order to the party or person to appear at a stated time and place with a
-             warning that the party or person may lose valuable rights or be subject to court
-             sanction if the party or person fails to appear at the time and place stated in the
-             summons.
+             (4)     An order to the party or person to appear at a stated time and place with a
+                     warning that the party or person may lose valuable rights or be subject to
+                     court sanction if the party or person fails to appear at the time and place
+                     stated in the summons.
 
-             (5)    An order to the parent, guardian, or other person having care of a child
-             alleged to be an unruly or delinquent child for being an habitual or chronic truant,
-             to appear personally at the hearing and all proceedings, and an order directing the
-             person having the physical custody or control of the child to bring the child to the
-             hearing, with a warning that if the child fails to appear, the parent, guardian, or
-             other person having care of the child may be subject to court sanction, including a
-             finding of contempt.
+             (5)     An order to the parent, guardian, or other person having care of a child
+                     alleged to be an unruly or delinquent child for being an habitual or chronic
+                     truant, to appear personally at the hearing and all proceedings, and an order
+                     directing the person having the physical custody or control of the child to
+                     bring the child to the hearing, with a warning that if the child fails to appear,
+                     the parent, guardian, or other person having care of the child may be subject
+                     to court sanction, including a finding of contempt.
 
-              (6)    A statement that if a child is adjudicated abused, neglected, or dependent
-              and the complaint seeks an order of permanent custody, an order of permanent
-              custody would cause the parents, guardian, or legal custodian to be divested
-              permanently of all parental rights and privileges.
+              (6)     A statement that if a child is adjudicated abused, neglected, or dependent
+                      and the complaint seeks an order of permanent custody, an order of
+                      permanent custody would cause the parents, guardian, or legal custodian to
+                      be divested permanently of all parental rights and privileges.
 
-              (7)    A statement that if a child is adjudicated abused, neglected, or dependent
-              and the complaint seeks an order of temporary custody, an order of temporary
-              custody will cause the removal of the child from the legal custody of the parents,
-              guardian, or other custodian until the court terminates the order of temporary
-              custody or permanently divests the parents of their parental rights.
+              (7)     A statement that if a child is adjudicated abused, neglected, or dependent
+                      and the complaint seeks an order of temporary custody, an order of
+                      temporary custody will cause the removal of the child from the legal
+                      custody of the parents, guardian, or other custodian until the court
+                      terminates the order of temporary custody or permanently divests the
+                      parents of their parental rights.
 
               (8)     A statement that if the child is adjudicated abused, neglected, or dependent
-              and the complaint seeks an order for a planned permanent living arrangement, an
-              order for a planned permanent living arrangement will cause the removal of the
-              child from the legal custody of the parent, guardian, or other custodian.
+                      and the complaint seeks an order for a planned permanent living
+                      arrangement, an order for a planned permanent living arrangement will
+                      cause the removal of the child from the legal custody of the parent, guardian,
+                      or other custodian.
 
               (9)     A statement, in a removal action, of the specific disposition sought.
 
-              (10) The name and telephone number of the court employee designated by the
-              court to arrange for the prompt appointment of counsel for indigent persons.
+              (10)    The name and telephone number of the court employee designated by the
+                      court to arrange for the prompt appointment of counsel for indigent persons.
 
 (C)    Summons: endorsement
 
@@ -1214,8 +1307,8 @@ RULE 15.     Process: Issuance, Form.
        unnecessary delay.
 
 Effective Date: July 1, 1972
-Amended: July 1, 1994; July 1, 1998; July 1, 2001; July 1, 2002
 
+Amended: July 1, 1994; July 1, 1998; July 1, 2001; July 1, 2002
                                   Staff Note (July 1, 2001 Amendment)
 
 Juvenile Rule 15         Process: Issuance, Form
@@ -1352,37 +1445,38 @@ RULE 17.     Subpoena.
 
       (1)    Every subpoena shall do all of the following;
 
-             (a)    State the name of the court from which it is issued, the title of the action,
-             and the case number;
+                     (a)     State the name of the court from which it is issued, the title of the
+                             action, and the case number;
 
-             (b)     Command each person to whom it is directed, at a time and place specified
-             in the subpoena, to do one or more of the following:
+                     (b)     Command each person to whom it is directed, at a time and place
+                             specified in the subpoena, to do one or more of the following:
 
-                     (i)    Attend and give testimony at a trial, hearing, proceeding, or
-                     deposition;
+                                     (i)     Attend and give testimony at a trial, hearing,
+                                             proceeding, or deposition;
 
-                     (ii)   Produce documents or tangible things at a trial, hearing, proceeding,
-                     or deposition;
+                                     (ii)    Produce documents or tangible things at a trial,
+                                             hearing, proceeding, or deposition;
 
-                     (iii) Produce and permit inspection and copying of any designated
-                     documents that are in the possession, custody, or control of the person;
+                                     (iii)   Produce and permit inspection and copying of any
+                                             designated documents that are in the possession,
+                                             custody, or control of the person;
 
-                     (iv)    Produce and permit inspection and copying, testing, or sampling of
-                     any tangible things that are in the possession, custody, or control of the
-                     person.
+                                     (iv)    Produce and permit inspection and copying, testing,
+                                             or sampling of any tangible things that are in the
+                                             possession, custody, or control of the person.
 
-             (c)     Set forth the text of divisions (D) and (E) of this rule.
+                     (c)     Set forth the text of divisions (D) and (E) of this rule.
 
              A command to produce and permit inspection may be joined with a command to
              attend and give testimony, or may be issued separately.
 
-      (2)     The clerk shall issue a subpoena, signed but otherwise in blank, to a party
-      requesting it, who shall complete it before service. An attorney who has filed an
-      appearance on behalf of a party in an action also may sign and issue a subpoena on behalf
-      of the court in which the action is pending.
+      (2)    The clerk shall issue a subpoena, signed but otherwise in blank, to a party
+             requesting it, who shall complete it before service. An attorney who has filed an
+             appearance on behalf of a party in an action also may sign and issue a subpoena on
+             behalf of the court in which the action is pending.
 
       (3)    If the issuing attorney modifies the subpoena in any way, the issuing attorney shall
-      give prompt notice of the modifications to all other parties.
+             give prompt notice of the modifications to all other parties.
 
 (B)   Parties unable to pay
 
@@ -1411,80 +1505,83 @@ RULE 17.     Subpoena.
 
 (D)   Protection of persons subject to subpoenas
 
-      (1)     A party or an attorney responsible for the issuance and service of a subpoena shall
-      take reasonable steps to avoid imposing undue burden or expense on a person subject to
-      that subpoena.
+      (1)    A party or an attorney responsible for the issuance and service of a subpoena shall
+             take reasonable steps to avoid imposing undue burden or expense on a person
+             subject to that subpoena.
 
       (2)
 
              (a)     A person commanded to produce under division (A)(1)(b)(ii), (iii), or (iv)
-             of this rule is not required to appear in person at the place of production or
-             inspection unless commanded to attend and give testimony at a trial, hearing,
-             proceeding, or deposition.
+                     of this rule is not required to appear in person at the place of production or
+                     inspection unless commanded to attend and give testimony at a trial,
+                     hearing, proceeding, or deposition.
 
              (b)     Subject to division (E)(2) of this rule, a person commanded to produce
-             under division (A)(1)(b)(ii), (iii), or (iv) of this rule may serve upon the party or
-             attorney designated in the subpoena written objections to production. The
-             objections must be served within fourteen days after service of the subpoena or
-             before the time specified for compliance if that time is less than fourteen days after
-             service. If objection is made, the party serving the subpoena shall not be entitled
-             to production except pursuant to an order of the court that issued the subpoena. If
-             objection has been made, the party serving the subpoena, upon notice to the person
-             commanded to produce, may move at any time for an order to compel the
-             production. An order to compel production shall protect any person who is not a
-             party or an officer of a party from significant expense resulting from the production
-             commanded.
+                     under division (A)(1)(b)(ii), (iii), or (iv) of this rule may serve upon the
+                     party or attorney designated in the subpoena written objections to
+                     production. The objections must be served within fourteen days after
+                     service of the subpoena or before the time specified for compliance if that
+                     time is less than fourteen days after service. If objection is made, the party
+                     serving the subpoena shall not be entitled to production except pursuant to
+                     an order of the court that issued the subpoena. If objection has been made,
+                     the party serving the subpoena, upon notice to the person commanded to
+                     produce, may move at any time for an order to compel the production. An
+                     order to compel production shall protect any person who is not a party or an
+                     officer of a party from significant expense resulting from the production
+                     commanded.
 
-      (3)      On timely motion, the court from which the subpoena was issued shall quash or
-      modify the subpoena, or order appearance or production only under specified conditions,
-      if the subpoena does any of the following:
+      (3)   On timely motion, the court from which the subpoena was issued shall quash or
+            modify the subpoena, or order appearance or production only under specified
+            conditions, if the subpoena does any of the following:
 
-             (a)     Fails to allow reasonable time to comply;
+                   (a)     Fails to allow reasonable time to comply;
 
-             (b)    Requires disclosure of privileged or otherwise protected matter and no
-             exception or waiver applies;
+                   (b)     Requires disclosure of privileged or otherwise protected matter and
+                           no exception or waiver applies;
 
-             (c)     Requires disclosure of a fact known or opinion held by an expert not
-             retained or specially employed by any party in anticipation of litigation or
-             preparation for trial if the fact or opinion does not describe specific events or
-             occurrences in dispute and results from study by that expert that was not made at
-             the request of any party;
+                   (c)     Requires disclosure of a fact known or opinion held by an expert not
+                           retained or specially employed by any party in anticipation of
+                           litigation or preparation for trial if the fact or opinion does not
+                           describe specific events or occurrences in dispute and results from
+                           study by that expert that was not made at the request of any party;
 
-             (d)     Subjects a person to undue burden.
+                   (d)     Subjects a person to undue burden.
 
-      (4)    Before filing a motion pursuant to division (D)(3)(d) of this rule, a person resisting
-      discovery under this rule shall attempt to resolve any claim of undue burden through
-      discussions with the issuing attorney. A motion filed pursuant to division (D)(3)(d) of this
-      rule shall be supported by an affidavit of the subpoenaed person or a certificate of that
-      person's attorney of the efforts made to resolve any claim of undue burden.
+      (4)   Before filing a motion pursuant to division (D)(3)(d) of this rule, a person resisting
+            discovery under this rule shall attempt to resolve any claim of undue burden through
+            discussions with the issuing attorney. A motion filed pursuant to division (D)(3)(d)
+            of this rule shall be supported by an affidavit of the subpoenaed person or a
+            certificate of that person's attorney of the efforts made to resolve any claim of undue
+            burden.
 
-      (5)    If a motion is made under division (D)(3)(c) or (D)(3)(d) of this rule, the court shall
-      quash or modify the subpoena unless the party in whose behalf the subpoena is issued
-      shows a substantial need for the testimony or material that cannot be otherwise met without
-      undue hardship and assures that the person to whom the subpoena is addressed will be
-      reasonably compensated.
+      (5)   If a motion is made under division (D)(3)(c) or (D)(3)(d) of this rule, the court shall
+            quash or modify the subpoena unless the party in whose behalf the subpoena is
+            issued shows a substantial need for the testimony or material that cannot be
+            otherwise met without undue hardship and assures that the person to whom the
+            subpoena is addressed will be reasonably compensated.
 
-      (6)    Records of or concerning the victim may be produced as permitted by law.
+      (6)   Records of or concerning the victim may be produced as permitted by law.
 
 (E)   Duties in responding to subpoena
 
-      (1)      A person responding to a subpoena to produce documents shall, at the person's
-      option, produce the documents as they are kept in the usual course of business or organized
-      and labeled to correspond with the categories in the subpoena. A person producing
-      documents pursuant to a subpoena for them shall permit their inspection and copying by
-      all parties present at the time and place set in the subpoena for inspection and copying.
+      (1)   A person responding to a subpoena to produce documents shall, at the person's
+            option, produce the documents as they are kept in the usual course of business or
+            organized and labeled to correspond with the categories in the subpoena. A person
+            producing documents pursuant to a subpoena for them shall permit their inspection
+            and copying by all parties present at the time and place set in the subpoena for
+            inspection and copying.
 
-      (2)     When information subject to a subpoena is withheld on a claim that it is privileged
-      or subject to protection as trial preparation materials, the claim shall be made expressly and
-      shall be supported by a description of the nature of the documents, communications, or
-      things not produced that is sufficient to enable the demanding party to contest the claim.
+      (2)   When information subject to a subpoena is withheld on a claim that it is privileged
+            or subject to protection as trial preparation materials, the claim shall be made
+            expressly and shall be supported by a description of the nature of the documents,
+            communications, or things not produced that is sufficient to enable the demanding
+            party to contest the claim.
 
 (F)   Sanctions
 
       Failure by any person without adequate excuse to obey a subpoena served upon that person
       may be a contempt of the court from which the subpoena issued. A subpoenaed person or
       that person's attorney who frivolously resists discovery under this rule may be required by
-
       the court to pay the reasonable expenses, including reasonable attorney's fees, of the party
       seeking the discovery. The court from which a subpoena was issued may impose upon a
       party or attorney in breach of the duty imposed by division (D)(1) of this rule an appropriate
@@ -1523,39 +1620,107 @@ RULE 18.     Time.
 
 (B)   Time: enlargement
 
-      When an act is required or allowed to be performed at or within a specified time, the court
-      for cause shown may at any time in its discretion (1) with or without motion or notice,
-      order the period enlarged if application therefor is made before expiration of the period
-      originally prescribed or of that period as extended by a previous order, or (2) upon motion
-      permit the act to be done after expiration of the specified period if the failure to act on time
-      was the result of excusable neglect or would result in injustice to a party, but the court may
-      not extend the time for taking any action under Juv.R. 7(F)(1), 22(F), 29(A), and
-      29(F)(2)(b), except to the extent and under the conditions stated in them.
+      (1)    In this division (B), the words “continue” and “continuance” are used in the sense
+             of postponement, delay, and extension of time.
 
-(C)   Time: unaffected by expiration of term
+      (2)    Orders Extending Time
 
-      The period of time provided for the doing of any act or the taking of any proceeding is not
-      affected or limited by the expiration of a term of court. The expiration of a term of court
-      in no way affects the power of a court to do any act in a juvenile proceeding.
+             (a)     When under these rules, a local court rule, or in accordance with a court
+                     order, an event is scheduled for a particular date or an act may or must be
+                     done within a specified time or by a particular date, the court for good cause
+                     may continue the date or period of time.
 
-(D)   Time: for motions; affidavits
+             (b)     No party shall be granted a continuance of a trial or hearing without a
+                     written motion from the party or counsel stating the reason for the
+                     continuance, endorsed in writing by the party as well as counsel, provided
+                     that the trial judge may waive this requirement upon a showing of good
+                     cause. Counsel may sign on behalf of their client per allowance. No court
+                     shall grant a continuance to any party at any time without first setting a
+                     definite date for the trial or hearing.
 
-      A written motion, other than one which may be heard ex parte, and notice of the hearing
-      therefor, shall be served not later than seven days before the time specified for the hearing
-      unless a different period is fixed by rule or order of the court. For cause shown such an
-      order may be made on ex parte application. When a motion is supported by affidavit, the
-      affidavit shall be served with the motion, and opposing affidavits may be served not less
-      than one day before the hearing unless the court permits them to be served at a later time.
+             (c)     The court may act with or without motion or notice if the court acts, or if a
+                     request is made, before the particular date or the expiration of the specified
+                     time.
 
-(E)   Time: additional time after service by mail
+             (d)     The court may act on motion made after the particular date or the expiration
+                     of the specified time if the moving party failed to act because of excusable
+                     neglect.
 
-      Whenever a party has the right or is required to do an act within a prescribed period after
-      the service of a notice or other paper upon the person and the notice or other paper is served
-      upon the person by mail, three days shall be added to the prescribed period. This division
-      does not apply to service of summons.
+      (e)     The court may not extend the time for taking any action under Juv.R.
+              7(F)(1), 22(F), 29(A), and 29(F)(2)(b), except to the extent and under the
+              conditions stated in those rules.
+
+(3)   Reasons for Continuances
+
+      (a)     Motions should address the timing and impact of any delay.
+
+              A party seeking a continuance should explain in writing the rationale for the
+              request and should be cognizant of the various factors that courts consider
+              in ruling on such a request, including (i) the timing of the request, (ii) the
+              length of the proposed continuance, (iii) the age of the case, (iv) the number
+              and nature of any previous similar requests, (v) the availability of alternative
+              ways to address the concern underlying the request, (vi) counsel’s diligence
+              and overall compliance with the case schedule and case deadlines, (vii) the
+              nature and complexity of the case, (viii) the court’s calendar and the impact
+              of any delay on other cases, (ix) whether other parties consent to or oppose
+              the request, and (x) any inconvenience, increased costs, and prejudice to the
+              rights and interests of the parties and the public that might result from the
+              granting or the denial of the request.
+
+      (b)     Witness Unavailability.
+
+              Before requesting a continuance due to the unavailability of a witness,
+              parties should consider the feasibility of other permitted methods of
+              recording or facilitating the presentation of testimony under these rules and
+              local rules, including deposition or remote testimony.
+
+      (c)     Attorney Unavailability.
+
+              When requesting a continuance due to counsel’s unavailability, the moving
+              party must notify the court about counsel’s conflicting professional
+              commitment and must indicate when that conflicting commitment was
+              scheduled. In most cases, the trial or hearing that was scheduled first will
+              take priority over a conflicting trial or hearing.
+
+(4)   Delinquency Proceedings
+
+      In delinquency proceedings, if a court receives a motion, request, or agreement for
+      a continuance of the case that may result in a delay of the prosecution of the case,
+      the prosecutor must inform the victim if notice has been requested. If the victim
+      objects to the delay in the prosecution of the case, the court may grant a continuance
+      only if the delay in the prosecution of the case is reasonable under the circumstances
+      or is otherwise in the interest of justice. If granted, the court shall state on the record
+      or in a written order the specific reason for the continuance.
+
+(C)    Time: unaffected by expiration of term
+
+       The period of time provided for the doing of any act or the taking of any proceeding is not
+       affected or limited by the expiration of a term of court. The expiration of a term of court
+       in no way affects the power of a court to do any act in a juvenile proceeding.
+
+(D)    Time: for motions; affidavits
+
+       A written motion, other than one which may be heard ex parte, and notice of the hearing
+       therefor, shall be served not later than seven days before the time specified for the hearing
+       unless a different period is fixed by rule or order of the court. For cause shown such an
+       order may be made on ex parte application. When a motion is supported by affidavit, the
+       affidavit shall be served with the motion, and opposing affidavits may be served not less
+       than one day before the hearing unless the court permits them to be served at a later time.
+
+(E)    Time: additional time after service by mail
+
+       Whenever a party has the right or is required to do an act within a prescribed period after
+       the service of a notice or other paper upon the person and the notice or other paper is served
+       upon the person by mail, three days shall be added to the prescribed period. This division
+       does not apply to service of summons.
 
 Effective Date: July 1, 1972
-Amended: July 1, 1994; July 1, 2023
+Amended: July 1, 1994; July 1, 2023; July 1, 2026
+                               Staff Note (July 1, 2026 Amendment)
+
+       Language transferred from Superintendence Rule 41(A) maintains the requirement that the party
+and counsel sign the continuance request and explanation. Language was added to clarify that counsel
+may sign on behalf of the party if the party agrees.
 
 RULE 19.       Motions.
 
@@ -1663,16 +1828,17 @@ RULE 22.     Pleadings and Motions; Defenses and Objections.
 
              (1)     Defenses or objections based on defects in the institution of the proceeding;
 
-             (2)    Defenses or objections based on defects in the complaint (other than failure
-             to show jurisdiction in the court or to charge an offense which objections shall be
-             noticed by the court at any time during the pendency of the proceeding);
+             (2)     Defenses or objections based on defects in the complaint (other than failure
+                     to show jurisdiction in the court or to charge an offense which objections
+                     shall be noticed by the court at any time during the pendency of the
+                     proceeding);
 
              (3)     Motions to suppress evidence on the ground that it was illegally obtained;
 
              (4)     Motions for discovery;
 
              (5)     Motions to determine whether the child is eligible to receive a sentence as
-             a serious youthful offender.
+                     a serious youthful offender.
 
 (E)   Motion time
 
@@ -1686,7 +1852,7 @@ RULE 22.     Pleadings and Motions; Defenses and Objections.
       Rule 22(D)(5) motions shall be filed by the later of:
 
              (1)     Twenty days after the date of the child’s initial appearance in juvenile court;
-             or
+                     or
 
              (2)     Twenty days after denial of a motion to transfer.
 
@@ -1768,28 +1934,7 @@ section 2152.13(D)(1)].
 
         Other changes to Rule 22(E) were in form only, and were not intended to be substantive.
 
-RULE 23.        Continuance.
-
-Continuances shall be granted only when imperative to secure fair treatment for the parties.
-
-In delinquency proceedings, if a court receives a motion, request, or agreement for a continuance
-of the case that may result in a delay of the prosecution of the case, the prosecutor must inform
-the victim if notice has been requested. If the victim objects to the delay in the prosecution of
-the case, the court may grant a continuance only if the delay in the prosecution of the case is
-reasonable under the circumstances or is otherwise in the interest of justice. If granted, the court
-shall state on the record or in a written order the specific reason for the continuance.
-
-Effective Date: July 1, 1972
-Amended: July 1, 2025
-                                Staff Note (July 1, 2025 Amendment)
-
-Juv.R. 23
-
-         While the granting of a continuance is normally considered a procedural matter over which the
-rules of procedure supersede any relevant statutory provisions, the Commission believes that the General
-Assembly’s comprehensive codification of Marsy’s Law must be a priority consideration for judges
-considering continuances. The rule defers to the Revised Code in those instances where a continuance
-is being considered over a victim’s objection. See R.C. 2930.08(C).
+RULE 23.   [RESERVED].
 
 RULE 24.     Discovery.
 
@@ -1802,29 +1947,29 @@ RULE 24.     Discovery.
       in the party's custody, control, or possession:
 
              (1)     The names and last known addresses of each witness, telephone number and
-             e-mail address of each individual likely to have discoverable information, along
-             with the subjects of that information that forms the basis of the charge or defense
-             or that the disclosing party may use to support its claims and defenses, unless the
-             use would be solely for impeachment to the occurrence that forms the basis of the
-             charge or defense;
+                     e-mail address of each individual likely to have discoverable information,
+                     along with the subjects of that information that forms the basis of the charge
+                     or defense or that the disclosing party may use to support its claims and
+                     defenses, unless the use would be solely for impeachment to the occurrence
+                     that forms the basis of the charge or defense;
 
              (2)     Copies of any written statements made by any party or witness;
 
              (3)     Transcriptions, recordings, and summaries of any oral statements of any
-             party or witness, except the work product of counsel;
+                     party or witness, except the work product of counsel;
 
              (4)     Any scientific or other reports that a party intends to introduce at the hearing
-             or that pertain to physical evidence that a party intends to introduce;
+                     or that pertain to physical evidence that a party intends to introduce;
 
              (5)     Photographs and any physical evidence which a party intends to introduce
-             at the hearing;
+                     at the hearing;
 
              (6)     Except in delinquency and unruly child proceedings, other evidence
-             favorable to the requesting party and relevant to the subject matter involved in the
-             pending action. In delinquency and unruly child proceedings, the prosecuting
-             attorney shall disclose to respondent's counsel all evidence, known or that may
-             become known to the prosecuting attorney, favorable to the respondent and material
-             either to guilt or punishment.
+                     favorable to the requesting party and relevant to the subject matter involved
+                     in the pending action. In delinquency and unruly child proceedings, the
+                     prosecuting attorney shall disclose to respondent's counsel all evidence,
+                     known or that may become known to the prosecuting attorney, favorable to
+                     the respondent and material either to guilt or punishment.
 
 (B)   Order granting discovery: limitations; sanctions
 
@@ -1862,6 +2007,7 @@ Amended: July 1, 1994; July 1, 2019; July 1, 2022; July 1, 2025
         Regarding these amendments, the court retains discretion to determine the manner in which
 discovery will be conducted, except as otherwise limited by statute or other controlling Rules of
 Procedure.
+
                                  Staff Note (July 1, 2025 Amendment)
 
 Juv.R. 24(D)
@@ -1873,20 +2019,22 @@ RULE 25.         Depositions.
 
 (A)     Depositions in the following matters shall be governed by the Rules of Civil Procedure:
 
-        (1)     Those taken in parentage actions and original actions to determine custody or the
-        allocation of parental rights and responsibilities to which the State of Ohio is not a party;
+                 (1)      Those taken in parentage actions and original actions to determine custody
+                          or the allocation of parental rights and responsibilities to which the State of
+                          Ohio is not a party;
 
-        (2)    Those taken in any post-dispositional matters to which neither the State of Ohio nor
-        any public child protective services agency is a party.
+                 (2)      Those taken in any post-dispositional matters to which neither the State of
+                          Ohio nor any public child protective services agency is a party.
 
 (B)     Depositions shall only be taken with leave of court in delinquency, unruly, juvenile traffic
-offender, abuse, neglect, and dependency actions and all other juvenile court proceedings not
-specified in division (A). Except as provided in division (A)(2), depositions taken under this
-division shall only be taken to preserve testimony when it appears probable that a prospective
-witness will be unable to attend or will be prevented from attending a hearing, and if it further
-appears that the testimony is material and that it is necessary to take the deposition in order to
-prevent a miscarriage of justice. Depositions taken under this division shall be taken upon such
-terms and conditions and in such manner as the court may fix.
+        offender, abuse, neglect, and dependency actions and all other juvenile court proceedings
+        not specified in division (A). Except as provided in division (A)(2), depositions taken
+        under this division shall only be taken to preserve testimony when it appears probable that
+        a prospective witness will be unable to attend or will be prevented from attending a hearing,
+        and if it further appears that the testimony is material and that it is necessary to take the
+        deposition in order to prevent a miscarriage of justice. Depositions taken under this
+        division shall be taken upon such terms and conditions and in such manner as the court
+        may fix.
 
 Effective Date: July 1, 1972
 Amended: July 1, 2009
@@ -1910,13 +2058,13 @@ dispositional action simply because a child support enforcement agency participa
 RULE 26.        Victim’s Rights and Responsibilities
 
 (A)     Whenever a victim has a right to be heard at a public proceeding, the court shall allow the
-victim to address the court orally, in writing, or both. As provided by law, the court shall provide
-the victim with the aid of an interpreter at no expense to the victim.
+        victim to address the court orally, in writing, or both. As provided by law, the court shall
+        provide the victim with the aid of an interpreter at no expense to the victim.
 
-(B)     Whenever these rules reference a duty to provide notice to the victim or an opportunity to
-be heard, such obligations shall not apply if the court finds that the victim has either elected not to
-participate or has failed to respond to sufficient notice of their right to participate, as provided by
-law.
+(B)      Whenever these rules reference a duty to provide notice to the victim or an opportunity to
+        be heard, such obligations shall not apply if the court finds that the victim has either elected
+        not to participate or has failed to respond to sufficient notice of their right to participate, as
+        provided by law.
 
 (C)     The court shall advise the victim of their right to appeal where, applicable.
 
@@ -1956,8 +2104,8 @@ RULE 27.     Hearings: General.
 
                             (a)    Persons with a direct interest in the case including the victim;
 
-                            (b)     Persons who demonstrate, at a hearing, a countervailing right
-                            to be present.
+                            (b)    Persons who demonstrate, at a hearing, a countervailing right
+                                   to be present.
 
              (2)    Separation of juvenile and adult cases
 
@@ -1973,59 +2121,61 @@ RULE 27.     Hearings: General.
 (B)   Special provisions for abuse, neglect, and dependency proceedings
 
       (1)    In any proceeding involving abuse, neglect, or dependency at which the court
-      removes a child from the child's home or continues the removal of a child from the child's
-      home, or in a proceeding where the court orders detention, the court shall determine
-      whether the person who filed the complaint has custody of the child or will be given
-      custody and has made reasonable efforts to do any of the following:
+             removes a child from the child's home or continues the removal of a child from the
+             child's home, or in a proceeding where the court orders detention, the court shall
+             determine whether the person who filed the complaint has custody of the child or
+             will be given custody and has made reasonable efforts to do any of the following:
 
-             (a)    Prevent the removal of the child from the child's home;
+                    (a)     Prevent the removal of the child from the child's home;
 
-             (b)    Eliminate the continued removal of the child from the child's home;
+                    (b)     Eliminate the continued removal of the child from the child's home;
 
-             (c)    Make it possible for the child to return home.
+                    (c)     Make it possible for the child to return home.
 
-        (2)    In a proceeding involving abuse, neglect, or dependency, the examination made by
-        the court to determine whether a child is a competent witness shall comply with all of the
-        following:
+       (2)    In a proceeding involving abuse, neglect, or dependency, the examination made by
+              the court to determine whether a child is a competent witness shall comply with all
+              of the following:
 
-                (a)     Occur in an area other than a courtroom or hearing room;
+                      (a)    Occur in an area other than a courtroom or hearing room;
 
-                (b)     Be conducted in the presence of only those individuals considered necessary
-                by the court for the conduct of the examination or the well being of the child;
+                      (b)    Be conducted in the presence of only those individuals considered
+                             necessary by the court for the conduct of the examination or the well
+                             being of the child;
 
-                (c)    Be recorded in accordance with Juv.R. 37 or Juv.R. 40. The court may
-                allow the prosecutor, guardian ad litem, or attorney for any party to submit
-                questions for use by the court in determining whether the child is a competent
-                witness.
+                      (c)    Be recorded in accordance with Juv.R. 37 or Juv.R. 40. The court
+                             may allow the prosecutor, guardian ad litem, or attorney for any
+                             party to submit questions for use by the court in determining
+                             whether the child is a competent witness.
 
-        (3)     In a proceeding where a child is alleged to be an abused child, the court may order
-        that the testimony of the child be taken by deposition in the presence of a judge or a
-        magistrate. On motion of the prosecuting attorney, guardian ad litem, or a party, or in its
-        own discretion, the court may order that the deposition be videotaped. All or part of the
-        deposition is admissible in evidence where all of the following apply:
+       (3)    In a proceeding where a child is alleged to be an abused child, the court may order
+              that the testimony of the child be taken by deposition in the presence of a judge or
+              a magistrate. On motion of the prosecuting attorney, guardian ad litem, or a party,
+              or in its own discretion, the court may order that the deposition be videotaped. All
+              or part of the deposition is admissible in evidence where all of the following apply:
 
-                (a)     It is filed with the clerk;
+                      (a)    It is filed with the clerk;
 
-                (b)     Counsel for all parties had an opportunity and similar motive at the time of
-                the taking of the deposition to develop the testimony by direct, cross, or redirect
-                examination;
+                      (b)    Counsel for all parties had an opportunity and similar motive at the
+                             time of the taking of the deposition to develop the testimony by
+                             direct, cross, or redirect examination;
 
-                (c)     The judge or magistrate determines there is reasonable cause to believe that
-                if the child were to testify in person at the hearing, the child would experience
-                emotional trauma as a result of the child's participation at the hearing.
+                      (c)    The judge or magistrate determines there is reasonable cause to
+                             believe that if the child were to testify in person at the hearing, the
+                             child would experience emotional trauma as a result of the child's
+                             participation at the hearing.
 
-(C)     Testimony by victim
+(C)    Testimony by victim
 
-        The court must conduct an in-camera hearing if a victim refuses to testify about personal
-        information including their residential address. If the court finds the information
-        necessary, the court shall proceed according to law.
+       The court must conduct an in-camera hearing if a victim refuses to testify about personal
+       information including their residential address. If the court finds the information
+       necessary, the court shall proceed according to law.
 
 Effective Date: July 1, 1972
 Amended: July 1, 1976; July 1, 1994; July 1, 1996; July 1, 2001; July 1, 2025
-                                 Staff Note (July 1, 2001 Amendment)
+                              Staff Note (July 1, 2001 Amendment)
 
-Juvenile Rule 27        Hearings: General
-Juvenile Rule 27(A)     General provisions
+Juvenile Rule 27      Hearings: General
+Juvenile Rule 27(A)   General provisions
 
          Rule 27(A) was completely rewritten and reorganized to conform to changes necessitated by Sub.
 Sen. Bill 179 (serious youthful offenders) (effective date January 1, 2002), and Sub. Sen. Bill 181 (chronic
@@ -2105,34 +2255,36 @@ RULE 29.     Adjudicatory Hearing.
 
       At the beginning of the hearing, the court shall do all of the following:
 
-             (1)   Ascertain whether notice requirements have been complied with and, if not,
-             whether the affected parties, and victim waive compliance;
+             (1)     Ascertain whether notice requirements have been complied with and, if not,
+                     whether the affected parties, and victim waive compliance;
 
-             (2)    Inform the parties of the substance of the complaint, the purpose of the
-             hearing, and possible consequences of the hearing, including the possibility that the
-             cause may be transferred to the appropriate adult court under Juv.R. 30 where the
-             complaint alleges that a child fourteen years of age or over is delinquent by conduct
-             that would constitute a felony if committed by an adult;
+             (2)     Inform the parties of the substance of the complaint, the purpose of the
+                     hearing, and possible consequences of the hearing, including the possibility
+                     that the cause may be transferred to the appropriate adult court under Juv.R.
+                     30 where the complaint alleges that a child fourteen years of age or over is
+                     delinquent by conduct that would constitute a felony if committed by an
+                     adult;
 
              (3)     Inform unrepresented parties of their right to counsel and determine if those
-             parties are waiving their right to counsel;
+                     parties are waiving their right to counsel;
 
-              (4)    Appoint counsel for any unrepresented party under Juv.R. 4(A) who does
-              not waive the right to counsel;
+              (4)     Appoint counsel for any unrepresented party under Juv.R. 4(A) who does
+                      not waive the right to counsel;
 
               (5)     Inform any unrepresented party who waives the right to counsel of the right:
-              to obtain counsel at any stage of the proceedings, to remain silent, to offer evidence,
-              to cross-examine witnesses, and, upon request, to have a record of all proceedings
-              made, at public expense if indigent.
+                      to obtain counsel at any stage of the proceedings, to remain silent, to offer
+                      evidence, to cross-examine witnesses, and, upon request, to have a record
+                      of all proceedings made, at public expense if indigent.
 
-              (6)       Inquire of the prosecutor if the victim requested to confer and whether
-              the prosecutor conferred and gave timely notice to the victim if requested. If the
-              victim is not present and the court determines that timely notice was not given to
-              the victim, the prosecutor failed to confer with the victim, or the victim was not
-              adequately informed of the nature of the proceeding, the court shall neither accept
-              a plea nor amend or dismiss a complaint and must continue the hearing. The
-              matter may proceed if the prosecutor states the victim has been appropriately
-              notified, is not reachable, or is uncooperative.
+              (6)     Inquire of the prosecutor if the victim requested to confer and whether the
+                      prosecutor conferred and gave timely notice to the victim if requested. If
+                      the victim is not present and the court determines that timely notice was
+                      not given to the victim, the prosecutor failed to confer with the victim, or
+                      the victim was not adequately informed of the nature of the proceeding,
+                      the court shall neither accept a plea nor amend or dismiss a complaint and
+                      must continue the hearing. The matter may proceed if the prosecutor states
+                      the victim has been appropriately notified, is not reachable, or is
+                      uncooperative.
 
 (C)   Entry of admission or denial
 
@@ -2146,12 +2298,12 @@ RULE 29.     Adjudicatory Hearing.
       The court may refuse to accept an admission and shall not accept an admission without
       addressing the party personally and determining both of the following:
 
-              (1)    The party is making the admission voluntarily with understanding of the
-              nature of the allegations and the consequences of the admission;
+              (1)     The party is making the admission voluntarily with understanding of the
+                      nature of the allegations and the consequences of the admission;
 
               (2)     The party understands that by entering an admission the party is waiving
-              the right to challenge the witnesses and evidence against the party, to remain silent,
-              and to introduce evidence at the adjudicatory hearing.
+                      the right to challenge the witnesses and evidence against the party, to remain
+                      silent, and to introduce evidence at the adjudicatory hearing.
 
       The court may hear testimony, review documents, or make further inquiry, as it considers
       appropriate, or it may proceed directly to the action required by division (F) of this rule.
@@ -2160,55 +2312,57 @@ RULE 29.     Adjudicatory Hearing.
 
       If a party denies the allegations the court shall:
 
-              (1)    Direct the prosecuting attorney or another attorney-at-law to assist the court
-              by presenting evidence in support of the allegations of a complaint;
+             (1)     Direct the prosecuting attorney or another attorney-at-law to assist the court
+                     by presenting evidence in support of the allegations of a complaint;
 
-              (2)     Order the separation of witnesses, upon request of any party;
+             (2)     Order the separation of witnesses, upon request of any party;
 
-              (3)     Take all testimony under oath or affirmation in either question-answer or
-              narrative form; and
+             (3)     Take all testimony under oath or affirmation in either question-answer or
+                     narrative form; and
 
-              (4)    Determine the issues by proof beyond a reasonable doubt in juvenile traffic
-              offense, delinquency, and unruly proceedings; by clear and convincing evidence in
-              dependency, neglect, and abuse cases, and in a removal action; and by a
-              preponderance of the evidence in all other cases.
+             (4)     Determine the issues by proof beyond a reasonable doubt in juvenile traffic
+                     offense, delinquency, and unruly proceedings; by clear and convincing
+                     evidence in dependency, neglect, and abuse cases, and in a removal action;
+                     and by a preponderance of the evidence in all other cases.
 
-(F)    Procedure upon determination of the issues
+(F)   Procedure upon determination of the issues
 
-       Upon the determination of the issues, the court shall do one of the following:
+      Upon the determination of the issues, the court shall do one of the following:
 
-              (1)    If the allegations of the complaint, indictment, or information were not
-              proven, dismiss the complaint;
+             (1)     If the allegations of the complaint, indictment, or information were not
+                     proven, dismiss the complaint;
 
-              (2)     If the allegations of the complaint, indictment, or information are admitted
-              or proven, do any one of the following, after compliance with Article I, Section 10a
-              of the Ohio Constitution and all provisions in the Revised Code setting forth victim
-              rights:
+             (2)     If the allegations of the complaint, indictment, or information are admitted
+                     or proven, do any one of the following, after compliance with Article I,
+                     Section 10a of the Ohio Constitution and all provisions in the Revised Code
+                     setting forth victim rights:
 
-                      (a)      Enter an adjudication and proceed forthwith to disposition;
+                            (a)     Enter an adjudication and proceed forthwith to disposition;
 
-                      (b)    Enter an adjudication and continue the matter for disposition for not
-                      more than six months and may make appropriate temporary orders;
+                            (b)     Enter an adjudication and continue the matter for disposition
+                                    for not more than six months and may make appropriate
+                                    temporary orders;
 
-                      (c)      Postpone entry of adjudication for not more than six months;
+                            (c)     Postpone entry of adjudication for not more than six months;
 
-                      (d)    Dismiss the complaint if dismissal is in the best interest of the child
-                      and the community.
+                            (d)     Dismiss the complaint if dismissal is in the best interest of
+                                    the child and the community.
 
-              (3)    Upon request make written findings of fact and conclusions of law pursuant
-              to Civ.R. 52.
+             (3)     Upon request make written findings of fact and conclusions of law pursuant
+                     to Civ.R. 52.
 
-              (4)    Ascertain whether the child should remain or be placed in shelter care until
-              the dispositional hearing in an abuse, neglect, or dependency proceeding. In
-              making a shelter care determination, the court shall make written finding of facts
-              with respect to reasonable efforts in accordance with the provisions in Juv.R.
-              27(B)(1) and to relative placement in accordance with Juv.R. 7(F)(3).
+             (4)     Ascertain whether the child should remain or be placed in shelter care until
+                     the dispositional hearing in an abuse, neglect, or dependency proceeding.
+                     In making a shelter care determination, the court shall make written finding
+                     of facts with respect to reasonable efforts in accordance with the provisions
+                     in Juv.R. 27(B)(1) and to relative placement in accordance with Juv.R.
+                     7(F)(3).
 
-              (5)    To the extent required by Article I, Section 10a of the Ohio Constitution or
-              by the Revised Code, before disposition, allow a victim of a crime to be heard.
+                 (5)     To the extent required by Article I, Section 10a of the Ohio Constitution or
+                         by the Revised Code, before disposition, allow a victim of a crime to be
+                         heard.
 
 Effective Date: July 1, 1972
-
 Amended: July 1, 1976; July 1, 1994; July 1, 1998; July 1, 2001; July 1, 2004; July 1, 2019; July
 1, 2025
 
@@ -2258,7 +2412,7 @@ Juvenile Rule 29(A)      Scheduling the hearing
          Division (A) was amended to conform the language of the rule to R.C. 2151.28, as amended
 effective May 16, 2002.
 
-Juvenile Rule 29(B)      Advisement and findings at the commencement of the hearing
+Juvenile Rule 29(B)    Advisement and findings at the commencement of the hearing
 
         Division (C) was amended to conform the language of the rule to R.C. 2151.10 and 2151.12, which
 allow the transfer of juveniles age fourteen and over to adult court for trial.
@@ -2329,18 +2483,18 @@ Involving the Allocation of Parental Rights and Responsibilities for the Care of
       time after the filing of a complaint under any of the following circumstances:
 
              (1)     Upon the request of the party concerning whom the history or examination
-             is to be made;
+                     is to be made;
 
              (2)     Where transfer of a child for adult prosecution is an issue in the proceeding;
 
-             (3)   Where a material allegation of a neglect, dependency, or abused child
-             complaint relates to matters that a history or examination may clarify;
+             (3)     Where a material allegation of a neglect, dependency, or abused child
+                     complaint relates to matters that a history or examination may clarify;
 
-             (4)   Where a party's legal responsibility for the party's acts or the party's
-             competence to participate in the proceedings is an issue;
+             (4)     Where a party's legal responsibility for the party's acts or the party's
+                     competence to participate in the proceedings is an issue;
 
-             (5)    Where a physical or mental examination is required to determine the need
-             for emergency medical care under Juv.R. 13; or
+             (5)     Where a physical or mental examination is required to determine the need
+                     for emergency medical care under Juv.R. 13; or
 
              (6)     Where authorized under Juv.R. 7(I).
 
@@ -2368,7 +2522,7 @@ Involving the Allocation of Parental Rights and Responsibilities for the Care of
       limited, the court shall state its reasons for such denial or limitation to counsel.
 
 (D)    Investigation: allocation of parental rights and responsibilities for the care of
-children; habeas corpus
+       children; habeas corpus
 
        On the filing of a complaint for the allocation of parental rights and responsibilities for the
        care of children or for a writ of habeas corpus to determine the allocation of parental rights
@@ -2388,6 +2542,7 @@ children; habeas corpus
 
 Effective Date: July 1, 1972
 Amended: July 1, 1973; July 1, 1976; July 1, 1991; July 1, 1994; July 1, 2025
+
                               Staff Note (July 1, 2025 Amendment)
 
 Juv.R. 32(E)   Predisposition Investigation and Report
@@ -2431,21 +2586,23 @@ RULE 34.     Dispositional Hearing.
 
       The hearing shall be conducted in the following manner:
 
-             (1)    The judge or magistrate who presided at the adjudicatory hearing shall, if
-             possible, preside;
+             (1)     The judge or magistrate who presided at the adjudicatory hearing shall, if
+                     possible, preside;
 
              (2)     Except as provided in division (I) of this rule, the court may admit evidence
-             that is material and relevant, including, but not limited to, hearsay, opinion, and
-             documentary evidence;
+                     that is material and relevant, including, but not limited to, hearsay, opinion,
+                     and documentary evidence;
 
              (3)     Medical examiners and each investigator who prepared a social history shall
-             not be cross-examined, except upon consent of all parties, for good cause shown,
-             or as the court in its discretion may direct. Any party may offer evidence
-             supplementing, explaining, or disputing any information contained in the social
-             history or other reports that may be used by the court in determining disposition.
+                     not be cross-examined, except upon consent of all parties, for good cause
+                     shown, or as the court in its discretion may direct. Any party may offer
+                     evidence supplementing, explaining, or disputing any information
+
+                     contained in the social history or other reports that may be used by the court
+                     in determining disposition.
 
              (4)     To the extent required by law, before disposition, the trial court shall allow
-             a victim to be heard, in writing, orally, or both during the proceeding.
+                     a victim to be heard, in writing, orally, or both during the proceeding.
 
 (C)   Judgment
 
@@ -2465,39 +2622,43 @@ RULE 34.     Dispositional Hearing.
              (1)     Place the child in protective supervision;
 
              (2)     Commit the child to the temporary custody of a public or private agency,
-             either parent, a relative residing within or outside the state, or a probation officer
-             for placement in a certified foster home or approved foster care;
+                     either parent, a relative residing within or outside the state, or a probation
+                     officer for placement in a certified foster home or approved foster care;
 
              (3)     Award legal custody of the child to either parent or to any other person who,
-             prior to the dispositional hearing, files a motion requesting legal custody;
+                     prior to the dispositional hearing, files a motion requesting legal custody;
 
              (4)     Commit the child to the permanent custody of a public or private agency, if
-             the court determines that the child cannot be placed with one of the child's parents
-             within a reasonable time or should not be placed with either parent and determines
-             that the permanent commitment is in the best interest of the child;
+                     the court determines that the child cannot be placed with one of the child's
+                     parents within a reasonable time or should not be placed with either parent
+                     and determines that the permanent commitment is in the best interest of the
+                     child;
 
              (5)     Place the child in a planned permanent living arrangement with a public
-             children services agency or private child placing agency, if a public children
-             services agency or private child placing agency requests the court to place the child
-             in a planned permanent living arrangement and if the court finds, by clear and
-             convincing evidence, that a planned permanent living arrangement is in the best
-             interest of the child, that the child is sixteen years of age or older, and that one of
-             the following exists:
+                     children services agency or private child placing agency, if a public children
+                     services agency or private child placing agency requests the court to place
+                     the child in a planned permanent living arrangement and if the court finds,
+                     by clear and convincing evidence, that a planned permanent living
+                     arrangement is in the best interest of the child, that the child is sixteen years
+                     of age or older, and that one of the following exists:
 
-                     (a)     The child because of physical, mental, or psychological problems or
-                     needs is unable to function in a family-like setting and must remain in
-                     residential or institutional care now and for the foreseeable future beyond
-                     the date of the dispositional hearing held pursuant to R.C. 2151.35;
+                             (a)     The child because of physical, mental, or psychological
+                                     problems or needs is unable to function in a family-like
 
-                     (b)    The parents of the child have significant physical, mental or
-                     psychological problems and are unable to care for the child because of those
-                     problems, adoption is not in the best interest of the child and the child, as
-                     determined in accordance with R.C. 2151.414(D)(1), retains a significant
-                     and positive relationship with a parent or relative;
+                                     setting and must remain in residential or institutional care
+                                     now and for the foreseeable future beyond the date of the
+                                     dispositional hearing held pursuant to R.C. 2151.35;
 
-                     (c)    The child has been counseled on the permanent placement options
-                     available to the child and is unwilling to accept or unable to adapt to a
-                     permanent placement.
+                             (b)     The parents of the child have significant physical, mental or
+                                     psychological problems and are unable to care for the child
+                                     because of those problems, adoption is not in the best interest
+                                     of the child and the child, as determined in accordance with
+                                     R.C. 2151.414(D)(1), retains a significant and positive
+                                     relationship with a parent or relative;
+
+                             (c)     The child has been counseled on the permanent placement
+                                     options available to the child and is unwilling to accept or
+                                     unable to adapt to a permanent placement.
 
 (E)   Protective supervision
 
@@ -2506,10 +2667,10 @@ RULE 34.     Dispositional Hearing.
       not limited to, any of the following:
 
              (1)     Ordering a party within forty-eight hours to vacate the child's home
-             indefinitely or for a fixed period of time;
+                     indefinitely or for a fixed period of time;
 
-             (2)    Ordering a party, parent, or custodian to prevent any particular person from
-             having contact with the child;
+             (2)     Ordering a party, parent, or custodian to prevent any particular person from
+                     having contact with the child;
 
              (3)     Issuing a restraining order to control the conduct of any party.
 
@@ -2528,14 +2689,13 @@ RULE 34.     Dispositional Hearing.
       hearing and the best interest of the child, shall determine the contents of the case plan and
       journalize it as part of the dispositional order for the child.
 
-(G)   Modification of temporary order
+(G)     Modification of temporary order
 
-      The department of human services or any other public or private agency or any party, other
-      than a parent whose parental rights have been terminated, may at any time file a motion
-      requesting that the court modify or terminate any order of disposition. The court shall hold
-      a hearing upon the motion as if the hearing were the original dispositional hearing and shall
-      give all parties and the guardian ad litem notice of the hearing pursuant to these rules. The
-
+        The department of human services or any other public or private agency or any party, other
+        than a parent whose parental rights have been terminated, may at any time file a motion
+        requesting that the court modify or terminate any order of disposition. The court shall hold
+        a hearing upon the motion as if the hearing were the original dispositional hearing and shall
+        give all parties and the guardian ad litem notice of the hearing pursuant to these rules. The
         court, on its own motion and upon proper notice to all parties and any interested agency,
         may modify or terminate any order of disposition.
 
@@ -2570,13 +2730,13 @@ RULE 34.     Dispositional Hearing.
 Effective Date: July 1, 1972
 Amended: July 1, 1994; July 1, 1996; July 1, 2002; July 1, 2018; July 1, 2019; July 1, 2023; July
 1, 2025
-
-                                 Staff Note (July 1, 2002 Amendment)
+                                Staff Note (July 1, 2002 Amendment)
 
 Juvenile Rule 34(D)     Dispositional orders
 
          The July 1, 2002, amendment to Juv.R. 34(D)(5) substituted the language of “planned permanent
 living arrangement” for the former language of “long term foster care,” to conform to the new legislative
+
 designation for these child-placing arrangements.
 
         The amendment to Juv.R. 34(D)(5) conforms to section 2151.353(A)(5) of the Revised Code.
@@ -2584,15 +2744,14 @@ Juvenile Rules 2, 10, and 15 also were amended effective July 1, 2002 to reflect
 
                                  Staff Note (July 1, 2018 Amendment)
 Juvenile Rule 34(D)(5) Placement in planned permanent living arrangement
-
       Division (D)(5) is amended to incorporate the amendments to R.C. 2151.353(A)(5) effective
 September 17, 2014.
 
-                                Staff Note (July 1, 2023 Amendment)
+                                 Staff Note (July 1, 2023 Amendment)
 
         Division (A) is amended to comply with R.C. 2151.35(B)(1).
 
-                                Staff Note (July 1, 2025 Amendment)
+                                 Staff Note (July 1, 2025 Amendment)
 
 Juvenile Rule 34(K)     Advisement of victims
 
@@ -2671,11 +2830,11 @@ RULE 36.     Dispositional Review.
 
              (1)     Approve or modify the case plan based upon the evidence presented;
 
-              (2)   Return the child home with or without protective supervision and terminate
-              temporary custody or determine which agency shall have custody;
+              (2)    Return the child home with or without protective supervision and terminate
+                     temporary custody or determine which agency shall have custody;
 
               (3)    If the child is in permanent custody determine what actions would facilitate
-              adoption;
+                     adoption;
 
               (4)    Journalize the terms of the updated case plan.
 
@@ -2712,52 +2871,56 @@ Juvenile Rule 37(B)     Restrictions on use of recording or transcript
 amendment was not intended to designate juvenile court records as public documents or to enlarge access
 to juvenile records beyond that specifically designated by a statute directed at juvenile court records.
 
-RULE 38.      Voluntary Surrender of Custody.
+RULE 38.    Voluntary Surrender of Custody.
 
-(A)    Temporary custody
+(A)   Temporary custody
 
-       (1)     A person with custody of a child may enter into an agreement with any public or
-       private children services agency giving the agency temporary custody for a period of up to
-       thirty days without the approval of the juvenile court. The agency may request the court
-       to grant a thirty day extension of the original agreement. The court may grant the original
-       extension if it determines the extension to be in the best interest of the child. A case plan
-       shall be filed at the same time the request for extension is filed. At the expiration of the
-       original thirty day extension period, the agency may request the court to grant an additional
-       thirty day extension. The court may grant the additional extension if it determines the
-       extension is in the child's best interest. The agency shall file an updated case plan at the
-       same time it files the request for additional extension. At the expiration of the additional
-       thirty day extension period, or at the expiration of the original thirty day extension period
-       if no additional thirty day extension was requested, the agency shall either return the child
-       to the custodian or file a complaint requesting temporary or permanent custody and a case
-       plan.
+      (1)   A person with custody of a child may enter into an agreement with any public or
+            private children services agency giving the agency temporary custody for a period
+            of up to thirty days without the approval of the juvenile court. The agency may
+            request the court to grant a thirty day extension of the original agreement. The
+            court may grant the original extension if it determines the extension to be in the
+            best interest of the child. A case plan shall be filed at the same time the request for
+            extension is filed. At the expiration of the original thirty day extension period, the
+            agency may request the court to grant an additional thirty day extension. The court
+            may grant the additional extension if it determines the extension is in the child's
+            best interest. The agency shall file an updated case plan at the same time it files the
+            request for additional extension. At the expiration of the additional thirty day
+            extension period, or at the expiration of the original thirty day extension period if
+            no additional thirty day extension was requested, the agency shall either return the
+            child to the custodian or file a complaint requesting temporary or permanent
+            custody and a case plan.
 
-       (2)     Notwithstanding division (A)(1) of this rule, the agreement may be for a period of
-       sixty days if executed solely for the purpose of obtaining the adoption of a child less than
-       six months of age. The agency may request the court to extend the temporary custody
-       agreement for thirty days. A case plan shall be filed at the same time the request for
-       extension is filed. At the expiration of the thirty day extension, the agency shall either
-       return the child to the child's custodian or file a complaint with the court requesting
-       temporary or permanent custody and a case plan.
+      (2)   Notwithstanding division (A)(1) of this rule, the agreement may be for a period of
+            sixty days if executed solely for the purpose of obtaining the adoption of a child
+            less than six months of age. The agency may request the court to extend the
+            temporary custody agreement for thirty days. A case plan shall be filed at the same
+            time the request for extension is filed. At the expiration of the thirty day extension,
+            the agency shall either return the child to the child's custodian or file a complaint
+            with the court requesting temporary or permanent custody and a case plan.
 
-(B)    Permanent custody
+(B)   Permanent custody
 
-       (1)     A person with custody of a child may make an agreement with court approval
-       surrendering the child into the permanent custody of a public children service agency or
-       private child placing agency. A public children service agency shall request and a private
-       child placing agency may request the juvenile court of the county in which the child had
-       residence or legal settlement to approve the permanent surrender agreement. The court
-       may approve the agreement if it determines it to be in the best interest of the child. The
-       agency requesting the approval shall file a case plan at the same time it files its request for
-       approval of the permanent surrender agreement.
+      (1)   A person with custody of a child may make an agreement with court approval
+            surrendering the child into the permanent custody of a public children service
+            agency or private child placing agency. A public children service agency shall
+            request and a private child placing agency may request the juvenile court of the
+            county in which the child had residence or legal settlement to approve the
+            permanent surrender agreement. The court may approve the agreement if it
+            determines it to be in the best interest of the child. The agency requesting the
+            approval shall file a case plan at the same time it files its request for approval of the
+            permanent surrender agreement.
 
-       (2)     An agreement for the surrender of permanent custody of a child to a private service
-       agency is not required to be approved by the court if the agreement is executed solely for
-       the purpose of obtaining an adoption of a child who is less than six months of age on the
-       date of the execution of the agreement.
+      (2)   An agreement for the surrender of permanent custody of a child to a private service
+            agency is not required to be approved by the court if the agreement is executed
+            solely for the purpose of obtaining an adoption of a child who is less than six months
+            of age on the date of the execution of the agreement.
 
-       One year after the agreement is entered and every subsequent twelve months after that date,
-       the court shall schedule a review hearing if a final decree of adoption has not been entered
-       for a child who is the subject of an agreement for the surrender of permanent custody.
+            One year after the agreement is entered and every subsequent twelve months after
+            that date, the court shall schedule a review hearing if a final decree of adoption has
+
+              not been entered for a child who is the subject of an agreement for the surrender of
+              permanent custody.
 
 Effective Date: July 1, 1994
 
@@ -2790,7 +2953,7 @@ RULE 39.       Out of County Removal Hearings.
                (6)     The complainant;
 
                (7)     The guardian ad litem and counsel presently representing the child in the
-               court that issued the original dispositional order;
+                       court that issued the original dispositional order;
 
                (8)     Any other persons the court determines to be appropriate.
 
@@ -2829,13 +2992,13 @@ RULE 40.     Magistrates.
              the following:
 
                      (a)    Determine any motion in any case, except a case involving the
-                     determination of a child’s status as a serious youthful offender;
+                            determination of a child’s status as a serious youthful offender;
 
                      (b)    Conduct the trial of any case that will not be tried to a jury, except the
-                     adjudication of a case against an alleged serious youthful offender;
+                            adjudication of a case against an alleged serious youthful offender;
 
-                     (c)      Exercise any other authority specifically vested in magistrates by
-                     statute and consistent with this rule.
+                     (c)    Exercise any other authority specifically vested in magistrates by
+                            statute and consistent with this rule.
 
       (2)    Regulation of proceedings
 
@@ -2844,21 +3007,21 @@ RULE 40.     Magistrates.
              as if by the court and to do everything necessary for the efficient performance of those
              responsibilities, including but not limited to, the following:
 
-                     (a)     Issuing subpoenas for the attendance of witnesses and the production
-                     of evidence;
+                     (a)    Issuing subpoenas for the attendance of witnesses and the production
+                            of evidence;
 
-                     (b)     Ruling upon the admissibility of evidence;
+                     (b)    Ruling upon the admissibility of evidence;
 
                     (c)     Putting witnesses under oath and examining them;
 
                     (d)     Calling the parties to the action and examining them under oath;
 
                     (e)     When necessary to obtain the presence of an alleged contemnor in
-                    cases involving direct or indirect contempt of court, issuing an attachment for
-                    the alleged contemnor and setting bail;
+                            cases involving direct or indirect contempt of court, issuing an
+                            attachment for the alleged contemnor and setting bail;
 
                     (f)     Imposing, subject to Juv.R. 40(D)(8), appropriate sanctions for civil
-                    or criminal contempt committed in the presence of the magistrate.
+                            or criminal contempt committed in the presence of the magistrate.
 
 (D)   Proceedings in matters referred to magistrates
 
@@ -2901,11 +3064,11 @@ RULE 40.     Magistrates.
 
                      (A)     Pretrial proceedings under Civ.R. 16;
 
-                     (B)    Discovery proceedings under Civ.R. 26 to 37, Juv R.
-                     24, and Juv.R. 25;
+                     (B)     Discovery proceedings under Civ.R. 26 to 37, Juv R.
+                             24, and Juv.R. 25;
 
-                     (C)    Appointment of an attorney or guardian ad litem
-                     pursuant to Juv.R. 4 and Juv.R. 29(B)(4);
+                     (C)     Appointment of an attorney or guardian ad litem
+                             pursuant to Juv.R. 4 and Juv.R. 29(B)(4);
 
                      (D)     Taking a child into custody pursuant to Juv.R. 6;
 
@@ -2921,16 +3084,17 @@ RULE 40.     Magistrates.
 
                      (J)     Continuances pursuant to Juv.R. 23;
 
-                     (K)     Deposition orders pursuant to Juv.R. 27(B)(3);
+                             (K)    Deposition      orders   pursuant     to   Juv.R.
+                             27(B)(3);
 
-                     (L)   Orders for social histories, physical and mental
-                     examinations pursuant to Juv.R. 32;
+                     (L)     Orders for social histories, physical and mental
+                             examinations pursuant to Juv.R. 32;
 
-                     (M) Proceedings upon application for the issuance of a
-                     temporary protection order as authorized by law;
+                     (M)     Proceedings upon application for the issuance of a
+                             temporary protection order as authorized by law;
 
-                     (N)    Other     orders   as   necessary   to   regulate    the
-                     proceedings.
+                     (N)     Other orders      as   necessary   to      regulate   the
+                             proceedings.
 
 (b)   Motion to set aside magistrate’s order
 
@@ -2986,53 +3150,53 @@ RULE 40.     Magistrates.
                      Juv.R. 40(D)(4)(e)(i). If any party timely files objections, any other
                      party may also file objections not later than ten days after the first
                      objections are filed. If a party makes a timely request for findings of
+
                      fact and conclusions of law, the time for filing objections begins to run
+                     when the magistrate files a decision that includes findings of fact and
+                     conclusions of law.
 
-                      when the magistrate files a decision that includes findings of fact and
-                      conclusions of law.
+             (ii)    Specificity of objection
 
-              (ii)    Specificity of objection
+                     An objection to a magistrate’s decision shall be specific and state with
+                     particularity all grounds for objection.
 
-                      An objection to a magistrate’s decision shall be specific and state with
-                      particularity all grounds for objection.
+             (iii)   Objection to magistrate’s factual finding; transcript or affidavit
 
-              (iii)   Objection to magistrate’s factual finding; transcript or affidavit
+                     An objection to a factual finding, whether or not specifically
+                     designated as a finding of fact under Juv.R. 40(D)(3)(a)(ii), shall be
+                     supported by a transcript of all the evidence submitted to the
+                     magistrate relevant to that finding or an affidavit of that evidence if a
+                     transcript is not available. With leave of court, alternative technology
+                     or manner of reviewing the relevant evidence may be considered. The
+                     objecting party shall file the transcript or affidavit with the court within
+                     thirty days after filing objections unless the court extends the time in
+                     writing for preparation of the transcript or other good cause. If a party
+                     files timely objections prior to the date on which a transcript is
+                     prepared, the party may seek leave of court to supplement the
+                     objections.
 
-                      An objection to a factual finding, whether or not specifically
-                      designated as a finding of fact under Juv.R. 40(D)(3)(a)(ii), shall be
-                      supported by a transcript of all the evidence submitted to the
-                      magistrate relevant to that finding or an affidavit of that evidence if a
-                      transcript is not available. With leave of court, alternative technology
-                      or manner of reviewing the relevant evidence may be considered. The
-                      objecting party shall file the transcript or affidavit with the court within
-                      thirty days after filing objections unless the court extends the time in
-                      writing for preparation of the transcript or other good cause. If a party
-                      files timely objections prior to the date on which a transcript is
-                      prepared, the party may seek leave of court to supplement the
-                      objections.
+             (iv)    Waiver of right to assign adoption by court as error on appeal
 
-              (iv)    Waiver of right to assign adoption by court as error on appeal
+                     Except for a claim of plain error, a party shall not assign as error on
+                     appeal the court’s adoption of any factual finding or legal conclusion,
+                     whether or not specifically designated as a finding of fact or
+                     conclusion of law under Juv.R. 40(D)(3)(a)(ii), unless the party has
+                     objected to that finding or conclusion as required by Juv.R.
+                     40(D)(3)(b).
 
-                      Except for a claim of plain error, a party shall not assign as error on
-                      appeal the court’s adoption of any factual finding or legal conclusion,
-                      whether or not specifically designated as a finding of fact or
-                      conclusion of law under Juv.R. 40(D)(3)(a)(ii), unless the party has
-                      objected to that finding or conclusion as required by Juv.R.
-                      40(D)(3)(b).
+(4)   Action of court on magistrate’s decision and on any objections to magistrate’s
+      decision; entry of judgment or interim order by court
 
-(4)     Action of court on magistrate’s decision and on any objections to magistrate’s
-decision; entry of judgment or interim order by court
+      (a)    Action of court required
 
-       (a)    Action of court required
+             A magistrate’s decision is not effective unless adopted by the court.
 
-              A magistrate’s decision is not effective unless adopted by the court.
+      (b)    Action on magistrate’s decision
 
-       (b)    Action on magistrate’s decision
-
-              Whether or not objections are timely filed, a court may adopt or reject a
-              magistrate’s decision in whole or in part, with or without modification. A
-              court may hear a previously-referred matter, take additional evidence, or
-              return a matter to a magistrate.
+             Whether or not objections are timely filed, a court may adopt or reject a
+             magistrate’s decision in whole or in part, with or without modification. A
+             court may hear a previously-referred matter, take additional evidence, or
+             return a matter to a magistrate.
 
 (c)   If no objections are filed
 
@@ -3099,35 +3263,35 @@ decision; entry of judgment or interim order by court
 
         (8)     Contempt in the presence of a magistrate
 
-                (a)      Contempt order
+                (a)     Contempt order
 
-                         Contempt sanctions under Juv.R. 40(C)(2)(f) may be imposed only by a
-                         written order that recites the facts and certifies that the magistrate saw or heard
-                         the conduct constituting contempt.
+                        Contempt sanctions under Juv.R. 40(C)(2)(f) may be imposed only by a
+                        written order that recites the facts and certifies that the magistrate saw or heard
+                        the conduct constituting contempt.
 
-                (b)      Filing and provision of copies of contempt order
+                (b)     Filing and provision of copies of contempt order
 
-                         A contempt order shall be filed and copies provided forthwith by the clerk to
-                         the appropriate judge of the court and to the subject of the order.
+                        A contempt order shall be filed and copies provided forthwith by the clerk to
+                        the appropriate judge of the court and to the subject of the order.
 
-                (c)      Review of contempt order by court; bail
+                (c)     Review of contempt order by court; bail
 
-                         The subject of a contempt order may by motion obtain immediate review by
-                         a judge. A judge or the magistrate entering the contempt order may set bail
-                         pending judicial review of the order.
+                        The subject of a contempt order may by motion obtain immediate review by
+                        a judge. A judge or the magistrate entering the contempt order may set bail
+                        pending judicial review of the order.
 
 Effective Date: July 1, 1972
 Amended: July 1, 1975; July 1, 1985; July 1, 1992; July 1, 1995; July 1, 1998; July 1, 2001;
 July 1, 2003; July 1, 2006; July 1, 2011; July 1, 2014; July 1, 2023
-                                  Staff Note (July 1, 2001 Amendment)
+                                 Staff Note (July 1, 2001 Amendment)
 
-Juvenile Rule 40         Magistrates
-Juvenile Rule 40(C)      Reference and powers
+Juvenile Rule 40        Magistrates
+Juvenile Rule 40(C)     Reference and powers
 
-          Divisions (C)(1)(a)(i), (ii), and (iii) were amended to reflect that certain proceedings involving
+        Divisions (C)(1)(a)(i), (ii), and (iii) were amended to reflect that certain proceedings involving
 serious youthful offenders shall not be referred to a magistrate, i.e., the hearing on a motion to determine
-if there is probable cause to prosecute the child as a serious youthful offender, and the adjudication itself,
 
+if there is probable cause to prosecute the child as a serious youthful offender, and the adjudication itself,
 whether to a jury or not. These restrictions recognize the seriousness of the charges and their
 determination, and are consistent with the restrictions upon the use of magistrates within the Criminal Rules.
 
@@ -3148,7 +3312,7 @@ and pro se litigants because they did not expect to be required to object to a f
 in a magistrate’s decision in order to assign its adoption by the trial court as error on appeal. A review of
 relevant appellate decisions seemed to confirm that suggestion.
 
-         It was further suggested that counsel or a pro se litigant was particularly likely to be surprised by the
+        It was further suggested that counsel or a pro se litigant was particularly likely to be surprised by the
 waiver rule of sentence four of former Civ.R. 53(E)(3)(b) if a trial court, as authorized by sentence two of Civ.R.
 53(E)(4)(a), adopted a magistrate’s decision prior to expiration of the fourteen days permitted for the filing of
 objections. See, e.g., Riolo v. Navin, 2002 WL 502408, 2002-Ohio-1551, (8th Dist. Ct. App., 4-19-2002).
@@ -3172,7 +3336,7 @@ America Mfg., Inc., 88 Ohio St. 3d 52 (2000) (confirming that the waiver rule of
 53(E)(3)(b), which is identical to the waiver rule of sentence four of Juv.R. 40(E)(3)(b), now applies to
 conclusions of law as well as to findings of fact by a magistrate).
 
-          The amendment thus makes three changes in Juv.R. 40(E), none of which are intended to modify the
+         The amendment thus makes three changes in Juv.R. 40(E), none of which are intended to modify the
 substantive scope or effect of the waiver rule contained in sentence four of former Juv.R. 40(E)(3)(b) [now
 division (E)(3)(d)]. First, the amendment retains, but breaks into three appropriately-titled subdivisions, the four
 sentences which comprised former Juv.R. 40(E)(3)(b). Sentences two and three of former Juv.R. 40(E)(3)(b)
@@ -3184,7 +3348,7 @@ assign adoption by court as error on appeal.”
 a party may properly file timely objections to a magistrate’s decision even if the trial court has previously
 adopted that decision as permitted by Juv.R. 40(E)(4)(c).
 
-          Third, the amendment adds a new sentence to Juv.R. 40(E)(2), which sentence requires that a
+         Third, the amendment adds a new sentence to Juv.R. 40(E)(2), which sentence requires that a
 magistrate who files a decision which includes findings of fact and conclusions of law also provide a
 conspicuous warning that timely and specific objection as required by Juv.R. 40(E)(3) is necessary to assign
 as error on appeal adoption by the trial court of any finding of fact or conclusion of law. It is ordinarily assumed
@@ -3328,7 +3492,7 @@ interim order by the court
         Juv.R. 40(D)(4)(a), like sentence one of former Juv.R. 40(E)(4)(a), confirms that a magistrate’s
 decision is not effective unless adopted by the court.
 
-          Juv.R. 40(D)(4)(b) provides that a court may properly choose among a wide range of options in
+         Juv.R. 40(D)(4)(b) provides that a court may properly choose among a wide range of options in
 response to a magistrate’s decision, whether or not objections are timely filed. See, e.g., Johnson v. Brown
 2nd Dist. App. No. 2002 CA 76, 2003-Ohio-1257 at ¶ 12 (apparently concluding that former Civ.R. 53(E)(4)(b)
 permitted the trial court to modify an aspect of the magistrate’s decision to which no objection had been made).
@@ -3457,7 +3621,7 @@ from former Juv.R. 40(D)(2).
 
 Contempt in the presence of a magistrate
 
-         Juv.R. 40(D)(8) is adapted from sentences two, three, and four of former Juv.R. 40(C)(3)(c). Juv.R.
+        Juv.R. 40(D)(8) is adapted from sentences two, three, and four of former Juv.R. 40(C)(3)(c). Juv.R.
 40(D)(8)(b), unlike its predecessor, explicitly requires that the clerk provide a copy of a contempt order to the
 subject of the order.
 
@@ -3473,51 +3637,52 @@ delinquency of minors. Since the rule as previously written excluded magistrates
 Procedure, which expressly exclude magistrates from hearing jury trials under Crim.R. 19(C)(1)(h), the
 Commission decided to simply eliminate the provision for jury trials under Juv.R. 40.
 
-RULE 41.      Taking Testimony.
+RULE 41.     Taking Testimony.
 
-(A)    Physical presence of witness
+(A)   Physical presence of witness
 
-       At a trial or hearing, a testifying witness shall be physically present unless a statute, the
-       Rules of Evidence, these rules, or other rules adopted by the Supreme Court provide
-       otherwise.
+      At a trial or hearing, a testifying witness shall be physically present unless a statute, the
+      Rules of Evidence, these rules, or other rules adopted by the Supreme Court provide
+      otherwise.
 
-(B)    Remote testimony
+(B)   Remote testimony
 
-       (1)    General
+      (1)    General
 
-              With the agreement of the parties or for good cause shown, the court may permit
-              the remote presence and participation of a witness, including a party, if all of the
-              following apply:
+             With the agreement of the parties or for good cause shown, the court may permit
+             the remote presence and participation of a witness, including a party, if all of the
+             following apply:
 
-                       (a)     The court gives appropriate notice to all parties;
+                      (a)    The court gives appropriate notice to all parties;
 
-                       (b)   The court finds that the remote appearance of the witness is based
-                       on important state interests, public policies, or necessities of the case;
+                      (b)    The court finds that the remote appearance of the witness is based
+                             on important state interests, public policies, or necessities of the
+                             case;
 
-                       (c)    The witness is administered the oath or affirmation using live two-
-                       way video and audio conference technology that allows the person
-                       authorized to administer the oath to verify the identity of the witness at the
-                       time the oath is administered;
+                      (c)    The witness is administered the oath or affirmation using live two-
+                             way video and audio conference technology that allows the person
+                             authorized to administer the oath to verify the identity of the witness
+                             at the time the oath is administered;
 
-                       (d)     The witness is subject to full cross-examination;
+                      (d)    The witness is subject to full cross-examination;
 
-                       (e)    The video arrangements allow the witness to speak, and to be seen
-                       and heard by the court, all parties, and the jury if applicable.
+                      (e)    The video arrangements allow the witness to speak, and to be seen
+                             and heard by the court, all parties, and the jury if applicable.
 
-      (2)     Notice
+      (2)    Notice
 
-              A request to present testimony remotely shall be discussed among counsel and
-              unrepresented parties, and filed with the court no later than the deadline set in the
-              case scheduling order or thirty days before the trial or hearing, unless for good cause
-              the court permits later notice.
+             A request to present testimony remotely shall be discussed among counsel and
+             unrepresented parties, and filed with the court no later than the deadline set in the
+             case scheduling order or thirty days before the trial or hearing, unless for good cause
+             the court permits later notice.
 
-       (3)    Oath or affirmation
+      (3)    Oath or affirmation
 
-              Every witness testifying remotely, including those outside this state, in a trial or
-              other proceeding in open court in Ohio must affirm on the record that the witness
-              has submitted to the jurisdiction of the Ohio court for the purpose of enforcement
-              of his or her oath or affirmation, including any consideration of perjury charges
-              arising from such testimony.
+             Every witness testifying remotely, including those outside this state, in a trial or
+             other proceeding in open court in Ohio must affirm on the record that the witness
+             has submitted to the jurisdiction of the Ohio court for the purpose of enforcement
+             of his or her oath or affirmation, including any consideration of perjury charges
+             arising from such testimony.
 
 Effective Date: July 1, 2015
 Amended: July 1, 2023
@@ -3526,14 +3691,14 @@ RULE 42.     Consent to Marry.
 
 (A)   Application for juvenile court consent
 
-      (1)     When two persons, both age seventeen, seek to be joined in marriage, both persons
-      shall file an application under oath requesting that the juvenile court give consent and
-      approbation in the probate court for such marriage.
+      (1)    When two persons, both age seventeen, seek to be joined in marriage, both persons
+             shall file an application under oath requesting that the juvenile court give consent
+             and approbation in the probate court for such marriage.
 
       (2)    When a person age seventeen desires to be joined in marriage to an adult who is no
-      more than four years older, the minor shall file an application under oath in the county
-      where the minor resides requesting that the juvenile court consent and approbation in the
-      probate court for such marriage.
+             more than four years older, the minor shall file an application under oath in the
+             county where the minor resides requesting that the juvenile court consent and
+             approbation in the probate court for such marriage.
 
 (B)   Application where both persons are age seventeen
 
@@ -3545,30 +3710,30 @@ RULE 42.     Consent to Marry.
 
              (3)     The name and date of birth of the other person to be joined in marriage;
 
-             (4)    An affirmation that the other person to be joined in marriage is also
-             seventeen.
+             (4)     An affirmation that the other person to be joined in marriage is also
+                     seventeen.
 
-             (5)    An affirmation that the application is being filed in the juvenile court of the
-             county where the he/she resides, and that a similar application has not been filed in
-             a juvenile court of another county within the state;
+             (5)     An affirmation that the application is being filed in the juvenile court of the
+                     county where the he/she resides, and that a similar application has not been
+                     filed in a juvenile court of another county within the state;
 
              (6)     An affirmation that the applicant is one of the following:
 
-                      (a)    A member of the armed services;
+                             (a)     A member of the armed services;
 
-                      (b)    Employed and self-subsisting;
+                             (b)     Employed and self-subsisting;
 
-                      (c)    Independent from the care and control of his or her parent, guardian,
-                      or custodian.
+                             (c)     Independent from the care and control of his or her parent,
+                                     guardian, or custodian.
 
-             (7)    An affirmation that the applicant who is to marry is free from force or
-             coercion;
+             (7)     An affirmation that the applicant who is to marry is free from force or
+                     coercion;
 
-             (8)    The name and address of a parent, legal guardian, or legal custodian of the
-             person seeking consent with whom the juvenile court shall consult, and;
+             (8)     The name and address of a parent, legal guardian, or legal custodian of the
+                     person seeking consent with whom the juvenile court shall consult, and;
 
-             (9)    The Court should find by clear and convincing evidence that the intended
-             marriage and the emancipation is in the best interest of the applicant.
+             (9)     The Court should find by clear and convincing evidence that the intended
+                     marriage and the emancipation is in the best interest of the applicant.
 
 (C)   Contents of application where only one person is age seventeen
 
@@ -3580,30 +3745,30 @@ RULE 42.     Consent to Marry.
 
              (3)     The name and date of birth of the other person to be joined in marriage;
 
-             (4)    An affirmation that the other person to be joined in marriage is no more than
-             four years older than the person seeking consent;
+             (4)     An affirmation that the other person to be joined in marriage is no more than
+                     four years older than the person seeking consent;
 
-             (5)    An affirmation that the application is being filed in the juvenile court of the
-             county where he or she resides, and that a similar application has not been filed in
-             a juvenile court of another county within the state;
+             (5)     An affirmation that the application is being filed in the juvenile court of the
+                     county where he or she resides, and that a similar application has not been
+                     filed in a juvenile court of another county within the state;
 
              (6)     An affirmation that the applicant is one of the following:
 
-                     (a)     A member of the armed services;
+                             (a)     A member of the armed services;
 
-                     (b)     Employed and self-subsisting;
+                             (b)     Employed and self-subsisting;
 
-                     (c)     Independent from the care and control of his or her parent, guardian,
-                     or custodian.
+                             (c)     Independent from the care and control of his or her parent,
+                                     guardian, or custodian.
 
-             (7)    An affirmation that the applicant who is to marry is free from force or
-             coercion;
+             (7)     An affirmation that the applicant who is to marry is free from force or
+                     coercion;
 
-             (8)    The name and address of a parent, legal guardian, or legal custodian of the
-             person seeking consent with whom the juvenile court shall consult, and;
+             (8)     The name and address of a parent, legal guardian, or legal custodian of the
+                     person seeking consent with whom the juvenile court shall consult, and;
 
-             (9)    The Court should find by clear and convincing evidence that the intended
-             marriage and the emancipation is in the best interest of the applicant.
+             (9)     The Court should find by clear and convincing evidence that the intended
+                     marriage and the emancipation is in the best interest of the applicant.
 
 (D)   The Court shall appoint an attorney as guardian ad litem for each party to the intended
       marriage who is seventeen years of age.
@@ -3628,16 +3793,16 @@ RULE 42.     Consent to Marry.
 
        The court shall grant the consent to marry if the court finds:
 
-                (1)    The information stated in the application is true;
+                (1)   The information stated in the application is true;
 
-                (2)     The party to the intended marriage, who is seventeen, decision to marry is
-                free from force or coercion;
+                (2)   The party to the intended marriage, who is seventeen, decision to marry is
+                      free from force or coercion;
 
-                (3)    Granting of the application is in the best interest of each person age
-                seventeen seeking to be joined in marriage, and;
+                (3)   Granting of the application is in the best interest of each person age
+                      seventeen seeking to be joined in marriage, and;
 
-                (4)    Each person age seventeen has the capacity of a person of the age eighteen
-                years or older, as described in R.C. 3109.01.
+                (4)   Each person age seventeen has the capacity of a person of the age eighteen
+                      years or older, as described in R.C. 3109.01.
 
 (H)    Certified copy
 
@@ -3721,3 +3886,33 @@ These rules shall be known as the Ohio Rules of Juvenile Procedure and may be ci
 Rules" or "Juv.R. ___."
 
 Effective Date: July 1, 1972
+
+                                    APPENDIX OF FORMS
+
+Pursuant to Juvenile Rule 46, the forms contained in the Appendix of Forms were adopted by the
+Supreme Court and shall be accepted for filing by courts of this state. Forms adopted by local
+courts that are substantially similar to the forms in the Appendix of Forms may also be accepted
+for filing.
+
+JUVENILE FORMS
+
+FORM 1        Parenting Judgment Entry
+FORM 2        Complaint for Parentage, Allocation of Parental Rights and Responsibilities and
+              Parenting Time
+FORM 3        Motion for Contempt, Affidavit, and Instructions for Service
+FORM 4        Show Cause Order and Notice
+
+FORM 5        Motion for Change of Parenting Time (Companionship and Visitation)
+
+FORM 6        Motion for Change of Parental Rights and Responsibilities (Custody)
+
+FORM 7        Motion for Change of Child Support, Medical Support, Tax Exemption, or Other
+              Child-related Expenses
+
+FORM 8        Explanation of Health Care Bills
+
+FORM 9        Waiver of Service of Summons
+
+FORM 10       Request for Service
+
+FORM 11       Motion to Intervene

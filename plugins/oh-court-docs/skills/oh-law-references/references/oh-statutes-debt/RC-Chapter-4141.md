@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 4141 — Unemployment Compensation
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-4141
-> **Fetched:** 2026-06-11
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 
@@ -814,7 +814,7 @@ In the payment of any contributions, a fractional part of a dollar may be disreg
 
 The director shall deny an employer's request for a waiver of interest after finding that the employer's failure to timely furnish reports or make payments as required under this chapter was due to an attempt to evade payment.
 
-(D) Any contribution, interest, forfeiture, or fine required to be paid under this chapter by any employer shall, if not paid when due, become a lien upon the real and personal property of such employer. Upon failure of such employer to pay the contributions, interest, forfeiture, or fine required to be paid under this chapter, the director shall file notice of such lien, for which there shall be no charge, in the office of the county recorder of the county in which it is ascertained that such employer owns real estate or personal property. The director shall notify the employer by mail of the lien. The absence of proof that the notice was sent does not affect the validity of the lien. Such lien shall not be valid as against the claim of any mortgagee, pledgee, purchaser, judgment creditor, or other lienholder of record at the time such notice is filed.
+(D) Any contribution, interest, forfeiture, or fine required to be paid under this chapter by any employer shall, if not paid when due, become a lien upon the real and personal property of such employer. Upon failure of such employer to pay the contributions, interest, forfeiture, or fine required to be paid under this chapter, the director shall file notice of such lien, containing the employer's name and last known address, for which there shall be no charge, in the office of the county recorder of the county in which it is ascertained that such employer owns real estate or personal property. The director shall notify the employer by mail of the lien. The absence of proof that the notice was sent does not affect the validity of the lien. Such lien shall not be valid as against the claim of any mortgagee, pledgee, purchaser, judgment creditor, or other lienholder of record at the time such notice is filed.
 
 If the employer acquires real or personal property after notice of lien is filed, such lien shall not be valid as against the claim of any mortgagee, pledgee, subsequent bona fide purchaser for value, judgment creditor, or other lienholder of record to such after-acquired property, unless the notice of lien is refiled after such property was acquired by the employer and before the competing lien attached to such after-acquired property or before the conveyance to such subsequent bona fide purchaser for value.
 
@@ -828,7 +828,7 @@ Such a notice shall be recorded in the county recorder's official records and in
 
 (H) If the attorney general finds after investigation that any claim for delinquent contributions, interest, forfeitures, or fines owing to the director is uncollectible, in whole or in part, the attorney general shall recommend to the director the cancellation of such claim or any part thereof. The director may thereupon effect such cancellation.
 
-Last updated August 7, 2025 at 3:52 PM
+Last updated March 30, 2026 at 11:16 AM
 
 ## § 4141.231. Satisfying employer's deficiency
 

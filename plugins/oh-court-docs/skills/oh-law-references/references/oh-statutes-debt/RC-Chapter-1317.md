@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 1317 — Retail Installment Sales Act (RISA) — installment contracts, repossession notice/cure (auto financing)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-1317
-> **Fetched:** 2026-06-11
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 

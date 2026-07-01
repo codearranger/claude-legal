@@ -1,7 +1,7 @@
 # Ohio Rules of Appellate Procedure (App. R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/appellate/AppellateProcedure.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;
@@ -14,15 +14,15 @@
        Title I APPLICABILITY OF RULES
 
 Rule
-1      Scope of rules
-2      Law and fact appeals abolished
+1    Scope of rules
+2    Law and fact appeals abolished
 
        Title II APPEALS FROM JUDGMENTS AND ORDERS OF COURT OF
        RECORD
 
-3      Appeal as of right-how taken
+3      Appeal of right-how taken
 4      Appeal as of right-when taken
-5      Appeals by leave of court
+5      Appeals by permission of the court in criminal cases
 6      Concurrent jurisdiction in criminal actions
 7      Stay or injunction pending appeal-civil and juvenile actions
 8      Bail and suspension of execution of sentence in criminal cases
@@ -36,7 +36,7 @@ Rule
        Title III GENERAL PROVISIONS
 
 13     Filing and service
-14     Computation and extension of time
+14     Computing, extending, and reducing time
 15     Motions
 16     Briefs
 17     Brief of an amicus curiae
@@ -55,40 +55,43 @@ Rule
 29     Substitution of parties
 
 Rule
-30     Duties of clerks
-31     [Reserved]
-32     [Reserved]
-33     [Reserved]
-34     Appointment of magistrates
-35     [Reserved]
-36     [Reserved]
-37     [Reserved]
-38     [Reserved]
-39     [Reserved]
-40     [Reserved]
-41     Rules of courts of appeals
-42     Title
-43     Effective date
+30       Duties of clerks
+31       [Reserved]
+32       [Reserved]
+33       [Reserved]
+34       Appointment of magistrates
+35       [Reserved]
+36       [Reserved]
+37       [Reserved]
+38       [Reserved]
+39       [Reserved]
+40       [Reserved]
+41       Rules of courts of appeals
+42       Title
+43       Effective date
 
-       APPENDIX OF FORMS
+         APPENDIX OF FORMS
+
+Form 1         Notice of Appeal to a Court of Appeals From a Judgment or Appealable Order
+Form 2         Judgment Entry – Accelerated Calendar
 
                           TITLE I.       APPLICABILITY OF RULES.
 
 RULE 1.         Scope of Rules.
 
-(A)    These rules govern procedure in appeals to courts of appeals from the trial courts of record
-in Ohio.
+(A)     These rules govern procedure in appeals to courts of appeals from the trial courts of record
+        in Ohio.
 
-(B)    Procedure in appeals to courts of appeals from the board of tax appeals shall be as provided
-by law, except that App.R. 13 to 33 shall be applicable to those appeals.
+(B)     Procedure in appeals to courts of appeals from the board of tax appeals shall be as provided
+        by law, except that App.R. 13 to 33 shall be applicable to those appeals.
 
 (C)     Procedures in appeals to courts of appeals from juvenile courts pursuant to section
-2505.073 of the Revised Code shall be as provided by that section, except that these rules govern
-to the extent that the rules do not conflict with that section.
+        2505.073 of the Revised Code shall be as provided by that section, except that these rules
+        govern to the extent that the rules do not conflict with that section.
 
-(D)    “Victim” has the same meaning as provided in Chapter 2930 of the Revised Code. For
-purposes of these rules, the term “victim” includes the “victim’s representative” and “victim’s
-attorney,” as those terms are defined in Chapter 2930 of the Revised Code.
+(D)     “Victim” has the same meaning as provided in Chapter 2930 of the Revised Code. For
+        purposes of these rules, the term “victim” includes the “victim’s representative” and
+        “victim’s attorney,” as those terms are defined in Chapter 2930 of the Revised Code.
 
 Effective Date: July 1, 1971
 Amended: July 1, 1994; July 1, 2025
@@ -109,128 +112,163 @@ Effective Date: July 1, 1971
                    TITLE II. APPEALS FROM JUDGMENTS AND
                          ORDERS OF COURT OF RECORD.
 
-RULE 3.       Appeal as of Right – How Taken.
+RULE 3.      Appeal of Right – How Taken.
 
 (A)   Filing the notice of appeal
 
-      An appeal as of right shall be taken by filing a notice of appeal with the clerk of the trial
-      court within the time allowed by Rule 4. Failure of an appellant to take any step other than
-      the timely filing of a notice of appeal does not affect the validity of the appeal, but is ground
-      only for such action as the court of appeals deems appropriate, which may include dismissal
-      of the appeal. Appeals by leave of court shall be taken in the manner prescribed by Rule
-      5.
+      An appeal of right from a trial court to a court of appeals may be taken only by filing a
+      notice of appeal with the clerk of the trial court within the time allowed by Rule 4. The
+      appellant must attach to the notice of appeal a time-stamped copy of the judgment or order
+      from which the appeal is taken.
+
+      Each court of appeals may also, by local rule, require the filing of a docketing statement
+      with the notice of appeal.
+
+      An Appellant’s failure to take any step other than the timely filing of a notice of appeal
+      does not affect the validity of the appeal, but the court of appeals may take any action that
+      the court considers appropriate, including dismissing the appeal.
+
+      Appeals by permission of the court of appeals may be taken only in the manner prescribed
+      by App.R. 5.
 
 (B)   Joint or consolidated appeals
 
-      If two or more persons are entitled to appeal from a judgment or order of a trial court and
-      their interests are such as to make joinder practicable, they may file a joint notice of appeal,
-      or may join in appeal after filing separate timely notices of appeal, and they may thereafter
-      proceed on appeal as a single appellant. Appeals may be consolidated by order of the court
-      of appeals upon its own motion or upon motion of a party, or by stipulation of the parties
-      to the several appeals.
+      When two or more persons are entitled to appeal from a judgment or order of a trial court,
+      and their interests make joinder practicable, they may file a joint notice of appeal or may
+      join in an appeal after filing separate timely notices of appeal, and they may then proceed
+      on appeal as a single appellant. Appeals may be consolidated by the court of appeals acting
+      on its own or on a motion or stipulation from a party or parties.
 
-(C)   Cross appeal
+(C)   Cross appeals
 
-      (1)     When notice of cross-appeal required
+      (1)    When notice of cross-appeal required
 
-              Whether or not an appellee intends to defend an order on appeal, an appellee who
-              seeks to change the order or, in the event the order is reversed or modified, an
-              interlocutory ruling merged into the order, shall file a notice of cross appeal with
-              the clerk of the trial court, and may also file a courtesy copy of the notice of cross-
-              appeal with the clerk of the appellate court, within the time allowed by App.R. 4.
-              The clerk of the trial court shall process the notice of cross-appeal in the same
-              manner as the notice of appeal.
+             Whether or not an appellee intends to defend an order on appeal, an appellee who
+             seeks to change the order—or, should the order be reversed or modified, seeks to
+             change an interlocutory ruling that would be merged into the order—must file a
+             notice of cross appeal with the clerk of the trial court within the time allowed by
+             App.R. 4. The clerk of the trial court must then process the notice of cross-appeal
+             in the same manner as the notice of appeal.
 
-      (2)     When notice of cross appeal not required; cross-assignment of error never required
+      (2)    When notice of cross appeal not required; cross-assignment of error never required
 
-              A person who intends to defend an order appealed by an appellant on a ground other
-              than that relied on by the trial court but who does not seek to change the order is
-              not required to file a notice of cross-appeal or to raise a cross-assignment of error.
+             A party intending to defend an order appealed by an appellant on a ground other
+             than that relied on by the trial court but who does not seek to change the order is
+             not required to file a notice of cross-appeal or to raise a cross-assignment of error.
 
-(D)   Content of the notice of appeal
+(D)   Contents of the notice of appeal or cross-appeal
 
-      The notice of appeal shall specify the party or parties taking the appeal; shall designate the
-      judgment, order or part thereof appealed from; and shall name the court to which the appeal
-      is taken. The title of the case shall be the same as in the trial court with the designation of
-      the appellant added, as appropriate. Form 1 in the Appendix of Forms is a suggested form
-      of a notice of appeal.
+      The notice of appeal or cross-appeal must (1) specify the party or parties taking the appeal
+      by naming each one in the body of the notice or by using terms such as “all plaintiffs,” “the
+      defendants,” “plaintiffs A, C, and D” or “all defendants except ___;” (2) designate the
+      judgment—or the order or the part of it—from which the appeal is taken; and (3) name the
+      court to which the appeal is taken. The title of the case will stay the same as in the trial
+      court, with the designation of the appellant added, as appropriate. Form 1 in the Appendix
+      of Forms is a suggested form of a notice of appeal.
 
-(E)   Service of the notice of appeal
+(E)   Service of the notice of appeal or cross-appeal
 
-      The clerk of the trial court shall serve notice of the filing of a notice of appeal and, where
-      required by local rule, a docketing statement, by mailing, or by facsimile transmission, a
-      copy to counsel of record of each party other than the appellant, or, if a party is not
-      represented by counsel, to the party at the party's last known address. The clerk shall mail
-      or otherwise forward a copy of the notice of appeal and of the docket entries, together with
-      a copy of all filings by appellant pursuant to App.R. 9(B), to the clerk of the court of appeals
-      named in the notice. The clerk shall note on each copy served the date on which the notice
-      of appeal was filed. Failure of the clerk to serve notice shall not affect the validity of the
-      appeal. Service shall be sufficient notwithstanding the death of a party or a party's counsel.
-      The clerk shall note in the docket the names of the parties served, the date served, and the
-      means of service.
+      The party or parties filing any notice of appeal or cross-appeal must serve that notice in
+      accordance with App.R. 13(D), but, for purposes of this rule, the references to “the clerk”
+      in App.R. 13(D)(5) and App.R. 13(D)(7), refer to the clerk of the trial court. Service is
+      sufficient despite the death of a party or a party’s counsel.
 
-(F)   Amendment of the notice of appeal
+(F)   Duties of the clerk of the trial court and the clerk of the court of appeals when a notice
+      of appeal or cross-appeal is filed
 
-      (1)    When leave required
+      When a notice of appeal or cross-appeal is filed, the trial court clerk must promptly send a
+      copy of that notice and a copy of the docket—together with a copy of all filings by the
+      appellant or cross-appellant under App.R. 9(B)—to the clerk of the court of appeals named
+      in the notice. The clerk of the trial court must note on the copy of the notice of appeal or
+      cross-appeal the date when that notice was filed. Failure of the trial-court clerk to send a
+      copy of the notice to the clerk of the court of appeals does not affect the validity of the
+      appeal or cross appeal.
 
-             A party may amend a notice of appeal without leave if the time to appeal from the
-             order that was the subject of the initial notice of appeal has not yet lapsed under
-             App.R. 4. Thereafter, the court of appeals within its discretion and upon such terms
-             as are just may allow the amendment of a notice of appeal, so long as the
-             amendment does not seek to appeal from a trial court order beyond the time
-             requirements of App.R. 4.
+      When the clerk of the court of appeals receives from the clerk of the trial court a copy of a
+      notice of appeal, the clerk of the court of appeals must assign a case number to the appeal
+      and must enter the case on the docket in accordance with App.R. 11(A). Any notice of
+      cross-appeal in the same case must be docketed under a new case number rather than being
+      assigned the same number as the notice of appeal. The date when the notice of appeal and
+      any cross-appeal was filed with the clerk of the trial court must be noted on the docket of
+      the case in the court of appeals by the clerk of the court of appeals.
+
+      The clerk of the court of appeals must promptly send to the clerk of the trial court a notice
+      informing the trial-court clerk about the assigned case number for any new appeal or cross-
+      appeal from that clerk’s trial court.
+
+      Once any notice of appeal or cross-appeal has been docketed by the clerk of the court of
+      appeals, that clerk must also promptly send to all counsel and to any unrepresented parties
+
+      in the case a copy of the notice of appeal or cross-appeal. Each copy—or a notice
+      accompanying each copy—must indicate the date when the notice of appeal or cross-appeal
+      was filed with the clerk of the trial court as well as the case number that the clerk of the
+      court of appeals has assigned to the appeal or cross-appeal. The clerk of the court of
+      appeals must note on the case docket the date when this step is completed and the names
+      of all counsel or unrepresented parties to whom any copies have been sent.
+
+(G)   Amendment of the notice of appeal or cross-appeal
+
+      (1)    When permission required
+
+             A party may amend a notice of appeal or cross-appeal without seeking permission
+             from the court of appeals if the time to appeal from the order that was the subject
+             of the initial notice of appeal has not yet lapsed under App.R. 4. Thereafter, the
+             court of appeals within its discretion may allow the amendment of a notice of appeal
+             or cross appeal, but no amendment that would allow a party to appeal from a trial
+             court order beyond the time requirements of App.R. 4 is permitted.
 
       (2)    Where filed
 
-             An amended notice of appeal shall be filed in both the trial court and the court of
-             appeals.
+             Any amended notice of appeal or cross-appeal must be filed in both the trial court
+             and the court of appeals.
 
-(G)   Docketing statement
+(H)   Docketing statement for accelerated and expedited appeals
 
-      (1)    If a court of appeals has adopted an accelerated calendar by local rule pursuant to
-      Rule 11.1, the appellant shall file a docketing statement with the Clerk of the trial court
-      with the notice of appeal. (See Form 2, Appendix of Forms.)
+      (1)    If a court of appeals has adopted an accelerated calendar by local rule under App.R.
+             11.1, the appellant must file with the clerk of the trial court a docketing statement
+             as well as the notice of appeal. (See Form 2, Appendix of Forms.)
 
-      The purpose of the docketing statement is to determine whether an appeal will be assigned
-      to the accelerated or the regular calendar.
+             The purpose of the docketing statement is to assist the court in determining whether
+             an appeal should be assigned to the accelerated or the regular calendar.
 
-        A case may be assigned to the accelerated calendar if any of the following apply:
+             A case may be assigned to the accelerated calendar if any of the following apply:
 
-                 (a)    No transcript is required (e.g., summary judgment or judgment on the
-                 pleadings);
+                     (a)    No transcript is required (e.g., summary judgment or judgment on
+                            the pleadings);
 
-                 (b)    The length of the transcript is such that its preparation time will not be a
-                 source of delay;
+                     (b)    The length of the transcript is such that its preparation time will not
+                            be a source of delay;
 
-                 (c)      An agreed statement is submitted in lieu of the record;
+                     (c)    An agreed statement is submitted in lieu of the record;
 
-                 (d)    The record was made in an administrative hearing and filed with the trial
-                 court;
+                     (d)    The record was made in an administrative hearing and filed with the
+                            trial court;
 
-                 (e)    All parties to the appeal approve an assignment of the appeal to the
-                 accelerated calendar; or
+                          (e)     All parties to the appeal approve an assignment of the appeal to the
+                                  accelerated calendar; or
 
-                 (f)      The case has been designated by local rule for the accelerated calendar.
+                          (f)     The case has been designated by local rule for the accelerated
+                                  calendar.
 
-        The court of appeals by local rule may assign a case to the accelerated calendar at any stage
-        of the proceeding. The court of appeals may provide by local rule for an oral hearing before
-        a full panel in order to assist it in determining whether the appeal should be assigned to the
-        accelerated calendar.
+                 The court of appeals by local rule may assign a case to the accelerated calendar at
+                 any stage of the proceeding. The court of appeals may provide by local rule for a
+                 hearing before a full panel to assist it in determining whether the appeal should be
+                 assigned to the accelerated calendar.
 
-        Upon motion of appellant or appellee for a procedural order pursuant to App.R. 15(B) filed
-        within seven days after a case is placed upon the accelerated calendar, a case may be
-        removed for good cause from the accelerated calendar and assigned to the regular calendar.
-        Demonstration of a unique issue of law which will be of substantial precedential value in
-        the determination of similar cases will ordinarily be good cause for transfer to the regular
-        calendar
+                 Upon motion of the appellant or appellee for a procedural order under App.R. 15(B)
+                 filed within seven days after a case is placed on the accelerated calendar, a case
+                 may be removed for good cause from the accelerated calendar and assigned to the
+                 regular calendar. Demonstration of a unique issue of law that will be of substantial
+                 precedential value in the determination of similar cases will ordinarily be good
+                 cause for transfer to the regular calendar
 
-        (2)     If the appeal is expedited under App.R. 11.2, the appellant shall file a docketing
-        statement with the clerk of the trial court with the notice of appeal indicating the category
-        of case under App.R. 11.2 and the need for priority disposition.
+        (2)      If the appeal is expedited under App.R. 11.2, the appellant must file a docketing
+                 statement with the clerk of the trial court with the notice of appeal indicating the
+                 category of case under App.R. 11.2 and the need for priority disposition.
 
 Effective Date: July 1, 1971
 Amended: July 1, 1972; July 1, 1977; July 1, 1982; July 1, 1991; July 1, 1992; July 1, 1994; July
-1, 2013; July 1, 2015; July 1, 2019; July 1, 2020
+1, 2013; July 1, 2015; July 1, 2019; July 1, 2020; July 1, 2026
 
                                    Staff Note (July 1, 2013 Amendment)
 
@@ -242,14 +280,13 @@ cross-assignment of error. See, e.g., Justus v. Allstate Ins. Co., 10th Dist. No
 3913, ¶ 21; Good v. Krohn, 151 Ohio App.3d 832, 2002-Ohio-4001, 786 N.E.2d 480, ¶ 15 (3d Dist.); Zotter
 v. United Servs. Auto. Assn., 11th Dist. No. 94-P-0001, 1994 WL 660838, *2 (Nov. 19, 1994). Other courts,
 by contrast, followed the “well established” rule “that ‘a reviewing court is not authorized to reverse a correct
-
 judgment merely because erroneous reasons were assigned as the basis thereof.’” See, e.g., Schaaf v.
 Schaaf, 9th Dist. No. 05CA0060-M, 2006-Ohio-2983, ¶ 19, quoting State ex rel. Carter v. Schotten, 70 Ohio
 St.3d 89, 92, 637 N.E.2d 306 (1994). The language of the amendment to App.R. 3(C)(2) clarifies that the
 latter view is the correct one and confirms that the requirement of a cross-assignment of error in
 R.C. 2505.22 is abrogated by rule.
 
-          App.R. 3(F) is amended to clarify the procedure for amending a notice of appeal. Amending a
+        App.R. 3(F) is amended to clarify the procedure for amending a notice of appeal. Amending a
 notice of appeal is an efficient mechanism for appealing from a trial court order different from the order
 referenced in the initial notice of appeal without having to file a second notice of appeal and then seeking
 to consolidate the two appellate cases. The amendment clarifies that no leave is required to amend a
@@ -258,6 +295,7 @@ lapsed under App.R. 4; this resolves a perceived ambiguity in the former rule, s
 Leadscope, 10th Dist. No. 08AP-1026, 2010-Ohio-2725, ¶ 22, and is consistent with the general practice
 of permitting amendments during that initial 30-day time frame. See, e.g., State v. West, 2d Dist.
 No. 2000CA56, 2001 WL 43110, at *1 (Jan. 19, 2001). By contrast, leave is required if a party seeks timely
+
 to appeal from a subsequent trial court order after the time to appeal from the originally appealed order has
 expired under App.R. 4; the decision whether to grant leave at that point is discretionary, reflecting the
 general reluctance to permit such amendments, see, e.g., Rickard v. Trumbull Twp. Zoning Bd., 11th Dist.
@@ -270,7 +308,7 @@ courts so that both courts are aware of the scope of the appeal.
 
                                    Staff Note (July 1, 2015 Amendment)
 
-       App.R. 3(G) is amended by adding a new subsection requiring appellants in expedited cases under
+        App.R. 3(G) is amended by adding a new subsection requiring appellants in expedited cases under
 App.R. 11.2 to file a docketing statement with the notice of appeal, in order to alert the appellate court to
 the need for priority disposition.
 
@@ -279,6 +317,28 @@ the need for priority disposition.
        The amendment to App.R. 3(G) is designed to ensure that a party who wishes to challenge the
 assignment of an appeal to the accelerated calendar has adequate notice of the assignment before the
 seven-day deadline for moving to transfer to the regular calendar begins to run.
+
+                                   Staff Note (July 1, 2026 Amendment)
+
+        An amendment to App.R. 3(A) directs appellants to attach to the notice of appeal a time-stamped
+copy of the judgment or order from which the appeal is taken. The change is intended to eliminate any
+uncertainty for the other parties and for the court of appeals about the judgment at issue in the appeal and
+should also help the court of appeals to quickly determine whether the appeal is timely.
+
+        The amendment to App.R. 3(E) is intended to make clear that the party filing a notice of appeal (or
+cross-appeal) is required to serve that notice on all other parties. That service can be accomplished in any
+of the ways spelled out in App.R. 13.
+
+         New language in division (F) includes some verbiage drawn from former division (E), but the
+amendment eliminates former language that directed the trial-court clerk to send a “notice of the filing of
+the notice of appeal” to all parties. Division (F) now spells out the duties of both the trial-court clerk and the
+appeals-court clerk when any notice of appeal or cross-appeal is filed. The language is intended to
+eliminate any uncertainty on the part of the clerks about their duties in those circumstances and is also
+designed to ensure that parties are promptly notified about the case number and filing date of any new
+appeal.
+
+       Other stylistic updates intended to improve the readability of the rule and to bring greater clarity to
+some of its existing provisions have also been made.
 
 RULE 4.      Appeal as of Right – When Taken.
 
@@ -324,12 +384,12 @@ RULE 4.      Appeal as of Right – When Taken.
 
                              (b)     A motion for a new trial under Civ.R. 59;
 
-                             (c)    Objections to a magistrate's decision under Civ.R
-                             53(D)(3)(b) or Juv.R. 40(D)(3)(b);
+                             (c)     Objections to a magistrate's decision under Civ.R
+                                     53(D)(3)(b) or Juv.R. 40(D)(3)(b);
 
-             (d)    A request for findings of fact and conclusions of law under
-             Civ.R. 52, Juv.R. 29(F)(3), Civ.R. 53(D)(3)(a)(ii) or Juv.R.
-             40(D)(3)(a)(ii);
+             (d)     A request for findings of fact and conclusions of law under
+                     Civ.R. 52, Juv.R. 29(F)(3), Civ.R. 53(D)(3)(a)(ii) or Juv.R.
+                     40(D)(3)(a)(ii);
 
              (e)     A motion for attorney fees; or
 
@@ -362,14 +422,14 @@ RULE 4.      Appeal as of Right – When Taken.
 
              (a)     A motion for arrest of judgment under Crim.R. 34;
 
-             (b)    A motion for a new trial under Crim.R. 33 for a reason other
-             than newly discovered evidence; or
+             (b)     A motion for a new trial under Crim.R. 33 for a reason other
+                     than newly discovered evidence; or
 
-             (c)    Objections to a magistrate’s decision under Crim.R.
-             19(D)(3)(b) or Traf.R. 14; or
+             (c)     Objections to a magistrate’s decision under Crim.R.
+                     19(D)(3)(b) or Traf.R. 14; or
 
-             (d)   A request for findings of fact and conclusions of law under
-             Crim.R. 19(d)(3)(a)(ii),
+             (d)     A request for findings of fact and conclusions of law under
+                     Crim.R. 19(d)(3)(a)(ii),
 
       then the time for filing a notice of appeal from the judgment or final order
       in question begins to run as to all parties when the trial court enters an order
@@ -519,101 +579,121 @@ suspend the time to appeal. The current amendment provides that any timely and a
 attorney fees and prejudgment interest suspends the time to appeal, regardless of the legal authority for
 the motion.
 
-RULE 5.       Appeals by Leave of Court in Criminal Cases.
+RULE 5.      Appeals by Permission of the Court in Criminal Cases.
 
-(A)   Motion by defendant for delayed appeal
+(A)   Motion by the defendant for a delayed appeal
 
-      (1)     After the expiration of the thirty day period provided by App.R. 4(A) for the filing
-      of a notice of appeal as of right, an appeal may be taken by a defendant with leave of the
-      court to which the appeal is taken in the following classes of cases:
+      (1)    After the expiration of the 30-day period provided by App.R. 4(A) for the filing of
+             a notice of appeal as of right, an appeal may be taken by a defendant with the
+             permission of the court to which the appeal is taken in the following classes of
+             cases:
 
-              (a)     Criminal proceedings;
+                     (a)     Criminal proceedings;
 
-              (b)     Delinquency proceedings; and
+                     (b)     Delinquency proceedings; and
 
-              (c)     Serious youthful offender proceedings.
+                     (c)     Serious-youthful-offender proceedings.
 
-      (2)     A motion for leave to appeal shall be filed with the court of appeals and shall set
-      forth the reasons for the failure of the appellant to perfect an appeal as of right.
-      Concurrently with the filing of the motion, the movant shall file with the clerk of the trial
-      court a notice of appeal in the form prescribed by App.R. 3 and shall file a copy of the
-      notice of the appeal in the court of appeals. The movant also shall furnish an additional
-      copy of the notice of appeal and a copy of the motion for leave to appeal to the clerk of the
-      court of appeals who shall serve the notice of appeal and the motions upon the prosecuting
-      attorney.
+      (2)    Any motion for permission to appeal must be filed with the clerk of the court of
+             appeals and must explain the reasons for the defendant’s failure to comply with the
+             rules for filing an appeal as of right. The defendant seeking permission to appeal
+             must also serve a copy of the motion on the appropriate municipal prosecutor,
+             county prosecuting attorney, or law director. Concurrently with the filing of the
+             motion, the defendant must file with the clerk of the trial court a notice of appeal in
+             accordance with App.R. 3 and must file a copy of the notice of the appeal in the
+             court of appeals.
 
-(B)   Motion to reopen appellate proceedings
+             The clerk of the court of appeals must send a copy of the motion and the notice of
+             appeal to the appropriate prosecuting attorney.
 
-      If a federal court grants a conditional writ of habeas corpus upon a claim that a defendant’s
-      constitutional rights were violated during state appellate proceedings terminated by a final
-      judgment, a motion filed by the defendant or on behalf of the state to reopen the appellate
-      proceedings may be granted by leave of the court of appeals that entered the judgment.
-      The motion shall be filed with the clerk of the court of appeals within forty-five days after
-      the conditional writ is granted. A certified copy of the conditional writ and any supporting
-      opinion shall be filed with the motion. The clerk shall serve a copy of a defendant’s motion
-      on the prosecuting attorney.
+(B)   Motion by either party to reopen appellate proceedings
 
-(C)   Motion by prosecution for leave to appeal
+      If a federal court grants a conditional writ of habeas corpus on a claim that a defendant’s
+      constitutional rights were violated during state appellate proceedings that were terminated
+      by a final judgment, the defendant or the state can file in the state court of appeals that
+      entered the judgment a motion asking that court to reopen the appellate proceedings. Any
+      such motion must be filed with the clerk of the court of appeals within 45 days after the
+      conditional writ is granted. A certified copy of the conditional writ and any supporting
+      opinion must be filed with the motion. The clerk must send a copy of a defendant’s motion
+      to the prosecuting attorney.
 
-      When leave is sought by the prosecution from the court of appeals to appeal an order of
-      the trial court, a motion for leave to appeal shall be filed with the court of appeals within
-      thirty days from the entry of the order sought to be appealed (or, if that order is not a final
-      order, within thirty days of the final order into which it merges) and shall set forth the errors
-      that the movant claims occurred in the proceedings of the trial court. The motion shall be
-      accompanied by affidavits, or by the parts of the record upon which the movant relies, to
-      show the probability that the errors claimed did in fact occur, and by a brief or
-      memorandum of law in support of the movant's claims. Concurrently with the filing of the
-      motion, the movant shall file with the clerk of the trial court a notice of appeal in the form
-      prescribed by App.R. 3 and file a copy of the notice of appeal in the court of appeals. The
+(C)   Motion by the prosecution for permission to appeal
 
-       movant also shall furnish a copy of the motion and a copy of the notice of appeal to the
-       clerk of the court of appeals who shall serve the notice of appeal and a copy of the motion
-       for leave to appeal upon the attorney for the defendant who, within thirty days from the
-       filing of the motion, may file affidavits, parts of the record, and brief or memorandum of
-       law to refute the claims of the movant.
+      When permission is sought by the prosecution from the court of appeals to appeal an order
+      of the trial court, a motion for permission to appeal must be filed with the clerk of the court
+      of appeals within 30 days from the entry of the order sought to be appealed (or, if that order
+      is not a final order, within 30 days of the final order into which it merges) and must set
+      forth the errors that the movant claims occurred in the proceedings of the trial court. The
+      motion must be accompanied by affidavits, or by the parts of the record upon which the
 
-(D)(1) Motion by defendant for leave to appeal consecutive sentences pursuant to R.C. 2953.08(C)
+      movant relies, to show the probability that the errors claimed did in fact occur, and by a
+      brief or memorandum of law in support of the movant's claims.
 
-              When leave is sought from the court of appeals for leave to appeal consecutive
-              sentences pursuant to R.C. 2953.08(C), a motion for leave to appeal shall be filed
-              with the court of appeals within thirty days from the entry of the order sought to be
-              appealed and shall set forth the reason why the consecutive sentences exceed the
-              maximum prison term allowed. The motion shall be accompanied by a copy of the
-              order stating the sentences imposed and stating the offense of which movant was
-              found guilty or to which movant pled guilty. Concurrently with the filing of the
-              motion, the movant shall file with the clerk of the trial court a notice of appeal in
-              the form prescribed by App.R. 3 and file a copy of the notice of appeal in the court
-              of appeals. The movant also shall furnish a copy of the notice of appeal and a copy
-              of the motion to the clerk of the court of appeals who shall serve the notice of appeal
-              and the motion upon the prosecuting attorney.
+      Concurrently with the filing of the motion, the movant must file with the clerk of the trial
+      court a notice of appeal in accordance with App.R. 3 and must file a copy of the notice of
+      appeal in the court of appeals and must comply with the service requirements in App.R.13.
 
-       (2)    Leave to appeal consecutive sentences incorporated into appeal as of right
+      Within 30 days from the filing of the motion, the defendant or alleged juvenile delinquent
+      may file affidavits, parts of the record, and a brief or memorandum of law in response to
+      the claims of the prosecution.
 
-              When a criminal defendant has filed a notice of appeal pursuant to App.R. 4, the
-              defendant may elect to incorporate in defendant’s initial appellate brief an
-              assignment of error pursuant to R.C. 2953.08(C), and this assignment of error shall
-              be deemed to constitute a timely motion for leave to appeal pursuant to R.C.
-              2953.08(C).
+(D)   Motion by the defendant challenging consecutive sentences
 
-(E)    Determination of the motion
+      (1)    Motion by the defendant for permission to appeal consecutive sentences under R.C.
+             2953.08(C)
 
-       Except when required by the court the motion shall be determined by the court of appeals
-       on the documents filed without formal hearing or oral argument.
+             Any motion from a defendant for permission to appeal consecutive sentences under
+             R.C. 2953.08(C) must be filed with the clerk of the court of appeals within 30 days
+             from the entry of the order sought to be appealed and must set forth the reason why
+             the consecutive sentences exceed the maximum prison term allowed. The motion
+             must be accompanied by a copy of the order stating the sentences imposed and
+             stating the offense of which the defendant was found guilty or to which that person
+             pled guilty. Concurrently with the filing of the motion, the defendant must file with
+             the clerk of the trial court a notice of appeal in accordance with App.R. 3 and must
+             file a copy of the notice of appeal in the court of appeals. The defendant must
+             comply with the service requirements in App.R. 13.
 
-(F)    Order and procedure following determination
+             The clerk of the court of appeals should send a copy of the motion and the notice
+             of appeal to the prosecuting attorney.
 
-       Upon determination of the motion, the court shall journalize its order and the order shall
-       be filed with the clerk of the court of appeals, who shall certify a copy of the order and
-       mail or otherwise forward the copy to the clerk of the trial court. If the motion for leave to
-       appeal is overruled, except as to motions for leave to appeal filed by the prosecution, the
-       clerk of the trial court shall collect the costs pertaining to the motion, in both the court of
-       appeals and the trial court, from the movant. If the motion is sustained and leave to appeal
-       is granted, the further procedure shall be the same as for appeals as of right in criminal
-       cases, except as otherwise specifically provided in these rules.
+      (2)    Permission to appeal consecutive sentences incorporated into appeal as of right
+
+             When a criminal defendant has filed a notice of appeal under App.R. 4, the
+             defendant may elect to incorporate in the defendant’s initial appellate brief an
+             assignment of error under to R.C. 2953.08(C), and this assignment of error will be
+             treated as a timely motion for permission to appeal under R.C. 2953.08(C).
+
+(E)   Determination of the motion
+
+      Unless the court orders otherwise, a decision on any motion filed under this rule will be
+      made by the court without oral argument.
+
+(F)   The clerk’s duties when a Motion for Permission to Appeal is filed
+
+      When any motion is filed with the clerk of the court of appeals under division (A), (C), or
+      (D) of this rule, the clerk of the court of appeals must assign a case number to it and must
+
+         enter the case on the docket in accordance with App.R. 11(A). The clerk of the court of
+         appeals must also send to the clerk of the trial court a notice about both the docketing of
+         the motion and its assigned case number.
+
+(G)      Order and procedure following determination
+
+         A copy of the court’s decision on any motion for permission under this rule must be send
+         by the clerk of the court of appeals to the clerk of the trial court.
+
+         If a defendant’s motion for permission to appeal is denied the clerk of the trial court must
+         collect the costs pertaining to the motion, in both the court of appeals and the trial court,
+         from the defendant.
+
+         If any motion for permission to appeal is granted, the clerk of the trial court must, in
+         accordance with App.R. 10, transmit the record to the clerk of the court of appeals. All
+         other procedures will be the same as for appeals of right in criminal cases, except as
+         otherwise specifically provided in these rules.
 
 Effective Date: July 1, 1971
-
-Amended: July 1, 1988; July 1, 1992; July 1, 1994; July 1, 1996; July 1, 2003; July 1, 2019
+Amended: July 1, 1988; July 1, 1992; July 1, 1994; July 1, 1996; July 1, 2003; July 1, 2019, July
+1, 2026
                                   Staff Note (July 1, 2003 Amendment)
 
 Rule 5           Appeals by Leave of Court
@@ -648,77 +728,93 @@ and a “judgment and order,” instead referring solely to an “order.” Thes
 conformity with the language of App.R. 4(A), which was similarly amended in 2014. As noted in the July 1,
 2014 Staff Note to App.R. 4, these changes are not substantive.
 
-RULE 6.        Concurrent Jurisdiction in Criminal Actions.
+                                  Staff Note (July 1, 2026 Amendment)
 
-(A)     Whenever a trial court and an appellate court are exercising concurrent jurisdiction to
-review a judgment of conviction, and the trial court files a written determination that grounds exist
-for granting a petition for post-conviction relief, the trial court shall notify the parties and the
-appellate court of that determination. On such notification, or pursuant to a party’s motion in the
-court of appeals, the appellate court may remand the case to the trial court.
+        The amendment adopts language now used in Rule 5 of the Federal Rules of Appellate Procedure
+by replacing the former term “leave of court” with the new phrase “permission of the court.”
 
-(B)     When an appellate court reverses, vacates, or modifies a judgment of conviction on direct
-appeal, the trial court may dismiss a petition for post-conviction relief to the extent that it is moot.
-The petition shall be reinstated pursuant to motion if the appellate court’s judgment on direct
-appeal is reversed, vacated, or modified in such a manner that the petition is no longer moot.
+        The change to division (A)(2) clarifies that a criminal defendant seeking permission to file a delayed
+appeal is required to serve a copy of that request on the appropriate prosecutor.
 
-(C)     Whenever a trial court’s grant of post-conviction relief is reversed, vacated, or modified in
-such a manner that the direct appeal is no longer moot, the direct appeal shall be reinstated pursuant
-to statute. Upon knowledge that a statutory reinstatement of the appeal has occurred, the court of
-appeals shall enter an order journalizing the reinstatement and providing for resumption of the
-appellate process.
+        New language in division (F) spells out what has presumably been the unwritten practice of
+appellate-court clerks when requests for permissive appeals have been filed under this rule.
 
-(D)     Whenever a direct appeal is pending concurrently with a petition for post-conviction relief
-or a review of the petition in any court, each party shall include, in any brief, memorandum, or
-motion filed, a list of case numbers of all actions and appeals, and the court in which they are
-pending, regarding the same judgment of conviction.
+       Other stylistic updates intended to improve the readability of the rule and to bring greater clarity to
+some of its existing provisions have also been made.
+
+RULE 6.       Concurrent Jurisdiction in Criminal Actions.
+
+(A)    Whenever a trial court and an appellate court are exercising concurrent jurisdiction to
+       review a judgment of conviction, and the trial court files a written determination that
+       grounds exist for granting a petition for post-conviction relief, the trial court shall notify
+       the parties and the appellate court of that determination. On such notification, or pursuant
+       to a party’s motion in the court of appeals, the appellate court may remand the case to the
+       trial court.
+
+(B)    When an appellate court reverses, vacates, or modifies a judgment of conviction on direct
+       appeal, the trial court may dismiss a petition for post-conviction relief to the extent that it
+       is moot. The petition shall be reinstated pursuant to motion if the appellate court’s
+       judgment on direct appeal is reversed, vacated, or modified in such a manner that the
+       petition is no longer moot.
+
+(C)    Whenever a trial court’s grant of post-conviction relief is reversed, vacated, or modified in
+       such a manner that the direct appeal is no longer moot, the direct appeal shall be reinstated
+       pursuant to statute. Upon knowledge that a statutory reinstatement of the appeal has
+       occurred, the court of appeals shall enter an order journalizing the reinstatement and
+       providing for resumption of the appellate process.
+
+(D)    Whenever a direct appeal is pending concurrently with a petition for post-conviction relief
+       or a review of the petition in any court, each party shall include, in any brief, memorandum,
+       or motion filed, a list of case numbers of all actions and appeals, and the court in which
+       they are pending, regarding the same judgment of conviction.
 
 Effective Date: July 1, 1997
 
-RULE 7.       Stay or Injunction Pending Appeal--Civil and Juvenile Actions.
+RULE 7.      Stay or Injunction Pending Appeal--Civil and Juvenile Actions.
 
-(A)    Stay must ordinarily be sought in the first instance in trial court; motion for stay in
-court of appeals
+(A)   Stay must ordinarily be sought in the first instance in trial court; motion for stay in
+      court of appeals
 
-       Application for a stay of the judgment or order of a trial court pending appeal, or for the
-       determination of the amount of and the approval of a supersedeas bond, must ordinarily be
-       made in the first instance in the trial court. A motion for such relief or for an order
-       suspending, modifying, restoring or granting an injunction during the pendency of an
-       appeal may be made to the court of appeals or to a judge thereof, but, except in cases of
-       injunction pending appeal, the motion shall show that application to the trial court for the
-       relief sought is not practicable, or that the trial court has, by journal entry, denied an
-       application or failed to afford the relief which the applicant requested. The motion shall
-       also show the reasons for the relief requested and the facts relied upon, and if the facts are
-       subject to dispute the motion shall be supported by affidavits or other sworn statements or
-       copies thereof. With the motion shall be filed such parts of the record as are relevant and
-       as are reasonably available at the time the motion is filed. Reasonable notice of the motion
-       and the intention to apply to the court shall be given by the movant to all parties. The
-       motion shall be filed with the clerk of the court of appeals and normally will be considered
-       by at least two judges of the court, but in exceptional cases where the attendance of two
-       judges of the court would be impracticable due to the requirements of time, the application
-       may be made to and considered by a single judge of the court on reasonable notice to the
-       adverse party, provided, however, that when an injunction is appealed from it shall be
-       suspended only by order of at least two of the judges of the court of appeals, on reasonable
-       notice to the adverse party.
+      Application for a stay of the judgment or order of a trial court pending appeal, or for the
+      determination of the amount of and the approval of a supersedeas bond, must ordinarily be
+      made in the first instance in the trial court. A motion for such relief or for an order
+      suspending, modifying, restoring or granting an injunction during the pendency of an
+      appeal may be made to the court of appeals or to a judge thereof, but, except in cases of
+      injunction pending appeal, the motion shall show that application to the trial court for the
+      relief sought is not practicable, or that the trial court has, by journal entry, denied an
+      application or failed to afford the relief which the applicant requested. The motion shall
+      also show the reasons for the relief requested and the facts relied upon, and if the facts are
+      subject to dispute the motion shall be supported by affidavits or other sworn statements or
+      copies thereof. With the motion shall be filed such parts of the record as are relevant and
+      as are reasonably available at the time the motion is filed. Reasonable notice of the motion
+      and the intention to apply to the court shall be given by the movant to all parties. The
+      motion shall be filed with the clerk of the court of appeals and normally will be considered
+      by at least two judges of the court, but in exceptional cases where the attendance of two
+      judges of the court would be impracticable due to the requirements of time, the application
+      may be made to and considered by a single judge of the court on reasonable notice to the
+      adverse party, provided, however, that when an injunction is appealed from it shall be
+      suspended only by order of at least two of the judges of the court of appeals, on reasonable
+      notice to the adverse party.
 
-(B)    Stay may be conditioned upon giving of bond; proceedings against sureties
+(B)   Stay may be conditioned upon giving of bond; proceedings against sureties
 
-       Relief available in the court of appeals under this rule may be conditioned upon the filing
-       of a bond or other appropriate security in the trial court. If security is given in the form of
-       a bond or stipulation or other undertaking with one or more sureties, each surety submits
-       himself or herself to the jurisdiction of the trial court and irrevocably appoints the clerk of
-       the trial court as the surety’s agent upon whom any process affecting the surety’s liability
-       on the bond or undertaking may be served. Subject to the limits of its monetary jurisdiction,
-       this liability may be enforced on motion in the trial court without the necessity of an
-       independent action. The motion and such notice of the motion as the trial court prescribes
-       may be served on the clerk of the trial court, who shall forthwith mail copies to the sureties
-       if their addresses are known.
+      Relief available in the court of appeals under this rule may be conditioned upon the filing
+      of a bond or other appropriate security in the trial court. If security is given in the form of
+      a bond or stipulation or other undertaking with one or more sureties, each surety submits
+      himself or herself to the jurisdiction of the trial court and irrevocably appoints the clerk of
+      the trial court as the surety’s agent upon whom any process affecting the surety’s liability
+      on the bond or undertaking may be served. Subject to the limits of its monetary jurisdiction,
+      this liability may be enforced on motion in the trial court without the necessity of an
+      independent action. The motion and such notice of the motion as the trial court prescribes
+      may be served on the clerk of the trial court, who shall forthwith mail copies to the sureties
+      if their addresses are known.
 
-(C)    Stay in juvenile actions
+(C)   Stay in juvenile actions
 
-       No order, judgment, or decree of a juvenile court, concerning a dependent, neglected,
-       unruly, or delinquent child, shall be stayed upon appeal, unless suitable provision is made
-       for the maintenance, care, and custody of the dependent, neglected, unruly, or delinquent
-       child pending the appeal.
+      No order, judgment, or decree of a juvenile court, concerning a dependent, neglected,
+      unruly, or delinquent child, shall be stayed upon appeal, unless suitable provision is made
+      for the maintenance, care, and custody of the dependent, neglected, unruly, or delinquent
+      child pending the appeal.
 
 Effective Date: July 1, 1971
 Amended: July 1, 1973; July 1, 2001
@@ -748,8 +844,8 @@ RULE 8.      Bail and Suspension of Execution of Sentence in Criminal Cases.
       criminal action to bail and to suspend the execution of his sentence during the pendency of
       his appeal is as prescribed by law.
 
-(B)  Release on bail and suspension of execution of sentence pending appeal from a
-judgment of conviction
+(B)   Release on bail and suspension of execution of sentence pending appeal from a
+      judgment of conviction
 
       Application for release on bail and for suspension of execution of sentence after a judgment
       of conviction shall be made in the first instance in the trial court. Thereafter, if such
@@ -763,187 +859,198 @@ judgment of conviction
 Effective Date: July 1, 1971
 Amended: July 1, 1975; July 1, 2025
 
-RULE 9.        The Record on Appeal.
+RULE 9.      The Record on Appeal.
 
-(A)    Composition of the record on appeal; recording of proceedings
+(A)   Composition of the record on appeal; recording of proceedings
 
-       (1)     The original papers and exhibits thereto filed in the trial court, the transcript of
-       proceedings, if any, including exhibits, and a certified copy of the docket and journal
-       entries prepared by the clerk of the trial court shall constitute the record on appeal in all
-       cases.
+      (1)    The original papers and exhibits thereto filed in the trial court, the transcript of
+             proceedings, if any, including exhibits, and a certified copy of the docket and
+             journal entries prepared by the clerk of the trial court shall constitute the record on
+             appeal in all cases.
 
-       (2)     The trial court shall ensure that all proceedings of record are recorded by a reliable
-       method, which may include a stenographic/shorthand reporter, audio-recording device,
-       and/or video-recording device. The selection of the method in each case is in the sound
-       discretion of the trial court, except that in all capital cases the proceedings shall be recorded
-       by a stenographic/shorthand reporter in addition to any other recording device the trial
-       court wishes to employ.
+      (2)    The trial court shall ensure that all proceedings of record are recorded by a reliable
+             method, which may include a stenographic/shorthand reporter, audio-recording
+             device, and/or video-recording device. The selection of the method in each case is
+             in the sound discretion of the trial court, except that in all capital cases the
+             proceedings shall be recorded by a stenographic/shorthand reporter in addition to
+             any other recording device the trial court wishes to employ.
 
-(B)    The transcript of proceedings; discretion of trial court to select transcriber; duty of
-appellant to order; notice to appellee if partial transcript is ordered
+(B)   The transcript of proceedings; discretion of trial court to select transcriber; duty of
+      appellant to order; notice to appellee if partial transcript is ordered
 
-       (1)     Except as provided in App.R. 11.2(B)(3)(b), it is the obligation of the appellant to
-       ensure that the proceedings the appellant considers necessary for inclusion in the record,
-       however those proceedings were recorded, are transcribed in a form that meets the
-       specifications of App.R. 9(B)(6).
+      (1)    Except as provided in App.R. 11.2(B)(3)(b), it is the obligation of the appellant to
+             ensure that the proceedings the appellant considers necessary for inclusion in the
+             record, however those proceedings were recorded, are transcribed in a form that
+             meets the specifications of App.R. 9(B)(6).
 
-       (2)     Any stenographic/shorthand reporter selected by the trial court to record the
-       proceedings may also serve as the official transcriber of those proceedings without prior
-       trial court approval. Otherwise, the transcriber of the proceedings must be approved by the
-       trial court. A party may move to appoint a particular transcriber or the trial court may
-       appoint a transcriber sua sponte; in either case, the selection of the transcriber is within the
-       sound discretion of the trial court, so long as the trial court has a reasonable basis for
-       determining that the transcriber has the necessary qualifications and training to produce a
-       reliable transcript that conforms to the requirements of App.R. 9(B)(6).
+      (2)    Any stenographic/shorthand reporter selected by the trial court to record the
+             proceedings may also serve as the official transcriber of those proceedings without
+             prior trial court approval. Otherwise, the transcriber of the proceedings must be
+             approved by the trial court. A party may move to appoint a particular transcriber
+             or the trial court may appoint a transcriber sua sponte; in either case, the selection
+             of the transcriber is within the sound discretion of the trial court, so long as the trial
+             court has a reasonable basis for determining that the transcriber has the necessary
+             qualifications and training to produce a reliable transcript that conforms to the
+             requirements of App.R. 9(B)(6).
 
-       (3)     The appellant shall order the transcript in writing and shall file a copy of the
-       transcript order with the clerk of the trial court.
+      (3)    The appellant shall order the transcript in writing and shall file a copy of the
+             transcript order with the clerk of the trial court.
 
-       (4)     If no recording was made, or when a recording was made but is no longer available
-       for transcription, App.R. 9(C) or 9(D) may be utilized. If the appellant intends to present
-       an assignment of error on appeal that a finding or conclusion is unsupported by the
-       evidence or is contrary to the weight of the evidence, the appellant shall include in the
-       record a transcript of proceedings that includes all evidence relevant to the findings or
-       conclusion.
+      (4)    If no recording was made, or when a recording was made but is no longer available
+             for transcription, App.R. 9(C) or 9(D) may be utilized. If the appellant intends to
+             present an assignment of error on appeal that a finding or conclusion is unsupported
+             by the evidence or is contrary to the weight of the evidence, the appellant shall
+             include in the record a transcript of proceedings that includes all evidence relevant
+             to the findings or conclusion.
 
-(5)    Unless the entire transcript of proceedings is to be included in the record, the
-appellant shall file with the notice of appeal a statement, as follows:
+(5)   Unless the entire transcript of proceedings is to be included in the record, the
+      appellant shall file with the notice of appeal a statement, as follows:
 
-       (a)     If the proceedings were recorded by a stenographic/shorthand reporter, the
-       statement shall list the assignments of error the appellant intends to present on the
-       appeal and shall either describe the parts of the transcript that the appellant intends
-       to include in the record or shall indicate that the appellant believes that no transcript
-       is necessary.
+             (a)     If the proceedings were recorded by a stenographic/shorthand
+                     reporter, the statement shall list the assignments of error the
+                     appellant intends to present on the appeal and shall either describe
+                     the parts of the transcript that the appellant intends to include in the
+                     record or shall indicate that the appellant believes that no transcript
+                     is necessary.
 
-       (b)     If the proceedings were not recorded by any means, or if the proceedings
-       were recorded by non-stenographic means but the recording is no longer available
-       for transcription, or if the stenographic record has become unavailable, then the
-       statement shall list the assignments of error the appellant intends to present on
-       appeal and shall indicate that a statement under App.R. 9(C) or 9(D) will be
-       submitted.
+             (b)     If the proceedings were not recorded by any means, or if the
+                     proceedings were recorded by non-stenographic means but the
+                     recording is no longer available for transcription, or if the
+                     stenographic record has become unavailable, then the statement
+                     shall list the assignments of error the appellant intends to present on
+                     appeal and shall indicate that a statement under App.R. 9(C) or 9(D)
+                     will be submitted.
 
-The appellant shall file this statement with the clerk of the trial court and serve the
-statement on the appellee.
+      The appellant shall file this statement with the clerk of the trial court and serve the
+      statement on the appellee.
 
-If the appellee considers a transcript of other parts of the proceedings necessary, the
-appellee, within ten days after the service of the statement of the appellant, shall file and
-serve on the appellant a designation of additional parts to be included. The clerk of the
-trial court shall forward a copy of this designation to the clerk of the court of appeals.
+      If the appellee considers a transcript of other parts of the proceedings necessary,
+      the appellee, within ten days after the service of the statement of the appellant, shall
+      file and serve on the appellant a designation of additional parts to be included. The
+      clerk of the trial court shall forward a copy of this designation to the clerk of the
+      court of appeals.
 
-If the appellant refuses or fails, within ten days after service on the appellant of appellee's
-designation, to order transcription of the additional parts, the appellee, within five days
-thereafter, shall either order the parts in writing from the reporter or apply to the court of
-appeals for an order requiring the appellant to do so. At the time of ordering, the party
-ordering the transcript of proceedings shall arrange for the payment to the transcriber of
-the cost of the transcript of proceedings.
+      If the appellant refuses or fails, within ten days after service on the appellant of
+      appellee's designation, to order transcription of the additional parts, the appellee,
+      within five days thereafter, shall either order the parts in writing from the reporter
+      or apply to the court of appeals for an order requiring the appellant to do so. At the
+      time of ordering, the party ordering the transcript of proceedings shall arrange for
+      the payment to the transcriber of the cost of the transcript of proceedings.
 
-(6)    A transcript of proceedings under this rule shall be in the following form:
+(6)   A transcript of proceedings under this rule shall be in the following form:
 
-       (a)    The transcript of proceedings shall include a front and back cover; the front
-       cover shall bear the title and number of the case and the name of the court in which
-       the proceedings occurred;
+             (a)     The transcript of proceedings shall include a front and back cover;
+                     the front cover shall bear the title and number of the case and the
+                     name of the court in which the proceedings occurred;
 
-       (b)     The transcript of proceedings shall be firmly bound on the left side;
+             (b)     The transcript of proceedings shall be firmly bound on the left side;
 
-       (c)    The first page inside the front cover shall set forth the nature of the
-       proceedings, the date or dates of the proceedings, and the judge or judges who
-       presided;
+             (c)     The first page inside the front cover shall set forth the nature of the
+                     proceedings, the date or dates of the proceedings, and the judge or
+                     judges who presided;
 
-       (d)    The transcript of proceedings shall be prepared on white paper eight and
-       one-half inches by eleven inches in size with the lines of each page numbered and
-       the pages sequentially numbered;
+             (d)    The transcript of proceedings shall be prepared on white paper eight
+                    and one-half inches by eleven inches in size with the lines of each
+                    page numbered and the pages sequentially numbered;
 
-             (e)    An index of witnesses shall be included in the front of the transcript of
-             proceedings and shall contain page and line references to direct, cross, re-direct,
-             and re-cross examination;
+             (e)    An index of witnesses shall be included in the front of the transcript
+                    of proceedings and shall contain page and line references to direct,
+                    cross, re-direct, and re-cross examination;
 
-             (f)     An index to exhibits, whether admitted or rejected, briefly identifying each
-             exhibit, shall be included following the index to witnesses reflecting the page and
-             line references where the exhibit was identified and offered into evidence, was
-             admitted or rejected, and if any objection was interposed;
+             (f)    An index to exhibits, whether admitted or rejected, briefly
+                    identifying each exhibit, shall be included following the index to
+                    witnesses reflecting the page and line references where the exhibit
+                    was identified and offered into evidence, was admitted or rejected,
+                    and if any objection was interposed;
 
-             (g)     Exhibits such as papers, maps, photographs, and similar items that were
-             admitted shall be firmly attached, either directly or in an envelope to the inside rear
-             cover, except as to exhibits whose size or bulk makes attachment impractical;
-             documentary exhibits offered at trial whose admission was denied shall be included
-             in a separate envelope with a notation that they were not admitted and also attached
-             to the inside rear cover unless attachment is impractical;
+             (g)    Exhibits such as papers, maps, photographs, and similar items that
+                    were admitted shall be firmly attached, either directly or in an
+                    envelope to the inside rear cover, except as to exhibits whose size or
+                    bulk makes attachment impractical; documentary exhibits offered at
+                    trial whose admission was denied shall be included in a separate
+                    envelope with a notation that they were not admitted and also
+                    attached to the inside rear cover unless attachment is impractical;
 
-             (h)     No volume of a transcript of proceedings shall exceed two hundred and fifty
-             pages in length, except it may be enlarged to three hundred pages, if necessary, to
-             complete a part of the voir dire, opening statements, closing arguments, or jury
-             instructions; when it is necessary to prepare more than one volume, each volume
-             shall contain the number and name of the case and be sequentially numbered, and
-             the separate volumes shall be approximately equal in length;
+             (h)    No volume of a transcript of proceedings shall exceed two hundred
+                    and fifty pages in length, except it may be enlarged to three hundred
+                    pages, if necessary, to complete a part of the voir dire, opening
+                    statements, closing arguments, or jury instructions; when it is
+                    necessary to prepare more than one volume, each volume shall
+                    contain the number and name of the case and be sequentially
+                    numbered, and the separate volumes shall be approximately equal
+                    in length;
 
-             (i)    An electronic copy of the written transcript of proceedings should be
-             included if it is available;
+             (i)    An electronic copy of the written transcript of proceedings should
+                    be included if it is available;
 
-             (j)     The transcriber shall certify the transcript of proceedings as correct and shall
-             state whether it is a complete or partial transcript of proceedings, and, if partial,
-             indicate the parts included and the parts excluded.
+             (j)    The transcriber shall certify the transcript of proceedings as correct
+                    and shall state whether it is a complete or partial transcript of
+                    proceedings, and, if partial, indicate the parts included and the parts
+                    excluded.
 
-      (7)      The record is complete for the purposes of appeal when the last part of the record
+(7)   The record is complete for the purposes of appeal when the last part of the record
       is filed with the clerk of the trial court under App.R. 10(A).
 
-(C)    Statement of the evidence or proceedings when no recording was made, when the
-transcript of proceedings is unavailable, or when a recording was made but is no longer
-available for transcription
+(C)   Statement of the evidence or proceedings when no recording was made, when the
+      transcript of proceedings is unavailable, or when a recording was made but is no
+      longer available for transcription
 
-      (1)     If no recording of the proceedings was made, if a transcript is unavailable, or if a
-      recording was made but is no longer available for transcription, the appellant may prepare
-      a statement of the evidence or proceedings from the best available means, including the
-      appellant's recollection. The statement shall be served on the appellee no later than twenty
-      days prior to the time for transmission of the record pursuant to App.R. 10 and the appellee
-      may serve on the appellant objections or propose amendments to the statement within ten
-      days after service of the appellant's statement; these time periods may be extended by the
-      court of appeals for good cause. The statement and any objections or proposed
+      (1)   If no recording of the proceedings was made, if a transcript is unavailable, or if a
+            recording was made but is no longer available for transcription, the appellant may
+            prepare a statement of the evidence or proceedings from the best available means,
+            including the appellant's recollection. The statement shall be served on the appellee
+            no later than twenty days prior to the time for transmission of the record pursuant
+            to App.R. 10 and the appellee may serve on the appellant objections or propose
+            amendments to the statement within ten days after service of the appellant's
+            statement; these time periods may be extended by the court of appeals for good
+            cause. The statement and any objections or proposed amendments shall be
+            forthwith submitted to the trial court for settlement and approval. The trial court
+            shall act prior to the time for transmission of the record pursuant to App.R. 10, and,
+            as settled and approved, the statement shall be included by the clerk of the trial
+            court in the record on appeal.
 
-       amendments shall be forthwith submitted to the trial court for settlement and approval. The
-       trial court shall act prior to the time for transmission of the record pursuant to App.R. 10,
-       and, as settled and approved, the statement shall be included by the clerk of the trial court
-       in the record on appeal.
+      (2)   In cases initially heard in the trial court by a magistrate, a party may use a statement
+            under this division in lieu of a transcript if the error assigned on appeal relates solely
+            to a legal conclusion. If any part of the error assigned on appeal relates to a factual
+            finding, the record on appeal shall include a transcript or affidavit previously filed
+            with the trial court as set forth in Civ.R. 53(D)(3)(b)(iii), Juv.R. 40(D)(3)(b)(iii),
+            and Crim.R. 19(D)(3)(b)(iii).
 
-       (2)      In cases initially heard in the trial court by a magistrate, a party may use a statement
-       under this division in lieu of a transcript if the error assigned on appeal relates solely to a
-       legal conclusion. If any part of the error assigned on appeal relates to a factual finding, the
-       record on appeal shall include a transcript or affidavit previously filed with the trial court
-       as set forth in Civ.R. 53(D)(3)(b)(iii), Juv.R. 40(D)(3)(b)(iii), and Crim.R. 19(D)(3)(b)(iii).
+(D)   Agreed statement as the record on appeal
 
-(D)    Agreed statement as the record on appeal
+      (1)   In lieu of the record on appeal as defined in division (A) of this rule, the parties, no
+            later than ten days prior to the time for transmission of the record under App.R. 10,
+            may prepare and sign a statement of the case showing how the issues raised in the
+            appeal arose and were decided in the trial court and setting forth only so many of
+            the facts averred and proved or sought to be proved as are essential to a decision of
+            the issues presented. If the statement conforms to the truth, it, together with
+            additions as the trial court may consider necessary to present fully the issues raised
+            in the appeal, shall be approved by the trial court prior to the time for transmission
+            of the record under App.R. 10 and shall then be certified to the court of appeals as
+            the record on appeal and transmitted to the court of appeals by the clerk of the trial
+            court within the time provided by App.R. 10.
 
-       (1)     In lieu of the record on appeal as defined in division (A) of this rule, the parties, no
-       later than ten days prior to the time for transmission of the record under App.R. 10, may
-       prepare and sign a statement of the case showing how the issues raised in the appeal arose
-       and were decided in the trial court and setting forth only so many of the facts averred and
-       proved or sought to be proved as are essential to a decision of the issues presented. If the
-       statement conforms to the truth, it, together with additions as the trial court may consider
-       necessary to present fully the issues raised in the appeal, shall be approved by the trial court
-       prior to the time for transmission of the record under App.R. 10 and shall then be certified
-       to the court of appeals as the record on appeal and transmitted to the court of appeals by
-       the clerk of the trial court within the time provided by App.R. 10.
+      (2)   In cases initially heard in the trial court by a magistrate, a party may use a statement
+            under this division in lieu of a transcript if the error assigned on appeal relates to a
+            legal conclusion. If the error assigned on appeal relates to a factual finding, the
+            record on appeal shall include a transcript or affidavit previously filed with the trial
+            court as set forth in Civ.R. 53(D)(3)(b)(iii), Juv.R. 40(D)(3)(b)(iii), and Crim.R.
+            19(D)(3)(b)(iii).
 
-       (2)     In cases initially heard in the trial court by a magistrate, a party may use a statement
-       under this division in lieu of a transcript if the error assigned on appeal relates to a legal
-       conclusion. If the error assigned on appeal relates to a factual finding, the record on appeal
-       shall include a transcript or affidavit previously filed with the trial court as set forth in
-       Civ.R. 53(D)(3)(b)(iii), Juv.R. 40(D)(3)(b)(iii), and Crim.R. 19(D)(3)(b)(iii).
+(E)     Correction or modification of the record
 
-(E)    Correction or modification of the record
-
-       If any difference arises as to whether the record truly discloses what occurred in the trial
-       court, the difference shall be submitted to and settled by the trial court and the record made
-       to conform to the truth. If anything material to either party is omitted from the record by
-       error or accident or is misstated, the parties by stipulation, or the trial court, either before
-       or after the record is transmitted to the court of appeals, or the court of appeals, on proper
-       suggestion or of its own initiative, may direct that omission or misstatement be corrected,
-       and if necessary that a supplemental record be certified, filed, and transmitted. All other
-       questions as to the form and content of the record shall be presented to the court of appeals.
+        If any difference arises as to whether the record truly discloses what occurred in the trial
+        court, the difference shall be submitted to and settled by the trial court and the record made
+        to conform to the truth. If anything material to either party is omitted from the record by
+        error or accident or is misstated, the parties by stipulation, or the trial court, either before
+        or after the record is transmitted to the court of appeals, or the court of appeals, on proper
+        suggestion or of its own initiative, may direct that omission or misstatement be corrected,
+        and if necessary that a supplemental record be certified, filed, and transmitted. All other
+        questions as to the form and content of the record shall be presented to the court of appeals.
 
 Effective Date: July 1, 1971
 Amended: July 1, 1977; July 1, 1978; July 1, 1988; July 1, 1992; July 1, 2011; July 1, 2013; July
 1, 2014; July 1, 2015
-
                                     Staff Note (July 1, 2011 Amendment)
 
          The amendments to App.R. 9 are designed to strike a balance between the trial court’s autonomy
@@ -982,12 +1089,13 @@ Dist. No. 25840, 2011-Ohio-6598, ¶ 9-10; Swartz v. Swartz, 9th Dist. No. 11CA00
 ¶ 10. But appellants nevertheless continue to attempt to use such statements in these circumstances,
 suggesting a need for more explicit guidance in the rule. On the other hand, the absence of a transcript or
 affidavit at the trial court level should not preclude appellate review of a legal determination, so long as the
+
 appellant complied with the objection requirements of the applicable magistrate rule. If there is a need for
 a record of what occurred at a hearing or trial, a statement under App.R. 9(C) or App.R. 9(D) is an
 acceptable record in an appeal in a case originally tried to a magistrate if the appellant does not intend to
 challenge factual findings and has properly objected below.
 
-                                    Staff Note (July 1, 2014 Amendment)
+                                   Staff Note (July 1, 2014 Amendment)
 
           App.R. 9(B)(1) is amended to clarify that the appellant’s duty is to make reasonable arrangements
 for the transcription of recorded proceedings and that the appellant does not have the ability, and thus does
@@ -1001,7 +1109,7 @@ of the appellant’s making. Cf. In re Efford, 8th Dist. No. 77747, 2000 WL 1514
 (“Appellant has the duty to ensure that the record or any portions thereof that are necessary to determine
 the appeal are filed with the reviewing court.”).
 
-                                 Staff Note (July 1, 2015 Amendment)
+                                   Staff Note (July 1, 2015 Amendment)
 
         App.R. 9(B)(1) is amended to recognize that in expedited abortion-related appeals from juvenile
 courts, there is no requirement of a written transcript if there is an audio recording of the trial court
@@ -1048,31 +1156,34 @@ RULE 10.     Transmission of the Record.
       transmission to the clerk of the court of appeals, under any of the following circumstances:
 
              (1)     When the transcript of proceedings is filed with the clerk of the trial court
-             if the appellant has ordered one.
+                     if the appellant has ordered one.
 
-             (2)      When a statement of the evidence or proceedings, pursuant to App.R. 9(C),
-             is settled and approved by the trial court, and filed with the clerk of the trial court.
+             (2)     When a statement of the evidence or proceedings, pursuant to App.R. 9(C),
+                     is settled and approved by the trial court, and filed with the clerk of the trial
+                     court.
 
-              (3)   When an agreed statement in lieu of the record, pursuant to Rule 9(D), is
-              approved by the trial court, and filed with the clerk of the trial court.
+             (3)     When an agreed statement in lieu of the record, pursuant to Rule 9(D), is
+                     approved by the trial court, and filed with the clerk of the trial court.
 
-              (4)     Where appellant, pursuant to App.R. 9(B)(5)(a), designates that no part of
-              the transcript of proceedings is to be included in the record or that no transcript is
-              necessary for appeal, after the expiration of ten days following service of such
-              designation upon appellee, unless appellee has within such time filed a designation
-              of additional parts of the transcript to be included in the record.
+             (4)     Where appellant, pursuant to App.R. 9(B)(5)(a), designates that no part of
+                     the transcript of proceedings is to be included in the record or that no
+                     transcript is necessary for appeal, after the expiration of ten days following
+                     service of such designation upon appellee, unless appellee has within such
+                     time filed a designation of additional parts of the transcript to be included
+                     in the record.
 
-              (5)     When forty days have elapsed after filing of the last notice of appeal, and
-              there is no extension of time for transmission of the record or a pending motion
-              requesting the same in either the trial or the appellate court.
+             (5)     When forty days have elapsed after filing of the last notice of appeal, and
+                     there is no extension of time for transmission of the record or a pending
+                     motion requesting the same in either the trial or the appellate court.
 
-              (6)    When twenty days have elapsed after filing of the last notice of appeal in an
-              accelerated calendar case, and there is no extension of time for transmission of the
-              record or a pending motion requesting the same in either the trial or the appellate
-              court.
+             (6)     When twenty days have elapsed after filing of the last notice of appeal in an
+                     accelerated calendar case, and there is no extension of time for transmission
+                     of the record or a pending motion requesting the same in either the trial or
+                     the appellate court.
 
-              (7)    Where the appellant fails to file either the docketing statement or the
-              statement required by App.R. 9(B)(5), within ten days of filing the notice of appeal.
+             (7)     Where the appellant fails to file either the docketing statement or the
+                     statement required by App.R. 9(B)(5), within ten days of filing the notice
+                     of appeal.
 
 (C)   Extension of time for transmission of the record; reduction of time
 
@@ -1093,13 +1204,12 @@ RULE 10.     Transmission of the Record.
       appellant has reasonably complied with all applicable requirements of App.R. 9(B) and
       division (A) of this rule.
 
-(D)   Retention of the record in the trial court by order of court
+(D)     Retention of the record in the trial court by order of court
 
-      If the record or any part thereof is required in the trial court for use there pending the appeal,
-      the trial court may make an order to that effect, and the clerk of the trial court shall retain
-      the record or parts thereof subject to the request of the court of appeals, and shall transmit
-      a copy of the order and of the docket and journal entries together with such parts of the
-
+        If the record or any part thereof is required in the trial court for use there pending the appeal,
+        the trial court may make an order to that effect, and the clerk of the trial court shall retain
+        the record or parts thereof subject to the request of the court of appeals, and shall transmit
+        a copy of the order and of the docket and journal entries together with such parts of the
         original record as the trial court shall allow and copies of such parts as the parties may
         designate.
 
@@ -1142,13 +1252,13 @@ have the duty, to ensure that the record is transmitted once those reasonable ar
 made. That is not to suggest that an appellate court may reverse a judgment without a proper record; it
 simply clarifies that the appellant should not be penalized for any failure in transmitting the record (including
 any delay in producing a transcript of proceedings) if the deficiency is outside the appellant’s control. See,
+
 e.g., Camp-Out, Inc. v. Adkins, 6th Dist. No. WD-06-057, 2007-Ohio-447 (denying motion to dismiss based
 on missing transcript). Cf. In re Efford, 8th Dist. No. 77747, 2000 WL 1514100, *1 (Oct. 12, 2000)
 (dismissing appeal because of appellant’s failure to ensure timely transmission of complete record).
 
-       Similarly, App.R. 10(C) is amended to clarify that an appellant will presumably have the requisite
+        Similarly, App.R. 10(C) is amended to clarify that an appellant will presumably have the requisite
 good cause for extending the time to transmit the record if the appellant has complied with all applicable
-
 requirements to arrange for both the transcribing of the recorded proceedings and transmission of the
 record. The reference in App.R. 10(C) to App.R. 30 is also corrected to App.R. 41.
 
@@ -1280,34 +1390,35 @@ RULE 11.2. Expedited Appeals.
 
       (3)    Processing appeal
 
-             (a)     Immediately after the notice of appeal has been filed by the appellant, the
-             clerk of the juvenile court shall notify the court of appeals. Within four days after
-             the notice of appeal is filed in juvenile court, the clerk of the juvenile court shall
-             deliver a copy of the notice of appeal and the record, except page two of the
-             complaint or petition, to the clerk of the court of appeals who immediately shall
-             place the appeal on the docket of the court of appeals.
+             (a)      Immediately after the notice of appeal has been filed by the appellant, the
+                      clerk of the juvenile court shall notify the court of appeals. Within four
+                      days after the notice of appeal is filed in juvenile court, the clerk of the
+                      juvenile court shall deliver a copy of the notice of appeal and the record,
+                      except page two of the complaint or petition, to the clerk of the court of
+                      appeals who immediately shall place the appeal on the docket of the court
+                      of appeals.
 
-             (b)     Record of all testimony and other oral proceedings in actions pursuant to
-             sections 2151.85 or 2919.121 of the Revised Code may be made by audio
-             recording. If the testimony is on audio tape and a transcript cannot be prepared
-             timely, the court of appeals shall accept the audio tape as the transcript in this case
-             without prior transcription. The juvenile court shall ensure that the court of appeals
-             has the necessary equipment to listen to the audio tape.
+             (b)      Record of all testimony and other oral proceedings in actions pursuant to
+                      sections 2151.85 or 2919.121 of the Revised Code may be made by audio
+                      recording. If the testimony is on audio tape and a transcript cannot be
+                      prepared timely, the court of appeals shall accept the audio tape as the
+                      transcript in this case without prior transcription. The juvenile court shall
+                      ensure that the court of appeals has the necessary equipment to listen to the
+                      audio tape.
 
-             (c)     The appellant under division (B) of this rule shall file her brief within four
-             days after the appeal is docketed. Unless waived, the oral argument shall be within
-             five days after docketing. Oral arguments must be closed to the public and exclude
-             all persons except the appellant, her attorney, her guardian ad litem, and essential
-             court personnel.
+             (c)      The appellant under division (B) of this rule shall file her brief within four
+                      days after the appeal is docketed. Unless waived, the oral argument shall
+                      be within five days after docketing. Oral arguments must be closed to the
+                      public and exclude all persons except the appellant, her attorney, her
+                      guardian ad litem, and essential court personnel.
 
-             (d)    Under division (B) of this rule, “days” means calendar days and includes
-             any intervening Saturday, Sunday, or legal holiday. To provide full effect to the
-
-      expedition provision of the statute, if the last day on which a judgment is required
-      to be entered falls on a Saturday, Sunday, or legal holiday, the computation of days
-      shall not be extended and judgment shall be made either on the last business day
-      before the Saturday, Sunday, or legal holiday, or on the Saturday, Sunday, or legal
-      holiday.
+      (d)    Under division (B) of this rule, “days” means calendar days and includes
+             any intervening Saturday, Sunday, or legal holiday. To provide full effect
+             to the expedition provision of the statute, if the last day on which a judgment
+             is required to be entered falls on a Saturday, Sunday, or legal holiday, the
+             computation of days shall not be extended and judgment shall be made
+             either on the last business day before the Saturday, Sunday, or legal holiday,
+             or on the Saturday, Sunday, or legal holiday.
 
 (4)   Confidentiality
 
@@ -1347,8 +1458,9 @@ RULE 11.2. Expedited Appeals.
 
       After an opinion is written and before it is available for release to the public, the
       appellant must be notified and be given the option to appear and argue at a hearing
-      if she believes the opinion may disclose her identity. Notice may be provided by
-      including the following language in the opinion:
+
+            if she believes the opinion may disclose her identity. Notice may be provided by
+            including the following language in the opinion:
 
                      If appellant believes that this opinion may disclose her identity, appellant
                      has the right to appear and argue at a hearing before this court. Appellant
@@ -1359,10 +1471,10 @@ RULE 11.2. Expedited Appeals.
             either of the following:
 
                      (a)    Twenty-one days have passed since the date of the opinion and
-                     appellant has not filed a motion;
+                            appellant has not filed a motion;
 
                      (b)    If appellant has filed a motion, after this court has ruled on the
-                     motion.
+                            motion.
 
             Notice shall be provided by mailing a copy of the opinion to the attorney for the
             appellant or, if she is not represented, to the address provided by appellant for
@@ -1434,15 +1546,15 @@ RULE 11.2. Expedited Appeals.
              the litigants, with the approval of the court, may stipulate to a different period of
              time for the briefing.
 
-      (4)   Entry of judgment
+        (4)     Entry of judgment
 
                  The court of appeals shall decide the entire interlocutory appeal not later than thirty-
                  five days after the appeal is filed. The litigants, with the approval of the court of
                  appeals, may stipulate to a different period of time for the issuance of the decision
                  and judgment on the appeal.
 
-(E)   Prosecutorial appeals from suppression orders; appeals concerning dependent,
-abused, neglected, unruly, or delinquent children
+(E)     Prosecutorial appeals from suppression orders; appeals concerning dependent,
+        abused, neglected, unruly, or delinquent children
 
         Prosecutorial appeals under Crim.R. 12(K) and Juv.R. 22(F) and appeals concerning a
         dependent, abused, neglected, unruly, or delinquent child shall be expedited and given
@@ -1469,10 +1581,10 @@ terminations of parental rights, and provides for these cases to have priority i
 Appellate Rule 11.2      Expedited Appeals
 
          The amendment to App.R. 11.2 effective July 1, 2001 incorporated into one rule provisions for
-expedited appeals that previously had been in App.R. 7(C), App.R. 11.2, and Sup. R. 23(F) and 25. It
+expedited appeals that previously had been in App.R. 7(C), App.R. 11.2, and Sup.R. 23(F) and 25. It
 provides that appeals in three categories of cases are to be expedited and given priority over all other civil,
 criminal, and administrative appeals. The first of the three categories includes cases concerning abortion-
-related appeals from juvenile courts. Sup. R. 23(F) and 25 address appeals of such cases. The second
+related appeals from juvenile courts. Sup.R. 23(F) and 25 address appeals of such cases. The second
 includes cases concerning adoption and termination of parental rights. App.R. 11.2 addressed appeals of
 such cases. The third includes cases concerning dependent, abused, neglected, unruly, or delinquent
 children. Prior to its amendment also effective July 1, 2001, App.R. 7(C) addressed appeals of such cases.
@@ -1486,21 +1598,20 @@ without parental consent. Appeals of cases concerning dependent, abused, neglect
 delinquent children are to have priority over all cases except cases concerning abortion without parental
 consent and cases concerning adoption and termination of parental rights.
 
-         App.R. 11.2(B)(1) – (8) generally recite the language of Sup. R. 25(A) – (G) with two exceptions.
-The first exception is that the last sentence of App.R. 11.2(B)(3)(b) incorporates the last sentence of Sup.
-
-R. 23(F)(2). The second is that App.R. 11.2(B)(4) omits the last portion of Sup. R. 25(C), which states that
+         App.R. 11.2(B)(1) – (8) generally recite the language of Sup.R. 25(A) – (G) with two exceptions.
+The first exception is that the last sentence of App.R. 11.2(B)(3)(b) incorporates the last sentence of Sup.R.
+23(F)(2). The second is that App.R. 11.2(B)(4) omits the last portion of Sup.R. 25(C), which states that
 papers and records in the appeal “are not public records under section 149.43 of the Revised Code.”
 
-                                 Staff Note (July 1, 2015 Amendment)
+                                  Staff Note (July 1, 2015 Amendment)
 
         App.R. 11.2 lists various categories of expedited appeals that are entitled to priority over other
 appeals. The categories are amended to include prosecutorial appeals from suppression orders under
 Crim.R. 12(K) and Juv.R. 22(F), both of which provide for priority disposition.
 
-                                 Staff Note (July 1, 2025, Amendment)
+                                  Staff Note (July 1, 2025, Amendment)
 
-App.R. 11.2(D)          Victim's rights appeals: interlocutory appeals
+App.R. 11.2(D)           Victim's rights appeals: interlocutory appeals
 
         App.R. 11.2 lists various categories of expedited appeals that by law are entitled to priority over
 other appeals. The categories are enlarged to include interlocutory victim’s rights appeals under art. I, §
@@ -1512,21 +1623,23 @@ RULE 12.     Determination and Judgment on Appeal.
 (A)   Determination
 
       (1)    On an undismissed appeal from a trial court, a court of appeals shall do all of the
-      following:
+             following:
 
-             (a)     Review and affirm, modify, or reverse the judgment or final order appealed;
+                     (a)     Review and affirm, modify, or reverse the judgment or final order
+                             appealed;
 
-             (b)     Determine the appeal on its merits on the assignments of error set forth in
-             the briefs under App.R. 16, the record on appeal under App.R. 9, and, unless
-             waived, the oral argument under App.R. 21;
+                     (b)     Determine the appeal on its merits on the assignments of error set
+                             forth in the briefs under App.R. 16, the record on appeal under
+                             App.R. 9, and, unless waived, the oral argument under App.R. 21;
 
-             (c)     Unless an assignment of error is made moot by a ruling on another
-             assignment of error, decide each assignment of error and give reasons in writing for
-             its decision.
+                     (c)     Unless an assignment of error is made moot by a ruling on another
+                             assignment of error, decide each assignment of error and give
+                             reasons in writing for its decision.
 
-      (2)      The court may disregard an assignment of error presented for review if the party
-      raising it fails to identify in the record the error on which the assignment of error is based
-      or fails to argue the assignment separately in the brief, as required under App.R. 16(A).
+      (2)    The court may disregard an assignment of error presented for review if the party
+             raising it fails to identify in the record the error on which the assignment of error is
+             based or fails to argue the assignment separately in the brief, as required under
+             App.R. 16(A).
 
 (B)   Judgment as a matter of law
 
@@ -1542,27 +1655,29 @@ RULE 12.     Determination and Judgment on Appeal.
       cases where the court of appeals determines that the judgment or final order of the trial
       court should be modified as a matter of law it shall enter its judgment accordingly.
 
-(C)  Judgment in civil action or proceeding when sole prejudicial error found is that
-judgment of trial court is against the manifest weight of the evidence
+(C)   Judgment in civil action or proceeding when sole prejudicial error found is that
+      judgment of trial court is against the manifest weight of the evidence
 
-      (1)     In any civil action or proceeding that was tried to the trial court without the
-      intervention of a jury, and when upon appeal a majority of the judges hearing the appeal
-      find that the judgment or final order rendered by the trial court is against the manifest
-      weight of the evidence and have not found any other prejudicial error of the trial court in
-      any of the particulars assigned and argued in the appellant's brief, and have not found that
-      the appellee is entitled to judgment or final order as a matter of law, the court of appeals
-      shall reverse the judgment or final order of the trial court and either weigh the evidence in
+      (1)    In any civil action or proceeding that was tried to the trial court without the
+             intervention of a jury, and when upon appeal a majority of the judges hearing the
+             appeal find that the judgment or final order rendered by the trial court is against the
+             manifest weight of the evidence and have not found any other prejudicial error of
+             the trial court in any of the particulars assigned and argued in the appellant's brief,
+             and have not found that the appellee is entitled to judgment or final order as a matter
 
-        the record and render the judgment or final order that the trial court should have rendered
-        on that evidence or remand the case to the trial court for further proceedings.
+                 of law, the court of appeals shall reverse the judgment or final order of the trial
+                 court and either weigh the evidence in the record and render the judgment or final
+                 order that the trial court should have rendered on that evidence or remand the case
+                 to the trial court for further proceedings.
 
         (2)      In any civil action or proceeding that was tried to a jury, and when upon appeal all
-        three judges hearing the appeal find that the judgment or final order rendered by the trial
-        court on the jury’s verdict is against the manifest weight of the evidence and have not found
-        any other prejudicial error of the trial court in any of the particulars assigned and argued in
-        the appellant's brief, and have not found that the appellee is entitled to judgment or final
-        order as a matter of law, the court of appeals shall reverse the judgment or final order of
-        the trial court and remand the case to the trial court for further proceedings.
+                 three judges hearing the appeal find that the judgment or final order rendered by
+                 the trial court on the jury’s verdict is against the manifest weight of the evidence
+                 and have not found any other prejudicial error of the trial court in any of the
+                 particulars assigned and argued in the appellant's brief, and have not found that the
+                 appellee is entitled to judgment or final order as a matter of law, the court of appeals
+                 shall reverse the judgment or final order of the trial court and remand the case to
+                 the trial court for further proceedings.
 
 (D)     All other cases
 
@@ -1588,99 +1703,125 @@ not to enter judgment for the appellee. See Hanna v. Wagner, 39 Ohio St.2d 64, 3
 In addition, the amendments remove the restriction in the current rule allowing an appellate court to reverse
 a judgment based on the manifest weight of the evidence only once in either instance.
 
-                           TITLE III.     GENERAL PROVISIONS.
+                           TITLE III.    GENERAL PROVISIONS.
 
-RULE 13.       Filing and Service.
+RULE 13.     Filing and Service.
 
-(A)   Filing
+(A)   Filing with the clerk or a single judge
 
-      Documents required or permitted to be filed in a court of appeals shall be filed with the
-      clerk. Filing may be accomplished by mail addressed to the clerk, but filing shall not be
-      timely unless the documents are received by the clerk within the time fixed for filing,
-      except that briefs shall be deemed filed on the day of mailing. If a motion requests relief
-      which may be granted by a single judge, the judge may permit the motion to be filed with
-      the judge, in which event the judge shall note the filing date on the motion and transmit it
-      to the clerk. A court may provide, by local rules adopted pursuant to the Rules of
-      Superintendence, for the filing of documents by electronic means. If the court adopts such
-      local rules, they shall include all of the following:
+      The filing in the court of appeals of any document required or permitted is accomplished
+      by filing the document with the clerk of the court of appeals in the county where the case
+      originated. Documents sent to the court itself, to any of the court’s offices, to the court’s
+      administrator, or to a clerk other than the clerk of the court of appeals in the county where
+      the case originated are not considered filed and will not be addressed by the court. If a
+      motion requests relief that may be granted by a single judge, the judge may permit the
+      motion to be filed with the judge, in which event the judge must note the filing date on the
+      motion and must transmit it to the clerk.
 
-               (1)      Any signature on electronically transmitted documents shall be considered
-               that of the attorney or party it purports to be for all purposes. If it is established
-               that the documents were transmitted without authority, the court shall order the
-               filing stricken.
+(B)   Methods of filing and timeliness
 
-               (2)    A provision shall specify the days and hours during which electronically
-               transmitted documents will be received by the court, and a provision shall specify
-               when documents received electronically will be considered to have been filed.
+      (1)    Nonelectronic Filing. Filing may be accomplished by hand-delivery to the clerk,
+             by first-class mail addressed to the clerk, or by commercial carrier for delivery to
+             the clerk, but filing is not timely unless the clerk receives the document within the
+             time fixed for filing. A brief, however, is deemed filed on the day when the brief
+             is (a) mailed to the clerk by first-class mail with postage prepaid or by other class
+             of mail that is at least as expeditious with postage prepaid; or (b) delivered to a
+             commercial carrier for delivery to the clerk within three days.
 
-               (3)     Any document filed electronically that requires a filing fee may be rejected
-               by the clerk of court unless the filer has complied with the mechanism established
-               by the court for the payment of filing fees.
+      (2)    Electronic Filing. A court may provide, by local rules adopted under the Rules of
+             Superintendence, for the filing of documents by electronic means. If the court
+             adopts such local rules, they must include the following terms:
 
-(B)   Service of all documents required
+                     (a)     Any signature on an electronically transmitted document is
+                             considered that of the attorney or party it purports to be. If it is
+                             established that the document was transmitted without authority, the
+                             court will strike it.
+
+                     (b)     The days and hours when electronically transmitted documents will
+                             be received by the court must be specified, and the court must also
+                             specify when documents received electronically will be considered
+                             to have been filed.
+
+                     (c)     Any document filed electronically that requires a filing fee may be
+                             rejected by the clerk unless the filer has complied with the
+                             mechanism established by the court for the payment of filing fees.
+
+(C)   Service is required of all documents
 
       Copies of all documents filed by any party and not required by these rules to be served by
-      the clerk shall, on or before the day of filing, be served by a party or person acting for the
-      party on all other parties to the appeal as provided in division (C) of this rule, except that
-      in expedited appeals under App.R. 11.2 and in original actions involving election issues,
-      service of all documents (except the complaint filed to institute an original action) shall be
-      in accordance with division (C)(1), (2), (5), or (6) at or before the time of filing. Service
-      on a party represented by counsel shall be made on counsel.
+      the clerk must be served by a party or person acting for the party on all other parties to the
+      appeal as provided in division (D) of this rule, except that in expedited appeals under
+      App.R. 11.2 and in original actions involving election issues, service of all documents
+      (except the complaint filed to institute an original action) must be in accordance with
+      division (D)(1), (2), (5), (6), or (7). Service on a party represented by counsel must be
+      made by serving that counsel.
 
-(C)   Manner of service
+(D)   Manner of service
 
-      A document is served under this rule by:
+      A document can be served under this rule in any of the following ways:
 
-               (1)    Handing it to the person;
+             (1)     Handing it to the person;
 
-                (2)     Leaving it:
+             (2)     Leaving it:
 
-                        (a)     At the person’s office with a clerk or other person in charge or, if no
-                        one is in charge, in a conspicuous place in the office; or
+                             (a)     At the person’s office with a clerk or other person in charge
+                                     or, if no one is in charge, in a conspicuous place in the office;
+                                     or
 
-                        (b)     If the person has no office or the office is closed, at the person’s
-                        dwelling or usual place of abode with someone of suitable age and
-                        discretion who resides there;
+                             (b)     If the person has no office or the office is closed, at the
+                                     person’s dwelling or usual place of abode with someone of
+                                     suitable age and discretion who resides there;
 
-                (3)    Mailing it to the person’s last known address by United States mail, in
-                which event service is complete upon mailing;
+             (3)     Mailing it to the person’s last known address by first-class mail with postage
+                     prepaid or by other class of mail that is at least as expeditious with postage
+                     prepaid, in which event service is complete upon mailing;
 
-                (4)    Delivering it to a commercial carrier service for delivery to the person’s last
-                known address within three calendar days, in which event service is complete upon
-                delivery to the carrier;
+             (4)     Delivering it to a commercial carrier service for delivery to the person’s last
+                     known address within three calendar days, in which event service is
+                     complete upon delivery to the carrier;
 
-                (5)     Leaving it with the clerk of court if the person has no known address; or
+             (5)     Leaving it with the clerk if the person has no known address;
 
-                (6)      Sending it by electronic means to the most recent facsimile number or e-
-                mail address listed by the intended recipient on a prior court filing (including a
-                filing in the lower court) in which event service is complete upon transmission, but
-                is not effective if the serving party learns that it did not reach the person served.
+             (6)     Sending it to the most recent fax number or e-mail address listed by the
+                     intended recipient on a prior court filing (including a filing in the trial court
+                     or administrative agency) in which event service is complete upon
+                     transmission, but is not effective if the serving party learns that it did not
+                     reach the person served; or
 
-(D)     Using court facilities
+             (7)     Using the electronic-filing system, if any, of the clerk, but only if the serving
+                     of documents is a function provided by that e-filing system.
 
-        If a local rule so authorizes, a party may use the court's transmission facilities to make
-        service under App.R. 13(C)(6).
+(E)     Time of service
 
-(E)     Proof of service
+        Service must be made at or before the time of filing. The serving party is not responsible,
+        however, for the timing of service of a document accepted by the clerk under App.R.
+        13(D)(7). If the serving party has reason to believe that a party entitled to service was not
+        served by the clerk under division (D)(7), the serving party must promptly serve the
+        document in accordance with division (D)(1), (2), (3), (4), or (6).
 
-        Documents presented for filing shall contain an acknowledgment of service by the person
-        served or proof of service in the form of a statement of the date and manner of service and
-        of the names of the persons served, certified by the person who made service. Documents
-        filed with the court shall not be considered until proof of service is endorsed on the
-        documents or separately filed.
+(F)     Proof of service
+
+        A document presented for filing must contain either an acknowledgment of service by the
+        person served or proof of service consisting of a statement by the person who made service
+        certifying the date and manner of service and the names of the persons served. For each
+        person served, the division of App.R. 13(D) through which service was made must be
+        identified, and the mail or electronic address, fax number, or address of the place of
+        delivery must be listed.
+
+        Documents filed with the court will not be considered until the filing has provided to the
+        court the required proof of service.
 
 Effective Date: July 1, 1971
-Amended: July 1, 2001; July 1, 2012; July 1, 2015
+Amended: July 1, 2001; July 1, 2012; July 1, 2015; July 1, 2026
 
                                  Staff Note (July 1, 2001 Amendment)
 
 Appellate Rule 13       Filing and Service
 Appellate Rule 13(A)    Filing
 
-        The amendments to this rule were part of a group of amendments that were submitted by the Ohio
+         The amendments to this rule were part of a group of amendments that were submitted by the Ohio
 Courts Digital Signatures Task Force to establish minimum standards for the use of information systems,
 electronic signatures, and electronic filing. The substantive amendment to this rule was the addition of the
-
 last two sentences of division (A) and the addition of divisions (A)(1) – (3). Comparable amendments were
 made to Civil Rule 5, Civil Rule 73 (for probate courts), Criminal Rule 12, and Juvenile Rule 8.
 
@@ -1692,7 +1833,7 @@ establishes a process by which minimum standards for information technology are 
 requires that courts submit any local rule involving the use of information technology to a technology
 standards committee designated by the Supreme Court for approval.
 
-                                    Staff Note (July 1, 2012 Amendment)
+                                 Staff Note (July 1, 2012 Amendment)
 
         The amendment to App.R. 13(C) clarifies the various available methods of service and adds service
 by electronic means a permissible method. The language of the amendment largely tracks the language
@@ -1715,49 +1856,89 @@ of a local court's electronic filing system to perform that duty—even though, 
 facilities nevertheless serve by electronic means all parties participating in the electronic filing system. The
 new provision is the same as Civ.R. 5(B)(3), as also adopted July 1, 2015.
 
-RULE 14.        Computation and Extension of Time.
+                                    Staff Note (July 1, 2026 Amendment)
 
-(A)     Computation of time
+         New language in App.R. 13(A) emphasizes the importance of filing documents with the clerk of the
+court of appeals in the correct county. Some filers, particularly in multi-county appellate districts, mistakenly
+present documents to the court itself or to a clerk in a county other than the county where the case
+originated. The new language is intended to reduce those filing errors.
 
-        In computing any period of time prescribed or allowed by these rules, by the local rules of
-        any court, by an order of court or by any applicable statute, the day of the act, event or
-        default from which the designated period of time begins to run shall not be included. The
-        last day of the period so computed shall be included, unless it is a Saturday, Sunday or a
-        legal holiday, in which event the period runs until the end of the next day which is not a
-        Saturday, Sunday or a legal holiday. When the period of time prescribed or allowed is less
-        than seven days, intermediate Saturdays, Sundays and legal holidays shall be excluded in
-        the computation.
+         The newly added App.R. 13(E) calls for documents to be served “at or before the time of filing.”
+That addition replaces language in former division (B)—now renumbered as division (C)—that called for
+service to be completed “on or before the day of filing.” That earlier version of the rule enabled parties to
+delay service until after filing was accomplished even though the certificate of service signed by the filing
+party indicated that service had already been completed. The new language matches the language found
+in Rule 25(b) of the Federal Rules of Appellate Procedure and Rule 29(3) of the Rules of the Supreme
+Court of the United States.
 
-(B)     Enlargement or reduction of time
+       Accounting for the increasing availability and use of electronic filing, division (B)—like Rule 25 of
+the Federal Rules of Appellate Procedure—has now been divided into separate provisions addressing
+nonelectronic filing and electronic filing.
 
-        For good cause shown, the court, upon motion, may enlarge or reduce the time prescribed
-        by these rules or by its order for doing any act, or may permit an act to be done after the
-        expiration of the prescribed time. The court may not enlarge or reduce the time for filing
-        a notice of appeal or a motion to certify pursuant to App.R. 25. Enlargement of time to file
-        an application for reconsideration or for en banc consideration pursuant to App.R. 26(A)
-        shall not be granted except on a showing of extraordinary circumstances.
+        Division (D)—formerly designated as division (C)—includes some updated language about the
+ways in which service can be accomplished, while new division (F) directs the serving party to identify the
+manner of service used.
+
+       Other stylistic updates intended to improve the readability of the rule and to bring greater clarity to
+some of its existing provisions have also been made.
+
+RULE 14.         Computing, Extending, and Reducing Time.
+
+(A)     Computing time
+
+        In computing any time period prescribed or allowed by these rules, by any local rule or
+        court order, or by any applicable statute that does not specify a method of computing time,
+        exclude the day of the event that triggers the period. Except as indicated in the last sentence
+        of this paragraph, count every day, including intermediate Saturdays, Sundays, and legal
+        holidays. Include the last day of the period, unless it is a Saturday, Sunday, or a legal
+        holiday, in which case the period runs until the end of the next day that is not a Saturday,
+        Sunday, or legal holiday. When the time period prescribed or allowed is less than seven
+        days, exclude intermediate Saturdays, Sundays, and legal holidays.
+
+(B)     Extending or reducing time
+
+        For good cause, the court, upon motion, may extend or reduce the time prescribed by these
+        rules or by its order for doing any act, or may permit an act to be done after that time
+        expires. The court may not extend or reduce the time for filing a notice of appeal under
+        App.R. 4 or a motion to certify under App.R. 25.
 
 (C)     Additional time after service by mail or commercial carrier service
 
-        Whenever a party has the right or is required to do some act or take some proceedings
-        within a prescribed period after service of a notice or other document upon that party and
-        the notice or paper is served upon the party by mail or commercial carrier service under
-        App.R. 13(C)(4), three days shall be added to the prescribed period. This division does
-        not apply to responses to service of summons in original actions.
+        When a party may or must act within a specified time after being served, and the paper—
+        whether it is sent by the clerk or by a party to the case—is served on the party by mail or
+        commercial carrier service under App.R. 13(D)(4), three days are added to the specified
+        period. When, however, the court has ordered a party to act by a particular date, that party
+        must comply with the court’s order and is not entitled to an additional three days.
+
+        This division does not apply to responses to service of summons in original actions.
 
 Effective Date: July 1, 1971
-Amended: July 1, 1994; July 1, 2010; July 1, 2012
+Amended: July 1, 1994; July 1, 2010; July 1, 2012; July 1, 2026
 
-                                 Staff Note (July 1, 2010 Amendment)
+                                  Staff Note (July 1, 2010 Amendment)
 
         The amendment is a technical amendment to reflect the procedure in App.R. 26.
 
-                                 Staff Note (July 1, 2012 Amendment)
+                                  Staff Note (July 1, 2012 Amendment)
 
         The amendment to App.R. 14(C) now extends the “three-day rule” - traditionally available after
 service of a document by regular mail - to other service methods that do not provide same-day delivery to
 the recipient. The language of the amendment largely tracks the language of the 2012 amendment to
 Civ.R. 6(D).
+
+                                  Staff Note (July 1, 2026 Amendment)
+
+        A contemporaneous amendment to App.R. 13 necessitated a change to division (C) of this rule.
+Before today, division (C) referred to “App.R. 13(C)(4),” but that latter provision is now designated as App.R.
+13(D)(4), and division (C) has therefore been updated to reflect that change.
+
+         A sentence that addressed extensions of the time period for the filing of applications for
+reconsideration or for en banc consideration has been removed from division (B). Similar language now
+appears in App.R. 26(A), which is the provision that governs all other aspects of rehearing and en banc
+applications.
+
+       Other stylistic updates intended to improve the readability of the rule and to bring greater clarity to
+some of its existing provisions have also been made.
 
 RULE 15.      Motions.
 
@@ -1808,26 +1989,27 @@ RULE 16.     Briefs.
 
              (1)       A table of contents, with page references.
 
-             (2)     A table of cases alphabetically arranged, statutes, and other authorities
-             cited, with references to the pages of the brief where cited.
+             (2)       A table of cases alphabetically arranged, statutes, and other authorities
+                       cited, with references to the pages of the brief where cited.
 
-             (3)     A statement of the assignments of error presented for review, with reference
-             to the place in the record where each error is reflected.
+             (3)       A statement of the assignments of error presented for review, with reference
+                       to the place in the record where each error is reflected.
 
-             (4)    A statement of the issues presented for review, with references to the
-             assignments of error to which each issue relates.
+             (4)       A statement of the issues presented for review, with references to the
+                       assignments of error to which each issue relates.
 
-             (5)    A statement of the case briefly describing the nature of the case, the course
-             of proceedings, and the disposition in the court below.
+             (5)       A statement of the case briefly describing the nature of the case, the course
+                       of proceedings, and the disposition in the court below.
 
-             (6)      A statement of facts relevant to the assignments of error presented for
-             review, with appropriate references to the record in accordance with division (D)
-             of this rule.
+             (6)       A statement of facts relevant to the assignments of error presented for
+                       review, with appropriate references to the record in accordance with
+                       division (D) of this rule.
 
-             (7)    An argument containing the contentions of the appellant with respect to
-             each assignment of error presented for review and the reasons in support of the
-             contentions, with citations to the authorities, statutes, and parts of the record on
-             which appellant relies. The argument may be preceded by a summary.
+             (7)       An argument containing the contentions of the appellant with respect to
+                       each assignment of error presented for review and the reasons in support of
+                       the contentions, with citations to the authorities, statutes, and parts of the
+                       record on which appellant relies. The argument may be preceded by a
+                       summary.
 
              (8)       A conclusion briefly stating the precise relief sought.
 
@@ -1854,6 +2036,7 @@ RULE 16.     Briefs.
         was identified, offered, and received or rejected.
 
 (E)     Unnecessary attachments of legal authorities disfavored
+
         Parties are discouraged from attaching to briefs any legal authority generally accessible
         through online legal research databases. If determination of the assignments of error
         presented requires the consideration of legal authority not generally accessible through
@@ -1974,13 +2157,13 @@ RULE 19.     Form of Briefs and Other Papers.
 
              (2)     The title of the case [see App.R. 11(A)];
 
-             (3)    The nature of the proceeding in the court (e.g., Appeal) and the name of the
-             court below;
+             (3)     The nature of the proceeding in the court (e.g., Appeal) and the name of the
+                     court below;
 
              (4)     The title of the document (e.g., Brief for Appellant); and
 
-             (5)    The names and addresses of counsel representing the party on whose behalf
-             the document is filed.
+             (5)     The names and addresses of counsel representing the party on whose behalf
+                     the document is filed.
 
 (B)    Form of other papers
 
@@ -2027,17 +2210,17 @@ RULE 21.     Oral Argument.
 (B)   Notice of oral argument and of appellate panel
 
       (1)    The court shall advise all parties of the time and place at which oral argument will
-      be heard.
+             be heard.
 
-      (2)      No later than fourteen days prior to the date on which oral argument will be heard,
-      the court of appeals shall make available to the parties the names of the judges assigned to
-      the three-judge panel that will hear the case. If the case is submitted on briefs without oral
-      argument, the court of appeals shall make available to the parties the names of the judges
-      assigned to the three-judge panel that will hear the case no later than fourteen days prior to
-      the date on which the case is submitted to the panel. If the membership of the panel changes
-      after the names of the judges are made available to the parties pursuant to this rule, the
-      court of appeals shall immediately make the new membership of the panel available to the
-      parties.
+      (2)    No later than fourteen days prior to the date on which oral argument will be heard,
+             the court of appeals shall make available to the parties the names of the judges
+             assigned to the three-judge panel that will hear the case. If the case is submitted on
+             briefs without oral argument, the court of appeals shall make available to the parties
+             the names of the judges assigned to the three-judge panel that will hear the case no
+             later than fourteen days prior to the date on which the case is submitted to the panel.
+             If the membership of the panel changes after the names of the judges are made
+             available to the parties pursuant to this rule, the court of appeals shall immediately
+             make the new membership of the panel available to the parties.
 
 (C)   Time allowed for argument
 
@@ -2085,8 +2268,8 @@ RULE 21.     Oral Argument.
         court and to opposing counsel, unless there is good cause for a later presentment.
 
 (J)     Beginning September 1, 2021, the court shall make an audio or video recording of all oral
-arguments. Such recordings shall be made available to the parties or public upon request, at their
-actual cost pursuant to Sup.R. 44.
+        arguments. Such recordings shall be made available to the parties or public upon request,
+        at their actual cost pursuant to Sup.R. 11.09.
 
 Effective Date: July 1, 1971
 Amended: July 1, 1975; July 1, 1976; July 1, 2011; July 1, 2012; July 1, 2013; July 1, 2020; July
@@ -2132,43 +2315,44 @@ reasonable expenses of the appellee including attorney fees and costs.
 
 Effective Date: July 1, 1971
 
-RULE 24.       Costs.
+RULE 24.      Costs.
 
-(A)     Except as otherwise provided by law or as the court may order, the party liable for costs is
-as follows:
+(A)    Except as otherwise provided by law or as the court may order, the party liable for costs is
+       as follows:
 
-       (1)     If an appeal is dismissed, the appellant or as agreed by the parties.
+              (1)      If an appeal is dismissed, the appellant or as agreed by the parties.
 
-       (2)     If the judgment appealed is affirmed, the appellant.
+              (2)      If the judgment appealed is affirmed, the appellant.
 
-       (3)     If the judgment appealed is reversed, the appellee.
+              (3)      If the judgment appealed is reversed, the appellee.
 
-       (4)    If the judgment appealed is affirmed or reversed in part or is vacated, as ordered by
-       the court.
+              (4)      If the judgment appealed is affirmed or reversed in part or is vacated, as
+                       ordered by the court.
 
 (B)    As used in this rule, "costs" means an expense incurred in preparation of the record
-including the transcript of proceedings, fees allowed by law, and the fee for filing the appeal. It
-does not mean the expense of printing or copying a brief or an appendix.
+       including the transcript of proceedings, fees allowed by law, and the fee for filing the
+       appeal. It does not mean the expense of printing or copying a brief or an appendix.
 
 Effective Date: July 1, 1971
 Amended: July 1, 1992
 
-RULE 25.         Motion to certify a conflict.
+RULE 25.         Motion to Certify a Conflict.
 
 (A)     A motion to certify a conflict under Article IV, Section 3(B)(4) of the Ohio Constitution
-shall be made in writing no later than ten days after the clerk has both mailed to the parties the
-judgment or order of the court that creates a conflict with a judgment or order of another court of
-appeals and made note on the docket of the mailing, as required by App.R. 30(A). The filing of a
-motion to certify a conflict does not extend the time to appeal from the judgment of the court of
-appeals to the Ohio Supreme Court. A motion under this rule shall specify the issue proposed for
-certification and shall cite the judgment or judgments alleged to be in conflict with the judgment
-of the court in which the motion is filed.
+        shall be made in writing no later than ten days after the clerk has both mailed to the parties
+        the judgment or order of the court that creates a conflict with a judgment or order of another
+        court of appeals and made note on the docket of the mailing, as required by App.R. 30(A).
+        The filing of a motion to certify a conflict does not extend the time to appeal from the
+        judgment of the court of appeals to the Ohio Supreme Court. A motion under this rule
+        shall specify the issue proposed for certification and shall cite the judgment or judgments
+        alleged to be in conflict with the judgment of the court in which the motion is filed.
 
 (B)     Parties opposing the motion shall answer in writing within ten days of service of the
-motion. The moving party may file a reply brief within seven days after service of the answer
-brief in opposition. Copies of the motion, answer brief in opposition, and reply brief shall be
-served as prescribed for the service and filing of briefs in the initial action. Oral argument of a
-motion to certify a conflict shall not be permitted except at the request of the court.
+        motion. The moving party may file a reply brief within seven days after service of the
+        answer brief in opposition. Copies of the motion, answer brief in opposition, and reply
+        brief shall be served as prescribed for the service and filing of briefs in the initial action.
+        Oral argument of a motion to certify a conflict shall not be permitted except at the request
+        of the court.
 
 (C)     The court of appeals shall rule upon a motion to certify within sixty days of its filing.
 
@@ -2204,144 +2388,189 @@ requirements of App.R. 30(A).
 not extended by a motion to certify a conflict, lies in the Ohio Supreme Court. No substantive change is
 intended by this clarification.
 
-Rule 26.      Application for reconsideration; Application for en banc consideration;
-Application for reopening.
+Rule 26.      Application for Reconsideration; Application for En Banc Consideration;
+Application for Reopening.
 
 (A)   Application for reconsideration and en banc consideration
 
-      (1)    Reconsideration
+      A party may seek reconsideration of a judgment, decision, or order through an application
+      for reconsideration, an application for en banc consideration, or both. Unless a local rule
+      provides otherwise, a party seeking both forms of review must file the applications as a
+      single document. An application for reconsideration that includes a request for en banc
+      consideration must plainly state that information on the cover or first page and also in the
+      title of the document.
 
-             (a)     Application for reconsideration of any cause or motion submitted on appeal
-             shall be made in writing no later than ten days after the clerk has both mailed to the
-             parties the judgment or order in question and made a note on the docket of the
-             mailing as required by App.R. 30(A).
+      The court will grant a motion to extend the time to file an application for either
+      reconsideration or en banc consideration only for the most compelling reasons. If an
+      untimely application is not accompanied by a motion to extend the filing time, the court
+      will not consider the application.
 
-             (b)     Parties opposing the application shall answer in writing within ten days of
-             service of the application. The party making the application may file a reply brief
-             within seven days of service of the answer brief in opposition. Copies of the
-             application, answer brief in opposition, and reply brief shall be served in the manner
-             prescribed for the service and filing of briefs in the initial action. Oral argument of
-             an application for reconsideration shall not be permitted except at the request of the
-             court.
+             (1)     Reconsideration
 
-             (c)     The application for reconsideration shall be considered by the panel that
-             issued the original decision.
+                     (a)    Unless the time is shortened or extended by order or local rule, any
+                            application for reconsideration must be filed no later than 15 days
+                            after the court’s judgment is filed by the clerk of the court of appeals
+                            (or if the panel later amends its decision, whether on reconsideration
+                            or otherwise, within 15 days after the amended decision is filed).
 
-      (2)    En banc consideration
+                            The application must explain in detail each point of law or fact that
+                            the applicant believes the court has overlooked or misconstrued and
+                            must present any argument in support of reconsideration. The
+                            application is not a vehicle to reargue issues previously presented.
 
-             (a)      Upon a determination that two or more decisions of the court on which they
-             sit are in conflict, a majority of the en banc court may order that an appeal or other
-             proceeding be considered en banc. The en banc court shall consist of all full-time
-             judges of the appellate district who have not recused themselves or otherwise been
-             disqualified from the case. Consideration en banc is not favored and will not be
-             ordered unless necessary to secure or maintain uniformity of decisions within the
-             district on an issue that is dispositive in the case in which the application is filed.
+                            Unless the court or a local rule allow otherwise, the application
+                            (including any application requesting both reconsideration and
+                            consideration en banc) must not exceed 15 pages.
 
-             (b)    The en banc court may order en banc consideration sua sponte. A party may
-             also make an application for en banc consideration. An application for en banc
-             consideration must explain how the panel’s decision conflicts with a prior panel’s
-             decision on a dispositive issue and why consideration by the court en banc is
-             necessary to secure and maintain uniformity of the court’s decisions.
+                     (b)    Any party’s response to the application must be filed within 15 days
+                            after the application is filed. The page limit in division (A)(1)(a) of
+                            this rule applies to any response.
 
-             (c)    The rules applicable to applications for reconsideration set forth in division
-             (A)(1) of this rule, including the timing requirements, govern applications for en
-             banc consideration. Any sua sponte order designating a case for en banc
-             consideration must be entered no later than ten days after the clerk has both mailed
-             the judgment or order in question and made a note on the docket of the mailing as
-             required by App.R. 30(A). In addition, a party may file an application for en banc
-             consideration, or the court may order it sua sponte, within ten days of the date the
+                            No other briefing from the parties is permitted except at the request
+                            of the court.
 
-             clerk has both mailed to the parties the judgment or order of the court ruling on a
-             timely filed application for reconsideration under division (A)(1) of this rule if an
-             intra-district conflict first arises as a result of that judgment or order and made a
-             note on the docket of the mailing, as required by App.R. 30(A). A party filing both
-             an application for reconsideration and an application for en banc consideration
-             simultaneously shall do so in a single document.
+                            Copies of the application and any response to it must be served in
+                            the manner prescribed for the service and filing of briefs in the initial
+                            action.
 
-             (d)    The decision of the en banc court shall become the decision of the court. In
-             the event a majority of the full-time judges of the appellate district is unable to
-             concur in a decision, the decision of the original panel shall remain the decision in
-             the case unless vacated under App.R. 26(A)(2)(c) and, if so vacated, shall be
-             reentered.
+             Oral argument on the question of whether the court should grant the
+             application is not permitted except at the request of the court.
 
-             (e)     Other procedures governing the initiation, filing, briefing, rehearing,
-             reconsideration, and determination of en banc proceedings may be prescribed by
-             local rule or as otherwise ordered by the court.
+      (c)    The application for reconsideration will be considered by the panel
+             that issued the original decision.
+
+(2)   En banc consideration
+
+      (a)    Upon a determination that two or more decisions of the court on
+             which they sit are in conflict, a majority of the en banc court may
+             order that an appeal or other proceeding be considered en banc. The
+             en banc court is composed of all judges of the appellate district who
+             have not recused themselves or otherwise been disqualified from the
+             case, and all members of the en banc court must vote whenever the
+             court considers whether to rehear a case en banc.
+
+             Consideration en banc is not favored and will not be ordered unless
+             necessary to secure or maintain uniformity of decisions within the
+             district on an issue that is dispositive in the case in which the
+             application is filed.
+
+      (b)    The en banc court may order en banc consideration even if no
+             request is filed. Any order designating a case for en banc
+             consideration that is issued by the court in the absence of a request
+             from one or more parties must be entered no later than 10 days after
+             judgement is issued (or if the panel later amends its decision,
+             whether on reconsideration or otherwise, within 10 days after the
+             amended decision is filed).
+
+      (c)    A party may also file an application for en banc consideration.
+             Unless the time is shortened or extended by order or local rule, any
+             application for en banc consideration must be filed no later than 15
+             days after the court’s judgment is filed by the clerk of the court of
+             appeals (or if the panel later amends its decision, whether on
+             reconsideration or otherwise, within 15 days after the amended
+             decision is filed).
+
+             The application must explain how the panel’s decision conflicts with
+             a prior panel’s decision on a dispositive issue and why consideration
+             by the court en banc is necessary to secure and maintain uniformity
+             of the court’s decisions.
+
+             The timing, page-length, and service requirements in division (A)(1)
+             of this rule apply to applications for en banc consideration.
+
+                   (d)     A decision to grant en banc consideration vacates the previous
+                           opinion and judgment of the court and restores the case on the
+                           docket as an active appeal. If a majority of the judges of the
+                           appellate district is unable to concur in a decision on the merits of
+                           the case, the court may choose to reissue the decision of the original
+                           panel as the judgment of the court.
+
+                   (e)     Other procedures governing the initiation, filing, briefing, rehearing,
+                           reconsideration, and determination of en banc proceedings may be
+                           prescribed by local rule or as otherwise ordered by the court.
 
 (B)   Application for reopening
 
-      (1)     A defendant in a criminal case or a delinquent child in a juvenile case may apply
-      for reopening of the appeal from the judgment of conviction and sentence or a judgment of
-      adjudication or disposition based on a claim of ineffective assistance of appellate counsel.
-      An application for reopening shall be filed in the court of appeals where the appeal was
-      decided within ninety days from journalization of the appellate judgment unless the
-      applicant shows good cause for filing at a later time.
+      (1)   A defendant in a criminal case or a delinquent child in a juvenile case may apply
+            for reopening of the appeal from the judgment of conviction and sentence or from
+            a judgment of adjudication or disposition based on a claim of ineffective assistance
+            of appellate counsel. Any application for reopening must be filed in the court of
+            appeals where the appeal was decided within 90 days after the court’s judgment is
+            filed by the clerk of the court of appeals unless the applicant shows good cause for
+            filing the application at a later time.
 
-      (2)    An application for reopening shall contain all of the following:
+      (2)   An application for reopening must contain all of the following:
 
-             (a)    The appellate case number in which reopening is sought and the trial court
-             case number or numbers from which the appeal was taken;
+                   (a)     The appellate case number in which reopening is sought and the trial
+                           court case number or numbers from which the appeal was taken;
 
-             (b)    A showing of good cause for untimely filing if the application is filed more
-             than ninety days after journalization of the appellate judgment.
+                   (b)     A showing of good cause for untimely filing if the application is
+                           filed after the 90-day deadline set up by division (B)(1) of this rule;
 
-             (c)    One or more assignments of error or arguments in support of assignments
-             of error that previously were not considered on the merits in the case by any
-             appellate court or that were considered on an incomplete record because of
-             appellate counsel's deficient representation;
+                   (c)     One or more assignments of error or arguments in support of
+                           assignments of error that previously were not considered on the
+                           merits in the case by any appellate court or that were considered on
+                           an incomplete record because of appellate counsel's deficient
+                           representation;
 
-             (d)     A sworn statement of the basis for the claim that appellate counsel's
-             representation was deficient with respect to the assignments of error or arguments
-             raised pursuant to division (B)(2)(c) of this rule and the manner in which the
-             deficiency prejudicially affected the outcome of the appeal, which may include
-             citations to applicable authorities and references to the record;
+                   (d)     A sworn statement of the basis for the claim that appellate counsel's
+                           representation was deficient with respect to the assignments of error
+                           or arguments raised under division (B)(2)(c) of this rule and the way
+                           in which the deficiency prejudicially affected the outcome of the
+                           appeal, which may include citations to applicable authorities and
+                           references to the record;
 
-              (e)     Any parts of the record available to the applicant and all supplemental
-              affidavits upon which the applicant relies.
+                   (e)     Any parts of the record available to the applicant and all
+                           supplemental affidavits upon which the applicant relies.
 
-       (3)     The applicant shall furnish an additional copy of the application to the clerk of the
-       court of appeals who shall serve it on the attorney for the prosecution. The attorney for the
-       prosecution, within thirty days from the filing of the application, may file and serve
-       affidavits, parts of the record, and a memorandum of law in opposition to the application.
+       (3)    Any application for reopening must be served by the defendant on the attorney for
+              the prosecution in accordance with App.R. 31(D). The clerk of the court of appeals
+              must also send a copy of the application to the attorney for the prosecution. The
+              attorney for the prosecution, within 30 days from the filing of the application, may
+              file and serve affidavits, parts of the record, and a memorandum of law in
+              opposition to the application.
 
-       (4)    An application for reopening and an opposing memorandum shall not exceed ten
-       pages, exclusive of affidavits and parts of the record. Oral argument of an application for
-       reopening shall not be permitted except at the request of the court.
+       (4)    An application for reopening and an opposing memorandum may not exceed ten
+              pages, exclusive of affidavits and parts of the record. No other briefing from the
+              parties is permitted except at the request of the court, and oral argument of an
+              application for reopening is not permitted except at the request of the court.
 
-       (5)   An application for reopening shall be granted if there is a genuine issue as to
-       whether the applicant was deprived of the effective assistance of counsel on appeal.
+       (5)    The granting of an application for reopening is appropriate if there is a genuine
+              issue as to whether the applicant was deprived of the effective assistance of counsel
+              on appeal.
 
-       (6)     If the court denies the application, it shall state in the entry the reasons for denial.
-       If the court grants the application, it shall do both of the following:
+       (6)    If the court denies the application, it should state in the entry the reasons for denial.
 
-              (a)     Appoint counsel to represent the applicant if the applicant is indigent and
-              not currently represented;
+       (7)    If the court grants the application, it should do both of the following:
 
-              (b)   Impose conditions, if any, necessary to preserve the status quo during
-              pendency of the reopened appeal.
+                      (a)      Appoint counsel to represent the applicant if the applicant is indigent
+                               and not currently represented;
 
-       The clerk shall serve notice of journalization of the entry on the parties and, if the
-       application is granted, on the clerk of the trial court.
+                      (b)      Impose conditions, if any, necessary to preserve the status quo
+                               during the pendency of the reopened appeal. The clerk must notify
+                               the parties and the clerk of the trial court about the filing of the entry
+                               granting the application.
 
-       (7)     If the application is granted, the case shall proceed as on an initial appeal in
-       accordance with these rules except that the court may limit its review to those assignments
-       of error and arguments not previously considered. The time limits for preparation and
-       transmission of the record pursuant to App.R. 9 and 10 shall run from journalization of the
-       entry granting the application. The parties shall address in their briefs the claim that
-       representation by prior appellate counsel was deficient and that the applicant was
-       prejudiced by that deficiency.
+       (8)    If the application is granted, the case will proceed as an initial appeal in accordance
+              with these rules except that the court may limit its review to those assignments of
+              error and arguments not previously considered. The time limits for preparation and
+              transmission of the record under App.R. 9 and 10 will run from the filing of the
+              entry granting the application. The parties should address in their briefs the claim
+              that representation by prior appellate counsel was deficient and that the applicant
+              was prejudiced by that deficiency.
 
-       (8)    If the court of appeals determines that an evidentiary hearing is necessary, the
-       evidentiary hearing may be conducted by the court or referred to a magistrate.
+       (9)    If the court of appeals determines that an evidentiary hearing is necessary, the
+              evidentiary hearing may be conducted by the court or referred to a magistrate.
 
-       (9)     If the court finds that the performance of appellate counsel was deficient and the
-       applicant was prejudiced by that deficiency, the court shall vacate its prior judgment and
-       enter the appropriate judgment. If the court does not so find, the court shall issue an order
-       confirming its prior judgment.
+       (10)   If the court finds that the performance of appellate counsel was deficient and that
+              the applicant was prejudiced by that deficiency, the court should vacate its prior
+              judgment and enter the appropriate judgment. If the court does not so find, the
+              court should issue an order confirming its prior judgment.
 
 Effective Date: July 1, 1971
+
 Amended: July 1, 1975; July 1, 1993; July 1, 1994; July 1, 1997; July 1, 2010; July 1, 2011; July
-1, 2012
+1, 2012; July 1, 2026
 
                                    Staff Note (July 1, 2010 Amendment)
 
@@ -2412,13 +2641,64 @@ extends the time to appeal to the Ohio Supreme Court in the event that a party f
 en banc consideration, but there is no such provision in the event the court of appeals decides sua sponte
 to consider a case en banc. See S.Ct. Prac. R. 2.2(a)(6).
 
-                                  Staff Note (July 1, 2012 Amendment)
+                                   Staff Note (July 1, 2012 Amendment)
 
         The amendment to App.R. 26(A)(2)(c) removes language added in 2011 that required a court of
 appeals to vacate a panel decision in the event of a sua sponte decision to consider a case en banc. That
 language was added to ensure that a party’s time to appeal to the Supreme Court would not begin to run
 while en banc consideration was pending. But the language is no longer necessary in light of a 2011
 amendment to S.Ct.Prac.R. 2.2.
+
+                                   Staff Note (July 1, 2026 Amendment)
+
+         Removed from divisions (A)(1)(a) and (A)(2)(c) is language that appeared to require the clerk of
+the court of appeals to mail notices to the parties about the filing of the court’s orders and judgments. The
+amended rule indicates that the clerk is to send to each party a copy of the court’s order or judgment itself
+rather than just a notice.
+
+         Those same divisions of the rule set a new triggering event that starts the time period when
+applications for reconsideration and for en banc consideration can be filed. Formerly, that period did not
+begin to run until the clerk had sent a notice to the parties about the filing of the court’s order or judgment.
+Under the amended rule, the time period for filing applications for reconsideration or for en banc
+consideration begins to run when the court’s order or judgment is issued.
+
+        To account for that possibly earlier starting date for the running of the application period, the
+amended rule shifts the filing period from 10 days to 15 days, meaning that any application for
+reconsideration or for en banc consideration must generally be filed within 15 days from the filing date of
+the court’s judgment or order.
+
+        The former rule was silent about the content and length of any application for reconsideration filed
+under division (A). The amended rule—in division (A)(1)—explains briefly the information that a
+reconsideration request should contain and also establishes a limit of 15 pages for any application for
+reconsideration. The amendment similarly sets a 15-page cap on the length of any response. And finally,
+the amended rule indicates that no reply brief is to be filed by the applicant.
+
+         Division (A)(2) of the amended rule implements the same page limits for en banc applications and
+responses outlined above for reconsideration applications, and it includes a similar ban on the filing of any
+reply brief by the applicant.
+
+        Amended division (A)(2)(c) now includes the kind of triggering-event language described above in
+the second paragraph of this staff note. That is, the amendment provides that the time period for filing an
+en banc application begins to run when the court’s order or judgment is issued rather than when the clerk
+sends a notice about the issuance of the order or judgment. As with the reconsideration provision in division
+
+(A)(1), the en banc provision in division (A)(2) accounts for that new filing-period triggering event by
+extending from 10 days to 15 days the window for the filing of any en banc applications.
+
+         Amended division (A)(2)(b), in addressing instances when an appellate court orders en banc review
+of one of its own decisions even in the absence of a request from a party for that extraordinary procedure,
+now includes the kind of triggering-event language described above in the second paragraph of this staff
+note. That is, the amendment provides that the time period within which the court of appeals can, even in
+the absence of an en banc application from a party, decide to review en banc one of its own decisions
+begins to run when the court’s order or judgment is issued rather than when the clerk sends a notice about
+the issuance of the order or judgment. The time period for the court to take that step on its own remains
+unchanged at 10 days. Also, nothing in the amendment alters the recent holding of the Supreme Court in
+State v. Maldonado, 2024-Ohio-2652, ¶ 20 (“App.R. 26(A)(2) requires that a decision in a case be issued
+by a three-judge panel before the court of appeals may sua sponte order en banc consideration of an issue
+in that case”).
+
+       Other stylistic updates intended to improve the readability of the rule and to bring greater clarity to
+some of its existing provisions have also been made.
 
 RULE 27.       Execution, Mandate.
 
@@ -2470,37 +2750,58 @@ RULE 29.      Substitution of Parties.
 
 (C)    Public officers; death or separation from office
 
-       (1)     When a public officer is a party to an appeal or other proceeding in the court of
-       appeals in his official capacity and during its pendency dies, resigns or otherwise ceases to
-       hold office, the action does not abate and his successor is automatically substituted as a
-       party. Proceedings following the substitution shall be in the name of the substituted party,
-       but any misnomer not affecting the substantial rights of the parties shall be disregarded.
-       An order of substitution may be entered at any time, but the omission to enter such an order
-       shall not affect the substitution.
+       (1)    When a public officer is a party to an appeal or other proceeding in the court of
+              appeals in his official capacity and during its pendency dies, resigns or otherwise
+              ceases to hold office, the action does not abate and his successor is automatically
+              substituted as a party. Proceedings following the substitution shall be in the name
+              of the substituted party, but any misnomer not affecting the substantial rights of the
+              parties shall be disregarded. An order of substitution may be entered at any time,
+              but the omission to enter such an order shall not affect the substitution.
 
        (2)    When a public officer is a party to an appeal or other proceeding in his official
-       capacity, he may be described as a party by his official title rather than by name, but the
-       court may require his name to be added.
+              capacity, he may be described as a party by his official title rather than by name,
+              but the court may require his name to be added.
 
 Effective Date: July 1, 1971
 
-RULE 30.      Duties of Clerks.
+RULE 30.         Duties of Clerks.
 
-(A)    Notice of orders or judgments
+(A)     Copies of orders or judgments
 
-       Immediately upon the entry of an order or judgment, the clerk shall serve by mail a notice
-       of entry upon each party to the proceeding and shall make a note in the docket of the
-       mailing. Service on a party represented by counsel shall be made on counsel.
+        Immediately after any order, opinion, or judgment of the court is filed, the clerk of the court
+        of appeals must send a copy of the court’s ruling to each party and must note that action
+        on the docket. Any copies for a party represented by counsel should be sent to counsel.
 
-(B)    Custody of records and papers
+(B)     Custody of records and papers
 
-       The clerk shall have custody of the records and papers of the court. Papers transmitted as
-       the record on appeal or review shall upon disposition of the case be returned to the court
-       or agency from which they were received. The clerk shall preserve copies of briefs and
-       other filings.
+        The clerk is the custodian of the records and papers of the court. Papers transmitted as the
+        record on appeal or review must, once the case is finished, be returned to the court or
+        agency from which they were received. The clerk must preserve copies of briefs and other
+        filings.
+
+(C)     Sending of documents by the clerk
+
+        Whenever these rules direct that documents or copies be “sent” by the clerk of the court of
+        appeals or by the clerk of the trial court, and whenever these rules direct either of those
+        clerks to “send” documents or copies, the appropriate clerk may use any of the following
+        delivery methods: hand delivery, electronic delivery (which may involve the sending of an
+        automatic notification advising counsel or unrepresented parties about the electronic
+        availability of a document through the clerk’s e-filing service), e-mail, fax, U.S. mail, or
+        commercial carrier.
 
 Effective Date: July 1, 1971
-Amended: July 1, 1972
+Amended: July 1, 1972; July 1, 2026
+
+                                       Staff Note (July 1, 2026 Amendment)
+
+         The amendment to division (A) clarifies that the clerk of the court of appeals should send to the
+parties a copy of any court rulings that are issued in the parties’ case rather than simply a notice of the
+issuance of those rulings. New division (C) indicates, though, that when this or any other provision of these
+rules directs the clerk to “send” documents, that duty can be fulfilled by the clerk through the clerk’s e-filing
+service. Several other delivery methods that the clerk may use are also listed in new division (C).
+
+       Other stylistic updates intended to improve the readability of the rule and to bring greater clarity to
+some of its existing provisions have also been made.
 
 RULES 31-33.   [RESERVED].
 
@@ -2529,16 +2830,16 @@ Effective Date: July 1, 1997
 
 RULES 35-40.   [RESERVED].
 
-RULE 41.       Rules of Courts of Appeals.
+RULE 41.     Rules of Courts of Appeals.
 
-(A)     The courts of appeals may adopt rules concerning local practice in their respective courts
-that are not inconsistent with the rules promulgated by the Supreme Court. Local rules shall be
-filed with the Supreme Court.
+(A)   The courts of appeals may adopt rules concerning local practice in their respective courts
+      that are not inconsistent with the rules promulgated by the Supreme Court. Local rules
+      shall be filed with the Supreme Court.
 
-(B)    Local rules shall be adopted only after the court gives appropriate notice and an opportunity
-for comment. If the court determines that there is an immediate need for a rule, the court may
-adopt the rule without prior notice and opportunity for comment, but promptly shall afford notice
-and opportunity for comment.
+(B)   Local rules shall be adopted only after the court gives appropriate notice and an opportunity
+      for comment. If the court determines that there is an immediate need for a rule, the court
+      may adopt the rule without prior notice and opportunity for comment, but promptly shall
+      afford notice and opportunity for comment.
 
 Effective Date: July 1, 1971
 Amended: July 1, 1994; July 1, 1997
@@ -2571,117 +2872,98 @@ RULE 43.     Effective Date.
 
                                    APPENDIX OF FORMS
 
-                              INTRODUCTORY STATEMENT
+The forms which follow are intended for illustration only. Departures from the forms shall not
+void papers which are otherwise sufficient, and the forms may be varied when necessary to meet
+the facts of a particular case. Where appropriate, the forms assume that the action was brought in
+the Court of Common Pleas, Franklin County, Ohio.
 
-The forms which follow are intended for illustration only.
+APPELLATE FORMS
+FORM 1         Notice of Appeal to a Court of Appeals From a Judgment or Appealable Order
+FORM 2         Judgment Entry – Accelerated Calendar
 
-Departures from the forms shall not void papers which are otherwise sufficient, and the forms may
-be varied when necessary to meet the facts of a particular case.
+ FORM 1: NOTICE OF APPEAL TO A COURT OF APPEALS FROM A JUDGMENT
+                      OR APPEALABLE ORDER
 
-Where appropriate, the forms assume that the action was brought in the Court of Common Pleas,
-Franklin County, Ohio.
+                                COURT OF COMMON PLEAS
+                                FRANKLIN COUNTY, OHIO
 
-    FORM 1. NOTICE OF APPEAL TO A COURT OF APPEALS FROM A
-JUDGMENT OR APPEALABLE ORDER
+ A.B.                                           )
+ 221 E. West Street                             )
+ Columbus, Ohio 43215                           )
+                                                )      Case NO. _______________________
+        Plaintiff-Appellee                      )
+                                                )
+                      v.                        )
+                                                )
+ C.D.                                           )
+ 122 W. Est Street                              )
+ Columbus, Ohio 43214                           )
+                                                )
+        Defendant-Appellant                     )
 
-                                  COURT OF COMMON PLEAS
-                                  FRANKLIN COUNTY, OHIO
+                                        Notice of Appeal
 
-A.B.                                              )
-221 E. West Street                                )
-Columbus, Ohio 43215                              )      NO.
-  Plaintiff                                       )
-           v.                                     )      NOTICE OF APPEAL
-C.D.                                              )
-122 W. East Street                                )
-Columbus, Ohio 43214                              )
-Defendant-Appellant                               )
-
-        Notice is hereby given that C.D., defendant, hereby appeals to the Court of Appeals of
-Franklin County, Ohio, Tenth Appellate District (from the final judgment), from the order
-(describing it) entered in this action on the   day of             , 19 .
-
-                                                  ___________________________________
-                                                  (Attorney for Defendant)
-
-                                                  ___________________________________
-                                                  (Address)
-
-     NOTE: The above form is designed for use in courts of common pleas. Appropriate changes
-     in the designation of the court are required when the form is used for other courts.
-
-     [Effective: July 1, 1971.]
-
-       FORM 2. DOCKETING STATEMENT
-
-                                   COURT OF COMMON PLEAS
-                                   FRANKLIN COUNTY, OHIO
-
-      A.B.                                           )
-      221 East West Street                           )
-      Columbus, Ohio                          )
-        Plaintiff                                    )
-          v.                                         )       NO. CV-1981-453
-      C.D.                                           )
-      122 West East Street                           )
-      Columbus, Ohio                          )
-        Defendant                                    )
-
-                                   DOCKETING STATEMENT
-
-      (Insert one of the following statements, as applicable):
-
-       (1) No transcript is required.
-
-       (2) The approximate number of pages of transcript ordered is       .
-
-       (3) An agreed statement will be submitted in lieu of the record.
-
-       (4) The record was made in an administrative hearing and filed with the trial court.
-
-        (5) All parties to the appeal as shown by the attached statement approve assignment of the
-appeal to the accelerated calendar.
-
-       (6) The case is of a category designated for the accelerated calendar by local rule. (Specify
-category.)
+       Notice is hereby given that defendant, C.D. appeals to the Court of Appeals of Franklin
+County, Ohio, Tenth Appellate District, from the (final judgment) (order [describe the order]) that
+was issued in this case on                     , 20 . A copy of that (final judgment) (order) is
+attached.
 
                                                      ___________________________________
-                                                     Attorney for Appellant
+                                                     Attorney for Defendant
+                                                     ___________________________________
+                                                     Address
 
-      [Effective: July 1, 1982.]
+                                        Proof of Service
 
-                                   FORM 3
-                   JUDGMENT ENTRY - ACCELERATED CALENDAR
+        I certify that on [insert date], a copy of this Notice of Appeal was [(handed in person to)
+(filed electronically on) (mailed to) (delivered to a commercial carrier for delivery within three
+days to) (describe other App.R. 13(D) manner of service) the following]):
 
-                            TENTH DISTRICT COURT OF APPEALS
-                                   FRANKLIN COUNTY
+[Name of Receiving Party]
+[E-Mail Address, Mailing Address, Place of Delivery, or Fax Number]
 
-A.B.,                                         :
-221 East West Street,
-Columbus, Ohio,                               :
+NOTE: This form is designed for use in courts of common pleas. Appropriate changes in the
+designation of the court are required when the form is used for other courts.
 
-               Plaintiff,                     :
+[Effective: July 1, 1971.] [Amended: July 1, 2026.]
 
-       v.                                     :        No. CV-1981-453
+              FORM 2: JUDGMENT ENTRY - ACCELERATED CALENDAR
 
-C.D.,                                         :
-122 West East Street,
-Columbus, Ohio,                               :
+                   COURT OF APPEALS FOR FRANKLIN COUNTY, OHIO
+                            TENTH APPELLATE DISTRICT
 
-               Defendant.                     :
+ The State of Ohio,                               )
+                                                  )
+        Plaintiff-Appellee,                       )
+                                                  )
+                                                  )
+                                                  )
+                       v.                         )    Case No. ________
+                                                  )
+ John B. Doe,                                     )
+                                                  )
+        Defendant, Appellant.                     )
+                                                  )
+                                                  )
 
-                                     JUDGMENT ENTRY
+                                      JUDGMENT ENTRY
 
-Assignment of error number one is overruled for the reason that the trial court's instruction on the
-burden of proof was correct. See Jones v. State (1980), 64 Ohio St. 2d 173.
-Assignment of error number two is overruled as there was sufficient evidence presented (see
-testimony of Smith, R. 22) to support a factual finding of agency.
+The first assignment of error, in which the defendant alleges that the State presented insufficient
+evidence, is overruled because the State presented testimony from the alleged victim that touched
+on all elements of the charge. “[T]he testimony of one witness, if believed by the jury, is sufficient
+to support a conviction.” State v. Carter, 2024-Ohio-444, ¶ 26 (10th Dist.).
+
+The second assignment of error, which focuses on the trial court’s denial of a continuance request,
+is also overruled. The trial court acted within its discretion when it denied the morning-of-trial
+request for another delay after the trial had already been delayed two other times.
+
 The judgment of the trial court is affirmed.
 
-                                                  Judge, Presiding Judge
+                                                      ______________________________
+                                                      Judge
+                                                      ______________________________
+                                                      Judge
+                                                      ______________________________
+                                                      Judge
 
-                                                     Judge
-
-                                                     Judge
-
-      [Effective: July 1, 1992].
+      [Effective: July 1, 1992.] [Amended: July 1, 2026.]

@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 1336 — Uniform Fraudulent Transfer Act (Voidable Transactions)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-1336
-> **Fetched:** 2026-06-11
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 

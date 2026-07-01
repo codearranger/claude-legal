@@ -1,7 +1,7 @@
 # Ohio Rules of Practice of the Supreme Court (Sup. Ct. Prac. R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/practice/rulesofpractice.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;
@@ -83,7 +83,7 @@ SECTION 1.                  GENERAL RULES ......................................
 
           Rule 1.04.          Applicability ........................................................................................10
 
-          Rule 1.05.          Citation.................................................................................................10
+          Rule 1.05.          Citation .................................................................................................10
 
           Rule 1.06.          Construction .........................................................................................11
 
@@ -92,7 +92,7 @@ SECTION 2.               REQUIREMENTS FOR ATTORNEYS PRACTICING BEFORE
 
           Rule 2.01.          Prerequisites to Filing and Appearance ...............................................12
 
-          Rule 2.02.          Pro Hac Vice Admission......................................................................13
+          Rule 2.02.          Pro Hac Vice Admission ......................................................................13
 
           Rule 2.03.          Designation of Counsel of Record .......................................................14
 
@@ -100,7 +100,7 @@ SECTION 3.                FILING REQUIREMENTS ..................................
 
           Rule 3.01.          Citation, Style, and Format ..................................................................16
 
-          Rule 3.02.          Filing with the Supreme Court.............................................................16
+          Rule 3.02.          Filing with the Supreme Court .............................................................16
 
           Rule 3.03.          Computation and Extension of Time ...................................................19
 
@@ -175,7 +175,7 @@ SECTION 6.        APPEALS OF RIGHT .............................................
 
 SECTION 7.        JURISDICTIONAL APPEALS..............................................................41
 
-     Rule 7.01.       Institution of Jurisdictional Appeal......................................................41
+     Rule 7.01.       Institution of Jurisdictional Appeal ......................................................41
 
      Rule 7.02.       Memorandum in Support of Jurisdiction .............................................45
 
@@ -218,7 +218,7 @@ SECTION 9.        CERTIFICATION OF QUESTIONS OF STATE LAW FROM
 
                                                             3
 
-     Rule 9.04.       Parties...................................................................................................57
+     Rule 9.04.       Parties ...................................................................................................57
 
      Rule 9.05.       Briefing; Court Determination of Whether to Answer Question
                       Certified ...............................................................................................57
@@ -238,7 +238,7 @@ SECTION 10.       ADMINISTRATIVE-AGENCY APPEALS.................................
 
      Rule 10.03.      Institution of an Appeal from the Power Siting Board ........................60
 
-SECTION 11.       DEATH-PENALTY APPEALS ..............................................................61
+SECTION 11.       DEATH-PENALTY APPEALS..............................................................61
 
      Rule 11.01.      Institution of Death-Penalty Appeal of Right ......................................61
 
@@ -250,7 +250,7 @@ SECTION 11.       DEATH-PENALTY APPEALS ........................................
 
      Rule 11.05.      Briefing ................................................................................................66
 
-     Rule 11.06.      Application for Reopening...................................................................67
+     Rule 11.06.      Application for Reopening ...................................................................67
 
 SECTION 12.       ORIGINAL ACTIONS............................................................................70
 
@@ -258,7 +258,7 @@ SECTION 12.       ORIGINAL ACTIONS..............................................
 
      Rule 12.02.      Institution of an Original Action ..........................................................70
 
-     Rule 12.03.      Parties...................................................................................................71
+     Rule 12.03.      Parties ...................................................................................................71
 
      Rule 12.04.      Response to Complaint; Court Action .................................................71
 
@@ -268,7 +268,7 @@ SECTION 12.       ORIGINAL ACTIONS..............................................
 
      Rule 12.07.      Briefing ................................................................................................73
 
-                                                            4
+                                                             4
 
      Rule 12.08.   Expedited Election Cases .....................................................................73
 
@@ -325,7 +325,7 @@ SECTION 16.    BRIEFS ON THE MERITS ............................................
 
      Rule 16.01.   Limitation on Application of Briefing Rules .......................................86
 
-     Rule 16.02.   Appellant’s Brief..................................................................................86
+     Rule 16.02.   Appellant’s Brief ..................................................................................86
 
      Rule 16.03.   Appellee’s Brief ...................................................................................88
 
@@ -382,7 +382,7 @@ SECTION 18.    ENTRY OF SUPREME COURT JUDGMENT;
 
 SECTION 19.       MEDIATION PROCEEDINGS ...........................................................104
 
-     Rule 19.01.      Referral of Cases for Mediation.........................................................104
+     Rule 19.01.      Referral of Cases for Mediation .........................................................104
 
      Rule 19.02.      Privileges and Confidentiality............................................................105
 
@@ -401,7 +401,7 @@ SECTION 21.       AFFIDAVITS OF DISQUALIFICATION PROCEDURES .............108
 
      Rule 21.04.      Sealed or Redacted Documents .........................................................111
 
-     Rule 21.05.      Application of Other Supreme Court Rules of Practice.....................111
+     Rule 21.05.      Application of Other Supreme Court Rules of Practice .....................111
 
 SECTION 22.       VICTIM’S RIGHTS CASES ................................................................112
 
@@ -461,7 +461,7 @@ summarized below.
                inferior to the court of appeals as a matter of right in cases in which the death
                penalty has been imposed (for an offense committed on or after January 1, 1995);
 
-                                                8
+                                                 8
 
               (4)    Appeals of the proceedings of certain administrative officers or agencies as
               provided by statute;
@@ -614,7 +614,7 @@ Rule 2.01.    Prerequisites to Filing and Appearance.
 
                                                 12
 
-               (a)    File a notice of appearance identifying the party on whose behalf the
+               (a)     File a notice of appearance identifying the party on whose behalf the
                attorney is appearing;
 
                (b)    Specify on the document being filed that this is the attorney’s first
@@ -681,7 +681,7 @@ Rule 2.02.     Pro Hac Vice Admission.
 
 (D)    Notification and renewal
 
-       (1)    Within thirty days of being admitted pro hac vice before the Supreme Court, the
+       (1)     Within thirty days of being admitted pro hac vice before the Supreme Court, the
        attorney shall file a notice of permission to appear pro hac vice with the Office of Attorney
        Services of the Supreme Court as required by Gov.Bar R. XII.
 
@@ -728,7 +728,7 @@ January 1, 2023; April 1, 2025
 
                                                  15
 
-                       SECTION 3.            FILING REQUIREMENTS.
+                       SECTION 3.             FILING REQUIREMENTS.
 
 Rule 3.01.      Citation, Style, and Format.
 
@@ -747,9 +747,9 @@ Rule 3.02.      Filing with the Supreme Court.
                 (a)    Filing is effectuated when the Clerk’s Office file-stamps a document and
                 dockets it in a case.
 
-                (b)    Documents filed with the Supreme Court shall be available for public access
-                pursuant to Sup.R. 44 through 47. A document that has been sealed pursuant to a
-                court order, administrative agency order, or board order, or is the subject of a
+                (b)     Documents filed with the Supreme Court shall be available for public access
+                pursuant to Sup.R. 11.09 through 11.16. A document that has been sealed pursuant
+                to a court order, administrative agency order, or board order, or is the subject of a
                 motion to seal pending in the Supreme Court, shall remain under seal and not be
                 made available for public access unless ordered by the Supreme Court.
 
@@ -765,7 +765,7 @@ Rule 3.02.      Filing with the Supreme Court.
                 business hours of the Clerk’s Office. Only documents that are timely received and
                 in compliance with these rules shall be filed by the Clerk.
 
-                (b)    Paper documents may be submitted for filing in person, by delivery service,
+                (b)     Paper documents may be submitted for filing in person, by delivery service,
                 or by mail addressed to the Clerk, The Supreme Court of Ohio, 65 S. Front St., 8th
                 Floor, Columbus, Ohio 43215-3431.
 
@@ -774,7 +774,7 @@ Rule 3.02.      Filing with the Supreme Court.
                 the next business day. They will be considered timely if the documents comply
                 with these rules and were received on or before the date they were due.
 
-                                                16
+                                                 16
 
 (3)   Filing electronic documents through the E-Filing Portal
 
@@ -870,50 +870,50 @@ Rule 3.02.      Filing with the Supreme Court.
 
                                        18
 
-               Documents submitted by mail, delivery service, or through the E-Filing Portal shall
-               not be considered for filing until received by the Clerk’s Office.
+                Documents submitted by mail, delivery service, or through the E-Filing Portal shall
+                not be considered for filing until received by the Clerk’s Office.
 
-       (7)     Confirmation of delivery and filing deadlines
+        (7)     Confirmation of delivery and filing deadlines
 
-               (a)    Confirmation of delivery by any source other than the Clerk’s Office or the
-               E-Filing Portal does not verify actual receipt by the Clerk’s Office.
+                (a)    Confirmation of delivery by any source other than the Clerk’s Office or the
+                E-Filing Portal does not verify actual receipt by the Clerk’s Office.
 
-               (b)    The alteration of hours or procedures by any delivery service, including but
-               not limited to the United States Postal Service, shall not affect the filing deadlines
-               and requirements imposed by these rules.
+                (b)    The alteration of hours or procedures by any delivery service, including but
+                not limited to the United States Postal Service, shall not affect the filing deadlines
+                and requirements imposed by these rules.
 
-(B)    Prohibition against untimely filings
+(B)     Prohibition against untimely filings
 
-       No document may be filed after the filing deadlines imposed by these rules, set by Supreme
-       Court order, or as extended in accordance with Rule 3.03(B)(2) or 11.04(C). The Clerk
-       shall refuse to file a document that is not timely received in accordance with division (A)
-       of this rule. Except as provided in Rule 3.13, Rule 12.06, or Rule 12.08, motions to waive
-       this rule are prohibited and shall not be filed.
+        No document may be filed after the filing deadlines imposed by these rules, set by Supreme
+        Court order, or as extended in accordance with Rule 3.03(B)(2) or 11.04(C). The Clerk
+        shall refuse to file a document that is not timely received in accordance with division (A)
+        of this rule. Except as provided in Rule 3.13, Rule 12.06, or Rule 12.08, motions to waive
+        this rule are prohibited and shall not be filed.
 
-(C)    Rejection of noncomplying documents
+(C)     Rejection of noncomplying documents
 
-       The Clerk may reject documents that are not clearly legible or that fail to comply with the
-       requirements of these rules.
+        The Clerk may reject documents that are not clearly legible or that fail to comply with the
+        requirements of these rules.
 
 Effective Date: June 1, 1994
 Amended: April 1, 1996; April 28, 1997; July 1, 2004; October 1, 2005; January 1, 2008; January 1, 2010;
 January 1, 2013; January 1, 2015; April 14, 2015; July 22, 2015; January 1, 2017; March 1, 2019; January
 1, 2021; January 1, 2023; April 1, 2025
 
-Rule 3.03.     Computation and Extension of Time.
+Rule 3.03.      Computation and Extension of Time.
 
-(A)    Computation of time
+(A)     Computation of time
 
-       (1)     In computing any period of time prescribed or allowed by these rules or by an order
-       of the Supreme Court, the day of the act from which the designated period of time begins
-       to run shall not be included, and the last day of the period shall be included. If the last day
-       of the period is a Saturday, Sunday, or legal holiday, the period runs until 11:59:59 p.m.
-       local observed time in Columbus, Ohio on the next day that is not a Saturday, Sunday, or
-       legal holiday.
+        (1)     In computing any period of time prescribed or allowed by these rules or by an order
+        of the Supreme Court, the day of the act from which the designated period of time begins
+        to run shall not be included, and the last day of the period shall be included. If the last day
+        of the period is a Saturday, Sunday, or legal holiday, the period runs until 11:59:59 p.m.
+        local observed time in Columbus, Ohio on the next day that is not a Saturday, Sunday, or
+        legal holiday.
 
-       (2)    Notwithstanding Civ.R. 6(A), when the period of time prescribed or allowed is less
-       than seven days, as in expedited election cases under Rule 12.08, intermediate Saturdays,
-       Sundays, and legal holidays shall be included in the computation.
+        (2)    Notwithstanding Civ.R. 6(A), when the period of time prescribed or allowed is less
+        than seven days, as in expedited election cases under Rule 12.08, intermediate Saturdays,
+        Sundays, and legal holidays shall be included in the computation.
 
                                                   19
 
@@ -966,7 +966,7 @@ Rule 3.03.     Computation and Extension of Time.
 
                                                20
 
-                             (iii) The filing of a request for extension of time automatically extends
+                             (iii)  The filing of a request for extension of time automatically extends
                              the time for filing the document for which the extension is sought until the
                              Supreme Court rules on the request.
 
@@ -1011,49 +1011,50 @@ Rule 3.06.         Affidavit of Indigence or Entry of Appointment of Counsel in 
                [See Appendix A following these rules for an affidavit-of-indigence form.]
 
 (A)      Affidavit of indigence
+
                                                               21
 
-       An affidavit of indigence may be filed in lieu of filing fees or security deposits. The
-       affidavit shall be notarized and executed within six months prior to being filed in the
-       Supreme Court by the party on whose behalf it is filed. The affidavit shall state the specific
-       reasons the party does not have sufficient funds to pay the filing fee or the security deposit.
+        An affidavit of indigence may be filed in lieu of filing fees or security deposits. The
+        affidavit shall be notarized and executed within six months prior to being filed in the
+        Supreme Court by the party on whose behalf it is filed. The affidavit shall state the specific
+        reasons the party does not have sufficient funds to pay the filing fee or the security deposit.
 
-(B)    Entry appointing counsel
+(B)     Entry appointing counsel
 
-       Where counsel has been appointed by a trial or appellate court to represent an indigent
-       party, a copy of the entry of appointment may be filed in lieu of an affidavit of indigence.
+        Where counsel has been appointed by a trial or appellate court to represent an indigent
+        party, a copy of the entry of appointment may be filed in lieu of an affidavit of indigence.
 
 Effective Date: June 1, 1994
 Amended: April 1, 1996; July 1, 2004; January 1, 2008; January 1, 2010; January 1, 2013; January 1,
 2021; April 1, 2025
 
-Rule 3.07.     Cover Page.
+Rule 3.07.      Cover Page.
 
-       Each document filed in the Supreme Court shall contain a cover page, which shall be white.
-       The cover page shall contain only the following information:
+        Each document filed in the Supreme Court shall contain a cover page, which shall be white.
+        The cover page shall contain only the following information:
 
-               (A)   The case name and the case number assigned when the case was filed in the
-               Supreme Court;
+                (A)   The case name and the case number assigned when the case was filed in the
+                Supreme Court;
 
-               (B)     The nature of the proceeding in the Supreme Court (e.g., appeal, original
-               action in mandamus);
+                (B)     The nature of the proceeding in the Supreme Court (e.g., appeal, original
+                action in mandamus);
 
-               (C)    If the proceeding is an appeal, the name of the court or the administrative
-               agency from which the appeal is taken;
+                (C)    If the proceeding is an appeal, the name of the court or the administrative
+                agency from which the appeal is taken;
 
-               (D)  The title of the document (e.g., notice of appeal, appellant’s merit brief,
-               memorandum in support of jurisdiction);
+                (D)  The title of the document (e.g., notice of appeal, appellant’s merit brief,
+                memorandum in support of jurisdiction);
 
-               (E)     The volume number if the document is split into multiple volumes;
+                (E)     The volume number if the document is split into multiple volumes;
 
-               (F)     An identification of the party on whose behalf the document is filed;
+                (F)     An identification of the party on whose behalf the document is filed;
 
-               (G)    The name, attorney-registration number, address, telephone number, and e-
-               mail address, if available, of each attorney who has filed an appearance in the case;
-               an indication as to which party each attorney represents; and, where two or more
-               attorneys represent a party, designation of counsel of record in accordance with
-               Rule 2.03. A party who is not represented by an attorney shall indicate the party’s
-               name, address, and telephone number.
+                (G)     The name, attorney-registration number, address, telephone number, and e-
+                mail address, if available, of each attorney who has filed an appearance in the case;
+                an indication as to which party each attorney represents; and, where two or more
+                attorneys represent a party, designation of counsel of record in accordance with
+                Rule 2.03. A party who is not represented by an attorney shall indicate the party’s
+                name, address, and telephone number.
 
 Effective Date: June 1, 1994
 Amended: April 1, 1996; June 1, 2000; February 1, 2001; July 1, 2004; February 1, 2007; January 1, 2008;
@@ -1061,58 +1062,58 @@ January 1, 2010; January 1, 2013; January 1, 2017; March 1, 2019; April 1, 2025
 
                                                   22
 
-Rule 3.08.     Signature.
+Rule 3.08.      Signature.
 
-(A)    Paper documents
+(A)     Paper documents
 
-       The original of every paper document filed in the Supreme Court shall be signed by an
-       attorney representing the party on whose behalf the document is filed. A party who is not
-       represented by an attorney shall sign the document being filed.
+        The original of every paper document filed in the Supreme Court shall be signed by an
+        attorney representing the party on whose behalf the document is filed. A party who is not
+        represented by an attorney shall sign the document being filed.
 
-(B)    Electronic documents
+(B)     Electronic documents
 
-       A document that is filed through the E-Filing Portal pursuant to Rule 3.02 shall include a
-       scanned version of the person’s original signature or a signature line with a forward slash
-       followed by an “s” followed by the person’s name in print (e.g., /s “John T. Smith”).
+        A document that is filed through the E-Filing Portal pursuant to Rule 3.02 shall include a
+        scanned version of the person’s original signature or a signature line with a forward slash
+        followed by an “s” followed by the person’s name in print (e.g., /s “John T. Smith”).
 
 Effective Date: June 1, 1994
 Amended: April 1, 1996; June 1, 2000; February 1, 2001; July 1, 2004; February 1, 2007; January 1, 2008;
 January 1, 2010; January 1, 2013; January 1, 2015; March 1, 2019; April 1, 2025
 
-Rule 3.09.     Mechanical Requirements.
+Rule 3.09.      Mechanical Requirements.
 
-(A)    Applicability to paper and electronic documents
+(A)     Applicability to paper and electronic documents
 
-       The requirements of this rule apply to both paper documents and electronic documents
-       submitted through the E-Filing Portal, unless a provision is clearly inapplicable to
-       electronically filed documents.
+        The requirements of this rule apply to both paper documents and electronic documents
+        submitted through the E-Filing Portal, unless a provision is clearly inapplicable to
+        electronically filed documents.
 
-(B)    General
+(B)     General
 
-       (1)     Typeface; single-sided
+        (1)     Typeface; single-sided
 
-               (a)     Every original document filed with the Supreme Court shall be single-sided,
-               shall be typewritten or prepared by computer, word processor, or other standard
-               typographic process, and shall comply with the requirements of this rule. The Clerk
-               of the Supreme Court shall scan and make part of the record only the single-sided
-               pages of a document.
+                (a)     Every original document filed with the Supreme Court shall be single-sided,
+                shall be typewritten or prepared by computer, word processor, or other standard
+                typographic process, and shall comply with the requirements of this rule. The Clerk
+                of the Supreme Court shall scan and make part of the record only the single-sided
+                pages of a document.
 
-               (b)    The text of all documents shall be at least 12-point type and in one of the
-               following typefaces:
+                (b)    The text of all documents shall be at least 12-point type and in one of the
+                following typefaces:
 
-                       (i)     Times New Roman;
+                        (i)     Times New Roman;
 
-                       (ii)    Cambria;
+                        (ii)    Cambria;
 
-                       (iii)   Calibri;
+                        (iii)   Calibri;
 
                                                   23
 
-                     (iv)   Arial Standard (i.e., not Black, Rounded, Unicode, or Narrow);
+                     (iv)    Arial Standard (i.e., not Black, Rounded, Unicode, or Narrow);
 
-                     (v)    Palatino Linotype;
+                     (v)     Palatino Linotype;
 
-                     (vi)   Century Schoolbook.
+                     (vi)    Century Schoolbook.
 
              (c)      If one of the typefaces specified by division (B)(1)(b) of this rule is not
              available, the filing party shall use a typeface that is substantially equivalent to the
@@ -1156,7 +1157,7 @@ Rule 3.09.     Mechanical Requirements.
                (a)    A photocopy of the opinion or decision issued directly by the court or
                agency;
 
-               (b)    An electronically generated copy that meets the requirements of division
+               (b)     An electronically generated copy that meets the requirements of division
                (B)(3) of this rule, except that an electronically generated copy of an opinion may
                be single-spaced.
 
@@ -1256,7 +1257,7 @@ Rule 3.11.      Service of Documents; Notice When Documents Are Rejected for Fil
              (b)     A party is not required to serve a copy of a complaint filed to institute an
              original action, any documents that are submitted with a complaint filed to institute
              an original action, a form containing omitted personal identifiers as required by
-             Sup.R. 45(D), or an affidavit of indigency or entry appointing counsel submitted in
+             Sup.R. 11.13, or an affidavit of indigency or entry appointing counsel submitted in
              lieu of a filing fee. This division shall not apply to an amended complaint filed
              under Rule 3.13 and Civ.R. 15(A) in an original action.
 
@@ -1296,100 +1297,100 @@ Rule 3.11.      Service of Documents; Notice When Documents Are Rejected for Fil
 
                                                 27
 
-       shall state the date and manner of service and identify the names of the persons served and
-       shall be signed by the party or the friend of the court who files the document.
+        shall state the date and manner of service and identify the names of the persons served and
+        shall be signed by the party or the friend of the court who files the document.
 
-       (2)     In an appeal from the Public Utilities Commission or the Power Siting Board, the
-       notice of appeal shall also contain a certificate of filing to demonstrate that the appellant
-       filed a notice of appeal with the docketing division of the Public Utilities Commission in
-       accordance with Ohio Adm. Code 4901-1-02(A) and 4901-1-36.
+        (2)     In an appeal from the Public Utilities Commission or the Power Siting Board, the
+        notice of appeal shall also contain a certificate of filing to demonstrate that the appellant
+        filed a notice of appeal with the docketing division of the Public Utilities Commission in
+        accordance with Ohio Adm. Code 4901-1-02(A) and 4901-1-36.
 
-(E)    Failure to provide service
+(E)     Failure to provide service
 
-       (1)     When a party or friend of the court fails to serve a party or parties to the case in
-       accordance with division (B) of this rule, any party adversely affected may file a motion to
-       strike the document that was not served. Within ten days after a motion to strike is filed,
-       the party or friend of the court against whom the motion is filed may file a memorandum
-       in response.
+        (1)     When a party or friend of the court fails to serve a party or parties to the case in
+        accordance with division (B) of this rule, any party adversely affected may file a motion to
+        strike the document that was not served. Within ten days after a motion to strike is filed,
+        the party or friend of the court against whom the motion is filed may file a memorandum
+        in response.
 
-       (2)     If the Supreme Court determines that service was not made as required by this rule,
-       it may strike the document or, if the interests of justice warrant, order that the document be
-       served and impose a new deadline for filing any responsive document. If the Supreme
-       Court determines that service was made as required by this rule or that service was not
-       made but the movant was not adversely affected, it may deny the motion to strike.
+        (2)     If the Supreme Court determines that service was not made as required by this rule,
+        it may strike the document or, if the interests of justice warrant, order that the document be
+        served and impose a new deadline for filing any responsive document. If the Supreme
+        Court determines that service was made as required by this rule or that service was not
+        made but the movant was not adversely affected, it may deny the motion to strike.
 
-(F)    Notice to other parties when document is rejected for filing
+(F)     Notice to other parties when document is rejected for filing
 
-       If a document presented for filing is rejected by the Clerk under these rules, the party or
-       friend of the court who presented the document for filing shall promptly notify all of the
-       parties served with a copy of the document that the document was not filed in the case.
+        If a document presented for filing is rejected by the Clerk under these rules, the party or
+        friend of the court who presented the document for filing shall promptly notify all of the
+        parties served with a copy of the document that the document was not filed in the case.
 
 Effective Date: June 1, 1994
 Amended: April 1, 1996; April 28, 1997; July 1, 2004; October 1, 2005; January 1, 2008; January 1, 2010;
 January 1, 2013; January 1, 2015; September 29, 2017; September 13, 2018; March 1, 2019; January 1,
 2021; January 1, 2023; April 1, 2025
 
-Rule 3.12.     Maintaining Privacy of Personal Identifying Information.
+Rule 3.12.      Maintaining Privacy of Personal Identifying Information.
 
                       [See Appendix B for a sample personal-identifier form.]
 
-(A)    Presumption of public access
+(A)     Presumption of public access
 
-       Pursuant to Sup.R. 44 through 47 and as indicated in Rule 3.02(A)(1)(b), documents filed
-       with the Supreme Court are public records.
+        Pursuant to Sup.R. 11.09 through 11.16 and as indicated in Rule 3.02(A)(1)(b), documents
+        filed with the Supreme Court are public records.
 
-(B)    Redaction of personal identifiers
+(B)     Redaction of personal identifiers
 
-       (1)    To protect legitimate personal privacy interests, social security numbers and other
-       personal identifying information shall be redacted from documents before the documents
+        (1)    To protect legitimate personal privacy interests, social security numbers and other
+        personal identifying information shall be redacted from documents before the documents
 
                                                   28
 
-       are filed with the Supreme Court in accordance with Sup.R. 45(D). The responsibility for
-       redacting personal identifying information rests solely with the attorneys and parties who
-       file the documents. The Clerk of the Supreme Court will not review the documents to
-       confirm that personal identifying information has been excluded.
+        are filed with the Supreme Court in accordance with Sup.R. 11.13. The responsibility for
+        redacting personal identifying information rests solely with the attorneys and parties who
+        file the documents. The Clerk of the Supreme Court will not review the documents to
+        confirm that personal identifying information has been excluded.
 
-       (2)    If personal identifying information is redacted or omitted from a document, the
-       information shall be provided to the Supreme Court on a separate form that indicates what
-       information has been redacted or omitted, and provides the location of the redacted or
-       omitted information.
+        (2)    If personal identifying information is redacted or omitted from a document, the
+        information shall be provided to the Supreme Court on a separate form that indicates what
+        information has been redacted or omitted, and provides the location of the redacted or
+        omitted information.
 
-(C)    Motion for leave to redact
+(C)     Motion for leave to redact
 
-       Notwithstanding Rule 3.13, a party may file a motion for leave to redact the original of a
-       previously filed document if personal identifying information was not omitted or redacted
-       when the document was initially filed.
+        Notwithstanding Rule 3.13, a party may file a motion for leave to redact the original of a
+        previously filed document if personal identifying information was not omitted or redacted
+        when the document was initially filed.
 
 Effective Date: June 1, 1994
 Amended: April 1, 1996; June 1, 2000; February 1, 2001; July 1, 2004; February 1, 2007; January 1, 2008;
 January 1, 2010; January 1, 2013; April 1, 2025
 
-Rule 3.13.     Corrections or Additions to Previously Filed Documents.
+Rule 3.13.      Corrections or Additions to Previously Filed Documents.
 
-(A)    General
+(A)     General
 
-       A party who wishes to make corrections or additions to a previously filed document shall
-       file a revised document and copies that completely incorporate the corrections or additions.
+        A party who wishes to make corrections or additions to a previously filed document shall
+        file a revised document and copies that completely incorporate the corrections or additions.
 
-(B)    Time to file
+(B)     Time to file
 
-       (1)     The revised document shall be filed within the time permitted by these rules for
-       filing the original document, except that corrections or additions shall not be made to a
-       motion if a memorandum opposing the motion has already been filed. Except as provided
-       in division (B)(3) of this rule, the Clerk of the Supreme Court shall refuse to file an
-       untimely revised document.
+        (1)     The revised document shall be filed within the time permitted by these rules for
+        filing the original document, except that corrections or additions shall not be made to a
+        motion if a memorandum opposing the motion has already been filed. Except as provided
+        in division (B)(3) of this rule, the Clerk of the Supreme Court shall refuse to file an
+        untimely revised document.
 
-       (2)    Time permitted by these rules for filing any responsive document shall begin to run
-       when the revised document is filed.
+        (2)    Time permitted by these rules for filing any responsive document shall begin to run
+        when the revised document is filed.
 
-       (3)     When the time permitted by these rules to file the original document has expired, a
-       party may file a motion for leave to file a revised document. The revised document shall
-       be attached to the motion for leave. The Clerk shall refuse to file a motion for leave that
-       is not accompanied by the revised document, and motions to waive this rule are prohibited
-       and shall not be filed.
+        (3)     When the time permitted by these rules to file the original document has expired, a
+        party may file a motion for leave to file a revised document. The revised document shall
+        be attached to the motion for leave. The Clerk shall refuse to file a motion for leave that
+        is not accompanied by the revised document, and motions to waive this rule are prohibited
+        and shall not be filed.
 
-(C)    Revised document supersedes original
+(C)     Revised document supersedes original
 
                                                   29
 
@@ -1477,50 +1478,50 @@ Amended: January 1, 2013; April 1, 2025
 
                                                   31
 
-Rule 4.03.     Frivolous Actions; Sanctions; Vexatious Litigators.
+Rule 4.03.      Frivolous Actions; Sanctions; Vexatious Litigators.
 
-(A)    Supreme Court sanction
+(A)     Supreme Court sanction
 
-       A filing is frivolous if it is not reasonably grounded in fact or warranted by existing law or
-       a good-faith argument for the extension, modification, or reversal of existing law. If the
-       Supreme Court, sua sponte or on motion by a party, determines that a filing is frivolous or
-       is prosecuted for delay, harassment, or any other improper purpose, the Court may sanction
-       the person who signed or submitted the filing in his or her name, the represented party, or
-       both. Sanctions may include any sanction the Supreme Court considers just, including an
-       award to an opposing party of reasonable attorney fees and other litigation expenses.
+        A filing is frivolous if it is not reasonably grounded in fact or warranted by existing law or
+        a good-faith argument for the extension, modification, or reversal of existing law. If the
+        Supreme Court, sua sponte or on motion by a party, determines that a filing is frivolous or
+        is prosecuted for delay, harassment, or any other improper purpose, the Court may sanction
+        the person who signed or submitted the filing in his or her name, the represented party, or
+        both. Sanctions may include any sanction the Supreme Court considers just, including an
+        award to an opposing party of reasonable attorney fees and other litigation expenses.
 
-(B)    Vexatious litigator
+(B)     Vexatious litigator
 
-       The Supreme Court, of its own initiative or on motion by a party, may declare a party or
-       person who signed a filing to be a vexatious litigator if the party or person who signed a
-       filing habitually or persistently engaged in conduct warranting sanctions under Rule
-       4.03(A) whether or not the Court exercised its discretion to impose such sanctions. The
-       Court in any pending or future case may impose upon a vexatious litigator any restriction
-       on filing with the Court that the Court considers just. Such restrictions include requiring
-       leave of Court to file a document and prohibiting the filing of actions in the Supreme Court
-       without the filing fee or security for costs required by Rules 3.04 and 3.05.
+        The Supreme Court, of its own initiative or on motion by a party, may declare a party or
+        person who signed a filing to be a vexatious litigator if the party or person who signed a
+        filing habitually or persistently engaged in conduct warranting sanctions under Rule
+        4.03(A) whether or not the Court exercised its discretion to impose such sanctions. The
+        Court in any pending or future case may impose upon a vexatious litigator any restriction
+        on filing with the Court that the Court considers just. Such restrictions include requiring
+        leave of Court to file a document and prohibiting the filing of actions in the Supreme Court
+        without the filing fee or security for costs required by Rules 3.04 and 3.05.
 
 Effective Date: June 1, 1994
 Amended: April 1, 1996; April 28, 1997; July 1, 2004; October 1, 2005; January 1, 2008; January 1, 2010;
 January 1, 2013; April 1, 2025
 
-Rule 4.04.     Recusal or Disqualification of a Justice.
+Rule 4.04.      Recusal or Disqualification of a Justice.
 
-(A)    Definition
+(A)     Definition
 
-       As used in this rule, “justice” means the Chief Justice or any justice of the Supreme Court
-       or any judge of the court of appeals assigned to sit in place of the Chief Justice or a justice
-       pursuant to Article IV, Section 2 of the Ohio Constitution.
+        As used in this rule, “justice” means the Chief Justice or any justice of the Supreme Court
+        or any judge of the court of appeals assigned to sit in place of the Chief Justice or a justice
+        pursuant to Article IV, Section 2 of the Ohio Constitution.
 
-(B)    Request to recuse
+(B)     Request to recuse
 
-       (1)     A party to a case pending before the Supreme Court or the counsel for a party may
-       request the recusal of a justice by filing a request with the Clerk of the Supreme Court. The
-       request shall be in the form of a letter addressed to the Clerk that includes the name and
-       number of the case and the name of the justice whose recusal is being requested. The letter
-       shall be accompanied by an affidavit, signed by the party or party’s counsel, that includes
-       the specific basis for the recusal request and facts in support of the request. The filing party
-       shall serve the letter and affidavit as required by Rule 3.11(D).
+        (1)     A party to a case pending before the Supreme Court or the counsel for a party may
+        request the recusal of a justice by filing a request with the Clerk of the Supreme Court. The
+        request shall be in the form of a letter addressed to the Clerk that includes the name and
+        number of the case and the name of the justice whose recusal is being requested. The letter
+        shall be accompanied by an affidavit, signed by the party or party’s counsel, that includes
+        the specific basis for the recusal request and facts in support of the request. The filing party
+        shall serve the letter and affidavit as required by Rule 3.11(D).
 
                                                   32
 
@@ -1815,7 +1816,7 @@ Rule 6.01.    Institution of an Appeal of Right.
                       (ii)    The case originated in the court of common pleas and is an appeal
                       of a contest of an election under R.C. 3515.15;
 
-                      (iii) The decision being appealed is from the denial of an application for
+                      (iii)   The decision being appealed is from the denial of an application for
                       DNA testing pursuant to R.C. 2953.73 by a person who has been sentenced
                       to death.
 
@@ -2059,17 +2060,17 @@ Rule 7.01.    Institution of Jurisdictional Appeal.
 
                                               44
 
-                      (iii)   The case is one of public or great general interest;
+                       (iii)   The case is one of public or great general interest;
 
-                      (iv)   The case involves termination of parental rights or adoption of a
-                      minor child, or both;
+                       (iv)   The case involves termination of parental rights or adoption of a
+                       minor child, or both;
 
-                      (v)   The case is an appeal of a court of appeals’ determination under
-                      App.R. 26(B);
+                       (v)   The case is an appeal of a court of appeals’ determination under
+                       App.R. 26(B);
 
-                      (vi)    The case involves death-penalty postconviction proceedings;
+                       (vi)    The case involves death-penalty postconviction proceedings;
 
-                      (vii)   The case involves the setting or denial of bail.
+                       (vii)   The case involves the setting or denial of bail.
 
        (2)      In a jurisdictional appeal, if a party has timely moved the court of appeals to certify
        a conflict under App.R. 25, the notice of appeal shall be accompanied by a notice of
@@ -2215,7 +2216,7 @@ Rule 7.04.     Prohibition Against Supplemental and Reply Memoranda.
 
 (A)    Supplemental memoranda
 
-       (1)   Except as provided in Rule 3.13, jurisdictional memoranda shall not be
+       (1)    Except as provided in Rule 3.13, jurisdictional memoranda shall not be
        supplemented.
 
        (2)     If a relevant authority is issued after the deadline has passed for filing a party’s
@@ -2681,7 +2682,7 @@ Rule 10.01.     Institution of an Appeal from a Decision of the Board of Tax App
        applications filed with and determined by the Board shall be taken to the court of appeals
        as provided for by R.C. 5717.04.
 
-       (3)    A notice of appeal from a decision of the Board of Tax Appeals shall be filed both
+       (3)     A notice of appeal from a decision of the Board of Tax Appeals shall be filed both
        with the Supreme Court and with the Board within thirty days from the date of the entry of
        the decision of the Board.
 
@@ -2877,24 +2878,24 @@ pleas
       the appellant shall, by written praecipe, order from the reporter a complete transcript of the
       proceedings.
 
-      (3)    A transcript prepared by a reporter under this rule shall be in the following form:
+      (3)     A transcript prepared by a reporter under this rule shall be in the following form:
 
-             (a)    The transcript shall include a front and back cover; the front cover shall bear
-             the case name and number and the name of the court in which the proceedings
-             occurred;
+              (a)    The transcript shall include a front and back cover; the front cover shall bear
+              the case name and number and the name of the court in which the proceedings
+              occurred;
 
-             (b)     The transcript shall be firmly bound on the left side;
+              (b)     The transcript shall be firmly bound on the left side;
 
-             (c)    The first page inside the front cover shall set forth the nature of the
-             proceedings, the date or dates of the proceedings, and the judge or judges who
-             presided;
+              (c)    The first page inside the front cover shall set forth the nature of the
+              proceedings, the date or dates of the proceedings, and the judge or judges who
+              presided;
 
-             (d)    The transcript shall be prepared on white paper, 8 1/2 by 11 inches in size,
-             with the lines of each page numbered and the pages sequentially numbered;
+              (d)    The transcript shall be prepared on white paper, 8 1/2 by 11 inches in size,
+              with the lines of each page numbered and the pages sequentially numbered;
 
-             (e)     An index of witnesses shall be included in the front of each volume of the
-             transcript and shall contain page and line references to direct, cross, re-direct, and
-             re-cross examination;
+              (e)     An index of witnesses shall be included in the front of each volume of the
+              transcript and shall contain page and line references to direct, cross, re-direct, and
+              re-cross examination;
 
                                                 63
 
@@ -3041,7 +3042,7 @@ Rule 11.05.    Briefing.
 
                                                   66
 
-               (5)    A party may obtain one forty-five day extension of time to file a merit brief
+               (5)     A party may obtain one forty-five day extension of time to file a merit brief
                in accordance with the provisions of Rule 3.03(B)(2).
 
 Effective: June 1, 1994
@@ -3655,7 +3656,7 @@ Rule 15.01.    Composition of the Record on Appeal.
 
                (a)     The original papers and exhibits to those papers;
 
-               (b)     The transcript of proceedings and exhibits, along with an electronic version
+               (b)      The transcript of proceedings and exhibits, along with an electronic version
                of the transcript, if available;
 
                (c)    Either the original journal entries, or certified copies, and the docket
@@ -3797,7 +3798,7 @@ motion of a party, may direct that a supplemental record be certified and transm
 of the Supreme Court in accordance with Rule 15.03(B).
 
 Effective Date: June 1, 1994
-Amended: April 1, 1996; April 1, 2000; July 1, 2004; January 1, 2008; January 1, 2010; January 1, 2013;
+Amended: April 1, 1996; April 1, 2000; July 1, 2004; January 1, 2008; January 1, 2010; January 1, 2013 ;
 April 1, 2025
 
 Rule 15.09.     Return of Record.
@@ -3808,7 +3809,7 @@ the record to the clerk or custodian that transmitted the record.
 Effective Date: January 1, 2010
 Amended: January 1, 2013; April 1, 2025
 
-                                                  85
+                                                   85
 
                       SECTION 16.              BRIEFS ON THE MERITS.
 
@@ -3893,12 +3894,12 @@ Rule 16.02.    Appellant’s Brief.
 
 (C)    Page limit
 
-       (1)    Except in death-penalty appeals of right and in postconviction death-penalty
+       (1)     Except in death-penalty appeals of right and in postconviction death-penalty
        appeals, the appellant’s brief shall not exceed fifty numbered pages, exclusive of the table
        of contents, the table of authorities cited, the certificate of service, the signature block, and
        the appendix.
 
-       (2)    In death-penalty appeals of right filed pursuant to Rule 5.01(A)(1), (2), (4), or (6)
+       (2)     In death-penalty appeals of right filed pursuant to Rule 5.01(A)(1), (2), (4), or (6)
        and in postconviction death-penalty appeals filed pursuant to Rule 7, the appellant’s brief
        has no page limitation.
 
@@ -3940,7 +3941,7 @@ Rule 16.03.    Appellee’s Brief.
 
 (C)    Page limit
 
-       (1)    Except in death-penalty appeals of right and in postconviction death-penalty
+       (1)     Except in death-penalty appeals of right and in postconviction death-penalty
        appeals, the appellee’s brief shall not exceed fifty numbered pages, exclusive of the table
        of contents, the table of authorities cited, the certificate of service, the signature block, and
        the appendix.
@@ -4065,7 +4066,7 @@ Rule 16.05.    Merit Briefs in Case Involving Cross-Appeal.
                minor child, or both, or the setting or denial of bail, if a fourth brief is filed, it shall
                be filed within fifteen days after the filing of the third brief.
 
-               (b)    In every other appeal, if a fourth brief is filed, it shall be filed within twenty
+               (b)     In every other appeal, if a fourth brief is filed, it shall be filed within twenty
                days after the filing of the third brief.
 
        (2)     (a)     Except in death-penalty appeals of right and in postconviction death-penalty
@@ -4620,7 +4621,8 @@ Rule 19.01.   Referral of Cases for Mediation.
 
               (e)    A notice related to counsel;
 
-              (f)    A motion for leave to redact personal identifiers as defined by Sup.R. 44(H);
+              (f)    A motion for leave to redact personal identifiers as defined by Sup.R. 11.09
+                     (H);
 
               (g)    A motion to remand.
 
@@ -4894,7 +4896,7 @@ Amended: April 1, 2025
 
                                                111
 
-                      SECTION 22.             VICTIM’S RIGHTS CASES.
+                       SECTION 22.            VICTIM’S RIGHTS CASES.
 
 Rule 22.01.       Institution of a Victim’s Rights Case.
 
@@ -4937,7 +4939,7 @@ Rule 22.02       Expedited Scheduling Orders for Petition for an Extraordinary W
        The parties shall have five days from the filing of the answer by respondent to submit
        simultaneous briefs.
 
-                                                112
+                                                 112
 
 (C)    Entry of judgment
 
@@ -4985,7 +4987,7 @@ Interlocutory Decision.
        deadlines under divisions (A) through (D) of this rule.
 Effective Date: May 1, 2025
 
-                                                113
+                                                 113
 
                            APPENDICES
 

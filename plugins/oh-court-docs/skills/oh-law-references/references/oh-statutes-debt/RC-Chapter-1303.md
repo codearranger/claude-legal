@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 1303 — Uniform Commercial Code — Negotiable Instruments (Article 3)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-1303
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 

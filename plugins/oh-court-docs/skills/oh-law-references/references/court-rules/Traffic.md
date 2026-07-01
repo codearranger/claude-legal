@@ -1,7 +1,7 @@
 # Ohio Traffic Rules (Traf. R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/traffic/Traffic.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;
@@ -72,59 +72,62 @@ RULE 2.        Definitions.
 As used in these rules:
 
        (A)     “Traffic case” means any proceeding, other than a proceeding that includes an
-       alleged violation of Title 29 of the Revised Code, that involves one or more alleged
-       violations of a law, ordinance, or regulation governing the operation and use of vehicles,
-       conduct of pedestrians in relation to vehicles, or weight, dimension, loads or equipment, or
-       vehicles drawn or moved on highways and bridges.
+               alleged violation of Title 29 of the Revised Code, that involves one or more alleged
+               violations of a law, ordinance, or regulation governing the operation and use of
+               vehicles, conduct of pedestrians in relation to vehicles, or weight, dimension, loads
+               or equipment, or vehicles drawn or moved on highways and bridges.
 
-       (B)     “Traffic ticket” means the traffic complaint and summons described in Traffic Rule
-       3 and that appears in the Appendix of Forms.
+       (B)      “Traffic ticket” means the traffic complaint and summons described in Traffic Rule
+               3 and that appears in the Appendix of Forms.
 
        (C)     “Highway” includes a street or an alley.
 
-       (D)    “Petty offense” means an offense for which the penalty prescribed by law includes
-       confinement for six months or less.
+       (D)      “Petty offense” means an offense for which the penalty prescribed by law includes
+               confinement for six months or less.
 
-       (E)     “Serious offense” means an offense for which the penalty prescribed by law
-       includes confinement for more than six months.
+       (E)      “Serious offense” means an offense for which the penalty prescribed by law
+               includes confinement for more than six months.
 
-       (F)  “Court” means a municipal court, county court, juvenile division of the court of
-       common pleas, or mayor’s court.
+       (F)      “Court” means a municipal court, county court, juvenile division of the court of
+               common pleas, or mayor’s court.
 
        (G)      “Judge” means judge of a municipal court, county court, or juvenile ivision of the
-       court of common pleas, a magistrate of a municipal or county court, or a mayor or mayor’s
-       court magistrate presiding over a mayor’s court.
+               court of common pleas, a magistrate of a municipal or county court, or a mayor or
+               mayor’s court magistrate presiding over a mayor’s court.
 
-       (H)     “Prosecuting attorney” means the attorney general of this state, the prosecuting
-       attorney of a county, the law director, city solicitor, or other officer who prosecutes a
-       criminal case on behalf of the state or a city, village, township, or other political
-       subdivision, and the assistant or assistants of any of them.
+       (H)      “Prosecuting attorney” means the attorney general of this state, the prosecuting
+               attorney of a county, the law director, city solicitor, or other officer who prosecutes
+               a criminal case on behalf of the state or a city, village, township, or other political
+               subdivision, and the assistant or assistants of any of them.
 
-       (I)     “State” means this state, a county, city, village, township, other political
-       subdivision or any other entity of this state that may prosecute a criminal action.
+       (I)      “State” means this state, a county, city, village, township, other political
+               subdivision or any other entity of this state that may prosecute a criminal action.
 
-       (J)     “Clerk of court” means the duly elected or appointed clerk of any court of record,
-       or the deputy of any of them, and either the mayor of a municipal corporation having a
-       mayor’s court or any clerk appointed by the mayor.
+       (J)      “Clerk of court” means the duly elected or appointed clerk of any court of record,
+               or the deputy of any of them, and either the mayor of a municipal corporation
+               having a mayor’s court or any clerk appointed by the mayor.
 
-       (K)    “Appear,” “appearance,” or “in person” mean the physical or remote presence of
-       an individual.
+       (K)     “Appear,” “appearance,” or “in person” mean the physical or remote presence of
+               an individual.
 
        (L)     “Attendance” means the physical or remote presence of an individual.
 
-        (M) “Open court” includes a court proceeding open to the public in person or by remote
-        access to the live proceeding.
+        (M)     “Open court” includes a court proceeding open to the public in person or by remote
+                access to the live proceeding.
 
-        (N)    “Personal” or “Personally” means the physical or remote presence of an individual
-        except as provided by Traf.R. 3(E)(1).
+        (N)     “Personal” or “Personally” means the physical or remote presence of an individual
+                except as provided by Traf.R. 3(E)(1).
 
         (O)     “Present” means the physical or remote presence of an individual.
 
-        (P)    “Remote presence” means the presence of a person who is using live two-way video
-        and/or audio technology.
+        (P)     “Remote presence” means the presence of a person who is using live two-way video
+                and/or audio technology.
+
+        (Q)     “Supplemental citation” is a citation signed by the clerk of court that meets the
+                requirements of R.C. 2935.26(B).
 
 Effective Date: January 1, 1975
-Amended: February 1, 2002; January 1, 2006; January 1, 2010; July 1, 2022
+Amended: February 1, 2002; January 1, 2006; January 1, 2010; July 1, 2022; July 1, 2026
 
                                  Traffic Rules Review Commission
                               Commentary (February 1, 2002 Amendment)
@@ -154,11 +157,11 @@ RULE 3.      Complaint and Summons; Form; Use.
 (B)   Traffic complaint and summons form
 
       The Ohio Uniform Traffic Ticket shall consist of four sheets, padded together and bound
-      at the top or bottom edge. Each sheet shall be four and one-fourth inches in width and
-      nine and one-half inches in length from a perforation below the binding to the bottom
-      edge. The first sheet shall be white and the second sheet shall be canary yellow. Where
-      an additional copy is needed by an agency, it may be added. The first and second sheets
-      shall be at least fifteen pound paper.
+      at the top or bottom edge. Each sheet shall be four and one-fourth inches in width and nine
+      and one-half inches in length from a perforation below the binding to the bottom edge. The
+      first sheet shall be white and the second sheet shall be canary yellow. Where an additional
+      copy is needed by an agency, it may be added. The first and second sheets shall be at least
+      fifteen pound paper.
 
       The first sheet shall be the court record.
 
@@ -188,7 +191,6 @@ RULE 3.      Complaint and Summons; Form; Use.
       violation on a single ticket provided the alleged violations are numbered sequentially on
       the face of the ticket. An officer who completes a ticket at the scene of an alleged offense
       shall not be required to rewrite or type a new complaint as a condition of filing the ticket,
-
       unless the original complaint is illegible or does not state an offense. If a new complaint
       is executed, a copy shall be served upon defendant as soon as possible.
 
@@ -206,52 +208,70 @@ RULE 3.      Complaint and Summons; Form; Use.
 
 (E)   Duty of law enforcement officer
 
-      (1)     A law enforcement officer who issues a ticket shall complete and sign the ticket,
-      serve a copy of the completed ticket on the defendant, and, without unnecessary delay, file
-      the court record with the court. If the issuing officer personally serves a copy of the
-      completed ticket on the defendant, the issuing officer shall note the date of personal service
-      on the ticket in the space provided. If the issuing officer is unable to serve a copy of the
-      completed ticket on the defendant, the completed ticket may be served by another law
-      enforcement officer of the law enforcement agency issuing the ticket or filed with the clerk
-      of the court for issuance of a warrant or summons pursuant to Crim.R. 4. Tickets that
-      solely allege one or more minor misdemeanor violations must initially be issued by
-      summons.
+      (1)    A law enforcement officer who issues a ticket shall complete and sign the ticket,
+             serve a copy of the completed ticket on the defendant, and, without unnecessary
+             delay, file the court record with the court. If the issuing officer personally serves a
+             copy of the completed ticket on the defendant, the issuing officer shall note the date
+             of personal service on the ticket in the space provided. If the issuing officer is
+             unable to serve a copy of the completed ticket on the defendant, the completed
+             ticket may be served by another law enforcement officer of the law enforcement
+             agency issuing the ticket or filed with the clerk of the court for issuance of a warrant
+             or summons pursuant to Crim.R. 4. Tickets that solely allege one or more minor
+             misdemeanor violations must initially be issued by summons.
 
-      (2)      The officer shall notify defendant that if defendant does not appear at the time and
-      place stated in the citation or comply with division (C) of section 2935.26 of the Revised
-      Code, defendant's license will be cancelled, defendant will not be eligible for the reissuance
-      of the license or the issuance of a new license for one year after cancellation, and defendant
-      will be subject to any applicable criminal penalties.
+      (2)    The officer shall notify defendant that if defendant does not appear at the time and
+             place stated in the citation or comply with division (C) of section 2935.26 of the
+             Revised Code, defendant's license will be cancelled, defendant will not be eligible
+             for the reissuance of the license or the issuance of a new license for one year after
+             cancellation, and defendant will be subject to any applicable criminal penalties.
 
 (F)   Use of electronically produced tickets
 
-      (1)     Local rules adopted by a court pursuant to the Supreme Court Rules of
-      Superintendence for the Courts of Ohio may provide for the use of a ticket that is produced
-      by computer or other electronic means. A ticket produced by computer or other electronic
-      means shall not require the signature of the defendant. A ticket produced by computer or
-      other electronic means shall conform in all substantive respects to the “Ohio Uniform
-      Traffic Ticket” set forth in the Appendix of Forms. The provisions of division (B) of this
-      rule relative to the color and weight of paper, size, and method of binding shall not be
-      applicable to a ticket that is produced by computer or other electronic means. The ticket
-      paper shall be of sufficient quality to allow the court record copy to remain unchanged for
+      (1)    Local rules adopted by a court pursuant to the Supreme Court Rules of
+             Superintendence for the Courts of Ohio may provide for the use of a ticket that is
+             produced by computer or other electronic means. A ticket produced by computer
+             or other electronic means shall not require the signature of the defendant. A ticket
+             produced by computer or other electronic means shall conform in all substantive
+             respects to the “Ohio Uniform Traffic Ticket” set forth in the Appendix of Forms.
+             The provisions of division (B) of this rule relative to the color and weight of paper,
+             size, and method of binding shall not be applicable to a ticket that is produced by
+             computer or other electronic means. The ticket paper shall be of sufficient quality
+             to allow the court record copy to remain unchanged for the period of the retention
+             schedule for the various traffic offenses as prescribed by Rule 11.33 of the Rules
+             of Superintendence for the Courts of Ohio. The court record of the ticket shall be
 
-        the period of the retention schedule for the various traffic offenses as prescribed by Rule
-        26.05 of the Rules of Superintendence for the Courts of Ohio. The court record of the
-        ticket shall be filed with the court or may be filed electronically as authorized by local rule
-        and division (F)(2) of this rule.
+                 filed with the court or may be filed electronically as authorized by local rule and
+                 division (F)(2) of this rule.
 
         (2)      Local rules adopted by a court pursuant to the Supreme Court Rules of
-        Superintendence for the Courts of Ohio may also provide for the filing of the ticket by
-        electronic means. If a ticket is issued at the scene of an alleged offense, the local rule shall
-        require that the issuing officer serve the defendant with the defendant’s paper copy of the
-        ticket as required by division (E) of this rule. A law enforcement officer who files a ticket
-        pursuant to divisions (F)(1) or (F)(2) of this rule and electronically affixes the officer’s
-        signature thereto, shall be considered to have certified the ticket and shall have the same
-        rights, responsibilities, and liabilities as with all other tickets issued pursuant to these rules.
+                 Superintendence for the Courts of Ohio may also provide for the filing of the ticket
+                 by electronic means. If a ticket is issued at the scene of an alleged offense, the local
+                 rule shall require that the issuing officer serve the defendant with the defendant’s
+                 paper copy of the ticket as required by division (E) of this rule. A law enforcement
+                 officer who files a ticket pursuant to divisions (F)(1) or (F)(2) of this rule and
+                 electronically affixes the officer’s signature thereto, shall be considered to have
+                 certified the ticket and shall have the same rights, responsibilities, and liabilities as
+                 with all other tickets issued pursuant to these rules.
+
+(G)     Issuance of supplemental citation
+
+        When a clerk of courts is required by the Revised Code to issue a supplemental citation on
+        a minor misdemeanor offense, notice of the supplemental citation may be executed via any
+        of the following methods:
+
+                 (1)      Electronic mail if the clerk has been provided an electronic mail address for
+                          the offender by a law enforcement officer;
+
+                 (2)      SMS text messaging if the clerk has been provided a text address for the
+                          offender by a law enforcement officer;
+
+                 (3)      Any method for the service of a summons provided in Crim.R. 4;
+
+                 (4)      Regular United States mail.
 
 Effective Date: January 1, 1975
 Amended: August 4, 1980; February 26, 1990; November 28, 1990; June 1, 1992, February 1,
-2002; October 1, 2006; May 1, 2008; January 1, 2010; January 1, 2014; July 1, 2014
+2002; October 1, 2006; May 1, 2008; January 1, 2010; January 1, 2014; July 1, 2014; July 1, 2026
 
                                   Traffic Rules Review Commission
                                Commentary (February 1, 2002 Amendment)
@@ -265,9 +285,10 @@ traditional printed forms of traffic tickets. In developing electronic traffic t
 enforcement agencies should ensure that the electronic ticket comports as closely as possible to the
 Uniform Traffic Ticket contained in the Appendix of Forms
 
-         The amendment to add division (F)(2) is based on a recommendation from the Digital Signatures
+        The amendment to add division (F)(2) is based on a recommendation from the Digital Signatures
 Committee of the Ohio Judicial Conference. The amendment authorizes the adoption of local rules,
 consistent with standards contained in the Rules of Superintendence, relative to the electronic filing of traffic
+
 tickets. The amendment requires that the defendant be provided a paper copy of the ticket and states the
 issuing officer’s responsibility with respect to issuance of an electronically filed ticket.
 
@@ -284,9 +305,8 @@ Although personal service is easily accomplished when a typical traffic citation
 difficult in “hit-skip” cases and other situations where the offender is not cited at the time of the violation or
 in cases where the defendant resides outside the jurisdiction in which the offense occurred.
 
-        The amendment to division (E)(1) retains the requirement that the issuing officer serve the ticket
+         The amendment to division (E)(1) retains the requirement that the issuing officer serve the ticket
 and, together with the Uniform Traffic Ticket, contemplates that service will be made personally in the
-
 majority of cases by the issuing officer. However, if the issuing officer is unable to personally serve the
 ticket on the defendant, service may be accomplished through issuance of a warrant or summons pursuant
 to Rule 4 of the Ohio Rules of Criminal Procedure.
@@ -311,10 +331,10 @@ RULE 4.      Bail and Security.
 
 (B)   Bail and security procedure
 
-      The provisions of R.C. 2937.221 and R.C. 2935.27 apply in traffic cases.
+      The provisions of R.C. 2935.27 apply in traffic cases.
 
 Effective: January 1, 1975
-Amended: August 4, 1980; January 1, 2010
+Amended: August 4, 1980; January 1, 2010; January 1, 2026
 
 RULE 5.       Joinder of Offense and Defendants; Consolidation for Trial; Relief [From]
 Prejudicial Joinder.
@@ -340,50 +360,57 @@ Effective Date: January 1, 1975
 
 RULE 7.      Procedure upon Failure to Appear.
 
-(A)   Issuance of summons, warrant
+(A)   Issuance of supplemental citation, license forfeiture, summons, or warrant
 
-      When a defendant fails to appear pursuant to a ticket issued to him, the court shall issue a
-      supplemental summons or warrant.
+      (1)    Minor misdemeanor offenses
 
-      If a supplemental summons is not served or a warrant is not executed within twenty-eight
-      days of receipt by the serving officer, the court may place the case in a file of cases disposed
-      of subject to being reopened. Where bond is forfeited, the disposition shall be reported to
-      the Registrar of Motor Vehicles. For all other purposes, including disposition reports, the
-      cases shall be reported as disposed of, subject to being reopened if defendant subsequently
-      appears or is apprehended.
+             When a defendant fails to appear after being issued a ticket for any minor
+             misdemeanor offense and fails to comply with R.C. 2935.26(C), the court must
+             issue a supplemental citation under R.C. 2935.26(F) and, if applicable, shall declare
+             the forfeiture of the person’s license under R.C. 2935.27(D).
 
-(B)   Issuance of notice to nonresident
+                     (a)     Supplemental Citation: If 30 days after issuing the supplemental
+                             citation the defendant still fails to appear and does not comply with
+                             R.C. 2935.26(C), the court may issue a summons or warrant.
 
-      When a nonresident of this state fails to appear pursuant to a supplemental summons or a
-      warrant issued under division (A), the court may send by ordinary mail to defendant's
-      address as it appears on the ticket, or the summons or warrant return, a notice ordering
-      defendant to appear at a specified time and place.
+                     (b)     License Forfeiture: After the court declares a license forfeiture, a
+                             defendant has up to 30 days to take corrective action by either
+                             appearing on the charge or complying with the plea and payment
+                             requirements of R.C. 2935.26(C). If the defendant fails to do so, the
+                             court shall forward a copy of the declaration of forfeiture to the
+                             Registrar of the Motor Vehicles for cancellation in accordance with
+                             R.C. 2935.27(D). If the defendant later appears to answer the
+                             charge, the court shall inform the registrar of the termination of the
+                             forfeiture in accord with R.C. 2935.27(D).
 
-      If defendant fails to appear or answer within twenty-eight days after the date of mailing of
-      the notice, the court shall place the case in the file of cases disposed of subject to being
-      reopened.
+      (2)    Other misdemeanor offenses
 
-      The mailing of notice in parking cases is discretionary with the court.
+             When a defendant fails to appear after being issued a ticket for any misdemeanor
+             offense, other than a minor misdemeanor, the court may issue a supplemental
+             summons, warrant, or license forfeiture in accordance with R.C. 4510.22.
 
-(C)   Effect of waiting periods and bail forfeiture
+      (3)    Time and Reporting
+
+             If a supplemental summons is not served or a warrant is not executed within 28
+             days of receipt by the serving officer, the court may place the case in a file of cases
+             disposed of subject to being reopened. Where bond is forfeited, the disposition
+             shall be reported to the Registrar of Motor Vehicles. For all other purposes,
+             including disposition reports, the cases shall be reported as disposed of, subject to
+             being reopened if defendant subsequently appears or is apprehended.
+
+(B)   Effect of waiting periods and bail forfeiture
 
       The waiting period prescribed in division (A) does not affect forfeiture of bail.
 
       If there is a breach of a condition of bail, the court shall declare a forfeiture of bail.
       Forfeiture proceedings shall be promptly enforced as provided by law.
 
-      If defendant fails to appear at the time and place specified on the citation and fails to
-      comply with division (C) of section 2935.26 of the Revised Code, or fails to comply with
-      or satisfy any judgment of the court within the time allowed, the court shall declare the
-      forfeiture of defendant's license. Thirty days after the declaration, the court shall forward
-      a copy of the declaration to the Registrar of Motor Vehicles for cancellation in accordance
-      with division (D) of section 2935.27 of the Revised Code. If defendant deposits a sum of
-      money or other security with the court, the deposit immediately shall be forfeited to the
-      court if he fails to appear or comply with division (C) of section 2935.26 of the Revised
-      Code.
+      If a defendant deposits a sum of money or other security with the court, the deposit
+      immediately shall be forfeited to the court if the defendant fails to appear or comply with
+      division (C) of section 2935.26 of the Revised Code.
 
 Effective Date: January 1, 1975
-Amended: August 4, 1980; November 28, 1990
+Amended: August 4, 1980; November 28, 1990; July 1, 2026
 
 RULE 8.      Arraignment.
 
@@ -413,21 +440,21 @@ RULE 8.      Arraignment.
       to be informed and shall determine that the defendant knows and understands:
 
              (1)     That the defendant has a right to counsel and the right to a reasonable
-             continuance in the proceedings to secure counsel, and, pursuant to Crim.R. 44, the
-             right to have counsel assigned without cost to defendant if defendant is unable to
-             employ counsel;
+                     continuance in the proceedings to secure counsel, and, pursuant to Crim.R.
+                     44, the right to have counsel assigned without cost to defendant if defendant
+                     is unable to employ counsel;
 
              (2)     That defendant has a right to bail as provided in Rule 4;
 
              (3)     That defendant need make no statement at any point in the proceeding; but
-             any statement made may be used against the defendant;
+                     any statement made may be used against the defendant;
 
              (4)     That defendant has, where such right exists, a right to jury trial and that
-             the defendant must, in petty offense cases, make a demand for a jury pursuant to
-             Crim.R. 23;
+                     the defendant must, in petty offense cases, make a demand for a jury
+                     pursuant to Crim.R. 23;
 
-             (5)   That if defendant is convicted a record of the conviction will be sent to the
-             Bureau of Motor Vehicles and become part of defendant’s driving record.
+             (5)     That if defendant is convicted a record of the conviction will be sent to the
+                     Bureau of Motor Vehicles and become part of defendant’s driving record.
 
 (E)    Joint arraignment
 
@@ -485,12 +512,12 @@ RULE 10.      Pleas; Rights upon Plea.
               (1)    The plea of guilty is a complete admission of the defendant's guilt.
 
               (2)    The plea of no contest is not an admission of defendant's guilt, but is an
-              admission of the truth of the facts alleged in the complaint and such plea or
-              admission shall not be used against the defendant in any subsequent civil or
-              criminal proceeding.
+                     admission of the truth of the facts alleged in the complaint and such plea or
+                     admission shall not be used against the defendant in any subsequent civil or
+                     criminal proceeding.
 
-              (3)     When a plea of guilty or no contest is accepted pursuant to this rule, the
-              court shall proceed with sentencing under Criminal Rule 32.
+              (3)    When a plea of guilty or no contest is accepted pursuant to this rule, the
+                     court shall proceed with sentencing under Criminal Rule 32.
 
 (C)   Misdemeanor cases involving serious offenses
 
@@ -512,10 +539,11 @@ RULE 10.      Pleas; Rights upon Plea.
 
       The counsel provisions of Criminal Rule 44(B), (C) and (D) apply to this subdivision.
 
-(E)    Refusal of court to accept plea
+(E)   Refusal of court to accept plea
 
-       If the court refuses to accept a plea of guilty or no contest, the court shall enter a plea of
-       not guilty on behalf of the defendant. In such cases neither plea shall be admissible in
+      If the court refuses to accept a plea of guilty or no contest, the court shall enter a plea of
+      not guilty on behalf of the defendant. In such cases neither plea shall be admissible in
+
        evidence nor be the subject of comment by the prosecuting attorney or court.
 
 (F)    Immediate trial
@@ -542,25 +570,26 @@ RULE 11.     Pleadings and Motions before Plea and Trial: Defenses and Objection
       the general issue may be raised before plea or trial by motion.
 
              (1)     The following defenses and objections may be raised before plea, but not
-             later than trial:
+                     later than trial:
 
-                     (a)    Defenses and objections based on defects in the institution of the
-                     prosecution;
+                             (a)     Defenses and objections based on defects in the institution
+                                     of the prosecution;
 
-                     (b)     Defenses and objections based on defects in the complaint other than
-                     failure to show jurisdiction in the court or to charge an offense, which
-                     objections shall be noticed by the court at any time during the pendency of
-                     the proceeding.
+                             (b)     Defenses and objections based on defects in the complaint
+                                     other than failure to show jurisdiction in the court or to
+                                     charge an offense, which objections shall be noticed by the
+                                     court at any time during the pendency of the proceeding.
 
              (2)     The following motions and requests must be made before trial:
 
-                     (a)     Motions to suppress evidence, including but not limited to
-                     identification testimony, on the ground that it was illegally obtained;
+                             (a)     Motions to suppress evidence, including but not limited to
+                                     identification testimony, on the ground that it was illegally
+                                     obtained;
 
-                     (b)     Requests and motions for discovery under Criminal Rule 16;
+                             (b)     Requests and motions for discovery under Criminal Rule 16;
 
-                     (c)     Motions for severance of charges or defendants under Criminal Rule
-                     14.
+                             (c)     Motions for severance of charges or defendants under
+                                     Criminal Rule 14.
 
 (C)   Motion date
 
@@ -572,7 +601,8 @@ RULE 11.     Pleadings and Motions before Plea and Trial: Defenses and Objection
 
 (D)   Disclosure of evidence by prosecuting attorney
 
-        At the arraignment, or as soon thereafter as is practicable, the defendant may, in order to
+      At the arraignment, or as soon thereafter as is practicable, the defendant may, in order to
+
         raise objections prior to trial under subsection (B)(2), request notice of the prosecuting
         attorney's intention to use evidence in chief at trial, which evidence the defendant is entitled
         to discover under Criminal Rule 16.
@@ -657,78 +687,83 @@ RULE 13.     Traffic Violations Bureau.
 
              (1)     Indictable offenses;
 
-             (2)    Operating a motor vehicle while under the influence of alcohol or any drug
-             of abuse;
+             (2)     Operating a motor vehicle while under the influence of alcohol or any drug
+                     of abuse;
 
-             (3)     Leaving the scene of an accident;
+             (3)     Having physical control of a vehicle while under the influence of alcohol or
+                     any drug of abuse;
 
-             (4)     Driving while under suspension or revocation of a driver's or commercial
-             driver’s license when jail is a possible penalty;
+             (4)     Operating a vehicle on roadway covered by water;
 
-             (5)     Driving without being licensed to drive when jail is a possible penalty;
+             (5)     Leaving the scene of an accident;
 
-             (6)    A third moving traffic offense within a twelve-month period when jail is a
-             possible penalty;
+             (6)     Driving while under suspension or revocation of a driver's or commercial
+                     driver’s license when jail is a possible penalty;
 
-             (7)    Failure to stop and remain standing upon meeting or overtaking a school
-             bus stopped on the highway for the purpose of receiving or discharging a school
-             child;
+             (7)     Driving without being licensed to drive when jail is a possible penalty;
 
-             (8)     Willfully eluding or fleeing a police officer;
+             (8)     A third moving traffic offense within a twelve-month period when jail is a
+                     possible penalty;
 
-             (9)     Drag racing.
+             (9)     Failure to stop and remain standing upon meeting or overtaking a school
+                     bus stopped on the highway for the purpose of receiving or discharging a
+                     school child;
 
-(C)    Schedule of fines
+             (10)    Willfully eluding or fleeing a police officer;
 
-       The court shall establish and publish a schedule of fines and costs for all offenses. The
-       schedule shall be distributed to all law enforcement agencies operating within the
-       jurisdiction of the court and shall be prominently displayed at the place in the violations
-       bureau where fines are paid.
+             (11)    Drag racing.
 
-(D)
+(C)   Schedule of fines
 
-       (1)    Defendant's appearance, plea and waiver of trial
+      The court shall establish and publish a schedule of fines and costs for all offenses. The
+      schedule shall be distributed to all law enforcement agencies operating within the
+      jurisdiction of the court and shall be prominently displayed at the place in the violations
+      bureau where fines are paid.
 
-       At any time prior to arraignment or thereafter with leave of court, a defendant charged with
-       an offense that can be processed by a traffic violations bureau may do either of the
-       following:
+(D)   Defendant's plea, waiver of trial, and payment
 
-              (a)    Appear in person at the traffic violations bureau, sign a plea of guilty and
-              waiver of trial provision of the ticket, and pay the total amount of the fine and costs;
+      (1)    At any time prior to arraignment or thereafter with leave of court, a defendant
+             charged with an offense that can be processed by a traffic violations bureau may do
+             either of the following:
 
-              (b)     Sign the guilty plea and waiver of trial provision of the ticket and mail the
-              ticket and a check, money order, or other approved form of payment for the total
-              amount of the fine and costs to the traffic violations bureau.
+                     (a)     Appear in person at the traffic violations bureau, sign a plea of guilty
+                             and waiver of trial provision of the ticket, and either pay the total
+                             amount of the fine and costs or enter into an installment payment
+                             plan with the clerk of court or violations clerk stated in the ticket;
 
-       (2)     A court may establish a procedure for accepting, through its traffic violations
-       bureau, guilty pleas, waivers of trial, and payments of fines and costs by telephone or other
-       electronic means. The form of payment accepted by telephone or other electronic means
-       shall be approved by the bureau.
+                     (b)     Sign the guilty plea and waiver of trial provision of the ticket and
+                             mail the ticket and a check or money order for the total amount of
+                             the fine and costs to the clerk of court or violations clerk stated in
+                             the ticket.
 
-       (3)      Remittance of the fine and costs to the traffic violations bureau by any means other
-       than personal appearance by the defendant at the bureau constitutes a guilty plea and waiver
-       of trial whether or not the guilty plea and waiver of trial provision of the ticket are signed
-       by the defendant.
+      (2)    A court may establish a procedure for accepting, through its traffic violations
+             bureau, guilty pleas, waivers of trial, and payments of fines and costs by telephone
+             or other electronic means. The form of payment accepted by telephone or other
+             electronic means shall be approved by the bureau.
 
-(E)    Records
+      (3)    Remittance of the fine and costs to the traffic violations bureau by any means other
+             than personal appearance by the defendant at the bureau constitutes a guilty plea
+             and waiver of trial whether or not the guilty plea and waiver of trial provision of
+             the ticket are signed by the defendant.
 
-       All cases processed in the violations bureau shall be numbered and recorded for
-       identification and statistical purposes. In any statistical reports required by law, the number
-       of cases disposed of by the violations bureau shall be listed separately from those disposed
-       of in open court.
+(E)   Records
 
-(F)    Hours of operation; personnel
+      All cases processed in the violations bureau shall be numbered and recorded for
+      identification and statistical purposes. In any statistical reports required by law, the number
+      of cases disposed of by the violations bureau shall be listed separately from those disposed
+      of in open court.
 
-       The court shall appoint a law enforcement officer as a deputy violations bureau clerk to act
-       as violations clerk when the violations clerk is not on duty.
+(F)   Hours of operation; personnel
+
+      The court shall appoint a law enforcement officer as a deputy violations bureau clerk to act
+      as violations clerk when the violations clerk is not on duty.
 
 Effective Date: January 1, 1975
-
 Amended: August 4, 1980; February 26, 1990; November 1, 1994; July 1, 1997; May 3, 1999,
-February 1, 2002; January 1, 2010; July 1, 2011; February 1, 2012
+February 1, 2002; January 1, 2010; July 1, 2011; February 1, 2012; July 1, 2026
 
-                              Traffic Rules Review Commission
-                           Commentary (February 1, 2002 Amendment)
+                             Traffic Rules Review Commission
+                          Commentary (February 1, 2002 Amendment)
 
          The February 1, 2002 amendment to division (A) authorizes the establishment of a juvenile
 violations bureau in the court of common pleas. For additional background, see the commentary
@@ -737,17 +772,17 @@ accompanying the February 1, 2002 amendment to Traffic Rule 13.1.
 RULE 13.1. Juvenile Traffic Violations Bureau.
 
 (A)     By local rule of court, the juvenile division of the court of common pleas may establish a
-violations bureau for juvenile traffic offenders. Except as provided in division (B) of this rule, a
-juvenile traffic violations bureau shall function in the same manner as a violations bureau
-established pursuant to Traffic Rule 13.
+        violations bureau for juvenile traffic offenders. Except as provided in division (B) of this
+        rule, a juvenile traffic violations bureau shall function in the same manner as a violations
+        bureau established pursuant to Traffic Rule 13.
 
 (B)     All juvenile traffic offenses may be disposed of by a violations bureau, except as follows:
 
-        (1)     An offense listed in Traffic Rule 13(B)(1) to (5) and (7) to (9);
+                (1)      An offense listed in Traffic Rule 13(B)(1) to (5) and (7) to (9);
 
-        (2)     A second or subsequent moving offense;
+                (2)      A second or subsequent moving offense;
 
-        (3)     An offense that involves an accident.
+                (3)      An offense that involves an accident.
 
                                  Traffic Rules Review Commission
                               Commentary (February 1, 2002 Amendment)
@@ -763,20 +798,21 @@ offenses committed by a juvenile traffic offender that cannot be disposed of by 
 RULE 14.        Magistrates.
 
 (A)     A court may appoint one or more magistrates for the purpose of receiving pleas,
-determining guilt or innocence, receiving statements in explanation and in mitigation of sentence,
-and recommending penalty to be imposed. A magistrate shall have been engaged in the practice
-of law for at least four years and be in good standing with the Supreme Court of Ohio at the time
-of appointment. A magistrate shall be provided with court room accommodations resembling as
-nearly as possible traffic court rooms.
+        determining guilt or innocence, receiving statements in explanation and in mitigation of
+        sentence, and recommending penalty to be imposed. A magistrate shall have been engaged
+        in the practice of law for at least four years and be in good standing with the Supreme Court
+        of Ohio at the time of appointment. A magistrate shall be provided with court room
+        accommodations resembling as nearly as possible traffic court rooms.
 
-(B)      A court may refer nonjury traffic cases to a magistrate. If the offense charged is an offense
-for which imprisonment is a possible penalty, the case may be referred only with the unanimous
-consent of the parties, in writing or on the record in open court. The consent of an alleged juvenile
-traffic offender or his or her parent, guardian, or custodian shall not be required.
+(B)     A court may refer nonjury traffic cases to a magistrate. If the offense charged is an offense
+        for which imprisonment is a possible penalty, the case may be referred only with the
+        unanimous consent of the parties, in writing or on the record in open court. The consent
+        of an alleged juvenile traffic offender or his or her parent, guardian, or custodian shall not
+        be required.
 
 (C)     Proceedings before the magistrate shall be conducted as provided in Criminal Rule 19. A
-defendant’s payment of a fine does not constitute a waiver of the defendant’s right to file objections
-to the magistrate’s decision.
+        defendant’s payment of a fine does not constitute a waiver of the defendant’s right to file
+        objections to the magistrate’s decision.
 
 Effective Date: January 1, 1975
 Amended: September 1, 1996; February 1, 2002; October 1, 2006; July 1, 2011
@@ -930,7 +966,7 @@ RULE 24.      Effective Date.
 
 Effective Date: January 1, 1975; July 1, 2025
 
-                                  TEMPORARY PROVISION
+                                 TEMPORARY PROVISION
 
 Notwithstanding Traffic Rule 3, the Bowling Green Municipal Court is authorized to develop and
 use a modified version of the Uniform Traffic Ticket in all moving traffic cases. The modified
@@ -959,7 +995,7 @@ Ticket used pursuant to this provision.
 
 Effective Date: April 1, 1996
 
-                                  TEMPORARY PROVISION
+                                 TEMPORARY PROVISION
 
 A law enforcement officer who issues an automated traffic ticket is considered to have signed the
 ticket, for purposes of Traffic Rule 3(E), if the issuing officer properly authorizes the appearance
@@ -968,17 +1004,19 @@ of his or her facsimile signature on the ticket.
 For purposes of this Temporary Provision:
 
        (A)     “Automated traffic ticket” means the computerized traffic citation developed by the
-       Office of Criminal Justice Services, Ohio Highway Patrol, and local law enforcement
-       agencies and courts and being used on a pilot project basis by the Licking County Sheriff’s
-       Office, Newark Police Department, Heath Police Department, Licking County Municipal
-       Court, Circleville Police Department, Pickaway County Sheriff’s Office, Circleville
-       Municipal Court, the Circleville Post of the Ohio Highway Patrol, the Newark Post of the
-       Ohio Highway Patrol, and the General Headquarters of the Ohio Highway Patrol.
+               Office of Criminal Justice Services, Ohio Highway Patrol, and local law
+               enforcement agencies and courts and being used on a pilot project basis by the
+               Licking County Sheriff’s Office, Newark Police Department, Heath Police
+               Department, Licking County Municipal Court, Circleville Police Department,
+               Pickaway County Sheriff’s Office, Circleville Municipal Court, the Circleville Post
+               of the Ohio Highway Patrol, the Newark Post of the Ohio Highway Patrol, and the
+               General Headquarters of the Ohio Highway Patrol.
 
-       (B)    “Properly authorizes” means the issuing officer uses a secure password, in the
-       manner demonstrated to the Traffic Rules Review Commission at its December 18, 1998
-       meeting, that, when entered, allows an electronic version of the his or her signature to
-       appear on the automated traffic ticket and on any printed version of that ticket.
+       (B)     “Properly authorizes” means the issuing officer uses a secure password, in the
+               manner demonstrated to the Traffic Rules Review Commission at its December 18,
+               1998 meeting, that, when entered, allows an electronic version of the his or her
+               signature to appear on the automated traffic ticket and on any printed version of
+               that ticket.
 
 Effective Date: January 12, 1999
 

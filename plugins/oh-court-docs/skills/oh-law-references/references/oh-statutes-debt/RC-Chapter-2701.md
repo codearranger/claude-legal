@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 2701 — Courts — General Provisions; Disqualification of Judges (R.C. 2701.03 affidavit of disqualification)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-2701
-> **Fetched:** 2026-06-11
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 

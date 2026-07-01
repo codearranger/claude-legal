@@ -1,7 +1,7 @@
 # Ohio Rules of Criminal Procedure (Crim. R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/criminal/CriminalProcedure.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;
@@ -25,6 +25,7 @@ RULES
   9      Warrant or Summons Upon Indictment or Information
   10     Arraignment
   11     Pleas, Rights Upon Plea
+  11.1   Standard Notice Concerning Possession or Purchase of a Firearm
   12     Pleadings and Motions Before Trial: Defenses and Objections
   12.1   Notice of Alibi
   12.2   Notice of Self-Defense
@@ -58,8 +59,8 @@ RULES
 RULES
   36    Clerical Mistakes
   37    RESERVED
-  38    RESERVED
-  39    RESERVED
+  38    Notification Regarding Criminal Protection Orders, Deadly Weapons Surrender
+  39    Notifying Law Enforcement Agencies of Mental Illness
   40    Taking Testimony
   41    Search and Seizure
   42    Capital Cases and Post-Conviction Review of Capital Cases
@@ -121,70 +122,73 @@ RULE 1.       Scope of Rules: Applicability; Construction; Exceptions.
 Effective Date: July 1, 1973
 Amended: July 1, 1975; July 1, 1996; July 1, 2023
 
-RULE 2.         Definitions.
+RULE 2.        Definitions.
 
 As used in these rules:
 
-(A)     "Felony" means an offense defined by law as a felony.
+       (A)     "Felony" means an offense defined by law as a felony.
 
-(B)     "Misdemeanor" means an offense defined by law as a misdemeanor.
+       (B)     "Misdemeanor" means an offense defined by law as a misdemeanor.
 
-(C)     "Serious offense" means any felony, and any misdemeanor for which the penalty
-prescribed by law includes confinement for more than six months.
+       (C)     "Serious offense" means any felony, and any misdemeanor for which the penalty
+               prescribed by law includes confinement for more than six months.
 
-(D)     "Petty offense" means a misdemeanor other than a serious offense.
+       (D)     "Petty offense" means a misdemeanor other than a serious offense.
 
-(E)    "Judge" means judge of the court of common pleas, juvenile court, municipal court, or
-county court, or the mayor or mayor's court magistrate of a municipal corporation having a mayor's
-court.
+       (E)     "Judge" means judge of the court of common pleas, juvenile court, municipal court,
+               or county court, or the mayor or mayor's court magistrate of a municipal corporation
+               having a mayor's court.
 
-(F)     "Magistrate" means any person appointed by a court pursuant to Crim.R. 19. "Magistrate"
-does not include an official included within the definition of magistrate contained in section
-2931.01 of the Revised Code, or a mayor's court magistrate appointed pursuant to section 1905.05
-of the Revised Code.
+       (F)     "Magistrate" means any person appointed by a court pursuant to Crim.R. 19.
+               "Magistrate" does not include an official included within the definition of
+               magistrate contained in section 2931.01 of the Revised Code, or a mayor's court
+               magistrate appointed pursuant to section 1905.05 of the Revised Code.
 
-(G)      "Prosecuting attorney" means the attorney general of this state, the prosecuting attorney of
-a county, the law director, city solicitor, or other officer who prosecutes a criminal case on behalf
-of the state or a city, village, township, or other political subdivision, and the assistant or assistants
-of any of them. As used in Crim.R. 6, "prosecuting attorney" means the attorney general of this
-state, the prosecuting attorney of a county, and the assistant or assistants of either of them.
+       (G)     "Prosecuting attorney" means the attorney general of this state, the prosecuting
+               attorney of a county, the law director, city solicitor, or other officer who prosecutes
+               a criminal case on behalf of the state or a city, village, township, or other political
+               subdivision, and the assistant or assistants of any of them. As used in Crim.R. 6,
+               "prosecuting attorney" means the attorney general of this state, the prosecuting
+               attorney of a county, and the assistant or assistants of either of them.
 
-(H)    "State" means this state, a county, city, village, township, other political subdivision, or
-any other entity of this state that may prosecute a criminal action.
+       (H)     "State" means this state, a county, city, village, township, other political
+               subdivision, or any other entity of this state that may prosecute a criminal action.
 
-(I)    "Clerk of court" means the duly elected or appointed clerk of any court of record, or the
-deputy clerk, and the mayor or mayor's court magistrate of a municipal corporation having a
-mayor's court.
+       (I)     "Clerk of court" means the duly elected or appointed clerk of any court of record,
+               or the deputy clerk, and the mayor or mayor's court magistrate of a municipal
+               corporation having a mayor's court.
 
-(J)     "Law enforcement officer" means a sheriff, deputy sheriff, constable, municipal police
-officer, marshal, deputy marshal, or state highway patrolman, and also means any officer, agent,
-or employee of the state or any of its agencies, instrumentalities, or political subdivisions, upon
-whom, by statute, the authority to arrest violators is conferred, when the officer, agent, or employee
-is acting within the limits of statutory authority. The definition of "law enforcement officer"
-contained in this rule shall not be construed to limit, modify, or expand any statutory definition, to
-the extent the statutory definition applies to matters not covered by the Rules of Criminal
-Procedure.
+       (J)     "Law enforcement officer" means a sheriff, deputy sheriff, constable, municipal
+               police officer, marshal, deputy marshal, or state highway patrolman, and also means
+               any officer, agent, or employee of the state or any of its agencies, instrumentalities,
+               or political subdivisions, upon whom, by statute, the authority to arrest violators is
+               conferred, when the officer, agent, or employee is acting within the limits of
+               statutory authority. The definition of "law enforcement officer" contained in this
+               rule shall not be construed to limit, modify, or expand any statutory definition, to
+               the extent the statutory definition applies to matters not covered by the Rules of
+               Criminal Procedure.
 
-(K)    “Appear,” “appearance,” or “in person” mean the physical or remote presence of an
-individual.
+        (K)     “Appear,” “appearance,” or “in person” mean the physical or remote presence of an
+                individual.
 
-(L)   “In person” means the physical or remote presence of an individual except as provided by
-Crim.R. 17(D).
+        (L)     “In person” means the physical or remote presence of an individual except as
+                provided by Crim.R. 17(D).
 
-(M) “Open court” includes a court proceeding open to the public in person or by remote access
-to the live proceeding.
+        (M)     “Open court” includes a court proceeding open to the public in person or by remote
+                access to the live proceeding.
 
-(N)   “Personally” means the physical or remote presence of an individual except as provided by
-Crim.R. 4(D)(3) and (4).
+        (N)     “Personally” means the physical or remote presence of an individual except as
+                provided by Crim.R. 4(D)(3) and (4).
 
-(O)     “Presence” includes the physical or remote presence of an individual.
+        (O)     “Presence” includes the physical or remote presence of an individual.
 
-(P)     “Remote presence” means the presence of a person who is using live two-way video and
-audio technology.
+        (P)     “Remote presence” means the presence of a person who is using live two-way video
+                and audio technology.
 
-(Q)    “Victim” has the same meaning as provided in Chapter 2930 of the Revised Code. For
-purposes of these rules, the term “victim” includes the “victim’s representative” and “victim’s
-attorney,” as those terms are defined in Chapter 2930 of the Revised Code.
+        (Q)     “Victim” has the same meaning as provided in Chapter 2930 of the Revised Code.
+                For purposes of these rules, the term “victim” includes the “victim’s representative”
+                and “victim’s attorney,” as those terms are defined in Chapter 2930 of the Revised
+                Code.
 
 Effective Date: July 1, 1973
 Amended: July 1, 1976; July 1, 1990; July 1, 2023; July 1, 2025
@@ -208,16 +212,16 @@ also avoid confusion as to whether there can be a “victim” prior to the retu
 adjudication of delinquency — “victim” encompasses all stages of the process and should not be interpreted
 as diminishing the constitutional presumption of innocence.
 
-RULE 2.1        Victim’s Rights and Responsibilities
+RULE 2.1        Victim’s Rights and Responsibilities.
 
 (A)     Whenever a victim has a right to be heard at a public proceeding, the court shall allow the
-victim to address the court orally, in writing, or both. When necessary, the court shall provide the
-victim with the aid of an interpreter at no expense to the victim.
+        victim to address the court orally, in writing, or both. When necessary, the court shall
+        provide the victim with the aid of an interpreter at no expense to the victim.
 
 (B)     Whenever these rules reference a duty to provide notice to the victim or an opportunity for
-the victim to be heard, such obligations shall not apply if the court finds that the victim has either
-elected not to participate or has failed to respond to sufficient notice of their right to participate, as
-provided by law.
+        the victim to be heard, such obligations shall not apply if the court finds that the victim has
+        either elected not to participate or has failed to respond to sufficient notice of their right to
+        participate, as provided by law.
 
 (C)     The court shall advise the victim of their right to appeal, where applicable.
 
@@ -238,17 +242,17 @@ of modification of incarceration).
        Subsection (C) requires the trial court to advise the victim of their appellate rights under R.C.
 2930.19.
 
-RULE 3.        Complaint.
+RULE 3.       Complaint.
 
-(A)      The complaint is a written statement of the essential facts constituting the offense charged.
-It shall also state the numerical designation of the applicable statute or ordinance. It shall be made
-upon oath before any person authorized by law to administer oaths.
+(A)    The complaint is a written statement of the essential facts constituting the offense charged.
+       It shall also state the numerical designation of the applicable statute or ordinance. It shall
+       be made upon oath before any person authorized by law to administer oaths.
 
 (B)    In addition, a traffic ticket that complies with Traf.R. 2 shall constitute a complaint for an
-alleged violation of a law, ordinance, or regulation governing the operation and use of vehicles,
-conduct of pedestrians in relation to vehicles, or weight, dimension, loads or equipment, or
-vehicles drawn or moved on highways and bridges, except for alleged violations of Title 29 of the
-Revised Code.
+       alleged violation of a law, ordinance, or regulation governing the operation and use of
+       vehicles, conduct of pedestrians in relation to vehicles, or weight, dimension, loads or
+       equipment, or vehicles drawn or moved on highways and bridges, except for alleged
+       violations of Title 29 of the Revised Code.
 
 Effective Date: July 1, 1973
 Amended: July 1, 2022
@@ -319,19 +323,22 @@ RULE 4.     Warrant or Summons; Arrest.
             the numerical designation of the applicable statute or ordinance. A copy of the
             complaint shall be attached to the warrant.
 
-                   (a)    If the warrant is issued after the defendant has made an initial
-                   appearance or has failed to appear at an initial appearance, the warrant shall
-                   command that the defendant be arrested and either of the following:
+                   (a)     If the warrant is issued after the defendant has made an initial
+                           appearance or has failed to appear at an initial appearance, the
+                           warrant shall command that the defendant be arrested and either of
+                           the following:
 
-                           (i)     That the defendant shall be required to post a sum of cash or
-                           secured bail bond with the condition that the defendant appear
-                           before the issuing court at a time and date certain;
+                                    (i)    That the defendant shall be required to post a sum of
+                                           cash or secured bail bond with the condition that the
+                                           defendant appear before the issuing court at a time
+                                           and date certain;
 
-                           (ii)    That the defendant shall be held without bail until brought
-                           before the issuing court without unnecessary delay.
+                                    (ii)   That the defendant shall be held without bail until
+                                           brought before the issuing court without unnecessary
+                                           delay.
 
-                   (b)    If the warrant is issued before the defendant has appeared or is
-                   scheduled to appear, the warrant shall so indicate.
+                   (b)     If the warrant is issued before the defendant has appeared or is
+                           scheduled to appear, the warrant shall so indicate.
 
       (2)   Summons
 
@@ -421,82 +428,93 @@ RULE 4.     Warrant or Summons; Arrest.
 
       (1)      Arrest upon warrant
 
-               (a)     Where a person is arrested upon a warrant that states it was issued before a
-               scheduled initial appearance, or the warrant is silent as to when it was issued, the
-               judicial officer before whom the person is brought shall determine bail.
+               (a)    Where a person is arrested upon a warrant that states it was issued before a
+                      scheduled initial appearance, or the warrant is silent as to when it was
+                      issued, the judicial officer before whom the person is brought shall
+                      determine bail.
 
-               (b)      Where a person is arrested upon a warrant that states it was issued after an
-               initial appearance or the failure to appear at an initial appearance and the arrest
-               occurs either in the county from which the warrant issued or in an adjoining county,
-               the arresting officer shall, except as provided in division (F) of this rule, where the
-               warrant provides for the posting of bail, permit the arrested person to post a sum of
-               cash or secured bail bond as contained in the warrant with the requirement that the
-               arrested person appear before the warrant issuing court at a time and date certain,
-               or bring the arrested person without unnecessary delay before the court that issued
-               the warrant.
+               (b)    Where a person is arrested upon a warrant that states it was issued after an
+                      initial appearance or the failure to appear at an initial appearance and the
+                      arrest occurs either in the county from which the warrant issued or in an
+                      adjoining county, the arresting officer shall, except as provided in division
+                      (F) of this rule, where the warrant provides for the posting of bail, permit
+                      the arrested person to post a sum of cash or secured bail bond as contained
+                      in the warrant with the requirement that the arrested person appear before
+                      the warrant issuing court at a time and date certain, or bring the arrested
+                      person without unnecessary delay before the court that issued the warrant.
 
-      (c)      Where a person is arrested upon a warrant that states it was issued after an
-      initial appearance or the failure to appear at an initial appearance and the arrest
-      occurs in any county other than the county from which the warrant was issued or in
-      an adjoining county, the following sequence of procedures shall be followed:
+(c)   Where a person is arrested upon a warrant that states it was issued after an
+      initial appearance or the failure to appear at an initial appearance and the
+      arrest occurs in any county other than the county from which the warrant
+      was issued or in an adjoining county, the following sequence of procedures
+      shall be followed:
 
-             (i)    Where the warrant provides for the posting of bail, the arrested
-             person shall be permitted to post a sum of cash or secured bail bond as
-             contained in the warrant with the requirement that the arrested person
-             appear before the warrant issuing court at a time and date certain.
+             (i)     Where the warrant provides for the posting of bail, the
+                     arrested person shall be permitted to post a sum of cash or
+                     secured bail bond as contained in the warrant with the
+                     requirement that the arrested person appear before the
+                     warrant issuing court at a time and date certain.
 
-             (ii)    The arrested person may in writing waive the procedures in division
-             (E)(1)(c)(iii) of this rule after having been informed in writing and orally by
-             a law enforcement officer of those procedures, and consenting to being
-             removed to the warrant issuing court without further delay. This waiver
-             shall contain a representation by a law enforcement officer that the waiver
-             was read to the arrested person and that the arrested person signed the
-             waiver in the officer’s presence.
+             (ii)    The arrested person may in writing waive the procedures in
+                     division (E)(1)(c)(iii) of this rule after having been informed
+                     in writing and orally by a law enforcement officer of those
+                     procedures, and consenting to being removed to the warrant
+                     issuing court without further delay. This waiver shall
+                     contain a representation by a law enforcement officer that
+                     the waiver was read to the arrested person and that the
+                     arrested person signed the waiver in the officer’s presence.
 
-             (iii) Where the warrant is silent as to the posting of bail, requires that the
-             arrested person be held without bail, the arrested person chooses not to post
-             bail, or the arrested person chooses not to waive the procedures contained
-             in division (E)(1) of this rule, the arrested person shall, except as provided
-             in division (F) of this rule, be brought without unnecessary delay before a
-             court of record therein, having jurisdiction over such an offense, and the
-             arrested person shall not be removed from that county until the arrested
-             person has been given a reasonable opportunity to consult with an attorney,
-             or individual of the arrested person’s choice, and to post bail to be
-             determined by the judge or magistrate of that court not inconsistent with the
-             directions of the issuing court as contained in the warrant or after
-             consultation with the issuing court. If the warrant is silent as to the posting
-             of bail or holding the arrested person without bail, the court may permit the
-             arrested person to post bail, hold the arrested person without bail, or consult
-             with the warrant issuing court on the issue of bail.
+             (iii)   Where the warrant is silent as to the posting of bail, requires
+                     that the arrested person be held without bail, the arrested
+                     person chooses not to post bail, or the arrested person
+                     chooses not to waive the procedures contained in division
+                     (E)(1) of this rule, the arrested person shall, except as
+                     provided in division (F) of this rule, be brought without
+                     unnecessary delay before a court of record therein, having
+                     jurisdiction over such an offense, and the arrested person
+                     shall not be removed from that county until the arrested
+                     person has been given a reasonable opportunity to consult
+                     with an attorney, or individual of the arrested person’s
+                     choice, and to post bail to be determined by the judge or
+                     magistrate of that court not inconsistent with the directions
+                     of the issuing court as contained in the warrant or after
+                     consultation with the issuing court. If the warrant is silent as
+                     to the posting of bail or holding the arrested person without
+                     bail, the court may permit the arrested person to post bail,
+                     hold the arrested person without bail, or consult with the
+                     warrant issuing court on the issue of bail.
 
-      (d)      If the arrested person is not released, the arrested person shall then be
-      removed from the county and brought before the court issuing the warrant, without
-      unnecessary delay and not later than the time prescribed by statute for the
-      defendant’s first bail hearing. If the arrested person is released, the release shall be
-      on condition that the arrested person appear in the issuing court at a time and date
-      certain.
+(d)   If the arrested person is not released, the arrested person shall then be
+      removed from the county and brought before the court issuing the warrant,
+      without unnecessary delay and not later than the time prescribed by statute
+      for the defendant’s first bail hearing. If the arrested person is released, the
 
-(2)   Arrest without warrant
+                     release shall be on condition that the arrested person appear in the issuing
+                     court at a time and date certain.
 
-      Where a person is arrested without a warrant and has not been released from
-      custody pursuant to division (F) of this rule, the arresting officer shall, , complete
-      the following tasks:
+      (2)    Arrest without warrant
 
-                 (a) Promptly cause to be prepared a criminal complaint or sworn statement
-                     setting forth probable cause supporting the arrest. A judge or magistrate of
-                     a court having jurisdiction over the offense shall review for probable cause
-                     the complaint or sworn statement without unnecessary delay and,
-                     notwithstanding Crim. R. 45, not later than 48 hours after the arrest. The
-                     probable cause review need not be conducted in open court or on the record.
-                     If the reviewing judge or magistrate does not find that the complaint or
-                     statement establishes probable cause to believe an offense has been
-                     committed, the defendant shall be released for that offense.
+             Where a person is arrested without a warrant and has not been released from
+             custody pursuant to division (F) of this rule, the arresting officer shall, , complete
+             the following tasks:
 
-              (b) Bring the arrested person without unnecessary delay, and not later than the tiem
-             prescribed by statute for the defendant’s first bail hearing, before a court having
-             jurisdiction of the offense, and shall file or cause to be filed a complaint describing
-             the offense for which the person was arrested. Thereafter the court shall proceed
-             in accordance with Crim.R. 5.
+                     (a)     Promptly cause to be prepared a criminal complaint or sworn
+                             statement setting forth probable cause supporting the arrest. A judge
+                             or magistrate of a court having jurisdiction over the offense shall
+                             review for probable cause the complaint or sworn statement without
+                             unnecessary delay and, notwithstanding Crim. R. 45, not later than
+                             48 hours after the arrest. The probable cause review need not be
+                             conducted in open court or on the record. If the reviewing judge or
+                             magistrate does not find that the complaint or statement establishes
+                             probable cause to believe an offense has been committed, the
+                             defendant shall be released for that offense.
+
+                     (b)     Bring the arrested person without unnecessary delay, and not later
+                             than the tiem prescribed by statute for the defendant’s first bail
+                             hearing, before a court having jurisdiction of the offense, and shall
+                             file or cause to be filed a complaint describing the offense for which
+                             the person was arrested. Thereafter the court shall proceed in
+                             accordance with Crim.R. 5.
 
 (F)   Release after arrest
 
@@ -512,29 +530,31 @@ RULE 4.     Warrant or Summons; Arrest.
 
 (G)   Use of electronically produced criminal complaint and summons
 
-      (1)     Local rules adopted by a court pursuant to the Rules of Superintendence for the
-      Courts of Ohio may provide for the use of a criminal complaint and summons that is
-      produced by computer or other electronic means. A criminal complaint and summons
-      produced by computer or other electronic means shall conform in all substantive respects
-      to the "Ohio Rules of Criminal Procedure" set forth in the Appendix of Forms. The
-      complaint and summons paper shall be of sufficient quality to allow the court record copy
-      to remain unchanged for the period of the retention schedule for the various criminal
-      offenses as prescribed by Rule 26.05 of the Rules of Superintendence for the Courts of
-      Ohio. The court record for the complaint and summons shall be filed with the court or may
-      be filed electronically as authorized by local rule and division (G)(2) of this rule.
+      (1)    Local rules adopted by a court pursuant to the Rules of Superintendence for the
+             Courts of Ohio may provide for the use of a criminal complaint and summons that
+             is produced by computer or other electronic means. A criminal complaint and
+             summons produced by computer or other electronic means shall conform in all
+             substantive respects to the "Ohio Rules of Criminal Procedure" set forth in the
+             Appendix of Forms. The complaint and summons paper shall be of sufficient
 
-      (2)     Local rules adopted by a court pursuant to the Rules of Superintendence for the
-      Courts of Ohio may also provide for the filing of the criminal complaint and summons by
-      electronic means. If a criminal complaint and summons is issued at the scene of an alleged
-      offense, the local rule shall require that the issuing officer serve the defendant with the
-      defendant's paper copy of the criminal complaint and summons as required by division (D)
+                 quality to allow the court record copy to remain unchanged for the period of the
+                 retention schedule for the various criminal offenses as prescribed by Rule 26.05 of
+                 the Rules of Superintendence for the Courts of Ohio. The court record for the
+                 complaint and summons shall be filed with the court or may be filed electronically
+                 as authorized by local rule and division (G)(2) of this rule.
 
-        of this rule. A law enforcement officer who files a criminal complaint and summons
-        pursuant to divisions (G)(l) or (G)(2) of this rule and electronically affixes the officer's
-        signature thereto, shall also have his/her signature attested to by either a "peace officer,"
-        "judge," "clerk," or "deputy clerk" after which the complaint and summons shall be
-        considered to have been certified and shall have the same rights, responsibilities, and
-        liabilities as with all other criminal complaints and summons issued pursuant to these rules.
+        (2)      Local rules adopted by a court pursuant to the Rules of Superintendence for the
+                 Courts of Ohio may also provide for the filing of the criminal complaint and
+                 summons by electronic means. If a criminal complaint and summons is issued at
+                 the scene of an alleged offense, the local rule shall require that the issuing officer
+                 serve the defendant with the defendant's paper copy of the criminal complaint and
+                 summons as required by division (D) of this rule. A law enforcement officer who
+                 files a criminal complaint and summons pursuant to divisions (G)(l) or (G)(2) of
+                 this rule and electronically affixes the officer's signature thereto, shall also have
+                 his/her signature attested to by either a "peace officer," "judge," "clerk," or "deputy
+                 clerk" after which the complaint and summons shall be considered to have been
+                 certified and shall have the same rights, responsibilities, and liabilities as with all
+                 other criminal complaints and summons issued pursuant to these rules.
 
 Effective Date: July 1, 1973
 Amended: July 1, 1975; July 1, 1990; July 1, 1998; July 1, 2018; July 1, 2019; July 1, 2022; July
@@ -563,11 +583,12 @@ systemic challenge to that jurisdiction’s arrest procedures (although, on an i
 be violative of the Fourth Amendment even if the probable cause determination is made in less than 48
 hours). County of Riverside v. McLaughin, 500 U.S. 44, 111 S.Ct. 166, 1114 L.Ed.2d 49 (1991).
 
-        Riverside underscored that the police do not comply with the Fourth Amendment when they arrest
+       Riverside underscored that the police do not comply with the Fourth Amendment when they arrest
 a person without a warrant and then use the ensuing time to establish probable cause for the already-
 executed warrantless arrest. The 48 hours contemplated by Riverside represents the outside time frame
 by which police, who must have had probable cause when they made the arrest in the first place, and the
 court must ensure that a neutral and detached government official will have reviewed the complaint for
+
 probable cause. The 48 hours contemplated as the outer deadline in Riverside is inclusive of weekends
 and holidays; for that reason, the Rule explicitly excludes Crim.R. 45’s normal computation from the
 deadline for determining probable cause for the warrantless arrest.
@@ -668,18 +689,18 @@ RULE 5.      Initial Appearance, Preliminary Hearing.
              (1)     Of the nature of the charge against the defendant;
 
              (2)     That the defendant has a right to counsel and the right to a reasonable
-             continuance in the proceedings to secure counsel, and, pursuant to Crim.R. 44, the
-             right to have counsel assigned without cost if the defendant is unable to employ
-             counsel;
+                     continuance in the proceedings to secure counsel, and, pursuant to Crim.R.
+                     44, the right to have counsel assigned without cost if the defendant is unable
+                     to employ counsel;
 
-             (3)    That the defendant need make no statement and any statement made may
-             be used against the defendant;
+             (3)     That the defendant need make no statement and any statement made may
+                     be used against the defendant;
 
-             (4)      Of the right to a preliminary hearing in a felony case, when the defendant’s
-             initial appearance is not pursuant to indictment;
+             (4)     Of the right to a preliminary hearing in a felony case, when the defendant’s
+                     initial appearance is not pursuant to indictment;
 
-             (5)   Of the right, where appropriate, to jury trial and the necessity to make
-             demand therefor in petty offense cases.
+             (5)     Of the right, where appropriate, to jury trial and the necessity to make
+                     demand therefor in petty offense cases.
 
       In addition, if the defendant has not been admitted to bail for a bailable offense, the judge
       or magistrate shall admit the defendant to bail as provided by law.
@@ -693,91 +714,97 @@ RULE 5.      Initial Appearance, Preliminary Hearing.
 
 (B)   Preliminary hearing in felony cases; procedure
 
-      (1)      In felony cases a defendant is entitled to a preliminary hearing unless waived in
-      writing. If the defendant waives preliminary hearing, the judge or magistrate shall
-      forthwith order the defendant bound over to the court of common pleas. Except upon good
-      cause shown, any misdemeanor, other than a minor misdemeanor, arising from the same
-      act or transaction involving a felony shall be bound over or transferred with the felony case.
-      If the defendant does not waive the preliminary hearing, the judge or magistrate shall
-      schedule a preliminary hearing within a reasonable time, but in any event no later than ten
-      consecutive days following arrest or service of summons if the defendant is in custody and
-      not later than fifteen consecutive days following arrest or service of summons if the
-      defendant is not in custody. The preliminary hearing shall not be held, however, if the
+      (1)    In felony cases a defendant is entitled to a preliminary hearing unless waived in
+             writing. If the defendant waives preliminary hearing, the judge or magistrate shall
+             forthwith order the defendant bound over to the court of common pleas. Except
+             upon good cause shown, any misdemeanor, other than a minor misdemeanor,
+             arising from the same act or transaction involving a felony shall be bound over or
+             transferred with the felony case. If the defendant does not waive the preliminary
+             hearing, the judge or magistrate shall schedule a preliminary hearing within a
+             reasonable time, but in any event no later than ten consecutive days following arrest
+             or service of summons if the defendant is in custody and not later than fifteen
+             consecutive days following arrest or service of summons if the defendant is not in
 
-defendant is indicted. With the consent of the defendant and upon a showing of good cause,
-taking into account the public interest in the prompt disposition of criminal cases, time
-limits specified in this division may be extended. In the absence of such consent by the
-defendant, time limits may be extended only as required by law, or upon a showing that
-extraordinary circumstances exist and that delay is indispensable to the interests of justice.
+      custody. The preliminary hearing shall not be held, however, if the defendant is
+      indicted. With the consent of the defendant and upon a showing of good cause,
+      taking into account the public interest in the prompt disposition of criminal cases,
+      time limits specified in this division may be extended. In the absence of such
+      consent by the defendant, time limits may be extended only as required by law, or
+      upon a showing that extraordinary circumstances exist and that delay is
+      indispensable to the interests of justice.
 
-(2)      At the preliminary hearing the prosecuting attorney may state orally the case for the
-state, and shall then proceed to examine witnesses and introduce exhibits for the state. The
-defendant and the judge or magistrate have full right of cross-examination, and the
-defendant has the right of inspection of exhibits prior to their introduction. The hearing
-shall be conducted under the rules of evidence prevailing in criminal trials generally.
+(2)   At the preliminary hearing the prosecuting attorney may state orally the case for the
+      state, and shall then proceed to examine witnesses and introduce exhibits for the
+      state. The defendant and the judge or magistrate have full right of cross-
+      examination, and the defendant has the right of inspection of exhibits prior to their
+      introduction. The hearing shall be conducted under the rules of evidence prevailing
+      in criminal trials generally.
 
-(3)     At the conclusion of the presentation of the state's case, defendant may move for
-discharge for failure of proof, and may offer evidence on the defendant’s own behalf. If
-the defendant is not represented by counsel, the court shall advise the defendant, prior to
-the offering of evidence on behalf of the defendant:
+(3)   At the conclusion of the presentation of the state's case, defendant may move for
+      discharge for failure of proof, and may offer evidence on the defendant’s own
+      behalf. If the defendant is not represented by counsel, the court shall advise the
+      defendant, prior to the offering of evidence on behalf of the defendant:
 
-       (a)   That any such evidence, if unfavorable to the defendant in any particular,
-       may be used against the defendant at later trial.
+             (a)     That any such evidence, if unfavorable to the defendant in any
+                     particular, may be used against the defendant at later trial.
 
-       (b)    That the defendant may make a statement, not under oath, regarding the
-       charge, for the purpose of explaining the facts in evidence.
+             (b)     That the defendant may make a statement, not under oath, regarding
+                     the charge, for the purpose of explaining the facts in evidence.
 
-       (c)     That the defendant may refuse to make any statement, and such refusal may
-       not be used against the defendant at trial.
+             (c)     That the defendant may refuse to make any statement, and such
+                     refusal may not be used against the defendant at trial.
 
-       (d)       That any statement the defendant makes may be used against the defendant
-       at trial.
+             (d)     That any statement the defendant makes may be used against the
+                     defendant at trial.
 
-(4)     Upon conclusion of all the evidence and the statement, if any, of the accused, the
-court shall do one of the following:
+(4)   Upon conclusion of all the evidence and the statement, if any, of the accused, the
+      court shall do one of the following:
 
-       (a)    Find that there is probable cause to believe the crime alleged or another
-       felony has been committed and that the defendant committed it, and bind the
-       defendant over to the court of common pleas of the county or any other county in
-       which venue appears.
+             (a)     Find that there is probable cause to believe the crime alleged or
+                     another felony has been committed and that the defendant
+                     committed it, and bind the defendant over to the court of common
+                     pleas of the county or any other county in which venue appears.
 
-       (b)     Find that there is probable cause to believe that a misdemeanor was
-       committed and that the defendant committed it, and retain the case for trial or order
-       the defendant to appear for trial before an appropriate court.
+             (b)     Find that there is probable cause to believe that a misdemeanor was
+                     committed and that the defendant committed it, and retain the case
+                     for trial or order the defendant to appear for trial before an
+                     appropriate court.
 
-       (c)     Order the accused discharged.
+             (c)     Order the accused discharged.
 
-       (d)    Except upon good cause shown, any misdemeanor, other than a minor
-       misdemeanor, arising from the same act or transaction involving a felony shall be
-       bound over or transferred with the felony case.
+                         (d)     Except upon good cause shown, any misdemeanor, other than a
+                                 minor misdemeanor, arising from the same act or transaction
+                                 involving a felony shall be bound over or transferred with the felony
+                                 case.
 
-        (5)    Any finding requiring the accused to stand trial on any charge shall be based solely
-        on the presence of substantial credible evidence thereof. No appeal shall lie from such
-        decision and the discharge of defendant shall not be a bar to further prosecution.
+        (5)       Any finding requiring the accused to stand trial on any charge shall be based solely
+                  on the presence of substantial credible evidence thereof. No appeal shall lie from
+                  such decision and the discharge of defendant shall not be a bar to further
+                  prosecution.
 
-        (6)     In any case in which the defendant is ordered to appear for trial for any offense
-        other than the one charged the court shall cause a complaint charging such offense to be
-        filed.
+        (6)       In any case in which the defendant is ordered to appear for trial for any offense
+                  other than the one charged the court shall cause a complaint charging such offense
+                  to be filed.
 
-        (7)     Upon the conclusion of the hearing and finding, the court or the clerk of such court,
-        shall, within seven days, complete all notations of appearance, motions, pleas, and findings
-        on the criminal docket of the court, and shall transmit a record of the appearance docket
-        entries, together with a copy of the original complaint and affidavits, if any, filed with the
-        complaint, the journal or docket entry of reason for changes in the charge, if any, together
-        with the order setting bail and the bail including any bail deposit, if any, filed, to the clerk
-        of the court in which defendant is to appear. Such record shall contain an itemized account
-        of the costs accrued.
+        (7)       Upon the conclusion of the hearing and finding, the court or the clerk of such court,
+                  shall, within seven days, complete all notations of appearance, motions, pleas, and
+                  findings on the criminal docket of the court, and shall transmit a record of the
+                  appearance docket entries, together with a copy of the original complaint and
+                  affidavits, if any, filed with the complaint, the journal or docket entry of reason for
+                  changes in the charge, if any, together with the order setting bail and the bail
+                  including any bail deposit, if any, filed, to the clerk of the court in which defendant
+                  is to appear. Such record shall contain an itemized account of the costs accrued.
 
-        (8)    A municipal or county court retains jurisdiction on a felony case following the
-        preliminary hearing, or a waiver thereof, until such time as a transcript of the appearance,
-        docket entries, and other matters required for transmittal are filed with the clerk of the court
-        in which the defendant is to appear.
+        (8)       A municipal or county court retains jurisdiction on a felony case following the
+                  preliminary hearing, or a waiver thereof, until such time as a transcript of the
+                  appearance, docket entries, and other matters required for transmittal are filed with
+                  the clerk of the court in which the defendant is to appear.
 
 Effective Date: July 1, 1973
 Amended: July 1, 1975; July 1, 1976; July 1, 1982; July 1, 1990; July 1, 2012; July 1, 2014; July
 1, 2017; July 1, 2025
 
-                                 Staff Note (July 1, 2017 Amendment)
+                                  Staff Note (July 1, 2017 Amendment)
 
 Crim.R. 5(B)(7)
 
@@ -787,7 +814,7 @@ a felony bindover. This is not a substantive change. The previous term “transc
 confusing because it was not being used in the common parlance of a verbatim written record of the words
 actually spoken in court.
 
-                                 Staff Note (July 1, 2025 Amendment)
+                                  Staff Note (July 1, 2025 Amendment)
 
 Crim.R. 5(A)
 
@@ -842,7 +869,7 @@ RULE 6.      The Grand Jury.
       and preparing a record of the proceedings may be present while the grand jury is in session,
 
       but no person other than the grand jurors and an interpreter for a grand juror pursuant to
-      Sup.R. 88 may be present while the grand jury is deliberating or voting.
+      Sup.R. 3.05 and 9.10 and may be present while the grand jury is deliberating or voting.
 
 (E)   Secrecy of proceedings and disclosure
 
@@ -905,7 +932,7 @@ Amended: July 1, 2019; July 1, 2023
 Crim.R. 6
 
          The changes to this Rule were made to make the Rule gender neutral. Further, language was
-added to subsection (D) so that the Rule would comply with Sup. R. 88 and would allow an interpreter to
+added to subsection (D) so that the Rule would comply with Sup.R. 88 and would allow an interpreter to
 remain in the grand jury room during deliberation and voting. Subsection (E) was changed to clarify that
 the deliberations and the vote of the grand jury are secret; it was meant to give emphasis to what is already
 recognized law in Ohio, and it was not meant to be a substantive change.
@@ -994,7 +1021,7 @@ Rule 7(A)       Use of Indictment or Information
 juvenile division of a common pleas court. Prior to this amendment, a misdemeanor could only be
 prosecuted in the common pleas court by an indictment or information.
 
-        The impetus for the amendment was statutes holding parents criminally accountable for their
+         The impetus for the amendment was statutes holding parents criminally accountable for their
 children’s chronic truancy. Since these charges are misdemeanors, prior to the amendment of this rule a
 parent could be prosecuted only by a grand jury indictment or an information. Obtaining a grand jury
 indictment is costly and time consuming, and a defendant must first waive indictment before an information
@@ -1093,13 +1120,13 @@ RULE 10.     Arraignment.
 
 (B)   Presence of defendant
 
-      (1)     The defendant must be present, except that the court, with the written consent of
-      the defendant, may permit arraignment without the presence of the defendant, if a plea of
-      not guilty is entered.
+      (1)    The defendant must be present, except that the court, with the written consent of
+             the defendant, may permit arraignment without the presence of the defendant, if a
+             plea of not guilty is entered.
 
       (2)    In a felony or misdemeanor arraignment or a felony initial appearance, a court may
-      permit the remote presence and participation of a defendant, provided the appearance
-      complies with the requirements set out in Crim.R. 43(A)(2).
+             permit the remote presence and participation of a defendant, provided the
+             appearance complies with the requirements set out in Crim.R. 43(A)(2).
 
 (C)   Explanation of rights
 
@@ -1107,19 +1134,19 @@ RULE 10.     Arraignment.
       plead, the judge or magistrate shall cause the defendant to be informed and shall determine
       that the defendant understands all of the following:
 
-             (1)    The defendant has a right to retain counsel even if the defendant intends to
-             plead guilty, and has a right to a reasonable continuance in the proceedings to secure
-             counsel.
+             (1)     The defendant has a right to retain counsel even if the defendant intends to
+                     plead guilty, and has a right to a reasonable continuance in the proceedings
+                     to secure counsel.
 
              (2)     The defendant has a right to counsel, and the right to a reasonable
-             continuance in the proceeding to secure counsel, and, pursuant to Crim.R. 44, the
-             right to have counsel assigned without cost if the defendant is unable to employ
-             counsel.
+                     continuance in the proceeding to secure counsel, and, pursuant to Crim.R.
+                     44, the right to have counsel assigned without cost if the defendant is unable
+                     to employ counsel.
 
              (3)     The defendant has a right to bail, if the offense is bailable.
 
              (4)     The defendant need make no statement at any point in the proceeding, but
-             any statement made can and may be used against the defendant.
+                     any statement made can and may be used against the defendant.
 
 (D)   Joint arraignment
 
@@ -1154,67 +1181,72 @@ RULE 11.      Pleas, Rights Upon Plea.
 
               (1)    The plea of guilty is a complete admission of the defendant's guilt.
 
-              (2)    The plea of no contest is not an admission of defendant's guilt, but is an
-              admission of the truth of the facts alleged in the indictment, information, or
-              complaint, and the plea or admission shall not be used against the defendant in any
-              subsequent civil or criminal proceeding.
+              (2)     The plea of no contest is not an admission of defendant's guilt, but is an
+                      admission of the truth of the facts alleged in the indictment, information, or
+                      complaint, and the plea or admission shall not be used against the defendant
+                      in any subsequent civil or criminal proceeding.
 
               (3)     When a plea of guilty or no contest is accepted pursuant to this rule, the
-              court, except as provided in divisions (C)(3) and (4) of this rule, shall proceed with
-              sentencing under Crim.R. 32.
+                      court, except as provided in divisions (C)(3) and (4) of this rule, shall
+                      proceed with sentencing under Crim.R. 32.
 
 (C)   Pleas of guilty and no contest in felony cases
 
-      (1)    Where in a felony case the defendant is unrepresented by counsel the court shall
-      not accept a plea of guilty or no contest unless the defendant, after being readvised that he
-      or she has the right to be represented by retained counsel, or pursuant to Crim.R. 44 by
-      appointed counsel, waives this right.
+      (1)     Where in a felony case the defendant is unrepresented by counsel the court shall
+              not accept a plea of guilty or no contest unless the defendant, after being readvised
+              that he or she has the right to be represented by retained counsel, or pursuant to
+              Crim.R. 44 by appointed counsel, waives this right.
 
-      (2)    In felony cases the court may refuse to accept a plea of guilty or a plea of no contest,
-      and shall not accept a plea of guilty or no contest without first addressing the defendant
-      personally either in-person or by remote contemporaneous video in conformity with
-      Crim.R. 43(A) and doing all of the following:
+      (2)     In felony cases the court may refuse to accept a plea of guilty or a plea of no contest,
+              and shall not accept a plea of guilty or no contest without first addressing the
+              defendant personally either in-person or by remote contemporaneous video in
+              conformity with Crim.R. 43(A) and doing all of the following:
 
-              (a)    Determining that the defendant is making the plea voluntarily, with
-              understanding of the nature of the charges and of the maximum penalty involved,
-              and if applicable, that the defendant is not eligible for probation or for the
-              imposition of community control sanctions at the sentencing hearing.
+                      (a)     Determining that the defendant is making the plea voluntarily, with
+                              understanding of the nature of the charges and of the maximum
+                              penalty involved, and if applicable, that the defendant is not eligible
+                              for probation or for the imposition of community control sanctions
+                              at the sentencing hearing.
 
-             (b)     Informing the defendant of and determining that the defendant understands
-             the effect of the plea of guilty or no contest, and that the court, upon acceptance of
-             the plea, may proceed with judgment and sentence.
+                     (b)    Informing the defendant of and determining that the defendant
+                            understands the effect of the plea of guilty or no contest, and that the
+                            court, upon acceptance of the plea, may proceed with judgment and
+                            sentence.
 
-             (c)     Informing the defendant and determining that the defendant understands
-             that by the plea the defendant is waiving the rights to jury trial, to confront witnesses
-             against him or her, to have compulsory process for obtaining witnesses in the
-             defendant’s favor, and to require the state to prove the defendant’s guilt beyond a
-             reasonable doubt at a trial at which the defendant cannot be compelled to testify
-             against himself or herself.
+                     (c)    Informing the defendant and determining that the defendant
+                            understands that by the plea the defendant is waiving the rights to
+                            jury trial, to confront witnesses against him or her, to have
+                            compulsory process for obtaining witnesses in the defendant’s
+                            favor, and to require the state to prove the defendant’s guilt beyond
+                            a reasonable doubt at a trial at which the defendant cannot be
+                            compelled to testify against himself or herself.
 
-      (3)     With respect to aggravated murder committed on and after January 1, 1974, the
-      defendant shall plead separately to the charge and to each specification, if any. A plea of
-      guilty or no contest to the charge waives the defendant's right to a jury trial, and before
-      accepting a plea of guilty or no contest the court shall so advise the defendant and determine
-      that the defendant understands the consequences of the plea.
+      (3)    With respect to aggravated murder committed on and after January 1, 1974, the
+             defendant shall plead separately to the charge and to each specification, if any. A
+             plea of guilty or no contest to the charge waives the defendant's right to a jury trial,
+             and before accepting a plea of guilty or no contest the court shall so advise the
+             defendant and determine that the defendant understands the consequences of the
+             plea.
 
-      If the indictment contains no specification, and a plea of guilty or no contest to the charge
-      is accepted, the court shall impose the sentence provided by law.
+             If the indictment contains no specification, and a plea of guilty or no contest to the
+             charge is accepted, the court shall impose the sentence provided by law.
 
-      If the indictment contains one or more specifications, and a plea of guilty or no contest to
-      the charge is accepted, the court may dismiss the specifications and impose sentence
-      accordingly, in the interests of justice.
+             If the indictment contains one or more specifications, and a plea of guilty or no
+             contest to the charge is accepted, the court may dismiss the specifications and
+             impose sentence accordingly, in the interests of justice.
 
-      If the indictment contains one or more specifications that are not dismissed upon
-      acceptance of a plea of guilty or no contest to the charge, or if pleas of guilty or no contest
-      to both the charge and one or more specifications are accepted, a court composed of three
-      judges shall: (a) determine whether the offense was aggravated murder or a lesser offense;
-      and (b) if the offense is determined to have been a lesser offense, impose sentence
-      accordingly; or (c) if the offense is determined to have been aggravated murder, proceed
-      as provided by law to determine the presence or absence of the specified aggravating
-      circumstances and of mitigating circumstances, and impose sentence accordingly.
+             If the indictment contains one or more specifications that are not dismissed upon
+             acceptance of a plea of guilty or no contest to the charge, or if pleas of guilty or no
+             contest to both the charge and one or more specifications are accepted, a court
+             composed of three judges shall: (a) determine whether the offense was aggravated
+             murder or a lesser offense; and (b) if the offense is determined to have been a lesser
+             offense, impose sentence accordingly; or (c) if the offense is determined to have
+             been aggravated murder, proceed as provided by law to determine the presence or
+             absence of the specified aggravating circumstances and of mitigating
+             circumstances, and impose sentence accordingly.
 
-      (4)     With respect to all other cases the court need not take testimony upon a plea of
-      guilty or no contest.
+      (4)    With respect to all other cases the court need not take testimony upon a plea of
+             guilty or no contest.
 
 (D)   Misdemeanor cases involving serious offenses
 
@@ -1222,10 +1254,11 @@ RULE 11.      Pleas, Rights Upon Plea.
       guilty or no contest, and shall not accept such plea without first addressing the defendant
       personally and informing the defendant of the effect of the pleas of guilty, no contest, and
       not guilty and determining that the defendant is making the plea voluntarily. Where the
-      defendant is unrepresented by counsel the court shall not accept a plea of guilty or no
-      contest unless the defendant, after being readvised that he or she has the right to be
-      represented by retained counsel, or pursuant to Crim.R. 44 by appointed counsel, waives
-      this right.
+
+        defendant is unrepresented by counsel the court shall not accept a plea of guilty or no
+        contest unless the defendant, after being readvised that he or she has the right to be
+        represented by retained counsel, or pursuant to Crim.R. 44 by appointed counsel, waives
+        this right.
 
 (E)     Misdemeanor cases involving petty offenses
 
@@ -1265,12 +1298,30 @@ of the Ohio Revised Code. Other plea requirements not contained in Crim.R. 11 ma
 Section 2937.07 (requiring explanation of circumstances in certain misdemeanor cases) of the Ohio
 Revised Code.
 
-                                 Staff Note (July 1, 2019 Amendment)
+                                Staff Note (July 1, 2019 Amendment)
 
 Crim.R. 11(F)
 
         The amendment to Crim R 11(F) was made to comply with the 2017 amendment to Article I, Section
 10a of the Ohio Constitution, also known as Marsy’s Law.
+
+RULE 11.1. Standard Notice Concerning Possession or Purchase of a Firearm.
+
+(A)    Requirement
+
+       A court that has jurisdiction to convict a person of a misdemeanor offense of violence
+       against a family or household member shall provide notice to the defendant pursuant to
+       R.C. 2943.033.
+
+(B)    Form
+
+       In every case prior to accepting a guilty plea or plea of no contest to an indictment,
+       information, or complaint that charges a person with a misdemeanor offense of violence
+       against a family or household member, a court shall use a form that is substantially similar
+       to a “Notice Concerning Possession or Purchase of Firearms” or Form 5 (formerly 10.04-
+       A)” unless the court provides oral notice to the defendant.
+
+Effective Date: July 1, 2026
 
 RULE 12.     Pleadings and Motions Before Trial: Defenses and Objections.
 
@@ -1294,18 +1345,19 @@ RULE 12.     Pleadings and Motions Before Trial: Defenses and Objections.
 
              (1)     The complaint shall comply with Crim.R. 3.
 
-             (2)      Any signature on electronically transmitted documents shall be considered
-             that of the attorney or party it purports to be for all purposes. If it is established
-             that the documents were transmitted without authority, the court shall order the
-             filing stricken.
+             (2)     Any signature on electronically transmitted documents shall be considered
+                     that of the attorney or party it purports to be for all purposes. If it is
+                     established that the documents were transmitted without authority, the court
+                     shall order the filing stricken.
 
-             (3)    A provision shall specify the days and hours during which electronically
-             transmitted documents will be received by the court, and a provision shall specify
-             when documents received electronically will be considered to have been filed.
+             (3)     A provision shall specify the days and hours during which electronically
+                     transmitted documents will be received by the court, and a provision shall
+                     specify when documents received electronically will be considered to have
+                     been filed.
 
              (4)     Any document filed electronically that requires a filing fee may be rejected
-             by the clerk of court unless the filer has complied with the mechanism established
-             by the court for the payment of filing fees.
+                     by the clerk of court unless the filer has complied with the mechanism
+                     established by the court for the payment of filing fees.
 
 (C)   Pretrial motions
 
@@ -1313,32 +1365,32 @@ RULE 12.     Pleadings and Motions Before Trial: Defenses and Objections.
       request that is capable of determination without the trial of the general issue. The following
       must be raised before trial:
 
-             (1)    Defenses and objections based on defects in the institution of the
-             prosecution;
+             (1)     Defenses and objections based on defects in the institution of the
+                     prosecution;
 
-             (2)   Defenses and objections based on defects in the indictment, information, or
-             complaint (other than failure to show jurisdiction in the court or to charge an
-
-             offense, which objections shall be noticed by the court at any time during the
-             pendency of the proceeding);
+             (2)     Defenses and objections based on defects in the indictment, information, or
+                     complaint (other than failure to show jurisdiction in the court or to charge
+                     an offense, which objections shall be noticed by the court at any time during
+                     the pendency of the proceeding);
 
              (3)     Motions to suppress evidence, including but not limited to statements and
-             identification testimony, on the ground that it was illegally obtained. Such motions
-             shall be filed in the trial court only.
+                     identification testimony, on the ground that it was illegally obtained. Such
+                     motions shall be filed in the trial court only.
 
              (4)     Requests for discovery under Crim.R. 16;
 
              (5)     Requests for severance of charges or defendants under Crim.R. 14.
 
              (6)     Requests for the appointment of expert witnesses in cases where the
-             defendant is unable to afford the cost of the requested expert assistance. Upon
-             request by defense counsel, a motion in this regard may be made in camera and ex
-             parte, and the order concerning this appointment shall be under seal.
+                     defendant is unable to afford the cost of the requested expert assistance.
+                     Upon request by defense counsel, a motion in this regard may be made in
+                     camera and ex parte, and the order concerning this appointment shall be
+                     under seal.
 
-             (7)    Requests for the appointment of investigators in cases where the defendant
-             is unable to afford the cost of the requested investigative assistance. Upon request
-             by defense counsel, a motion in this regard may be made in camera and ex parte,
-             and the order concerning the appointment shall be under seal.
+             (7)     Requests for the appointment of investigators in cases where the defendant
+                     is unable to afford the cost of the requested investigative assistance. Upon
+                     request by defense counsel, a motion in this regard may be made in camera
+                     and ex parte, and the order concerning the appointment shall be under seal.
 
 (D)   Motion date
 
@@ -1418,9 +1470,10 @@ RULE 12.     Pleadings and Motions Before Trial: Defenses and Objections.
               (1)     the appeal is not taken for the purpose of delay;
 
               (2)     the ruling on the motion or motions has rendered the state's proof with
-              respect to the pending charge so weak in its entirety that any reasonable possibility
-              of effective prosecution has been destroyed, or the pretrial disclosure of evidence
-              ordered by the court will have one of the effects enumerated in Crim.R. 16(D).
+                      respect to the pending charge so weak in its entirety that any reasonable
+                      possibility of effective prosecution has been destroyed, or the pretrial
+                      disclosure of evidence ordered by the court will have one of the effects
+                      enumerated in Crim.R. 16(D).
 
        The appeal from an order suppressing or excluding evidence shall not be allowed unless
        the notice of appeal and the certification by the prosecuting attorney are filed with the clerk
@@ -1454,7 +1507,7 @@ Effective Date: July 1, 1973
 Amended: July 1, 1975; July 1, 1980; July 1, 1995; July 1, 1998; July 1, 2001; July 1, 2010; July
 1, 2011; July 1, 2013; July 1, 2019; July 1, 2023; July 1, 2025
 
-                               Staff Note (July 1, 2001 Amendment)
+                                   Staff Note (July 1, 2001 Amendment)
 
 Criminal Rule 12          Pleadings and Motions Before Trial: Defenses and Objections
 Criminal Rule 12(B)       Filing with the Court Defined
@@ -1663,32 +1716,34 @@ RULE 16.      Discovery and Inspection.
       possession of, or reasonably available to the state, subject to the provisions of this rule:
 
               (1)     Any written or recorded statement by the defendant or a co-defendant,
-              including police summaries of such statements, and including grand jury testimony
-              by either the defendant or co-defendant;
+                      including police summaries of such statements, and including grand jury
+                      testimony by either the defendant or co-defendant;
 
               (2)     Criminal records of the defendant, a co-defendant, and the record of prior
-              convictions that could be admissible under Rule 609 of the Ohio Rules of Evidence
-              of a witness in the state’s case-in-chief, or that it reasonably anticipates calling as a
-              witness in rebuttal;
+                      convictions that could be admissible under Rule 609 of the Ohio Rules of
+                      Evidence of a witness in the state’s case-in-chief, or that it reasonably
+                      anticipates calling as a witness in rebuttal;
 
               (3)     Subject to divisions (D)(4) and (E) of this rule, all laboratory or hospital
-              reports, books, papers, documents, photographs, tangible objects, buildings, or
-              places;
+                      reports, books, papers, documents, photographs, tangible objects, buildings,
+                      or places;
 
-              (4)    Subject to division (D)(4) and (E) of this rule, results of physical or mental
-              examinations, experiments or scientific tests;
+              (4)     Subject to division (D)(4) and (E) of this rule, results of physical or mental
+                      examinations, experiments or scientific tests;
 
-              (5)   Any evidence favorable to the defendant and material to guilt or
-              punishment;
+              (5)     Any evidence favorable to the defendant and material to guilt or
+                      punishment;
 
               (6)     All reports from peace officers, the Ohio State Highway Patrol, and federal
-              law enforcement agents, provided however, that a document prepared by a person
-              other than the witness testifying will not be considered to be the witness’s prior
-              statement for purposes of the cross examination of that particular witness under the
-              Rules of Evidence unless explicitly adopted by the witness;
+                      law enforcement agents, provided however, that a document prepared by a
+                      person other than the witness testifying will not be considered to be the
+                      witness’s prior statement for purposes of the cross examination of that
 
-             (7)      Any written or recorded statement by a witness in the state’s case-in-chief,
-             or that it reasonably anticipates calling as a witness in rebuttal.
+                     particular witness under the Rules of Evidence unless explicitly adopted by
+                     the witness;
+
+             (7)     Any written or recorded statement by a witness in the state’s case-in-chief,
+                     or that it reasonably anticipates calling as a witness in rebuttal.
 
 (C)   Prosecuting attorney’s designation of “counsel only” materials
 
@@ -1708,20 +1763,20 @@ RULE 16.      Discovery and Inspection.
       disclosing material or portions of material otherwise subject to disclosure under this rule
       for one or more of the following reasons:
 
-             (1)    The prosecuting attorney has reasonable, articulable grounds to believe that
-             disclosure will compromise the safety of a witness, victim, or third party, or subject
-             them to intimidation or coercion;
+             (1)     The prosecuting attorney has reasonable, articulable grounds to believe that
+                     disclosure will compromise the safety of a witness, victim, or third party, or
+                     subject them to intimidation or coercion;
 
              (2)     The prosecuting attorney has reasonable, articulable grounds to believe that
-             disclosure will subject a witness, victim, or third party to a substantial risk of
-             serious economic harm;
+                     disclosure will subject a witness, victim, or third party to a substantial risk
+                     of serious economic harm;
 
              (3)     Disclosure will compromise an ongoing criminal investigation or a
-             confidential law enforcement technique or investigation regardless of whether that
-             investigation involves the pending case or the defendant;
+                     confidential law enforcement technique or investigation regardless of
+                     whether that investigation involves the pending case or the defendant;
 
-             (4)      The statement is of a child victim of sexually oriented offense under the age
-             of thirteen;
+             (4)     The statement is of a child victim of sexually oriented offense under the age
+                     of thirteen;
 
              (5)     The interests of justice require non-disclosure.
 
@@ -1735,19 +1790,21 @@ RULE 16.      Discovery and Inspection.
 (E)   Right of inspection in cases of sexual assault
 
       (1)    In cases of sexual assault, defense counsel, or the agents or employees of defense
-      counsel, shall have the right to inspect photographs, results of physical or mental
-      examinations, or hospital reports, related to the indictment, information, or complaint as
-      described in section (B)(3) or (B)(4) of this rule. Hospital records not related to the
-      information, indictment, or complaint are not subject to inspection or disclosure. Upon
-      motion by defendant, copies of the photographs, results of physical or mental examinations,
-      or hospital reports, shall be provided to defendant’s expert under seal and under protection
-      from unauthorized dissemination pursuant to protective order.
+             counsel, shall have the right to inspect photographs, results of physical or mental
+             examinations, or hospital reports, related to the indictment, information, or
+             complaint as described in section (B)(3) or (B)(4) of this rule. Hospital records not
+             related to the information, indictment, or complaint are not subject to inspection or
+             disclosure. Upon motion by defendant, copies of the photographs, results of
+             physical or mental examinations, or hospital reports, shall be provided to
+             defendant’s expert under seal and under protection from unauthorized
+             dissemination pursuant to protective order.
 
-      (2)     In cases involving a victim of a sexually oriented offense less than thirteen years of
-      age, the court, for good cause shown, may order the child’s statement be provided, under
-      seal and pursuant to protective order from unauthorized dissemination, to defense counsel
-      and the defendant’s expert. Notwithstanding any provision to the contrary, counsel for the
-      defendant shall be permitted to discuss the content of the statement with the expert.
+      (2)    In cases involving a victim of a sexually oriented offense less than thirteen years of
+             age, the court, for good cause shown, may order the child’s statement be provided,
+             under seal and pursuant to protective order from unauthorized dissemination, to
+             defense counsel and the defendant’s expert. Notwithstanding any provision to the
+             contrary, counsel for the defendant shall be permitted to discuss the content of the
+             statement with the expert.
 
 (F)   Review of prosecuting attorney’s certification of non-disclosure
 
@@ -1756,30 +1813,33 @@ RULE 16.      Discovery and Inspection.
       during an in camera hearing conducted seven days prior to trial, with counsel participating.
 
              (1)     Upon a finding of an abuse of discretion by the prosecuting attorney, the
-             trial court may order disclosure, grant a continuance, or other appropriate relief.
+                     trial court may order disclosure, grant a continuance, or other appropriate
+                     relief.
 
              (2)     Upon a finding by the trial court of an abuse of discretion by the prosecuting
-             attorney, the prosecuting attorney may file an interlocutory appeal pursuant to
-             division (K) of Rule 12 of the Rules of Criminal Procedure.
+                     attorney, the prosecuting attorney may file an interlocutory appeal pursuant
+                     to division (K) of Rule 12 of the Rules of Criminal Procedure.
 
-             (3)    Unless, for good cause shown, the court orders otherwise, any material
-             disclosed by court order under this section shall be deemed to be “counsel only”
-             material, whether or not it is marked as such.
+             (3)     Unless, for good cause shown, the court orders otherwise, any material
+                     disclosed by court order under this section shall be deemed to be “counsel
+                     only” material, whether or not it is marked as such.
 
              (4)     Notwithstanding the provisions of (E)(2), in the case of a statement by a
-             victim of a sexually oriented offense less than thirteen years of age, where the trial
-             court finds no abuse of discretion, and the prosecuting attorney has not certified for
-             nondisclosure under (D)(1) or (D)(2) of this rule, or has filed for nondisclosure
-             under (D)(1) or (D)(2) of this rule and the court has found an abuse of discretion in
-             doing so, the prosecuting attorney shall permit defense counsel, or the agents or
-             employees of defense counsel to inspect the statement at that time.
+                     victim of a sexually oriented offense less than thirteen years of age, where
+                     the trial court finds no abuse of discretion, and the prosecuting attorney has
+                     not certified for nondisclosure under (D)(1) or (D)(2) of this rule, or has
+                     filed for nondisclosure under (D)(1) or (D)(2) of this rule and the court has
+                     found an abuse of discretion in doing so, the prosecuting attorney shall
 
-             (5)     If the court finds no abuse of discretion by the prosecuting attorney, a copy
-             of any discoverable material that was not disclosed before trial shall be provided to
-             the defendant no later than commencement of trial. If the court continues the trial
+                      permit defense counsel, or the agents or employees of defense counsel to
+                      inspect the statement at that time.
 
-              after the disclosure, the testimony of any witness shall be perpetuated on motion of
-              the state subject to further cross-examination for good cause shown.
+              (5)     If the court finds no abuse of discretion by the prosecuting attorney, a copy
+                      of any discoverable material that was not disclosed before trial shall be
+                      provided to the defendant no later than commencement of trial. If the court
+                      continues the trial after the disclosure, the testimony of any witness shall be
+                      perpetuated on motion of the state subject to further cross-examination for
+                      good cause shown.
 
 (G)   Perpetuation of testimony
 
@@ -1804,27 +1864,27 @@ RULE 16.      Discovery and Inspection.
       obtained from or belong to the victim, within the possession of, or reasonably available to
       the defendant, except as provided in division (J) of this rule:
 
-              (1)    All laboratory or hospital reports, books, papers, documents, photographs,
-              tangible objects, buildings, or places;
+              (1)     All laboratory or hospital reports, books, papers, documents, photographs,
+                      tangible objects, buildings, or places;
 
               (2)     Results of physical or mental examinations, experiments, or scientific tests;
 
-              (3)    Any evidence that tends to negate the guilt of the defendant, or is material
-              to punishment, or tends to support an alibi. However, nothing in this rule shall be
-              construed to require the defendant to disclose information that would tend to
-              incriminate that defendant;
+              (3)     Any evidence that tends to negate the guilt of the defendant, or is material
+                      to punishment, or tends to support an alibi. However, nothing in this rule
+                      shall be construed to require the defendant to disclose information that
+                      would tend to incriminate that defendant;
 
               (4)     All investigative reports, except as provided in division (J) of this rule;
 
-              (5)     Any written or recorded statement by a witness in the defendant’s case-in
-              chief, or any witness that it reasonably anticipates calling as a witness in surrebuttal.
+             (5)     Any written or recorded statement by a witness in the defendant’s case-in
+                     chief, or any witness that it reasonably anticipates calling as a witness in
+                     surrebuttal.
 
 (I)   Witness list
 
       Each party shall provide to opposing counsel a written witness list, including names and
       addresses of any witness it intends to call in its case-in-chief, or reasonably anticipates
       calling in rebuttal or surrebuttal. The content of the witness list may not be commented
-
       upon or disclosed to the jury by opposing counsel, but during argument, the presence or
       absence of the witness may be commented upon.
 
@@ -1833,15 +1893,16 @@ RULE 16.      Discovery and Inspection.
       The following items are not subject to disclosure under this rule:
 
              (1)     Materials subject to the work product protection. Work product includes,
-             but is not limited to, reports, memoranda, or other internal documents made by the
-             prosecuting attorney or defense counsel, or their agents in connection with the
-             investigation or prosecution or defense of the case;
+                     but is not limited to, reports, memoranda, or other internal documents made
+                     by the prosecuting attorney or defense counsel, or their agents in connection
+                     with the investigation or prosecution or defense of the case;
 
              (2)     Transcripts of grand jury testimony, other than transcripts of the testimony
-             of a defendant or co-defendant. Such transcripts are governed by Crim.R. 6;
+                     of a defendant or co-defendant. Such transcripts are governed by Crim.R.
+                     6;
 
-             (3)    Materials that by law are subject to privilege, or confidentiality, or are
-             otherwise prohibited from disclosure.
+             (3)     Materials that by law are subject to privilege, or confidentiality, or are
+                     otherwise prohibited from disclosure.
 
 (K)   Expert witnesses; reports
 
@@ -1855,23 +1916,25 @@ RULE 16.      Discovery and Inspection.
 
 (L)   Regulation of discovery
 
-      (1)     The trial court may make orders regulating discovery not inconsistent with this rule.
-      If at any time during the course of the proceedings it is brought to the attention of the court
-      that a party has failed to comply with this rule or with an order issued pursuant to this rule,
-      the court may order such party to permit the discovery or inspection, grant a continuance,
-      or prohibit the party from introducing in evidence the material not disclosed, or it may
-      make such other order as it deems just under the circumstances.
+      (1)    The trial court may make orders regulating discovery not inconsistent with this rule.
+             If at any time during the course of the proceedings it is brought to the attention of
+             the court that a party has failed to comply with this rule or with an order issued
+             pursuant to this rule, the court may order such party to permit the discovery or
+             inspection, grant a continuance, or prohibit the party from introducing in evidence
 
-      (2)    The trial court specifically may regulate the time, place, and manner of a pro se
-      defendant’s access to any discoverable material not to exceed the scope of this rule.
+                the material not disclosed, or it may make such other order as it deems just under
+                the circumstances.
 
-      (3)     In cases in which the attorney-client relationship is terminated prior to trial for any
-      reason, any material that is designated “counsel only”, or limited in dissemination by
-      protective order, must be returned to the state. Any work product derived from said
-      material shall not be provided to the defendant.
+        (2)     The trial court specifically may regulate the time, place, and manner of a pro se
+                defendant’s access to any discoverable material not to exceed the scope of this rule.
 
-        (4)    To the extent required law, the trial court shall allow the victim to be heard
-        regarding objections to pretrial disclosure.
+        (3)     In cases in which the attorney-client relationship is terminated prior to trial for any
+                reason, any material that is designated “counsel only”, or limited in dissemination
+                by protective order, must be returned to the state. Any work product derived from
+                said material shall not be provided to the defendant.
+
+        (4)     To the extent required law, the trial court shall allow the victim to be heard
+                regarding objections to pretrial disclosure.
 
 (M)     Time of motions
 
@@ -1886,7 +1949,7 @@ RULE 16.      Discovery and Inspection.
 Effective Date: July 1, 1973
 Amended: July 1, 2010; July 1, 2016; July 1, 2019; July 1, 2025
 
-                                  Staff Note (July 1, 2010 Amendment)
+                                 Staff Note (July 1, 2010 Amendment)
 
 Division (A)    Purpose, scope and reciprocity
 
@@ -1908,13 +1971,14 @@ these staff notes.
 
 Division (B)    Discovery: Right to copy or photograph
 
-         This division expands the State’s duty to disclose materials and information beyond what was
+        This division expands the State’s duty to disclose materials and information beyond what was
+
 required under the prior rule. All disclosures must be made prior to trial. This division also requires the
 materials to be copied or photographed as opposed to inspection as permitted under the prior rule. Subject
 to several exceptions, the State must provide pretrial disclosure of all materials as listed in the enumerated
 divisions.
 
-Division (C)    Prosecuting attorney's designation of “Counsel Only” materials
+Division (C)     Prosecuting attorney's designation of “Counsel Only” materials
 
         The State is empowered to limit dissemination of sensitive materials to defense counsel and agents
 thereof in certain instances. Documents marked as “Counsel Only” may be orally interpreted to the
@@ -2018,8 +2082,9 @@ counsel must provide pretrial disclosure of materials as listed in the enumerate
 seeks to define the defense counsel’s reciprocal duty of disclosure while respecting the constitutional and
 ethical obligations required in representing a client.
 
-         For the first time, defense counsel has a duty to provide the State with evidence that tends to
+        For the first time, defense counsel has a duty to provide the State with evidence that tends to
 support innocence or alibi. This allows the State to properly assess its case, and re-evaluate the
+
 prosecution. The Commission believes this provision will facilitate meaningful plea negotiation and just
 resolution.
 
@@ -2032,9 +2097,8 @@ upon the absence or presence of a witness relevant to the proceeding. See, State
 
 Division (J)     Information not subject to disclosure
 
-        This division clarifies what information is not subject to disclosure by either party for reasons of
+         This division clarifies what information is not subject to disclosure by either party for reasons of
 confidentiality, privilege, or due to their classification as documents determined to be work product. This
-
 division also references that the disclosure or nondisclosure of grand jury testimony is governed by Rule 6
 of the Rules of Criminal Procedure.
 
@@ -2076,17 +2140,18 @@ Adherence to the requirements of this division will help to ensure the fair admi
         In State v. Athon, 2013-Ohio-1956, the Court addressed the question of when a request of
 discovery by a criminal defendant triggers reciprocal discovery obligations under Crim.R. 16(H). The
 amendment seeks to put into effect the rule announced by the Court in Athon, and articulates a standard
+
 designed to allow defense counsel to be able to determine, at the time of filing a public records request,
 whether that request would trigger reciprocal discovery.
 
-                                   Staff Note (July 1, 2019 Amendment)
+                                 Staff Note (July 1, 2019 Amendment)
 
 Crim.R. 16(L)
 
         Section (L)(4) was added to comply with the 2017 amendment to Article I, Section 10a of the Ohio
 Constitution, also known as Marsy’s Law.
 
-                                   Staff Note (July 1, 2025 Amendment)
+                                 Staff Note (July 1, 2025 Amendment)
 
 Crim.R. 16(L)(4)
 
@@ -2277,72 +2342,94 @@ RULE 19.     Magistrates.
              magistrates are authorized, subject to the terms of the relevant reference, to do any
              of the following:
 
-                     (a)   Conduct initial appearances and preliminary hearings pursuant to
-                     Crim.R. 5.
+                     (a)    Conduct initial appearances and preliminary hearings pursuant to
+                            Crim.R. 5.
 
                      (b)    Conduct arraignments pursuant to Crim.R. 10.
 
                      (c)    Receive pleas, in accordance with Crim R. 11, only as follows:
 
-                            (i)    In felony and misdemeanor cases, accept and enter not guilty
-                            pleas.
+                                    (i)     In felony and misdemeanor cases, accept and enter
+                                            not guilty pleas.
 
-                            (ii)    In misdemeanor cases, accept and enter guilty and no contest
-                            pleas, determine guilt or innocence, receive statements in
-                            explanation and in mitigation of sentence, and recommend a penalty
-                            to be imposed. If imprisonment is a possible penalty for the offense
-                            charged, the matter may be referred only with the unanimous
-                            consent of the parties, in writing or on the record in open court.
+                                    (ii)    In misdemeanor cases, accept and enter guilty and no
+                                            contest pleas, determine guilt or innocence, receive
+                                            statements in explanation and in mitigation of
+                                            sentence, and recommend a penalty to be imposed.
+                                            If imprisonment is a possible penalty for the offense
+                                            charged, the matter may be referred only with the
+                                            unanimous consent of the parties, in writing or on the
+                                            record in open court.
 
                      (d)    Conduct pretrial conferences pursuant to Crim.R. 17.1.
 
                      (e)    Conduct proceedings to establish bail.
 
-             (f)     Hear and decide the following motions:
+(f)   Hear and decide the following motions:
 
-                     (i)     Any pretrial or post-judgment motion in any misdemeanor
-                     case for which imprisonment is not a possible penalty.
+             (i)     Any pretrial or post-judgment motion in any
+                     misdemeanor case for which imprisonment is not a
+                     possible penalty.
 
-                     (ii)    Upon the unanimous consent of the parties in writing or on
-                     the record in open court, any pretrial or post-judgment motion in any
-                     misdemeanor case for which imprisonment is a possibility.
+             (ii)    Upon the unanimous consent of the parties in writing
+                     or on the record in open court, any pretrial or post-
+                     judgment motion in any misdemeanor case for which
+                     imprisonment is a possibility.
 
-             (g)   Conduct proceedings upon application for the issuance of a
-             temporary protection order as authorized by law.
+(g)   Conduct proceedings upon application for the issuance of a
+      temporary protection order as authorized by law.
 
-             (h)     Conduct the trial of any misdemeanor case that will not be tried to a
-             jury. If the offense charged is an offense for which imprisonment is a
-             possible penalty, the matter may be referred only with unanimous consent
-             of the parties in writing or on the record in open court.
+(h)   Conduct the trial of any misdemeanor case that will not be tried to a
+      jury. If the offense charged is an offense for which imprisonment is
+      a possible penalty, the matter may be referred only with unanimous
+      consent of the parties in writing or on the record in open court.
 
-             (i)    Conduct proceedings in Supreme Court certified dockets only when
-             authorized and only in accordance with the authority granted by Sup.R.
-             36.33.
+(i)    During the temporary absence or disability of the judge of a
+      specialized docket in the general, probate, or domestic relations
+      division of a court of common pleas; a municipal court; a county
+      court; or a division of the court due to the vacation, illness, leave of
+      absence, or unavailability due to judicial obligations of the judge,
+      the following shall apply:
 
-             (j)     Exercise any other authority specifically vested in magistrates by
-             statute and consistent with this rule.
+             (i)     A magistrate of the court or division may conduct
+                     treatment team meetings and status review hearings
+                     for the specialized docket;
 
-(2)   Regulation of proceedings
+             (ii)    The magistrate shall act in accordance with the
+                     authority and limitations granted by this rule and the
+                     “Specialized Dockets Standards,” as set forth in
+                     Rules 7.20 through 7.32 of the Rules of
+                     Superintendence for the Courts of Ohio; and
 
-      In performing the responsibilities described in Crim.R. 19(C)(1), magistrates are
-      authorized, subject to the terms of the relevant reference, to regulate all proceedings
-      as if by the court and to do everything necessary for the efficient performance of
-      those responsibilities, including but not limited to, the following:
+             (iii)   The magistrate shall have the same authority granted
+                     to the judge in conducting the proceedings of the
+                     specialized docket, excluding the imposition of jail.
 
-             (a)    Issuing subpoenas for the attendance of witnesses and the
-             production of evidence;
+(j)   Exercise any other authority specifically vested in magistrates by
+      statute and consistent with this rule.
 
-             (b)    Ruling upon the admissibility of evidence in misdemeanor cases in
-             accordance with division (C)(1)(f) of this rule;
+      (2)   Regulation of proceedings
 
-             (c)     Putting witnesses under oath and examining them;
+            In performing the responsibilities described in Crim.R. 19(C)(1), magistrates are
+            authorized, subject to the terms of the relevant reference, to regulate all proceedings
+            as if by the court and to do everything necessary for the efficient performance of
+            those responsibilities, including but not limited to, the following:
 
-             (d)     When necessary to obtain the presence of an alleged contemnor in
-             cases involving direct or indirect contempt of court, issuing attachment for
-             the alleged contemnor and setting bail;
+                   (a)     Issuing subpoenas for the attendance of witnesses and the
+                           production of evidence;
 
-             (e)      Imposing, subject to Crim.R. 19(D)(8), appropriate sanctions for
-             civil or criminal contempt committed in the presence of the magistrate.
+                   (b)     Ruling upon the admissibility of evidence in misdemeanor cases in
+                           accordance with division (C)(1)(f) of this rule;
+
+                   (c)     Putting witnesses under oath and examining them;
+
+                   (d)     When necessary to obtain the presence of an alleged contemnor in
+                           cases involving direct or indirect contempt of court, issuing
+                           attachment for the alleged contemnor and setting bail;
+
+                   (e)     Imposing, subject to Crim.R. 19(D)(8), appropriate sanctions for
+                           civil or criminal contempt committed in the presence of the
+                           magistrate.
 
 (D)   Proceedings in matters referred to magistrates
 
@@ -2368,28 +2455,29 @@ RULE 19.     Magistrates.
 
             (a)    Magistrate’s order
 
-                   (i)     Nature of order
+             (i)     Nature of order
 
-                           Subject to the terms of the relevant reference, a magistrate may enter
-                           pretrial orders without judicial approval if necessary to regulate the
-                           proceedings and if not dispositive of a claim or defense of a party.
+                     Subject to the terms of the relevant reference, a magistrate may enter
+                     pretrial orders without judicial approval if necessary to regulate the
+                     proceedings and if not dispositive of a claim or defense of a party.
 
-                   (ii)    Form, filing, and service of magistrate’s order
+             (ii)    Form, filing, and service of magistrate’s order
 
-                           A magistrate’s order shall be in writing, identified as a magistrate’s
-                           order in the caption, signed by the magistrate, filed with the clerk,
-                           and served by the clerk on all parties or their attorneys.
+                     A magistrate’s order shall be in writing, identified as a magistrate’s
+                     order in the caption, signed by the magistrate, filed with the clerk,
+                     and served by the clerk on all parties or their attorneys.
 
-            (b)    Motion to set aside magistrate’s order
+      (b)    Motion to set aside magistrate’s order
 
-                   Any party may file a motion with the court to set aside a magistrate’s order.
-                   The motion shall state the moving party’s reasons with particularity and
-                   shall be filed not later than ten days after the magistrate’s order is filed. The
-                   pendency of a motion to set aside does not stay the effectiveness of the
-                   magistrate’s order, though the magistrate or the court may by order stay the
-                   effectiveness of a magistrate’s order.
+             Any party may file a motion with the court to set aside a magistrate’s order.
+             The motion shall state the moving party’s reasons with particularity and
+             shall be filed not later than ten days after the magistrate’s order is filed. The
+             pendency of a motion to set aside does not stay the effectiveness of the
+             magistrate’s order, though the magistrate or the court may by order stay the
+             effectiveness of a magistrate’s order.
 
 (3)   Magistrate’s decision; objections to magistrate’s decision
+
       (a)    Magistrate’s decision
 
              (i)     When required
@@ -2412,62 +2500,62 @@ RULE 19.     Magistrates.
 
              (iii)   Form; filing; and service of magistrate’s decision
 
-                     A magistrate’s decision shall be in writing, identified as a
-                     magistrate’s decision in the caption, signed by the magistrate, filed
-                     with the clerk, and served by the clerk on all parties or their attorneys
-                     no later than three days after the decision is filed. A magistrate’s
-                     decision shall indicate conspicuously that a party shall not assign as
-                     error on appeal the court’s adoption of any factual finding or legal
-                     conclusion, whether or not specifically designated as a finding of
-                     fact or conclusion of law under Crim.R. 19(D)(3)(a)(ii), unless the
-                     party timely and specifically objects to that factual finding or legal
-                     conclusion as required by Crim.R. 19(D)(3)(b).
+              A magistrate’s decision shall be in writing, identified as a
+              magistrate’s decision in the caption, signed by the magistrate, filed
+              with the clerk, and served by the clerk on all parties or their attorneys
+              no later than three days after the decision is filed. A magistrate’s
+              decision shall indicate conspicuously that a party shall not assign as
+              error on appeal the court’s adoption of any factual finding or legal
+              conclusion, whether or not specifically designated as a finding of
+              fact or conclusion of law under Crim.R. 19(D)(3)(a)(ii), unless the
+              party timely and specifically objects to that factual finding or legal
+              conclusion as required by Crim.R. 19(D)(3)(b).
 
-      (b)    Objections to magistrate’s decision
+(b)   Objections to magistrate’s decision
 
-             (i)     Time for filing
+      (i)     Time for filing
 
-                     A party may file written objections to a magistrate’s decision within
-                     fourteen days of the filing of the decision, whether or not the court
-                     has adopted the decision during that fourteen-day period as
-                     permitted by Crim.R. 19(D)(4)(e)(i). If any party timely files
-                     objections, any other party may also file objections not later than ten
-                     days after the first objections are filed. If a party makes a timely
-                     request for findings of fact and conclusions of law, the time for filing
+              A party may file written objections to a magistrate’s decision within
+              fourteen days of the filing of the decision, whether or not the court
+              has adopted the decision during that fourteen-day period as
+              permitted by Crim.R. 19(D)(4)(e)(i). If any party timely files
+              objections, any other party may also file objections not later than ten
+              days after the first objections are filed. If a party makes a timely
+              request for findings of fact and conclusions of law, the time for filing
+              objections begins to run when the magistrate files a decision that
+              includes findings of fact and conclusions of law.
 
-                     objections begins to run when the magistrate files a decision that
-                     includes findings of fact and conclusions of law.
-             (ii)    Specificity of objection
+      (ii)    Specificity of objection
 
-                     An objection to a magistrate’s decision shall be specific and state
-                     with particularity all grounds for objection.
+              An objection to a magistrate’s decision shall be specific and state
+              with particularity all grounds for objection.
 
-             (iii)   Objection to magistrate’s factual finding; transcript or affidavit
+      (iii)   Objection to magistrate’s factual finding; transcript or affidavit
 
-                     An objection to a factual finding, whether or not specifically
-                     designated as a finding of fact under Crim.R. 19(D)(3)(a)(ii), shall
-                     be supported by a transcript of all the evidence submitted to the
-                     magistrate relevant to that finding or an affidavit of that evidence if
-                     a transcript is not available. With leave of court, alternative
-                     technology or manner of reviewing the relevant evidence may be
-                     considered. The objecting party shall file the transcript or affidavit
-                     with the court within thirty days after filing objections unless the
-                     court extends the time in writing for preparation of the transcript or
-                     other good cause. If a party files timely objections prior to the date
-                     on which a transcript is prepared, the party may seek leave of court
-                     to supplement the objections.
+              An objection to a factual finding, whether or not specifically
+              designated as a finding of fact under Crim.R. 19(D)(3)(a)(ii), shall
+              be supported by a transcript of all the evidence submitted to the
+              magistrate relevant to that finding or an affidavit of that evidence if
+              a transcript is not available. With leave of court, alternative
+              technology or manner of reviewing the relevant evidence may be
+              considered. The objecting party shall file the transcript or affidavit
+              with the court within thirty days after filing objections unless the
+              court extends the time in writing for preparation of the transcript or
+              other good cause. If a party files timely objections prior to the date
+              on which a transcript is prepared, the party may seek leave of court
+              to supplement the objections.
 
-             (iv)    Waiver of right to assign adoption by court as error on appeal
+             (iv)   Waiver of right to assign adoption by court as error on appeal
 
-                     Except for a claim of plain error, a party shall not assign on appeal
-                     the court’s adoption of any factual finding or legal conclusion,
-                     whether or not specifically designated as a finding of fact or
-                     conclusion of law under Crim.R. 19(D)(3)(a)(ii), unless the party
-                     has objected to that finding or conclusion as required by Crim.R.
-                     19(D)(3)(b).
+                    Except for a claim of plain error, a party shall not assign on appeal
+                    the court’s adoption of any factual finding or legal conclusion,
+                    whether or not specifically designated as a finding of fact or
+                    conclusion of law under Crim.R. 19(D)(3)(a)(ii), unless the party
+                    has objected to that finding or conclusion as required by Crim.R.
+                    19(D)(3)(b).
 
-(4)    Action of court on magistrate’s decision and on any objection to magistrate’s
-decision; entry of judgment or interim order by court
+(4)   Action of court on magistrate’s decision and on any objection to magistrate’s
+      decision; entry of judgment or interim order by court
 
       (a)    Action of court required
 
@@ -2481,92 +2569,94 @@ decision; entry of judgment or interim order by court
              return a matter to a magistrate. No sentence recommended by a magistrate
              shall be enforced until the court has entered judgment.
 
-(c)   If no objections are filed
+      (c)    If no objections are filed
 
-      If no timely objections are filed, the court may adopt a magistrate’s
-      decision, unless it determines that there is an error of law or other defect
-      evident on the face of the magistrate’s decision.
+             If no timely objections are filed, the court may adopt a magistrate’s
+             decision, unless it determines that there is an error of law or other defect
+             evident on the face of the magistrate’s decision.
 
-(d)   Action on objections
+      (d)    Action on objections
 
-      If one or more objections to a magistrate’s decision are timely filed, the
-      court shall rule on those objections. In ruling on objections, the court shall
-      undertake an independent review as to the objected matters to ascertain that
-      the magistrate has properly determined the factual issues and appropriately
-      applied the law. Before so ruling, the court may hear additional evidence
-      but may refuse to do so unless the objecting party demonstrates that the
-      party could not, with reasonable diligence, have produced that evidence for
-      consideration by the magistrate.
+             If one or more objections to a magistrate’s decision are timely filed, the
+             court shall rule on those objections. In ruling on objections, the court shall
+             undertake an independent review as to the objected matters to ascertain that
+             the magistrate has properly determined the factual issues and appropriately
+             applied the law. Before so ruling, the court may hear additional evidence
+             but may refuse to do so unless the objecting party demonstrates that the
+             party could not, with reasonable diligence, have produced that evidence for
+             consideration by the magistrate.
 
-(e)   Entry of Judgment or interim order by court
+      (e)    Entry of Judgment or interim order by court
 
-      A court that adopts, rejects, or modifies a magistrate’s decision shall also
-      enter a judgment or interim order.
+             A court that adopts, rejects, or modifies a magistrate’s decision shall also
+             enter a judgment or interim order.
 
-      (i)    Judgment
+                     (i)     Judgment
 
-             The court may enter a judgment either during the fourteen days
-             permitted by Crim.R. 19(D)(3)(b)(i) for the filing of objections to a
-             magistrate’s decision or after the fourteen days have expired. If the
-             court enters a judgment during the fourteen days permitted by
-             Crim.R. 19(D)(3)(b)(i) for the filing of objections, the timely filing
-             of objections to the magistrate’s decision shall operate as an
-             automatic stay of execution of the judgment until the court disposes
-             of those objections and vacates, modifies, or adheres to the judgment
-             previously entered.
+                             The court may enter a judgment either during the fourteen
+                             days permitted by Crim.R. 19(D)(3)(b)(i) for the filing of
+                             objections to a magistrate’s decision or after the fourteen
+                             days have expired. If the court enters a judgment during the
+                             fourteen days permitted by Crim.R. 19(D)(3)(b)(i) for the
+                             filing of objections, the timely filing of objections to the
+                             magistrate’s decision shall operate as an automatic stay of
+                             execution of the judgment until the court disposes of those
+                             objections and vacates, modifies, or adheres to the judgment
+                             previously entered.
 
-      (ii)   Interim order
+                     (ii)    Interim order
 
-             The court may enter an interim order on the basis of a magistrate’s
-             decision without waiting for or ruling on timely objections by the
-             parties where immediate relief is justified. The timely filing of
-             objections does not stay the execution of an interim order, but an
-             interim order shall not extend more than twenty-eight days from the
-             date of entry, subject to extension by the court in increments of
-             twenty-eight additional days for good cause shown. An interim
-
-                             order shall comply with Civ.R. 54(A), be journalized pursuant to
+                             The court may enter an interim order on the basis of a
+                             magistrate’s decision without waiting for or ruling on timely
+                             objections by the parties where immediate relief is justified.
+                             The timely filing of objections does not stay the execution of
+                             an interim order, but an interim order shall not extend more
+                             than twenty-eight days from the date of entry, subject to
+                             extension by the court in increments of twenty-eight
+                             additional days for good cause shown. An interim order
+                             shall comply with Civ.R. 54(A), be journalized pursuant to
                              Civ.R. 58(A), and be served pursuant to Civ.R. 58(B).
 
-       (5)    Extension of time
+(5)   Extension of time
 
-              For good cause shown, the court shall allow a reasonable extension of time for a
-              party to file a motion to set aside a magistrate’s order or file objections to a
-              magistrate’s decision. “Good cause” includes, but is not limited to, a failure by the
-              clerk to timely serve the party seeking the extension with the magistrate’s order or
-              decision.
+      For good cause shown, the court shall allow a reasonable extension of time for a
+      party to file a motion to set aside a magistrate’s order or file objections to a
+      magistrate’s decision. “Good cause” includes, but is not limited to, a failure by the
+      clerk to timely serve the party seeking the extension with the magistrate’s order or
+      decision.
 
-       (6)    Disqualification of a magistrate
+(6)   Disqualification of a magistrate
 
-              Disqualification of a magistrate for bias or other cause is within the discretion of
-              the court and may be sought by motion filed with the court.
+      Disqualification of a magistrate for bias or other cause is within the discretion of
+      the court and may be sought by motion filed with the court.
 
-       (7)    Recording of proceedings before a magistrate
+(7)   Recording of proceedings before a magistrate
 
-              Except as otherwise provided by law, all proceedings before a magistrate shall be
-              recorded in accordance with procedures established by the court.
+      Except as otherwise provided by law, all proceedings before a magistrate shall be
+      recorded in accordance with procedures established by the court.
 
-       (8)    Contempt in the presence of a magistrate
+        (8)     Contempt in the presence of a magistrate
 
-              (a)     Contempt order
+                (a)      Contempt order
 
-                      Contempt sanctions under Crim.R. 19 (C)(2)(e) may be imposed only by a
-                      written order that recites the facts and certifies that the magistrate saw or
-                      heard the conduct constituting contempt.
+                         Contempt sanctions under Crim.R. 19 (C)(2)(e) may be imposed only by a
+                         written order that recites the facts and certifies that the magistrate saw or
+                         heard the conduct constituting contempt.
 
-              (b)     Filing and provision of copies of contempt order
+                (b)      Filing and provision of copies of contempt order
 
-                      A contempt order shall be filed and copies provided forthwith by the clerk
-                      to the appropriate judge of the court and to the subject of the order.
+                         A contempt order shall be filed and copies provided forthwith by the clerk
+                         to the appropriate judge of the court and to the subject of the order.
 
-              (c)     Review of contempt order by court; bail
+                (c)      Review of contempt order by court; bail
 
-                      The subject of a contempt order may by motion obtain immediate review
-                      by a judge. A judge or the magistrate entering the contempt order may set
-                      bail pending judicial review of the order.
+                         The subject of a contempt order may by motion obtain immediate review
+                         by a judge. A judge or the magistrate entering the contempt order may set
+                         bail pending judicial review of the order.
 
 Effective Date: July 1, 1990
-Amended: July 1, 1995; July 1, 2000; July 1, 2006; July 1, 2011; July 1, 2021; July 1, 2023
+Amended: July 1, 1995; July 1, 2000; July 1, 2006; July 1, 2011; July 1, 2021; July 1, 2023; July
+1, 2026
 
                                   Staff Note (July 1, 2000 Amendment)
 
@@ -2594,6 +2684,7 @@ pursuant to Crim.R. 47, the authority to compel witnesses and the magistrate’s
 writing. A new division (C)(1)(f) expands the authority of magistrates to hear motions in misdemeanor
 cases, subject to the unanimous consent of the parties if imprisonment is a possible penalty. The authority
 to compel witnesses has been moved to a new division (C)(4) that sets out a magistrate’s general powers.
+
 The requirement that a magistrate’s order be in writing and in the record has been moved to new division
 (C)(5)(e). [See staff note for Rule 19(C)(5)(e) below.]
 
@@ -2618,7 +2709,7 @@ Rule 19(C)(3)
 that a particular judge in a given order of reference may limit the powers generally provided in this rule for
 magistrates.
 
-Rule 19(C)(4)   General powers
+Rule 19(C)(4)    General powers
 
          This new division substantially tracks the language of Civ.R. 53(C)(2) and Juv.R. 40(C)(2) and
 outlines the general powers of magistrates to regulate proceedings as if by the court, including the power
@@ -2653,24 +2744,24 @@ Rule 19(C)(5)(c)          Contempt in the magistrate’s presence
 magistrates, as judicial officers, to deal with contempt of court that occurs in their actual presence. This
 authority is consistent with that granted to magistrates in Civ.R. 53(C)(3)(c) and Juv.R. 40(C)(3)(c).
 
-Rule 19(C)(5)(d)          Powers conveyed by statute
+Rule 19(C)(5)(d)         Powers conveyed by statute
 
         Division (C)(5)(d), a new division, makes it clear that nothing in this rule is intended to override
 those statutes that have expressly conferred authority on referees and magistrates.
 
-Rule 19(C)(5)(e)          Form of magistrate’s orders
+Rule 19(C)(5)(e)         Form of magistrate’s orders
 
         Division (C)(5)(e), a new division, tracks the language of Civ.R. 53(C)(3)(e) and Juv.R. 40(C)(3)(e)
 and clarifies the form in which magistrate’s orders are to be prepared so that they will be easily identified
 as such by parties and on the dockets.
 
-Rule 19(D)       Proceedings
+Rule 19(D)      Proceedings
 
          This entirely new division emphasizes that proceedings before a magistrate should be conducted
 in the same manner as if by the court and shall be recorded in accordance with procedures established by
 the court. Language identical to Civ.R. 53(D) and substantially similar to that in Juv.R. 40 was included.
 
-Rule 19(E)       Decisions in referred matters
+Rule 19(E)      Decisions in referred matters
 
           This entirely new division of the rule incorporates the procedures for the issuance and judicial
 review of magistrates’ decisions that have been applied in civil and juvenile cases since 1995. Although
@@ -2678,7 +2769,7 @@ criminal matters present special constitutional and procedural issues when a mag
 matters, the familiar procedures outlined in Civ.R. 53(E) and Juv.R. 40(E) provide a reliable framework for
 judicial review.
 
-Rule 19(E)(1)    Magistrate’s decision
+Rule 19(E)(1)   Magistrate’s decision
 
          The language of this division tracks that in Civ.R. 53(E)(1) but contains an additional requirement
 that the decision be captioned as a magistrate’s decision in order to distinguish it from a magistrate’s order
@@ -2736,7 +2827,6 @@ Rule 19(D)       Proceedings in matters referred to magistrates
 participates: (1) reference to a magistrate; (2) magistrate’s orders and motions to set aside magistrate’s
 orders; (3) magistrate’s decisions and objections to magistrate’s decisions; and (4) action of the court on
 magistrate’s decisions and on any objections to magistrate’s decisions and entry of judgment or interim
-
 order by the court. Crim.R. 19(D)(5) through (8) deal with good cause extensions of time, disqualification
 of a magistrate, recording of proceedings before a magistrate, and contempt in the presence of a
 magistrate.
@@ -2762,6 +2852,7 @@ Crim.R. 19(D)(2)(b) replaces language in former Crim.R. 19(C)(5)(b), which purpo
 person” to “appeal to the court” from any order of a magistrate “by filing a motion to set the order aside.”
 The new language refers to the appropriate challenge to a magistrate’s order as solely a “motion to set
 aside” the order. Crim.R. 19(D)(2)(b) likewise limits the authorization to file a motion to “any party,” though
+
 an occasional nonparty may be entitled to file a motion to set aside a magistrate’s order. Sentence two of
 Crim.R. 19(D)(2)(b) changes the trigger for the ten days permitted to file a motion to set aside a magistrate’s
 order from entry of the order to filing of the order, as the latter date is definite and more easily available to
@@ -2849,7 +2940,6 @@ face” standard does not require that the court conduct an independent analysis
 The amended rule does not speak to the effect, if any, on the waiver rule prescribed by amended Crim.R.
 19(D)(3)(b)(iv) of the “evident on the face” requirement. At least two courts have explicitly held that the
 “evident on the face” standard generates an exception to the waiver rule. Dean-Kitts v. Dean, 2nd Dist. App.
-
 No. 2002CA18, 2002-Ohio-5590 at ¶ 13 and Hennessy v. Hennessy (Mar. 24, 2000), 6th Dist. App. No. L-
 99-1170, 2000 WL 299450 at *1. Other decisions have indicated that the standard may generate an
 exception to the waiver rule. Ohlin v. Ohlin (Nov. 12, 1999), 11th Dist. App. No. 98-PA-87, 1999 WL 1580977
@@ -2872,8 +2962,9 @@ made to a magistrate’s decision, the court give greater scrutiny than if no ob
 distinguished from the lesser scrutiny permitted if no objections to a magistrate’s decision are timely filed,
 the latter standard having been retained by new Crim.R. 19(D)(4)(c), discussed above.
 
-          The “independent review as to the objected matters” standard is intended to exclude the more
+         The “independent review as to the objected matters” standard is intended to exclude the more
 limited appellate standards of review and codify the practice approved by most courts of appeals. The
+
 Second District Court of Appeals has most clearly and consistently endorsed and explained that standard.
 See, e.g., Crosby v. McWilliam, 2nd Dist. App. No. 19856, 2003-Ohio-6063; Quick v. Kwiatkowski (Aug. 3,
 2001), 2nd Dist. App. No. 18620, 2001 WL 871406 (acknowledging that “Magistrates truly do the ‘heavy
@@ -2905,7 +2996,6 @@ challenged by that objection or those objections.
 
         Sentence three of Crim.R. 19(D)(4)(d) provides that, before ruling on objections, a court may hear
 additional evidence and that it may refuse to hear additional evidence unless the objecting party
-
 demonstrates that the party could not, with reasonable diligence, have produced that evidence for
 consideration by the magistrate.
 
@@ -3011,7 +3101,7 @@ electronic or video recording device.
 
 Effective Date: July 1, 1973
 
-RULE 23.      Trial by Jury or by the Court.
+RULE 23.       Trial by Jury or by the Court.
 
 (A)    Trial by jury
 
@@ -3066,55 +3156,57 @@ RULE 24.     Trial Jurors.
 
       A person called as a juror may be challenged for the following causes:
 
-             (1)    That the juror has been convicted of a crime which by law renders the juror
-             disqualified to serve on a jury.
+             (1)     That the juror has been convicted of a crime which by law renders the juror
+                     disqualified to serve on a jury.
 
              (2)     That the juror is a chronic alcoholic, or drug dependent person.
 
              (3)     That the juror was a member of the grand jury that found the indictment in
-             the case.
+                     the case.
 
-             (4)    That the juror served on a petit jury drawn in the same cause against the
-             same defendant, and the petit jury was discharged after hearing the evidence or
-             rendering a verdict on the evidence that was set aside.
+             (4)     That the juror served on a petit jury drawn in the same cause against the
+                     same defendant, and the petit jury was discharged after hearing the evidence
+                     or rendering a verdict on the evidence that was set aside.
 
              (5)     That the juror served as a juror in a civil case brought against the defendant
-             for the same act.
+                     for the same act.
 
-             (6)    That the juror has an action pending between him or her and the State of
-             Ohio or the defendant.
+             (6)     That the juror has an action pending between him or her and the State of
+                     Ohio or the defendant.
 
              (7)     That the juror or the juror’s spouse is a party to another action then pending
-             in any court in which an attorney in the cause then on trial is an attorney, either for
-             or against the juror.
+                     in any court in which an attorney in the cause then on trial is an attorney,
+                     either for or against the juror.
 
              (8)     That the juror has been subpoenaed in good faith as a witness in the case.
 
              (9)     That the juror is possessed of a state of mind evincing enmity or bias toward
-             the defendant or the state; but no person summoned as a juror shall be disqualified
-             by reason of a previously formed or expressed opinion with reference to the guilt
-             or innocence of the accused, if the court is satisfied, from the examination of the
-             juror or from other evidence, that the juror will render an impartial verdict
-             according to the law and the evidence submitted to the jury at the trial.
+                     the defendant or the state; but no person summoned as a juror shall be
+                     disqualified by reason of a previously formed or expressed opinion with
+                     reference to the guilt or innocence of the accused, if the court is satisfied,
+                     from the examination of the juror or from other evidence, that the juror will
+                     render an impartial verdict according to the law and the evidence submitted
+                     to the jury at the trial.
 
-             (10) That the juror is related by consanguinity or affinity within the fifth degree
-             to the person alleged to be injured or attempted to be injured by the offense charged,
-             or to the person on whose complaint the prosecution was instituted; or to the
-             defendant.
+             (10)    That the juror is related by consanguinity or affinity within the fifth degree
+                     to the person alleged to be injured or attempted to be injured by the offense
+                     charged, or to the person on whose complaint the prosecution was instituted;
+                     or to the defendant.
 
-             (11) That the juror is the person alleged to be injured or attempted to be injured
-             by the offense charged, or the person on whose complaint the prosecution was
-             instituted, or the defendant.
+             (11)    That the juror is the person alleged to be injured or attempted to be injured
+                     by the offense charged, or the person on whose complaint the prosecution
+                     was instituted, or the defendant.
 
-             (12) That the juror is the employer or employee, or the spouse, parent, son, or
-             daughter of the employer or employee, or the counselor, agent, or attorney, of any
-             person included in division (C)(11) of this rule.
+             (12)    That the juror is the employer or employee, or the spouse, parent, son, or
+                     daughter of the employer or employee, or the counselor, agent, or attorney,
+                     of any person included in division (C)(11) of this rule.
 
-             (13) That English is not the juror’s native language, and the juror’s knowledge
-             of English is insufficient to permit the juror to understand the facts and the law in
-             the case.
+             (13)    That English is not the juror’s native language, and the juror’s knowledge
+                     of English is insufficient to permit the juror to understand the facts and the
+                     law in the case.
 
-             (14)    That the juror is otherwise unsuitable for any other cause to serve as a juror.
+                     (14) That the juror is otherwise unsuitable for any other cause to serve as
+                     a juror.
 
       The validity of each challenge listed in division (C) of this rule shall be determined by the
       court.
@@ -3131,6 +3223,7 @@ RULE 24.     Trial Jurors.
       challenge a number of prospective jurors equal to the total peremptory challenges allowed
       all defendants. In case of the consolidation of any indictments, informations, or complaints
       for trial, the consolidated cases shall be considered, for purposes of exercising peremptory
+
       challenges, as though the defendants or offenses had been joined in the same indictment,
       information, or complaint.
 
@@ -3177,10 +3270,10 @@ RULE 24.     Trial Jurors.
              party is entitled to one peremptory challenge in addition to those otherwise allowed
              if one or two alternate jurors are to be impaneled, two peremptory challenges if
              three or four alternate jurors are to be impaneled, and three peremptory challenges
+
              if five or six alternative jurors are to be impaneled. The additional peremptory
              challenges may be used against an alternate juror only, and the other peremptory
              challenges allowed by this rule may not be used against an alternate juror.
-
       (2)    Capital cases
 
              The procedure designated in division (G)(1) of this rule shall be the same in capital
@@ -3227,47 +3320,47 @@ RULE 24.     Trial Jurors.
              Where jurors are required to remain under the supervision of an officer of the court,
              the court shall make arrangements for their care, maintenance and comfort.
 
-              When the jury is in the care of an officer of the court and until the jury is discharged
-              by the court, the officer may inquire whether the jury has reached a verdict, but
-              shall not:
+             When the jury is in the care of an officer of the court and until the jury is discharged
+             by the court, the officer may inquire whether the jury has reached a verdict, but
+             shall not:
 
-                      (a)    Communicate any matter concerning jury conduct to anyone except
-                      the judge or;
+                     (a)     Communicate any matter concerning jury conduct to anyone except
+                             the judge or;
 
-                      (b)    Communicate with the jurors or permit communications with jurors,
-                      except as allowed by court order.
+                     (b)     Communicate with the jurors or permit communications with jurors,
+                             except as allowed by court order.
 
-(I)    Taking of notes by jurors
+(I)   Taking of notes by jurors
 
-       The court, after providing appropriate cautionary instructions, may permit jurors who wish
-       to do so to take notes during a trial. If the court permits the taking of notes, notes taken by
-       juror may be carried into deliberations by that juror. The court shall require that all juror
-       notes be collected and destroyed promptly after the jury renders a verdict.
+      The court, after providing appropriate cautionary instructions, may permit jurors who wish
+      to do so to take notes during a trial. If the court permits the taking of notes, notes taken by
+      juror may be carried into deliberations by that juror. The court shall require that all juror
+      notes be collected and destroyed promptly after the jury renders a verdict.
 
-(J)    Juror questions to witnesses
+(J)   Juror questions to witnesses
 
-       The court may permit jurors to propose questions for the court to ask of the witnesses. If
-       the court permits jurors to propose questions, the court shall use procedures that minimize
-       the risk of prejudice, including all of the following:
+      The court may permit jurors to propose questions for the court to ask of the witnesses. If
+      the court permits jurors to propose questions, the court shall use procedures that minimize
+      the risk of prejudice, including all of the following:
 
-              (1)     Require jurors to propose any questions to the court in writing;
+             (1)     Require jurors to propose any questions to the court in writing;
 
-              (2)     Retain a copy of each proposed question for the record;
+             (2)     Retain a copy of each proposed question for the record;
 
-              (3)    Instruct the jurors that they shall not display or discuss a proposed question
-              with other jurors;
+             (3)     Instruct the jurors that they shall not display or discuss a proposed question
+                     with other jurors;
 
-              (4)     Before reading a question to a witness, provide counsel with an opportunity
-              to object to each question on the record and outside the hearing of the jury;
+             (4)     Before reading a question to a witness, provide counsel with an opportunity
+                     to object to each question on the record and outside the hearing of the jury;
 
-              (5)     Read the question, either as proposed or rephrased, to the witness;
+             (5)     Read the question, either as proposed or rephrased, to the witness;
 
-              (6)     Permit counsel to reexamine the witness regarding a matter addressed by a
-              juror question;
+             (6)     Permit counsel to reexamine the witness regarding a matter addressed by a
+                     juror question;
 
-              (7)    If a question proposed by a juror is not asked, instruct the jurors that they
-              should not draw any adverse inference form the court’s refusal to ask any question
-              proposed by a juror.
+             (7)     If a question proposed by a juror is not asked, instruct the jurors that they
+                     should not draw any adverse inference form the court’s refusal to ask any
+                     question proposed by a juror.
 
 Effective Date: July 1, 1973
 Amended: July 1, 1975; July 1, 2002; July 1, 2005; July 1, 2006; July 1, 2008; July 1, 2009
@@ -3377,11 +3470,10 @@ confidential.” See also State v. Williams, 80 Ohio App.3d 648, 654 (1992) (cit
 the Court in Waddell and rejecting the argument that notes taken by jurors should have been preserved for
 review rather than destroyed).
 
-Rule 24(J)        Juror questions to witnesses
+Rule 24(J)       Juror questions to witnesses
 
-        A new Crim.R. 24(J) is added to set forth a procedure to be followed if the trial court permits jurors
+          A new Crim.R. 24(J) is added to set forth a procedure to be followed if the trial court permits jurors
 to propose questions to be asked of witnesses during trial. See Report and Recommendations, supra, at
-
 15-16 and State v. Fisher 99 Ohio St.3d 127, 2003-Ohio-2761. The rule incorporates the holding of the
 Supreme Court in State v. Fisher, supra, by stating that the practice of allowing jurors to propose questions
 to witnesses is discretionary with the trial judge, and codifies procedures that have been sanctioned by the
@@ -3395,7 +3487,7 @@ for clarity, admissibility, or other reason appropriate under the circumstances.
        The amendments to Crim.R. 24 also include nonsubstantive changes that include gender-neutral
 language and uniform usage of the term “prospective juror.”
 
-                                  Staff Note (July 1, 2006 Amendment)
+                                   Staff Note (July 1, 2006 Amendment)
 
        Crim.R. 24 is amended to recognize the existence of alternative methods of jury selection and
 expressly permit the use of these methods in Ohio courts. The amendments are consistent with
@@ -3424,7 +3516,7 @@ Rule 24(E)       Manner of exercising peremptory challenges
         The last sentence of Civ. R. 24(E) is added to expressly afford the trial court the discretion to allow
 the exercise of challenges for cause and peremptory challenges outside the hearing of the jury.
 
-                                  Staff Note (July 1, 2008 Amendment)
+                                   Staff Note (July 1, 2008 Amendment)
 
          Criminal Rule 24 is amended in order to give trial judges the option of retaining alternate jurors
 during the deliberation process in non-capital cases. The judge would have the option of retaining the
@@ -3434,6 +3526,7 @@ the jury to begin its deliberations anew.
 
         The proposed amendments do not change the requirement in the current rule that alternate jurors
 be retained during the guilt phase of capital case deliberations. Under former Crim.R. 24, however, an
+
 alternate juror could not substitute for a juror unable to continue during deliberations. The proposed
 amendments allow trial judges in capital cases, as well as non-capital cases, the option of retaining
 alternates during any deliberations and substituting an alternate in the middle of deliberation.
@@ -3620,52 +3713,57 @@ RULE 32.     Sentence.
       court shall do all of the following:
 
              (1)     Afford counsel an opportunity to speak on behalf of the defendant and
-             address the defendant personally and ask if he or she wishes to make a statement in
-             his or her own behalf or present any information in mitigation of punishment.
+                     address the defendant personally and ask if he or she wishes to make a
+                     statement in his or her own behalf or present any information in mitigation
+                     of punishment.
 
              (2)     Afford the prosecuting attorney an opportunity to speak;
 
              (3)     Afford the victim the rights provided by law;
 
              (4)     In serious offenses, state its statutory findings and give reasons supporting
-             those findings, if appropriate.
+                     those findings, if appropriate.
 
 (B)   Notification to defendant of right to appeal
 
-      (1)     After imposing sentence in a serious offense that has gone to trial, the court shall
-      advise the defendant that the defendant has a right to appeal the conviction.
+      (1)    After imposing sentence in a serious offense that has gone to trial, the court shall
+             advise the defendant that the defendant has a right to appeal the conviction.
 
-      (2)     After imposing sentence in a serious offense, the court shall advise the defendant
-      of the defendant’s right, where applicable, to appeal or to seek leave to appeal the sentence
-      imposed.
+      (2)    After imposing sentence in a serious offense, the court shall advise the defendant
+             of the defendant’s right, where applicable, to appeal or to seek leave to appeal the
+             sentence imposed.
 
       (3)    If a right to appeal or a right to seek leave to appeal applies under division (B)(1)
-      or (B)(2) of this rule, the court also shall advise the defendant of all of the following:
+             or (B)(2) of this rule, the court also shall advise the defendant of all of the following:
 
-             (a)     That if the defendant is unable to pay the cost of an appeal, the defendant
-             has the right to appeal without payment;
+                     (a)     That if the defendant is unable to pay the cost of an appeal, the
+                             defendant has the right to appeal without payment;
 
-             (b)    That if the defendant is unable to obtain counsel for an appeal, counsel will
-             be appointed without cost;
+                     (b)     That if the defendant is unable to obtain counsel for an appeal,
+                             counsel will be appointed without cost;
 
-             (c)    That if the defendant is unable to pay the costs of documents necessary to
-             an appeal, the documents will be provided without cost;
+                     (c)     That if the defendant is unable to pay the costs of documents
+                             necessary to an appeal, the documents will be provided without cost;
 
-             (d)     That the defendant has a right to have a notice of appeal timely filed on his
-             or her behalf.
+                     (d)     That the defendant has a right to have a notice of appeal timely filed
+                             on his or her behalf.
 
-      Upon defendant's request, the court shall forthwith appoint counsel for appeal.
+             Upon defendant's request, the court shall forthwith appoint counsel for appeal.
 
 (C)     Judgment
 
-A judgment of conviction shall set forth the fact of conviction and the sentence. Multiple
-judgments of conviction may be addressed in one judgment entry. If the defendant is found not
-guilty or for any other reason is entitled to be discharged, the court shall render judgment
-accordingly. The judge shall sign the judgment and the clerk shall enter it on the journal. A
-judgment is effective only when entered on the journal by the clerk.
+        In the judgment of conviction, the court must set forth the fact of conviction and the
+        sentence. Multiple judgments of conviction may be addressed in one judgment entry. If
+        the defendant is found not guilty or for any other reason is entitled to be discharged, the
+        court must so order. If a proposed judgment entry is not prepared and presented to the
+        court by counsel, the entry must be prepared by the court. The judge must sign the
+        judgment and the clerk must enter it on the journal. The judgment entry must be filed and
+        journalized within 30 days of the announcement of the sentence or other finding. A
+        judgment is effective only when entered on the journal by the clerk.
 
 Effective Date: July 1, 1973
-Amended: July 1, 1992; July 1, 1998, July 1, 2004; July 1, 2009; July 1, 2013; July 1, 2025
+Amended: July 1, 1992; July 1, 1998, July 1, 2004; July 1, 2009; July 1, 2013; July 1, 2025; July
+1, 2026
 
                                   Staff Note (July 1, 2004 Amendment)
 
@@ -3763,28 +3861,29 @@ RULE 33.     New Trial.
       A new trial may be granted on motion of the defendant for any of the following causes
       affecting materially the defendant’s substantial rights:
 
-             (1)    Irregularity in the proceedings, or in any order or ruling of the court, or
-             abuse of discretion by the court, because of which the defendant was prevented
-             from having a fair trial;
+             (1)     Irregularity in the proceedings, or in any order or ruling of the court, or
+                     abuse of discretion by the court, because of which the defendant was
+                     prevented from having a fair trial;
 
              (2)     Misconduct of the jury, prosecuting attorney, or the witnesses for the state;
 
              (3)     Accident or surprise which ordinary prudence could not have guarded
-             against;
+                     against;
 
              (4)     That the verdict is contrary to law;
 
              (5)     Error of law occurring at the trial;
 
              (6)     When new evidence material to the defense is discovered which the
-             defendant could not with reasonable diligence have discovered and produced at the
-             trial. When a motion for a new trial is made upon the ground of newly discovered
-             evidence, the defendant must produce at the hearing on the motion, in support
-             thereof, the affidavits of the witnesses by whom such evidence is expected to be
-             given, and if time is required by the defendant to procure such affidavits, the court
-             may postpone the hearing of the motion for such length of time as is reasonable
-             under all the circumstances of the case. The prosecuting attorney may produce
-             affidavits or other evidence to impeach the affidavits of such witnesses.
+                     defendant could not with reasonable diligence have discovered and
+                     produced at the trial. When a motion for a new trial is made upon the ground
+                     of newly discovered evidence, the defendant must produce at the hearing on
+                     the motion, in support thereof, the affidavits of the witnesses by whom such
+                     evidence is expected to be given, and if time is required by the defendant to
+                     procure such affidavits, the court may postpone the hearing of the motion
+                     for such length of time as is reasonable under all the circumstances of the
+                     case. The prosecuting attorney may produce affidavits or other evidence to
+                     impeach the affidavits of such witnesses.
 
 (B)   Motion for new trial; form, time
 
@@ -3820,21 +3919,21 @@ RULE 33.     New Trial.
         No motion for a new trial shall be granted or verdict set aside, nor shall any judgment of
         conviction be reversed in any court because of:
 
-                (1)      An inaccuracy or imperfection in the indictment, information, or complaint,
-                provided that the charge is sufficient to fairly and reasonably inform the defendant
-                of all the essential elements of the charge against him.
+                (1)     An inaccuracy or imperfection in the indictment, information, or complaint,
+                        provided that the charge is sufficient to fairly and reasonably inform the
+                        defendant of all the essential elements of the charge against him.
 
-                (2)    A variance between the allegations and the proof thereof, unless the
-                defendant is misled or prejudiced thereby;
+                (2)     A variance between the allegations and the proof thereof, unless the
+                        defendant is misled or prejudiced thereby;
 
-                (3)    The admission or rejection of any evidence offered against or for the
-                defendant, unless the defendant was or may have been prejudiced thereby;
+                (3)     The admission or rejection of any evidence offered against or for the
+                        defendant, unless the defendant was or may have been prejudiced thereby;
 
-                (4)    A misdirection of the jury, unless the defendant was or may have been
-                prejudiced thereby;
+                (4)     A misdirection of the jury, unless the defendant was or may have been
+                        prejudiced thereby;
 
-                (5)    Any other cause, unless it affirmatively appears from the record that the
-                defendant was prejudiced thereby or was prevented from having a fair trial.
+                (5)     Any other cause, unless it affirmatively appears from the record that the
+                        defendant was prejudiced thereby or was prevented from having a fair trial.
 
 (F)     Motion for new trial not a condition for appellate review
 
@@ -3862,23 +3961,23 @@ the prosecution is as if the indictment, information, or complaint had not been 
 
 Effective Date: July 1, 1973
 
-RULE 35.       Post-Conviction Petition.
+RULE 35.      Post-Conviction Petition.
 
-(A)     A petition for post-conviction relief pursuant to section 2953.21 of the Revised Code shall
-contain a case history, statement of facts, and separately identified grounds for relief. Each ground
-for relief shall not exceed three pages in length. (See recommended Form XV in Appendix of
-Forms.) A petition may be accompanied by an attachment of exhibits or other supporting
-materials. A trial court may extend the page limits provided in this rule, request further briefing
-on any ground for relief presented, or direct the petitioner to file a supplemental petition in the
-recommended form.
+(A)    A petition for post-conviction relief pursuant to section 2953.21 of the Revised Code shall
+       contain a case history, statement of facts, and separately identified grounds for relief. Each
+       ground for relief shall not exceed three pages in length. (See recommended Form XV in
+       Appendix of Forms.) A petition may be accompanied by an attachment of exhibits or other
+       supporting materials. A trial court may extend the page limits provided in this rule, request
+       further briefing on any ground for relief presented, or direct the petitioner to file a
+       supplemental petition in the recommended form.
 
-(B)     The clerk of court immediately shall send a copy of the petition to the prosecuting attorney.
-Upon order of the trial court, the clerk of court shall duplicate all or any part of the record that the
-trial court requires.
+(B)    The clerk of court immediately shall send a copy of the petition to the prosecuting attorney.
+       Upon order of the trial court, the clerk of court shall duplicate all or any part of the record
+       that the trial court requires.
 
-(C)     The trial court shall file its ruling upon a petition for post-conviction relief, including
-findings of fact and conclusions of law if required by law, not later than one hundred eighty days
-after the petition is filed.
+(C)    The trial court shall file its ruling upon a petition for post-conviction relief, including
+       findings of fact and conclusions of law if required by law, not later than one hundred eighty
+       days after the petition is filed.
 
 Effective Date: July 1, 1997
 
@@ -3891,7 +3990,161 @@ Effective Date: July 1, 1973
 
 RULE 37.   [RESERVED]
 
-RULES 38 TO 39.   [RESERVED].
+RULE 38.     Notification Regarding Criminal Protection Orders, Deadly Weapons
+Surrender.
+
+(A)   Filing of Protection Order Notice into NCIC
+
+      Upon a court’s issuance, modification, or termination of a criminal or civil ex parte or full
+      protection order pursuant to R.C. 2903.214, 2919.26, or 3113.31 or a no contact order in
+      accordance to 18 U.S.C. 2266(5), the court shall do both of the following:
+
+             (1)     Thoroughly and accurately complete a Form 7 (formerly 10-A): Protection
+                     Order Notice to NCIC, or a form substantially similar thereto, to facilitate
+                     the correct entry of the order or agreement into the NCIC database; and
+
+             (2)     Send a completed Form 7 (formerly 10-A): Protection Order Notice to
+                     NCIC, or a form substantially similar thereto, and a copy of the order or
+                     agreement to the local law enforcement agency for entry of the order or
+                     agreement into the NCIC Protection Order database to facilitate nationwide
+                     enforcement of the order or agreement.
+
+(B)   Distribution of Packet for Criminal Temporary Protection Order
+
+      A court that has jurisdiction to issue a temporary protection order pursuant to R.C. 2919.26
+      shall distribute upon request a forms packet for use in domestic violence temporary
+      protection order proceedings. The packet shall include, at a minimum, forms that are
+      substantially similar to the following:
+
+             (1)     Form 1 (formerly 10.01-A): General Information about Domestic Violence
+                     Protection Orders;
+
+             (2)     Form 3 (formerly 10.02-A): Domestic Violence Temporary Protection
+                     Order (DVTPO) (R.C. 2919.26); and
+
+             (3)     Form 2 (formerly 10-C): Warning Concerning the Attached Protection
+                     Order or Consent Agreement.
+
+(C)   Temporary Protection Order Form and Warning
+
+      In every case in which a court issues or modifies a temporary protection order pursuant to
+      R.C. 2919.26, the court shall use a form that is substantially similar to Form 3 (formerly
+      10.02-A): Domestic Violence Temporary Protection Order (DVTPO) (R.C. 2919.26) and
+      include a cover sheet that is substantially similar to Form 2 (formerly 10-C): Warning
+      Concerning the Attached Protection Order or Consent Agreement.
+
+(D)   Criminal Protection Order Form and Protection Order Warning
+
+      In every case in which a court issues an ex parte or full hearing criminal protection order
+      pursuant to R.C. 2903.213, it shall use a form that is substantially similar to a “Criminal
+      Protection Order (CRPO)” or Form 4 (formerly 10.03-B) and include a cover sheet that is
+      substantially similar to a “Warning Concerning the Attached Protection Order or Consent
+      Agreement” or Form 2 (formerly 10-C) and send a completed form that is substantially
+      similar to a “Protection Order Notice to NCIC” or Form 7 (formerly 10-A) and copy of the
+      order to the local law enforcement agency for entry into the NCIC Protection Order
+      database.
+
+(E)   Notice of Deadly Weapons Surrender
+
+      Upon receipt of law enforcement, in every case in which a court orders the respondent to
+      surrender deadly weapons and ammunition into the protective custody of law enforcement,
+      it shall enter into the docket a form that is substantially similar to a “Notice of Receipt” or
+      Form 10 (formerly 10-F).
+
+(F)   Post-conviction No Contact Order
+
+      In every case in which a sentencing court imposes community control sanctions that
+      prohibit contact as part of a sentence for a misdemeanor or felony offense for the purpose
+      of preventing violent or threatening acts or harassment against, sexual violence, or contact
+      or communication with or physical proximity to a victim, regardless of the family or
+      household member relationship to the Defendant, it shall use a form that is substantially
+      similar to a “Post-Conviction No Contact Order” or Form 6 (formerly 10-G) and send to
+      the local law enforcement agency a completed form that is substantially similar to a
+      “Protection Order Notice to NCIC” or Form 7 (formerly 10-A)” and a copy of the order for
+      entry into the NCIC Protection Order database.
+
+(G)   Notification of Existence of a Protection Order
+
+      (1)    A court that pursuant to statute provides notice to a respondent or defendant about
+             the existence of a protection order issued against said respondent or defendant by
+             another court shall use a “Notice to Respondent or Defendant About Existence of
+             Protection Order” or Form 9 (formerly 10-D), or a form substantially similar
+             thereto, to document the notification. The Court shall then send the form to the
+             clerk of court that issued the protection order as soon as possible, but no later than
+             three business days from the date the notice was provided to the respondent or
+             defendant.
+
+      (2)    A court that issued a protection order shall accept a “Notice to Respondent or
+             Defendant About Existence of Protection Order” or Form 9 (formerly 10-D), or a
+             form substantially similar thereto, from a judge, magistrate, or law enforcement
+             officer who provided the respondent notice about the existence of the protection
+
+                order pursuant to statute. The form shall be docketed and maintained in the
+                protection order case file.
+
+(H)     Public Access Exception
+
+        Direct access, as defined in Sup.R. 11.09, is permitted subject to any restrictions imposed
+        by the Constitution, Revised Code, or the Rules of Superintendence. Any record in a
+        protection order case that is likely to reveal the identity or location of a petitioner or another
+        protected person shall not be available through Sup.R. 11.09 through 11.16.
+
+Effective Date: July 1, 2026
+                                      Staff Note (July 1, 2026 Amendment)
+
+         Newly enacted Crim.R. 38 parallels, and does not substantially deviate from, provisions previously
+included within the Rules of Superintendence concerning notification that must be provided regarding
+protection orders and their attendant firearm-related disabilities.
+
+         Crim.R. 38(G) references Form 9, which requires notification to be provided to the court by law
+enforcement when a person surrenders to law enforcement a deadly weapon or ammunition pursuant to a
+court’s protection order. The term “deadly weapon” is defined in R.C. 2923.11(A) to include “any instrument,
+device, or thing capable of inflicting death, and designed or specially adapted for use as a weapon, or
+possessed, carried, or used as a weapon.” This includes firearms, see e.g. R.C. 2923.11(B)-(G). This
+comports with 18 U.S. Code § 922(g)(8), which prohibits the possession of “any firearm or ammunition” by
+a person who is subject to a protection order issued after a full hearing or by consent agreement.
+
+RULE 39.      Notifying Law Enforcement Agencies of Mental Illness.
+
+(A)    Definitions
+
+       As used in this rule:
+
+              (1)       “Local law enforcement agency” means the police department of a
+                        municipal corporation in which an offense occurred or, if the offense did
+                        not occur in a municipal corporation, the sheriff of the county in which the
+                        offense occurred.
+
+              (2)       “Mental illness” has the same meaning as in R.C. 5122.01.
+
+              (3)       “Offense of violence” has the same meaning as in R.C. 2901.01.
+
+(B)    Completion of form
+
+       A court shall complete “Form 95” upon issuance, modification, or termination of a court
+       order doing any of the following:
+
+              (1)       Ordering a person who pled guilty to or who was convicted of an offense of
+                        violence to receive a mental health evaluation;
+
+              (2)       Ordering a person who pled guilty to or who was convicted of an offense of
+                        violence to receive treatment for mental illness;
+
+              (3)       Approving a conditional release of a person who was found not guilty by
+                        reason of insanity;
+
+              (4)       Approving a conditional release of a person who was found incompetent to
+                        stand trial with no substantial probability of becoming competent again
+                        even with a course of treatment.
+
+(C)    Filing of form
+
+       Upon completion of “Form 95,” a court shall submit a copy of the court order and the form
+       to the local law enforcement agency for entrance of the information into the “National
+       Crime Information Center Supervised Release File” through the “Law Enforcement
+       Automated Data System” pursuant to R.C. 2929.44(B) and 2945.402(E)(1).
+
+Effective Date: July 1, 2026
 
 RULE 40.        Taking Testimony.
 
@@ -3902,37 +4155,38 @@ RULE 40.        Taking Testimony.
 
 (B)     Remote testimony
 
-        (1)    With the agreement of the parties or for good cause shown, the court may permit
-        the remote presence and participation of a witness, including that of a defendant, for any
-        proceeding if all of the following apply:
+        (1)     With the agreement of the parties or for good cause shown, the court may permit
+                the remote presence and participation of a witness, including that of a defendant,
+                for any proceeding if all of the following apply:
 
-                (a)      The court gives appropriate notice to all parties;
+                         (a)     The court gives appropriate notice to all parties;
 
-                (b)    The court finds that the remote appearance of the witness is based on
-                important state interests, public policies, or necessities of the case;
+                         (b)     The court finds that the remote appearance of the witness is based
+                                 on important state interests, public policies, or necessities of the
+                                 case;
 
-                (c)    The witness is administered the oath or affirmation using live two-way
-                video and audio conference technology that allows the person authorized to
-                administer the oath to verify the identity of the witness at the time the oath is
-                administered;
+                         (c)     The witness is administered the oath or affirmation using live two-
+                                 way video and audio conference technology that allows the person
+                                 authorized to administer the oath to verify the identity of the witness
+                                 at the time the oath is administered;
 
-                (d)      The witness is subject to full cross-examination;
+                         (d)     The witness is subject to full cross-examination;
 
-                (e)     The video arrangements allow the witness to speak, and to be seen and heard
-                by the court, all parties, and the jury if applicable.
+                         (e)     The video arrangements allow the witness to speak, and to be seen
+                                 and heard by the court, all parties, and the jury if applicable.
 
-        (2)    Every witness testifying remotely, including those outside this state, in a trial or
-        other proceeding in open court in Ohio shall affirm on the record that the witness has
-        submitted to the jurisdiction of the Ohio court for the purpose of enforcement of his or her
-        oath or affirmation, including any consideration of perjury charges arising from such
-        testimony.
+        (2)     Every witness testifying remotely, including those outside this state, in a trial or
+                other proceeding in open court in Ohio shall affirm on the record that the witness
+                has submitted to the jurisdiction of the Ohio court for the purpose of enforcement
+                of his or her oath or affirmation, including any consideration of perjury charges
+                arising from such testimony.
 
 Effective Date: July 1, 2023
 
                                   Staff Note (July 1, 2023 Amendment)
 
-        The addition of division (B)(2) to this rule was promulgated to ensure that Ohio has jurisdiction
-over those who are testifying remotely during a criminal trial.
+       The addition of division (B)(2) to this rule was promulgated to ensure that Ohio has jurisdiction over
+those who are testifying remotely during a criminal trial.
 
 RULE 41.     Search and Seizure.
 
@@ -3941,14 +4195,14 @@ RULE 41.     Search and Seizure.
       Upon the request of a prosecuting attorney or a law enforcement officer:
 
              (1)     A search warrant authorized by this rule may be issued by a judge of a court
-             of record to search and seize property located within the court's territorial
-             jurisdiction; and,
+                     of record to search and seize property located within the court's territorial
+                     jurisdiction; and,
 
              (2)     A tracking device warrant authorized by this rule may be issued by a judge
-             of a court of record to install a tracking device within the court’s territorial
-             jurisdiction. The warrant may authorize use of the device to track the movement
-             of a person or property within or outside of the court’s territorial jurisdiction, or
-             both.
+                     of a court of record to install a tracking device within the court’s territorial
+                     jurisdiction. The warrant may authorize use of the device to track the
+                     movement of a person or property within or outside of the court’s territorial
+                     jurisdiction, or both.
 
 (B)   Property which may be seized with a search warrant
 
@@ -3958,76 +4212,79 @@ RULE 41.     Search and Seizure.
 
              (2)     contraband, the fruits of crime, or things otherwise criminally possessed; or
 
-             (3)    weapons or other things by means of which a crime has been committed or
-             reasonably appears about to be committed.
+             (3)     weapons or other things by means of which a crime has been committed or
+                     reasonably appears about to be committed.
 
 (C)   Issuance and contents
 
-      (1)      A warrant shall issue on either an affidavit or affidavits sworn to before a judge of
-      a court of record or an affidavit or affidavits communicated to the judge by reliable
-      electronic means establishing the grounds for issuing the warrant. In the case of a search
-      warrant, the affidavit shall name or describe the person to be searched or particularly
-      describe the place to be searched, name or describe the property to be searched for and
-      seized, state substantially the offense in relation thereto, and state the factual basis for the
-      affiant's belief that such property is there located. In the case of a tracking device warrant,
-      the affidavit shall name or describe the person to be tracked or particularly describe the
-      property to be tracked, and state substantially the offense in relation thereto, state the
-      factual basis for the affiant’s belief that the tracking will yield evidence of the offense. If
-      the affidavit is provided by reliable electronic means, the applicant communicating the
-      affidavit shall be placed under oath and shall swear to or affirm the affidavit communicated.
+      (1)    A warrant shall issue on either an affidavit or affidavits sworn to before a judge of
+             a court of record or an affidavit or affidavits communicated to the judge by reliable
+             electronic means establishing the grounds for issuing the warrant. In the case of a
+             search warrant, the affidavit shall name or describe the person to be searched or
+             particularly describe the place to be searched, name or describe the property to be
+             searched for and seized, state substantially the offense in relation thereto, and state
+             the factual basis for the affiant's belief that such property is there located. In the
+             case of a tracking device warrant, the affidavit shall name or describe the person to
+             be tracked or particularly describe the property to be tracked, and state substantially
+             the offense in relation thereto, state the factual basis for the affiant’s belief that the
+             tracking will yield evidence of the offense. If the affidavit is provided by reliable
+             electronic means, the applicant communicating the affidavit shall be placed under
+             oath and shall swear to or affirm the affidavit communicated.
 
-      (2)     If the judge is satisfied that probable cause exists, the judge shall issue a warrant
-      identifying the property to be seized and naming or describing the person or place to be
-      searched or the person or property to be tracked. The warrant may be issued to the
-      requesting prosecuting attorney or other law enforcement officer through reliable
+      (2)    If the judge is satisfied that probable cause exists, the judge shall issue a warrant
+             identifying the property to be seized and naming or describing the person or place
+             to be searched or the person or property to be tracked. The warrant may be issued
 
-      electronic means. The finding of probable cause may be based upon hearsay in whole or
-      in part, provided there is a substantial basis for believing the source of the hearsay to be
-      credible and for believing that there is a factual basis for the information furnished. Before
-      ruling on a request for a warrant, the judge may require the affiant to appear personally or
-      by reliable electronic means, and may examine under oath the affiant and any witnesses
-      the affiant may produce. Such testimony shall be admissible at a hearing on a motion to
-      suppress if taken down by a court reporter or recording equipment, transcribed, and made
-      part of the affidavit. The warrant shall be directed to a law enforcement officer. A search
-      warrant shall command the officer to search, within three days, the person or place named
-      for the property specified. A tracking device warrant shall command the officer to
-      complete any installation authorized by the warrant within a specified time no longer than
-      10 days, and shall specify the time that the device may be used, not to exceed 45 days. The
-      court may, for good cause shown, grant one or more extensions of time that the device may
-      be used, for a reasonable period not to exceed 45 days each. The warrant shall be executed
-      in the daytime, unless the issuing court, by appropriate provision in the warrant, and for
-      reasonable cause shown, authorizes its execution at times other than daytime. The warrant
-      shall provide that the warrant shall be returned to a designated judge or clerk of court.
+            to the requesting prosecuting attorney or other law enforcement officer through
+            reliable electronic means. The finding of probable cause may be based upon
+            hearsay in whole or in part, provided there is a substantial basis for believing the
+            source of the hearsay to be credible and for believing that there is a factual basis for
+            the information furnished. Before ruling on a request for a warrant, the judge may
+            require the affiant to appear personally or by reliable electronic means, and may
+            examine under oath the affiant and any witnesses the affiant may produce. Such
+            testimony shall be admissible at a hearing on a motion to suppress if taken down
+            by a court reporter or recording equipment, transcribed, and made part of the
+            affidavit. The warrant shall be directed to a law enforcement officer. A search
+            warrant shall command the officer to search, within three days, the person or place
+            named for the property specified. A tracking device warrant shall command the
+            officer to complete any installation authorized by the warrant within a specified
+            time no longer than 10 days, and shall specify the time that the device may be used,
+            not to exceed 45 days. The court may, for good cause shown, grant one or more
+            extensions of time that the device may be used, for a reasonable period not to exceed
+            45 days each. The warrant shall be executed in the daytime, unless the issuing
+            court, by appropriate provision in the warrant, and for reasonable cause shown,
+            authorizes its execution at times other than daytime. The warrant shall provide that
+            the warrant shall be returned to a designated judge or clerk of court.
 
 (D)   Execution and return of the warrant
 
-      (1)    Search warrant
+      (1)   Search warrant
 
-             The officer taking property under the warrant shall give to the person from whom
-             or from whose premises the property was taken a copy of the warrant and a receipt
-             for the property taken, or shall leave the copy and receipt at the place from which
-             the property was taken. The return shall be made promptly, either in person or by
-             reliable electronic means, and shall be accompanied by a written inventory of any
-             property taken. The inventory shall be made in the presence of the applicant for
-             the warrant and the person from whose possession or premises the property was
-             taken, if they are present, or in the presence of at least one credible person other
-             than the applicant for the warrant or the person from whose possession or premises
-             the property was taken, and shall be verified by the officer. The judge shall upon
-             request deliver a copy of the inventory to the person from whom or from whose
-             premises the property was taken and to the applicant for the warrant. Property
-             seized under a warrant shall be kept for use as evidence by the court which issued
-             the warrant or by the law enforcement agency which executed the warrant.
+            The officer taking property under the warrant shall give to the person from whom
+            or from whose premises the property was taken a copy of the warrant and a receipt
+            for the property taken, or shall leave the copy and receipt at the place from which
+            the property was taken. The return shall be made promptly, either in person or by
+            reliable electronic means, and shall be accompanied by a written inventory of any
+            property taken. The inventory shall be made in the presence of the applicant for
+            the warrant and the person from whose possession or premises the property was
+            taken, if they are present, or in the presence of at least one credible person other
+            than the applicant for the warrant or the person from whose possession or premises
+            the property was taken, and shall be verified by the officer. The judge shall upon
+            request deliver a copy of the inventory to the person from whom or from whose
+            premises the property was taken and to the applicant for the warrant. Property
+            seized under a warrant shall be kept for use as evidence by the court which issued
+            the warrant or by the law enforcement agency which executed the warrant.
 
-      (2)    Tracking Device warrant
+      (2)   Tracking Device warrant
 
-             The officer executing a tracking device warrant shall enter onto the warrant the
-             exact date and time the device was installed and the period during which it was
-             used. The return shall be made promptly, either in person or by reliable electronic
-             means, after the use of the tracking device has ended. Within 10 days after the use
-             of the tracking device has ended, the officer executing a tracking device warrant
-             must serve a copy of the warrant on the person who was tracked or whose property
-             was tracked. Service may be accomplished by delivering a copy to the person who,
+            The officer executing a tracking device warrant shall enter onto the warrant the
+            exact date and time the device was installed and the period during which it was
+            used. The return shall be made promptly, either in person or by reliable electronic
+            means, after the use of the tracking device has ended. Within 10 days after the use
 
+                of the tracking device has ended, the officer executing a tracking device warrant
+                must serve a copy of the warrant on the person who was tracked or whose property
+                was tracked. Service may be accomplished by delivering a copy to the person who,
                 or whose property, was tracked; or by leaving a copy at the person’s residence or
                 usual place of abode with an individual of suitable age and discretion who resides
                 at that location and by mailing a copy to the person’s last known address. Upon
@@ -4063,36 +4320,38 @@ decades. Nothing in these revisions is intended to lessen the requirement that t
 of the applying law enforcement officer, that the judge is satisfied that probable cause for a warrant exists,
 and that an appropriate record for subsequent review is created.
 
-RULE 42.      Capital Cases and Post-Conviction Review of Capital Cases.
+RULE 42.     Capital Cases and Post-Conviction Review of Capital Cases.
 
 (A)   Definitions
 
       As used in this rule:
 
-              (1)     “Capital cases” means all cases in which an indictment or count in an
-              indictment charges the defendant with aggravated murder and contains one or more
-              specifications of aggravating circumstances listed in R.C. 2929.03(A).
+             (1)     “Capital cases” means all cases in which an indictment or count in an
+                     indictment charges the defendant with aggravated murder and contains one
+                     or more specifications of aggravating circumstances listed in R.C.
+                     2929.03(A).
 
-              (2)    “Post-conviction review of a capital case” means any post-conviction
-              proceedings reviewing the conviction or sentence in any case in which the death
-              penalty has been imposed, other than direct appeal to the Supreme Court of Ohio.
+             (2)     “Post-conviction review of a capital case” means any post-conviction
+                     proceedings reviewing the conviction or sentence in any case in which the
+                     death penalty has been imposed, other than direct appeal to the Supreme
+                     Court of Ohio.
 
 (B)   General
 
-      (1)     This rule shall apply to all capital cases and post-conviction review of a capital
-      case.
+      (1)    This rule shall apply to all capital cases and post-conviction review of a capital
+             case.
 
       (2)    The clerk shall accept for filing, and the court shall rule on, any properly presented
-      motion.
+             motion.
 
       (3)    In all proceedings involving a post-conviction review of a capital case, both of the
-      following shall apply:
+             following shall apply:
 
-              (a)    The court shall state specifically why each claim was either denied or
-              granted;
+                     (a)      The court shall state specifically why each claim was either denied
+                              or granted;
 
-              (b)     There shall be no page limitations or word count limitations for the petition
-              filed with the common pleas court.
+                     (b)      There shall be no page limitations or word count limitations for the
+                              petition filed with the common pleas court.
 
 (C)   Access file material
 
@@ -4110,20 +4369,22 @@ RULE 42.      Capital Cases and Post-Conviction Review of Capital Cases.
 (E)    Experts
 
        (1)    The trial court is the appropriate authority for the appointment of experts for
-       indigent defendants in all capital cases and in post-conviction review of a capital case.
+              indigent defendants in all capital cases and in post-conviction review of a capital
+              case.
 
-       (2)     All decisions pertaining to the appointment of experts shall be made on the record
-       at a pretrial conference. Upon request by defense counsel, the demand for the appointment
-       of an expert shall be made in camera and ex parte, and the order concerning the
-       appointment shall be under seal.
+       (2)    All decisions pertaining to the appointment of experts shall be made on the record
+              at a pretrial conference. Upon request by defense counsel, the demand for the
+              appointment of an expert shall be made in camera and ex parte, and the order
+              concerning the appointment shall be under seal.
 
-       (3)     Upon establishing counsels’ respective compliance with discovery obligations, the
-       trial court shall decide the issue of appointment of experts, including projected expert fees,
-       the amount of time to be applied to the case, and incremental fees as the case progresses.
-       The trial court shall make written findings as to the basis of any denial.
+       (3)    Upon establishing counsels’ respective compliance with discovery obligations, the
+              trial court shall decide the issue of appointment of experts, including projected
+              expert fees, the amount of time to be applied to the case, and incremental fees as
+              the case progresses. The trial court shall make written findings as to the basis of
+              any denial.
 
-       (4)   The appeal of an order regarding appointment of experts shall be governed by
-       App.R. 11.1.
+       (4)    The appeal of an order regarding appointment of experts shall be governed by
+              App.R. 11.1.
 
 Effective Date: July 1, 2017
 
@@ -4132,37 +4393,39 @@ RULE 43.     Presence of the Defendant.
 (A)   Defendant’s presence
 
       (1)    Except as provided in Crim.R. 10 and divisions (A)(2) and (A)(3) of this rule, the
-      defendant must be physically present at every stage of the criminal proceeding and trial,
-      including the impaneling of the jury, the return of the verdict, and the imposition of
-      sentence, except as otherwise provided by these rules. In all prosecutions, the defendant’s
-      voluntary absence after the trial has been commenced in the defendant’s presence shall not
-      prevent continuing the trial to and including the verdict. A corporation may appear by
-      counsel for all purposes.
+             defendant must be physically present at every stage of the criminal proceeding and
+             trial, including the impaneling of the jury, the return of the verdict, and the
+             imposition of sentence, except as otherwise provided by these rules. In all
+             prosecutions, the defendant’s voluntary absence after the trial has been commenced
+             in the defendant’s presence shall not prevent continuing the trial to and including
+             the verdict. A corporation may appear by counsel for all purposes.
 
       (2)    Notwithstanding the provisions of division (A)(1) of this rule, the court may permit
-      the remote presence and participation of a defendant if all of the following apply:
+             the remote presence and participation of a defendant if all of the following apply:
 
-             (a)     The court gives appropriate notice to all the parties;
+                     (a)     The court gives appropriate notice to all the parties;
 
-             (b)     The video arrangements allow the defendant to hear and see the proceeding;
+                     (b)     The video arrangements allow the defendant to hear and see the
+                             proceeding;
 
-             (c)    The video arrangements allow the defendant to speak, and to be seen and
-             heard by the court and all parties;
+                     (c)     The video arrangements allow the defendant to speak, and to be seen
+                             and heard by the court and all parties;
 
-             (d)    The court makes provision to allow for private communication between the
-             defendant and counsel. The court shall inform the defendant on the record how to,
-             at any time, communicate privately with counsel. Counsel shall be afforded the
-             opportunity to speak to defendant privately. Counsel shall be permitted to appear
-             with defendant at the remote location if requested.
+                     (d)     The court makes provision to allow for private communication
+                             between the defendant and counsel. The court shall inform the
+                             defendant on the record how to, at any time, communicate privately
+                             with counsel. Counsel shall be afforded the opportunity to speak to
+                             defendant privately. Counsel shall be permitted to appear with
+                             defendant at the remote location if requested.
 
-             (e)   The proceeding may involve sworn testimony that is subject to cross
-             examination, if counsel is present, participates, and consents.
+                     (e)     The proceeding may involve sworn testimony that is subject to cross
+                             examination, if counsel is present, participates, and consents.
 
       (3)    A court may conduct a trial by jury, a trial to the court, a sentencing proceeding or
-      other substantive proceeding with a defendant appearing remotely if the defendant has
-      waived in writing or orally on the record the right to be physically present and agreed to
-      appear by remote presence in accordance with division (A)(2) of this rule subject to the
-      approval of the court.
+             other substantive proceeding with a defendant appearing remotely if the defendant
+             has waived in writing or orally on the record the right to be physically present and
+             agreed to appear by remote presence in accordance with division (A)(2) of this rule
+             subject to the approval of the court.
 
 (B)   Defendant excluded because of disruptive conduct
 
@@ -4171,8 +4434,9 @@ RULE 43.     Presence of the Defendant.
       hearing or trial may proceed in the defendant’s absence or by remote presence, and
       judgment and sentence may be pronounced as if the defendant were present. Where the
       court determines that it may be essential to the preservation of the constitutional rights of
-      the defendant, it may take such steps as are required for the communication of the
-      courtroom proceedings to the defendant.
+
+        the defendant, it may take such steps as are required for the communication of the
+        courtroom proceedings to the defendant.
 
 Effective Date: July 1, 1973
 Amended: July 1, 2008; July 1, 2023
@@ -4275,7 +4539,7 @@ Effective Date: July 1, 1973
 
 Former Crim.R. 46 is repealed effective July 1, 2023.
 
-RULE 47.       Motions.
+RULE 47.        Motions.
 
 An application to the court for an order shall be by motion. A motion, other than one made during
 trial or hearing, shall be in writing unless the court permits it to be made orally. It shall state with
@@ -4413,14 +4677,14 @@ RULE 57.      Rule of Court; Procedure Not Otherwise Specified.
 (A)    Rule of court
 
        (1)    The expression "rule of court" as used in these rules means a rule promulgated by
-       the Supreme Court or a rule concerning local practice adopted by another court that is not
-       inconsistent with the rules promulgated by the Supreme Court and is filed with the Supreme
-       Court.
+              the Supreme Court or a rule concerning local practice adopted by another court that
+              is not inconsistent with the rules promulgated by the Supreme Court and is filed
+              with the Supreme Court.
 
-       (2)     Local rules shall be adopted only after the court gives appropriate notice and an
-       opportunity for comment. If the court determines that there is an immediate need for a
-       rule, the court may adopt the rule without prior notice and opportunity for comment, but
-       promptly shall afford notice and opportunity for comment.
+       (2)    Local rules shall be adopted only after the court gives appropriate notice and an
+              opportunity for comment. If the court determines that there is an immediate need
+              for a rule, the court may adopt the rule without prior notice and opportunity for
+              comment, but promptly shall afford notice and opportunity for comment.
 
 (B)    Procedure not otherwise specified
 
@@ -4474,3 +4738,63 @@ These rules shall be known as the Ohio Rules of Criminal Procedure and may be ci
 Rules" or "Crim.R.___."
 
 Effective Date: July 1, 1973
+
+                                APPENDIX OF FORMS
+
+General Criminal Forms for Municipal Court      Forms I-XV
+Criminal Protection Order Forms                 Forms 1-5, 7-10
+Criminal Forms                                  6, 95
+
+GENERAL CRIMINAL FORMS FOR MUNICIPAL COURTS
+
+FORM I       Complaint
+FORM II      Complaint by Prosecuting Attorney Upon Affidavit
+
+FORM III     Direction to Issue Summons
+
+FORM IV      Clerk’s Memorandum of Determination to Issue Summons Upon Complaint
+
+FORM V       Prosecuting Attorney’s Request for Issuance Upon Complaint
+
+FORM VI      Summons Upon Complaint, Indictment, or Information
+
+FORM VII     Warrant Upon Complaint
+
+FORM VIII    Clerk’s Memorandum of Determination to Issue Summons Upon Indictment
+FORM IX      Prosecuting Attorney’s Request for Issuance of Summons Upon Indictment or
+             Information
+FORM X       Prosecuting Attorney’s Request for Issuance of Warrant Upon Indictment or
+             Information
+
+FORM XI      Warrant Upon Indictment or Information
+FORM XII     Summons in Lieu of Arrest Without Warrant, and Complaint Upon Such Summons
+
+FORM XIII    Summons After Arrest Without Warrant, and Complaint Upon Such Summons
+
+FORM XIV     Minor Misdemeanor Citation
+
+FORM XV      Uniform Petition Form
+
+CRIMINAL PROTECTION ORDER FORMS
+
+FORM 1       General Information About Domestic Violence Protection Orders
+
+FORM 2       Warning Concerning the Attached Protection Order or Consent Agreement
+
+FORM 3       Domestic Violence Temporary Protection Order (DVTPO) (R.C. 2919.26)
+
+FORM 4       Criminal Protection Order (CRPO)
+
+FORM 5    Notice Concerning Possession or Purchase of Firearms
+
+FORM 7    Protection Order Notice to NCIC
+
+FORM 8    How to Complete a Protection Order Notice to NCIC
+
+FORM 9    Notice to Respondent or Defendant About Existence of Protection Order
+FORM 10   Notice of Receipt
+
+CRIMINAL FORMS
+FORM 6    Post Conviction No Contact Order
+
+FORM 95   NCIC Mental Health Notice

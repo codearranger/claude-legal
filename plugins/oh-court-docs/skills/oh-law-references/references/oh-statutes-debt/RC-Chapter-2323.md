@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 2323 — Specific Civil Actions — Med-Mal Noneconomic Caps (2323.43), Frivolous Conduct (2323.51), Cognovits (2323.13)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-2323
-> **Fetched:** 2026-06-11
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 

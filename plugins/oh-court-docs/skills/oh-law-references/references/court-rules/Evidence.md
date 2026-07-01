@@ -1,7 +1,7 @@
 # Ohio Rules of Evidence (Evid. R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/evidence/evidence.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;

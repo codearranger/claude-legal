@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 4505 — Certificate of Motor Vehicle Title Law — title + lien perfection (R.C. 4505.13)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-4505
-> **Fetched:** 2026-06-11
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 

@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 955 — Dogs — Strict-Liability Dog-Bite (955.28)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-955
-> **Fetched:** 2026-06-11
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 
