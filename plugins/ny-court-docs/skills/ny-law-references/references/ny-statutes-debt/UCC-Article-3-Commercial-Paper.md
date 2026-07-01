@@ -1,7 +1,7 @@
 # Uniform Commercial Code — Commercial Paper (NY-enacted Article 3)
 
 > **Source:** https://legislation.nysenate.gov/api/3/laws/UCC?full=true
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the NY State Senate Open Legislation API JSON response
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
@@ -19,18 +19,14 @@ Code--Commercial Paper.
 
 Section 3--102. Definitions and Index of Definitions.
   (1) In this Article unless the context otherwise requires
-       * (a) "Issue" means the first delivery of an instrument to a
-           holder or a remitter.
-         * NB Effective until June 3, 2026
-       * (a) "Issue" means:
-         (i) the first delivery of an instrument to a holder or a
-       remitter; or
-         (ii) if agreed by the payee, the first transmission by the
-       drawer to the payee of an image of an item and information
-       derived from the item that enables the depositary bank to collect
-       the item by transferring or presenting under federal law an
-       electronic check.
-         * NB Effective June 3, 2026
+       (a) "Issue" means:
+       (i) the first delivery of an instrument to a holder or a
+           remitter; or
+       (ii) if agreed by the payee, the first transmission by the drawer
+           to the payee of an image of an item and information derived
+           from the item that enables the depositary bank to collect the
+           item by transferring or presenting under federal law an
+           electronic check.
        (b) An "order" is a direction to pay and must be more than an
            authorization or request. It must identify the person to pay
            with reasonable certainty. It may be addressed to one or more
@@ -253,20 +249,13 @@ Section 3--112. Terms and Omissions Not Affecting Negotiability.
        (f) a term in a draft providing that the payee by indorsing or
            cashing it acknowledges full satisfaction of an obligation of
            the drawer; or
-       * (g) a statement in a draft drawn in a set of parts (Section
-           3--801) to the effect that the order is effective only if no
-           other part has been honored.
-         * NB Effective until June 3, 2026
-       * (g) a statement in a draft drawn in a set of parts (Section
+       (g) a statement in a draft drawn in a set of parts (Section
            3--801) to the effect that the order is effective only if no
            other part has been honored; or
-         * NB Effective June 3, 2026
-       * (h) a term that specifies the law that governs the promise or
+       (h) a term that specifies the law that governs the promise or
            order; or
-         * NB Effective June 3, 2026
-       * (i) an undertaking to resolve in a specified forum a dispute
+       (i) an undertaking to resolve in a specified forum a dispute
            concerning the promise or order.
-         * NB Effective June 3, 2026
   (2) Nothing in this section shall validate any term which is otherwise
 illegal.
 
@@ -1345,12 +1334,11 @@ discharge any party
            by surrender of the instrument to the party to be discharged.
   (2) Neither cancellation nor renunciation without surrender of the
 instrument affects the title thereto.
-  * (3) The obligation of a party to pay a check is not discharged
-solely by destruction of the check in connection with a process in which
+  (3) The obligation of a party to pay a check is not discharged solely
+by destruction of the check in connection with a process in which
 information is extracted from the check and an image of the check is
 made and, subsequently, the information and image are transmitted for
 payment.
-  * NB Effective June 3, 2026
 
 ## § 3-606. Impairment of Recourse or of Collateral
 

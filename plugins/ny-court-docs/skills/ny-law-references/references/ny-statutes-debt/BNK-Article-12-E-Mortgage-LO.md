@@ -1,7 +1,7 @@
 # Banking Law — Licensed Mortgage Loan Originators
 
 > **Source:** https://legislation.nysenate.gov/api/3/laws/BNK?full=true
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the NY State Senate Open Legislation API JSON response
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify

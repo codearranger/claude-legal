@@ -1,7 +1,7 @@
 # Uniform Commercial Code — Secured Transactions
 
 > **Source:** https://legislation.nysenate.gov/api/3/laws/UCC?full=true
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the NY State Senate Open Legislation API JSON response
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
@@ -22,31 +22,7 @@ Section 9--102. Definitions And Index of Definitions.
        (1) "Accession" means goods that are physically united with other
            goods in such a manner that the identity of the original
            goods is not lost.
-       * (2) "Account", except as used in "account for", means a right
-           to payment of a monetary obligation, whether or not earned by
-           performance, (i) for property that has been or is to be sold,
-           leased, licensed, assigned, or otherwise disposed of, (ii)
-           for services rendered or to be rendered, (iii) for a policy
-           of insurance issued or to be issued, (iv) for a secondary
-           obligation incurred or to be incurred, (v) for energy
-           provided or to be provided, (vi) for the use or hire of a
-           vessel under a charter or other contract, (vii) arising out
-           of the use of a credit or charge card or information
-           contained on or for use with the card, or (viii) as winnings
-           in a lottery or other game of chance operated or sponsored by
-           a state, governmental unit of a State, or person licensed or
-           authorized to operate the game by a State or governmental
-           unit of a State. The term includes health-care-insurance
-           receivables. The term does not include (i) rights to payment
-           evidenced by chattel paper or an instrument, (ii) commercial
-           tort claims, (iii) deposit accounts, (iv) investment
-           property, (v) letter-of-credit rights or letters of credit,
-           or (vi) rights to payment for money or funds advanced or
-           sold, other than rights arising out of the use of a credit or
-           charge card or information contained on or for use with the
-           card.
-         * NB Effective until June 3, 2026
-       * (2) "Account", except as used in "account for", "account
+       (2) "Account", except as used in "account for", "account
            statement", "account to", "commodity account" in paragraph
            (14), "customer account", "deposit account" in paragraph
            (29), "on account of", and "statement of account", means a
@@ -72,27 +48,11 @@ Section 9--102. Definitions And Index of Definitions.
            the use of a credit or charge card or information contained
            on or for use with the card, or (vii) rights to payment
            evidences by an instrument.
-         * NB Effective June 3, 2026
-       * (3) "Account debtor" means a person obligated on an account,
-           chattel paper, or general intangible. The term does not
-           include persons obligated to pay a negotiable instrument,
-           even if the instrument constitutes part of chattel paper.
-         * NB Effective until June 3, 2026
-       * (3) "Account debtor" means a person obligated on an account,
+       (3) "Account debtor" means a person obligated on an account,
            chattel paper, or general intangible. The term does not
            include persons obligated to pay a negotiable instrument,
            even if the instrument evidences chattel paper.
-         * NB Effective June 3, 2026
-       * (4) "Accounting", except as used in "accounting for", means a
-           record:
-           (A) authenticated by a secured party;
-           (B) indicating the aggregate unpaid secured obligations as of
-               a date not more than 35 days earlier or 35 days later
-               than the date of the record; and
-           (C) identifying the components of the obligations in
-               reasonable detail.
-             * NB Effective until June 3, 2026
-       * (4) "Accounting", except as used in "accounting for", means a
+       (4) "Accounting", except as used in "accounting for", means a
            record:
            (A)  signed by a secured party;
            (B) indicating the aggregate unpaid secured obligations as of
@@ -100,7 +60,6 @@ Section 9--102. Definitions And Index of Definitions.
                than the date of the record; and
            (C) identifying the components of the obligations in
                reasonable detail.
-             * NB Effective June 3, 2026
        (5) "Agricultural lien" means an interest in farm products:
            (A) which secures payment or performance of an obligation
                for:
@@ -125,15 +84,8 @@ Section 9--102. Definitions And Index of Definitions.
            (B) accounts arising out of the sale at the wellhead or
                minehead of oil, gas, or other minerals in which the
                debtor had an interest before extraction.
-       * (7) "Authenticate" means:
-           (A) to sign; or
-           (B) with present intent to adopt or accept a record, to
-               attach to or logically associate with the record an
-               electronic sound, symbol, or process.
-             * NB Effective until June 3, 2026
-       * (7)  Reserved.
-         * NB Effective June 3, 2026
-       * (7-a) "Assignee", except as used in "assignee for benefit of
+       (7)  Reserved.
+       (7-a) "Assignee", except as used in "assignee for benefit of
             creditors", means a person (A) in whose favor a security
             interest that secures an obligation is created or provided
             for under a security agreement, whether or not the
@@ -141,14 +93,12 @@ Section 9--102. Definitions And Index of Definitions.
             chattel paper, payment intangible, or promissory note has
             been sold. The term includes a person to which a security
             interest has been transferred by a secured party.
-         * NB Effective June 3, 2026
-       * (7-b) "Assignor" means a person that (A) under a security
+       (7-b) "Assignor" means a person that (A) under a security
            agreement creates or provides for a security interest that
            secures an obligation or (B) sells an account, chattel paper,
            payment intangible, or promissory note. The term includes a
            secured party that has transferred a security interest to
            another person.
-         * NB Effective June 3, 2026
        (8) "Bank" means an organization that is engaged in the business
            of banking. The term includes savings banks, savings and loan
            associations, credit unions, and trust companies.
@@ -166,25 +116,7 @@ Section 9--102. Definitions And Index of Definitions.
             indicated on the record as a condition or result of the
             security interest's obtaining priority over the rights of a
             lien creditor with respect to the collateral.
-       * (11) "Chattel paper" means a record or records that evidence
-            both a monetary obligation and a security interest in
-            specific goods, a security interest in specific goods and
-            software used in the goods, a security interest in specific
-            goods and license of software used in the goods, a lease of
-            specific goods, or a lease of specific goods and license of
-            software used in the goods. In this paragraph, "monetary
-            obligation" means a monetary obligation secured by the goods
-            or owed under a lease of the goods and includes a monetary
-            obligation with respect to software used in the goods. The
-            term does not include (i) charters or other contracts
-            involving the use or hire of a vessel or (ii) records that
-            evidence a right to payment arising out of the use of a
-            credit or charge card or information contained on or for use
-            with the card. If a transaction is evidenced by records that
-            include an instrument or series of instruments, the group of
-            records taken together constitutes chattel paper.
-         * NB Effective until June 3, 2026
-       * (11) "Chattel paper" means:
+       (11) "Chattel paper" means:
            (A) a right to payment of a monetary obligation secured by
                specific goods, if the right to payment and security
                agreement are evidenced by a record; or
@@ -203,7 +135,6 @@ Section 9--102. Definitions And Index of Definitions.
                vessel or a right to payment arising out of the use of a
                credit or charge card or information contained on or for
                use with the card.
-             * NB Effective June 3, 2026
        (11-a) "Check" means (i) a draft, other than a documentary draft,
               payable on demand and drawn on a bank or (ii) a cashier's
               check or a teller's check. An instrument may be a check
@@ -300,78 +231,40 @@ Section 9--102. Definitions And Index of Definitions.
            (B) indicates that it is a continuation statement for, or
                that it is filed to continue the effectiveness of, the
                identified financing statement.
-       * (27-a) "Cooperative addendum" means a record that satisfies
-              Section 9--502(e).
-         * NB Effective until June 3, 2026
-       * (27-a) "Controllable account" means an account evidenced by a
+       (27-a) "Controllable account" means an account evidenced by a
               controllable electronic record that provides that the
               account debtor undertakes to pay the person that has
               control under Section 12--105 of the controllable
               electronic record.
-         * NB Effective June 3, 2026
-       * (27-b) "Cooperative interest" means an ownership interest in a
-              cooperative organization, which interest, when created, is
-              coupled with possessory rights of a proprietary nature in
-              identified physical space belonging to the cooperative
-              organization. A subsequent termination of the possessory
-              rights shall not cause an ownership interest to cease
-              being a cooperative interest.
-         * NB Effective until June 3, 2026
-       * (27-b) "Controllable payment intangible" means a payment
+       (27-b) "Controllable payment intangible" means a payment
               intangible evidenced by a controllable electronic record
               that provides that the account debtor undertakes to pay
               the person that has control under Section 12--105 of the
               controllable electronic record.
-         * NB Effective June 3, 2026
-       * (27-c) "Cooperative organization" means an organization which
-              has as its principal asset an interest in real property in
-              this state and in which organization all ownership
-              interests are cooperative interests.
-         * NB Effective until June 3, 2026
-       * (27-c) "Cooperative addendum" means a record that satisfies
+       (27-c) "Cooperative addendum" means a record that satisfies
               Section 9--502(e).
-         * NB Effective June 3, 2026
-       * (27-d) "Cooperative organization security interest" means a
-              security interest which is in a cooperative interest, is
-              in favor of the cooperative organization, is created by
-              the cooperative record, and secures only obligations
-              incident to ownership of that cooperative interest.
-         * NB Effective until June 3, 2026
-       * (27-d) "Cooperative interest" means an ownership interest in a
+       (27-d) "Cooperative interest" means an ownership interest in a
               cooperative organization, which interest, when created, is
               coupled with possessory rights of a proprietary nature in
               identified physical space belonging to the cooperative
               organization. A subsequent termination of the possessory
               rights shall not cause an ownership interest to cease
               being a cooperative interest.
-         * NB Effective June 3, 2026
-       * (27-e) "Cooperative record" means those records which, as a
-              whole, evidence cooperative interests and define the
-              mutual rights and obligations of the owners of the
-              cooperative interests and the cooperative organization.
-         * NB Effective until June 3, 2026
-       * (27-e) "Cooperative organization" means an organization which
-              has as its principal asset an interest in real property in
+       (27-e) "Cooperative organization" means an organization which has
+              as its principal asset an interest in real property in
               this state and in which organization all ownership
               interests are cooperative interests.
-         * NB Effective June 3, 2026
-       * (27-f) "Cooperative unit" means the physical space associated
-              with a cooperative interest.
-         * NB Effective until June 3, 2026
-       * (27-f) "Cooperative organization security interest" means a
+       (27-f) "Cooperative organization security interest" means a
               security interest which is in a cooperative interest, is
               in favor of the cooperative organization, is created by
               the cooperative record, and secures only obligations
               incident to ownership of that cooperative interest.
-         * NB Effective June 3, 2026
-       * (27-g) "Cooperative record" means those records which, as a
+       (27-g) "Cooperative record" means those records which, as a
               whole, evidence cooperative interests and define the
               mutual rights and obligations of the owners of the
               cooperative interests and the cooperative organization.
-         * NB Effective June 3, 2026
-       * (27-h) "Cooperative unit" means the physical space associated
+       (27-h) "Cooperative unit" means the physical space associated
               with a cooperative interest.
-         * NB Effective June 3, 2026
        (28) "Debtor" means:
            (A) a person having an interest, other than a security
                interest or other lien, in the collateral, whether or not
@@ -385,14 +278,8 @@ Section 9--102. Definitions And Index of Definitions.
             instrument.
        (30) "Document" means a document of title or a receipt of the
             type described in Section 7--201 (b).
-       * (31) "Electronic chattel paper" means chattel paper evidenced
-            by a record or records consisting of information stored in
-            an electronic medium.
-         * NB Effective until June 3, 2026
-       * (31)  Reserved.
-         * NB Effective June 3, 2026
-       * (31-a) "Electronic money" means money in an electronic form.
-         * NB Effective June 3, 2026
+       (31) Reserved.
+       (31-a) "Electronic money" means money in an electronic form.
        (32) "Encumbrance" means a right, other than an ownership
             interest, in real property. The term includes mortgages and
             other liens on real property.
@@ -429,22 +316,13 @@ Section 9--102. Definitions And Index of Definitions.
        (41) "Fixtures" means goods that have become so related to
             particular real property that an interest in them arises
             under real property law.
-       * (42) "General intangible" means any personal property,
-            including things in action, other than accounts, chattel
-            paper, commercial tort claims, deposit accounts, documents,
-            goods, instruments, investment property, letter-of-credit
-            rights, letters of credit, money, and oil, gas, or other
-            minerals before extraction. The term includes payment
-            intangibles and software.
-         * NB Effective until June 3, 2026
-       * (42) "General intangible" means any personal property,
-            including things in action, other than accounts, chattel
-            paper, commercial tort claims, deposit accounts, documents,
-            goods, instruments, investment property, letter-of-credit
-            rights, letters of credit, money, and oil, gas, or other
-            minerals before extraction. The term includes controllable
-            electronic records, payment intangibles and software.
-         * NB Effective June 3, 2026
+       (42) "General intangible" means any personal property, including
+            things in action, other than accounts, chattel paper,
+            commercial tort claims, deposit accounts, documents, goods,
+            instruments, investment property, letter-of-credit rights,
+            letters of credit, money, and oil, gas, or other minerals
+            before extraction. The term includes controllable electronic
+            records, payment intangibles and software.
        (43) "Good faith" means honesty in fact and the observance of
             reasonable commercial standards of fair dealing.
        (44) "Goods" means all things that are movable when a security
@@ -479,18 +357,7 @@ Section 9--102. Definitions And Index of Definitions.
             claim under a policy of insurance which is a right to
             payment of a monetary obligation for health-care goods or
             services provided or to be provided.
-       * (47) "Instrument" means a negotiable instrument or any other
-            writing that evidences a right to the payment of a monetary
-            obligation, is not itself a security agreement or lease, and
-            is of a type that in ordinary course of business is
-            transferred by delivery with any necessary indorsement or
-            assignment. The term does not include (i) investment
-            property, (ii) letters of credit, or (iii) writings that
-            evidence a right to payment arising out of the use of a
-            credit or charge card or information contained on or for use
-            with the card.
-         * NB Effective until June 3, 2026
-       * (47) "Instrument" means a negotiable instrument or any other
+       (47) "Instrument" means a negotiable instrument or any other
             writing that evidences a right to the payment of a monetary
             obligation, is not itself a security agreement or lease, and
             is of a type that in ordinary course of business is
@@ -500,7 +367,6 @@ Section 9--102. Definitions And Index of Definitions.
             evidence a right to payment arising out of the use of a
             credit or charge card or information contained on or for use
             with the card, or (iv) writings that evidence chattel paper.
-         * NB Effective June 3, 2026
        (48) "Inventory" means goods, other than farm products, which:
            (A) are leased by a person as lessor;
            (B) are held by a person for sale or lease or to be furnished
@@ -549,11 +415,10 @@ Section 9--102. Definitions And Index of Definitions.
                inventory; or
            (B) in which a manufactured home, other than a manufactured
                home held as inventory, is the primary collateral.
-       * (54-a) "Money" has the same meaning as in Section
-            1--201(b)(24), but does not include (A) a deposit account or
-            (B) money in an electronic form that cannot be subjected to
-            control under Section 9-105A.
-         * NB Effective June 3, 2026
+       (54-a) "Money" has the same meaning as in Section 1--201(b)(24),
+            but does not include (A) a deposit account or (B) money in
+            an electronic form that cannot be subjected to control under
+            Section 9-105A.
        (55) "Mortgage" means a consensual interest in real property,
             including fixtures, which secures payment or performance of
             an obligation.
@@ -581,15 +446,10 @@ Section 9--102. Definitions And Index of Definitions.
             Section 9--203(d).
        (60-a) "Payment assurance device" means any device installed in a
             vehicle that can be used to remotely disable the vehicle.
-       * (61) "Payment intangible" means a general intangible under
-            which the account debtor's principal obligation is a
-            monetary obligation.
-         * NB Effective until June 3, 2026
-       * (61) "Payment intangible" means a general intangible under
-            which the account debtor's principal obligation is a
-            monetary obligation. The term includes a controllable
-            payment intangible.
-         * NB Effective until June 3, 2026
+       (61) "Payment intangible" means a general intangible under which
+            the account debtor's principal obligation is a monetary
+            obligation. The term includes a controllable payment
+            intangible.
        (62) "Person related to", with respect to an individual, means:
            (A) the spouse of the individual;
            (B) a brother, brother-in-law, sister, or sister-in-law of
@@ -633,24 +493,13 @@ Section 9--102. Definitions And Index of Definitions.
             order to pay, and does not contain an acknowledgment by a
             bank that the bank has received for deposit a sum of money
             or funds.
-       * (66) "Proposal" means a record authenticated by a secured party
-            which includes the terms on which the secured party is
-            willing to accept collateral in full or partial satisfaction
-            of the obligation it secures pursuant to Sections 9--620,
-            9--621, and 9--622.
-         * NB Effective until June 3, 2026
-       * (66) "Proposal" means a record signed by a secured party which
+       (66) "Proposal" means a record signed by a secured party which
             includes the terms on which the secured party is willing to
             accept collateral in full or partial satisfaction of the
             obligation it secures pursuant to Sections 9--620, 9--621,
             and 9--622.
-         * NB Effective June 3, 2026
-       * (66-a) "Prove" with respect to a fact means to meet the burden
-              of establishing the fact (Section 1-201(8)).
-         * NB Effective until June 3, 2026
-       * (66-a) "Prove" with respect to a fact means to meet the burden
-              of establishing the fact (Section 1--201(b)(8)).
-         * NB Effective June 3, 2026
+       (66-a) "Prove" with respect to a fact means to meet the burden of
+              establishing the fact (Section 1--201(b)(8)).
        (67) "Public-finance transaction" means a secured transaction in
             connection with which:
            (A) debt securities are issued;
@@ -728,18 +577,7 @@ Section 9--102. Definitions And Index of Definitions.
             against that cooperative interest if such amounts are not
             paid is a security agreement creating a cooperative
             organization security interest.
-       *  (75) "Send", in connection with a record or notification,
-            means:
-           (A) to deposit in the mail, deliver for transmission, or
-               transmit by any other usual means of communication, with
-               postage or cost of transmission provided for, addressed
-               to any address reasonable under the circumstances; or
-           (B) to cause the record or notification to be received within
-               the time that it would have been received if properly
-               sent under subparagraph (A).
-             * NB Effective until June 3, 2026
-       *  (75) Reserved.
-         * NB Effective June 3, 2026
+        (75) Reserved.
         (76) "Software" means a computer program and any supporting
             information provided in connection with a transaction
             relating to the program. The term does not include a
@@ -753,14 +591,8 @@ Section 9--102. Definitions And Index of Definitions.
             secondary obligation that supports the payment or
             performance of an account, chattel paper, a document, a
             general intangible, an instrument, or investment property.
-       *  (79) "Tangible chattel paper" means chattel paper evidenced by
-            a record or records consisting of information that is
-            inscribed on a tangible medium.
-         * NB Effective until June 3, 2026
-       * (79) Reserved.
-         * NB Effective June 3, 2026
-       *  (79-a) "Tangible money" means money in a tangible form.
-         * NB Effective June 3, 2026
+        (79) Reserved.
+        (79-a) "Tangible money" means money in a tangible form.
         (80) "Termination statement" means an amendment of a financing
             statement which:
            (A) identifies, by its file number, the initial financing
@@ -787,8 +619,7 @@ articles apply to this article:
      "Contract for sale"                          Section 2--106.
      "Control" (with respect to a document        Section 7--106.
                  of title)
-     * "Controllable electronic record"           Section 12--102.
-  * NB Effective June 3, 2026
+     "Controllable electronic record"             Section 12--102.
      "Customer"                                   Section 4--104.
      "Entitlement holder"                         Section 8--102.
      "Financial asset"                            Section 8--102.
@@ -811,11 +642,9 @@ articles apply to this article:
      "Nominated person"                           Section 5--102.
      "Note"                                       Section 3--104.
      "Proceeds of a letter of credit"             Section 5--114.
-     * "Protected purchaser"                      Section 8--303.
-  * NB Effective June 3, 2026
+     "Protected purchaser"                        Section 8--303.
      "Prove"                                      Section 4-A-105.
-     * "Qualifying purchaser"                     Section 12--102.
-  * NB Effective June 3, 2026
+     "Qualifying purchaser"                       Section 12--102.
      "Sale"                                       Section 2--106.
      "Securities account"                         Section 8--501.
      "Securities intermediary"                    Section 8--102.
@@ -912,34 +741,21 @@ Section 9--104. Control of Deposit Account.
 account if:
        (1) the secured party is the bank with which the deposit account
            is maintained;
-       * (2) the debtor, secured party, and bank have agreed in an
-           authenticated record that the bank will comply with
-           instructions originated by the secured party directing
-           disposition of the funds in the deposit account without
-           further consent by the debtor;
-         * NB Effective until June 3, 2026
-       * (2) the debtor, secured party, and bank have agreed in a signed
+       (2) the debtor, secured party, and bank have agreed in a signed
            record that the bank will comply with instructions originated
            by the secured party directing disposition of the funds in
            the deposit account without further consent by the debtor;
-         * NB Effective June 3, 2026
        (3) the secured party becomes the bank's customer with respect to
            the deposit account;
        (4) the name on the deposit account is the name of the secured
            party or indicates that the secured party has a security
            interest in the deposit account; or
-       * (5) another person has control of the deposit account on behalf
-           of the secured party or, having previously acquired control
-           of the deposit account, acknowledges that it has control on
-           behalf of the secured party.
-         * NB Effective until June 3, 2026
-       * (5) another person, other than the debtor:
-(A) has control of the deposit account and acknowledges that it has
+       (5) another person, other than the debtor:
+  (A) has control of the deposit account and acknowledges that it has
 control on behalf of the secured party; or
-(B) obtains control of the deposit account after having acknowledged
+  (B) obtains control of the deposit account after having acknowledged
 that it will obtain control of the deposit account on behalf of the
 secured party.
-  * NB Effective June 3, 2026
   (b) Debtor's right to direct disposition. A secured party that has
 satisfied subsection (a) has control, even if the debtor retains the
 right to direct the disposition of funds from the deposit account.
@@ -963,30 +779,10 @@ The provisions of subsection (a)(4) shall create no inference regarding
 the requirements for compliance with subsection (a)(1), (a)(2) or
 (a)(3).
 
-## § 9-105. Control of Electronic Chattel Paper
+## § 9-105. Control of Electronic Copy of Record Evidencing Chattel Paper
 
-* Section 9--105. Control of Electronic Chattel Paper.
-  A secured party has control of electronic chattel paper if the record
-or records comprising the chattel paper are created, stored, and
-assigned in such a manner that:
-       (1) a single authoritative copy of the record or records exists
-           which is unique, identifiable and, except as otherwise
-           provided in paragraphs (4), (5), and (6), unalterable;
-       (2) the authoritative copy identifies the secured party as the
-           assignee of the record or records;
-       (3) the authoritative copy is communicated to and maintained by
-           the secured party or its designated custodian;
-       (4) copies or revisions that add or change an identified assignee
-           of the authoritative copy can be made only with the
-           participation of the secured party;
-       (5) each copy of the authoritative copy and any copy of a copy is
-           readily identifiable as a copy that is not the authoritative
-           copy; and
-       (6) any revision of the authoritative copy is readily
-           identifiable as an authorized or unauthorized revision.
-         * NB Effective until June 3, 2026
-* Section 9--105. Control of Electronic Copy of Record Evidencing
-                  Chattel Paper.
+Section 9--105. Control of Electronic Copy of Record Evidencing Chattel
+                  Paper.
   (a) General rule: control of electronic copy of record evidencing
 chattel paper. A purchaser has control of an authoritative electronic
 copy of a record evidencing chattel paper if a system employed for
@@ -1011,9 +807,9 @@ and assigned in a manner that:
            copy; and
        (6) any revision of the authoritative copy is readily
            identifiable as an authorized or unauthorized revision.
-(c) One or more authoritative copies. A system satisfies subsection (a),
-and a purchaser has control of an authoritative electronic copy of a
-record evidencing chattel paper, if the electronic copy, a record
+  (c) One or more authoritative copies. A system satisfies subsection
+(a), and a purchaser has control of an authoritative electronic copy of
+a record evidencing chattel paper, if the electronic copy, a record
 attached to or logically associated with the electronic copy, or a
 system in which the electronic copy is recorded:
   (1) enables the purchaser readily to identify each electronic copy as
@@ -1057,11 +853,10 @@ that it has control on behalf of the purchaser; or
   (2) obtains control of the authoritative electronic copy after having
 acknowledged that it will obtain control of the electronic copy on
 behalf of the purchaser.
-  * NB Effective June 3, 2026
 
 ## § 9-105A. Control of Electronic Money
 
-* Section 9--105A. Control of Electronic Money.
+Section 9--105A. Control of Electronic Money.
   (a) General rule: control of electronic money. A person has control of
 electronic money if:
   (1) the electronic money, a record attached to or logically associated
@@ -1109,7 +904,6 @@ control on behalf of the person; or
   (2) obtains control of the electronic money after having acknowledged
 that it will obtain control of the electronic money on behalf of the
 person.
-  * NB Effective June 3, 2026
 
 ## § 9-106. Control of Investment Property
 
@@ -1142,9 +936,8 @@ applicable law or practice.
 
 ## § 9-107A. Control of Controllable Electronic Record, Controllable Account, or Controllable Payment Intangible
 
-* Section 9--107A. Control of Controllable Electronic Record,
-                  Controllable Account, or Controllable Payment
-                  Intangible.
+Section 9--107A. Control of Controllable Electronic Record, Controllable
+                  Account, or Controllable Payment Intangible.
   (a) Control under Section 12--105. A secured party has control of a
 controllable electronic record as provided in Section 12--105.
   (b) Control of controllable account and controllable payment
@@ -1152,11 +945,10 @@ intangible.  A secured party has control of a controllable account or
 controllable payment intangible if the secured party has control of the
 controllable electronic record that evidences the controllable account
 or controllable payment intangible.
-  * NB Effective June 3, 2026
 
 ## § 9-107B. No Requirement to Acknowledge or Confirm; No Duties
 
-* Section 9--107B. No Requirement to Acknowledge or Confirm; No Duties.
+Section 9--107B. No Requirement to Acknowledge or Confirm; No Duties.
   (a) No requirement to acknowledge. A person that has control under
 Section 9--104, 9--105, or 9--105A is not required to acknowledge that
 it has control on behalf of another person.
@@ -1165,7 +957,6 @@ will obtain control on behalf of another person, unless the person
 otherwise agrees or law other than this article otherwise provides, the
 person does not owe any duty to the other person and is not required to
 confirm the acknowledgment to any other person.
-  * NB Effective June 3, 2026
 
 ## § 9-108. Sufficiency of Description
 
@@ -1349,34 +1140,9 @@ Section 9--203. Attachment and Enforceability of Security Interest;
   (a) Attachment. A security interest attaches to collateral when it
 becomes enforceable against the debtor with respect to the collateral,
 unless an agreement expressly postpones the time of attachment.
-  * (b) Enforceability. Except as otherwise provided in subsections (c)
+  (b) Enforceability. Except as otherwise provided in subsections (c)
 through (i), a security interest is enforceable against the debtor and
 third parties with respect to the collateral only if:
-       (1) value has been given;
-       (2) the debtor has rights in the collateral or the power to
-           transfer rights in the collateral to a secured party; and
-       (3) one of the following conditions is met:
-           (A) the debtor has authenticated a security agreement that
-               provides a description of the collateral and, if the
-               security interest covers timber to be cut, a description
-               of the land concerned;
-           (B) the collateral is not a certificated security and is in
-               the possession of the secured party under Section 9--313
-               pursuant to the debtor's security agreement;
-           (C) the collateral is a certificated security in registered
-               form and the security certificate has been delivered to
-               the secured party under Section 8--301 pursuant to the
-               debtor's security agreement; or
-           (D) the collateral is deposit accounts, electronic chattel
-               paper, investment property, letter-of-credit rights, or
-               electronic documents, and the secured party has control
-               under Section 7--106, 9--104, 9--105, 9--106, or 9--107
-               pursuant to the debtor's security agreement.
-             * NB Effective until June 3, 2026
-             * (b) Enforceability. Except as otherwise provided in
-           subsections (c) through (i), a security interest is
-           enforceable against the debtor and third parties with respect
-           to the collateral only if:
        (1) value has been given;
        (2) the debtor has rights in the collateral or the power to
            transfer rights in the collateral to a secured party; and
@@ -1402,7 +1168,6 @@ third parties with respect to the collateral only if:
            (E) the collateral is chattel paper and the secured party has
                possession and control under Section 9--314A pursuant to
                the debtor's security agreement.
-             * NB Effective June 3, 2026
   (c) Other UCC provisions. Subsection (b) is subject to Section 4--210
 on the security interest of a collecting bank, Section 5--118 on the
 security interest of a letter-of-credit issuer or nominated person,
@@ -1449,23 +1214,14 @@ Section 9--204. After-acquired Property; Future Advances.
   (a) After-acquired collateral. Except as otherwise provided in
 subsection (b), a security agreement may create or provide for a
 security interest in after-acquired collateral.
-  * (b) When after-acquired property clause not effective. A security
-interest does not attach under a term constituting an after-acquired
-property clause to:
+  (b) When after-acquired property clause not effective. Subject to
+subsection (b-1), a security interest does not attach under a term
+constituting an after-acquired property clause to:
        (1) consumer goods, other than an accession when given as
            additional security, unless the debtor acquires rights in
            them within 10 days after the secured party gives value; or
        (2) a commercial tort claim.
-         * NB Effective until June 3, 2026
-         * (b) When after-acquired property clause not effective.
-       Subject to subsection (b-1), a security interest does not attach
-       under a term constituting an after-acquired property clause to:
-       (1) consumer goods, other than an accession when given as
-           additional security, unless the debtor acquires rights in
-           them within 10 days after the secured party gives value; or
-       (2) a commercial tort claim.
-         * NB Effective June 3, 2026
-* (b-1) Limitation on subsection (b). Subsection (b) does not prevent a
+  (b-1) Limitation on subsection (b). Subsection (b) does not prevent a
 security interest from attaching:
        (1) to consumer goods as proceeds under Section 9--315(a) or
            commingled goods under Section 9--336(c);
@@ -1473,7 +1229,6 @@ security interest from attaching:
            9--315(a); or
        (3) under an after-acquired property clause to property that is
            proceeds of consumer goods or a commercial tort claim.
-  * NB Effective June 3, 2026
   (c) Future advances and other value. A security agreement may provide
 that collateral secures, or that accounts, chattel paper, payment
 intangibles, or promissory notes are sold in connection with, future
@@ -1560,29 +1315,16 @@ party has possession of collateral:
                jurisdiction; or
            (C) except in the case of consumer goods, in the manner and
                to the extent agreed by the debtor.
-  * (c) Duties and rights when secured party in possession or control.
+  (c) Duties and rights when secured party in possession or control.
 Except as otherwise provided in subsection (d), a secured party having
 possession of collateral or control of collateral under Section 7--106,
-9--104, 9--105, 9--106, or 9--107:
+9--104, 9--105, 9--105A, 9--106, 9--107, or 9--107A:
        (1) may hold as additional security any proceeds, except money or
            funds, received from the collateral;
        (2) shall apply money or funds received from the collateral to
            reduce the secured obligation, unless remitted to the debtor;
            and
        (3) may create a security interest in the collateral.
-         * NB Effective until June 3, 2026
-         * (c) Duties and rights when secured party in possession or
-       control.  Except as otherwise provided in subsection (d), a
-       secured party having possession of collateral or control of
-       collateral under Section 7--106, 9--104, 9--105, 9--105A, 9--106,
-       9--107, or 9--107A:
-       (1) may hold as additional security any proceeds, except money or
-           funds, received from the collateral;
-       (2) shall apply money or funds received from the collateral to
-           reduce the secured obligation, unless remitted to the debtor;
-           and
-       (3) may create a security interest in the collateral.
-  * NB Effective June 3, 2026
   (d) Buyer of certain rights to payment. If the secured party is a
 buyer of accounts, chattel paper, payment intangibles, or promissory
 notes or a consignor:
@@ -1602,72 +1344,8 @@ Section 9--208. Additional Duties of Secured Party Having Control of
   (a) Applicability of section. This section applies to cases in which
 there is no outstanding secured obligation and the secured party is not
 committed to make advances, incur obligations, or otherwise give value.
-  * (b) Duties of secured party after receiving demand from debtor.
-Within 10 days after receiving an authenticated demand by the debtor:
-       (1) a secured party having control of a deposit account under
-           Section 9--104(a)(2) shall send to the bank with which the
-           deposit account is maintained an authenticated statement that
-           releases the bank from any further obligation to comply with
-           instructions originated by the secured party;
-       (2) a secured party having control of a deposit account under
-           Section 9--104(a)(3) shall:
-           (A) pay the debtor the balance on deposit in the deposit
-               account; or
-           (B) transfer the balance on deposit into a deposit account in
-               the debtor's name;
-       (3) a secured party, other than a buyer, having control of
-           electronic chattel paper under Section 9--105 shall:
-           (A) communicate the authoritative copy of the electronic
-               chattel paper to the debtor or its designated custodian;
-           (B) if the debtor designates a custodian that is the
-               designated custodian with which the authoritative copy of
-               the electronic chattel paper is maintained for the
-               secured party, communicate to the custodian an
-               authenticated record releasing the designated custodian
-               from any further obligation to comply with instructions
-               originated by the secured party and instructing the
-               custodian to comply with instructions originated by the
-               debtor; and
-           (C) take appropriate action to enable the debtor or its
-               designated custodian to make copies of or revisions to
-               the authoritative copy which add or change an identified
-               assignee of the authoritative copy without the consent of
-               the secured party;
-       (4) a secured party having control of investment property under
-           Section 8--106(d)(2) or 9--106(b) shall send to the
-           securities intermediary or commodity intermediary with which
-           the security entitlement or commodity contract is maintained
-           an authenticated record that releases the securities
-           intermediary or commodity intermediary from any further
-           obligation to comply with entitlement orders or directions
-           originated by the secured party;
-       (5) a secured party having control of a letter-of-credit right
-           under Section 9--107 shall send to each person having an
-           unfulfilled obligation to pay or deliver proceeds of the
-           letter-of-credit to the secured party an authenticated
-           release from any further obligation to pay or deliver
-           proceeds of the letter-of-credit to the secured party; and
-       (6) a secured party having control of an electronic document
-           shall:
-           (A) give control of the electronic document to the debtor or
-               its designated custodian;
-           (B) if the debtor designates a custodian that is the
-               designated custodian with which the authoritative copy of
-               the electronic document is maintained for the secured
-               party, communicate to the custodian an authenticated
-               record releasing the designated custodian from any
-               further obligation to comply with instructions originated
-               by the secured party and instructing the custodian to
-               comply with instructions originated by the debtor; and
-           (C) take appropriate action to enable the debtor or its
-               designated custodian to make copies of or revisions to
-               the authoritative copy which add or change an identified
-               assignee of the authoritative copy without the consent of
-               the secured party.
-             * NB Effective until June 3, 2026
-             * (b) Duties of secured party after receiving demand from
-           debtor. Within 10 days after receiving a signed demand by the
-           debtor:
+  (b) Duties of secured party after receiving demand from debtor. Within
+10 days after receiving a signed demand by the debtor:
        (1) a secured party having control of a deposit account under
            Section 9--104(a)(2) shall send to the bank with which the
            deposit account is maintained a signed record that releases
@@ -1711,7 +1389,6 @@ Within 10 days after receiving an authenticated demand by the debtor:
            evidenced by the controllable electronic record, shall
            transfer control of the controllable electronic record to the
            debtor or a person designated by the debtor.
-  * NB Effective June 3, 2026
 
 ## § 9-209. Duties of Secured Party If Account Debtor Has Been Notified of Assignment
 
@@ -1722,93 +1399,21 @@ subsection (c), this section applies if:
        (1) there is no outstanding secured obligation; and
        (2) the secured party is not committed to make advances, incur
            obligations, or otherwise give value.
-  * (b) Duties of secured party after receiving demand from debtor.
-Within 10 days after receiving an authenticated demand by the debtor, a
-secured party shall send to an account debtor that has received
-notification of an assignment to the secured party as assignee under
-Section 9--406(a) an authenticated record that releases the account
-debtor from any further obligation to the secured party.
-  * NB Effective until June 3, 2026
-  * (b) Duties of secured party after receiving demand from debtor.
-Within 10 days after receiving a signed demand by the debtor, a secured
-party shall send to an account debtor that has received notification
-under Section 9--406(a) or 12--106(b) of an assignment to the secured
-party as assignee a signed record that releases the account debtor from
-any further obligation to the secured party.
-  * NB Effective June 3, 2026
+  (b) Duties of secured party after receiving demand from debtor. Within
+10 days after receiving a signed demand by the debtor, a secured party
+shall send to an account debtor that has received notification under
+Section 9--406(a) or 12--106(b) of an assignment to the secured party as
+assignee a signed record that releases the account debtor from any
+further obligation to the secured party.
   (c) Inapplicability to sales. This section does not apply to an
 assignment constituting the sale of an account, chattel paper, or
 payment intangible.
 
 ## § 9-210. Request for Accounting; Request Regarding List of Collateral or Statement of Account
 
-* Section 9--210. Request for Accounting; Request Regarding List of
+Section 9--210. Request for Accounting; Request Regarding List of
                   Collateral or Statement of Account.
   (a) Definitions in this section:
-       (1) "Request" means a record of a type described in paragraph
-           (2), (3), or (4).
-       (2) "Request for an accounting" means a record authenticated by a
-           debtor requesting that the recipient provide an accounting of
-           the unpaid obligations secured by collateral and reasonably
-           identifying the transaction or relationship that is the
-           subject of the request.
-       (3) "Request regarding a list of collateral" means a record
-           authenticated by a debtor requesting that the recipient
-           approve or correct a list of what the debtor believes to be
-           the collateral securing an obligation and reasonably
-           identifying the transaction or relationship that is the
-           subject of the request.
-       (4) "Request regarding a statement of account" means a record
-           authenticated by a debtor requesting that the recipient
-           approve or correct a statement indicating what the debtor
-           believes to be the aggregate amount of unpaid obligations
-           secured by collateral as of a specified date and reasonably
-           identifying the transaction or relationship that is the
-           subject of the request.
-  (b) Duty to respond to requests. Subject to subsections (c), (d), (e),
-and (f), a secured party, other than a buyer of accounts, chattel paper,
-payment intangibles, or promissory notes or a consignor, shall comply
-with a request within 14 days after receipt:
-       (1) in the case of a request for an accounting, by authenticating
-           and sending to the debtor an accounting; and
-       (2) in the case of a request regarding a list of collateral or a
-           request regarding a statement of account, by authenticating
-           and sending to the debtor an approval or correction.
-  (c) Request regarding list of collateral; statement concerning type of
-collateral. A secured party that claims a security interest in all of a
-particular type of collateral owned by the debtor may comply with a
-request regarding a list of collateral by sending to the debtor an
-authenticated record including a statement to that effect within 14 days
-after receipt.
-  (d) Request regarding list of collateral; no interest claimed. A
-person that receives a request regarding a list of collateral, claims no
-interest in the collateral when it receives the request, and claimed an
-interest in the collateral at an earlier time shall comply with the
-request within 14 days after receipt by sending to the debtor an
-authenticated record:
-       (1) disclaiming any interest in the collateral; and
-       (2) if known to the recipient, providing the name and mailing
-           address of any assignee of or successor to the recipient's
-           interest in the collateral.
-  (e) Request for accounting or regarding statement of account; no
-interest in obligation claimed. A person that receives a request for an
-accounting or a request regarding a statement of account, claims no
-interest in the obligations when it receives the request, and claimed an
-interest in the obligations at an earlier time shall comply with the
-request within 14 days after receipt by sending to the debtor an
-authenticated record:
-       (1) disclaiming any interest in the obligations; and
-       (2) if known to the recipient, providing the name and mailing
-           address of any assignee of or successor to the recipient's
-           interest in the obligations.
-  (f) Charges for responses. A debtor is entitled without charge to one
-response to a request under this section during any six-month period.
-The secured party may require payment of a charge not exceeding $25 for
-each additional response.
-  * NB Effective until June 3, 2026
-* Section 9--210. Request for Accounting; Request Regarding List of
-                  Collateral or Statement of Account.
-(a) Definitions in this section:
        (1) "Request" means a record of a type described in paragraph
            (2), (3), or (4).
        (2) "Request for an accounting" means a record signed by a debtor
@@ -1829,7 +1434,7 @@ each additional response.
            collateral as of a specified date and reasonably identifying
            the transaction or relationship that is the subject of the
            request.
-(b) Duty to respond to requests. Subject to subsections (c), (d), (e),
+  (b) Duty to respond to requests. Subject to subsections (c), (d), (e),
 and (f), a secured party, other than a buyer of accounts, chattel paper,
 payment intangibles, or promissory notes or a consignor, shall comply
 with a request within 14 days after receipt:
@@ -1838,14 +1443,14 @@ with a request within 14 days after receipt:
        (2) in the case of a request regarding a list of collateral or a
            request regarding a statement of account, by signing and
            sending to the debtor an approval or correction.
-(c) Request regarding list of collateral; statement concerning type of
+  (c) Request regarding list of collateral; statement concerning type of
 collateral. A secured party that claims a security interest in all of a
 particular type of collateral owned by the debtor may comply with a
 request regarding a list of collateral by sending to the debtor a signed
 record including a statement to that effect within 14 days after
 receipt.
-(d) Request regarding list of collateral; no interest claimed. A person
-that receives a request regarding a list of collateral, claims no
+  (d) Request regarding list of collateral; no interest claimed. A
+person that receives a request regarding a list of collateral, claims no
 interest in the collateral when it receives the request, and claimed an
 interest in the collateral at an earlier time shall comply with the
 request within 14 days after receipt by sending to the debtor a signed
@@ -1854,7 +1459,7 @@ record:
        (2) if known to the recipient, providing the name and mailing
            address of any assignee of or successor to the recipient's
            interest in the collateral.
-(e) Request for accounting or regarding statement of account; no
+  (e) Request for accounting or regarding statement of account; no
 interest in obligation claimed. A person that receives a request for an
 accounting or a request regarding a statement of account, claims no
 interest in the obligations when it receives the request, and claimed an
@@ -1865,26 +1470,19 @@ record:
        (2) if known to the recipient, providing the name and mailing
            address of any assignee of or successor to the recipient's
            interest in the obligations.
-(f) Charges for responses. A debtor is entitled without charge to one
+  (f) Charges for responses. A debtor is entitled without charge to one
 response to a request under this section during any six-month period.
 The secured party may require payment of a charge not exceeding $25 for
 each additional response.
-  * NB Effective June 3, 2026
 
 ## § 9-301. Law Governing Perfection and Priority of Security Interests
 
 Section 9--301. Law Governing Perfection and Priority of Security
                   Interests.
-  * Except as otherwise provided in Sections 9--303 through 9--306, the
+  Except as otherwise provided in Sections 9--303 through 9-306B, the
 following rules determine the law governing perfection, the effect of
 perfection or nonperfection, and the priority of a security interest in
 collateral:
-  * NB Effective until June 3, 2026
-  * Except as otherwise provided in Sections 9--303 through 9-306B, the
-following rules determine the law governing perfection, the effect of
-perfection or nonperfection, and the priority of a security interest in
-collateral:
-  * NB Effective June 3, 2026
   (a) Except as otherwise provided in this section, while a debtor is
 located in a jurisdiction, the local law of that jurisdiction governs
 perfection, the effect of perfection or nonperfection, and the priority
@@ -1893,26 +1491,14 @@ of a security interest in collateral.
 that jurisdiction governs perfection, the effect of perfection or
 nonperfection, and the priority of a possessory security interest in
 that collateral.
-  * (c) Except as otherwise provided in subsection (d), while tangible
-negotiable documents, goods, instruments, money, or tangible chattel
-paper is located in a jurisdiction, the local law of that jurisdiction
-governs:
+  (c) Except as otherwise provided in subsection (d), while negotiable
+tangible documents, goods, instruments, or tangible money is located in
+a jurisdiction, the local law of that jurisdiction governs:
        (1) perfection of a security interest in the goods by filing a
            fixture filing;
        (2) perfection of a security interest in timber to be cut; and
        (3) the effect of perfection or nonperfection and the priority of
            a nonpossessory security interest in the collateral.
-         * NB Effective until June 3, 2026
-         * (c) Except as otherwise provided in subsection (d), while
-       negotiable tangible documents, goods, instruments, or tangible
-       money is located in a jurisdiction, the local law of that
-       jurisdiction governs:
-       (1) perfection of a security interest in the goods by filing a
-           fixture filing;
-       (2) perfection of a security interest in timber to be cut; and
-       (3) the effect of perfection or nonperfection and the priority of
-           a nonpossessory security interest in the collateral.
-         * NB Effective June 3, 2026
   (d) The local law of the jurisdiction in which the wellhead or
 minehead is located governs perfection, the effect of perfection or
 nonperfection, and the priority of a security interest in as-extracted
@@ -1957,17 +1543,11 @@ to be covered by the certificate of title.
 
 Section 9--304. Law Governing Perfection and Priority of Security
                   Interests in Deposit Accounts.
-  * (a) Law of bank's jurisdiction governs. The local law of a bank's
-jurisdiction governs perfection, the effect of perfection or
-nonperfection, and the priority of a security interest in a deposit
-account maintained with that bank.
-  * NB Effective until June 3, 2026
-  * (a) Law of bank's jurisdiction governs. The local law of a bank's
+  (a) Law of bank's jurisdiction governs. The local law of a bank's
 jurisdiction governs perfection, the effect of perfection or
 nonperfection, and the priority of a security interest in a deposit
 account maintained with that bank even if the transaction does not bear
 any relation to the bank's jurisdiction.
-  * NB Effective June 3, 2026
   (b) Bank's jurisdiction. The following rules determine a bank's
 jurisdiction for purposes of this part:
        (1) If an agreement between the bank and its customer governing
@@ -2017,9 +1597,8 @@ subsections (c) and (d), the following rules apply:
            governs perfection, the effect of perfection or
            nonperfection, and the priority of a security interest in a
            commodity contract or commodity account.
-         * (5) Paragraphs (2), (3), and (4) apply even if the
-       transaction does not bear any relation to the jurisdiction.
-         * NB Effective June 3, 2026
+       (5) Paragraphs (2), (3), and (4) apply even if the transaction
+           does not bear any relation to the jurisdiction.
   (b) Commodity intermediary's jurisdiction. The following rules
 determine a commodity intermediary's jurisdiction for purposes of this
 part:
@@ -2081,7 +1660,7 @@ security interest that is perfected only under Section 9--308(d).
 
 ## § 9-306A. Law Governing Perfection and Priority of Security Interests in Chattel Paper
 
-* Section 9-306A. Law Governing Perfection and Priority of Security
+Section 9-306A. Law Governing Perfection and Priority of Security
                    Interests in Chattel Paper.
   (a) Chattel paper evidenced by authoritative electronic copy. Except
 as provided in subsection (d), if chattel paper is evidenced only by an
@@ -2131,11 +1710,10 @@ security interest in the chattel paper.
 located. The local law of the jurisdiction in which the debtor is
 located governs perfection of a security interest in chattel paper by
 filing.
-  * NB Effective June 3, 2026
 
 ## § 9-306B. Law Governing Perfection and Priority of Security Interests in Controllable Accounts, Controllable Electronic Records, and Controllable P...
 
-* Section 9-306B. Law Governing Perfection and Priority of Security
+Section 9-306B. Law Governing Perfection and Priority of Security
                    Interests in Controllable Accounts, Controllable
                    Electronic Records, and Controllable Payment
                    Intangibles.
@@ -2155,7 +1733,6 @@ filing; and
   (2) automatic perfection of a security interest in a controllable
 payment intangible created by a sale of the controllable payment
 intangible.
-  * NB Effective June 3, 2026
 
 ## § 9-307. Location of Debtor
 
@@ -2321,19 +1898,13 @@ security interest:
        (7) in a certificated security which is perfected by delivery of
            the security certificate to the secured party under Section
            9--313;
-       * (8) in deposit accounts, electronic chattel paper, electronic
-           documents, investment property, or letter-of-credit rights
-           which is perfected by control under Section 9--314;
-         * NB Effective until June 3, 2026
-       * (8) in controllable accounts, controllable electronic records,
+       (8) in controllable accounts, controllable electronic records,
            controllable payment intangibles, deposit accounts,
            electronic documents, investment property, or
            letter-of-credit rights which is perfected by control under
            Section 9--314;
-         * NB Effective June 3, 2026
-       * (8-a) in chattel paper which is perfected by possession and
+       (8-a) in chattel paper which is perfected by possession and
            control under Section 9--314A;
-         * NB Effective June 3, 2026
        (9) in proceeds which is perfected under Section 9--315;
        (10) that is perfected under Section 9--316; or
        (11) that is a cooperative organization security interest.
@@ -2391,43 +1962,21 @@ lessor and that person is in the business of selling goods of that kind,
 this section does not apply to a security interest in that collateral
 created by that person.
 
-## § 9-312. Perfection of Security Interests in Chattel Paper, Deposit Accounts, Documents, Goods Covered by Documents, Instruments, Investment Prope...
+## § 9-312. Perfection of Security Interests in Chattel Paper, Controllable Accounts, Controllable Electronic Records, Controllable Payment Intangibl...
 
-Section 9--312.* Perfection of Security Interests in Chattel Paper,
-                  Deposit Accounts, Documents, Goods Covered by
-                  Documents, Instruments, Investment Property,
-                  Letter-of-credit Rights, and Money; Perfection by
-                  Permissive Filing; Temporary Perfection Without Filing
-                  or Transfer of Possession.
-  * NB Effective until June 3, 2026
-  * Perfection of Security Interests in Chattel Paper, Controllable
-                  Accounts, Controllable Electronic Records,
-                  Controllable Payment Intangibles, Deposit Accounts,
-                  Documents, Goods Covered by Documents, Instruments,
-                  Investment Property, Letter-of-credit Rights, and
-                  Money; Perfection by Permissive Filing; Temporary
-                  Perfection Without Filing or Transfer of Possession.
-  * NB Effective June 3, 2026
-  * (a) Perfection by filing permitted. A security interest in chattel
-paper, negotiable documents, instruments, or investment property may be
-perfected by filing.
-  * NB Effective until June 3, 2026
-* (a) Perfection by filing permitted. A security interest in chattel
+Section 9--312. Perfection of Security Interests in Chattel Paper,
+                   Controllable Accounts, Controllable Electronic
+                   Records, Controllable Payment Intangibles, Deposit
+                   Accounts, Documents, Goods Covered by Documents,
+                   Instruments, Investment Property, Letter-of-credit
+                   Rights, and Money; Perfection by Permissive Filing;
+                   Temporary Perfection Without Filing or Transfer of
+                   Possession.
+  (a) Perfection by filing permitted. A security interest in chattel
 paper, controllable accounts, controllable electronic records,
 controllable payment intangibles, instruments, investment property, or
 negotiable documents may be perfected by filing.
-  * NB Effective June 3, 2026
-  * (b) Control or possession of certain collateral. Except as otherwise
-provided in Section 9--315(c) and (d) for proceeds:
-       (1) a security interest in a deposit account may be perfected
-           only by control under Section 9--314;
-       (2) and except as otherwise provided in Section 9--308(d), a
-           security interest in a letter-of-credit right may be
-           perfected only by control under Section 9--314; and
-       (3) a security interest in money may be perfected only by the
-           secured party's taking possession under Section 9--313.
-         * NB Effective until June 3, 2026
-* (b) Control or possession of certain collateral. Except as otherwise
+  (b) Control or possession of certain collateral. Except as otherwise
 provided in Section 9--315(c) and (d) for proceeds:
        (1) a security interest in a deposit account may be perfected
            only by control under Section 9--314;
@@ -2437,9 +1986,8 @@ provided in Section 9--315(c) and (d) for proceeds:
        (3) a security interest in tangible money may be perfected only
            by the secured party's taking possession under Section
            9--313; and
-         (4) a security interest in electronic money may be perfected
-       only by control under Section 9--314.
-         * NB Effective June 3, 2026
+       (4) a security interest in electronic money may be perfected only
+           by control under Section 9--314.
   (c) Goods covered by negotiable document. While goods are in the
 possession of a bailee that has issued a negotiable document covering
 the goods:
@@ -2456,18 +2004,11 @@ by:
        (2) the bailee's receipt of notification of the secured party's
            interest; or
        (3) filing as to the goods.
-  * (e) Temporary perfection: new value. A security interest in
-certificated securities, negotiable documents, or instruments is
-perfected without filing or the taking of possession or control for a
-period of 20 days from the time it attaches to the extent that it arises
-for new value given under an authenticated security agreement.
-  * NB Effective until June 3, 2026
-* (e) Temporary perfection: new value. A security interest in
+  (e) Temporary perfection: new value. A security interest in
 certificated securities, negotiable documents, or instruments is
 perfected without filing or the taking of possession or control for a
 period of 20 days from the time it attaches to the extent that it arises
 for new value given under a signed security agreement.
-  * NB Effective June 3, 2026
   (f) Temporary perfection: goods or documents made available to debtor.
 A perfected security interest in a negotiable document or goods in
 possession of a bailee, other than one that has issued a negotiable
@@ -2496,38 +2037,17 @@ cooperative interests.
 
 Section 9--313. When Possession by or Delivery to Secured Party Perfects
                   Security Interest Without Filing.
-  * (a) Perfection by possession or delivery. Except as otherwise
-provided in subsection (b), a secured party may perfect a security
-interest in tangible negotiable documents, goods, instruments, money, or
-tangible chattel paper by taking possession of the collateral. A secured
-party may perfect a security interest in certificated securities by
-taking delivery of the certificated securities under Section 8--301.
-  * NB Effective until June 3, 2026
-* (a) Perfection by possession or delivery. Except as otherwise provided
+  (a) Perfection by possession or delivery. Except as otherwise provided
 in subsection (b), a secured party may perfect a security interest in
 goods, instruments, negotiable tangible documents, or tangible money by
 taking possession of the collateral. A secured party may perfect a
 security interest in certificated securities by taking delivery of the
 certificated securities under Section 8--301.
-  * NB Effective June 3, 2026
   (b) Goods covered by certificate of title. With respect to goods
 covered by a certificate of title issued by this state, a secured party
 may perfect a security interest in the goods by taking possession of the
 goods only in the circumstances described in Section 9--316(d).
-  * (c) Collateral in possession of person other than debtor. With
-respect to collateral other than certificated securities and goods
-covered by a document, a secured party takes possession of collateral in
-the possession of a person other than the debtor, the secured party, or
-a lessee of the collateral from the debtor in the ordinary course of the
-debtor's business, when:
-       (1) the person in possession authenticates a record acknowledging
-           that it holds possession of the collateral for the secured
-           party's benefit; or
-       (2) the person takes possession of the collateral after having
-           authenticated a record acknowledging that it will hold
-           possession of collateral for the secured party's benefit.
-         * NB Effective until June 3, 2026
-* (c) Collateral in possession of person other than debtor. With respect
+  (c) Collateral in possession of person other than debtor. With respect
 to collateral other than certificated securities and goods covered by a
 document, a secured party takes possession of collateral in the
 possession of a person other than the debtor, the secured party, or a
@@ -2539,19 +2059,11 @@ debtor's business, when:
        (2) the person takes possession of the collateral after having
            signed a record acknowledging that it will hold possession of
            the collateral for the secured party's benefit.
-         * NB Effective June 3, 2026
-  * (d) Time of perfection by possession; continuation of perfection. If
-perfection of a security interest depends upon possession of the
-collateral by a secured party, perfection occurs no earlier than the
-time the secured party takes possession and continues only while the
-secured party retains possession.
-  * NB Effective until June 3, 2026
-* (d) Time of perfection by possession; continuation of perfection. If
+  (d) Time of perfection by possession; continuation of perfection. If
 perfection of a security interest depends upon possession of the
 collateral by a secured party, perfection occurs not earlier than the
 time the secured party takes possession and continues only while the
 secured party retains possession.
-  * NB Effective June 3, 2026
   (e) Time of perfection by delivery; continuation of perfection. A
 security interest in a certificated security in registered form is
 perfected by delivery when delivery of the certificated security occurs
@@ -2591,21 +2103,25 @@ cooperative interests.
 
 ## § 9-314. Perfection by Control
 
-* Section 9--314. Perfection by Control.
-  (a) Perfection by control. A security interest in investment property,
-deposit accounts, letter-of-credit rights, electronic chattel paper, or
-electronic documents may be perfected by control of the collateral under
-Section 7--106, 9--104, 9--105, 9--106, or 9--107.
+Section 9--314. Perfection by Control.
+  (a) Perfection by control. A security interest in controllable
+accounts, controllable electronic records, controllable payment
+intangibles, deposit accounts, electronic documents, electronic money,
+investment property, or letter-of-credit rights, may be perfected by
+control of the collateral under Section 7--106, 9--104, 9--105A, 9--106,
+9--107 or 9--107A.
   (b) Specified collateral: time of perfection by control; continuation
-of perfection. A security interest in deposit accounts, electronic
-chattel paper, letter-of-credit rights, or electronic documents is
-perfected by control under Section 7--106, 9--104, 9--105, or 9--107
-when the secured party obtains control and remains perfected by control
-only while the secured party retains control.
+of perfection. A security interest in controllable accounts,
+controllable electronic records, controllable payment intangibles,
+deposit accounts, electronic documents, electronic money, or
+letter-of-credit rights is perfected by control under Section 7--106,
+9--104, 9--105A, 9--107, or 9--107A not earlier than the time when the
+secured party obtains control and remains perfected by control only
+while the secured party retains control.
   (c) Investment property: time of perfection by control; continuation
 of perfection. A security interest in investment property is perfected
-by control under Section 9--106 from the time the secured party obtains
-control and remains perfected by control until:
+by control under Section 9--106 not earlier than the time the secured
+party obtains control and remains perfected by control until:
        (1) the secured party does not have control; and
        (2) one of the following occurs:
            (A) if the collateral is a certificated security, the debtor
@@ -2617,42 +2133,10 @@ control and remains perfected by control until:
                is or becomes the entitlement holder.
   (d) Cooperative interests. Subsections (a) through (c) do not apply to
 cooperative interests.
-  * NB Effective until June 3, 2026
-* Section 9--314. Perfection by Control.
-(a) Perfection by control. A security interest in controllable accounts,
-controllable electronic records, controllable payment intangibles,
-deposit accounts, electronic documents, electronic money, investment
-property, or letter-of-credit rights, may be perfected by control of the
-collateral under Section 7--106, 9--104, 9--105A, 9--106, 9--107 or
-9--107A.
-(b) Specified collateral: time of perfection by control; continuation of
-perfection. A security interest in controllable accounts, controllable
-electronic records, controllable payment intangibles, deposit accounts,
-electronic documents, electronic money, or letter-of-credit rights is
-perfected by control under Section 7--106, 9--104, 9--105A, 9--107, or
-9--107A not earlier than the time when the secured party obtains control
-and remains perfected by control only while the secured party retains
-control.
-(c) Investment property: time of perfection by control; continuation of
-perfection. A security interest in investment property is perfected by
-control under Section 9--106 not earlier than the time the secured party
-obtains control and remains perfected by control until:
-       (1) the secured party does not have control; and
-       (2) one of the following occurs:
-           (A) if the collateral is a certificated security, the debtor
-               has or acquires possession of the security certificate;
-           (B) if the collateral is an uncertificated security, the
-               issuer has registered or registers the debtor as the
-               registered owner; or
-           (C) if the collateral is a security entitlement, the debtor
-               is or becomes the entitlement holder.
-(d) Cooperative interests. Subsections (a) through (c) do not apply to
-cooperative interests.
-  * NB Effective June 3, 2026
 
 ## § 9-314A. Perfection by Possession and Control of Chattel Paper
 
-* Section 9-314A. Perfection by Possession and Control of Chattel Paper.
+Section 9-314A. Perfection by Possession and Control of Chattel Paper.
   (a) Perfection by possession and control. A secured party may perfect
 a security interest in chattel paper by taking possession of each
 authoritative tangible copy of the record evidencing the chattel paper
@@ -2667,7 +2151,6 @@ control.
 chattel paper. Section 9--313(c) and (f) through (i) applies to
 perfection by possession of an authoritative tangible copy of a record
 evidencing chattel paper.
-  * NB Effective June 3, 2026
 
 ## § 9-315. Secured Party's Rights on Disposition of Collateral and in Proceeds
 
@@ -2722,19 +2205,7 @@ security interest in proceeds which remains perfected under subsection
 ## § 9-316. Effect of Change in Governing Law
 
 Section 9--316. Effect of Change in Governing Law.
-  * (a) General rule: effect on perfection of change in governing law. A
-security interest perfected pursuant to the law of the jurisdiction
-designated in Section 9--301(a) or 9--305(c) remains perfected until the
-earliest of:
-       (1) the time perfection would have ceased under the law of that
-           jurisdiction;
-       (2) the expiration of four months after a change of the debtor's
-           location to another jurisdiction; or
-       (3) the expiration of one year after a transfer of collateral to
-           a person that thereby becomes a debtor and is located in
-           another jurisdiction.
-         * NB Effective until June 3, 2026
-* (a) General rule: effect on perfection of change in governing law. A
+  (a) General rule: effect on perfection of change in governing law. A
 security interest perfected pursuant to the law of the jurisdiction
 designated in Section 9--301(a), 9--305(c), 9-306A(d), or 9-306B(b)
 remains perfected until the earliest of:
@@ -2745,15 +2216,14 @@ remains perfected until the earliest of:
        (3) the expiration of one year after a transfer of collateral to
            a person that thereby becomes a debtor and is located in
            another jurisdiction.
-         * NB Effective June 3, 2026
   (b) Security interest perfected or unperfected under law of new
-jurisdiction. If a security interest described in subsection (a) becomes
-perfected under the law of the other jurisdiction before the earliest
-time or event described in that subsection, it remains perfected
-thereafter. If the security interest does not become perfected under the
-law of the other jurisdiction before the earliest time or event, it
-becomes unperfected and is deemed never to have been perfected as
-against a purchaser of the collateral for value.
+jurisdiction. If becomes perfected under the law of the other
+jurisdiction before the earliest time or event described in that
+subsection, it remains perfected thereafter. If the security interest
+does not become perfected under the law of the other jurisdiction before
+the earliest time or event, it becomes unperfected and is deemed never
+to have been perfected as against a purchaser of the collateral for
+value.
   (c) Possessory security interest in collateral moved to new
 jurisdiction. A possessory security interest in collateral, other than
 goods covered by a certificate of title and as-extracted collateral
@@ -2783,19 +2253,7 @@ value if the applicable requirements for perfection under Section
            become covered by a certificate of title from this state; or
        (2) the expiration of four months after the goods had become so
            covered.
-  * (f) Change in jurisdiction of bank, issuer, nominated person,
-securities intermediary, or commodity intermediary. A security interest
-in deposit accounts, letter-of-credit rights, or investment property
-which is perfected under the law of the bank's jurisdiction, the
-issuer's jurisdiction, a nominated person's jurisdiction, the securities
-intermediary's jurisdiction, or the commodity intermediary's
-jurisdiction, as applicable, remains perfected until the earlier of:
-       (1) the time the security interest would have become unperfected
-           under the law of that jurisdiction; or
-       (2) the expiration of four months after a change of the
-           applicable jurisdiction to another jurisdiction.
-         * NB Effective until June 3, 2026
-* (f) Change in jurisdiction of chattel paper, controllable electronic
+  (f) Change in jurisdiction of chattel paper, controllable electronic
 record, bank, issuer, nominated person, securities intermediary, or
 commodity intermediary. A security interest in chattel paper,
 controllable accounts, controllable electronic records, controllable
@@ -2810,7 +2268,6 @@ until the earlier of:
            under the law of that jurisdiction; or
        (2) the expiration of four months after a change of the
            applicable jurisdiction to another jurisdiction.
-  * NB Effective June 3, 2026
   (g) Subsection (f) security interest perfected or unperfected under
 law of new jurisdiction. If a security interest described in subsection
 (f) becomes perfected under the law of the other jurisdiction before the
@@ -2880,40 +2337,23 @@ security interest or agricultural lien is subordinate to the rights of:
            (B) one of the conditions specified in Section 9--203(b)(3)
                is met and a financing statement covering the collateral
                is filed.
-  * (b) Buyers that receive delivery. Except as otherwise provided in
-subsection (e), a buyer, other than a secured party, of tangible chattel
-paper, tangible documents, goods, instruments, or a certificated
-security takes free of a security interest or agricultural lien if the
-buyer gives value and receives delivery of the collateral without
-knowledge of the security interest or agricultural lien and before it is
-perfected.
-  * NB Effective until June 3, 2026
-* (b) Buyers that receive delivery. Except as otherwise provided in
+  (b) Buyers that receive delivery. Except as otherwise provided in
 subsection (e), a buyer, other than a secured party, of goods,
 instruments, tangible documents, or a certificated security takes free
 of a security interest or agricultural lien if the buyer gives value and
 receives delivery of the collateral without knowledge of the security
 interest or agricultural lien and before it is perfected.
-  * NB Effective June 3, 2026
   (c) Lessees that receive delivery. Except as otherwise provided in
 subsection (e), a lessee of goods takes free of a security interest or
 agricultural lien if the lessee gives value and receives delivery of the
 collateral without knowledge of the security interest or agricultural
 lien and before it is perfected.
-  * (d) Licensees and buyers of certain collateral. A licensee of a
-general intangible or a buyer, other than a secured party, of accounts,
-electronic chattel paper, electronic documents, general intangibles, or
-investment property other than a certificated security takes free of a
-security interest if the licensee or buyer gives value without knowledge
-of the security interest and before it is perfected.
-  * NB Effective until June 3, 2026
-* (d) Licensees and buyers of certain collateral. Subject to subsections
+  (d) Licensees and buyers of certain collateral. Subject to subsections
 (f) through (i), a licensee of a general intangible or a buyer, other
 than a secured party, of collateral other than electronic money, goods,
 instruments, intangible documents or a certificated security takes free
 of a security interest if the licensee or buyer gives value without
 knowledge of the security interest and before it is perfected.
-  * NB Effective June 3, 2026
   (e) Purchase-money security interest. Except as otherwise provided in
 Sections 9--320 and 9--321, if a person files a financing statement with
 respect to a purchase-money security interest before or within 20 days
@@ -2922,7 +2362,7 @@ interest takes priority over the rights of a buyer, lessee, or lien
 creditor which arise between the time the security interest attaches and
 the time of filing. The preceding sentence does not apply to cooperative
 interests.
-  * (f) Buyers of chattel paper. A buyer, other than a secured party, of
+  (f) Buyers of chattel paper. A buyer, other than a secured party, of
 chattel paper takes free of a security interest if, without knowledge of
 the security interest and before it is perfected, the buyer gives value
 and:
@@ -2931,27 +2371,23 @@ record evidencing the chattel paper; and
   (2) if each authoritative electronic copy of the record evidencing the
 chattel paper can be subjected to control under Section 9--105, obtains
 control of each authoritative electronic copy.
-  * NB Effective June 3, 2026
-  * (g) Buyers of electronic documents. A buyer of an electronic
-document takes free of a security interest if, without knowledge of the
-security interest and before it is perfected, the buyer gives value and,
-if each authoritative electronic copy of the document can be subjected
-to control under Section 7--106, obtains control of each authoritative
+  (g) Buyers of electronic documents. A buyer of an electronic document
+takes free of a security interest if, without knowledge of the security
+interest and before it is perfected, the buyer gives value and, if each
+authoritative electronic copy of the document can be subjected to
+control under Section 7--106, obtains control of each authoritative
 electronic copy.
-  * NB Effective June 3, 2026
-  * (h) Buyers of controllable electronic records. A buyer of a
+  (h) Buyers of controllable electronic records. A buyer of a
 controllable electronic record takes free of a security interest if,
 without knowledge of the security interest and before it is perfected,
 the buyer gives value and obtains control of the controllable electronic
 record.
-  * NB Effective June 3, 2026
-  * (i) Buyers of controllable accounts and controllable payment
+  (i) Buyers of controllable accounts and controllable payment
 intangibles. A buyer, other than a secured party, of a controllable
 account or a controllable payment intangible takes free of a security
 interest if, without knowledge of the security interest and before it is
 perfected, the buyer gives value and obtains control of the controllable
 account or controllable payment intangible.
-  * NB Effective June 3, 2026
 
 ## § 9-318. No Interest Retained in Right to Payment That Is Sold; Rights and Title of Seller of Account or Chattel Paper with Respect to Creditors a...
 
@@ -3140,40 +2576,22 @@ creditor unless the advance is made:
   (c) Buyer of receivables. Subsections (a) and (b) do not apply to a
 security interest held by a secured party that is a buyer of accounts,
 chattel paper, payment intangibles, or promissory notes or a consignor.
-  * (d) Buyer of goods. Except as otherwise provided in subsection (e),
-a buyer of goods other than a buyer in ordinary course of business takes
-free of a security interest to the extent that it secures advances made
-after the earlier of:
-       (1) the time the secured party acquires knowledge of the buyer's
-           purchase; or
-       (2) 45 days after the purchase.
-         * NB Effective until June 3, 2026
-* (d) Buyer of goods. Except as otherwise provided in subsection (e), a
+  (d) Buyer of goods. Except as otherwise provided in subsection (e), a
 buyer of goods takes free of a security interest to the extent that it
 secures advances made after the earlier of:
        (1) the time the secured party acquires knowledge of the buyer's
            purchase; or
        (2) 45 days after the purchase.
-         * NB Effective June 3, 2026
   (e) Advances made pursuant to commitment: priority of buyer of goods.
 Subsection (d) does not apply if the advance is made pursuant to a
 commitment entered into without knowledge of the buyer's purchase and
 before the expiration of the 45 day period.
-  * (f) Lessee of goods. Except as otherwise provided in subsection (g),
-a lessee of goods, other than a lessee in ordinary course of business,
-takes the leasehold interest free of a security interest to the extent
-that it secures advances made after the earlier of:
-       (1) the time the secured party acquires knowledge of the lease;
-           or
-       (2) 45 days after the lease contract becomes enforceable.
-         * NB Effective until June 3, 2026
-* (f) Lessee of goods. Except as otherwise provided in subsection (g), a
+  (f) Lessee of goods. Except as otherwise provided in subsection (g), a
 lessee of goods takes the leasehold interest free of a security interest
 to the extent that it secures advances made after the earlier of:
        (1) the time the secured party acquires knowledge of the lease;
            or
        (2) 45 days after the lease contract becomes enforceable.
-         * NB Effective June 3, 2026
   (g) Advances made pursuant to commitment: priority of lessee of goods.
 Subsection (f) does not apply if the advance is made pursuant to a
 commitment entered into without knowledge of the lease and before the
@@ -3213,30 +2631,7 @@ otherwise provided in Section 9--327, a perfected security interest in
 its identifiable proceeds also has priority, if the purchase-money
 security interest is perfected when the debtor receives possession of
 the collateral or within 20 days thereafter.
-  * (b) Inventory purchase-money priority. Subject to subsection (c) and
-except as otherwise provided in subsection (g), a perfected
-purchase-money security interest in inventory has priority over a
-conflicting security interest in the same inventory, has priority over a
-conflicting security interest in chattel paper or an instrument
-constituting proceeds of the inventory and in proceeds of the chattel
-paper, if so provided in Section 9--330, and, except as otherwise
-provided in Section 9--327, also has priority in identifiable cash
-proceeds of the inventory to the extent the identifiable cash proceeds
-are received on or before the delivery of the inventory to a buyer, if:
-       (1) the purchase-money security interest is perfected when the
-           debtor receives possession of the inventory;
-       (2) the purchase-money secured party sends an authenticated
-           notification to the holder of the conflicting security
-           interest;
-       (3) the holder of the conflicting security interest receives the
-           notification within five years before the debtor receives
-           possession of the inventory; and
-       (4) the notification states that the person sending the
-           notification has or expects to acquire a purchase-money
-           security interest in inventory of the debtor and describes
-           the inventory.
-         * NB Effective until June 3, 2026
-* (b) Inventory purchase-money priority. Subject to subsection (c) and
+  (b) Inventory purchase-money priority. Subject to subsection (c) and
 except as otherwise provided in subsection (g), a perfected
 purchase-money security interest in inventory has priority over a
 conflicting security interest in the same inventory, has priority over a
@@ -3257,7 +2652,6 @@ are received on or before the delivery of the inventory to a buyer, if:
            notification has or expects to acquire a purchase-money
            security interest in inventory of the debtor and describes
            the inventory.
-         * NB Effective June 3, 2026
   (c) Holders of conflicting inventory security interests to be
 notified.  Subsections (b)(2) through (4) apply only if the holder of
 the conflicting security interest had filed a financing statement
@@ -3268,27 +2662,7 @@ covering the same types of inventory:
            perfected without filing or possession under Section
            9--312(f), before the beginning of the 20-day period
            thereunder.
-  * (d) Livestock purchase-money priority. Subject to subsection (e) and
-except as otherwise provided in subsection (g), a perfected
-purchase-money security interest in livestock that are farm products has
-priority over a conflicting security interest in the same livestock,
-and, except as otherwise provided in Section 9--327, a perfected
-security interest in their identifiable proceeds and identifiable
-products in their unmanufactured states also has priority, if:
-       (1) the purchase-money security interest is perfected when the
-           debtor receives possession of the livestock;
-       (2) the purchase-money secured party sends an authenticated
-           notification to the holder of the conflicting security
-           interest;
-       (3) the holder of the conflicting security interest receives the
-           notification within six months before the debtor receives
-           possession of the livestock; and
-       (4) the notification states that the person sending the
-           notification has or expects to acquire a purchase-money
-           security interest in livestock of the debtor and describes
-           the livestock.
-         * NB Effective until June 3, 2026
-* (d) Livestock purchase-money priority. Subject to subsection (e) and
+  (d) Livestock purchase-money priority. Subject to subsection (e) and
 except as otherwise provided in subsection (g), a perfected
 purchase-money security interest in livestock that are farm products has
 priority over a conflicting security interest in the same livestock,
@@ -3306,7 +2680,6 @@ products in their unmanufactured states also has priority, if:
            notification has or expects to acquire a purchase-money
            security interest in livestock of the debtor and describes
            the livestock.
-         * NB Effective June 3, 2026
   (e) Holders of conflicting livestock security interests to be
 notified.  Subsections (d)(2) through (4) apply only if the holder of
 the conflicting security interest had filed a financing statement
@@ -3378,7 +2751,7 @@ bound.
 
 ## § 9-326A. Priority of Security Interest in Controllable Account, Controllable Electronic Record, and Controllable Payment Intangible
 
-* Section 9-326A. Priority of Security Interest in Controllable Account,
+Section 9-326A. Priority of Security Interest in Controllable Account,
                    Controllable Electronic Record, and Controllable
                    Payment Intangible.
   A security interest in a controllable account, controllable electronic
@@ -3386,7 +2759,6 @@ record, or controllable payment intangible held by a secured party
 having control of the account, electronic record, or payment intangible
 has priority over a conflicting security interest held by a secured
 party that does not have control.
-  * NB Effective June 3, 2026
 
 ## § 9-327. Priority of Security Interests in Deposit Account
 
@@ -3474,18 +2846,7 @@ according to priority in time of obtaining control.
 ## § 9-330. Priority of Purchaser of Chattel Paper or Instrument
 
 Section 9--330. Priority of Purchaser of Chattel Paper or Instrument.
-  * (a) Purchaser's priority: security interest claimed merely as
-proceeds.  A purchaser of chattel paper has priority over a security
-interest in the chattel paper which is claimed merely as proceeds of
-inventory subject to a security interest if:
-       (1) in good faith and in the ordinary course of the purchaser's
-           business, the purchaser gives new value and takes possession
-           of the chattel paper or obtains control of the chattel paper
-           under Section 9--105; and
-       (2) the chattel paper does not indicate that it has been assigned
-           to an identified assignee other than the purchaser.
-         * NB Effective until June 3, 2026
-* (a) Purchaser's priority: security interest claimed merely as
+  (a) Purchaser's priority: security interest claimed merely as
 proceeds. A purchaser of chattel paper has priority over a security
 interest in the chattel paper which is claimed merely as proceeds of
 inventory subject to a security interest if:
@@ -3498,17 +2859,7 @@ inventory subject to a security interest if:
        (2) the authoritative copies of the record evidencing the chattel
            paper do not indicate that the chattel paper has been
            assigned to an identified assignee other than the purchaser.
-         * NB Effective June 3, 2026
-  * (b) Purchaser's priority: other security interests. A purchaser of
-chattel paper has priority over a security interest in the chattel paper
-which is claimed other than merely as proceeds of inventory subject to a
-security interest if the purchaser gives new value and takes possession
-of the chattel paper or obtains control of the chattel paper under
-Section 9--105 in good faith, in the ordinary course of the purchaser's
-business, and without knowledge that the purchase violates the rights of
-the secured party.
-  * NB Effective until June 3, 2026
-* (b) Purchaser's priority: other security interests. A purchaser of
+  (b) Purchaser's priority: other security interests. A purchaser of
 chattel paper has priority over a security interest in the chattel paper
 which is claimed other than merely as proceeds of inventory subject to a
 security interest if the purchaser gives new value, takes possession of
@@ -3517,7 +2868,6 @@ paper, and obtains control under Section 9--105 of each authoritative
 electronic copy of the record evidencing the chattel paper in good
 faith, in the ordinary course of the purchaser's business, and without
 knowledge that the purchase violates the rights of the secured party.
-  * NB Effective June 3, 2026
   (c) Chattel paper purchaser's priority in proceeds. Except as
 otherwise provided in Section 9--327, a purchaser having priority in
 chattel paper under subsection (a) or (b) also has priority in proceeds
@@ -3537,82 +2887,46 @@ violates the rights of the secured party.
 purposes of subsections (a) and (b), the holder of a purchase-money
 security interest in inventory gives new value for chattel paper
 constituting proceeds of the inventory.
-  * (f) Indication of assignment gives knowledge. For purposes of
-subsections (b) and (d), if chattel paper or an instrument indicates
-that it has been assigned to an identified secured party other than the
-purchaser, a purchaser of the chattel paper or instrument has knowledge
-that the purchase violates the rights of the secured party.
-  * NB Effective until June 3, 2026
-* (f) Indication of assignment gives knowledge. For purposes of
+  (f) Indication of assignment gives knowledge. For purposes of
 subsections (b) and (d), if the authoritative copies of the record
 evidencing chattel paper or an instrument indicate that the chattel
 paper or instrument has been assigned to an identified secured party
 other than the purchaser, a purchaser of the chattel paper or instrument
 has knowledge that the purchase violates the rights of the secured
 party.
-  * NB Effective June 3, 2026
 
-## § 9-331. Priority of Rights of Purchasers of Instruments, Documents, and Securities under Other Articles; Priority of Interests in Financial Asset...
+## § 9-331. Priority of Rights of Purchasers of Controllable Accounts, Controllable Electronic Records, Controllable Payment Intangibles, Documents, ...
 
-* Section 9--331. Priority of Rights of Purchasers of Instruments,
-                  Documents, and Securities under Other Articles;
-                  Priority of Interests in Financial Assets and Security
-                  Entitlements under Article 8.
-  (a) Rights under Articles 3, 7, and 8 not limited. This article does
-not limit the rights of a holder in due course of a negotiable
-instrument, a holder to which a negotiable document of title has been
-duly negotiated, or a protected purchaser of a security. These holders
-or purchasers take priority over an earlier security interest, even if
-perfected, to the extent provided in Articles 3, 7, and 8.
-  (b) Protection under Article 8. This article does not limit the rights
-of or impose liability on a person to the extent that the person is
-protected against the assertion of a claim under Article 8.
-  (c) Filing not notice. Filing under this article does not constitute
-notice of a claim or defense to the holders, or purchasers, or persons
-described in subsections (a) and (b).
-  (d) Section not applicable to cooperative interests. Subsections (a),
-(b), and (c) do not apply to cooperative interests.
-  * NB Effective until June 3, 2026
-* Section 9--331. Priority of Rights of Purchasers of Controllable
+Section 9--331. Priority of Rights of Purchasers of Controllable
                   Accounts, Controllable Electronic Records,
                   Controllable Payment Intangibles, Documents,
                   Instruments, and Securities under Other Articles;
                   Priority of Interests in Financial Assets and Security
                   Entitlements and Protection Against Assertion of Claim
                   under Articles 8 and 12.
-(a) Rights under Articles 3, 7, 8, and 12 not limited. This article does
-not limit the rights of a holder in due course of a negotiable
+  (a) Rights under Articles 3, 7, 8, and 12 not limited. This article
+does not limit the rights of a holder in due course of a negotiable
 instrument, a holder to which a negotiable document of title has been
 duly negotiated, protected purchaser of a security, or a qualifying
 purchaser of a controllable account, controllable electronic record, or
 controllable payment intangible. These holders or purchasers take
 priority over an earlier security interest, even if perfected, to the
 extent provided in Articles 3, 7, 8, and 12.
-(b) Protection under Articles 8 and 12. This article does not limit the
-rights of or impose liability on a person to the extent that the person
-is protected against the assertion of a claim under Article 8 or 12.
-(c) Filing not notice. Filing under this article does not constitute
+  (b) Protection under Articles 8 and 12. This article does not limit
+the rights of or impose liability on a person to the extent that the
+person is protected against the assertion of a claim under Article 8 or
+12.
+  (c) Filing not notice. Filing under this article does not constitute
 notice of a claim or defense to the holders, or purchasers, or persons
 described in subsections (a) and (b).
-(d) Section not applicable to cooperative interests. Subsections (a),
+  (d) Section not applicable to cooperative interests. Subsections (a),
 (b), and (c) do not apply to cooperative interests.
-  * NB Effective June 3, 2026
 
 ## § 9-332. Transfer of Money; Transfer of Funds from Deposit Account
 
-* Section 9--332. Transfer of Money; Transfer of Funds from Deposit
+Section 9--332. Transfer of Money; Transfer of Funds from Deposit
                   Account.
-  (a) Transferee of money. A transferee of money takes the money free of
-a security interest unless the transferee acts in collusion with the
-debtor in violating the rights of the secured party.
-  (b) Transferee of funds from deposit account. A transferee of funds
-from a deposit account takes the funds free of a security interest in
-the deposit account unless the transferee acts in collusion with the
-debtor in violating the rights of the secured party.
-  * NB Effective until June 3, 2026
-* Section 9--332. Transfer of Money; Transfer of Funds from Deposit
-                  Account.
-(a) Transferee of tangible money. A transferee of tangible money takes
+  (a) Transferee of tangible money. A transferee of tangible money takes
 the money free of a security interest if the transferee receives
 possession of the money without acting in collusion with the debtor in
 violating the rights of the secured party.
@@ -3625,7 +2939,6 @@ party.
 takes the money free of a security interest if the transferee obtains
 control of the money without acting in collusion with the debtor in
 violating the rights of the secured party.
-  * NB Effective June 3, 2026
 
 ## § 9-333. Priority of Certain Liens Arising by Operation of Law
 
@@ -3696,17 +3009,7 @@ if:
                transaction; and
            (B) perfected pursuant to a statute described in Section
                9--311(a)(2).
-  * (f) Priority based on consent, disclaimer, or right to remove. A
-security interest in fixtures, whether or not perfected, has priority
-over a conflicting interest of an encumbrancer or owner of the real
-property if:
-       (1) the encumbrancer or owner has, in an authenticated record,
-           consented to the security interest or disclaimed an interest
-           in the goods as fixtures; or
-       (2) the debtor has a right to remove the goods as against the
-           encumbrancer or owner.
-         * NB Effective until June 3, 2026
-* (f) Priority based on consent, disclaimer, or right to remove. A
+  (f) Priority based on consent, disclaimer, or right to remove. A
 security interest in fixtures, whether or not perfected, has priority
 over a conflicting interest of an encumbrancer or owner of the real
 property if:
@@ -3715,7 +3018,6 @@ property if:
            goods as fixtures; or
        (2) the debtor has a right to remove the goods as against the
            encumbrancer or owner.
-         * NB Effective June 3, 2026
   (g) Continuation of paragraph (f)(2) priority. The priority of the
 security interest under paragraph (f)(2) continues for a reasonable time
 if the debtor's right to remove the goods as against the encumbrancer or
@@ -3867,28 +3169,16 @@ against the debtor.
 
 ## § 9-341. Bank's Rights and Duties with Respect to Deposit Account
 
-* Section 9--341. Bank's Rights and Duties with Respect to Deposit
+Section 9--341. Bank's Rights and Duties with Respect to Deposit
                   Account.
   Except as otherwise provided in Section 9--340 (c), and unless the
-bank otherwise agrees in an authenticated record, a bank's rights and
-duties with respect to a deposit account maintained with the bank are
-not terminated, suspended, or modified by:
-       (a) the creation, attachment, or perfection of a security
-           interest in the deposit account;
-       (b) the bank's knowledge of the security interest; or
-       (c) the bank's receipt of instructions from the secured party.
-         * NB Effective until June 3, 2026
-* Section 9--341. Bank's Rights and Duties with Respect to Deposit
-                  Account.
-Except as otherwise provided in Section 9--340 (c), and unless the bank
-otherwise agrees in a signed record, a bank's rights and duties with
-respect to a deposit account maintained with the bank are not
+bank otherwise agrees in a signed record, a bank's rights and duties
+with respect to a deposit account maintained with the bank are not
 terminated, suspended, or modified by:
        (a) the creation, attachment, or perfection of a security
            interest in the deposit account;
        (b) the bank's knowledge of the security interest; or
        (c) the bank's receipt of instructions from the secured party.
-  * NB Effective June 3, 2026
 
 ## § 9-342. Bank's Right to Refuse to Enter into or Disclose Existence of Control Agreement
 
@@ -4000,16 +3290,10 @@ not to assert defenses or claims, and subject to subsections (b) through
        (1) all terms of the agreement between the account debtor and
            assignor and any defense or claim in recoupment arising from
            the transaction that gave rise to the contract; and
-       * (2) any other defense or claim of the account debtor against
-           the assignor which accrues before the account debtor receives
-           a notification of the assignment authenticated by the
-           assignor or the assignee.
-         * NB Effective until June 3, 2026
-       * (2) any other defense or claim of the account debtor against
-           the assignor which accrues before the account debtor receives
-           a notification of the assignment signed by the assignor or
-           the assignee.
-         * NB Effective June 3, 2026
+       (2) any other defense or claim of the account debtor against the
+           assignor which accrues before the account debtor receives a
+           notification of the assignment signed by the assignor or the
+           assignee.
   (b) Account debtor's claim reduces amount owed to assignee. Subject to
 subsection (c) and except as otherwise provided in subsection (d), the
 claim of an account debtor against an assignor may be asserted against
@@ -4056,84 +3340,11 @@ does not apply to an assignment of a health-care-insurance receivable.
 
 ## § 9-406. Discharge of Account Debtor; Notification of Assignment; Identification and Proof of Assignment; Restrictions on Assignment of Accounts, ...
 
-*Section 9--406. Discharge of Account Debtor; Notification of
-                  Assignment; Identification and Proof of Assignment;
-                  Restrictions on Assignment of Accounts, Chattel Paper,
-                  Payment Intangibles, and Promissory Notes Ineffective.
+Section 9--406. Discharge of Account Debtor; Notification of Assignment;
+                  Identification and Proof of Assignment; Restrictions
+                  on Assignment of Accounts, Chattel Paper, Payment
+                  Intangibles, and Promissory Notes Ineffective.
   (a) Discharge of account debtor; effect of notification. Subject to
-subsections (b) through (h), an account debtor on an account, chattel
-paper, or a payment intangible may discharge its obligation by paying
-the assignor until, but not after, the account debtor receives a
-notification, authenticated by the assignor or the assignee, that the
-amount due or to become due has been assigned and that payment is to be
-made to the assignee. After receipt of the notification, the account
-debtor may discharge its obligation by paying the assignee and may not
-discharge the obligation by paying the assignor.
-  (b) When notification ineffective. Subject to subsection (g),
-notification is ineffective under subsection (a):
-       (1) if it does not reasonably identify the rights assigned;
-       (2) to the extent that an agreement between an account debtor and
-           a seller of a payment intangible limits the account debtor's
-           duty to pay a person other than the seller and the limitation
-           is effective under law other than this article; or
-       (3) at the option of an account debtor, if the notification
-           notifies the account debtor to make less than the full amount
-           of any installment or other periodic payment to the assignee,
-           even if:
-           (A) only a portion of the account, chattel paper, or payment
-               intangible has been assigned to that assignee;
-           (B) a portion has been assigned to another assignee; or
-           (C) the account debtor knows that the assignment to that
-               assignee is limited.
-  (c) Proof of assignment. Subject to subsection (g), if requested by
-the account debtor, an assignee shall seasonably furnish reasonable
-proof that the assignment has been made. Unless the assignee complies,
-the account debtor may discharge its obligation by paying the assignor,
-even if the account debtor has received a notification under subsection
-(a).
-  (d) Term restricting assignment generally ineffective. Except as
-otherwise provided in subsection (e) and Sections 2-A-303 and 9--407,
-and subject to subsection (g), a term in an agreement between an account
-debtor and an assignor or in a promissory note is ineffective to the
-extent that it:
-       (1) prohibits, restricts, or requires the consent of the account
-           debtor or person obligated on the promissory note to the
-           assignment or transfer of, or the creation, attachment,
-           perfection, or enforcement of a security interest in, the
-           account, chattel paper, payment intangible, or promissory
-           note; or
-       (2) provides that the assignment or transfer or the creation,
-           attachment, perfection, or enforcement of the security
-           interest may give rise to a default, breach, right of
-           recoupment, claim, defense, termination, right of
-           termination, or remedy under the account, chattel paper,
-           payment intangible, or promissory note.
-  (e) Inapplicability of subsection (d) to certain sales. Subsection (d)
-does not apply to the sale of a payment intangible or promissory note.
-  (f) Subsection (b)(3) not waivable. Subject to subsection (g), an
-account debtor may not waive or vary its option under subsection (b)(3).
-  (g) Rule for individual under other law. This section is subject to a
-rule of law, statute, rule or regulation other than this article which
-establishes a different rule for an account debtor who is an individual
-and who incurred the obligation primarily for personal, family, or
-household purposes.
-  (h) Inapplicability. This section does not apply to:
-       (1) an assignment of a health care insurance receivable to the
-           extent such assignment conflicts with other law or the
-           parties have otherwise agreed in writing that such receivable
-           is non-assignable,
-       (2) a claim or right to receive compensation for injuries or
-           sickness as described in 26 U.S.C. § 104(a)(1) and (2), as
-           amended from time to time, or
-       (3) a claim or right to receive benefits under a special needs
-           trust as described in 42 U.S.C. § 1396p (d)(4), as amended
-           from time to time.
-         * NB Effective until June 3, 2026
-* Section 9--406. Discharge of Account Debtor; Notification of
-                  Assignment; Identification and Proof of Assignment;
-                  Restrictions on Assignment of Accounts, Chattel Paper,
-                  Payment Intangibles, and Promissory Notes Ineffective.
-(a) Discharge of account debtor; effect of notification. Subject to
 subsections (b) through (i), an account debtor on an account, chattel
 paper, or a payment intangible may discharge its obligation by paying
 the assignor until, but not after, the account debtor receives a
@@ -4142,7 +3353,7 @@ due or to become due has been assigned and that payment is to be made to
 the assignee. After receipt of the notification, the account debtor may
 discharge its obligation by paying the assignee and may not discharge
 the obligation by paying the assignor.
-(b) When notification ineffective. Subject to subsections (g) and (i),
+  (b) When notification ineffective. Subject to subsections (g) and (i),
 notification is ineffective under subsection (a):
        (1) if it does not reasonably identify the rights assigned;
        (2) to the extent that an agreement between an account debtor and
@@ -4158,13 +3369,13 @@ notification is ineffective under subsection (a):
            (B) a portion has been assigned to another assignee; or
            (C) the account debtor knows that the assignment to that
                assignee is limited.
-(c) Proof of assignment. Subject to subsections (g) and (i), if
+  (c) Proof of assignment. Subject to subsections (g) and (i), if
 requested by the account debtor, an assignee shall seasonably furnish
 reasonable proof that the assignment has been made. Unless the assignee
 complies, the account debtor may discharge its obligation by paying the
 assignor, even if the account debtor has received a notification under
 subsection (a).
-(d) Term restricting assignment generally ineffective. For purposes of
+  (d) Term restricting assignment generally ineffective. For purposes of
 this subsection, "promissory note" includes a negotiable instrument that
 evidences chattel paper. Except as otherwise provided in subsection (e)
 and Sections 2-A-303 and 9--407, and subject to subsection (g), a term
@@ -4182,12 +3393,12 @@ promissory note is ineffective to the extent that it:
            recoupment, claim, defense, termination, right of
            termination, or remedy under the account, chattel paper,
            payment intangible, or promissory note.
-(e) Inapplicability of subsection (d) to certain sales. Subsection (d)
+  (e) Inapplicability of subsection (d) to certain sales. Subsection (d)
 does not apply to the sale of a payment intangible or promissory note.
-(f) Subsection (b)(3) not waivable. Subject to subsections (g) and (i),
-an account debtor may not waive or vary its option under subsection
+  (f) Subsection (b)(3) not waivable. Subject to subsections (g) and
+(i), an account debtor may not waive or vary its option under subsection
 (b)(3).
-(g) Rule for individual under other law. This section is subject to a
+  (g) Rule for individual under other law. This section is subject to a
 rule of law, statute, rule or regulation other than this article which
 establishes a different rule for an account debtor who is an individual
 and who incurred the obligation primarily for personal, family, or
@@ -4203,10 +3414,9 @@ household purposes.
        (3) a claim or right to receive benefits under a special needs
            trust as described in 42 U.S.C. § 1396p (d)(4), as amended
            from time to time.
-(i) Inapplicability of certain subsections. Subsections (a), (b), (c)
+  (i) Inapplicability of certain subsections. Subsections (a), (b), (c)
 and (f) do not apply to a controllable account or controllable payment
 intangible.
-  * NB Effective June 3, 2026
 
 ## § 9-407. Restrictions on Creation or Enforcement of Security Interest in Leasehold Interest or in Lessor's Residual Interest
 
@@ -4306,9 +3516,8 @@ health-care-insurance receivable, or general intangible:
        (2) a claim or right to receive benefits under a special needs
            trust as described in 42 U.S.C. § 1396p (d)(4), as amended
            from time to time.
-         * (e) "Promissory note". In this section, "promissory note"
-       includes a negotiable instrument that evidences chattel paper.
-         * NB Effective June 3, 2026
+  (e) "Promissory note". In this section, "promissory note" includes a
+negotiable instrument that evidences chattel paper.
 
 ## § 9-409. Restrictions on Assignment of Letter-of-credit Rights Ineffective
 
@@ -4661,26 +3870,16 @@ Section 9--509. Persons Entitled to File a Record.
 financing statement, amendment that adds collateral covered by a
 financing statement, or amendment that adds a debtor to a financing
 statement only if:
-       * (1) the debtor authorizes the filing in an authenticated record
-           or pursuant to subsection (b) or (c); or
-         * NB Effective until June 3, 2026
-       * (1) the debtor authorizes the filing in a signed record or
+       (1) the debtor authorizes the filing in a signed record or
            pursuant to subsection (b) or (c); or a security agreement as
            authorization.
-         * NB Effective June 3, 2026
        (2) the person holds an agricultural lien that has become
            effective at the time of filing and the financing statement
            covers only collateral in which the person holds an
            agricultural lien.
-  (b) Security agreement as authorization. * By authenticating or
-becoming bound as debtor by a security agreement, a debtor or new debtor
-authorizes the filing of an initial financing statement, and an
-amendment, covering:
-  * NB Effective until June 3, 2026
-* By signing or becoming bound as debtor by a security agreement, a
-debtor or new debtor authorizes the filing of an initial financing
-statement, and an amendment, covering:
-  * NB Effective June 3, 2026
+  (b) Security agreement as authorization.  By signing or becoming bound
+as debtor by a security agreement, a debtor or new debtor authorizes the
+filing of an initial financing statement, and an amendment, covering:
        (1) the collateral described in the security agreement; and
        (2) property that becomes collateral under Section 9--315(a)(2),
            whether or not the security agreement expressly covers
@@ -4789,25 +3988,14 @@ termination statement:
            collateral covered by the financing statement and no
            commitment to make an advance, incur an obligation, or
            otherwise give value; or
-       * (2) if earlier, within 20 days after the secured party receives
-           an authenticated demand from a debtor.
-         * NB Effective until June 3, 2026
-       * (2) if earlier, within 20 days after the secured party receives
-           a signed demand from a debtor.
-         * NB Effective June 3, 2026
-  (c) Other collateral. * In cases not governed by subsection (a),
-within 20 days after a secured party receives an authenticated demand
-from a debtor, the secured party shall cause the secured party of record
-for a financing statement to send to the debtor a termination statement
-for the financing statement or file the termination statement in the
-filing office if:
-  * NB Effective until June 3, 2026
-* In cases not governed by subsection (a), within 20 days after a
-secured party receives a signed demand from a debtor, the secured party
-shall cause the secured party of record for a financing statement to
-send to the debtor a termination statement for the financing statement
-or file the termination statement in the filing office if:
-  * NB Effective June 3, 2026
+       (2) if earlier, within 20 days after the secured party receives a
+           signed demand from a debtor.
+  (c) Other collateral.  In cases not governed by subsection (a), within
+20 days after a secured party receives a signed demand from a debtor,
+the secured party shall cause the secured party of record for a
+financing statement to send to the debtor a termination statement for
+the financing statement or file the termination statement in the filing
+office if:
        (1) except in the case of a financing statement covering accounts
            or chattel paper that has been sold or goods that are the
            subject of a consignment, there is no obligation secured by
@@ -5399,16 +4587,10 @@ A secured party:
            any available judicial procedure; and
        (2) if the collateral is documents, may proceed either as to the
            documents or as to the goods they cover.
-  * (b) Rights and duties of secured party in possession or control. A
-secured party in possession of collateral or control of collateral under
-Section 7--106, 9--104, 9--105, 9--106, or 9--107 has the rights and
-duties provided in Section 9--207.
-  * NB Effective until June 3, 2026
-* (b) Rights and duties of secured party in possession or control. A
+  (b) Rights and duties of secured party in possession or control. A
 secured party in possession of collateral or control of collateral under
 Section 7--106, 9--104, 9--105, 9--105A, 9--106, 9--107, or 9--107A has
 the rights and duties provided in Section 9--207.
-  * NB Effective June 3, 2026
   (c) Rights cumulative; simultaneous exercise. The rights under
 subsections (a) and (b) are cumulative and may be exercised
 simultaneously.
@@ -5518,46 +4700,30 @@ cooperative interest may be enforced only as provided in Section
 
 ## § 9-605. Unknown Debtor or Secondary Obligor
 
-* Section 9--605. Unknown Debtor or Secondary Obligor.
-  A secured party does not owe a duty based on its status as secured
-party:
-  (a) to a person that is a debtor or obligor, unless the secured party
-knows:
-       (1) that the person is a debtor or obligor;
-       (2) the identity of the person; and
-       (3) how to communicate with the person; or
-  (b) to a secured party or lienholder that has filed a financing
-statement against a person, unless the secured party knows:
-       (1) that the person is a debtor; and
-       (2) the identity of the person.
-         * NB Effective until June 3, 2026
-* Section 9--605. Unknown Debtor or Secondary Obligor.
-(a) In general: No duty owed by secured party. Except as provided in
+Section 9--605. Unknown Debtor or Secondary Obligor.
+  (a) In general: No duty owed by secured party. Except as provided in
 subsection (b), a secured party does not owe a duty based on its status
 as secured party:
-(1) to a person that is a debtor or obligor, unless the secured party
+  (1) to a person that is a debtor or obligor, unless the secured party
 knows:
        (A) that the person is a debtor or obligor;
        (B) the identity of the person; and
        (C)  how to communicate with the person; or
-(2) to a secured party or lienholder that has filed a financing
+  (2) to a secured party or lienholder that has filed a financing
 statement against a person, unless the secured party knows:
        (A) that the person is a debtor; and
        (B) the identity of the person.
-         (b) Exception: Secured party owes duty to debtor or obligor. A
-       secured party owes a duty based on its status as a secured party
-       to a person if, at the time the secured party obtains control of
-       collateral that is a controllable account, controllable
-       electronic record, or controllable payment intangible or at the
-       time the security interest attaches to the collateral, whichever
-       is later:
-         (1) the person is a debtor or obligor; and
-         (2) the secured party knows that the information in subsection
-       (a)(1)(A), (B), or (C) relating to the person is not provided by
-       the collateral, a record attached to or logically associated with
-       the collateral, or the system in which the collateral is
-       recorded.
-         * NB Effective June 3, 2026
+  (b) Exception: Secured party owes duty to debtor or obligor. A secured
+party owes a duty based on its status as a secured party to a person if,
+at the time the secured party obtains control of collateral that is a
+controllable account, controllable electronic record, or controllable
+payment intangible or at the time the security interest attaches to the
+collateral, whichever is later:
+  (1) the person is a debtor or obligor; and
+  (2) the secured party knows that the information in subsection
+(a)(1)(A), (B), or (C) relating to the person is not provided by the
+collateral, a record attached to or logically associated with the
+collateral, or the system in which the collateral is recorded.
 
 ## § 9-606. Time of Default for Agricultural Lien
 
@@ -5638,22 +4804,13 @@ performance of an obligation, the following rules apply:
            (B) the satisfaction of obligations secured by the security
                interest or agricultural lien under which the collection
                or enforcement is made; and
-           * (C) the satisfaction of obligations secured by any
-               subordinate security interest in or other lien on the
-               collateral subject to the security interest or
-               agricultural lien under which the collection or
-               enforcement is made if the secured party receives an
-               authenticated demand for proceeds before distribution of
-               the proceeds is completed.
-             * NB Effective until June 3, 2026
-           * (C) the satisfaction of obligations secured by any
+           (C) the satisfaction of obligations secured by any
                subordinate security interest in or other lien on the
                collateral subject to the security interest or
                agricultural lien under which the collection or
                enforcement is made if the secured party receives a
                signed demand for proceeds before distribution of the
                proceeds is completed.
-             * NB Effective June 3, 2026
        (2) If requested by a secured party, a holder of a subordinate
            security interest or other lien shall furnish reasonable
            proof of the interest or lien within a reasonable time.
@@ -5730,55 +4887,17 @@ this disposition" or uses words of similar import.
 ## § 9-611. Notification Before Disposition of Collateral
 
 Section 9--611. Notification Before Disposition of Collateral.
-  * (a) "Notification date." In this section, "notification date" means
-the earlier of the date on which:
-       (1) a secured party sends to the debtor and any secondary obligor
-           an authenticated notification of disposition; or
-       (2) the debtor and any secondary obligor waive the right to
-           notification.
-         * NB Effective until June 3, 2026
-* (a) "Notification date." In this section, "notification date" means
+  (a) "Notification date." In this section, "notification date" means
 the earlier of the date on which:
        (1) a secured party sends to the debtor and any secondary obligor
            a signed notification of disposition; or
        (2) the debtor and any secondary obligor waive the right to
            notification.
-         * NB Effective June 3, 2026
-  * (b) Notification of disposition required. Except as otherwise
-provided in subsection (d), a secured party that disposes of collateral
-under Section 9--610 shall send to the persons specified in subsection
-(c) a reasonable authenticated notification of disposition.
-  * NB Effective until June 3, 2026
-* (b) Notification of disposition required. Except as otherwise provided
+  (b) Notification of disposition required. Except as otherwise provided
 in subsection (d), a secured party that disposes of collateral under
 Section 9--610 shall send to the persons specified in subsection (c) a
 reasonable signed notification of disposition.
-  * NB Effective June 3, 2026
-  * (c) Persons to be notified. To comply with subsection (b), the
-secured party shall send an authenticated notification of disposition
-to:
-       (1) the debtor;
-       (2) any secondary obligor; and
-       (3) if the collateral is other than consumer goods:
-           (A) any other person from which the secured party has
-               received, before the notification date, an authenticated
-               notification of a claim of an interest in the collateral;
-           (B) any other secured party or lienholder that, 10 days
-               before the notification date, held a security interest in
-               or other lien on the collateral perfected by the filing
-               of a financing statement that:
-               (i) identified the collateral;
-               (ii) was indexed under the debtor's name as of that date;
-                    and
-               (iii) was filed in the office in which to file a
-                     financing statement against the debtor covering the
-                     collateral as of that date; and
-           (C) any other secured party that, 10 days before the
-               notification date, held a security interest in the
-               collateral perfected by compliance with a statute,
-               regulation, or treaty described in Section 9--311(a).
-             * NB Effective until June 3, 2026
-* (c) Persons to be notified. To comply with subsection (b), the secured
+  (c) Persons to be notified. To comply with subsection (b), the secured
 party shall send a signed notification of disposition to:
        (1) the debtor;
        (2) any secondary obligor; and
@@ -5800,28 +4919,11 @@ party shall send a signed notification of disposition to:
                notification date, held a security interest in the
                collateral perfected by compliance with a statute,
                regulation, or treaty described in Section 9--311(a).
-             * NB Effective June 3, 2026
   (d) Subsection (b) inapplicable: perishable collateral; recognized
 market. Subsection (b) does not apply if the collateral is perishable or
 threatens to decline speedily in value or is of a type customarily sold
 on a recognized market.
-  * (e) Compliance with subsection (c) (3) (B). A secured party complies
-with the requirement for notification prescribed by subsection (c)
-(3) (B) if:
-       (1) not later than twenty days or earlier than thirty days before
-           the notification date, the secured party requests, in a
-           commercially reasonable manner, information concerning
-           financing statements indexed under the debtor's name in the
-           office indicated in subsection (c) (3) (B); and
-       (2) before the notification date, the secured party:
-           (A) did not receive a response to the request for
-               information; or
-           (B) received a response to the request for information and
-               sent an authenticated notification of disposition to each
-               secured party or other lienholder named in that response
-               whose financing statement covered the collateral.
-  * NB Effective until June 3, 2026
-* (e) Compliance with subsection (c) (3) (B). A secured party complies
+  (e) Compliance with subsection (c) (3) (B). A secured party complies
 with the requirement for notification prescribed by subsection (c)
 (3) (B) if:
        (1) not later than twenty days or earlier than thirty days before
@@ -5836,159 +4938,139 @@ with the requirement for notification prescribed by subsection (c)
                sent a signed notification of disposition to each secured
                party or other lienholder named in that response whose
                financing statement covered the collateral.
-             * NB Effective June 3, 2026
-             (f) Additional pre-disposition notice for cooperative
-           interests.
-             (1) In addition to such other notification as may be
-           required pursuant to subsection (b) of this section and
-           section 9-613 of this article, a secured party whose
-           collateral consists of a residential cooperative interest
-           used by the debtor and whose security interest in such
-           collateral secures an obligation incurred in connection with
-           financing or refinancing of the acquisition of such
-           cooperative interest and who proposes to dispose of such
-           collateral after a default with respect to such obligation,
-           shall send to the debtor, not less than ninety days prior to
-           the date of the disposition of the cooperative interest, an
-           additional pre-disposition notice as provided herein.
-             (1-a) Notwithstanding any other provision of law, with
-           regard to a reverse cooperative apartment unit loan, at least
-           forty-five days before a secured party, as defined under
-           Section 9-102(a)(73), or its agent takes any steps to dispose
-           of its collateral, as provided for in Section 9-610, the
-           secured party or its agent shall give notice to the borrower,
-           and separate notice to the borrower's designated third-party
-           if one has been designated in at least fourteen-point type
-           except for the heading which shall be in at least
-           sixteen-point type. The notice shall include the following:
-                 YOU COULD LOSE YOUR COOPERATIVE APARTMENT UNIT TO
-                                FORECLOSURE. PLEASE
-                        READ THE FOLLOWING NOTICE CAREFULLY.
-           Date
-           Borrower's address
-           Loan Number:
-           Property Address:
-           Dear Borrower(s) {or heirs of Debtor?}:
-           As of ___________, your reverse cooperative apartment unit
-           loan is in default. Under New York State Law, we are required
-           to send you this notice to inform you that you may be at risk
-           of losing your home.
-           Your reverse loan is in default because you have not complied
-           with the following conditions of your loan:
-           _____ You are not occupying your cooperative apartment unit
-           as your primary residence
-           _____ You did not submit the required annual certificate of
-           occupancy
-           _____ The named borrower on the reverse loan has died
-           _____ You did not pay maintenance on your unit to the
-           cooperative corporation, and {servicer} paid your maintenance
-           for you on the following date(s) in the following
-           amount(s):________________________________
-           ____________________________________
-           _____ You did not make required repairs to your unit
-           If the claim is based on your failure to pay maintenance to
-           the cooperative corporation, you can cure this default by
-           making the payment of $____________ for the advances we made
-           towards these payments on your behalf.
-           You have the right to dispute the claims listed above by
-           contacting us, by calling ___________ or sending a letter to
-           __________________. This may include proof of payments made
-           for water and sewer charges or a current declaration page
-           from your insurance company, or any other proof to dispute
-           the servicer's claim.
-           OPTIONS MAY BE AVAILABLE FOR YOU TO CURE YOUR DEFAULT. SOME
-           OF THESE OPTIONS ARE LISTED BELOW. YOU MAY CONTACT {SERVICER}
-           AT {TOLL-FREE NUMBER} TO DISCUSS YOUR OPTIONS.
-           If you are in default for failure to pay maintenance, you may
-           qualify for a re-payment plan to cure the default balance
-           owed.
-           Attached to this notice is a list of New York approved
-           housing counseling agencies and legal services in your area
-           which provide free counseling. A statewide listing by county
-           is also available at https://www.dfs.ny.gov/consumers/
-           help_for_homeowners/new_york_state_non-
-           profit_housing_counseling_agencies. You may also call your
-           local Department of Aging for a referral or call 311 if you
-           live in New York City.
-           Qualified free help is available; watch out for companies or
-           people who charge a fee for these services.
-           You may also contact {SERVICER} directly at __________ and
-           ask to discuss all possible options to allow you to cure your
-           default and prevent the foreclosure of your home. While we
-           cannot ensure that a resolution is possible, we encourage you
-           to take immediate steps to try to achieve a resolution. The
-           longer you wait, the fewer options you may have.
-           If you have not taken any actions to resolve this matter
-           within ninety days from the date this notice was mailed, we
-           will have the right to take your cooperative shares from you.
-           If you need further information, please call the New York
-           State Department of Financial Services' toll-free helpline at
-           877-226-5697 or visit the Department's website at
-           http://www.dfs.ny.gov.
-           IMPORTANT: You have the right to remain in your unit until
-           you receive a court order telling you to leave the property.
-           If a foreclosure action is filed against you in court, you
-           still have the right to remain in the unit until a court
-           orders you to leave. You legally remain the owner of your
-           cooperative shares and are responsible for the unit until the
-           shares are transferred to a new owner through a sale.
-           However, there will be no court proceeding before the shares
-           are transferred to a new owner. After the shares are
-           transferred, the new owner may begin a court proceeding to
-           evict you from the unit.
-           This notice is not an eviction notice.
-             (2) The notice required by this subsection shall be in
-           bold, fourteen-point type and shall be printed on colored
-           paper that is other than the color of the notice required by
-           subsection (b) of this section, and the title of the notice
-           shall be in bold, twenty-point type. The notice shall be on
-           its own page.
-             (3) The notice required by this subsection shall appear as
-           follows:
-                     Help for Homeowners at Risk of Foreclosure
-           New York State Law requires that we send you this information
-           about the foreclosure process. Please read it carefully.
-           Notice
-             You are in danger of losing your home. You are in default
-           of your obligations under the loan secured by your rights to
-           your cooperative apartment. It is important that you take
-           action, if you wish to avoid losing your home.
-           Sources of Information and Assistance
-             The State encourages you to become informed about your
-           options, by seeking assistance from an attorney, a legal aid
-           office, or a government agency or non-profit organization
-           that provides counseling with respect to home foreclosures.
-             To locate a housing counselor near you, you may call the
-           toll-free helpline maintained by the New York State
-           Department of Financial Services at                    (enter
-           number) or visit the Department's website at
-           (enter web address).
-           One of these persons or organizations may be able to help
-           you, including trying to work with your lender to modify the
-           loan to make it more affordable.
-           Foreclosure rescue scams
-             Be careful of people who approach you with offers to "save"
-           your home.  There are individuals who watch for notices of
-           foreclosure actions or collateral sales in order to unfairly
-           profit from a homeowner's distress. You should be extremely
-           careful about any such promises and any suggestions that you
-           pay them a fee or sign any papers that transfer rights of any
-           kind to your cooperative apartment. State law requires anyone
-           offering such services for profit to enter into a contract
-           which fully describes the services they will perform and fees
-           they will charge, and which prohibits them from taking any
-           money from you until they have completed all such promised
-           services.
-             (4) The department of financial services shall prescribe
-           the telephone number and web address to be included in the
-           notice.
-             (5) The department of financial services shall post on its
-           website or otherwise make readily available the name and
-           contact information of government agencies or non-profit
-           organizations that may be contacted for information about the
-           foreclosure process, including maintaining a toll-free
-           helpline to disseminate the information required by this
-           subsection.
+  (f) Additional pre-disposition notice for cooperative interests.
+  (1) In addition to such other notification as may be required pursuant
+to subsection (b) of this section and section 9-613 of this article, a
+secured party whose collateral consists of a residential cooperative
+interest used by the debtor and whose security interest in such
+collateral secures an obligation incurred in connection with financing
+or refinancing of the acquisition of such cooperative interest and who
+proposes to dispose of such collateral after a default with respect to
+such obligation, shall send to the debtor, not less than ninety days
+prior to the date of the disposition of the cooperative interest, an
+additional pre-disposition notice as provided herein.
+  (1-a) Notwithstanding any other provision of law, with regard to a
+reverse cooperative apartment unit loan, at least forty-five days before
+a secured party, as defined under Section 9-102(a)(73), or its agent
+takes any steps to dispose of its collateral, as provided for in Section
+9-610, the secured party or its agent shall give notice to the borrower,
+and separate notice to the borrower's designated third-party if one has
+been designated in at least fourteen-point type except for the heading
+which shall be in at least sixteen-point type. The notice shall include
+the following:
+  YOU COULD LOSE YOUR COOPERATIVE APARTMENT UNIT TO FORECLOSURE. PLEASE
+                  READ THE FOLLOWING NOTICE CAREFULLY.
+Date
+Borrower's address
+Loan Number:
+Property Address:
+Dear Borrower(s) {or heirs of Debtor?}:
+As of ___________, your reverse cooperative apartment unit loan is in
+default. Under New York State Law, we are required to send you this
+notice to inform you that you may be at risk of losing your home.
+Your reverse loan is in default because you have not complied with the
+following conditions of your loan:
+_____ You are not occupying your cooperative apartment unit as your
+primary residence
+_____ You did not submit the required annual certificate of occupancy
+_____ The named borrower on the reverse loan has died
+_____ You did not pay maintenance on your unit to the cooperative
+corporation, and {servicer} paid your maintenance for you on the
+following date(s) in the following
+amount(s):________________________________
+____________________________________
+_____ You did not make required repairs to your unit
+If the claim is based on your failure to pay maintenance to the
+cooperative corporation, you can cure this default by making the payment
+of $____________ for the advances we made towards these payments on your
+behalf.
+You have the right to dispute the claims listed above by contacting us,
+by calling ___________ or sending a letter to __________________. This
+may include proof of payments made for water and sewer charges or a
+current declaration page from your insurance company, or any other proof
+to dispute the servicer's claim.
+OPTIONS MAY BE AVAILABLE FOR YOU TO CURE YOUR DEFAULT. SOME OF THESE
+OPTIONS ARE LISTED BELOW. YOU MAY CONTACT {SERVICER} AT {TOLL-FREE
+NUMBER} TO DISCUSS YOUR OPTIONS.
+If you are in default for failure to pay maintenance, you may qualify
+for a re-payment plan to cure the default balance owed.
+Attached to this notice is a list of New York approved housing
+counseling agencies and legal services in your area which provide free
+counseling. A statewide listing by county is also available at
+https://www.dfs.ny.gov/consumers/
+help_for_homeowners/new_york_state_non-
+profit_housing_counseling_agencies. You may also call your local
+Department of Aging for a referral or call 311 if you live in New York
+City.
+Qualified free help is available; watch out for companies or people who
+charge a fee for these services.
+You may also contact {SERVICER} directly at __________ and ask to
+discuss all possible options to allow you to cure your default and
+prevent the foreclosure of your home. While we cannot ensure that a
+resolution is possible, we encourage you to take immediate steps to try
+to achieve a resolution. The longer you wait, the fewer options you may
+have.
+If you have not taken any actions to resolve this matter within ninety
+days from the date this notice was mailed, we will have the right to
+take your cooperative shares from you.
+If you need further information, please call the New York State
+Department of Financial Services' toll-free helpline at 877-226-5697 or
+visit the Department's website at http://www.dfs.ny.gov.
+IMPORTANT: You have the right to remain in your unit until you receive a
+court order telling you to leave the property. If a foreclosure action
+is filed against you in court, you still have the right to remain in the
+unit until a court orders you to leave. You legally remain the owner of
+your cooperative shares and are responsible for the unit until the
+shares are transferred to a new owner through a sale. However, there
+will be no court proceeding before the shares are transferred to a new
+owner. After the shares are transferred, the new owner may begin a court
+proceeding to evict you from the unit.
+This notice is not an eviction notice.
+  (2) The notice required by this subsection shall be in bold,
+fourteen-point type and shall be printed on colored paper that is other
+than the color of the notice required by subsection (b) of this section,
+and the title of the notice shall be in bold, twenty-point type. The
+notice shall be on its own page.
+  (3) The notice required by this subsection shall appear as follows:
+               Help for Homeowners at Risk of Foreclosure
+New York State Law requires that we send you this information about the
+foreclosure process. Please read it carefully.
+Notice
+  You are in danger of losing your home. You are in default of your
+obligations under the loan secured by your rights to your cooperative
+apartment. It is important that you take action, if you wish to avoid
+losing your home.
+Sources of Information and Assistance
+  The State encourages you to become informed about your options, by
+seeking assistance from an attorney, a legal aid office, or a government
+agency or non-profit organization that provides counseling with respect
+to home foreclosures.
+  To locate a housing counselor near you, you may call the toll-free
+helpline maintained by the New York State Department of Financial
+Services at                    (enter number) or visit the Department's
+website at                (enter web address).
+One of these persons or organizations may be able to help you, including
+trying to work with your lender to modify the loan to make it more
+affordable.
+Foreclosure rescue scams
+  Be careful of people who approach you with offers to "save" your home.
+There are individuals who watch for notices of foreclosure actions or
+collateral sales in order to unfairly profit from a homeowner's
+distress. You should be extremely careful about any such promises and
+any suggestions that you pay them a fee or sign any papers that transfer
+rights of any kind to your cooperative apartment. State law requires
+anyone offering such services for profit to enter into a contract which
+fully describes the services they will perform and fees they will
+charge, and which prohibits them from taking any money from you until
+they have completed all such promised services.
+  (4) The department of financial services shall prescribe the telephone
+number and web address to be included in the notice.
+  (5) The department of financial services shall post on its website or
+otherwise make readily available the name and contact information of
+government agencies or non-profit organizations that may be contacted
+for information about the foreclosure process, including maintaining a
+toll-free helpline to disseminate the information required by this
+subsection.
 
 ## § 9-612. Timeliness of Notification Before Disposition of Collateral
 
@@ -6005,75 +5087,31 @@ reasonable time before the disposition.
 
 ## § 9-613. Contents and Form of Notification Before Disposition of Collateral: General
 
-* Section 9--613. Contents and Form of Notification Before Disposition
-                  of Collateral: General.
-  Except in a consumer-goods transaction, the following rules apply:
-  (a) The contents of a notification of disposition are sufficient if
-the notification:
-       (1) describes the debtor and the secured party;
-       (2) describes the collateral that is the subject of the intended
-           disposition;
-       (3) states the method of intended disposition;
-       (4) states that the debtor is entitled to an accounting of the
-           unpaid indebtedness and states the charge, if any, for an
-           accounting; and
-       (5) states the time and place of a public disposition or the time
-           after which any other disposition is to be made.
-  (b) Whether the contents of a notification that lacks any of the
-information specified in subsection (a) are nevertheless sufficient is a
-question of fact.
-  (c) The contents of a notification providing substantially the
-information specified in subsection (a) are sufficient, even if the
-notification includes:
-       (1) information not specified by subsection (a); or
-       (2) minor errors that are not seriously misleading.
-  (d) A particular phrasing of the notification is not required.
-  (e) The following form of notification and the form appearing in
-Section 9--614(c), when completed, each provides sufficient information:
-                NOTIFICATION OF DISPOSITION OF COLLATERAL
-  To:  (Name of debtor, obligor, or other person to which the
-notification is sent)
-  From:  (Name, address, and telephone number of secured party)
-  Name of Debtor(s):  (Include only if debtor(s) are not an addressee)
-(For a public disposition:)
-  We will sell (or lease or license, as applicable) the (describe
-collateral) (to the highest qualified bidder) in public as follows:
-  Day and Date:  ____________________
-  Time:          ____________________
-  Place:         ____________________
-  (For a private disposition:)
-  We will sell (or lease or license, as applicable) the (describe
-collateral) privately sometime after (day and date).
-  You are entitled to an accounting of the unpaid indebtedness secured
-by the property that we intend to sell (or lease or license, as
-applicable) (for a charge of $  ). You may request an accounting by
-calling us at (telephone number).
-  * NB Effective until June 3, 2026
-* Section 9--613. Contents and Form of Notification Before Disposition
-                  of Collateral: General.
+Section 9--613. Contents and Form of Notification Before Disposition of
+                  Collateral: General.
   (a) Contents and form of notification. Except in a consumer-goods
 transaction, the following rules apply:
-  (1)  The contents of a notification of disposition are sufficient if
+  (1) The contents of a notification of disposition are sufficient if
 the notification:
-       (A)  describes the debtor and the secured party;
-       (B)  describes the collateral that is the subject of the intended
+       (A) describes the debtor and the secured party;
+       (B) describes the collateral that is the subject of the intended
            disposition;
-       (C)  states the method of intended disposition;
-       (D)  states that the debtor is entitled to an accounting of the
+       (C) states the method of intended disposition;
+       (D) states that the debtor is entitled to an accounting of the
            unpaid indebtedness and states the charge, if any, for an
            accounting; and
-       (E)  states the time and place of a public disposition or the
-           time after which any other disposition is to be made.
-(2)  Whether the contents of a notification that lacks any of the
+       (E) states the time and place of a public disposition or the time
+           after which any other disposition is to be made.
+  (2) Whether the contents of a notification that lacks any of the
 information specified in subsection (a) are nevertheless sufficient is a
 question of fact.
-  (3)  The contents of a notification providing substantially the
+  (3) The contents of a notification providing substantially the
 information specified in subsection (a) are sufficient, even if the
 notification includes:
-       (A)  information not specified by subsection (a); or
-       (B)  minor errors that are not seriously misleading.
-(4)  A particular phrasing of the notification is not required.
-  (5)  The following form of notification and the form appearing in
+       (A) information not specified by subsection (a); or
+       (B) minor errors that are not seriously misleading.
+  (4) A particular phrasing of the notification is not required.
+  (5) The following form of notification and the form appearing in
 Section 9--614(a)(3), when completed in accordance with the instructions
 in subsection (b) and Section 9--614(b), each provides sufficient
 information:
@@ -6113,77 +5151,13 @@ only if applicable.
   (4) Include and complete items {4} and {6}.
   (5) Include and complete item {5} only if the sender will charge the
 recipient for an accounting.
-  * NB Effective June 3, 2026
 
 ## § 9-614. Contents and Form of Notification Before Disposition of Collateral: Consumer-goods Transaction
 
-* Section 9--614. Contents and Form of Notification Before Disposition
-                  of Collateral: Consumer-goods Transaction.
-  In a consumer-goods transaction, the following rules apply:
-  (a) A notification of disposition must provide the following
-information:
-       (1) the information specified in Section 9--613(a);
-       (2) a description of any liability for a deficiency of the person
-           to which the notification is sent;
-       (3) a telephone number from which the amount that must be paid to
-           the secured party to redeem the collateral under Section
-           9--623 is available; and
-       (4) a telephone number or mailing address from which additional
-           information concerning the disposition and the obligation
-           secured is available.
-  (b) A particular phrasing of the notification is not required.
-  (c) The following form of notification, when completed, provides
-sufficient information:
-  (Name and address of secured party)
-  (Date)
-                   NOTICE OF OUR PLAN TO SELL PROPERTY
-  (Name and address of any obligor who is also a debtor)
-Subject: (Identification of Transaction)
-We have your (describe collateral), because you broke promises in our
-agreement.
-(For a public disposition:)
-We will sell (describe collateral) at public sale. A sale could include
-a lease or license. The sale will be held as follows:
-  Date:          ____________________
-  Time:          ____________________
-  Place:         ____________________
-You may attend the sale and bring bidders if you want.
-(For a private disposition:)
-  We will sell (describe collateral) at private sale sometime after
-(date). A sale could include a lease or license.
-The money that we get from the sale (after paying our costs) will reduce
-the amount you owe. If we get less money than you owe, you (will or will
-not, as applicable) still owe us the difference. If we get more money
-than you owe, you will get the extra money, unless we must pay it to
-someone else.
-You can get the property back at any time before we sell it by paying us
-the full amount you owe (not just the past due payments), including our
-expenses. To learn the exact amount you must pay, call us at (telephone
-number).
-If you want us to explain to you in writing how we have figured the
-amount that you owe us, you may call us at (telephone number) (or write
-us at (secured party's address)) and request a written explanation. (We
-will charge you $   for the explanation if we sent you another written
-explanation of the amount you owe us within the last six months.)
-If you need more information about the sale call us at (telephone
-number) (or write us at (secured party's address) ).
-We are sending this notice to the following other people who have an
-interest in (describe collateral) or who owe money under your agreement:
-  (Names of all other debtors and obligors, if any)
-  (d) A notification in the form of subsection (c) is sufficient, even
-if additional information appears at the end of the form.
-  (e) A notification in the form of subsection (c) is sufficient, even
-if it includes errors in information not required by subsection (a),
-unless the error is misleading with respect to rights arising under this
-article.
-  (f) If a notification under this section is not in the form of
-subsection (c), law other than this article determines the effect of
-including information not required by subsection (a).
-  * NB Effective until June 3, 2026
-* Section 9--614. Contents and Form of Notification Before Disposition
-                  of Collateral: Consumer-goods Transaction.
-(a) Contents and form of notification. In a consumer-goods transaction,
-the following rules apply:
+Section 9--614. Contents and Form of Notification Before Disposition of
+                  Collateral: Consumer-goods Transaction.
+  (a) Contents and form of notification. In a consumer-goods
+transaction, the following rules apply:
   (1) A notification of disposition must provide the following
 information:
        (A) the information specified in Section 9--613(a);
@@ -6195,7 +5169,7 @@ information:
        (D) a telephone number or mailing address from which additional
            information concerning the disposition and the obligation
            secured is available.
-(2) A particular phrasing of the notification is not required.
+  (2) A particular phrasing of the notification is not required.
   (3) The following form of notification, when completed in accordance
 with the instructions in subsection (b), provides sufficient
 information:
@@ -6206,37 +5180,39 @@ information:
 Subject: (Identification of Transaction)
 We have your (describe collateral), because you broke promises in our
 agreement.
-{1} We will sell (describe collateral) at public sale. A sale could
+  {1} We will sell (describe collateral) at public sale. A sale could
 include a lease or license. The sale will be held as follows:
   Date:          ____________________
   Time:          ____________________
   Place:         ____________________
 You may attend the sale and bring bidders if you want.
-{2} We will sell (describe collateral) at private sale sometime after
+  {2} We will sell (describe collateral) at private sale sometime after
 (date). A sale could include a lease or license.
-{3} The money that we get from the sale, after paying our costs, will
+  {3} The money that we get from the sale, after paying our costs, will
 reduce the amount you owe. If we get less money than you owe, you (will
 or will not, as applicable) still owe us the difference. If we get more
 money than you owe, you will get the extra money, unless we must pay it
 to someone else.
-{4} You can get the property back at any time before we sell it by
+  {4} You can get the property back at any time before we sell it by
 paying us the full amount you owe, not just the past due payments,
 including our expenses. To learn the exact amount you must pay, call us
 at (telephone number).
-{5} If you want us to explain to you in writing or in (description of
+  {5} If you want us to explain to you in writing or in (description of
 electronic record) (description of electronic record) how we have
-figured the amount that you owe us, {6} call us at (telephone number) or
-write us at (secured party's address) or contact us by (description of
-electronic communication method) {7} and request a written explanation
-or an explanation in (description of electronic record) an explanation
-in (description of electronic record).
-{8} We will charge you $ (amount) for the explanation if we sent you
+figured the amount that you owe us,
+  {6} call us at (telephone number) or write us at (secured party's
+address) or contact us by (description of electronic communication
+method)
+  {7} and request a written explanation or an explanation in
+(description of electronic record) an explanation in (description of
+electronic record).
+  {8} We will charge you $ (amount) for the explanation if we sent you
 another written explanation of the amount you owe us within the last six
 months.
-{9} If you need more information about the sale call us at (telephone
+  {9} If you need more information about the sale call us at (telephone
 number) or write us at (secured party's address) or contact us by
 (description of electronic communication method).
-{10} We are sending this notice to the following other people who have
+  {10} We are sending this notice to the following other people who have
 an interest in (describe collateral) or who owe money under your
 agreement:
   (Names of all other debtors and obligors, if any)
@@ -6282,7 +5258,6 @@ communication--for the recipient of the notification to communicate with
 the sender. The additional method of electronic communication is not
 required to be included.
   (9) If item {10} does not apply, insert "None" after "agreement:".
-  * NB Effective June 3, 2026
 
 ## § 9-615. Application of Proceeds of Disposition; Liability for Deficiency and Right to Surplus
 
@@ -6301,18 +5276,7 @@ the following order to:
        (2) the satisfaction of obligations secured by the security
            interest or agricultural lien under which the disposition is
            made;
-       * (3) the satisfaction of obligations secured by any subordinate
-           security interest in or other subordinate lien on the
-           collateral if:
-           (A) the secured party receives from the holder of the
-               subordinate security interest or other lien an
-               authenticated demand for proceeds before distribution of
-               the proceeds is completed; and
-           (B) in a case in which a consignor has an interest in the
-               collateral, the subordinate security interest or other
-               lien is senior to the interest of the consignor; and
-             * NB Effective until June 3, 2026
-       * (3) the satisfaction of obligations secured by any subordinate
+       (3) the satisfaction of obligations secured by any subordinate
            security interest in or other subordinate lien on the
            collateral if:
            (A) the secured party receives from the holder of the
@@ -6322,17 +5286,9 @@ the following order to:
            (B) in a case in which a consignor has an interest in the
                collateral, the subordinate security interest or other
                lien is senior to the interest of the consignor; and
-             * NB Effective June 3, 2026
-       * (4) a secured party that is a consignor of the collateral if
-           the secured party receives from the consignor an
-           authenticated demand for proceeds before distribution of the
-           proceeds is completed.
-         * NB Effective until June 3, 2026
-       * (4) a secured party that is a consignor of the collateral if
-           the secured party receives from the consignor a signed demand
-           for proceeds before distribution of the proceeds is
-           completed.
-         * NB Effective June 3, 2026
+       (4) a secured party that is a consignor of the collateral if the
+           secured party receives from the consignor a signed demand for
+           proceeds before distribution of the proceeds is completed.
   (b) Proof of subordinate interest. If requested by a secured party, a
 holder of a subordinate security interest or other lien shall furnish
 reasonable proof of the interest or lien within a reasonable time.
@@ -6385,26 +5341,7 @@ interest or agricultural lien under which the disposition is made:
 ## § 9-616. Explanation of Calculation of Surplus or Deficiency
 
 Section 9--616. Explanation of Calculation of Surplus or Deficiency.
-  * (a) Definitions. In this section:
-       (1) "Explanation" means a writing that:
-           (A) states the amount of the surplus or deficiency;
-           (B) provides an explanation in accordance with subsection (c)
-               of how the secured party calculated the surplus or
-               deficiency;
-           (C) states, if applicable, that future debits, credits,
-               charges, including additional credit service charges or
-               interest, rebates, and expenses may affect the amount of
-               the surplus or deficiency; and
-           (D) provides a telephone number or mailing address from which
-               additional information concerning the transaction is
-               available.
-       (2) "Request" means a record:
-           (A) authenticated by a debtor or consumer obligor;
-           (B) requesting that the recipient provide an explanation; and
-           (C) sent after disposition of the collateral under Section
-               9--610.
-             * NB Effective until June 3, 2026
-* (a) Definitions. In this section:
+  (a) Definitions. In this section:
        (1) "Explanation" means a record that:
            (A) states the amount of the surplus or deficiency;
            (B) provides an explanation in accordance with subsection (c)
@@ -6422,23 +5359,7 @@ Section 9--616. Explanation of Calculation of Surplus or Deficiency.
            (B) requesting that the recipient provide an explanation; and
            (C) sent after disposition of the collateral under Section
                9--610.
-             * NB Effective June 3, 2026
-  * (b) Explanation of calculation. In a consumer-goods transaction in
-which the debtor is entitled to a surplus or a consumer obligor is
-liable for a deficiency under Section 9--615, the secured party shall:
-       (1) send an explanation to the debtor or consumer obligor, as
-           applicable, after the disposition and:
-           (A) before or when the secured party accounts to the debtor
-               and pays any surplus or first makes written demand on the
-               consumer obligor after the disposition for payment of the
-               deficiency; and
-           (B) within fourteen days after receipt of a request; or
-       (2) in the case of a consumer obligor who is liable for a
-           deficiency, within fourteen days after receipt of a request,
-           send to the consumer obligor a record waiving the secured
-           party's right to a deficiency.
-         * NB Effective until June 3, 2026
-*(b) Explanation of calculation. In a consumer-goods transaction in
+  (b) Explanation of calculation. In a consumer-goods transaction in
 which the debtor is entitled to a surplus or a consumer obligor is
 liable for a deficiency under Section 9--615, the secured party shall:
        (1) send an explanation to the debtor or consumer obligor, as
@@ -6452,13 +5373,9 @@ liable for a deficiency under Section 9--615, the secured party shall:
            deficiency, within fourteen days after receipt of a request,
            send to the consumer obligor a record waiving the secured
            party's right to a deficiency.
-         * NB Effective June 3, 2026
-  (c) Required information. * To comply with subsection (a)(1)(B), a
-writing must provide the following information in the following order:
-  * NB Effective until June 3, 2026
-       * To comply with subsection (a)(1)(B), an explanation must
-           provide the following information in the following order:
-         * NB Effective June 3, 2026
+  (c) Required information.  To comply with subsection (a)(1)(B), an
+explanation must provide the following information in the following
+order:
        (1) the aggregate amount of obligations secured by the security
            interest under which the disposition was made, and, if the
            amount reflects a rebate of unearned interest or credit
@@ -6541,12 +5458,8 @@ transfer, or subrogation described in subsection (a):
 ## § 9-619. Transfer of Record or Legal Title
 
 Section 9--619. Transfer of Record or Legal Title.
-  (a) "Transfer statement." * In this section, "transfer statement"
-means a record authenticated by a secured party stating:
-  * NB Effective until June 3, 2026
-* In this section, "transfer statement" means a record signed by a
-secured party stating:
-  * NB Effective June 3, 2026
+  (a) "Transfer statement."  In this section, "transfer statement" means
+a record signed by a secured party stating:
        (1) that the debtor has defaulted in connection with an
            obligation secured by specified collateral;
        (2) that the secured party has exercised its post-default

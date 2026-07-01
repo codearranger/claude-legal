@@ -1,7 +1,7 @@
 # General Business Law — Consumer Protection From Deceptive Acts and Practices (§§ 349-350 — NY's UDAP statute)
 
 > **Source:** https://legislation.nysenate.gov/api/3/laws/GBS?full=true
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the NY State Senate Open Legislation API JSON response
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
@@ -507,45 +507,25 @@ applicable provisions of this section shall be void and unenforceable as
 contrary to public policy. Any waiver by a buyer of energy services of
 the provisions of this section shall be deemed void and unenforceable by
 the ESCO as contrary to public policy.
-  * 9. The attorney general, upon his or her own motion or upon referral
-from the public service commission, the Long Island power authority or
-the department of state, may bring a civil action against any energy
-services company that violates any provision of this section and may
-recover (a) a civil penalty not to exceed one thousand dollars per
-violation; and (b) costs and reasonable attorney's fees. In any such
-proceeding the court may direct restitution.
-  * NB Effective until June 17, 2026
-  * 9. (a) The first page of each billing statement from an ESCO
-delivered to the customer, whether by the ESCO directly, by a utility
-corporation, by a municipality, or by any other method, shall include a
-side-by-side comparison showing both the price charged by the ESCO for
-commodity service and the price charged to the customer for delivery
-service during the prior billing period, and the price the customer
-would have paid had the customer taken both commodity and delivery
-service from their local utility corporation or municipality, as
-applicable. Such statement shall also include, separately and apart from
-the price charged by the ESCO for commodity service and the price
-charged to the customer for delivery service, an itemized list of prices
-charged by the ESCO for any energy-related value-added products provided
-by the ESCO during the prior billing period.
+  9. (a) The first page of each billing statement from an ESCO delivered
+to the customer, whether by the ESCO directly, by a utility corporation,
+by a municipality, or by any other method, shall include a side-by-side
+comparison showing both the price charged by the ESCO for commodity
+service and the price charged to the customer for delivery service
+during the prior billing period, and the price the customer would have
+paid had the customer taken both commodity and delivery service from
+their local utility corporation or municipality, as applicable. Such
+statement shall also include, separately and apart from the price
+charged by the ESCO for commodity service and the price charged to the
+customer for delivery service, an itemized list of prices charged by the
+ESCO for any energy-related value-added products provided by the ESCO
+during the prior billing period.
   (b) For the purposes of this subdivision and subdivision ten of this
 section, "customer" shall mean a person receiving residential utility
 service from an ESCO or a small non-residential customer, as that term
 is defined in section sixty-six-w of the public service law, receiving
 utility service from an ESCO.
-  * NB Effective June 17, 2026
-  * 10. In addition to the right of action granted to the attorney
-general pursuant to this section, any person who has been injured by
-reason of any violation of this section may bring an action in his or
-her own name to enjoin such unlawful act or practice, an action to
-recover his or her actual damages or five hundred dollars, whichever is
-greater, or both such actions. The court may, in its discretion,
-increase the award of damages to an amount not to exceed three times the
-actual damages up to ten thousand dollars, if the court finds the
-defendant willfully or knowingly violated this section. The court may
-award reasonable attorney's fees to a prevailing plaintiff.
-  * NB Effective until June 17, 2026
-  * 10. Every twelve months, an ESCO shall provide each of its customers
+  10. Every twelve months, an ESCO shall provide each of its customers
 with a statement comparing the price charged by the ESCO for commodity
 service, the price charged to the customer for delivery service and any
 other energy-related value-added products charged to the customer as a
@@ -556,8 +536,7 @@ applicable, for such period. Such statement shall convey such
 information in a manner that unambiguously conveys whether the customer
 is saving money or paying a premium for service from the ESCO over such
 period.
-  * NB Effective June 17, 2026
-  * 10-a. (a) ESCOs shall be responsible for any costs incurred by a
+  10-a. (a) ESCOs shall be responsible for any costs incurred by a
 utility corporation or municipality to comply with subdivisions nine and
 ten of this section, and any such costs incurred by a utility
 corporation or municipality shall be recoverable from the ESCO, in a
@@ -566,60 +545,37 @@ recover any costs from customers related to compliance with subdivisions
 nine and ten of this section.
   (b) For the purposes of this subdivision, "customer" shall mean a
 person receiving energy service from an ESCO.
-  * NB Effective June 17, 2026
-  * 11. Nothing in this section shall be deemed to limit any authority
-of the public service commission or the Long Island power authority,
-which existed before the effective date of this section, to limit,
-suspend or revoke the eligibility of an energy services company to sell
-or offer for sale any energy services for violation of any provision of
-law, rule, regulation or policy enforceable by such commission or
-authority.
-  * NB Effective until June 17, 2026
-  * 11. The attorney general, upon their own motion or upon referral
-from the public service commission, the Long Island power authority or
-the department of state, may bring a civil action against any energy
+  11. The attorney general, upon their own motion or upon referral from
+the public service commission, the Long Island power authority or the
+department of state, may bring a civil action against any energy
 services company that violates any provision of this section and may
 recover (a) a civil penalty not to exceed one thousand dollars per
 violation; and (b) costs and reasonable attorney's fees. In any such
 proceeding the court may direct restitution.
-  * NB Effective June 17, 2026
-  * 12. Nothing in this section shall be deemed to limit any authority
-of the public service commission or the Long Island power authority,
-which existed before the effective date of this section, to adopt
-additional guidelines, practices, policies, rules or regulations
-relating to the marketing practices of energy services companies to
-residential and commercial customers, whether in person (including door
-to door), or by mail, telephone or other electronic means, that are not
-inconsistent with the provisions of this section.
-  * NB Effective until June 17, 2026
-  * 12. In addition to the right of action granted to the attorney
-general pursuant to this section, any person who has been injured by
-reason of any violation of this section may bring an action in their own
-name to enjoin such unlawful act or practice, an action to recover their
-actual damages or five hundred dollars, whichever is greater, or both
-such actions. The court may, in its discretion, increase the award of
-damages to an amount not to exceed three times the actual damages up to
-ten thousand dollars, if the court finds the defendant willfully or
+  12. In addition to the right of action granted to the attorney general
+pursuant to this section, any person who has been injured by reason of
+any violation of this section may bring an action in their own name to
+enjoin such unlawful act or practice, an action to recover their actual
+damages or five hundred dollars, whichever is greater, or both such
+actions. The court may, in its discretion, increase the award of damages
+to an amount not to exceed three times the actual damages up to ten
+thousand dollars, if the court finds the defendant willfully or
 knowingly violated this section. The court may award reasonable
 attorney's fees to a prevailing plaintiff.
-  * NB Effective June 17, 2026
-  * 13. Nothing in this section shall be deemed to limit any authority
-of the public service commission or the Long Island power authority,
-which existed before the effective date of this section, to limit,
-suspend or revoke the eligibility of an energy services company to sell
-or offer for sale any energy services for violation of any provision of
-law, rule, regulation or policy enforceable by such commission or
-authority.
-  * NB Effective June 17, 2026
-  * 14. Nothing in this section shall be deemed to limit any authority
-of the public service commission or the Long Island power authority,
-which existed before the effective date of this section, to adopt
-additional guidelines, practices, policies, rules or regulations
-relating to the marketing practices of energy services companies to
-residential and commercial customers, whether in person (including door
-to door), or by mail, telephone or other electronic means, that are not
-inconsistent with the provisions of this section.
-  * NB Effective June 17, 2026
+  13. Nothing in this section shall be deemed to limit any authority of
+the public service commission or the Long Island power authority, which
+existed before the effective date of this section, to limit, suspend or
+revoke the eligibility of an energy services company to sell or offer
+for sale any energy services for violation of any provision of law,
+rule, regulation or policy enforceable by such commission or authority.
+  14. Nothing in this section shall be deemed to limit any authority of
+the public service commission or the Long Island power authority, which
+existed before the effective date of this section, to adopt additional
+guidelines, practices, policies, rules or regulations relating to the
+marketing practices of energy services companies to residential and
+commercial customers, whether in person (including door to door), or by
+mail, telephone or other electronic means, that are not inconsistent
+with the provisions of this section.
 
 ## § 349-E. Counterfeit and non-functional airbags
 

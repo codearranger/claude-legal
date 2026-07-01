@@ -1,7 +1,7 @@
 # Uniform Commercial Code — Sales
 
 > **Source:** https://legislation.nysenate.gov/api/3/laws/UCC?full=true
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the NY State Senate Open Legislation API JSON response
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
@@ -17,17 +17,8 @@ Code--Sales.
 
 ## § 2-102. Scope; Certain Security and Other Transactions Excluded From This Article
 
-* Section 2--102. Scope; Certain Security and Other Transactions
-                  Excluded From This Article.
-  Unless the context otherwise requires, this Article applies to
-transactions in goods; it does not apply to any transaction which
-although in the form of an unconditional contract to sell or present
-sale is intended to operate only as a security transaction nor does this
-Article impair or repeal any statute regulating sales to consumers,
-farmers or other specified classes of buyers.
-  * NB Effective until June 3, 2026
-* Section 2--102. Scope; Certain Security and Other Transactions
-                  Excluded From This Article.
+Section 2--102. Scope; Certain Security and Other Transactions Excluded
+                  From This Article.
   (1) Unless the context otherwise requires, and except as provided in
 subsection (3), this Article applies to transactions in goods and, in
 the case of a hybrid transaction, it applies to the extent provided in
@@ -47,7 +38,6 @@ unconditional contract to sell or present sale, operates only to create
 a security interest; or
   (b) impair or repeal a statute regulating sales to consumers, farmers,
 or other specified classes of buyers.
-  * NB Effective June 3, 2026
 
 ## § 2-103. Definitions and Index of Definitions
 
@@ -156,30 +146,7 @@ or in the relevant market as a single whole.
 
 ## § 2-106. Definitions
 
-* Section 2--106. Definitions. "Contract"; "Agreement"; "Contract for
-                  Sale"; "Sale"; "Present Sale"; "Conforming" to
-                  Contract; "Termination"; "Cancellation".
-  (1) In this Article unless the context otherwise requires "contract"
-and "agreement" are limited to those relating to the present or future
-sale of goods. "Contract for sale" includes both a present sale of goods
-and a contract to sell goods at a future time. A "sale" consists in the
-passing of title from the seller to the buyer for a price (Section
-2--401). A "present sale" means a sale which is accomplished by the
-making of the contract.
-  (2) Goods or conduct including any part of a performance are
-"conforming" or conform to the contract when they are in accordance with
-the obligations under the contract.
-  (3) "Termination" occurs when either party pursuant to a power created
-by agreement or law puts an end to the contract otherwise than for its
-breach. On "termination" all obligations which are still executory on
-both sides are discharged but any right based on prior breach or
-performance survives.
-  (4) "Cancellation" occurs when either party puts an end to the
-contract for breach by the other and its effect is the same as that of
-"termination" except that the cancelling party also retains any remedy
-for breach of the whole contract or any unperformed balance.
-  * NB Effective until June 3, 2026
-* Section 2--106. Definitions. "Contract"; "Agreement"; "Contract for
+Section 2--106. Definitions. "Contract"; "Agreement"; "Contract for
                   Sale"; "Sale"; "Present Sale"; "Conforming" to
                   Contract; "Termination"; "Cancellation"; "Hybrid
                   Transaction".
@@ -207,7 +174,6 @@ of goods and:
   (a) the provision of services;
   (b) a lease of other goods; or
   (c) a sale, lease, or license of property other than goods.
-  * NB Effective June 3, 2026
 
 ## § 2-107. Goods to Be Severed From Realty: Recording
 
@@ -235,16 +201,7 @@ the buyer's rights under the contract for sale.
 ## § 2-201. Formal Requirements; Statute of Frauds
 
 Section 2--201. Formal Requirements; Statute of Frauds.
-  * (1) Except as otherwise provided in this section a contract for the
-sale of goods for the price of $500 or more is not enforceable by way of
-action or defense unless there is some writing sufficient to indicate
-that a contract for sale has been made between the parties and signed by
-the party against whom enforcement is sought or by his authorized agent
-or broker. A writing is not insufficient because it omits or incorrectly
-states a term agreed upon but the contract is not enforceable under this
-paragraph beyond the quantity of goods shown in such writing.
-  * NB Effective until June 3, 2026
-  * (1) Except as otherwise provided in this section a contract for the
+  (1) Except as otherwise provided in this section a contract for the
 sale of goods for the price of $500 or more is not enforceable by way of
 action or defense unless there is a record sufficient to indicate that a
 contract for sale has been made between the parties and signed by the
@@ -253,21 +210,12 @@ agent or broker. A record is not insufficient because it omits or
 incorrectly states a term agreed upon but the contract is not
 enforceable under this subsection beyond the quantity of goods shown in
 the record.
-  * NB Effective June 3, 2026
-  * (2) Between merchants if within a reasonable time a writing in
-confirmation of the contract and sufficient against the sender is
-received and the party receiving it has reason to know its contents, it
-satisfies the requirements of subsection (1) against such party unless
-written notice of objection to its contents is given within ten days
-after it is received.
-  * NB Effective until June 3, 2026
-  * (2) Between merchants if within a reasonable time a record in
+  (2) Between merchants if within a reasonable time a record in
 confirmation of the contract and sufficient against the sender is
 received and the party receiving it has reason to know its contents, it
 satisfies the requirements of subsection (1) against the party unless
 notice in a record of objection to its contents is given within ten days
 after it is received.
-  * NB Effective June 3, 2026
   (3) A contract which does not satisfy the requirements of subsection
 (1) but which is valid in other respects is enforceable
        (a) if the goods are to be specially manufactured for the buyer
@@ -296,20 +244,7 @@ or electronic messages, or otherwise) on those terms.
 
 ## § 2-202. Final Written Expression: Parol or Extrinsic Evidence
 
-* Section 2--202. Final Written Expression: Parol or Extrinsic Evidence.
-  Terms with respect to which the confirmatory memoranda of the parties
-agree or which are otherwise set forth in a writing intended by the
-parties as a final expression of their agreement with respect to such
-terms as are included therein may not be contradicted by evidence of any
-prior agreement or of a contemporaneous oral agreement but may be
-explained or supplemented
-  (a) by course of performance, course of dealing, or usage of trade
-(Section 1--303); and
-  (b) by evidence of consistent additional terms unless the court finds
-the writing to have been intended also as a complete and exclusive
-statement of the terms of the agreement.
-  * NB Effective until June 3, 2026
-* Section 2--202. Final Written Expression: Parol or Extrinsic Evidence.
+Section 2--202. Final Written Expression: Parol or Extrinsic Evidence.
   Terms with respect to which the confirmatory memoranda of the parties
 agree or which are otherwise set forth in a record intended by the
 parties as a final expression of their agreement with respect to such
@@ -321,22 +256,14 @@ explained or supplemented
   (b) by evidence of consistent additional terms unless the court finds
 the record to have been intended also as a complete and exclusive
 statement of the terms of the agreement.
-  * NB Effective June 3, 2026
 
 ## § 2-203. Seals Inoperative
 
-* Section 2--203. Seals Inoperative.
-  The affixing of a seal to a writing evidencing a contract for sale or
-an offer to buy or sell goods does not constitute the writing a sealed
-instrument and the law with respect to sealed instruments does not apply
-to such a contract or offer.
-  * NB Effective until June 3, 2026
-* Section 2--203. Seals Inoperative.
+Section 2--203. Seals Inoperative.
   The affixing of a seal to a record evidencing a contract for sale or
 an offer to buy or sell goods does not constitute the record a sealed
 instrument and the law with respect to sealed instruments does not apply
 to such a contract or offer.
-  * NB Effective June 3, 2026
 
 ## § 2-204. Formation in General
 
@@ -353,22 +280,13 @@ appropriate remedy.
 
 ## § 2-205. Firm Offers
 
-* Section 2--205. Firm Offers.
-  An offer by a merchant to buy or sell goods in a signed writing which
-by its terms gives assurance that it will be held open is not revocable,
-for lack of consideration, during the time stated or if no time is
-stated for a reasonable time, but in no event may such period of
-irrevocability exceed three months; but any such term of assurance on a
-form supplied by the offeree must be separately signed by the offeror.
-  * NB Effective until June 3, 2026
-* Section 2--205. Firm Offers.
+Section 2--205. Firm Offers.
   An offer by a merchant to buy or sell goods in a signed record which
 by its terms gives assurance that it will be held open is not revocable,
 for lack of consideration, during the time stated or if no time is
 stated for a reasonable time, but in no event may such period of
 irrevocability exceed three months; but any such term of assurance on a
 form supplied by the offeree must be separately signed by the offeror.
-  * NB Effective June 3, 2026
 
 ## § 2-206. Offer and Acceptance in Formation of Contract
 
@@ -436,17 +354,11 @@ modification of any term inconsistent with such course of performance.
 Section 2--209. Modification, Rescission and Waiver.
   (1) An agreement modifying a contract within this Article needs no
 consideration to be binding.
-  * (2) A signed agreement which excludes modification or rescission
-except by a signed writing cannot be otherwise modified or rescinded,
-but except as between merchants such a requirement on a form supplied by
-the merchant must be separately signed by the other party.
-  * NB Effective until June 3, 2026
-  * (2) A signed agreement which excludes modification or rescission
+  (2) A signed agreement which excludes modification or rescission
 except by a signed writing or other signed record cannot be otherwise
 modified or rescinded, but except as between merchants such a
 requirement on a form supplied by the merchant must be separately signed
 by the other party.
-  * NB Effective June 3, 2026
   (3) The requirements of the statute of frauds section of this Article
 (Section 2--201) must be satisfied if the contract as modified is within
 its provisions.
