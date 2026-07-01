@@ -3,7 +3,7 @@
 - Citation: RCW Chapter 62A.3
 - Description: UCC — Negotiable Instruments
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.3
-- Pulled: 2026-05-17
+- Pulled: 2026-07-01
 - Sections: 76
 
 > Verbatim text from the Washington State Legislature website. Citation

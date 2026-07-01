@@ -1,7 +1,7 @@
 # Rules for Appeal of Decisions of Courts of Limited Jurisdiction (RALJ)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=clj&set=RALJ
-- Pulled: 2026-05-02
+- Pulled: 2026-07-01
 - Rules: 45
 
 > Verbatim text extracted from the official PDFs published by the Washington

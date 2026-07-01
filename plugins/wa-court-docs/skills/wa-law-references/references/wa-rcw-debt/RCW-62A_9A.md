@@ -3,7 +3,7 @@
 - Citation: RCW Chapter 62A.9A
 - Description: UCC — Secured Transactions
 - Source: https://app.leg.wa.gov/RCW/default.aspx?cite=62A.9A
-- Pulled: 2026-05-17
+- Pulled: 2026-07-01
 - Sections: 149
 
 > Verbatim text from the Washington State Legislature website. Citation

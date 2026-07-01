@@ -1,7 +1,7 @@
 # Infraction Rules for Courts of Limited Jurisdiction (IRLJ)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=clj&set=IRLJ
-- Pulled: 2026-05-02
+- Pulled: 2026-07-01
 - Rules: 26
 
 > Verbatim text extracted from the official PDFs published by the Washington

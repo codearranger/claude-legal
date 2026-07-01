@@ -1,7 +1,7 @@
 # Table of Adoptions and Amendments (Table)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=am&set=Table
-- Pulled: 2026-05-02
+- Pulled: 2026-07-01
 - Rules: 1
 
 > Verbatim text extracted from the official PDFs published by the Washington

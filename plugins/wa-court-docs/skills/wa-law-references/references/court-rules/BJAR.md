@@ -1,7 +1,7 @@
 # Board for Judicial Administration Rules (BJAR)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=ga&set=BJAR
-- Pulled: 2026-05-02
+- Pulled: 2026-07-01
 - Rules: 5
 
 > Verbatim text extracted from the official PDFs published by the Washington

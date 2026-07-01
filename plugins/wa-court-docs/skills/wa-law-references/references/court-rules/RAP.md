@@ -1,7 +1,7 @@
 # Rules of Appellate Procedure (RAP)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=app&set=RAP
-- Pulled: 2026-05-02
+- Pulled: 2026-07-01
 - Rules: 180
 
 > Verbatim text extracted from the official PDFs published by the Washington
@@ -1371,17 +1371,13 @@ RAP 6.3
                     DIRECT REVIEW OF A FINAL DECISION OF AN
                             ADMINISTRATIVE AGENCY
 
-       The appellate court accepts direct review of a final decision of an administrative agency in
-an adjudicative proceeding according to the procedures set forth in RCW 34.05.518 and RCW
-34.05.522. A case that has been certified for review by the superior court is treated as a direct
-appeal. A party contesting a superior court’s order on certification shall follow the procedures for
-discretionary review set forth in rule 6.2. A party contesting a superior court’s order granting
-certification shall file a motion for relief with the court of appeals within 15 days of the order
-granting certification. Review of the certification decision shall be guided by the standards set
-forth in RCW 34.05.518. On July 1, 2026 this rule shall revert to the version in effect prior to
-June 29, 2021.
+      The appellate court accepts direct review of a final decision of an administrative agency in
+an adjudicative proceeding under RCW 34.05.518 and RCW 34.05.522 by entering an order or
+ruling accepting review. In requesting direct review, the parties shall follow the procedures set
+forth in rule 6.2.
 
-[Adopted effective July 1, 1976; Amended effective September 1, 1994; June 29, 2021.]
+[Adopted effective July 1, 1976; Amended effective September 1, 1994; June 29, 2021; Reverted
+effective July 1, 2026 to the version in effect prior to June 29, 2021.]
 ```
 
 <a id="rap-6-4"></a>
@@ -1394,10 +1390,9 @@ RAP 6.4
                             DIRECT REVIEW OF A LAND USE
                               PETITION ACT PROCEEDING
 
-The appellate court accepts direct review of a Land Use Petition Act proceeding according to the
-procedures set forth in chapter 36.70C RCW. A case that has been certified for review by the
-superior court is treated as a direct appeal. This rule shall expire July 1, 2026.
-[Adopted effective June 29, 2021.]
+                                          [EXPIRED]
+
+[Adopted effective June 29, 2021; Expired effective July 1, 2026.]
 ```
 
 ## Title 7 - Authority of Trial Court and Appellate Court Pending Review
