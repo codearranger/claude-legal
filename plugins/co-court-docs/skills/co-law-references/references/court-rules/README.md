@@ -1,11 +1,11 @@
 # court-rules Corpus — Colorado
 
-- Last refreshed: 2026-05-14
+- Last refreshed: 2026-07-01
 - Chief Justice Directives (verbatim): 72
 - Rule-set stubs (full text paywalled): 6
-- Total corpus size: 1,311,767 bytes
+- Total corpus size: 1,334,773 bytes
 
-This corpus holds the Colorado court-rules content most relevant to civil practice. The Colorado-specific situation: **Chief Justice Directives (CJDs)** are published as free PDFs on `coloradojudicial.gov`; the rule sets themselves — **C.R.C.P., CRE, C.A.R., Colorado RPC** — are **public-domain edicts of the Colorado Supreme Court** (the government edicts doctrine — Banks v. Manchester, 128 U.S. 244 (1888); Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)), but the only conveniently published copies are the *annotated compilations* West (Colorado Court Rules) and LexisNexis copyright, and the free third-party mirrors (Justia, FindLaw, Casetext) sit behind Cloudflare. The obstacle is **access, not ownership** — copyright sits on the annotations, not the rule text. The `STUB-*.md` entries explain the access gap and point to the canonical publication. Substantive citations in the Colorado plugin's SKILL.md files reference the rule numbers and verbatim short excerpts, not the full rule text.
+This corpus holds the Colorado court-rules content most relevant to civil practice. The Colorado-specific situation: **Chief Justice Directives (CJDs)** are published as free PDFs on `coloradojudicial.gov`; the rule sets themselves — **C.R.C.P., CRE, C.A.R., Colorado RPC** — are published commercially by West (Colorado Court Rules) and LexisNexis under copyright, and free-mirror alternatives (Justia, FindLaw, Casetext) sit behind Cloudflare. The `STUB-*.md` entries explain the licensure gap and point to the canonical subscription publication. Substantive citations in the Colorado plugin's SKILL.md files reference the rule numbers and verbatim short excerpts, not the full rule text.
 
 ## Inventory
 

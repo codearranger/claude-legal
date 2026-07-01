@@ -2,7 +2,7 @@
 
 - Citation: Colo. Chief Justice Directive (unknown)
 - Source: https://www.coloradojudicial.gov/sites/default/files/2025-05/Repeal%20of%20outdated%20CJDs%202025%204.16.2025%20A11Y.pdf
-- Fetched: 2026-05-14
+- Fetched: 2026-07-01
 - Format: verbatim text extracted from the official Colorado Supreme Court Office of the Chief Justice PDF via `pdftotext -layout`.
 - Index entry: Repeal of outdated CJDs 2025 4.16.2025 A11Y.pdf (PDF, 167.28 KB)
 
