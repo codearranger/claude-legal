@@ -1,7 +1,7 @@
 # Washington-SLR — Washington County (Oregon) Supplementary Local Court Rules
 
 > **Source:** https://www.courts.oregon.gov/rules/Documents/Washington_SLR_2026.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 ---

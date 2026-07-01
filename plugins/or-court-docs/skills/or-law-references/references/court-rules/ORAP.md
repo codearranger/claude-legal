@@ -1,7 +1,7 @@
 # ORAP — Oregon Rules of Appellate Procedure
 
 > **Source:** https://www.courts.oregon.gov/rules/ORAP/ORAP-2026-FullPermanentTempAmendments.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 ---

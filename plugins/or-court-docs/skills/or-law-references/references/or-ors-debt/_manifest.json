@@ -1,7 +1,7 @@
 {
   "corpus": "or-ors-debt",
   "version": "0.3.0",
-  "last_pulled": "2026-05-14",
+  "last_pulled": "2026-07-01",
   "source": "https://www.oregonlegislature.gov/bills_laws/ors/",
   "_note": "ORS Chapter 32 (Injunctions) was entirely repealed in 1981; the page is preserved verbatim for completeness but contains only former-provisions stubs. Mediation/ADR provisions live in ORS Chapter 36 (already in this corpus). ORS Chapter 79 (UCC Article 9) was renumbered to Chapter 79A effective 2025; both files are retained — ORS-79.md preserves the pre-renumber snapshot fetched in PR #6, ORS-79A.md is the current authoritative version.",
   "chapters": [

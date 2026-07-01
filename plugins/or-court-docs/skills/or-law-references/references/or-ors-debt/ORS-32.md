@@ -1,7 +1,7 @@
 # ORS Chapter 32 — Injunctions (former provisions; entirely repealed 1981)
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors032.html
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official HTML source
 
 ---

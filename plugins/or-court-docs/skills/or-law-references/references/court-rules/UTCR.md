@@ -1,24 +1,25 @@
 # UTCR — Uniform Trial Court Rules
 
-> **Source:** https://www.courts.oregon.gov/rules/UTCR/2025_UTCR_including_amendments_effective_2026-03-09.pdf
-> **Fetched:** 2026-05-14
+> **Source:** https://www.courts.oregon.gov/rules/UTCR/2025_UTCR_including_amendments_effective_2026-07-01.pdf
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 ---
 
 UNIFORM TRIAL COURT RULES
 
-                       Effective
-                     August 1, 2025
+                        Effective
+                      August 1, 2025
 
  (Including Correction to UTCR 8.060 and UTCR 24.030 (effective
   September 29, 2025); Out-of-Cycle Amendment of UTCR 1.110,
    3.170, 5.140, 6.050, 6.080, 6.120, 13.090, 15.020, and 21.140
    (effective January 1, 2026); Out-of-Cycle Amendment of UTCR
-21.020 and 21.070 (effective February 19, 2026); and Out-of-Cycle
-          Adoption of UTCR 4.130 (effective March 9, 2026))
+   21.020 and 21.070 (effective February 19, 2026); Out-of-Cycle
+Adoption of UTCR 4.130 (effective March 9, 2026); and Out-of-Cycle
+         Amendment of UTCR 4.130 (effective July 1, 2026))
 
-    This document has no copyright and may be reproduced.
+     This document has no copyright and may be reproduced.
 
                                2025 UNIFORM TRIAL COURT RULES
                                                     CONTENTS
@@ -43,7 +44,7 @@ CHAPTER 1 —General Provisions ................................................
   1.140       REQUESTS FOR EXTENDED RETENTION OF COURT RECORDS .... 1.10
   1.160       SUBMITTING DOCUMENTS FOR FILING WITH COURTS; LOCAL
               SLR ......................................................................................................... 1.12
-  1.170       COURT WEBSITES; HOURS OF COURT OPERATION ........................ 1.12
+  1.170       COURT WEBSITES; HOURS OF COURT OPERATION........................ 1.12
   1.200       INFORMATION ON FREE OR LOW-COST LOCAL LEGAL
               SERVICES .............................................................................................. 1.12
   1.210       APPLICATION OF UTCRS TO LICENSED PARALEGALS .................... 1.12
@@ -80,9 +81,9 @@ CHAPTER 3 —Decorum in Proceedings ............................................
   3.030       MANNER OF ADDRESS ........................................................................... 3.1
   3.040       ADVICE TO CLIENTS AND WITNESSES OF COURTROOM
               FORMALITIES .......................................................................................... 3.1
-  3.050       PROPER POSITION OF PARTIES BEFORE COURT .............................. 3.1
+  3.050       PROPER POSITION OF PARTIES BEFORE COURT.............................. 3.1
   3.060       DEFENDANT IN CRIMINAL TRIAL ........................................................... 3.2
-  3.070       PERSONS PERMITTED WITHIN BAR OF COURT .................................. 3.2
+  3.070       PERSONS PERMITTED WITHIN BAR OF COURT.................................. 3.2
   3.080       PROCEDURE FOR SWEARING WITNESSES......................................... 3.2
   3.090       UNDUE RECOGNITION OR FAMILIARITY BY JUDGE ........................... 3.3
   3.100       PROPER USE OF COURT CHAMBERS .................................................. 3.3
@@ -118,7 +119,7 @@ CHAPTER 4 —Proceedings in Criminal Cases .....................................
   4.130       CAPTION REQUIREMENT FOR REFILED CHARGING
               INSTRUMENTS ........................................................................................ 4.7
 
-CHAPTER 5 —Proceedings in Civil Cases ............................................................... 5.1
+CHAPTER 5 —Proceedings in Civil Cases............................................................... 5.1
   5.010       CONFERRING ON MOTIONS UNDER ORCP 21, 23, 36–46, AND
               55 .............................................................................................................. 5.1
   5.020       AUTHORITIES IN MOTIONS AND OTHER REQUIREMENTS ................ 5.1
@@ -185,12 +186,12 @@ CHAPTER 7 —Case Management and Calendaring ...................................
  7.020       SETTING TRIAL DATE IN CIVIL CASES .................................................. 7.2
  7.030       COMPLEX CASES .................................................................................... 7.3
  7.040       NOTIFY COURT OF SETTLEMENTS AND OTHER MATTERS............... 7.3
- 7.050       EFFECT OF BANKRUPTCY PETITION .................................................... 7.4
+ 7.050       EFFECT OF BANKRUPTCY PETITION.................................................... 7.4
  7.060       AMERICANS WITH DISABILITIES ACT (ADA) ACCOMMODATION ....... 7.4
  7.070       FOREIGN LANGUAGE INTERPRETERS ................................................. 7.5
  7.080       INTERPRETERS’ REQUESTS FOR INFORMATION ............................... 7.6
  7.090       EXPRESSION OF MILK ............................................................................ 7.6
- 7.100       DISQUALIFICATION MOTIONS UNDER ORS 14.260(7) ......................... 7.6
+ 7.100       DISQUALIFICATION MOTIONS UNDER ORS 14.260(7)......................... 7.6
 
 CHAPTER 8 —Domestic Relations Proceedings ..................................................... 8.1
  8.010       ACTIONS FOR DISSOLUTION OF MARRIAGE, SEPARATE
@@ -242,7 +243,7 @@ UTCR 8/1/2025                                              v
   9.320       CHANGE OF NAME AND CHANGE OF SEX PROCEEDINGS
               (Repealed)................................................................................................. 9.8
   9.330       GUARDIAN’S REPORT IN MINOR GUARDIANSHIPS ............................ 9.8
-  9.400       APPOINTMENT OF COURT VISITOR ...................................................... 9.9
+  9.400       APPOINTMENT OF COURT VISITOR...................................................... 9.9
   9.410       PROTECTIVE PROCEEDING – CONFIDENTIAL INFORMATION
               ORDER ..................................................................................................... 9.9
   9.420       COURT VISITOR’S REPORT ................................................................... 9.9
@@ -281,7 +282,7 @@ CHAPTER 11 —Juvenile Court Proceedings .......................................
   11.140       DEPENDENCY JUDGMENTS OF JURISDICTION AND
                DISPOSITION ......................................................................................... 11.5
 
-CHAPTER 12 —Mediation ........................................................................................ 12.1
+CHAPTER 12 —Mediation........................................................................................ 12.1
   REPORTER’S NOTE .............................................................................................. 12.1
   12.010       APPLICABILITY ...................................................................................... 12.1
   12.020       DEFINITIONS .......................................................................................... 12.2
@@ -323,7 +324,7 @@ CHAPTER 13 —Arbitration ......................................................
   13.110       ARBITRATOR’S OATH ........................................................................... 13.4
   13.120       COMPENSATION OF ARBITRATOR ..................................................... 13.5
   13.130       RESTRICTIONS ON COMMUNICATION BETWEEN ARBITRATOR,
-               PARTIES, AND ATTORNEYS ................................................................. 13.5
+               PARTIES, AND ATTORNEYS................................................................. 13.5
   13.140       DISCOVERY ........................................................................................... 13.6
   13.150       SUBPOENA ............................................................................................ 13.6
   13.160       SCHEDULING OF THE HEARING.......................................................... 13.6
@@ -381,7 +382,7 @@ UTCR 8/1/2025                                                ix
 
   21.040       FORMAT OF DOCUMENTS TO BE FILED ELECTRONICALLY ............ 21.2
   21.050       PAYMENT OF FEES ............................................................................... 21.4
-  21.060       FILES OF THE COURT ........................................................................... 21.4
+  21.060       FILES OF THE COURT........................................................................... 21.4
   21.070       SPECIAL FILING REQUIREMENTS ....................................................... 21.5
   21.080       ELECTRONIC FILING AND ELECTRONIC FILING DEADLINES........... 21.8
   21.090       ELECTRONIC SIGNATURES ............................................................... 21.11
@@ -392,12 +393,12 @@ UTCR 8/1/2025                                                ix
   21.130       PROTECTED INFORMATION .............................................................. 21.14
   21.140       MANDATORY ELECTRONIC FILING ................................................... 21.14
 
-CHAPTER 22 —Enterprise Content Management System .................................... 22.1
+CHAPTER 22 —Enterprise Content Management System.................................... 22.1
   This chapter reserved for future use ........................................................................ 22.1
 
 CHAPTER 23 —Oregon Complex Litigation Court ................................................ 23.1
   23.010       OREGON COMPLEX LITIGATION COURT ........................................... 23.1
-  23.020       ASSIGNMENT OF CASES TO THE OCLC ............................................. 23.1
+  23.020       ASSIGNMENT OF CASES TO THE OCLC............................................. 23.1
   23.030       REMOVAL OF CASES FROM THE OCLC ............................................. 23.2
   23.040       CASE MANAGEMENT ............................................................................ 23.2
   23.050       CASE MANAGEMENT CONFERENCE; CASE MANAGEMENT
@@ -1530,7 +1531,7 @@ UTCR 8/1/2025                                2.10
             Your request of                                (insert date of request) to
             segregate specific protected personal information from information the
             general public can inspect in the case file for case
-            number                  (insert case number) in the Circuit Court
+            number                 (insert case number) in the Circuit Court
             for                           (insert county) County (the court will check and
             complete the appropriate following response before mailing):
 
@@ -2523,7 +2524,7 @@ CHAPTER 4—Proceedings in Criminal Cases
 NOTE: Rules specifically relating to contempt proceedings are located in UTCR
 chapter 19.
 
-4.010       TIME FOR FILING PRETRIAL MOTIONS IN CRIMINAL CASES
+4.010      TIME FOR FILING PRETRIAL MOTIONS IN CRIMINAL CASES
 
 (1)   In the absence of a showing of good cause or a Supplementary Local Rule (SLR)
       to the contrary, motions for pretrial rulings on matters subject to ORS 135.037 and
@@ -2537,7 +2538,7 @@ chapter 19.
 (3)   If a party requests a pretrial hearing under subsection (2), absent good cause, the
       hearing must be held at least seven days prior to the trial date.
 
-4.030       PROCEDURE FOR ORDER OF TRANSPORTATION
+4.030      PROCEDURE FOR ORDER OF TRANSPORTATION
 
 (1)   Any motion that a person held in custody be transported from the place of
       confinement to a designated place must be accompanied by a separate proposed
@@ -2552,15 +2553,15 @@ chapter 19.
       to the place of confinement only after execution of an order of release signed by
       the judge presiding over the court proceeding.
 
-4.040       REMOTE APPEARANCE IN LIEU OF TRANSPORTATION
+4.040      REMOTE APPEARANCE IN LIEU OF TRANSPORTATION
 
 Upon agreement of the parties, when, as a result of negotiations, an in-custody
 defendant intends to resolve cases in more than one jurisdiction, any appearance
 required in a court, other than the court of jurisdiction in the county in which the
 defendant is in custody, shall be by remote means unless good cause is shown.
 
-UTCR 8/1/2025                                     4.1
-(including out-of-cycle adoption of UTCR 4.130)
+UTCR 8/1/2025                                   4.1
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
 4.050       ORAL ARGUMENT ON MOTIONS IN CRIMINAL CASES
 
@@ -2608,8 +2609,8 @@ UTCR 8/1/2025                                     4.1
       (a)   Must cite any constitutional provision, statute, rule, case, or other authority
             upon which it is based; and
 
-UTCR 8/1/2025                                     4.2
-(including out-of-cycle adoption of UTCR 4.130)
+UTCR 8/1/2025                                   4.2
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
       (b)   Must include in the motion document the moving party’s brief, which must
             sufficiently apprise the court and the adverse party of the arguments relied
@@ -2655,8 +2656,8 @@ must state the basis for the dismissal.
       in ORS 131.045, if the transmission complies with the requirements of
       ORS 131.045, 135.030, 135.360, 135.767, 137.040, and 137.545:
 
-UTCR 8/1/2025                                     4.3
-(including out-of-cycle adoption of UTCR 4.130)
+UTCR 8/1/2025                                   4.3
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
       (a)   Telephone;
 
@@ -2704,8 +2705,8 @@ UTCR 8/1/2025                                     4.3
 (5)   A filing agency must satisfy all of the following requirements when filing an
       electronic citation in circuit court:
 
-UTCR 8/1/2025                                     4.4
-(including out-of-cycle adoption of UTCR 4.130)
+UTCR 8/1/2025                                   4.4
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
       (a)   The filing agency must obtain from the trial court administrator written
             approval before filing electronic citations.
@@ -2754,8 +2755,8 @@ UTCR 8/1/2025                                     4.4
       additional information, judicial orders, judgments, and judicial signatures have
       been added, are the original and legal court record.
 
-UTCR 8/1/2025                                     4.5
-(including out-of-cycle adoption of UTCR 4.130)
+UTCR 8/1/2025                                   4.5
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
 4.100       CRIME VICTIMS’ RIGHTS – PROSECUTOR’S NOTIFICATION AND CRIME
             VICTIMS’ RIGHTS VIOLATION CLAIM
@@ -2803,8 +2804,8 @@ UTCR 8/1/2025                                     4.5
       of conviction or acquittal, including indigent defense application fees, contribution
       fees, and attorney’s fees.
 
-UTCR 8/1/2025                                     4.6
-(including out-of-cycle adoption of UTCR 4.130)
+UTCR 8/1/2025                                   4.6
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
 4.120       MOTIONS TO REDUCE OR MODIFY OUTSTANDING COURT-ORDERED
             FINANCIAL OBLIGATIONS
@@ -2844,13 +2845,21 @@ UTCR 8/1/2025                                     4.6
 
 4.130       CAPTION REQUIREMENT FOR REFILED CHARGING INSTRUMENTS
 
-In addition to any other requirements imposed by statute or rule, if a prosecuting
-attorney files a charging instrument that initiates a criminal action and is based on
-charges previously dismissed without prejudice by the court, the caption of the charging
-instrument must include the phrase: “Refiling after prior dismissal without prejudice.”
+In addition to any other requirements imposed by statute or rule, when a prosecuting
+attorney files a charging instrument initiating a criminal action based on charges
+previously dismissed without prejudice by the court:
 
-UTCR 8/1/2025                                     4.7
-(including out-of-cycle adoption of UTCR 4.130)
+(1)   The caption must include the phrase: “Refiling after prior dismissal without
+      prejudice;” and
+
+UTCR 8/1/2025                                   4.7
+(including out-of-cycle adoption and amendment of UTCR 4.130)
+
+(2)   The charging instrument must be filed as a new case and may not be filed into the
+      previously dismissed criminal case.
+
+UTCR 8/1/2025                                   4.8
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
 CHAPTER 5—Proceedings in Civil Cases
 
@@ -6220,7 +6229,7 @@ The domestic relations custody and parenting mediation curriculum shall:
             domestic relations custody and parenting mediation curriculum outlined in this
             section at least three times; and
 
-UTCR 8/1/2025                                12.12
+UTCR 8/1/2025                               12.12
 
       (d)   An understanding of court-connected domestic relations programs.
 

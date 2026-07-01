@@ -1,7 +1,7 @@
 # ORS Chapter 88 — Foreclosure of liens
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors088.html
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official HTML source
 
 ---

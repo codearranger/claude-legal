@@ -1,7 +1,7 @@
 # ORS Chapter 41 — Evidence — general procedure framework
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors041.html
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official HTML source
 
 ---

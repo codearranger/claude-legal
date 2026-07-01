@@ -1,7 +1,7 @@
 # ORS Chapter 36 — Mandatory arbitration
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors036.html
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official HTML source
 
 ---

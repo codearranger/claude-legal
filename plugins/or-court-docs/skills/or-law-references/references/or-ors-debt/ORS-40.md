@@ -1,12 +1,10 @@
 # ORS Chapter 40 — Evidence Code (OEC)
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors040.html
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official HTML source
 
 ---
-
-Chapter 40 — Evidence Code
 
 TITLE 4
 
@@ -25,6 +23,12 @@ Chapter 40. Evidence Code
 45. Testimony Generally
 
 _______________
+
+Chapter 40 — Evidence Code
+
+ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2026 regular session. See the table of ORS sections amended or repealed during the 2026 regular session: 2026 A&R Tables
+
+New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2026 regular session. See sections in the following 2026 Oregon Laws chapters: 2026 Session Laws 0026; 2026 Session Laws 0052; 2026 Session Laws 0057; 2026 Session Laws 0071
 
 2025 EDITION
 

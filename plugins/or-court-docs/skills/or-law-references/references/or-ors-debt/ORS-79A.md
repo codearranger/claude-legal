@@ -1,7 +1,7 @@
 # ORS Chapter 79A — UCC Article 9 (renumbered from 79 in 2025; current authoritative)
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors079A.html
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official HTML source
 
 ---

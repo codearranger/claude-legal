@@ -1,12 +1,18 @@
 # ORS Chapter 659A — Unlawful discrimination — employment, public accommodations, real property
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official HTML source
 
 ---
 
 Chapter 659A — Unlawful Discrimination in Employment, Public Accommodations and Real Property Transactions; Administrative and Civil Enforcement
+
+ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2026 regular session. See the table of ORS sections amended or repealed during the 2026 regular session: 2026 A&R Tables
+
+New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2026 regular session. See sections in the following 2026 Oregon Laws chapters: 2026 Session Laws 0057
+
+New sections of law were enacted by the Legislative Assembly during its 2026 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2026 Oregon Laws chapters: 2026 Session Laws 0093; 2026 Session Laws 0126
 
 2025 EDITION
 
