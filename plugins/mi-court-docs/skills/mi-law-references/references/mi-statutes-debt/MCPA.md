@@ -3,7 +3,7 @@
 > **Scope:** A representative sample of the Michigan Consumer Protection Act (MCL 445.901 et seq.) — definitions, the catalog of prohibited unfair/deceptive acts, and the private remedy.
 > **Act:** Michigan Consumer Protection Act (Act 331 of 1976)
 > **Source:** Michigan Legislature — https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-445-901
-> **Fetched:** 2026-05-30
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Michigan Legislature per-section
 > HTML at `legislature.mi.gov/Laws/MCL?objectName=mcl-<act>-<sec>`.
 

@@ -3,7 +3,7 @@
 > **Scope:** A representative sample of the Elliott-Larsen Civil Rights Act (MCL 37.2101 et seq.) — Michigan's employment / public-accommodation antidiscrimination statute.
 > **Act:** Elliott-Larsen Civil Rights Act (Act 453 of 1976)
 > **Source:** Michigan Legislature — https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-37-2101
-> **Fetched:** 2026-05-30
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Michigan Legislature per-section
 > HTML at `legislature.mi.gov/Laws/MCL?objectName=mcl-<act>-<sec>`.
 

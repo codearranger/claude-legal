@@ -4,7 +4,7 @@
 - Canonical authority: https://www.courts.michigan.gov/administration/rules-and-instructions/court-rules-and-court-administration/
 - Fetched from: https://www.courtrules.net/michigan/michigan-court-rules/part/chapter-1 (courtrules.net mirror)
 - Rules: 13
-- Pulled: 2026-05-31
+- Pulled: 2026-07-01
 
 > Verbatim rule text mirrored from courtrules.net. The canonical publisher is the Michigan Supreme Court (courts.michigan.gov); verify against the current official text before filing.
 

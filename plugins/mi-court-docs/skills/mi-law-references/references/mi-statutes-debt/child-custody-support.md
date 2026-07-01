@@ -3,7 +3,7 @@
 > **Scope:** The Child Custody Act best-interest factors (MCL 722.23) and related custody / parenting-time / support provisions.
 > **Act:** Child Custody Act of 1970 (Act 91 of 1970)
 > **Source:** Michigan Legislature — https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-23
-> **Fetched:** 2026-05-30
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Michigan Legislature per-section
 > HTML at `legislature.mi.gov/Laws/MCL?objectName=mcl-<act>-<sec>`.
 

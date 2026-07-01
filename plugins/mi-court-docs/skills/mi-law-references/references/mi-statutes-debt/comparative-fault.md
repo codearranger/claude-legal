@@ -3,7 +3,7 @@
 > **Scope:** Michigan's modified comparative-fault regime and allocation of fault in tort actions (MCL 600.2957 - 600.2959).
 > **Act:** Revised Judicature Act of 1961 (Act 236 of 1961)
 > **Source:** Michigan Legislature — https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2957
-> **Fetched:** 2026-05-30
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Michigan Legislature per-section
 > HTML at `legislature.mi.gov/Laws/MCL?objectName=mcl-<act>-<sec>`.
 

@@ -4,7 +4,7 @@
 - Canonical authority: https://www.courts.michigan.gov/administration/rules-and-instructions/court-rules-and-court-administration/
 - Fetched from: https://www.courtrules.net/michigan/michigan-court-rules/part/chapter-3 (courtrules.net mirror)
 - Rules: 169
-- Pulled: 2026-05-31
+- Pulled: 2026-07-01
 
 > Verbatim rule text mirrored from courtrules.net. The canonical publisher is the Michigan Supreme Court (courts.michigan.gov); verify against the current official text before filing.
 
@@ -6552,9 +6552,7 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (g) pretrial detention is otherwise specifically authorized by law.
 
-(2) Waiver. A juvenile may waive the probable cause determination required by subrule
-
-(1) only if the juvenile is represented by an attorney.
+(2) Waiver. A juvenile may waive the probable cause determination required by subrule (1) only if the juvenile is represented by an attorney.
 
 (3) Evidence; Findings. The juvenile may contest the sufficiency of evidence by crossexamination of witnesses, presentation of defense witnesses, or by other evidence. The court shall permit the use of subpoena power to secure attendance of defense witnesses. The Michigan Rules of Evidence do not apply, other than those with respect to privileges.
 
@@ -6748,7 +6746,9 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (C) Evidence; Standard of Proof. The Michigan Rules of Evidence and the standard of proof beyond a reasonable doubt apply at trial.
 
-(D) Verdict. In a delinquency proceeding, the verdict must be guilty or not guilty of either the offense charged or a lesser included offense.
+(D) Bench Trial. In an action tried without a jury, the juvenile may make a motion pursuant to MCR 6.419(D) at the close of the prosecutor’s case-in-chief.
+
+(E) Verdict. In a delinquency proceeding, the verdict must be guilty or not guilty of either the offense charged or a lesser included offense. At a trial without a jury, the court must state on the record or in a written opinion its findings of fact and conclusions of law.
 
 Plain-English Summary (for reference only — not a substitute for the rule text above) 
 

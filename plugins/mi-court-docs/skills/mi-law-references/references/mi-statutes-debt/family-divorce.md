@@ -3,7 +3,7 @@
 > **Scope:** Michigan divorce: no-fault grounds, residency requirement, and the framework for division of property (MCL 552.6 et seq.).
 > **Act:** Divorce statute (Act 259 of 1909 / RS 1846 ch. 84)
 > **Source:** Michigan Legislature — https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-552-6
-> **Fetched:** 2026-05-30
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Michigan Legislature per-section
 > HTML at `legislature.mi.gov/Laws/MCL?objectName=mcl-<act>-<sec>`.
 

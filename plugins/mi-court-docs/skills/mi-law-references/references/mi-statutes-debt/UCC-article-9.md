@@ -3,7 +3,7 @@
 > **Scope:** A representative sample of Michigan's enactment of UCC Article 9 (Secured Transactions, MCL 440.9101 et seq.) — the chain-of-title anchor for assigned consumer debt.
 > **Act:** Uniform Commercial Code (Act 174 of 1962)
 > **Source:** Michigan Legislature — https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-440-9101
-> **Fetched:** 2026-05-30
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Michigan Legislature per-section
 > HTML at `legislature.mi.gov/Laws/MCL?objectName=mcl-<act>-<sec>`.
 

@@ -3,7 +3,7 @@
 > **Scope:** Statutes of limitation for contract, tort, and other civil actions under the Revised Judicature Act of 1961 (MCL ch. 600).
 > **Act:** Revised Judicature Act of 1961 (Act 236 of 1961)
 > **Source:** Michigan Legislature — https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5805
-> **Fetched:** 2026-05-30
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Michigan Legislature per-section
 > HTML at `legislature.mi.gov/Laws/MCL?objectName=mcl-<act>-<sec>`.
 

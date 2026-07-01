@@ -3,7 +3,7 @@
 > **Scope:** Michigan landlord-tenant statutes — security-deposit handling, the covenant of fitness/repair, and termination of tenancies (MCL 554.601 et seq. and MCL 554.134).
 > **Act:** Landlord-Tenant Relationships (Act 348 of 1972) / RS 1846 ch. 66
 > **Source:** Michigan Legislature — https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-602
-> **Fetched:** 2026-05-30
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Michigan Legislature per-section
 > HTML at `legislature.mi.gov/Laws/MCL?objectName=mcl-<act>-<sec>`.
 

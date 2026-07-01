@@ -3,7 +3,7 @@
 > **Scope:** Summary proceedings to recover possession of premises — the Michigan eviction statute under RJA chapter 57 (MCL 600.5701 et seq.).
 > **Act:** Revised Judicature Act of 1961 (Act 236 of 1961)
 > **Source:** Michigan Legislature — https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5701
-> **Fetched:** 2026-05-30
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Michigan Legislature per-section
 > HTML at `legislature.mi.gov/Laws/MCL?objectName=mcl-<act>-<sec>`.
 

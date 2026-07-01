@@ -3,8 +3,8 @@
 - Citation: Michigan Court Rules / Michigan Rules of Evidence
 - Canonical authority: https://www.courts.michigan.gov/administration/rules-and-instructions/court-rules-and-court-administration/
 - Fetched from: https://www.courtrules.net/michigan/michigan-court-rules/part/chapter-2 (courtrules.net mirror)
-- Rules: 102
-- Pulled: 2026-05-31
+- Rules: 103
+- Pulled: 2026-07-01
 
 > Verbatim rule text mirrored from courtrules.net. The canonical publisher is the Michigan Supreme Court (courts.michigan.gov); verify against the current official text before filing.
 
@@ -488,7 +488,23 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (F) Newspaper Defined.
 
-(1) The term “newspaper” as used in this rule is limited to a newspaper published in the English language for the dissemination of general news and information or for the dissemination of legal news. The newspaper must have a bona fide list of paying subscribers or have been published at least once a week in the same community without interruption for at least 2 years, and have been established, published, and circulated at least once a week without interruption for at least 1 year in the county where publication is to occur.
+(1) The term “newspaper” as used in this rule means a print publication published in the English language for the dissemination of local news of a general character or for the dissemination of legal news, to which all of the following apply:
+
+(a) There is a bona fide list of paying subscribers to the publication or the publication has been published at least once a week in the same community without interruption for at least 2 years.
+
+(b) The publication has been published and of general circulation at not less than weekly intervals without interruption for at least 1 year in the county where publication is to occur. A newspaper shall not lose eligibility for interruption of continuous publication due to any of the following:
+
+(i) An act of God.
+
+(ii) Labor disputes.
+
+(iii) The COVID-19 pandemic, for the period beginning March 10, 2020 through the end of the COVID-19 pandemic.
+
+(iv) Military service of the publisher for a period not to exceed 2 years and provided the publication is resumed within 6 months following the termination of such military service.
+
+(c) The publication annually averages at least 25% news and editorial content per issue.
+
+(d) The publication must offer a print and website version. During the full publication period, any notice must appear in the publication’s print and website versions and be placed on the website established and maintained by a state association of newspapers that represents a majority of newspapers in this state as a central repository for notices.
 
 (2) If no newspaper qualifies in the county where publication is to be made under subrule (D)(1) the term “newspaper” includes a newspaper that by this rule is qualified to publish notice of actions commenced in an adjoining county.
 
@@ -686,9 +702,7 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (1) if the party or the surety moves out of Michigan, or
 
-(2) if the original amount of the bond proves insufficient.
-
-A person who becomes a new or additional surety is liable for all costs from the commencement of the action, as if he or she had been the original surety.
+(2) if the original amount of the bond proves insufficient. A person who becomes a new or additional surety is liable for all costs from the commencement of the action, as if he or she had been the original surety.
 
 Plain-English Summary (for reference only — not a substitute for the rule text above) 
 
@@ -960,6 +974,70 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 ---
 
+## MCR 2.114
+
+(A) Applicability. This rule applies to eligible causes of action under the Uniform Public Expression Protection Act, MCL 691.1853 et seq.
+
+(B) Special Motion.
+
+(1) Except as otherwise provided in this rule, a special motion must comply with the requirements of MCR 2.119 and must also include a statement that the motion is a special motion being filed pursuant to MCL 691.1853 et seq. and state the basis for the motion under MCL 691.1857.
+
+(2) A special motion for expedited relief to dismiss an action or part of an action must be filed not later than 60 days after the party filing the motion is served with a complaint, cross-claim, counterclaim, third-party claim, or other pleading that asserts an eligible cause of action. The filing timeframe may be extended by the court for good cause shown.
+
+(C) Stay of Proceedings.
+
+(1) Upon filing a special motion, all proceedings between the moving party and the responding party, including discovery and any pending hearings or motions, are stayed.
+
+(2) Upon motion by the moving party, the court may stay a hearing or motion involving another party, or discovery by another party, if the hearing or ruling on the motion would adjudicate, or the discovery would relate to, an issue material to the special motion.
+
+(3) A stay under subrules (C)(1) or (C)(2) remain in effect until entry of an order ruling on the special motion and expiration of the time under subrule (E) for the moving party to appeal the order.
+
+(4) If a party appeals an order deciding the special motion, all proceedings between all parties in the action are stayed until the conclusion of the appeal. Stay on appeal is governed by MCR 7.209 and 7.305(J) .
+
+(5) During the stay, the court may allow limited discovery if a party shows that specific information is necessary to establish whether the party has satisfied or failed to satisfy a burden under MCL 691.1857(1) and the information is not reasonably available unless discovery is allowed.
+
+(6) The stay does not affect a party’s ability to voluntarily dismiss an action or part of an action, or move to sever a cause of action.
+
+(D) Hearing.
+
+(1) The court must hold a hearing on the special motion not later than 60 days after the motion is filed unless the court orders a later hearing date to accommodate limited discovery under subrule (C)(5) or for other good cause. If the court orders a later hearing date to accommodate limited discovery, the hearing must occur not later than 60 days after the court ordered the limited discovery, unless the court orders a later hearing for good cause shown.
+
+(2) In ruling on a special motion, the court must consider the pleadings, the motion, and any reply or response to the motion, affidavits, depositions, admissions, or other documentary evidence.
+
+(3) The court must rule on a special motion not later than 60 days after the hearing. The court must dismiss with prejudice an action, or part of an action, if the court finds the following:
+
+(a) The moving party establishes the cause of action is an eligible cause of action under MCL 691.1852(1)(d); and
+
+(b) The responding party fails to establish that the cause of action is not an eligible cause of action under MCL 691.1852(2); and
+
+(c) Any of the following:
+
+(i) The responding party fails to establish a prima facie case as to each essential element of the cause of action.
+
+(ii) The moving party establishes that the responding party failed to state a cause of action on which relief can be granted.
+
+(iii) The moving party establishes that there is no genuine issue as to any material fact and the moving party is entitled to judgment as a matter of law on the action or part of the action.
+
+(E) Appeal. The moving party may appeal as a matter of right from an order denying or granting, in whole or in part, a special motion. The appeal must be filed in accordance with MCR 7.204 .
+
+(F) Costs, Fees, and Expenses.
+
+(1) Upon motion, the court must award court costs, reasonable attorney fees, and reasonable litigation expenses related to the special motion as follows:
+
+(a) To the moving party if the moving party prevails on the motion. A voluntary dismissal with prejudice of the responding party’s action, or part of an action, that is the subject of a special motion under this rule establishes that the moving party has prevailed for the purpose of this subrule.
+
+(b) To the responding party if the responding party prevails on the motion and the court finds that the motion was frivolous or filed solely with intent to delay the proceeding.
+
+(2) A voluntary dismissal without prejudice of a responding party’s action, or part of an action, that is subject of a special motion under this rule does not affect a moving party’s right to obtain a ruling on the motion or to seek costs, attorney fees, or expenses under this subrule.
+
+(3) A motion for court costs, reasonable attorney fees, and reasonable litigation expenses is not subject to a stay under this rule.
+
+Plain-English Summary (for reference only — not a substitute for the rule text above) 
+
+<div
+
+---
+
 ## MCR 2.115
 
 (A) Motion for More Definite Statement. If a pleading is so vague or ambiguous that it fails to comply with the requirements of these rules, an opposing party may move for a more definite statement before filing a responsive pleading. The motion must point out the defects complained of and the details desired. If the motion is granted and is not obeyed within 14 days after notice of the order, or within such other time as the court may set, the court may strike the pleading to which the motion was directed or enter an order it deems just.
@@ -1026,9 +1104,7 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (3) A party may file more than one motion under this rule, subject to the provisions of subrule (F).
 
-(F) Motion or Affidavit Filed in Bad Faith. A party or an attorney found by the court to have filed a motion or an affidavit in violation of the provisions of MCR 1.109(D)(3) and (E)
-
-may, in addition to the imposition of other penalties prescribed by that rule, be found guilty of contempt.
+(F) Motion or Affidavit Filed in Bad Faith. A party or an attorney found by the court to have filed a motion or an affidavit in violation of the provisions of MCR 1.109(D)(3) and (E) may, in addition to the imposition of other penalties prescribed by that rule, be found guilty of contempt.
 
 (G) Affidavits; Hearing.
 
@@ -1140,7 +1216,9 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (3) Appearance by Appointing Authority.
 
-(a) In some actions, an appointing authority independent of the judiciary determines the attorney that will represent a party for the entirety of the action. In some actions, an appointing authority independent of the judiciary determines that an attorney will represent a party for a single hearing-like an arraignment.
+(a) In some actions, an appointing authority independent of the judiciary determines the attorney that will represent a party for the entirety of the action.
+
+In some actions, an appointing authority independent of the judiciary determines that an attorney will represent a party for a single hearing-like an arraignment.
 
 (b) In actions where an attorney is appointed for the entirety of the action, the appointed attorney shall file an appearance with the court.
 
@@ -1228,7 +1306,9 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (c) Quotations and footnotes may be single-spaced. At least one-inch margins must be used, and printing shall not be smaller than 12-point type.
 
-(d) Except where electronic filing has been implemented, a copy of a motion or response (including brief) filed under this rule must be provided by counsel to the office of the judge hearing the motion. The judge's copy must be clearly marked JUDGE’S COPY on the cover sheet; that notation may be handwritten. Where electronic filing has been implemented, a judge’s copy shall not be required.
+(d) Except where electronic filing has been implemented, a copy of a motion or response (including brief) filed under this rule must be provided by counsel to the office of the judge hearing the motion. The judge's copy must be clearly marked JUDGE’S COPY on the cover sheet; that notation may be handwritten.
+
+Where electronic filing has been implemented, a judge’s copy shall not be required.
 
 (3) A motion and notice of the hearing on it may be combined in the same document.
 
@@ -1644,9 +1724,7 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (1) shall order a change of venue on timely motion of a defendant, or
 
-(2) may order a change of venue on its own initiative with notice to the parties and opportunity for them to be heard on the venue question.
-
-If venue is changed because the action was brought where venue was not proper, the action may be transferred only to a county in which venue would have been proper.
+(2) may order a change of venue on its own initiative with notice to the parties and opportunity for them to be heard on the venue question. If venue is changed because the action was brought where venue was not proper, the action may be transferred only to a county in which venue would have been proper.
 
 (B) Order for Change of Venue; Case Records.
 
@@ -1904,9 +1982,7 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (ii) a stenographic, mechanical, electrical, or other recording, or a transcription of it, which is a substantially verbatim recital of an oral statement by the person making it and contemporaneously recorded.
 
-(4) Trial Preparation; Experts. Discovery of facts known and opinions held by experts, otherwise discoverable under the provisions of subrule (B)(1) and acquired or developed in anticipation of litigation or for trial, may be obtained only as follows:
-
-(a) (i) A party may through interrogatories require another party to identify each person whom the other party expects to call as an expert witness at trial, to state the subject matter about which the expert is expected to testify, and to state the substance of the facts and opinions to which the expert is expected to testify and a summary of the grounds for each opinion.
+(4) Trial Preparation; Experts. Discovery of facts known and opinions held by experts, otherwise discoverable under the provisions of subrule (B)(1) and acquired or developed in anticipation of litigation or for trial, may be obtained only as follows: (a)(i) A party may through interrogatories require another party to identify each person whom the other party expects to call as an expert witness at trial, to state the subject matter about which the expert is expected to testify, and to state the substance of the facts and opinions to which the expert is expected to testify and a summary of the grounds for each opinion.
 
 (ii) A party may take the deposition of a person whom the other party expects to call as an expert witness at trial. The party taking the deposition may notice that the deposition is to be taken for the purpose of discovery only and that it shall not be admissible at trial except for the purpose of impeachment, without the necessity of obtaining a protective order as set forth in MCR 2.302(C)(7).
 
@@ -2078,9 +2154,7 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (2) before a person appointed by the court in which the action is pending; or
 
-(3) before a person on whom the parties agree by stipulation under MCR 2.302(F)(1) .
-
-A person acting under subrule (A)(2) or (3) has the power to administer oaths, take testimony, and do all other acts necessary to take a deposition.
+(3) before a person on whom the parties agree by stipulation under MCR 2.302(F)(1) . A person acting under subrule (A)(2) or (3) has the power to administer oaths, take testimony, and do all other acts necessary to take a deposition.
 
 (B) In Foreign Countries. In a foreign country, depositions may be taken
 
@@ -2108,9 +2182,7 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (A) General Provisions.
 
-(1) A represented party may issue a subpoena to a non-party for a deposition, production or inspection of documents, inspection of tangible things, or entry to land upon court order or after all parties have had a reasonable opportunity to obtain an attorney, as determined under MCR 2.306(A) . An unrepresented party may move the court for issuance of non-party discovery subpoenas. MCR 2.306(B)(1) -(2) and (C)-(G) apply to a subpoena under this rule. This rule governs discovery from a nonparty under MCR 2.303(A)(4) , 2.307 , 2.310(B)(2) or 2.315 . MCR 2.506(A)(2) and
-
-(3) apply to any request for production of ESI. A subpoena for hospital records is governed by MCR 2.506(I) .
+(1) A represented party may issue a subpoena to a non-party for a deposition, production or inspection of documents, inspection of tangible things, or entry to land upon court order or after all parties have had a reasonable opportunity to obtain an attorney, as determined under MCR 2.306(A) . An unrepresented party may move the court for issuance of non-party discovery subpoenas. MCR 2.306(B)(1) -(2) and (C)-(G) apply to a subpoena under this rule. This rule governs discovery from a nonparty under MCR 2.303(A)(4) , 2.307 , 2.310(B)(2) or 2.315 . MCR 2.506(A)(2) and (3) apply to any request for production of ESI. A subpoena for hospital records is governed by MCR 2.506(I) .
 
 (2) A subpoena may provide that it is solely for producing documents or other tangible things for inspection and copying, and that the party does not intend to examine the deponent. The subpoena shall specify whether an inspection is requested or whether the subpoena may be satisfied by delivering a copy of the requested documents. Any request for documents shall indicate that the subpoenaing party will pay reasonable copying costs.
 
@@ -2462,7 +2534,9 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (4) If an objection is made, the reasons must be stated. A party who considers that a matter of which an admission has been requested presents a genuine issue for trial may not, on that ground alone, object to the request. The party may, subject to the provisions of MCR 2.313(C) , deny the matter or state reasons why he or she cannot admit or deny it.
 
-(C) Motion Regarding Answer or Objection. The party who has requested the admission may move to determine the sufficiency of the answer or objection. The motion must state that the movant has in good faith conferred or attempted to confer with the party not making the disclosure in an effort to secure the disclosure without court action. Unless the court determines that an objection is justified, it shall order that an answer be served. If the court determines that an answer does not comply with the requirements of the rule, it may order either that the matter is admitted, or that an amended answer be served. The court may, in lieu of one of these orders, determine that final disposition of the request be made at a pretrial conference or at a designated time before trial. The provisions of MCR 2.313(A)(5) apply to the award of expenses incurred in relation to the motion.
+(C) Motion Regarding Answer or Objection. The party who has requested the admission may move to determine the sufficiency of the answer or objection. The motion must state that the movant has in good faith conferred or attempted to confer with the party not making the disclosure in an effort to secure the disclosure without court action. Unless the court determines that an objection is justified, it shall order that an answer be served.
+
+If the court determines that an answer does not comply with the requirements of the rule, it may order either that the matter is admitted, or that an amended answer be served. The court may, in lieu of one of these orders, determine that final disposition of the request be made at a pretrial conference or at a designated time before trial. The provisions of MCR 2.313(A)(5) apply to the award of expenses incurred in relation to the motion.
 
 (D) Effect of Admission.
 
@@ -3046,9 +3120,7 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (a) the court sets aside the order submitting the case to case evaluation or on its own initiative adjourns the case evaluation hearing, or
 
-(b) the parties notify the ADR clerk in writing at least 14 days before the case evaluation hearing of the settlement, dismissal, or entry of judgment disposing of the action, or of an order of adjournment on stipulation or the motion of a party.
-
-If case evaluation is rescheduled at a later time, the fee provisions of subrule (H) apply regardless of whether previously paid fees have been refunded.
+(b) the parties notify the ADR clerk in writing at least 14 days before the case evaluation hearing of the settlement, dismissal, or entry of judgment disposing of the action, or of an order of adjournment on stipulation or the motion of a party. If case evaluation is rescheduled at a later time, the fee provisions of subrule (H) apply regardless of whether previously paid fees have been refunded.
 
 (5) Fees paid pursuant to subrule (H) shall not be refunded to the parties if
 
@@ -3504,7 +3576,9 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (i) entry of an order of default or dismissal would cause manifest injustice; or
 
-(ii) the failure to attend was not due to the culpable negligence of the party or the party's attorney. The court may condition the order on the payment by the offending party or attorney of reasonable expenses as provided in MCR 2.313(B)(2) .
+(ii) the failure to attend was not due to the culpable negligence of the party or the party's attorney.
+
+The court may condition the order on the payment by the offending party or attorney of reasonable expenses as provided in MCR 2.313(B)(2) .
 
 (E) Objections to ADR. Within 14 days after entry of an order referring a case to an ADR process, a party may move to set aside or modify the order. A timely motion must be decided before the case is submitted to the ADR process.
 
@@ -4590,9 +4664,7 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (2) Notice that the default has been entered must be sent to all parties who have appeared and to the defaulted party. If the defaulted party has not appeared, the notice to the defaulted party may be served by personal service, by ordinary firstclass mail at his or her last known address or the place of service, or as otherwise directed by the court. The notice must be sent by the party who sought entry of the default. Proof of service and a copy of the notice must be filed with the court.
 
-(3) After the default of a party has been entered, that party may not proceed with the action until the default has been set aside by the court in accordance with subrule
-
-(D) or MCR 2.612 .
+(3) After the default of a party has been entered, that party may not proceed with the action until the default has been set aside by the court in accordance with subrule (D) or MCR 2.612 .
 
 (B) Default Judgment.
 
@@ -4912,9 +4984,7 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (2) transmits the ordinance, court rule or other measure to the State Court Administrative Office. The State Court Administrative Office shall make available to state courts the material received pursuant to paragraph (B)(1).
 
-(C) A judgment, decree, order, warrant, subpoena, record, or other judicial act of a tribal court of a federally recognized Indian tribe that has taken the actions described in subrule
-
-(B) is presumed to be valid. To overcome that presumption, an objecting party must demonstrate that
+(C) A judgment, decree, order, warrant, subpoena, record, or other judicial act of a tribal court of a federally recognized Indian tribe that has taken the actions described in subrule (B) is presumed to be valid. To overcome that presumption, an objecting party must demonstrate that
 
 (1) the tribal court lacked personal or subject-matter jurisdiction, or
 
@@ -5136,9 +5206,7 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 (6) A receiver or person performing services for a receiver shall not, in any form or manner, share or agree to share compensation for services rendered to the receivership estate with any person other than a firm member, partner, employer, or regular associate of the person rendering the services except as authorized by order of the court.
 
-(G) Bond.
-
-In setting an appropriate bond for the receiver, the court may consider factors including but not limited to:
+(G) Bond. In setting an appropriate bond for the receiver, the court may consider factors including but not limited to:
 
 (1) The value of the receivership estate, if known;
 

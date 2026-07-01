@@ -3,7 +3,7 @@
 > **Scope:** Michigan's public-holiday statute — used by the case-calendar deadline arithmetic (MCL 435.101 et seq.).
 > **Act:** Public Holidays (Act 261 of 1865 et al.)
 > **Source:** Michigan Legislature — https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-435-101
-> **Fetched:** 2026-05-30
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Michigan Legislature per-section
 > HTML at `legislature.mi.gov/Laws/MCL?objectName=mcl-<act>-<sec>`.
 

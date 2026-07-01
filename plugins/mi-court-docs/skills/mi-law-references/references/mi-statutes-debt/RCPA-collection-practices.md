@@ -3,7 +3,7 @@
 > **Scope:** Michigan's mini-FDCPA — the Regulation of Collection Practices Act (MCL 445.251 et seq.), which reaches first-party creditors in addition to third-party collectors.
 > **Act:** Regulation of Collection Practices Act (Act 360 of 1976)
 > **Source:** Michigan Legislature — https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-445-251
-> **Fetched:** 2026-05-30
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Michigan Legislature per-section
 > HTML at `legislature.mi.gov/Laws/MCL?objectName=mcl-<act>-<sec>`.
 
