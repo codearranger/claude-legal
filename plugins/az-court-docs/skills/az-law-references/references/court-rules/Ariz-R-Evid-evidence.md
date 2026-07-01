@@ -4,7 +4,7 @@
 - Canonical authority: https://www.azcourts.gov/rules/Recent-Amendments/Rules-of-Evidence
 - Fetched from: https://www.courtrules.net/arizona/az-evidence (courtrules.net mirror)
 - Rules: 71
-- Pulled: 2026-05-31
+- Pulled: 2026-07-01
 
 > Verbatim rule text mirrored from courtrules.net. The canonical publisher is the Arizona Supreme Court (azcourts.gov); verify against the current official text before filing.
 
@@ -179,6 +179,8 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 ---
 
 ## Ariz. R. Evid. 302
+
+[Not adopted.]
 
 Plain-English Summary (for reference only — not a substitute for the rule text above) 
 
@@ -414,6 +416,8 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 ## Ariz. R. Evid. 413
 
+[Not adopted.]
+
 Plain-English Summary (for reference only — not a substitute for the rule text above) 
 
 <div
@@ -422,6 +426,8 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 
 ## Ariz. R. Evid. 414
 
+[Not adopted.]
+
 Plain-English Summary (for reference only — not a substitute for the rule text above) 
 
 <div
@@ -429,6 +435,8 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 ---
 
 ## Ariz. R. Evid. 415
+
+[Not adopted.]
 
 Plain-English Summary (for reference only — not a substitute for the rule text above) 
 

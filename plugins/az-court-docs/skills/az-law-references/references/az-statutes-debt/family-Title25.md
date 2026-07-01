@@ -3,7 +3,7 @@
 > **Scope:** Arizona community-property and family-law anchors: the community-property presumption, dissolution petition / decree framework, spousal maintenance, division of property, legal decision-making and parenting time, child support, and the Uniform Parentage Act.
 > **Title/Act:** A.R.S. Title 25 (Marital and Domestic Relations)
 > **Source:** Arizona Legislature — https://www.azleg.gov/ars/25/00211.htm
-> **Fetched:** 2026-05-31
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Arizona Legislature per-section
 > HTML fragments at `azleg.gov/ars/<title>/<NNNNN>.htm`.
 

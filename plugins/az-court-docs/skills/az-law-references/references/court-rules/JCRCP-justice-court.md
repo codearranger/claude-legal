@@ -4,13 +4,103 @@
 - Canonical authority: https://www.azcourts.gov/rules/Recent-Amendments/Justice-Court-Rules-of-Civil-Procedure
 - Fetched from: https://www.courtrules.net/arizona/az-justice-court-civil (courtrules.net mirror)
 - Rules: 53
-- Pulled: 2026-05-31
+- Pulled: 2026-07-01
 
 > Verbatim rule text mirrored from courtrules.net. The canonical publisher is the Arizona Supreme Court (azcourts.gov); verify against the current official text before filing.
 
 ## Scope
 
 Justice Court Rules of Civil Procedure — the streamlined civil procedure for Arizona justice courts (civil jurisdiction up to $10,000): commencement, service, answers and default, limited discovery, motions, trial, judgment and post-judgment enforcement, and the small-claims division.
+
+---
+
+## Ariz. JCRCP 101
+
+a. Title of these rules. These rules are called the Justice Court Rules of Civil Procedure (“JCRCP”). [ARCP 85] 
+
+b. Application of these rules. These rules apply to civil lawsuits in justice courts in Arizona. These rules do not apply to evictions, small claims, civil traffic or civil boating proceedings, or to protective orders or injunctions against harassment in justice courts, except that Rule 140 regarding entry of default judgments applies in small claims cases. [ARCP 1] 
+
+c. Interpretation of these rules. Judges and parties should use and interpret these rules so that civil lawsuits are resolved speedily, inexpensively, and fairly. [ARCP 1] 
+
+d. Relationship of these rules to the Arizona Rules of Civil Procedure. These rules replace the Arizona Rules of Civil Procedure (“the superior court rules”). In 2016, the Arizona Supreme Court adopted comprehensive amendments to the Arizona Rules of Civil Procedure (“the superior court rules”), which took effect on January 1, 2017 (the “2016 amendments”). All references to the superior court rules in these rules, or in the Appendices, refer to the Arizona Rules of Civil Procedure as in effect before the 2016 amendments. Differences in language between a justice court rule and a superior court rule are intended to make the justice court rule simpler and easier to understand. Case law interpreting a superior court rule before the 2016 amendments is authoritative unless a justice court rule expressly adds a requirement or provides a right not found in a superior court rule. The application of case law interpreting a superior court rule as amended in 2016 will depend on the issue addressed. In general, post-2016 case law addressing aspects of a rule that were not substantively changed by the 2016 amendments should continue to be authoritative. For ease of reference, any related superior court rules are shown in brackets at the end of a corresponding subsection of these rules. These cross-references utilize the numbering of the superior court rules as in effect before the 2016 amendments.
+
+Plain-English Summary (for reference only — not a substitute for the rule text above) 
+
+<div
+
+---
+
+## Ariz. JCRCP 102
+
+a. Meaning of “party”. Everyone who makes a claim in a lawsuit, or anyone against whom a claim is made, is a party in that lawsuit.
+
+b. Every party in a lawsuit has these responsibilities: 
+
+(1) To provide the court with a current address and telephone number: A party must advise the court in writing of any change in the party's mailing address or telephone number until the lawsuit is over. [ARCP 5.1(b)] 
+
+(2) To provide copies of filed documents: A party must provide a copy of every document the party files with the court to all the other parties in the lawsuit (see Rule 120 ). [ARCP 5(a)] 
+
+(3) To provide a disclosure statement and to respond to discovery requests: A party must provide a disclosure statement to the other parties in the lawsuit (see Rule 121 ). A party must also respond to discovery requests made by another party (see Rules 122 through 127). [ARCP 26.1, 26(a)] 
+
+(4) To appear in court: A party must attend all scheduled court proceedings, either personally or through the party's attorney (see Rules 130 , 131 , and 132 ).
+
+(5) To give the court notice of a settlement: A party must notify the court if a lawsuit that is set for trial has settled before the trial date, and whether the settlement will take place by the entry of a judgment or by dismissal of the lawsuit. [ARCP 5.1(c)] 
+
+c. Parties representing themselves. Parties who represent themselves must read these rules and know the rules that apply to their lawsuit.
+
+d. Appearance, withdrawal, and substitution of attorneys. An attorney in a civil lawsuit in justice court must enter an appearance. An attorney who later requests the judge's permission to withdraw as counsel must file a motion that states the reasons for the request to withdraw, and the motion must include the name, address, and telephone number of the client. A motion to withdraw must include the client's signed consent to the motion being granted; or it must include a statement that the attorney has advised the client of the dates and times of future proceedings and the status of any existing court orders. A notice of substitution of attorneys must contain the signatures of the former attorney and the substituting attorney. The signature of the substituting attorney affirms that the attorney is aware of existing court orders, pending proceedings, and the trial date, and that the attorney will appear on those dates and will be prepared for trial. [ARCP 5.1] 
+
+Plain-English Summary (for reference only — not a substitute for the rule text above) 
+
+<div
+
+---
+
+## Ariz. JCRCP 103
+
+a. Conduct in court. Parties and witnesses who appear in court must conduct themselves in an orderly, courteous, and dignified manner. Arguments and remarks during a court hearing, other than questions to a witness, must generally be addressed to the court, not to the other parties or their attorneys. [ARCP 80(a)] 
+
+b. Exclusion of minors. The court may exclude children from the courtroom if their presence is not necessary as parties or witnesses. [ARCP 80(b)] 
+
+c. Agreements between parties. An agreement between parties or attorneys concerning their lawsuit that they make out of court is binding on them only if the agreement is in writing and is signed by the parties or their attorneys. If the parties make an agreement orally in court, it is binding only when it is documented in the court records. [ARCP 80(d)] 
+
+d. Lost or destroyed records. If the court's record of a lawsuit or any portion of a lawsuit has been lost or destroyed, a judge may allow a party to replace the missing record by submitting a duplicate record. The judge must give other parties a reasonable opportunity to object to the duplicate record. [ARCP 80(h)] 
+
+Plain-English Summary (for reference only — not a substitute for the rule text above) 
+
+<div
+
+---
+
+## Ariz. JCRCP 103.1
+
+(a) Generally. The clerk receives and maintains:
+
+(1) all exhibits offered for admission in evidence but not received in evidence;
+
+(2) all exhibits admitted in evidence; and
+
+(3) any illustrative aid used under Rule 107 of the Arizona Rules of Evidence.
+
+(b) Manner of Disposition. Unless the court orders otherwise, after the case is no longer subject to modification, the clerk must dispose of evidence and illustrative aids in the case as follows:
+
+(1) Any exhibit submitted through a digital evidence portal (a “digital exhibit”) must be deleted by the clerk without further notice.
+
+(2) For any exhibit or evidence not submitted through a digital evidence portal (a “physical exhibit”) and illustrative aids, the clerk must provide at least 30 days' notice to the party who submitted the physical exhibit or illustrative aid for that party to claim and, if claimed, return it to the party who submitted it. If the party who submitted the physical exhibit or illustrative aid does not claim it after 30 days from such notice, the clerk may dispose of the physical exhibit or illustrative aid.
+
+(c) Definition of “Subject to Modification.” For purposes of this rule, a case is “no longer subject to modification” when no further matters remain pending and 90 days after:
+
+(1) the trial court dismisses all claims, unless a party files a notice of appeal;
+
+(2) the entry of an appealable judgment or appealable order, unless a party files a notice of appeal or a post-trial motion;
+
+(3) the trial court denies a post-trial motion, unless a party files a notice of appeal from the denial of that motion; or
+
+(4) the trial court receives an appellate court mandate affirming.
+
+Plain-English Summary (for reference only — not a substitute for the rule text above) 
+
+<div
 
 ---
 
@@ -307,96 +397,6 @@ Plain-English Summary (for reference only — not a substitute for the rule text
 ## Ariz. JCRCP Appendix 4
 
 This table cross-references justice court rules to their counterparts in the Arizona Rules of Civil Procedure. In 2016, the Arizona Supreme Court adopted comprehensive amendments to the Arizona Rules of Civil Procedure, which took effect on January 1, 2017 (the “2016 amendments”). This Table cross-references justice court rules to their counterparts in the Arizona Rules of Civil Procedure as in effect before the 2016 amendments, and utilizes the numbering of the former rules. The cross-referenced rules share common subjects, but the text of a counterpart rule may be slightly or significantly different.
-
-Plain-English Summary (for reference only — not a substitute for the rule text above) 
-
-<div
-
----
-
-## Ariz. JCRCP 101
-
-a. Title of these rules. These rules are called the Justice Court Rules of Civil Procedure (“JCRCP”). [ARCP 85] 
-
-b. Application of these rules. These rules apply to civil lawsuits in justice courts in Arizona. These rules do not apply to evictions, small claims, civil traffic or civil boating proceedings, or to protective orders or injunctions against harassment in justice courts, except that Rule 140 regarding entry of default judgments applies in small claims cases. [ARCP 1] 
-
-c. Interpretation of these rules. Judges and parties should use and interpret these rules so that civil lawsuits are resolved speedily, inexpensively, and fairly. [ARCP 1] 
-
-d. Relationship of these rules to the Arizona Rules of Civil Procedure. These rules replace the Arizona Rules of Civil Procedure (“the superior court rules”). In 2016, the Arizona Supreme Court adopted comprehensive amendments to the Arizona Rules of Civil Procedure (“the superior court rules”), which took effect on January 1, 2017 (the “2016 amendments”). All references to the superior court rules in these rules, or in the Appendices, refer to the Arizona Rules of Civil Procedure as in effect before the 2016 amendments. Differences in language between a justice court rule and a superior court rule are intended to make the justice court rule simpler and easier to understand. Case law interpreting a superior court rule before the 2016 amendments is authoritative unless a justice court rule expressly adds a requirement or provides a right not found in a superior court rule. The application of case law interpreting a superior court rule as amended in 2016 will depend on the issue addressed. In general, post-2016 case law addressing aspects of a rule that were not substantively changed by the 2016 amendments should continue to be authoritative. For ease of reference, any related superior court rules are shown in brackets at the end of a corresponding subsection of these rules. These cross-references utilize the numbering of the superior court rules as in effect before the 2016 amendments.
-
-Plain-English Summary (for reference only — not a substitute for the rule text above) 
-
-<div
-
----
-
-## Ariz. JCRCP 102
-
-a. Meaning of “party”. Everyone who makes a claim in a lawsuit, or anyone against whom a claim is made, is a party in that lawsuit.
-
-b. Every party in a lawsuit has these responsibilities: 
-
-(1) To provide the court with a current address and telephone number: A party must advise the court in writing of any change in the party's mailing address or telephone number until the lawsuit is over. [ARCP 5.1(b)] 
-
-(2) To provide copies of filed documents: A party must provide a copy of every document the party files with the court to all the other parties in the lawsuit (see Rule 120 ). [ARCP 5(a)] 
-
-(3) To provide a disclosure statement and to respond to discovery requests: A party must provide a disclosure statement to the other parties in the lawsuit (see Rule 121 ). A party must also respond to discovery requests made by another party (see Rules 122 through 127). [ARCP 26.1, 26(a)] 
-
-(4) To appear in court: A party must attend all scheduled court proceedings, either personally or through the party's attorney (see Rules 130 , 131 , and 132 ).
-
-(5) To give the court notice of a settlement: A party must notify the court if a lawsuit that is set for trial has settled before the trial date, and whether the settlement will take place by the entry of a judgment or by dismissal of the lawsuit. [ARCP 5.1(c)] 
-
-c. Parties representing themselves. Parties who represent themselves must read these rules and know the rules that apply to their lawsuit.
-
-d. Appearance, withdrawal, and substitution of attorneys. An attorney in a civil lawsuit in justice court must enter an appearance. An attorney who later requests the judge's permission to withdraw as counsel must file a motion that states the reasons for the request to withdraw, and the motion must include the name, address, and telephone number of the client. A motion to withdraw must include the client's signed consent to the motion being granted; or it must include a statement that the attorney has advised the client of the dates and times of future proceedings and the status of any existing court orders. A notice of substitution of attorneys must contain the signatures of the former attorney and the substituting attorney. The signature of the substituting attorney affirms that the attorney is aware of existing court orders, pending proceedings, and the trial date, and that the attorney will appear on those dates and will be prepared for trial. [ARCP 5.1] 
-
-Plain-English Summary (for reference only — not a substitute for the rule text above) 
-
-<div
-
----
-
-## Ariz. JCRCP 103
-
-a. Conduct in court. Parties and witnesses who appear in court must conduct themselves in an orderly, courteous, and dignified manner. Arguments and remarks during a court hearing, other than questions to a witness, must generally be addressed to the court, not to the other parties or their attorneys. [ARCP 80(a)] 
-
-b. Exclusion of minors. The court may exclude children from the courtroom if their presence is not necessary as parties or witnesses. [ARCP 80(b)] 
-
-c. Agreements between parties. An agreement between parties or attorneys concerning their lawsuit that they make out of court is binding on them only if the agreement is in writing and is signed by the parties or their attorneys. If the parties make an agreement orally in court, it is binding only when it is documented in the court records. [ARCP 80(d)] 
-
-d. Lost or destroyed records. If the court's record of a lawsuit or any portion of a lawsuit has been lost or destroyed, a judge may allow a party to replace the missing record by submitting a duplicate record. The judge must give other parties a reasonable opportunity to object to the duplicate record. [ARCP 80(h)] 
-
-Plain-English Summary (for reference only — not a substitute for the rule text above) 
-
-<div
-
----
-
-## Ariz. JCRCP 103.1
-
-(a) Generally. The clerk receives and maintains:
-
-(1) all exhibits offered for admission in evidence but not received in evidence;
-
-(2) all exhibits admitted in evidence; and
-
-(3) any illustrative aid used under Rule 107 of the Arizona Rules of Evidence.
-
-(b) Manner of Disposition. Unless the court orders otherwise, after the case is no longer subject to modification, the clerk must dispose of evidence and illustrative aids in the case as follows:
-
-(1) Any exhibit submitted through a digital evidence portal (a “digital exhibit”) must be deleted by the clerk without further notice.
-
-(2) For any exhibit or evidence not submitted through a digital evidence portal (a “physical exhibit”) and illustrative aids, the clerk must provide at least 30 days' notice to the party who submitted the physical exhibit or illustrative aid for that party to claim and, if claimed, return it to the party who submitted it. If the party who submitted the physical exhibit or illustrative aid does not claim it after 30 days from such notice, the clerk may dispose of the physical exhibit or illustrative aid.
-
-(c) Definition of “Subject to Modification.” For purposes of this rule, a case is “no longer subject to modification” when no further matters remain pending and 90 days after:
-
-(1) the trial court dismisses all claims, unless a party files a notice of appeal;
-
-(2) the entry of an appealable judgment or appealable order, unless a party files a notice of appeal or a post-trial motion;
-
-(3) the trial court denies a post-trial motion, unless a party files a notice of appeal from the denial of that motion; or
-
-(4) the trial court receives an appellate court mandate affirming.
 
 Plain-English Summary (for reference only — not a substitute for the rule text above) 
 

@@ -3,7 +3,7 @@
 > **Scope:** The Arizona Consumer Fraud Act definitions and prohibited practices (A.R.S. Title 44, ch. 10, art. 7) and the collection-agency licensing regime under A.R.S. Title 32, ch. 9.
 > **Title/Act:** A.R.S. Title 44, ch. 10 (Consumer Fraud); A.R.S. Title 32, ch. 9 (Collection Agencies)
 > **Source:** Arizona Legislature — https://www.azleg.gov/ars/44/01521.htm
-> **Fetched:** 2026-05-31
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Arizona Legislature per-section
 > HTML fragments at `azleg.gov/ars/<title>/<NNNNN>.htm`.
 

@@ -3,7 +3,7 @@
 > **Scope:** Writs of garnishment of earnings and of monies/property, the continuing-lien framework, and execution / judgment-enforcement provisions under A.R.S. Title 12.
 > **Title/Act:** A.R.S. Title 12, ch. 8 (Special Actions and Proceedings Relating to Property)
 > **Source:** Arizona Legislature — https://www.azleg.gov/ars/12/01551.htm
-> **Fetched:** 2026-05-31
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Arizona Legislature per-section
 > HTML fragments at `azleg.gov/ars/<title>/<NNNNN>.htm`.
 

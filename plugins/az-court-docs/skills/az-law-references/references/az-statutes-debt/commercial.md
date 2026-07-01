@@ -1,9 +1,9 @@
-# Commercial — UCC, Uniform Fraudulent Transfer Act, RICO & LLC — Arizona Revised Statutes
+# Commercial — UCC, Antitrust, RICO & LLC — Arizona Revised Statutes
 
-> **Scope:** Commercial-litigation anchors: the UCC statute of limitations for contracts of sale (§ 47-2725), the Arizona Uniform Fraudulent Transfer Act (§ 44-1001 et seq.), the civil-RICO/racketeering private cause of action (§ 13-2314.04), and the Arizona Limited Liability Company Act (§ 29-3101 et seq.).
+> **Scope:** Commercial-litigation anchors: the UCC statute of limitations for contracts of sale, the Arizona Uniform State Antitrust Act, the civil-RICO private cause of action, and the existence of the Arizona Limited Liability Company Act.
 > **Title/Act:** A.R.S. Title 44 / Title 47 (UCC) / Title 29 (LLC) / Title 13 (RICO)
 > **Source:** Arizona Legislature — https://www.azleg.gov/ars/44/00401.htm
-> **Fetched:** 2026-05-31
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Arizona Legislature per-section
 > HTML fragments at `azleg.gov/ars/<title>/<NNNNN>.htm`.
 

@@ -3,7 +3,7 @@
 > **Scope:** Justice-court civil jurisdiction (the $10,000 amount-in-controversy cap), venue, the small-claims division, and appeal to superior court under A.R.S. Title 22.
 > **Title/Act:** A.R.S. Title 22 (Justice and Municipal Courts)
 > **Source:** Arizona Legislature — https://www.azleg.gov/ars/22/00201.htm
-> **Fetched:** 2026-05-31
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Arizona Legislature per-section
 > HTML fragments at `azleg.gov/ars/<title>/<NNNNN>.htm`.
 

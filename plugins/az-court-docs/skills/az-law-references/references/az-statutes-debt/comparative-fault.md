@@ -3,7 +3,7 @@
 > **Scope:** Arizona's pure comparative-fault regime (A.R.S. § 12-2505) and the abolition of joint liability in favor of several liability with allocation of fault (§ 12-2506).
 > **Title/Act:** A.R.S. Title 12, ch. 9, art. 3 (Comparative Fault)
 > **Source:** Arizona Legislature — https://www.azleg.gov/ars/12/02505.htm
-> **Fetched:** 2026-05-31
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Arizona Legislature per-section
 > HTML fragments at `azleg.gov/ars/<title>/<NNNNN>.htm`.
 

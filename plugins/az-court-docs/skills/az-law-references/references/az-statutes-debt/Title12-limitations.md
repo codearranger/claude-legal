@@ -3,7 +3,7 @@
 > **Scope:** Statutes of limitation for tort, oral and written contract, and other civil actions under A.R.S. Title 12, chapter 5.
 > **Title/Act:** A.R.S. Title 12 (Courts and Civil Proceedings)
 > **Source:** Arizona Legislature — https://www.azleg.gov/ars/12/00541.htm
-> **Fetched:** 2026-05-31
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Arizona Legislature per-section
 > HTML fragments at `azleg.gov/ars/<title>/<NNNNN>.htm`.
 

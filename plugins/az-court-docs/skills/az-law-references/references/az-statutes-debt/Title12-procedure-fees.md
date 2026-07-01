@@ -3,7 +3,7 @@
 > **Scope:** Costs to the prevailing party, the contested-contract-action attorney-fee statute, the notice-of-claim and limitations regime for actions against public entities, and the medical-malpractice preliminary-expert certification requirement.
 > **Title/Act:** A.R.S. Title 12 (Courts and Civil Proceedings)
 > **Source:** Arizona Legislature — https://www.azleg.gov/ars/12/00341.htm
-> **Fetched:** 2026-05-31
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Arizona Legislature per-section
 > HTML fragments at `azleg.gov/ars/<title>/<NNNNN>.htm`.
 

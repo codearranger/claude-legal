@@ -3,7 +3,7 @@
 > **Scope:** Arizona's enumerated legal holidays — used by the case-calendar deadline arithmetic (A.R.S. § 1-301).
 > **Title/Act:** A.R.S. Title 1 (General Provisions)
 > **Source:** Arizona Legislature — https://www.azleg.gov/ars/1/00301.htm
-> **Fetched:** 2026-05-31
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Arizona Legislature per-section
 > HTML fragments at `azleg.gov/ars/<title>/<NNNNN>.htm`.
 

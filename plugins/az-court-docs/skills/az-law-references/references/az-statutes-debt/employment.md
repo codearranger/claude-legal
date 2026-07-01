@@ -3,7 +3,7 @@
 > **Scope:** Arizona wage-payment and recovery remedies (treble damages for withheld wages), the workers'-compensation exclusive remedy, the Employment Protection Act, and the existence of the Arizona Civil Rights Act employment-discrimination definitions.
 > **Title/Act:** A.R.S. Title 23 (Labor); A.R.S. Title 41, ch. 9, art. 4 (Arizona Civil Rights Act)
 > **Source:** Arizona Legislature — https://www.azleg.gov/ars/23/00355.htm
-> **Fetched:** 2026-05-31
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the Arizona Legislature per-section
 > HTML fragments at `azleg.gov/ars/<title>/<NNNNN>.htm`.
 
