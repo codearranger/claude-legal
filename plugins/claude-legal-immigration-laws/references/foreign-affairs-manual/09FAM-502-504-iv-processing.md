@@ -3,7 +3,7 @@
 - Citation: Foreign Affairs Manual (FAM), U.S. Department of State
 - Volume index: https://fam.state.gov/Volumes/Details/09FAM
 - Sections mirrored: 20
-- Pulled: 2026-05-28
+- Pulled: 2026-07-01
 
 > Verbatim text reduced from fam.state.gov Word-exported HTML (windows-1252). The FAM is agency guidance, not binding law.
 
@@ -10621,7 +10621,7 @@ e. (U) See 9 FAM 504.2-6(D)(1) for information about convictions information and
 
 (U) Immigrant Visa Issuance
 
-(CT:VISA-2141; 03-26-2025) (Office of Origin: CA/VO)
+(CT:VISA-2194; 06-17-2026) (Office of Origin: CA/VO)
 
 #### 9 FAM 504.10-1 (U) statutory and regulatory Authorities
 
@@ -10883,7 +10883,7 @@ c. (U) Illustration of IV Envelope:
 
 #### 9 FAM 504.10-2(E)(4) (U) Social Security Registration
 
-(CT:VISA-1869; 11-22-2023)
+(CT:VISA-2194; 06-17-2026)
 
 a. (U) The Social Security Act requires that every new immigrant, regardless of age, be issued a Social Security number (SSN) when admitted to the United States. Immigrants applying to enter the United States may apply for their SSN on the DS-260, Social Security Number Information Page, if they will be 18 years of age or older upon their arrival. Those who do so can expect to receive their SSN card at their new U.S. address within three weeks of arriving. See paragraph c below for further explanation.
 
@@ -10897,7 +10897,7 @@ We are pleased you intend to immigrate to the United States. Upon admission to t
 
 If You Requested a Social Security Number When You Applied for Your Visa
 
-If you, your parents, or proper applicant requested an SSN card as part of your visa application, [U.S. Department of State (DoS) Form DS-230 (Part II, Questions 43a and 43b) or electronic form DS-260 (question 63a and 63b)], when you arrive in the United States, the U.S. DoS and the U.S. Department of Homeland Security (DHS) will send the Social Security Administration (SSA) the information needed to issue you an SSN card.
+If you, your parents, or proper applicant requested an SSN card as part of your visa application, [U.S. Department of State (DoS) Form DS-260 (question 63a and 63b)], when you arrive in the United States, the U.S. DoS and the U.S. Department of Homeland Security (DHS) will send the Social Security Administration (SSA) the information needed to issue you an SSN card.
 
 The Social Security Administration will automatically assign you an SSN and issue you a Social Security card after you arrive in the United States. If you already have an SSN, a replacement card will be issued. You do not need to fill out a special application or go to a Social Security office to get an SSN.
 
@@ -11265,7 +11265,7 @@ b. (U) If the appropriate local translation is not available, consular sections 
 
 #### 9 FAM 504.10-5(A) (U) Issuing Replacement Visas
 
-(CT:VISA-1869; 11-22-2023)
+(CT:VISA-2194; 06-17-2026)
 
 a. (U) Beyond Applicant's Control During Same Fiscal Year of Initial Issuance: If you are satisfied that an applicant will be or was unable to use an IV, including a Diversity Visa (DV), during its validity because of reasons beyond the applicant’s control and for which the applicant is not responsible, and the applicant is seeking a replacement visa during the original IV/DV's fiscal year of issuance, then you may issue a replacement visa with the originally allocated visa number within the same fiscal year. Recall and cancel the originally issued visa and collect once again the appropriate IV application processing fee (including the Diversity Visa Fee for a DV applicant). The only circumstance in which a new fee is not needed for a replacement visa is for certain adoptees, described in paragraph c below. In the case of an immediate relative only, you may issue a replacement visa in the year following the fiscal year in which the original IV was issued.
 
@@ -11279,7 +11279,7 @@ c. (U) In the case of an IR/IH-3 or IR/IH-4 re-application, waive the fee for a 
 
 (3) (U) The inability to use the visa was attributable to factors beyond the control of the adopting parent or parents and of the applicant.
 
-d. (U) Temporary Appearance and Interview Waiver Authority for Certain Replacement Visa Applicants: You may waive the personal appearance and interview requirements of IV applicants whose visas were issued on or after August 4, 2019, but who did not travel to the United States with their visa, so long as they (1) are seeking and qualify for an IV in the same classification and pursuant to the same approved petition as the previously granted IV or are seeking and qualify for an IV in a classification which was automatically converted due to the death or naturalization of the petitioner of the previously issued IV, (2) have no changed circumstances that could affect their eligibility for the visa, and (3) are willing to affirm under penalty of perjury to the information provided on the Form DS-260 or Form DS-230. This discretionary waiver authority is effective through December 13, 2023.
+d. (U) Temporary Appearance and Interview Waiver Authority for Certain Replacement Visa Applicants: You may waive the personal appearance and interview requirements of IV applicants whose visas were issued on or after August 4, 2019, but who did not travel to the United States with their visa, so long as they (1) are seeking and qualify for an IV in the same classification and pursuant to the same approved petition as the previously granted IV or are seeking and qualify for an IV in a classification which was automatically converted due to the death or naturalization of the petitioner of the previously issued IV, (2) have no changed circumstances that could affect their eligibility for the visa, and (3) are willing to affirm under penalty of perjury to the information provided on the Form DS-260. This discretionary waiver authority is effective through December 13, 2023.
 
 #### 9 FAM 504.10-5(B) (U) Returning Visa Numbers for Issued Unused Visas
 

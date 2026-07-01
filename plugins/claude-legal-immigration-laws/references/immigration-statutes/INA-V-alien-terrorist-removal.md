@@ -5,7 +5,7 @@
 - USC Subchapter: SUBCHAPTER V— ALIEN TERRORIST REMOVAL PROCEDURES
 - Release point: Public Law 119-93
 - Source: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-chapter12-subchapterv&edition=prelim
-- Pulled: 2026-05-29
+- Pulled: 2026-07-01
 
 > Verbatim text from the Office of the Law Revision Counsel USLM XML.
 > Codified U.S.C. section numbers shown; see the corpus README for the

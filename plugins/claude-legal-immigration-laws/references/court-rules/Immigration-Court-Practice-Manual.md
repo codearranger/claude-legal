@@ -5,7 +5,7 @@
 - Publisher: Executive Office for Immigration Review (EOIR), U.S. Department of Justice
 - Canonical landing: https://www.justice.gov/eoir/reference-materials/ic
 - Status: **pointer stub** — verbatim text not mirrored
-- Pulled: 2026-05-28
+- Pulled: 2026-07-01
 
 > **Why a stub?** EOIR serves this manual as a **JavaScript-rendered** web manual (the chapter body is hydrated client-side and is absent from the static HTML), and justice.gov's Akamai edge **403s** most chapter URLs from a plain client. So `scripts/pull_eoir_manuals.py` cannot mirror verbatim text from here (chapter-1 returned 200). Read the authoritative manual at the chapter URLs below. A future headless or un-gated run will replace this stub; the `_file_is_stub` guard protects committed verbatim content.
 

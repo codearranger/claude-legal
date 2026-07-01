@@ -1,6 +1,6 @@
 {
   "version": "0.2.0",
-  "last_pulled": "2026-05-28",
+  "last_pulled": "2026-07-01",
   "source": "https://fam.state.gov",
   "mode": "verbatim",
   "notes": "Pulled by scripts/pull_fam.py. The puller AIA-chases the Sectigo intermediate fam.state.gov omits from its TLS chain, then crawls the site's JSON table-of-contents API (/api/Tree/GetTreeByVolumeId) and the per-section /FAM/<vol>/<id>.html pages (windows-1252 Word HTML). Writes pointer stubs only when the network is unreachable; the _file_is_stub guard preserves committed verbatim content."

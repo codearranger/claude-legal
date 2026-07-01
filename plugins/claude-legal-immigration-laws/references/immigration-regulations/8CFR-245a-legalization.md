@@ -3,7 +3,7 @@
 - Citation: 8 C.F.R. Part 245a
 - As of: 2026-01-01
 - Source: https://www.ecfr.gov/current/title-8/part-245a
-- Pulled: 2026-05-29
+- Pulled: 2026-07-01
 
 > Verbatim text from the eCFR XML versioner API. Inline italics (`*`) and
 > bold (`**`) preserved; tables and footnotes flattened to plain text.

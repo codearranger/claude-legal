@@ -24,6 +24,6 @@ EOIR publishes two procedural manuals at justice.gov. They are guidance, not law
 These ship as **pointer stubs** because EOIR renders the manuals client-side (JavaScript) and Akamai-gates the chapter URLs, so verbatim text can't be mirrored from a stdlib client. Each stub carries the canonical chapter URLs and a cross-reference to the binding 8 CFR rules. Refresh with `scripts/pull_eoir_manuals.py`; the `_file_is_stub` guard preserves any verbatim content a future headless/un-gated run commits.
 
 - Pulled by: `scripts/pull_eoir_manuals.py`
-- Last updated: 2026-05-28
+- Last updated: 2026-07-01
 
 > **NOT LEGAL ADVICE.** Verify the current manual text and the controlling 8 CFR provision before filing.

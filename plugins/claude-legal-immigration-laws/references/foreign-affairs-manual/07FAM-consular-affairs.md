@@ -3,7 +3,7 @@
 - Citation: Foreign Affairs Manual (FAM), U.S. Department of State
 - Volume index: https://fam.state.gov/Volumes/Details/07FAM
 - Sections mirrored: 18
-- Pulled: 2026-05-28
+- Pulled: 2026-07-01
 
 > Verbatim text reduced from fam.state.gov Word-exported HTML (windows-1252). The FAM is agency guidance, not binding law.
 
