@@ -1,7 +1,7 @@
 # Indiana Rules of Evidence (Ind. Evid. R.)
 
 > **Source:** https://rules.incourts.gov/pdf/PDF - Evidence/evidence.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
@@ -10,7 +10,7 @@
 ---
 
 Indiana Rules of Evidence
-Updated, Effective January 1, 2020
+Updated, Effective July 1, 2026
 
 Table of Contents
 
@@ -213,7 +213,7 @@ expense and delay, and promote the development of evidence law, to the end of as
 truth and securing a just determination.
 
 Rule 103. Rulings on Evidence
-Effective January 1, 2014
+Effective July 1, 2026
 
 (a) Preserving a Claim of Error.
 A party may claim error in a ruling to admit or exclude evidence only if the error affects a substantial
@@ -229,8 +229,9 @@ right of the party and:
     unless the substance was apparent from the context.
 
 (b) Not Needing to Renew an Objection or Offer of Proof.
-Once the court rules definitively on the record at trial a party need not renew an objection or offer of
-proof to preserve a claim of error for appeal.
+Once the court rules definitively on the record—either before trial or at trial—a party need not renew
+an objection or offer of proof to preserve a claim of error for appeal. This includes a ruling on a
+motion in limine.
 
 (c) Court’s Statement About the Ruling; Directing an Offer of Proof.
 The court may make any statement about the character or form of the evidence, the objection
@@ -272,9 +273,9 @@ cannot hear if:
 
     (2) a defendant in a criminal case is a witness and so requests; or
 
-    (3) justice so requires.
-
                                                     6
+
+    (3) justice so requires.
 
 (d) Cross-Examining a Defendant in a Criminal Case.
 By testifying on a preliminary question, a defendant in a criminal case does not become subject to

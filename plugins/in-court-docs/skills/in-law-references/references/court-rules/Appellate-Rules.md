@@ -1,7 +1,7 @@
 # Indiana Rules of Appellate Procedure (Ind. App. R.)
 
 > **Source:** https://rules.incourts.gov/pdf/PDF - Appellate/appellate.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
@@ -11,7 +11,7 @@
 
 Indiana Rules of Appellate Procedure
 Adopted, Effective January 1, 2001
-Updated, Effective January 1, 2025
+Updated, Effective July 1, 2026
 
 Table of Contents
 
@@ -55,11 +55,11 @@ Table of Contents
 
                                              1
 
- Rule 16. Appearances                                                  31
+ Rule 16. Appearances                                                  30
 
  Rule 17. Parties on Appeal                                            33
 
- Rule 18. Appeal Bonds—Letters of Credit                               34
+ Rule 18. Appeal Bonds—Letters of Credit                               33
 
  Rule 19. Court Of Appeals Preappeal Conference                        34
 
@@ -73,9 +73,9 @@ IV. General Provisions                                                 36
 
  Rule 23. Filing                                                       39
 
- Rule 24. Service Of Documents                                         43
+ Rule 24. Service Of Documents                                         44
 
- Rule 25. Computation Of Time                                          45
+ Rule 25. Computation Of Time                                          46
 
  Rule 26. Electronic Transmission By Clerk                             46
 
@@ -87,108 +87,108 @@ V. Record on Appeal                                                    48
 
  Rule 29. Exhibits                                                     50
 
- Rule 30. [Reserved]                                                   51
+ Rule 30. [Reserved]                                                   52
 
- Rule 31. Statement Of Evidence When No Transcript Is Available        51
+ Rule 31. Statement Of Evidence When No Transcript Is Available        52
 
- Rule 32. Correction Or Modification Of Clerk's Record Or Transcript   52
+ Rule 32. Correction Or Modification Of Clerk's Record Or Transcript   53
 
- Rule 33. Record On Agreed Statement                                   53
+ Rule 33. Record On Agreed Statement                                   54
 
-VI. Motions                                                            55
+VI. Motions                                                            56
 
- Rule 34. Motion Practice                                              55
+ Rule 34. Motion Practice                                              56
 
- Rule 35. Motion For Extension Of Time                                 57
+ Rule 35. Motion For Extension Of Time                                 58
 
- Rule 36. Motion To Dismiss                                            58
+ Rule 36. Motion To Dismiss                                            59
 
- Rule 37. Motion To Remand                                             59
+ Rule 37. Motion To Remand                                             60
 
- Rule 38. Motion To Consolidate Appeals                                59
+ Rule 38. Motion To Consolidate Appeals                                60
 
                                           2
 
- Rule 39. Motion To Stay                                           60
+ Rule 39. Motion To Stay                                           61
 
- Rule 40. Motion To Proceed In Forma Pauperis                      61
+ Rule 40. Motion To Proceed In Forma Pauperis                      62
 
- Rule 41. Motion To Appear As Amicus Curiae                        63
+ Rule 41. Motion To Appear As Amicus Curiae                        64
 
- Rule 42. Motion To Strike                                         64
+ Rule 42. Motion To Strike                                         65
 
-VII. Briefs                                                        65
+VII. Briefs                                                        66
 
- Rule 43. Form of Briefs and Petitions                             65
+ Rule 43. Form of Briefs and Petitions                             66
 
- Rule 44. Brief And Petition Length Limitations                    66
+ Rule 44. Brief And Petition Length Limitations                    67
 
- Rule 45. Time For Filing Briefs                                   69
+ Rule 45. Time For Filing Briefs                                   70
 
- Rule 46. Arrangement And Contents Of Briefs                       70
+ Rule 46. Arrangement And Contents Of Briefs                       71
 
- Rule 47. Amended Briefs And Petitions                             75
+ Rule 47. Amended Briefs And Petitions                             76
 
- Rule 48. Additional Authorities                                   75
+ Rule 48. Additional Authorities                                   76
 
-VIII. Appendices                                                   76
+VIII. Appendices                                                   77
 
- Rule 49. Filing Of Appendices                                     76
+ Rule 49. Filing Of Appendices                                     77
 
- Rule 50. Contents Of Appendices                                   76
+ Rule 50. Contents Of Appendices                                   77
 
- Rule 51. Form And Assembly Of Appendices                          79
+ Rule 51. Form And Assembly Of Appendices                          80
 
-IX. Oral Argument                                                  81
+IX. Oral Argument                                                  82
 
- Rule 52. Setting And Acknowledging Oral Argument                  81
+ Rule 52. Setting And Acknowledging Oral Argument                  82
 
- Rule 53. Procedures For Oral Argument                             81
+ Rule 53. Procedures For Oral Argument                             82
 
- X. Petitions for Rehearing                                        84
+ X. Petitions for Rehearing                                        85
 
- Rule 54. Rehearings                                               84
+ Rule 54. Rehearings                                               85
 
- Rule 55. Transfer And Rehearing Sought By Different Parties       85
+ Rule 55. Transfer And Rehearing Sought By Different Parties       86
 
-XI. Supreme Court Proceedings                                      86
+XI. Supreme Court Proceedings                                      87
 
- Rule 56. Requests To Transfer To The Supreme Court                86
+ Rule 56. Requests To Transfer To The Supreme Court                87
 
- Rule 57. Petitions To Transfer And Briefs                         86
+ Rule 57. Petitions To Transfer And Briefs                         87
 
- Rule 58. Effect Of Supreme Court Ruling On Petition To Transfer   90
+ Rule 58. Effect Of Supreme Court Ruling On Petition To Transfer   91
 
- Rule 59. Mandatory Appellate Review And Direct Review             90
+ Rule 59. Mandatory Appellate Review And Direct Review             92
 
                                              3
 
- Rule 60. Original Actions                                                     91
+ Rule 60. Original Actions                                                     92
 
- Rule 61. Mandate Of Funds                                                     91
+ Rule 61. Mandate Of Funds                                                     92
 
- Rule 62. Appeals Involving Waiver Of Parental Consent To Abortion             91
+ Rule 62. Appeals Involving Waiver Of Parental Consent To Abortion             93
 
- Rule 63. Review of Tax Court Decisions                                        92
+ Rule 63. Review of Tax Court Decisions                                        94
 
- Rule 64. Certified Questions Of State Law From Federal Courts                 97
+ Rule 64. Certified Questions Of State Law From Federal Courts                 98
 
-XII. Court Procedures, Powers and Decisions                                   98
+XII. Court Procedures, Powers and Decisions                                   99
 
- Rule 65. Opinions And Memorandum Decisions                                    98
+ Rule 65. Opinions And Memorandum Decisions                                    99
 
- Rule 66. Relief Available On Appeal                                           99
+ Rule 66. Relief Available On Appeal                                          100
 
- Rule 67. Costs                                                               101
+ Rule 67. Costs                                                               102
 
- Rule 68. Electronic Filing and Electronic Service                            102
+ Rule 68. Electronic Filing and Electronic Service                            103
 
- Appendix                                                                     106
+ Appendix                                                                     107
 
- Appendix A. Standards for Preparation of Electronic Transcripts              106
+ Appendix A. Standards for Preparation of Electronic Transcripts              107
 
  Appendix B. Tendered Documents That Do Not Comply with the Indiana Rule of
- Appellate Procedure.                                                         114
+ Appellate Procedure.                                                         115
 
                                            4
 
@@ -300,8 +300,8 @@ T. E-Filing Service Provider (“EFSP”). E-Filing Service Provider is the orga
 ware selected by a User and approved by the Supreme Court to receive and transmit all E-Fil-
 ing submissions between the User and the Indiana E-Filing System.
 
-U. Electronic Service (“E-Service”). E-Service is a method of serving documents by electronic
-transmission on any User in a case via the Indiana E-Filing System.
+U. Electronic Service (“E-Service”). E-Service is a method of serving documents by elec-
+tronic transmission on any User in a case via the Indiana E-Filing System.
 
 V. Indiana E-Filing System (“IEFS”). Indiana E-Filing System is the system of networked hard-
 ware, software, and service providers approved by the Supreme Court for the filing and ser-
@@ -361,7 +361,7 @@ lished in an Appendix to these Rules.
 II. Jurisdiction
 
 Rule 4. Supreme Court Jurisdiction
-Effective January 1, 2010
+Effective July 1, 2026
 
 A. Appellate Jurisdiction.
 
@@ -369,9 +369,8 @@ A. Appellate Jurisdiction.
 
 The Supreme Court shall have mandatory and exclusive jurisdiction over the following cases:
 
-    (a) Criminal Appeals in which a sentence of death or life imprisonment without parole is
-    imposed under Ind.Code § 35-50-2-9 and Criminal Appeals in post conviction relief cases
-    in which the sentence was death.
+    (a) Criminal Appeals in which a sentence of death is imposed and Criminal Appeals in post-
+    conviction relief cases in which the sentence was death.
 
     (b) Appeals of Final Judgments declaring a state or federal statute unconstitutional in
     whole or in part.
@@ -382,14 +381,14 @@ The Supreme Court shall have mandatory and exclusive jurisdiction over the follo
 
 (2) Discretionary Review.
 
-The Supreme Court shall have discretionary jurisdiction over cases in which it grants Transfer
-under Rule 56 or 57 or Review under Rule 63.
+The Supreme Court shall have jurisdiction over cases in which it grants Transfer under Rule
+56 or 57 or Review under Rule 63. Except as provided in Rule 57(I), the grant of Transfer or
+Review is discretionary.
 
 (3) Certain Interlocutory Appeals.
 
 The Supreme Court shall have jurisdiction over interlocutory appeals authorized under Appel-
-late Rule 14 in any case in which the State seeks the death penalty or in life without parole
-cases in which the interlocutory order raises a question of interpretation of IC 35-50-2-9.
+late Rule 14 in any case in which the State seeks the death penalty.
 
 B. Other Jurisdiction.
 The Supreme Court shall have exclusive jurisdiction over the following matters:
@@ -398,9 +397,9 @@ The Supreme Court shall have exclusive jurisdiction over the following matters:
 
 Matters relating to the practice of law including:
 
-                                                9
-
     (a) Admissions to practice law;
+
+                                                9
 
     (b) The discipline and disbarment of attorneys admitted to the practice of law; and
 
@@ -793,7 +792,7 @@ must subject the appeal to dismissal.
 Rule 12. Transmittal Of The Record
 Effective January 1, 2017
 
-                                                 20
+                                                20
 
 A. Clerk's Record.
 Unless the Court on Appeal orders otherwise, the trial court clerk shall retain the Clerk's
@@ -855,7 +854,7 @@ erned by the same provisions applicable to appeals from Final Judgments in civil
 ing all applicable time periods, notwithstanding any statute to the contrary.
 
 Rule 14. Interlocutory Appeals
-Effective September 1, 2018
+Effective July 1, 2026
 
 A. Interlocutory Appeals of Right.
 Appeals from the following interlocutory orders are taken as a matter of right by filing a
@@ -998,8 +997,8 @@ locutory order granting or denying class action certification under Ind. Trial R
 
 A motion requesting that the Court of Appeals accept jurisdiction over an interlocutory
 appeal from an order granting or denying class action certification shall be filed within thirty
-(30) days after the notation of the order in the Chronological Case Summary. The Motion shall
-be accompanied by an appearance as required by Rule 16(H).
+(30) days after the notation of the order in the Chronological Case Summary. The Motion
+shall be accompanied by an appearance as required by Rule 16(H).
 
 (2) Content of Motion.
 
@@ -1066,8 +1065,7 @@ upon the furnishing of a bond or security protecting the appellee against loss i
 interlocutory appeal.
 
 I. Death Penalty Cases.
-In any case in which the State seeks the death penalty or in which the interlocutory order
-raises a question of interpretation of IC 35-50-2-9, references in this Rule to the Court of
+In any case in which the State seeks the death penalty, references in this Rule to the Court of
 Appeals shall refer to the Supreme Court.
 
 Rule 14.1. Expedited Appeal for Payment of Placement
@@ -1076,8 +1074,8 @@ Effective September 1, 2018
 
 A. Applicability.
 This Rule governs appellate review per Indiana Code sections 31-34-4-7(f), 31-34-19-6.1(f), 31-
-37-5-8(g), and 31-37-18-9(d). All other appeals concerning children alleged to be in need of ser-
-vice or children alleged to be delinquent are not covered by this rule.
+37-5-8(g), and 31-37-18-9(d). All other appeals concerning children alleged to be in need of
+service or children alleged to be delinquent are not covered by this rule.
 
 B. Notice of Expedited Appeal.
 (1) The Department of Child Services (“DCS”) shall file a Notice of Expedited Appeal with the
@@ -1088,11 +1086,10 @@ noted in the Chronological Case Summary. (See Form #App.R. 9-1).
 trial court judge, the clerk of the trial court, the Court Reporter (if a Transcript, or any portion
 of a Transcript is requested), the county commissioners, the guardian ad litem, CASA, any
 juvenile who is the subject of the order if 14 years of age or older, counsel for the juvenile,
-
-                                                 27
-
 the parents of the juvenile, the Attorney General, in the case of a juvenile delinquency matter
 the Chief Probation Officer and Prosecutor, and any other party of record.
+
+                                                 27
 
 (3) The Notice of Expedited Appeal shall include all content required by Rule 9(F).
 
@@ -1119,8 +1116,8 @@ U.S. mail or third-party commercial carrier; and (ii) personal service, electron
 simile.
 
 (2) The Clerk's Record in appeals governed by this rule shall contain the pre-dispositional
-report and any attachments thereto, in addition to the other records listed in Appellate Rule
-2(E). The trial court clerk is not obligated to index or marginally annotate the Clerk's Record,
+report and any attachments thereto, in addition to the other records listed in Appellate Rule 2
+(E). The trial court clerk is not obligated to index or marginally annotate the Clerk's Record,
 which shall be the responsibility of DCS.
 
 (3) On the eleventh (11th) business day following the filing of the Transcript, the trial court
@@ -1130,11 +1127,11 @@ Appeal why he or she should not be held in contempt. DCS may, but is not require
 show cause motion with the Court on Appeal concerning the trial court clerk's failure to meet
 this deadline.
 
-                                                28
-
 D. Memoranda.
 (1) Any party on Appeal may file a memorandum, which may be in narrative form and need
 not contain the sections under separate headings listed in Appellate Rule 46(a).
+
+                                                28
 
 (2) Memoranda shall not exceed ten (10) pages unless limited to 4,200 words and shall
 adhere to the requirements of Appellate Rules 43(A)-(H), and (J). Memoranda exceeding ten
@@ -1166,14 +1163,15 @@ G. Outcome of Appeal.
 If DCS prevails on appeal, payment shall be made in accordance with Indiana Code sections
 31-34-4-7(g), 31-34-19-6.1(g), 31-37-5-8(h), or 31-37-18-9(e), as the case may be.
 
-                                                29
-
 H. Petition to Transfer.
 A Petition to Transfer must be filed no later than five (5) business days after the adverse
 decision of the Court of Appeals. A party who files a Petition to Transfer by mail or third-party
 commercial carrier shall also contemporaneously tender a copy to the Clerk's Office via fac-
 simile. The Petition to Transfer shall adhere to the requirements of Appellate Rules 43(A)-(G),
 (J), and (K). Appellate Rules 43(H) and (I), 44, and 57 shall not apply. The Petition to Transfer
+
+                                                29
+
 shall not exceed one (1) page in length, excluding the front page, signature block and cer-
 tificate of service, and shall notify the Supreme Court simply of the party's desire for the
 Supreme Court to assume jurisdiction over the appeal following the adverse decision of the
@@ -1202,10 +1200,10 @@ Abolished effective January 1, 2012
 
 The Appellant’s Case Summary is abolished.
 
-                                                30
-
 Rule 16. Appearances
 Effective September 1, 2018
+
+                                               30
 
 A. Initiating Parties.
 The filing of a Notice of Appeal pursuant to Rule 9 or Notice of Expedited Appeal pursuant to
@@ -1241,13 +1239,14 @@ lowing:
    keeping his/her Roll of Attorneys contact information accurate per Ind. Admis. Disc. R. 2
    (A).
 
-                                                 31
-
 C. Parties to Certified Federal Questions.
 If the Supreme Court decides to answer a question of law certified by a federal court under
 Rule 64, parties to the federal proceeding shall file an appearance form with the Clerk setting
 forth the same information identified in Section (B) of this Rule. Appearance forms shall be
 filed within thirty (30) days following the order of the Supreme Court granting the federal
+
+                                                 31
+
 court's request for an opinion, or contemporaneously with the first document filed by the
 appearing party, whichever comes first.
 
@@ -1276,13 +1275,13 @@ the Supreme Court. If an attorney has been granted temporary admission in a case
 the Court of Appeals or the Tax Court, that attorney need not again seek temporary admis-
 sion in any continuation of that case before the Supreme Court.
 
-                                              32
-
 G. Withdrawal of Appearance.
 An attorney wishing to withdraw his or her appearance shall seek leave of the court by
 motion stating the reason that leave is sought. If a new attorney will be replacing the with-
 drawing attorney, the new attorney's appearance should, if possible, be filed with the motion
 to withdraw appearance.
+
+                                               32
 
 H. Appearances in Certain Interlocutory Appeals.
 In the case of an Interlocutory Appeal under Rules 14(B)(2) or 14(C), a party shall file an
@@ -1311,23 +1310,24 @@ officer's successor is automatically substituted as a party.
 succession in office of any party. The failure of any party to file a notice shall not affect the
 party’s substantive rights.
 
-                                                 33
-
 Rule 18. Appeal Bonds—Letters of Credit
 Effective January 1, 2011
 
 No appeal bond shall be necessary to prosecute an appeal from any Final Judgment or
 appealable interlocutory order. Enforcement of a Final Judgment or appealable interlocutory
+
+                                                 33
+
 order from a money judgment shall be stayed during appeal upon the giving of a bond, an
 irrevocable letter of credit, or other form of security approved by a trial court or Admin-
 istrative Agency. The trial court or Administrative Agency shall have jurisdiction to fix and
-approve the bond, irrevocable letter of credit, or other form of security, and order a stay
-prior to or pending an appeal. After the trial court or Administrative Agency decides the issue
-of a stay, the Court on Appeal may reconsider the issue at any time upon a showing, by cer-
-tified copies, of the trial court's action. The Court on Appeal may grant or deny the stay and
-set or modify the bond, letter of credit, or other form of security. No bond, letter of credit, or
-other form of security shall be required from any party exempted from bond by Trial Rule 62
-(E). This rule creates no right to a stay where precluded by law.
+approve the bond, irrevocable letter of credit, or other form of security, and order a stay prior
+to or pending an appeal. After the trial court or Administrative Agency decides the issue of a
+stay, the Court on Appeal may reconsider the issue at any time upon a showing, by certified
+copies, of the trial court's action. The Court on Appeal may grant or deny the stay and set or
+modify the bond, letter of credit, or other form of security. No bond, letter of credit, or other
+form of security shall be required from any party exempted from bond by Trial Rule 62(E).
+This rule creates no right to a stay where precluded by law.
 
 Rule 19. Court Of Appeals Preappeal Conference
 Effective January 1, 2001
@@ -1349,12 +1349,12 @@ the issues on appeal;
 
 (6) such other matters as may aid the disposition of the appeal.
 
-                                                34
-
 B. Sanctions.
 If a party fails to appear in person or by counsel at the preappeal conference, without good
 cause, or if an attorney is unprepared to participate in the conference, the Court of Appeals
 may impose appropriate sanctions, including attorney fees.
+
+                                               34
 
 Rule 20. Appellate Alternative Dispute Resolution
 Effective January 1, 2010
@@ -1363,7 +1363,7 @@ The parties in civil cases are encouraged to consider appellate mediation. The C
 Appeal may, upon motion of any party or its own motion, conduct or order appellate altern-
 ative dispute resolution.
 
-                                              35
+                                             35
 
 IV. General Provisions
 
@@ -1372,8 +1372,8 @@ Effective January 1, 2001
 
 A. Expedited Appeals.
 The court shall give expedited consideration to interlocutory appeals and appeals involving
-issues of child custody, support, visitation, adoption, paternity, determination that a child is
-in need of services, termination of parental rights, and all other appeals entitled to priority by
+issues of child custody, support, visitation, adoption, paternity, determination that a child is in
+need of services, termination of parental rights, and all other appeals entitled to priority by
 rule or statute.
 
 B. Motion for Expedited Consideration.
@@ -1399,8 +1399,8 @@ the case followed by the appellate case number, the court of disposition, and th
 
                                                 36
 
-and year of the opinion followed by “(mem.).” E.g., Steele v. Taber, No. 22A-CT-925 (Ind. Ct. App.
-Jan. 17, 2023) (mem.).
+and year of the opinion followed by “(mem.).” E.g., Steele v. Taber, No. 22A-CT-925 (Ind. Ct.
+App. Jan. 17, 2023) (mem.).
 
 (3) Pinpoint citations must be included to the specific page(s) on which information appears.
 E.g., Livingston v. State, 113 N.E.3d 611, 614 (Ind. 2018) (per curiam); Martinez v. State, No. 22A-
@@ -1416,36 +1416,36 @@ Local Court Rules.
 1. Citations to Indiana statutes, administrative materials, and court rules shall comply with
 the following citation format for initial references and subsequent references:
 
-                                    INITIAL              SUBSEQUENT
+                                     INITIAL             SUBSEQUENT
 
                             Ind. Code § 34-1-1-1 (20
                                                          I.C. § 34-1-1-1
-                                      xx)
+                                        xx)
 
                            34 Ind. Admin. Code 12-
-                                                        34 I.A.C. 12-5-1
-                                   5-1 (2004)
+                                                         34 I.A.C. 12-5-1
+                                    5-1 (2004)
 
-                            29 Ind. Reg. 11 (Oct. 1,
-                                                           29 I.R. 11
-                                     2005)
+                              29 Ind. Reg. 11 (Oct. 1,
+                                                            29 I.R. 11
+                                      2005)
 
-                              Ind. Access to Court
+                               Ind. Access to Court
                                                             A.C.R. 7
-                                Records Rule 7
+                                 Records Rule 7
 
                            Ind. Administrative Rule
                                                          Admin. R. 7(A)
-                                      7(A)
+                                       7(A)
 
                             Ind. Admission and Dis-      Admis. Disc. R.
-                             cipline Rule 23(2)(a)            (2)(a)
+                               cipline Rule 23(2)(a)          (2)(a)
 
                             Ind. Alternative Dispute
                                                             A.D.R. 2
-                               Resolution Rule 2
+                                Resolution Rule 2
 
-                                                 37
+                                                  37
 
                             Ind. Appellate Rule 8         App. R. 8
 
@@ -1523,7 +1523,7 @@ Ct. (court), Def. (defendant), Hr. (hearing), Mem. (memorandum), Pet. (petition)
 Supp. (supplemental), Tr. (Transcript).
 
 Rule 23. Filing
-Effective January 1, 2020
+Effective July 1, 2026
 
 A. Time for Filing.
 Documents exempted from E-Filing under Rule 68 will be deemed filed with the Clerk when
@@ -1622,11 +1622,16 @@ cedures:
 
    (a) Notice to maintain exclusion from Public Access.
 
-      (i) In cases where the Court Record is excluded from Public Access pursuant to Rules 5
-      or 6 of the Rules on Access to Court Records, the party or person submitting the con-
-      fidential record must provide the separate written notice required by Access to Court
-      Records Rule 5 identifying the specific Access to Court Records Rule 5(B), 5(C), or 5(D)
-      ground(s) upon which exclusion is based. (See Form # App.R. 11-5).
+      (i) In cases where the Court Record is excluded from Public Access pursuant to Access
+      to Court Records Rules 5(B), 5(C), 5(D), or 5(F), the party or person submitting the con-
+      fidential record must provide the separate written notice required by the Rules on
+      Access to Court Records identifying the applicable Rule 5 ground. In cases where the
+      Court Record is excluded under Access to Court Records Rule 6, the notice must
+      identify the Rule 6 order or other basis for exclusion. For material governed by Access
+      to Court Records Rule 5(F), the material itself must not be filed, e-filed, scanned,
+      copied, reproduced, transmitted, or converted into an electronic court record except
+      as provided by Access to Court Records Rule 5(F), Appellate Rule 29(E), court order, and
+      applicable law. (See Form # App.R. 11-5).
 
       (ii) In cases where all Court Records are excluded from Public Access in accordance
       with Access to Court Records Rule 5(A), no notice of exclusion from Public Access is
@@ -1652,72 +1657,78 @@ cedures:
 
       (ii) Non-Public Access Version.
 
-           a. If the omitted or redacted Court Record is not necessary to the disposition of the
-           case on appeal, the excluded Court Record need not be filed or tendered in any
-           form and only the Public Access version is required. The Access to Court Records
-           ACR Form should indicate this fact. (See Form # App.R. 11-6).
-
                                                 42
 
-            b. If the omitted or redacted Court Record is necessary to the disposition of the
-            case, the excluded Court Record must be separately filed or tendered as follows.
+         a. If the omitted or redacted Court Record is not necessary to the disposition of the
+         case on appeal, the excluded Court Record need not be filed or tendered in any
+         form and only the Public Access version is required. The Access to Court Records
+         ACR Form should indicate this fact. (See Form # App.R. 11-6).
 
-                1. The first page of the Non-Public Access Version should be conspicuously
-                marked “Not for Public Access” or “Confidential,” with the caption and number of
-                the case clearly designated.
+         b. If the omitted or redacted Court Record is necessary to the disposition of the
+         case, the excluded Court Record must be separately filed or tendered as follows.
 
-                2. The separately filed Non-Public Access version shall consist of a complete, con-
-                secutively paginated replication including both the Public Access material and
-                the Non-Public Access material.
+             1. The first page of the Non-Public Access Version should be conspicuously
+             marked “Not for Public Access” or “Confidential,” with the caption and number of
+             the case clearly designated.
 
-                3. Use of green paper is abolished for E-Filing. Pages in the Non-Public Access
-                version containing Court Records that are excluded from Public Access shall
-                instead be identified with a header, label, or stamp that states, “CONFIDENTIAL
-                PER RULES ON ACCESS TO COURT RECORDS” or “EXCLUDED FROM PUBLIC
-                ACCESS PER RULES ON ACCESS TO COURT RECORDS.”
+             2. The separately filed Non-Public Access version shall consist of a complete, con-
+             secutively paginated replication including both the Public Access material and
+             the Non-Public Access material.
 
-        (iii) The requirements in Rule 23(F)(3)(b) do not apply to cases in which all Court
-        Records are excluded from Public Access pursuant to Access to Court Records Rule 5
-        (A).
+             3. Use of green paper is abolished for E-Filing. Pages in the Non-Public Access
+             version containing Court Records that are excluded from Public Access shall
+             instead be identified with a header, label, or stamp that states, “CONFIDENTIAL
+             PER RULES ON ACCESS TO COURT RECORDS” or “EXCLUDED FROM PUBLIC
+             ACCESS PER RULES ON ACCESS TO COURT RECORDS.”
+
+      (iii) The requirements in Rule 23(F)(3)(b) do not apply to cases in which all Court
+      Records are excluded from Public Access pursuant to Access to Court Records Rule 5
+      (A).
 
 (4) E-Filing document security codes settings.
 
-        (a) Where only a portion of the Court Record has been excluded from Public Access pur-
-        suant to Rules 5(B), 5(C), or 5(D) of the Access to Court Record Rules, the E-Filing doc-
-        ument security codes setting for the Public Access Version shall be “Public Document.”
+      (a) Where only a portion of the Court Record has been excluded from Public Access pur-
+      suant to Rules 5(B), 5(C), or 5(D) of the Access to Court Record Rules, the E-Filing doc-
+      ument security codes setting for the Public Access Version shall be “Public Document.”
 
-        (b) Where only a portion of the Court Record has been excluded from Public Access pur-
-        suant to Rules 5(B), 5(C), or 5(D) of the Access to Court Record Rules, the E-Filing doc-
-        ument security codes setting for the Non-Public Access Version shall be “Confidential
-        document under the Rules on Access to Court Records.”
+      (b) Where only a portion of the Court Record has been excluded from Public Access
+      pursuant to Rules 5(B), 5(C), or 5(D) of the Access to Court Record Rules, the E-Filing
+      document security codes setting for the Non-Public Access Version shall be “Con-
+      fidential document under the Rules on Access to Court Records.”
 
-        (c) In cases in which all Court Records are excluded from Public Access pursuant to
-        Rule 5(A) of the Access to Court Record Rules, the E-Filing document security codes set-
-        ting shall be “Confidential document under the Rules on Access to Court Records.”
+      (c) In cases in which all Court Records are excluded from Public Access pursuant to
+      Rule 5(A) of the Access to Court Record Rules, the E-Filing document security codes set-
+      ting shall be “Confidential document under the Rules on Access to Court Records.”
+
+      (d) Nothing in this Rule authorizes the filing, e-filing, scanning, copying, reproduction,
+      transmission, or conversion into an electronic court record of material governed by
+
+                                                 43
+
+        Access to Court Records Rule 5(F) except as provided by Access to Court Records Rule 5
+        (F), Appellate Rule 29(E), court order, and applicable law.
 
 Rule 24. Service Of Documents
 Effective January 1, 2020
-
-                                                  43
 
 A. Required Service.
 (1) Notice of Appeal. A party filing a Notice of Appeal shall contemporaneously serve a copy
 upon:
 
-   (a) all parties of record in the trial court or Administrative Agency;
+    (a) all parties of record in the trial court or Administrative Agency;
 
-   (b) [reserved];
+    (b) [reserved];
 
-   (c) [reserved];
+    (c) [reserved];
 
-   (d) any persons identified in Rule 14.1, if applicable;
+    (d) any persons identified in Rule 14.1, if applicable;
 
-   (e) the Attorney General in all Criminal Appeals and any appeals from a final judgment
-   declaring a state statute unconstitutional in whole or in part;
+    (e) the Attorney General in all Criminal Appeals and any appeals from a final judgment
+    declaring a state statute unconstitutional in whole or in part;
 
-   (f) [reserved]; and,
+    (f) [reserved]; and,
 
-   (g) any other persons required by statute to be served.
+    (g) any other persons required by statute to be served.
 
 (See Form # App.R. 9-1).
 
@@ -1725,16 +1736,18 @@ upon:
 party filing any document in the fifteen (15) day period after a Notice of Appeal is filed shall
 contemporaneously serve a copy upon:
 
-   (a) all parties of record in the trial court or Administrative Agency;
+    (a) all parties of record in the trial court or Administrative Agency;
 
-   (b) all parties of record who have filed a Notice of Appeal or an appearance with the Clerk;
+    (b) all parties of record who have filed a Notice of Appeal or an appearance with the Clerk;
 
-   (c) any persons seeking party status, and,
+    (c) any persons seeking party status, and,
 
-   (d) any persons required by statute to be served.
+    (d) any persons required by statute to be served.
 
 (3) Other documents. Unless otherwise provided by these Rules, all other documents
 tendered to the Clerk for filing must contemporaneously be served upon:
+
+                                                 44
 
    (a) all parties of record who have filed a Notice of Appeal or an appearance with the Clerk;
 
@@ -1743,11 +1756,9 @@ tendered to the Clerk for filing must contemporaneously be served upon:
    (c) any persons required by statute to be served.
 
 (4) Appendix in Criminal Appeals. In criminal appeals only, any Appendix or Supplemental
-Appendix that is conventionally filed need not be served on the Attorney General. Appendices
-or Supplemental Appendices that are E-Filed in criminal appeals, however, shall be served on
-the Attorney General.
-
-                                                44
+Appendix that is conventionally filed need not be served on the Attorney General. Appen-
+dices or Supplemental Appendices that are E-Filed in criminal appeals, however, shall be
+served on the Attorney General.
 
 B. Time for Service.
 A party shall serve a document no later than the date the document is filed or received for fil-
@@ -1758,12 +1769,12 @@ All E-Filed documents will be deemed served when they are electronically served 
 IEFS in accordance with Rule 68(F)(1). Documents exempted from E-Service will be deemed
 served when they are:
 
-    (1) personally delivered;
+   (1) personally delivered;
 
-    (2) deposited in the United States Mail, postage prepaid, properly addressed; or
+   (2) deposited in the United States Mail, postage prepaid, properly addressed; or
 
-    (3) deposited with any third-party commercial carrier for delivery within three (3) calendar
-    days, cost prepaid, properly addressed.
+   (3) deposited with any third-party commercial carrier for delivery within three (3) calendar
+   days, cost prepaid, properly addressed.
 
 Parties appealing pursuant to Rule 14.1 must comply with the additional requirements found
 in that Rule.
@@ -1771,13 +1782,15 @@ in that Rule.
 D. Certificate of Service.
 (1) Content. Anyone tendering a document to the Clerk for filing shall:
 
-    (a) certify that service has been made or will be made contemporaneously with the filing;
+   (a) certify that service has been made or will be made contemporaneously with the filing;
 
-    (b) specifically list the persons served by name;
+   (b) specifically list the persons served by name;
 
-    (c) specify the date and means of service;
+   (c) specify the date and means of service;
 
-    (d) include any information required by Rule 14.1, if applicable; and,
+   (d) include any information required by Rule 14.1, if applicable; and,
+
+                                                45
 
     (e) if the document is a Notice of Appeal, certify the date on which the Notice of Appeal
     was filed with the Clerk. (See Form # App.R. 9-1).
@@ -1787,8 +1800,6 @@ not be separately filed.
 
 Rule 25. Computation Of Time
 Effective July 1, 2016
-
-                                                 45
 
 A. Non-Business and Business Days.
 For purposes of this rule, a non- business day shall mean a Saturday, a Sunday, a legal hol-
@@ -1814,13 +1825,13 @@ any time period when service is made by E-Service pursuant to Rule 68(F)(1).
 Rule 26. Electronic Transmission By Clerk
 Effective January 1, 2020
 
+                                               46
+
 A. Transmission of Orders, Opinions, and Notices to Parties Not
 Exempted from E-Filing.
 The Clerk shall electronically transmit orders, opinions, and notices to all parties represented
 by attorneys of record who are not exempted pursuant to Rule 68(C)(2) from the requirement
 that they file electronically.
-
-                                               46
 
 B. Transmission of Orders, Opinions, and Notices to Parties Exempted
 from E-Filing.
@@ -1858,7 +1869,7 @@ Appeal. Any provision of these Rules regarding preparation of the Record on Appe
 enforced by order of the Court on Appeal. The Record of Proceedings is abolished.
 
 Rule 28. Preparation Of Transcript By Court Reporter
-Effective January 1, 2022
+Effective July 1, 2026
 
 A. Transcript.
 The Court Reporter shall prepare an electronic Transcript in accordance with Appendix A.
@@ -1911,76 +1922,119 @@ F. Court Records Excluded by the Rules on Access to Court Records.
 (1) In cases where all of the Court Records are excluded from Public Access pursuant to
 Access to Court Records Rule 5(A), the Transcript shall be excluded from Public Access.
 
-(2) If, during the hearing or trial a party or person identified any exhibit or oral statement(s) to
-be excluded from Public Access, the Court Reporter must comply with the requirements of
-Appellate Rule 23(F) with regard to the exhibit or statement(s) and must note in the Tran-
-script the specific Access to Court Records Rule 5(B), 5(C), or 5(D) ground(s) identified by the
-party or person.
+(2) If, during the hearing or trial, a party or person identified any exhibit or oral statement(s)
+to be excluded from Public Access, the Court Reporter must note in the Transcript the spe-
+cified Access to Court Records Rule 5(B), 5(C), 5(D), or 5(F) ground(s) identified by the party or
+person. Except for exhibits governed by Access to Court Records Rule 5(F), the Court Reporter
+must comply with Appellate Rule 23(F) with regard to the exhibit or statement(s). For exhibits
+governed by Access to Court Records Rule 5(F), the Court Reporter must comply with Appel-
+late Rule 29(E).
+
+                                                 49
 
 (3) Additionally, until the time the Transcript is transmitted to the Court on Appeal, any party
 or person may file written notice with the Trial Court identifying:
 
-                                                 49
-
     (a) the exhibit or Transcript page and line number(s) containing any Court Record to be
     excluded from Public Access; and
 
-    (b) the specific Access to Court Records Rule 5(B), 5(C), or 5(D) grounds upon which that
-    exclusion is based. (See Form #App.R. 11-3).
+    (b) the specific Access to Court Records Rule 5(B), 5(C), 5(D), or 5(F) ground(s) upon which
+    that exclusion is based. (See Form #App.R. 11-3).
 
-This written notice must be served on the Court Reporter and, upon receipt of the written
-notice, the Court Reporter must refile the Transcript in compliance with the requirements of
-Appellate Rule 23(F) and must note in the Transcript the specific Access to Court Records Rule
-5(B), 5(C), or 5(D) grounds(s) identified by a party or person.
+This written notice must be served on the Court Reporter. Upon receipt of the written notice,
+the Court Reporter must refile the Transcript in compliance with the requirements of Appel-
+late Rule 23(F), except that exhibits governed by Access to Court Records Rule 5(F) must be
+handled under Appellate Rule 29(E). The Court Reporter must note in the Transcript the spe-
+cific Access to Court Records Rule 5(B), 5(C), 5(D), or 5(F) ground(s) identified by a party or per-
+son.
 
 (4) After the Transcript has been transmitted to the Court on Appeal, any request by a party
 or person to exclude a Court Record in the Transcript from Public Access must be made to
-the Court on Appeal and must contain the specific Access to Court Records Rule 5(B), 5(C), or
-5(D) ground(s) upon which that exclusion is based. Upon receipt of an order from the Court
-on Appeal, the Court Reporter must re-file the Transcript in compliance with the require-
-ments of Appellate Rule 23(F).
+the Court on Appeal and must contain the specific Access to Court Records Rule 5(B), 5(C), 5
+(D), or 5(F) ground(s) upon which that exclusion is based. Upon receipt of an order from the
+Court on Appeal, the Court Reporter must re-file the Transcript in compliance with the
+requirements of Appellate Rule 23(F), except that exhibits governed by Access to Court
+Records Rule 5(F) must be handled under Appellate Rule 29(E).
 
 Rule 29. Exhibits
-Effective January 1, 2022
+Effective July 1, 2026
 
 A. Documentary Exhibits.
-Documentary exhibits, including testimony in written form filed in Administrative Agency pro-
-ceedings and photographs, shall be included in separate volumes that conform to the require-
-ments of Appendix A(1), (2)(a), (11), and (12). The Court Reporter shall also prepare an index
-of the exhibits contained in the separate volumes that conforms to the requirements of
-Appendix A(14). Documentary exhibit volumes shall be submitted in electronic format in
-accordance with Appellate Rule 28(c). Documentary exhibit volumes submitted in electronic
-format shall additionally conform to the requirements of Appendix A(15)-(19). The doc-
-umentary exhibit volumes shall be transmitted to the Clerk with the electronic Transcript,
-using the same method of transmission as the electronic Transcript.
-
-B. Audio and Video Recordings.
-Exhibits in the form of audio or video recordings shall be separately submitted to the Clerk on
-CD, DVD, flash drive, or other physical media at the same time as the Transcript and doc-
-umentary exhibits are filed. Such CDs, DVDs, flash drives, or physical media shall be
+Except for exhibits governed by Section (E), documentary exhibits, including testimony in writ-
+ten form filed in Administrative Agency proceedings and photographs, shall be included in
+separate volumes that conform to the requirements of Appendix A(1), (2)(a), (11), and (12).
+The Court Reporter shall also prepare an index of the exhibits contained in the separate
+volumes that conforms to the requirements of Appendix A(14). Documentary exhibit volumes
+shall be submitted in electronic format in accordance with Appellate Rule 28(c). Documentary
+exhibit volumes submitted in electronic format shall additionally conform to the require-
+ments of Appendix A(15)-(19). The documentary exhibit volumes shall be transmitted to the
 
                                                 50
 
-submitted in an envelope stapled into a conventional volume. Audio or video recordings sub-
-mitted on physical media in criminal cases shall be returned to the trial court five (5) years
-after the appellate case is concluded. Audio or video recordings submitted on physical media
-in civil cases shall be returned to the trial court sixty (60) days after the appellate case is con-
-cluded.
+Clerk with the electronic Transcript, using the same method of transmission as the electronic
+Transcript.
+
+B. Audio and Video Recordings.
+If a case includes exhibits in the form of audio or video recordings, the Court Reporter must
+prepare two copies, except for child sex abuse material (CSAM) addressed in Section (E).
+CSAM must not be copied or included in the record except by order of the Court on Appeal.
+The trial court must retain the original exhibits.
+
+   (1) The trial court clerk must mail one copy to the Clerk on CD, DVD, flash drive, or other
+   physical media at the same time as the Transcript and documentary exhibits are filed.
+   Such CDs, DVDs, flash drives, or physical media must be submitted in an envelope stapled
+   into a conventional volume.
+
+   (2) The trial court clerk must provide one copy to the Appellant(s), either by electronic
+   means or by mailing the CD, DVD, flash drive, or other physical media.
+
+   (3) At the time of filing of the Appellant’s Brief, if the Appellee(s) do not have access to the
+   audio or video recordings under Rule 12(C), the Appellant must provide those recordings
+   to the Appellee(s).
+
+   (4) Audio or video recordings submitted on physical media in criminal cases must be
+   returned to the trial court five years after the appellate case is concluded. Audio or video
+   recordings submitted on physical media in civil cases must be returned to the trial court
+   sixty days after the appellate case is concluded.
 
 C. Nondocumentary and Oversized Exhibits.
-Nondocumentary and oversized exhibits shall not be sent to the Court, but shall remain in
-the custody of the trial court or Administrative Agency during the appeal. Such exhibits shall
-be briefly identified in the Transcript where they were admitted into evidence. Photographs
-of any exhibit may be included in the volume of documentary exhibits. Nondocumentary and
-oversized exhibits sent to the Court in criminal cases shall be returned to the trial court five
-(5) years after the appellate case is concluded. Nondocumentary and oversized exhibits sent
-to the Court in civil cases shall be returned to the trial court sixty (60) days after the appellate
-case is concluded.
+Except as provided in Section (E), nondocumentary and oversized exhibits must not be sent
+to the Court but must remain in the custody of the trial court or Administrative Agency during
+the appeal. Such exhibits must be briefly identified in the Transcript where they were admit-
+ted into evidence. Except as provided in Section (E), photographs of any exhibit may be
+included in the volume of documentary exhibits. Nondocumentary and oversized exhibits
+sent to the Court in criminal cases must be returned to the trial court five years after the
+appellate case is concluded. Nondocumentary and oversized exhibits sent to the Court in civil
+cases must be returned to the trial court sixty days after the appellate case is concluded.
+
+                                                51
 
 D. Access to Court Records Rule 7.
-If an exhibit was accompanied by the separate written notice required by Access to Court
-Records Rule 7, the Court Reporter must comply with the requirements of Appellate Rule 23
-(F) when the exhibit is thereafter filed with the Trial Court Clerk.
+Except for exhibits governed by Access to Court Records Rule 5(F), if an exhibit was accom-
+panied by the separate written notice required by Access to Court Records Rule 7, the Court
+Reporter must comply with the requirements of Appellate Rule 23(F) when the exhibit is
+thereafter filed with the Trial Court Clerk. Exhibits governed by Access to Court Records Rule
+5(F) are governed by Section (E).
+
+E. Child Sex Abuse Material.
+If an exhibit includes child sex abuse material (CSAM), as defined by I.C. 35-36-10-2, the Court
+Reporter must not prepare any copies of that exhibit. The Court Reporter or other custodian
+designated by the trial court must maintain the exhibits securely, confidentially, and sep-
+arately from the other exhibits.
+
+    (1) A party that wishes to raise or respond to an issue on appeal that requires examination
+    of CSAM must file a written motion requesting that the CSAM be transmitted to the Court
+    on Appeal. The Court on Appeal may also order transmission on its own motion. Any
+    order authorizing transmission must specify who may access the CSAM and the conditions
+    of access, consistent with Access to Court Records Rule 5(F) and applicable law. Upon
+    order of the Court on Appeal, the exhibits must be transported to the Clerk by personal
+    delivery, not by mail or electronic transmission, by a law enforcement officer or other
+    appropriate designee of the trial court.
+
+    (2) After the appellate case is concluded, including after certification under Rule 65 when
+    applicable, the Court on Appeal must order the return of the exhibits to the law enforce-
+    ment agency that had pretrial custody of the evidence or as otherwise ordered by the
+    Court on Appeal.
 
 Rule 30. [Reserved]
 Effective July 1, 2016
@@ -1989,12 +2043,11 @@ Rule 31. Statement Of Evidence When No Transcript Is
 Available
 Effective July 1, 2016
 
+                                               52
+
 A. Party's Statement of Evidence.
 If no Transcript of all or part of the evidence is available, a party or the party's attorney may
 prepare a verified statement of the evidence from the best available sources, which may
-
-                                                 51
-
 include the party's or the attorney's recollection. The party shall then file a motion to certify
 the statement of evidence with the trial court or Administrative Agency. The statement of
 evidence shall be submitted with the motion.
@@ -2021,15 +2074,14 @@ Rule 32. Correction Or Modification Of Clerk's Record
 Or Transcript
 Effective January 1, 2001
 
+                                                53
+
 A. Submission of Disagreement Regarding Contents to Trial Court or
 Administrative Agency.
 If a disagreement arises as to whether the Clerk's Record or Transcript accurately discloses
 what occurred in the trial court or the Administrative Agency, any party may move the trial
 court or the Administrative Agency to resolve the disagreement. The trial court retains jur-
 isdiction to correct or modify the Clerk's Record or Transcript at any time before the reply
-
-                                                52
-
 brief is due to be filed. After that time, the movant must request leave of the Court on Appeal
 to correct or modify the Clerk's Record or Transcript. The trial court or Administrative Agency
 shall issue an order, which shall become part of the Clerk's Record, that either:
@@ -2056,20 +2108,20 @@ The procedure in this Rule may be used only by the agreement of all the parties 
 issues presented by the appeal are capable of resolution without reference to a Clerk's
 Record or Transcript.
 
+                                                 54
+
 B. Content.
 The agreed statement of the record shall set forth only so many of the facts proved or sought
 to be proved as are essential to a decision of the questions by the Court on Appeal. The
 agreed statement shall include:
 
-    (1) a copy of the appealed judgment or order;
+      (1) a copy of the appealed judgment or order;
 
-    (2) a copy of the Notice of Appeal with its filing date;
+      (2) a copy of the Notice of Appeal with its filing date;
 
-    (3) a statement of how the issues arose in the trial court or Administrative Agency; and
+      (3) a statement of how the issues arose in the trial court or Administrative Agency; and
 
-    (4) the signatures of all parties or their attorneys.
-
-                                                 53
+      (4) the signatures of all parties or their attorneys.
 
 C. Certification by Trial Court or Administrative Agency.
 The parties shall submit the agreed statement of the record to the trial court or the Admin-
@@ -2086,7 +2138,7 @@ E. Extensions of Time.
 Use of this procedure does not automatically extend any appellate deadline, but extensions
 of time may be sought under Rule 35.
 
-                                                54
+                                                   55
 
 VI. Motions
 
@@ -2120,7 +2172,7 @@ Any party may file a response to a motion within fifteen (15) days after the mot
 The fact that no response is filed does not affect the Court's discretion in ruling on the
 motion.
 
-                                                  55
+                                                  56
 
 D. Reply.
 The movant may not file a reply to a response without leave of the Court. Any reply must be
@@ -2159,7 +2211,7 @@ ments for briefs under Rule 43(B)-(G).
 document exceeds the page limit, it must contain a word count certificate in compliance with
 Rule 44(F).
 
-                                               56
+                                               57
 
 H. Oral Argument.
 Ordinarily oral argument will not be heard on any motion.
@@ -2201,7 +2253,7 @@ All motions shall be verified and state
         (ii) The matter under appeal is so complex that an adequate brief cannot reasonably be
         prepared by the date the brief is due; or
 
-                                                 57
+                                                 58
 
         (iii) Hardship to counsel will result unless an extension is granted, in which event the
         nature of the hardship must be set forth.
@@ -2240,7 +2292,7 @@ A. Voluntary Dismissal.
 An appeal may be dismissed on motion of the appellant upon the terms agreed upon by all
 the parties on appeal or fixed by the Court.
 
-                                                58
+                                                59
 
 B. Involuntary Dismissal.
 An appellee may at any time file a motion to dismiss an appeal for any reason provided by
@@ -2271,7 +2323,7 @@ Administrative Agency, they shall remain consolidated on appeal. If any party be
 the appeal should not remain consolidated, that party may file a motion to sever the con-
 solidated appeal within thirty (30) days after the first Notice of Appeal is filed.
 
-                                                 59
+                                                 60
 
 B. Cases Consolidated on Appeal.
 Where there is more than one (1) appeal from the same order or judgment or where two (2)
@@ -2308,7 +2360,7 @@ copies of the following:
     (4) an attorney certificate evidencing the date, time, place and method of service made
     upon all other parties; and
 
-                                                60
+                                                61
 
     (5) an attorney certificate setting forth in detail why all other parties should not be heard
     prior to the granting of said stay.
@@ -2344,7 +2396,7 @@ A party who has been permitted to proceed in the trial court in forma pauperis m
 on appeal in forma pauperis without further authorization from the trial court or Court on
 Appeal. See Rule 9(E).
 
-                                                 61
+                                                 62
 
 (2) Motion to the Trial Court.
 
@@ -2359,18 +2411,18 @@ denial.
 
 (3) Revocation of Authorization by the Trial Court.
 
-Before or after the Notice of Appeal is filed, the trial court may certify or find that a party is no
-longer entitled to proceed in forma pauperis. The trial court shall state in a written order the
-reasons for such certification or finding.
+Before or after the Notice of Appeal is filed, the trial court may certify or find that a party is
+no longer entitled to proceed in forma pauperis. The trial court shall state in a written order
+the reasons for such certification or finding.
 
 (4) Motion to the Court on Appeal.
 
 If the trial court denies a party authorization to proceed in forma pauperis the party may file a
-motion in the Court on Appeal for leave to so proceed within fifteen (15) days of service of the
-trial court's order. See Form #App.R. 40-1. The motion shall be accompanied by a copy of any
-affidavit supporting the party's request filed in the trial court. If no affidavit was filed in the
-trial court or if the affidavit filed in the trial court is no longer accurate, the motion shall be
-accompanied by an affidavit conforming to Form #App.R. 40-2. The motion shall be accom-
+motion in the Court on Appeal for leave to so proceed within fifteen (15) days of service of
+the trial court's order. See Form #App.R. 40-1. The motion shall be accompanied by a copy of
+any affidavit supporting the party's request filed in the trial court. If no affidavit was filed in
+the trial court or if the affidavit filed in the trial court is no longer accurate, the motion shall
+be accompanied by an affidavit conforming to Form #App.R. 40-2. The motion shall be accom-
 panied by a copy of the order setting forth the trial court's reasons for denying the party in
 forma pauperis status on appeal.
 
@@ -2382,7 +2434,7 @@ detail the party's inability to pay fees or costs or to give security therefor, 
 that the party is entitled to redress, and a statement of the issues the party intends to
 present on appeal.
 
-                                                 62
+                                                  63
 
 C. Filings Required in the Court on Appeal.
 With the first document a party proceeding or desiring to proceed in forma pauperis files in
@@ -2416,7 +2468,7 @@ identify the interest of the proposed amicus curiae and the party with whom the 
 amicus curiae is substantively aligned, and it shall state the reasons why an amicus curiae brief
 would be helpful to the court.
 
-                                                  63
+                                                  64
 
 B. Time for Filing.
 The proposed amicus curiae shall file its motion to appear within the time allowed the party
@@ -2451,7 +2503,7 @@ response permitted, within thirty (30) days after the service of the document up
 any time upon the court's own motion, the court may order stricken from any document any
 redundant, immaterial, impertinent, scandalous or other inappropriate matter.
 
-                                               64
+                                               65
 
 VII. Briefs
 
@@ -2483,7 +2535,7 @@ All text shall be double-spaced except that footnotes, tables, charts, or simila
 text that is blocked and indented shall be single-spaced. Single-spaced lines shall be sep-
 arated by at least 4-point spaces.
 
-                                               65
+                                               66
 
 F. Numbering.
 All pages of the brief, including the front page (see Rule 43(I)), table of contents, and table of
@@ -2513,7 +2565,7 @@ A. Applicability.
 This Rule governs the length of briefs, Petitions for Rehearing, Petitions to Transfer to the
 Supreme Court, and Petitions for Review of a Tax Court decision by the Supreme Court.
 
-                                                66
+                                               67
 
 B. Oversized Brief.
 A motion requesting leave to file any oversized brief or Petition shall be filed at least fifteen
@@ -2535,8 +2587,8 @@ The text of the following shall not be included in the page or word length limit
 
    Word count certificate
 
-   Appealed judgment or order of trial court or Administrative Agency, and items identified in
-   Rule 46(A)(10).
+   Appealed judgment or order of trial court or Administrative Agency, and items identified
+   in Rule 46(A)(10).
 
    Headings and footnotes are included in the length limits.
 
@@ -2560,7 +2612,7 @@ the following number of pages:
 
    Petition to Transfer: ten (10) pages
 
-                                                67
+                                                68
 
    Brief in response to a Petition seeking Transfer: ten (10) pages
 
@@ -2609,7 +2661,7 @@ ing footnotes, it does not exceed, the following number of words:
    Reply brief to brief in response to a Petition for Review of a Tax Court decision: 7,000
    words
 
-                                               68
+                                               69
 
 F. Form of Word Count Certificate.
 The following are acceptable word count certifications: “I verify that this brief (or Petition) con-
@@ -2648,7 +2700,7 @@ mercial carrier, does not extend the due date for filing the appellant’s brief
 The appellee's brief shall be filed no later than thirty (30) days after service of the appellant's
 brief.
 
-                                                 69
+                                                 70
 
 (3) Appellant's Reply Brief; Cross-Appellee's Brief.
 
@@ -2670,7 +2722,7 @@ dismissal. The appellee's failure to file timely the appellee's brief may result
 trial court or Administrative Agency on the appellant's showing of prima facie error.
 
 Rule 46. Arrangement And Contents Of Briefs
-Effective July 1, 2016
+Effective July 1, 2026
 
 A. Appellant's Brief.
 The appellant's brief shall contain the following sections under separate headings and in the
@@ -2687,7 +2739,7 @@ The table of authorities shall list each case, statute, rule, and other authorit
 with references to each page on which it is cited. The authorities shall be listed alphabetically
 or numerically, as applicable.
 
-                                                 70
+                                                 71
 
 (3) Statement of Supreme Court Jurisdiction.
 
@@ -2733,7 +2785,7 @@ made in the body of the brief. It should not be a mere repetition of the argumen
 This section shall contain the appellant's contentions why the trial court or Administrative
 Agency committed reversible error.
 
-                                              71
+                                              72
 
    (a) The argument must contain the contentions of the appellant on the issues presented,
    supported by cogent reasoning. Each contention must be supported by citations to the
@@ -2779,7 +2831,7 @@ findings of fact and conclusions thereon relating to the issues raised on appeal
 mitted with the brief as a separate attachment. These documents shall be contained within
 conventionally filed briefs.
 
-                                                72
+                                                73
 
 B. Appellee's Brief.
 The appellee's brief shall conform to Section A of this Rule, except as follows:
@@ -2823,7 +2875,7 @@ why the trial court or Administrative Agency committed reversible error.
 
 The appellant's reply brief shall address the arguments raised on cross-appeal.
 
-                                                 73
+                                                 74
 
 (4) Cross-Appellant's Reply Brief.
 
@@ -2864,7 +2916,7 @@ Any party or any entity granted amicus curiae status may elect to file a separat
 Brief. An Addendum to Brief is not required and is not recommended in most cases. An
 Addendum to Brief is a highly selective compilation of materials filed with a party's brief at
 
-                                                 74
+                                                 75
 
 the option of the submitting party. If an Addendum to Brief is submitted, it must be filed and
 served at the time of the filing and service of the brief it accompanies. An Addendum to Brief
@@ -2872,15 +2924,16 @@ may include, for example, copies of key documents from the Clerk's Record or App
 (such as contracts), or exhibits (such as photographs or maps), or copies of critically import-
 ant pages of testimony from the Transcript, or full text copies of statutes, rules, regulations,
 etc. that would be helpful to the Court on Appeal but which, for whatever reason, cannot be
-conveniently or fully reproduced in the body of the brief. An Addendum to Brief may not
-exceed fifty (50) pages in length and should ordinarily be much shorter in length. The
-Addendum to Brief shall have a front page that is styled similarly to the brief it accompanies
-(see Form App. 43-1), except that it shall be clearly identified as an Addendum to Brief, and
-the first document in the Addendum to Brief shall be a table of contents. An Addendum to
-Brief may not contain argument. All pages of the Addendum to Brief, including the front page
-(see Rule 43(I)) and table of contents, shall be consecutively numbered at the bottom begin-
-ning with numeral one; however, the front page, table of contents, and certificate of service
-shall not be included in the fifty (50) page length limit of this rule.
+conveniently or fully reproduced in the body of the brief, except for material governed by
+Access to Court Records Rule 5(F). An Addendum to Brief may not exceed fifty (50) pages in
+length and should ordinarily be much shorter in length. The Addendum to Brief shall have a
+front page that is styled similarly to the brief it accompanies (see Form App. 43-1), except that
+it shall be clearly identified as an Addendum to Brief, and the first document in the
+Addendum to Brief shall be a table of contents. An Addendum to Brief may not contain argu-
+ment. All pages of the Addendum to Brief, including the front page (see Rule 43(I)) and table
+of contents, shall be consecutively numbered at the bottom beginning with numeral one;
+however, the front page, table of contents, and certificate of service shall not be included in
+the fifty (50) page length limit of this rule.
 
 Rule 47. Amended Briefs And Petitions
 Effective July 1, 2016
@@ -2900,7 +2953,7 @@ promptly file with the Clerk a notice of those authorities setting forth the cit
 shall be a reference either to the page of the brief or to a point argued orally to which the cita-
 tions pertain, with a parenthetical or a single sentence explaining the authority.
 
-                                                 75
+                                                 76
 
 VIII. Appendices
 
@@ -2923,7 +2976,7 @@ If an appendix is received but not filed in accordance with Appellate Rule 23(D)
 the Appendix shall be retendered.
 
 Rule 50. Contents Of Appendices
-Effective January 1, 2019
+Effective July 1, 2026
 
 A. Appendices in Civil Appeals and Appeals from Administrative
 Agencies.
@@ -2933,7 +2986,7 @@ Agencies.
 The purpose of an Appendix in civil appeals and appeals from Administrative Agencies is to
 present the Court with copies of only those parts of the Record on Appeal that are necessary
 
-                                               76
+                                               77
 
 for the Court to decide the issues presented.
 
@@ -2958,12 +3011,13 @@ uments, if they exist:
    (f) pleadings and other documents from the Clerk's Record in chronological order that are
    necessary for resolution of the issues raised on appeal;
 
-   (g) any other short excerpts from the Record on Appeal, in chronological order, such as
-   essential portions of a contract or pertinent pictures, that are important to a con-
-   sideration of the issues raised on appeal;
+   (g) any other short excerpts from the Record on Appeal, excluding material governed by
+   Access to Court Records Rule 5(F), in chronological order, such as essential portions of a
+   contract or pertinent pictures, that are important to a consideration of the issues raised
+   on appeal;
 
-   (h) any record material relied on in the brief unless the material is already included in the
-   Transcript;
+   (h) any record material relied on in the brief, excluding material governed by Access to
+   Court Records Rule 5(F), unless the material is already included in the Transcript;
 
    (i) a verification of accuracy by the attorney or unrepresented party filing the Appendix.
    The following is an acceptable verification:
@@ -2978,7 +3032,7 @@ the appellee's Appendix shall not contain any materials already contained in app
 Appendix, unless necessary for completeness or context. The Appendix may contain addi-
 tional items that are relevant to either issues raised on appeal or on cross-appeal.
 
-                                                  77
+                                                  78
 
 B. Appendices in Criminal Appeals.
 
@@ -2994,11 +3048,12 @@ the following documents, if they exist:
    (c) any instruction not included in appellant's brief under Rule 46(A)(8)(e) when error is pre-
    dicated on the giving or refusing of the instruction;
 
-   (d) any other short excerpts from the Record on Appeal, in chronological order, such as
-   pertinent pictures, that are important to a consideration of the issues raised on appeal;
+   (d) any other short excerpts from the Record on Appeal, excluding material governed by
+   Access to Court Records Rule 5(F), in chronological order, such as pertinent pictures, that
+   are important to a consideration of the issues raised on appeal;
 
-   (e) any record material relied on in the brief unless the material is already included in the
-   Transcript;
+   (e) any record material relied on in the brief, excluding material governed by Access to
+   Court Records Rule 5(F), unless the material is already included in the Transcript;
 
    (f) a verification of accuracy by the attorney or unrepresented party filing the Appendix.
    The following is an acceptable verification:
@@ -3018,12 +3073,11 @@ A table of contents shall be prepared for every Appendix. The table of contents 
 cifically identify each item contained in the Appendix, including the item's date. The Table of
 Contents shall be submitted as Appendix Volume 1 in accordance with Rule 51(F).
 
+                                                  79
+
 D. Supplemental and Other Appendices.
 All supplemental and any other appendices shall be governed, to the extent applicable, by
 Sections A, B, C, E, and F, and shall not duplicate materials contained in other appendices,
-
-                                                  78
-
 unless necessary for completeness or context.
 
 E. Cases with Multiple Appellants or Appellees.
@@ -3036,13 +3090,14 @@ Because the Transcript is transmitted to the Court on Appeal pursuant to Rule 12
 should not reproduce any portion of the Transcript in the Appendix.
 
 Rule 51. Form And Assembly Of Appendices
-Effective January 1, 2022
+Effective July 1, 2026
 
 A. Copying.
 For conventionally filed appendices, the copies shall be on 8 1/2 by 11 inch white paper of a
 weight normally used in printing and typing. The copying process used shall produce text in a
-distinct black image on only one side of the paper. Color copies of exhibits that were ori-
-ginally in color are permitted and encouraged.
+distinct black image on only one side of the paper. Except for exhibits governed by Access to
+Court Records Rule 5(F), color copies of exhibits that were originally in color are permitted
+and encouraged.
 
 B. Order of Documents.
 Documents included in an Appendix shall be arranged in the order listed in Rule 50.
@@ -3050,18 +3105,19 @@ Documents included in an Appendix shall be arranged in the order listed in Rule 
 C. Numbering.
 Each Appendix volume shall be independently and consecutively numbered. All pages of the
 Appendix volume, including the front page (see Rule 51(E)), shall be consecutively numbered
+
+                                               80
+
 at the bottom starting with numeral one on each volume’s front page. The appendix page
 numbers should not obscure the page numbers existing on the original documents.
-
-                                              79
 
 D. Volumes.
 All Appendices shall be submitted separately from the brief. An Appendix shall consist of a
 table of contents (see Rule 51(F)) and one or more additional volumes, and each Appendix
 volume must be limited in size to the lesser of two hundred fifty (250) pages or fifty mega-
-bytes (50 MB). The front page shall be included in the two hundred fifty (250) page limit of this
-rule. Conventionally filed volumes shall be bound with single staple or binder clip. They shall
-not be bound in book or pamphlet form.
+bytes (50 MB). The front page shall be included in the two hundred fifty (250) page limit of
+this rule. Conventionally filed volumes shall be bound with single staple or binder clip. They
+shall not be bound in book or pamphlet form.
 
 E. Front Page.
 Each volume of an Appendix shall have a front page that conforms substantially to Form #Ap-
@@ -3071,7 +3127,7 @@ F. Table of Contents.
 An Appendix shall contain a single table of contents for the entire Appendix, which shall be
 submitted as Appendix Volume 1, regardless of the number of volumes.
 
-                                               80
+                                              81
 
 IX. Oral Argument
 
@@ -3102,7 +3158,7 @@ good cause, request more or less time in its motion for oral argument or by sepa
 filed no later than fifteen (15) days after the order setting oral argument. A party is not
 required to use all of the time allowed, and the Court may terminate any argument if in its
 
-                                                81
+                                                82
 
 judgment further argument is unnecessary. A side may not exceed its allotted time without
 leave of the Court.
@@ -3139,7 +3195,7 @@ the argument. Counsel shall provide any equipment needed. After the argument, co
 presenting the exhibits shall be responsible for removal of the exhibits from the court room
 and, if necessary, for return to the trial court clerk.
 
-                                                 82
+                                                 83
 
 G. Non-Appearance at Argument.
 If one or more parties fail to appear at oral argument, the Court may hear argument from the
@@ -3153,7 +3209,7 @@ case and parties only as identified in the appellate Chronological Case Summary 
 disclose any matter excluded from Public Access in accordance with the requirements of the
 Rules on Access to Court Records.
 
-                                              83
+                                              84
 
 X. Petitions for Rehearing
 
@@ -3191,7 +3247,7 @@ of time shall be granted.
 D. Reply Brief Prohibited.
 Reply briefs on Rehearing are prohibited.
 
-                                                84
+                                                85
 
 E. Content and Length.
 The Rehearing Petition shall state concisely the reasons the party believes rehearing is neces-
@@ -3211,7 +3267,7 @@ tinue under Rule 54 for the Petition for Rehearing and under Rule 57 for the Pet
 fer. Once the Court of Appeals disposes of the Petition for Rehearing, transfer may be sought
 from that disposition in accordance with Rule 57 governing Petitions to Transfer.
 
-                                               85
+                                               86
 
 XI. Supreme Court Proceedings
 
@@ -3235,13 +3291,13 @@ required if the Petition is filed by or on behalf of a state or governmental uni
 who proceeded in forma pauperis in the Court of Appeals.
 
 Rule 57. Petitions To Transfer And Briefs
-Effective January 1, 2022
+Effective July 1, 2026
 
 A. Applicability.
 This Rule applies to Petitions to Transfer an appeal from the Court of Appeals to Supreme
 Court after an adverse decision by the Court of Appeals.
 
-                                                86
+                                                87
 
 B. Decisions From Which Transfer May be Sought.
 Transfer may be sought from adverse decisions issued by the Court of Appeals in the fol-
@@ -3283,7 +3339,7 @@ that no response will be filed. The Notice may not include any argument or other
 mentary on the merits of the petition or case. The Notice will be treated as a brief in response
 if it includes anything other than a statement that no response will be filed.
 
-                                               87
+                                               88
 
 E. Reply Brief.
 If a brief in response is filed, the petitioning party may file a reply brief no later than ten (10)
@@ -3324,7 +3380,7 @@ An argument section explaining the reasons why transfer should be granted.
 
 A short and plain statement of the relief requested.
 
-                                                 88
+                                                 89
 
 (6) Word Count Certificate, if necessary.
 
@@ -3335,8 +3391,9 @@ See Rule 44(F).
 See Rule 24(D).
 
 H. Considerations Governing the Grant of Transfer.
-The grant of transfer is a matter of judicial discretion. The following provisions articulate the
-principal considerations governing the Supreme Court's decision whether to grant transfer.
+Except as provided in Section (I), the grant of transfer is a matter of judicial discretion. The fol-
+lowing provisions articulate the principal considerations governing the Supreme Court's
+decision whether to grant transfer.
 
 (1) Conflict in Court of Appeals' Decisions.
 
@@ -3369,7 +3426,12 @@ The Court of Appeals has so significantly departed from accepted law or practice
 tioned such a departure by a trial court or Administrative Agency as to warrant the exercise
 of Supreme Court jurisdiction.
 
-                                                89
+                                                 90
+
+I. Life Without Parole Appeals.
+Upon request of either party under this Rule, the Supreme Court shall grant transfer in any
+criminal appeal in which a sentence of life imprisonment without parole is imposed under
+Ind. Code § 35-50-2-9.
 
 Rule 58. Effect Of Supreme Court Ruling On Petition To
 Transfer
@@ -3400,11 +3462,11 @@ When the Supreme Court is evenly divided upon the question of accepting or denyi
 fer, transfer shall be deemed denied. When the Supreme Court is evenly divided after trans-
 fer has been granted, the decision of the Court of Appeals shall be reinstated.
 
+                                                91
+
 Rule 59. Mandatory Appellate Review And Direct
 Review
 Effective January 1, 2001
-
-                                                90
 
 A. Mandatory Appeals.
 All appeals over which the Supreme Court exercises exclusive jurisdiction under Rule 4(A)(1)
@@ -3429,6 +3491,8 @@ the procedure in Trial Rule 60.5(B). The appeal shall thereafter proceed in acco
 such orders on briefing, argument and procedure as the Supreme Court may in its discretion
 issue.
 
+                                             92
+
 Rule 62. Appeals Involving Waiver Of Parental Consent
 To Abortion
 Effective January 1, 2012
@@ -3436,8 +3500,6 @@ Effective January 1, 2012
 A. Applicability.
 This Rule governs an appeal by a minor or her physician from an adverse judgment or order
 of a trial court under Indiana Code 16-34-2-4.
-
-                                                 91
 
 B. Permitted Parties.
 For the purposes of this Rule, the term “ physician” shall mean a natural person holding an
@@ -3464,13 +3526,14 @@ E. Decision by the Supreme Court.
 The appeal shall proceed directly to the Supreme Court, which shall decide the appeal on the
 Record on Appeal without briefs or oral argument, unless the Court otherwise directs. Any
 party may, however, file a short statement of special points desired to be brought to the
+
+                                                 93
+
 attention of the Supreme Court, which statement need not conform to the usual require-
 ments for appellate briefs.
 
 Rule 63. Review of Tax Court Decisions
 Effective September 1, 2018
-
-                                                92
 
 A. Review of Final Judgment or Final Disposition.
 Any party adversely affected by a Final Judgment of the Tax Court as defined by Rule 2(H), or
@@ -3502,14 +3565,14 @@ Rule 25(C), which provides a three-day extension for service by mail or third-pa
 mercial carrier, does not extend the due date for filing a Notice of Intent to Petition for
 Review, and no extension of time shall be granted.
 
+                                                94
+
 D. Clerk's Record and Transcript.
 The Clerk shall give notice of filing of the Notice of Intent to Petition for Review to the Court
 Reporter and shall assemble the Clerk's Record in accordance with Rule 10. The Court
 Reporter shall prepare and file the Transcript in accordance with Rule 11. The Clerk shall
 retain, transmit, and grant access to the Clerk's Record in accordance with Rule 12. Reference
 to the “trial court clerk” in Rules 10, 11, and 12 shall mean the Clerk.
-
-                                                93
 
 E. Petition for Review.
 The petitioning party shall file its Petition for Review no later than thirty (30) days after:
@@ -3538,13 +3601,14 @@ Review shall be filed after the Supreme Court accepts a petition for interlocuto
 I. Form and Length Limits.
 A Petition for Review, any brief in response, and any reply brief are governed by Rules 43, 44,
 and 46; provided, that, immediately before the Argument section in the Petition for Review
+
+                                                 95
+
 and brief in response there shall be a separate section entitled Reasons for Granting [or Deny-
 ing] Review, which shall concisely explain why review should or should not be granted. Refer-
 ence to the “appellant's brief,” “appellee's brief.” and “appellant's reply brief” in Rule 46 shall
 mean the Petition for Review, brief in response, and reply brief, respectively. No separate
 brief in support of the Petition shall be filed.
-
-                                                   94
 
 J. Fiscal Impact.
 Any brief may discuss the fiscal impact of the Tax Court's decision on taxpayers or gov-
@@ -3578,12 +3642,12 @@ important issue.
 The Tax Court has decided an important question of law or a case of great public importance
 that should be decided by the Supreme Court.
 
+                                                   96
+
 (4) Precedent in Need of Reconsideration.
 
 The Tax Court has correctly followed the ruling precedent, but such precedent is erroneous
 or in need of clarification or modification in some specific respect.
-
-                                               95
 
 (5) Conflict with Federal Appellate Decision.
 
@@ -3615,12 +3679,12 @@ Q. Applicability of Other Appellate Rules.
 All other rules of appellate procedure shall apply to Petitions for Review from the Tax Court
 except as otherwise specifically provided in this Rule.
 
+                                                97
+
 R. Supreme Court Evenly Divided.
 Where the Supreme Court is evenly divided, either upon the question of accepting or denying
 review, or upon the disposition of the case once review is granted, review shall be deemed
 denied and the decision of the Tax Court shall be final.
-
-                                                96
 
 Rule 64. Certified Questions Of State Law From Federal
 Courts
@@ -3648,7 +3712,7 @@ materials electronically rather than conventionally may contact the Clerk. The S
 will issue an order either accepting or refusing the question. If accepted, the Supreme Court
 may establish by order a briefing schedule on the certified question.
 
-                                                 97
+                                                 98
 
 XII. Court Procedures, Powers and Decisions
 
@@ -3672,8 +3736,8 @@ reporter if one (1) of the criteria above is met.
 
 B. Time to File Motion to Publish.
 Within fifteen (15) days of the entry of the decision, a party may move the Court to publish in
-the official reporter any memorandum decision which meets the criteria for publication in the
-official reporter.
+the official reporter any memorandum decision which meets the criteria for publication in
+the official reporter.
 
 C. Official Reporter.
 West's Northeastern Reporter shall be the official reporter of the Supreme Court and the
@@ -3686,7 +3750,7 @@ D. Precedential Value of Opinions and Memorandum Decisions.
 A published opinion of the Supreme Court is binding precedent for all Indiana courts. A pub-
 lished opinion of the Court of Appeals is binding precedent for all Indiana trial courts.
 
-                                                  98
+                                                  99
 
 (2) Memorandum decisions.
 
@@ -3722,7 +3786,7 @@ A. Harmless Error.
 No error or defect in any ruling or order or in anything done or omitted by the trial court or
 by any of the parties is ground for granting relief or reversal on appeal where its probable
 
-                                               99
+                                               100
 
 impact, in light of all the evidence in the case, is sufficiently minor so as not to affect the sub-
 stantial rights of the parties.
@@ -3766,7 +3830,7 @@ new trial or hearing unless this relief is impracticable or unfair to any of the
 erwise improper. If a new trial is necessary, it shall be limited to those parties and issues
 affected by the error unless this would be impracticable or unfair.
 
-                                                100
+                                                101
 
 E. Damages for Frivolous or Bad Faith Filings.
 The Court may assess damages if an appeal, petition, or motion, or response, is frivolous or
@@ -3802,7 +3866,7 @@ When a judgment or order is affirmed in whole, the appellee shall recover costs.
 ment has been reversed in whole, the appellant shall recover costs in the Court on Appeal
 and in the trial court or Administrative Agency as provided by law. In other cases, the recov-
 
-                                                101
+                                                102
 
 ery of costs shall be decided in the Court's discretion. Costs against any governmental organ-
 ization, its officers and agencies, shall be imposed only to the extent permitted by law.
@@ -3836,7 +3900,7 @@ Users should print or otherwise save each Notice of Electronic Filing as proof o
 firmation of E-Filing may also be made by referring to the Chronological Case Summary of the
 court in which the case is pending through the Case Management System of that court.
 
-                                                  102
+                                                  103
 
 E. Conventionally Filed Documents.
 Conventionally filed documents must be entered into the Case Management System by the
@@ -3877,7 +3941,7 @@ nature using one of the following methods:
 
    (b) the indicator “/s/” followed by the person’s name.
 
-                                               103
+                                               104
 
 (2) A document that is signed and E-Filed must be subject to the terms and provisions of
 Appellate 23(E). A Registered User may include the signature of other attorneys in documents
@@ -3915,7 +3979,7 @@ M. Inability to E-File.
    ument otherwise due at the time of the IEFS failure must be extended by one day for each
    day on which such failure occurs, unless otherwise ordered by the Court.
 
-                                               104
+                                               105
 
    (d) Upon motion and a showing of an IEFS failure the Court must enter an order per-
    mitting the document to be considered timely filed and may modify responsive deadlines
@@ -3926,7 +3990,7 @@ vented by any other circumstance not caused by the User who was adversely affect
 User may bring such circumstances to the attention of the Court and request relief as
 provided in Appellate Rule 35, or the User may revert to conventional filing.
 
-                                             105
+                                             106
 
 Appendix
 
@@ -3963,15 +4027,15 @@ Left margin: Text shall begin no more than one (1) inch from the edge of the pag
 
 Right margin: Text shall end one (1) inch from the edge of the page.
 
-                                                106
+                                                107
 
 (4) Indentations.
 Certain text may be indented as follows:
 
    (a) Q and A. All “Q” and “A” designations must begin at the left margin. A period following
-   the “Q” and “A” designation is optional. The statement following the “Q” and “A” must begin
-   on the fifth (5th) space following the “Q” or “A” (or period if used following the “Q” or “A”
-   designation). Subsequent lines must begin at the left margin.
+   the “Q” and “A” designation is optional. The statement following the “Q” and “A” must
+   begin on the fifth (5th) space following the “Q” or “A” (or period if used following the “Q” or
+   “A” designation). Subsequent lines must begin at the left margin.
 
    (b) Depositions read at trial. The indentations for “Q” and “A” must be the same as
    described above. In the Transcript, each question and answer read from a deposition
@@ -4000,7 +4064,7 @@ Rule 43(D) and black in color. Lines shall be double-spaced.
 Interruptions of speech must be denoted by the use of a dash at the point of interruption,
 and again at the point the speaker resumes speaking.
 
-                                               107
+                                               108
 
 (8) Reporting Verbal Expressions.
 Except as noted below, the Transcript must contain all words and other verbal expressions
@@ -4045,7 +4109,7 @@ beginning in the sixth (6th) space from the left margin.
 
    (The Witness is Affirmed)
 
-                                                108
+                                               109
 
 (f) Identification of Speakers.
 
@@ -4091,7 +4155,7 @@ noted in capital letters and centered on the appropriate line.
 
    PLAINTIFF’S EVIDENCE IN REBUTTAL
 
-                                               109
+                                               110
 
 (10) Parenthetical Notations.
 Parenthetical notations must begin with an open parenthesis or bracket on the fifth (5th)
@@ -4140,7 +4204,7 @@ readback/playback.
 
           Examples:
 
-                                               110
+                                               111
 
       (Bench conference on the record)
 
@@ -4187,7 +4251,7 @@ and readback/playback.
    (ii) Readback/Playback. All readbacks and/or playbacks and the party requesting must
    be noted parenthetically as follows:
 
-                                           111
+                                           112
 
       If the question and/or answer requested to be read or played back appears on the
       same page as the request, the following parenthetical must be used: (The last question
@@ -4226,7 +4290,7 @@ The Court Reporter shall prepare an index of all of the exhibits. The index of e
 placed in the front of the first volume of exhibits and should not be included in any sub-
 sequent exhibit volumes. The index of exhibits shall identify each exhibit’s number or letter,
 
-                                              112
+                                              113
 
 the name of the party that offered the exhibit into evidence, and the exhibit volume and page
 number where the exhibit is located.
@@ -4235,8 +4299,8 @@ number where the exhibit is located.
 The electronic Transcript must be saved in one (1) or more files in either searchable Portable
 Document Format (“searchable PDF”) or in searchable Portable Document Format for Long-
 Term Preservation (“searchable PDF/A”). Each file must be no more than two hundred fifty
-                                 [1]
-(250) pages or fifty megabytes         (50 MB). Each file must be named using the following con-
+                                [1]
+(250) pages or fifty megabytes        (50 MB). Each file must be named using the following con-
 vention: CaseNumber-DocumentType-volume#.pdf (e.g., 53C031601MI00123-Transcript-
 1.pdf, 53C031601MI00123-Transcript-2.pdf, 53C031601MI00123-Exhibit-1.pdf,
 53C031601MI00123-Exhibit-2.pdf). Valid document types include: Table of Contents, Tran-
@@ -4265,7 +4329,7 @@ of the following methods:
    (a) a graphic image of a handwritten signature, including an actual signature on a scanned
    document; or
 
-                                                   113
+                                                  114
 
     (b) the indicator “/s/” followed by the person’s name.
 
@@ -4308,7 +4372,7 @@ incomplete.
     (i) For an Appellant’s Brief in a criminal appeal where the sentence is at issue, an accom-
     panying copy of the sentencing order, see App. R. 46(A)(12);
 
-                                                  114
+                                                  115
 
    (j) For a Petition to Transfer, a brief statement, set out by itself on the page immediately
    following the front page, identifying the issue, question presented, or precedent war-
@@ -4340,4 +4404,4 @@ included:
    (c) The document was conventionally filed but should have been electronically filed
    through the Indiana E-Filing System, see App. R. 68(C).
 
-                                               115
+                                              116

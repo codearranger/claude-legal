@@ -1,7 +1,7 @@
 # Indiana Rules of Trial Procedure (Ind. Trial R.)
 
 > **Source:** https://rules.incourts.gov/pdf/PDF - Trial/trial.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
@@ -11,7 +11,7 @@
 
 Indiana Rules of Trial Procedure
 Adopted, January 1, 1970
-Updated, Effective February 2, 2026
+Updated, Effective July 1, 2026
 
 Table of Contents
 
@@ -90,8 +90,7 @@ Table of Contents
 
  Rule 11. Signing and verification of pleadings                                       46
 
- Rule 12. Defenses and objections—When and how presented—By pleading or
- motion—Motion for judgment on the pleadings                                          47
+ Rule 12. Defenses, objections, and motions on the pleadings                          47
 
  Rule 13. Counterclaim and cross-claim                                                50
 
@@ -101,207 +100,207 @@ Table of Contents
 
  Rule 16. Pre-trial procedure: Formulating issues                                     57
 
-IV. Parties                                                                           61
+IV. Parties                                                                           62
 
- Rule 17. Parties plaintiff and defendant—Capacity                                    61
+ Rule 17. Parties plaintiff and defendant—Capacity                                    62
 
- Rule 17.1. Parties: State as party—Attorney general                                  63
+ Rule 17.1. Parties: State as party—Attorney general                                  64
 
-                                          2
+ Rule 18. Joinder of claims and remedies                                              64
 
- Rule 18. Joinder of claims and remedies                                             63
+                                           2
 
- Rule 19. Joinder of person needed for just adjudication                             64
+ Rule 19. Joinder of person needed for just adjudication                             65
 
- Rule 20. Permissive joinder of parties                                              67
+ Rule 20. Permissive joinder of parties                                              68
 
  Rule 21. Misjoinder and non-joinder of parties; venue and jurisdiction over the sub-
- ject-matter                                                                          68
+ ject-matter                                                                          69
 
- Rule 22. Interpleader                                                               68
+ Rule 22. Interpleader                                                               69
 
- Rule 23. Class actions                                                              70
+ Rule 23. Class actions                                                              71
 
- Rule 23.1. Derivative actions by shareholders                                       73
+ Rule 23.1. Derivative actions by shareholders                                       74
 
- Rule 23.2. Actions relating to unincorporated associations                          74
+ Rule 23.2. Actions relating to unincorporated associations                          75
 
- Rule 24. Intervention                                                               74
+ Rule 24. Intervention                                                               75
 
- Rule 25. Substitution of parties                                                    75
+ Rule 25. Substitution of parties                                                    76
 
-V. Depositions and Discovery Scope of Rules—One Form of Action                       78
+V. Depositions and Discovery Scope of Rules—One Form of Action                       79
 
- Rule 26. General provisions governing discovery                                     78
+ Rule 26. General provisions governing discovery                                     79
 
- Rule 27. Depositions before action or pending appeal                                84
+ Rule 27. Depositions before action or pending appeal                                85
 
  Rule 28. Persons before whom depositions may be taken; discovery across state
- lines; before administrative agencies; and after judgment                           86
+ lines; before administrative agencies; and after judgment                           87
 
- Rule 29. Stipulations regarding discovery procedure                                 89
+ Rule 29. Stipulations regarding discovery procedure                                 90
 
- Rule 30. Depositions Upon Oral Examination                                          89
+ Rule 30. Depositions Upon Oral Examination                                          90
 
- Rule 31. Deposition of witnesses upon written questions                             94
+ Rule 31. Deposition of witnesses upon written questions                             95
 
- Rule 32. Use of depositions in court proceedings                                    95
+ Rule 32. Use of depositions in court proceedings                                    96
 
- Rule 33. Interrogatories to Parties                                                 97
+ Rule 33. Interrogatories to Parties                                                 98
 
- Rule 34. Production of documents, electronically stored information, and things and
- entry upon land for inspection and other purposes                                   99
+ Rule 34. Production of documents, electronically stored information, and things
+ and entry upon land for inspection and other purposes                              100
 
- Rule 35. Physical and mental examination of persons                                103
+ Rule 35. Physical and mental examination of persons                                104
 
- Rule 36. Requests for admission                                                    104
+ Rule 36. Requests for admission                                                    105
 
- Rule 37. Failure to make or cooperate in discovery: Sanctions                      106
+ Rule 37. Failure to make or cooperate in discovery: Sanctions                      107
 
-VI. Trials                                                                          110
+VI. Trials                                                                          111
 
-                                           3
+ Rule 38. Jury Trial of Right                                                       111
 
- Rule 38. Jury Trial of Right                                                       110
+                                          3
 
- Rule 39. Trial by jury or by the court                                             111
+ Rule 39. Trial by jury or by the court                                             112
 
- Rule 40. Assignment of cases for trial                                             112
+ Rule 40. Assignment of cases for trial                                             113
 
- Rule 41. Dismissal of actions                                                      113
+ Rule 41. Dismissal of actions                                                      114
 
- Rule 42. Consolidation--Separate trials                                            115
+ Rule 42. Consolidation--Separate trials                                            116
 
- Rule 43. Evidence                                                                  116
+ Rule 43. Evidence                                                                  117
 
- Rule 44. Proof of official record                                                  117
+ Rule 44. Proof of official record                                                  118
 
- Rule 45. Subpoena                                                                  117
+ Rule 45. Subpoena                                                                  118
 
- Rule 46. Exceptions unnecessary                                                    120
+ Rule 46. Exceptions unnecessary                                                    121
 
- Rule 47. Jurors and peremptory challenges                                          120
+ Rule 47. Jurors and peremptory challenges                                          121
 
- Rule 48. Juries of less than six--Majority verdict                                 121
+ Rule 48. Juries of less than six--Majority verdict                                 122
 
- Rule 49. Special verdicts and interrogatories                                      122
+ Rule 49. Special verdicts and interrogatories                                      123
 
- Rule 50. Judgment on the Evidence (Directed Verdict)                               122
+ Rule 50. Judgment on the Evidence (Directed Verdict)                               123
 
- Rule 51. Instructions to jury: Objections, requests: Submission in stages          124
+ Rule 51. Instructions to jury: Objections, requests: Submission in stages          125
 
- Rule 52. Findings by the Court                                                     125
+ Rule 52. Findings by the Court                                                     126
 
- Rule 53. Court-appointed Neutrals                                                  127
+ Rule 53. Court-appointed Neutrals                                                  128
 
- Rule 53.1. Failure to rule on motion                                               130
+ Rule 53.1. Failure to rule on motion                                               131
 
- Rule 53.2. Time for holding issue under advisement; delay of entering a judgment   133
+ Rule 53.2. Time for holding issue under advisement; delay of entering a judgment   134
 
- Rule 53.3. Motion to correct error: time limitation for ruling                     134
+ Rule 53.3. Motion to correct error: time limitation for ruling                     135
 
  Rule 53.4. Repetitive motions and motions to reconsider; time for holding under
- advisement; automatic denial                                                       135
+ advisement; automatic denial                                                       136
 
- Rule 53.5. [Vacated]                                                               136
+ Rule 53.5. [Vacated]                                                               137
 
-VII. Judgment                                                                       137
+VII. Judgment                                                                       138
 
- Rule 54. Judgment; Costs                                                           137
+ Rule 54. Judgment; Costs                                                           138
 
- Rule 55. Default                                                                   138
+ Rule 55. Default                                                                   139
 
- Rule 56. Summary judgment                                                          139
+ Rule 56. Summary judgment                                                          140
+
+ Rule 57. Declaratory judgments                                                     143
 
                                             4
 
- Rule 57. Declaratory judgments                                                       142
+ Rule 58. Entry and content of judgment                                               143
 
- Rule 58. Entry and content of judgment                                               142
+ Rule 59. Motion to correct error                                                     145
 
- Rule 59. Motion to correct error                                                     144
+ Rule 60. Relief from judgment or order                                               148
 
- Rule 60. Relief from judgment or order                                               147
+ Rule 60.5. Mandate of funds                                                          151
 
- Rule 60.5. Mandate of funds                                                          150
+ Rule 61. Harmless error                                                              152
 
- Rule 61. Harmless error                                                              151
+ Rule 62. Stay of proceedings to enforce a judgment                                   152
 
- Rule 62. Stay of proceedings to enforce a judgment                                   151
-
- Rule 63. Disability and unavailability of a judge                                    155
+ Rule 63. Disability and unavailability of a judge                                    156
 
  Rule 63.1. Lis pendens notice of proceedings avoiding judgments and cir-
  cumstances tolling and extending statutes of limitations; assignments and dis-
  charges in lis pendens and judgment dockets; lis pendens notices in cases involving
- interest in personal property                                                       158
+ interest in personal property                                                       159
 
-VIII. Provisional and Final Remedies and Special Proceedings                          161
+VIII. Provisional and Final Remedies and Special Proceedings                          162
 
- Rule 64. Seizure of person or property                                               161
+ Rule 64. Seizure of person or property                                               162
 
- Rule 65. Injunctions                                                                 163
+ Rule 65. Injunctions                                                                 164
 
- Rule 65.1. Security: Proceedings against sureties                                    167
+ Rule 65.1. Security: Proceedings against sureties                                    168
 
  Rule 66. Receivers, assignees for the benefit of creditors and statutory and other
- liquidators; claims against such officers                                            168
+ liquidators; claims against such officers                                            169
 
- Rule 67. Deposit in court; payment of judgment                                       169
+ Rule 67. Deposit in court; payment of judgment                                       170
 
- Rule 68. Offer of judgment                                                           170
+ Rule 68. Offer of judgment                                                           171
 
- Rule 69. Execution, proceedings supplemental to execution, foreclosure sales         171
+ Rule 69. Execution, proceedings supplemental to execution, foreclosure sales         172
 
- Rule 70. Judgment for specific acts; vesting title; recordation                      173
+ Rule 70. Judgment for specific acts; vesting title; recordation                      174
 
- Rule 71. Process in behalf of and against persons not parties                        175
+ Rule 71. Process in behalf of and against persons not parties                        176
 
-IX. Trial Courts and Clerks                                                           176
+IX. Trial Courts and Clerks                                                           177
 
- Rule 72. Trial Court and Clerks                                                      176
+ Rule 72. Trial Court and Clerks                                                      177
 
- Rule 73. Hearing of motions                                                          177
+ Rule 73. Hearing of motions                                                          178
 
- Rule 74. Recording Proceedings; Transcripts; Audio Recordings                        178
+ Rule 74. Recording Proceedings; Transcripts; Audio Recordings                        179
+
+X. Venue, Change of Venue, Change of Judge                                            180
 
                                            5
 
-X. Venue, Change of Venue, Change of Judge                                           179
+ Rule 75. Venue requirements                                                         180
 
- Rule 75. Venue requirements                                                         179
+ Rule 76. Change of venue or judge in civil actions                                  182
 
- Rule 76. Change of venue or judge in civil actions                                  181
+ Rule 77. Court records                                                              184
 
- Rule 77. Court records                                                              183
+ Rule 78. Jurisdiction pending change from county                                    189
 
- Rule 78. Jurisdiction pending change from county                                    188
+ Rule 79. Special judge selection: circuit, superior, and probate courts             189
 
- Rule 79. Special judge selection: circuit, superior, and probate courts             188
+ Rule 79.1. Special judge selection: city, town, and Marion county small claims courts194
 
- Rule 79.1. Special judge selection: city, town, and Marion county small claims courts193
+XI. General Provisions Scope of Rules—One Form of Action                             198
 
-XI. General Provisions Scope of Rules—One Form of Action                             197
+ Rule 80. Procedure for Amending Rules                                               198
 
- Rule 80. Procedure for Amending Rules                                               197
+ Rule 81. Local court rules                                                          199
 
- Rule 81. Local court rules                                                          198
+ Rule 81.1. Procedures for Cases Involving Family or Household Members               201
 
- Rule 81.1. Procedures for Cases Involving Family or Household Members               200
+ Rule 82. Forms                                                                      204
 
- Rule 82. Forms                                                                      203
+ Rule 83. Definitions                                                                204
 
- Rule 83. Definitions                                                                203
+ Rule 84. [Vacated]                                                                  205
 
- Rule 84. [Vacated]                                                                  204
+ Rule 85. [Vacated]                                                                  205
 
- Rule 85. [Vacated]                                                                  204
+ Rule 86. General electronic filing and electronic service                           205
 
- Rule 86. General electronic filing and electronic service                           204
+ Rule 87. Electronic Filing                                                          209
 
- Rule 87. Electronic Filing                                                          208
-
- Rule 88. Court and Clerk Electronic Filing Review                                   211
+ Rule 88. Court and Clerk Electronic Filing Review                                   212
 
                                            6
 
@@ -1256,7 +1255,7 @@ shall be distributed for service by the party who submitted the proposed order.
                                                31
 
 Rule 6. Time
-Effective January 1, 2025
+Effective July 1, 2026
 
 (A) Computation.
 In computing any period of time prescribed or allowed by these rules, by order of the court,
@@ -1310,7 +1309,9 @@ apply:
    reply must be filed within fourteen days after service of the response.
 
 These deadlines do not apply to motions to continue under Rule 7, summary judgment
-motions under Rule 56, and motions to correct error under Rule 59.
+motions under Rule 56, motions to correct error under Rule 59, and motions filed under Rule
+60(B). Filing a motion under Rule 12 alters the time for filing a responsive pleading as
+provided in Rule 12(A).
 
 (E) Time to serve motions.
 A written motion, other than one which may be heard ex parte, and notice of the hearing
@@ -1320,14 +1321,13 @@ for cause shown, be made on ex parte application.
 
 (F) Affidavits.
 When a motion is supported by affidavit, the affidavit must be served with the motion; and,
-except as otherwise provided in Rule 59(D), opposing affidavits may be served not less than
+except as otherwise provided in these rules, opposing affidavits may be served not less than
 one day before the hearing, unless the court permits them to be served at some other time.
 
 (G) Additional time after service by United States mail.
 Whenever a party has the right or is required to do some act or take some proceedings
-within a prescribed period after the service of a notice or other paper upon him and the
-notice or paper is served upon him by United States mail, three days must be added to the
-prescribed period.
+within a prescribed period after the service of a notice or other paper and the notice or paper
+is served by United States mail, three days must be added to the prescribed period.
 
                                                   33
 
@@ -1816,61 +1816,73 @@ provided otherwise by these rules, statute or other law. Affidavits upon motions
 judgment under Rule 56 and in denial of execution under Rule 9.2 shall be made upon per-
 sonal knowledge.
 
-Rule 12. Defenses and objections—When and how
-presented—By pleading or motion—Motion for
-judgment on the pleadings
-Effective January 1, 2007
+Rule 12. Defenses, objections, and motions on the
+pleadings
+Effective July 1, 2026
 
                                                 47
 
 (A) When presented.
 The time allowed for the presentation of defenses and objections in a motion or responsive
-pleading shall be computed pursuant to the provisions of Rule 6(C).
+pleading is computed as set forth in this rule. Filing a motion permitted under this rule alters
+the time for filing a responsive pleading as follows, unless a different time is fixed by the
+court:
+
+   (1) if the court does not grant the motion, the responsive pleading must be filed within ten
+   days of the order;
+
+   (2) if the court grants the motion and corrective action is permitted, an amended pleading
+   taking the corrective action must be filed within ten days of the order, and the responsive
+   pleading must be filed within ten days thereafter.
 
 (B) How presented.
 Every defense, in law or fact, to a claim for relief in any pleading, whether a claim, coun-
-terclaim, cross-claim, or third-party claim, shall be asserted in the responsive pleading
+terclaim, cross-claim, or third-party claim, must be asserted in the responsive pleading
 thereto if one is required; except that at the option of the pleader, the following defenses
 may be made by motion:
 
-   (1) Lack of jurisdiction over the subject matter,
+   (1) Lack of jurisdiction over the subject matter;
 
-   (2) Lack of jurisdiction over the person,
+   (2) Lack of jurisdiction over the person;
 
-   (3) Incorrect venue under Trial Rule 75, or any statutory provision. The disposition of this
-   motion shall be consistent with Trial Rule 75,
+   (3) Incorrect venue under Rule 75, or any statutory provision. The disposition of this
+   motion must be consistent with Rule 75;
 
    (4) Insufficiency of process;
 
    (5) Insufficiency of service of process;
 
-   (6) Failure to state a claim upon which relief can be granted, which shall include failure to
+   (6) Failure to state a claim upon which relief can be granted, which must include failure to
    name the real party in interest under Rule 17;
 
    (7) Failure to join a party needed for just adjudication under Rule 19;
 
    (8) The same action pending in another state court of this state.
 
-A motion making any of these defenses shall be made before pleading if a further pleading is
-permitted or within twenty [20] days after service of the prior pleading if none is required. If a
+A motion making any of these defenses must be made before pleading if a further pleading is
+permitted or within twenty days after service of the prior pleading if none is required. If a
 pleading sets forth a claim for relief to which the adverse party is not required to serve a
-responsive pleading, any of the defenses in section (B)(2), (3), (4), (5) or (8) is waived to the
-extent constitutionally permissible unless made in a motion within twenty [20] days after ser-
-vice of the prior pleading. No defense or objection is waived by being joined with one or more
-other defenses or objections in a responsive pleading or motion.
-
-When a motion to dismiss is sustained for failure to state a claim under subdivision (B)(6) of
-this rule the pleading may be amended once as of right pursuant to Rule 15(A) within ten [10]
-days after service of notice of the court’s order sustaining the motion and thereafter with per-
-mission of the court pursuant to such rule.
+responsive pleading, any of the defenses in (B)(2), (3), (4), (5) or (8) is waived to the extent con-
+stitutionally permissible unless made in a motion within twenty days after service of the prior
 
                                                  48
 
-If, on a motion, asserting the defense number (6), to dismiss for failure of the pleading to
-state a claim upon which relief can be granted, matters outside the pleading are presented to
-and not excluded by the court, the motion shall be treated as one for summary judgment and
-disposed of as provided in Rule 56. In such case, all parties shall be given reasonable oppor-
-tunity to present all material made pertinent to such a motion by Rule 56.
+pleading. No defense or objection is waived by being joined with one or more other defenses
+or objections in a responsive pleading or motion.
+
+When a motion to dismiss is sustained for failure to state a claim under (B)(6), the pleading
+may be amended once as of right pursuant to Rule 15(A) within ten days after service of
+notice of the court’s order sustaining the motion and thereafter with permission of the court
+pursuant to such rule.
+
+If the court does not grant a motion making any of these defenses, the responsive pleading
+must be filed within ten days of the order under (A)(1).
+
+If, on a motion asserting the defense numbered (6) to dismiss for failure to state a claim upon
+which relief can be granted, matters outside the pleading are presented to and not excluded
+by the court, the motion must be treated as one for summary judgment and disposed of as
+provided in Rule 56. In such case, all parties must be given reasonable opportunity to present
+all material made pertinent to such a motion by Rule 56.
 
 (C) Motion for judgment on the pleadings.
 After the pleadings are closed but within such time as not to delay the trial, any party may
@@ -1888,29 +1900,29 @@ ined before trial unless substantial justice requires the court to defer hearing
 
 (E) Motion for more definite statement.
 If a pleading to which a responsive pleading is permitted is so vague or ambiguous that a
-party cannot reasonably be required to frame a responsive pleading, he may move for a
-more definite statement before interposing his responsive pleading. The motion shall point
-out the defects complained of and the details desired. If the motion is granted and the order
-of the court is not obeyed within twenty [20] days after notice of the order or within such
-other time as the court may fix, the court may strike the pleading to which the motion was dir-
-ected or make such order as it deems just.
-
-(F) Motion to strike.
-Upon motion made by a party before responding to a pleading, or, if no responsive pleading
-is permitted by these rules, upon motion made by a party within twenty [20] days after the
-service of the pleading upon him or at any time upon the court’s own initiative, the court may
-order stricken from any pleading any insufficient claim or defense or any redundant, imma-
-terial, impertinent, or scandalous matter.
+party cannot reasonably be required to frame a responsive pleading, a motion for a more def-
+inite statement may be filed before the responsive pleading. The motion must include all
+defects complained of and the details desired. If the motion is granted, the non-movant must
+file a corrective pleading within ten days of the order, or such other time as the court may fix.
 
                                                 49
 
+Failure to do so may result in striking of the pleading or such other relief as the court may
+order. If the motion is denied, the responsive pleading must be filed within ten days of the
+order under (A)(1).
+
+(F) Motion to strike.
+Upon motion made by a party before responding to a pleading, or, if no responsive pleading
+is permitted by these rules, upon motion made by a party within twenty days after the service
+of the pleading or at any time upon the court’s own initiative, the court may order stricken
+from any pleading any insufficient claim or defense or any redundant, immaterial, imper-
+tinent, or scandalous matter.
+
 (G) Consolidation of defenses in motion.
-A party who makes a motion under this rule may join with it any other motions herein
-provided for and then available to him. If a party makes a motion under this rule but omits
-therefrom any defense or objection then available to him which this rule permits to be raised
-by motion, he shall not thereafter make a motion based on the defense or objection so omit-
-ted. He may, however, make such motions as are allowed under subdivision (H)(2) of this
-rule.
+Any motions or defenses under this rule may be consolidated in one motion. If a party makes
+a motion under this rule but omits any available defense or objection which this rule permits
+to be raised by motion, no motion based on the omitted defense or objection is permitted
+except as allowed under (H)(2).
 
 (H) Waiver or preservation of certain defenses.
 (1) A defense of lack of jurisdiction over the person, improper venue, insufficiency of process,
@@ -1930,6 +1942,8 @@ motion for judgment on the pleadings, or at the trial on the merits.
 Rule 13. Counterclaim and cross-claim
 Effective January 1, 1971
 
+                                               50
+
 (A) Compulsory counterclaims.
 A pleading shall state as a counterclaim any claim which at the time of serving the pleading
 the pleader has against any opposing party, if it arises out of the transaction or occurrence
@@ -1937,10 +1951,8 @@ that is the subject-matter of the opposing party’s claim and does not require 
 dication the presence of third parties of whom the court cannot acquire jurisdiction. But the
 pleader need not state the claim if:
 
-    (1) at the time the action was commenced the claim was the subject of another pending
-    action; or
-
-                                               50
+   (1) at the time the action was commenced the claim was the subject of another pending
+   action; or
 
    (2) the opposing party brought suit upon his claim by attachment or other process by
    which the court did not acquire jurisdiction to render a personal judgment on that claim,
@@ -1965,6 +1977,8 @@ A counterclaim or cross-claim which is not due may be asserted against a party w
 ent or the representative of a party who has been subjected to insolvency proceedings, if
 recovery thereon will be impaired because of such party’s insolvency.
 
+                                               51
+
 (F) Omitted counterclaim.
 When a pleader fails to set up a counterclaim through oversight, inadvertence, or excusable
 neglect, or when justice requires, he may by leave of court set up the counterclaim by amend-
@@ -1972,8 +1986,6 @@ ment.
 
 (G) Cross-claim against co-party.
 A pleading may state as a cross-claim any claim by one party against a co-party.
-
-                                               51
 
 (H) Joinder of additional parties.
 Persons other than those made parties to the original action may be made parties to a coun-
@@ -2002,6 +2014,9 @@ asserted as a counterclaim to the extent that:
 
    (1) it diminishes or defeats the opposing party’s claim if it arises out of the transaction or
    occurrence that is the subject-matter of the opposing party’s claim, or if it could have been
+
+                                                 52
+
    asserted as a counterclaim to the opposing party’s claim before it (the counterclaim) was
    barred; or
 
@@ -2013,9 +2028,6 @@ to the following provisions:
 
    (1) A successor who is a guardian, representative of a decedent’s estate, receiver or
    assignee for the benefit of creditors, trustee or the like may interpose a claim to which he
-
-                                                 52
-
    succeeds against claims or proceedings brought in or outside the court of administration.
    A claim owing by his predecessor may be interposed against any claim brought by such
    successor in or outside the court of administration without the necessity of filing such
@@ -2043,6 +2055,8 @@ to the following provisions:
 
    (4) Subsections (1), (2), and (3), above, are subject to subdivision (L) of this rule.
 
+                                                 53
+
 (L) Counterclaim and cross-claim subject to substantive law principles.
 Counterclaim and cross-claims are subject to restrictions imposed by other statutes and prin-
 ciples of substantive common law and equity, including rules of commercial law, agency,
@@ -2051,11 +2065,9 @@ ditions upon its judgment or decree and may enter conditional or noncanceling cr
 ments to satisfy such restrictions. This provision is intended to deny or limit counterclaims or
 cross-claims:
 
-   (1) where a creditor will receive an unfair priority because a claim is assigned after insolv-
-   ency proceedings, or assigned before such proceedings if it results in an unlawful pref-
-   erence;
-
-                                                 53
+    (1) where a creditor will receive an unfair priority because a claim is assigned after insolv-
+    ency proceedings, or assigned before such proceedings if it results in an unlawful pref-
+    erence;
 
     (2) where an unfair priority will be allowed if a surety interposing a claim owned in his own
     right against the creditor suing on the principal’s obligation when the principal is solvent
@@ -2082,6 +2094,8 @@ ity for the other.
 Rule 14. Third-party practice
 Effective January 1, 1971
 
+                                                   54
+
 (A) When defendant may bring in third party.
 A defending party, as a third-party plaintiff, may cause a summons and complaint to be
 served upon a person not a party to the action who is or may be liable to him for all or part of
@@ -2090,12 +2104,10 @@ with his original answer or by leave of court thereafter with good cause shown. 
 served with the summons and the third-party complaint, hereinafter called the third-party
 defendant, as provided in Rules 12 and 13 may make:
 
-    (1) his defenses, cross-claims and counterclaims to the third-party plaintiff’s claims;
+      (1) his defenses, cross-claims and counterclaims to the third-party plaintiff’s claims;
 
-    (2) his defenses, counterclaims and cross-claims against any other defendants or third-
-    party defendants;
-
-                                                   54
+      (2) his defenses, counterclaims and cross-claims against any other defendants or third-
+      party defendants;
 
       (3) any defenses or claims which the third-party plaintiff has to the plaintiff’s claim which
       are available to the third-party defendant against the plaintiff; and
@@ -2122,6 +2134,8 @@ to parties, the action shall continue as in other cases where he is made a party
 Rule 15. Amended and supplemental pleadings
 Effective April 1, 2002
 
+                                                  55
+
 (A) Amendments.
 A party may amend his pleading once as a matter of course at any time before a responsive
 pleading is served or, if the pleading is one to which no responsive pleading is permitted, and
@@ -2131,8 +2145,6 @@ court or by written consent of the adverse party; and leave shall be given when 
 requires. A party shall plead in response to an amended pleading within the time remaining
 for response to the original pleading or within twenty [20] days after service of the amended
 pleading, whichever period may be the longer, unless the court otherwise orders.
-
-                                                  55
 
 (B) Amendments to conform to the evidence.
 When issues not raised by the pleadings are tried by express or implied consent of the
@@ -2161,17 +2173,17 @@ brought in by amendment:
    (2) knew or should have known that but for a mistake concerning the identity of the
    proper party, the action would have been brought against him.
 
+                                                56
+
 The requirement of subsections (1) and (2) hereof with respect to a governmental organ-
 ization to be brought into the action as defendant is satisfied:
 
-   (1) In the case of a state or governmental organization by delivery or mailing of process to
-   the attorney general or to a governmental executive [Rule 4.6(A)(3)]; or
+    (1) In the case of a state or governmental organization by delivery or mailing of process to
+    the attorney general or to a governmental executive [Rule 4.6(A)(3)]; or
 
-   (2) In the case of a local governmental organization, by delivery or mailing of process to its
-   attorney as provided by statute, to a governmental executive thereof [Rule 4.6(A)(4)], or to
-   the officer holding the office if suit is against the officer or an office.
-
-                                                  56
+    (2) In the case of a local governmental organization, by delivery or mailing of process to its
+    attorney as provided by statute, to a governmental executive thereof [Rule 4.6(A)(4)], or to
+    the officer holding the office if suit is against the officer or an office.
 
 (D) Supplemental pleadings.
 Upon motion of a party the court may, upon reasonable notice and upon such terms as are
@@ -2203,15 +2215,15 @@ sider:
 
     (6) the entry of a discovery order;
 
-    (7) the desirability of using one or more types of alternative dispute resolution under the
-    rules;
+                                                   57
 
-    (8) the desirability of setting deadlines for dispositive motions in light of the date set for
-    trial; and
+   (7) the desirability of using one or more types of alternative dispute resolution under the
+   rules;
 
-    (9) such other matters as may aid in the disposition of the action.
+   (8) the desirability of setting deadlines for dispositive motions in light of the date set for
+   trial; and
 
-                                                 57
+   (9) such other matters as may aid in the disposition of the action.
 
 (B) When called--Notice--Participants.
 Unless otherwise ordered by the court the pre-trial conference shall not be called until after
@@ -2246,6 +2258,9 @@ attorneys for each of the parties must meet and confer for the following purpose
    exchanged or identified. The stipulations shall contain all agreements of the parties with
    reference to the exchanged and identified exhibits, and shall include, but not be limited to,
    the agreement of the parties with reference to the authenticity of the exhibits, their
+
+                                                58
+
    admissibility in evidence, their use in opening statements, and the provisions made for the
    inspection of identified exhibits. The original of the exhibit stipulations shall be presented
    to the court at the pre-trial conference.
@@ -2253,8 +2268,6 @@ attorneys for each of the parties must meet and confer for the following purpose
    (3) Fact stipulation. The attorneys shall stipulate in writing with reference to all facts and
    issues not in genuine dispute. The original of the stipulations shall be presented to the
    court at the time of the pre-trial conference.
-
-                                                58
 
    (4) Exchange list of witnesses. Attorneys for each of the parties shall furnish opposing
    counsel with the written list of the names and addresses of all witnesses then known. The
@@ -2285,6 +2298,8 @@ shall compile a list of such facts or exhibits and furnish same to opposing coun
 [2] days in advance of the pre-trial conference. The original of the list shall be presented to
 the court at the time of the pre-trial conference.
 
+                                                59
+
 (G) Witnesses or exhibits discovered subsequent to conference of
 attorneys and before a pre-trial conference.
 If, after the conference of the attorneys and before the pre-trial conference, counsel dis-
@@ -2292,8 +2307,6 @@ covers additional exhibits or names of additional witnesses, the same informatio
 to be disclosed at the conference of the attorneys shall be immediately furnished opposing
 counsel. The original of any such disclosures shall be presented to the court at the time of the
 pre-trial conference.
-
-                                               59
 
 (H) More than one pre-trial conference.
 If necessary or advisable, the court may adjourn the pre-trial conference from time to time or
@@ -2322,12 +2335,14 @@ appearance is made on behalf of a party at a pre-trial conference, or if an atto
 unprepared to participate in the conference, the court may order either one or both of the fol-
 lowing:
 
-   (1) the payment by the delinquent attorney or party of the reasonable expenses, including
-   attorney’s fees, to the aggrieved party; or
+                                                60
 
-   (2) take such other action as may be appropriate.
+(1) the payment by the delinquent attorney or party of the reasonable expenses, including
+attorney’s fees, to the aggrieved party; or
 
-                                                 60
+(2) take such other action as may be appropriate.
+
+                                              61
 
 IV. Parties
 
@@ -2364,7 +2379,7 @@ An infant or incompetent person may sue or be sued in any action:
 
     (1) in his own name;
 
-                                                 61
+                                                 62
 
    (2) in his own name by a guardian ad litem or a next friend;
 
@@ -2405,7 +2420,7 @@ ization as if it were an entity. A money judgment against the partnership or uni
 association shall not bind an individual partner or member unless he is named as a party or
 is bound as a member of a class in an appropriate action (Rules 23 and 23.2).
 
-                                                 62
+                                                 63
 
 (F) Unknown persons.
 When the name or existence of a person is unknown, he may be named as an unknown
@@ -2440,7 +2455,7 @@ such cause or of the fixing of a date for the trial thereof.
 Rule 18. Joinder of claims and remedies
 Effective January 1, 1970
 
-                                                  63
+                                                  64
 
 (A) Joinder of claims.
 A party asserting a claim for relief as an original claim, counterclaim, cross-claim, or third-
@@ -2475,7 +2490,7 @@ A person who is subject to service of process shall be joined as a party in the 
     If he has not been so joined, the court shall order that he be made a party. If he should
     join as a plaintiff but refuses to do so, he may be made a defendant.
 
-                                                 64
+                                                 65
 
 (B) Determination by court whenever joinder not feasible.
 Notwithstanding subdivision (A) of this rule when a person described in subsection (1) or (2)
@@ -2515,7 +2530,7 @@ not be required in a suit by the assignee who establishes his title by appropria
 proof, but such assignor or transferor shall be subject to permissive joinder as provided in
 Rule 20.
 
-                                                 65
+                                                 66
 
 (3) Subrogation.
 
@@ -2559,7 +2574,7 @@ governed by this provision.
    title, the judgment, in an appropriate case, may bind him in his individual capacity, but no
    judgment against him in his individual capacity shall be rendered against him unless he is
 
-                                                66
+                                                67
 
     so named. No action against a governmental organization or against a governmental rep-
     resentative in his official capacity shall be abated, affected or delayed because of the
@@ -2597,7 +2612,7 @@ put to expense by the inclusion of a party against whom he asserts no claim and 
 no claim against him, and may order separate trials of the entire case or separate issues
 therein, or make other orders to prevent delay or prejudice.
 
-                                                  67
+                                                  68
 
 Rule 21. Misjoinder and non-joinder of parties; venue
 and jurisdiction over the subject-matter
@@ -2629,7 +2644,7 @@ the proceedings to be consolidated with the first pending action.
 Rule 22. Interpleader
 Effective January 1, 1970
 
-                                               68
+                                               69
 
 (A) Plaintiff or defendant.
 Persons having claims against the plaintiff may be joined as defendants and required to inter-
@@ -2669,7 +2684,7 @@ under Rule 22(A) is grounds for dismissal as provided in Rule 12(B)(6). New serv
 defaulting parties required by Rule 5(A) shall not apply to the responsive pleadings filed by
 parties named to interpleader proceedings under Rule 22(A) unless ordered by the court.
 
-                                                  69
+                                                  70
 
 Trial of the issues may be held at one [1] hearing or in successive stages at the sound dis-
 cretion of the court and subject to Rule 42.
@@ -2708,7 +2723,7 @@ isfied, and in addition:
         class which would establish incompatible standards of conduct for the party opposing
         the class, or
 
-                                                70
+                                                71
 
       (b) adjudications with respect to individual members of the class which would as a prac-
       tical matter be dispositive of the interest of the other members not parties to the adju-
@@ -2751,7 +2766,7 @@ advise each member that:
    (b) the judgment, whether favorable or not, will include all members who do not request
    exclusion; and
 
-                                                71
+                                                72
 
    (c) any member who does not request exclusion may, if he desires, enter an appearance
    through his counsel.
@@ -2796,7 +2811,7 @@ as may be desirable from time to time. The court shall allow reasonable attorney
 reasonable expenses incurred from a fund recovered for the benefit of a class under this sec-
 tion and the court may apportion such recovery among different attorneys.
 
-                                               72
+                                               73
 
 (E) Dismissal or compromise.
 A class action shall not be dismissed or compromised without the approval of the court, and
@@ -2835,7 +2850,7 @@ to obtain the action he desires from the directors or comparable authority and t
 for his failure to obtain the action or for not making the effort. The derivative action may not
 be maintained if it appears that the plaintiff does not fairly and adequately represent the
 
-                                                73
+                                                74
 
 interests of the shareholders or members similarly situated in enforcing the right of the cor-
 poration or association. The action shall not be dismissed or compromised without the
@@ -2873,7 +2888,7 @@ Upon timely filing of his motion anyone may be permitted to intervene in an acti
 
         (1) when a statute confers a conditional right to intervene; or
 
-                                                74
+                                                75
 
         (2) when an applicant’s claim or defense and the main action have a question of law or
         fact in common. When a party to an action relies for ground of claim or defense upon
@@ -2911,7 +2926,7 @@ made in such lower court.
 ants in an action in which the right sought to be enforced survives only to the surviving
 plaintiffs or only against the surviving defendants, the action does not abate. The death may
 
-                                                 75
+                                                 76
 
 be suggested upon the record and the action shall proceed in favor of or against the sur-
 viving parties.
@@ -2949,7 +2964,7 @@ such claim or judgment could have been filed as a claim against the estate under
 code. Judgments upon an action against a party who dies, whether entered before or after
 his death shall be satisfied from the assets of his estate by the decedent’s representative, and
 
-                                               76
+                                               77
 
 no execution, proceedings supplemental or enforcement orders shall issue on the judgment
 after the party has died as against his property; but this provision shall not prevent enforce-
@@ -2971,7 +2986,7 @@ stitution.
 the officer’s official title rather than by name; but the court may require the officer’s name to
 be added.
 
-                                               77
+                                               78
 
 V. Depositions and Discovery Scope of Rules—
 One Form of Action
@@ -3009,7 +3024,7 @@ ply with (a) or (b) of this subsection.
 
     or
 
-                                               78
+                                               79
 
    (b) The party shall serve the opposing party with a verified statement that the attorney or
    party appearing pro se lacks the equipment and is unable to transmit the discovery as
@@ -3049,7 +3064,7 @@ made to satisfy the judgment. Information concerning the insurance agreement is 
 reason of disclosure admissible in evidence at trial. For purposes of this paragraph, an applic-
 ation for insurance shall not be treated as part of an insurance agreement.
 
-                                               79
+                                               80
 
 (3) Trial preparation: Materials.
 
@@ -3093,7 +3108,7 @@ igation or for trial, may be obtained as follows:
       such restrictions as to scope and such provisions, pursuant to subdivision (B)(4)(c) of
       this rule, concerning fees and expenses as the court may deem appropriate.
 
-                                                80
+                                                81
 
    (b) A party may discover facts known or opinions held by an expert who has been retained
    or specially employed by another party in anticipation of litigation or preparation for trial
@@ -3136,7 +3151,7 @@ is resolved.
 (1) Upon motion by any party or by the person from whom discovery is sought, and for good
 cause shown, the court in which the action is pending or alternatively, on matters relating to
 
-                                                 81
+                                                 82
 
 a deposition, the court in the county where the deposition is being taken, may make any
 order which justice requires to protect a party or person from annoyance, embarrassment,
@@ -3183,7 +3198,7 @@ motion.
 lic access if filed with a court. Parties must comply with Rule 6 of the Indiana Rules on Access
 to Court Records to exclude a Court Record from public access.
 
-                                               82
+                                               83
 
 (D) Sequence and timing of discovery.
 Unless the court upon motion, for the convenience of parties and witnesses and in the
@@ -3225,7 +3240,7 @@ which seeks to enforce, modify, or limit discovery, that party shall:
    (1) Make a reasonable effort to reach agreement with the opposing party concerning the
    matter which is the subject of the motion or request; and
 
-                                                83
+                                                84
 
     (2) Include in the motion or request a statement showing that the attorney making the
     motion or request has made a reasonable effort to reach agreement with the opposing
@@ -3268,7 +3283,7 @@ The petition shall be entitled in the name of the petitioner and shall state fac
     tioner to take the depositions of the persons to be examined named in the petition, for
     the purpose of perpetuating their testimony.
 
-                                                  84
+                                                  85
 
 (2) Notice and service.
 
@@ -3309,7 +3324,7 @@ of further proceedings in such court. In such case the party who desires to perp
 testimony may make a motion in the court for leave to take the depositions, upon the same
 notice and service thereof as if the action was pending in the court. The motion shall show:
 
-                                               85
+                                               86
 
    (1) the names and addresses of the persons to be examined and the substance of the testi-
    mony which he expects to elicit from each;
@@ -3344,7 +3359,7 @@ person so appointed has power to administer oaths and take testimony.
 (B) In foreign countries.
 In a foreign country, depositions may be taken:
 
-                                               86
+                                               87
 
       (1) on notice before a person authorized to administer oaths in the place in which the
       examination is held, either by the law thereof or by the law of the United States; or
@@ -3384,7 +3399,7 @@ the jurisdiction of the court. When no action is pending, a court of this state 
 deposition to be taken outside this state of any person and upon any matters allowed by Rule
 27.
 
-                                                 87
+                                                 88
 
 (E) Assistance to tribunals and litigants outside this state.
 A court of this state may order a person who is domiciled or is found within this state to give
@@ -3419,7 +3434,7 @@ This rule does not repeal or modify any other law of this state permitting anoth
 for obtaining discovery for use in this state or in a tribunal outside this state, except as
 expressly provided in these rules.
 
-                                                88
+                                                89
 
 (H) Discovery after judgment.
 Discovery after judgment may be had in proceedings to enforce or to challenge the judg-
@@ -3454,7 +3469,7 @@ The attendance of witnesses may be compelled by the use of subpoena as provided 
 45. The deposition of a person confined in prison may be taken only by leave of court on such
 terms as the court prescribes.
 
-                                                  89
+                                                  90
 
 (B) Notice of examination: General requirements--Special notice--Non-
 stenographic recording--Production of documents and things--
@@ -3499,7 +3514,7 @@ itation a governmental organization, or a partnership and designate with reasona
 ticularity the matters on which examination is requested. At least fifteen days before the date
 of the deposition, the serving party and the organization or its counsel must confer in good
 
-                                                90
+                                                91
 
 faith about the matters for examination. The organization so named must designate one or
 more officers, directors, or managing agents, executive officers, or other persons duly author-
@@ -3539,7 +3554,7 @@ the order made terminates the examination, it shall be resumed thereafter only u
 order of the court in which the action is pending. Upon demand of the objecting party or
 deponent the taking of the deposition shall be suspended for the time necessary to make a
 
-                                               91
+                                               92
 
 motion for an order. The provisions of Rule 37(A)(4) apply to the award of expenses incurred
 in relation to the motion.
@@ -3579,7 +3594,7 @@ witness.
 and that the deposition is a true record of the testimony given by the witness. The officer
 shall then securely seal the deposition in an envelope endorsed with the title of the action
 
-                                                 92
+                                                 93
 
 and marked “Deposition of (here insert name of witness)” and shall promptly deliver it to the
 party taking the deposition.
@@ -3622,7 +3637,7 @@ fails to serve a subpoena upon him and the witness because of such failure does 
 and if another party attends in person or by attorney because he expects the deposition of
 that witness to be taken, the court may order the party giving the notice to pay to such other
 
-                                                93
+                                                94
 
 party the amount of the reasonable expenses incurred by him and his attorney in so attend-
 ing, including reasonable attorney’s fees.
@@ -3661,7 +3676,7 @@ A copy of the notice and copies of all questions served shall be delivered by th
 the deposition to the officer designated in the notice, who shall proceed promptly, in the man-
 ner provided by Rule 30(C), (E), and (F), to take the testimony of the witness in response to the
 
-                                                94
+                                                95
 
 questions and to prepare, certify, and deliver the deposition, attaching thereto the copy of
 the notice and the questions received by him, in accordance with Rule 5(E).
@@ -3699,7 +3714,7 @@ lowing provisions:
         (b) that the witness is outside the state, unless it appears that the absence of the wit-
         ness was procured by the party offering the deposition; or
 
-                                                 95
+                                                 96
 
       (c) that the witness is unable to attend or testify because of age, sickness, infirmity, or
       imprisonment; or
@@ -3739,7 +3754,7 @@ deposition as described in subdivision (A)(2) of this rule. At the trial or hear
 rebut any relevant evidence contained in a deposition whether introduced by him or by any
 other party.
 
-                                               96
+                                               97
 
 (D) Effect of errors and irregularities in depositions.
 (1) As to notice. All errors and irregularities in the notice for taking a deposition are waived
@@ -3777,7 +3792,7 @@ promptness after such defect is, or with due diligence might have been, ascertai
 Rule 33. Interrogatories to Parties
 Effective January 1, 2026
 
-                                                97
+                                                98
 
 (A) Availability--Procedures for use.
 Any party may serve upon any other party written interrogatories to be answered by the
@@ -3815,7 +3830,7 @@ returned to the party who caused them to be served not later than the seventh da
 were received. If the interrogatories are not returned in that time, then this objection is
 waived.
 
-                                               98
+                                               99
 
 (D) Scope--Use at trial.
 Interrogatories may relate to any matters which can be inquired into under Rule 26(B) and
@@ -3851,7 +3866,7 @@ Any party may serve on any other party a request:
 requester’s behalf, to inspect and copy, any designated documents or electronically stored
 information (including, without limitation, writings, drawings, graphs, charts, photographs,
 
-                                                 99
+                                                100
 
 sound recordings, images and other data or data compilations from which information can
 be obtained or translated, if necessary, by the respondent into reasonably usable form); or
@@ -3890,7 +3905,7 @@ made to the requested form or forms for producing electronically stored informat
 no form was specified in the request--the responding party must state the form or forms it
 intends to use. General objections must not be made and will have no effect. A general
 
-                                               100
+                                               101
 
 objection is an objection that is not directed to a specific request, does not specifically state
 the grounds on which it is based, or applies globally. Any objection must state whether any
@@ -3933,7 +3948,7 @@ subpoena to all other parties.
 Any party objecting to the request or subpoena must serve a written response within ten
 days of service setting forth the specific grounds for the objection and a proposed date and
 
-                                               101
+                                               102
 
 time to meet and confer under Rule 26(F). If the parties cannot reach an agreement, the
 objecting party must move to quash or modify as permitted by Rule 45(B) within twenty days
@@ -3974,7 +3989,7 @@ location of their production by the non-party, or at another location agreed to 
 The parties must agree to arrangements for copying, and any party desiring copies must bear
 the cost of reproducing them.
 
-                                              102
+                                              103
 
 (H) Exception to best evidence rule.
 When a party or witness in control of a writing or document subject to examination under
@@ -4008,7 +4023,7 @@ court on motion may make an order against a party requiring delivery of a report
 terms as are just, and if an examiner fails or refuses to make a report the court may exclude
 his testimony if offered at the trial.
 
-                                               103
+                                               104
 
 (2) By requesting and obtaining a report of the examination so ordered or by taking the
 deposition of the examiner, the party examined waives any privilege he may have in that
@@ -4045,7 +4060,7 @@ vice thereof or within such shorter or longer time as the court may allow, the p
 the request is directed serves upon the party requesting the admission a written answer or
 objection addressed to the matter, signed by the party or by his attorney.
 
-                                              104
+                                              105
 
 (D) Objections.
 If objection is made, the reasons must be stated. General objections must not be made and
@@ -4083,7 +4098,7 @@ when the presentation of the merits of the action will be subserved thereby and 
 who obtained the admission fails to satisfy the court that withdrawal or amendment will pre-
 judice maintaining the action or defense on the merits. Any admission made by a party under
 
-                                               105
+                                               106
 
 this rule is for the purpose of the pending action only and is not an admission for any other
 purpose nor may it be used against the party in any other proceeding.
@@ -4123,7 +4138,7 @@ for an order compelling discovery as follows:
     answer a question propounded or submitted under Rule 30 or 31, or an organization,
     including without limitation a governmental organization or a partnership, fails to make
 
-                                                106
+                                                107
 
    designation under Rule 30(B)(6) or 31(A), or a party fails to answer an interrogatory sub-
    mitted under Rule 33, or if a party or witness or other person, in response to a request
@@ -4166,7 +4181,7 @@ ignated under Rule 30(B)(6) or 31(A) to testify on behalf of a party or an organ
 ing a governmental organization, fails to obey an order to provide or permit discovery,
 including an order made under subdivision (A) of this rule or Rule 35, the court in which the
 
-                                               107
+                                               108
 
 action is pending may make such orders in regard to the failure as are just, and among oth-
 ers the following:
@@ -4209,7 +4224,7 @@ a written response to a request for inspection submitted under Rule 34, after pr
 of the request, the court in which the action is pending on motion may make such orders in
 regard to the failure as are just, and among others it may take any action authorized under
 
-                                               108
+                                               109
 
 paragraphs (a), (b), and (c) of subdivision (B)(2). In lieu of any order or in addition thereto, the
 court must require the party failing to act or the advising attorney or both to pay the reas-
@@ -4234,7 +4249,7 @@ ation was unfavorable to the party, an instruction the jury must presume the inf
 unfavorable to the party, dismissal of the action, entry of a default judgment, or other orders
 as are just and necessary to cure the prejudice.
 
-                                                109
+                                                110
 
 VI. Trials
 
@@ -4268,7 +4283,7 @@ party must file a demand for jury trial to preserve his right to trial by jury:
 
     (2) in case a request by another party was improper.
 
-                                                110
+                                                111
 
 But if a proper request for a trial by jury upon issues triable by jury as of right on his behalf is
 made by any party, such request shall be deemed to have been made on behalf of all parties
@@ -4304,7 +4319,7 @@ demanded shall be tried by jury, subject to the following exceptions:
     court sitting without a jury upon any or all issues triable by jury as of right and so deman-
     ded, the court shall try those issues without a jury. The stipulation shall be effective only if
 
-                                                111
+                                                112
 
     filed or made in court before evidence is admitted at the trial or at such later time as the
     court, in its discretion, may allow.
@@ -4342,7 +4357,7 @@ The trial courts shall provide by rule for placing of actions upon the trial cal
 
     (3) in such manner as the court determines will expedite trials.
 
-                                                 112
+                                                 113
 
 Precedence shall be given to actions entitled thereto by any statute of the state, including
 hearings upon temporary restraining orders, injunctions and receiverships.
@@ -4381,7 +4396,7 @@ After the plaintiff or party with the burden of proof upon an issue, in an actio
 court without a jury, has completed the presentation of his evidence thereon, the opposing
 party, without waiving his right to offer evidence in the event the motion is not granted, may
 
-                                               113
+                                               114
 
 move for a dismissal on the ground that upon the weight of the evidence and the law there
 has been shown no right to relief. The court as trier of the facts may then determine them
@@ -4419,7 +4434,7 @@ sary to assure such diligent prosecution.
 For good cause shown and within a reasonable time the court may set aside a dismissal
 without prejudice. A dismissal with prejudice may be set aside by the court for the grounds
 
-                                                114
+                                                115
 
 and in accordance with the provisions of Rule 60(B).
 
@@ -4454,7 +4469,7 @@ good cause to the contrary is shown and found by the court to exist. In the even
 actions have the same earliest filing date, the motion may be filed only in the court having the
 lowest court identifier number under Administrative Rule 8(B)(1), which court shall be
 
-                                               115
+                                               116
 
 considered as having the action with the earliest filing date. Upon completion of discovery
 and any pre-trial proceedings, each case which has been subject to the order of consolidation
@@ -4487,7 +4502,7 @@ When a motion is based on facts not appearing of record the court may hear the m
 affidavits presented by the respective parties, but the court may direct that the matter be
 heard wholly or partly on oral testimony or depositions.
 
-                                               116
+                                               117
 
 (C) Interpreters.
 The court may appoint an interpreter of its own selection and may fix his reasonable com-
@@ -4521,7 +4536,7 @@ Effective April 1, 2002
 
     (a) state the name of the court;
 
-                                              117
+                                              118
 
    (b) state the title of the action (without naming more than the first named plaintiffs and
    defendants in the complaint and the case number); and
@@ -4562,7 +4577,7 @@ the deposition is to be taken of subpoenas for the persons named or described th
 subpoena may command the person to whom it is directed to produce designated books,
 papers, documents, or tangible things which constitute or contain matters within the scope
 
-                                                118
+                                                119
 
 of the examination permitted by Rule 26(B), but in that event the subpoena will be subject to
 the provisions of Rule 26(C) and subdivision (B) of this rule.
@@ -4601,7 +4616,7 @@ Service of a subpoena upon a person named therein shall be made by delivering a 
 thereof to such person who shall be required to attend outside his county of residence as
 provided in section (C), and by so tendering to him the fees for one [1] day’s attendance and
 
-                                               119
+                                               120
 
 the mileage allowed by law. Such tender shall not be required to be made to a party who is
 subpoenaed or to an officer, employee, agent or representative of a party which is an organ-
@@ -4636,7 +4651,7 @@ called and impanelled to sit as alternate jurors. Alternate jurors in the order 
 called shall replace jurors who, prior to the time the jury returns its verdict, become or are
 found to be unable or disqualified to perform their duties. Alternate jurors shall be drawn in
 
-                                                 120
+                                                 121
 
 the same manner, shall have the same qualifications, shall be subject to the same exam-
 ination and challenges, shall take the same oath, and shall have the same functions, powers,
@@ -4676,7 +4691,7 @@ vidual prospective jurors.
 Rule 48. Juries of less than six--Majority verdict
 Effective August 17, 1983
 
-                                                121
+                                                122
 
 The parties may stipulate that the jury shall consist of any number less than six (6) at any
 time before the jury is selected or that a verdict or a finding of a stated majority of the jurors
@@ -4716,7 +4731,7 @@ verdict. A party may move for such judgment on the evidence:
     rect Error is made, at any time before entering its order or ruling thereon. A party who
     moves for judgment on the evidence at the close of the evidence offered by an opponent
 
-                                                122
+                                                123
 
    may offer evidence in the event that the motion is not granted, without having reserved
    the right so to do and to the same extent as if the motion had not been made. A motion
@@ -4751,7 +4766,7 @@ judgment, demurrer to the evidence and venire de novo abolished.
 The motion for judgment notwithstanding verdict, motion in arrest of judgment, demurrer to
 the evidence, and venire de novo are abolished.
 
-                                               123
+                                               124
 
 Rule 51. Instructions to jury: Objections, requests:
 Submission in stages
@@ -4788,7 +4803,7 @@ record.
 Each party shall be entitled to tender no more than ten [10] requested instructions, including
 pattern instructions, to be given to the jury; however, the court in its discretion for good
 
-                                               124
+                                               125
 
 cause shown may fix a greater number. Each tendered instruction shall be confined to one
 [1] relevant legal principle. No party shall be entitled to predicate error upon the refusal of a
@@ -4827,7 +4842,7 @@ submitted to the jury shall be considered as findings of the court to the extent
 adopts them. If an opinion or memorandum of decision is filed, it will be sufficient if the find-
 ings of fact and conclusions appear therein. Findings of fact are unnecessary on decisions of
 
-                                               125
+                                               126
 
 motions under Rules 12 or 56 or any other motion except as provided in Rule 41(B) (dis-
 missal) and 59(J) (motion to correct errors).
@@ -4868,7 +4883,7 @@ The court may make special findings of fact upon less than all the issues in a c
    (2) findings are required because of the request of a party or parties who have demanded
    findings only upon such specified issues.
 
-                                                126
+                                                127
 
 The court’s failure to find upon a material issue upon which a finding of fact is required by
 this subdivision or this rule shall not be resolved by any presumption and may be challenged
@@ -4901,7 +4916,7 @@ The order of reference may also direct the court-appointed neutral to only repor
 ticular issues, perform particular acts, receive and report evidence only, or fix the time and
 place for beginning and closing hearings, or the filing of the court-appointed neutral’s report.
 
-                                              127
+                                              128
 
 (C) Powers.
 Subject to the specifications and limitations stated in the order of reference, the court-appoin-
@@ -4944,7 +4959,7 @@ ibility of evidence unless otherwise directed by the order of reference and has 
 to place witnesses under oath. If a party so requests, the court-appointed neutral must make
 a record of the evidence offered and excluded in the same manner, and subject to the same
 
-                                              128
+                                              129
 
 limitations, as provided for a court sitting without a jury. When matters of accounting are in
 issue before the court-appointed neutral, the court-appointed neutral may prescribe the
@@ -4986,7 +5001,7 @@ The effect of a master’s report is the same whether or not the parties have co
 reference; but, when the parties stipulate that a master’s findings of fact shall be final, only
 questions of law arising upon the report shall thereafter be considered.
 
-                                               129
+                                               130
 
 (5) Draft report.
 
@@ -5023,7 +5038,7 @@ exclude:
    parties have filed their post-hearing submissions or when the deadline for submissions
    occurs, whichever is first.
 
-                                                130
+                                                131
 
 (C) Exceptions.
 The time limitation for ruling on a motion established under Section (A) does not apply
@@ -5063,7 +5078,7 @@ Rule 53.1 or 53.2.
    provide notice of the determination in writing to the Clerk of the court where the case is
    pending and the submission of the cause must not be withdrawn. The Clerk of the court
 
-                                               131
+                                               132
 
    where the case is pending must notify, in writing, the judge and all parties of record in the
    proceeding and record the determination in the Chronological Case Summary under the
@@ -5098,7 +5113,7 @@ and the praecipe is void and of no effect.
 The Supreme Court must maintain a permanent record of special judge appointments under
 Trial Rules 53.1 and 53.2.
 
-                                                132
+                                                133
 
 Rule 53.2. Time for holding issue under advisement;
 delay of entering a judgment
@@ -5133,7 +5148,7 @@ that the time limitation for decision set forth in this rule does not apply.
 For the purpose of Section (A), a court is deemed to have decided on the date the decision is
 noted in the Chronological Case Summary.
 
-                                               133
+                                               134
 
 (E) Extension of time for decision.
 The procedure for extending the time limitation for decision must be as set forth in Trial Rule
@@ -5166,7 +5181,7 @@ fails to rule on a Motion to Correct Error within thirty (30) days after it was 
 be deemed denied. Any appeal shall be initiated by filing the notice of appeal under Appellate
 Rule 9(A) within thirty (30) days after the Motion to Correct Error is deemed denied.
 
-                                                134
+                                                135
 
 (B) Exceptions.
 The time limitation for ruling on a motion to correct error established under Section (A) of
@@ -5201,7 +5216,7 @@ or rulings upon a motion. Such a motion by any party or the court or such action
 sider by the court shall not delay the trial or any proceedings in the case, or extend the time
 for any further required or permitted action, motion, or proceedings under these rules.
 
-                                               135
+                                               136
 
 (B) Effect of court’s delay in ruling upon repetitive motion or motion to
 reconsider ruling on a motion.
@@ -5216,7 +5231,7 @@ under these rules.
 Rule 53.5. [Vacated]
 Vacated October 30, 2024; Effective January 1, 2025
 
-                                                      136
+                                                      137
 
 VII. Judgment
 
@@ -5250,7 +5265,7 @@ in the demand for judgment. Except as to a party against whom a judgment is ente
 default, every final judgment shall grant the relief to which the party in whose favor it is
 rendered is entitled, even if the party has not demanded such relief in his pleadings.
 
-                                                137
+                                                138
 
 (D) Costs.
 Except when express provision therefor is made either in a statute or in these rules, costs
@@ -5287,7 +5302,7 @@ no judgment by default shall be entered against a person (1) known to be an infa
 petent unless represented in the action by a general guardian, committee, conservator, or
 other such representative who has appeared therein; or (2) entitled to the protections against
 
-                                                138
+                                                139
 
 default judgments provided by the Servicemembers Civil Relief Act, as amended (the “Act”),
 50 U.S.C. appx. § 521, unless the requirements of the Act have been complied with. See Ind.
@@ -5322,7 +5337,7 @@ mencement of the action or after service of a motion for summary judgment by the
 party, move with or without supporting affidavits for a summary judgment in his favor upon
 all or any part thereof.
 
-                                               139
+                                               140
 
 (B) For defending party--When motion not required.
 A party against whom a claim, counterclaim, or cross-claim is asserted or a declaratory judg-
@@ -5361,7 +5376,7 @@ If on motion under this rule judgment is not rendered upon the whole case or for
 asked and a trial is necessary, the court at the hearing of the motion, by examining the plead-
 ings and the evidence before it and by interrogating counsel, shall if practicable ascertain
 
-                                               140
+                                               141
 
 what material facts exist without substantial controversy and what material facts are actually
 and in good faith controverted. It shall thereupon make an order specifying the facts that
@@ -5398,7 +5413,7 @@ the reasonable expenses which the filing of the affidavits caused him to incur, 
 onable attorney’s fees, and any offending party or attorney may be adjudged guilty of con-
 tempt.
 
-                                                141
+                                                142
 
 (H) Appeal-Reversal.
 No judgment rendered on the motion shall be reversed on the ground that there is a genuine
@@ -5433,7 +5448,7 @@ upon which appears the court’s findings, conclusions, or opinion upon the issu
 of the judgment shall not be delayed for the taxing of costs. Attorneys may submit suggested
 forms of judgment to the court, and upon request of the court, shall assist the court in the
 
-                                               142
+                                               143
 
 preparation of a judgment, but the judgment shall not be delayed to await the resolution of
 issues by agreement of counsel. The judge failing promptly to cause the judgment to be pre-
@@ -5473,7 +5488,7 @@ Upon payment in full of a judgment, including accrued interest and court costs, 
 creditor shall file a satisfaction/release of judgment and the Clerk shall note the sat-
 isfaction/release of the judgment on the CCS and on the judgment docket.
 
-                                               143
+                                               144
 
 Based upon a review of the Clerk's payment records, the Clerk may, or at the verified request
 of the judgment debtor shall, issue a Notice to the judgment creditor that a judgment, includ-
@@ -5511,7 +5526,7 @@ The motion to correct error, if any, must be filed not later than thirty (30) da
 of a final judgment is noted in the Chronological Case Summary. The time at which the court
 is deemed to have ruled on the motion is set forth in T.R. 53.3.
 
-                                               144
+                                               145
 
 (D) Errors raised by motion to correct error, and content of motion.
 Where used, a motion to correct error need only address those errors found in Trial Rule 59
@@ -5545,7 +5560,7 @@ ons to affirm the judgment directly in the appellate brief, including those grou
 motion to correct error is required when directly appealing a judgment under Sections (A)(1)
 and (2) of this rule.
 
-                                                145
+                                                146
 
 (H) Motion to correct error based on evidence outside the record.
 (1) When a motion to correct error is based upon evidence outside the record, the motion
@@ -5585,7 +5600,7 @@ or some of the parties and all or some of the errors:
 
    (4) Amend or correct the findings or judgment as provided in Rule 52(B);
 
-                                                146
+                                                147
 
     (5) In the case of excessive or inadequate damages, enter final judgment on the evidence
     for the amount of the proper damages, grant a new trial, or grant a new trial subject to
@@ -5624,7 +5639,7 @@ orders and decrees shall proceed as prescribed by Indiana Appellate Rule 14.1.
 Rule 60. Relief from judgment or order
 Effective January 1, 2009
 
-                                                147
+                                                148
 
 (A) Clerical mistakes.
 Of its own initiative or on the motion of any party and after such notice, if any, as the court
@@ -5667,7 +5682,7 @@ resentative from a judgment, including a judgment by default, for the following 
       (d) no appeal or other remedies allowed under this subdivision have been taken or
       made by or on behalf of the infant or incompetent person, and
 
-                                               148
+                                               149
 
        (e) the motion was made within ninety [90] days after the disability was removed or a
        guardian was appointed over his estate, and
@@ -5705,7 +5720,7 @@ In passing upon a motion allowed by subdivision (B) of this rule the court shall
 tinent evidence, allow new parties to be served with summons, allow discovery, grant relief as
 provided under Rule 59 or otherwise as permitted by subdivision (B) of this rule.
 
-                                                 149
+                                                 150
 
 (E) Infants, incompetents, and governmental organizations.
 Except as otherwise provided herein, this rule shall apply to infants, incompetents, and gov-
@@ -5742,7 +5757,7 @@ special judge an attorney who is not a current or former regular judge and who d
 reside nor regularly practice law in the county issuing the Order of Mandate of Funds or in
 any county contiguous thereto. If the appointed judge fails to qualify within seven [7] days
 
-                                                150
+                                                151
 
 after he has received notice of his appointment, the Supreme Court shall follow the same pro-
 cedure until an appointed judge does properly qualify. Unless expressly waived by the
@@ -5778,7 +5793,7 @@ as otherwise provided in this rule hereinafter. During the pendency of an appeal
 visions of subdivision (C) of this rule govern the suspending, modifying, restoring, or granting
 of an injunction, the appointment of a receiver or, to the extent that a stay is not otherwise
 
-                                               151
+                                               152
 
 permitted by law upon appeal, any judgment or order for specific relief other than the pay-
 ment of money.
@@ -5820,7 +5835,7 @@ or appealable interlocutory order. Enforcement of a judgment or appealable inter
 order will be suspended during an appeal upon the giving of an adequate appeal bond with
 approved sureties, an irrevocable letter of credit from a financial institution approved in all
 
-                                               152
+                                               153
 
 respects by the court, or other form of security approved by the court. The bond, letter of
 credit, or other security may be given at or after the time of filing the notice of appeal. The
@@ -5862,7 +5877,7 @@ giving of an appeal bond, except as provided in subdivisions (A), (B) and (C) of
 provisions in this rule do not limit any power of an appellate court or of a judge or justice
 thereof to stay proceedings during the pendency of an appeal or to suspend, modify, restore,
 
-                                               153
+                                               154
 
 or grant an injunction during the pendency of an appeal or to make any order appropriate to
 preserve the status quo or the effectiveness of the judgment subsequently to be entered.
@@ -5902,7 +5917,7 @@ stay or temporary relief shall lapse except to the extent:
 If thereafter the order or judgment is reversed and a new trial or new hearing in fact is
 ordered or authorized in favor of such party, the original stay or relief shall not be reinstated
 
-                                                154
+                                                155
 
 unless the reversing court orders otherwise or, in the absence of such order, the court on the
 new trial or new hearing orders otherwise. When a stay or temporary relief is granted to a
@@ -5938,7 +5953,7 @@ preside at the trial or for any other reason, he may in his discretion grant a n
 hearing, in whole or in part. The unavailability of any such trial or hearing judge shall be
 determined and shown by a court order made by the successor judge at any time.
 
-                                                155
+                                                156
 
 (B) Judge pro tempore in case of disability, unavailability, or neglect.
 (1) When a judge of a court submits a verified petition and supporting proof to the Supreme
@@ -5980,7 +5995,7 @@ tinuing jurisdiction of the Supreme Court. In the event any judge pro tempore, a
 under the provisions of this rule shall fail to qualify and assume the duties of the regular
 judge of such court, or in the event such judge pro tempore fails to conduct the business of
 
-                                                 156
+                                                 157
 
 the court as provided by law, the clerk of the court shall notify the Supreme Court in writing
 of this fact. Upon the receipt of such notification, the Supreme Court may take such action in
@@ -6017,7 +6032,7 @@ In his absence or when he shall be unable to make such appointment, the appointm
 be made by the clerk of his court, or the deputy clerk assigned to his court or in his absence
 by any available county officer.
 
-                                               157
+                                               158
 
 Rule 63.1. Lis pendens notice of proceedings avoiding
 judgments and circumstances tolling and extending
@@ -6054,7 +6069,7 @@ ignate a present record owner thereof if the parties named are not such owner or
 and describe the land or personal property if the judgment or claim relates to described land
 or personal property.
 
-                                               158
+                                               159
 
 (B) Satisfactions and assignments of docketed judgments and matters
 entered in lis pendens record.
@@ -6098,7 +6113,7 @@ thereof by the creditor is perfected by filing a financing statement:
 Lis pendens notice under this provision is subject to principles of estoppel or commercial law
 governing negotiable instruments and documents, securities or quasi-negotiable instruments
 
-                                                159
+                                                160
 
 or documents; and to the provisions of Article 9 the Uniform Commercial Code1 relating to
 the duration of filing. In an appropriate case the debtor or judgment debtor shall be entitled
@@ -6112,7 +6127,7 @@ respect to a judgment establishing such claim for the duration of the judgment, 
 duration of filing under subdivision (C) of this rule.
 1 IC 26-1-9-101 et seq.
 
-                                                160
+                                                161
 
 VIII. Provisional and Final Remedies and Special
 Proceedings
@@ -6152,7 +6167,7 @@ ment shall contain sufficient information to identify the judgment debtor.
 the writ, bench warrant or body attachment, or before a judicial officer having jurisdiction
 over the person within forty-eight (48) hours, excluding weekends and holidays, following the
 
-                                              161
+                                              162
 
 person being taken into custody. The person shall be advised of the procedures for release,
 including any bond, escrow amount set by the issuing court in the writ, bench warrant or
@@ -6192,7 +6207,7 @@ tion to those where such remedies prior to judgment are now permitted by law:
    nisheed is in the possession of the plaintiff or is owing by the plaintiff to the defendant or
    by the defendant to the plaintiff.
 
-                                                162
+                                                163
 
     (5) A governmental organization, or a representative, including a guardian, receiver,
     assignee for the benefit of creditors, trustee or representative of a decedent’s estate may
@@ -6232,7 +6247,7 @@ the adverse party.
 Before or after the commencement of the hearing of an application for a preliminary injunc-
 tion, the court may order the trial of the action on the merits to be advanced and
 
-                                                163
+                                                164
 
 consolidated with the hearing of the application. Even when this consolidation is not ordered,
 any evidence received upon an application for a preliminary injunction which would be
@@ -6274,7 +6289,7 @@ party or his attorney only if:
 immediate and irreparable injury, loss, or damage will result to the applicant before the
 adverse party or his attorney can be heard in opposition; and
 
-                                               164
+                                               165
 
 (2) the applicant’s attorney certifies to the court in writing the efforts, if any, which have been
 made to give notice and the reasons supporting his claim that notice should not be required.
@@ -6314,7 +6329,7 @@ Every order granting temporary injunction and every restraining order shall incl
 accompanied by findings as required by Rule 52; shall be specific in terms; shall describe in
 reasonable detail, and not by reference to the complaint or other document, the act or acts
 
-                                               165
+                                               166
 
 sought to be restrained; and is binding only upon the parties to the action, their officers,
 agents, servants, employees, and attorneys, and upon those persons in active concert or par-
@@ -6355,7 +6370,7 @@ would result to the moving party if no immediate order were issued.
    tion on its individual merits. In the event the trial court finds cause to grant both petitions,
    it shall do so by separate orders.
 
-                                                166
+                                                167
 
     (3) Effect of Order. An order entered under this paragraph is automatically effective upon
     service. Such orders are enforceable by all remedies provided by law including contempt.
@@ -6388,7 +6403,7 @@ mail copies to the sureties if their addresses are known. This rule applies to b
 furnished on appeal, and enforcement shall be in the court to which the case is returned
 after appeal.
 
-                                               167
+                                               168
 
 Rule 66. Receivers, assignees for the benefit of
 creditors and statutory and other liquidators; claims
@@ -6425,7 +6440,7 @@ months from said date of appointment.
 The procedure for the filing, consideration, allowance or trial of claims in receiverships and
 assignments for the benefit of creditors, or statutory or other liquidations, shall, insofar as is
 
-                                                168
+                                                169
 
 practicable, conform with the procedure relating to claims in decedents’ estates.
 
@@ -6463,7 +6478,7 @@ upon security or agreement of the parties under the direction of the court.
 Unless otherwise directed by the court, payment of money owing under and following a judg-
 ment may be made to the judgment creditor or his attorney, to the sheriff holding a writ of
 
-                                                169
+                                                170
 
 execution, or to the clerk of the court where the judgment is rendered. If paid to the clerk, the
 clerk shall notify the person entitled thereto or his attorney and shall pay such sum to him
@@ -6498,7 +6513,7 @@ may make an offer of judgment, which shall have the same effect as an offer made
 trial if it is served within a reasonable time not less than ten [10] days prior to the com-
 mencement of hearings to determine the amount or extent of liability.
 
-                                               170
+                                               171
 
 Rule 69. Execution, proceedings supplemental to
 execution, foreclosure sales
@@ -6535,7 +6550,7 @@ execution sale of realty is not confirmed by the court, the sheriff or other off
 the sale shall make a record of his actions therein in his return to be filed promptly with the
 record of the case and also in the execution docket maintained in the office of the clerk.
 
-                                               171
+                                               172
 
 (D) Other judicial sales.
 Unless otherwise ordered by the court all public judicial sales of real estate, other than lien
@@ -6578,7 +6593,7 @@ entitled to service of process as provided in Rule 4. The date fixed for appeara
 ing or answer to interrogatories shall be not less than twenty [20] days after service. No fur-
 ther pleadings shall be required, and the case shall be heard and determined and property
 
-                                               172
+                                               173
 
 ordered applied towards the judgment in accordance with statutes allowing proceedings sup-
 plementary to execution. In aid of the judgment or execution, the judgment creditor or his
@@ -6616,7 +6631,7 @@ obedient party by some other person appointed by the court and the act when so d
 like effect as if done by the party. On application of the party entitled to performance, the
 clerk shall issue a writ of attachment, writ of assistance, or sequestration against the property
 
-                                               173
+                                               174
 
 of the disobedient party to compel obedience to the judgment. The court may also in proper
 cases adjudge the party in contempt and may award damages for disobedience of the order.
@@ -6654,7 +6669,7 @@ may be made in the following form:
    Appointee of above named court to make this conveyance.” (Acknowledgment as required
    in the case of deeds.)
 
-                                                174
+                                                175
 
 (D) Judicial sales.
 Property may be sold under judgments and orders in the manner now provided by law sub-
@@ -6670,7 +6685,7 @@ obedience to the order by the same process as if he were a party; and, when obed
 order may be lawfully enforced against a person who is not a party, he is liable to the same
 process for enforcing obedience to the order as if he were a party.
 
-                                             175
+                                             176
 
 IX. Trial Courts and Clerks
 
@@ -6704,7 +6719,7 @@ may be suspended or altered or rescinded by the court upon cause shown.
 Immediately upon the notation in the Chronological Case Summary of a ruling upon a
 motion, an order or judgment, the clerk shall serve a copy of the entry in the manner
 
-                                               176
+                                               177
 
 provided for in Rule 5(B) upon each party who is not in default for failure to appear and shall
 make a record of such service. Such service is sufficient notice for all purposes for which
@@ -6742,7 +6757,7 @@ time or place and on such notice, if any, as he considers reasonable may make or
 advancement, conduct, and hearing of actions. To expedite its business, the court may direct
 the submission and determination of motions without oral hearing upon brief written
 
-                                               177
+                                               178
 
 statements of reasons in support and opposition, or direct or permit hearings by telephone
 conference call with all attorneys or other similar means of communication.
@@ -6778,7 +6793,7 @@ book, and Indiana Rules on Access to Court Records.
 (E) The powers, duties, and salaries of court reporters shall be as provided in Indiana Code
 33-41.
 
-                                                178
+                                                179
 
 X. Venue, Change of Venue, Change of Judge
 
@@ -6816,7 +6831,7 @@ lies in:
     out of which the claim arose is located, if one or more such organizations or individuals
     are included as defendants in the complaint; or
 
-                                                179
+                                                180
 
    (5) the county where either one or more individual plaintiffs reside, the principal office of a
    governmental organization is located, or the office of a governmental organization to
@@ -6858,7 +6873,7 @@ upon a change of venue and the papers and records shall be certified to the cour
 in like manner as upon change of venue and the action shall be deemed commenced as of
 the date of filing the action in the original court.
 
-                                                 180
+                                                 181
 
 (3) If the party filing the action does not pay the costs of transfer within twenty (20) days of
 the order transferring venue, the original court shall dismiss the action without prejudice and
@@ -6895,7 +6910,7 @@ Effective February 2, 2026
 A party seeking a change of venue from the county must file a verified motion stating that the
 county where suit is pending is a party or that the party seeking the change will be unlikely to
 
-                                                 181
+                                                 182
 
 receive a fair trial due to local prejudice or bias regarding a party or the claim or defense
 presented by a party. The court must grant the motion if it finds the grounds have been estab-
@@ -6937,7 +6952,7 @@ closed on the merits, except for the following:
    (4) if the moving party first obtains knowledge of the grounds for change of county or
    judge after the time limitations, the party may file a motion verified personally by the
 
-                                                  182
+                                                  183
 
     party, specifically alleging when the grounds were first discovered, how the grounds were
     discovered, the facts showing the grounds for a change, and why the grounds could not
@@ -6974,7 +6989,7 @@ courts in the county.
         docket shall include the term “judgment” in the title and shall set forth the specific dol-
         lar amount of the judgment in the body of the order;
 
-                                                  183
+                                                  184
 
       (d) Execution docket (IC 33-32-3-5);
 
@@ -7020,7 +7035,7 @@ the record of judgments and orders, the notation of judgments in the judgment do
 file status (pending/decided) under section (G) of this rule. The CCS may be kept in a paper
 format, or microfilm, or electronically. The CCS is an official record of the trial court and shall
 
-                                                184
+                                                185
 
 be maintained apart from other records of the court and organized by case number, if main-
 tained in a paper or microfilmed format.
@@ -7060,7 +7075,7 @@ separate RJO for confidential materials.
 (2) If the court has a scanning system approved under Administrative Rule 6 that directly
 scans or electronically files documents into the court case management system and saves a
 
-                                               185
+                                               186
 
 digital image of a document as part of the electronic case file, the clerk need not maintain a
 separate RJO.
@@ -7098,7 +7113,7 @@ ber, consist of all cases which have not been decided. Decided files consist of 
 which have been concluded and no further proceedings remain to be conducted as evid-
 enced by the final judgment or other order of the court.
 
-                                                186
+                                                187
 
 (2) When a case has been decided, the file shall be assigned a disposition date pursuant to
 Administrative Rule 7 of the Indiana Supreme Court and maintained under the original case
@@ -7136,7 +7151,7 @@ to the public through remote electronic access such as the internet, those court
 approved by the Supreme Court of Indiana for electronic posting. The records to be posted,
 the specific information that is to be included, its format, pricing structure, if any, method of
 
-                                               187
+                                               188
 
 dissemination, and any subsequent changes thereto must be approved by the Office of Judi-
 cial Administration (IOJA) under the direction of the Supreme Court of Indiana. Such avail-
@@ -7170,7 +7185,7 @@ county small claims courts.
 It shall be the duty of the parties to advise the court promptly of an application or motion for
 change of judge.
 
-                                               188
+                                               189
 
 (C) Disqualification or recusal of judge.
 A judge shall disqualify and recuse whenever the judge, the judge’s spouse, a person within
@@ -7211,7 +7226,7 @@ ination or election of the judge of the court in which the contest is filed.
 (E) Reserved.
 Deleted, eff. Jan. 1, 2013.
 
-                                                  189
+                                                  190
 
 (F) Reserved.
 Deleted, eff. Jan. 1, 2013.
@@ -7250,7 +7265,7 @@ ing of a motion for change of judge from a special judge or if the regular judge
 assume jurisdiction under this section, a successor special judge shall be appointed in accord-
 ance with Sections (D) and (H) of this rule.
 
-                                               190
+                                               191
 
 (2) In the event that a special judge assumes jurisdiction and is thereafter unavailable for any
 reason on the date when a hearing or trial is scheduled:
@@ -7293,7 +7308,7 @@ rule, the Supreme Court may appoint any person eligible for service under Sectio
 member of the Bar of this state as special judge. The order of appointment of a special judge
 by the Indiana Supreme Court shall be noted in the Chronological Case Summary, entered in
 
-                                                191
+                                                192
 
 the Record of Judgments and Orders, and served on all parties in the proceeding in accord-
 ance with Trial Rule 72(D) by the Clerk of the trial court. Such order vests jurisdiction in the
@@ -7334,7 +7349,7 @@ where the case is pending unless:
 
    (a) the parties and the judge agree otherwise on the record, or
 
-                                               192
+                                               193
 
     (b) the hearing is not before a jury and the special judge determines that exceptional cir-
     cumstances exist such that the matter can only be heard in a timely fashion in his or her
@@ -7369,7 +7384,7 @@ Rule 79.1. Special judge selection: city, town, and
 Marion county small claims courts
 Effective January 1, 2008
 
-                                                 193
+                                                 194
 
 (A) Application.
 The provisions of this rule constitute the exclusive manner for the selection of special judges
@@ -7405,7 +7420,7 @@ In the event it becomes necessary to appoint a special judge in a city or town c
 parties fail to agree under Section (D) or (E), the case shall be transferred to the appropriate
 docket of the county, superior, or circuit court of the county in which the city or town court is
 
-                                               194
+                                               195
 
 located and filed without the assessment of additional fees. The judge who receives the case
 is not entitled to the payment of special judge fees as set forth in Trial Rule 79(J).
@@ -7445,7 +7460,7 @@ the case shall be transferred to the court having the highest court identifier n
 provided in Administrative Rule 8, of the Marion county small claims court judge who is not
 disqualified by reason of interest or relationship. No fees will be assessed for such transfer.
 
-                                                195
+                                                196
 
 (H) Eligibility.
 Pursuant to IC 33-34-5-6, no person other than a small claims court judge may serve as a spe-
@@ -7472,7 +7487,7 @@ limitation, proceedings to enforce the judgment and post-conviction relief unles
    (2) the special judge is unavailable by reason of death, sickness, absence, or unwillingness
    to serve.
 
-                                                196
+                                                197
 
 XI. General Provisions Scope of Rules—One
 Form of Action
@@ -7504,7 +7519,7 @@ for comments. Thereafter, the Rules Committee shall study all comments received 
 submit the proposed final draft of each rule amendment, together with the associated com-
 ments, to the Supreme Court for its consideration.
 
-                                             197
+                                             198
 
 (D) Publication of amended rules.
 The Supreme Court shall act on each proposed rule amendment received from the Rules
@@ -7539,7 +7554,7 @@ county clerk’s website, if any, and the IOJA must post the proposal on the Ind
 site for public inspection and comment. The court and the IOJA must receive comments for
 not less than thirty days.
 
-                                                198
+                                                199
 
 (C) Schedule.
 The IOJA shall establish and publish a uniform annual schedule, similar to the schedule for
@@ -7572,7 +7587,7 @@ be compiled into one document, which shall be posted and available in the clerk�
 times for public inspection and on the county clerk’s website, if any. They shall be available
 free of charge on the Indiana Judicial Website.
 
-                                               199
+                                               200
 
 (H) Suspension of local or administrative district rules.
 In an individual case the court, upon its own motion or the motion of any party, may waive,
@@ -7612,7 +7627,7 @@ Effective January 1, 2024
 
         (vi) such other factors as the court may consider relevant.
 
-                                                200
+                                                201
 
    (c) has a child in common with the other person;
 
@@ -7650,7 +7665,7 @@ parties of the court’s intention and, within thirty (30) days after a case is 
 shall provide each party with a list of all cases that have been selected to be heard using Fam-
 ily Procedures.
 
-                                                201
+                                                202
 
 (D) Designation by Court of Intent to Use Family Procedures and
 Change of Judge for Cause.
@@ -7684,7 +7699,7 @@ Court Records. Records excluded from Public Access shall retain their confidenti
 the court using Family Procedures shall direct that confidential records not be included in the
 public record of the proceedings.
 
-                                                202
+                                                203
 
 (H) Consolidation of Certain Cases.
 When juvenile paternity cases involving multiple children of the same two parents have been
@@ -7721,7 +7736,7 @@ in these rules:
     term includes the personal secretary of any of the foregoing persons or any person
     employed under or with any of the foregoing persons and who is entrusted with respons-
 
-                                               203
+                                               204
 
     ible handling of legal papers, and any person employed in the organization if such person
     promptly delivers the papers served to one of the foregoing.
@@ -7757,7 +7772,7 @@ Effective January 1, 2026
 (A) Definitions.
 For purpose of Trial Rules 86, 87, 88:
 
-                                                       204
+                                                       205
 
 (1) Case Management System (“CMS”).
 
@@ -7805,7 +7820,7 @@ mitted and transmitted through the IEFS, which sets forth the time of transmissi
 of the court, User, party or attorney transmitting the document, the title of the document, the
 type of document, and the name of the court, attorney, party, or other person meant to
 
-                                                 205
+                                                 206
 
 receive the Notice. The NEF will appear immediately on the User’s screen upon submission of
 the document for E-filing and will reflect the time at the location of the court where the case
@@ -7852,7 +7867,7 @@ Trial Rules 4 and 4.1 through 4.17.
 
 (2) Issuance of Summons and Service of Initial Complaint or Equivalent Pleading.
 
-                                               206
+                                               207
 
    (a) Except as provided below in (E), at the time the initial complaint or equivalent pleading
    is filed, the User shall also file completed summons(es) designating the manner of service.
@@ -7895,7 +7910,7 @@ Trial Rules 4 and 4.1 through 4.17.
    (b) Service on Others. Rules 4 and 5 govern service of documents on attorneys of record
    and on unrepresented parties who are not Users.
 
-                                                207
+                                                208
 
 (C) Official Court Record.
 The electronic version of a document filed with or generated by the court under this rule is
@@ -7931,7 +7946,7 @@ An action must be commenced:
     (3) By filing the complaint or equivalent pleading and the required summons(es) in the
     form set out in Trial Rule 4(C).
 
-                                               208
+                                               209
 
 (B) Electronic Filing of Documents.
 (1) Unless otherwise permitted by these rules, documents submitted for filing in Indiana
@@ -7971,7 +7986,7 @@ stantially the following information:
    (c) Unless the Last Will and Testament has been deposited with the clerk of the court, Affi-
    ant shall retain the original Last Will and Testament until the Decedent’s estate is closed
 
-                                               209
+                                               210
 
    and the Personal Representative is released from liability, or the time to file a will contest
    has expired, whichever is later; and
@@ -8013,7 +8028,7 @@ Subject to payment of all applicable fees pursuant to Section (A), a document is
 filed with the court on the date and time reflected in the NEF associated with the document.
 E-filing must be completed before midnight to be considered filed that day, and compliance
 
-                                               210
+                                               211
 
 with filing deadlines is determined in accordance with the time zone in the location of the
 court where the case is filed.
@@ -8054,7 +8069,7 @@ Effective January 1, 2021
 (A) Clerk Processing of E-Filed Documents.
 (1) The clerk may reject an e-filed document only when:
 
-                                                211
+                                                212
 
    (a) the User did not pay the applicable filing fee;
 
@@ -8078,4 +8093,4 @@ days.
 (2) In the event a User submits a cured document within three (3) business days, the doc-
 ument is deemed filed as of the original filing date.
 
-                                                212
+                                                213

@@ -1,7 +1,7 @@
 # Indiana Rules of Professional Conduct (Ind. R. Prof. Cond.)
 
 > **Source:** https://rules.incourts.gov/pdf/PDF - Professional Conduct/professional-conduct.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-07-01
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
