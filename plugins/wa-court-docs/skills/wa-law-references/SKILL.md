@@ -11,7 +11,7 @@ description: >
   civil rules (CR / CRLJ), evidence rules, GR 14 citation format, RCW 4.84
   fees-and-costs, local rules (King County Superior/District), general
   civil key cases, and canonical online-sources catalog.
-version: 0.5.1
+version: 0.5.2
 ---
 
 # Washington Law References — General Civil Practice
