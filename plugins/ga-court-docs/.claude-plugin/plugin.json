@@ -1,0 +1,36 @@
+{
+  "name": "ga-court-docs",
+  "version": "0.1.0",
+  "dependencies": [
+    "claude-legal-federal-laws",
+    {
+      "name": "document-skills",
+      "marketplace": "anthropic-agent-skills"
+    }
+  ],
+  "description": "Draft and format pleadings, declarations, motions, notices, and proposed orders for Georgia courts. Applies O.C.G.A. \u00a7 9-11-10 + Uniform Superior Court Rules statewide formatting; includes Fulton County Superior Court and Cobb County Superior Court specifics plus a county-courts roll-up; supports pro se workflows. Architected as matter-neutral civil-procedure skills (Georgia Civil Practice Act (O.C.G.A. Title 9, Ch. 11) civil rules, Georgia Evidence Code (O.C.G.A. Title 24) evidence rules, fees and costs, local rules, citation format per the Georgia appellate citation (Bluebook-based)) plus subject-matter bundles. The first subject-matter bundle, ga-consumer-debt, covers FDCPA / Reg F / state UTPA-equivalent / chain-of-title doctrine. All workflows are skills (no slash commands) so the agent invokes them automatically from natural-language requests.",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/claude-legal",
+  "repository": "https://github.com/codearranger/claude-legal",
+  "license": "MIT",
+  "keywords": [
+    "georgia",
+    "legal",
+    "pleadings",
+    "pro-se",
+    "georgia civil practice act (o.c.g.a. title 9, ch. 11)",
+    "georgia evidence code (o.c.g.a. title 24)",
+    "civil-rules",
+    "evidence-rules",
+    "discovery",
+    "hearings",
+    "post-judgment",
+    "fact-check",
+    "fdcpa",
+    "consumer-protection",
+    "debt-collection"
+  ]
+}

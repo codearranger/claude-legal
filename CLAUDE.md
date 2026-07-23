@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state, plus two shared federal reference plugins. It ships **fourteen plugins total — twelve state plugins + two shared federal reference plugins**. **Each plugin's `README.md` is the canonical detail** on skills, venues, subject bundles, reference corpora, and quirks.
+The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of court-document plugins organized one plugin per state, plus two shared federal reference plugins. It ships **fifteen plugins total — thirteen state plugins + two shared federal reference plugins**. **Each plugin's `README.md` is the canonical detail** on skills, venues, subject bundles, reference corpora, and quirks.
 
 - **`claude-legal-federal-laws`** — Shared plugin holding the canonical copy of federal U.S. debt-collection and consumer-finance law (FDCPA, FCRA, TILA, ECOA, Reg B–Z), the model UCC (Articles 1, 2, 3, 9), the Bankruptcy Code (Title 11 chapters 1–15), and the Americans with Disabilities Act (42 U.S.C. ch. 126) with its DOJ/EEOC implementing regulations (29 CFR 1630; 28 CFR 35/36 incl. the 2010 ADA Standards). Every state plugin declares this as a dependency and symlinks into its `references/` tree. Also ships a 5-skill nationwide FCRA consumer credit-report-rights self-help layer (`consumer-report-ordering`, `consumer-credit-disputes`, `consumer-report-accuracy`, `consumer-harm-documentation`, `consumer-credit-monitoring`), an `ada-rights` ADA self-help skill (Title I/II/III accommodation requests, grievances, DOJ complaints, EEOC charge intake), plus a `case-law-research` skill that drives the bundled CourtListener + Legal Data Hunter MCP servers.
 
@@ -33,6 +33,8 @@ The `claude-legal` **marketplace** — a Claude Code / Cowork marketplace of cou
 - **`id-court-docs`** — Idaho. I.R.C.P. 2 / 10 form-of-documents formatting; unified District Court (7 judicial districts) + Magistrate Division; Ada County (Fourth Judicial District / Boise) + Bonneville County (Seventh Judicial District / Idaho Falls) + judicial-district roll-up + Family Court; consumer-debt + family-law bundles; 23 skills. Key quirks: time computation lives in **I.R.C.P. 2.2** (Rule 6 is *[Reserved]*), the statewide format spec lives in **I.R.C.P. 2** (not Rule 10), a separate **Idaho Rules of Family Law Procedure (I.R.F.L.P.)** set heard in the Magistrate Division, community property, and Idaho Code § 73-108 holidays (no state Juneteenth; Columbus Day observed). Idaho allows interrogatories (40-cap, I.R.C.P. 33).
 
 - **`tx-court-docs`** — Texas. No single statewide pleading-paper rule (form flows from TRCP 45/47/57 + the Supreme Court e-filing standards); Harris + Dallas County District Courts + District/County-Court-at-Law roll-up + the Justice of the Peace layer (TRCP Part V, Rules 500–510) including **Smith County (Tyler) Justice Court** + Family Court; consumer-debt + family-law bundles; 25 skills. Key quirks: the **Rule 99 "Monday rule"** answer deadline (10 a.m. the Monday next after 20 days), **no-evidence summary judgment** (166a(i)), **sworn-account** (185) met only by a **verified denial** (93), **special exceptions** / Rule 91a (no general demurrer), the **Rule 47(c)** relief-range statement, **discovery-control-plan Levels 1/2/3** (190) + expedited actions (169), justice-court procedure where the civil/evidence rules largely don't apply (500.3(e)) with de-novo appeal to county court, community property, wages largely exempt from garnishment (Tex. Const. art. XVI § 28), and Tex. Gov't Code § 662.003 holidays (Juneteenth + Friday-after-Thanksgiving court-closed).
+
+- **`ga-court-docs`** — Georgia. No single statewide pleading-paper rule (form flows from O.C.G.A. § 9-11-10 + the Uniform Superior/State/Magistrate Court Rules + statewide e-filing standards); Fulton + Cobb + Gwinnett County **Superior Courts**, a **State Court** layer (civil of any amount + misdemeanors — where most debt/tort suits land), a **Magistrate** small-claims layer (O.C.G.A. § 15-10-2), a county roll-up, and a Superior Court family-division venue; consumer-debt + family-law bundles; 26 skills. Key quirks: the **State Court vs. Superior Court split is by subject, not dollar amount** (O.C.G.A. § 15-7-4; State Court has no amount ceiling but no equity/divorce/title/felony, and not every county has one); the **30-day answer + 15-day open-default-as-of-right window** (§§ 9-11-12, 9-11-55; *Bowen v. Savoy*); **credit-card debt on the 6-year written-contract SOL** (§ 9-3-24; *Hill v. American Express*) not the 4-year open-account SOL; **no state licensing of most debt collectors** so the **FBPA** (§ 10-1-390 et seq.) is the state-law vehicle, gated by a **mandatory 30-day pre-suit written demand** (§ 10-1-399(b)) unlocking **treble damages** (§ 10-1-399(c)); the **post-2016 garnishment overhaul** (Title 18 ch. 4; *Strickland v. Alexander*) with the § 18-4-15 defendant's-claim mechanism and § 44-13-100 **opt-out** exemptions; **e-filing platform differs by county** (PeachCourt for Fulton/Cobb, Odyssey eFileGA for Gwinnett); the *Lau's Corp. v. Haskins* summary-judgment standard; equitable-distribution + income-shares child support (§ 19-6-15); and O.C.G.A. § 1-4-1 holidays (13 governor-proclaimed state-holiday days; several float).
 
 Output is documents, not advice; everything is bracketed by a "not legal advice" disclaimer that downstream skills repeat.
 
@@ -70,6 +72,7 @@ Per-plugin detail (full skills list, venues, subject bundles, reference corpora,
 | `az-court-docs` | 28 | 2 Superior + Justice + Family + roll-up | consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes | ARCP 10 / 7.1 + separate ARFLP + JCRCP; community property; constitutional bar on damages caps; covenant marriage | [README](plugins/az-court-docs/README.md) |
 | `id-court-docs` | 23 | 2 District (Ada + Bonneville) + Magistrate Division + judicial-district roll-up + Family Court | consumer-debt, family-law | I.R.C.P. 2 / 10; **time computation at I.R.C.P. 2.2 (Rule 6 reserved)**; separate I.R.F.L.P. family rules; community property; allows interrogatories (40-cap); § 73-108 holidays (no state Juneteenth; Columbus Day) | [README](plugins/id-court-docs/README.md) |
 | `tx-court-docs` | 25 | 2 District (Harris + Dallas) + County-Courts roll-up + Justice Courts (TRCP 500–510) + Smith County (Tyler) JP + Family Court | consumer-debt, family-law | No statewide format rule (TRCP 45/47/57 + e-filing standards); **Rule 99 "Monday rule"** answer; no-evidence SJ (166a(i)); sworn-account 185 / verified-denial 93; Rule 47(c) relief statement; discovery Levels 1/2/3 (190); community property; wages exempt from garnishment | [README](plugins/tx-court-docs/README.md) |
+| `ga-court-docs` | 26 | Fulton + Cobb + Gwinnett Superior + State Court + Magistrate + county roll-up + Family Court | consumer-debt, family-law | No statewide format rule (O.C.G.A. § 9-11-10 + Uniform Superior/State/Magistrate Court Rules); **State/Superior split by subject not dollar** (§ 15-7-4); 30-day answer + 15-day open-default (§§ 9-11-12, 9-11-55); **credit-card 6-yr written-contract SOL** (§ 9-3-24, *Hill*); no collector licensing → **FBPA** (§ 10-1-399) 30-day demand + treble; post-2016 garnishment (Title 18 ch. 4, *Strickland*); § 44-13-100 opt-out exemptions; PeachCourt (Fulton/Cobb) vs. Odyssey eFileGA (Gwinnett); *Lau's Corp.* SJ standard | [README](plugins/ga-court-docs/README.md) |
 
 ## Reference corpora at a glance
 
@@ -91,6 +94,7 @@ Each plugin's `README.md` carries full corpus detail (scope, pull mechanics, acc
 | `az-court-docs` | `court-rules/` (ARCP + Evid. + ARFLP + JCRCP / ~406 rules verbatim), `az-statutes-debt/` (12 topic files) | `pull_arizona_rules.py`, `pull_arizona_statutes.py` | azcourts.gov Cloudflare-gated (mirrors courtrules.net); azleg.gov ungated .htm fragments |
 | `id-court-docs` | `court-rules/` (verbatim I.R.C.P. + I.R.E. + I.R.F.L.P. + I.A.R. — 53 rules / 4 files), `id-statutes-debt/` (verbatim Idaho Code — Title 5/11/12/28/32/55/73 + consumer-protection/collection-agency, 8 topic files / 43 sections) | `pull_idaho_rules.py`, `pull_idaho_statutes.py` | isc.idaho.gov per-rule print views (the `-new` landings are JS-rendered), legislature.idaho.gov Idaho Code — both open |
 | `tx-court-docs` | `court-rules/` (TRCP incl. Part V justice-court rules + Tex. R. Evid. + Tex. R. App. P. — 4 set files), `tx-statutes-debt/` (Tex. Civ. Prac. & Rem. / Finance Ch. 392 / Bus. & Com. DTPA + UCC 9 / Property exemptions+eviction / Family Code / Gov't Code holidays — 9 topic files) | `pull_texas_rules.py`, `pull_texas_statutes.py` | statutes.capitol.texas.gov per-chapter HTML (open); txcourts.gov rule PDFs |
+| `ga-court-docs` | `court-rules/` (Uniform Superior / State / Magistrate Court Rules + Supreme Court & Court of Appeals rules), `ga-statutes-debt/` (O.C.G.A. Title 9 CPA + limitations / Title 24 Evidence / Title 10 FBPA / Title 7 Installment Loan Act / Title 18 garnishment / Title 44 landlord-tenant + exemptions / Title 19 domestic relations / Title 15 courts / Title 11 UCC) | `pull_georgia_rules.py`, `pull_georgia_statutes.py` | codes.findlaw.com/ga + law.justia.com/codes/georgia (O.C.G.A.; official LexisNexis paywalled, Justia 403s automated fetch); georgiacourts.gov rule PDFs |
 
 ## Common commands
 
@@ -218,6 +222,17 @@ python3 scripts/pull_texas_rules.py --workers 2 \
 python3 plugins/tx-court-docs/scripts/format-check.py <file>   # marketplace format baseline (Letter / 1" / 12pt / footer)
 python3 plugins/tx-court-docs/scripts/case-calendar.py ...     # Tex. R. Civ. P. 4 deadline arithmetic with Tex. Gov't Code § 662.003 holidays (incl. the Rule 99 "Monday rule" answer)
 python3 plugins/tx-court-docs/scripts/case-calendar.py --rules # List Texas named deadline rules
+
+# Refresh reference corpora — Georgia
+python3 scripts/pull_georgia_statutes.py --workers 4 \
+  --out plugins/ga-court-docs/skills/ga-law-references/references/ga-statutes-debt
+python3 scripts/pull_georgia_rules.py --workers 2 \
+  --out plugins/ga-court-docs/skills/ga-law-references/references/court-rules
+
+# Georgia scripts
+python3 plugins/ga-court-docs/scripts/format-check.py <file>   # marketplace format baseline (Letter / 1" / 12pt / footer)
+python3 plugins/ga-court-docs/scripts/case-calendar.py ...     # O.C.G.A. § 1-3-1(d)(3) / § 9-11-6(a) deadline arithmetic with § 1-4-1 holidays (sub-7-day excludes intermediate weekends/holidays)
+python3 plugins/ga-court-docs/scripts/case-calendar.py --rules # List Georgia named deadline rules
 ```
 
 The lint also runs in CI on every push/PR (`.github/workflows/lint-skills.yml`).
@@ -339,6 +354,7 @@ plugins/mi-court-docs/              # 29 skills (Wayne/Oakland Circuit + 36th Di
 plugins/az-court-docs/              # 28 skills (Maricopa/Pima + Justice Courts + Superior roll-up + Family + 6 subject bundles)
 plugins/id-court-docs/              # 23 skills (Ada/Bonneville District Courts + Magistrate Division + judicial-district roll-up + Family Court + consumer-debt & family-law bundles)
 plugins/tx-court-docs/              # 25 skills (Harris/Dallas District Courts + County-Courts roll-up + Justice of the Peace courts TRCP 500–510 incl. Smith County (Tyler) JP + Family Court + consumer-debt & family-law bundles)
+plugins/ga-court-docs/              # 26 skills (Fulton/Cobb/Gwinnett Superior Courts + State Court + Magistrate small-claims + county roll-up + Family Court + consumer-debt & family-law bundles)
 scripts/
   lint-skills.py                    # frontmatter + name/dir-match linter
   hooks/pre-commit                  # symlink target for .git/hooks/pre-commit
@@ -369,6 +385,8 @@ scripts/
   pull_idaho_statutes.py            # legislature.idaho.gov → verbatim Idaho Code sections (bounded, topic-grouped)
   pull_texas_rules.py               # txcourts.gov → TRCP (incl. Part V justice-court rules) + Tex. R. Evid. + Tex. R. App. P.
   pull_texas_statutes.py            # statutes.capitol.texas.gov per-chapter HTML → verbatim Texas statute sections (bounded, topic-grouped)
+  pull_georgia_rules.py             # georgiacourts.gov → Uniform Superior / State / Magistrate Court Rules + appellate rules
+  pull_georgia_statutes.py          # codes.findlaw.com/ga + law.justia.com/codes/georgia → verbatim O.C.G.A. sections (topic-grouped; official LexisNexis paywalled)
   pull_ina.py                       # uscode.house.gov USLM XML → INA (8 U.S.C. ch 12)
   pull_immigration_cfr.py           # ecfr.gov versioner API → 8 CFR + 22 CFR immigration parts
   pull_fam.py                       # fam.state.gov JSON TOC API + /FAM/<vol>/<id>.html (AIA-chases omitted TLS intermediate) → FAM verbatim
