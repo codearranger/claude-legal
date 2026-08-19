@@ -1,0 +1,10 @@
+{
+  "name": "nc-court-docs",
+  "version": "0.1.0",
+  "description": "North Carolina court documents plugin. Wake County Superior/District Courts, Mecklenburg County Superior/District Courts, county-courts roll-up, family court, and magistrate small-claims (≤ $10,000). Six subject-matter bundles: consumer-debt (NCCAA + UDTPA treble), family-law (equitable distribution + equitable support), landlord-tenant (NC RLTA, summary ejectment), personal-injury (contributory negligence — pure bar), employment (NCEEPA + NC Wage and Hour Act), and commercial-disputes (NC UCC + NCUAA). NC eCourts Odyssey e-filing. Full detail in the plugin README.",
+  "keywords": ["north-carolina", "wake-county", "mecklenburg", "superior-court", "district-court", "magistrate", "consumer-debt", "UDTPA", "contributory-negligence", "NC-eCourts"],
+  "dependencies": [
+    "claude-legal-federal-laws",
+    {"name": "document-skills", "marketplace": "anthropic-agent-skills"}
+  ]
+}

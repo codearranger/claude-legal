@@ -1,0 +1,41 @@
+{
+  "name": "fl-court-docs",
+  "version": "0.1.0",
+  "dependencies": [
+    "claude-legal-federal-laws",
+    {
+      "name": "document-skills",
+      "marketplace": "anthropic-agent-skills"
+    }
+  ],
+  "description": "Draft and format pleadings, motions, and orders for Florida trial courts. Applies Fla. R. Civ. P. 1.100 / 1.080 statewide formatting; covers Miami-Dade Circuit Court (11th Judicial Circuit), Broward Circuit Court (17th JD), Orange County Circuit Court (9th JD) plus a county-courts roll-up for the remaining 64 counties; a dedicated fl-small-claims skill for the county court small-claims track (Fla. R. Sm. Cl. Ct.); and fl-family-court for the Family Division. Florida-specific: no-fault divorce (dissolution) under Fla. Stat. § 61.052; equitable distribution (not community property); PACE mandatory e-filing; county court $50,000 civil cap; 5-year SOL for written contracts (§ 95.11(2)(b)); 4-year SOL for negligence (§ 95.11(3)(a)); Florida Consumer Collection Practices Act (FCCPA, § 559.72). Subject-matter bundles: fl-consumer-debt (FDCPA, FCCPA, chain of title), fl-family-law (dissolution, custody, child support, equitable distribution), fl-landlord-tenant (FRLA, § 83 notices and remedies), fl-personal-injury (pure comparative fault § 768.81, sovereign immunity § 768.28), fl-employment (FCRA § 760, wage-and-hour, workers' comp), fl-commercial-disputes (UCC, FDUTPA § 501.204).",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/claude-legal",
+  "repository": "https://github.com/codearranger/claude-legal",
+  "license": "MIT",
+  "keywords": [
+    "florida",
+    "legal",
+    "pleadings",
+    "pro-se",
+    "fla-r-civ-p",
+    "miami-dade",
+    "broward",
+    "orange-county-fl",
+    "circuit-court",
+    "county-court",
+    "fccpa",
+    "fdutpa",
+    "pace-efiling",
+    "equitable-distribution",
+    "family-law",
+    "landlord-tenant",
+    "personal-injury",
+    "employment",
+    "commercial-disputes",
+    "consumer-debt"
+  ]
+}
