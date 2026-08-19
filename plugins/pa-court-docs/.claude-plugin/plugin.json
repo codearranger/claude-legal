@@ -1,0 +1,39 @@
+{
+  "name": "pa-court-docs",
+  "version": "0.1.0",
+  "dependencies": [
+    "claude-legal-federal-laws",
+    {
+      "name": "document-skills",
+      "marketplace": "anthropic-agent-skills"
+    }
+  ],
+  "description": "Draft and format pleadings, motions, and orders for Pennsylvania trial courts. Applies Pa. R.C.P. Nos. 1023-1025 format (caption, signature blocks, verification) and PACFile mandatory e-filing. Covers Philadelphia Court of Common Pleas (First Judicial District), Allegheny County Court of Common Pleas (Fifth Judicial District), and a populous-counties roll-up; a dedicated pa-mdj skill for the Magisterial District Judge (MDJ) tier (small claims / landlord-tenant / summary offenses, the primary consumer-debt and eviction forum); and pa-family-court for the Family Division. Pennsylvania-specific: Pa. R.C.P. 1034/1035 (demurrer/judgment on pleadings/summary judgment); 4-year contract SOL (42 Pa. C.S. § 5525); 2-year personal-injury SOL (§ 5524); 2-year UTPCPL SOL; Pennsylvania Unfair Trade Practices and Consumer Protection Law (UTPCPL, 73 P.S. § 201-1 et seq.); Fair Credit Extension Uniformity Act (FCEUA). Subject-matter bundles: pa-consumer-debt (FDCPA, FCEUA, UTPCPL), pa-family-law, pa-landlord-tenant, pa-personal-injury (modified comparative fault, § 7102), pa-employment, pa-commercial-disputes.",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/claude-legal",
+  "repository": "https://github.com/codearranger/claude-legal",
+  "license": "MIT",
+  "keywords": [
+    "pennsylvania",
+    "legal",
+    "pleadings",
+    "pro-se",
+    "pa-r-c-p",
+    "philadelphia",
+    "allegheny",
+    "ccp",
+    "mdj",
+    "pacfile",
+    "utpcpl",
+    "fceua",
+    "consumer-debt",
+    "family-law",
+    "landlord-tenant",
+    "personal-injury",
+    "employment",
+    "commercial-disputes"
+  ]
+}

@@ -9,14 +9,14 @@
     "claude-for-legal"
   ],
   "metadata": {
-    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents — one plugin per state plus two shared federal reference plugins (claude-legal-federal-laws and claude-legal-immigration-laws). Each plugin ships matter-neutral civil-procedure skills plus subject-matter bundles and verbatim reference corpora; the state plugins depend on claude-legal-federal-laws for the shared federal / UCC / Bankruptcy content, and every plugin depends on document-skills from the anthropic-agent-skills marketplace (github.com/anthropics/skills) for DOCX / PDF / PPTX / XLSX document output. Anthropic's claude-for-legal marketplace (github.com/anthropics/claude-for-legal — practice-area plugins for commercial, privacy, corporate, employment, litigation, IP, and legal-education workflows) is an allowlisted companion marketplace that composes with these plugins. The two shared plugins bundle two free remote MCP servers — CourtListener (mcp.courtlistener.com) and Legal Data Hunter (legaldatahunter.com/mcp) — for on-demand case-law and statute lookup, with dedicated research skills (case-law-research, immigration-case-law) that route the agent to them. Per-plugin detail lives in each plugin's README.md. Currently thirteen state plugins (WA, OR, CA, CO, IN, NY, OH, TN, MI, AZ, ID, TX, GA) plus the two shared plugins.",
-    "version": "0.37.0"
+    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents \u2014 one plugin per state plus two shared federal reference plugins (claude-legal-federal-laws and claude-legal-immigration-laws). Each plugin ships matter-neutral civil-procedure skills plus subject-matter bundles and verbatim reference corpora; the state plugins depend on claude-legal-federal-laws for the shared federal / UCC / Bankruptcy content, and every plugin depends on document-skills from the anthropic-agent-skills marketplace (github.com/anthropics/skills) for DOCX / PDF / PPTX / XLSX document output. Anthropic's claude-for-legal marketplace (github.com/anthropics/claude-for-legal \u2014 practice-area plugins for commercial, privacy, corporate, employment, litigation, IP, and legal-education workflows) is an allowlisted companion marketplace that composes with these plugins. The two shared plugins bundle two free remote MCP servers \u2014 CourtListener (mcp.courtlistener.com) and Legal Data Hunter (legaldatahunter.com/mcp) \u2014 for on-demand case-law and statute lookup, with dedicated research skills (case-law-research, immigration-case-law) that route the agent to them. Per-plugin detail lives in each plugin's README.md. Currently thirteen state plugins (WA, OR, CA, CO, IN, NY, OH, TN, MI, AZ, ID, TX, GA) plus the two shared plugins.",
+    "version": "0.39.0"
   },
   "plugins": [
     {
       "name": "claude-legal-federal-laws",
       "source": "./plugins/claude-legal-federal-laws",
-      "description": "Shared federal reference plugin: canonical FDCPA / FCRA / TILA / ECOA / Reg B-Z + RESPA / SCRA / FHA / FTC Telemarketing Sales Rule, the Title 11 Bankruptcy Code, the model UCC, and the Americans with Disabilities Act with its DOJ/EEOC implementing regulations (42 U.S.C. ch. 126; 29 CFR 1630; 28 CFR 35/36 incl. the 2010 ADA Standards) — a dependency of every state plugin, dereferenced from in-tree symlinks at install time; plus a nationwide FCRA consumer credit-report-rights skills layer and an ADA self-help skill (ada-rights), two bundled free MCP servers (CourtListener + Legal Data Hunter), and a case-law-research skill that routes the agent to them for on-demand case-law lookup. Full detail in the plugin README.",
+      "description": "Shared federal reference plugin: canonical FDCPA / FCRA / TILA / ECOA / Reg B-Z + RESPA / SCRA / FHA / FTC Telemarketing Sales Rule, the Title 11 Bankruptcy Code, the model UCC, and the Americans with Disabilities Act with its DOJ/EEOC implementing regulations (42 U.S.C. ch. 126; 29 CFR 1630; 28 CFR 35/36 incl. the 2010 ADA Standards) \u2014 a dependency of every state plugin, dereferenced from in-tree symlinks at install time; plus a nationwide FCRA consumer credit-report-rights skills layer and an ADA self-help skill (ada-rights), two bundled free MCP servers (CourtListener + Legal Data Hunter), and a case-law-research skill that routes the agent to them for on-demand case-law lookup. Full detail in the plugin README.",
       "category": "legal",
       "keywords": [
         "legal",
@@ -83,7 +83,7 @@
     {
       "name": "wa-court-docs",
       "source": "./plugins/wa-court-docs",
-      "description": "Washington court documents: GR 14 formatting; King / Pierce / Snohomish / Spokane venues + family-law department + county roll-up; six subject bundles (consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes) plus a matter-neutral CPA/UDAP skill (Consumer Protection Act, RCW 19.86 — Hangman Ridge), a CEMA (RCW 19.190 anti-spam; Brown v. Old Navy) skill, and a federal-court venue skill for the U.S. District Court for the Western District of Washington (wa-wawd-pro-se: FRCP + LCR, noting dates, IFP, CM/ECF, Ninth Circuit appeals). Full detail in the plugin README.",
+      "description": "Washington court documents: GR 14 formatting; King / Pierce / Snohomish / Spokane venues + family-law department + county roll-up; six subject bundles (consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes) plus a matter-neutral CPA/UDAP skill (Consumer Protection Act, RCW 19.86 \u2014 Hangman Ridge), a CEMA (RCW 19.190 anti-spam; Brown v. Old Navy) skill, and a federal-court venue skill for the U.S. District Court for the Western District of Washington (wa-wawd-pro-se: FRCP + LCR, noting dates, IFP, CM/ECF, Ninth Circuit appeals). Full detail in the plugin README.",
       "category": "legal",
       "keywords": [
         "washington",
@@ -291,7 +291,7 @@
     {
       "name": "ny-court-docs",
       "source": "./plugins/ny-court-docs",
-      "description": "New York court documents: 22 NYCRR § 202.5 / § 202.5-b NYSCEF formatting; five flagship Supreme Court venues plus District / City / Justice / Family / Housing courts; five subject bundles (consumer-debt, landlord-tenant, personal-injury, employment, commercial-disputes). Full detail in the plugin README.",
+      "description": "New York court documents: 22 NYCRR \u00a7 202.5 / \u00a7 202.5-b NYSCEF formatting; five flagship Supreme Court venues plus District / City / Justice / Family / Housing courts; five subject bundles (consumer-debt, landlord-tenant, personal-injury, employment, commercial-disputes). Full detail in the plugin README.",
       "category": "legal",
       "keywords": [
         "new-york",
@@ -345,7 +345,7 @@
     {
       "name": "oh-court-docs",
       "source": "./plugins/oh-court-docs",
-      "description": "Ohio court documents: Ohio Civ. R. 10 + per-court local rules (verbatim Cuyahoga + Delaware Common Pleas); eight Court of Common Pleas venues + municipal-courts + family-court; five subject bundles — consumer-debt, family-law, personal-injury, employment, commercial-disputes. Full detail in the plugin README.",
+      "description": "Ohio court documents: Ohio Civ. R. 10 + per-court local rules (verbatim Cuyahoga + Delaware Common Pleas); eight Court of Common Pleas venues + municipal-courts + family-court; five subject bundles \u2014 consumer-debt, family-law, personal-injury, employment, commercial-disputes. Full detail in the plugin README.",
       "category": "legal",
       "keywords": [
         "ohio",
@@ -630,7 +630,7 @@
     {
       "name": "tx-court-docs",
       "source": "./plugins/tx-court-docs",
-      "description": "Texas court documents: Texas Rules of Civil Procedure form requirements (TRCP 45/47/57, the Rule 47(c) relief statement, eFileTexas under TRCP 21(f)); Harris + Dallas District Courts, a District / County-Court-at-Law roll-up, the Justice of the Peace layer (TRCP Part V, Rules 500–510) including Smith County (Tyler) Justice Court, and a family-court venue; consumer-debt (Texas Debt Collection Act / DTPA / chain-of-title) and family-law (community property / SAPCR / Ch. 154 child support) bundles. Texas quirks: the Rule 99 'Monday rule' answer deadline, no-evidence summary judgment (166a(i)), sworn-account (185) / verified-denial (93), and discovery-control-plan Levels 1/2/3. Full detail in the plugin README.",
+      "description": "Texas court documents: Texas Rules of Civil Procedure form requirements (TRCP 45/47/57, the Rule 47(c) relief statement, eFileTexas under TRCP 21(f)); Harris + Dallas District Courts, a District / County-Court-at-Law roll-up, the Justice of the Peace layer (TRCP Part V, Rules 500\u2013510) including Smith County (Tyler) Justice Court, and a family-court venue; consumer-debt (Texas Debt Collection Act / DTPA / chain-of-title) and family-law (community property / SAPCR / Ch. 154 child support) bundles. Texas quirks: the Rule 99 'Monday rule' answer deadline, no-evidence summary judgment (166a(i)), sworn-account (185) / verified-denial (93), and discovery-control-plan Levels 1/2/3. Full detail in the plugin README.",
       "category": "legal",
       "keywords": [
         "texas",
@@ -684,7 +684,7 @@
     {
       "name": "ga-court-docs",
       "source": "./plugins/ga-court-docs",
-      "description": "Georgia court documents: no single statewide pleading-paper rule (form flows from O.C.G.A. § 9-11-10 + the Uniform Superior/State Court Rules + statewide e-filing standards); Fulton + Cobb + Gwinnett County Superior Courts, a State Court venue (civil/misdemeanor — where most debt suits land), a Magistrate small-claims venue, a county roll-up, and a Superior Court family-division venue; consumer-debt (federal-FDCPA-forward / FBPA treble damages / post-2016 garnishment / chain-of-title) and family-law (equitable distribution / income-shares child support) bundles. Georgia quirks: the 30-day answer with an open-default-as-of-right cure window (O.C.G.A. § 9-11-55), the Superior/State court jurisdictional split, no state licensing of most debt collectors, and credit-card debt under the 6-year written-contract SOL. Full detail in the plugin README.",
+      "description": "Georgia court documents: no single statewide pleading-paper rule (form flows from O.C.G.A. \u00a7 9-11-10 + the Uniform Superior/State Court Rules + statewide e-filing standards); Fulton + Cobb + Gwinnett County Superior Courts, a State Court venue (civil/misdemeanor \u2014 where most debt suits land), a Magistrate small-claims venue, a county roll-up, and a Superior Court family-division venue; consumer-debt (federal-FDCPA-forward / FBPA treble damages / post-2016 garnishment / chain-of-title) and family-law (equitable distribution / income-shares child support) bundles. Georgia quirks: the 30-day answer with an open-default-as-of-right cure window (O.C.G.A. \u00a7 9-11-55), the Superior/State court jurisdictional split, no state licensing of most debt collectors, and credit-card debt under the 6-year written-contract SOL. Full detail in the plugin README.",
       "category": "legal",
       "keywords": [
         "georgia",
@@ -737,6 +737,30 @@
         "family-violence-act",
         "shared-references"
       ]
+    },
+    {
+      "name": "fl-court-docs",
+      "description": "Florida court documents: Miami-Dade, Broward, Orange Circuit Courts + county roll-up + family court. 6 subject bundles. Equitable distribution, HB 837 51% comparative-fault bar, PACE e-filing, FCCPA. Full detail in the plugin README.",
+      "path": "plugins/fl-court-docs",
+      "category": "legal"
+    },
+    {
+      "name": "pa-court-docs",
+      "description": "Pennsylvania court documents: Philadelphia CCP, Allegheny CCP, county roll-up, MDJ (Magisterial District Judge) small-claims layer, family court. 6 subject bundles. Fact-pleading, verification requirement, wage garnishment exempt for consumer debts, FCEUA. Full detail in the plugin README.",
+      "path": "plugins/pa-court-docs",
+      "category": "legal"
+    },
+    {
+      "name": "il-court-docs",
+      "description": "Illinois court documents: Cook County Circuit (Law & Chancery Divisions), DuPage, Lake Circuit Courts + county roll-up + family court + N.D. Ill. federal pro se. 6 subject bundles. eFileIL, ICFA, IMFL equitable distribution, IHRA/IDHR exhaustion, IWPCA. Full detail in the plugin README.",
+      "path": "plugins/il-court-docs",
+      "category": "legal"
+    },
+    {
+      "name": "nc-court-docs",
+      "description": "North Carolina court documents: Wake and Mecklenburg Superior/District Courts + county roll-up + magistrate small-claims (\u2264 $10,000) + family court. 6 subject bundles. Pure contributory negligence bar, UDTPA treble damages, no wage garnishment for consumer debts, NC eCourts Odyssey. Full detail in the plugin README.",
+      "path": "plugins/nc-court-docs",
+      "category": "legal"
     }
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "name": "il-court-docs",
+  "version": "0.1.0",
+  "description": "Illinois court documents plugin. Cook County Circuit Court (Law & Chancery Divisions), DuPage and Lake Circuit Courts, county-courts roll-up, family court, and small-claims. Six subject-matter bundles: consumer-debt (ICFA), family-law (IMFL 750 ILCS 5), landlord-tenant (Chicago RLTO + RLTA), personal-injury (modified comparative fault 51%), employment (IHRA/IDHR exhaustion + IWPCA), and commercial-disputes (Illinois UCC + IUAA). eFileIL mandatory e-filing. Full detail in the plugin README.",
+  "keywords": ["illinois", "cook-county", "dupage", "lake-county", "circuit-court", "consumer-debt", "family-law", "landlord-tenant", "eFileIL", "ICFA", "IMFL", "IHRA"],
+  "dependencies": [
+    "claude-legal-federal-laws",
+    {"name": "document-skills", "marketplace": "anthropic-agent-skills"}
+  ]
+}
