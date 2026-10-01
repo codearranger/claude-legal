@@ -1,24 +1,26 @@
 # UTCR — Uniform Trial Court Rules
 
-> **Source:** https://www.courts.oregon.gov/rules/UTCR/2025_UTCR_including_amendments_effective_2026-03-09.pdf
-> **Fetched:** 2026-05-14
+> **Source:** https://www.courts.oregon.gov/rules/UTCR/2025_UTCR_including_amendments_effective_2026-07-22.pdf
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the official PDF source
 
 ---
 
 UNIFORM TRIAL COURT RULES
 
-                       Effective
-                     August 1, 2025
+                        Effective
+                      August 1, 2025
 
  (Including Correction to UTCR 8.060 and UTCR 24.030 (effective
   September 29, 2025); Out-of-Cycle Amendment of UTCR 1.110,
    3.170, 5.140, 6.050, 6.080, 6.120, 13.090, 15.020, and 21.140
    (effective January 1, 2026); Out-of-Cycle Amendment of UTCR
-21.020 and 21.070 (effective February 19, 2026); and Out-of-Cycle
-          Adoption of UTCR 4.130 (effective March 9, 2026))
+   21.020 and 21.070 (effective February 19, 2026); Out-of-Cycle
+  Adoption of UTCR 4.130 (effective March 9, 2026); Out-of-Cycle
+Amendment of UTCR 4.130 (effective July 1, 2026); and Out-of-Cycle
+ Amendment of UTCR 21.040 and 21.070 (effective July 22, 2026))
 
-    This document has no copyright and may be reproduced.
+     This document has no copyright and may be reproduced.
 
                                2025 UNIFORM TRIAL COURT RULES
                                                     CONTENTS
@@ -2523,7 +2525,7 @@ CHAPTER 4—Proceedings in Criminal Cases
 NOTE: Rules specifically relating to contempt proceedings are located in UTCR
 chapter 19.
 
-4.010       TIME FOR FILING PRETRIAL MOTIONS IN CRIMINAL CASES
+4.010      TIME FOR FILING PRETRIAL MOTIONS IN CRIMINAL CASES
 
 (1)   In the absence of a showing of good cause or a Supplementary Local Rule (SLR)
       to the contrary, motions for pretrial rulings on matters subject to ORS 135.037 and
@@ -2537,7 +2539,7 @@ chapter 19.
 (3)   If a party requests a pretrial hearing under subsection (2), absent good cause, the
       hearing must be held at least seven days prior to the trial date.
 
-4.030       PROCEDURE FOR ORDER OF TRANSPORTATION
+4.030      PROCEDURE FOR ORDER OF TRANSPORTATION
 
 (1)   Any motion that a person held in custody be transported from the place of
       confinement to a designated place must be accompanied by a separate proposed
@@ -2552,15 +2554,15 @@ chapter 19.
       to the place of confinement only after execution of an order of release signed by
       the judge presiding over the court proceeding.
 
-4.040       REMOTE APPEARANCE IN LIEU OF TRANSPORTATION
+4.040      REMOTE APPEARANCE IN LIEU OF TRANSPORTATION
 
 Upon agreement of the parties, when, as a result of negotiations, an in-custody
 defendant intends to resolve cases in more than one jurisdiction, any appearance
 required in a court, other than the court of jurisdiction in the county in which the
 defendant is in custody, shall be by remote means unless good cause is shown.
 
-UTCR 8/1/2025                                     4.1
-(including out-of-cycle adoption of UTCR 4.130)
+UTCR 8/1/2025                                   4.1
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
 4.050       ORAL ARGUMENT ON MOTIONS IN CRIMINAL CASES
 
@@ -2608,8 +2610,8 @@ UTCR 8/1/2025                                     4.1
       (a)   Must cite any constitutional provision, statute, rule, case, or other authority
             upon which it is based; and
 
-UTCR 8/1/2025                                     4.2
-(including out-of-cycle adoption of UTCR 4.130)
+UTCR 8/1/2025                                   4.2
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
       (b)   Must include in the motion document the moving party’s brief, which must
             sufficiently apprise the court and the adverse party of the arguments relied
@@ -2655,8 +2657,8 @@ must state the basis for the dismissal.
       in ORS 131.045, if the transmission complies with the requirements of
       ORS 131.045, 135.030, 135.360, 135.767, 137.040, and 137.545:
 
-UTCR 8/1/2025                                     4.3
-(including out-of-cycle adoption of UTCR 4.130)
+UTCR 8/1/2025                                   4.3
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
       (a)   Telephone;
 
@@ -2704,8 +2706,8 @@ UTCR 8/1/2025                                     4.3
 (5)   A filing agency must satisfy all of the following requirements when filing an
       electronic citation in circuit court:
 
-UTCR 8/1/2025                                     4.4
-(including out-of-cycle adoption of UTCR 4.130)
+UTCR 8/1/2025                                   4.4
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
       (a)   The filing agency must obtain from the trial court administrator written
             approval before filing electronic citations.
@@ -2754,8 +2756,8 @@ UTCR 8/1/2025                                     4.4
       additional information, judicial orders, judgments, and judicial signatures have
       been added, are the original and legal court record.
 
-UTCR 8/1/2025                                     4.5
-(including out-of-cycle adoption of UTCR 4.130)
+UTCR 8/1/2025                                   4.5
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
 4.100       CRIME VICTIMS’ RIGHTS – PROSECUTOR’S NOTIFICATION AND CRIME
             VICTIMS’ RIGHTS VIOLATION CLAIM
@@ -2803,8 +2805,8 @@ UTCR 8/1/2025                                     4.5
       of conviction or acquittal, including indigent defense application fees, contribution
       fees, and attorney’s fees.
 
-UTCR 8/1/2025                                     4.6
-(including out-of-cycle adoption of UTCR 4.130)
+UTCR 8/1/2025                                   4.6
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
 4.120       MOTIONS TO REDUCE OR MODIFY OUTSTANDING COURT-ORDERED
             FINANCIAL OBLIGATIONS
@@ -2844,13 +2846,21 @@ UTCR 8/1/2025                                     4.6
 
 4.130       CAPTION REQUIREMENT FOR REFILED CHARGING INSTRUMENTS
 
-In addition to any other requirements imposed by statute or rule, if a prosecuting
-attorney files a charging instrument that initiates a criminal action and is based on
-charges previously dismissed without prejudice by the court, the caption of the charging
-instrument must include the phrase: “Refiling after prior dismissal without prejudice.”
+In addition to any other requirements imposed by statute or rule, when a prosecuting
+attorney files a charging instrument initiating a criminal action based on charges
+previously dismissed without prejudice by the court:
 
-UTCR 8/1/2025                                     4.7
-(including out-of-cycle adoption of UTCR 4.130)
+(1)   The caption must include the phrase: “Refiling after prior dismissal without
+      prejudice;” and
+
+UTCR 8/1/2025                                   4.7
+(including out-of-cycle adoption and amendment of UTCR 4.130)
+
+(2)   The charging instrument must be filed as a new case and may not be filed into the
+      previously dismissed criminal case.
+
+UTCR 8/1/2025                                   4.8
+(including out-of-cycle adoption and amendment of UTCR 4.130)
 
 CHAPTER 5—Proceedings in Civil Cases
 
@@ -7251,7 +7261,7 @@ The following definitions apply to this chapter:
       (www.courts.oregon.gov/services/online/Pages/iforms.aspx).
 
 UTCR 8/1/2025                                  21.1
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
 21.020      LOCAL RULES OF COURT NOT PERMITTED
 
@@ -7295,12 +7305,12 @@ and service of documents pursuant to such a CJO.
 
 (1)   A document submitted electronically to the court must be in the form of a Portable
       Document Format (PDF) or a Portable Document Format/A (PDF/A) file that does
-      not exceed 25 megabytes. A document that exceeds the size limit must be broken
-      down and submitted as separate files that do not exceed 25 megabytes each. A
+      not exceed 50 megabytes. A document that exceeds the size limit must be broken
+      down and submitted as separate files that do not exceed 50 megabytes each. A
       filer submitting separate files under this section must include in the Filing
 
 UTCR 8/1/2025                                  21.2
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
       Comments field for each submission a description that clearly identifies the part of
       the document that the file represents, for example, “Motion for Summary
@@ -7311,7 +7321,7 @@ UTCR 8/1/2025                                  21.2
       documentary exhibit, an affidavit, a declaration, a certificate of service, or another
       document, the electronic filing must be submitted as a unified single PDF file,
       rather than as separate electronically filed documents, to the extent practicable.
-      An electronic filing submitted under this section that exceeds 25 megabytes must
+      An electronic filing submitted under this section that exceeds 50 megabytes must
       comply with section (1) of this rule.
 
       (a)   If an electronic filing consists of a motion or similar document and a
@@ -7350,7 +7360,7 @@ UTCR 8/1/2025                                  21.2
             or all parties being added; and
 
 UTCR 8/1/2025                                  21.3
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
       (b)   A filer must enter party names in proper case, for example, “John Doe” and
             not “JOHN DOE.”
@@ -7399,7 +7409,7 @@ UTCR 8/1/2025                                  21.3
             created in the register of actions.
 
 UTCR 8/1/2025                                  21.4
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
 21.070      SPECIAL FILING REQUIREMENTS
 
@@ -7449,7 +7459,7 @@ UTCR 8/1/2025                                  21.4
             filed in an adoption case.
 
 UTCR 8/1/2025                                  21.5
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
      (h)   Except as provided in UTCR 21.090(4), a document that is required by law to
            be filed in original form, such as, but not limited to, an original will, a certified
@@ -7499,7 +7509,7 @@ UTCR 8/1/2025                                  21.5
      (o)   A demonstrative or oversized exhibit.
 
 UTCR 8/1/2025                                  21.6
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
       (p)   Trial exhibits, which must be submitted or delivered as provided in
             UTCR 6.050, except as provided in UTCR 11.110 or UTCR 24.040(3)(a), or
@@ -7549,7 +7559,7 @@ UTCR 8/1/2025                                  21.6
             is confidential by statute, rule, or court order is being submitted in a case that
 
 UTCR 8/1/2025                                  21.7
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
             is not confidential by statute or rule, a filer submitting such a document
             through the eFiling system must designate the document as confidential.
@@ -7565,7 +7575,7 @@ UTCR 8/1/2025                                  21.7
       (a)   Initiating documentation in an adoption case must be submitted as a unified
             single PDF file, rather than as separate electronically filed documents, to the
             extent practicable and except as otherwise provided in subsection (c) of this
-            section. An electronic filing submitted under this subsection that exceeds 25
+            section. An electronic filing submitted under this subsection that exceeds 50
             megabytes must comply with UTCR 21.040(1).
 
       (b)   The petition and related exhibits required under ORS 109.315(3) and
@@ -7597,7 +7607,7 @@ UTCR 8/1/2025                                  21.7
       filing system is temporarily unavailable.
 
 UTCR 8/1/2025                                  21.8
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
 (2)   The filing deadline for any document filed electronically is 11:59:59 p.m. in the time
       zone where the court is located on the day the document must be filed.
@@ -7646,7 +7656,7 @@ UTCR 8/1/2025                                  21.8
                   FILING REQUESTED” in the subject line of the cover letter; and
 
 UTCR 8/1/2025                                  21.9
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
             (ii)   If an electronic resubmission, the words “RESUBMISSION OF
                    REJECTED FILING, RELATION-BACK DATE OF FILING
@@ -7696,7 +7706,7 @@ UTCR 8/1/2025                                  21.9
             must, in the cover letter, explain why extraordinary circumstances exist.
 
 UTCR 8/1/2025                                 21.10
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
 21.090      ELECTRONIC SIGNATURES
 
@@ -7746,7 +7756,7 @@ The Committee does not intend the requirement to include an email address in a
 signature block to constitute consent to receipt of service of documents by email.
 
 UTCR 8/1/2025                                 21.11
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
 Electronic service of documents may only be accomplished as specified in
 UTCR 21.100.
@@ -7794,7 +7804,7 @@ UTCR 21.100.
                    of documents electronically served by other filers in the action.
 
 UTCR 8/1/2025                                 21.12
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
       (c)   A filer is responsible for updating any contact information for any person
             whom the filer has entered in the electronic filing system as either a service
@@ -7840,7 +7850,7 @@ UTCR 8/1/2025                                 21.12
       (c)   A document subject to a protective order.
 
 UTCR 8/1/2025                                 21.13
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
 21.110      HYPERLINKS
 
@@ -7888,7 +7898,7 @@ law.
                   period of time.
 
 UTCR 8/1/2025                                  21.14
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
             (ii)   A motion in an existing case for waiver in that specific case.
 
@@ -7931,7 +7941,7 @@ UTCR 8/1/2025                                  21.14
       (d)   Refer the filing to a judge for consideration of sanctions under UTCR 1.090.
 
 UTCR 8/1/2025                                 21.15
-(including out-of-cycle amendment of UTCR 21.020, 21.070, and 21.140)
+(including out-of-cycle amendment of UTCR 21.020, 21.040, 21.070, and 21.140)
 
 CHAPTER 22—Enterprise Content Management System
 

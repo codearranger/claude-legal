@@ -1,12 +1,10 @@
 # ORCP — Oregon Rules of Civil Procedure
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/SiteAssets/ORCP.html
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the official HTML source
 
 ---
-
-Oregon Rules of Civil Procedure (2025)
 
 SCOPE; CONSTRUCTION; APPLICATION;
 

@@ -1,7 +1,7 @@
 # ORAP — Oregon Rules of Appellate Procedure
 
-> **Source:** https://www.courts.oregon.gov/rules/ORAP/ORAP-2026-FullPermanentTempAmendments.pdf
-> **Fetched:** 2026-05-14
+> **Source:** https://www.courts.oregon.gov/rules/ORAP/ORAP-2026-FullPermanentAndTempAmendments.pdf
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the official PDF source
 
 ---
@@ -18,6 +18,10 @@
 
                                       Also includes:
 
+•   CJO 26-033 / CJO 26-01, Order Adopting Temporary Amendments to Oregon Rules of
+    Appellate Procedure, numerous amendments to conform rules to the changed internal
+    structure of the statewide appellate courts (effective September 1, 2026 through
+    December 31, 2028);
 •   CJO 25-01, Order Adopting Temporary Amendments to Oregon Rules of Appellate
     Procedure 5.50, 6.05, 6.10, 6.15, and 6.30 (effective January 2, 2025 through December
     31, 2026);
@@ -25,9 +29,11 @@
     Appellate Procedure 1.32, 1.35, 6.10, 8.15, 16.10, 16.45, and 16.60 (effective January 1,
     2026 through December 31, 2026); and
 •   Editorial corrections to table of contents (October 8, 2025); to ORAP 2.35(4) (January 8,
-    2026); and deleting ORAP 6.25(1)(f) (January 29, 2026; see State v. F. E. D. J. L. R., 346
-    Or App 600, 600, ___ P3d ___ (January 28, 2026) (explaining that paragraph (1)(f)
-    expired of its own terms December 31, 2024)).
+    2026); deleting ORAP 6.25(1)(f) (January 29, 2026; see State v. F. E. D. J. L. R., 346 Or
+    App 600, 600, ___ P3d ___ (January 28, 2026) (explaining that paragraph (1)(f) expired
+    of its own terms December 31, 2024)); and correcting typographical errors in ORAP
+    1.32(1)(a), 2.05(12), 2.22(2)(b), 3.33 n 5, 4.60(1)(a), 9.06(1)(c)(i), 10.15(3)(c), and
+    10.15(6)(c) (September 3, 2026).
 
                                 OJD Publications Section
                                     1163 State Street
@@ -36,7 +42,7 @@
                            ORAP.committee@ojd.state.or.us
           https://www.courts.oregon.gov/courts/appellate/rules/Pages/orap.aspx
 
-                             Version date: January 29, 2026
+                            Version date: September 3, 2026
 
                 This document has no copyright and may be reproduced.
 
@@ -627,7 +633,7 @@ date of the next regularly adopted amendments to the Oregon Rules of Appellate P
 
 _________
 1
-  These rules were last regularly amended effective January 1, 2021.
+  These rules were last regularly amended effective January 1, 2025.
 2
  A temporary new rule or temporary amendment to an existing rule will be published in the
 Oregon Appellate Courts Advance Sheets and on the Oregon Rules of Appellate Procedure page
@@ -648,8 +654,8 @@ of the rules.
 
 otherwise requires:
 
-              (a)     "Administrator" means the Appellate Court Administrator or, as
-       appropriate, the Appellate Court Administrator's designee.1
+               (a)    "Administrator" means the State Court Administrator or, as appropriate,
+       the State Court Administrator's designee.1
 
               (b)     "Agreed narrative statement" means the parties' stipulated account of
        proceedings in lieu of a transcript or audio record.
@@ -675,9 +681,9 @@ otherwise requires:
 
               (j)     "Cassette" means the cartridge containing the audio or video recording.
 
-              (k)     (i)     "Paper filing" means the delivery of a paper document to the
-              Administrator for filing via the United States Postal Service, commercial delivery
-              service, or personal delivery.
+              (k)    (i)     "Paper filing" means the delivery of a paper document to the
+              appropriate appellate court for filing via the United States Postal Service,
+              commercial delivery service, or personal delivery.
 
                       (ii)   "Paper service" means the delivery of a copy of a document on
               another person via the United States Postal Service, commercial delivery service,
@@ -707,9 +713,9 @@ otherwise requires:
               (r)    "Notice of appeal" includes a petition for judicial review and a notice of
        cross-appeal.
 
-               (s)     "Optical disk" means compact disk (CD), digital versatile disk (DVD), or
-       comparable medium approved by the Administrator for use in filing an electronic version
-       of a transcript or other part of a trial court or agency record.
+              (s)      "Optical disk" means compact disk (CD), digital versatile disk (DVD), or
+       comparable medium approved by the appellate court for use in filing an electronic
+       version of a transcript or other part of a trial court or agency record.
 
                (t)    "Original" in reference to any thing to be served or filed shall mean the
        thing signed by the appropriate attorney or party and submitted for filing.
@@ -718,9 +724,9 @@ otherwise requires:
        in another jurisdiction, but not in Oregon, who appears by brief or argues the cause under
        ORAP 6.10(4) or ORAP 8.10(4).
 
-               (v)    "Petitioner" means a party who files a petition.
+              (v)     "Petitioner" means a party who files a petition.
 
-               (w)    "Respondent" means the party adverse to an appellant or a petitioner.
+              (w)     "Respondent" means the party adverse to an appellant or a petitioner.
 
                (x)    "Transcript" means a typewritten, printed, or electronic transcription of
        oral proceedings before a trial court or agency.
@@ -737,11 +743,12 @@ ________
   See ORS 8.120 regarding duties of the State Court Administrator to act as court administrator
 for the Supreme Court and Court of Appeals, and authority of the State Court Administrator to
 delegate powers, by written designation, to officers and employees of the Oregon Judicial
-Department. Effective January 11, 2018, the State Court Administrator delegated, by written
-designation, to the current Appellate Court Administrator the duties to act as court administrator
-for the Supreme Court and Court of Appeals.
+Department. Effective September 1, 2026, the State Court Administrator delegated, by written
+designation, to the Supreme Court Manager the duties to act as the Supreme Court Administrator
+and to the Court of Appeals Chief Counsel the duties to act as Court of Appeals Court
+Administrator.
 
-                                                 3                                       Chapter 1
+                                                3                                       Chapter 1
 
                                    Rule 1.20
                 ADMINISTRATIVE AUTHORITY TO REFUSE FILINGS;
@@ -788,10 +795,9 @@ is closed for the purpose of filing documents, closed to the extent ordered by t
 closed before the end of normal working hours during which documents may be filed. In any of
 those events, the period runs until the end of the next day the court is open.
 
-       (2)     When the period of time prescribed or allowed relates to serving a public officer
-
                                                   4                                         Chapter 1
 
+         (2)    When the period of time prescribed or allowed relates to serving a public officer
 or filing a document at a public office, and if the last day falls on a day when that particular
 office is closed before the end of or for all of the normal work day, the last day shall be excluded
 in computing the period of time within which service is to be made or the document is to be
@@ -807,7 +813,7 @@ facilities are open to file the brief or other thing.
        (4)   As used in this rule, "legal holiday" means legal holiday as defined in ORS
 187.010 and ORS 187.020.
 
-       (5)     The normal work day of the Appellate Court Records Section is 8:00 a.m. to 5:00
+       (5)     The normal workday of each appellate courts' records office is 8:00 a.m. to 5:00
 p.m.
 
 _________
@@ -832,20 +838,21 @@ actual telephone number or address available for public inspection.
     CONTACT INFORMATION; CHANGES IN CONTACT INFORMATION FOR
    ATTORNEY, OUT-OF-STATE ATTORNEY, AND SELF-REPRESENTED PARTY
 
-        (1)     An out-of-state attorney who appears by brief or argues the cause under ORAP
+       (1)    An out-of-state attorney who appears by brief or argues the cause under ORAP
 6.10(4) or ORAP 8.10(4) and any self-represented party must provide the court with the address
-for that attorney or party.
 
                                                   5                                       Chapter 1
 
-               (a)     A self-represented party or out-of-state attorney who provides the court
-       with an email address on a paper filed document or files a document using the appellate
-       eFiling system will receive court notifications by email. A self-represented litigant may
-       request notification by regular mail instead of email by filing a notice with the court..
+for that attorney or party.
 
-              (b)    An out-of-state attorney or self-represented party who provides the court
-       with an address or email address under subsection (1) of this rule must notify the court of
-       a change of address or email address.1
+                (a)     A self-represented party or out-of-state attorney who provides the court
+        with an email address on a paper filed document or files a document using the appellate
+        eFiling system will receive court notifications by email. A self-represented litigant may
+        request notification by regular mail instead of email by filing a notice with the court.
+
+               (b)    An out-of-state attorney or self-represented party who provides the court
+        with an address or email address under subsection (1) of this rule must notify the court of
+        a change of address or email address.1
 
        (2)      If an attorney for a party files a change of address with the Oregon State Bar, or if
 an out-of-state attorney or a self-represented party notifies the court of a change of mailing or
@@ -857,42 +864,44 @@ _____________
   See also ORAP 16.10(2)(a)(v), regarding an updated email address for an Oregon State Bar
 licensee who is a registered user of the appellate eFiling system.
 
-                                          Rule 1.35
-                                    FILING AND SERVICE
+                                           Rule 1.35
+                                     FILING AND SERVICE
 
-       (1)     Filing
+        (1)     Filing
 
-               (a)      Filing Defined: Delivery, Receipt, and Acceptance
+                (a)      Filing Defined: Delivery, Receipt, and Acceptance
 
-                       (i)   A person intending to file a document in the appellate court must
-               cause the document to be delivered to the Appellate Court Administrator.
+                        (i)   A person intending to file a document in the appellate court must
+                cause the document to be delivered to the the appropriate court.
 
-                      (ii)    Delivery may be made as follows and otherwise as provided under
-               subsection (2) of this rule:
+                       (ii)    Delivery may be made as follows and otherwise as provided under
+                subsection (2) of this rule:
 
-                               (A)     Unless an exception applies under ORAP 16.30 or ORAP
-                        16.60(2), an active licensee of the Oregon State Bar must deliver any
-                        document for filing using the appellate eFiling system.
+                                (A)     Unless an exception applies under ORAP 16.30 or ORAP
+                         16.60(2), an active licensee of the Oregon State Bar must deliver any
+                         document for filing using the appellate eFiling system.
 
-                                (B)     Except as otherwise provided in ORAP 16.30 or 16.60(2),
-                        any other person may file any document by either the eFiling system or by
-                        paper filing. Paper filing should be made either by delivering the
-                        document via U.S. Postal Service or commercial delivery service to the
-                        Appellate Court Administrator, Appellate Court Records Section, 1163
-                        State Street, Salem, Oregon 97301-2563 or in person to the Appellate
-                        Court Administrator, Appellate Court Records Section, 1163 State Street,
-                        Salem, Oregon 97301-2563.
+                                 (B)    Except as otherwise provided in ORAP 16.30 or 16.60(2),
+                         any other person may file any document by either the eFiling system or by
+                         paper filing. Paper filing should be made either by delivering the
+                         document via U.S. Postal Service or commercial delivery service to the
+                         appropriate appellate court: Supreme Court or Court of Appeals (as
+                         appropriate), 1163 State Street, Salem, Oregon 97301-2563) or by hand
+                         delivering the document to the appropriate court at its records office (
+                         Supreme Court or Court of Appeals (as appropriate), 1163 State Street,
 
                                                   6                                        Chapter 1
 
+          Salem, Oregon 97301-2563).
+
        (iii) The Administrator or the Administrator's designee must endorse
 upon any document delivered for filing the day and month, and the year the
-Administrator received the document.
+appellate court received the document.
 
         (iv)   Filing is complete when the Administrator has accepted the
 document. Except as otherwise provided by law or these rules, when the
 Administrator has accepted a document for filing, the filing date relates back to
-the date the Administrator received the document for filing.
+the date the appellate courts received the document for filing.
 
         (v)     A correction to a previously filed document must be made by filing
 the entire corrected or amended document with the court. The caption of a
@@ -920,7 +929,7 @@ Service
           complete on the date of mailing or dispatch only if the document is mailed
           or dispatched accordance with ORS 19.260(1)(a). For filing to be
           complete on the date of mailing or dispatch, the person may also be
-          required to provide proof to the Administrator as prescribed by ORS
+          required to provide proof to the appellate court as prescribed by ORS
           19.260(1)(b).2
 
                   (B)     A person involuntarily confined in a state or local
@@ -929,16 +938,17 @@ Service
           delivery for mailing if the person complies with ORS 19.260(3). If the
           person relies on the date of delivery for mailing, the person must certify
           the date of delivery to the person or place designated by the facility for
-          handling outgoing mail.
 
                                     7                                       Chapter 1
+
+                 handling outgoing mail.
 
                          (C)     Filing of any other document required to be filed within a
                  prescribed time, including any brief, petition for attorney fees, statement
                  of costs and disbursements, motion, or petition for review, is complete if
                  mailed via the U.S. Postal Service or dispatched via commercial delivery
                  service on or before the due date if the class of mail or delivery is
-                 calculated to result in the Administrator receiving the document within
+                 calculated to result in the appellate court receiving the document within
                  three calendar days.
 
               (iv)   Paper Filing Not Using U.S. Postal Service or Commercial
@@ -947,7 +957,7 @@ Service
                          If a person does not deliver a document for filing via the appellate
                  eFiling system, the U.S. Postal Service, or commercial delivery service as
                  provided in this paragraph, then the document is not deemed filed until the
-                 document is actually received by the Administrator.
+                 document is actually received by the appellate court.
 
               (v)     Delivery by email is not permitted unless specifically authorized
        elsewhere in these rules.
@@ -977,48 +987,48 @@ another person as provided in ORCP 9 or by commercial delivery service.
        or commercial delivery service, the class of service must be calculated to result in
        the person receiving the document within three calendar days.
 
-              (ii)    Electronic service via the eFiling system is permitted only on
-       authorized users of the eFiling system and only as provided in ORAP 16.45.
-
                                            8                                       Chapter 1
 
-                       (iii) Service by email or facsimile communication is permitted only as
-                provided in ORCP 9 F or G.
+                     (ii)    Electronic service via the eFiling system is permitted only on
+              authorized users of the eFiling system and only as provided in ORAP 16.45.
 
-                (c)     Each service copy must include a certificate showing the date that the
-         party delivered the document for filing.
+                     (iii) Service by email or facsimile communication is permitted only as
+              provided in ORCP 9 F or G.
 
-                 (d)     Any document filed with the Administrator must contain either an
-         acknowledgment of service by the person served or proof of service in the form of a
-         statement of the date and manner of service, and the names and addresses of the persons
-         served, certified by the person who made service, except that:
+              (c)     Each service copy must include a certificate showing the date that the
+       party delivered the document for filing.
 
-                        (i)    If a person was served by the appellate eFiling system, the
-                certificate must state that service was accomplished at the person's email address
-                as recorded on the date of service in the appellate eFiling system and need not
-                include the person's email address or mailing address.
+               (d)     Any document filed with an appellate court must contain either an
+       acknowledgment of service by the person served or proof of service in the form of a
+       statement of the date and manner of service, and the names and addresses of the persons
+       served, certified by the person who made service, except that:
 
-                        (ii)    If a person was served by email or by facsimile communication,
-                the proof of service must state the email address or telephone number used to
-                serve the person, as applicable, and need not include the person's mailing address.
+                      (i)    If a person was served by the appellate eFiling system, the
+              certificate must state that service was accomplished at the person's email address
+              as recorded on the date of service in the appellate eFiling system and need not
+              include the person's email address or mailing address.
 
-                (e)     Service on Trial Court Administrators and Transcript Coordinators
+                      (ii)    If a person was served by email or by facsimile communication,
+              the proof of service must state the email address or telephone number used to
+              serve the person, as applicable, and need not include the person's mailing address.
 
-                        (i)    When a copy of a notice of appeal is required to be served on the
-                trial court administrator, service is sufficient if it is mailed or delivered to the
-                person serving in the capacity of trial court administrator for the county in which
-                the judgment or appealable order was entered.
+              (e)     Service on Trial Court Administrators and Transcript Coordinators
 
-                         (ii)   When a copy of a notice of appeal is required to be served on the
-                transcript coordinator, service is sufficient if it is mailed or delivered to the office
-                of the trial court administrator for the county in which the judgment or appealable
-                order was entered, addressed to "transcript coordinator."
+                      (i)    When a copy of a notice of appeal is required to be served on the
+              trial court administrator, service is sufficient if it is mailed or delivered to the
+              person serving in the capacity of trial court administrator for the county in which
+              the judgment or appealable order was entered.
 
-                        (iii) An authorized user of the trial court electronic filing system may
-                serve a copy of a notice of appeal on the trial court administrator and the
-                transcript coordinator by using the "Courtesy Copies" email function of that
-                system. The email address for each judicial district's trial court administrator and
-                transcript coordinator are available on the judicial district's website.
+                       (ii)   When a copy of a notice of appeal is required to be served on the
+              transcript coordinator, service is sufficient if it is mailed or delivered to the office
+              of the trial court administrator for the county in which the judgment or appealable
+              order was entered, addressed to "transcript coordinator."
+
+                      (iii) An authorized user of the trial court electronic filing system may
+              serve a copy of a notice of appeal on the trial court administrator and the
+              transcript coordinator by using the "Courtesy Copies" email function of that
+              system. The email address for each judicial district's trial court administrator and
+              transcript coordinator are available on the judicial district's website.
 
 _________
 1
@@ -1026,35 +1036,36 @@ _________
 term does not include a petition for review under ORAP 9.05. ORAP 16.05 defines "initiating
 document" for purposes of eFiling and eService. For those purposes, the term does include a
 petition for review under ORAP 9.05. ORAP 16.05(7).
+
+                                                 9                                          Chapter 1
+
 2
-    As of January 1, 2024, ORS 19.260(1) provides:
+    As of January 1, 2025, ORS 19.260(1) provides:
 
-                                                   9                                          Chapter 1
+                 "(1)(a) Filing a notice of appeal in the Court of Appeals or the Supreme Court
+         may be accomplished by mail or delivery. Regardless of the date of actual receipt by the
+         court to which the appeal is taken, the date of filing the notice is the date of mailing or
+         dispatch for delivery, if the notice is:
 
-               "(1)(a) Filing a notice of appeal in the Court of Appeals or the Supreme Court
-       may be accomplished by mail or delivery. Regardless of the date of actual receipt by the
-       court to which the appeal is taken, the date of filing the notice is the date of mailing or
-       dispatch for delivery, if the notice is:
+                 "(A) Mailed by any class of mail from the United States Postal Service and the
+         party filing the notice has proof from the United States Postal Service of the mailing date;
+         or
 
-               "(A) Mailed by any class of mail from the United States Postal Service and the
-       party filing the notice has proof from the United States Postal Service of the mailing date;
-       or
+                 "(B) Mailed or dispatched via a commercial delivery service by a class of delivery
+         calculated to achieve delivery within three calendar days, and the party filing the notice
+         has proof from the commercial delivery service of the mailing or dispatch date.
 
-               "(B) Mailed or dispatched via a commercial delivery service by a class of delivery
-       calculated to achieve delivery within three calendar days, and the party filing the notice
-       has proof from the commercial delivery service of the mailing or dispatch date.
+                 "(b)(A) Proof of the date of mailing or dispatch under this subsection must be
+         certified by the party filing the notice and filed thereafter with the court to which the
+         appeal is taken. Any record of mailing or dispatch from the United States Postal Service
+         or the commercial delivery service showing the date that the party initiated mailing or
+         dispatch is sufficient proof of the date of mailing or dispatch. If the notice is received by
+         the court on or before the date by which the notice is required to be filed, the party filing
+         the notice is not required to file proof of mailing or dispatch.
 
-               "(b)(A) Proof of the date of mailing or dispatch under this subsection must be
-       certified by the party filing the notice and filed thereafter with the court to which the
-       appeal is taken. Any record of mailing or dispatch from the United States Postal Service
-       or the commercial delivery service showing the date that the party initiated mailing or
-       dispatch is sufficient proof of the date of mailing or dispatch. If the notice is received by
-       the court on or before the date by which the notice is required to be filed, the party filing
-       the notice is not required to file proof of mailing or dispatch.
-
-               "(B) If the notice is mailed via the United States Postal Service first class mail,
-       the date shown on the postmark affixed by the United States Postal Service constitutes
-       sufficient proof of mailing or dispatch under this subsection."
+                 "(B) If the notice is mailed via the United States Postal Service first class mail,
+         the date shown on the postmark affixed by the United States Postal Service constitutes
+         sufficient proof of mailing or dispatch under this subsection."
 3
  Whenever these rules authorize or require service of a copy of any document on the Attorney
 General, the copy must be served at this address: Attorney General of the State of Oregon,
@@ -1070,13 +1081,14 @@ which requires service of petitions for judicial review by registered or certifi
 197.850(4), relating to judicial review of Land Use Board of Appeals orders, which requires
 service of petitions for judicial review by first class, registered, or certified mail.
 
-                                  Rule 1.40
-                VERIFICATION; DECLARATIONS; ADOPTING ORCP 17
+                                   Rule 1.40
+                 VERIFICATION; DECLARATIONS; ADOPTING ORCP 17
 
-       (1)     Except if specifically require by statute, no thing filed with the appellate court
+         (1)    Except if specifically require by statute, no thing filed with the appellate court
+
+                                                  10                                         Chapter 1
+
 need be verified.
-
-                                                 10                                        Chapter 1
 
         (2)     When a statute requires a paper filed with the appellate court to be verified, a
 verification shall consist of a statement:
@@ -1122,11 +1134,10 @@ include:
                (b)      The name, address, and telephone number of the party or the attorney for
        the party, if the party is represented.
 
-       (2)   As provided in ORAP 1.35(1)(a)(v), the caption of a corrected or amended filing
-must prominently display the word "CORRECTED" or "AMENDED," as applicable, and the
-
                                                  11                                        Chapter 1
 
+        (2)     As provided in ORAP 1.35(1)(a)(v), the caption of a corrected or amended filing
+must prominently display the word "CORRECTED" or "AMENDED," as applicable, and the
 entire corrected or amended document must be filed with the court.
 
          (3)     Except as otherwise provided in ORAP 5.05, parties may prepare any document
@@ -1240,10 +1251,10 @@ support jurisdiction.
                       (ii)    The transcript coordinator, if any part of the record of oral
                proceedings in the trial court has been designated as part of the record on appeal.8
 
-      (11) A certificate of filing, specifying the date the notice of appeal was filed with the
-Administrator.
+       (11) A certificate of filing, specifying the date the notice of appeal was filed with the
+appellate court.
 
-       (12) A copy of the judgment, decree or order appealed from and of any other orders
+       (12) A copy of the judgment, decree, or order appealed from and of any other orders
 pertinent to appellate jurisdiction.
 
 _________
@@ -1436,7 +1447,7 @@ wishes to appeal from the subsequent order or judgment:
        or judgment.
 
                (b)    If the party who wishes to appeal is the cross-appellant in the pending
-       appeal, the cross-appellant shall serve and filed an amended notice of cross-appeal from
+       appeal, the cross-appellant shall serve and file an amended notice of cross-appeal from
        the subsequent order or judgment.
 
                 (c)     If the party who wishes to appeal is any other party to the case, that party
@@ -1699,10 +1710,11 @@ colorable claims of error.
 
        (1)    Referral to Court of Appeals of Question of Authority to Decide Case
 
-       (a)     This subsection applies to an action or other proceeding against a public body
-       when a circuit court or other tribunal refers the question of its legal authority to decide
-       the case pursuant to ORS 14.165.
-               (b)    The court or other tribunal shall:
+               (a)    This subsection applies to an action or other proceeding against a public
+       body when a circuit court or other tribunal refers the question of its legal authority to
+       decide the case pursuant to ORS 14.165.
+
+              (b)     The court or other tribunal shall:
 
                        (i)    Issue a referral order entitled "REFERRAL ORDER PURSUANT
               TO ORS 14.165" stating the nature of the question of authority to decide the
@@ -1711,7 +1723,7 @@ colorable claims of error.
               tribunal requests that the matter be decided.
 
                      (ii)   Transmit the referral order and the record to the Court of Appeals
-              through the Administrator, and send a copy of the referral order to each party.
+              and send a copy of the referral order to each party.
 
                (c)     Any party wishing to address in the Court of Appeals the question of
        which court or other tribunal, if any, has authority to decide the action or proceeding may
@@ -1733,18 +1745,19 @@ colorable claims of error.
        court or other tribunal to which the case has been transferred, the Court of Appeals will
        transmit the record to the court or other tribunal.
 
-              (f)     No filing fee or first appearance fee is due for a referral to the Court of
+             (f)      No filing fee or first appearance fee is due for a referral to the Court of
        Appeals for a summary determination under ORS 14.165 of the question of authority to
-       decide a case.
 
-                                                24                                         Chapter 2
+                                               24                                        Chapter 2
+
+       decide a case.
 
        (2)     Court of Appeals Determination that it is the Correct Forum
 
        On referral of a question to the Court of Appeals under ORS 14.165(1)(b) or (3), if the
 Court of Appeals decides that it is the appropriate court to decide a case referred to it:
 
-               (a)    The Administrator will assign the case a regular appellate case number.
+               (a)      The Administrator will assign the case a regular appellate case number.
 
                (b)     The Court of Appeals will enter an order stating its determination that it is
        the appropriate court to decide the case and identifying any actions that a party must take
@@ -1783,10 +1796,10 @@ Court of Appeals decides that it is the appropriate court to decide a case refer
 
 _________
 * Regardless of the date that the case is deemed filed in the Court of Appeals for the purpose of
-determining the next event in the appellate process, see ORS 14.165(6) and (7) regarding
 
                                                 25                                        Chapter 2
 
+determining the next event in the appellate process, see ORS 14.165(6) and (7) regarding
 determining the timeliness of the filing of the action or proceeding.
 
 See generally ORS 14.165. See ORS 14.165(10) for a definition of "public body" and "tribunal."
@@ -1794,7 +1807,7 @@ See generally ORS 14.165. See ORS 14.165(10) for a definition of "public body" a
 With respect to cases subject to referral to the Court of Appeals under ORS 34.102(5), see ORAP
 4.74.
 
-                                                26                                   Chapter 2
+                                              26                                      Chapter 2
 
                                     3. RECORD ON APPEAL
 
@@ -2246,8 +2259,8 @@ _________
 4
     See Appendix 3.33-2 for form of certificate of filing of a transcript.
 5
- See ORAP 3.35(2)(d) regarding prohibition of the four pages of transcript per one standard
-page format in version of transcript filed with the court.
+ See ORAP 3.35(2)(d) regarding the prohibition of the four pages of transcript per one standard
+page format in the version of the transcript filed with the court.
 
                                             Rule 3.35
                                       FORM OF TRANSCRIPT
@@ -2467,46 +2480,46 @@ See ORS 19.365(6); see also ORAP 3.55.
                                     Rule 3.55
                          WITHDRAWAL OF PAPERS OR EXHIBITS
 
-       No one shall remove from the office of the Administrator or from the court any thing on
+       No one shall remove from the appellate court any thing on file with the appellate court
 
                                                  40                                         Chapter 3
 
-file with the appellate court except:
+except:
 
-       (1)     A judge or justice may do so for official business.
+          (1)    A judge or justice may do so for official business.
 
-       (2)     An administrative or legal staff person may do so for official business:
+          (2)    An administrative or legal staff person may do so for official business:
 
-              (a)     Respecting a matter in the Supreme Court, with the authorization of the
-       Chief Justice or a justice authorized by the Supreme Court to decide motions;
+                 (a)     Respecting a matter in the Supreme Court, with the authorization of the
+          Chief Justice or a justice authorized by the Supreme Court to decide motions;
 
-              (b)    Respecting a matter in the Court of Appeals, with the authorization of the
-       Chief Judge or a judge authorized by the Court of Appeals to decide motions.
+                 (b)    Respecting a matter in the Court of Appeals, with the authorization of the
+          Chief Judge or a judge authorized by the Court of Appeals to decide motions.
 
        (3)     Any party or member of the public seeking to withdraw any thing shall file a
 motion stating the reason for the request and specifying the thing desired. If the court grants the
 motion, the person allowed to withdraw the thing shall furnish the Administrator a receipt for the
 thing withdrawn.
 
-                                    Rule 3.63
-                    USE OF AUDIO OR VIDEO RECORD ON APPEAL
+                                       Rule 3.63
+                       USE OF AUDIO OR VIDEO RECORD ON APPEAL
 
       (1)     Where the appeal will proceed on the audio or video record without a transcript,
 on payment of the prescribed fee,1 the trial court administrator shall:
 
-               (a)     Arrange for duplication of the audio or video record and the official log of
-       the audio or video record. Any duplicate copy of an audio or video record prepared for
-       appeal shall contain the caption and trial court number of the proceeding and the number
-       of tapes used in the proceeding (e.g., 1 of 5).
+                  (a)     Arrange for duplication of the audio or video record and the official log of
+          the audio or video record. Any duplicate copy of an audio or video record prepared for
+          appeal shall contain the caption and trial court number of the proceeding and the number
+          of tapes used in the proceeding (e.g., 1 of 5).
 
-               (b)    Cause the copy of the audio or video record and official log to be served
-       on the party requesting it and to have a certificate of duplication and proof of service
-       prepared.
+                  (b)    Cause the copy of the audio or video record and official log to be served
+          on the party requesting it and to have a certificate of duplication and proof of service
+          prepared.
 
-               (c)     Cause to be placed in the trial court file the original of the audio or video
-       record, official log and certificate of duplication and proof of service, where they shall
-       remain until the appellate court requests that the trial court record be forwarded to the
-       appellate court, as provided in ORAP 3.15.
+                  (c)     Cause to be placed in the trial court file the original of the audio or video
+          record, official log and certificate of duplication and proof of service, where they shall
+          remain until the appellate court requests that the trial court record be forwarded to the
+          appellate court, as provided in ORAP 3.15.
 
         (2)     The trial court administrator shall file and serve copies of the audio or video
 record within 14 days after receiving notice that the appellate court has waived preparation of a
@@ -2517,7 +2530,7 @@ recording not previously transcribed that the appellate court determines necessa
 deliberation. The cost of transcription under this subsection shall be paid in the first instance by
 the parties to the appeal in such proportions as directed by the appellate court.
 
-                                                41                                         Chapter 3
+                                                   41                                         Chapter 3
 
        (4)     (a)     If the trial court administrator has previously provided a copy of all or part
        of the audio or video record to a party, on appeal that party need not pay for and the trial
@@ -2646,7 +2659,7 @@ the order, rule, or ruling for which judicial review is sought.
                  (d)    any other person required by law to be served.4
 
         (4)    The petition shall include a certificate of filing specifying the date the petition for
-judicial review was filed with the Administrator.
+judicial review was filed with the appellate court.
 
 _________
 1
@@ -3072,7 +3085,7 @@ judicial review. The amended record on review shall be prepared pursuant to ORAP
        (7)     (a)     If the petitioner filed an opening brief before the withdrawal of the order
        for reconsideration, in addition to filing an amended petition for judicial review or notice
        of intent to proceed with judicial review as required by paragraph (5)(a) of this rule, the
-       petitioner shall give notice to the Administrator whether the petitioner intends to proceed
+       petitioner shall give notice to the appellate court whether the petitioner intends to proceed
        on the original opening brief.
 
                (b)      If the petitioner had not filed an opening brief or desires to file a
@@ -3087,7 +3100,7 @@ judicial review. The amended record on review shall be prepared pursuant to ORAP
 
 _________
 1
-  See ORS 183.482(6).
+ See ORS 183.482(6).
 
                                                 53                                         Chapter 4
 
@@ -3134,7 +3147,7 @@ This page left blank intentionally.
 
        (1)     As used in ORAP 4.60 to 4.74:
 
-              (a)     "Agency" means the Land Use of Board of Appeals (LUBA), the Land
+              (a)     "Agency" means the Land Use Board of Appeals (LUBA), the Land
        Conservation and Development Commission (LCDC), the Columbia River Gorge
        Commission (CRGC), or a referee appointed by a local government under ORS
        197.375(2) to decide an appeal of an expedited land division matter under ORS 197.360
@@ -3251,12 +3264,12 @@ ORAP 5.50 and ORAP 5.52.
                (c)      A cross-respondent's answering brief shall be due seven days after the
        filing of the cross-petitioner's opening brief. Notwithstanding ORAP 1.35(1)(d) and
        (2)(b), a cross-respondent shall file and serve the cross-respondent's answering brief in
-       such a manner as to cause actual receipt of the brief by the Administrator and by all other
-       parties to the judicial review no later than one business day after the brief is due. If the
-       cross-respondent fails to file an answering brief on cross-petition within the time allowed
-       by this rule, the cross-petition will be submitted on cross-petitioner's brief and oral
-       argument, and cross-respondent will not be allowed to argue issues raised by the cross-
-       petition.
+       such a manner as to cause actual receipt of the brief by the appellate court and by all
+       other parties to the judicial review no later than one business day after the brief is due. If
+       the cross-respondent fails to file an answering brief on cross-petition within the time
+       allowed by this rule, the cross-petition will be submitted on cross-petitioner's brief and
+       oral argument, and cross-respondent will not be allowed to argue issues raised by the
+       cross-petition.
 
                (d)     No reply brief on cross-petition shall be permitted.
 
@@ -3264,7 +3277,7 @@ ORAP 5.50 and ORAP 5.52.
 the same as for judicial review of administrative proceedings, and briefing on cross-petitions
 shall be completed according to the deadlines set out in ORAP 5.80.
 
-                                                58                                        Chapter 4
+                                                58                                         Chapter 4
 
                                           Rule 4.70
                                      NO CONTINUANCES
@@ -3487,11 +3500,11 @@ the name of the party or parties on whose behalf the brief is filed.
           (4)    The court on its own motion may strike any brief that does not comply with this
 rule.
 
-          (5)    (a)     A party filing a brief in the appellate court must file one brief with the
-          Administrator* and serve one copy of the brief on every other party to the appeal, judicial
-          review, or other proceeding.
+          (5)     (a)    A party filing a brief in the appellate court must file one brief with the
+          appellate court* and serve one copy of the brief on every other party to the appeal,
+          judicial review, or other proceeding.
 
-                  (b)     The brief filed with the Administrator must contain proof of service on all
+                  (b)     The brief filed with the appellate court must contain proof of service on all
           parties served with a copy of the brief. The proof of service must be the last page of the
           brief or printed on or affixed to the inside of the back cover of the brief.
 
@@ -3511,7 +3524,7 @@ a combined reply and cross-answering brief.
  See ORS 7.250 and ORAP 1.45(b) regarding use of recycled paper and printing on both sides
 of a page.
 
-* See ORAP 1.35(1)(a)(ii)(B) for the filing address of the Administrator.
+* See ORAP 1.35(1)(a)(ii)(B) for the filing address of the appellate court.
 
 See Appendix 5.05-1.
 
@@ -3525,7 +3538,7 @@ jurisdiction that challenges the constitutionality of an Oregon statute or an Or
 provision shall, at the time the brief or petition is filed, provide the Attorney General1 with a
 copy of the brief or petition. The cover of the brief or petition shall state that the brief or petition
 
-                                                  65                                         Chapter 5
+                                                   65                                        Chapter 5
 
 includes a challenge to the constitutionality of a statute or constitutional provision and shall
 identify the statute or constitutional provision being challenged.
@@ -4347,7 +4360,7 @@ the party submits a memorandum of additional authorities with the motion, then:
 
                (b)     Shall not exceed two pages, without leave of the court;
 
-               (c)     Shall be filed with the Administrator.1
+               (c)     Shall be filed with the appellate court.1
 
                (d)    If filed less than five business days before oral argument, shall include in
        the caption the words "ORAL ARGUMENT SCHEDULED FOR [DATE]."
@@ -4365,7 +4378,7 @@ otherwise, a response is due
 
 _________
 1
- See ORAP 1.35(1)(a) for the filing address of the Administrator.
+ See ORAP 1.35(1)(a) for the filing address of the appellate court.
 
                                                 82                                         Chapter 5
 
@@ -5203,11 +5216,10 @@ the objection and shall identify how an extension of time will prejudice the obj
 An attorney may object on the ground that the client has instructed counsel to object to any
 extension, but that alone will not be a sufficient ground to deny or reduce any extension of time.
 
-        (4)    An objection to a request for an extension of time may be filed by facsimile
+       (4)     An objection to a request for an extension of time may be filed by facsimile
 transmission,1 provided that the objection does not exceed five pages. Filing shall be deemed
-complete when the entirety of the objection being transmitted has been received by the
-Administrator. The facsimile transmission shall have the same force and effect as filing of the
-original.
+complete when the entirety of the objection being transmitted has been received by the appellate
+court. The facsimile transmission shall have the same force and effect as filing of the original.
 
          (5)      A motion for an extension of time generally will be decided within a few days
 after it is filed. An objection to a motion for an extension of time filed after the court has granted
@@ -5220,7 +5232,7 @@ accordance with ORAP 3.30.
 
 _________
 1
-  The facsimile transmission number for the Administrator is (503) 986-5560.
+  The facsimile transmission number for both appellate courts is (503) 986-5560.
 
 See ORAP 7.10(1)(b) concerning captions of motions for extension of time and Appendix 7.10-3
 for illustrations of motions for extension of time.
@@ -5235,10 +5247,9 @@ that:
 
                (a)     The party making the request for an extension of time under this rule shall
        give prior notice to the other parties to the appeal, except that such notice need not be
+       given to a person confined in a state institution and not represented by counsel; and
 
                                                   103                                      Chapter 7
-
-        given to a person confined in a state institution and not represented by counsel; and
 
                 (b)    The party previously has not obtained written extension or extensions of
         time of more than 28 days.
@@ -5282,10 +5293,9 @@ _________
         (1)     If a party files a motion for substantive relief and requires relief in less than 21
 days, the party shall include in the caption of the motion a statement that the motion is an
 "EMERGENCY MOTION UNDER ORAP 7.35." The motion should explain in the first
+paragraph the reason for the emergency and identify any deadline for action by the court.
 
                                                   104                                        Chapter 7
-
-paragraph the reason for the emergency and identify any deadline for action by the court.
 
          (2)    Before filing the motion, the movant shall make a good faith effort to notify the
 opposing counsel or opposing party, if the party is not represented by counsel. If the motion is
@@ -5301,7 +5311,7 @@ facsimile communication device,1 provided that the material being transmitted do
 10 pages and subject to the following conditions:
 
                 (a)     Filing shall not be deemed complete until the entirety of the motion or
-         response being transmitted has been received by the Administrator, but, as so filed, the
+         response being transmitted has been received by the appellate court, but, as so filed, the
          facsimile transmission shall have the same force and effect as filing of the original.
 
                 (b)      The party or attorney being served maintains a telephonic facsimile
@@ -5311,7 +5321,7 @@ facsimile communication device,1 provided that the material being transmitted do
 
 _________
 1
-  The facsimile transmission number for the Administrator is (503) 986-5560.
+  The facsimile transmission number for both appellate courts is (503) 986-5560.
 2
     See ORCP 9 F.
 
@@ -5378,9 +5388,10 @@ brief,3 counsel forthwith shall forward a copy of the motion for summary affirma
 client. The client shall have 35 days after the date the motion for summary affirmance was filed
 to file an answer to the motion.
 
+_________
+
                                                   106                                       Chapter 7
 
-_________
 1
   See, e.g., ORS 138.225 (relating to appeals in criminal cases), ORS 138.660 (relating to appeals
 in post-conviction relief cases), and ORS 34.712 (relating to appeals in habeas corpus cases).
@@ -5426,9 +5437,9 @@ Chief Judge or the Motions Department, as appropriate.
                to petitions or motions for reconsideration of a decision of the appellate
                commissioner, and
 
-                                                107                                      Chapter 7
+                      (ii)    only the original of the petition must be filed.
 
-                       (ii)   only the original of the petition must be filed.
+                                                107                                      Chapter 7
 
               (b)     If a party files a petition or motion for reconsideration of a ruling by the
        appellate commissioner, the appellate commissioner may consider the matter in the first
@@ -5877,7 +5888,7 @@ party filing the motion shall transmit a copy of the motion to the appellate cou
 
                (c)     If the trial court denies a motion for entry of a corrected or supplemental
        judgment subject to subsection (1) of this rule, the party who filed the motion shall notify
-       the Administrator in writing and within seven days after the date of entry of the trial
+       the appellate court in writing and within seven days after the date of entry of the trial
        court's order and shall attach a copy of the order denying the motion.
 
         (3)     When a party has filed a motion subject to subsection (1) of this rule, pending a
@@ -6250,14 +6261,14 @@ Administrator with a true and complete copy of the circuit court order. After ta
 appropriate to confirm the validity of the order:
 
         (1)     If the circuit court order sets aside all convictions or expunges all delinquency
-adjudications in the case, the Administrator will seal the appellate court record and modify the
+adjudications in the case, the appellate courts will seal the appellate court record and modify the
 version of the court's opinion published on the Judicial Department's website to avoid use of the
 party's name in the case title and body of the opinion.*
 
-        (2)      If a circuit court order sets aside fewer than all convictions or adjudications in a
-case, the Administrator will not seal the appellate court record, but may modify the version of the
-court's opinion published on the Judicial Department's website to avoid use of the party's name in
-the case title and body of the opinion.*
+        (2)     If a circuit court order sets aside fewer than all convictions or adjudications in a
+case, the appellate courts will not seal the appellate court record, but may modify the version of
+the court's opinion published on the Judicial Department's website to avoid use of the party's
+name in the case title and body of the opinion.*
 
 _________
 * Appellate court opinions also are published in the softbound Oregon Appellate Courts Advance
@@ -6267,7 +6278,7 @@ and published, in book form or electronically or both, by various persons and en
 private legal research entities. The court has no control over whether those persons and entities
 will honor the court's post-publication modification of an opinion.
 
-                                                 125                                      Chapter 8
+                                                 125                                       Chapter 8
 
                           9. PETITION FOR REVIEW AND
                        RECONSIDERATION IN SUPREME COURT
@@ -6379,7 +6390,7 @@ cover of the petition shall:
                  containing confidential material.
 
                  (b)     Any party filing a petition for review shall serve a copy of the petition on
-         every other party to the appeal or judicial review, and file with the Administrator an
+         every other party to the appeal or judicial review, and file with the Supreme Court an
          original petition with proof of service.
 
          (4)     Contents of Petition for Review
@@ -6439,7 +6450,7 @@ paragraph.
 
               (c)     Section A of the petition for review shall contain:
 
-                   (i)     A statement of historical and procedural facts. as required by
+                   (i)     A statement of historical and procedural facts, as required by
               ORAP 9.05(4)(a);
 
                        (ii)   A statement that the petition for review is being submitted pursuant
@@ -6668,7 +6679,7 @@ review is filed.
 and ORAP 5.35. For purposes of ORAP 5.05, the response must not exceed 5,000 words or (if
 the certification under ORAP 5.05(2)(d) certifies that the preparer does not have access to a
 word-processing system that provides a word count) 15 pages. Any party filing a response shall
-file with the Administrator one original response, serve a copy of the response on every other
+file with the Supreme Court one original response, serve a copy of the response on every other
 party to the review, and file proof of service.
 
                                           Rule 9.17
@@ -7007,10 +7018,10 @@ CASE (NOT EXPEDITED)," or "EXPEDITED ADOPTION CASE," as appropriate.1
                                                 142                                      Chapter 10
 
        the record in the trial court, the appellant may designate as part of the record on appeal
-       only the transcripts of the proceedings giving rise to the judgment or order being
-       appealed, the exhibits in the proceeding, and the list prepared by the trial court under
-       ORS 419A.253(2) and all reports, materials, or documents identified on the list. A party
-       may file a motion to supplement the record with additional material pursuant to ORS
+       only the transcript of the proceedings giving rise to the judgment or order being appealed,
+       the exhibits in the proceeding, and the list prepared by the trial court under ORS
+       419A.253(2) and all reports, materials, or documents identified on the list. A party may
+       file a motion to supplement the record with additional material pursuant to ORS
        19.365(4) and ORAP 3.05(3).
 
        (4)     (a)      The court shall not extend the time for filing the transcript under ORAP
@@ -7030,7 +7041,7 @@ the date of the State Court Administrator's request for the record.
        the filing of the appellant's opening brief.
 
                (c)      A reply brief, if any, shall be served and filed within 21 days after the
-       filing of the respondent’s answering brief and no later than 7 days before the date set for
+       filing of the respondent’s answering brief, and no later than 7 days before the date set for
        oral argument or submission to the court.
 
                (d)     The court shall not grant an extension of time of more than 14 days for the
@@ -7390,8 +7401,8 @@ ORAP 5.50(5).
           has arisen, the relator shall assemble and submit the petition, the memorandum in support
           of the petition, and the excerpt of record as separate documents.
 
-                (d)      The original petition and accompanying documents shall be filed with the
-          Administrator.
+                (d)    The original petition and accompanying documents shall be filed with the
+          Supreme Court.
 
        (5)      If the petition, memorandum, or an accompanying motion in a mandamus
 proceeding includes an attachment containing material that is, by statute or court order,
@@ -7529,7 +7540,7 @@ contain a summary of argument.
 parties may confer and suggest an alternative briefing schedule as provided in ORAP 5.80(8).
 
        (5)     All briefs shall be prepared in substantial conformity with ORAP 5.35 through
-5.50. An original brief shall be filed with the Administrator with proof of service showing that a
+5.50. An original brief shall be filed with the Supreme Court with proof of service showing that a
 copy was served on each party.
 
         (6)    After the briefs are filed, unless the court directs that the writ will be considered
@@ -7608,9 +7619,9 @@ _________
       The practice and procedure for Supreme Court review of a reapportionment of Senators
 and Representatives serving in the Oregon Legislative Assembly shall be as follows:
 
-        (1)    Any qualified elector of the state seeking review of a reapportionment enacted by
-the Legislative Assembly shall file a petition with the Administrator no later than August 1 of the
-year in which the Legislative Assembly enacts the reapportionment.1
+       (1)     Any qualified elector of the state seeking review of a reapportionment enacted by
+the Legislative Assembly shall file a petition with the Supreme Court no later than August 1 of
+the year in which the Legislative Assembly enacts the reapportionment.1
 
                                                155                                      Chapter 11
 
@@ -7687,10 +7698,9 @@ required or permitted to be filed under this rule:
                 shall submit it for eFiling by 5:00 p.m. PT on the deadline day, notwithstanding
                 ORAP 16.25(1);
 
-                        (ii)    A party not required to eFile a document under ORAP 16.60,
+                       (ii)     A party not required to eFile a document under ORAP 16.60,
                 including a self-represented party, may physically deliver it by 5:00 p.m. PT to
-                the Appellate Court Administrator, Appellate Court Records Section, 1163 State
-                Street, Salem, Oregon 97301-2563; or
+                the Supreme Court, 1163 State Street, Salem, Oregon 97301-2563; or
 
                          (iii) A self-represented party may email a document by 5:00 p.m. PT to
                 appealsclerk@ojd.state.or.us, with the following subject line: "Case Filing under
@@ -7803,9 +7813,10 @@ answering brief no later than five judicial days after the opening brief is file
 subsection (1)(a) or (b) chooses to file a reply brief, the brief shall be filed no later than two
 judicial days after the answering brief is filed.
 
+        (5)     Amicus curiae appearances are discouraged, but, if a person applies for leave to
+
                                                  159                                        Chapter 11
 
-        (5)     Amicus curiae appearances are discouraged, but, if a person applies for leave to
 file an amicus curiae brief, the person shall file the application, accompanied by the brief
 tendered for filing, no later than the date that the respondent's answering brief is due. The
 following provisions of ORAP 8.15 apply to amicus curiae filings under this rule: ORAP
@@ -7830,10 +7841,9 @@ document required or permitted to be filed under this rule:
                shall submit it for eFiling by 5:00 p.m. PT on the deadline day, notwithstanding
                ORAP 16.25(1);
 
-                       (ii)    A party not required to eFile a document under ORAP 16.60,
+                      (ii)     A party not required to eFile a document under ORAP 16.60,
                including a self-represented party, may physically deliver it by 5:00 p.m. PT to
-               the Appellate Court Administrator, Appellate Court Records Section, 1163 State
-               Street, Salem, Oregon 97301-2563; or
+               the Supreme Court, 1163 State Street, Salem, Oregon 97301-2563; or
 
                        (iii) A self-represented party may email a document by 5:00 p.m. PT to
                appealsclerk@ojd.state.or.us, with the following subject line: "Case Filing under
@@ -7848,13 +7858,12 @@ document required or permitted to be filed under this rule:
                (c)    Any document rejected based on a filing deficiency shall be corrected and
        refiled by 7:00 p.m. PT on the deadline day.
 
-              (d)     Any document that is filed shall be served on the other parties, and on any
+               (d)    Any document that is filed shall be served on the other parties, and on any
        other person required in this rule, on the same day the document is filed and, if filed on
        the deadline day, by 5:00 p.m. PT. The serving party shall use one of the following
+       service methods and no other method:
 
                                                 160                                       Chapter 11
-
-       service methods and no other method:
 
                       (i)     If applicable, electronic service pursuant to ORAP 16.45;
 
@@ -7990,23 +7999,23 @@ substantially with ORAP 2.05(1), (3), (4), (5), (6), (9), (10), and (11), except
            (a)   The notice must be entitled "NOTICE OF INTERLOCUTORY APPEAL
        UNDER ORS 147.537";
 
-               (b)     The notice must include a statement of why the notice is timely; and
+               (b)    The notice must include a statement of why the notice is timely; and
 
-              (c)      The notice must contain proof of service on persons identified in ORS
+              (c)     The notice must contain proof of service on persons identified in ORS
        147.537(6).
 
        (2)     A notice of interlocutory appeal must be accompanied by:
 
-               (a)     A copy of the order for which appellate review is sought;
+               (a)    A copy of the order for which appellate review is sought;
 
-               (b)     Excerpts of the record, as described in ORS 147.537(4);
+               (b)    Excerpts of the record, as described in ORS 147.537(4);
 
               (c)     A memorandum of law with a statement of material facts and supporting
        arguments and citations, in a form in compliance with ORAP 7.10(1) and (2), except as
        provided by this rule.
 
-      (3)      The appellant shall file the original notice of interlocutory appeal with the
-Administrator.
+      (3)    The appellant shall file the original notice of interlocutory appeal with the
+Supreme Court.
 
          (4)    Notwithstanding ORAP 1.35(1)(c), a notice of interlocutory appeal and the
 response are deemed filed when those documents are physically received by the Administrator
@@ -8030,17 +8039,17 @@ or, if the documents are filed electronically, as provided by ORAP 16.25.
                       (iii) A document served by facsimile transmission or electronic mail
                must also be served in a manner that complies with ORAP 1.35(2)(b).
 
-                                                164                                      Chapter 12
+                                               164                                       Chapter 12
 
                (c)    Where service is made by facsimile transmission or electronic mail, the
        filing must be accompanied with either an acknowledgment of service or a proof of
        service that complies with ORAP 1.35(2)(d).
 
-        (6)    A respondent may file a response within seven days of the date the notice of
+        (6)     A respondent may file a response within seven days of the date the notice of
 interlocutory appeal is filed with the Supreme Court. A respondent shall file the original
-response with the Administrator. The response shall comply with ORAP 7.10(1) and (2), except
-as otherwise provided by this rule. The response may contain a designation of parts of the trial
-court record not designated in the notice of interlocutory appeal.
+response with the Supreme Court. The response shall comply with ORAP 7.10(1) and (2),
+except as otherwise provided by this rule. The response may contain a designation of parts of the
+trial court record not designated in the notice of interlocutory appeal.
 
        (7)     No reply shall be filed except with leave of the Supreme Court.
 
@@ -8089,7 +8098,7 @@ comply substantially with ORAP 9.05(3)(a)(i) to (iii) and (vii) and ORAP 9.05(4)
        otherwise provided by this rule.
 
        (3)     The petitioner shall file the original petition for review and the excerpts of the
-record with the Administrator.
+record with the Supreme Court.
 
         (4)    A petition for review filed under this rule may refer to the criteria in ORAP 9.07
 for allowing a petition for review and the following additional criterion: Whether the case
@@ -8446,14 +8455,14 @@ sealed copy of the court's decision to the certifying court terminates the Supre
 
               (a)    A request concerning review of an order entered by the Bar's Disciplinary
        Board Adjudicator in an interlocutory suspension proceeding under BR 3.1 shall be filed
-       with the Administrator, with proof of service on all parties and the Disciplinary Board,
+       with the Supreme Court, with proof of service on all parties and the Disciplinary Board,
        within 14 days after entry of the order.
 
                (b)     The response is due within 14 days after the request is filed.
 
                 (c)    If the request seeks de novo review of the record of proceedings before the
        Adjudicator, upon receipt of service of the request, the Bar's Disciplinary Counsel shall
-       file the record with the Administrator. The preparation, transmission, and service of the
+       file the record with the Supreme Court. The preparation, transmission, and service of the
        record is subject to ORAP 4.20, except that subsections (8) and (9) do not apply. Upon
        receipt of the record, the Administrator must send written notice to the parties.
 
@@ -8464,17 +8473,17 @@ sealed copy of the court's decision to the certifying court terminates the Supre
 
                                                173                                      Chapter 12
 
-opinion in a disciplinary proceeding under BR 10.1 shall be filed with the Administrator,
-with proof of service on all parties, within 30 days after written notice by the Bar's
+opinion in a disciplinary proceeding under BR 10.1 shall be filed with the Supreme
+Court, with proof of service on all parties, within 30 days after written notice by the Bar's
 Disciplinary Board Clerk of receipt of the opinion.
 
         (b)    A trial panel opinion in a contested reinstatement proceeding under BR
-10.3, following court referral under BR 8.9, shall be filed with the Administrator, with
+10.3, following court referral under BR 8.9, shall be filed with the Supreme Court, with
 proof of service on all parties, upon conclusion of the hearing.
 
         (c)    Upon receipt of a request filed under subparagraph (a) or a trial panel
 opinion filed under subparagraph (b), the Bar's Disciplinary Counsel shall file the record
-of the proceedings before the trial panel with the Administrator, pursuant to BR 10.4.
+of the proceedings before the trial panel with the Supreme Court, pursuant to BR 10.4.
 The preparation, transmission, and service of the record is subject to ORAP 4.20, except
 that subsections (8) and (9) do not apply. Upon receipt of the record, the Administrator
 must send written notice to the parties.
@@ -8483,7 +8492,7 @@ must send written notice to the parties.
 
         (a)     A petition concerning review of a Board of Bar Examiners decision in a
 contested admission, character and fitness review proceeding under RFA 9.60(1) shall be
-filed with the Administrator, with proof of service on all parties, within 30 days after the
+filed with the Supreme Court, with proof of service on all parties, within 30 days after the
 date that the applicant received notice of the Board's decision, pursuant to RFA 9.55(7).
 
          (b)    Within 14 days following receipt of service of a petition, the Board must
@@ -8510,7 +8519,7 @@ proceeding. The Bar shall be served by service on the Bar's Disciplinary Counsel
               (iii) A reply brief, if any, shall be due 14 days after filing of the
        answering brief.
 
-                                        174                                      Chapter 12
+                                        174                                       Chapter 12
 
                (c)     In any proceeding described in subparagraph (3), if a respondent files a
        petition but then fails to file a brief within the time allowed, the Bar must either:
@@ -8760,15 +8769,15 @@ _________
          The practice and procedure governing a petition to the Supreme Court to review a ballot
 title shall be:
 
-        (1)    Any elector dissatisfied with a ballot title provided by the Attorney General under
+        (1)     Any elector dissatisfied with a ballot title provided by the Attorney General under
 ORS 250.067 or ORS 250.075(2), or by the Legislative Assembly under ORS 250.075(1), may
-file with the Administrator a petition to review the ballot title.
+file with the Supreme Court a petition to review the ballot title.
 
          (2)     The petition must be filed within 10 business days after the day upon which the
 Attorney General certifies the ballot title to the Secretary of State, or the Legislative Assembly
-files the ballot title with the Secretary of State. If a petition is mailed to the Administrator in
+files the ballot title with the Secretary of State. If a petition is mailed to the Supreme Court in
 compliance with ORAP 1.35(1), then the petition is deemed filed when mailed; otherwise, a
-petition is deemed filed when actually received by the Administrator.
+petition is deemed filed when actually received by the Supreme Court.
 
         (3)     The form of the petition shall comply with ORAP 7.10 governing motions. The
 petition shall have a title page containing:
@@ -8852,7 +8861,7 @@ time is ordered by the court. If a party seeks to appear as an amicus curiae aft
                                                 181                                        Chapter 12
 
 General has filed a modified ballot title after referral from the Supreme Court, then the motion
-and memorandum must be filed with and actually received by the Administrator and must be
+and memorandum must be filed with and actually received by the Supreme Court and must be
 served on and actually received by all parties within five business days after the date that a party
 has filed an objection, unless a shorter time is ordered by the court.
 
@@ -8871,7 +8880,7 @@ participate in oral argument.
        (10) (a)        For ballot title review proceedings in which the Supreme Court has
        referred the Attorney General's certified ballot title to the Attorney General for
        modification, the Attorney General must prepare a modified ballot title. The modified
-       ballot title must be filed with and actually received by the Administrator, and it must be
+       ballot title must be filed with and actually received by the Supreme Court, and it must be
        served on and actually received by all parties, within five business days after the date of
        the referral.
 
@@ -8879,13 +8888,13 @@ participate in oral argument.
        objection to the modified ballot title within five business days after the date of filing of
        the modified ballot title. An objection or proposed objection under paragraph (10)(c)
        must be in the form prescribed by ORAP 7.10, and it may not exceed 10 pages. The
-       objection or proposed objection must be filed with and actually received by the
-       Administrator within the time required. The objection or proposed objection must be
-       served on and actually received by all parties within five business days after the date of
-       filing of the modified ballot title. The objection or proposed objection may be filed and
-       served by telephonic facsimile communication as provided by ORAP 7.35(3).2 A party
-       may file a response to the objection or proposed objection within five business days after
-       the date of filing of the objection, unless the court otherwise directs.
+       objection or proposed objection must be filed with and actually received by the Supreme
+       Court within the time required. The objection or proposed objection must be served on
+       and actually received by all parties within five business days after the date of filing of the
+       modified ballot title. The objection or proposed objection may be filed and served by
+       telephonic facsimile communication as provided by ORAP 7.35(3).2 A party may file a
+       response to the objection or proposed objection within five business days after the date of
+       filing of the objection, unless the court otherwise directs.
 
                 (c)     A person who submitted written comments to the Secretary of State under
        ORS 250.067 regarding the original ballot title, or the chief petitioner, may seek to
@@ -8922,7 +8931,7 @@ _________
 1
   See footnote 2 to ORAP 1.35 for the service address of the Attorney General.
 2
-  The facsimile transmission number for the Administrator is (503) 986-5560. The facsimile
+  The facsimile transmission number for the Supreme Court is (503) 986-5560. The facsimile
 transmission number for the Attorney General (Appellate Division) is (503) 378-6306.
 
                                      Rule 12.32
@@ -8931,7 +8940,7 @@ transmission number for the Attorney General (Appellate Division) is (503) 378-6
 
         (1)    Any elector dissatisfied with a voters' pamphlet explanatory statement for which
 suggestions were offered at the Secretary of State's hearing under ORS 251.215 may file with the
-Administrator a petition to review the explanatory statement. The petition must be filed within
+Supreme Corut a petition to review the explanatory statement. The petition must be filed within
 five calendar days after the deadline for filing a revised statement with the Secretary of State.
 
         (2)    The provisions of ORAP 12.30(2), (3), (4), (5), (7), (8), and (9) shall apply,
@@ -8972,7 +8981,7 @@ See ORS 251.235.
                        ESTIMATE OF FINANCIAL IMPACT REVIEW
 
         (1)    Any person entitled to petition under ORS 250.131 for review of an estimate of
-financial impact may file with the Administrator a petition to review the estimate. The petition
+financial impact may file with the Supreme Court a petition to review the estimate. The petition
 must be filed not later than 85 calendar days before the election at which the measure is to be
 voted on. The petition shall not concern the amount of the estimate or whether an estimate
 should be prepared.
@@ -9018,9 +9027,9 @@ the statute authorizing the expedited judicial review proceeding.
 
        (2)      Within seven days after being served with a copy of the petition for judicial
 review, the Energy Facility Siting Council or the Public Utility Commission, as appropriate, shall
-transmit the record to the Administrator. The record shall be accompanied by proof of service of
-copies of the record, except exhibits, on all other parties of record in the proceeding and on any
-other person required by law to be served.
+transmit the record to the Supreme Court. The record shall be accompanied by proof of service
+of copies of the record, except exhibits, on all other parties of record in the proceeding and on
+any other person required by law to be served.
 
        (3)     (a)     Petitioner's opening brief and excerpt of record shall be served and filed
        not later than 14 days after the filing of the petition for judicial review. Failure to file the
@@ -9241,8 +9250,8 @@ requesting findings pursuant to this rule.3 A party's failure to request finding
 objection, or reply in the form specified in this rule constitutes a waiver of any objection to the
 absence of findings to support the court's decision.
 
-       (8)    The original of any petition, objections, or reply shall be filed with the
-Administrator together with proof of service on all other parties to the appeal, judicial review, or
+        (8)    The original of any petition, objections, or reply shall be filed with the appellate
+court together with proof of service on all other parties to the appeal, judicial review, or
 proceeding.
 
         (9)    In the absence of timely filed objections to a petition under this rule, the Supreme
@@ -9464,9 +9473,9 @@ question and that there is good cause for a stay.
                (a)     The appellate court extends the period for good cause shown, or
 
                (b)    The party who obtained the stay files a petition for a writ of certiorari with
-       the United States Supreme Court and so notifies the Appellate Court Administrator in
-       writing within the period of the stay. In that case, the stay will continue until the final
-       disposition by the United States Supreme Court.
+       the United States Supreme Court and so notifies the Oregon Supreme Court in writing
+       within the period of the stay. In that case, the stay will continue until the final disposition
+       by the United States Supreme Court.
 
 _________
 1
@@ -9474,7 +9483,7 @@ _________
 certiorari. See 28 USC § 2101 (generally establishing deadlines for certiorari); US Sup Ct Rule
 13 (addressing certiorari deadlines specifically). See ORS 19.270(6)(b) and (c).
 
-                                                196                                      Chapter 14
+                                                196                                       Chapter 14
 
                        15. APPELLATE SETTLEMENT
                           CONFERENCE PROGRAM
@@ -9666,9 +9675,9 @@ provided in paragraph (e) of this subsection.
 law judge, "Plan B" retired judge, or other person who does not accept a fee for the
 services, the parties shall make the program fees payable to the State Court
 Administrator. Payment can be made via the court’s electronic filing system, by credit
-card via phone through Appellate Court Records, or by mailing a check referencing the
-case name and number to: Appellate Court Records, 1163 State Street, Salem, OR
-97301-2563.
+card via phone through the Court of Appeals records office, or by mailing a check
+referencing the case name and number to: Court of Appeals, 1163 State Street, Salem,
+OR 97301-2563.
 
                                         200                                       Chapter 15
 
@@ -9797,14 +9806,14 @@ the term does include a petition for review under ORAP 9.05.
 
           (1)    Authorized eFilers
 
-                 (a)    Any person may register to become an eFiler.
+                 (a)     Any person may register to become an eFiler.
 
-                 (b)    To become an eFiler, a user must create an account with the eFiling
+                 (b)     To become an eFiler, a user must create an account with the eFiling
           system.
 
           (2)    Conditions of Electronic Filing
 
-                 (a)    To access the eFiling system, each eFiler agrees to and shall
+                 (a)     To access the eFiling system, each eFiler agrees to and shall
 
                          (i)   review Appellate eFiling and Public Portal Guide" and “Appellate
                  eFile FAQs” documents available on the appellate court’s eFiling website at:
@@ -9816,7 +9825,7 @@ the term does include a petition for review under ORAP 9.05.
                          (iii) comply with the electronic filing terms and conditions when using
                  the eFiling system;
 
-                        (iv)    furnish required information for case processing; and
+                         (iv)   furnish required information for case processing; and
 
                          (v)    update their account information in the eFiling system if any of
                  that information changes, including but not limited to, any change in the user’s
@@ -9826,9 +9835,9 @@ the term does include a petition for review under ORAP 9.05.
           the username and password were issued. Attorney users only may authorize an employee
           of that attorney's law firm or office or other person to use the username and password.2
 
-                  (c)     The Appellate Court Administrator may suspend the electronic filing
-          privileges of an eFiler if the Administrator becomes aware of misuse of the eFiling
-          system or of the eFiler's username and password.
+                  (c)    The Administrator may suspend the electronic filing privileges of an eFiler
+          if the Administrator becomes aware of misuse of the eFiling system or of the eFiler's
+          username and password.
 
                                                    204                                     Chapter 16
 
@@ -10437,11 +10446,11 @@ __ other (specify) __________________________________
                                              10.
                                     CERTIFICATE OF FILING
 
-       I certify that on   [date]   , I filed the original of this notice of appeal with the Appellate
+       I certify that on   [date]   , I filed the original of this notice of appeal with the Court of
 
                                              218                                        Appendix 2.05
 
-Court Administrator by [specify method of filing]:
+Appeals by [specify method of filing]:
 
 __ United States Postal Service, ordinary first class mail
 __ United States Postal Service, certified or registered mail, return receipt requested
@@ -10604,8 +10613,9 @@ appeal:
 
          Volume #                                Date                                 Page #s
 
-I certify that the original of this Certificate was filed with the Appellate Court Administrator and
-copies were served on the trial court administrator and transcript coordinator on     [date] .
+I certify that the original of this Certificate was filed with the [Supreme Court or Court of
+Appeals as appropriate] and copies were served on the trial court administrator and transcript
+coordinator on       [date] .
 
 I certify that on [date] a copy of the transcript or part thereof prepared by me and a copy of
 this Certificate were served on:
@@ -10645,9 +10655,9 @@ appeal:
 
 The transcript is now settled.
 
-I certify that on            [date]                the transcript or part thereof prepared by me
-was filed with the Appellate Court Administrator in electronic form in the form required by
-ORAP 3.35(2).
+I certify that on           [date]               the transcript or part thereof prepared by me
+was filed with the [Supreme Court or Court of Appeals as appropriate] in electronic form in the
+form required by ORAP 3.35(2).
 
 I certify that on   [date]   a copy of this Certificate was served on:
 
@@ -10799,8 +10809,8 @@ __     other (specify) __________________________________
 
                                    CERTIFICATE OF FILING
 
-       I certify that on [date] , I filed the original of this petition for judicial review with the
-Appellate Court Administrator by [specify method of filing]:
+      I certify that on [date] , I filed the original of this petition for judicial review with the
+[Supreme Court or Court of Appeals] by [specify method of filing]:
 
 __ United States Postal Service, ordinary first class mail
 __ United States Postal Service, certified or registered mail, return receipt requested
@@ -10913,7 +10923,7 @@ __     other (specify) __________________________________
 
                                             231                                         Appendix 4.15-2
 
-Appellate Court Administrator by [specify method of filing]:
+[Supreme Court or Court of Appeals, as appropriate] by [specify method of filing]:
 
 __ United States Postal Service, ordinary first class mail
 __ United States Postal Service, certified or registered mail, return receipt requested
@@ -11016,7 +11026,8 @@ brief and footnotes.
 
 [Filing]
 
-I certify that I filed this brief with the Appellate Court Administrator on this date.
+I certify that I filed this brief with the [Supreme Court or Court of Appeals, as appropriate] on
+this date.
 
 [Service]
 
@@ -11030,9 +11041,10 @@ eFiling system:
 [List name of each party or participant who is being eServed]
 
 [When the case party or participant is not being eServed using the appellate courts' eFiling
-system]
 
                                            235                                         Appendix 5.05-2
+
+system]
 
 I certify that I have this date served each participant in this case who is not being served by the
 appellate courts' eFiling system by [specific method] at the following address:
@@ -11820,8 +11832,8 @@ __ other (specify) __________________________________
                                             9.
                                    CERTIFICATE OF FILING
 
-       I certify that on [date] , I filed the original of this notice of appeal with the Appellate
-Court Administrator by [specify method of filing]:
+       I certify that on [date] , I filed the original of this notice of appeal with the Supreme
+Court by [specify method of filing]:
 
 __ United States Postal Service, ordinary first-class mail
 __ United States Postal Service, certified or registered mail, return receipt requested
