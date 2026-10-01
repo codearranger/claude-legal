@@ -1,7 +1,7 @@
 # Real Property Actions and Proceedings Law (RPAPL) — Summary Proceedings to Recover Possession of Real Property (Holdover + Nonpayment)
 
 > **Source:** https://legislation.nysenate.gov/api/3/laws/RPA?full=true
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the NY State Senate Open Legislation API JSON response
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
@@ -860,7 +860,7 @@ posting of the notice and by an electronic filing. For purposes of this
 section, "electronic filing" shall mean an electronic filing as
 described in section twenty-one hundred three-a of the New York city
 civil court act.
-  * NB Repealed June 30, 2026
+  * NB Repealed June 30, 2028
 
 ## § 751. Stay upon paying rent or giving undertaking; discretionary stay outside city of New York
 

@@ -1,7 +1,7 @@
 # Family Court Act — Support of Dependents (child support)
 
 > **Source:** https://legislation.nysenate.gov/api/3/laws/FCT?full=true
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the NY State Senate Open Legislation API JSON response
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
@@ -1306,20 +1306,9 @@ subdivision shall not apply to proceedings establishing temporary
 support or proceedings for the enforcement of a support order or support
 provision of a separation agreement or stipulation.
 
-## § 425. Agreement to support
+## § 425. Agreement to support; pilot program for use of alternative dispute resolution to obtain agreements to support
 
-* § 425. Agreement to support. If an agreement for the support of the
-petitioner is brought about, it must be reduced to writing and submitted
-to the family court or a support magistrate appointed pursuant to
-section four hundred thirty-nine of this act for approval. If the court
-or support magistrate approves it, the court without further hearing may
-thereupon enter an order for the support of the petitioner by the
-respondent in accordance with the agreement, which shall be binding upon
-the respondent and shall in all respects be a valid order as though made
-after process had been issued out of the court. The court record shall
-show that such order was made upon agreement.
-  * NB Effective until August 18, 2026
-  * § 425. Agreement to support; pilot program for use of alternative
+§ 425. Agreement to support; pilot program for use of alternative
 dispute resolution to obtain agreements to support. (a) If the parties
 reach an agreement for the support of the child and/or the petitioner,
 it must be reduced to writing and submitted to the family court or a
@@ -1413,7 +1402,6 @@ selected pursuant to paragraph (i) of this subdivision in order to
 provide assistance in arranging the initial referral appointments,
 including ascertaining language access or other needs, and in explaining
 what documents are required to be brought or transmitted to the program.
-  * NB Effective August 18, 2026
 
 ## § 426. Issuance of summons
 

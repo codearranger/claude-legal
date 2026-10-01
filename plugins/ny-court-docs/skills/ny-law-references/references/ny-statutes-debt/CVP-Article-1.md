@@ -1,7 +1,7 @@
 # Civil Practice Law and Rules — Short Title; Applicability and Definitions
 
 > **Source:** https://legislation.nysenate.gov/api/3/laws/CVP?full=true
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the NY State Senate Open Legislation API JSON response
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
@@ -142,7 +142,7 @@ this chapter, such term shall also mean any "city marshal" as defined in
 article sixteen of the New York city civil court act, except that city
 marshals shall have no power to levy upon or sell real property and city
 marshals shall have no power of arrest.
-  * NB Repealed June 30, 2026
+  * NB Repealed June 30, 2028
   (t) Type size requirement. Whenever a requirement relating to size of
 type is stated in point size, the type size requirement shall be deemed
 met if the x-height of the type is a minimum of forty-five percent of

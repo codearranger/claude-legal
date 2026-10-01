@@ -1,7 +1,7 @@
 # 22 NYCRR Part 212 — Uniform Civil Rules for the District Courts
 
 > **Source:** https://www.nycourts.gov/rules/part-212-uniform-civil-rules-district-courts
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the canonical HTML source published by the NY Unified Court System
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
@@ -19,16 +19,18 @@ New York State Unified Court System
 ## Main navigation
 - I am a ...
 - **Select** which user type you most identify with.
-- Court User / Litigant
+- Litigant / Self-Represented
 - Judge
 - Legal Professional
 - Juror
 - Member of the Media
-- Job Seeker
+- Job Seeker (Careers)
 - Supplier Looking for Bid Opportunities
+Looking for Divorce Resources...
+
 Featured
 
-Learn how to use our new website...
+Looking for Divorce Resources...
 
 - The Courts
 - The Courts The mission of the Unified Court System is to promote the rule of law and to serve the public by providing just and timely resolution of all matters before the courts.
@@ -37,9 +39,11 @@ Learn how to use our new website...
 - Upstate Courts
 - Specialized Courts
 - Appellate Courts
-- Town & Village Justice Courts
 - Rules
+- Town & Village Justice Courts
 - County Clerks, (NYC)
+eCourts: eFile (NYSCEF), eTrack, Pay Online & more...
+
 Featured
 
 eCourts: eFile (NYSCEF), eTrack, Pay Online & more...
@@ -47,21 +51,18 @@ eCourts: eFile (NYSCEF), eTrack, Pay Online & more...
 - Forms
 - CourtHelp
 - CourtHelp Get help when you don’t have a lawyer. Information here is constantly being updated to reflect changes in the law.
+- DIY Forms
 - Safety & Violence
 - Problems with Money
 - Guardianship
-- Families & Children
+- Family Issues & Divorce
 - Criminal
 - After the Case Is Over
 - Homes & Evictions
 - When Someone Dies
 - Small Claims
-- Getting help at the courthouse
+- Getting Help at the Courthouse
 - Name Change and/or Sex Designation Change
-Featured
-
-DIY Forms
-
 - About Us
 - About Us The administration of the court system. Learn about our work and our structure.
 - Administration
@@ -70,11 +71,13 @@ DIY Forms
 - Civic Engagement
 - Contact Us
 - OCA Support Units
-- Bias & Misconduct Complaints
 - Publications
-- Special Events
-- Terms of Court Calendar & Holidays
 - Public Information
+- Special Events
+- Bias & Misconduct Complaints
+- Terms of Court Calendar & Holidays
+Court Leadership
+
 Featured
 
 Court Leadership
@@ -86,16 +89,18 @@ Court Leadership
 ## Main navigation
 - I am a ...
 - **Select** which user type you most identify with.
-- Court User / Litigant
+- Litigant / Self-Represented
 - Judge
 - Legal Professional
 - Juror
 - Member of the Media
-- Job Seeker
+- Job Seeker (Careers)
 - Supplier Looking for Bid Opportunities
+Looking for Divorce Resources...
+
 Featured
 
-Learn how to use our new website...
+Looking for Divorce Resources...
 
 - The Courts
 - The Courts The mission of the Unified Court System is to promote the rule of law and to serve the public by providing just and timely resolution of all matters before the courts.
@@ -104,9 +109,11 @@ Learn how to use our new website...
 - Upstate Courts
 - Specialized Courts
 - Appellate Courts
-- Town & Village Justice Courts
 - Rules
+- Town & Village Justice Courts
 - County Clerks, (NYC)
+eCourts: eFile (NYSCEF), eTrack, Pay Online & more...
+
 Featured
 
 eCourts: eFile (NYSCEF), eTrack, Pay Online & more...
@@ -114,21 +121,18 @@ eCourts: eFile (NYSCEF), eTrack, Pay Online & more...
 - Forms
 - CourtHelp
 - CourtHelp Get help when you don’t have a lawyer. Information here is constantly being updated to reflect changes in the law.
+- DIY Forms
 - Safety & Violence
 - Problems with Money
 - Guardianship
-- Families & Children
+- Family Issues & Divorce
 - Criminal
 - After the Case Is Over
 - Homes & Evictions
 - When Someone Dies
 - Small Claims
-- Getting help at the courthouse
+- Getting Help at the Courthouse
 - Name Change and/or Sex Designation Change
-Featured
-
-DIY Forms
-
 - About Us
 - About Us The administration of the court system. Learn about our work and our structure.
 - Administration
@@ -137,11 +141,13 @@ DIY Forms
 - Civic Engagement
 - Contact Us
 - OCA Support Units
-- Bias & Misconduct Complaints
 - Publications
-- Special Events
-- Terms of Court Calendar & Holidays
 - Public Information
+- Special Events
+- Bias & Misconduct Complaints
+- Terms of Court Calendar & Holidays
+Court Leadership
+
 Featured
 
 Court Leadership
@@ -246,6 +252,35 @@ iv. a financial account number, including a credit and/or debit card number, a b
 (3) Where a person submitting a paper to a court for filing believes in good faith that the inclusion of the full confidential personal information described in subparagraphs (i) to (iv) of paragraph (1) of this subdivision is material and necessary to the adjudication of the action or proceeding before the court, he or she may apply to the court for leave to serve and file together with a paper in which such information has been set forth in abbreviated form a confidential affidavit or affirmation setting forth the same information in unabbreviated form, appropriately referenced to the page or pages of the paper at which the abbreviated form appears.
 
 (4) The redaction requirement does not apply to the last four digits of the relevant account numbers, if any, in an action arising out of a consumer credit transaction, as defined in subdivision (f) of section one hundred five of the civil practice law and rules. In the event the defendant appears in such an action the defendant may without leave of court submit papers disclosing full account numbers to the extent necessary to ensure that an order or judgment issued by the court contains proof satisfactory to a credit reporting agency. In the event the defendant appears in such an action and denies responsibility for the identified account, the plaintiff may without leave of court amend his or her pleading to add full account or CPI by (i) submitting such amended paper to the court on written notice to defendant for in camera review or (ii) filing such full account or other CPI under seal in accordance with rules promulgated by the chief administrator of the courts.
+
+## Section 212.4-a Electronic Filing in the District Courts Outside the City of New York
+(a) Application. Electronic filing and service of documents shall be authorized in the District Courts in such actions and in such counties as may be authorized by order of the Chief Administrator of the Courts, and only to the extent and manner provided in this section. Such authorization may provide for either mandatory or consensual participation in electronic filing programs.
+
+(b) Electronic Filing in Actions in the District Courts.
+
+(1) Except as otherwise provided in this section, sections 202.5-b and 202.5-bb of the Uniform Civil Rules of the Supreme Court and the County Court (22 NYCRR §§ 202.5-b and 202.5-bb), where applicable, shall apply to all actions in which electronic filing is authorized in the District Courts. References in those sections to the Chief Clerk of the Supreme Court or Clerk of the Court shall be deemed to mean the Chief Clerk of the applicable District Court, and references to the CPLR shall be deemed to include, where relevant, the Uniform District Court Act (“UDCA”) and the Real Property Actions and Proceedings Law (“RPAPL”).
+
+(2) Commencing an action by electronic means.
+
+(i) Except as otherwise provided in this section, every action authorized as a mandatory filing in the county and class of actions under subdivision (a) of this section shall be commenced by electronically filing the initiating documents with the Clerk of the Court through the NYSCEF site. In any action authorized as a voluntary (consensual) filing, a party may commence the action by electronically filing the initiating documents with the Clerk of the Court through the NYSCEF site.
+
+(ii) Documents electronically filed to commence an action in compliance with this section shall be deemed filed with the Clerk of the District Court for purposes of UDCA § 400 upon the date of receipt of those documents by the NYSCEF site, together with payment of any required fee.
+
+(iii) No later than the close of business on the business day following the date on which the initiating documents are electronically filed to commence an action pursuant to subparagraph (ii) of this paragraph, a confirmation notice shall be transmitted electronically by the NYSCEF site to the person filing such documents. The notice shall contain a link to a copy of the initiating documents to which shall be affixed an index number and a filing stamp showing the date of filing and to which there may also be affixed, as the court may require, an image of the signature of the Clerk of the Court. This notice shall satisfy any requirement that the Clerk return a copy of the filing to the party.
+
+(3) E-filing in an action after commencement. Except as otherwise provided in subdivision (a) of this section, after the electronic commencement of an action in which mandatory e-filing is authorized, all documents shall be filed and served electronically, and such e-filing shall be conducted as provided in 22 NYCRR § 202.5-bb(c). Where voluntary (consensual) e-filing is authorized, after the commencement of an action, documents may be filed by, and electronically served upon, parties who have consented thereto. Consent shall be obtained, and such e-filing shall be conducted, as provided in 22 NYCRR §202.5-b(b)(2).
+
+(c) Service of Documents.
+
+(1) A person seeking to obtain personal jurisdiction over a person named as a party to an action specified in subdivision (a) of this section may serve the opposing party in hard copy, or by electronic means if the opposing party agrees to accept such service, in accordance with the CPLR and the UDCA.
+
+(2) Where an action is commenced by electronic filing pursuant to this section, the original proof of service required by UDCA § 409 shall be filed with the Clerk of the Court by filing through the NYSCEF site. Service shall be complete as provided in UDCA § 410.
+
+(d) Official Record and Working Copies.
+
+(1) When a document has been filed electronically pursuant to this section, the official record shall be the electronic record maintained by the court. The clerk or designee may scan and e-file documents that were filed in hard copy in an action subject to e-filing or maintain those documents in hard copy form.
+
+(2) Parties participating in e-filing shall not be required to submit working copies of documents filed electronically.
 
 ## Section 212.5 Submission of papers to judge
 All papers for signature or consideration of the court shall be presented to the clerk of the trial court in the appropriate courtroom or at the clerk's office, except that where the clerk is unavailable or the judge so directs, papers may be submitted to the judge and a copy filed with the clerk at the first available opportunity. All papers for any judge that are filed in the clerk's office shall be promptly delivered to the judge by the clerk. The papers shall be clearly addressed to the judge for whom they are intended and prominently show the nature of the papers, the title and index number of the action in which they are filed, and the name of the attorney or party submitting them.
