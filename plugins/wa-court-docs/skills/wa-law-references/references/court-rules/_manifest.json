@@ -1,5 +1,5 @@
 {
-  "pulled": "2026-05-02",
+  "pulled": "2026-10-01",
   "sets": [
     {
       "set": "GR",
@@ -68,7 +68,7 @@
           "set": "GR",
           "group": "ga",
           "num": "7",
-          "title": "Local Rules--Filing and Effective Date",
+          "title": "Local Court Rulemaking",
           "section": null,
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/GR/GA_GR_07_00_00.pdf"
         },
@@ -356,7 +356,7 @@
           "set": "GR",
           "group": "ga",
           "num": "30",
-          "title": "Electronic Filing and Service",
+          "title": "Electronic Filing",
           "section": null,
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/GR/GA_GR_30_00_00.pdf"
         },
@@ -471,6 +471,14 @@
           "title": "Personal Pronouns",
           "section": null,
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/GR/GA_GR_43_00_00.pdf"
+        },
+        {
+          "set": "GR",
+          "group": "ga",
+          "num": "44",
+          "title": "Court Antiharassment Policy",
+          "section": null,
+          "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/GR/GA_GR_44_00_00.pdf"
         }
       ],
       "errors": {}
@@ -2906,7 +2914,7 @@
           "set": "JISCR",
           "group": "ga",
           "num": "13",
-          "title": "Local Court Systems",
+          "title": "Electronic Court Record Systems",
           "section": null,
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/JISCR/GA_JISCR_13_00_00.pdf"
         },
@@ -9162,7 +9170,7 @@
           "set": "RAP",
           "group": "app",
           "num": "16.19",
-          "title": "Preparation of Report of Proceedings in Capital Cases",
+          "title": "Rescinded",
           "section": "Title 16 Special Proceedings in the Supreme Court and Court of Appeals",
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_19_00.pdf"
         },
@@ -9170,7 +9178,7 @@
           "set": "RAP",
           "group": "app",
           "num": "16.20",
-          "title": "Transmittal of Jury Questionnaires and Clerk's Papers in Capital Cases",
+          "title": "Rescinded",
           "section": "Title 16 Special Proceedings in the Supreme Court and Court of Appeals",
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_20_00.pdf"
         },
@@ -9178,7 +9186,7 @@
           "set": "RAP",
           "group": "app",
           "num": "16.21",
-          "title": "Clerk's Conference in Capital Cases",
+          "title": "Rescinded",
           "section": "Title 16 Special Proceedings in the Supreme Court and Court of Appeals",
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_21_00.pdf"
         },
@@ -9186,7 +9194,7 @@
           "set": "RAP",
           "group": "app",
           "num": "16.22",
-          "title": "Filing of Briefs in Capital Cases",
+          "title": "Rescinded",
           "section": "Title 16 Special Proceedings in the Supreme Court and Court of Appeals",
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_22_00.pdf"
         },
@@ -9194,7 +9202,7 @@
           "set": "RAP",
           "group": "app",
           "num": "16.23",
-          "title": "Oral Argument on Appeal in Capital Cases",
+          "title": "Rescinded",
           "section": "Title 16 Special Proceedings in the Supreme Court and Court of Appeals",
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_23_00.pdf"
         },
@@ -9202,7 +9210,7 @@
           "set": "RAP",
           "group": "app",
           "num": "16.24",
-          "title": "Stay of Execution in Capital Cases",
+          "title": "Rescinded",
           "section": "Title 16 Special Proceedings in the Supreme Court and Court of Appeals",
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_24_00.pdf"
         },
@@ -9210,7 +9218,7 @@
           "set": "RAP",
           "group": "app",
           "num": "16.25",
-          "title": "Appointment of Counsel on Personal Restraint Petition in Capital Cases",
+          "title": "Rescinded",
           "section": "Title 16 Special Proceedings in the Supreme Court and Court of Appeals",
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_25_00.pdf"
         },
@@ -9218,7 +9226,7 @@
           "set": "RAP",
           "group": "app",
           "num": "16.26",
-          "title": "Personal Restraint Petitions in Capital Cases - Discovery",
+          "title": "Rescinded",
           "section": "Title 16 Special Proceedings in the Supreme Court and Court of Appeals",
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_26_00.pdf"
         },
@@ -9226,7 +9234,7 @@
           "set": "RAP",
           "group": "app",
           "num": "16.27",
-          "title": "Personal Restraint Petition in Capital Cases - Investigative, Expert, and Other Services",
+          "title": "Rescinded",
           "section": "Title 16 Special Proceedings in the Supreme Court and Court of Appeals",
           "pdf_url": "https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_27_00.pdf"
         },

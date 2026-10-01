@@ -1,7 +1,7 @@
 # Rules of Evidence (ER)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=ga&set=ER
-- Pulled: 2026-05-02
+- Pulled: 2026-10-01
 - Rules: 67
 
 > Verbatim text extracted from the official PDFs published by the Washington
@@ -1815,11 +1815,11 @@ Source: https://www.courts.wa.gov/court_rules/pdf/ER/GA_ER_09_04_00.pdf
 
 ```
 ER 904
-                             ADMISSIBILITY OF DOCUMENTS
+                              ADMISSIBILITY OF DOCUMENTS
 
      (a) Certain Documents Admissible. In a civil case, any of the following documents
-proposed as exhibits in accordance with section (b) of this rule shall be deemed admissible unless
-objection is made under section (c) of this rule:
+proposed as exhibits in accordance with section (b) of this rule shall be deemed admissible
+unless objection is made under section (c) of this rule:
 
       (1) A bill, report made for the purpose of treatment, chart, record of a hospital, doctor,
 dentist, registered nurse, licensed practical nurse, physical therapist, psychologist or other health
@@ -1834,28 +1834,41 @@ with a statement indicating whether or not the property was repaired, and if it 
 estimated repairs were made in full or in part and attach a copy of the receipted bill showing the
 items of repair and amounts paid;
 
-     (4) A weather or traffic signal report, or standard United States government table;
+      (4) A weather or traffic signal report, or standard United States government table;
 
-     (5) A photograph, x-ray, drawing, map, blueprint or similar documentary evidence;
+      (5) A photograph, x-ray, drawing, map, blueprint or similar documentary evidence;
 
-     (6) A document not specifically covered by any of the foregoing provisions but relating to a
-material fact and having equivalent circumstantial guaranties of trustworthiness, the admission of
-which would serve the interests of justice.
+      (6) A record of vital statistic as described by ER 803(a)(9);
+
+      (7) A record of a religious organization as described by ER 803(a)(11);
+
+      (8) A certificate as described by ER 803(a)(12);
+
+      (9) A family record as described by ER 803(a)(13);
+
+     (10) A record of a document affecting an interest in property as described by ER
+803(a)(14);
+
+      (11) A market report or other document as described by ER 803(a)(17);
+
+       (12) A judgment as described by ER 803(a)(22) or (23), or an uncertified court record that
+is: (a) a court order, (b) a petition for civil protection order, or (c) a petition filed under ch. 13.34
+RCW.
 
       (b) Notice. Any party intending to offer a document under this rule must serve on all
-parties a notice, no less than 30 days before trial, stating that the documents are being offered
+parties a notice, no fewer than 30 days before trial, stating that the documents are being offered
 under Evidence Rule 904 and shall be deemed authentic and admissible without testimony or
 further identification, unless objection is served within 14 days of the date of notice, pursuant to
 ER 904(c). The notice shall be accompanied by (1) numbered copies of the documents and (2)
-an index, which shall be organized by document number and which shall contain a brief
-description of the document along with the name, address and telephone number of the
-document’s author or maker. The notice shall be filed with the court. Copies of documents that
-accompany the notice shall not be filed with the court.
+an index, which shall be organized by document number and which shall contain, for each
+document, a brief description of the document, identification of the applicable ER 904(a)
+category, and the name, address, and telephone number of the document’s author or maker. The
+notice and index shall be filed with the court. Copies of documents that accompany the notice
+shall not be filed with the court.
 
       (c) Objection to Authenticity or Admissibility. Within 14 days of notice, any other party
 may serve on all parties a written objection to any document offered under section (b),
 identifying each document to which objection is made by number and brief description.
-
       (1) If an objection is made to a document on the basis of authentication, and if the court
 finds that the objection was made without reasonable basis, the offering party shall be entitled to
 an award of expenses and reasonable attorney fees incurred as a result of the required proof of
@@ -1868,14 +1881,15 @@ made until trial. If the court finds that the objection was made without reasona
 document is admitted as an exhibit at trial, the court may award the offering party any expenses
 incurred and reasonable attorney fees.
 
-     (d) Effect of Rule. This rule does not restrict argument or proof relating to the weight to
+      (d) Effect of Rule. This rule does not restrict argument or proof relating to the weight to
 be accorded the evidence submitted, nor does it restrict the trier of fact's authority to determine
 the weight of the evidence after hearing all of the evidence and the arguments of opposing
 parties.
 
-[Adopted effective September 18, 1992; Amended effective October 29, 1993; January 27, 1998.]
+[Adopted effective September 18, 1992; Amended effective October 29, 1993; January 27, 1998;
+September 1, 2026.]
 
-                                         Comment 904
+                                           Comment 904
 
 [Deleted effective September 1, 2006.]
 ```

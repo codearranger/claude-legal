@@ -1,7 +1,7 @@
 # Admission and Practice Rules (APR)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=ga&set=APR
-- Pulled: 2026-05-02
+- Pulled: 2026-10-01
 - Rules: 54
 
 > Verbatim text extracted from the official PDFs published by the Washington
@@ -765,19 +765,22 @@ components. Successful completion of the Law Clerk Program provides a way to mee
 education requirement to apply for the lawyer bar examination in Washington; it is not a special
 admission or limited license to practice law.
 
-     (b) Application. Every applicant for enrollment in the law clerk program shall:
+      (b) Application. A person who qualifies for admission as a lawyer under APR 3 is not
+eligible to apply for enrollment in the law clerk program. Every applicant for enrollment in the
+law clerk program shall:
 
      (1) Be of good moral character and fitness, as defined in APR 20;
 
-      (2) Present satisfactory proof of having been granted a bachelors degree by a college or
+      (2) Present satisfactory proof of having been granted a bachelor’s degree by a college or
 university with approved accreditation; if the degree was earned in a non-United States
 jurisdiction, the applicant shall provide supporting documentation as to its equivalency;
 
-      (3) Be engaged in regular, full-time employment in Washington State for an average of 32
-hours per week with the primary tutor or primary tutor’s employer in a (i) law office, (ii) legal
-department, or (iii) court of general, limited, or appellate jurisdiction in Washington State. The
-employment must include tasks and duties which contribute to the practical aspects of engaging
-in the practice of law;
+      (3) Be engaged in regular, full-time, paid employment in Washington State for an average
+of 32 hours per week with the primary tutor or primary tutor’s employer in a (i) law office, (ii)
+legal department, or (iii) court of general, limited, or appellate jurisdiction in Washington State.
+This paid employment requirement shall not be waived or satisfied by unpaid or contract
+positions. The employment must include tasks and duties that contribute to the practical aspects
+of engaging in the practice of law;
 
       (4) Submit in such form and manner as prescribed by the Bar (i) an application for
 enrollment in the program, (ii) the tutor’s application, and (iii) an application fee;
@@ -799,21 +802,20 @@ practice has substantial contacts with Washington state, the requirement that th
 employment be in Washington state may be waived.
 
     (c) Tutors. To be eligible to act as a tutor in the law clerk program, a lawyer or judicial
-member as defined in the Washington State Bar Association Bylaws, shall:
+member as defined in the Washington State Bar Association Bylaws shall:
 
-     (1) Act as a tutor for only one law clerk at a time;
+     (1) Act as a tutor for no more than two law clerks concurrently;
 
       (2) Be an active member in good standing of the Bar, or be a judicial member of the Bar,
 who has not received a disciplinary sanction in the last 5 years, provided that if there is a
 discipline pending or a disciplinary sanction has been imposed upon the member more than 5
 years preceding the law clerk’s application for enrollment, the Bar shall have the discretion to
 accept or reject the member as tutor;
-
       (3) Have active legal experience in the practice of law as defined by APR 1 or have held
-the required judicial position for at least 10 of the last 12 years immediately preceding the filing
-of the law clerks application for enrollment. The 10 years of practice must include at least 2
-years in Washington state and may be a combination of active practice and judicial experience
-but may not include periods of suspension for any reason;
+the required judicial position for at least 8 of the last 12 years immediately preceding the filing of
+the law clerk’s application for enrollment. The 8 years of practice must include at least 2 years in
+Washington state and may be a combination of active practice and judicial experience but may
+not include periods of suspension for any reason;
 
      (4) Certify to the applicant’s employment as required above and to the tutor’s eligibility,
 and agree to instruct and examine the applicant as prescribed under this rule; and
@@ -827,10 +829,14 @@ enrolled law clerk shall:
      (1) Pay an annual fee as set by the Board of Governors.
 
       (2) Meet the minimum monthly requirements of an average of 32 hours per week of
-employment with the tutor which may include in-office study time and must include an average
-of 3 hours per week for the tutor’s personal supervision of the law clerk. “Personal supervision”
-is defined as time actually spent with the law clerk for the exposition and discussion of the law,
-the recitation of cases, and the critical analysis of the law clerk’s written assignments.
+regular, full-time, paid employment with the tutor, which may include in-office study time and
+must include an average of 3 hours per week for the tutor’s personal supervision of the law clerk.
+A tutor supervising two clerks in the same month for the same course may combine supervision
+time to meet the weekly average total of 3 hours. A tutor supervising two clerks in different
+courses or different months of the same course must supervise the clerks separately for a total
+average of 6 hours per week (3 hours per clerk). “Personal supervision” is defined as time
+actually spent with the law clerk for the exposition and discussion of the law, the recitation of
+cases, and the critical analysis of the law clerk’s written assignments.
 
       (3) Complete the prescribed course of study which shall be the equivalent of 4 years of
 study. Each year of study shall consist of 6 courses completed in 12 months. Months of leave,
@@ -846,27 +852,27 @@ successfully complete the program.
       (e) Course of Study. The subjects to be studied, the sequence in which they are to be
 studied, and any other requirement to successfully complete the program shall be as prescribed in
 the Law Clerk Program Regulations. Progress toward completion of the program shall be
-evaluated by submission of examinations, certificates, reports and evaluations as follows:
+evaluated by submission of examinations, certificates, reports, and evaluations as follows:
 
      (1) Examinations. At the end of each month, the law clerk shall complete a written
 examination prepared, administered, and graded by the tutor. The examination shall be answered
 without research, assistance, or reference to source materials during the examination. The
 examination shall be graded pass/fail.
 
-      (2) Certificates. Within 10 days following the month of study, the tutor shall submit the
-examination, including the grade given for the examination and comments to the law clerk, and a
-monthly certificate, stating the law clerk’s hours engaged in employment, study, and the tutor’s
-personal supervision. If an examination is not given, the monthly certficate shall be submitted
-stating the reason.
+      (2) Certificates. Within 10 days following the month of study, the law clerk or tutor shall
+submit the examination, including the grade given for the examination and comments to the law
+clerk, and the tutor shall submit a monthly certificate, stating the law clerk’s hours engaged in
+employment, study, and the tutor’s personal supervision. If an examination is not given, the
+monthly certficate shall be submitted stating the reason.
 
      (3) Book Reports. The law clerk shall submit three book reports for the Jurisprudence
 course requirement corresponding to each year of study.
-
        (4) Evaluations. At intervals deemed necessary, the law clerk shall participate with the
 tutor in an evaluation of the law clerk’s progress.
 
     (f) Completion of the program. A law clerk shall be deemed to have successfully
 completed the program when:
+
        (1) All required courses have been completed and passed as certified each month by the
 tutor, and all book reports have been submitted;
 
@@ -896,7 +902,7 @@ proceedings are confidential and shall be privileged against disclosure.
 
 [Adopted effective February 12, 1965; Amended effective September 1, 1984; March 6, 1992;
 September 1, 1994; June 2, 1998; April 1, 2003; January 13, 2009; January 1, 2014;
-September 1, 2017; September 1, 2022.]
+September 1, 2017; September 1, 2022; September 1, 2026.]
 ```
 
 <a id="apr-7"></a>
@@ -2558,7 +2564,7 @@ Source: https://www.courts.wa.gov/court_rules/pdf/APR/GA_APR_15_Client Protectio
 
 ```
 APR 15
-        CLIENT PROTECTION FUND (APR 15) PROCEDURAL REGULATIONS
+          CLIENT PROTECTION FUND (APR 15) PROCEDURAL REGULATIONS
 
                                 REGULATION 1.          PURPOSE
 
@@ -2866,34 +2872,35 @@ be advised of any decision of the Client Protection Board or the Trustees.
 
      (a) The Trustees may, at their discretion, set limitations on the amount of reimbursement.
 
-      (b) The maximum allowable amount of a gift is $150,000. There is no limit on the number
+      (b) The maximum allowable amount of a gift is $250,000. There is no limit on the number
 of gifts that can be made to reimburse clients for the wrongful acts of any one lawyer, LLLT, or
 LPO.
 
-      (c) Applications approved for $5,000 or less shall be paid in full upon approval by the
+      (c) Applications approved for $10,000 or less shall be paid in full upon approval by the
 Client Protection Board (and the Trustees, if required under these Rules and Regulations).
-Applications approved for more than $5,000 shall be paid $5,000 upon approval by the Client
+Applications approved for more than $10,000 shall be paid $10,000 upon approval by the Client
 Protection Board (and the Trustees, if required under these Rules and Regulations); payment of
-the remaining balance approved shall be deferred until fiscal year end and shall be subject to
-any proration which may be approved by the Trustees.
+the remaining balance approved shall be deferred until fiscal year’s end and shall be subject to
+any proration that may be approved by the Trustees.
 
       (d) At the last meeting of the Trustees for each fiscal year, the Client Protection Board
 shall report the total outstanding balance on approved gifts and shall recommend whether the
 outstanding balance should be paid in full or prorated. When approved gifts are prorated, the
-prorated payment shall reflect the total amount of the gift, less the initial $5,000 payment made
+prorated payment shall reflect the total amount of the gift, less the initial $10,000 payment made
 upon approval by the Client Protection Board. By way of illustration:
 
-     Example 1: The application is for an amount in excess of $150,000. The Client Protection
+       Example 1: The application is for an amount in excess of $250,000. The Client Protection
 Board recommends and the Board of Governors, as Trustees, approves a gift in the maximum
-allowable amount of $150,000. $5,000 is paid upon approval by the Trustees. At fiscal year end,
-the Client Protection Board recommends and the Board of Governors, as Trustees, approves
-using a prorating formula that would result in applicants receiving 20% of their unpaid gifts.
-20% of $145,000 is $29,000, so a second payment of $29,000 is issued to the applicant.
+allowable amount of $250,000. $10,000 is paid upon approval by the Trustees. At fiscal year’s
+end, the Client Protection Board recommends and the Board of Governors, as Trustees,
+approves using a prorating formula that would result in applicants receiving 20% of their unpaid
+gifts. 20% of $240,000 is $48,000, so a second payment of $48,000 is issued to the applicant.
 
      Example 2: In the same fiscal year another applicant applies for and receives a gift in the
-amount of $7,500. $5,000 is paid upon approval. At fiscal year’s end, a second payment is
-issued for $500.
-[Adopted effective July 18, 1995; Amended effective January 1, 2014; September 1, 2017.]
+amount of $15,000. $10,000 is paid upon approval. At fiscal year’s end, a second payment is
+issued for $1,000.
+[Adopted effective July 18, 1995; Amended effective January 1, 2014; September 1, 2017;
+September 1, 2026.]
 
                   REGULATION 10. NO LEGAL RIGHT TO PAYMENT
 

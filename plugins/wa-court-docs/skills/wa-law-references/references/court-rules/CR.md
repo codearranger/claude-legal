@@ -1,7 +1,7 @@
 # Superior Court Civil Rules (CR)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=sup&set=CR
-- Pulled: 2026-05-02
+- Pulled: 2026-10-01
 - Rules: 96
 
 > Verbatim text extracted from the official PDFs published by the Washington
@@ -424,11 +424,11 @@ Source: https://www.courts.wa.gov/court_rules/pdf/CR/SUP_CR_04_01_00.pdf
 RULE 4.1
                       PROCESS--DOMESTIC RELATIONS ACTIONS
 
-       (a) Summons--General. Actions authorized by RCW 26.09 shall be commenced by filing
+      (a) Summons--General. Actions authorized by RCW 26.09 shall be commenced by filing
 a petition or by service of a copy of a summons together with a copy of the petition on
-respondent as provided in rule 4. Upon written demand by the respondent, the petitioner shall pay
-the filing fee and file the summons and petition within 14 days after service of the demand or the
-service shall be void. No summons is necessary if both spouses sign a joint petition or if the
+respondent as provided in rule 4. Upon written demand by the respondent, the petitioner shall
+pay the filing fee and file the summons and petition within 14 days after service of the demand or
+the service shall be void. No summons is necessary if both spouses sign a joint petition or if the
 respondent files a written joinder in the proceeding.
 
      (b) Summons--Content, Form.
@@ -441,63 +441,84 @@ failure to serve a copy of the response within the stated time may result in a j
 the signature and address of the petitioner or petitioner's attorney, and the date.
 
       (2) Form. The summons for personal service in the state in an action for dissolution of
-marriage shall be substantially in the form below. The summons for personal service in the state
-in any other action authorized by RCW 26.09 should be adapted from this form. The summons
-for personal service out of state should be adapted from this form and must include the
-modifications required by statute. See RCW 4.28.180.
+marriage or domestic partnership shall be substantially in the form below. The summons for
+personal service in the state in any other action authorized by chapter 26.09 RCW should be
+adapted from this form. The summons for personal service out of state should be adapted from
+this form and must include the modifications required by statute. See RCW 4.28.180.
 
-                            SUPERIOR COURT OF WASHINGTON
-                              FOR (_______________) COUNTY
-
-           In the Matter of the                 )
-           Marriage of                          )      No. ______
-           ______________________,              )
-                                 Petitioner,    )
-           and                                  )
-           ______________________, )              SUMMONS FOR
-                                Respondent.     )    DISSOLUTION OF MARRIAGE
+              Superior Court of Washington, County of ___________________
+In re marriage/domestic partnership of            No. ________________________
+Petitioner (person who started this case):
+                                                  Summons: Notice about
+  ____________________________________
+                                                  a Marriage or Domestic
+And Respondent (other spouse/partner):            Partnership
+  ____________________________________
 
       TO THE RESPONDENT: The petitioner has started an action in the above court requesting
-that your marriage be dissolved. Additional requests, if any, are stated in the petition, a copy of
-which is attached to this summons.
+to end your marriage / domestic partnership.
+Important! Petitioner must complete the address boxes below. If Petitioner does not give a
+service address and the court’s address, this Summons will be invalid.
 
-       You must respond to this summons and petition by serving a copy of your written response
-on the person signing this summons. If you do not serve your written response within 20 days
-after the date this summons was served on you, exclusive of the day of service, the court may
-enter an order of default against you, and at the end of 90 days after service and filing, the court
-may, without further notice to you, enter a decree dissolving your marriage and approving or
-providing for other relief requested in the petition. If you serve a notice of appearance on the
-undersigned person, you are entitled to notice before an order of default or a decree may be
-entered.
+[ ] Petitioner [ ] Petitioner’s Lawyer (name):
+Petitioner’s Address for Service: (This does not have to be a home address.)
 
-      You may demand that the petitioner file this action with the court. If you do so, the demand
-must be in writing and must be served upon the person signing this summons. Within 14 days
-after you serve the demand, the petitioner must file this action with the court, or the service on
-you of this summons and petition will be void.
+     You may only serve Petitioner by email if an email address is provided below or Petitioner
+otherwise agrees in writing. See All Civil 006 Agreement re: Service by Email.
+     [ ] Email (optional) – Petitioner agrees to accept service of legal papers for this case by
+email at this address:_____________________________________________________________
 
-      If you wish to seek the advice of an attorney in this matter, you should do so promptly so
-that your written response, if any, may be served on time.
-     One method of serving a copy of your response on the petitioner is to send it by certified
-mail with return receipt requested.
+Superior Court of Washington, County of ____________________________________________
+Court’s Address for filing:
+     You must respond to this summons in writing for the court to consider your side.
+     Deadline! Your Response must be served on Petitioner within 20 days of the date you were
+served this Summons (60 days if you were served outside of Washington State or served in a jail,
+detention facility, or prison). If the case has been filed in court, you must also file your Response
+by the same deadline.
+     If you do not file and serve your Response or a Notice of Appearance by the deadline:
+         ▪ No one has to notify you about other hearings in this case, and
+         ▪ The court may approve the Petitioner’s requests without hearing your side. (This is
+           called a default judgment.)
+         ▪ The court may enter an order ending your marriage/domestic partnership 90 days
+           after service and filing of the petition is complete.
+     Lawyer not required. It is a good idea to talk to a lawyer, but you may file and serve your
+Response without one.
+     Follow these steps:
+     1. Read the Petition and any other documents you receive with this Summons. These
+        documents explain what Petitioner is asking for.
+     2. Fill out the Response on one of these forms:
+        ▪ Response to Petition about a Marriage (FL Divorce 211) if you are married, or
+        ▪ Response to Petition about a Registered Domestic Partnership (FL Divorce 212) if
+          you are a domestic partner.
+     You can get the Response and other forms at:
+         ▪ The Washington State Courts website: www.courts.wa.gov/forms
+         ▪ Washington Law Help: www.washingtonlawhelp.org, or
+         ▪ The Superior Court Clerk’s office or county law library (for a fee).
+     3. Serve (give) a copy of your Response to Petitioner at the petitioner’s address for
+        service listed on page 1.
+     4. File your original Response with the clerk of the court at the court’s address for filing
+        listed on page 1.
 
-     This summons is issued pursuant to rule 4.1 of the Superior Court Civil Rules of the State
+_______________________________________________       ________________________
+Signature of Petitioner or lawyer                     Date
+______________________________________________________________________________
+Print name of Petitioner or lawyer and WSBA No.
+
+If there is no “Case No.” listed on page 1, this case may not have been filed and you will not be
+able to file a Response. Contact the Superior Court Clerk or check www.courts.wa.gov to find
+out.
+If the case was not filed, you must still serve your Response, and you may demand that the
+Petitioner file this case with the court. Your demand must be in writing and must be served on
+the Petitioner or their lawyer (whoever signed this Summons). If the Petitioner does not file
+papers for this case within 14 days of being served with your demand, this service on you of the
+Summons and Petition will not be valid. If the Petitioner does file, then you must file your
+original Response with the court clerk at the address above.
+If you serve a Notice of Appearance on the Petitioner, you are entitled to notice before an order
+of default or a decree may be entered.
+This summons is issued pursuant to RCW 4.28.180 and Superior Court Civil Rule 4.1 of the State
 of Washington.
-
-Dated ________________________          (signed) __________________________
-
-                                                       __________________________________
-                                                       Print or Type Name
-
-SERVE A COPY OF YOUR RESPONSE ON:
-( ) Petitioner ( ) Petitioner's Attorney
-________________________________________
-Address
-________________________________________
-___________________,WA _________________
-           (city)                     (zip)
-
 [Adopted effective July 1, 1967; Amended effective September 1, 1978; July 1, 1980;
-September 1, 1989.]
+September 1, 1989; September 1, 2026.]
 ```
 
 <a id="cr-4-2"></a>

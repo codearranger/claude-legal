@@ -1,7 +1,7 @@
 # Rules of Professional Conduct (RPC)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=ga&set=RPC
-- Pulled: 2026-05-02
+- Pulled: 2026-10-01
 - Rules: 64
 
 > Verbatim text extracted from the official PDFs published by the Washington
@@ -1152,10 +1152,15 @@ Prohibited Contingent Fees
 [6] [Washington revision] Paragraph (d) prohibits a lawyer from charging a contingent fee in a
 domestic relations matter when payment is contingent upon the securing of a dissolution or
 annulment of marriage or upon the amount of maintenance or support or property settlement to
-be obtained. This provision does not preclude a contract for a contingent fee for legal
-representation in connection with the recovery of post-judgment balances due under support,
-maintenance or other financial orders because such contracts do not implicate the same policy
-concerns.
+be obtained. Paragraph (d) is equally applicable to fees in other domestic relations matters,
+including (1) resolution of parenting issues, (2) establishment or maintenance of a guardianship
+of a minor, (3) dissolving a state-registered domestic partnership, and (4) ending a committed
+intimate relationship under Washington law. This provision does not preclude a contract for a
+contingent fee for legal representation in connection with the recovery of post-judgment balances
+due under support, maintenance, or other financial orders because such contracts do not
+implicate the same policy concerns.
+
+[Comment [6] amended effective September 1, 2026.]
 
 Division of Fee
 
@@ -1195,7 +1200,6 @@ Reasonableness of Fee and Expenses
 
 [10] Every fee agreed to, charged, or collected, including a fee that is a lawyer’s property on
 receipt under paragraph (f)(1) or (f)(2), is subject to Rule 1.5(a) and may not be unreasonable.
-
 [Comment [10] amended effective November 18, 2008.]
 
 [11] Under paragraph (a)(9), one factor in determining whether a fee is reasonable is whether the
@@ -1251,7 +1255,6 @@ agreement in a writing signed by the client, the fee is considered the lawyer’
 and must not be deposited into a trust account containing client or third-party funds. See Rule
 1.15A(c) (lawyer must hold property of clients separate from lawyer’s own property). For
 definitions of the terms “writing” and “signed,” see Rule 1.0A(n).
-
 [Comment [15] adopted effective November 18, 2008; Amended effective April 14, 2015.]
 
 [16] In fee arrangements involving more than one type of fee, the requirements of paragraphs
@@ -3247,7 +3250,7 @@ in which case the client shall be designated by such entity. Notice under this s
 given by the person designated by law as the chief legal officer of the broader governmental
 entity, or in the absence of such designation, by the chief executive officer of the entity.
 
-[Adopted effective September 1, 2006.]
+[Adopted effective September 1, 2006; Amended effective January 1, 2023.]
 
                                             Comments
 
@@ -3280,7 +3283,7 @@ to the organization, the lawyer must proceed as is reasonably necessary in the b
 organization. As defined in Rule 1.0A(f), knowledge can be inferred from circumstances, and a
 lawyer cannot ignore the obvious.
 
-[Comment [3] amended effective April 14, 2015.]
+[Comment 3 amended effective April 14, 2015.]
 
 [4] In determining how to proceed under paragraph (b), the lawyer should give due consideration
 to the seriousness of the violation and its consequences, the responsibility in the organization and
@@ -3340,6 +3343,8 @@ actions taken pursuant to paragraph (b) or (c), or who withdraws in circumstance
 permit the lawyer to take action under either of these paragraphs, must proceed as the lawyer
 reasonably believes necessary to assure that the organization’s highest authority is informed of
 the lawyer’s discharge or withdrawal.
+
+[Comment 8 amended effective January 1, 2023.]
 
 Government Agency
 
@@ -3402,11 +3407,16 @@ wrongdoing by those in control of the organization, a conflict may arise between
 duty to the organization and the lawyer’s relationship with the board. In those circumstances,
 Rule 1.7 governs who should represent the directors and the organization.
 
-                            Additional Washington Comment (15)
+                          Additional Washington Comments [15-16]
 
 [15] Paragraph (h) was taken from former Washington RPC 1.7(c); it addresses the obligations
 of a lawyer who is not a public officer or employee but is representing a discrete governmental
 agency or unit.
+[16] In-house lawyers and lawyers with comparable employment situations may face unique
+employment expectations that impact their rights if discharged by the client. See Karstetter v.
+King County Corr. Guild, 193 Wn.2d 672, 444 P3d 1185 (2019); Comment [4] to Rule 1.16.
+
+[Comment 16 adopted effective September 1, 2021.]
 
 [Comments adopted effective September 1, 2006.]
 ```
@@ -3945,17 +3955,23 @@ Source: https://www.courts.wa.gov/court_rules/pdf/RPC/GA_RPC_01_16_00.pdf
 RPC 1.16
                    DECLINING OR TERMINATING REPRESENTATION
 
-      (a) Except as stated in paragraph (c), a lawyer shall not represent a client or, where
-representation has commenced, shall, notwithstanding RCW 2.44.040, withdraw from the
-representation of a client if:
+      (a) A lawyer shall inquire into and assess the facts and circumstances of each
+representation to determine whether the lawyer may accept or continue the representation.
+Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation
+has commenced, shall, notwithstanding RCW 2.44.040, withdraw from the representation of a
+client if:
 
        (1) the representation will result in violation of the Rules of Professional Conduct or other
 law;
 
       (2) the lawyer's physical or mental condition materially impairs the lawyer’s ability to
-represent the client; or
+represent the client;
 
-       (3) the lawyer is discharged.
+       (3) the lawyer is discharged; or
+
+      (4) the client or prospective client seeks to use or persists in using the lawyer’s services to
+commit or further a crime or fraud, despite the lawyer’s discussion pursuant to Rules 1.2(d) and
+1.4(a)(5) regarding the limitations on the lawyer assisting with the proposed conduct.
 
        (b) Except as stated in paragraph (c), a lawyer may withdraw from representing a client if:
 
@@ -3991,14 +4007,24 @@ or incurred. The lawyer may retain papers relating to the client to the extent p
 law.
 
 [Former Rule 1.15 was renumbered and amended effective September 1, 2006; Amended
-effective April 14, 2015.]
+effective April 14, 2015; September 1, 2026.]
+                                            Comments
 
-                                              Comment
+[1] Paragraph (a) imposes an obligation on a lawyer to inquire into and assess the facts and
+circumstances of the representation before accepting it. The obligation imposed by paragraph (a)
+continues throughout the representation. A change in the facts and circumstances relating to the
+representation may trigger a lawyer’s need to make further inquiry and assessment. For example,
+a client traditionally uses a lawyer to acquire local real estate through the use of domestic limited
+liability companies, with financing from a local bank. The same client then asks the lawyer to
+create a multitier corporate structure, formed in another state to acquire property in a third
+jurisdiction, and requests to route the transaction’s funding through the lawyer’s trust account.
+Another example is when, during the course of a representation, a new party is named or a new
+entity becomes involved. A lawyer should not accept representation in a matter unless it can be
+performed competently, promptly, without improper conflict of interest, and to completion.
+Ordinarily, a representation in a matter is completed when the agreed-upon assistance has been
+concluded. See Rules 1.1, 1.2(c), and 6.5. See also Rule 1.3, Comment [4].
 
-[1] A lawyer should not accept representation in a matter unless it can be performed competently,
-promptly, without improper conflict of interest and to completion. Ordinarily, a representation in
-a matter is completed when the agreed-upon assistance has been concluded. See Rules 1.2(c) and
-6.5. See also Rule 1.3, Comment [4].
+[Comment 1 amended effective September 1, 2026.]
 
 Mandatory Withdrawal
 
@@ -4006,7 +4032,28 @@ Mandatory Withdrawal
 the lawyer engage in conduct that is illegal or violates the Rules of Professional Conduct or other
 law. The lawyer is not obliged to decline or withdraw simply because the client suggests such a
 course of conduct; a client may make such a suggestion in the hope that a lawyer will not be
-constrained by a professional obligation.
+constrained by a professional obligation. Under paragraph (a)(4), the lawyer’s inquiry into and
+assessment of the facts and circumstances will be informed by the risk that the client or
+prospective client seeks to use or persists in using the lawyer’s services to commit or further a
+crime or fraud. This analysis means that the required level of a lawyer’s inquiry and assessment
+will vary for each client or prospective client, depending on the nature of the risk posed by each
+situation. Factors to be considered in determining the level of risk may include (i) the identity of
+the client, such as whether the client is a natural person or an entity and, if an entity, the
+beneficial owners of that entity, (ii) the lawyer’s experience and familiarity with the client, (iii)
+the nature of the requested legal services, (iv) the relevant jurisdictions involved in the
+representation (for example, whether a jurisdiction is considered at high risk for money
+laundering or terrorist financing), and (v) the identities of those depositing into or receiving
+funds from the lawyer’s client trust account or any other accounts in which client funds are held.
+For further guidance assessing risk, see, e.g., as amended or updated, Financial Action Task
+Force Guidance for a Risk-Based Approach for Legal Professionals, the ABA Voluntary Good
+Practices Guidance for Lawyers to Detect and Combat Money Laundering and Terrorist
+Financing, A Lawyer’s Guide to Detecting and Preventing Money Laundering (a collaborative
+publication of the International Bar Association, the American Bar Association, and the Council
+of Bars and Law Societies of Europe), the Organization for Economic Cooperation and
+Development (OECD) Due Diligence Guidance for Responsible Business Conduct, and the U.S.
+Department of Treasury Specially Designated Nationals and Blocked Persons List.
+
+[Comment 2 amended effective September 1, 2026.]
 
 [3] When a lawyer has been appointed to represent a client, withdrawal ordinarily requires
 approval of the appointing authority. See also Rule 6.2. Similarly, court approval or notice to the
@@ -4020,32 +4067,28 @@ obligations to both clients and the court under Rules 1.6 and 3.3.
 
 Discharge
 
-[4] [Washington revision] A client has a right to discharge a lawyer at any time, with or without
-cause, subject to liability for payment for the lawyer’s services. However, the rule may apply
-differently with respect to in-house lawyers and lawyers with comparable employment situations.
-See Karstetter v. King County Corrections Guild, 193 Wn.2d. 672, 444 P.3d 1185 (2019);
-Washington Comment [16] to Rule 1.13. Where future dispute about the withdrawal may be
-anticipated, it may be advisable to prepare a written statement reciting the circumstances.
+[4] A client has a right to discharge a lawyer at any time, with or without cause, subject to
+liability for payment for the lawyer’s services. However, the rule may apply differently with
+respect to in-house lawyers and lawyers with comparable employment situations. See Karstetter
+v. King County Corr. Guild, 193 Wn.2d 672, 444 P.3d 1185 (2019); Washington Comment [16]
+to Rule 1.13. Where future dispute about the withdrawal may be anticipated, it may be advisable
+to prepare a written statement reciting the circumstances.
 
-[Comment [4] amended effective September 1, 2021.]
+[Comment 4 amended effective September 1, 2021.]
 
-[5] A client has a right to discharge a lawyer at any time, with or without cause, subject to
-liability for payment for the lawyer’s services. Where future dispute about the withdrawal may be
-anticipated, it may be advisable to prepare a written statement reciting the circumstances.
-
-[6] Whether a client can discharge appointed counsel may depend on applicable law. A client
+[5] Whether a client can discharge appointed counsel may depend on applicable law. A client
 seeking to do so should be given a full explanation of the consequences. These consequences
 may include a decision by the appointing authority that appointment of successor counsel is
 unjustified, thus requiring self-representation by the client.
 
-[7] If the client has severely diminished capacity, the client may lack the legal capacity to
+[6] If the client has severely diminished capacity, the client may lack the legal capacity to
 discharge the lawyer, and in any event the discharge may be seriously adverse to the client’s
 interests. The lawyer should make special effort to help the client consider the consequences and
 may take reasonably necessary protective action as provided in Rule 1.14.
 
 Optional Withdrawal
 
-[8] A lawyer may withdraw from representation in some circumstances. The lawyer has the
+[7] A lawyer may withdraw from representation in some circumstances. The lawyer has the
 option to withdraw if it can be accomplished without material adverse effect on the client’s
 interests. Withdrawal is also justified if the client persists in a course of action that the lawyer
 reasonably believes is criminal or fraudulent, for a lawyer is not required to be associated with
@@ -4053,13 +4096,14 @@ such conduct even if the lawyer does not further it. Withdrawal is also permitte
 services were misused in the past even if that would materially prejudice the client. The lawyer
 may also withdraw where the client insists on taking action that the lawyer considers repugnant
 or with which the lawyer has a fundamental disagreement.
-[9] A lawyer may withdraw if the client refuses to abide by the terms of an agreement relating to
+
+[8] A lawyer may withdraw if the client refuses to abide by the terms of an agreement relating to
 the representation, such as an agreement concerning fees or court costs or an agreement limiting
 the objectives of the representation.
 
 Assisting the Client upon Withdrawal
 
-[10] Even if the lawyer has been unfairly discharged by the client, a lawyer must take all
+[9] Even if the lawyer has been unfairly discharged by the client, a lawyer must take all
 reasonable steps to mitigate the consequences to the client. The lawyer may retain papers as
 security for a fee only to the extent permitted by law. See Rule 1.15A.
 
@@ -4102,11 +4146,11 @@ necessary to obtain an order authorizing the transfer of a file.
 
 [Adopted effective September 1, 2006; Amended effective April 14, 2015.]
 
-                                              Comment
+                                             Comment
 
 [1] The practice of law is a profession, not merely a business. Clients are not commodities that
-can be purchased and sold at will. Pursuant to this Rule, when a lawyer or an entire firm ceases to
-practice, or ceases to practice in an area of law, and other lawyers or firms take over the
+can be purchased and sold at will. Pursuant to this Rule, when a lawyer or an entire firm ceases
+to practice, or ceases to practice in an area of law, and other lawyers or firms take over the
 representation, the selling lawyer or firm may obtain compensation for the reasonable value of
 the practice as may withdrawing partners of law firms. See Rules 5.4 and 5.6.
 
@@ -4141,11 +4185,11 @@ possible association of another lawyer or mergers between firms, with respect to
 consent is not required. Providing the purchaser access to detailed information relating to the
 representation, such as the client’s file, however, requires client consent. But see RPC 1.6(b)(7)
 (permitting disclosure of information relating to the representation in limited circumstances to
-detect and resolve potential conflicts of interest). The Rule provides that before such information
-can be disclosed by the seller to the purchaser the client must be given actual written notice of the
-contemplated sale, including the identity of the purchaser, and must be told that the decision to
-consent or make other arrangements must be made within 90 days. If nothing is heard from the
-client within that time, consent to the sale is presumed.
+detect and resolve potential conflicts of interest). The Rule provides that before such
+information can be disclosed by the seller to the purchaser the client must be given actual written
+notice of the contemplated sale, including the identity of the purchaser, and must be told that the
+decision to consent or make other arrangements must be made within 90 days. If nothing is heard
+from the client within that time, consent to the sale is presumed.
 
 [Comment 7 amended effective September 1, 2016.]
 
@@ -4219,7 +4263,7 @@ Notice Requirements Related to LLLT Services
 
 [17] Notice under paragraph (c) of this Rule must disclose whether legal services performed by
 LLLTs have been provided by the seller or will be provided by the purchaser of the law practice
-or arena of practice that is subject to the sale. Where the purchaser will provide legal services
+or area of practice that is subject to the sale. Where the purchaser will provide legal services
 performed by an LLLT, this notice must include written disclosures that comply with LLLT Rule
 1.5(b). See RPC 1.5 Washington Comment [17].
 

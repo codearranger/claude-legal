@@ -1,7 +1,7 @@
 # Juvenile Court Rules (JuCR)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=sup&set=JuCR
-- Pulled: 2026-05-02
+- Pulled: 2026-10-01
 - Rules: 82
 
 > Verbatim text extracted from the official PDFs published by the Washington
@@ -1078,66 +1078,48 @@ read by, or read to, the juvenile before the juvenile signs the statement.
 You do not go to court and there is no trial before a judge.
 
       2. A diversion agreement is a contract between you and the diversion unit. A diversion
-agreement may require you to do certain things, such as community service, attend a counseling,
-informational, or educational interview, or make restitution, but you cannot be sent to jail. Under
-certain circumstances you may be counseled and released, which means no further action will be
-required of you.
+agreement may require you to do certain things, such as perform community restitution; attend
+counseling, informational, restorative justice, or educational sessions; pay restitution; and follow
+requirements to attend school, observe home curfews, abide by restrictions to certain
+geographical locations, and refrain from any contact with victims or witnesses of the offense; but
+you cannot be sent to jail. Under certain circumstances you may be counseled and released,
+which means no further action will be required of you.
 
-      3. If you sign a diversion agreement, or if you are counseled and released, the offense with
-which you are charged and any diversion agreement will be part of your criminal history. When
-you have a criminal history, (A) you may not necessarily be permitted to participate in diversion
-for other offenses you have committed or may commit in the future, and (B) you may be given a
-longer sentence for other offenses you have committed or may commit in the future.
+      3. If you are counseled and released, the offense you are charged with will be part of your
+criminal history. Your criminal history may result in: (A) future or other offenses not being
+handled by diversion or deferred disposition, and (B) future or other offenses resulting in more
+serious consequences.
 
-     4. Your criminal history for this offense will show whether or not you have completed the
-terms of this diversion agreement.
-
-      5. Your criminal history may be available to the police, the prosecutor, the court, and the
+      4. Your criminal history may be available to the police, the prosecutor, the court, and the
 diversion unit.
 
-      6. If you do not follow the diversion agreement, the prosecutor may bring you to a hearing
-for the offenses with which you are charged. If you do not appear at the court hearing, the court
-may order that you be arrested.
+      5. If you do not follow the diversion agreement, the prosecutor may bring you to a hearing
+for the offenses you are charged with. If you do not appear at the court hearing, the court may
+order that you be arrested.
 
-      7. When you are 18 years old, you may ask the court to destroy all records on this offense if
-your criminal history consists of only one diversion and 2 years have passed since you completed
-the diversion agreement.
+      6. You may ask the court to seal your file on your current offense(s) if you spend 2
+continuous years in the community from the date you complete the terms of your diversion
+agreement without committing any offense or crime that results in conviction or diversion.
 
-      8. You have the right to talk to a lawyer about whether you should participate in diversion
+      7. You have the right to talk to a lawyer about whether you should participate in diversion
 or whether you should go to court. You will not have to pay for a lawyer if you cannot afford it.
-If you do not believe you committed this offense, you should talk to a lawyer.
+A lawyer can review the police reports, explain your rights, and explain the law. If you do not
+believe you committed this offense, you should talk to a lawyer.
 
-      9. When you agree to participate in the diversion process, you do not have the right to have
+      8. When you agree to participate in the diversion process, you do not have the right to have
 a free lawyer appointed for you to help you work out a diversion agreement, but you do have the
 right to have a lawyer help you work out a diversion agreement if you can afford to pay for it.
 
-      10. You do not have to participate in diversion. If you do not participate, your case will go
-to court if charges are filed by the prosecutor. If your case goes to court, you can have a lawyer to
-represent you, and you will not have to pay for the lawyer if you cannot afford it. If you are found
-guilty in court, the maximum penalty cannot be greater than the maximum penalty the diversion
-unit may impose.
+      9. You do not have to participate in diversion. If you choose not to participate, your case
+will go to court if charges are filed by the prosecutor. If your case goes to court, you can have a
+lawyer to represent you, and you will not have to pay for the lawyer if you cannot afford it.
 
-      11. I have been informed and fully understand that if the offense for which I have entered
-into a diversion agreement is a violation of RCW 66.44, 69.41, 69.50, or 69.52, and I was
-13 years of age or older when the offense was committed, the diversion agreement will result in
-the suspension or revocation of my privilege to drive. (If not applicable, this paragraph should be
-crossed out and initialed by the offender.)
-
-      12. I have been informed and fully understand that if I am enrolled in a common school, the
-court will notify the principal of my diversion agreement if the offense for which I am entering
-into a diversion agreement is a violent offense as defined in RCW 9.94A.030; a sex offense as
-defined in RCW 9.84A.030; inhaling toxic fumes under chapter 9.47A RCW; a controlled
-substance violation under chapter 69.50 RCW; a liquor violation under
-RCW 66.44.270; or any crime under chapters 9A.36, 9A.40, 9A.46, and 9A.48 RCW. (If not
-applicable, this paragraph should be crossed out and initialed by the offender.)
-
-     13. I have read or someone has read to me everything printed above, and I understand it. I
+     10. I have read or someone has read to me everything printed above, and I understand it. I
 have been given a copy of this statement.
 
-Dated _____________________________       Dated _________________________
-__________________________________        ______________________________
-Parent or Guardian (optional)       Juvenile
-
+Dated _____________________________                Dated _________________________
+__________________________________                 ______________________________
+Parent or Guardian (optional)                      Juvenile
 The above statement was read to the juvenile and signed by the juvenile on the date indicated.
                                                  ___________________________________
                                                  Representative of Diversion Unit
@@ -1150,14 +1132,14 @@ understanding of both the translation and the subject matter of this document. I
 penalty of perjury under the laws of the State of Washington that the foregoing is true and
 correct.
 
-      Dated this _____ day of ____________, 19___, at ___________, Washington.
+      Dated ____________________________
 
                                                    ___________________________________
                                                    Interpreter
 
        (b) Advice When No Confinement Possible. A juvenile alleged to have committed a
-traffic infraction or an offense for which an adult could not be confined shall be given a copy of a
-statement in substantially the following form during the initial interview with a diversion unit.
+traffic infraction or an offense for which an adult could not be confined shall be given a copy of
+a statement in substantially the following form during the initial interview with a diversion unit.
 The statement shall also be read by, or read to, the juvenile before the juvenile signs the
 statement.
 
@@ -1166,44 +1148,42 @@ statement.
      1. Diversion is a different way of dealing with juveniles who are charged with an offense.
 You do not go to court and there is no trial before a judge.
 
-       2. A diversion agreement is a contract between you and the diversion unit. If you are
+      2. A diversion agreement is a contract between you and the diversion unit. If you are
 alleged to have committed a traffic infraction, a diversion agreement requires you to do
-community service or attend educational or counseling sessions. If you are alleged to have
+community restitution or attend educational or counseling sessions. If you are alleged to have
 committed some other offense, a diversion agreement may require you to do certain things, such
-as community service, attend a counseling, informational, or educational interview, or make
-restitution, but you cannot be sent to jail. Under certain circumstances you may be counseled and
-released, which means no further action will be required of you.
+as perform community restitution; attend counseling, informational, restorative justice, or
+educational sessions; pay restitution; and follow requirements to attend school, observe home
+curfews, abide by restrictions to certain geographical locations, and refrain from any contact with
+victims or witnesses of the offense; but you cannot be sent to jail. Under certain circumstances
+you may be counseled and released, which means no further action will be required of you.
 
       3. If you do not follow the diversion agreement, the prosecutor may bring you to a hearing
-for the offenses with which you are charged. If you do not appear at the court hearing, the court
-may order that you be arrested.
+for the offenses you are charged with. If you do not appear at the court hearing, the court may
+order that you be arrested.
 
-      4. When you are 18 years old, you may ask the court to destroy all records on this offense if
-your criminal history consists of only one diversion and 2 years have passed since you completed
-the diversion agreement.
+     4. You may ask the court to seal your file on your current offense(s) if you spend 2
+continuous years in the community from the date you complete the terms of your diversion
+agreement without committing any offense or crime that results in conviction or diversion.
 
       5. You have the right to talk to a lawyer about whether you should participate in diversion
 or whether you should go to court. You will not have to pay for a lawyer if you cannot afford it.
 If you do not believe you committed this offense, you should talk to a lawyer.
 
       6. When you agree to participate in the diversion process, you do not have the right to have
-a free lawyer appointed for you to help you work out a diversion agreement but you do have the
+a free lawyer appointed for you to help you work out a diversion agreement, but you do have the
 right to have a lawyer help you work out a diversion agreement if you can afford to pay for it.
 
-      7. You do not have to participate in diversion. If you do not participate, your case will go to
-court if charges are filed by the prosecutor. If your case goes to court, you can talk to a lawyer but
-you may have to pay for it. If you are found guilty in court, the maximum penalty cannot be
-greater than the maximum penalty the diversion unit may impose.
+     7. You do not have to participate in diversion. If you choose not to participate, your case
+will go to court if charges are filed by the prosecutor. If your case goes to court, you can talk to a
+lawyer, but you may have to pay for it.
 
-      8. If you are charged with a traffic infraction and agree to diversion, the diversion unit may
-notify the Department of Licensing. This may affect your driving privileges.
-
-     9. I have read or someone has read to me everything printed above, and I understand it. I
+     8. I have read or someone has read to me everything printed above, and I understand it. I
 have been given a copy of this statement.
 
-Dated ________________________ Dated _____________________________
-______________________________ ___________________________________
-Parent or Guardian (optional)    Juvenile
+Dated _____________________________                 Dated _________________________
+__________________________________                  ______________________________
+Parent or Guardian (optional)                       Juvenile
 
 The above statement was read to the juvenile and signed by the juvenile on the date indicated.
                                                  ___________________________________
@@ -1217,12 +1197,13 @@ understanding of both the translation and the subject matter of this document. I
 penalty of perjury under the laws of the State of Washington that the foregoing is true and
 correct.
 
-     Dated this _____ day of ____________, 19___, at ___________, Washington.
+     Dated ___________________
 
                                                     ___________________________________
                                                     Interpreter
 
-[Adopted effective July 1, 1978; Amended effective September 1, 1987; September 1, 1999.]
+[Adopted effective July 1, 1978; Amended effective September 1, 1987; September 1, 1999;
+September 1, 2026.]
 ```
 
 <a id="jucr-6-5"></a>
@@ -1578,11 +1559,10 @@ following form:
  v.
                                                                  STATEMENT ON PLEA OF GUILTY
                                                     ,            (STJOPG)
-                                              Respondent
+                                               Respondent
 
-1.    My true name is:
-_______________________________________________________________. I am also known as:
-___________________________________________________________.
+1.     My true name is:                                                                                       .
+       I am also known as:                                                                                    .
 2.     My age is ____________. Date of Birth: _______________________________.
 3.     I have been informed and fully understand that I have the right to a lawyer, and that if I cannot
        afford to pay for a lawyer, the judge will provide me with one at no cost. I understand that a
@@ -1629,16 +1609,16 @@ ___________________________________________________________.
          e.
          f.
 
-7.       The Standard Sentencing Range, which was calculated using my criminal history as referenced
-         in Paragraph 6, above, is as follows:
+7.       The Standard Sentencing Range, which was calculated using my criminal history as referenced in
+         Paragraph 6, above, is as follows:
 
                LOCAL SANCTIONS:
 
- COUNT        SUPERVISION           COMMUNITY              DETENTION        RESTITUTION
-                                    SERVICE
- [ ]1         0 to 12 months        0 to 150 hours         0 to 30 Days     [ ] As required [ ]
- [ ]2         0 to 12 months        0 to 150 hours         0 to 30 Days     [ ] As required [ ]
- [ ]3         0 to 12 months        0 to 150 hours         0 to 30 Days     [ ] As required [ ]
+ COUNT        SUPERVISION          COMMUNITY              DETENTION        RESTITUTION
+                                   SERVICE
+ [ ]1         0 to 12 months       0 to 150 hours         0 to 30 Days     [ ] As required [ ]
+ [ ]2         0 to 12 months       0 to 150 hours         0 to 30 Days     [ ] As required [ ]
+ [ ]3         0 to 12 months       0 to 150 hours         0 to 30 Days     [ ] As required [ ]
 
          I understand that if community supervision is imposed, I will be required to comply with various
          rules, which could include school attendance, curfew, law abiding behavior, associational
@@ -1649,15 +1629,15 @@ ___________________________________________________________.
            COMMITMENT TO DEPARTMENT OF CHILDREN, YOUTH, AND FAMILIES JUVENILE
          REHABILITATION (DCYFJR) :
 
- COUNT         WEEKS AT DCYFJR FACILITY                                                   RESTITUTION
-     1            15 - 36    30 - 40     52 - 65     80 - 100   103 - 129                     As required
+ COUNT         WEEKS AT DCYFJR FACILITY                                                  RESTITUTION
+     1            15 - 36    30 - 40     52 - 65    80 - 100   103 - 129                     As required
                   180 - Age 21     129 - 260
-     2            15 - 36    30 - 40     52 - 65     80 - 100   103 - 129                     As required
+     2            15 - 36    30 - 40     52 - 65    80 - 100   103 - 129                     As required
                   180 - Age 21     129 – 260
-     3            15 - 36    30 - 40     52 - 65     80 - 100   103 - 129                     As required
+     3            15 - 36    30 - 40     52 - 65    80 - 100   103 - 129                     As required
                   180 - Age 21     129 - 260
 
-         I understand that, if I am committed to a DCYFJR facility, following my release I may be required
+         I understand that if I am committed to a DCYFJR facility, following my release I may be required
          to comply with a program of parole for a number of months. I understand that if placed on parole,
          I will be under the supervision of a parole officer. The conditions of parole will restrict my actions
          and may require me to participate in activities and programs including, but not limited to,
@@ -1679,255 +1659,266 @@ ___________________________________________________________.
          sentence would amount to a manifest injustice. If the judge goes outside the standard range,
          either the State or I can appeal that sentence. If the sentence is within the standard range, no
          one can appeal the sentence.
-9.    MAXIMUM PUNISHMENT: I have been informed, and fully understand, that the maximum
-      punishment I can receive is commitment until I am       21 years old   23 years old    25 years
-      old, but that I may be incarcerated for no longer than the adult maximum sentence for this
-      offense.
+9.     MAXIMUM PUNISHMENT: I have been informed, and fully understand, that the maximum
+       punishment I can receive is commitment until I am       21 years old   23 years old    25 years
+       old, but that I may be incarcerated for no longer than the adult maximum sentence for this
+       offense.
 
-10.   COUNTS AS CRIMINAL HISTORY: I understand that my plea of guilty and the judge’s
-      acceptance of my plea will become part of my criminal history. I understand that if I am pleading
-      guilty to 2 or more offenses that arise out of the same course of conduct, only the most serious
-      offense will count as an offense in my criminal history. I understand that my guilty plea will
-      remain part of my criminal history when I am an adult and may affect my ability to remain in the
-      Juvenile Justice System should I re-offend. I understand that the judge will consider my criminal
-      history when sentencing me for any offense that I commit in the future as an adult or juvenile,
-      except juvenile adjudications of guilt which are not murder in the 1st or 2nd degree or a class A
-      sex offense cannot be included in my adult offender score later.
+10.    COUNTS AS CRIMINAL HISTORY: I understand that my plea of guilty and the judge’s
+       acceptance of my plea will become part of my criminal history. I understand that if I am pleading
+       guilty to 2 or more offenses that arise out of the same course of conduct, only the most serious
+       offense will count as an offense in my criminal history. I understand that my guilty plea will
+       remain part of my criminal history when I am an adult and may affect my ability to remain in the
+       Juvenile Justice System should I re-offend. I understand that the judge will consider my criminal
+       history when sentencing me for any offense that I commit in the future as an adult or juvenile,
+       except juvenile adjudications of guilt which are not murder in the 1st or 2nd degree or a class A
+       sex offense cannot be included in my adult offender score later.
 
-11.   GROUNDS FOR DEPORTATION: If I am not a citizen of the United States, a plea of guilty to an
-      offense punishable as a crime under state law may be grounds for deportation, exclusion from
-      admission to the United States, or denial of naturalization pursuant to the laws of the United States.
+11.    GROUNDS FOR DEPORTATION: If I am not a citizen of the United States, a plea of guilty to an
+       offense punishable as a crime under state law may be grounds for deportation, exclusion from
+       admission to the United States, or denial of naturalization pursuant to the laws of the United States.
 
-12.   NOTIFICATION RELATING TO SPECIFIC CRIMES: IF ANY OF THE FOLLOWING
-      PARAGRAPHS DO NOT APPLY, THEY SHOULD BE STRICKEN AND INITIALED BY THE
-      DEFENDANT AND THE JUDGE.
+12.    NOTIFICATION RELATING TO SPECIFIC CRIMES: IF ANY OF THE FOLLOWING
+       PARAGRAPHS APPLY, THE BOX SHOULD BE CHECKED AND THE PARAGRAPH INITIALED
+       BY THE RESPONDENT.
 
-      [A]     SUSPENSION/REVOCATION OF DRIVING PRIVILEGE: I have been informed that the
-              Department of Licensing will be notified and my privilege to drive suspended or revoked:
+______ [ ]     [A] SUSPENSION/REVOCATION OF DRIVING PRIVILEGE: I have been informed that
+               the Department of Licensing will be notified and my privilege to drive suspended or
+               revoked:
 
-              Over 13 & Alcohol, Drugs, Unlawful Possession of a Firearm (UPFA) <18, or
-              Armed with Firearm (not first offense): (1) If the court finds me guilty of 1 of the
-              following offenses and I was 13 years or older at the time I committed the offense:
-              alcohol under chapter 66.44 RCW; Violation of the Uniform Controlled Substances Act
-              (VUCSA) under chapter 69.50 RCW; legend drug under chapter 69.41 RCW; imitation
-              drugs under chapter 69.52 RCW; UPFA <18 under RCW 9.41.040(2)(a)(vi); and/or an
-              offense while armed with a firearm under RCW 13.40.196; AND (2) I have a prior
-              offense for the same offense. See RCW 13.40.265.
+               Over 13 & Alcohol, Drugs, Unlawful Possession of a Firearm (UPFA) <18, or
+               Armed with Firearm (not first offense): (1) If the court finds me guilty of 1 of the
+               following offenses and I was 13 years or older at the time I committed the offense:
+               alcohol under chapter 66.44 RCW; Violation of the Uniform Controlled Substances Act
+               (VUCSA) under chapter 69.50 RCW; legend drug under chapter 69.41 RCW; imitation
+               drugs under chapter 69.52 RCW; UPFA <18 under RCW 9.41.040(2)(a)(v); and/or an
+               offense while armed with a firearm under RCW 13.40.196; AND (2) I have a prior
+               offense for the same offense. See RCW 13.40.265.
 
-              UPFA or Armed During Offense in Which Vehicle Was Used (with priors):
-              (1) If the court finds me guilty of 1 of the following offenses: UPFA 1 or 2 under
-              RCW 9.41.040; and/or an offense while armed with a firearm under RCW 13.40.196
-              during which the court found a motor vehicle served an integral function during the
-              offense; AND (2) I previously committed 1 or more of the following offenses: alcohol
-              under chapter 66.44 RCW; VUCSA under chapter 69.50 RCW; legend drug under
-              chapter 69.41 RCW; imitation drugs under chapter 69.52 RCW; UPFA under RCW
-              9.41.040; and/or an offense while armed with a firearm under RCW 13.40.196. See
-              RCW 9.41.040(5).
+               UPFA or Armed During Offense in Which Vehicle Was Used (with priors):
+               (1) If the court finds me guilty of 1 of the following offenses: UPFA 1 or 2 under
+               RCW 9.41.040; and/or an offense while armed with a firearm under RCW 13.40.196
+               during which the court found a motor vehicle served an integral function during the
+               offense; AND (2) I previously committed 1 or more of the following offenses: alcohol
+               under chapter 66.44 RCW; VUCSA under chapter 69.50 RCW; legend drug under
+               chapter 69.41 RCW; imitation drugs under chapter 69.52 RCW; UPFA under RCW
+               9.41.040; and/or an offense while armed with a firearm under RCW 13.40.196. See
+               RCW 9.41.040(5).
 
-              Certain Motor Vehicle Offenses: If the court finds me guilty of 1 of the following
-              offenses: DUI; physical control; DWLS 1&2; vehicular assault/homicide; hit-and-run
-              attended; reckless driving; any felony offense where a vehicle was used in a manner
-              that endangered persons or property (except “TMVWOP2” (taking a motor vehicle
-              without owner’s permission) where the court finds I was a passenger only in committing
-              the offense); false statements under Title 46 RCW; felony elude; unattended child in
-              running vehicle (second or subsequent conviction); reckless endangerment of road
-              workers; and/or theft of motor vehicle fuel. See RCW 46.20.285, 46.61.5055(9),
-              46.20.342(2), 46.61.524, 46.52.020(6), 46.61.500(2), 46.61.024(3), 46.61.685(2),
-              46.61.527(5), 46.61.740(2), and 46.20.270.
+               Certain Motor Vehicle Offenses: If the court finds me guilty of 1 of the following
+               offenses: DUI; physical control; DWLS 1&2; vehicular assault/homicide; hit-and-run
+               attended; reckless driving; any felony offense where a vehicle was used in a manner
+               that endangered persons or property (except “TMVWOP2” (taking a motor vehicle
+               without owner’s permission) where the court finds I was a passenger only in committing
+               the offense); false statements under Title 46 RCW; felony elude; unattended child in
+               running vehicle (second or subsequent conviction); reckless endangerment of road
+               workers; and/or theft of motor vehicle fuel. See RCW 46.20.285, 46.61.5055(9),
+               46.20.342(2), 46.61.524, 46.52.020(6), 46.61.500(2), 46.61.024(3), 46.61.685(2),
+               46.61.527(5), 46.61.740(2), and 46.20.270.
 
-      [B]     OFFENDER REGISTRATION FOR SEX OFFENSE OR KIDNAPPING OFFENSE: One
-              or more of the offenses I am pleading guilty to involve a sex or kidnapping offense and
-              meets the requirements of RCW 9A.44.130 for registration. The specific registration
-              requirements are located in the “Offender Registration” Attachment.
+______ [ ]     [B] OFFENDER REGISTRATION FOR SEX OFFENSE OR KIDNAPPING OFFENSE:
+               One or more of the offenses I am pleading guilty to involve a sex or kidnapping offense and
+               meets the requirements of RCW 9A.44.130 for registration. The specific registration
+               requirements are located in the “Offender Registration” Attachment.
 
-              Because I am a non-adult, and the offense involves one or more of the following offense
-              conditions as checked below, I will be required to register unless I qualify for and am
-              granted a Special Sexual Offender Disposition Alternative (SSODA) under RCW 13.40.162,
-              and I complete the SSODA without being revoked:
-
+               Because I am a non-adult, and the offense involves one or more of the following offense
+               conditions as checked below, I will be required to register unless I qualify for and am
+               granted a Special Sexual Offender Disposition Alternative (SSODA) under RCW 13.40.162,
+               and I complete the SSODA without being revoked:
                  Kidnapping Offense – I committed Kidnapping in the First or Second Degree, or,
-              Unlawful Imprisonment, as defined in chapter 9A.40 RCW, where the victim is a minor
-      and I am not the minor’s parent, or, any criminal attempt, solicitation, or conspiracy to
-      commit the same under chapter 9A.28 RCW, RCW 9A.44.130(b)(vi).
-          Sex Offense- RCW 9A.44.130(b)(i-v)
-          Class A or B Sex Offense When 16 or 17 – I was 16 or 17 years of age when I
-      committed a Class A or B sex offense.
-          Rape in the First Degree When 14 or 15 – I was 14 or 15 years old when I
-      committed Rape in the First Degree.
-          Rape in the Second Degree When 14 or 15 – I was 14 or 15 years old when I
-      committed Rape in the Second Degree.
-          Prior Sex Offense – I committed a sex offense and at the time of the offense I had a
-      prior conviction for a sex offense or a deferred disposition for a sex offense, including any
-      out of state, tribal, or federal conviction for a sex offense.
+             Unlawful Imprisonment, as defined in chapter 9A.40 RCW, where the victim is a minor
+             and I am not the minor’s parent, or, any criminal attempt, solicitation, or conspiracy to
+             commit the same under chapter 9A.28 RCW, RCW 9A.44.130(b)(vi).
+                 Sex Offense- RCW 9A.44.130(b)(i-v)
+                 Class A or B Sex Offense When 16 or 17 – I was 16 or 17 years of age when I
+             committed a Class A or B sex offense.
+                 Rape in the First Degree When 14 or 15 – I was 14 or 15 years old when I
+             committed Rape in the First Degree.
+                 Rape in the Second Degree When 14 or 15 – I was 14 or 15 years old when I
+             committed Rape in the Second Degree.
+                 Prior Sex Offense – I committed a sex offense and at the time of the offense I had a
+             prior conviction for a sex offense or a deferred disposition for a sex offense, including any
+             out of state, tribal, or federal conviction for a sex offense.
 
-      REGISTRATION WARNING FOR A MULTIPLE SEX OFFENSE ADJUDICATIONS:
-      I understand that anytime I have been adjudicated of multiple sex offenses, a court could
-      require me to register as a sex offender if the court finds by clear, cogent, and convincing
-      evidence that (i) I was 14 through 17 years of age at the time I committed a sex offense,
-      (ii) I did not receive a Special Sexual Offender Disposition Alternative (SSODA) under
-      RCW 13.40.162 for the sex offense committed, or, that SSODA is revoked, (iii) I have
-      been adjudicated of multiple sex offense involving two or more distinct victims and in
-      separate counts or causes, (iv) I present a serious threat to public safety after my last
-      date of release from confinement, including full-time residential treatment, if any, or entry
-      of disposition, and (v) registration will lessen the serious threat to public safety.
+             REGISTRATION WARNING FOR A MULTIPLE SEX OFFENSE ADJUDICATIONS:
+             I understand that anytime I have been adjudicated of multiple sex offenses, a court could
+             require me to register as a sex offender if the court finds by clear, cogent, and convincing
+             evidence that (i) I was 14 through 17 years of age at the time I committed a sex offense,
+             (ii) I did not receive a Special Sexual Offender Disposition Alternative (SSODA) under
+             RCW 13.40.162 for the sex offense committed, or, that SSODA is revoked, (iii) I have
+             been adjudicated of multiple sex offenses involving two or more distinct victims and in
+             separate counts or causes, (iv) I present a serious threat to public safety after my last
+             date of release from confinement, including full-time residential treatment, if any, or entry
+             of disposition, and (v) registration will lessen the serious threat to public safety.
 
-[C]   DNA TESTING: Pursuant to RCW 43.43.754, if this crime involves a felony, or an
-      offense that requires sex or kidnapping offender registration, or any of the following
-      offenses: stalking, harassment, communication with a minor for immoral purposes,
-      assault in the fourth degree where domestic violence was pleaded and proved, assault in
-      the fourth degree with sexual motivation, custodial sexual misconduct in the second
-      degree, failure to register as a sex or kidnapping offender, patronizing a prostitute, sexual
-      misconduct with a minor in the second degree, indecent exposure, or violation of a
-      sexual assault protection order, I will be required to have a biological sample collected for
-      purposes of DNA identification analysis. This paragraph does not apply if it is established
-      that the Washington State Patrol crime laboratory already has a sample from me for a
-      qualifying offense.
+______ [ ]   [C] DNA TESTING: Pursuant to RCW 43.43.754, if this crime involves a felony, or an
+             offense that requires sex or kidnapping offender registration, or any of the following
+             offenses: stalking, harassment, communication with a minor for immoral purposes,
+             assault in the fourth degree where domestic violence was pleaded and proved, assault in
+             the fourth degree with sexual motivation, custodial sexual misconduct in the second
+             degree, failure to register as a sex or kidnapping offender, patronizing a prostitute, sexual
+             misconduct with a minor in the second degree, indecent exposure, or violation of a sexual
+             assault protection order, I will be required to have a biological sample collected for
+             purposes of DNA identification analysis. This paragraph does not apply if it is established
+             that the Washington State Patrol crime laboratory already has a sample from me for a
+             qualifying offense.
 
-[D]   SCHOOL NOTIFICATION: I understand that if 1 or more of the offenses for which I am
-      pleading guilty is a violent offense as defined in RCW 9.94A.030; a sex offense as
-      defined in RCW 9.94A.030; an offense under chapter 9.41 RCW (firearms/weapons); or
-      unlawful possession or delivery, or both, of a controlled substance in violation of chapter
-      69.50 RCW; then, following my adjudication of guilt, the court will provide written
-      notification of the adjudication to any school in which I was enrolled prior to adjudication,
-      or in which I express an intent to enroll following adjudication, unless (1) I have already
-      received a high school diploma or its equivalent or (2) I am over the age of 18 and my
-      enrollment information cannot be obtained or I assert no intention of enrolling in any
-      educational program.
+______ [ ]   [D] SCHOOL NOTIFICATION: I understand that if 1 or more of the offenses for which I
+             am pleading guilty is a violent offense as defined in RCW 9.94A.030; a sex offense as
+             defined in RCW 9.94A.030; an offense under chapter 9.41 RCW (firearms/weapons); or
+             unlawful possession or delivery, or both, of a controlled substance in violation of chapter
+             69.50 RCW; then, following my adjudication of guilt, the court will provide written
+             notification of the adjudication to any school in which I was enrolled prior to adjudication,
+             or in which I express an intent to enroll following adjudication, unless (1) I have already
+             received a high school diploma or its equivalent or (2) I am over the age of 18 and my
+             enrollment information cannot be obtained or I assert no intention of enrolling in any
+             educational program.
 
-[E]   SCHOOL ATTENDANCE WITH VICTIM PROHIBITED: I understand that if I am pleading
-      guilty to a sex offense, I will not be allowed to attend the school attended by the victim or
-      victim’s siblings. RCW 13.40.162.
+______ [ ]   [E] SCHOOL ATTENDANCE WITH VICTIM PROHIBITED: I understand that if I am
+             pleading guilty to a sex offense, I will not be allowed to attend the school attended by the
+             victim or victim’s siblings. RCW 13.40.162.
 
-[F]   MANDATORY MINIMUM SENTENCE: The crime of ____________________________
-      has a mandatory minimum sentence of at least ___________________ weeks of total
-      confinement. The law does not allow any reduction of this sentence.
+______ [ ]   [F] MANDATORY MINIMUM SENTENCE: The crime of
+             ____________________________ has a mandatory minimum sentence of at least
+             ___________________ weeks of total confinement. The law does not allow any reduction
+             of this sentence.
 
-[G]   RIGHT TO POSSESS FIREARMS: [JUDGE MUST READ THE FOLLOWING TO
-      OFFENDER] I have been informed that if I am pleading guilty to any offense that is
-      classified as: (1) a felony, or (2) any of the following crimes when committed by 1 family or
-      household member against another or by 1 intimate partner against another: assault in
-      the fourth degree, coercion, stalking, reckless endangerment, criminal trespass in the first
-      degree, or violation of the provisions of a protection order or no-contact order restraining the
-      person or excluding the person from a residence, or (3) harassment committed by 1 family
-      or household member against another or by 1 intimate partner against another, committed
-      on or after June 7, 2018; that I may not possess, own, or have under my control any
-      firearm, and under federal law any firearm or ammunition, unless my right to do so has
-      been restored by the court in which I am adjudicated or the superior court in Washington
-      State where I live, and by a federal court if required.
+______ [ ]   [G] RIGHT TO POSSESS FIREARMS: [JUDGE MUST READ THE FOLLOWING TO
+             OFFENDER] I have been informed that if I am pleading guilty to any offense that is
+             classified as: (1) a felony; or (2) any of the following crimes when committed by 1 family or
+             household member against another or by 1 intimate partner against another: assault in
+             the fourth degree, coercion, stalking, reckless endangerment, criminal trespass in the first
+             degree, or violation of the provisions of a protection order or no-contact order restraining
+             the person or excluding the person from a residence; or (3) harassment committed by 1
+             family or household member against another or by 1 intimate partner against another,
+             committed on or after June 7, 2018; or (4) the following misdemeanor or gross
+             misdemeanor crime(s) committed on or after July 23, 2023: domestic violence (RCW
+             10.99.020); stalking; cyberstalking; cyber harassment, excluding when committed solely
+             pursuant to the element set forth in RCW 9A.90.120(1)(a)(i); harassment; aiming or
+             discharging a firearm (RCW 9.41.230); unlawful carrying or handling of a firearm 2 (RCW
+             9.41.270); animal cruelty in the second degree committed under RCW 16.52.207(1); or,
+             any “prior offense” involving impaired driving as defined in RCW 46.61.5055(14) if
+             committed within 7 years of a conviction for any other prior offense for impaired driving
+             under RCW 46.61.5055; or (5) a violation of the provisions of an order to surrender and
+             prohibit weapons, an extreme risk protection order, or the provisions of any other
+             protection order or no-contact order restraining the person or excluding the person from a
+             residence, committed on or after, July 23, 2023, that I may not possess, own, or have
+             under my control any firearm, and under federal law any firearm or ammunition, unless my
+             firearm rights are restored by the court in which I am adjudicated and by a federal court if
+             required.
 
-[H]   FIREARMS POSSESSION OR COMMISSION WHILE ARMED:
-              [i]     Minimum 10 Days for Possession Under Age 18: I understand that the offense I
-                      am pleading guilty to includes possession of a firearm in violation of RCW
-                      9.41.040(2)(a)(vi), and pursuant to RCW 13.40.193, the judge will impose a
-                      mandatory minimum disposition of 10 days of confinement, which must be
-                      served in total confinement without possibility of release until a minimum of 10
-                      days has been served.
-              [ii]    Unlawful Possession with Stolen Firearm: I understand that if the offenses I am
-                      pleading guilty to include both a conviction under RCW 9.41.040 for unlawful
-                      possession of a firearm in the first or second degree and 1 or more convictions
-                      for the felony crimes of theft of a firearm or possession of a stolen firearm, that
-                      the sentences imposed for these crimes shall be served consecutively to each
-                      other. A consecutive sentence will also be imposed for each firearm unlawfully
-                      possessed.
-              [iii]   Armed During Commission of Any Offense: I understand that if the offense I am
-                      pleading guilty to includes a finding that either I or my accomplice was armed
-                      with a firearm during the commission of the offense, that the standard range
-                      disposition shall be determined pursuant to RCW 13.40.160, unless the judge
-                      finds a manifest injustice, in which case the disposition shall be determined
-                      pursuant to RCW 13.40.193(3). Such confinement will run consecutive to any
-                      other sentence that may be imposed.
-              [iv]    Armed During Commission of a Felony: I further understand that the offense I
-                      am pleading guilty to includes a finding that either myself or my accomplice was
-                      armed with a firearm during the commission of a felony (other than possession of
-                      a machine gun, possession of a stolen firearm, drive-by shooting, theft of a
-                      firearm, unlawful possession of a firearm in the first or second degree, or use of a
-                      machine gun in a felony) and, therefore, unless the felony is a “violent offense”
-                      as defined in RCW 9.94A.030, committed when I was 16 or 17 years old, the
-                      following mandatory periods of total confinement will be added to my sentence:
-                      For a class A felony, six (6) months; for a class B felony, four (4) months; and for
-                      a class C felony, two (2) months. If the felony is a “violent offense” as defined in
-                      RCW 9.94A.030, committed when I was 16 or 17 years old, then a period of 12
-                      months will be added to my sentence. Such confinement will run consecutive to
-                      any other sentence that may be imposed.
-              [v]     Armed During Violent Offense at Age 16 or 17 with Gang Involvement: I further
-                      understand that the offense I am pleading guilty to includes a finding that (a) I
-                      was 16 or 17 years old during the commission of a robbery in the first degree,
-                      drive-by shooting, burglary in the first degree, or any “violent offense” as defined
-                      in RCW 9.94A.030, (b) during commission of the offense I was armed with a
-                      firearm, and (c) my participation in the offense was related to membership in a
-                      criminal street gang or advanced the benefit, aggrandizement, gain, profit, or
-                      other advantage for a criminal street gang; therefore, a period of three (3)
-                      months will be added to my sentence. Such confinement will run consecutive to
-                      any other sentence that may be imposed.
-              [vi]    Unlawful Possession of a Firearm in the 1st or 2nd degree: I understand that if I
-                      am pleading guilty to Unlawful Possession of a Firearm in the 1st or 2nd degree,
-                      I must participate in a “qualifying program” unless there is no such program
-                      available or the court makes a written finding based on the juvenile court risk
-                      assessment that participation in the program would not be appropriate. A
-                      qualifying program means an aggression replacement training program, a
-                      functional family therapy program, or another cost-beneficial, evidence, or research
-                      based approved program applicable to the juvenile firearm offender population.
+______ [ ]   [H] FIREARMS POSSESSION OR COMMISSION WHILE ARMED:
 
-      [I]     FELONY FIREARM OFFENDER REGISTRATION: I am subject to court-ordered felony
-              firearm offender registration pursuant to RCW 9.41.330. The specific registration
-              requirements are located in the “Felony Firearm Offender Registration” Attachment.
+             [i]     Minimum 10 Days for Possession Under Age 18: I understand that the offense I
+                     am pleading guilty to includes possession of a firearm in violation of RCW
+                     9.41.040(2)(a)(v), and pursuant to RCW 13.40.193, the judge will impose a
+                     mandatory minimum disposition of 10 days of confinement, which must be
+                     served in total confinement without possibility of release until a minimum of 10
+                     days has been served.
+             [ii]    Unlawful Possession with Stolen Firearm: I understand that if the offenses I am
+                     pleading guilty to include both a conviction under RCW 9.41.040 for unlawful
+                     possession of a firearm in the first or second degree and 1 or more convictions
+                     for the felony crimes of theft of a firearm or possession of a stolen firearm, that
+                     the sentences imposed for these crimes shall be served consecutively to each
+                     other. A consecutive sentence will also be imposed for each firearm unlawfully
+                     possessed.
+             [iii]   Armed During Commission of Any Offense: I understand that if the offense I am
+                     pleading guilty to includes a finding that either I or my accomplice was armed
+                     with a firearm during the commission of the offense, that the standard range
+                     disposition shall be determined pursuant to RCW 13.40.160, unless the judge
+                     finds a manifest injustice, in which case the disposition shall be determined
+                     pursuant to RCW 13.40.193(3). Such confinement will run consecutive to any
+                     other sentence that may be imposed.
+             [iv]    Armed During Commission of a Felony: I further understand that the offense I
+                     am pleading guilty to includes a finding that either myself or my accomplice was
+                     armed with a firearm during the commission of a felony (other than possession of
+                     a machine gun, possession of a stolen firearm, drive-by shooting, theft of a
+                     firearm, unlawful possession of a firearm in the first or second degree, or use of a
+                     machine gun in a felony) and, therefore, unless the felony is a “violent offense”
+                     as defined in RCW 9.94A.030, committed when I was 16 or 17 years old, the
+                     following mandatory periods of total confinement will be added to my sentence:
+                     For a class A felony, six (6) months; for a class B felony, four (4) months; and for
+                     a class C felony, two (2) months. If the felony is a “violent offense” as defined in
+                     RCW 9.94A.030, committed when I was 16 or 17 years old, then a period of 12
+                     months will be added to my sentence. Such confinement will run consecutive to
+                     any other sentence that may be imposed.
+             [v]     Armed During Violent Offense at Age 16 or 17 with Gang Involvement: I further
+                     understand that the offense I am pleading guilty to includes a finding that (a) I
+                     was 16 or 17 years old during the commission of a robbery in the first degree,
+                     drive-by shooting, burglary in the first degree, or any “violent offense” as defined
+                     in RCW 9.94A.030, (b) during commission of the offense I was armed with a
+                     firearm, and (c) my participation in the offense was related to membership in a
+                     criminal street gang or advanced the benefit, aggrandizement, gain, profit, or
+                     other advantage for a criminal street gang; therefore, a period of three (3) months
+                     will be added to my sentence. Such confinement will run consecutive to any
+                     other sentence that may be imposed.
+             [vi]    Unlawful Possession of a Firearm in the 1st or 2nd degree: I understand that if I
+                     am pleading guilty to Unlawful Possession of a Firearm in the 1st or 2nd degree,
+                     I must participate in a “qualifying program” unless there is no such program
+                     available or the court makes a written finding based on the juvenile court risk
+                     assessment that participation in the program would not be appropriate. A
+                     qualifying program means an aggression replacement training program, a
+                     functional family therapy program, or another cost-beneficial, evidence, or research
+                     based approved program applicable to the juvenile firearm offender population.
+______ [ ]      [I] FELONY FIREARM OFFENDER REGISTRATION: I am subject to court-ordered
+                felony firearm offender registration pursuant to RCW 9.41.330. The specific registration
+                requirements are located in the “Felony Firearm Offender Registration” Attachment.
 
-13.   I understand that the prosecuting attorney will make the following recommendation to the judge:
-      ____________________________________________________________________________
-      ____________________________________________________________________________
-      ____________________________________________________________________________.
+13.    I understand that the prosecuting attorney will make the following recommendation to the judge:
+       ____________________________________________________________________________
+       ____________________________________________________________________________
+       ____________________________________________________________________________.
 
-14.   I understand that the probation counselor will make the following recommendation to the judge:
-      ____________________________________________________________________________
-      ____________________________________________________________________________
-        ____________________________________________________________________________.
+14.    I understand that the probation counselor will make the following recommendation to the judge:
+       ____________________________________________________________________________
+       ____________________________________________________________________________
+       ____________________________________________________________________________.
 
-15.     Although the judge will consider recommendations of the prosecuting attorney and the probation
-        officer, the judge may impose any sentence they feel is appropriate, up to the maximum allowed
-        by law.
+15.    Although the judge will consider recommendations of the prosecuting attorney, the probation
+       officer, and the defense attorney, the judge may impose any sentence that they feel is
+       appropriate, up to the maximum allowed by law.
 
-16.     I plead guilty to count _________________ in the ____________________________ Information. I
-        have received a copy of that Information.
+16.    I plead guilty to count _________________ in the ____________________________ Information. I
+       have received a copy of that Information.
 
-17.     I make this plea freely and voluntarily. No one has threatened to harm me or anyone else to get
-        me to plead guilty.
+17.    I make this plea freely and voluntarily. No one has threatened to harm me or anyone else to get
+       me to plead guilty.
 
-18.     No one has made any promises to make me plead guilty, except as written in this statement.
+18.    No one has made any promises to make me plead guilty, except as written in this statement.
 
-19.     [Statement of Respondent.] The judge has asked me to state in my own words what I did that
-        makes me guilty of this crime. This is my statement:
+19.    [Statement of Respondent.] The judge has asked me to state in my own words what I did that
+       makes me guilty of this crime. This is my statement:
 
-                                                                                                          .
-        [ ] The crime(s) was (were) committed against family or household member(s):
-             _________________________________________________ (name(s)).
-        [ ] The crime(s) was (were) committed against intimate partner(s):
-             __________________________________________ (name(s)).
-        [ ] [No statement made.] Instead of making a statement, I agree that the judge may review the
-        police reports and/or a statement of probable cause supplied by the prosecution to establish a
-        factual basis for the plea, including a determination of my relationship to each victim as:
-            [ ] family or household member(s): _______________________________________ (name(s)).
+                                                                                                           .
+       [ ] The crime(s) was (were) committed against family or household member(s):
+            _________________________________________________ (name(s)).
+       [ ] The crime(s) was (were) committed against intimate partner(s):
+            __________________________________________ (name(s)).
+       [ ] [No statement made.] Instead of making a statement, I agree that the judge may review the
+       police reports and/or a statement of probable cause supplied by the prosecution to establish a
+       factual basis for the plea, including a determination of my relationship to each victim as:
+             [ ] family or household member(s): _______________________________________
+                  (name(s)).
 
-            [ ] intimate partner(s): _____________________________________________ (name(s)).
+             [ ] intimate partner(s): _____________________________________________ (name(s)).
 
-20.     I have read or someone has read to me everything printed above, and in Attachment “A,” if
-        applicable, and I understand it in full. I have been given a copy of this statement. I have no more
-        questions to ask the judge.
+20.    I have read or someone has read to me everything printed above, and in Attachment “A,” if
+       applicable, and I understand it in full. I have been given a copy of this statement. I have no more
+       questions to ask the judge.
 
-        [ ] An interpreter interpreted the document and my lawyer’s explanations into the ____________
-        language, which I understand.
+       [ ] An interpreter interpreted the document and my lawyer’s explanations into the ____________
+       language, which I understand.
 
 Dated: _____________________________                   ______________________________________
                                                        Respondent
                                                        I have read and discussed this statement with the
                                                        respondent and believe that the respondent is
                                                        competent and fully understands the statement.
+_______________________________________                ______________________________________
+Deputy Prosecuting Attorney WSBA No.                   Attorney for Respondent    WSBA No.
 
-_______________________________________                  ______________________________________
-Deputy Prosecuting Attorney WSBA No.                   Attorney for Respondent     WSBA No.
-
-_______________________________________
-                                       _______________________________________
-Type or Print Name                          Type or Print Name
+_______________________________________                _______________________________________
+Type or Print Name                                     Type or Print Name
 
                                         JUDGE’S CERTIFICATE
 The foregoing statement was signed by the respondent in open court in the presence of the respondent’s
@@ -1939,6 +1930,7 @@ lawyer and the undersigned judge. The respondent asserted that [check appropriat
         that the respondent understood it in full; or
   (c)   An interpreter had previously sight translated to the respondent the entire statement above and
         that the respondent understood it in full. The Interpreter’s Declaration is attached.
+
 INTERPRETER’S DECLARATION: I am a certified or registered interpreter, or have been found otherwise
 qualified by the court to interpret, in the ____________________________ language. I have interpreted this
 document for the respondent from English into that language. I certify under penalty of perjury under the
@@ -1961,8 +1953,8 @@ September 1, 1997; September 1, 1999; December 28, 1999; December 26, 2000; Apri
 August 6, 2002; August 3, 2004; September 1, 2004; August 1, 2006; July 31, 2007;
 August 12, 2008; July 8, 2010; December 13, 2011; July 24, 2012; August 20, 2013;
 August 5, 2014; December 22, 2015; August 2, 2016; August 1, 2017; July 31, 2018;
-July 30, 2019; July 28, 2020; December 28, 2021; August 8, 2023; December 26, 2023; August 6,
-2024.]
+July 30, 2019; July 28, 2020; December 28, 2021; August 8, 2023; December 26, 2023;
+August 6, 2024; September 1, 2026.]
 ```
 
 <a id="jucr-7-8"></a>

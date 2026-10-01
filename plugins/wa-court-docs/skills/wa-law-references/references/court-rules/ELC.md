@@ -1,7 +1,7 @@
 # Rules for Enforcement of Lawyer Conduct (ELC)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=ga&set=ELC
-- Pulled: 2026-05-02
+- Pulled: 2026-10-01
 - Rules: 133
 
 > Verbatim text extracted from the official PDFs published by the Washington
@@ -3536,13 +3536,15 @@ practice in this state was publicly disciplined, or was transferred to disabilit
 another jurisdiction, disciplinary counsel must obtain a copy of the order and file it with the
 Supreme Court, except in circumstances set forth in subsection (g).
 
-      (c) Supreme Court Action. Except in circumstances set forth in subsection (g), upon
-receipt of a copy of an order demonstrating that a lawyer admitted to practice in this state has
-been disciplined or transferred to disability inactive status in another jurisdiction, the Supreme
-Court orders the respondent lawyer to show cause within 60 days of service why it should not
-impose the identical discipline or disability inactive status. Disciplinary counsel must personally
-serve this order, and a copy of the order from the other jurisdiction, on the respondent under
-rule 4.1(b)(3).
+(c) Supreme Court Action. Except in circumstances set forth in subsection (g), upon receipt of
+a copy of an order demonstrating that a lawyer admitted to practice in this state has been
+disciplined or transferred to disability inactive status in another jurisdiction, the Supreme Court
+orders the respondent lawyer to show cause within 60 days of service why it should not impose
+the identical discipline or disability inactive status. Disciplinary counsel must personally serve
+this order, and a copy of the order from the other jurisdiction, on the respondent under
+rule 4.1(b)(3). Disciplinary counsel may file a reply to the respondent’s response to the order to
+show cause within 30 days after service of the response. The respondent may file a surreply to
+disciplinary counsel’s reply within 10 days after service of the reply.
 
       (d) Deferral. If the other jurisdiction has stayed the discipline or transfer, any reciprocal
 discipline or transfer in this state is deferred until the stay expires.
@@ -3575,17 +3577,18 @@ demonstrate that imposing the same discipline is not appropriate.
 be transferred to disability inactive status, the provisions of rule 8.10 as to appointment of
 counsel will apply.
 
-      (f) Conclusive Effect. Except as this rule otherwise provides, a final adjudication in
+     (f) Conclusive Effect. Except as this rule otherwise provides, a final adjudication in
 another jurisdiction that a lawyer has been guilty of misconduct or should be transferred to
 disability inactive status conclusively establishes the misconduct or the disability for purposes of
 a disciplinary or disability proceeding in this state.
+
       (g) Prior Matter in Washington. No action will be taken against a lawyer under this rule
 when the lawyer has already been the subject of discipline, disability transfer, or other final
 disposition of a grievance, disciplinary proceeding, or disability proceeding in Washington
 arising out of the same circumstances that are the basis for discipline, resignation, or disability
 transfer in another jurisdiction.
 
-[Adopted effective October 1, 2002; Amended effective January 1, 2014.]
+[Adopted effective October 1, 2002; Amended effective January 1, 2014; September 1, 2026.]
 ```
 
 <a id="elc-9-3"></a>

@@ -1,7 +1,7 @@
 # Rules of Appellate Procedure (RAP)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=app&set=RAP
-- Pulled: 2026-05-02
+- Pulled: 2026-10-01
 - Rules: 180
 
 > Verbatim text extracted from the official PDFs published by the Washington
@@ -137,15 +137,15 @@
   - [RAP 16.16 — Question Certified by Federal Court](#rap-16-16)
   - [RAP 16.17 — Other Rules Applicable](#rap-16-17)
   - [RAP 16.18 — Post-Sentence Petitions](#rap-16-18)
-  - [RAP 16.19 — Preparation of Report of Proceedings in Capital Cases](#rap-16-19)
-  - [RAP 16.20 — Transmittal of Jury Questionnaires and Clerk's Papers in Capital Cases](#rap-16-20)
-  - [RAP 16.21 — Clerk's Conference in Capital Cases](#rap-16-21)
-  - [RAP 16.22 — Filing of Briefs in Capital Cases](#rap-16-22)
-  - [RAP 16.23 — Oral Argument on Appeal in Capital Cases](#rap-16-23)
-  - [RAP 16.24 — Stay of Execution in Capital Cases](#rap-16-24)
-  - [RAP 16.25 — Appointment of Counsel on Personal Restraint Petition in Capital Cases](#rap-16-25)
-  - [RAP 16.26 — Personal Restraint Petitions in Capital Cases - Discovery](#rap-16-26)
-  - [RAP 16.27 — Personal Restraint Petition in Capital Cases - Investigative, Expert, and Other Services](#rap-16-27)
+  - [RAP 16.19 — Rescinded](#rap-16-19)
+  - [RAP 16.20 — Rescinded](#rap-16-20)
+  - [RAP 16.21 — Rescinded](#rap-16-21)
+  - [RAP 16.22 — Rescinded](#rap-16-22)
+  - [RAP 16.23 — Rescinded](#rap-16-23)
+  - [RAP 16.24 — Rescinded](#rap-16-24)
+  - [RAP 16.25 — Rescinded](#rap-16-25)
+  - [RAP 16.26 — Rescinded](#rap-16-26)
+  - [RAP 16.27 — Rescinded](#rap-16-27)
 - **Title 17 - Motions**
   - [RAP 17.1 — Scope](#rap-17-1)
   - [RAP 17.2 — Who Decides a Motion](#rap-17-2)
@@ -796,9 +796,9 @@ RAP 4.2
                   DIRECT REVIEW OF SUPERIOR COURT DECISION
                               BY SUPREME COURT
 
-      (a) Type of Cases Reviewed Directly. A party may seek review in the Supreme Court of a
-decision of a superior court which is subject to review as provided in Title 2 only in the
-following types of cases:
+      (a) Type of Cases Reviewed Directly. A party may seek review in the Supreme Court of
+a decision of a superior court that is subject to review as provided in Title 2 only in the following
+types of cases:
 
      (1) Authorized by Statute. A case in which a statute authorizes direct review in the
 Supreme Court.
@@ -816,13 +816,11 @@ which requires prompt and ultimate determination.
      (5) Action against State Officer. An action against a state officer in the nature of quo
 warranto, prohibition, injunction, or mandamus.
 
-     (6) Death Penalty. A case in which the death penalty has been decreed.
-
       (b) Procedure for Seeking Direct Review. A party seeking direct review of a superior
 court decision in the Supreme Court must file a notice of appeal or notice of discretionary review
 directed to the Supreme Court. Within 15 days after filing the notice of appeal or notice for
-discretionary review, the party seeking direct review must serve on all other parties and file in the
-Supreme Court a statement of grounds for direct review in the form provided in section (c).
+discretionary review, the party seeking direct review must serve on all other parties and file in
+the Supreme Court a statement of grounds for direct review in the form provided in section (c).
 
       (c) Form of Statement of Grounds for Direct Review. The statement should be
 captioned "Statement of Grounds for Direct Review," contain the title of the case as provided in
@@ -845,11 +843,11 @@ RAP 18.17.
 answer to the statement of grounds for direct review. In an appeal, the answer should be filed
 within 14 days after service of the statement on respondent. In a discretionary review, the answer
 should be filed with any response to the motion for discretionary review. The answer should
-comply with the length limitations of RAP 18.17. The answer should not exceed 15 pages,
-exclusive of appendices and the title sheet.
+comply with the formatting requirements and length limitations of RAP 18.17.
+
      (e) Effect of Denial of Direct Review.
 
-      (1) Appealable Decision. If the Supreme Court denies direct review of a superior court
+     (1) Appealable Decision. If the Supreme Court denies direct review of a superior court
 decision appealable as a matter of right, the case will be transferred without prejudice and
 without costs to the Court of Appeals for determination.
 
@@ -858,12 +856,12 @@ superior court decision may be granted, denied, or transferred to the Court of A
 determination. If the Supreme Court denies a motion for discretionary review of a superior court
 decision, the moving party may not file the same motion in the Court of Appeals.
 
-                                          References
+                                            References
 
      Form 4, Statement of Grounds for Direct Review.
 
 [Adopted effective July 1, 1976; Amended effective September 1, 1990; September 1, 1994;
-January 27, 1998; September 1, 2010; September 1, 2021.]
+January 27, 1998; September 1, 2010; September 1, 2021; September 1, 2026.]
 ```
 
 <a id="rap-4-3"></a>
@@ -1371,17 +1369,13 @@ RAP 6.3
                     DIRECT REVIEW OF A FINAL DECISION OF AN
                             ADMINISTRATIVE AGENCY
 
-       The appellate court accepts direct review of a final decision of an administrative agency in
-an adjudicative proceeding according to the procedures set forth in RCW 34.05.518 and RCW
-34.05.522. A case that has been certified for review by the superior court is treated as a direct
-appeal. A party contesting a superior court’s order on certification shall follow the procedures for
-discretionary review set forth in rule 6.2. A party contesting a superior court’s order granting
-certification shall file a motion for relief with the court of appeals within 15 days of the order
-granting certification. Review of the certification decision shall be guided by the standards set
-forth in RCW 34.05.518. On July 1, 2026 this rule shall revert to the version in effect prior to
-June 29, 2021.
+      The appellate court accepts direct review of a final decision of an administrative agency in
+an adjudicative proceeding under RCW 34.05.518 and RCW 34.05.522 by entering an order or
+ruling accepting review. In requesting direct review, the parties shall follow the procedures set
+forth in rule 6.2.
 
-[Adopted effective July 1, 1976; Amended effective September 1, 1994; June 29, 2021.]
+[Adopted effective July 1, 1976; Amended effective September 1, 1994; June 29, 2021; Reverted
+effective July 1, 2026 to the version in effect prior to June 29, 2021.]
 ```
 
 <a id="rap-6-4"></a>
@@ -1394,10 +1388,9 @@ RAP 6.4
                             DIRECT REVIEW OF A LAND USE
                               PETITION ACT PROCEEDING
 
-The appellate court accepts direct review of a Land Use Petition Act proceeding according to the
-procedures set forth in chapter 36.70C RCW. A case that has been certified for review by the
-superior court is treated as a direct appeal. This rule shall expire July 1, 2026.
-[Adopted effective June 29, 2021.]
+                                          [EXPIRED]
+
+[Adopted effective June 29, 2021; Expired effective July 1, 2026.]
 ```
 
 ## Title 7 - Authority of Trial Court and Appellate Court Pending Review
@@ -2464,14 +2457,15 @@ not contain citations to the record for authority.
     (4) Assignments of Error. A separate concise statement of each error a party contends was
 made by the trial court, together with the issues pertaining to the assignments of error.
 
-      (5) Statement of the Case. A fair statement of the facts and procedure relevant to the issues
-presented for review, without argument. Reference to the record must be included for each
-factual statement.
+     (5) Statement of the Case. A fair statement of the facts and procedure relevant to the issues
+presented for review, without argument. Reference to specific pages of the record or appendix
+must be included for each factual statement.
 
        (6) Argument. The argument in support of the issues presented for review, together with
 citations to legal authority and references to relevant parts of the record. The argument may be
-preceded by a summary. The court ordinarily encourages a concise statement of the standard of
-review as to each issue.
+preceded by a summary. The appellate court may refuse to address an argument that is based on
+factual assertions not supported by specific reference to the record or appendix. The court
+ordinarily encourages a concise statement of the standard of review as to each issue.
 
      (7) Conclusion. A short conclusion stating the precise relief sought.
 
@@ -2521,7 +2515,7 @@ Rule 3.4, Title of Case and Designation of Parties; Rule 18.1, Attorney Fees and
 
 [Adopted effective July 1, 1976; Amended effective September 1, 1985; September 1, 1994;
 September 1, 1997; September 1, 1998; December 24, 2002; September 1, 2006;
-September 1, 2010; September 1, 2014; April 21, 2020.]
+September 1, 2010; September 1, 2014; April 21, 2020; September 1, 2026.]
 ```
 
 <a id="rap-10-4"></a>
@@ -3112,7 +3106,7 @@ Source: https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_12_05_00.pdf
 
 ```
 RAP 12.5
-                                            MANDATE
+                                             MANDATE
 
       (a) Mandate Defined. A "mandate" is the written notification by the clerk of the appellate
 court to the trial court and to the parties of an appellate court decision terminating review. No
@@ -3137,20 +3131,15 @@ denial of the petition for review.
 
       (c) When Mandate Issued by Supreme Court.
 
-     (1) The clerk of the Supreme Court issues the mandate for a Supreme Court decision
-terminating review upon stipulation of the parties that no motion for reconsideration will be filed.
+       (1) The clerk of the Supreme Court issues the mandate for a Supreme Court decision
+terminating review upon stipulation of the parties that no motion for reconsideration will be
+filed.
 
-     (2) In the absence of such a stipulation, except in a case in which the penalty of death is to
-be imposed, the clerk issues the mandate twenty days after the decision is filed, unless (i) a
-motion for reconsideration has been earlier filed, or (ii) the decision is a ruling of the
-commissioner or clerk and a motion to modify the ruling has been earlier filed. If a motion for
-reconsideration is timely filed and denied, the clerk will issue the mandate upon filing the order
-denying the motion for reconsideration.
-
-       (3) In a case in which the penalty of death is to be imposed, unless the parties stipulate to
-earlier issuance of the mandate, the clerk will issue the mandate upon the expiration of the time
-for applying for review by the United States Supreme Court, or, if such an application is timely
-filed, upon receipt of the Supreme Court’s order disposing of the matter.
+       (2) In the absence of such a stipulation, the clerk issues the mandate 20 days after the
+decision is filed, unless (i) a motion for reconsideration has been earlier filed, or (ii) the decision
+is a ruling of the commissioner or clerk and a motion to modify the ruling has been earlier filed.
+If a motion for reconsideration is timely filed and denied, the clerk will issue the mandate upon
+filing the order denying the motion for reconsideration.
 
       (d) Copies Provided in Criminal Case. When the appellate court remands a criminal case
 to the trial court, the clerk of the appellate court shall transmit a copy of the mandate to the
@@ -3163,7 +3152,8 @@ Certificate of Finality 30 days after the decision is filed unless (i) a motion 
 earlier filed or (ii) a motion for discretionary review to the Supreme Court has been earlier filed.
 
 [Adopted effective July 1, 1976; Amended effective January 1, 1981; September 1, 1985;
-September 1 1990; September 1, 1993; September 1, 1998; September 1, 2010.]
+September 1 1990; September 1, 1993; September 1, 1998; September 1, 2010;
+September 1, 2026.]
 ```
 
 <a id="rap-12-6"></a>
@@ -4064,9 +4054,9 @@ certified by a federal court.
 procedure for petitions against state officers for writs of mandamus, prohibition, quo warranto,
 and similar writs, but only when the proceeding is started for the first time in the Supreme Court.
 
-       (c) Original Actions in the Appellate Court--Personal Restraint Petition. Rules 16.3
-through 16.15 define the procedure for a personal restraint petition, but only when the proceeding
-is started for the first time in the appellate court.
+     (c) Original Actions in the Appellate Court--Personal Restraint Petition. Rules 16.3
+through 16.15 define the procedure for a personal restraint petition, but only when the
+proceeding is started for the first time in the appellate court.
 
      (d) Questions Certified by Federal Court. Rule 16.16 defines the procedure for
 determining questions of law certified by a federal court.
@@ -4082,10 +4072,8 @@ statute and not these rules.
 committing an offender to the Department of Corrections, when an error of law is asserted by the
 Department.
 
-      (h) Capital Cases. Rules 16.19 through 16.27 define the procedure for appeals and
-original actions in which the death penalty has been decreed.
-
-[Adopted effective July 1, 1976; Amended effective September 1, 1992; December 30, 1997.]
+[Adopted effective July 1, 1976; Amended effective September 1, 1992; December 30, 1997;
+September 1, 2026.]
 ```
 
 <a id="rap-16-2"></a>
@@ -4154,27 +4142,25 @@ Source: https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_03_00.pdf
 RAP 16.3
                    PERSONAL RESTRAINT PETITION—GENERALLY
 
-     (a) Procedure for Relief from Restraint. Rules 16.3 through 16.15 and rules 16.24
-through 16.27 establish a single procedure for proceedings in the appellate court to obtain relief
-from restraint.
+     (a) Procedure for Relief from Restraint. Rules 16.3 through 16.15 establish a single
+procedure for proceedings in the appellate court to obtain relief from restraint.
 
-     (b) Former Procedure Superseded. The procedure established by rules 16.3 through
-16.15 and rules 16.24 through 16.27 for a personal restraint petition supersedes the appellate
-procedure formerly available for a petition for writ of habeas corpus and for an application for
-postconviction relief, unless one of these rules specifically indicates to the contrary. These rules
-do not supersede and do not apply to habeas corpus proceedings initiated in the superior court.
+      (b) Former Procedure Superseded. The procedure established by rules 16.3 through
+16.15 for a personal restraint petition supersedes the appellate procedure formerly available for a
+petition for writ of habeas corpus and for an application for postconviction relief, unless one of
+these rules specifically indicates to the contrary. These rules do not supersede and do not apply
+to habeas corpus proceedings initiated in the superior court.
 
       (c) Jurisdiction. The Supreme Court and the Court of Appeals have original concurrent
-jurisdiction in personal restraint petition proceedings in which the death penalty has not been
-decreed. The Supreme Court will ordinarily exercise its jurisdiction by transferring the petition to
-the Court of Appeals. The Supreme Court has exclusive original jurisdiction in personal restraint
-proceedings in which the petitioner is under a sentence of death.
+jurisdiction in personal restraint petition proceedings. The Supreme Court will ordinarily
+exercise its jurisdiction by transferring the petition to the Court of Appeals.
 
-                                            References
+                                           References
 
      RCW 7.36, Habeas Corpus.
 
-[Adopted effective July 1, 1976; Amended effective December 30, 1997; September 1, 2014.]
+[Adopted effective July 1, 1976; Amended effective December 30, 1997; September 1, 2014;
+September 1, 2026.]
 ```
 
 <a id="rap-16-4"></a>
@@ -4244,19 +4230,16 @@ Source: https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_05_00.pdf
 RAP 16.5
            PERSONAL RESTRAINT PETITION—WHERE TO SEEK RELIEF
 
-     (a) Court of Appeals. A personal restraint petition should be filed in the Court of
-Appeals, unless the petition is subject to subsection (b). A petition seeking review of a pretrial
-detention order under RCW 10.21.040 shall be filed in the Court of Appeals.
+       (a) Court of Appeals. A personal restraint petition should be filed in the Court of
+Appeals. A petition seeking review of a pretrial detention order under RCW 10.21.040 shall be
+filed in the Court of Appeals.
 
-     (b) Supreme Court. A personal restraint petition filed by a person under sentence of
-death shall be filed in the Supreme Court. See RAP 16.3(c).
-
-      (c) A personal restraint petition may be transferred by the court in which it is filed. The
+      (b) A personal restraint petition may be transferred by the court in which it is filed. The
 transfer of a personal restraint petition between the Supreme Court and the Court of Appeals
 shall not be subject to a motion to reconsider or, if the transfer is ordered by the clerk of the
 court, a motion to modify.
 
-      (d) If a petition filed in the Supreme Court is not transferred to the Court of Appeals, or has
+      (c) If a petition filed in the Supreme Court is not transferred to the Court of Appeals, or has
 been transferred from the Court of Appeals to the Supreme Court, the determinations ordinarily
 made by the “Chief Judge” under rules 16.11 and 16.13 may be made by a commissioner.
 
@@ -4265,7 +4248,7 @@ made by the “Chief Judge” under rules 16.11 and 16.13 may be made by a commi
      RCW 7.36, Habeas Corpus.
 
 [Adopted effective July 1, 1976; Amended effective April 16, 2002; September 1, 2014;
-November 28, 2023.]
+November 28, 2023; September 1, 2026.]
 ```
 
 <a id="rap-16-6"></a>
@@ -4866,327 +4849,136 @@ rule 13.5A.
 ```
 
 <a id="rap-16-19"></a>
-### RAP 16.19 — Preparation of Report of Proceedings in Capital Cases
+### RAP 16.19 — Rescinded
 
 Source: https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_19_00.pdf
 
 ```
 RAP 16.19
-         PREPARATION OF REPORT OF PROCEEDINGS IN CAPITAL CASES
+        PREPARATION OF REPORT OF PROCEEDINGS IN CAPITAL CASES
 
-      (a) The clerk of the trial court shall prepare a list of all pre-trial hearings, trial proceedings,
-and post-trial hearings, including any in camera or ex parte proceedings, that specifies the date of
-the hearing and the name of the court reporter. This list shall be served by the clerk of the trial
-court on each court reporter, the prosecuting attorney, the defendant’s trial counsel and appellate
-counsel, and the trial judge within 10 days of the entry of a judgment and sentence. If appellate
-counsel has not been appointed to represent the defendant when the list is first prepared, the clerk
-of the trial court shall send a copy of the list to each appellate counsel within 10 days of
-appointment.
+                                      [RESCINDED]
 
-      (b) Any party may serve and file objections to, and propose amendments to the list within
-10 days after receipt of the list prepared by the clerk of the trial court. If objections or
-amendments to the list are served and filed, any objections or proposed amendments must be
-heard by the trial court judge for settlement and approval. If the judge before whom the
-proceedings were held is for any reason unable to promptly settle questions, another judge may
-act in the place of the judge before whom the proceedings were held.
-
-      (c) Once the list of hearings is settled, the clerk of the trial court shall serve a copy on each
-court reporter and shall file a copy with the Supreme Court. The final list should indicate the
-date it was served on the court reporters and the financial arrangements which have been made
-for payment of transcription costs.
-
-      (d) The court reporter shall complete the report of proceedings within 90 days after the
-reporter receives the list of hearings. If the report of proceedings cannot be completed within this
-time, the court reporter shall, no later than 10 days before the due date, submit an affidavit to the
-prosecuting attorney, to the defense appellate attorney, and to the Supreme Court stating the
-reasons for the delay. Any party or any court reporter may move for an extension of time from
-the Supreme Court.
-
-      (e) The court reporter shall file the report of proceedings with the clerk of the trial court.
-The clerk of the trial court shall transmit the report of proceedings to the Supreme Court. The
-clerk of the Supreme Court shall provide one copy of the report of proceedings to the defendant,
-two copies of the report of proceedings to the defendant’s appellate attorney, and one copy of the
-report of proceedings to the prosecuting attorney.
-
-      (f) Objections or amendments to the report of proceedings may be served and filed within
-30 days after the party receives a copy of the report of all proceedings. Copies of all objections
-shall be filed with the Supreme Court. The trial court shall settle the report of proceedings in
-accordance with RAP 9.5(c) and (d). The briefing schedule shall be suspended until the record is
-settled.
-
-      (g) The record may be corrected or supplemented at any time in accordance with RAP 9.10.
-
-[Adopted effective December 30, 1997.]
+[Adopted effective December 30, 1997; Rescinded effective September 1, 2026.]
 ```
 
 <a id="rap-16-20"></a>
-### RAP 16.20 — Transmittal of Jury Questionnaires and Clerk's Papers in Capital Cases
+### RAP 16.20 — Rescinded
 
 Source: https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_20_00.pdf
 
 ```
 RAP 16.20
-                   TRANSMITTAL OF JURY QUESTIONNAIRES AND
-                       CLERK’S PAPERS IN CAPITAL CASES
+                 TRANSMITTAL OF JURY QUESTIONNAIRES AND
+                     CLERK’S PAPERS IN CAPITAL CASES
 
-      If questionnaires are used during jury selection, the clerk of the trial court shall seal and
-transmit a copy of all the questionnaires to the Supreme Court along with all of the clerk’s
-papers, including copies of any clerk’s minutes. The clerk of the Supreme Court will provide
-defendant’s appellate counsel and the prosecuting attorney copies of all of the juror
-questionnaires. These copies shall remain in the possession of counsel and not be made available
-to the defendant.
+                                     [RESCINDED]
 
-     The clerk of the Supreme Court shall copy and distribute the clerk’s papers as follows: one
-copy to the defendant, two copies to the defendant’s appellate attorneys, and one copy to the
-prosecuting attorney.
-
-[Adopted effective December 30, 1997; Amended September 1, 2010]
+[Adopted effective December 30, 1997; Amended effective September 1, 2010; Rescinded
+effective September 1, 2026.]
 ```
 
 <a id="rap-16-21"></a>
-### RAP 16.21 — Clerk's Conference in Capital Cases
+### RAP 16.21 — Rescinded
 
 Source: https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_21_00.pdf
 
 ```
 RAP 16.21
-                       CLERK’S CONFERENCE IN CAPITAL CASES
+                    CLERK’S CONFERENCE IN CAPITAL CASES
 
-     (a) Application of Rule. This rule applies only in direct appeals in criminal cases.
+                                     [RESCINDED]
 
-      (b) Clerk’s Conference. Upon receipt of the notice of appeal in a capital case by the
-Supreme Court, the clerk of the court shall set a clerk’s conference. The clerk of the court shall
-give notice to the parties of the date, time, and place of the conference; the name of the
-commissioner or clerk who will conduct the conference; and the nature of the issues to be
-discussed at the conference. The convening of a clerk’s conference shall not stay the
-requirements otherwise established by these rules. The clerk may continue a conference or
-convene another conference when necessary to establish procedures in the case.
-
-       (c) Attendance at Clerk’s Conference. The attorneys for each party, if the notice requires
-it, shall attend the clerk’s conference on the date, time, and place specified in the clerk’s notice.
-Those in attendance should be ready to seriously consider the procedural issues attendant upon
-the case, including, but not limited to, settlement of the record, the briefing schedule, the length
-limitations for briefs, oral argument, and other matters which may promote the prompt and fair
-disposition of the appeal.
-
-      (d) Clerk’s Conference Order. If, as a result of the clerk’s conference, the parties agree to
-various matters to promote the prompt and fair disposition of the appeal, the Court may enter an
-order consistent with that agreement. If the parties fail to agree on any issue, the court will
-resolve the issues and enter an order. The order is binding on the parties during the review
-proceeding, unless the court otherwise directs on its own initiative or on motion of a party for
-good cause shown and on those terms the court deems appropriate.
-
-[Adopted effective December 30, 1997; Amended effective September 1, 2021.]
+[Adopted effective December 30, 1997; Amended effective September 1, 2021; Rescinded
+effective September 1, 2026.]
 ```
 
 <a id="rap-16-22"></a>
-### RAP 16.22 — Filing of Briefs in Capital Cases
+### RAP 16.22 — Rescinded
 
 Source: https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_22_00.pdf
 
 ```
 RAP 16.22
-                          FILING OF BRIEFS IN CAPITAL CASES
+                       FILING OF BRIEFS IN CAPITAL CASES
 
-      (a) The brief of an appellant shall be filed in the Supreme Court within 120 days after the
-report of proceedings is settled or the last date for filing any objections pursuant to Rule 16.19(f).
-The brief of a respondent shall be filed within 120 days after service of the brief of appellant.
+                                     [RESCINDED]
 
-     (b) The personal restraint petition shall be filed within 180 days after the appointment of
-counsel or the court’s determination that counsel will not be appointed. The response to a
-personal restraint petition shall be filed within 120 days after service of the petition.
-
-      (c) A brief of appellant or respondent, or a brief in support of or opposition to a personal
-restraint petition, a reply brief, a pro se supplemental brief, or the response to a pro se
-supplemental brief, shall comply with the length limitations in RAP 18.17.
-
-      (d) If legal arguments are included in a personal restraint petition or in the response to a
-personal restraint petition, no separate brief may be filed. A petition or response that contains
-legal arguments may not exceed the length limitations of RAP 18.17. The petition or response
-shall comply with RAP 10.4(a) and 18.17.
-
-      (e) The clerk will retain but not formally file a brief, petition, or response that exceeds the
-length limitations of RAP 18.17, except on prior order of the court. Such an order will only be
-granted for compelling reasons. The clerk will not file a brief, petition, or response that violates
-the format requirements of RAP 10.4(a) and 18.17, if a properly formatted brief would violate
-the length limitations. The clerk shall direct the party whose document has been rejected for
-formal filing to correct the deficiencies within a specified time period.
-
-[Adopted effective December 30, 1997; Amended effective March 9, 1999; September 1, 2021.]
+[Adopted effective December 30, 1997; Amended effective March 9, 1999; September 1, 2021;
+Rescinded effective September 1, 2026.]
 ```
 
 <a id="rap-16-23"></a>
-### RAP 16.23 — Oral Argument on Appeal in Capital Cases
+### RAP 16.23 — Rescinded
 
 Source: https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_23_00.pdf
 
 ```
 RAP 16.23
-                  ORAL ARGUMENT ON APPEAL IN CAPITAL CASES
+                ORAL ARGUMENT ON APPEAL IN CAPITAL CASES
 
-      (a) The parties may file a non-binding notice 14 days prior to oral argument that specifies
-the order in which issues will be presented and identifies which counsel will present the
-argument on each issue.
+                                      [RESCINDED]
 
-      (b) At any time before receipt of such notice the clerk of the Supreme Court shall inform
-the parties if any member of the Court wants certain issues to be addressed during oral argument.
-After receipt of such notice, the clerk of the Supreme Court may notify the parties if any member
-of the Court wants additional issues to be addressed during oral argument.
-
-     (c) Each side is allowed 120 minutes for oral argument.
-
-[Adopted effective December 30, 1997.]
+[Adopted effective December 30, 1997; Rescinded effective September 1, 2026.]
 ```
 
 <a id="rap-16-24"></a>
-### RAP 16.24 — Stay of Execution in Capital Cases
+### RAP 16.24 — Rescinded
 
 Source: https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_24_00.pdf
 
 ```
 RAP 16.24
-                        STAY OF EXECUTION IN CAPITAL CASES
+                      STAY OF EXECUTION IN CAPITAL CASES
 
-       (a) An application for stay of execution will be decided by the en banc court, except that a
-commissioner or the clerk may decide an application for a stay of execution in connection with a
-first petition for relief from restraint. No stay will be granted until after a death warrant has been
-issued. When any stay is granted, a commissioner or the clerk will immediately notify, in
-addition to the parties, the Superintendent of the Washington State Penitentiary and the Attorney
-General.
+                                      [RESCINDED]
 
-      (b) The petitioner or his or her lawyer may file an application for a stay of execution in
-connection with a first petition for relief from restraint. This application shall be accompanied
-by a statement, describing one or more grounds for relief, which shall be deemed to be a petition
-for relief from restraint with leave granted to amend the petition upon appointment of counsel.
-
-      (c) Upon the filing of this application for stay of execution in connection with a first
-petition for relief from restraint and statement, a commissioner or the clerk shall issue a stay of
-execution, if the statement identified any ground for relief that is not patently frivolous.
-
-      (d) A stay of execution pending a final disposition of a second or subsequent petition shall
-not be granted unless the petition makes a substantial showing that the petition is not barred by
-RCW 10.73 or RAP 16.4(d).
-
-     (e) A stay of execution will dissolve when a certificate of finality is issued unless otherwise
-ordered by the court.
-
-                                             Comment
-
-      The date the statement of grounds for relief that accompanies an application for a stay of
-execution in connection with a first petition for relief from restraint is filed shall be deemed
-under Washington law to be “the date on which the first petition for post-conviction review or
-other collateral relief is filed,” 1996 Antiterrorism and Effective Death Penalty Act, Chapter 154,
-sec. 2263(b)(2).
-
-      A stay will be granted “if the statement identifies any ground for relief that is not patently
-frivolous.” In general, a claim could be considered “patently frivolous” only if (1) it was rejected
-on its merits on direct appeal, (2) it is clearly contrary to binding precedent, or (3) it is clearly
-contrary to the established record. A claim of ineffective assistance of counsel that was not
-raised on direct appeal will generally not be considered “patently frivolous.”
-
-[Adopted effective December 30, 1997; Amended effective March 6, 1999.]
+[Adopted effective December 30, 1997; Amended effective March 6, 1999; Rescinded effective
+September 1, 2026.]
 ```
 
 <a id="rap-16-25"></a>
-### RAP 16.25 — Appointment of Counsel on Personal Restraint Petition in Capital Cases
+### RAP 16.25 — Rescinded
 
 Source: https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_25_00.pdf
 
 ```
 RAP 16.25
-              APPOINTMENT OF COUNSEL ON PERSONAL RESTRAINT
-                        PETITION IN CAPITAL CASES
+             APPOINTMENT OF COUNSEL ON PERSONAL RESTRAINT
+                       PETITION IN CAPITAL CASES
 
-      Unless petitioner is proceeding pro se or is represented by retained counsel, upon a request
-by petitioner to the Clerk of the Supreme Court and upon a finding that the petitioner is indigent,
-the Supreme Court shall appoint counsel to assist in preparing and presenting a first personal
-restraint petition. Appointed counsel must have demonstrated the necessary proficiency and
-commitment which exemplifies the quality of representation appropriate to capital cases. At
-least one attorney so appointed must have at least three years of experience in handling appeals
-or collateral reviews on criminal convictions and must be learned in the law of capital
-punishment by training or experience.
+                                      [RESCINDED]
 
-      A list of attorneys qualified for appointment in death penalty personal restraint petitions
-will be recruited and maintained by a panel created by the Supreme Court. In appointing
-counsel, the Supreme Court will consider this list. However, the Supreme Court will have the
-final discretion in the appointment of counsel in personal restraint petitions in capital cases.
-
-      Counsel will not be appointed if the petitioner has clearly elected to proceed pro se and the
-court is satisfied that petitioner’s election is knowing, intelligent, and voluntary. An attorney
-who represented the petitioner at trial will not be appointed. An attorney who represented
-petitioner on direct appeal will not be appointed unless petitioner and the attorney expressly
-request continued representation. Statutes providing for payment of expenses with public funds
-are not superseded by this rule.
-
-     The Supreme Court may appoint counsel to assist in a second or subsequent petition in
-accord with RCW 10.73.150.
-
-[Adopted effective December 30, 1997.]
+[Adopted effective December 30, 1997; Rescinded effective September 1, 2026.]
 ```
 
 <a id="rap-16-26"></a>
-### RAP 16.26 — Personal Restraint Petitions in Capital Cases - Discovery
+### RAP 16.26 — Rescinded
 
 Source: https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_26_00.pdf
 
 ```
 RAP 16.26
-       PERSONAL RESTRAINT PETITIONS IN CAPITAL CASES--DISCOVERY
+      PERSONAL RESTRAINT PETITIONS IN CAPITAL CASES—DISCOVERY
 
-      (a) Before or after a person under sentence of death files a personal restraint petition, the
-Supreme Court, on motion of that person, may order discovery. To obtain such an order, the
-person under sentence of death must establish facts that give rise to a substantial reason to
-believe that the discovery will produce information that would support relief under RAP 16.4(c).
-Information in support of the request that the person under sentence of death believes is
-privileged may be separated into a second confidential affidavit which identifies the asserted
-privilege with specificity and the law supporting the assertion of the privilege. Any affidavit
-which does not contain confidential information and the motion must be served on the
-prosecutor. The procedure for and form of the motion is as provided in RAP Title 17. Motions
-will ordinarily be considered without oral argument. Prior to ruling on the motion, the Court will
-review the confidential affidavit to determine whether the contents therein are protected by the
-asserted privilege. If the asserted privilege does not apply, the court will serve the State with a
-copy of the confidential affidavit at least five working days before the State’s response to the
-motion is due.
+                                      [RESCINDED]
 
-     (b) After a person under sentence of death has filed a personal restraint petition, the
-Supreme Court, on motion of the State, may order discovery. To obtain such an order, the State
-must establish facts that give rise to a substantial reason to believe that the discovery will
-produce information that would support the denial of relief under RAP 16.4(c).
-
-     (c) Discovery conducted pursuant to this rule shall be governed by the civil rules, unless
-otherwise ordered by the court.
-
-     (d) In the event a remand hearing is ordered, discovery shall be governed by RAP 16.12.
-
-      (e) Discovery may be allowed for preparation of a second or subsequent petition attacking
-the same judgment and sentence only upon a substantial showing that the petition is not barred by
-chapter 10.73 RCW or RAP 16.4(d).
-
-[Adopted effective December 30, 1997.]
+[Adopted effective December 30, 1997; Rescinded effective September 1, 2026.]
 ```
 
 <a id="rap-16-27"></a>
-### RAP 16.27 — Personal Restraint Petition in Capital Cases - Investigative, Expert, and Other Services
+### RAP 16.27 — Rescinded
 
 Source: https://www.courts.wa.gov/court_rules/pdf/RAP/APP_RAP_16_27_00.pdf
 
 ```
 RAP 16.27
-               PERSONAL RESTRAINT PETITION IN CAPITAL CASES—
-                 INVESTIGATIVE, EXPERT, AND OTHER SERVICES
+             PERSONAL RESTRAINT PETITION IN CAPITAL CASES—
+               INVESTIGATIVE, EXPERT, AND OTHER SERVICES
 
-       Before or after the filing of a personal restraint petition, a person under sentence of death
-may file a motion for investigative, expert, or other services. Such a motion shall be granted only
-if the person establishes facts that give rise to a substantial reason to believe that the services will
-produce information that would support relief under RAP 16.4(c), and if the legislature has
-authorized and approved funding for such services. The motion shall be directed to the Supreme
-Court and may be made ex parte. Upon a showing of good cause, the moving papers may be
-ordered sealed by the court and shall remain sealed until further order of the court. Services may
-be allowed for preparation of a second or subsequent petition attacking the same judgment and
-sentence only upon a substantial showing that the petition is not barred by chapter 10.73 RCW or
-RAP 16.4(d).
+                                      [RESCINDED]
 
-[Adopted effective December 30, 1997.]
+[Adopted effective December 30, 1997; Rescinded effective September 1, 2026.]
 ```
 
 ## Title 17 - Motions
@@ -5252,9 +5044,12 @@ RAP 17.3
                                     CONTENT OF MOTION
 
       (a) Generally. A motion must include (1) a statement of the name and designation of the
-person filing the motion, (2) a statement of the relief sought, (3) reference to or copies of parts of
-the record relevant to the motion, and (4) a statement of the grounds for the relief sought, with
-supporting argument.
+person filing the motion, (2) a statement of the relief sought, (3) reference to specific pages of
+parts of the record or appendix relevant to the motion, (4) if the moving party learns that a
+motion is unopposed, a notification to the court of this fact in the caption of the motion, and (5) a
+statement of the grounds for the relief sought, with supporting argument. The appellate court
+may refuse to address an argument that is based on factual assertions not supported by specific
+reference to the record or appendix attached to the motion.
 
      (b) Motion for Discretionary Review. A motion for discretionary review should contain
 under appropriate headings and in the order here indicated:
@@ -5270,11 +5065,13 @@ order granting or denying motions made after the decision.
 
      (4) Issues Presented for Review. A concise statement of the issues presented for review.
 
-      (5) Statement of the Case. A statement of the facts and procedure below relevant to the
-issues presented for review, with appropriate reference to the record.
+      (5) Statement of the Case. A fair statement of the facts and procedure below relevant to the
+issues presented for review, with reference to specific pages of the record or appendix attached to
+the motion.
 
       (6) Argument. A direct and concise statement of the reasons why review should be granted,
-with supporting argument.
+with supporting argument. The appellate court may refuse to address an argument that is based
+on factual assertions not supported by specific reference to the record or appendix.
 
      (7) Conclusion. A short conclusion stating the precise relief sought.
 
@@ -5291,14 +5088,14 @@ a trial court decision and the party making the motion seeks direct review by th
 the party seeking review must also serve and file a separate statement urging grounds for
 Supreme Court review as provided in rule 4.2(b) and (c).
 
-                                             References
+                                            References
 
      Form 3, Motion for Discretionary Review; Form 4, Statement of Grounds for Direct
 Review; Form 18, Motion; Form 20, Motion To Modify Ruling; Rule 6.2, Discretionary Review;
 Rule 12.4, Motion for Reconsideration of Decision Terminating Review.
 
 [Adopted effective July 1, 1976; Amended effective September 1, 1990; December 24, 2002;
-September 1, 2018.]
+September 1, 2018; September 1, 2026.]
 ```
 
 <a id="rap-17-4"></a>
@@ -6242,8 +6039,8 @@ the following requirements:
       (1) All documents filed with the appellate court should be printed or typed with margins of
 at least 2 inches on the left side and 1-1/2 inches on the right side and on the top and bottom.
 Documents submitted in electronic format should be submitted in .pdf format and follow the
-electronic filing instructions published by the court. Documents submitted in hard copy should be
-printed on 20-pound substance, 8-1/2-by-11-inch, white paper. Documents should not contain
+electronic filing instructions published by the court. Documents submitted in hard copy should
+be printed on 20-pound substance, 8-1/2-by-11-inch, white paper. Documents should not contain
 tabs, colored sheets of paper, or binding and should not be stapled.
 
        (2) The text of all documents filed with the appellate court should be double spaced, except
@@ -6260,8 +6057,8 @@ compliance, the certificate of service, signature blocks, and pictorial images (
 maps, diagrams, and exhibits).The signor may rely on the word count calculation of the word
 processing software used to prepare the brief.
 
-     (c) Length Limitations. All documents filed with the appellate court should conform to the
-following length limitations unless the appellate court has granted permission to file an
+      (c) Length Limitations. All documents filed with the appellate court should conform to
+the following length limitations unless the appellate court has granted permission to file an
 overlength document. The following length limitations are expressed as word limitations for
 documents produced using word processing software and as page limitations for documents
 produced by typewriter or written by hand. The word limitations exclude words in the
@@ -6270,66 +6067,55 @@ compliance, the certificate of service, signature blocks, and pictorial images (
 maps, diagrams, and exhibits).
 
      (1) Statements of grounds for direct review and answers to statements of grounds for direct
-review (RAP 4.2 or RAP 4.3): 4,000 words (word processing software) or 15 pages (typewriter
+review (RAP 4.2 or RAP 4.3): 4,000 words (word processing software) or 15 pages (typewritten
 or handwritten).
 
      (2) Briefs of appellants, petitioners, and respondents (RAP 10.4): 12,000 words (word
-processing software) or 50 pages (typewriter or handwritten).
+processing software) or 50 pages (typewritten or handwritten).
 
      (3) Reply briefs of appellants (RAP 10.4): 6,000 words (word processing software) or 25
-pages (typewriter or handwritten).
+pages (typewritten or handwritten).
 
       (4) In cross appeals, briefs of appellants, briefs of respondents/cross appellants, and reply
 briefs of appellants/cross respondents (RAP 10.4): 12,000 words (word processing software) or
-50 pages (typewriter or handwritten).
+50 pages (typewritten or handwritten).
 
      (5) In cross-appeals, reply briefs of the cross appellants (RAP 10.4): 6,000 words (word
-processing software) or 25 pages (typewriter or handwritten).
+processing software) or 25 pages (typewritten or handwritten).
      (6) Amicus briefs and answers to amicus briefs (RAP 10.4): 5,000 words (word processing
-software) or 20 pages (typewriter or handwritten).
+software) or 20 pages (typewritten or handwritten).
 
      (7) Statements of additional grounds for review (RAP 10.10): 12,000 words (word
-processing software) or 50 pages (typewriter or handwritten).
+processing software) or 50 pages (typewritten or handwritten).
 
     (8) Motions to reconsider a decision terminating review and answers and replies thereto
-(RAP 12.4): 6,000 words (word processing software) or 25 pages (typewriter or handwritten).
+(RAP 12.4): 6,000 words (word processing software) or 25 pages (typewritten or handwritten).
 
      (9) Amicus curiae memoranda and answers thereto (RAP 12.4 or RAP 13.4): 2,500 words
-(word processing software) or 10 pages (typewriter or handwritten).
+(word processing software) or 10 pages (typewritten or handwritten).
 
      (10) Petitions for review, answers, and replies (RAP 13.4): 5,000 words (word processing
-software) or 20 pages (typewriter or handwritten).
+software) or 20 pages (typewritten or handwritten).
 
      (11) Motions for discretionary review and responses thereto (RAP 13.5): 5,000 words
-(word processing software) or 20 pages (typewriter or handwritten).
+(word processing software) or 20 pages (typewritten or handwritten).
 
      (12) Supplemental briefs (RAP 13.7): 5,000 words (word processing software) or 20 pages
-(typewriter or handwritten).
+(typewritten or handwritten).
 
      (13) Personal restraint petitions (RAP 16.7): 12,000 words (word processing software) or
-50 pages (typewriter or handwritten).
+50 pages (typewritten or handwritten).
 
-      (14) Briefs of appellants or respondents, and briefs in support of or opposition to a personal
-restraint petition submitted in capital cases (RAP 16.22): 60,000 words (word processing
-software) or 250 pages (typewriter or handwritten).
+     (14) Motions and answers (RAP 17.4): 5,000 words (word processing software) or 20
+pages (typewritten or handwritten).
 
-     (15) Personal restraint petitions that contain legal argument filed in capital cases (RAP
-16.22): 72,000 words (word processing software) or 300 pages (typewriter or handwritten).
+     (15) Replies to answers to motions (RAP 17.4): 2,500 words (word processing software) or
+10 pages (typewritten or handwritten).
 
-       (16) Reply briefs, pro se supplemental briefs, and responses to pro se supplemental briefs
-filed in capital cases (RAP 16.22): 18,000 words (word processing software) or 75 pages
-(typewriter or handwritten).
+     (16) Motions on the merits (RAP 18.14): 6,000 words (word processing software) or 25
+pages (typewritten or handwritten).
 
-     (17) Motions and answers (RAP 17.4): 5,000 words (word processing software) or 20 pages
-(typewriter or handwritten).
-
-     (18) Replies to answers to motions (RAP 17.4): 2,500 words (word processing software) or
-10 pages (typewriter or handwritten).
-
-     (19) Motions on the merits (RAP 18.14): 6,000 words (word processing software) or 25
-pages (typewriter or handwritten).
-
-[Adopted effective September 1, 2021.]
+[Adopted effective September 1, 2021; Amended effective September 1, 2026.]
 ```
 
 <a id="rap-18-18---18-20"></a>

@@ -1,7 +1,7 @@
 # Superior Court Criminal Rules (CrR)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=sup&set=CrR
-- Pulled: 2026-05-02
+- Pulled: 2026-10-01
 - Rules: 65
 
 > Verbatim text extracted from the official PDFs published by the Washington
@@ -1864,9 +1864,9 @@ Passenger(s) under age 16.
      (c)    The standard sentence range is based on the crime charged and my criminal history.
             Criminal history includes prior convictions and juvenile adjudications or
             convictions, whether in this state, in federal court, or elsewhere.
-     (d)    The prosecuting attorney's statement of my criminal history is attached to this
+     (d)    The prosecuting attorney’s statement of my criminal history is attached to this
             agreement. Unless I have attached a different statement, I agree that the prosecuting
-            attorney's statement is correct and complete. If I have attached my own statement, I
+            attorney’s statement is correct and complete. If I have attached my own statement, I
             assert that it is correct and complete. If I am convicted of any additional crimes
             between now and the time I am sentenced, I am obligated to tell the sentencing
             judge about those convictions.
@@ -1902,11 +1902,11 @@ Passenger(s) under age 16.
             confinement.
 (g)   If I am convicted of any new crimes before sentencing, or if any additional criminal
       history is discovered, both the standard sentence range and the prosecuting
-      attorney's recommendation may increase. Even so, my plea of guilty to this charge
+      attorney’s recommendation may increase. Even so, my plea of guilty to this charge
       is binding on me. I cannot change my mind if additional criminal history is
-      discovered, even if the standard sentencing range and the prosecuting attorney's
-      recommendation increase, or a mandatory sentence of life imprisonment without
-      the possibility of parole is required by law.
+      discovered, even if the standard sentencing range and the prosecuting attorney’s
+      recommendation increase or a mandatory sentence of life imprisonment without the
+      possibility of parole is required by law.
 (h)   In addition to sentencing me to confinement, the judge will order me to pay any
       mandatory fines or penalties that apply to my case. If this crime resulted in injury to
       any person or damage to or loss of property, the judge will order me to make
@@ -1927,49 +1927,52 @@ Passenger(s) under age 16.
       my earned early release period. During the period of community custody, I will be
       under the supervision of the DOC, and I will have restrictions and requirements
       placed upon me.
-      For crimes committed on or after July 1, 2000: In addition to sentencing me to
-      confinement, under certain circumstances the judge may order me to serve up to 1
-      year of community custody if the total period of confinement ordered is not more
-      than 12 months, but only if the crime I have been convicted of falls into one of the
-      offense types listed in the following chart. For the offense of failure to register as a
-      sex offender, regardless of the length of confinement, the judge will sentence me
-      for up to 12 months of community custody. If the total period of confinement
-      ordered is more than 12 months, and if the crime I have been convicted of falls into
-      one of the offense types listed in the following chart, the court will sentence me to
-      community custody for the term established for that offense type, unless the judge
-      finds substantial and compelling reasons not to do so. If the period of earned release
-      awarded per RCW 9.94A.729 is longer, that will be the term of my community
-      custody. If the crime I have been convicted of falls into more than one category of
-      offense types listed in the following chart, then the community custody term will be
-      based on the offense type that dictates the longest term of community custody.
-        OFFENSE TYPE                               COMMUNITY CUSTODY
-                                                   TERM
-        Serious Violent Offenses                               36 months
-        Violent Offenses                                       18 months
-        Crimes Against Persons as defined by                   12 months
-        RCW 9.94A.411(2)
-        Offenses under chapter 69.50 or 69.52                  12 months
-        RCW (not sentenced under RCW
-        9.94A.660)
-        Offenses involving the unlawful                        12 months
-        possession of a firearm where the
-        offender is a criminal street gang
-        member or associate
-      Certain sentencing alternatives may also include community custody.
-      During the period of community custody, I will be under the supervision of the
-      DOC. For crimes occurring on or after June 28, 2016, the supervision of the DOC
-      cannot exceed the times specified in this paragraph. I may have restrictions and
-      requirements placed upon me, including additional conditions of community
-      custody that may be imposed by the DOC. My failure to comply with these
-      conditions will render me ineligible for general assistance, RCW 74.04.005(6)(h),
-      and may result in the DOC transferring me to a more restrictive confinement status
-      or other sanctions.
-      If I violate the conditions of my community custody, the DOC may sanction me up
-      to 60 days’ confinement per violation and/or revoke my earned early release, or the
-      DOC may impose additional conditions or other stipulated penalties. The court also
-      has the authority to impose sanctions for any violation.
-(j)   The prosecuting attorney will make the following recommendation to the judge:
-      ________________________                                                              .
+For crimes committed on or after July 1, 2000: In addition to sentencing me to
+confinement, under certain circumstances the judge may order me to serve up to 1
+year of community custody if the total period of confinement ordered is not more
+than 12 months, but only if the crime I have been convicted of falls into one of the
+offense types listed in the following chart. For the offense of failure to register as a
+sex offender, regardless of the length of confinement, the judge will sentence me
+for up to 12 months of community custody. If the total period of confinement
+ordered is more than 12 months, and if the crime I have been convicted of falls into
+one of the offense types listed in the following chart, the court will sentence me to
+community custody for the term established for that offense type, unless the judge
+finds substantial and compelling reasons not to do so. If the period of earned release
+awarded per RCW 9.94A.729 is longer, that will be the term of my community
+custody. If the crime I have been convicted of falls into more than one category of
+offense types listed in the following chart, then the community custody term will be
+based on the offense type that dictates the longest term of community custody.
+  OFFENSE TYPE                               COMMUNITY CUSTODY
+                                             TERM
+  Serious Violent Offenses                               36 months
+  Violent Offenses                                       18 months
+  Crimes Against Persons as defined by                   12 months
+  RCW 9.94A.411(2)
+  Offenses under chapter 69.50 or 69.52                  12 months
+  RCW (not sentenced under RCW
+  9.94A.660)
+  Offenses involving the unlawful                        12 months
+  possession of a firearm where the
+  offender is a criminal street gang
+  member or associate
+Certain sentencing alternatives may also include community custody.
+During the period of community custody I will be under the supervision of the
+DOC. For crimes occurring on or after June 28, 2016, the supervision of the DOC
+cannot exceed the times specified in this paragraph. I may have restrictions and
+requirements placed upon me, including additional conditions of community
+custody that may be imposed by the DOC. My failure to comply with these
+conditions will render me ineligible for general assistance, RCW 74.04.005(6)(h),
+and may result in the DOC transferring me to a more restrictive confinement status
+or other sanctions.
+
+If I violate the conditions of my community custody, the DOC may sanction me up
+to 60 days’ confinement per violation and/or revoke my earned early release, or the
+DOC may impose additional conditions or other stipulated penalties. The court also
+has the authority to impose sanctions for any violation.
+(j)   The prosecuting attorney will make the following recommendation to the judge, the
+      recommendation is [ ] agreed [ ] not agreed:
+
+                                                                                            .
       [ ] The prosecutor will recommend as stated in the plea agreement, which is
       incorporated by reference.
 (k)   The judge does not have to follow anyone’s recommendation as to sentence. If I
@@ -2006,16 +2009,15 @@ Passenger(s) under age 16.
               full discretion to depart from mandatory sentencing enhancements and to
               take the particular circumstances surrounding my youth into account.
       If the court imposes a standard range sentence, then no one may appeal the
-      sentence. If the court imposes an exceptional sentence after a hearing, either the
-      State or I can appeal the sentence.
+             sentence. If the court imposes an exceptional sentence after a hearing, either the
+             State or I can appeal the sentence.
       (l)    If I am not a citizen of the United States, a plea of guilty to an offense punishable as
              a crime under state law is grounds for deportation, exclusion from admission to the
              United States, or denial of naturalization pursuant to the laws of the United States.
       (m)    I may not possess, own, or have under my control any firearm, and under federal
-             law any firearm or ammunition, unless my right to do so is restored by the court in
-             which I am convicted or the superior court in Washington State where I live, and by
-             a federal court if required. I must immediately surrender any concealed pistol
-             license(s).
+             law any firearm or ammunition, unless my firearm rights are restored by the court
+             in which I am convicted and by a federal court if required. I must immediately
+             surrender any concealed pistol license(s).
       (n)    I will be ineligible to register to vote until that right is restored in a manner
              provided by law. My right to vote is automatically restored as long as I am not
              serving a sentence of total confinement (as defined in RCW 29A.08.520) under the
@@ -2036,7 +2038,7 @@ _____ (q)    This offense is a most serious offense or “strike” as defined b
              mandatory sentence of life imprisonment without the possibility of parole.
 _____ (r)    The judge may sentence me as a first-time offender instead of giving a sentence
              within the standard range if I qualify under RCW 9.94A.030. This sentence could
-             include as much as 90 days' confinement and up to 1 year of community custody,
+             include as much as 90 days' confinement and up to 1 year of community custody
              plus all of the conditions described in paragraph 6(h). Additionally, the judge could
              require me to undergo treatment, to devote time to a specific occupation, and to
              pursue a prescribed course of study or occupational training.
@@ -2050,8 +2052,8 @@ _____ (s)    The judge may sentence me under the Parenting Sentencing Alternativ
              hearing to evaluate my progress in treatment or to determine if I have violated the
              conditions of the sentence. I have the right to assistance of counsel at this hearing,
              and the court will appoint counsel if I am indigent. The court may modify the
-             conditions of community custody or impose sanctions, including extending the
-             length of participation in the alternative program by no more than 6 months. If the
+            conditions of community custody or impose sanctions, including extending the
+            length of participation in the alternative program by no more than 6 months. If the
             court finds that I violated the conditions or requirements of the sentence or I failed
             to make satisfactory progress in treatment, the court may order me to serve a term
             of total confinement within the standard range for my offense.
@@ -2140,7 +2142,7 @@ _____ (y)   If this crime involves the manufacture, delivery, or possession with
             amphetamine, including its salts, isomers, and salts of isomers, and if a fine is
             imposed, $3,000 of the fine may not be suspended. RCW 69.50.401(2)(b).
 _____ (z)   If this crime involves a violation of the state drug laws, my eligibility for state and
-            federal education benefits may be affected. 20 U.S.C. § 1091(r).
+             federal education benefits may be affected. 20 U.S.C. § 1091(r).
 _____ (aa)   I understand that RCW 46.20.285(4) requires that my driver’s license be revoked
              if the judge finds that I used a motor vehicle in a manner that endangered persons
              or property during the commission of this felony.
@@ -2184,7 +2186,7 @@ _____ (ee)   For the crimes of vehicular homicide committed while under the infl
              confinement, and shall run consecutively to all other sentencing provisions,
              including other minor child enhancements, for all offenses sentenced under
              chapter 9.94A RCW.
-_____ (ff)   I am pleading guilty to the crime of driving without a required ignition interlock
+_____ (ff)    I am pleading guilty to the crime of driving without a required ignition interlock
               device (RCW 46.20.740), or the crime of circumventing or tampering with a
               required ignition interlock device (RCW 46.20.750(1)), and the offense occurred
               on or after September 26, 2015. The sentence for that offense must be served
@@ -2227,16 +2229,16 @@ _____ (ll)    If I am pleading guilty to (1) unlawful possession of a firearm(s)
               serve each of the sentences for unlawful possession consecutively to each other.
 _____ (mm) If I am pleading guilty to a felony firearm offense as defined in RCW 9.41.010, I
            may be required to register as a felony firearm offender under RCW 9.41.330. I will
-           be required to register as a felony firearm offender if I committed the felony
+              be required to register as a felony firearm offender if I committed the felony
               firearm offense in conjunction with an offense committed against a person under
               age 18, or a serious violent offense or offense involving sexual motivation as
               defined in RCW 9.94A.030. The specific registration requirements are in the
               “Felony Firearm Offender Registration” Attachment.
 _____ (nn)    If I am pleading guilty to the crime of unlawful practices in obtaining assistance
               as defined in RCW 74.08.331, no assistance payment shall be made for at least 6
-              months if this is my first conviction, and for at least 12 months if this is my
-              second or subsequent conviction. This suspension of benefits will apply even if I
-              am not incarcerated. RCW 74.08.290.
+              months if this is my first conviction and for at least 12 months if this is my second
+              or subsequent conviction. This suspension of benefits will apply even if I am not
+              incarcerated. RCW 74.08.290.
 _____ (oo)    The judge may authorize work ethic camp. To qualify for work ethic
               authorization, my term of total confinement must be more than 12 months and
               less than 36 months, I cannot currently be either pending prosecution or serving a
@@ -2254,6 +2256,10 @@ _____ (pp)    The judge may sentence me under the theft or taking of a motor veh
               third of the community custody term.
 _____ (qq)    If I am pleading guilty to Animal Cruelty in the First Degree I will be permanently
               prohibited from owning, caring for, or residing with any animal. RCW 16.52.200.
+_____ (rr)    If I am pleading guilty to a crime as the result of being arrested for a violation of a
+              trafficking crime under RCW 9A.40.100, including any charge reduced from such a
+              trafficking offense as part of a plea bargain, the court will impose a $10,000 fine, up
+              to 2/3 of which may be waived if I am found indigent.
 7.    I plead guilty to:
       count
       count
@@ -2264,17 +2270,18 @@ _____ (qq)    If I am pleading guilty to Animal Cruelty in the First Degree I wi
 8.    I make this plea freely and voluntarily.
 9.    No one has threatened harm of any kind to me or to any other person to cause me to make
       this plea.
-10.   No person has made promises of any kind to cause me to enter this plea except as set forth
-      in this statement.
-11.   The judge has asked me to state what I did in my own words that makes me guilty of this
-      crime, including enhancements and domestic violence relationships, if they apply. This is
-      my statement:
-                                                                                                      .
+10.       No person has made promises of any kind to cause me to enter this plea except as set forth
+          in this statement.
+11.       The judge has asked me to state what I did in my own words that makes me guilty of this
+          crime, including enhancements and domestic violence relationships, if they apply. This is
+          my statement:
+
+                                                                                                       .
           [ ] Instead of making a statement, I agree that the court may review the police reports
           and/or a statement of probable cause supplied by the prosecution to establish a factual basis
           for the plea.
-12.       My lawyer has explained to me, and we have fully discussed, all of the above paragraphs,
-          the “Offender Registration” Attachment, and the “Felony Firearm Registration”
+12.       My lawyer has explained to me, and we have fully discussed, all of the above paragraphs
+          and the “Offender Registration” Attachment, and the “Felony Firearm Registration”
           Attachment, if applicable. I understand them all. I have been given a copy of this
           “Statement of Defendant on Plea of Guilty.” I have no further questions to ask the judge.
           [ ] An interpreter has interpreted the above paragraphs and my lawyer’s explanation into
@@ -2291,15 +2298,15 @@ Prosecuting Attorney                                    Defendant's Lawyer
 
 Print Name                               WSBA No.       Print Name                          WSBA
 No.
-The defendant signed the foregoing statement in open court in the presence of the defendant's
+The defendant signed the foregoing statement in open court in the presence of the defendant’s
 lawyer and the undersigned judge. The defendant asserted that [check appropriate box]:
 [ ] (a)     The defendant had previously read the entire statement above and that the defendant
             understood it in full;
 [ ] (b)     The defendant's lawyer had previously read to the defendant the entire statement above
             and that the defendant understood it in full; or
-[ ] (c)     An interpreter had previously sight translated to the defendant the entire statement above
-            and that the defendant understood it in full. The Interpreter’s Declaration is included
-            below.
+[ ] (c)   An interpreter had previously sight translated to the defendant the entire statement above
+          and that the defendant understood it in full. The Interpreter’s Declaration is included
+          below.
 Interpreter’s Declaration: I am a certified or registered interpreter, or have been found otherwise
 qualified by the court to interpret in the _________________________________ language. I have
 interpreted this document for the defendant from English into that language. I certify under penalty
@@ -2307,11 +2314,11 @@ of perjury under the laws of the state of Washington that the foregoing is true 
 
 Signed at (city)                       , (state) ______, on (date) ________________
 
-Interpreter                                           Print Name                    WA AOC No.
+Interpreter                                           Print Name                   WA AOC No.
 
-I find the defendant's plea of guilty to be knowingly, intelligently, and voluntarily made. Defendant
-understands the charges and the consequences of the plea. There is a factual basis for the plea. The
-defendant is guilty as charged.
+I find the defendant’s plea of guilty to be knowingly, intelligently, and voluntarily made.
+Defendant understands the charges and the consequences of the plea. There is a factual basis for
+the plea. The defendant is guilty as charged.
 
 Dated:
                                                       Judge
@@ -2351,8 +2358,10 @@ Dated:
       (a)      My right to appeal is limited.
       (b)      Each crime with which I am charged carries a maximum sentence, a fine, and a
                Standard Sentence Range as follows:
-COUNT   OFFENDER    STANDARD            PLUS            COMMUNITY           MAXIMUM TERM
-NO.     SCORE                           Enhancements*
+COUNT
+NO.
+        OFFENDER    STANDARD            PLUS            COMMUNITY           MAXIMUM TERM
+        SCORE                           Enhancements*
                     RANGE ACTUAL                        CUSTODY             AND FINE
                     CONFINEMENT
                     (not including
@@ -2374,7 +2383,7 @@ Motivation, RCW 9.94A.533(8), (SCF) Sexual conduct with a child for a fee, RCW
             Criminal history includes prior convictions and juvenile adjudications or
             convictions, whether in this state, in federal court, or elsewhere.
 
-     (d)    The prosecuting attorney's statement of my criminal history is attached to this
+     (d)    The prosecuting attorney’s statement of my criminal history is attached to this
             agreement. Unless I have attached a different statement, I agree that the prosecuting
             attorney's statement is correct and complete. If I have attached my own statement, I
             assert that it is correct and complete. If I am convicted of any additional crimes
@@ -2417,10 +2426,10 @@ Motivation, RCW 9.94A.533(8), (SCF) Sexual conduct with a child for a fee, RCW
 
 (g)   If I am convicted of any new crimes before sentencing, or if any additional criminal
       history is discovered, both the standard sentence range and the prosecuting
-      attorney's recommendation may increase. Even so, my plea of guilty to this charge
+      attorney’s recommendation may increase. Even so, my plea of guilty to this charge
       is binding on me. I cannot change my mind if additional criminal history is
       discovered even though the standard sentencing range and the prosecuting
-      attorney's recommendation increase or a mandatory sentence of life imprisonment
+      attorney’s recommendation increase or a mandatory sentence of life imprisonment
       without the possibility of parole is required by law.
 
 (h)   In addition to sentencing me to confinement, the judge will order me to pay any
@@ -2516,7 +2525,8 @@ Assault in the second degree               Assault of a child in the first degre
       other stipulated penalties. The court also has the authority to impose sanctions for
       any violation.
 
-(j)   The prosecuting attorney will make the following recommendation to the judge:
+(j)   The prosecuting attorney will make the following recommendation to the judge, the
+      recommendation is [ ] agreed [ ] not agreed:
       _________________________________________________________________
       _________________________________________________________________
       _________________________________________________________________
@@ -2572,10 +2582,9 @@ Assault in the second degree               Assault of a child in the first degre
             United States, or denial of naturalization pursuant to the laws of the United States.
 
       (m)   I may not possess, own, or have under my control any firearm, and under federal
-            law any firearm or ammunition, unless my right to do so is restored by the court in
-            which I am convicted or the superior court in Washington State where I live, and by
-            a federal court if required. I must immediately surrender any concealed pistol
-            license.
+            law any firearm or ammunition, unless my firearm rights are restored by the court
+            in which I am convicted and by a federal court if required. I must immediately
+            surrender any concealed pistol license.
 
       (n)   I will be ineligible to register to vote until that right is restored in a manner
             provided by law. My right to vote is automatically restored as long as I am not
@@ -2612,6 +2621,7 @@ _____ (r)   This offense is a most serious offense or “strike” as defined by
             and I have at least one prior conviction for one of these listed offenses in this state,
             in federal court, or elsewhere, the offense for which I am charged carries a
             mandatory sentence of life imprisonment without the possibility of parole.
+
 _____ (s)   Special sex offender sentencing alternative: In addition to other eligibility
             requirements under RCW 9.94A.670, to be eligible for the special sex offender
             sentencing alternative, I understand that I must voluntarily and affirmatively admit
@@ -2655,8 +2665,9 @@ _____ (s)   Special sex offender sentencing alternative: In addition to other el
 _____ (t)   If this is a crime of domestic violence, I may be ordered to pay a domestic violence
             assessment of up to $115.00. If I, or the victim of the offense, have a minor child,
             the court may order me to participate in a domestic violence perpetrator program
-            approved under 43.20A.735. If I am convicted of a violation of a domestic
+            approved under RCW 43.20A.735. If I am convicted of a violation of a domestic
             violence protection order, the court shall impose a mandatory fine of $15.00.
+
 _____ (u)   If I am subject to community custody and the judge finds that I have a chemical
             dependency that has contributed to the offense, the judge may order me to
             participate in rehabilitative programs or otherwise to perform affirmative conduct
@@ -2703,8 +2714,7 @@ _____ (y)   For the crimes of vehicular homicide committed while under the influ
             vehicle. These enhancements shall be mandatory, shall be served in total
             confinement, and shall run consecutively to all other sentencing provisions,
             including other minor child enhancements, for all offenses sentenced under
-             chapter 9.94A RCW.
-
+            chapter 9.94A RCW.
 _____ (z)    I am pleading guilty to the crime of driving without a required ignition interlock
              device (RCW 46.20.740), or the crime of circumventing or tampering with a
              required ignition interlock device (RCW 46.20.750(1)), and the offense occurred
@@ -2748,50 +2758,55 @@ _____ (ee)   The offense(s) I am pleading guilty to include(s) a deadly weapon, 
              enhancements are mandatory, they must be served in total confinement, and they
              must run consecutively to any other sentence and to any other deadly weapon,
              firearm, or sexual motivation enhancements.
-_____ (ff)    For crimes committed on or after July 22, 2007: If I am pleading guilty to rape of a
-              child in the first, second, or third degree or child molestation in the first, second,
-              or third degree, and I engaged, agreed, or offered to engage the victim in sexual
-              intercourse or sexual contact for a fee, or if I attempted, solicited another, or
-              conspired to engage, agree, or offer to engage the victim in sexual intercourse or
-              sexual contact for a fee, then a one-year enhancement shall be added to the
-              standard sentence range. If I am pleading guilty to more than one offense, the one-
-              year enhancement must be added to the total period of total confinement for all
-              offenses, regardless of which underlying offense is subject to the enhancement.
 
-_____ (gg)    If I am pleading guilty to patronizing a prostitute or commercial sexual abuse of a
-              minor, a condition of my sentence will be that I not be subsequently arrested for
-              patronizing a prostitute or commercial sexual abuse of a minor. The court will
-              impose crime-related geographical restrictions on me, unless the court finds they
-              are not feasible. If this is my first offense, the court will order me to attend a
-              program designed to educate me about the negative costs of prostitution.
+_____ (ff)   For crimes committed on or after July 22, 2007: If I am pleading guilty to rape of a
+               child in the first, second, or third degree or child molestation in the first, second,
+               or third degree, and I engaged, agreed, or offered to engage the victim in sexual
+               intercourse or sexual contact for a fee, or if I attempted, solicited another, or
+               conspired to engage, agree, or offer to engage the victim in sexual intercourse or
+               sexual contact for a fee, then a one-year enhancement shall be added to the
+               standard sentence range. If I am pleading guilty to more than one offense, the one-
+               year enhancement must be added to the total period of total confinement for all
+               offenses, regardless of which underlying offense is subject to the enhancement.
 
-_____ (hh)    If I am pleading guilty to possession of depictions of a minor engaged in sexually
-              explicit conduct in the first or second degree, the court will impose a fee of
-              $1,000 for each depiction or image that is a separate conviction.
-7.    I plead guilty to:
-      count
-      count
-      count
-      count
-      in the ____________________________ Information. I have received a copy of that
-      information.
-8.    I make this plea freely and voluntarily.
-9.    No one has threatened harm of any kind to me or to any other person to cause me to make
-      this plea.
-10.   No person has made promises of any kind to cause me to enter this plea except as set forth
-      in this statement.
-11.   The judge has asked me to state what I did in my own words that makes me guilty of this
-      crime, including enhancements and domestic violence relationships if they apply. This is
-      my statement:
+_____ (gg)     If I am pleading guilty to patronizing a prostitute or commercial sexual abuse of a
+               minor, a condition of my sentence will be that I not be subsequently arrested for
+               patronizing a prostitute or commercial sexual abuse of a minor. The court will
+               impose crime-related geographical restrictions on me, unless the court finds they
+               are not feasible. If this is my first offense, the court will order me to attend a
+               program designed to educate me about the negative costs of prostitution.
 
-                                                                                                   .
+_____ (hh)     If I am pleading guilty to possession of depictions of a minor engaged in sexually
+               explicit conduct in the first or second degree, the court will impose a fee of
+               $1,000 for each depiction or image that is a separate conviction.
+
+_____ (ii)     If I am pleading guilty to a crime as the result of being arrested for a violation of a
+               trafficking crime under RCW 9A.40.100, including any charge reduced from such
+               a trafficking offense as part of a plea bargain, the court will impose a $10,000
+               fine, up to 2/3 of which may be waived if I am found indigent.
+7.     I plead guilty to:
+       count
+       count
+       count
+       count
+       in the ____________________________ Information. I have received a copy of that
+       information.
+8.     I make this plea freely and voluntarily.
+9.     No one has threatened harm of any kind to me or to any other person to cause me to make
+       this plea.
+10.    No person has made promises of any kind to cause me to enter this plea except as set forth
+       in this statement.
+11.    The judge has asked me to state what I did in my own words that makes me guilty of this
+       crime, including enhancements and domestic violence relationships if they apply. This is
+       my statement:
+                                                                                                      .
           [ ] Instead of making a statement, I agree that the court may review the police reports
           and/or a statement of probable cause supplied by the prosecution to establish a factual basis
           for the plea.
 12.       My lawyer has explained to me, and we have fully discussed, all of the above paragraphs
           and the “Offender Registration” Attachment and the “Felony Firearm Registration”
           Attachment, if applicable. I understand them all. I have been given a copy of this
-          "Statement of Defendant on Plea of Guilty." I have no further questions to ask the judge.
+          “Statement of Defendant on Plea of Guilty.” I have no further questions to ask the judge.
           [ ] An interpreter has interpreted the above paragraphs and my lawyer’s explanation into
           the _________________ language, which I understand.
 
@@ -2823,14 +2838,14 @@ interpreted this document for the defendant from English into that language. I c
 of perjury under the laws of the state of Washington that the foregoing is true and correct.
 
 Signed at (city)                         , (state)          , on (date)
+Interpreter                                            Print Name                 WA AOC No.
 
-Interpreter                                               Print Name                  WA AOC No.
-I find the defendant's plea of guilty to be knowingly, intelligently, and voluntarily made. Defendant
-understands the charges and the consequences of the plea. There is a factual basis for the plea. The
-defendant is guilty as charged.
+I find the defendant’s plea of guilty to be knowingly, intelligently, and voluntarily made.
+Defendant understands the charges and the consequences of the plea. There is a factual basis for
+the plea. The defendant is guilty as charged.
 
 Date:
-                                                      Judge
+                                                     Judge
               FELONY FIREARM REGISTRATION ATTACHMENT
 
 Case Name                                                    Cause No.
@@ -2965,8 +2980,8 @@ January 2, 1996; September 1, 1996; April 8, 1997; March 9, 1999; September 1, 1
 December 28, 1999; December 7, 2000; August 3, 2004; April 11, 2006; August 1, 2006;
 July 31, 2007; August 12, 2008; December, 2009; September, 2010, December, 13, 2011;
 July 24, 2012; August 20, 2013; August 5, 2014; December 22, 2015; August 2, 2016;
-March 27, 2018; July 28, 2020; December 29, 2020; September 21, 2021; July 1, 2022, October
-31. 2023; August 6, 2024.]
+March 27, 2018; July 28, 2020; December 29, 2020; September 21, 2021; July 1, 2022,
+October 31, 2023; August 6, 2024; September 1, 2026.]
 ```
 
 <a id="crr-4-3"></a>
@@ -3506,13 +3521,127 @@ party shall promptly notify the other party or their counsel of the existence of
 material, and if the additional material or information is discovered during trial, the court shall
 also be notified.
 
-      (3) Custody of Materials. Any materials furnished to an attorney pursuant to these rules
-shall remain in the exclusive custody of the attorney and be used only for the purposes of
-conducting the party's side of the case, unless otherwise agreed by the parties or ordered by the
-court, and shall be subject to such other terms and conditions as the parties may agree or the
-court may provide. Further, a defense lawyer shall be permitted to provide a copy of the
-materials to the defendant after making appropriate redactions that are approved by the
-prosecuting authority or order of the court.
+     (3) Custody of Materials. Any materials furnished to a defendant or defense counsel
+pursuant to these rules shall remain in the exclusive custody of the defendant or defense counsel
+and be used only for the purposes of conducting the party's side of the case, unless otherwise
+agreed by the parties or ordered by the court, and shall be subject to such other terms and
+conditions as the parties may agree or the court may provide. If defense counsel chooses to share
+discovery with the defendant, defense counsel shall redact discovery consistent with the
+requirements of subsection (h)(3)(C) of this rule and provide a copy of the discovery to the
+defendant and shall provide a copy of the redacted discovery to the prosecutor. Each defense
+counsel shall maintain a duplicate copy of discovery furnished to the represented defendant that
+shows the redactions made in accordance with this rule. The duplicate copy of discovery with
+redactions shall be kept in the defendant’s case file for the duration of the case.
+
+      (A) A prosecuting attorney may move the court for an order to modify redactions beyond
+those made pursuant to this rule by scheduling a hearing within 7 days of the discovery being
+provided to defense counsel to address what additional redactions beyond those made pursuant to
+this rule are required.
+
+     (B) Defense counsel may move the court for an order to modify redaction conditions.
+
+     (C) Defense counsel may provide a copy of discovery to the defendant after making
+redactions consistent with the following requirements:
+
+     (i) Names. The names of all persons under the age of 18, the names of all alleged victims,
+     and the names of all witnesses, except law enforcement and experts, shall be redacted to
+     initials.
+
+     (ii) Addresses. All addresses shall be redacted to show only the state, except for the address
+     of the defendant and the business addresses of law enforcement and professional witnesses.
+
+     (iii) Phone numbers. All phone numbers shall be redacted in full, except for those of the
+     defendant.
+
+     (iv) E-mail addresses. All e-mail addresses shall be redacted in full, except for those of the
+     defendant.
+
+     (v) Birth dates. All birth dates shall be redacted to show only the year of birth, except for
+     the birth date of the defendant and except for when the age is an element of the offense.
+     When age is an element of the offense, the birth date of the person(s) whose age is at issue
+     shall not be redacted.
+
+     (vi) Schools. The names of all schools attended by witnesses under the age of 18 shall be
+     redacted, except for the name of a school if it is the alleged location of the current charge.
+
+     (vii) Government Issued Identification Numbers. All government issued identification
+     numbers including, but not limited to, Social Security, driver’s license, identification card,
+     and passport numbers, shall be redacted in full, except for those of the defendant. All
+     remaining information on government issued identification documents shall be redacted in
+     accordance with the requirements of this rule.
+
+     (viii) Financial Account Numbers. Financial account numbers shall be redacted to show
+     only the last four digits.
+
+     (ix) Firearms. Firearm serial numbers shall be redacted to show only the last two digits.
+
+     (x) Medical, Mental Health, and Treatment Records. No medical records, mental health
+     records, or substance use disorder evaluations or treatment records shall be provided,
+     except those of the defendant.
+
+     (xi) Child Protective Services Records.
+
+          (a) Child Protective Services (CPS) records relating to the children of the defendant
+          shall be redacted in accordance with the requirements of this rule.
+    (b) CPS records of all other children that contain information about the defendant shall
+    be redacted in accordance with the requirements of this rule.
+
+(xii) Autopsy Records. No autopsy videos or photographs shall be provided. Written
+autopsy records shall be redacted in accordance with the requirements of this rule.
+
+(xiii) Witness Interviews.
+
+    (a) Video and audio recordings of witness interviews shall be redacted in accordance
+    with the requirements of this rule, except for child forensic interviews.
+
+    (b) Video and audio recordings of child forensic interviews shall not be provided to
+    the defendant absent court order pursuant to RCW 26.44.186.
+
+    (c) Transcripts of all interviews, including child forensic interviews, shall be redacted
+    in accordance with the requirements of this rule.
+
+    (d) If counsel lacks the technical capacity to redact this information as required, then
+    counsel may not provide that unredacted discovery material to the defendant.
+
+(xiv) Images and Videos.
+
+    (a) Any portion of an image, photograph, or video that exposes a person’s breasts,
+    buttocks, or genitalia shall be redacted.
+
+    (b) Any portion of an image, photograph, or video that includes an image of a known
+    minor shall be redacted.
+
+    (c) If counsel lacks the technical capacity to redact this discovery as required, then
+    counsel may not provide that unredacted discovery material to the defendant.
+
+(xv) Cell Phone Business Records. Cell phone business records belonging to or primarily
+used by the defendant shall not be redacted. All other cell phone business records shall be
+redacted in full, absent court order or an agreement of the parties. If counsel lacks the
+technical capacity to redact this discovery as required, then counsel may not provide that
+unredacted discovery material to the defendant.
+
+(xvi) Cell Phone and Computer Search Results. All material found on phones or computers
+shall be redacted in accordance with the requirements of this rule. If counsel lacks the
+technical capacity to redact this discovery as required, then counsel may not provide that
+unredacted discovery material to the defendant.
+
+(xvii) Social Media Search Results. Social media search results for social media accounts
+shall be redacted in accordance with the requirements of this rule.
+
+(xviii) Criminal History. Criminal history records of persons other than the defendant shall
+be redacted in accordance with the requirements of this rule.
+
+(xix) Other Evidence. All other evidence, including but not limited to the evidence listed in
+this subsection, shall be redacted in accordance with the requirements of this rule. If
+counsel lacks the technical capacity to redact this discovery as required, then counsel may
+not provide that unredacted discovery material to the defendant. Such evidence includes the
+following:
+
+    (a) Computer Aided Dispatch (CAD) Reports;
+          (b) Video of defendant jail calls, jail call log records of persons other than defendant,
+          and transcripts of all jail calls; and
+
+          (c) Audio and transcripts of calls to 911.
 
       (4) Protective Orders. Upon a showing of cause, the court may at any time order that
 specified disclosure be restricted or deferred, or make such other order as is appropriate,
@@ -3542,12 +3671,12 @@ order as it deems just under the circumstances.
       (ii) Willful violation by counsel of an applicable discovery rule or an order issued pursuant
 thereto may subject counsel to appropriate sanctions by the court.
 
-                                               Comment
+                                             Comment
 
      Supersedes RCW 10.37.030, .033; RCW 10.46.030 in part.
 
 [Adopted effective July 1, 1973; Amended effective September 1, 1986; September 1, 2005;
-September 1, 2007; October 1, 2024; April 29, 2025.]
+September 1, 2007; October 1, 2024; April 29, 2025; September 1, 2026.]
 ```
 
 <a id="crr-4-8"></a>

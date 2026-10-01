@@ -1,7 +1,7 @@
 # Criminal Rules for Courts of Limited Jurisdiction (CrRLJ)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=clj&set=CrRLJ
-- Pulled: 2026-05-02
+- Pulled: 2026-10-01
 - Rules: 76
 
 > Verbatim text extracted from the official PDFs published by the Washington
@@ -3380,13 +3380,130 @@ it, a party discovers additional material or information that is subject to disc
 shall promptly notify the other party or counsel of the existence of such additional material. If
 the additional material or information is discovered during trial, the court shall also be notified.
 
-      (3) Custody of Materials. Any materials furnished to a lawyer pursuant to these rules shall
-remain in the exclusive custody of the lawyer and be used only for the purposes of conducting
-the party's side of the case, unless otherwise agreed by the parties or ordered by the court, and
-shall be subject to such other terms and conditions as the parties may agree or the court may
-provide. Further, a defense lawyer shall be permitted to provide a copy of the materials to the
-defendant after making appropriate redactions that are approved by the prosecuting authority or
-order of the court.
+      (3) Custody of Materials. Any materials furnished to a defendant or defense counsel
+pursuant to these rules shall remain in the exclusive custody of the defendant or defense counsel
+and be used only for the purposes of conducting the party's side of the case, unless otherwise
+agreed by the parties or ordered by the court, and shall be subject to such other terms and
+conditions as the parties may agree or the court may provide. If defense counsel chooses to share
+discovery with the defendant, defense counsel shall redact discovery consistent with the
+requirements of subsection (g)(3)(C) of this rule and provide a copy of the discovery to the
+defendant and shall provide a copy of the redacted discovery to the prosecutor. Each defense
+counsel shall maintain a duplicate copy of discovery furnished to the represented defendant that
+shows the redactions made in accordance with this rule. The duplicate copy of discovery with
+redactions shall be kept in the defendant’s case file for the duration of the case.
+
+      (A) A prosecuting attorney may move the court for an order to modify redactions beyond
+those made pursuant to this rule by scheduling a hearing within 7 days of the discovery being
+provided to defense counsel to address what additional redactions beyond those made pursuant to
+this rule are required.
+
+     (B) Defense counsel may move the court for an order to modify redaction conditions.
+
+     (C) Defense counsel may provide a copy of discovery to the defendant after making
+redactions consistent with the following requirements:
+
+     (i) Names. The names of all persons under the age of 18, the names of all alleged victims,
+     and the names of all witnesses, except law enforcement and experts, shall be redacted to
+     initials.
+
+     (ii) Addresses. All addresses shall be redacted to show only the state, except for the address
+     of the defendant and the business addresses of law enforcement and professional witnesses.
+
+     (iii) Phone numbers. All phone numbers shall be redacted in full, except for those of the
+     defendant.
+
+     (iv) E-mail addresses. All e-mail addresses shall be redacted in full, except for those of the
+     defendant.
+
+     (v) Birth dates. All birth dates shall be redacted to show only the year of birth, except for
+     the birth date of the defendant and except for when the age is an element of the offense.
+     When age is an element of the offense, the birth date of the person(s) whose age is at issue
+     shall not be redacted.
+
+     (vi) Schools. The names of all schools attended by witnesses under the age of 18 shall be
+     redacted, except for the name of a school if it is the alleged location of the current charge.
+
+     (vii) Government Issued Identification Numbers. All government issued identification
+     numbers including, but not limited to, Social Security, driver’s license, identification card,
+     and passport numbers, shall be redacted in full, except for those of the defendant. All
+     remaining information on government issued identification documents shall be redacted in
+     accordance with the requirements of this rule.
+
+     (viii) Financial Account Numbers. Financial account numbers shall be redacted to show
+     only the last four digits.
+
+     (ix) Firearms. Firearm serial numbers shall be redacted to show only the last two digits.
+
+     (x) Medical, Mental Health, and Treatment Records. No medical records, mental health
+     records, or substance use disorder evaluations or treatment records shall be provided,
+     except those of the defendant.
+
+     (xi) Child Protective Services Records.
+
+          (a) Child Protective Services (CPS) records relating to the children of the defendant
+          shall be redacted in accordance with the requirements of this rule.
+
+          (b) CPS records of all other children that contain information about the defendant shall
+    be redacted in accordance with the requirements of this rule.
+
+(xii) Autopsy Records. No autopsy videos or photographs shall be provided. Written
+autopsy records shall be redacted in accordance with the requirements of this rule.
+
+(xiii) Witness Interviews.
+
+    (a) Video and audio recordings of witness interviews shall be redacted in accordance
+    with the requirements of this rule, except for child forensic interviews.
+
+    (b) Video and audio recordings of child forensic interviews shall not be provided to
+    the defendant absent court order pursuant to RCW 26.44.186.
+
+    (c) Transcripts of all interviews, including child forensic interviews, shall be redacted
+    in accordance with the requirements of this rule.
+
+    (d) If counsel lacks the technical capacity to redact this information as required, then
+    counsel may not provide that unredacted discovery material to the defendant.
+
+(xiv) Images and Videos.
+
+    (a) Any portion of an image, photograph, or video that exposes a person’s breasts,
+    buttocks, or genitalia shall be redacted.
+
+    (b) Any portion of an image, photograph, or video that includes an image of a known
+    minor shall be redacted.
+
+    (c) If counsel lacks the technical capacity to redact this discovery as required, then
+    counsel may not provide that unredacted discovery material to the defendant.
+
+(xv) Cell Phone Business Records. Cell phone business records belonging to or primarily
+used by the defendant shall not be redacted. All other cell phone business records shall be
+redacted in full, absent court order or an agreement of the parties. If counsel lacks the
+technical capacity to redact this discovery as required, then counsel may not provide that
+unredacted discovery material to the defendant.
+
+(xvi) Cell Phone and Computer Search Results. All material found on phones or computers
+shall be redacted in accordance with the requirements of this rule. If counsel lacks the
+technical capacity to redact this discovery as required, then counsel may not provide that
+unredacted discovery material to the defendant.
+
+(xvii) Social Media Search Results. Social media search results for social media accounts
+shall be redacted in accordance with the requirements of this rule.
+
+(xviii) Criminal History. Criminal history records of persons other than the defendant shall
+be redacted in accordance with the requirements of this rule.
+
+(xix) Other Evidence. All other evidence, including but not limited to the evidence listed in
+this subsection, shall be redacted in accordance with the requirements of this rule. If
+counsel lacks the technical capacity to redact this discovery as required, then counsel may
+not provide that unredacted discovery material to the defendant. Such evidence includes the
+following:
+
+    (a) Computer Aided Dispatch (CAD) Reports;
+
+    (b) Video of defendant jail calls, jail call log records of persons other than defendant,
+          and transcripts of all jail calls; and
+
+          (c) Audio and transcripts of calls to 911.
+
       (4) Protective Orders. Upon a showing of cause, the court may at any time order that
 specified disclosure be restricted or deferred or make such other order as is appropriate, provided
 that all material and information to which a party is entitled must be disclosed in time to permit
@@ -3420,7 +3537,7 @@ willful violation or of gross negligence and that the defendant was prejudiced b
 thereto may subject the lawyer to appropriate sanctions by the court.
 
 [Adopted effective September 1, 1987; Amended effective September 1, 2005; May 2, 2023;
-October 1, 2024; April 29, 2025.]
+October 1, 2024; April 29, 2025; September 1, 2026.]
 ```
 
 <a id="crrlj-4-8"></a>

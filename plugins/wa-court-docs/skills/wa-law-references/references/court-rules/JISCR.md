@@ -1,7 +1,7 @@
 # Judicial Information System Committee Rules (JISCR)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=ga&set=JISCR
-- Pulled: 2026-05-02
+- Pulled: 2026-10-01
 - Rules: 18
 
 > Verbatim text extracted from the official PDFs published by the Washington
@@ -22,7 +22,7 @@
   - [JISCR 10 — Attorney Identification Numbers](#jiscr-10)
   - [JISCR 11 — Security, Privacy, and Confidentiality](#jiscr-11)
   - [JISCR 12 — Dissemination of Court Information](#jiscr-12)
-  - [JISCR 13 — Local Court Systems](#jiscr-13)
+  - [JISCR 13 — Electronic Court Record Systems](#jiscr-13)
   - [JISCR 14 — Control of Data Processing Equipment](#jiscr-14)
   - [JISCR 15 — Data Dissemination of Computer-Based Court Information](#jiscr-15)
   - [JISCR 16 — Record and Dissemination Data Processing](#jiscr-16)
@@ -290,20 +290,76 @@ such rules by the Supreme Court.
 ```
 
 <a id="jiscr-13"></a>
-### JISCR 13 — Local Court Systems
+### JISCR 13 — Electronic Court Record Systems
 
 Source: https://www.courts.wa.gov/court_rules/pdf/JISCR/GA_JISCR_13_00_00.pdf
 
 ```
 JISCR 13
-                                LOCAL COURT SYSTEMS
+                        ELECTRONIC COURT RECORD SYSTEMS
 
-Counties or cities wishing to establish automated court record systems shall provide advance
-notice of the proposed development to the Judicial Information System Committee and the Office
-of the Administrator for the Courts 90 days prior to the commencement of such projects for the
-purpose of review and approval.
+     Preamble
 
-[Adopted effective May 15, 1976.]
+      This rule provides guidance to Washington State superior courts, superior court clerks,
+Courts of Limited Jurisdiction, and the Administrative Office of the Courts (AOC) when a local
+court intends to use an alternative electronic court record system in lieu of using the statewide
+court record system and to facilitate sharing of statewide court data relied on for judicial
+decision-making and public safety.
+
+       (a) An “electronic court record system” is any electronic court data technology system that
+is a source of statewide court data identified in the Judicial Information System (JIS) Data
+Standards for Alternative Local Court Record Systems Policy (“JIS Data Standards Policy”).
+
+      (b) If an alternative electronic court records system is implemented in a superior court
+jurisdiction, the presiding judge and county clerk will be consulted and included for purposes of
+compliance with this rule.
+
+      (c) Counties or cities may implement alternative electronic court record systems in
+compliance with procedures established by the Judicial Information System Committee (JISC).
+Courts wishing to implement alternative electronic court record systems shall provide advance
+notice of their intent to the JISC and AOC at least 90 days prior to the start of the procurement
+process for the purpose of review and coordination.
+
+      (d) Courts implementing an alternative electronic court record system shall meet the
+requirements outlined in the JIS Data Standards Policy. AOC, on behalf of the JISC, will provide
+the courts and/or clerk with all necessary information and requirements needed to support the
+local court’s implementation of the alternative electronic court record system and data exchange
+into the statewide data repository.
+
+      (e) As soon as practicable after selection of an alternative electronic court record system,
+the court will provide AOC with a project schedule and detailed plan for integration with the
+statewide data repository and will also provide ongoing updates and changes to the project
+schedule and plan.
+
+      (f) The local court and/or county clerk agree to coordinate with AOC on data mapping to
+ensure data quality standards are met for successful data exchange between the alternative
+electronic court record system and the statewide data repository.
+
+      (g) AOC and the court and/or clerk will meet to establish an agreed upon timeline for
+transfer of data into the statewide data repository, which should not exceed more than two
+months after implementation of the alternative electronic court records system, unless agreed
+upon by the court, clerk, and AOC.
+
+     (h) Individual courts and/or county clerks are responsible for arranging resources for
+implementing and maintaining locally procured electronic court record systems and for
+programming and testing local systems that interface with the statewide data repository.
+
+      (i) The court, clerk, and AOC agree to address and resolve any identified issues that may
+impact implementation of the alternative electronic court record system and successful exchange
+of data into the statewide data repository.
+
+      (j) AOC will provide sufficient notice to the courts and clerks using alternative electronic
+court record systems to allow for adoption of any necessary changes to the JIS Data Standards
+Policy, legislative requirements, or required business and technical changes.
+[Adopted effective May 15, 1976; Amended effective September 1, 2026.]
+
+                                         Comment
+
+This rule recognizes that early and frequent communication and collaboration between the local
+court and AOC is essential for success. This rule also acknowledges that the JISC and AOC set
+statewide information technology (IT) priorities through a JISC adopted IT governance process.
+
+[Comment adopted effective September 1, 2026.]
 ```
 
 <a id="jiscr-14"></a>

@@ -1,8 +1,8 @@
 # General Rules (GR)
 
 - Source: https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=ga&set=GR
-- Pulled: 2026-05-02
-- Rules: 58
+- Pulled: 2026-10-01
+- Rules: 59
 
 > Verbatim text extracted from the official PDFs published by the Washington
 > Administrative Office of the Courts. PDF layout extraction is imperfect; cite
@@ -17,7 +17,7 @@
   - [GR 4 — Law Librarian](#gr-4)
   - [GR 5 — Audits](#gr-5)
   - [GR 6 — Sessions of Courts](#gr-6)
-  - [GR 7 — Local Rules--Filing and Effective Date](#gr-7)
+  - [GR 7 — Local Court Rulemaking](#gr-7)
   - [GR 8 — Reserved, Chapter 136, Laws 2002](#gr-8)
   - [GR 9 — Supreme Court Rulemaking Procedure](#gr-9)
   - [GR 10 — Ethics Advisory Committee Regarding Advisory Opinions on Judicial Conduct](#gr-10)
@@ -53,7 +53,7 @@
   - [GR 27 — Courthouse Facilitators](#gr-27)
   - [GR 28 — Jury Service Postponement, Excusal, and Disqualification](#gr-28)
   - [GR 29 — Presiding Judge in Superior Court District and Limited Jurisdiction Court District](#gr-29)
-  - [GR 30 — Electronic Filing and Service](#gr-30)
+  - [GR 30 — Electronic Filing](#gr-30)
   - [GR 31 — Access to Court Records](#gr-31)
   - [GR 31.1 — Access to Administrative Records](#gr-31-1)
   - [GR 32 — Court Performance Audits](#gr-32)
@@ -68,6 +68,7 @@
   - [GR 41 — Jury Selection by Using Remote Technology](#gr-41)
   - [GR 42 — Independence of Public Defense Services](#gr-42)
   - [GR 43 — Personal Pronouns](#gr-43)
+  - [GR 44 — Court Antiharassment Policy](#gr-44)
 
 <a id="gr-1"></a>
 ### GR 1 — Classification System for Court Rules
@@ -264,13 +265,13 @@ GR 6
 ```
 
 <a id="gr-7"></a>
-### GR 7 — Local Rules--Filing and Effective Date
+### GR 7 — Local Court Rulemaking
 
 Source: https://www.courts.wa.gov/court_rules/pdf/GR/GA_GR_07_00_00.pdf
 
 ```
 GR 7
-                                LOCAL COURT RULEMAKING
+                               LOCAL COURT RULEMAKING
 
       (a) Generally. One copy of rules of court authorized by law to be adopted or amended by
 courts other than the Supreme Court must be filed with the state Administrative Office of the
@@ -301,18 +302,19 @@ of the Courts for comments as to its conformity in number and format to the Offi
 Court, and suggestions with reference thereto.
 
       (d) Distribution. On or before September 1 of each year, the Administrator for the Courts
-shall distribute all local rules, and amendments thereto, to the state law library, the libraries of the
-three divisions of the Court of Appeals, all county law libraries, Washington law school libraries,
-and to such other places as are deemed appropriate by the Administrative Office of the Courts.
+shall distribute all local rules, and amendments thereto, to the state law library, the libraries of
+the three divisions of the Court of Appeals, all county law libraries, Washington law school
+libraries, and to such other places as are deemed appropriate by the Administrative Office of the
+Courts.
 
     (e) Availability of Local Rules. The clerk of the court adopting the rules shall maintain a
 complete set of current local rules, which shall be available for inspection and copying.
 
-      (f) Emergency Rules.
+     (f) Emergency Rules.
 
-      (1) In the event a court other than the Supreme Court deems that an emergency exists which
+      (1) In the event a court other than the Supreme Court deems that an emergency exists that
 requires a change in its rules, such court shall, in addition to filing the rules or amendments as
-provided in section (a), distribute them to all county law libraries.
+provided in section (a), post the rule adopted on an emergency basis on the local court website.
 
       (2) A rule or amendment adopted on an emergency basis shall become effective
 immediately on filing with the Administrative Office of the Courts. The rule or amendment
@@ -324,7 +326,7 @@ section (f)(1) or submitted as a permanent rule or amendment under section (a) w
 establish the specifications necessary for a court to file its local court rules electronically.
 
 [Adopted effective January 1, 1981; Amended effective September 1, 1991; March 19, 1993;
-November 25, 2003; July 30, 2019; February 1, 2021.]
+November 25, 2003; July 30, 2019; February 1, 2021; September 1, 2026.]
 ```
 
 <a id="gr-8"></a>
@@ -507,7 +509,7 @@ Court determines that a different effective date is necessary.
       (i) Schedule for Review and Adoption of Rules.
 
      (1) In order to be published for comment in January, as provided in section (i)(2), a
-suggested rule must be received no later than October 15 of the preceding year.
+suggested rule must be received no later than September 1 of the preceding year.
 
       (2) Proposed rules shall be published for comment in January of each year.
 
@@ -539,7 +541,7 @@ sections (g) or (h) as applicable.
 by the Supreme Court by that date.
 
 [Adopted effective March 19, 1982; Amended effective September 1, 1984; September 1, 2000;
-April 2, 2026.]
+April 2, 2026; January 1, 2027.]
 ```
 
 <a id="gr-10"></a>
@@ -1623,12 +1625,13 @@ Source: https://www.courts.wa.gov/court_rules/pdf/GR/GA_GR_14_Appendix.pdf
 GR 14—Appendix 1
                 OFFICE OF REPORTER OF DECISIONS STYLE SHEET
 
-                      Effective September 1, 2025 and Subject to Revision
+                      Effective September 1, 2026 and Subject to Revision
 
                                    GENERAL PRINCIPLES
 
 1. The Twentieth Edition of The Bluebook: A Uniform System of Citation is the basic citation
-   resource for Washington appellate court opinions except as noted below.
+   resource for briefs, pleadings, motions, and other documents and papers filed with the court
+   except as noted below.
 
 2. The latest edition of The Chicago Manual of Style is the authority for punctuation and style
    matters.
@@ -1638,8 +1641,8 @@ GR 14—Appendix 1
    and hyphens between nouns (e.g., website, seat belt, decision-maker). Where two or more
    spellings are listed, use Webster’s preferred spelling rather than the variant.
 
-4. For matters not covered by the Bluebook, The Chicago Manual of Style, or Webster’s, the
-   Office of Reporter of Decisions applies formal, traditional, noncolloquial English.
+4. For matters not covered by the Bluebook, The Chicago Manual of Style, or Webster’s, use
+   formal, traditional, noncolloquial English.
 
 5. Use and cite to official sources, which in most instances are printed publications. Do not cite
    to an unofficial source unless the official source is unavailable.
@@ -1657,7 +1660,7 @@ Annotated Revised Code of Washington (LEXIS)          ARCW
 Session Laws                                          Laws of 2002, ch. 107, § 3
 special sessions                                      Laws of 1995, 2d Spec. Sess., ch. 14, § 21
 extraordinary sessions                                Laws of 1963, 1st Ex. Sess., ch. 26
-Washington Reports, 1st, 2d, & 3d Series              Wash.; Wn.2d; Wn.3d
+Washington Reports, 1st, 2d & 3d Series               Wash.; Wn.2d; Wn.3d
 Washington Territory Reports                          Wash. Terr.
 Washington Appellate Reports, 1st & 2d Series         Wn. App.; Wn. App. 2d
 Washington Administrative Code                        WAC
@@ -1673,8 +1676,8 @@ Remington’s Revised Statutes                         Rem. Rev. Stat.
 Remington’s 1915 Code                                Rem. 1915 Code
 Note: In citations, “Const.,” “Laws of,” and the names of codes and statutes (e.g., “Code of
 1881,” “Rem. Rev. Stat.”) are printed in the official reports in large and small caps, but ordinary
-typeface is acceptable in manuscript opinions. In text, both the official reports and manuscript
-opinions use ordinary typeface.
+typeface is acceptable in court documents. In text, both the official reports and court documents
+use ordinary typeface.
 
                                 EXCEPTIONS TO BLUEBOOK
 
@@ -1698,8 +1701,8 @@ opinions use ordinary typeface.
 
 6.     Exception to Bluebook rule 8, at 91-93: Ignore this section. The Reporter’s Office
        generally follows The Chicago Manual of Style to resolve capitalization issues although,
-       other than capitalizing proper nouns and maintaining consistency throughout the opinion,
-       the judicial author’s preference governs.
+       other than capitalizing proper nouns and maintaining consistency throughout the
+       document, the author’s preference governs.
 
 7.     Exception to Bluebook rule 9(a) at 94: When a judge is named in text, the use of the
        judge’s first and middle names/initials is discretionary with the author.
@@ -1707,24 +1710,18 @@ opinions use ordinary typeface.
 8.     Exception to Bluebook rule 10.2.1(a) at 97: When a case has both an adversary and a
        nonadversary name, cite to only the first case name in the official reports caption.
 
-9.     Exception to Bluebook rule 10.3.1, at 102-103 and Table T1: Cite official reports and
-       regional reporters for all cases for which official reports are published. Include public
-       domain citations when available. For California, Illinois, and New York, include the state
-       specific reporter (Cal. Rptr. 3d, Ill. Dec., N.Y.S.2d) in addition to the official reports and
-       regional reporters. For Washington cases, pinpoint citations are made to Wash., Wn.2d,
-       Wn.3d, Wn. App., or Wn. App. 2d pages, paragraph numbers, or both; pinpoint citations
-       to P., P.2d, or P.3d pages are optional; pinpoint citations should not be made to P.3d
-       paragraph numbers. For non-Washington cases, pinpoint citations are made to the official
-       report or the unofficial report. Maintain consistency throughout the opinion.
+9.     Exception to Bluebook rule 10.3.1, at 102-103 and Table T1: For Washington cases, cite
+       the official reports (Wash., Wn.2d, Wn.3d, Wn. App., or Wn. App. 2d) if therein;
+       otherwise cite the regional reporters (P., P.2d, or P.3d). For non-Washington cases, cite
+       the regional reporters if therein; otherwise cite the official reports.
 
 10.    Exception to Bluebook rule 10.7, at 109-11: Review denied and review granted: for
-       Washington cases, cite to Wash., Wn.2d, or Wn.3d; citing P., P.2d, or P.3d in addition to
-       Wash., Wn.2d, or Wn.3d is optional; for non-Washington cases: cite to the regional
-       reporter; citing the official reporter in addition to the regional reporter is optional. Cert.
-       granted or cert. denied in the United States Supreme Court: cite only to U.S. if therein;
-       otherwise, cite to one of the following: S. Ct., L. Ed. or L. Ed. 2d, or U.S.L.W. in that
-       order of preference. When subsequent history results in an opinion (such as aff’d, rev’d,
-       vacated, overruled by, and abrogated by), use a full case citation.
+       Washington cases, cite only to Wash., Wn.2d, or Wn.3d if therein; otherwise cite only the
+       regional reporters (P., P.2d, or P.3d); for non-Washington cases, cite only to the regional
+       reporter. Cert. granted or cert. denied in the United States Supreme Court: cite only to
+       U.S. if therein; otherwise, cite to only one of the following: S. Ct., L. Ed. or L. Ed. 2d, or
+       U.S.L.W. in that order of preference.
+
 11.    Exception to Bluebook rule 10.7.1(c) at 110: “Overruled by” (or “abrogated by”) is
        appropriate when a case explicitly repudiates (or effectively overrules or departs from) an
        earlier decision of a lower court as well as an earlier decision of the same court. Do not
@@ -1751,7 +1748,7 @@ opinions use ordinary typeface.
        the public domain citation after the A.3d citation becomes available.
 
 [Adopted effective September 1, 2003; amended effective February 19, 2009;
-December 28, 2010; December 8, 2015; July 3, 2018; September 1, 2025.]
+December 28, 2010; December 8, 2015; July 3, 2018; September 1, 2025; September 1, 2026.]
 ```
 
 <a id="gr-14-1"></a>
@@ -4037,135 +4034,101 @@ State Constitution.
 ```
 
 <a id="gr-30"></a>
-### GR 30 — Electronic Filing and Service
+### GR 30 — Electronic Filing
 
 Source: https://www.courts.wa.gov/court_rules/pdf/GR/GA_GR_30_00_00.pdf
 
 ```
 GR 30
-
-                           ELECTRONIC FILING AND SERVICE
+                                    ELECTRONIC FILING
 
      (a) Definitions.
 
-      (1) “Electronic Filing” is the electronic transmission of information to a court or clerk for
-case processing.
+       (1) “Electronic Filing System (E-Filing System)” is a computer system and/or software
+utilized by the clerk of court for receiving electronic documents submitted for filing in a court
+case.
 
-      (2) “Electronic Document” is an electronic version of information traditionally filed in
-paper form, except for documents filed by facsimile which are addressed in GR 17. An
+      (2) “Electronic Filing” (E-Filing)” is the electronic transmission of documents to a clerk of
+court for filing in a court case.
+
+      (3) “Electronic Document” is an electronic version of a document traditionally filed in
+paper form, except for documents filed by facsimile, which are addressed in GR 17. An
 electronic document has the same legal effect as a paper document.
 
-       (3) “Electronic Filing Technical Standards” are those standards, not inconsistent with this
-rule, adopted by the Judicial Information System committee to implement electronic filing.
+      (4) “Electronic signature” is an electronic or digital image of the handwritten signature or
+other electronic sound, symbol, or process, of an individual; attached to or logically associated
+with an electronic document, executed or adopted by a person with the intent to sign the
+electronic document, including but not limited to “/s/ [name of signatory]”.
 
-      (4) “Electronic signature” is an electronic image of the handwritten signature or other
-electronic sound, symbol, or process, of an individual; attached to or logically associated with an
-electronic record and executed or adopted by a person with the intent to sign the record,
-including but not limited to “/s/ [name of signatory]”.
+     (5) “Filer” is the person who files an electronic document through the E-Filing system.
 
-    (5) “Filer” is the person whose user ID and password are used to file an electronic
-document.
+    (6) “Clerk is the clerk of the courts for Courts of Limited Jurisdiction, and Superior,
+Appeals, and Supreme courts.
 
-     (b) Electronic filing authorization, exception, service, and technology equipment.
+     (b) Electronic filing and service.
 
-     (1) The clerk may accept for filing an electronic document that complies with the Court
-Rules and the Electronic Filing Technical Standards.
+      (1) The clerk may accept for filing an electronic document that complies with the local and
+statewide court rules.
 
       (2) A document that is required by law to be filed in non-electronic media may not be
 electronically filed.
 
-                                             Comment
+      (3) The court or clerk may electronically transmit notices, orders, or other documents to all
+attorneys as authorized under local court rule, or to a party who has electronically filed or has
+agreed to accept electronic documents from the court, and has provided the clerk the address of
+the party’s electronic mailbox. It is the responsibility of all attorneys and the filing or agreeing
+party to maintain an electronic mailbox sufficient to receive electronic transmissions of notices,
+orders, and other documents.
 
-      Certain documents are required by law to be filed in non-electronic media. Examples are
-original wills, certified records of proceedings for purposes of appeal, negotiable instruments,
-and documents of foreign governments under official seal.
-
-       (3) Electronic Transmission from the Court. The court or clerk may electronically transmit
-notices, orders, or other documents to all attorneys as authorized under local court rule, or to a
-party who has filed electronically or has agreed to accept electronic documents from the court,
-and has provided the clerk the address of the party’s electronic mailbox. It is the responsibility
-of all attorneys and the filing or agreeing party to maintain an electronic mailbox sufficient to
-receive electronic transmissions of notices, orders, and other documents.
-
-      (4) A court may adopt a local rule that mandates electronic filing by attorneys and/or
-electronic service of documents on attorneys for parties of record, provided that the attorneys are
-not additionally required to file paper copies except for those documents set forth in (b)(2).
+      (4) A court may adopt a local rule that mandates E-Filing by attorneys and/or electronic
+service of documents on attorneys for parties of record, provided that the attorneys are not
+additionally required to file paper copies except for those documents set forth in (b)(2).
 Electronic service may be made either through an electronic transmission directly from the court
 (where available) or by a party’s attorney. Absent such a local rule, parties may electronically
 serve documents on other parties of record only by agreement. The local rule shall not be
-inconsistent with this rule and the Electronic Filing Technical Standards, and the local rule shall
-permit paper filing and/or service upon a showing of good cause. Electronic filing and/or service
-should not serve as a barrier to access.
+inconsistent with this rule, and the local rule shall permit paper filing and/or service upon a
+showing of good cause. E-Filing and/or service should not serve as a barrier to access.
 
-                                             Comment
+                                            Comment
+
       When adopting electronic filing requirements, courts should refrain from requiring counsel
 to provide duplicate paper pleadings as “working copies” for judicial officers.
 
      (c) Time of Filing, Confirmation, and Rejection.
+      (1) E-Filed documents accepted by the clerk during the clerk’s business hours will be
+deemed filed as of the date and time submitted by the filer. E-Filed documents submitted outside
+the clerk’s business hours, once accepted, will be considered filed at the beginning of the next
+court business day.
 
-      (1) An electronic document is filed when it is received by the clerk’s designated computer
-during the clerk’s business hours; otherwise the document is considered filed at the beginning of
-the next business day.
+      (2) The clerk shall issue confirmation to the filer when an electronic document has been
+accepted. Absent confirmation, there is no presumption the electronic document was received for
+filing. The filer is responsible for verifying receipt of any document electronically submitted.
 
-     (2) The clerk shall issue confirmation to the filing party that an electronic document has
-been received.
+       (3) The clerk may reject an electronic document that fails to comply with applicable
+policies, court rules, statutes, or other E-Filing system requirements. The clerk must notify the
+filer of the rejection and the reason therefor.
 
-      (3) The clerk may reject a document that fails to comply with applicable electronic filing
-requirements. The clerk must notify the filing party of the rejection and the reason therefor.
+      (d) Authentication of Electronic Documents.
 
-     (d) Authentication of Electronic Documents.
+      (1) Procedures
 
-     (1) Procedures
+      (A) A person filing an electronic document through the clerk’s E-Filing system must use
+the system’s default authentication and authorization process. All electronic documents filed
+using such E-Filing systems are presumed to be authenticated.
 
-      (A) A person filing an electronic document must have received a user ID and password
-from a government agency or a person delegated by such agency in order to use the applicable
-electronic filing service.
+      (B) Any order or document electronically signed by a judicial officer must be filed as
+required by the clerk’s office policy or procedure to ensure authenticity.
 
-                                            Comment
+      (2) Signatures
 
-      The committee encourages local clerks and courts to develop a protocol for uniform
-statewide single user ID’s and passwords.
+      (A) Attorneys and nonattorneys may use an electronic signature to sign electronic
+documents, signed under penalty of perjury. All electronic documents signed under penalty of
+perjury must include attestation language substantially similar to that set forth in GR 13.
+Attorneys and nonattorneys shall provide their printed name with their signature and the
+following contact information, if available: mailing address, e-mail address, and phone number.
+Attorneys must also provide their state bar number with their signature.
 
-     (B) All electronic documents must be filed by using the user ID and password of the filer.
-
-      (C) A filer is responsible for all documents filed with their user ID and password. No one
-shall use the filer’s user ID and password without the authorization of the filer.
-
-     (2) Signatures
-
-     (A) Attorney Signatures--An electronic document which requires an attorney’s signature
-may be signed with an electronic signature or signed in the following manner:
-
-     s/John Attorney
-     State Bar Number 12345
-     ABC Law Firm
-     123 South Fifth Avenue
-     Seattle, WA 98104
-     Telephone: (206) 123-4567
-     Fax: (206) 123-4567
-     E-mail: John.Attorney@lawfirm.com
-
-      (B) Non-attorney signatures--An electronic document which requires a non-attorney’s
-signature and is not signed under penalty of perjury may be signed with an electronic signature
-or signed in the following manner:
-
-     s/John Citizen
-     123 South Fifth Avenue
-     Seattle, WA 98104
-     Telephone: (206) 123-4567
-     Fax: (206) 123-4567
-     E-mail: John.Citizen@email.com
-      (C) Non-attorney signatures on documents signed under penalty of perjury--Except as set
-forth in (d)(2)(D) of this rule, if the original document requires the signature of a non-attorney
-signed under penalty of perjury, the filer must either:
-
-      (i) Scan and electronically file the entire document, including the signature page with the
-signature, and maintain the original signed paper document for the duration of the case, including
-any period of appeal, plus sixty (60) days thereafter; or
-
-      (ii) Ensure the electronic document has the electronic signature of the signer.
-
-      (D) Law enforcement officer signatures on documents signed under penalty of perjury.
+      (B) Law enforcement officer signatures on documents signed under penalty of perjury.
 
       (i) A citation or notice of infraction initiated by an arresting or citing officer as defined in
 IRLJ 1.2(j) and in accordance with CrRLJ 2.1 or IRLJ 2.1 and 2.2 is presumed to have been
@@ -4176,46 +4139,60 @@ the citation or notice of infraction.
 when the officer uses their user ID and password to electronically submit the document to a court
 or prosecutor through a statewide electronic collision and traffic records program provided by
 the Washington State Patrol, the Justice Information Network Data Exchange, or a local secured
-system that the presiding judge designates by local rule. Unless otherwise specified, the
-signature shall be presumed to have been made under penalty of perjury under the laws of the
-state of Washington and on the date and at the place set forth in the citation.
+system that the presiding judge designates by local rule. Unless otherwise specified, the officer’s
+electronic signature shall be presumed to have been made under penalty of perjury under the
+laws of the state of Washington and on the date and at the place set forth in the citation.
 
-      (E) Multiple signatures--If the original document requires multiple signatures, the filer
-shall scan and electronically file the entire document, including the signature page with the
-signatures, unless:
+      (C) Multiple signatures—If the original document requires multiple signatures, the filer
+shall E-File the entire document, including all pages containing signatures, unless:
 
       (i) The electronic document contains the electronic signatures of all signers; or
 
-     (ii) For a document that is not signed under penalty of perjury, the signator has the express
+     (ii) For a document that is not signed under penalty of perjury, the filer has the express
 authority to sign for an attorney or party and represents having that authority in the document.
 
-      If any of the non-electronic signatures are of non-attorneys, the filer shall maintain the
-original signed paper document for the duration of the case, including any period of appeal, plus
-sixty (60) days thereafter.
+      If any of the nonelectronic signatures are of nonattorneys, the filer shall maintain the
+original signed paper document for the duration of the case, including any period of appeal.
 
-      (F) Court Facilitated Electronically Captured Signatures--An electronic document that
+      (D) Court Facilitated Electronically Captured Signatures—An electronic document that
 requires a signature may be signed using electronic signature pad equipment that has been
-authorized and facilitated by the court. This document may be electronically filed as long as the
+authorized and facilitated by the court. Said electronic document may be E-Filed as long as the
 electronic document contains the electronic captured signature.
 
-      (3) An electronic document filed in accordance with this rule shall bind the signer and
-function as the signer’s signature for any purpose, including CR 11. An electronic document
-shall be deemed the equivalent of an original signed document if the filer has complied with this
-rule. All electronic documents signed under penalty of perjury must conform to the oath
-language requirements set forth in RCW 9A.72.085 and GR 13.
+      (E) Judicial Officer Signatures—Any judicial officer may affix an electronic signature to
+any electronic document that requires a judicial officer’s signature where the court has adopted a
+rule, policy, or procedure allowing for electronic signing of court orders by judicial officers. Any
+such rule, policy, or procedure shall be consistent with this rule. The process or procedure of
+filing an e-signed order may be determined by clerk’s office policy or procedure. See subsection
+(d)(1)(B).
 
-      (e) Filing fees, electronic filing fees.
+                                                Comment
 
-      (1) The clerk is not required to accept electronic documents that require a fee. If the clerk
-does accept electronic documents that require a fee, the local courts must develop procedures for
-fee collection that comply with the payment and reconciliation standards established by the
-Administrative Office of the Courts and the Washington State Auditor.
+      Subsection (d)(2)(E) of this rule is intended to preserve the separate authority of the courts
+to retain discretion on the appropriate process for affixing a judicial officer’s electronic signature
+to a court order while maintaining the authority of the clerk to determine the process by which an
+electronically signed order may be filed with the clerk.
+
+      (3) Effect. An electronic document filed in accordance with this rule shall bind the signer
+and function as the signer’s signature for any purpose, including CR 11. An electronic document
+shall be deemed the equivalent of an original signed document and shall have the same force and
+effect as an original signature if the filer has complied with this rule.
+
+     (e) Filing fees, electronic filing fees.
+
+     (1) The clerk is not required to accept documents through the E-Filing system that have an
+associated statutory fee. If the clerk accepts electronic documents that require a fee, the clerk
+must develop procedures for fee collection that comply with the payment and reconciliation
+standards established by the Administrative Office of the Courts and the Washington State
+Auditor.
+
       (2) Anyone entitled to waiver of non-electronic filing fees will not be charged electronic
 filing fees. The court or clerk shall establish an application and waiver process consistent with
 the application and waiver process used with respect to non-electronic filing and filing fees.
 
 [Adopted effective September 1, 2003; Amended effective December 4, 2007;
-September 1, 2011; December 9, 2014; February 1, 2021; January 1, 2023; December 24, 2024.]
+September 1, 2011; December 9, 2014; February 1, 2021; January 1, 2023; December 24, 2024;
+September 1, 2026.]
 ```
 
 <a id="gr-31"></a>
@@ -6690,4 +6667,54 @@ pronouns may be indicated in the text of filed documents. A signing attorney or 
 indicate their personal pronouns in the signature block and on the title page of filed documents.
 
 [Adopted effective June 27, 2023.]
+```
+
+<a id="gr-44"></a>
+### GR 44 — Court Antiharassment Policy
+
+Source: https://www.courts.wa.gov/court_rules/pdf/GR/GA_GR_44_00_00.pdf
+
+```
+GR 44
+                           COURT ANTIHARASSMENT POLICY
+
+    (a) Scope. For purposes of this rule, “court” shall include the Supreme Court, the Court of
+Appeals, every superior court, every district court, and every municipal court.
+
+      (b) Antiharassment Policy. As soon as reasonably possible but no later than September 1,
+2027, every court shall adopt an antiharassment policy that shall comply with the requirements
+of this rule.
+
+     (c) Requirements. An antiharassment policy adopted under this rule shall include, at a
+minimum:
+
+      (1) A statement that the court will provide fair and equal treatment to all personnel
+involved in the business of the court regardless of any status protected under Title VII of the
+Civil Rights Act of 1964, 42 U.S.C. §§ 2000e-2000e-17; the Washington Law Against
+Discrimination, ch. 49.60 RCW; or RPC 8.4(g).
+
+      (2) The antiharassment policy shall cover the conduct of all personnel, including all judges
+or justices.
+
+      (3) The antiharassment policy shall provide a means for any person (including a judge or
+justice) to report workplace harassment based on the conduct of any other person (including a
+judge or justice), including a means to report independent of the person whose conduct forms the
+basis of the report.
+
+    (4) The antiharassment policy shall provide for an objective investigation of all reports of
+workplace harassment and shall include provisions for investigation independent of the person
+whose conduct forms the basis of the report.
+
+[Adopted effective September 1, 2026.]
+
+                                            Comment
+
+Provided the antiharassment policy provides for independent reporting and investigation of the
+conduct of judges or justices at a court in compliance with this rule, as the case may be, the
+August 2020 Model Anti-Harassment Policy promulgated by the Washington State Supreme
+Court Gender and Justice Commission is deemed adequate to otherwise satisfy the requirements
+of this rule. This rule does not affect the ability of any matter to be brought before the
+Commission on Judicial Conduct.
+
+[Comment adopted effective September 1, 2026.]
 ```
