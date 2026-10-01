@@ -2,7 +2,7 @@
 
 - Description: Damages framework (Civ. Code §§ 3274-3359)
 - Source: https://leginfo.legislature.ca.gov/faces/codes.xhtml
-- Pulled: 2026-05-13
+- Pulled: 2026-10-01
 - Sections: 18
 
 > Verbatim text from the California Legislative Information website.

@@ -2,7 +2,7 @@
 
 - Description: Dissolution / nullity / legal separation (Fam. Code §§ 2310-2403)
 - Source: https://leginfo.legislature.ca.gov/faces/codes.xhtml
-- Pulled: 2026-05-13
+- Pulled: 2026-10-01
 - Sections: 12
 
 > Verbatim text from the California Legislative Information website.

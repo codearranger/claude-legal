@@ -2,8 +2,8 @@
 
 - Citation: Cal. Rules of Court, Rules on Law Practice, Attorneys, and Judges
 - Source: https://courts.ca.gov/cms/rules/index/nine
-- Pulled: 2026-05-14
-- Rules: 49
+- Pulled: 2026-10-01
+- Rules: 50
 
 > Verbatim rule text scraped from courts.ca.gov.
 > The Judicial Council periodically amends these rules.
@@ -77,9 +77,10 @@
   - [Rule 9.60 — Review of determinations by the Commission on Judicial Performance](#rule-9-60)
   - [Rule 9.61 — Proceedings involving private or public admonishment, censure, removal, retirement, or disqualification of a judge of the Supreme Court](#rule-9-61)
 
-**Division 6. Judicial Ethics Opinions**
+**Division 6. Judicial Ethics**
 
   - [Rule 9.80 — Committee on Judicial Ethics Opinions](#rule-9-80)
+  - [Rule 9.81 — Supreme Court Advisory Committee on the Code of Judicial Ethics](#rule-9-81)
 
 **Division 7. State Bar Trustees**
 
@@ -1596,91 +1597,141 @@ Nothing in this rule limits the scope of activities permissible under existing l
 
 Source: https://courts.ca.gov/cms/rules/index/nine/rule9_42
 
-**(a) Definitions **
+**(a) Definitions**
 
-(1) ** **A "certified law student" is a law student who has a currently effective certificate of registration as a certified law student from the State Bar.
+The following definitions apply in this rule:
 
-(2) A "supervising attorney" is a licensee of the State Bar who agrees to supervise a certified law student under rules established by the State Bar and whose name appears on the application for certification.
+(1)** **A “Certified Law Student” is a law student who meets the requirements of (c) of this rule and has been approved as a Certified Law Student by the State Bar.
 
-(Subd (a) amended effective January 1, 2019; previously amended effective January 1, 2007.)
+(2) The “Certified Law Student Program” is the legal education program established by this rule and administered by the State Bar.
 
-**(b) State Bar certified law student program **
+(3) The “Law Office Study Program” is the legal education program regulated by the State Bar under rule 4.29 of the Rules of the State Bar
 
-The State Bar must establish and administer a program for registering law students under rules adopted by the Board of Trustees of the State Bar.
+(4) A “Supervising Attorney” is an active licensee, as defined by Rules of Court, rule 9.1(1), in good standing of the State Bar who agrees to supervise a Certified Law Student subject to the requirements of (d) and (e) of this rule. The Supervising Attorney must have practiced law for at least four years in any United States jurisdiction and have actively practiced law in California or taught law in a California law school for at least two years immediately preceding the time of supervision.
 
-(Subd (b) amended effective January 1, 2019; previously amended effective January 1, 2007.)
+*(Subd (a) amended effective June 1, 2026; previously amended effective January 1, 2007, and January 1, 2019.)*
 
-**(c) Eligibility for certification **
+**(b) State Bar Certified Law Student Program**
 
-To be eligible to become a certified law student, an applicant must:
+The State Bar must administer a Certified Law Student Program under Title 3, Division 1, Chapter 1 of the Rules of the State Bar for registering and regulating the activities of law students who practice law as Certified Law Students.
 
-(1) Have successfully completed one full year of studies (minimum of 270 hours) at a law school accredited by the American Bar Association or the State Bar of California, or both, or have passed the first year law students' examination;
+The State Bar has the authority to set and collect appropriate fees and penalties for the Certified Law Student Program.
 
-(2) Have been accepted into, and be enrolled in, the second, third, or fourth year of law school in good academic standing or have graduated from law school, subject to the time period limitations specified in the rules adopted by the Board of Trustees of the State Bar; and
+*(Subd (b) amended effective June 1, 2026; previously amended effective January 1, 2007, and January 19, 2019.)*
 
-(3) Have either successfully completed or be currently enrolled in and attending academic courses in evidence and civil procedure.
+**(c) Eligibility requirements**
 
-(Subd (c) amended effective January 1, 2019.)
+To be eligible to become a Certified Law Student:
 
-**(d) Permitted activities **
+(1) An applicant must either be:
 
-Subject to all applicable rules, regulations, and statutes, a certified law student may:
+(A) Currently enrolled in or have graduated from a juris doctor (J.D.) or master of laws (LL.M.) program in a law school fully or provisionally approved by the Council of the Section of Legal Education and Admissions to the Bar of the American Bar Association or accredited by or registered with the Committee of Bar Examiners, subject to (c)(2), (c)(3) or (c)(5); or
 
-(1) Negotiate for and on behalf of the client subject to final approval thereof by the supervising attorney or give legal advice to the client, provided that the certified law student:
+(B) Currently studying law, or have completed the course of study, through the Law Office Study Program, subject to (c)(4).
 
-(A) Obtains the approval of the supervising attorney to engage in the activities;
+(2) An applicant who is currently enrolled in a J.D. program must:
 
-(B) Obtains the approval of the supervising attorney regarding the legal advice to be given or plan of negotiation to be undertaken by the certified law student; and
+(A) Have successfully completed one full year of studies (minimum of 270 hours) or have passed the First-Year Law Students’ Examination; and
 
-(C) Performs the activities under the general supervision of the supervising attorney;
+(B) Be enrolled and in good academic standing in, the second, third, or fourth year of law school.
 
-(2) Appear on behalf of the client in depositions, provided that the certified law student:
+(3) An applicant who is currently enrolled in an LL.M. program must:
 
-(A) Obtains the approval of the supervising attorney to engage in the activity;
+(A) Have a degree from a law school in a foreign jurisdiction that authorizes the applicant to practice law in that jurisdiction and is acceptable to the State Bar under the State Bar’s Guidelines for Applicants with a Foreign Language Degree;
 
-(B) Performs the activity under the direct and immediate supervision and in the personal presence of the supervising attorney (or, exclusively in the case of government agencies, any deputy, assistant, or other staff attorney authorized and designated by the supervising attorney); and
+(B) Have successfully completed one semester or two quarters in an LL.M. program; and
 
-(C) Obtains a signed consent form from the client on whose behalf the certified law student acts (or, exclusively in the case of government agencies, from the chief counsel or prosecuting attorney) approving the performance of such acts by such certified law student or generally by any certified law student;
+(C) Be enrolled and in good academic standing in a second or subsequent semester or third or subsequent quarter of an LL.M. program.
 
-(3) Appear on behalf of the client in any public trial, hearing, arbitration, or proceeding, or before any arbitrator, court, public agency, referee, magistrate, commissioner, or hearing officer, to the extent approved by such arbitrator, court, public agency, referee, magistrate, commissioner, or hearing officer, provided that the certified law student:
+(4) An applicant who is studying law through the Law Office Study
 
-(A) Obtains the approval of the supervising attorney to engage in the activity;
+Program must:
 
-(B) Performs the activity under the direct and immediate supervision and in the personal presence of the supervising attorney (or, exclusively in the case of government agencies, any deputy, assistant, or other staff attorney authorized and designated by the supervising attorney);
+(A) Have successfully completed one full year of legal studies in a law school (minimum of 270 hours) or in the Law Office Study Program;
 
-(C) Obtains a signed consent form from the client on whose behalf the certified law student acts (or, exclusively in the case of government agencies, from the chief counsel or prosecuting attorney) approving the performance of such acts by such certified law student or generally by any certified law student; and
+(B) Have passed the First-Year Law Students’ Examination; and
 
-(D) As a condition to such appearance, either presents a copy of the consent form to the arbitrator, court, public agency, referee, magistrate, commissioner, or hearing officer, or files a copy of the consent form in the court case file; and
+(C) Be actively continuing the study of law through the Law Office Study Program.
+
+(5) An applicant who graduates from a J.D. program, completes one year in an LL.M. program, or completes their law study through the Law Office Study Program is eligible to apply for the Certified Law Student Program for up to 30 days after their graduation or completion of studies.
+
+(6) An applicant must apply to and be approved as a Certified Law Student pursuant to Title 3, Division 1, Chapter 1 of the Rules of the State Bar before performing the activities authorized by this rule. The application must identify the applicant’s Supervising Attorney who must meet the requirements of (a)(4).
+
+(7) An applicant’s eligibility to practice law under this rule terminates when the applicant receives the results for the first California Bar Examination for which the applicant is eligible to sit or when the applicant fails to take that exam. An applicant’s eligibility to practice under this rule is also subject to the time period limitations specified in Title 3, Division 1, Chapter 1 of the Rules of the State Bar.
+
+*(Subd (c) amended effective June 1. 2026; previously amended effective January 1, 2019.)*
+
+**(d) Supervision**
+
+A Supervising Attorney must:
+
+(1) Assume professional responsibility for the work product of the Certified Law Student;
+
+(2) Train and counsel the Certified Law Student to competently perform activities authorized by this rule;
+
+(3) Read, approve, and personally sign any documents prepared by the Certified Law Student for a client; and
+
+(4) Comply with any other requirements set forth in Title 3, Division 1, Chapter 1 of the Rules of the State Bar pertaining to Supervising Attorneys participating in the Certified Law Student Program.
+
+*(Subd (d) adopted effective June 1, 2026.)*
+
+**(e) Permitted activities**
+
+Subject to all applicable rules, regulations, and statutes, a Certified Law Student may:
+
+(1) Negotiate on behalf of the client or give legal advice to the client, provided that the Certified Law Student:
+
+(A) Obtains approval from the Supervising Attorney to engage in the activity;
+
+(B) Obtains approval from the Supervising Attorney of the legal advice or negotiation plan; and
+
+(C) Acts under general supervision of the Supervising Attorney;
+
+(2) Appear on behalf of the client in depositions, provided that the Certified Law Student:
+
+(A) Obtains approval from of the Supervising Attorney to engage in the activity;
+
+(B) Make the appearance under the direct and immediate supervision and in the personal presence of the Supervising Attorney (or, exclusively in the case of government agencies, any deputy, assistant, or other staff attorney authorized and designated by the Supervising Attorney); and
+
+(C) Obtains written consent from the client (or, exclusively in the case of government agencies, from the chief counsel or prosecuting attorney), for the Certified Law Student to make the appearance.
+
+(3) Appear on behalf of the client in any public trial, hearing, arbitration, or proceeding, or before any arbitrator, court, public agency, referee, magistrate, commissioner, or hearing officer, to the extent approved by such arbitrator, court, public agency, referee, magistrate, commissioner, or hearing officer, provided that the Certified Law Student:
+
+(A) Obtains approval from the supervising attorney to engage in the activity;
+
+(B) Performs the activity under the direct and immediate supervision and in the personal presence of the Supervising Attorney (or, exclusively in the case of government agencies, any deputy, assistant, or other staff attorney authorized and designated by the Supervising Attorney);
+
+(C) Obtains from the client (or, exclusively in the case of government agencies, from the chief counsel or prosecuting attorney) for the Certified Law Student to perform the activity; and
+
+(D) As a condition to such appearance, the Certified Law Student either presents a copy of the client’s written consent to the arbitrator, court, public agency, referee, magistrate, commissioner, or hearing officer, or files a copy of the client’s written consent with the court.
 
 (4) Appear on behalf of a government agency in the prosecution of criminal actions classified as infractions or other such minor criminal offenses with a maximum penalty or a fine equal to the maximum fine for infractions in California, including any public trial:
 
 (A) Subject to approval by the court, commissioner, referee, hearing officer, or magistrate presiding at such public trial; and
 
-(B) Without the personal appearance of the supervising attorney or any deputy, assistant, or other staff attorney authorized and designated by the supervising attorney, but only if the supervising attorney or the designated attorney has approved in writing the performance of such acts by the certified law student and is immediately available to attend the proceeding.
+(B) Without the personal appearance of the Supervising Attorney or any deputy, assistant, or other staff attorney authorized and designated by the Supervising Attorney, but only if the Supervising Attorney or the designated attorney has approved in writing the performance of such acts by the Certified Law Student and is immediately available to attend the proceeding.
 
-(Subd (d) amended effective January 1, 2007.)
+*(Subd (e) was relettered and amended effective June 1, 2026; adopted as subd (d); previously amended effective January 1, 2007.)*
 
-**(e) Failure to comply with program **
+**(f) Avoiding ethical concerns**
 
-A certified law student who fails to comply with the requirements of the State Bar certified law student program must have his or her certification withdrawn under rules adopted by the Board of Trustees of the State Bar.
+An applicant participating in both the Law Office Study Program and the Certified Law Student Program as well as the applicant’s supervisors in both programs must make good faith efforts to mitigate or prevent any actual or potential conflicts of interest or other ethical concerns that might arise from the applicant’s dual role. For example, an applicant who studies in the Law Office Study Program under the supervision of a judge should avoid appearing before that same judge when representing a client in the Certified Law Student Program.
 
-(Subd (e) amended effective January 1, 2019; previously amended effective January 1, 2007.)
+*(Subd (f) **relettered and amended effective June 1, 2026; adopted as subd (e); previously amended effective January 1, 2007.)*
 
-**(f) Fee and penalty **
+**(g) Failure to comply with program**
 
-The State Bar has the authority to set and collect appropriate fees and penalties for this program.
+A Certified Law Student who fails to comply with the requirements of the Certified Law Student program will result in revocation of the Certified Law Student certification under rule 3.10 of the Rules of the State Bar.
 
-(Subd (f) amended effective January 1, 2007.)
+*(Subd (g) relettered and amended effective June 1, 2026; adopted as subd (e) previously amended effective January 1, 2007; and January 1. 2019.)*
 
-**(g) Inherent power of Supreme Court **
+**(h) Inherent power of Supreme Court**
 
 Nothing in these rules may be construed as affecting the power of the Supreme Court to exercise its inherent jurisdiction over the practice of law in California.
 
-(Subd (g) amended effective January 1, 2007.)
+*(Subd (h) relettered and amended effective June 1, 2026; adopted as subd (g); previously amended effective January 1, 2007.)*
 
-Rule 9.42 amended effective January 1, 2019; adopted as rule 983.2 by the Supreme Court effective December 29, 1993; previously amended and renumbered effective January 1, 2007.
-
-42
+*Rule 9.42 amended effective June 1, 2026; adopted as rule 983.2 by the Supreme Court effective December 29, 1993; previously amended and renumbered effective January 1, 2007; previously amended effective January 1, 2019*
 
 <a id="rule-9-43"></a>
 #### Rule 9.43. Out-of-state attorney arbitration counsel
@@ -2630,7 +2681,7 @@ Division 6, Judicial Ethics Opinions, adopted effective July 1, 2009.
 
 42
 
-## Division 6. Judicial Ethics Opinions
+## Division 6. Judicial Ethics
 
 <a id="rule-9-80"></a>
 #### Rule 9.80. Committee on Judicial Ethics Opinions
@@ -2768,6 +2819,59 @@ The committee must maintain a website, e-mail address, and toll-free telephone n
 (Subd (n) amended effective January 1, 2019.)
 
 Rule 9.80 amended effective January 1, 2021; adopted effective July 1, 2009; previously amended effective January 1, 2016 and January 1, 2019.
+
+<a id="rule-9-81"></a>
+#### Rule 9.81. Supreme Court Advisory Committee on the Code of Judicial Ethics
+
+Source: https://courts.ca.gov/cms/rules/index/nine/rule9_81
+
+**(a) Purpose**
+
+The Supreme Court has established the Advisory Committee on the Code of Judicial Ethics to consider and recommend to the Supreme Court amendments to the Code of Judicial Ethics and its commentary.
+
+**(b) Committee recommendations**
+
+In providing its recommendations to the Supreme Court, the committee acts independently of the Commission on Judicial Performance, the Committee on Judicial Ethics Opinions, and all other entities.
+
+**(c) Membership**
+
+The committee consists of nine members appointed by the Supreme Court. At least three members must be justices of the Courts of Appeal, with the remaining members being judges or subordinate judges of the superior courts. Unless otherwise requested by the committee chair and approved by the Supreme Court, no more than a total of two retired justices or judges may serve on the committee at one time, except that if an active justice or judge retires before the expiration of the member’s term, the member will be permitted to complete that term. A retired justice or judge who becomes an active licensee of the State Bar of California or is engaged in privately compensated dispute resolution activities is not eligible to serve on the committee.
+
+**(d) Terms**
+
+(1) Except as provided in subdivision (d)(2), all full terms are for four years. Appointments to fill a vacancy will be for the balance of the term vacated.
+
+(2) To create staggered terms among the members of the committee, the Supreme Court will in 2026 appoint members of the committee as follows:
+
+(A) Three members each to serve an initial term of four years. The court may reappoint these members to subsequent four-year terms.
+
+(B) Three members each to serve an initial term of three years. The court may reappoint these members to subsequent four-year terms.
+
+(C) Three members each to serve an initial term of two years. The court may reappoint these members to subsequent four-year terms.
+
+**(e) Chair and vice-chair**
+
+The Supreme Court will initially appoint a chair and vice-chair from the members of the committee to serve a term consistent with the terms provided by (d)(2) of this rule. Thereafter, the chair and the vice-chair may each be reappointed or appointed by the Supreme Court to a four-year term. The chair may call meetings as needed and otherwise coordinate the work of the committee. If the chair is unavailable, the vice-chair may assume the duties of the chair.
+
+**(f) Powers and duties**
+
+Upon the request of the Supreme Court or on its own initiative, the committee may consider and propose amendments to the Code of Judicial Ethics or its commentary and submit recommendations to the Supreme Court for consideration. Specifically, the committee is authorized to:
+
+(1) Make recommendations to the Supreme Court for amending the Code of Judicial Ethics, its commentary, or these rules; and
+
+(2) Make other recommendations to the Supreme Court as deemed appropriate by the committee or as requested by the court.
+
+**(g) Procedures**
+
+(1) Prior to issuing any recommendation, the committee must first draft a proposal and seek approval from the Supreme Court on whether to solicit public comment on the proposal. Any approved public comment period shall last at least 45 days, unless directed otherwise by the Supreme Court. After the public comment period has expired, the committee must consider all submitted comments and, in light of those comments, issue its recommendation to the Supreme Court, which may include whether to modify or withdraw its original proposal.
+
+(2) Because the Code of Judicial Ethics addresses sensitive subjects that are often informed by actual experiences, in seeking public comment under (g)(1) of this rule, the committee shall permit commenters to request that their comments remain confidential or anonymous. In determining whether to grant a request for confidentiality or anonymity, the committee shall consider whether granting the request is necessary in order to encourage honest and constructive feedback from a broad spectrum of perspectives and outweighs the necessity for disclosure in the interests of justice.
+
+(3) In any final recommendations submitted to the Supreme Court, the views of any dissenting committee members must be presented.
+
+(4) The committee shall meet at least once every calendar year to consider, on its own initiative, whether to consider and propose amendments to the Code of Judicial Ethics or its commentary.
+
+Rule 9.81 adopted effective August 1, 2026.
 
 ## Division 7. State Bar Trustees
 

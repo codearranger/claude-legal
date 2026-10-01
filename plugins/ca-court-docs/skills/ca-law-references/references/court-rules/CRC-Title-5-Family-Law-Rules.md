@@ -2,8 +2,8 @@
 
 - Citation: Cal. Rules of Court, Family and Juvenile Rules
 - Source: https://courts.ca.gov/cms/rules/index/five
-- Pulled: 2026-05-14
-- Rules: 261
+- Pulled: 2026-10-01
+- Rules: 263
 
 > Verbatim rule text scraped from courts.ca.gov.
 > The Judicial Council periodically amends these rules.
@@ -68,7 +68,7 @@
 **Article 1. Summonses, Notices, and Declarations**
 
   - [Rule 5.50 — Papers issued by the court](#rule-5-50)
-  - [Rule 5.51 — Confidential cover sheet for parentage actions or proceedings involving assisted reproduction; other requirements](#rule-5-51)
+  - [Rule 5.51 — Confidential cover sheet for parentage actions or proceedings involving assisted reproduction; other requirements [Repealed]](#rule-5-51)
   - [Rule 5.52 — Declaration under Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA)](#rule-5-52)
 
 **Article 2. Initial Pleadings**
@@ -94,6 +94,7 @@
 
   - [Rule 5.76 — Domestic partnerships](#rule-5-76)
   - [Rule 5.77 — Summary dissolution](#rule-5-77)
+  - [Rule 5.78 — Actions or proceedings to determine a parental (or nonparental) relationship involving an assisted reproduction agreement](#rule-5-78)
 - *Chapter 5. Family Centered Case Resolution Plans*
   - [Rule 5.83 — Family centered case resolution](#rule-5-83)
 - *Chapter 6. Request for Court Orders*
@@ -121,6 +122,7 @@
   - [Rule 5.112.1 — Declaration page limitation; exemptions](#rule-5-112-1)
   - [Rule 5.113 — Live testimony](#rule-5-113)
   - [Rule 5.115 — Judicial notice](#rule-5-115)
+  - [Rule 5.121 — Motion to quash proceeding or responsive relief [Repealed]](#rule-5-121)
 
 **Article 5. Reporting and Preparation of Order After Hearing**
 
@@ -517,7 +519,9 @@ As used in this division, unless the context or subject matter otherwise require
 
 (11) "Reschedule the hearing" means the same as "continue the hearing" under the Family Code and refers to moving a hearing to another date and time.
 
-(Subd (b) amended effective July 1, 2020.)
+(12) “Gestational carrier agreement” refers to an assisted reproduction agreement for gestational carriers as described in Family Code section 7962.
+
+*(Subd (b) amended effective July 1, 2026; previously amended effective July 1, 2020.)*
 
 **(c) Application of rules **
 
@@ -539,7 +543,7 @@ The time within which any act is permitted or required to be done by a party und
 
 In the exercise of the court's jurisdiction under the Family Code, if the course of proceeding is not specifically indicated by statute or these rules, any suitable process or mode of proceeding may be adopted by the court that is consistent with the spirit of the Family Code and these rules.
 
-Rule 5.2 amended effective July 1, 2020; adopted effective January 1, 2013.
+Rule 5.2 amended effective July 1, 2026; adopted January 1, 2013; previously amended effective July 1, 2020..
 
 <a id="rule-5-4"></a>
 #### Rule 5.4. Preemption; local rules and forms
@@ -569,7 +573,9 @@ Source: https://courts.ca.gov/cms/rules/index/five/rule5_7
 
 **(a) Status of family law and domestic violence forms **
 
-All forms adopted or approved by the Judicial Council for use in any proceeding under the Family Code, including any form in the FL, ADOPT, DV, and EJ series, are adopted as rules of court under the authority of Family Code section 211; article VI, section 6 of the California Constitution; and other applicable law.
+All forms adopted or approved by the Judicial Council for use in any proceeding under the Family Code—including any form in the FL, ADOPT, DV, EJ, and SUR series—are adopted as rules of court under the authority of Family Code section 211; article VI, section 6 of the California Constitution; and other applicable law.
+
+*(Subd (a) amended effective July 1, 2026)*
 
 **(b) Forms in nonfamily law proceedings **
 
@@ -579,7 +585,7 @@ The forms specified by this division may be used, at the option of the party, in
 
 Notwithstanding any other provision of these rules, all Uniform Interstate Family Support Act forms approved by either the National Conference of Commissioners on Uniform State Laws or the U.S. Department of Health and Human Services are adopted for use in family law and other support actions in California.
 
-Rule 5.7 adopted effective January 1, 2013.
+Rule 5.7 amened effective July 1, 2026; adopted January 1, 2013.
 
 Title 5, Family and Juvenile Rules-Division 1, Family Rules-Chapter 1, General Provisions-Article 3, Appearance by Telephone; adopted January 1, 2013.
 
@@ -743,9 +749,23 @@ In cases filed under the Family Code, use the following designations for parties
 
 (4) The only persons permitted to be parties to a proceeding under the Domestic Violence Prevention Act are those identified in Family Code section 6211.
 
-(5) The only persons permitted to be parties to a family law proceeding to establish parentage are the presumed or putative parents of the minor child, the minor child, a third party who is joined in the case under rule 5.24, or a local child support agency that intervenes in the case.
+(5) The only persons or agencies permitted to be parties to a family law proceeding to determine parentage are the following:
 
-Rule 5.16 amended effective January 1, 2026; adopted January 1, 2013.
+(A) The presumed or putative parents of the child;
+
+(B) The intended or natural parents of a child conceived through assisted reproduction as defined in Family Code section 7613 and sections 7690–7692;
+
+(C) The gestational carrier, as named in a gestational carrier agreement, and the gestational carrier’s spouse or domestic partner;
+
+(D) The child, as described in Family Code section 7635(a);
+
+(E) A third party who is joined in the case under rule 5.24; or
+
+(F) A local child support agency that intervenes in the case.
+
+*(Subd (b) amended effective July 1, 2026; previously amended effective January 1, 2026.)*
+
+*Rule 5.16 amended effective July 1, 2026; adopted effective January 1, 2013; previously amended effective January 1, 2026.*
 
 <a id="rule-5-17"></a>
 #### Rule 5.17. Other causes of action
@@ -1039,7 +1059,7 @@ If a summons is required to commence a family law case, the clerk of the court m
 
 *(Subd (a) amended effective January 1, 2026.)*
 
-**(b) Automatic temporary family law restraining order in summons; handling by clerk **
+**(b) **Automatic temporary family law restraining order in summons; handling by the clerk of the court
 
 Under Family Code section 233, in proceedings for dissolution, legal separation, or nullity of a marriage or domestic partnership and in parentage proceedings, the clerk of the court must issue a summons that includes automatic temporary (standard) restraining orders.
 
@@ -1047,7 +1067,7 @@ Under Family Code section 233, in proceedings for dissolution, legal separation,
 
 (2) If service is by publication, the publication need not include the standard restraining orders.
 
-(Subd (b) amended effective January 1, 2016.)
+(Subd (b) amended effective July 1, 2026; previously amende effective January 1, 2016.)
 
 **(c) Individual restraining order **
 
@@ -1055,28 +1075,16 @@ Under Family Code section 233, in proceedings for dissolution, legal separation,
 
 (2) Individual restraining orders supersede the standard family law restraining orders in the Family Law and Uniform Parentage Act summonses.
 
-(Subd (b) amended effective January 1, 2016.)
+(Subd (c) amended effective January 1, 2016.)
 
-*Rule 5.50 amended effective January 1, 2026; adopted effective January 1, 2013; previously amended effective January 1, 2016.*
+*Rule 5.50 amended effective July 1, 2026; adopted effective January 1, 2013; previously amended effective January 1, 2016, and January 1, 2026.*
 
 <a id="rule-5-51"></a>
-#### Rule 5.51. Confidential cover sheet for parentage actions or proceedings involving assisted reproduction; other requirements
+#### Rule 5.51. Confidential cover sheet for parentage actions or proceedings involving assisted reproduction; other requirements [Repealed]
 
 Source: https://courts.ca.gov/cms/rules/index/five/rule5_51
 
-**(a) Application **
-
-This rule applies to actions or proceedings filed with the court after January 1, 2023, involving assisted reproduction, in which the parties seek to determine a parental relationship under Family Code section 7613 or 7630, or sections 7960-7962.
-
-**(b) Filing Requirement **
-
-To comply with Family Code section 7643.5, for all actions in (a):
-
-(1) Petitioner must complete a *Confidential Cover Sheet-Parentage Action Involving Assisted Reproduction *(form FL-211) and attach it to the initial papers being filed with the court; and
-
-(2) The court clerk must maintain form FL-211, the initial papers, and all subsequent papers-other than the final judgment-in a confidential court file.
-
-Rule 5.51 adopted effective January 1, 2023.
+*Rule 5.51 repealed effective July 1, 2026; adopted effective January 1, 2023.*
 
 <a id="rule-5-52"></a>
 #### Rule 5.52. Declaration under Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA)
@@ -1087,13 +1095,17 @@ Source: https://courts.ca.gov/cms/rules/index/five/rule5_52
 
 (1) Petitioner and respondent must each complete, serve, and file a *Declaration Under Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA) *(form FL-105/GC-120) if there are children of their relationship under the age of 18 years.
 
-(2) The form is a required attachment to the petition and response in actions for divorce, to establish parentage, or actions for custody and support of minor children.
+(2) The form is a required attachment to the petition and response in actions for divorce, or in actions to to determine a parental relationship (except as provided in (3) or in actions for custody and support of minor children.
+
+(3) The form is not a required attachment to the petition and response in actions to determine a parental relationship involving a gestational carrier agreement unless the petition or response specifies that child custody or visitation (parenting time) or both are at issue in the case.
+
+*(Subd (a) amended effective July 1, 2026.)*
 
 **(b) Duty to update information **
 
 In any action or proceeding involving custody of a minor child, a party has a continuing duty to inform the court if he or she obtains further information about a custody proceeding in a California court or any other court concerning a child who is named in the petition, complaint, or response. To comply with this duty, a party must file an updated UCCJEA form with the court and have it served on the other party.
 
-Rule 5.52 adopted effective January 1, 2013.
+*Rule 5.52 amended effective July 1, 2026; adopted effective January 1, 2013.*
 
 Title 5, Family and Juvenile Rules-Division 1, Family Rules-Chapter 4, Starting and Responding to a Family Law Case; Service of Papers-Article 2, Initial Pleadings; adopted January 1, 2013.
 
@@ -1385,6 +1397,77 @@ The joint petitioners must pay one fee for filing a *Joint Petition for Summary 
 Rule 5.77 amended effective July 1, 2013; adopted effective January 1, 2013.
 
 Title 5, Family and Juvenile Rules-Division 1, Family Rules-Chapter 5, Family Centered Resolution Plans; adopted January 1, 2013.
+
+<a id="rule-5-78"></a>
+#### Rule 5.78. Actions or proceedings to determine a parental (or nonparental) relationship involving an assisted reproduction agreement
+
+Source: https://courts.ca.gov/cms/rules/index/five/rule5_78
+
+**(a) Authority**
+
+This rule applies to actions or proceedings filed with the court involving an assisted reproduction agreement as defined by Family Code section 7606(b), in which the parties seek a court judgment determining a parental (or nonparental) relationship under Family Code section 7613 or 7630(f) or sections 7960–7962.
+
+**(b) Confidentiality**
+
+Actions or proceedings to determine a parental (or nonparental) relationship involving an assisted reproduction agreement are confidential under the Uniform Parentage Act.
+
+**(c) Actions involving statutory forms and traditional surrogacy**
+
+For matters involving traditional surrogacy, as defined by Family Code section 7960(f)(1), or matters involving use of the assisted reproduction agreements found in Family Code section 7613.5 (including those involving the disposition of embryos), parties commence an action in family court to seek a judgment determining a parental (or nonparental) relationship by using the following forms:
+
+(1) *Confidential Cover Sheet—Parentage Action Involving Assisted Reproduction* (form FL-211);
+
+(2) *Summons* (form FL-210);
+
+(3) *Petition to Determine Parental Relationship* (form FL-200);
+
+(4) *Declaration Under Uniform Child Custody Jurisdiction and Enforcement Act* (UCCJEA) (form FL-105), only if child custody or visitation (parenting time) or both are at issue in the case; or
+
+(5) Any forms required for subsequent filings in actions under the Uniform Parentage Act.
+
+**(d) Actions involving a gestational carrier agreement**
+
+(1) Parties to a gestational carrier agreement must commence an action in family court to seek a judgment determining a parental (or nonparental) relationship to a child born or expected to be born by using either:
+
+(A) *Petition to Determine Parental Relationship* (form SUR-100); or
+
+(B) *Joint Petition to Determine Parental Relationship* (form SUR-100(J)).
+
+(2) Petitioner may, with the consent of other parties, complete and file with the clerk of the court all the forms and documents required of all parties to initiate the case and request entry of judgment. Petitioner may, but is not required to, file all the forms and documents at one time.
+
+(3) Consistent with Family Code section 7962:
+
+(A) A true and correct copy of the notarized gestational carrier agreement must be lodged with the clerk of the court, with the declarations of the separate, independent attorneys attached. If applicable, a true and correct copy of the English translation of the gestational carrier agreement (certified under oath by a qualified interpreter) must also be lodged with the clerk of court
+
+(B) Parties must file a declaration of the fertility physician with the clerk of the court to demonstrate compliance with section 7962(d).
+
+(C) Parties must file their declarations under section 7962(e) with the clerk of the court.
+
+(4) For cases in which respondent wants to file a response to *Petition to Determine Parental Relationship *(form SUR-100), the response must be provided on *Response to Petition to Determine Parental Relationship* (form SUR-120).
+
+**(e) Issuance of judgment**
+
+(1) In all assisted reproduction parentage proceedings, a judgment:
+
+(A) Must be issued on *Judgment *(form FL-250); and
+
+(B) Need not reference that the case involves a gestational carrier agreement, if applicable.
+
+(2) The clerk of the court must mail *Notice of Entry of Judgment* (form FL-190) to the parties or their attorneys, if the parties are represented, as specified in the Clerk’s Certificate of Mailing.
+
+**(f) Confidentiality in actions to determine a parental (or nonparental) relationship involving an assisted reproduction agreement**
+
+Other than the final judgment, the clerk of the court must maintain the following in a confidential court file subject only to access under Family Code section 7643.5:
+
+(1)* Confidential Cover Sheet—Parentage Action Involving Assisted Reproduction* (form FL-211) (not used in cases involving a gestational carrier agreement);
+
+(2) *Petition to Determine Parental Relationship *(form SUR-100);
+
+(3) *Joint Petition to Determine Parental Relationship* (form SUR-100(J)); and
+
+(4) All subsequent papers filed in the case.
+
+*Rule 5.78 adopted effective July 1, 2026.*
 
 ### Chapter 5. Family Centered Case Resolution Plans
 
@@ -1859,7 +1942,15 @@ The clerk must post a general schedule showing the days and departments for hear
 
 If the matter has been settled before the scheduled court hearing date, the moving party must immediately notify the court of the settlement.
 
-Rule 5.96 adopted effective January 1, 2013.
+**(d) Requirements for and maintenance of lodged materials**
+
+(1) Materials lodged physically with the clerk of the court must be accompanied by a self-addressed envelope with sufficient postage for mailing the material if the party wants the clerk of the court to return the materials lodged physically. If a self-addressed, stamped envelope does not accompany materials lodged physically, the clerk of the court may destroy the lodged materials after determination of the matter and after notice to the party who lodged the materials.
+
+(2) Materials lodged electronically with the clerk of the court must clearly specify an email address to which the notice of deletion may be sent. After determination of the matter, the clerk of the court may delete lodged materials in electronic form after sending electronic notice to the party who lodged the materials.
+
+*(Subd (d) adopted effective July 1, 2026.)*
+
+*Rule 5.96 amended effective July 1, 2026; adopted effective January 1, 2013.*
 
 <a id="rule-5-97"></a>
 #### Rule 5.97. Time frames for transferring jurisdiction
@@ -2024,6 +2115,13 @@ A party requesting judicial notice of material under Evidence Code section 452 o
 Rule 5.115 adopted effective January 1, 2013.
 
 Title 5, Family and Juvenile Rules-Division 1, Family Rules-Chapter 6, Request for Court Orders-Article 5, Reporting and Preparation of Order After Hearing; adopted January 1, 2013.
+
+<a id="rule-5-121"></a>
+#### Rule 5.121. Motion to quash proceeding or responsive relief [Repealed]
+
+Source: https://courts.ca.gov/cms/rules/index/five/rule5_121
+
+Rule 5.121 repealed effective January 1, 2013; adopted effective January 1, 2004; previously amended effective January 1, 2006.
 
 ## Article 5. Reporting and Preparation of Order After Hearing
 
@@ -2667,7 +2765,7 @@ Family Court Services is a court-connected service that must:
 
 Family Court Services staff must not negotiate with the parties about using violence with each other, whether either party should or should not obtain or dismiss a restraining order, or whether either party should cooperate with criminal prosecution.
 
-(4) em] Domestic violence restraining orders
+(4) Domestic violence restraining orders
 
 Notwithstanding the above, to the extent permitted under Family Code section 3183(c), in appropriate cases, Family Court Services staff may recommend that restraining orders be issued, pending determination of the controversy, to protect the well-being of the child involved in the controversy.
 
@@ -14922,13 +15020,13 @@ Notice of the transfer hearing must be given at least five judicial days before 
 
 **(c) Prima facie showing **
 
-On the youth&amp;amp;#39;s motion, the court must determine whether a prima facie showing has been made that the offense alleged is an offense that makes the child youth subject to transfer as set forth in subdivision (a).
+On the motion, the court must determine whether a prima facie showing has been made that the offense alleged is an offense that makes the child youth subject to transfer as set forth in subdivision (a).
 
 (Subd (c) amended effective January 1, 2023; adopted effective May 22, 2017.)
 
 **(d) Time of transfer hearing-rules 5.774, 5.776 **
 
-The transfer of jurisdiction hearing must be held and the court must rule on the request to transfer jurisdiction before the jurisdiction hearing begins. Absent a continuance under rule 5.776 or the youth&amp;amp;#39;s waiver of the statutory time period to commence the jurisdiction hearing, the jurisdiction hearing must begin within the time limits under rule 5.774.
+The transfer of jurisdiction hearing must be held and the court must rule on the request to transfer jurisdiction before the jurisdiction hearing begins. Absent a continuance under rule 5.776 or the waiver of the statutory time period to commence the jurisdiction hearing, the jurisdiction hearing must begin within the time limits under rule 5.774.
 
 (Subd (d) amended effective January 1, 2023; adopted as subd (c); previously amended effective January 1, 2007; previously amended and relettered effective May 22, 2017.)
 
