@@ -3,7 +3,7 @@
 > **Scope:** Michigan landlord-tenant statutes — security-deposit handling, the covenant of fitness/repair, and termination of tenancies (MCL 554.601 et seq. and MCL 554.134).
 > **Act:** Landlord-Tenant Relationships (Act 348 of 1972) / RS 1846 ch. 66
 > **Source:** Michigan Legislature — https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-602
-> **Fetched:** 2026-05-30
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the Michigan Legislature per-section
 > HTML at `legislature.mi.gov/Laws/MCL?objectName=mcl-<act>-<sec>`.
 
@@ -34,9 +34,15 @@ A landlord shall not require a security deposit unless he notifies the tenant no
 
 ## MCL 554.609 Itemized list of damages; check or money order; contents of notice of damages.
 
-In case of damage to the rental unit or other obligation against the security deposit, the landlord shall mail to the tenant, within 30 days after the termination of occupancy, an itemized list of damages claimed for which the security deposit may be used as provided in section 7, including the estimated cost of repair of each property damaged item and the amounts and bases on which he intends to assess the tenant. The list shall be accompanied by a check or money order for the difference between the damages claimed and the amount of the security deposit held by the landlord and shall not include any damages that were claimed on a previous termination inventory checklist prior to the tenant's occupancy of the rental unit. The notice of damages shall include the following statement in 12 point boldface type which shall be at least 4 points larger than the body of the notice: "You must respond to this notice by mail within 7 days after receipt of same, otherwise you will forfeit the amount claimed for damages.".
+(1) In case of damage to the rental unit or other obligation against the security deposit, the landlord shall mail to the tenant, within 30 days after the termination of occupancy, a notice of damages that contains an itemized list of damages claimed for which the security deposit may be used as provided in section 7, including the estimated cost of repair of each damaged property item and the amounts and bases on which the landlord intends to assess the tenant.
 
-*History:* 1972, Act 348, Eff. Apr. 1, 1973 Popular Name: Landlord-Tenant Act
+(2) Except as otherwise provided in subsection (3), the notice of damages must be accompanied by a check or money order for the difference between the damages claimed and the amount of the security deposit held by the landlord and must not include any damages that were claimed on a previous termination inventory checklist prior to the tenant's occupancy of the rental unit.
+
+(3) Beginning on the effective date of the amendatory act that added this subsection, a notice of damages may not be accompanied by a check or money order as described in subsection (2) if the landlord transmits the difference between the damages claimed and the amount of the security deposit held by the landlord as described in subsection (2) to the tenant through direct deposit or electronic transfer to a bank account, or to an internet or mobile payment account or application. A landlord that complies with this subsection must deposit the amount determined in accordance with subsection (2) into the tenant's account in a financial institution or internet or mobile payment account or application within 10 days after mailing the notice of damages.
+
+(4) The notice of damages must include the following statement in 12 point boldface type that is at least 4 points larger than the body of the notice: "You must respond to this notice by mail within 7 days after receipt of the notice of damages, otherwise you will forfeit the amount claimed for damages.".
+
+*History:* 1972, Act 348, Eff. Apr. 1, 1973 ;-- Am. 2026, Act 102, Imd. Eff. Sept. 21, 2026 Popular Name: Landlord-Tenant Act
 
 ## MCL 554.611 Notice of forwarding address; effect of noncompliance.
 
