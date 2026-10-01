@@ -3,7 +3,7 @@
 - Citation: Foreign Affairs Manual (FAM), U.S. Department of State
 - Volume index: https://fam.state.gov/Volumes/Details/09FAM
 - Sections mirrored: 18
-- Pulled: 2026-05-28
+- Pulled: 2026-10-01
 
 > Verbatim text reduced from fam.state.gov Word-exported HTML (windows-1252). The FAM is agency guidance, not binding law.
 
@@ -1531,7 +1531,7 @@ e. (U) Unless they are being destroyed at post in accordance with paragraph b ab
 
 (U) Officials and Employees of Foreign Governments and International Organizations – A, C-2, C-3, G, NATO Visas, and diplomatic type and official type visas
 
-(CT:VISA-2189; 02-12-2026) (Office of Origin: CA/VO)
+(CT:VISA-2196; 07-10-2026) (Office of Origin: CA/VO)
 
 #### 9 FAM 402.3-1 (U) Authorities
 
@@ -1577,9 +1577,9 @@ e. (U) Further Additional Protocol to the PfP SOFA ("PfP SOFA 2").
 
 #### 9 FAM 402.3-2(A) (U) Foreign Government Officials; A Visas
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
-(U) Diplomats and other foreign government officials traveling to the United States to engage solely in official duties or activities on behalf of their national government must obtain A-1 or A-2 visas before entering the United States; they cannot travel using visitor visas or under the Visa Waiver Program (VWP). With certain exceptions, such as the Head of State or Head of Government (and their immediate family) -- who qualify for an A-1 visa regardless of the purpose of travel -- the applicant's position within their country’s government and purpose of travel determine whether they qualify for an A-1 or A-2 visa. Foreign military (armed service personnel and civilians) from non-NATO member countries may also be classifiable A-2. See 9 FAM 402.3-5 below for details.
+(U) Diplomats and other foreign government officials traveling to the United States to engage solely in official duties or activities on behalf of their national government must obtain A-1 or A-2 visas before entering the United States; they cannot travel using visitor visas or under the Visa Waiver Program (VWP). With certain exceptions, such as the Head of State or Head of Government (and their immediate family) -- who qualify for an A-1 visa regardless of the purpose of travel -- the applicant's position within their country’s government and purpose of travel determine whether he or she qualifies for an A-1 or A-2 visa. Foreign military (armed service personnel and civilians) from non-NATO member countries may also be classifiable A-2. See 9 FAM 402.3-5 below for details.
 
 #### 9 FAM 402.3-2(B) (U) Officials in Transit; C Visas
 
@@ -1711,13 +1711,13 @@ f. UNAVAILABLE.
 
 #### 9 FAM 402.3-4(C) (U) Issuing Visas Only Upon Appropriate Request and In Appropriate Travel Document
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) Written Requests:
 
-(1) (U) With limited exceptions (see paragraph d. and e. below), you may issue a visa in the A, C-2, C-3, G, or NATO categories only upon receipt of a note from the appropriate foreign office, mission, international organization, or NATO authority. Scan the note into the application record in the NIV system.
+(1) (U) With limited exceptions (see paragraph d. and e. below), you may issue a visa in the A, C-2, C-3, G, or NATO categories only upon receipt of a note from the appropriate foreign office, mission, international organization, or NATO authority. Scan the note into the application record in the NIV system;
 
-(2) (U) You must receive requests for World Bank officers and employees via efax from World Bank Headquarters (HRVisa@worldbank.org) before issuing visas.
+(2) (U) You must receive requests for World Bank officers and employees via efax from World Bank Headquarters (HRVisa@worldbank.org) before issuing visas; and
 
 (3) (U) All officers and employees of the United Nations require a cable/note from the United Nations Transportation office, except that a designated international organization listed in 9 FAM 402.3-7(M), other than the United Nations itself, may provide its own request. See 9 FAM 402.3-7(D)(3) and 9 FAM 402.3-7(D)(5) below. The United Nations' Organizational Chart (publicly available online) is also a useful reference in determining which offices are considered part of the United Nations.
 
@@ -1745,29 +1745,29 @@ d. (U) In emergency situations, you may issue a visa upon the oral request of a 
 
 e. (U) An application for an A visa should not be accepted for an applicant who is not a resident of the consular district without the requisite diplomatic note unless the applicant is a current head of state or head of government whose eligibility for A-1 status is not in question.
 
-f. (U) Travel Documents: An A, C-2, C-3, G, or NATO visa must only be placed in a travel document that meets the definition of a “passport” as defined in INA 101(a)(30), that is a travel document issued by a competent authority showing the bearer’s origin, identity and nationality if any, which is valid for admission of the bearer into a foreign country. In addition, the following three travel documents have been designated by the Secretary of State to be the "equivalent of a diplomatic passport".
+f. (U) Travel Documents: An A, C-2, C-3, G, or NATO visa must only be placed in a travel document that meets the definition of a “passport” as defined in INA 101(a)(30), that is a travel document issued by a competent authority showing the bearer’s origin, identity and nationality if any, which is valid for admission of the bearer into a foreign country. In addition, the following three travel documents have been designated by the Secretary of State to be the "equivalent of a diplomatic passport":
 
-(1) (U) European Union Laissez-Passer (EULP): The EULP is a bound booklet in passport format. The cover is dark blue in color and bears the gold embossed seal of the European Union (EU). Only an A-1, A-2, or G-3 visa may be placed in an EULP. The EULP has been designated by the Secretary of State as equivalent to a diplomatic passport, therefore the A-1, A-2, and G-3 visas issued in the EULP may be issued as diplomatic type visas. Before issuance of a visa in the EULP, you must receive written confirmation from the appropriate EU office indicating that the applicant is traveling on official EU business. Visa validity for the visa issued in a EULP should correspond with the reciprocity schedule of the applicant’s country of nationality in which case both the EULP and national passport should be presented with the visa application. The visa validity should not exceed the validity of the EULP. See also 9 FAM 403.9-3(A)(3).
+(1) (U) European Union Laissez-Passer (EULP): The EULP is a bound booklet in passport format. The cover is dark blue in color and bears the gold embossed seal of the European Union (EU). Only an A-1, A-2, or G-3 visa may be placed in an EULP. The EULP has been designated by the Secretary of State as equivalent to a diplomatic passport, therefore the A-1, A-2, and G-3 visas issued in the EULP may be issued as diplomatic type visas. Before issuance of a visa in the EULP, you must receive written confirmation from the appropriate EU office indicating that the applicant is traveling on official EU business. Visa validity for the visa issued in a EULP should correspond with the reciprocity schedule of the applicant’s country of nationality in which case both the EULP and national passport should be presented with the visa application. The visa validity should not exceed the validity of the EULP. See also 9 FAM 403.9-3(A)(3);
 
-(2) (U) United Nations Laissez-Passer (UNLP): The UNLP is a bound booklet in passport format. The cover bears the gold embossed seal of the United Nations, and is either red or light blue in color, depending upon the rank of the recipient. The red cover UNLP has been designated by the Secretary of State as “equivalent to a diplomatic passport” and should be treated as a diplomatic passport. The blue UNLP has not been designated as “equivalent to a diplomatic passport” but may still be used as a regular passport. Applicants presenting a red cover UNLP and falling within one of the categories listed in 9 FAM 402.3-10(C)(1) paragraph (f) below may be issued a diplomatic type G-4 visa. See 9 FAM 402.3-7(D)(6) for further guidance on issuing G-4 visas in a UNLP.
+(2) (U) United Nations Laissez-Passer (UNLP): The UNLP is a bound booklet in passport format. The cover bears the gold embossed seal of the United Nations, and is either red or light blue in color, depending upon the rank of the recipient. The red cover UNLP has been designated by the Secretary of State as “equivalent to a diplomatic passport” and should be treated as a diplomatic passport. The blue UNLP has not been designated as “equivalent to a diplomatic passport” but may still be used as a regular passport. Applicants presenting a red cover UNLP and falling within one of the categories listed in 9 FAM 402.3-10(C)(1) paragraph (f) below may be issued a diplomatic type G-4 visa. See 9 FAM 402.3-7(D)(6) for further guidance on issuing G-4 visas in a UNLP;
 
-(3) (U) The Palestinian Authority (PA VIP) passport is a red bound booklet in passport format typically issued to Palestinian political, economic, religious and security high leaders, including officials and representatives of the Palestinian Authority (PA) and officials of the Palestine Liberation Organization (PLO). Individuals may hold both PA and PLO roles. The PA VIP passport has been designated by the Secretary of State as “equivalent to a diplomatic passport.” PA VIP passport holders traveling on behalf of the PA or PLO for official PA or PLO business presenting an official note from the appropriate office within the PA or PLO may be issued diplomatic type B-1 visas for their official travel. The official note should list the applicant’s name and date of birth, position and title, place of assignment or visit, purpose of travel, brief description of duties, travel date, anticipated length of stay or tour of duty in the United States, and the names, relationships, and dates of birth of any dependents who will be accompanying or joining the principal applicant.
+(3) (U) The Palestinian Authority (PA VIP) passport is a red bound booklet in passport format typically issued to Palestinian political, economic, religious and security high leaders, including officials and representatives of the Palestinian Authority (PA) and officials of the Palestine Liberation Organization (PLO). Individuals may hold both PA and PLO roles. The PA VIP passport has been designated by the Secretary of State as “equivalent to a diplomatic passport.” PA VIP passport holders traveling on behalf of the PA or PLO for official PA or PLO business presenting an official note from the appropriate office within the PA or PLO may be issued diplomatic type B-1 visas for their official travel. The official note should list the applicant’s name and date of birth, position and title, place of assignment or visit, purpose of travel, brief description of duties, travel date, anticipated length of stay or tour of duty in the United States, and the names, relationships, and dates of birth of any dependents who will be accompanying or joining the principal applicant; and
 
 (4) (U) Travel documents issued by international organizations (other than the EU, the United Nations, or PA VIP passport as listed above) do not meet the definition of a “passport” as defined in INA 101(a)(30). Therefore, visas must not be placed in these travel documents. Such travel documents include, but are not limited to, the travel documents issued by the Organization of American States (OAS) (see 9 FAM 402.3-7(E)(2)), the World Bank, and INTERPOL. See also 9 FAM 403.9-3(A)(2).
 
 #### 9 FAM 402.3-4(D) (U) Confirmation of Official Position and Purpose of Travel; Questionable Applications
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
-(U) If a foreign mission, or an individual attached to such a mission, has presented a diplomatic note which fraudulently portrays an applicant qualifying for A or G visa classification, you may confirm their official position and the reason for travel with the appropriate office, such as the Ministry of Foreign Affairs. You may also call the applicant in for an interview. This should be done in situations where fraud concerns warrant a delay in processing. If you have any questions, contact CA/VO/DO/DL and L/CA.
+(U) If a foreign mission, or an individual attached to such a mission, has presented a diplomatic note which fraudulently portrays an applicant qualifying for A or G visa classification, you may confirm his or her official position and the reason for travel with the appropriate office, such as the Ministry of Foreign Affairs. You may also call the applicant in for an interview. This should be done in situations where fraud concerns warrant a delay in processing. If you have any questions, contact CA/VO/DO/DL and L/CA.
 
 #### 9 FAM 402.3-4(E) (U) Waiver of Personal Appearance/Interviews
 
-(CT:VISA-2143; 03-26-2025)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) Under the provisions of 22 CFR 41.102(b)(1) and (2), you are authorized to waive personal appearances/interviews for A-1, A-2, C-2, C-3, G-1 through G-4, and NATO-1 through NATO-6 applicants, as well as applicants for diplomatic type or, in certain cases, official type visas. An applicant may qualify for a diplomatic type or official type visa even if not classifiable as A, C-2, C-3, G, or NATO. See 9 FAM 402.3-10 below regarding visa type. Pursuant to 22 CFR 41.103(a)(3) even if a personal appearance of a visa applicant is waived, the filing of an application is not waived.
 
-b. (U) Normally you should waive the personal interview requirement for bona fide A-1, A-2, C-2, C-3 (except domestic workers), G-1 through G-4, and NATO-1 through NATO-6 visa applicants who are citizens of, or on assignment to, the receiving state where they applied for a visa. However, you may wish to interview an individual if a review of the application and supporting documentation raises questions concerning the applicant’s eligibility for the visa classification, including cases where it is not clear whether an A-2 or G-1 applicant is a government employee or a domestic worker classifiable A-3 or G-5 is a personal or government employee (see 9 FAM 402.3-5(D)(1) paragraph c below). You may also wish to interview non-resident visa applicants, particularly those who could have applied for a visa in their home country and who do not have a clear reason for seeking their visa elsewhere. As a reminder, in accordance with 9 FAM 403.2-4(C), neither residence nor physical presence is required for diplomatic type applications for A-1, A-2, C-2, C-3 (except domestic workers), G-1 through G-4, and NATO-1 through NATO-6 classifications, but you have discretion to request an interview for any such applicants, in accordance with guidance at 9 FAM 403.2-4(C).
+b. (U) Normally you should waive the personal interview requirement for a bona fide A-1, A-2, C-2, C-3 (except domestic workers), G-1 through G-4, and NATO-1 through NATO-6 visa applicant who is a citizens of, or on assignment to, the receiving state where he or she applied for a visa. However, you may wish to interview an individual if a review of the application and supporting documentation raises questions concerning the applicant’s eligibility for the visa classification, including cases where it is not clear whether an A-2 or G-1 applicant is a government employee or a domestic worker classifiable A-3 or G-5 is a personal or government employee (see 9 FAM 402.3-5(D)(1) paragraph c below). You may also wish to interview a non-resident visa applicant, particularly if he or she could have applied for a visa in his or her home country and he or she does not have a clear reason for seeking the visa elsewhere. As a reminder, in accordance with 9 FAM 403.2-4(C), neither residence nor physical presence is required for diplomatic type applications for A-1, A-2, C-2, C-3 (except domestic workers), G-1 through G-4, and NATO-1 through NATO-6 classifications, but you have discretion to request an interview for any such applicants, in accordance with guidance at 9 FAM 403.2-4(C).
 
 c. (U) Waiver of personal appearance does not automatically include waiver of fingerprints; these are two separate requirements. A-1, A-2, C-3 (except domestic workers), G-1, G-2, G-3, G-4, and NATO-1 through NATO-6 visa applicants are exempt from fingerprint requirements. Qualification for a diplomatic type or official type visa (of any other NIV classification) does not provide waiver or exemption from fingerprinting requirements. See 9 FAM 303.7-4(B) for additional information regarding fingerprint waiver or exemption.
 
@@ -1781,11 +1781,11 @@ b. (U) Reciprocity Fees: Except in limited cases, reciprocity fees are charged b
 
 #### 9 FAM 402.3-4(G) (U) Visa Validity - Full Validity vs. Limited Validity
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) General Guidance: General guidance relating to visa validity can be found in 9 FAM 403.9-4(B). Follow the general guidance except as provided in this section for certain A, C, G, or NATO visa applicants.
 
-b. (U) Principal Applicants: Principal applicants who qualify for A, C-2, C-3, G, or NATO visas should be issued the full validity allowed by reciprocity. In some instances, however, due to fraud concerns, prior abuse of A or G visas, and/or the purpose of travel, a limited visa may be justified. For example, a government employee with limited prior travel who will visit the United States on a one-time basis for a short period does not necessarily require a multi-year visa to conduct their official duties.
+b. (U) Principal Applicants: Principal applicants who qualify for A, C-2, C-3, G, or NATO visas should be issued the full validity allowed by reciprocity. In some instances, however, due to fraud concerns, prior abuse of A or G visas, and/or the purpose of travel, a limited visa may be justified. For example, a government employee with limited prior travel who will visit the United States on a one-time basis for a short period does not necessarily require a multi-year visa to conduct his or her official duties.
 
 c. (U) Immediate Family: The validity of an A, C-3, G, or NATO visa issued to an immediate family member of the principal applicant should not exceed the validity of the principal applicant's visa, unless the family member is independently classifiable as a principal applicant entitled to A, C-3, G, or NATO visa classification.
 
@@ -1793,13 +1793,13 @@ d. (U) A-3, G-5, and NATO-7: See 9 FAM 402.3-9(B)(7) below regarding visa validi
 
 #### 9 FAM 402.3-4(H) (U) Visa Annotations
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 (U) Annotate A, C-2, C-3, G, and NATO visas. Annotations for each visa classification should follow the guidance provided below. Additional annotations may also be needed (see paragraph (14) below).
 
 (1) (U) Foreign Government Officials Assigned to a Mission in the United States for 90 Days or More:
 
-(a) (U) Annotate the visa of a principal applicant to reflect their place of employment. For example:
+(a) (U) Annotate the visa of a principal applicant to reflect his or her place of employment. For example:
 
 EMBASSY OF Z WASHINGTON, DC
 
@@ -1813,7 +1813,7 @@ PRINCIPAL APPLICANT: JOHN DOE, EMBASSY OF Z WASHINGTON, DC
 
 (3) (U) International Organization Officers and Employees (Whether Assigned to the IO in the United States or Traveling Temporarily for IO Related Activities):
 
-(a) (U) Annotate the visa of a principal applicant to reflect their place of employment and/or purpose of travel. For example:
+(a) (U) Annotate the visa of a principal applicant to reflect his or her place of employment and/or purpose of travel. For example:
 
 NAME OF DESIGNATED IO NEW YORK, NY
 
@@ -1897,7 +1897,7 @@ VALID FOR IMMEDIATE AND CONTINUOUS TRANSIT ONLY
 
 (13) (U) NATO-1 - NATO-6 Visas: Annotate NATO-1 - NATO-6 visas as follows:
 
-(a) (U) Annotate the visa of a principal applicant to reflect their place of employment or assignment.
+(a) (U) Annotate the visa of a principal applicant to reflect his or her place of employment or assignment.
 
 (b) (U) Annotate the visa of an immediate family member or dependent of a NATO principal to reflect the principal's name and place of employment or assignment.
 
@@ -1907,7 +1907,15 @@ VALID FOR IMMEDIATE AND CONTINUOUS TRANSIT ONLY
 
 #### 9 FAM 402.3-4(I)(1) UNAVAILABLE.
 
+(CT:VISA-2195; 07-08-2026)
+
+UNAVAILABLE.
+
 #### 9 FAM 402.3-4(I)(2) UNAVAILABLE.
+
+(CT:VISA-2070; 09-17-2024)
+
+UNAVAILABLE.
 
 #### 9 FAM 402.3-4(I)(3) (U) Domestic Renewal of A, G, and NATO Visas
 
@@ -1929,11 +1937,11 @@ d. (U) G nonimmigrants (except G-5) who are part of the United Nations (UN) comm
 
 #### 9 FAM 402.3-4(I)(4) (U) Change of Status to A or G in the United States
 
-(CT:VISA-2144; 04-10-2025)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) An applicant in the United States in a nonimmigrant status other than A or G who accepts employment with a foreign mission or an international organization (IO), or who is in the United States in A or G status and changes employment from one to another such that they require a different visa classification, must first obtain a change of status to the correct A or G nonimmigrant status before commencing their employment with that foreign mission or IO. Applicants from the Embassy and Consulate communities who are requesting a change of status to A or G nonimmigrant status should submit Form I-566, Interagency Record of Request -- A, G or NATO Dependent Employment Authorization or Change/Adjustment to/from A, G or NATO Status, to the Office of Foreign Missions (OFM) (OFM-FMS@state.gov). For Ambassadors and DCMs, submit the I-566 forms to the Office of the Chief of Protocol for endorsement (DiplomaticAffairs@state.gov). Upon receipt of a favorably endorsed Form I-566 from OFM, the diplomatic mission or IO should then submit a completed change of status application package to CA/VO/DO/DL, who will coordinate with USCIS. Foreign missions and IOs may contact CA/VO/DO/DL at (202) 485-7681, Monday through Friday (excluding holidays), between the hours of 2:00 p.m. to 4:00 p.m. (Eastern Time), for information on required documentation. Information on the process can also be found online at travel.state.gov.
+a. (U) An applicant in the United States in a nonimmigrant status other than A or G who accepts employment with a foreign mission or an international organization (IO), or who is in the United States in A or G status and changes employment from one to another such that he or she requires a different visa classification, must first obtain a change of status to the correct A or G nonimmigrant status before commencing employment with that foreign mission or IO. Applicants from the Embassy and Consulate communities who are requesting a change of status to A or G nonimmigrant status should submit Form I-566, Interagency Record of Request -- A, G or NATO Dependent Employment Authorization or Change/Adjustment to/from A, G or NATO Status, to the Office of Foreign Missions (OFM) (OFM-FMS@state.gov). For Ambassadors and DCMs, submit the I-566 forms to the Office of the Chief of Protocol for endorsement (DiplomaticAffairs@state.gov). Upon receipt of a favorably endorsed Form I-566 from OFM, the diplomatic mission or IO should then submit a completed change of status application package to CA/VO/DO/DL, who will coordinate with USCIS. Foreign missions and IOs may contact CA/VO/DO/DL at (202) 485-7681, Monday through Friday (excluding holidays), between the hours of 2:00 p.m. to 4:00 p.m. (Eastern Time), for information on required documentation. Information on the process can also be found online at travel.state.gov.
 
-b. (U) For applicants that are part of the UN community, USUN (USUNAccreditations@state.gov) will coordinate all steps of the change of status process for individuals seeking to change into G nonimmigrant status to serve in the UN community. In such cases, once the applicant receives a USCIS I-797 Notice of Action approval notice of the change of status, applicants may apply for a visa via CA/VO/DO/DL (DiplomaticVisas@state.gov).
+b. (U) For applicants that are part of the UN community, USUN (USUNAccreditations@state.gov) will coordinate all steps of the change of status process for individuals seeking to change into G nonimmigrant status to serve in the UN community. In such cases, once the applicant receives a USCIS I-797 Notice of Action approval notice of the change of status, he or she may apply for a visa via CA/VO/DO/DL (DiplomaticVisas@state.gov).
 
 #### 9 FAM 402.3-4(I)(5) (U) A-3 and G-5 Renewals
 
@@ -1965,7 +1973,7 @@ c. UNAVAILABLE.
 
 #### 9 FAM 402.3-4(J)(1) (U) Immediate Family Members Also Classifiable A or G
 
-(CT:VISA-2144; 04-10-2025)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) A Visa Classification Trumps Other NIV Classes: In accordance with 22 CFR 41.22(b), an applicant who is entitled to classification under INA 101(a)(15)(A) must be issued an A visa, even if eligible for another nonimmigrant classification and must enter the United States in that status. Therefore, immediate family members of the principal applicant must also receive A visas, if eligible, unless the family member is independently classifiable as a principal applicant under INA 101(a)(15)(G) (e.g., tandem couples).
 
@@ -1985,7 +1993,7 @@ c. (U) NATO Immediate Family Members/Dependents: Some NATO categories include "i
 
 (e) (U) NATO-7.
 
-(2) (U) The following NATO visa classes include "dependents" and therefore, the below guidance related to "immediate family" does not apply:
+(2) (U) The following NATO visa classes include "dependents" and therefore, the guidance below related to "immediate family" does not apply:
 
 (a) (U) NATO-2 (Limited to the following principals: Members of a Force Entering in Accordance with the Provisions of the NATO Status of Forces Agreement or in Accordance with the provisions of the “Protocol on the Status of International Military Headquarters”);
 
@@ -2001,7 +2009,7 @@ c. (U) NATO Immediate Family Members/Dependents: Some NATO categories include "i
 
 #### 9 FAM 402.3-4(J)(3) (U) Category 2: Unmarried Sons and Daughters
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) The term “immediate family” includes unmarried legal sons and daughters of the principal applicant, who are not members of some other household and who will reside regularly in the household of the principal applicant, if such unmarried sons and daughters are:
 
@@ -2011,11 +2019,11 @@ a. (U) The term “immediate family” includes unmarried legal sons and daughte
 
 b. (U) Such legal sons and daughters need not previously have qualified as a “child” as defined in INA 101(b)(1). For example: children who are subject to a full and final adoption by the principal applicant are immediate family members and do not need to meet the two-year requirement of INA 101(b)(1)(E), the orphan definition of INA 101(b)(1)(F) or INA 101(b)(1)(G).
 
-c. (U) If a son or daughter does not qualify under this section, they may still qualify as immediate family under "Other Members of Household" below.
+c. (U) If a son or daughter does not qualify under this section, he or she may still qualify as immediate family under "Other Members of Household" below.
 
 #### 9 FAM 402.3-4(J)(4) (U) Category 3: Other Members of the Principal Applicant’s Household
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) The term "immediate family" may also include any other applicant who:
 
@@ -2023,9 +2031,9 @@ a. (U) The term "immediate family" may also include any other applicant who:
 
 (2) (U) is not a member of some other household; and
 
-(3) (U) is recognized as an immediate family member of the principal applicant by the sending government or designated International Organization (IO) as demonstrated by eligibility for rights and benefits, such as the issuance of a diplomatic or official passport or other similar documentation, or travel or other allowances. Inclusion in a diplomatic note is not sufficient to satisfy this requirement. There must be some further evidence showing that the sending government or designated IO recognizes the applicant as an immediate family member. Some examples may typically include participation in a government or international organization-sponsored healthcare plan, a housing benefit, evacuation benefit. If you have questions about whether a member of household meets the criteria, you can email diplomaticvisas@state.gov.
+(3) (U) is recognized as an immediate family member of the principal applicant by the sending government or designated International Organization (IO) as demonstrated by eligibility for rights and benefits, such as the issuance of a diplomatic or official passport or other similar documentation, or travel or other allowances. Inclusion in a diplomatic note is not sufficient to satisfy this requirement. There must be some further evidence showing that the sending government or designated IO recognizes the applicant as an immediate family member. Some examples may typically include participation in a government or international organization-sponsored healthcare plan, a housing benefit, and evacuation benefit. If you have questions about whether a member of household meets the criteria, you can email diplomaticvisas@state.gov.
 
-b. (U) Applicants who may qualify as immediate family under this category are limited to applicant relatives related by blood, marriage, or adoption to the principal applicant or their spouse (see category 1 above); same-sex domestic partners in limited circumstances (see paragraph c below); and applicant relatives related by blood, marriage, or adoption to the qualifying same-sex domestic partner. The term "domestic partner" under this section means a same-sex domestic partner.
+b. (U) Applicants who may qualify as immediate family under this category are limited to applicant relatives related by blood, marriage, or adoption to the principal applicant or the principal applicant’s spouse (see category 1 above); same-sex domestic partners in limited circumstances (see paragraph c below); and applicant relatives related by blood, marriage, or adoption to the qualifying same-sex domestic partner. The term "domestic partner" under this section means a same-sex domestic partner.
 
 c. (U) Same-Sex Domestic Partners: In limited cases, a same-sex domestic partner (other than a same-sex spouse) and a relative of the same-sex domestic partner (who is related to the same-sex domestic partner by blood, marriage, or adoption) may qualify as immediate family subject to the following requirements:
 
@@ -2049,27 +2057,27 @@ f. (U) Notification to the Department: You do not need to seek Departmental auth
 
 #### 9 FAM 402.3-4(J)(6) (U) Applicants Who Are Members of Some Other Household
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) An applicant who has been a member of a household other than the household of the principal applicant would not normally qualify as "immediate family" as that term is defined in 22 CFR 41.21(a)(3), regardless of other circumstances. For example, a nephew of college age who has resided in the household of the principal applicant's sibling would not qualify as immediate family of the principal applicant simply to join the principal applicant's household with the intention of attending college in the United States. F-1 classification under sponsorship of the principal applicant might be appropriate in such a situation.
 
-b. (U) However, the fact that an applicant has been, even recently, a member of some other household does not preclude a finding that, during the visa application, the applicant is a member of the household of the principal applicant. For example, a recently widowed, divorced, or aging parent may have closed a former household with the intention of becoming part of the principal applicant's household. This could also occur because, due to advanced age or infirmity, the parent has experienced significant difficulty in maintaining their own household. The test in adjudicating these cases is whether the applicant, for reasons of age, health, or change in circumstances, has a compelling reason to join the household of the principal applicant rather than maintain or reestablish an independent household.
+b. (U) However, the fact that an applicant has been, even recently, a member of some other household does not preclude a finding that, during the visa application, the applicant is a member of the household of the principal applicant. For example, a recently widowed, divorced, or aging parent may have closed a former household with the intention of becoming part of the principal applicant's household. This could also occur because, due to advanced age or infirmity, the parent has experienced significant difficulty in maintaining his or her own household. The test in adjudicating these cases is whether the applicant, for reasons of age, health, or change in circumstances, has a compelling reason to join the household of the principal applicant rather than maintain or reestablish an independent household.
 
 c. (U) If you are satisfied that the applicant is currently a member of the principal applicant's household, you do not need to submit an AO to the Department but should document your findings in the case record.
 
 #### 9 FAM 402.3-4(J)(7) (U) Immediate Family of Foreign Official Who Has Requested Status of Lawful Permanent Resident
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) An applicant who is a member of the immediate family of a principal applicant classifiable as A-2, or G-1 through G-4 (other than diplomatic agents), may receive that classification even when the principal has requested permission to obtain or retain the status of permanent resident under INA 247(b). The principal must have filed Form I-508 with USCIS pertaining to the waiver of their rights, privileges, exemptions, and immunities if their permanent resident status is obtained or retained.
+a. (U) An applicant who is a member of the immediate family of a principal applicant classifiable as A-2, or G-1 through G-4 (other than diplomatic agents), may receive that classification even when the principal has requested permission to obtain or retain the status of permanent resident under INA 247(b). The principal must have filed Form I-508 with USCIS pertaining to the waiver of his or her rights, privileges, exemptions, and immunities if permanent resident status is obtained or retained.
 
 b. (U) An LPR cannot serve as a diplomatic agent or as a consular officer in the United States. Contact L/CA for any questions regarding immediate family members of an LPR seeking an A-1 or G visa (other than a G-4 visa).
 
 #### 9 FAM 402.3-4(J)(8) (U) Individuals Who Do Not Qualify as Immediate Family
 
-(CT:VISA-1626; 09-08-2022)
+(CT:VISA-2195; 07-08-2026)
 
-(U) Individuals who do not qualify as immediate family, as described above, may otherwise potentially qualify for a B-2 visa (see 9 FAM 402.2-4(B)(5)) or some other NIV based on their purpose of travel.
+(U) Individuals who do not qualify as immediate family, as described above, may otherwise potentially qualify for B-2 visas (see 9 FAM 402.2-4(B)(5)) or some other NIV based on the purpose of travel).
 
 #### 9 FAM 402.3-5 (U) Foreign Government Officials – A Visas
 
@@ -2097,19 +2105,19 @@ b. (U) An LPR cannot serve as a diplomatic agent or as a consular officer in the
 
 #### 9 FAM 402.3-5(B)(2) (U) A Visa Classification vs. Diplomatic Type Visas
 
-(CT:VISA-1944; 03-07-2024)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) As described in 9 FAM 402.3-10(B) below, A visa classification should not be confused with the issuance of “diplomatic” type visas; visa classification is distinct from visa type (regular, official, or diplomatic). Heads of state or heads of government (and their immediate family members) are always accorded A-1 visa classification regardless of their purpose of travel. Otherwise, visa classification is determined by the purpose of travel and the intended official duties, and not by the official’s title, rank, or type of passport (diplomatic, official, or regular) they are carrying. However, the type of passport is relevant for issuance of a diplomatic type visa as 22 CFR 41.26 requires the applicant possess a diplomatic passport or the equivalent of a diplomatic passport to qualify for a diplomatic type visa (regardless of visa classification). The definition of “equivalent of a diplomatic passport” is defined at 22 CFR 41.26(a)(3) as a passport issued by a competent authority that does not issue diplomatic passports (e.g., an entity other than a foreign government authorized to issue travel documents to indicate the holder’s status as an official, officer, or employee of the issuing entity) and as designated by the Secretary of State (22 CFR 41.26(a)(3)). The United Nations Laissez-Passer (UNLP) and European Union Laissez-Passer (EULP) and Palestinian Authority VIP (PA VIP) passport have been designated as the “equivalent of a diplomatic passport” by the Secretary of State. See 9 FAM 402.3-4(C) for more information.
+a. (U) As described in 9 FAM 402.3-10(B) below, A visa classification should not be confused with the issuance of “diplomatic” type visas; visa classification is distinct from visa type (regular, official, or diplomatic). Heads of state or heads of government (and their immediate family members) are always accorded A-1 visa classification regardless of their purpose of travel. Otherwise, visa classification is determined by the purpose of travel and the intended official duties, and not by the official’s title, rank, or type of passport (diplomatic, official, or regular) he or she is carrying. However, the type of passport is relevant for issuance of a diplomatic type visa as 22 CFR 41.26 requires the applicant possess a diplomatic passport or the equivalent of a diplomatic passport to qualify for a diplomatic type visa (regardless of visa classification). The definition of “equivalent of a diplomatic passport” is defined at 22 CFR 41.26(a)(3) as a passport issued by a competent authority that does not issue diplomatic passports (e.g., an entity other than a foreign government authorized to issue travel documents to indicate the holder’s status as an official, officer, or employee of the issuing entity) and as designated by the Secretary of State (22 CFR 41.26(a)(3)). The United Nations Laissez-Passer (UNLP) and European Union Laissez-Passer (EULP) and Palestinian Authority VIP (PA VIP) passport have been designated as the “equivalent of a diplomatic passport” by the Secretary of State. See 9 FAM 402.3-4(C) for more information.
 
 b. (U) Foreign government officials coming to the United States on official business on behalf of their government, whether on permanent assignment or temporary duty (TDY) of less than 90 days, are classifiable as A-1 or A-2, as are their immediate family members. Foreign government officials coming to perform non-governmental functions of a commercial or competitive nature do not qualify for A-1 or A-2 visas, but may fall into the B, E, or L categories, and may be issued diplomatic type visas in those categories if qualified.
 
-c. (U) National, Not Local Level: A-1 and A-2 visa classifications only pertain to officials who are traveling to the United States on behalf of their national government, and the immediate family of such officials. Local government officials who intend to come to the United States exclusively on behalf of their state, province, borough, or other local political entity would not qualify for an A-1 or A-2 visa. A foreign government official who is assigned to a third country (or the immediate family of such foreign official) and who wishes to visit and/or vacation in the United States would not qualify for an A visa. Based on the applicant’s purpose of travel to the United States (vacation or visit), they may be issued a diplomatic type or official type B-2 visa if qualified.
+c. (U) National, Not Local Level: A-1 and A-2 visa classifications only pertain to officials who are traveling to the United States on behalf of their national government, and the immediate family of such officials. Local government officials who intend to come to the United States exclusively on behalf of their state, province, borough, or other local political entity would not qualify for an A-1 or A-2 visa. A foreign government official who is assigned to a third country (or the immediate family of such foreign official) and who wishes to visit and/or vacation in the United States would not qualify for an A visa. Based on the applicant’s purpose of travel to the United States (vacation or visit), he or she may be issued a diplomatic type or official type B-2 visa if qualified.
 
 #### 9 FAM 402.3-5(B)(3) (U) Exemptions from Most Ineligibility Provisions for A-1 and A-2 Visa Classes
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) A-1 and A-2 visa applicants are subject to limited grounds of ineligibility. Of the INA 212(a) ineligibilities, only INA 212(a)(3)(A), INA 212(a)(3)(B), and INA 212(a)(3)(C) apply. Thus, an applicant who demonstrates that they are qualified for an A-1 or A-2 visa may not be refused as an intending immigrant or on grounds of health, criminal activities, or prior visa violations. If an applicant appears to be ineligible on grounds other than INA 212(a) (for example under a Presidential Proclamation), send an AO to L/CA. Before issuing an A -1 or A-2 visa to an applicant who would otherwise be ineligible under INA 212(a)(2)(E) if such applicant were applying for a visa other than an A-1 or A-2 visa, submit an AO request to L/CA. See 9 FAM 302.3-7(C). If you have concerns about an applicant who would be ineligible for another visa classification but is exempt from ineligibility because they are applying for an A-1 or A-2 visa, submit an AO request to L/CA.
+a. (U) A-1 and A-2 visa applicants are subject to limited grounds of ineligibility. Of the INA 212(a) ineligibilities, only INA 212(a)(3)(A), INA 212(a)(3)(B), and INA 212(a)(3)(C) apply. Thus, an applicant who demonstrates that he or she is qualified for an A-1 or A-2 visa may not be refused as an intending immigrant or on grounds of health, criminal activities, or prior visa violations. If an applicant appears to be ineligible on grounds other than INA 212(a) (for example under a Presidential Proclamation), send an AO to L/CA. Before issuing an A -1 or A-2 visa to an applicant who would otherwise be ineligible under INA 212(a)(2)(E) if such applicant were applying for a visa other than an A-1 or A-2 visa, submit an AO request to L/CA. See 9 FAM 302.3-7(C). If you have concerns about an applicant who would be ineligible for another visa classification but is exempt from ineligibility because he or she is applying for an A-1 or A-2 visa, submit an AO request to L/CA.
 
 b. UNAVAILABLE.
 
@@ -2133,13 +2141,13 @@ d. UNAVAILABLE.
 
 #### 9 FAM 402.3-5(C)(2) (U) Applicant Accredited by a Foreign Government as an Officer at a Diplomatic or Consular Post
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) An applicant duly accredited by a foreign government recognized de jure by the United States as an officer of a permanent diplomatic mission or consular post established in the United States with the consent of the Department, who seeks to enter the United States solely to perform duties appropriately performed by such an officer is classifiable A-1. (Officers of diplomatic missions usually have the title of “Ambassador,” “Minister,” “Counselor,” “Secretary,” or “Attaché” such as military, commercial, financial, agriculture, or scientific; and those of consular posts, “Consul General,” "Deputy Consul General," “Consul,” "Deputy Consul," or “Vice Consul.”) See 9 FAM 402.3-5(F), Honorary Consul, below.
 
 b. (U) Such applicant should be at least 20 years old when entering the United States, is expected to perform services for the foreign government full-time (at least 35 hours per week) and reside in the metropolitan area of the diplomatic mission or consular post where the individual will be serving.
 
-c. (U) Diplomatic Exchange Programs: Applicants participating in a qualifying diplomatic exchange program who will be assigned to their foreign government’s embassy or to an EU institution in the United States as a diplomatic agent described in paragraph a above and who, as part of their assignment, will temporarily perform duties at the Department that are typically performed by a diplomatic agent, are also classifiable A-1. Such applicants should provide a qualifying diplomatic note that indicates they will be assigned to the foreign government’s embassy or EU institution in the United States and a letter from the Department bureau or office indicating that the applicant will perform duties typically performed by diplomatic agents during their temporary assignment at the Department. Approved programs covered by this note include the Transatlantic Diplomatic Fellows (TDF) program, with participants from EU and NATO countries, the EU, and Switzerland; the East Asia Pacific MFA Exchange Program, with participants from Japan, South Korea, Australia, and New Zealand; and the Mexico City Exchange Program. Participants of other programs must not be issued an A-1 visa without an AO from L/CA. All other foreign government officials seconded to a U.S. government agency are classifiable A-2 (see 9 FAM 402.3-5(D)(3) below).
+c. (U) Diplomatic Exchange Programs: An applicants participating in a qualifying diplomatic exchange program who will be assigned to his or her foreign government’s embassy or to an EU institution in the United States as a diplomatic agent described in paragraph a above and who, as part of his or her assignment, will temporarily perform duties at the Department that are typically performed by a diplomatic agent, are also classifiable A-1. Such applicants should provide a qualifying diplomatic note that indicates they will be assigned to the foreign government’s embassy or EU institution in the United States and a letter from the Department bureau or office indicating that the applicant will perform duties typically performed by diplomatic agents during his or her temporary assignment at the Department. Approved programs covered by this note include the Transatlantic Diplomatic Fellows (TDF) program, with participants from EU and NATO countries, the EU, and Switzerland; the East Asia Pacific MFA Exchange Program, with participants from Japan, South Korea, Australia, and New Zealand; and the Mexico City Exchange Program. Participants of other programs must not be issued an A-1 visa without an AO from L/CA. All other foreign government officials seconded to a U.S. government agency are classifiable A-2 (see 9 FAM 402.3-5(D)(3) below).
 
 d. (U) De jure recognition is not synonymous with diplomatic relations, and de jure recognition may continue even though diplomatic relations have been severed. Consequently, an A-1 visa may be issued to an applicant who seeks to enter the United States to perform official duties for a government which has severed diplomatic relations with the United States, if:
 
@@ -2151,41 +2159,25 @@ d. (U) De jure recognition is not synonymous with diplomatic relations, and de j
 
 (4) (U) You have consulted with L/CA regarding the application.
 
-e. (U) Per Department policy, as of August 2, 2021, except for Chiefs of Mission, Charges D'Affaires, and Deputy Chiefs of Missions, all individuals assigned to a bilateral foreign mission (including assignment as a representative of the sending country to a designated international organization) as a diplomatic agent, consular officer, or consular employee are expected to hold their position for no more than five years total (not per assignment). Additionally, individuals are not eligible for bilateral accreditation if previously assigned to a foreign mission (which includes international organizations) in the United States during the 36 months before the individual’s application for a diplomatic visa. In other words, there should be a three-year break outside the United States between such assignments.
+e. (U) Per Department policy, as of August 2, 2021, except for Chiefs of Mission, Charges D'Affaires, and Deputy Chiefs of Missions, all individuals assigned to a bilateral foreign mission (including assignment as a representative of the sending country to a designated international organization) as a diplomatic agent, consular officer, or consular employee are expected to hold their positions for no more than five years total (not per assignment). Additionally, individuals are not eligible for bilateral accreditation if previously assigned to a foreign mission (which includes international organizations) in the United States during the 36 months before the individual’s application for a diplomatic visa. In other words, there should be a three-year break outside the United States between such assignments.
 
 f. (U) Such individuals may no longer be eligible for acceptance and accreditation for any mission in the United States, whether they seek to work for the same government or another government.
 
 g. (U) For non-renewal applications, if there is reason to believe the individual has already worked in the United States in a position(s) for a total of five or more years and has not remained outside of the United States for a 36-month period before the application, contact OFM for guidance at OFM-policy@state.gov.
 
-h. (U) For renewal applications, you must check The Office of Foreign Missions Information System (TOMIS) to confirm that the applicant is listed as an “active” “A1” and how long they have been registered as such. TOMIS is available in the Consular Consolidated Database (CCD) under the “Other Agencies/Bureaus” menu. The following time-bound exceptions currently apply to actively registered A1s:
+h. (U) For renewal applications, you must check The Office of Foreign Missions Information System (TOMIS) to confirm that the applicant is listed as an “active” “A1” and how long he or she has been registered as such. TOMIS is available in the Consular Consolidated Database (CCD) under the “Other Agencies/Bureaus” menu. The following time-bound exceptions currently apply to actively registered A1s:
 
-(1) (U) Current bilaterally accredited individuals in the United States who are not Chiefs of Mission, Charges d'Affaires, or Deputy Chiefs of Mission, and who have been in their current assignment in excess of 48 months (four years) as of August 2, 2021, will be permitted to maintain their current status for an additional 24 months from August 2, 2021.
+(1) (U) Current bilaterally accredited individuals in the United States who are not Chiefs of Mission, Charges d'Affaires, or Deputy Chiefs of Mission, and who have been in their current assignment in excess of 48 months (four years) as of August 2, 2021, will be permitted to maintain their current statuses for an additional 24 months from August 2, 2021.
 
-(2) (U) Current bilaterally accredited individuals in the United States who are not Chiefs of Mission, Charges d'Affaires, or Deputy Chiefs of Mission, and who have been in their current assignment for less than 48 months (four years) but more than 36 months (three years) as of August 2, 2021, will be expected to complete their assignment no later than 72 months (six years) from the individual’s accreditation date.
+(2) (U) Current bilaterally accredited individuals in the United States who are not Chiefs of Mission, Charges d'Affaires, or Deputy Chiefs of Mission, and who have been in their current assignments for less than 48 months (four years) but more than 36 months (three years) as of August 2, 2021, will be expected to complete their assignments no later than 72 months (six years) from the individuals’ accreditation dates.
 
-(3) (U) Current bilaterally accredited individuals in the United States who are not Chiefs of Mission, Charges d'Affaires, or Deputy Chiefs of Mission, and who have been in their current assignment for less than 36 months (three years) as of August 2, 2021, will be expected to complete their assignment no later than 60 months from the individual’s accreditation date.
+(3) (U) Current bilaterally accredited individuals in the United States who are not Chiefs of Mission, Charges d'Affaires, or Deputy Chiefs of Mission, and who have been in their current assignments for less than 36 months (three years) as of August 2, 2021, will be expected to complete their assignments no later than 60 months from the individuals’ accreditation dates.
 
 #### 9 FAM 402.3-5(C)(3) UNAVAILABLE.
 
-(CT:VISA-2181; 09-15-2025)
+(CT:VISA-2195; 07-08-2026)
 
-a. UNAVAILABLE.
-
-(1) (U) Full name;
-
-(2) (U) Date of birth;
-
-(3) (U)Passport number and expiration date;
-
-(4) (U) Job title (e.g. Defense, Army, Marine, Naval, Air, Space, Cyber, etc. attaché);
-
-(5) (U) Expected date of arrival;
-
-(6) (U)Description of duties; and
-
-(7) (U) Predecessor's full name and expected date of departure
-
-b. UNAVAILABLE.
+UNAVAILABLE.
 
 #### 9 FAM 402.3-5(C)(4) (U) Certain Officials of Foreign Governments Traveling Temporarily for Official Business
 
@@ -2219,29 +2211,29 @@ b. UNAVAILABLE.
 
 #### 9 FAM 402.3-5(D)(1) (U) Applicant Accredited by a Foreign Government as an Employee at a Diplomatic or Consular Post
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) An applicant duly accredited by a foreign government recognized de jure by the United States who seeks to enter the United States solely to serve as an employee of a permanent diplomatic mission or consular post established in the United States by that government, who is not within any of the categories entitled to A-1 classification, and whose duties are those normally performed by employees of permanent diplomatic missions or consular posts established in the United States, is classifiable A-2. Accordingly, A-2 visas are usually appropriate for foreign government officials or employees not holding a diplomatic rank or a consular officer title, and instead working essentially full-time as administrative and technical staff and service staff at embassies, as consular employees and service staff at consulates, or as qualifying miscellaneous foreign government office (MFGO) personnel. MFGOs must be registered with the Office of Foreign Missions (OFM); contact CA/VO/DO/DL or L/CA if you have any questions about an individual. Such applicant should be at least 20 years old when entering the United States, is expected to perform services for the foreign government on a full-time basis (at least 35 hours per week) and reside in the metropolitan area of the mission where the individual will be serving.
 
-(1) (U) Per Department policy, as of August 2, 2021, all individuals assigned to a bilateral foreign mission (including assignment as a representative of the sending country to a designated international organization) as administrative and technical staff or service staff are expected to hold their position for no more than five years total, not per assignment. Additionally, individuals are not eligible for bilateral accreditation if previously assigned to a foreign mission (which includes international organizations) in the United States during the 36 months before the individual’s application for a diplomatic visa. In other words, there should be a three-year break outside the United States between such assignments.
+(1) (U) Per Department policy, as of August 2, 2021, all individuals assigned to a bilateral foreign mission (including assignment as a representative of the sending country to a designated international organization) as administrative and technical staff or service staff are expected to hold their positions for no more than five years total, not per assignment. Additionally, individuals are not eligible for bilateral accreditation if previously assigned to a foreign mission (which includes international organizations) in the United States during the 36 months before the individual’s application for a diplomatic visa. In other words, there should be a three-year break outside the United States between such assignments;
 
-(2) (U) Such individuals may no longer be eligible for acceptance and accreditation for any mission in the United States after August 2, 2021, whether they seek to work for the same government or another government. For non-renewal applications, if there is reason to believe the individual has already worked in the United States in a position(s) for a total of five or more years and has not remained outside of the United States for a 36-month period before the application, contact OFM for guidance at OFM-policy@state.gov.
+(2) (U) Such individuals may no longer be eligible for acceptance and accreditation for any mission in the United States after August 2, 2021, whether they seek to work for the same government or another government. For non-renewal applications, if there is reason to believe the individual has already worked in the United States in a position(s) for a total of five or more years and has not remained outside of the United States for a 36-month period before the application, contact OFM for guidance at OFM-policy@state.gov; and
 
-(3) (U) For renewal applications, check TOMIS to confirm that the applicant is listed as an “active” “A2” and how long they have been registered as such. TOMIS is available in the CCD under the “Other Agencies/Bureaus” menu. The following time-bound exceptions apply to currently registered A2s:
+(3) (U) For renewal applications, check TOMIS to confirm that the applicant is listed as an “active” “A2” and how long he or she has been registered as such. TOMIS is available in the CCD under the “Other Agencies/Bureaus” menu. The following time-bound exceptions apply to currently registered A2s:
 
-(a) (U) Current bilaterally accredited individuals in the United States who have been in their current assignment in excess of 48 months (four years) as of August 2, 2021, will be permitted to maintain their current status for an additional 24 months from August 2, 2021.
+(a) (U) Current bilaterally accredited individuals in the United States who have been in their current assignments in excess of 48 months (four years) as of August 2, 2021, will be permitted to maintain their current statuses for an additional 24 months from August 2, 2021.
 
-(b) (U) Current bilaterally accredited individuals in the United States who have been in their current assignment for less than 48 months (four years) but more than 36 months (three years) as of August 2, 2021, will be expected to complete their assignment no later than 72 months (six years) from the individual’s accreditation date.
+(b) (U) Current bilaterally accredited individuals in the United States who have been in their current assignments for less than 48 months (four years) but more than 36 months (three years) as of August 2, 2021, will be expected to complete their assignments no later than 72 months (six years) from the individuals’ accreditation dates.
 
-(c) (U) Current bilaterally accredited individuals in the United States who have been in their current assignment for less than 36 months (three years) as of August 2, 2021, will be expected to complete their assignment no later than 60 months from the individual’s accreditation date.
+(c) (U) Current bilaterally accredited individuals in the United States who have been in their current assignments for less than 36 months (three years) as of August 2, 2021, will be expected to complete their assignments no later than 60 months from the individuals’ accreditation dates.
 
 b. (U) Locally Engaged Staff – Permanently Resident in the United States for Purposes of the Vienna Conventions:
 
-(1) (U) A-2 visas are occasionally appropriate for applicant staff members and employees who were hired by a permanent diplomatic mission or consular post in the United States but are not career members of the sending state’s foreign service (or equivalent). Often these applicants have not been assigned or appointed by the sending state’s Ministry of Foreign Affairs and may not be extended the same benefits as other government employees, including, for example, issuance of a diplomatic or official passport and reimbursement for the cost of travel expenses to and from the United States. These applicants may also not have a specified length of tour, consistent with the sending state’s foreign service transfer policy. These individuals are employees and staff members of the mission and are working in a capacity that would require A-2 NIV status. These individuals may be third country nationals, and a consular interview is recommended in most cases. Per Department policy, as of August 23, 2016, all locally engaged staff employed by a foreign embassy or consular post and sponsored by the post for an A2 NIV are expected to hold their position for no more than five years total, not per assignment. After serving a total of five years, these individuals may no longer qualify as locally engaged staff members for any mission in the United States, whether they seek to work for the same government or another government. Individuals who have held an A-2 position as a locally engaged staff member before August 23, 2016, may continue to serve as a locally engaged staff member until August 22, 2021.
+(1) (U) A-2 visas are occasionally appropriate for applicant staff members and employees who were hired by a permanent diplomatic mission or consular post in the United States but are not career members of the sending state’s foreign service (or equivalent). Often these applicants have not been assigned or appointed by the sending state’s Ministry of Foreign Affairs and may not be extended the same benefits as other government employees, including, for example, issuance of a diplomatic or official passport and reimbursement for the cost of travel expenses to and from the United States. These applicants may also not have a specified length of tour, consistent with the sending state’s foreign service transfer policy. These individuals are employees and staff members of the mission and are working in a capacity that would require A-2 NIV status. These individuals may be third country nationals, and a consular interview is recommended in most cases. Per Department policy, as of August 23, 2016, all locally engaged staff employed by foreign embassies or consular posts and sponsored by the posts for A2 NIVs are expected to hold their positions for no more than five years total, not per assignment. After serving a total of five years, these individuals may no longer qualify as locally engaged staff members for any mission in the United States, whether they seek to work for the same government or another government. Individuals who have held an A-2 position as a locally engaged staff member before August 23, 2016, may continue to serve as a locally engaged staff member until August 22, 2021.
 
 (2) UNAVAILABLE.
 
-c. (U) A-2 versus A-3: Consider the differences between A-2 service staff and A-3 domestic workers and ask for detailed descriptions of the duties to be performed and/or request an interview to determine proper visa classification. (These standards also apply to G-1 service staff and G-5 domestic workers). These applicants may be either service staff (A-2), personal attendants (A-3), or domestic workers (A-3), depending on the facts of their employment and duties. An applicant may qualify for an A-2 visa as service staff they are engaged in certain duties owed to the sending government in furtherance of the official functions of the mission pertaining to the maintenance of the residence and representational duties performed at the residence of the head of a diplomatic mission or the principal officer of a consular post (or a permanent representative to the UN for G-1 visa applicants). In contrast, “attendants” are paid from the funds of the sending government (or IO for some G-5 visa applicants) and are accompanying or following-to-join a principal to whom a duty of service is owed in their personal capacity; they are therefore classifiable as A-3. Personal or domestic employees employed by the principal in a domestic or personal capacity – such as to cook, clean, or take care of children – in the private residence of a mission member are classifiable as A-3. Domestic workers do not qualify for A-2 visas even if the sending government pays them. Contact L/CA or CA/VO/DO/DL if you have any questions or concerns about an applicant’s eligibility for an A-2 (or G-1) visa as service staff.
+c. (U) A-2 versus A-3: Consider the differences between A-2 service staff and A-3 domestic workers and ask for detailed descriptions of the duties to be performed and/or request an interview to determine proper visa classification. (These standards also apply to G-1 service staff and G-5 domestic workers). These applicants may be either service staff (A-2), personal attendants (A-3), or domestic workers (A-3), depending on the facts of their employment and duties. An applicant may qualify for an A-2 visa as service staff he or she is engaged in certain duties owed to the sending government in furtherance of the official functions of the mission pertaining to the maintenance of the residence and representational duties performed at the residence of the head of a diplomatic mission or the principal officer of a consular post (or a permanent representative to the UN for G-1 visa applicants). In contrast, “attendants” are paid from the funds of the sending government (or IO for some G-5 visa applicants) and are accompanying or following-to-join a principal to whom a duty of service is owed in a personal capacity; attendants are therefore classifiable as A-3. Personal or domestic employees employed by the principal in a domestic or personal capacity – such as to cook, clean, or take care of children – in the private residence of a mission member are classifiable as A-3. Domestic workers do not qualify for A-2 visas even if the sending government pays them. Contact L/CA or CA/VO/DO/DL if you have any questions or concerns about an applicant’s eligibility for an A-2 (or G-1) visa as service staff.
 
 d. (U) Interns: Interns applying for a visa to work at an embassy, consulate, or miscellaneous foreign government office (MFGO) may qualify for an A-2 visa if the intern's visa application is accompanied by a diplomatic note that contains either (1) an express statement that the mission considers the applicant its employee during the internship, or (2) an acknowledgement that the mission will exercise ultimate authority over the continuation of the intern's assignment and the control and direction of the official duties to be performed for the duration of the intern's U.S. assignment. The duration of the internship and status as paid/unpaid are not relevant for classifying an intern as an A-2.
 
@@ -2271,7 +2263,7 @@ c. (U) If you determine there is a U.S. Government interest in A-2 visa issuance
 
 #### 9 FAM 402.3-5(D)(4) (U) Personnel of Foreign Armed Services from Non-NATO Member Countries
 
-(CT:VISA-2119; 01-15-2025)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) Personnel of foreign armed services from other than NATO countries, traveling to the United States in connection with their military status for education or training at any of the U.S. military schools or on a U.S. military installation, are treated as foreign government officials for visa classification purposes and are therefore classifiable as A-2. For classification questions for Taiwan authorities armed forces personnel, please see 9 FAM 402.3-5(I).
 
@@ -2289,11 +2281,11 @@ UNAVAILABLE.
 
 #### 9 FAM 402.3-5(E) (U) Qualifying for A-1 or A-2 Classification: Purpose of Travel and Official Duties in the United States Determines Classification
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) Qualification for A-1 or A-2 classification is determined by the purpose for which the applicant seeks to enter the United States and the nature of the official duties the applicant will perform while there. Therefore, the fact that an applicant is an official or employee of a foreign government or is the holder of a diplomatic, official, or service passport does not in itself, except for a head of state or head of government (and their immediate family) as provided in 9 FAM 402.3-5(C)(1) above, qualify the applicant for an A-1 or A-2 visa.
+a. (U) Qualification for A-1 or A-2 classification is determined by the purpose for which the applicant seeks to enter the United States and the nature of the official duties the applicant will perform while there. Therefore, the fact that an applicant is an official or employee of a foreign government or is the holder of a diplomatic, official, or service passport does not in itself, except for heads of state or heads of government (and their immediate family) as provided in 9 FAM 402.3-5(C)(1) above, qualify the applicant for an A-1 or A-2 visa.
 
-b. (U) The fact that there may be government interest or control in an organization is not in itself controlling on the matter of A-2 entitlement. There must be some further showing that the duties or services to be performed by the applicant are themselves of an inherently governmental character or nature. Where an organization is essentially engaged in commercial and/or competitive activities (e.g., banking, mining, or transportation), an official traveling on behalf of such organization would usually not be qualified for an A-2 visa. Depending upon the purpose of travel to the United States, B-1, L-1, or E classification may be appropriate. Review all applications for A-2 visas for officials of organizations which are not directly engaged in functions of a governmental nature as measured by U.S. standards.
+b. (U) The fact that there may be government interest or control in an organization is not in itself controlling on the matter of A-2 entitlement. There must be some further showing that the duties or services to be performed by the applicant are of an inherently governmental character or nature. Where an organization is essentially engaged in commercial and/or competitive activities (e.g., banking, mining, or transportation), an official traveling on behalf of such organization would usually not be qualified for an A-2 visa. Depending upon the purpose of travel to the United States, B-1, L-1, or E classification may be appropriate. Review all applications for A-2 visas for officials of organizations which are not directly engaged in functions of a governmental nature as measured by U.S. standards.
 
 c. (U) If any difficulty is encountered in resolving a case, submit the case to L/CA for an AO. The AO request should include a full report as to the nature, structure and purpose of the organization concerned, together with your analysis and comments.
 
@@ -2313,9 +2305,9 @@ c. (U) If any difficulty is encountered in resolving a case, submit the case to 
 
 #### 9 FAM 402.3-5(H)(1) (U) No A Visa for Lawful Permanent Residents (LPRs)
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) You must not issue an A visa to an LPR. An LPR cannot serve as a diplomatic agent or as a consular officer in the United States. Accordingly, you must not issue an A-1 or G-1 visa for assignment as a diplomatic agent or consular officer to an individual who is an LPR unless such individual relinquishes their LPR status. If an LPR with an urgent TDY official travel purpose on behalf of a foreign government that meets A-2 or G-2 entitlement and eligibility requirements needs to travel more quickly than obtaining a returning resident visa would permit, you may issue an A-2 or G-2 visa for TDY purposes, but should consider limiting and annotating the visa to reflect the nature of the LPR's travel, and to provide additional information to POE officials. You should advise the LPR that travel in an NIV status is at odds with LPR status and that if they intend to remain an LPR they may need to address that with DHS.
+a. (U) You must not issue an A visa to an LPR. An LPR cannot serve as a diplomatic agent or as a consular officer in the United States. Accordingly, you must not issue an A-1 or G-1 visa for assignment as a diplomatic agent or consular officer to an individual who is an LPR unless such individual relinquishes his or her LPR status. If an LPR with an urgent TDY official travel purpose on behalf of a foreign government that meets A-2 or G-2 entitlement and eligibility requirements needs to travel more quickly than obtaining a returning resident visa would permit, you may issue an A-2 or G-2 visa for TDY purposes, but should consider limiting and annotating the visa to reflect the nature of the LPR's travel, and to provide additional information to POE officials. You should advise the LPR that travel in an NIV status is at odds with LPR status and that if he or she intends to remain an LPR he or she may need to address that with DHS.
 
 b. (U) You should contact L/CA for any questions regarding immediate family members of an LPR seeking an A-1 visa. An LPR can serve as administrative and technical staff/support staff as an LPR, and without an A-2 visa. The immediate family members of these LPRs may be issued A-2 visas, if they are eligible to receive visas (see 9 FAM 402.3-4(J)(7) above).
 
@@ -2329,21 +2321,21 @@ b. (U) You should contact L/CA for any questions regarding immediate family memb
 
 #### 9 FAM 402.3-5(I)(1) (U) TECRO Employees and Representatives of Taiwan May Not Receive A or G Visas
 
-(CT:VISA-2047; 08-14-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) Since January 1, 1979, the United States has recognized the government of the People's Republic of China (PRC) as the sole legal government of China and has maintained diplomatic relations with the PRC. The United States does not recognize Taiwan as an independent, sovereign state or maintain diplomatic relations with Taiwan. Pursuant to the United States' one China policy, the Taiwan Relations Act, and Executive Order 13014, the people of the United States maintain economic, cultural, and other relations with the people of Taiwan through the American Institute in Taiwan (AIT) and its counterpart organization, the Taipei Economic and Cultural Representative Office in the United States (TECRO). TECRO also maintains Taipei Economic and Cultural Offices (TECOs) throughout the United States. These subsidiary offices maintain U.S.-Taiwan relations on a subnational level. All references to TECRO below should be understood to also include TECOs.
 
 b. (U) Representatives of Taiwan including employees of TECRO may not receive "A" or "G" NIV. Moreover, U.S. visas may never be placed in diplomatic or official passports issued by Taiwan. Contact the American Institute in Taiwan's Taipei (AIT/T) Consular Section for more information.
 
-c. (U) As discussed below, individuals assigned to TECRO as “designated employees” of TECRO, and their qualifying immediate family members are classifiable as E-1. See 9 FAM 402.3-5(I)(2) through 9 FAM 402.3-5(I)(6) below. In addition, individuals employed by or seconded as employees of TECRO for a temporary travel purpose in support of TECRO’s trade-related operations in the United States for training, liaising, or foreign military sales, are classifiable as E-1. In rare circumstances, you may encounter an applicant employed by or seconded to TECRO whose temporary travel purpose appears to be related to TECRO’s trade function but is not for training, liaising, or foreign military sales. For these applicants, contact your post’s VO/F analyst, with a copy to VO/DO/DL at diplomaticvisas@state.gov and L/CA at legal-ca-diplomaticvisas@state.gov, including detailed information on the individual’s planned trade related activities in the United States for a determination of whether the travel purpose qualifies as a core TECRO trade function and the applicant meets the requirements to be considered an essential employee with special qualifications that make the services to be rendered essential to TECRO’s economic and trade operations.
+c. (U) As discussed below, individuals assigned to TECRO as “designated employees” of TECRO, and their qualifying immediate family members are classifiable as E-1. See 9 FAM 402.3-5(I)(2) through 9 FAM 402.3-5(I)(6) below. In addition, individuals employed by or seconded as employees of TECRO for a temporary travel purpose in support of TECRO’s trade-related operations in the United States for defense-related training, liaising, or foreign military sales, are classifiable as E-1. In rare circumstances, you may encounter an applicant employed by or seconded to TECRO whose temporary travel purpose appears to be related to TECRO’s trade function but is not for defense-related training, liaising, or foreign military sales. For these applicants, contact your post’s VO/F analyst, with a copy to VO/DO/DL at diplomaticvisas@state.gov and L/CA at legal-ca-diplomaticvisas@state.gov, including detailed information on the individual’s planned trade related activities in the United States for a determination of whether the travel purpose qualifies as a core TECRO trade function and the applicant meets the requirements to be considered an essential employee with special qualifications that make the services to be rendered essential to TECRO’s economic and trade operations.
 
 d. (U) Except as provided in paragraph (c), representatives of Taiwan traveling to the United States on short-term business on behalf of Taiwan authorities are classifiable as B-1/B-2. Representatives of Taiwan transiting the United States are classifiable as B-1/B-2 or C-1. See 9 FAM 402.3-5(I)(7).
 
-#### 9 FAM 402.3-5(I)(2) (U) Individuals Assigned to Taipei Economic and Cultural Representative Office (TECRO) in the United States or other TECRO Employees With Temporary Travel Essential to TECRO’s Trade Related Operations in the United States
+#### 9 FAM 402.3-5(I)(2) (U) Individuals Assigned to Taipei Economic and Cultural Representative Office (TECRO) in the United States or other TECRO Employees with Temporary Travel Essential to TECRO’s Trade Related Operations in the United States
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) E-1 Visa Classification: Individuals assigned to TECRO as “designated employees” and their immediate family members are issued E-1 visas, if eligible, and are admitted to the United States in E-1 nonimmigrant status for duration of status. In addition, individuals designated or seconded as employees of TECRO for a temporary travel purpose in support of TECRO’s trade-related operations in the United States, including for training, liaising, or foreign military sales, are classifiable as E-1. For non-defense-related trade travel, contact your posts VO/F analyst, with a copy to VOVO/DO/DL at diplomaticvisas@state.gov and L/CA at legal-ca-diplomaticvisas@state.gov in accordance with guidance at 9 FAM 402.3-5(I)(1) paragraph c above.
+a. (U) E-1 Visa Classification: Individuals assigned to TECRO as “designated employees” and their immediate family members are issued E-1 visas, if eligible, and are admitted to the United States in E-1 nonimmigrant status for duration of status. In addition, individuals designated or seconded as employees of TECRO for a temporary travel purpose in support of TECRO’s trade-related operations in the United States, including for defense-related training, liaising, or foreign military sales, are classifiable as E-1. For non-defense-related trade travel, contact your posts VO/F analyst, with a copy to VO/DO/DL at diplomaticvisas@state.gov and L/CA at legal-ca-diplomaticvisas@state.gov in accordance with guidance at 9 FAM 402.3-5(I)(1) paragraph c above.
 
 b. (U) No Fee: There are no MRV fees or reciprocity fees for TECRO E-1 applicants.
 
@@ -2373,17 +2365,17 @@ TECRO SPECIALIZED TRAVEL PURPOSEUS-VISIT EXEMPT PER 8CFR235.1(F)(1)(IV)(B)
 
 DURATION OF STATUS AUTHORIZED PER TRA 4(A)
 
-g. (U) All TECRO E-1 applications including those for temporary travel in support of TECRO trade operations, must be accompanied by a TECRO note with information regarding their intended travel purpose. If the travel purpose is for temporary travel the note must state that the traveler is an employee of or seconded to TECRO for the duration of the travel and must describe the trade related TECRO operations that the temporary travel supports. Taiwan typically issues "G-series" passports to individuals assigned to TECRO and their immediate family members. If you receive a TECRO E-1 application from an individual for assignment to TECRO who does not possess a G-series passport, contact the AIT Taipei Consular Section and CA/VO/DO/DL for guidance on where to place the foil. Individuals employed by or seconded as employees of TECRO for a temporary travel purpose may present a “G-series” passport or a regular passport. See the reciprocity schedule for additional information regarding Taiwan passports. As a "G-series" passport or a personal passport is not a diplomatic or official passport, you may place a TECRO E-1 visa in it.
+g. (U) All TECRO E-1 applications including those for temporary travel in support of TECRO trade operations, must be accompanied by a TECRO note with information regarding the intended travel purpose. If the travel purpose is for temporary travel the note must state that the traveler is an employee of or seconded to TECRO for the duration of the travel and must describe the trade-related TECRO operations that the temporary travel supports. Taiwan typically issues "G-series" passports to individuals assigned to TECRO and their immediate family members. If you receive a TECRO E-1 application from an individual for assignment to TECRO who does not possess a G-series passport, contact the AIT Taipei Consular Section and CA/VO/DO/DL for guidance on where to place the foil. Individuals employed by or seconded as employees of TECRO for a temporary travel purpose may present a “G-series” passport or a regular passport. See the reciprocity schedule for additional information regarding Taiwan passports. As a "G-series" passport or a personal passport is not a diplomatic or official passport, you may place a TECRO E-1 visa in it.
 
 #### 9 FAM 402.3-5(I)(3) (U) TECRO Immediate Family Members Entitled to E-1 Nonimmigrant Visa Classification
 
-(CT:VISA-2047; 08-14-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) Under INA 101(a)(15)(E) and INA 101(b)(1) children of treaty traders and investors who reach the age of 21 become ineligible for "E" nonimmigrant classification. However, section 4(A) of the Taiwan Relations Act (TRA) preserves for immediate family members, including certain dependent sons and daughters of TECRO representatives over the age of 21, the entitlements "applied with respect to Taiwan before January 01, 1979," the date of Taiwan's derecognition by the United States.
 
 b. (U) Accordingly, unmarried dependent sons and daughters of TECRO representatives are classifiable E-1 and may be issued E-1 visas after the age of 21, if they continue to meet the definition of "immediate family" as defined in 22 CFR 41.21(a)(3). See 9 FAM 402.3-4(J)(3) and (4).
 
-c. (U) Individuals who qualify as "immediate family" of the principal TECRO E-1 visa holder in the "Other Members of the Principal Alien's Household" category, as defined at 22 CFR 41.21(a)(3)(iii), are also classifiable E-1. A G-series passport or travel orders is evidence of eligibility for rights and benefits as other members of household. See 9 FAM 402.3-4(J)(4). Individuals accompanying TECRO representatives who do not meet the definition of "immediate family" as described in 9 FAM 402.3-4(J) may potentially qualify for a B-2 visa (see 9 FAM 402.2-4(B)(5)) or another NIV based on their purpose of travel.
+c. (U) Individuals who qualify as "immediate family" of the principal TECRO E-1 visa holder in the "Other Members of the Principal Alien's Household" category, as defined at 22 CFR 41.21(a)(3)(iii), are also classifiable E-1. A G-series passport or travel orders is evidence of eligibility for rights and benefits as other members of household. See 9 FAM 402.3-4(J)(4). Individuals accompanying TECRO representatives who do not meet the definition of "immediate family" as described in 9 FAM 402.3-4(J) may potentially qualify for B-2 visas (see 9 FAM 402.2-4(B)(5)) or other NIVs based on the purpose of travel.
 
 #### 9 FAM 402.3-5(I)(4) (U) Individuals Assigned to TECRO and/or Immediate Family Members Authorized Admission for Duration of Status (D/S)
 
@@ -2393,9 +2385,9 @@ c. (U) Individuals who qualify as "immediate family" of the principal TECRO E-1 
 
 #### 9 FAM 402.3-5(I)(5) (U) Correction of Admit Until Date to Duration of Status
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) In the event that an individual assigned to TECRO, and their immediate family members, are admitted by CBP at the POE for a specified period, a correction should be made to properly annotate the Form I-94 with "D/S".
+a. (U) In the event that an individual assigned to TECRO, and his or her immediate family members, are admitted by CBP at the POE for a specified period, a correction should be made to properly annotate the Form I-94 with "D/S".
 
 b. (U) TECRO must submit an email through AIT to CA/VO/DO/DL diplomaticvisas@state.gov requesting a “Correction to D/S” and include a copy of the current I-94 and copy of the passport bio page.
 
@@ -2443,7 +2435,7 @@ d. (U) Passport/Passport Waiver: All B visas must be placed in a regular passpor
 
 #### 9 FAM 402.3-6(B) (U) In General
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) C-2 Visas:
 
@@ -2551,9 +2543,9 @@ c. (U) Interns: Interns applying for a visa to work at a mission to an IO or at 
 
 #### 9 FAM 402.3-7(C) UNAVAILABLE.
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) G-1, G-2, G-3, and G-4 applicants are subject to limited grounds of ineligibility. Of the INA 212(a) ineligibilities, only INA 212(a)(3)(A), INA 212(a)(3)(B), and INA 212(a)(3)(C) apply. Thus, an applicant who demonstrates that they are qualified for a G-1, G-2, G-3, or G-4 visa may not be refused as an intending immigrant or on grounds of health, criminal activities, or prior visa violations. If a person may be ineligible on grounds other than INA 212(a) (for example under a Presidential Proclamation), send an AO to L/CA. Before issuing a G-1, G-2, G-3, or G-4 visa to an applicant who would otherwise be ineligible under INA 212(a)(2)(E) if such applicant were applying for a visa other than a G-1, G-2, G-3, or G-4 visa, you must submit an AO to L/CA. See 9 FAM 302.3-7(C).
+a. (U) G-1, G-2, G-3, and G-4 applicants are subject to limited grounds of ineligibility. Of the INA 212(a) ineligibilities, only INA 212(a)(3)(A), INA 212(a)(3)(B), and INA 212(a)(3)(C) apply. Thus, an applicant who demonstrates that he or she is are qualified for a G-1, G-2, G-3, or G-4 visa may not be refused as an intending immigrant or on grounds of health, criminal activities, or prior visa violations. If a person may be ineligible on grounds other than INA 212(a) (for example under a Presidential Proclamation), send an AO to L/CA. Before issuing a G-1, G-2, G-3, or G-4 visa to an applicant who would otherwise be ineligible under INA 212(a)(2)(E) if such applicant were applying for a visa other than a G-1, G-2, G-3, or G-4 visa, you must submit an AO to L/CA. See 9 FAM 302.3-7(C).
 
 b. UNAVAILABLE.
 
@@ -2735,7 +2727,7 @@ August 1997 to present
 
 #### 9 FAM 402.3-7(D)(6) (U) United Nations Laissez-Passer (UNLP)
 
-(CT:VISA-2144; 04-10-2025)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) Issuing G-4 Visa in United Nations Laissez-Passer (UNLP):
 
@@ -2745,7 +2737,7 @@ a. (U) Issuing G-4 Visa in United Nations Laissez-Passer (UNLP):
 
 b. (U) Validity of G-4 Visa in UNLP: The validity of a G-4 visa placed in a UNLP must be restricted to cover the official travel certified in the letter or telegram from the Chief of the Transportation Section, United Nations Secretariat. The visa may be for multiple entries, unless the letter or telegram from the Chief of the Transportation Section, United Nations Secretariat, specifies limited or single entry. If the letter or telegram is not clear on these points, contact CA/VO/DO/DL at diplomaticvisas@state.gov, who will coordinate with USUN.
 
-c. (U) Placing G-4 Visa in National Passport Rather Than in UNLP: When issuing a G-4 visa to the Secretary General, all undersecretaries, and all assistant secretaries general of the United Nations in a national passport, rather than in a UNLP, the G-4 visa may be issued for the time prescribed by the reciprocity schedule of their nationality (a maximum of 60 months) with multiple entries.
+c. (U) Placing G-4 Visa in National Passport Rather Than in UNLP: When issuing a G-4 visa to the Secretary General, all undersecretaries, and all assistant secretaries general of the United Nations in a national passport, rather than in a UNLP, the G-4 visa may be issued for the time prescribed by the reciprocity schedule of their respective nationality (a maximum of 60 months) with multiple entries.
 
 d. (U) For all others at the United Nations or United Nations Secretariat, refer to the reciprocity schedule of the country concerned.
 
@@ -2781,9 +2773,9 @@ e. UNAVAILABLE.
 
 #### 9 FAM 402.3-7(E)(3) (U) Personnel at the Inter-American Defense Board (IADB) and Inter-American Defense College (IADC)
 
-(CT:VISA-1290; 05-26-2021)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) G-1 Visas Classification: IADB Members of the Council of Delegates and persons assigned to serve on the delegations as diplomatic advisors and accredited as such at their representative OAS mission are classifiable G-1.
+a. (U) G-1 Visas Classification: IADB Members of the Council of Delegates and persons assigned to serve on the delegations as diplomatic advisors and accredited as such at a representative OAS mission are classifiable G-1.
 
 b. (U) G-4 Visa Classification: The following staff positions at the IADB are classifiable as G-4: The Chair and Vice-Chair at the IADB; the Director of Staff at the IADB; the Secretary of the IADB; and members of the international staff of the IADB, including commissioned military officers from the various OAS member states and civil members of the international staff. Staff members and advisors for the IADC, including the Vice Director and Chief of Studies at the IADC and military officers who are advisors at the IADC (i.e., staff of the IADB at the IADC) are also classifiable G-4. For students at the IADC, see 9 FAM 402.3-5(D)(5) above.
 
@@ -2883,7 +2875,7 @@ b. (U) Such an applicant who expects to spend time in the United States for pers
 
 #### 9 FAM 402.3-7(M) (U) List of Designated International Organizations
 
-(CT:VISA-1838; 09-26-2023)
+(CT:VISA-2196; 07-10-2026)
 
 (U) The following is an alphabetical listing of the international organizations that have been designated by Executive Order pursuant to various treaties or under the International Organizations Immunities Act (IOIA) of December 29, 1945. A G-1, G-2, G-3, or G-4 visa may only be issued to an applicant who is traveling to the United States (or in some cases transiting the United States) for activities of one of these international organizations. If you have questions regarding whether an office or entity is part of one of these organizations, contact your L/CA portfolio holder.
 
@@ -2910,6 +2902,10 @@ E.O. 11334 (Mar. 7, 1967)
 African Union
 
 E.O. 13377 (April 13, 2005)
+
+Board of Peace
+
+E.O. 14375 (Jan. 16, 2026)
 
 Border Environmental Cooperation Commission
 
@@ -3229,7 +3225,7 @@ E.O. 13042 (April 9, 1997)
 
 #### 9 FAM 402.3-7(N) (U) Adjudication Considerations for Organization for Security and Co-operation in Europe (OSCE)-Affiliated Applicants
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 UNAVAILABLE.
 
@@ -3413,6 +3409,10 @@ Article I - In this Agreement the expression:
 
 #### 9 FAM 402.3-8(F) UNAVAILABLE.
 
+(CT:VISA-2195; 07-08-2026)
+
+UNAVAILABLE.
+
 #### 9 FAM 402.3-8(G) (U) Issuing NATO-7 Visas to Personal or Domestic Employees
 
 (CT:VISA-1290; 05-26-2021)
@@ -3461,7 +3461,7 @@ c. (U) Reciprocity: NATO-7 visas are not limited to nationals from NATO party co
 
 #### 9 FAM 402.3-9(B)(1) (U) Applicants Entitled to A-3, C-3, G-5, or NATO-7 Visa Classification
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) Eligibility Requirements: If the applicant qualifies for the visa classification, you may issue an A-3, C-3, G-5, or NATO-7 visa, respectively, to the personal employee of an applicant in the A-1 or A-2 category (A-3 visa), C-3 category (C-3 visa), G-1 through G-4 category (G-5 visa), or NATO-1 through NATO-6 category (NATO-7 visa). To qualify for the A-3, C-3, G-5, or NATO-7 visa as a domestic employee the following requirements must be met:
 
@@ -3471,13 +3471,13 @@ a. (U) Eligibility Requirements: If the applicant qualifies for the visa classif
 
 (3) (U) The applicant will receive the minimum wage and working conditions will be accordance with U.S. labor laws (see 9 FAM 402.3-9(B)(4) below); and,
 
-(4) (U) The applicant overcomes the burden of proof in demonstrating to you that they will perform a specific job as described in the contract and can perform such work, the applicant overcomes any presumptions of ineligibility, if applicable, and the applicant and the employer have entered a bona fide employer-employee relationship (see 9 FAM 402.3-9(B)(5) below).
+(4) (U) The applicant overcomes the burden of proof in demonstrating to you that he or she will perform a specific job as described in the contract and can perform such work, the applicant overcomes any presumptions of ineligibility, if applicable, and the applicant and the employer have entered a bona fide employer-employee relationship (see 9 FAM 402.3-9(B)(5) below).
 
 (5) (U) The applicant must present a diplomatic note from the appropriate foreign government office, mission, international organization, or NATO authority that meets the requirements in 9 FAM 402.3-4(C), and the diplomatic note must be scanned into the NIV application record;
 
 (6) (U) Conduct a personal interview with the applicant outside the presence of the employer or any recruitment agent;
 
-(7) (U) Ensure that the applicant is aware of their rights as set out in the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (WWTVPRA) (Public Law 110-457) pamphlet, including that you confirm at the visa interview that the applicant has received, read, and understood the contents of the information pamphlet, and that you provide a copy of the pamphlet, and offer to answer any questions the applicant may have as needed (see 9 FAM 402.3-9(C) below); and,
+(7) (U) Ensure that the applicant is aware of his or her rights as set out in the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (WWTVPRA) (Public Law 110-457) pamphlet, including that you confirm at the visa interview that the applicant has received, read, and understood the contents of the information pamphlet, and that you provide a copy of the pamphlet, and offer to answer any questions the applicant may have as needed (see 9 FAM 402.3-9(C) below); and,
 
 (8) (U) These applicants are not exempt from any visa ineligibility ground (see 9 FAM 402.3-9(B)(6) below).
 
@@ -3487,7 +3487,7 @@ c. (U) Personal Employees of Permanent Residents Not Eligible: You may not issue
 
 #### 9 FAM 402.3-9(B)(2) (U) TOMIS Pre-Notification Required
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) TOMIS Pre-Notification Required For Most A-3 and G-5 Applicants: Unless the applicant is covered by an exception in paragraph e, below, you may not issue an A-3 or G-5 visa to an applicant who is not pre-notified to Protocol or USUN (for domestic employees employed by personnel accredited to and/or employed by the UN). The foreign mission or international organization must submit a pre-notification form to Protocol or to USUN via e-Gov for review. You should direct all pre-notification questions to Protocol (DomesticWorkers@state.gov) or USUN (UNDomesticWorkers@state.gov), respectively.
 
@@ -3497,7 +3497,7 @@ c. (U) Immediate Family Members of Domestic Employees:
 
 (1) (U) Immediate family members of domestic employees seeking a derivative A-3 or G-5 visa are rare and should be closely scrutinized. In determining whether an immediate family member qualifies as a derivative, remember that immediate family members are not authorized to work in the United States, including in the home of the foreign government official, employee or IO employee. Accordingly, you must ensure that the wages earned by the domestic employee are sufficient to support any accompanying or following-to-join immediate family members of the domestic employee. You should also ensure that the proposed place of residence of the domestic employee and any immediate family members in the United States are consistent with the place of employment. Also consider whether the proposed place of residence, such as the home of the domestic worker's employer, places minor children at risk for potential exploitation, e.g., by requiring the child to engage in uncompensated work around the residence. Except in cases specified in paragraph e, confirm that all immediate family members of the domestic employee accompanying or following-to-join the domestic employee are pre-notified to Protocol (or USUN) and, if not included in the domestic employee’s initial pre-notification request are separately pre-notified to Protocol (or USUN) before issuing visas to such immediate family members. The immediate family members' names will be listed in TOMIS under the A-3 or G-5 principal's record once Protocol (or USUN) has received and accepted the immediate family member's pre-notification.
 
-(2) (U) If the foreign mission or international organization separately notified Protocol or USUN of the immediate family member as a domestic employee of such mission member and the applicant independently qualifies as a domestic employee, you may issue the family member a visa in their own right.
+(2) (U) You may issue the family member a visa if the foreign mission or international organization separately notified Protocol or USUN of the immediate family member as a domestic employee of such mission member and the applicant independently qualifies as a domestic employee.
 
 d. (U) Refusing Visas if Not in TOMIS: If an A-3 or G-5 visa applicant is not listed in TOMIS as either “pre-notified” or “active”, refuse the case under INA 221(g) pending the individual’s inclusion in TOMIS (see exception to TOMIS requirement below in paragraph e). You may not issue an A-3 or G-5 visa to an applicant who is required to be registered in TOMIS upon mere presentation of a diplomatic note. You also may not issue B-1 visas to allow the domestic employee to travel on an “emergency” basis. Check TOMIS periodically to see if the employee has been added. If the employer or applicant advises that a pre-notification request was submitted and it is not showing in TOMIS, contact Protocol (DomesticWorkers@state.gov) or USUN (UNDomesticWorkers@state.gov), respectively, copying CA/VO/DO/DL.
 
@@ -3505,7 +3505,7 @@ e. (U) Exception to TOMIS Pre-Notification Requirement: A-3 and G-5 applicants a
 
 #### 9 FAM 402.3-9(B)(3) (U) Contract Requirements
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) You may not issue or renew an A-3, C-3, G-5, or NATO-7 visa unless the visa applicant has executed a contract with the employer or prospective employer and such contract includes each of the provisions described in paragraph (c) below. In each case, an employee applying for an A-3, C-3, G-5, or NATO-7 visa must present a copy of the employment contract, which must be in a language understood by the applicant and signed by both the applicant and the employer. If the contract is not in English, an accurate English-language translation must be attached. As appropriate, you should ask questions about the terms of the contract and the intended employment to confirm that the applicant understands the terms of the contract and is traveling for the stated purpose. Scan the employment contract and, as applicable, an English translation of the contract, and attach the scanned document to the application record in NIV.
 
@@ -3543,7 +3543,7 @@ c. (U) Required Contract Terms: The Department strongly encourages employers of 
 
 (b) (U) that any change to the contract must be in writing and signed by both parties; and
 
-(c) (U) that the employer must promptly send an updated copy of the contract to their foreign mission or international organization, which should share it with the Department.
+(c) (U) that the employer must promptly send an updated copy of the contract to his or her foreign mission or international organization, which should share it with the Department.
 
 (3) (U) Employer Obligations: The contract must include provisions addressing the following requirements:
 
@@ -3559,7 +3559,7 @@ c. (U) Required Contract Terms: The Department strongly encourages employers of 
 
 (f) (U) The employer will pay for any other costs of travel required of the employee by the employer without deducting these costs from the employee’s salary or using any other means to recover the costs.
 
-(g) (U) Compliance with Department of State registration program and assistance with status extension: The employer will comply with any registration requirements of the Department and submit through their foreign mission or international organization extensions of status for the employee with sufficient time to allow such requests to be processed before the expiration of the I-94.
+(g) (U) Compliance with Department of State registration program and assistance with status extension: The employer will comply with any registration requirements of the Department and submit through his or her foreign mission or international organization extensions of status for the employee with sufficient time to allow such requests to be processed before the expiration of the I-94.
 
 (4) (U) Employee Obligation to Comply with U.S. Immigration Law:
 
@@ -3587,7 +3587,7 @@ The employee will depart the United States at the end of the employment, as requ
 
 (e) (U) The contract must state that the employee will not be paid for sleeping time and other periods when the employee is free from all duties and when the employee can leave the property or remain on the property, without employment duties.
 
-(f) (U) The contract must state that if the employee is required to work during their scheduled sleeping or other free time, this period must be counted and compensated as hours worked. Any hours that the employee is required to remain in the residence in case needed for work are working hours.
+(f) (U) The contract must state that if the employee is required to work during his or her scheduled sleeping or other free time, this period must be counted and compensated as hours worked. Any hours that the employee is required to remain in the residence in case needed for work are working hours.
 
 (g) (U) Free to Leave Residence: The contract must state that the employee is free to leave the employer’s residence during any non-work hours.
 
@@ -3615,7 +3615,7 @@ The employee will depart the United States at the end of the employment, as requ
 
 (g) (U) Deductions: The contract must state that the employer agrees that no money will be taken out of the employee’s salary except as required by law (e.g., tax and social security obligations, where applicable).
 
-(h) (U) Room and Board: The contract must indicate whether the employee will/will not live at the employer’s residence (if the employer has a residence in the United States). If the employee will live at the employer’s residence, the employer must agree to provide free room and board in addition to their salary and must agree, at a minimum, to ensure that the employee has adequate and reasonable accommodations provided to them, including a private bed and access to a bathroom, kitchen facilities, and proper food storage.
+(h) (U) Room and Board: The contract must indicate whether the employee will/will not live at the employer’s residence (if the employer has a residence in the United States). If the employee will live at the employer’s residence, the employer must agree to provide free room and board in addition to a salary and must agree, at a minimum, to ensure that the employee has adequate and reasonable accommodations, including a private bed and access to a bathroom, kitchen facilities, and proper food storage.
 
 (i) (U) Tax Obligations: The parties must agree to follow all relevant tax and social security obligations.
 
@@ -3625,7 +3625,7 @@ The employee will depart the United States at the end of the employment, as requ
 
 (a) (U) The contract must state that the employee has the right to a workplace that is free from intimidation, harassment, and abuse of any kind, and has the right to leave employment if intimidated, harassed, or abused.
 
-(b) (U) The contract must state that the employer must not prohibit the employee from reporting intimidation, harassment, or abuse and must not retaliate in any way against the employee for enforcing their legal rights.
+(b) (U) The contract must state that the employer must not prohibit the employee from reporting intimidation, harassment, or abuse and must not retaliate in any way against the employee for enforcing his or her legal rights.
 
 (10) (U) Resignation and Termination:
 
@@ -3659,7 +3659,7 @@ The employee will depart the United States at the end of the employment, as requ
 
 (b) (U) The contract may not require binding arbitration to resolve disputes under the employment contract.
 
-d. (U) Noncompliant Contracts and Refusals: You usually refuse cases under INA 221(g) to allow the applicant an opportunity to address a contract-related deficiency, for example, where the applicant does not submit a contract, one of the above requirements in paragraph c is missing from the contract, or one of the provisions in the contract is not compliant with the minimum terms as stated above, e.g., the contract does not guarantee at least the minimum wage and working conditions that are compliant with U.S. labor laws or the applicant is stating that they are paid a wage other than that presented in the contract. Alternatively, if you have reason to believe the applicant is unable or unwilling to address a contract-related deficiency, you may refuse the case under INA 214(b) because the applicant has not shown entitlement to A-3, C-3, G-5, or NATO-7 nonimmigrant status. For questions about wage standards or other contract requirements, contact your L/CA portfolio holder and CA/VO/DO/DL for assistance.
+d. (U) Noncompliant Contracts and Refusals: You usually refuse cases under INA 221(g) to allow the applicant an opportunity to address a contract-related deficiency, for example, where the applicant does not submit a contract, one of the above requirements in paragraph c is missing from the contract, or one of the provisions in the contract is not compliant with the minimum terms as stated above, e.g., the contract does not guarantee at least the minimum wage and working conditions that are compliant with U.S. labor laws or the applicant is stating that he or she is paid a wage other than that presented in the contract. Alternatively, if you have reason to believe the applicant is unable or unwilling to address a contract-related deficiency, you may refuse the case under INA 214(b) because the applicant has not shown entitlement to A-3, C-3, G-5, or NATO-7 nonimmigrant status. For questions about wage standards or other contract requirements, contact your L/CA portfolio holder and CA/VO/DO/DL for assistance.
 
 #### 9 FAM 402.3-9(B)(4) Minimum Wage Requirements
 
@@ -3709,17 +3709,17 @@ b. (U) The above chart only includes state and local areas where domestic worker
 
 #### 9 FAM 402.3-9(B)(5) (U) Burden of Proof, Presumption of Ineligibility, and Other Considerations
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) Burden of Proof: In accordance with INA 291, the burden of proof for A-3, C-3, G-5, or NATO-7 visa eligibility is on the applicant. Assess the credibility of the applicant and the evidence submitted to determine qualification for an A-3, C-3, G-5, or NATO-7 visa. The applicant must demonstrate to your satisfaction that they will credibly engage in A-3, C-3, G-5, or NATO-7 activity under the contractual agreement (generally domestic or household work but can also include services as a personal employee) and thereby maintain lawful status while in the United States.
+a. (U) Burden of Proof: In accordance with INA 291, the burden of proof for A-3, C-3, G-5, or NATO-7 visa eligibility is on the applicant. Assess the credibility of the applicant and the evidence submitted to determine qualification for an A-3, C-3, G-5, or NATO-7 visa. The applicant must demonstrate to your satisfaction that he or she will credibly engage in A-3, C-3, G-5, or NATO-7 activity under the contractual agreement (generally domestic or household work but can also include services as a personal employee) and thereby maintain lawful status while in the United States.
 
-b. (U) Applicant will perform a specific job described in the contract and can perform the work required: To benefit from A-3, G-5, or NATO-7 status, the applicant must be coming to the United States to perform a specific job as described in the employment contract, and must be capable of doing so, regardless of whether the applicant has ever performed such a job in the past. For example, an applicant with a degree in computer science who is coming to work as a domestic employee may be issued an A-3, G-5, or NATO-7 visa if they clearly have the intent and ability to perform the job. However, if you believe that the applicant is presented as a domestic employee for an employer in A, G, or NATO status, but will pursue other work, then the A-3, G-5, or NATO-7 visa should be denied under INA 214(b). You should also determine whether such applicant is ineligible under INA 212(a)(6)(C)(i) for misrepresenting themself as a domestic employee. Similarly, an A-3, G-5, or NATO-7 visa applicant who has recently had a period of unlawful presence in the United States, or who may have previously sought another visa and was refused under INA 214(b), must be scrutinized to determine whether they intend to take up the stated employment. However, if the previous period of unlawful presence is too short to render the applicant ineligible under INA 212(a)(9)(B) or (9)(C) or a prior 214(b) refusal exists, it is not a basis to refuse the current A-3, G-5, or NATO-7 visa application in which the applicant otherwise qualifies for the visa, and you believe the applicant plans to take up the stated employment. See 9 FAM 402.3-9(B)(6) below regarding applicable ineligibilities.
+b. (U) Applicant will perform a specific job described in the contract and can perform the work required: To benefit from A-3, G-5, or NATO-7 status, the applicant must be coming to the United States to perform a specific job as described in the employment contract, and must be capable of doing so, regardless of whether the applicant has ever performed such a job in the past. For example, an applicant with a degree in computer science who is coming to work as a domestic employee may be issued an A-3, G-5, or NATO-7 visa if he or she clearly has the intent and ability to perform the job. However, if you believe that the applicant is presented as a domestic employee for an employer in A, G, or NATO status, but will pursue other work, then the A-3, G-5, or NATO-7 visa should be denied under INA 214(b). You should also determine whether such applicants are ineligible under INA 212(a)(6)(C)(i) for misrepresenting themselves as domestic employees. Similarly, an A-3, G-5, or NATO-7 visa applicant who has recently had a period of unlawful presence in the United States, or who may have previously sought another visa and was refused under INA 214(b), must be scrutinized to determine whether he or she intends to take up the stated employment. However, if the previous period of unlawful presence is too short to render the applicant ineligible under INA 212(a)(9)(B) or (9)(C) or a prior 214(b) refusal exists, it is not a basis to refuse the current A-3, G-5, or NATO-7 visa application in which the applicant otherwise qualifies for the visa, and you believe the applicant plans to take up the stated employment. See 9 FAM 402.3-9(B)(6) below regarding applicable ineligibilities.
 
 c. (U) Presumption that Applicant is Not Eligible; Employer’s Ability to Pay/Comply with Working Conditions:
 
-(1) (U) Do not issue a visa unless you have reason to believe the employer will comply with all requirements relating to wages and working conditions. Assume that the applicant is not eligible if the employer is not the principal officer or deputy principal officer or does not carry the diplomatic rank of minister or higher, due to concerns about the employer's ability to compensate the applicant as required under U.S. law. To rebut this presumption, the employer or the employee may provide additional information to demonstrate that the employer has sufficient funds to comply with minimum wage requirements as reflected in the contract. The sending government or international organization may also be able to provide you with general information as to how their organization compensates its employees based on rank or position. Deny the visa under INA 214(b) if you are not convinced the employer can in fact meet the terms of the contract. In assessing the sufficiency of the employer's funds, consider the number of current or proposed employees and whether the employer can pay the applicant.
+(1) (U) Do not issue a visa unless you have reason to believe the employer will comply with all requirements relating to wages and working conditions. Assume that the applicant is not eligible if the employer is not the principal officer or deputy principal officer or does not carry the diplomatic rank of minister or higher, due to concerns about the employer's ability to compensate the applicant as required under U.S. law. To rebut this presumption, the employer or the employee may provide additional information to demonstrate that the employer has sufficient funds to comply with minimum wage requirements as reflected in the contract. The sending government or international organization may also be able to provide you with general information as to how it compensates its employees based on rank or position. Deny the visa under INA 214(b) if you are not convinced the employer can in fact meet the terms of the contract. In assessing the sufficiency of the employer's funds, consider the number of current or proposed employees and whether the employer can pay the applicant.
 
-(2) (U) IO officers and employees (G-4 visa holders) rarely hold the rank of minister or higher and therefore their compensation is unlikely to be sufficient to cover the cost of a personal employee. Accordingly, you must determine that the employer has sufficient funds to provide the required minimum wages and work conditions to the G-5 visa applicant to issue the visa.
+(2) (U) IO officers and employees (G-4 visa holders) rarely hold the rank of minister or higher and therefore their compensation is unlikely to be sufficient to cover the cost of a personal employees. Accordingly, you must determine that the employer has sufficient funds to provide the required minimum wages and work conditions to the G-5 visa applicant to issue the visa.
 
 d. UNAVAILABLE.
 
@@ -3727,25 +3727,25 @@ e. (U) True Employer-Employee Relationship and Employing Family Members: You may
 
 (1) (U) Whether the applicant’s background, education skills, and employment history are consistent with the work described in the contract; and
 
-(2) (U) Whether the prospective employer and employee have a personal or familial relationship that might suggest they do not intend to enter a bona fide employee-employer relationship. Familial relationship should be indicated in the contract and duly scrutinized.
+(2) (U) Whether the prospective employer and employee have a personal or familial relationship that might suggest they do not intend to enter a bona fide employee-employer relationship. Familial relationships should be indicated in the contract and duly scrutinized.
 
 #### 9 FAM 402.3-9(B)(6) (U) Applicable Ineligibilities; Refusals and Advisory Opinions
 
-(CT:VISA-2143; 03-26-2025)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) Applicants for A-3, C-3 (personal or domestic employees only), G-5, or NATO-7 visas are subject to all INA visa ineligibilities, including INA 214(b). An A-3, C-3 (only personal or domestic employees), G-5, and NATO-7 visa applicant must establish that they qualify for the visa and must demonstrate that they:
+a. (U) Applicants for A-3, C-3 (personal or domestic employees only), G-5, or NATO-7 visas are subject to all INA visa ineligibility, including INA 214(b). An A-3, C-3 (only personal or domestic employees), G-5, and NATO-7 visa applicant must establish that he or she qualifies for the visa and must demonstrate that he or she:
 
-(1) (U) Are not intending immigrants;
+(1) (U) Is not an intending immigrant;
 
-(2) (U) Have a residence abroad they do not intend to abandon; and
+(2) (U) Has a residence abroad he or she does not intend to abandon; and
 
-(3) (U) Intend to depart from the United States upon completion of the approved activities.
+(3) (U) Intends to depart from the United States upon completion of the approved activities.
 
-b. (U) General rules for examining residence abroad are outlined in 9 FAM 401.1-3(E), Residence Abroad Defined. A-3, C-3 (only personal or domestic employees), G-5, and NATO-7 visa applicants commonly will not possess ties of property or family in the country in which they are working when applying for the visa. Often the applicant has accompanied the employer on assignment and is not applying where they normally reside. In that case, the applicant need not demonstrate an intention to return to the country of initial visa application or where they normally reside. Given that these personal employees may stay in the United States for a longer period than most other nonimmigrant visitors, the residence abroad requirement should not focus too heavily on the usual “ties”. You may issue the visa if you are satisfied during the visa application that the applicant possesses the present intent to depart the United States at the conclusion of their approved activities and you are satisfied the applicant otherwise is qualified for the visa.
+b. (U) General rules for examining residence abroad are outlined in 9 FAM 401.1-3(E), Residence Abroad Defined. A-3, C-3 (only personal or domestic employees), G-5, and NATO-7 visa applicants commonly will not possess ties of property or family in the country in which they are working when applying for the visa. Often the applicant has accompanied the employer on assignment and is not applying where they normally reside. In that case, the applicant need not demonstrate an intention to return to the country of initial visa application or where they normally reside. Given that these personal employees may stay in the United States for a longer period than most other nonimmigrant visitors, the residence abroad requirement should not focus too heavily on the usual “ties”. You may issue the visa if you are satisfied during the visa application that the applicant possesses the present intent to depart the United States at the conclusion of his or her approved activities and you are satisfied the applicant otherwise is qualified for the visa.
 
 c. (U) Before issuing an A-3, C-3, G-5, or NATO-7 visa to an immediate family member of a domestic employee, you must be satisfied that the relationship between the domestic employee and the applicant exists and that the applicant can be expected to depart from the United States upon the termination of the domestic employee’s duties or status, as appropriate. You must also be satisfied that such immediate family member will not seek unlawful employment while in the United States. See 9 FAM 402.3-9(B)(2) above.
 
-d. (U) You are not required to obtain an AO before refusing an A-3, C-3, G-5, or NATO-7 visa application under INA 214(b) in cases where you believe the applicant does not intend to take up the position, or where a satisfactory contract is not provided, either initially or upon your request for an amended contract. You should not hesitate to seek advice in questions of eligibility.
+d. (U) You are not required to obtain an AO before refusing an A-3, C-3, G-5, or NATO-7 visa application under INA 214(b) in cases where you believe the applicant does not intend to take up the position, or where a satisfactory contract is not provided, either initially or upon your request for an amended contract. You should not hesitate to seek advice on questions of eligibility.
 
 e. (U) Mandatory AO for Principal Applicants Under the Age of 18: You must obtain an AO from L/CA before issuing an A-3, G-5, or NATO-7 visa to a domestic employee principal applicant under the age of 18. The AO should include the date the applicant expects to begin working as a domestic employee in the United States, where the applicant will be performing such duties (state, city, and county if possible) and a description of the duties as described in the contract to allow L/CA to review local labor laws.
 
@@ -3765,7 +3765,7 @@ g. (U) Additionally, if a A-3, C-3, G-5, or NATO-7 application raises fraud conc
 
 #### 9 FAM 402.3-9(C)(1) (U) Information Pamphlet on Legal Rights of A-3, G-5, NATO-7, H, J, and Domestic Employees
 
-(CT:VISA-1852; 10-17-2023)
+(CT:VISA-2195; 07-08-2026)
 
 a. (U) The WWTVPRA requires the Secretary of State, in consultation with the Secretary of Homeland Security, the Attorney General, and the Secretary of Labor, to develop and distribute an information pamphlet and video on legal rights and available resources to applicants applying for A-3, G-5, H, or J visas, as well as to any personal or domestic employee (such as B-1 domestic or NATO-7) who is accompanying or following to join an employer. 8 U.S.C. 1375b. As a matter of policy, this information must also be provided to TN and certain interview waiver applicants in the H and J classifications.
 
@@ -3785,7 +3785,7 @@ b. (U) The contents of the information pamphlet, “Know Your Rights,” include
 
 (c) (U) The right to report abuse without retaliation;
 
-(d) (U) The right of the nonimmigrant not to relinquish possession of their passport to the employer;
+(d) (U) The right of the nonimmigrant not to relinquish possession of his or her passport to the employer;
 
 (e) (U) The requirement for an employment contract between the employer and the nonimmigrant; and
 
@@ -3799,19 +3799,19 @@ b. (U) The contents of the information pamphlet, “Know Your Rights,” include
 
 (c) (U) A general description of the types of victims’ services available for individuals subject to trafficking in persons or worker exploitation.
 
-c. (U) The pamphlet has been translated into certain foreign languages, based on the languages spoken by the greatest concentration of employment-based and education-based NIV applicants. The pamphlet is posted on the Department's travel information Web site and must be posted, in English and any relevant local language that the pamphlet has been translated into, on the Web site of every consular section. In addition to the physical pamphlet, the "Know Your Rights" pamphlet is available in the form of a Quick Response (QR) code, which permits applicants to access an online version of the information pamphlet by scanning the code with their smartphone camera. The QR code is not intended to replace the physical pamphlet, but instead, serves as an additional method of distribution and is designed to maximize the methods by which applicants receive this important information.
+c. (U) The pamphlet has been translated into certain foreign languages, based on the languages spoken by the greatest concentration of employment-based and education-based NIV applicants. The pamphlet is posted on the Department's travel information Web site and must be posted, in English and any relevant local language that the pamphlet has been translated into, on the Web site of every consular section. In addition to the physical pamphlet, the "Know Your Rights" pamphlet is available in the form of a Quick Response (QR) code, which permits applicants to access an online version of the information pamphlet by scanning the code with a smartphone camera. The QR code is not intended to replace the physical pamphlet, but instead, serves as an additional method of distribution and is designed to maximize the methods by which applicants receive this important information.
 
 #### 9 FAM 402.3-9(C)(2) (U) Your Responsibilities under the William Wilberforce Trafficking Victims Protection Act Reauthorization (WWTVPRA)
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) The WWTVPRA requires you to ensure that applicants for A-3, G-5, NATO-7, H, or J visas or a personal or domestic employee accompanying or following to join an employer (such as B-1 domestic), are made aware of their legal rights under Federal immigration, labor, and employment laws. This includes information on the illegality of slavery, peonage, trafficking in persons, sexual assault, extortion, blackmail, and worker exploitation in the United States. 8 U.S.C. 1375b(e).
+a. (U) The WWTVPRA requires you to ensure that an applicant for A-3, G-5, NATO-7, H, or J visas or a personal or domestic employee accompanying or following to join an employer (such as B-1 domestic), is made aware of his or her legal rights under federal immigration, labor, and employment laws. This includes information on the illegality of slavery, peonage, trafficking in persons, sexual assault, extortion, blackmail, and worker exploitation in the United States. 8 U.S.C. 1375b(e).
 
 During the NIV interview:
 
 (1) (U) Ask applicants if they prefer the QR code, the physical pamphlet, or both, confirm that the applicant has received, read, and understood the information prepared by the Department and offer to answer any questions the applicant may have regarding its contents; or
 
-(2) (U) If the applicant has not received, read, or understood the contents of the pamphlet, provide the information to the applicant in the manner preferred (QR code, pamphlet, or both) and verbally disclose to them the contents using a language that the applicant understands. Offer to answer any questions that the applicant may have about its contents as well as legal rights and victim services in the United States. Such a disclosure should include:
+(2) (U) If the applicant has not received, read, or understood the contents of the pamphlet, provide the information to the applicant in the manner preferred (QR code, pamphlet, or both) and verbally disclose the contents using a language that the applicant understands. Offer to answer any questions that the applicant may have about its contents as well as legal rights and victim services in the United States. Such a disclosure should include:
 
 (a) (U) The legal rights of employment-based nonimmigrants under Federal immigration, labor, and employment laws;
 
@@ -3833,7 +3833,7 @@ c. (U) You are also required to review the contents of the mandatory employment 
 
 d. (U) All applicants for A-3, G-5, or NATO-7 visas must be interviewed, regardless of whether the applicant has been issued a previous visa in the same classification to work for the same employer. Conduct the interview of an A-3, G-5, or NATO-7 applicant outside the presence of the employer or recruitment agent.
 
-e. (U) No interview is required when the A-3, G-5 or NATO-7 applicant applies to extend their stay (I-94) domestically to continue working for the same employer. However, the employee must provide a copy of the updated contract to the Department (CA/VO/DO/DL) that meets the requirements in 9 FAM 402.3-9(B)(3) paragraph c.
+e. (U) No interview is required when the A-3, G-5 or NATO-7 applicant applies to extend his or her stay (I-94) domestically to continue working for the same employer. However, the employee must provide a copy of the updated contract to the Department (CA/VO/DO/DL) that meets the requirements in 9 FAM 402.3-9(B)(3) paragraph c.
 
 #### 9 FAM 402.3-9(C)(3) (U) Suspension of Processing of A-3 and G-5 Applications from Certain Foreign Missions and International Organizations
 
@@ -3863,9 +3863,9 @@ c. (U) All visa processing posts will be advised when the Secretary has determin
 
 #### 9 FAM 402.3-10(C) (U) Diplomatic Type Visas
 
-(CT:VISA-3017; 01-02-2025)
+(CT:VISA-2195; 07-08-2026)
 
-(U) A diplomatic type visa is depicted on the visa foil under "Visa Type" with the letter "D", followed by the visa classification. Regardless of visa classification an applicant would qualify for a diplomatic type visa if they present a diplomatic passport or the equivalent of a diplomatic passport along with their application and is within one of the categories listed in 22 CFR 41.26(c).
+(U) A diplomatic type visa is depicted on the visa foil under "Visa Type" with the letter "D", followed by the visa classification. Regardless of visa classification an applicant would qualify for a diplomatic type visa if he or she present a diplomatic passport or the equivalent of a diplomatic passport along with his or her application and is within one of the categories listed in 22 CFR 41.26(c).
 
 #### 9 FAM 402.3-10(C)(1) (U) Qualifying for a Diplomatic Type Visa Under 22 CFR 41.26
 
@@ -3985,9 +3985,9 @@ c. (U) At the POE, the holder of a diplomatic type visa may receive expeditious 
 
 #### 9 FAM 402.3-10(C)(4) (U) Exemption from MRV Fees
 
-(CT:VISA-1626; 09-08-2022)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) In accordance with 22 CFR 22.1, all qualifying applicants for diplomatic type visas are exempt from the application (MRV) fee, regardless of visa classification. This includes applications submitted for either official or non-official travel. The word “qualifying” refers to an applicant who, if issued a visa, would receive a diplomatic type visa as defined in 22 CFR 41.26. In this context, the word “qualifying” is not related to whether the visa is issued or refused. Thus, if, for example, a career foreign diplomat applied for a visa using a diplomatic passport or the equivalent (which would qualify them for a diplomatic type visa under 22 CFR 41.26(c)(1)(vii)) to travel to the United States for pleasure (B visa classification), and you determine the applicant ineligible for a visa under, say, INA 214(b), the applicant would nevertheless be exempt from paying the MRV fee. If the visa were issued, it would be a diplomatic type B visa, and the applicant would be exempt from paying the MRV fee.
+a. (U) In accordance with 22 CFR 22.1, all qualifying applicants for diplomatic type visas are exempt from the application (MRV) fee, regardless of visa classification. This includes applications submitted for either official or non-official travel. The word “qualifying” refers to an applicant who, if issued a visa, would receive a diplomatic type visa as defined in 22 CFR 41.26. In this context, the word “qualifying” is not related to whether the visa is issued or refused. Thus, if, for example, a career foreign diplomat applied for a visa using a diplomatic passport or the equivalent (which would qualify him or her for a diplomatic type visa under 22 CFR 41.26(c)(1)(vii)) to travel to the United States for pleasure (B visa classification), and you determine the applicant ineligible for a visa under, say, INA 214(b), the applicant would nevertheless be exempt from paying the MRV fee. If the visa were issued, it would be a diplomatic type B visa, and the applicant would be exempt from paying the MRV fee.
 
 b. (U) In addition to the MRV fee exemption based on visa type in the preceding paragraph, there are also MRV fee exemptions based on visa classification. See 9 FAM 402.3-4(F) above.
 
@@ -4001,15 +4001,15 @@ c. (U) Applicants for diplomatic type visas are not exempt from reciprocity fees
 
 #### 9 FAM 402.3-10(D) (U) Official Type Visas
 
-(CT:VISA-1838; 09-26-2023)
+(CT:VISA-2195; 07-08-2026)
 
-(U) An official type visa is depicted on the visa foil under “Visa Type” with the letter “O”, followed by the visa classification. Regardless of visa classification, an otherwise eligible applicant would qualify for an official type visa if within one of the categories listed in 22 CFR 41.27(c). While the applicant is not required to have a diplomatic, official, service, or other passport which confirms their position or status with a foreign government or international organization to qualify for an official type visa, many applicants will have a passport reflecting their position with a foreign government or international organization when also applying for an A, C-3, G, or NATO visa and you should consider the lack of such passport when assessing the applicant’s eligibility for the visa classification sought. An applicant may still qualify for an official type visa of any visa classification if you can otherwise confirm the applicant is within one of the categories listed in 22 CFR 41.27(c). However, as noted in 9 FAM 402.3-10(D)(3) below, a diplomatic or official passport is required for the applicant to qualify for interview waiver.
+(U) An official type visa is depicted on the visa foil under “Visa Type” with the letter “O”, followed by the visa classification. Regardless of visa classification, an otherwise eligible applicant would qualify for an official type visa if within one of the categories listed in 22 CFR 41.27(c). While the applicant is not required to have a diplomatic, official, service, or other passport which confirms his or her position or status with a foreign government or international organization to qualify for an official type visa, many applicants will have a passport reflecting his or her position with a foreign government or international organization when also applying for an A, C-3, G, or NATO visa and you should consider the lack of such passport when assessing the applicant’s eligibility for the visa classification sought. An applicant may still qualify for an official type visa of any visa classification if you can otherwise confirm the applicant is within one of the categories listed in 22 CFR 41.27(c). However, as noted in 9 FAM 402.3-10(D)(3) below, a diplomatic or official passport is required for the applicant to qualify for interview waiver.
 
 #### 9 FAM 402.3-10(D)(1) (U) Qualifying for an Official Type Visa Under 22 CFR 41.27
 
-(CT:VISA-3017; 01-02-2025)
+(CT:VISA-2195; 07-08-2026)
 
-a. (U) To qualify for an official type visa (regardless of visa classification) under this section of the regulation, an applicant must be in one of the categories listed in 22 CFR 41.27(c), which includes, but is not limited to, an official who would normally qualify for a diplomatic type visa under 22 CFR 41.26(c) or an official in the A or G (other than G-3) visa classification, but cannot be issued a diplomatic type visa because they do not present a diplomatic passport or the equivalent of a diplomatic passport as required by 22 CFR 41.26 and 9 FAM 402.3-10(C)(1) above.
+a. (U) To qualify for an official type visa (regardless of visa classification) under this section of the regulation, an applicant must be in one of the categories listed in 22 CFR 41.27(c), which includes, but is not limited to, an official who would normally qualify for a diplomatic type visa under 22 CFR 41.26(c) or an official in the A or G (other than G-3) visa classification, but cannot be issued a diplomatic type visa because he or she did not present a diplomatic passport or the equivalent of a diplomatic passport as required by 22 CFR 41.26 and 9 FAM 402.3-10(C)(1) above.
 
 (1) (U) Applicants presenting the PA VIP passport must hold a position that is similar in rank to those listed at 41.27 (c)to qualify for an official type visa.
 
@@ -4047,21 +4047,21 @@ c. (U) Qualifying for an Official Type Visa Under 22 CFR 41.27(c)(1): An applica
 
 d. (U) Qualifying for an Official Type Visa Under 22 CFR 41.27(c)(2): 22 CFR 41.27(c)(2) permits the Department, the Chief of a U.S. Diplomatic Mission, the Deputy Chief of Mission (DCM), the Counselor for Consular Affairs or the principal officer of a consular post not under the jurisdiction of a diplomatic mission to authorize the issuance of an official type visa to any individual applicant or a class of applicants if the applicant does not qualify for a diplomatic type visa. In practice, this authority is used very rarely, in exceptional cases. Officers are strongly encouraged to consult CA/VO/DO/DL and CA/VO/F before exercising their authority under this section of the regulation.
 
-e. (U) For issuance of A or G visa classifications, you may place an official type A or G visa in an official passport or a regular passport. For example, if a member of the national legislature of a country that has diplomatic relations with the United States is traveling to the United States on official business, but only possesses an official or regular passport the member could be issued an A-2 official type visa.
+e. (U) For issuance of A or G visa classifications, you may place an official type A or G visa in an official passport or a regular passport. For example, if a member of the national legislature of a country that has diplomatic relations with the United States is traveling to the United States on official business but only possesses an official or regular passport the member could be issued an A-2 official type visa.
 
 f. (U) As with diplomatic type visas, submit visa cases of nationals of countries not having diplomatic relations with the United States to the Department. See 9 FAM 402.3-10(C)(3) above.
 
 #### 9 FAM 402.3-10(D)(2) (U) No Exemption from Fees
 
-(CT:VISA-2070; 09-17-2024)
+(CT:VISA-2195; 07-08-2026)
 
-(U) The exemption from MRV fees for diplomatic type visas in 9 FAM 402.3-10(C)(4) above does not apply to official type visas, unless they qualify for a fee exemption on some other basis, such as receiving an A, G, or NATO visa. See 22 CFR 22.1, 22 CFR 41.107(C), and 9 FAM 402.3-4(F). Applicants for official type visas are also not exempt from reciprocity fees based solely on their qualification for an official type visa. Look at the visa classification itself and the applicant's country of nationality to determine whether a reciprocity fee applies.
+(U) The exemption from MRV fees for diplomatic type visas in 9 FAM 402.3-10(C)(4) above does not apply to official type visas, unless the applicant qualifies for a fee exemption on some other basis, such as receiving an A, G, or NATO visa. See 22 CFR 22.1, 22 CFR 41.107(C), and 9 FAM 402.3-4(F). Applicants for official type visas are also not exempt from reciprocity fees based solely on their qualification for an official type visa. Look at the visa classification itself and the applicant's country of nationality to determine whether a reciprocity fee applies.
 
 #### 9 FAM 402.3-10(D)(3) (U) Exemption from Personal Appearance Only in Cases Where Applicant Is Applying with Diplomatic or Official Passport
 
-(CT:VISA-1681; 12-30-2022)
+(CT:VISA-2195; 07-08-2026)
 
-(U) At your discretion, personal appearance may be waived for an official type visa applicant only in cases where the applicant is applying with their diplomatic, equivalent of a diplomatic, or official passport and the visa will be placed in such passport. See 9 FAM 403.5-4(A). Waiver of personal appearance does not mean that the applicant is exempt from fingerprint requirements. The applicant must qualify for fingerprint exemption on some other basis, see 9 FAM 303.7-4(B).
+(U) At your discretion, personal appearance may be waived for an official type visa applicant only in cases where the applicant is applying with his or her diplomatic, equivalent of a diplomatic, or official passport and the visa will be placed in such passport. See 9 FAM 403.5-4(A). Waiver of personal appearance does not mean that the applicant is exempt from fingerprint requirements. The applicant must qualify for fingerprint exemption on some other basis, see 9 FAM 303.7-4(B).
 
 ---
 

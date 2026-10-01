@@ -3,7 +3,7 @@
 - Citation: Foreign Affairs Manual (FAM), U.S. Department of State
 - Volume index: https://fam.state.gov/Volumes/Details/09FAM
 - Sections mirrored: 14
-- Pulled: 2026-05-28
+- Pulled: 2026-10-01
 
 > Verbatim text reduced from fam.state.gov Word-exported HTML (windows-1252). The FAM is agency guidance, not binding law.
 
@@ -4077,9 +4077,11 @@ a. Unavailable b. Unavailable
 
 #### 9 FAM 302.5
 
-UNAVAILABLE
+Ineligibility based on National Security Grounds - INA 212(a)(3)(A) and INA 212(a)(3)(D)
 
-(CT:VISA-2159; 06-10-2025) (Office of Origin: CA/VO)
+[REDACTED]
+
+(CT:VISA-2197; 08-04-2026) (Office of Origin: CA/VO)
 
 #### 9 FAM 302.5-1 (U) Statutory and regulatory Authority
 
@@ -4101,7 +4103,7 @@ UNAVAILABLE
 
 (U) Immigration Act of 1990, Public Law 101-649.
 
-#### 9 FAM 302.5-2 UNAVAILABLE
+#### 9 FAM 302.5-2 Unavailable.
 
 (CT:VISA-2159; 06-10-2025)
 
@@ -4111,23 +4113,23 @@ UNAVAILABLE
 
 (U) INA 212(a)(3)(A)(i)(I) of the Immigration and Nationality Act (INA) renders ineligible any applicant who the consular or immigration officer knows or has reason to believe seeks to enter the United States to engage solely, principally, or incidentally in any activity which violates any United States law relating to espionage or sabotage.
 
-#### 9 FAM 302.5-2(B) UNAVAILABLE
+#### 9 FAM 302.5-2(B) UNAVAILABLE.
 
-(CT:VISA-2012; 06-13-2024)
+(CT:VISA-2159; 06-10-2025)
 
-#### 9 FAM 302.5-2(C) UNAVAILABLE
+#### 9 FAM 302.5-2(C) UNAVAILABLE.
 
-#### 9 FAM 302.5-2(C)(1) UNAVAILABLE
+#### 9 FAM 302.5-2(C)(1) UNAVAILABLE.
 
 (CT:VISA-1282; 05-14-2021)
 
-#### 9 FAM 302.5-2(C)(2) UNAVAILABLE
+#### 9 FAM 302.5-2(C)(2) UNAVAILABLE.
 
-(CT:VISA-xxxx; xx-xx-2025)
+(CT:VISA-2159; 06-10-2025)
 
-#### 9 FAM 302.5-2(C)(3) UNAVAILABLE
+#### 9 FAM 302.5-2(C)(3) UNAVAILABLE.
 
-(CT:VISA-798; 05-16-2019)
+(CT:VISA-2159; 06-10-2025)
 
 #### 9 FAM 302.5-2(D) (U) Waiver
 
@@ -4143,19 +4145,19 @@ UNAVAILABLE
 
 (U) No waiver is available for nonimmigrants found ineligible under INA 212(a)(3)(A)(i)(I) but the ineligibility applies only to current circumstances. Thus, in some cases, the ineligibility may be overcome.
 
-#### 9 FAM 302.5-2(E) UNAVAILABLE
+#### 9 FAM 302.5-2(E) UNAVAILABLE.
 
-#### 9 FAM 302.5-2(E)(1) UNAVAILABLE
-
-(CT:VISA-539; 03-26-2018)
-
-#### 9 FAM 302.5-2(E)(2) UNAVAILABLE
+#### 9 FAM 302.5-2(E)(1) UNAVAILABLE.
 
 (CT:VISA-539; 03-26-2018)
 
-#### 9 FAM 302.5-3 UNAVAILABLE
+#### 9 FAM 302.5-2(E)(2) UNAVAILABLE.
 
-(CT:VISA-xxxx; xx-xx-2025)
+(CT:VISA-539; 03-26-2018)
+
+#### 9 FAM 302.5-3 UNAVAILABLE.
+
+(CT:VISA-2159; 06-10-2025)
 
 #### 9 FAM 302.5-3(A) (U) Grounds
 
@@ -4163,9 +4165,11 @@ UNAVAILABLE
 
 (U) INA 212(a)(3)(A)(i)(II) renders ineligible any applicant who you know or have reason to believe seeks to enter the United States to engage solely, principally, or incidentally in any activity which violates or evades any law prohibiting the export from the United States of goods, technology, or sensitive information.
 
-#### 9 FAM 302.5-3(B) UNAVAILABLE
+#### 9 FAM 302.5-3(B) UNAVAILABLE.
 
-#### 9 FAM 302.5-3(B)(1) UNAVAILABLE
+(CT:VISA-2159; 06-10-2025)
+
+#### 9 FAM 302.5-3(B)(1) UNAVAILABLE.
 
 (CT:VISA-2159; 06-10-2025)
 
@@ -4175,11 +4179,19 @@ UNAVAILABLE
 
 (2) UNAVAILABLE.
 
-#### 9 FAM 302.5-3(B)(2) UNAVAILABLE
+#### 9 FAM 302.5-3(B)(2) UNAVAILABLE.
 
-(CT:VISA-2049; 08-15-2024)
+(CT:VISA-2197; 08-04-2026)
 
-#### 9 FAM 302.5-3(C) UNAVAILABLE
+#### 9 FAM 302.5-3(C) UNAVAILABLE.
+
+#### 9 FAM 302.5-3(C)(1) UNAVAILABLE.
+
+(CT:VISA-1282; 05-14-2021)
+
+#### 9 FAM 302.5-3(C)(2) UNAVAILABLE.
+
+(CT:VISA-2012; 06-13-2024)
 
 #### 9 FAM 302.5-3(D) (U) Waivers
 
@@ -4195,13 +4207,13 @@ UNAVAILABLE
 
 (U) No waiver is available for nonimmigrants found ineligible under INA 212(a)(3)(A)(i)(II). However, the ineligibility applies only to current circumstances and may be overcome.
 
-#### 9 FAM 302.5-3(E) UNAVAILABLE
+#### 9 FAM 302.5-3(E) UNAVAILABLE.
 
-#### 9 FAM 302.5-3(E)(1) UNAVAILABLE
+#### 9 FAM 302.5-3(E)(1) UNAVAILABLE.
 
 (CT:VISA-539; 03-26-2018)
 
-#### 9 FAM 302.5-3(E)(2) UNAVAILABLE
+#### 9 FAM 302.5-3(E)(2) UNAVAILABLE.
 
 (CT:VISA-539; 03-26-2018)
 
@@ -4209,19 +4221,21 @@ UNAVAILABLE
 
 #### 9 FAM 302.5-4(A) (U) Grounds
 
-(CT:VISA-2128; 02-20-2025)
+(CT:VISA-2197; 08-04-2026)
 
-(U) INA 212(a)(3)(A)(ii) makes a visa applicant ineligible if you know or have reason to believe that the applicant is traveling to the United States solely, principally, or incidentally to engage in "any other unlawful activity." Common situations may include travel to a state where the applicant’s marriage to a first cousin or a minor violates that state’s criminal law (see 9 FAM 302.5-4(B)(3)), or travel to engage in business activities related to the marijuana industry that violate federal criminal law (see 9 FAM 302.5-4(B)(4)). An applicant also may be found ineligible under this section if they are an active member of an identified criminal organization described in 9 FAM 302.5-4(B)(2).
+(U) INA 212(a)(3)(A)(ii) ("3A2") makes a visa applicant ineligible if you know or have reason to believe that the applicant is traveling to the United States solely, principally, or incidentally to engage in "any other unlawful activity." Common situations may include travel to a state where the applicant’s marriage to a first cousin or a minor violates that state’s criminal law (see 9 FAM 302.5-4(B)(3)), or travel to engage in business activities related to the marijuana industry that violate federal criminal law (see 9 FAM 302.5-4(B)(4)). An applicant also may be found ineligible under this section based on his or her active membership in an identified criminal organization described in 9 FAM 302.5-4(B)(2). An applicant who is a member of a criminal organization not described in 9 FAM 302.5-4(B)(2) still may be found inadmissible under this section if you have reason to believe that he or she seeks to engage in unlawful activity in the United States for that organization or otherwise. See 9 FAM 302.5-4(B)(2)(k).
 
-#### 9 FAM 302.5-4(B) UNAVAILABLE
+#### 9 FAM 302.5-4 (U) Application
 
-#### 9 FAM 302.5-4(B)(1) UNAVAILABLE
+(CT:VISA-2197; 08-04-2026)
 
-(CT:VISA-1583; 07-15-2022)
+#### 9 FAM 302.5-4(B)(1) UNAVAILABLE.
 
-#### 9 FAM 302.5-4(B)(2) UNAVAILABLE
+(CT:VISA-2197; 08-04-2026)
 
-(CT:VISA-2159; 06-10-2025)
+#### 9 FAM 302.5-4(B)(2) UNAVAILABLE.
+
+(CT:VISA-2197; 08-04-2026)
 
 a. (U) An INA 212(a)(3)(A)(ii) visa ineligibility may arise if you find facts supporting a reason to believe that the applicant is an active member of one of the following criminal organizations:
 
@@ -4241,25 +4255,27 @@ a. (U) An INA 212(a)(3)(A)(ii) visa ineligibility may arise if you find facts su
 
 (8) (U) Tren de Aragua;
 
-(9) (U) Comando Vermelho (CV); and
+(9) (U) Comando Vermelho (CV);
 
-(10) (U) Cártel de Sinaloa (Sinaloa).
+(10) (U) Cártel de Sinaloa (Sinaloa); and
+
+(11) (U) Jamaican Clansman Gang (CMG).
 
 b. (U) If you find there is reason to believe an applicant is an active member of one of these criminal organizations, you must deny the visa application under INA 221(g) and submit a request for an AO through the IVO or NIV system as appropriate to L/CA, except in the limited cases described below in 9 FAM 302.5-4(C). See also paragraph (f) through (i) below regarding determining membership.
 
-c. (U) Background on Criminal Organizations and 3A2 Ineligibility: As written, INA 212(a)(3)(A)(ii) is applicable to an individual entry, although the basis for applying INA 212(a)(3)(A)(ii) to active members of criminal organizations makes it a de facto permanent ground of ineligibility, unless the applicant demonstrates, to your satisfaction and with clear and compelling evidence, that they are no longer an active member of the organization. Organized crime membership became a ground of ineligibility in 1965, when then Attorney General Katzenbach concurred with a recommendation by Secretary of State Rusk that an applicant's membership in the Mafia was a sufficient basis on which to find the applicant ineligible under then INA 212(a)(27). In 1992, the Department obtained concurrence from the INS to treat Triad membership as a ground of ineligibility pursuant to INA 212(a)(3)(A)(ii). In 1995, this was extended with INS concurrence to organized crime groups operating in the former Union of Soviet Socialist Republics. By agreement with DHS in 2005, the ineligibility was extended to active members of organized Salvadoran street gangs in North America, including, but not limited to, the Mara Salvatrucha 13 (MS-13) and 18th Street gangs. By agreement with DHS in 2011, the ineligibility was extended to active members of the organized crime group known as the Yakuza, and the organized biker gangs Hells Angels, Outlaws, Bandidos, and Mongols. In 2019, the Department and DHS agreed to extend the ineligibility to active members of the transnational criminal organization known as Primeiro Comando da Capital (First Capital Command). In 2025, the ineligibility was extended to active members of the transnational criminal organizations Tren de Aragua (TdA), Comando Vermelho (CV), and Cártel de Sinaloa (Sinaloa).
+c. (U) Background on Criminal Organizations and 3A2 Ineligibility: As written, INA 212(a)(3)(A)(ii) is applicable to an individual entry, although the basis for applying INA 212(a)(3)(A)(ii) to active members of criminal organizations makes it a de facto permanent ground of ineligibility, unless the applicant demonstrates, to your satisfaction and with clear and compelling evidence, that he or she is are no longer an active member of the organization. Organized crime membership became a ground of ineligibility in 1965, when then Attorney General Katzenbach concurred with a recommendation by Secretary of State Rusk that an applicant's membership in the Mafia was a sufficient basis on which to find the applicant ineligible under then INA 212(a)(27). In 1992, the Department obtained concurrence from the INS to treat Triad membership as a ground of ineligibility pursuant to INA 212(a)(3)(A)(ii). In 1995, this was extended with INS concurrence to organized crime groups operating in the former Union of Soviet Socialist Republics. By agreement with DHS in 2005, the ineligibility was extended to active members of organized Salvadoran street gangs in North America, including, but not limited to, the Mara Salvatrucha 13 (MS-13) and 18th Street gangs. By agreement with DHS in 2011, the ineligibility was extended to active members of the organized crime group known as the Yakuza, and the organized biker gangs Hells Angels, Outlaws, Bandidos, and Mongols. In 2019, the Department and DHS agreed to extend the ineligibility to active members of the transnational criminal organization known as Primeiro Comando da Capital (First Capital Command). In 2025, the ineligibility was extended to active members of the transnational criminal organizations Tren de Aragua (TdA), Comando Vermelho (CV), and Cártel de Sinaloa (Sinaloa). In 2026, the ineligibility was extended to active members of the transnational criminal organization Jamaican Clansman Gang (CMG).
 
-d. (U) The basis for these determinations was that these groups operate as permanent organized criminal societies. Active membership in these groups indicates continuous involvement in criminal activities and, therefore, could reasonably support a conclusion that any travel by such an applicant to the United States likely will involve criminal activity, whether as a principal or incidental purpose for such travel. Therefore, while the ineligibility, as a matter of law, is related to the applicant’s intent for each specific trip, there is a reasonable basis for treating this as a blanket ineligibility applicable to every application for entry to the United States.
+d. (U) The basis for these determinations was that criminal groups having certain organizational and membership characteristics operate as permanent organized criminal societies. Active membership in any of these groups indicates continuous involvement in criminal activities and, therefore, could reasonably support a conclusion that any travel by such an applicant to the United States likely will involve criminal activity, whether as a principal or incidental purpose for such travel. Therefore, while the ineligibility, as a matter of law, is related to the applicant’s intent for each specific trip, there is a reasonable basis for treating this as a blanket ineligibility applicable to every application for entry to the United States.
 
 e. (U) 3A2 Does Not Apply If There Is No Reason to Believe the Applicant Will Engage in Unlawful Activity on Trip:
 
 (1) (U) There are some rare occasions where a finding that an applicant is a member of an identified criminal organization will not result in a finding of 3A2 ineligibility for that applicant with respect to a specific application for a specific purpose of travel. For example, if the applicant is traveling as part of an official government delegation on official business to the United Nations, a visa could be issued if there is no reason to believe the applicant intends to engage, even incidentally, in violations of United States law during that one specific trip. Similarly, the 3A2 ineligibility may not apply if the applicant was coming to cooperate with U.S. authorities in a U.S. government investigation. In such cases, you may find that the applicant does not intend to commit criminal acts in the United States.
 
-(2) (U) Also, 3A2 should not be applied to an applicant previously found to be a member of an identified organized crime group if you determine, based on clear and compelling evidence, that the applicant has ceased to be associated in any way with any criminal organization (such as might be the case with applicants who have testified against, or otherwise cooperated with investigations of, other members of a criminal organization with which the applicant had been affiliated). In any such cases, you should make clear case notes setting forth your basis for finding that the applicant was a member of such a group and describing the clear and compelling evidence that they are no longer associated with the group or otherwise involved in ongoing criminal activities.
+(2) (U) Also, 3A2 should not be applied to an applicant previously found to be a member of an identified organized crime group if you determine, based on clear and compelling evidence, that the applicant has ceased to be associated in any way with any criminal organization (such as might be the case with applicants who have testified against, or otherwise cooperated with investigations of, other members of a criminal organization with which the applicant had been affiliated). In any such cases, you should make clear case notes setting forth your basis for finding that the applicant was a member of such a group and describing the clear and compelling evidence that he or she is no longer associated with the group or otherwise involved in ongoing criminal activities.
 
 f. (U) You must request an AO via NIV or IVO if you intend to issue a visa to an active or former member of an identified criminal organization under paragraph (d) above.
 
-g. (U) Determining Membership in an Identified Criminal Organization: Ineligibility determinations must be made on a case-by-case basis, based on the totality of the circumstances. You are required to make clear findings in the case notes, setting forth in detail all the facts supporting a reason to believe that the applicant is a member of a criminal organization described in 9 FAM 302.5-4(B)(2) paragraph a, and you must identify the organization of which they are a member.
+g. (U) Determining Membership in an Identified Criminal Organization: Ineligibility determinations must be made on a case-by-case basis, based on the totality of the circumstances. You are required to make clear findings in the case notes, setting forth in detail all the facts supporting a reason to believe that the applicant is a member of a criminal organization described in 9 FAM 302.5-4(B)(2) paragraph a, and you must identify the organization of which he or she is a member.
 
 h. UNAVAILABLE.
 
@@ -4283,21 +4299,25 @@ i. (U) Factors for Consideration: In evaluating the totality of the circumstance
 
 (9) (U) Information regarding the applicant’s criminal record, especially when that information indicates participation in crimes commonly committed by the organization’s members, or arrests occurring with other members of the organization; and
 
-(10) (U) The applicant’s demeanor and credibility in answering questions on matters relevant to possible associations with identified criminal organizations, including any efforts by the applicant to evade questioning on such matters, to conceal evidence of their criminal associations or activities, or to misrepresent relevant facts.
+(10) (U) The applicant’s demeanor and credibility in answering questions on matters relevant to possible associations with identified criminal organizations, including any efforts by the applicant to evade questioning on such matters, to conceal evidence of criminal associations or activities, or to misrepresent relevant facts.
 
-j. UNAVAILABLE
+j. UNAVAILABLE.
+
+k. UNAVAILABLE.
+
+l. UNAVAILABLE.
 
 #### 9 FAM 302.5-4(B)(3) (U) Applicants Whose Marriage Violates State Law
 
 (CT:VISA-2012; 06-13-2024)
 
-(U) An applicant may be ineligible under INA 212(a)(3)(A)(ii) if they are accompanying (or following-to-join) a spouse to a state where the marriage violates state criminal law. For example, while state laws vary widely, sexual activity between an adult and a minor generally constitutes a criminal offense, and in some states marriage between the parties does not constitute a legal defense (i.e., there is no spousal exception in some states, while other states provide an exception for sexual activity between spouses). Similarly, marriages between certain family members may violate some states’ criminal incest laws. Additionally, if an applicant intends to marry another individual in the United States in a state where such marriage would be legal but will then reside in another state where such marriage may violate that state’s laws, the applicant may be ineligible under INA 212(a)(3)(A)(ii). If you find that an applicant’s marriage will violate the criminal law of the state(s) of intended residence or visit, an AO is not required to find the applicant ineligible 3A2. If you question whether a marriage violates a state law, you may submit an AO to L/CA informally via email or formally via NIV or IVO as appropriate. See 9 FAM 302.5-4(C) paragraph c below regarding AO exceptions.
+(U) An applicant may be ineligible under INA 212(a)(3)(A)(ii) if he or she is accompanying (or following-to-join) a spouse to a state where the marriage violates state criminal law. For example, while state laws vary widely, sexual activity between an adult and a minor generally constitutes a criminal offense, and in some states marriage between the parties does not constitute a legal defense (i.e., there is no spousal exception in some states, while other states provide an exception for sexual activity between spouses). Similarly, marriages between certain family members may violate some states’ criminal incest laws. Additionally, if an applicant intends to marry another individual in the United States in a state where such marriage would be legal but will then reside in another state where such marriage may violate that state’s laws, the applicant may be ineligible under INA 212(a)(3)(A)(ii). If you find that an applicant’s marriage will violate the criminal law of the state(s) of intended residence or visit, an AO is not required to find the applicant ineligible 3A2. If you question whether a marriage violates a state law, you may submit an AO to L/CA informally via email or formally via NIV or IVO as appropriate. See 9 FAM 302.5-4(C) paragraph c below regarding AO exceptions.
 
 #### 9 FAM 302.5-4(B)(4) (U) Applicants Who Seek to Participate in Activities Involving Marijuana That Are Prohibited under Federal Criminal Law
 
-(CT:VISA-1583; 07-15-2022)
+(CT:VISA-2197; 08-04-2026)
 
-(U) An applicant may be ineligible under INA 212(a)(3)(A)(ii) if they seek to participate in activities related to marijuana or the marijuana industry. Marijuana is a controlled substance under U.S. federal law, and it is unlawful to possess, manufacture, distribute, or possess with the intent to distribute a controlled substance. See 9 FAM 302.4-2(B)(2). Federal law also makes it a crime to conspire with others to engage in those acts, or to aid or abet those acts. Applicants who intend to come to the United States to participate in activities involving marijuana or the marijuana industry in violation of federal criminal law are ineligible pursuant to INA 212(a)(3)(A)(ii), regardless of whether those activities are legal or decriminalized under the law of the state where they will take place. If you find that an applicant intends to engage in such marijuana-related activities in the United States, an AO is not required to find the applicant ineligible 3A2. You should be aware that while marijuana is a controlled substance under federal law, hemp (a form of cannabis with a very low concentration of tetrahydrocannabinol (THC)) was removed from the federal list of controlled substances in 2018. The U.S. Department of Agriculture now regulates the production of hemp in the United States and allows the transfer of hemp-derived products across state lines, and it also places no restrictions on the sale, transport, or possession of hemp-derived products, so long as those items are produced in a manner consistent with the law. If you have any questions whether certain proposed activities violate U.S. federal law, you may submit an AO to L/CA informally via email or formally via NIV or IVO as appropriate. See 9 FAM 302.5-4(C) paragraph c below regarding AO exceptions.
+(U) An applicant may be ineligible under INA 212(a)(3)(A)(ii) if he or she seeks to participate in activities related to marijuana or the marijuana industry. Marijuana is a controlled substance under U.S. federal law, and it is unlawful to possess, manufacture, distribute, or possess with the intent to distribute a controlled substance. See 9 FAM 302.4-2(B)(2). Federal law also makes it a crime to conspire with others to engage in those acts, or to aid or abet those acts. Applicants who intend to come to the United States to participate in activities involving marijuana or the marijuana industry in violation of federal criminal law are ineligible pursuant to INA 212(a)(3)(A)(ii), regardless of whether those activities are legal or decriminalized under the law of the state where they will take place. If you find that an applicant intends to engage in such marijuana-related activities in the United States, an AO is not required to find the applicant ineligible 3A2. You should be aware that while marijuana is a controlled substance under federal law, hemp (a form of cannabis with a very low concentration of tetrahydrocannabinol (THC)) was removed from the federal list of controlled substances in 2018. The U.S. Department of Agriculture now regulates the production of hemp in the United States and allows the transfer of hemp-derived products across state lines, and it also places no restrictions on the sale, transport, or possession of hemp-derived products, so long as those items are produced in a manner consistent with the law. If you have any questions whether certain proposed activities violate U.S. federal law, you may submit an AO to L/CA informally via email or formally via NIV or IVO as appropriate. See 9 FAM 302.5-4(C) paragraph c below regarding AO exceptions.
 
 #### 9 FAM 302.5-4(B)(5) (U) Representatives of Taiwan
 
@@ -4317,13 +4337,13 @@ j. UNAVAILABLE
 
 (6) (U) Regional humanitarian disasters.
 
-#### 9 FAM 302.5-4(C) UNAVAILABLE
+#### 9 FAM 302.5-4(C) UNAVAILABLE.
 
-(CT:VISA-2159; 06-10-2025)
+(CT:VISA-2197; 08-04-2026)
 
 a. (U) For INA 212(a)(3)(A)(ii) cases involving applicants who are active members of an identified criminal organization, request an AO from L/CA through NIV or IVO, as appropriate unless the case meets one of the exceptions set forth in paragraph (d) below.
 
-b. UNAVAILABLE
+b. UNAVAILABLE.
 
 c. (U) An AO is not required for an INA 212(a)(3)(A)(ii) finding of ineligibility based on a marriage that violates a state’s criminal law (see 9 FAM 302.5-4(B)(3) above) or if you find the applicant will engage in criminal activities by participating in federally prohibited conduct relating to marijuana or the marijuana industry (see 9 FAM 302.5-4(B)(4) above).
 
@@ -4333,27 +4353,27 @@ d. UNAVAILABLE.
 
 #### 9 FAM 302.5-4(D)(1) (U) Waivers for Immigrants
 
-(CT:VISA-2012; 06-13-2024)
+(CT:VISA-2197; 08-04-2026)
 
-(U) No waiver is available for an immigrant found ineligible under INA 212(a)(3)(A)(ii). For an immigrant previously found ineligible under INA 212(a)(3)(A)(ii), determine if the applicant will engage, even incidentally, in other unlawful activity if permitted to enter the United States as an immigrant. For example, an applicant who intended to reside with their spouse in one state but was found ineligible for a visa because the marriage violated that state’s criminal law, may be able to establish to your satisfaction that they will reside in a different state where the marriage does not violate that state’s law. In this example, the applicant would no longer be ineligible under 3A2.
+(U) No waiver is available for an immigrant found ineligible under INA 212(a)(3)(A)(ii). For an immigrant previously found ineligible under INA 212(a)(3)(A)(ii), determine if the applicant will engage, even incidentally, in other unlawful activity if permitted to enter the United States as an immigrant. For example, an applicant who intended to reside with his or her spouse in one state but was found ineligible for a visa because the marriage violated that state’s criminal law, may be able to establish to your satisfaction that he or she will reside in a different state where the marriage does not violate that state’s law. In this example, the applicant would no longer be ineligible under 3A2.
 
 #### 9 FAM 302.5-4(D)(2) (U) Waivers for Nonimmigrants
 
-(CT:VISA-1499; 03-03-2022)
+(CT:VISA-2197; 08-04-2026)
 
-(U) No waiver is available for nonimmigrants found ineligible under INA 212(a)(3)(A)(ii). In rare cases, an applicant who was previously found ineligible under INA 212(a)(3)(A)(ii) may be found eligible if they demonstrate to your satisfaction or through clear and compelling evidence that they do not intend to engage, even incidentally, in criminal activity for this specific trip, or they are no longer associated with an identified criminal organization. See 9 FAM 302.5-4(B)(2) paragraph d and e above.
+(U) No waiver is available for nonimmigrants found ineligible under INA 212(a)(3)(A)(ii). In rare cases, an applicant who was previously found ineligible under INA 212(a)(3)(A)(ii) may be found eligible if he or she demonstrates to your satisfaction or through clear and compelling evidence that he or she does not intend to engage, even incidentally, in criminal activity for this specific trip, or he or she is no longer associated with an identified criminal organization. See 9 FAM 302.5-4(B)(2) paragraph d and e above.
 
-#### 9 FAM 302.5-4(E) UNAVAILABLE
+#### 9 FAM 302.5-4(E) UNAVAILABLE.
 
-#### 9 FAM 302.5-4(E)(1) UNAVAILABLE
+#### 9 FAM 302.5-4(E)(1) UNAVAILABLE.
 
 (CT:VISA-2012; 06-13-2024)
 
-#### 9 FAM 302.5-4(E)(2) UNAVAILABLE
+#### 9 FAM 302.5-4(E)(2) UNAVAILABLE.
 
-(CT:VISA-2124; 02-05-2025)
+(CT:VISA-2197; 08-04-2026)
 
-#### 9 FAM 302.5-5 UNAVAILABLE
+#### 9 FAM 302.5-5 UNAVAILABLE.
 
 (CT:VISA-2159; 06-10-2025)
 
@@ -4363,7 +4383,7 @@ d. UNAVAILABLE.
 
 (U) INA 212(a)(3)(A)(iii) renders ineligible any applicant who you know or have reason to believe seeks to enter the United States to engage solely, principally, or incidentally in any activity, a purpose of which is the opposition to, or the control or overthrow of, the Government of the United States by force, violence, or other unlawful means.
 
-#### 9 FAM 302.5-5(B) UNAVAILABLE
+#### 9 FAM 302.5-5(B) UNAVAILABLE.
 
 (CT:VISA-2159; 06-10-2025)
 
@@ -4371,15 +4391,15 @@ a. (U) INA 212(a)(3)(A)(iii) makes a visa applicant ineligible if the applicant 
 
 b. (U) The Department does not construe this section to cover the legitimate exercise of free speech, normal diplomatic activity, or activities related to a recognized judicial or legal process, but rather to include sedition, treason, terrorism, and overt or covert military operations against the Government of the United States.
 
-c. UNAVAILABLE
+c. UNAVAILABLE.
 
-#### 9 FAM 302.5-5(C) UNAVAILABLE
+#### 9 FAM 302.5-5(C) UNAVAILABLE.
 
-#### 9 FAM 302.5-5(C)(1) UNAVAILABLE
+#### 9 FAM 302.5-5(C)(1) UNAVAILABLE.
 
 (CT:VISA-1282; 05-14-2021)
 
-#### 9 FAM 302.5-5(C)(2) UNAVAILABLE
+#### 9 FAM 302.5-5(C)(2) UNAVAILABLE.
 
 (CT:VISA-2159; 06-10-2025)
 
@@ -4397,9 +4417,17 @@ c. UNAVAILABLE
 
 (U) No waiver is available for nonimmigrants found ineligible under INA 212(a)(3)(A)(iii) but the ineligibility applies only to current circumstances and thus may be overcome.
 
-#### 9 FAM 302.5-5(E) UNAVAILABLE
+#### 9 FAM 302.5-5(E) UNAVAILABLE.
 
-#### 9 FAM 302.5-6 UNAVAILABLE
+#### 9 FAM 302.5-5(E)(1) UNAVAILABLE.
+
+(CT:VISA-2012; 06-13-2024)
+
+#### 9 FAM 302.5-5(E)(2) UNAVAILABLE.
+
+(CT:VISA-539; 03-26-2018)
+
+#### 9 FAM 302.5-6 UNAVAILABLE.
 
 (CT:VISA-2159; 06-10-2025)
 
@@ -4445,9 +4473,9 @@ c. UNAVAILABLE
 
 (3) (U) If you determine that the membership or affiliation continued to a point within the two-year or five-year period, you should then determine whether the association is or was non-voluntary (see 9 FAM 302.5-6(B)(6) and 9 FAM 302.5-6(B)(7) below), or whether the applicant is eligible to seek an individual waiver under INA 212(a)(3)(D)(iv) (see 9 FAM 302.5-6(D)(1) below).
 
-#### 9 FAM 302.5-6(B)(4) UNAVAILABLE
+#### 9 FAM 302.5-6(B)(4) UNAVAILABLE.
 
-(CT:VISA-2159; 06-10-2025)
+(CT:VISA-2197; 08-04-2026)
 
 a. (U) In General: An IV applicant who is or has been a member of, or affiliated with, the Communist or any other totalitarian party (or subdivision or affiliate thereof), domestic or foreign, is ineligible under INA 212(a)(3)(D) unless qualifying for one of the exceptions described in 9 FAM 302.5-6(B)(5) below. Nonimmigrants are not subject to the provisions of INA 212(a)(3)(D).
 
@@ -4455,39 +4483,39 @@ b. (U) Proscribed Organizations: The term “proscribed organization” means an
 
 c. (U) Application to Non-Communist Totalitarian Parties: INA 101(a)(37) defines a totalitarian party as, "an organization which advocates the establishment in the United States of a totalitarian dictatorship or totalitarianism. The terms "totalitarian dictatorship" and "totalitarianism" mean and refer to systems of government not representative in fact, characterized by (A) the existence of a single political partly, organized on a dictatorial basis, with so close an identity between such party and its policies and the governmental policies of the country in which it exists, that the party and the government constitute and indistinguishable unit, and (B) the forcible suppression of opposition to such party." As indicated in 22 CFR 40.34(f), a former or present voluntary member of, or an applicant who was, or is voluntarily affiliated with a noncommunist party, organization, or group, or any section, subsidiary, branch, affiliate, or subdivision thereof, during the period in which the totalitarian party did not or does not advocate the establishment of totalitarian dictatorship in the United States, is not ineligible under INA 212(a)(3)(D) to receive a visa.
 
-d. UNAVAILABLE:
+d. UNAVAILABLE.:
 
-(1) UNAVAILABLE
+(1) UNAVAILABLE.
 
 (2) (U) Individual and Religious Liberty: A totalitarian party may be identified by its advocating of a regime that is “total” in scope. Totalitarian parties are generally defined by the subordination of individuals to the state and strict controls of all aspects of life by coercive measures, disfavoring individual or religious liberty. Unlike constitutionalism in the United States—which prohibits government from establishing religion or prohibiting its free exercise, or abridging the freedoms of speech, press, assembly, and petition—totalitarian parties may be identified by their conceding no such restraints to individuals or civic institutions, practicing “the forcible suppression of opposition to such party” and desire that “the party and the government constitute an indistinguishable unit.” INA 101(a)(37);
 
-(3) UNAVAILABLE
+(3) UNAVAILABLE.
 
 (4) (U) Popular Elections: “Not representative in fact” includes parties that do not allow party or government elections by a popular electorate. INA 101(a)(37). This may be identified by lack of elections or widespread reporting of election fraud or vote rigging.
 
-d. UNAVAILABLE:
+d. UNAVAILABLE.
 
-(1) UNAVAILABLE
+(1) UNAVAILABLE.
 
-(2) UNAVAILABLE
+(2) UNAVAILABLE.
 
-(3) UNAVAILABLE
+(3) UNAVAILABLE.
 
 (a) (U) The visa application;
 
 (b) (U) The applicant’s statements;
 
-(c) UNAVAILABLE;
+(c) UNAVAILABLE.
 
 (d) (U) A check of post files, CLASS or INC, or any other available outside information; and
 
 (e) (U) In third-country cases, you may consult with the appropriate consular section in the country in which the applicant holds or held party membership before making an INA 212(a)(3)(D) determination and you should ordinarily defer to the opinion of the consular officer at that post.
 
-(4) (U) Applicants Required to Divulge Memberships: In completing the DS-260, applicants must provide information on whether they are members or affiliates of a Communist or totalitarian party, and explain their membership or affiliation.
+(4) (U) Applicants Required to Divulge Memberships: In completing the DS-260, an applicant must provide information on whether he or she is a member or affiliate of a Communist or totalitarian party, and explain his or her membership or affiliation.
 
 (5) (U) If an applicant fails to respond to any questions on the form, you should obtain the missing information during the interview. Failure to provide information about membership in or affiliation with a Communist or totalitarian party to the consular officer could be a basis for finding the applicant ineligible under INA 212(a)(6)(C) for material misrepresentation. See 9 FAM 302.9-4 for application of that ineligibility ground.
 
-e. UNAVAILABLE:
+e. UNAVAILABLE.
 
 (1) (U) In General: The term affiliate as used in INA 212(a)(3)(D) and defined in 22 CFR 40.34(a) is an organization related to, or identified with, a proscribed party or association, including any section, subsidiary, branch, or subdivision thereof, in such close association as to evidence an adherence to or furtherance of the purposes and objectives of such association or party, or to indicate a working alliance to bring to fruition the purposes and objectives of such association or party. Parties that are “socialist” in name or political philosophy, or otherwise advocate communist political philosophy such as the collectivization of private property and the means of production, are an “affiliate” of a communist party under INA 212(a)(3)(D)(i) and 22 CFR 40.34(a). These parties are “related to, or identified with” a communist party “in such close association as to evidence an adherence to or a furtherance of the purposes and objectives of such association or party" because the history, philosophical foundation and development, and ultimate political objective—collectivization—is the same. Examples of such affiliates include, but are not limited to, the Socialist Unity Party of Germany, the Workers’ Party of Korea, the Korean Social Democratic Party, and the United Socialist Party of Venezuela.
 
@@ -4497,9 +4525,9 @@ e. UNAVAILABLE:
 
 (4) (U) Affiliation Does Not Require Positive Action: Advocacy for, solidarity with, or endorsement of the ideologies of the Communist or other totalitarian party constitutes affiliation with such an organization.
 
-f. UNAVAILABLE:
+f. UNAVAILABLE.
 
-(1) (U) Employment in a Communist or Totalitarian Government: As stated in 22 CFR 40.34(c), voluntary service in a political capacity constitutes affiliation with the political party or organization in power at the time of such service. Employment in a position with political or executive-level responsibilities in the government or other government-controlled organizations of a communist or communist-controlled country therefore constitutes grounds for a finding of ineligibility under INA 212(a)(3)(D). This presupposition of ineligibility, however, may be rebutted by the presentation of credible evidence that would bring the case within the exceptions discussed in 9 FAM 302.5-6(B)(5) through 9 FAM 302.5-6(B)(7) below. For applicants who are or have been employed in a position in the government or other government-controlled organization, of a communist or communist-controlled country, or totalitarian or totalitarian-controlled country, you should assess the nature of responsibilities in their position, and even if not of a political nature, assess whether their mere employment is indicative of affiliation or membership with the party as, in such countries, the party and the government constitute an indistinguishable unit.
+(1) (U) Employment in a Communist or Totalitarian Government: As stated in 22 CFR 40.34(c), voluntary service in a political capacity constitutes affiliation with the political party or organization in power at the time of such service. Employment in a position with political or executive-level responsibilities in the government or other government-controlled organizations of a communist or communist-controlled country therefore constitutes grounds for a finding of ineligibility under INA 212(a)(3)(D). This presupposition of ineligibility, however, may be rebutted by the presentation of credible evidence that would bring the case within the exceptions discussed in 9 FAM 302.5-6(B)(5) through 9 FAM 302.5-6(B)(7) below. For applicants who are or have been employed in a position in the government or other government-controlled organization, of a communist or communist-controlled country, or totalitarian or totalitarian-controlled country, you should assess the nature of responsibilities in their positions, and even if not of a political nature, assess whether mere employment is indicative of affiliation or membership with the party as, in such countries, the party and the government constitute an indistinguishable unit.
 
 (2) UNAVAILABLE.
 
@@ -4517,13 +4545,13 @@ i. (U) Applicants Previously Presumed Ineligible: In the past, nonimmigrant appl
 
 j. (U) Meaningfulness of Membership or Affiliation: In general, membership in the communist or totalitarian party is intentional and a member or affiliate of a communist or totalitarian party is aware of the party's political nature. Especially in communist and communist-controlled and totalitarian and totalitarian-controlled countries, party members are meaningfully "joining an organization known as the Communist Party which operates as a district and active political organization" (Rowoldt v. Perfetto, 355 U.S. 115, 120 (1957) (quoting Galvan v. Press, 347 U.S. 522, 529 (1954)) and are "sensible of the Party's nature as a political organization" (Gastelum-Quinones v. Kennedy, 374 U.S. 469, 467-77 (1963)). If you encounter a case wherein you doubt whether an applicant was meaningfully joining a proscribed party, send an inquiry to VO for further guidance.
 
-#### 9 FAM 302.5-6(B)(5) UNAVAILABLE
+#### 9 FAM 302.5-6(B)(5) UNAVAILABLE.
 
-(CT:VISA-2159; 06-10-2025)
+(CT:VISA-2197; 08-04-2026)
 
 a. (U) In General:
 
-(1) (U) INA 212(a)(3)(D)(iii) relieves an applicant of visa ineligibility if their membership or affiliation terminated at least:
+(1) (U) INA 212(a)(3)(D)(iii) relieves an applicant of visa ineligibility if his or her membership or affiliation terminated at least:
 
 (a) (U) Two years before the date of application for a visa or for admission; or
 
@@ -4579,9 +4607,9 @@ e. (U) Membership for Obtaining Essentials of Living:
 
 (U) When an IV applicant has been found to benefit from the relief provided by INA 212(a)(3)(D)(ii) or INA 212(a)(3)(D)(iii) this must be noted in the IVO record and in the remarks box for the Security and Background section of the Form DS-260, Online Application for Immigrant Visa and Alien Registration CCD Application Web Report.
 
-#### 9 FAM 302.5-6(C) UNAVAILABLE
+#### 9 FAM 302.5-6(C) UNAVAILABLE.
 
-#### 9 FAM 302.5-6(C)(1) UNAVAILABLE
+#### 9 FAM 302.5-6(C)(1) UNAVAILABLE.
 
 (CT:VISA-2126; 02-13-2025)
 
@@ -4591,7 +4619,7 @@ e. (U) Membership for Obtaining Essentials of Living:
 
 (U) When an applicant is applying in a country other than in which the claimed non-meaningful or non-voluntary association occurred, you may consult with, and obtain a clearance from, the appropriate post before visa issuance and note the clearance in the IVO case notes. See Reciprocity Schedule.
 
-#### 9 FAM 302.5-6(C)(3) UNAVAILABLE
+#### 9 FAM 302.5-6(C)(3) UNAVAILABLE.
 
 (CT:VISA-2159; 06-10-2025)
 
@@ -4599,13 +4627,13 @@ e. (U) Membership for Obtaining Essentials of Living:
 
 #### 9 FAM 302.5-6(D)(1) (U) Waivers for Immigrants
 
-(CT:VISA-2126; 02-13-2025)
+(CT:VISA-2197; 08-04-2026)
 
-a. (U) In General: An IV applicant who is ineligible for a visa under INA 212(a)(3)(D) may seek a waiver of inadmissibility from DHS under INA 212(a)(3)(D)(iv) if they are the parent, spouse, son, daughter, or sibling of a U.S. citizen, or the spouse, son, or daughter of an LPR for humanitarian purposes to assure family unity, or when it is otherwise in the public interest. A waiver of ineligibility may not be granted to an applicant who is a threat to the security of the United States.
+a. (U) In General: An IV applicant who is ineligible for a visa under INA 212(a)(3)(D) may seek a waiver of inadmissibility from DHS under INA 212(a)(3)(D)(iv) if he or she is the parent, spouse, son, daughter, or sibling of a U.S. citizen, or the spouse, son, or daughter of an LPR for humanitarian purposes to assure family unity, or when it is otherwise in the public interest. A waiver of ineligibility may not be granted to an applicant who is a threat to the security of the United States.
 
 b. (U) Procedures:
 
-(1) (U) Waiver Applications Submitted Directly to DHS: Instruct ineligible applicants to file their Form I-601, Application for Waiver of Ground of Ineligibility, with USCIS per the USCIS Form I-601 instructions. If the applicant also requires Form I-212, Application for Permission to Reapply for Admission into the United States After Deportation or Removal, they must submit it simultaneously with the Form I-601. Approved I-601 waivers on behalf of applicants who obtain LPR status on a conditional basis under INA 216 automatically terminate concurrently with the termination of such status, and separate notification of termination of the waiver is not required when the applicant is notified of the termination of residence under INA 216.
+(1) (U) Waiver Applications Submitted Directly to DHS: Instruct ineligible applicants to file Form I-601, Application for Waiver of Ground of Ineligibility, with USCIS per the USCIS Form I-601 instructions. If the applicant also requires Form I-212, Application for Permission to Reapply for Admission into the United States After Deportation or Removal, he or she must submit it simultaneously with the Form I-601. Approved I-601 waivers on behalf of applicants who obtain LPR status on a conditional basis under INA 216 automatically terminate concurrently with the termination of such status, and separate notification of termination of the waiver is not required when the applicant is notified of the termination of residence under INA 216.
 
 (2) (U) Your Responsibility: Interview the applicant to establish that the finding of ineligibility is fully in accord with law and regulations and that any necessary qualifying relationship exists. Your case notes should clearly and thoroughly document the findings that support each element of the ineligibility so USCIS will have available the information required to adjudicate Form I-601.
 
@@ -4621,7 +4649,15 @@ b. (U) Procedures:
 
 (U) INA 212(a)(3)(D) does not apply to NIV applicants.
 
-#### 9 FAM 302.5-6(E) UNAVAILABLE
+#### 9 FAM 302.5-6(E) UNAVAILABLE.
+
+#### 9 FAM 302.5-6(E)(1) UNAVAILABLE.
+
+(CT:VISA-2126; 02-13-2025)
+
+#### 9 FAM 302.5-6(E)(2) UNAVAILABLE.
+
+(CT:VISA-539; 03-26-2018)
 
 ---
 
