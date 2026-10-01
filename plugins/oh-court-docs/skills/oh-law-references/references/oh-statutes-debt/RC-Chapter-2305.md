@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 2305 — Statutes of Limitations + General Civil Procedure
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-2305
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 
@@ -60,7 +60,13 @@ An action to recover the title to or possession of real property shall be brough
 
 ## § 2305.041. Action for breach of oil or gas lease or license
 
-With respect to a lease or license by which a right is granted to operate or to sink or drill wells on land in this state for natural gas or petroleum and that is recorded in accordance with section 5301.09 of the Revised Code, an action alleging breach of any express or implied provision of the lease or license concerning the calculation or payment of royalties shall be brought within the time period that is specified in section 1302.98 of the Revised Code. An action alleging a breach with respect to any other issue that the lease or license involves shall be brought within the time period specified in section 2305.06 of the Revised Code.
+(A) With respect to a lease or license by which a right is granted to operate or to sink or drill wells on land in this state for natural gas or petroleum and that is recorded in accordance with section 5301.09 of the Revised Code, an action alleging breach of any express or implied provision of the lease or license concerning the calculation or payment of royalties shall be brought within the time period that is specified in section 1302.98 of the Revised Code.
+
+(B) An action alleging that a lease has terminated, is no longer in effect, or has expired shall be brought within ten years after the cause of action accrued.
+
+(C) An action alleging a breach with respect to any other issue that the lease or license involves shall be brought within the time period specified in section 2305.06 of the Revised Code.
+
+Last updated July 6, 2026 at 9:55 AM
 
 ## § 2305.05. Real estate dedicated to public uses
 
@@ -68,9 +74,9 @@ If a street or alley, or any part thereof, laid out and shown on the recorded pl
 
 ## § 2305.06. Contract in writing
 
-Except as provided in sections 126.301, 1302.98, 1303.16, 1345.10, and 2305.04 of the Revised Code, an action upon a specialty or an agreement, contract, or promise in writing shall be brought within six years after the cause of action accrued.
+Except as provided in sections 126.301, 1302.98, 1303.16, 1345.10, and 2305.04 and division (B) of section 2305.041 of the Revised Code, an action upon a specialty or an agreement, contract, or promise in writing shall be brought within six years after the cause of action accrued.
 
-Last updated April 13, 2021 at 3:03 PM
+Last updated July 6, 2026 at 9:56 AM
 
 ## § 2305.07. Contract not in writing; statutory liability; consumer transactions
 

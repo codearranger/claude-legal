@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 4141 — Unemployment Compensation
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-4141
-> **Fetched:** 2026-06-11
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 
@@ -814,7 +814,7 @@ In the payment of any contributions, a fractional part of a dollar may be disreg
 
 The director shall deny an employer's request for a waiver of interest after finding that the employer's failure to timely furnish reports or make payments as required under this chapter was due to an attempt to evade payment.
 
-(D) Any contribution, interest, forfeiture, or fine required to be paid under this chapter by any employer shall, if not paid when due, become a lien upon the real and personal property of such employer. Upon failure of such employer to pay the contributions, interest, forfeiture, or fine required to be paid under this chapter, the director shall file notice of such lien, for which there shall be no charge, in the office of the county recorder of the county in which it is ascertained that such employer owns real estate or personal property. The director shall notify the employer by mail of the lien. The absence of proof that the notice was sent does not affect the validity of the lien. Such lien shall not be valid as against the claim of any mortgagee, pledgee, purchaser, judgment creditor, or other lienholder of record at the time such notice is filed.
+(D) Any contribution, interest, forfeiture, or fine required to be paid under this chapter by any employer shall, if not paid when due, become a lien upon the real and personal property of such employer. Upon failure of such employer to pay the contributions, interest, forfeiture, or fine required to be paid under this chapter, the director shall file notice of such lien, containing the employer's name and last known address, for which there shall be no charge, in the office of the county recorder of the county in which it is ascertained that such employer owns real estate or personal property. The director shall notify the employer by mail of the lien. The absence of proof that the notice was sent does not affect the validity of the lien. Such lien shall not be valid as against the claim of any mortgagee, pledgee, purchaser, judgment creditor, or other lienholder of record at the time such notice is filed.
 
 If the employer acquires real or personal property after notice of lien is filed, such lien shall not be valid as against the claim of any mortgagee, pledgee, subsequent bona fide purchaser for value, judgment creditor, or other lienholder of record to such after-acquired property, unless the notice of lien is refiled after such property was acquired by the employer and before the competing lien attached to such after-acquired property or before the conveyance to such subsequent bona fide purchaser for value.
 
@@ -828,7 +828,7 @@ Such a notice shall be recorded in the county recorder's official records and in
 
 (H) If the attorney general finds after investigation that any claim for delinquent contributions, interest, forfeitures, or fines owing to the director is uncollectible, in whole or in part, the attorney general shall recommend to the director the cancellation of such claim or any part thereof. The director may thereupon effect such cancellation.
 
-Last updated August 7, 2025 at 3:52 PM
+Last updated March 30, 2026 at 11:16 AM
 
 ## § 4141.231. Satisfying employer's deficiency
 
@@ -912,17 +912,29 @@ If an employer or person acquires substantially all, or a clearly segregable and
 
 (K) The director shall adopt rules applicable to professional employer organizations and professional employer organization reporting entities to address the method in which a professional employer organization or professional employer organization reporting entity reports quarterly wages and contributions to the director for shared employees.
 
-(1) The rules shall recognize a professional employer organization or professional employer organization reporting entity as the employer of record of the shared employees of the professional employer organization or professional employer organization reporting entity for reporting purposes; however, the rules shall require that each shared employee of a single client employer be reported under a separate and unique subaccount of the professional employer organization or professional employer organization reporting entity to reflect the experience of the shared employees of that client employer.
+(1) The rules shall do both of the following:
 
-(2) The director shall use a subaccount solely to determine experience rates for that individual subaccount on an annual basis and shall recognize a professional employer organization or professional employer organization reporting entity as the employer of record associated with each subaccount. The director shall combine the rate experience that existed on a client employer's account prior to entering into a professional employer organization agreement with the experience accumulated as a subaccount of the professional employer organization or professional employer organization reporting entity. The combined experience shall remain with the client account upon termination of the professional employer organization agreement.
+(a) Recognize a professional employer organization or professional employer organization reporting entity as the employer of record of the shared employees of the professional employer organization or professional employer organization reporting entity for reporting purposes;
+
+(b) Except as provided in division (K)(5) of this section, require that each shared employee of a single client employer be reported under a separate and unique subaccount of the professional employer organization or professional employer organization reporting entity to reflect the experience of the shared employees of that client employer.
+
+(2) The director shall use a subaccount solely to determine experience rates for that individual subaccount on an annual basis and shall recognize a professional employer organization or professional employer organization reporting entity as the employer of record associated with each subaccount. The director may combine the rate experience that existed on a client employer's account prior to entering into a professional employer organization agreement with the experience attributable to the client employer while subject to the agreement with the professional employer organization or professional employer organization reporting entity. The combined experience may remain with the client employer's account upon termination of the professional employer organization agreement.
 
 (3) A professional employer organization or professional employer organization reporting entity shall provide a power of attorney or other evidence, which evidence may be included as part of a professional employer organization agreement, completed by each client employer of the professional employer organization or professional employer organization reporting entity, authorizing the professional employer organization or professional employer organization reporting entity to act on behalf of the client employer in accordance with the requirements of this chapter.
 
-(4) Any rule adopted pursuant to division (K) of this section also shall include administrative requirements that permit a professional employer organization or a professional employer organization reporting entity to transmit any reporting and payment data required under division (K)(1) of this section collectively as a single filing with the director.
+(4) Any rule adopted pursuant to division (K) of this section also shall include administrative requirements that permit a professional employer organization or a professional employer organization reporting entity to transmit any reporting and payment data required under division (K)(1)(b) of this section collectively as a single filing with the director.
 
-(5) As used in division (K) of this section, "client employer," "professional employer organization," "professional employer organization agreement," "professional employer organization reporting entity," and "shared employee" have the same meanings as in section 4125.01 of the Revised Code.
+(5)(a) A professional employer organization or professional employer organization reporting entity may elect to report shared employees of a client employer under the account and experience rate of the professional employer organization or professional employer organization reporting entity by giving notice to the director.
+
+(b) If a professional employer organization or professional employer organization reporting entity has made an election under division (K)(5)(a) of this section and the election has been in effect for two or more calendar years, the professional employer organization or professional employer organization reporting entity may change the election by notifying the director.
+
+(c) If a professional employer organization or professional employer organization reporting entity makes or changes an election under division (K)(5)(a) or (b) of this section, the director shall recalculate the experience rate of the professional employer organization or professional employer organization reporting entity to reflect the experience attributable to the shared employees of a client employer under the election. The recalculated rate shall be effective beginning in the calendar year following the date the director receives notice of the election.
+
+(6) As used in division (K) of this section, "client employer," "professional employer organization," "professional employer organization agreement," "professional employer organization reporting entity," and "shared employee" have the same meanings as in section 4125.01 of the Revised Code.
 
 (L) The director shall adopt rules applicable to alternate employer organizations as defined in section 4133.01 of the Revised Code that are consistent with the requirements of and rules adopted under division (K) of this section.
+
+Last updated June 26, 2026 at 5:07 PM
 
 ## § 4141.241. Nonprofit organizations as employers
 

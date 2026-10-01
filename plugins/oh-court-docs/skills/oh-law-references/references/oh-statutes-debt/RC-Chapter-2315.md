@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 2315 — Trial Procedure — Comparative Negligence (2315.33), Noneconomic-Damage Caps (2315.18), Punitive (2315.21)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-2315
-> **Fetched:** 2026-06-11
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 

@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 1309 — Uniform Commercial Code — Secured Transactions (Article 9)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-1309
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 
@@ -661,6 +661,70 @@ A security interest arising under sections 1302.42 and 1302.49, division (C) of 
 (C) The rights of the secured party after default by the debtor are governed by Chapter 1302. or 1310. of the Revised Code; and
 
 (D) The security interest has priority over a conflicting security interest created by the debtor.
+
+## § 1309.111. Control of electronic money - UCC 9-105A
+
+Control of electronic money [UCC 9-105A]
+
+(A) A person has control of electronic money if both of the following apply:
+
+(1) The electronic money, a record attached to or logically associated with the electronic money, or a system in which the electronic money is recorded gives the person both of the following:
+
+(a) Power to avail itself of substantially all the benefits from the electronic money;
+
+(b) Exclusive power, subject to division (B) of this section, to do both of the following:
+
+(i) Prevent others from availing themselves of substantially all the benefit from the electronic money;
+
+(ii) Transfer control of the electronic money to another person or cause another person to obtain control of other electronic money as a result of the transfer of the electronic money.
+
+(2) The electronic money, a record attached to or logically associated with the electronic money, or a system in which the electronic money is recorded enables the person to readily identify itself in any way, including by name, identifying number, cryptographic key, office, or account number, as having the powers under division (A)(1) of this section.
+
+(B) Subject to division (C) of this section, a power is exclusive under divisions (A)(1)(b)(i) and (ii) of this section even if either or both of the following apply:
+
+(1) The electronic money, a record attached to or logically associated with the electronic money, or a system in which the electronic money is recorded limits the use of the electronic money or has a protocol programmed to cause a change, including a transfer or loss of control;
+
+(2) The power is shared with another person.
+
+(C) A power of a person is not shared with another person under division (B)(2) of this section and the person's power is not exclusive if both of the following apply:
+
+(1) The person can exercise the power only if the power is also exercised by the other person.
+
+(2) The other person either:
+
+(a) Can exercise the power without exercise of the power by the person;
+
+(b) Is the transferor to the person of an interest in the electronic money.
+
+(D) If a person has the powers specified in divisions (A)(1)(b)(i) and (ii) of this section, the powers are presumed to be exclusive.
+
+(E) A person has control of electronic money if another person, other than the transferor to the person of an interest in the electronic money, either:
+
+(1) Has control of the electronic money and acknowledges that it has control on behalf of the person;
+
+(2) Obtains control of the electronic money after having acknowledged that it will obtain control of the electronic money on behalf of the person.
+
+Last updated September 1, 2026 at 4:04 PM
+
+## § 1309.112. Control of controllable electronic record, controllable account, or controllable payment intangible - UCC 9-107A
+
+Control of controllable electronic record, controllable account, or controllable payment intangible [UCC 9-107A]
+
+(A) A secured party has control of a controllable electronic record as provided in section 1314.105 of the Revised Code.
+
+(B) A secured party has control of a controllable account or controllable payment intangible if the secured party has control of the controllable electronic record that evidences the controllable account or controllable payment intangible.
+
+Last updated September 1, 2026 at 4:06 PM
+
+## § 1309.113. No requirement to acknowledge or confirm; no duties - UCC 9-107B
+
+No requirement to acknowledge or confirm; no duties [UCC 9-107B]
+
+(A) A person that has control under section 1309.104 or 1309.105 of the Revised Code is not required to acknowledge that it has control on behalf of another person.
+
+(B) If a person acknowledges that it has or will obtain control on behalf of another person, unless the person otherwise agrees or law other than this chapter otherwise provides, the person does not owe any duty to the other person and is not required to confirm the acknowledgment to any other person.
+
+Last updated September 1, 2026 at 4:07 PM
 
 ## § 1309.201. General effectiveness of security agreement - UCC 9-201
 
@@ -1715,6 +1779,68 @@ Except as otherwise provided in division (C) of section 1309.340 of the Revised 
 ## § 1309.342. Bank's right to refuse to enter into or disclose existence of control agreement - UCC 9-342
 
 This chapter does not require a bank to enter into an agreement of the kind described in division (A)(2) of section 1309.104 of the Revised Code, even if its customer so requests or directs. A bank that has entered into an agreement of the kind described in division (A)(2) of that section is not required to confirm the existence of the agreement to another person unless requested to do so by its customer.
+
+## § 1309.343. Perfection and priority of security interests in chattel paper - UCC 9-306A
+
+Law governing perfection and priority of security interests in chattel paper [UCC 9-306A]
+
+(A) Except as provided in division (D) of this section, if chattel paper is evidenced only by an authoritative electronic copy of the chattel paper or is evidenced by an authoritative electronic copy and an authoritative tangible copy, the local law of the chattel paper's jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in the chattel paper, even if the transaction does not bear any relation to the chattel paper's jurisdiction.
+
+(B) The following rules determine the chattel paper's jurisdiction under this section:
+
+(1) If the authoritative electronic copy of a recording evidencing chattel paper, or a record attached to or logically associated with the electronic copy and readily available for review, expressly provides that a particular jurisdiction is the chattel paper's jurisdiction for purposes of this section, this chapter, or Chapters 1301., 1302., 1303., 1304., 1305., 1307., 1308., 1309., 1310., and 1314. of the Revised Code, that jurisdiction is the chattel paper's jurisdiction.
+
+(2) If division (B)(1) of this section does not apply and the rules of the system in which the authoritative electronic copy is recorded are readily available for review and expressly provide that a particular jurisdiction is the chattel paper's jurisdiction for purposes of this section, this chapter, or Chapters 1301., 1302., 1303., 1304., 1305., 1307., 1308., 1309., 1310., and 1314. of the Revised Code, that jurisdiction is the chattel paper's jurisdiction.
+
+(3) If divisions (B)(1) and (2) of this section do not apply and the authoritative electronic copy, or a record attached to or logically associated with the electronic copy and readily available for review, expressly provides that the chattel paper is governed by the law of a particular jurisdiction, that jurisdiction is the chattel paper's jurisdiction.
+
+(4) If divisions (B)(1), (2), and (3) of this section do not apply and the rules of the system in which the authoritative electronic copy is recorded are readily available for review and expressly provide that the chattel paper or the system is governed by the law of a particular jurisdiction, that jurisdiction is the chattel paper's jurisdiction.
+
+(5) If divisions (B)(1) to (4) of this section do not apply, the chattel paper's jurisdiction is the jurisdiction in which the debtor is located.
+
+(C) If an authoritative tangible copy of a record evidences chattel paper and the chattel paper is not evidenced by an authoritative electronic copy, while the authoritative tangible copy of the record is located in a jurisdiction, the local law of that jurisdiction governs both of the following:
+
+(1) Perfection of a security interest in the chattel paper by possession under section 1309.314 of the Revised Code;
+
+(2) The effect of perfection and nonperfection and the priority of a security interest in the chattel paper.
+
+(D) The local law of the jurisdiction in which the debtor is located governs perfection of a security interest in the chattel paper by filing.
+
+Last updated September 1, 2026 at 4:49 PM
+
+## § 1309.344. Perfection and priority of security interests in controllable accounts, controllable electronic records, and controllable payment intangibles - UCC 9-306B
+
+Law governing perfection and priority of security interests in controllable accounts, controllable electronic records, and controllable payment intangibles [UCC 9-306B]
+
+(A) Except as provided in division (B) of this section, the local law of the controllable electronic record's jurisdiction specified in divisions (C) and (D) of section 1314.107 of the Revised Code governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in a controllable electronic record and a security interest in a controllable account or controllable payment intangible governed by the controllable electronic record.
+
+(B) The local law of the jurisdiction in which the debtor is located governs both of the following:
+
+(1) Perfection of a security interest in a controllable account, controllable electronic record, or controllable payment intangible by filing;
+
+(2) Automatic perfection of a security interest in a controllable payment intangible created by the sale of the controllable payment intangible.
+
+Last updated September 1, 2026 at 4:50 PM
+
+## § 1309.345. Perfection by possession and control of chattel paper - UCC 9-314A
+
+Perfection by possession and control of chattel paper [UCC 9-314A]
+
+(A) A secured party may perfect a security interest in chattel paper by taking possession of each authoritative tangible copy of the record evidencing the chattel paper and obtaining control of each authoritative electronic copy of the electronic record evidencing the chattel paper.
+
+(B) A security interest is perfected under division (A) of this section not earlier than the time the secured party takes possession and obtains control and remains perfected under division (A) of this section only while the secured party retains possession and control.
+
+(C) Divisions (C), (F), (G), (H), and (I) of section 1309.313 of the Revised Code apply to perfection by possession of an authoritative tangible copy of a record evidencing chattel paper.
+
+Last updated September 1, 2026 at 4:51 PM
+
+## § 1309.346. Priority of security interest in controllable account, controllable electronic record, and controllable payment intangible - UCC 9-326A
+
+Priority of security interest in controllable account, controllable electronic record, and controllable payment intangible [UCC 9-326A]
+
+A security interest in a controllable account, controllable electronic record, or controllable payment intangible held by a secured party having control of the account, electronic record, or payment intangible has priority over a conflicting security interest held by a secured party that does not have control.
+
+Last updated September 1, 2026 at 4:51 PM
 
 ## § 1309.401. Alienability of debtor's rights - UCC 9-401
 

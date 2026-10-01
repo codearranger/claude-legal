@@ -1,7 +1,7 @@
 # Rules for the Government of the Bar of Ohio (Gov. Bar R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/govbar/govbar.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;
@@ -26,7 +26,7 @@ X    Continuing Legal Education
 XI   Limited Practice of Law by Foreign Legal Consultants
 XII  Pro Hac Vice Admission
 XIII [Reserved]
-XIV Certification of Attorneys as Specialists
+XIV [Reserved]
 XV   Supreme Court Commission on Professionalism
 XVI Lawyer Referral and Information Services; Legal Services Plans
 XVII [Reserved]
@@ -47,6 +47,13 @@ Appendix VIII:   Regulations Governing Procedure on Complaints and Hearings Befo
 
 RULE I.        ADMISSION TO THE PRACTICE OF LAW
 
+       Definitions
+
+       As used in the Supreme Court Rules for the Government of the Bar of Ohio:
+
+      “Accrediting Agency” means an accrediting agency recognized by the United States
+Department of Education.
+
        Section 1.      General Requirements.
 
        To be admitted to the practice of law in Ohio, an applicant shall satisfy all of the following
@@ -54,13 +61,13 @@ requirements:
 
        (A)      Be at least twenty-one years of age;
 
-       (B)      Have earned a bachelor’s degree or doctoral-level degree from an accredited
-college or university;
+       (B)      Have earned a bachelor’s degree or doctoral-level degree from a college or
+university accredited by an accrediting agency;
 
-        (C)      Have earned a J.D. or an L.L.B. degree from a law school that was approved by
-the American Bar Association at the time the degree was earned or, if not located in the United
-States, from a law school evaluated and approved in accordance with Sections 2(C), 10(C)(12), or
-11(B)(7) of this rule;
+        (C)     Have earned a J.D. or an L.L.B. degree from a law school that was approved by
+an accrediting agency at the time the degree was earned or, if not located in the United States, from
+a law school evaluated and approved in accordance with Sections 2(C), 10(C)(11), or 11(B)(6) of
+this rule;
 
         (D)     Prior to taking the Ohio bar examination, being admitted without examination
 pursuant to Section 10 of this rule, or being admitted by transferred Uniform Bar Examination
@@ -89,9 +96,8 @@ Admissions and shall include all of the following:
         (1)      A certificate from the dean of the law school the applicant is attending, certifying
 that the applicant has begun the study of law;
 
-       (2)     A properly authenticated transcript of college credits showing the applicant has
+        (2)     A properly authenticated transcript of college credits showing the applicant has
 earned a bachelor’s degree in compliance with Section 1(B) of this rule or a certificate from the
-
 dean of the law school the applicant is attending, certifying that the applicant is participating in a
 three-plus-three program;
 
@@ -116,7 +122,7 @@ whether the education is equivalent to the education required of applicants educ
 States. In order to receive a review of education received outside of the United States, an applicant
 must submit the following documents with the registration application:
 
-         (1) If an applicant’s undergraduate education was not received in the United States, the
+          (1) If an applicant’s undergraduate education was not received in the United States, the
 applicant must submit an education evaluation completed by an education evaluation service
 approved by the Court. The applicant’s education evaluation from an education evaluation service
 must show that the applicant has completed at least three years of fulltime post-secondary
@@ -127,19 +133,18 @@ educational evaluation showing that the applicant’s secondary education includ
 to one year of undergraduate study. The registration application shall be processed while the
 applicant’s undergraduate education is evaluated.
 
-        (2)    If an applicant’s legal education was not received in the United States, the applicant
+       (2)     If an applicant’s legal education was not received in the United States, the applicant
 must submit an education evaluation completed by an education evaluation service approved by
 the Court and a properly authenticated transcript showing successful completion of thirty credit
-hours of courses taken at a law school approved by the American Bar Association. Twenty of the
-thirty hours of coursework must be chosen from a list of courses specified by the Court; the
-remaining ten hours of coursework do not have to be chosen from the list of courses. The thirty
-hours of coursework must be completed within a period not greater than forty-eight calendar
-months. The applicant’s education evaluation from an education evaluation service must show
-that the applicant has completed at least three years of fulltime post-secondary formal legal
-education and received a law degree in order for the Court to find legal educational equivalence.
-The registration application shall not be processed until the applicant’s legal education is approved
-by the Court.
+hours of courses taken at a law school approved by an accrediting agency. Twenty of the thirty
+hours of coursework must be chosen from a list of courses specified by the Court; the remaining
+ten hours of coursework do not have to be chosen from the list of courses. The thirty hours of
 
+coursework must be completed within a period not greater than forty-eight calendar months. The
+applicant’s education evaluation from an education evaluation service must show that the applicant
+has completed at least three years of fulltime post-secondary formal legal education and received
+a law degree in order for the Court to find legal educational equivalence. The registration
+application shall not be processed until the applicant’s legal education is approved by the Court.
         (D)     If an applicant does not file a complete registration application on or before the
 fifteenth day of November in the applicant’s second year of law school, the applicant shall pay an
 additional late fee of two hundred dollars.
@@ -178,11 +183,11 @@ immediately preceding the examination.
       (B)    The examination application shall be on forms furnished by the Office of Bar
 Admissions and shall include all of the following:
 
-       (1)    An affidavit that the applicant has read and studied the Rules for the Government
+       (1)     An affidavit that the applicant has read and studied the Rules for the Government
 of the Bar of Ohio, the Ohio Rules of Professional Conduct, and the Code of Judicial Conduct
 adopted by the Court;
 
-       (2)     An affidavit that the applicant has not engaged in the unauthorized practice of law;
+        (2)     An affidavit that the applicant has not engaged in the unauthorized practice of law;
 
         (3)    A certificate signed by the dean or associate dean of the applicant’s law school
 certifying that the signatory does not have knowledge of any information that would cause
@@ -193,7 +198,7 @@ by the Board of Commissioners on Character and Fitness, updating the information
 applicant’s character, fitness, and moral qualifications furnished on the applicant’s registration
 application pursuant to Section 2 of this rule;
 
-       (5)     A fee in the amount charged by the NCBE for the UBE components;
+        (5)     A fee in the amount charged by the NCBE for the UBE components;
 
          (6)     A fee of three hundred thirty dollars if the examination application is filed on or
 before the dates set forth in division (A) of this section. The fee shall be four hundred thirty dollars
@@ -228,14 +233,13 @@ certifying that the applicant has received a law degree, has sufficient knowledg
 discharge the duties of an attorney at law, and has successfully completed a course of not fewer
 than ten classroom hours of instruction in legal ethics;
 
-        (2)     A certificate from a law school or a continuing legal education sponsor, certifying
+         (2)    A certificate from a law school or a continuing legal education sponsor, certifying
 that the applicant has received at least one hour of instruction on substance abuse, including causes,
-
 prevention, detection, and treatment alternatives. Substance abuse instruction that is provided by
 a continuing legal education sponsor qualifies under this section only if it has been accredited by
 the Commission on Continuing Legal Education as an approved activity under Gov. Bar R. X.
 
-       (3)    A properly authenticated transcript of college credits showing the applicant has
+       (3)     A properly authenticated transcript of college credits showing the applicant has
 earned a bachelor’s degree in compliance with Section 1(B) of this rule if the applicant earned the
 bachelor’s degree through a three-plus-three program.
 
@@ -258,27 +262,10 @@ law. The applicant shall not be admitted to the practice of law unless the Board
 approval of the applicant’s character, fitness, and moral qualifications no fewer than six months
 before the applicant’s admission.
 
-       (H)     As used in this rule:
-
-        (1)    “Accredited college or university” means a college or university approved by one
-of the following accrediting associations or, if not located in the United States or Canada, a college
-or university evaluated and approved in accordance with Sections 2(C), 10(C)(12), or 11(B)(7) of
-this rule: Middle States Association of Colleges and Schools/Commission on Higher Education;
-New England Association of Schools and Colleges--Commission on Institutions of Higher
-Education; Higher Learning Commission; Northwest Association of Schools and Colleges;
-Southern Association of Colleges and Schools--Commission on Colleges; Western Association of
-Schools and Colleges--Accrediting Commission for Senior Colleges; and Universities Canada.
-
-        (2)    “Three-plus-three program” means an education program requiring six years of
-full-time study through which an individual earns a bachelor’s degree from an accredited college
-or university while simultaneously earning a J.D. or an L.L.B. degree from a law school approved
-by the American Bar Association at the time the J.D. or L.L.B. degree is earned.
-
        Section 4.      Bar Examiners; Readers.
 
-       (A)   The Board of Bar Examiners shall be appointed by the Court and shall consist of
+        (A)      The Board of Bar Examiners shall be appointed by the Court and shall consist of
 eighteen members of the bar of Ohio in good standing. The term of office of each bar examiner
-
 shall be five years, beginning the first day of November immediately following the appointment.
 No bar examiner shall be appointed to more than two full terms of office. Vacancies for any cause
 shall be filled by appointment by the Court for the unexpired term. Such partial term appointment
@@ -322,10 +309,9 @@ supervise the readers.
 
        Section 5.      Ohio Bar Examination.
 
-       (A)     Two Ohio bar examinations shall be held each year in Ohio, one commencing in
+        (A)     Two Ohio bar examinations shall be held each year in Ohio, one commencing in
 February and one commencing in July. The examinations shall be the UBE prepared by the NCBE
 and shall be scheduled consistent with the dates designated by the NCBE for administration of the
-
 UBE. The UBE shall consist of the Multistate Essay Examination (MEE), two Multistate
 Performance Test (MPT) items, and the Multistate Bar Examination (MBE), which are
 administered in four half-day sessions over a period of two days. The UBE covers such subjects
@@ -339,6 +325,7 @@ the MEE and the MPT, shall be graded under the direction of the Board of Bar Exa
 Board shall adopt rules and policies for grading that are consistent with the sound testing practices
 followed by all jurisdictions that administer the UBE. The rules shall include a provision for the
 NCBE to covert the raw scores on the written portion of an examination to the MBE scale by the
+
 methodology used for UBE jurisdictions. The rules also shall include a provision for regrading of
 the written portion of the examination, prior to announcement of examination results, for any
 applicant whose total examination score after scaling falls within two points below the minimum
@@ -386,7 +373,7 @@ and shall pay the fee for the MPRE to the NCBE.
        (C)     Subject to the Court’s approval, the Board of Bar Examiners shall determine and
 publish the scaled score necessary to pass the MPRE.
 
-       Section 7.     Ohio Law Component.
+       Section 7.      Ohio Law Component.
 
         (A)     Before being admitted to the practice of law in Ohio by examination or by
 transferred UBE score, an applicant shall take and pass the Ohio Law Component prepared and
@@ -400,7 +387,7 @@ necessary to pass the Ohio Law Component.
 
        (C)     An applicant shall pay any fee associated with the Ohio Law Component.
 
-       Section 8.     Application for Reexamination.
+       Section 8.      Application for Reexamination.
 
          (A)    An applicant who has failed and seeks to retake an Ohio bar examination shall file
 with the Office of Bar Admissions an Application for Reexamination. A reexamination
@@ -459,7 +446,7 @@ reexamination application, including the supplemental reexamination character qu
 to report promptly to the Office of Bar Admissions all changes or additions to the information in
 the application that occur prior to the applicant’s admission to practice.
 
-       Section 9.      Induction to the Bar.
+       Section 9.     Induction to the Bar.
 
        (A)     Each applicant accepted for admission to the practice of law in Ohio shall take the
 following oath of office:
@@ -495,7 +482,7 @@ of Bar Admissions, shall be executed and returned to the Office of Bar Admission
 
        (1)     “Active practice of law” means one or more of the following:
 
-        (a)    Private practice as a sole practitioner or for a law firm, legal services office, legal
+        (a)     Private practice as a sole practitioner or for a law firm, legal services office, legal
 clinic, or similar entity, provided such practice was performed in a jurisdiction in which the
 applicant was admitted or in a jurisdiction that affirmatively permitted such practice by a lawyer
 not admitted to practice in that jurisdiction;
@@ -505,7 +492,6 @@ not admitted to practice in that jurisdiction;
          (c)     Practice as an attorney for a corporation, partnership, trust, individual, or other
 entity, provided such practice was performed in a jurisdiction in which the applicant was admitted
 or in a jurisdiction that affirmatively permitted such practice by a lawyer not admitted to practice
-
 in that jurisdiction and involved the primary duties of furnishing legal counsel, drafting legal
 documents and pleadings, interpreting and giving advice regarding the law, or preparing, trying,
 or presenting cases before courts, tribunals, executive departments, administrative bureaus, or
@@ -518,8 +504,8 @@ military, or a state or local government with the same primary duties as describ
         (e)     Employment as a judge, magistrate, referee, or similar official for the federal or a
 state or local government, provided that such employment is available only to attorneys;
 
-       (f)    Fulltime employment as a teacher of law at a law school approved by the American
-Bar Association.
+       (f)     Fulltime employment as a teacher of law at a law school approved by an accrediting
+agency.
 
         (2)      “Jurisdiction” means a state of the United States, the District of Columbia, Puerto
 Rico, the United States Virgin Islands, or any territory or insular possession subject to the
@@ -555,17 +541,17 @@ years of applying for admission without examination;
         (6)     The applicant satisfies the general admission requirements of Section 1(A) through
 (D) of this rule;
 
-       (7)     If applicable, the applicant has registered pursuant to Gov. Bar R. VI, Section 3.
+        (7)     If applicable, the applicant has registered pursuant to Gov. Bar R. VI, Section 3.
 
         (C)    An applicant for admission to the practice of law in Ohio without examination shall
 file with the Office of Bar Admissions an “Application for Admission to the Practice of Law
 Without Examination.” The application shall include all of the following:
 
-       (1)     An affidavit stating all of the following:
+        (1)     An affidavit stating all of the following:
 
-       (a)     That the applicant has not engaged in the unauthorized practice of law;
+        (a)     That the applicant has not engaged in the unauthorized practice of law;
 
-      (b)      That the applicant has studied the Rules for the Government of the Bar of Ohio, the
+      (b)     That the applicant has studied the Rules for the Government of the Bar of Ohio, the
 Ohio Rules of Professional Conduct, and the Code of Judicial Conduct, all as adopted by the Court;
 
        (c)     That the applicant is a citizen or a resident alien of the United States;
@@ -628,7 +614,7 @@ applicant’s admission to practice.
        (F)(1) The Court shall review the application and in its sole discretion shall approve or
 disapprove the application. In reaching its decision, the Court shall consider both of the following:
 
-       (a)     Whether the applicant has met the requirements of division (B) of this section;
+        (a)     Whether the applicant has met the requirements of division (B) of this section;
 
        (b)     Whether the applicant’s past practice of law is of such character, description and
 recency as shall satisfy the Court that the applicant currently possesses the legal skills deemed
@@ -642,9 +628,8 @@ presented to the Court in regular session by an attorney at law of this State or
 and take an oath of office administered by an active Ohio judge or a justice from the highest court
 in a jurisdiction in which the applicant is admitted.
 
-      (2)    Upon approval of the applicant for admission under this Section, the Office of Bar
+        (2)    Upon approval of the applicant for admission under this Section, the Office of Bar
 Admissions shall schedule the presentation before the Court or provide the applicant an affidavit
-
 for administration of the oath before an eligible judge or justice. Should the applicant choose to
 be presented to the Court, it shall be the applicant’s responsibility to notify the presenting attorney.
 The presentation shall be allotted two minutes and the applicant and the presenting attorney shall
@@ -659,7 +644,7 @@ to the presentation of the applicant to the Court pursuant to division (G) of th
 division does not apply to participation by an attorney not yet admitted to practice in Ohio in a
 cause being litigated in Ohio when such participation is with leave of the judge hearing such cause.
 
-       Section 11.     Admission by Transferred UBE Score.
+        Section 11.     Admission by Transferred UBE Score.
 
        (A)     An applicant may apply for admission to the practice of law in Ohio by filing an
 Application to Transfer UBE score if all of the following apply:
@@ -705,6 +690,7 @@ investigation of the applicant;
 of this rule. If the applicant’s undergraduate or legal education was not received in the United
 States, a one hundred and fifty dollar fee shall accompany the application for evaluation of the
 applicant’s foreign education. If the applicant’s legal education was not received in the United
+
 States, the application shall not be processed until the applicant’s legal education is approved by
 the Court.
 
@@ -810,7 +796,7 @@ been admitted to the practice of law and alleging that the applicant made a mate
 statement in, or deliberately failed to disclose any material fact in connection with, the applicant’s
 application for admission to the practice of law.
 
-       Section 13.     Character Investigation by Admissions Committees.
+        Section 13.     Character Investigation by Admissions Committees.
 
          (A)    The president of each local bar association shall appoint an admissions committee,
 provided, however, that the local bar association permits the membership of any attorney
@@ -825,7 +811,7 @@ information, updated as necessary:
        (1)   The names, addresses, telephone numbers, and terms of all members of the
 admissions committee;
 
-       (2)     Designation of chair of the admissions committee;
+        (2)     Designation of chair of the admissions committee;
 
        (3)     The name, address, and telephone number of the admissions committee
 representative who shall be responsible for receipt of material forwarded by the Office of Bar
@@ -840,6 +826,7 @@ hearings conducted by the Board’s duly designated panels pursuant to this rule
        (C)(1) Upon receipt of an applicant’s complete Application to Register as a Candidate for
 Admission to the Practice of Law filed under Section 2 of this rule, Application for Admission by
 Transferred UBE Score pursuant to Section 11 of this rule, or, if applicable, Application for
+
 Admission to the Practice of Law Without Examination filed under Section 10 of this rule, the
 Office of Bar Admissions shall forward one copy of the applicant’s character questionnaire to the
 NCBE for a character investigation and report. Upon receipt of this report, the Office of Bar
@@ -871,7 +858,6 @@ answer on the character questionnaire should be changed or supplemented because 
 occurring after the date on which the character questionnaire was originally signed by the applicant
 and notarized. A member of an admissions committee shall not interview an applicant or otherwise
 participate in an admissions committee’s investigation or recommendation of an applicant if it is
-
 reasonable to expect that the member’s judgment will be, or could be, affected by such member’s
 own financial, business, property, or personal interest or other conflict of interest.
 
@@ -890,13 +876,13 @@ before the admissions committee may be grounds for a recommendation of disapprov
        (2)     The admissions committee shall determine an applicant’s character, fitness, and
 moral qualifications in accordance with all of the following:
 
-       (a)     The provisions of this rule;
+        (a)    The provisions of this rule;
 
-       (b)     The applicable decisions of the Supreme Court of the United States;
+        (b)    The applicable decisions of the Supreme Court of the United States;
 
-       (c)     The applicable decisions of the Supreme Court of Ohio;
+        (c)    The applicable decisions of the Supreme Court of Ohio;
 
-       (d)    Any standards of conduct promulgated by the Board and approved by the Court
+       (d)     Any standards of conduct promulgated by the Board and approved by the Court
 under Section 12(B)(2)(b) of this rule.
 
          (3)     An applicant may be approved for admission if the applicant’s record of conduct
@@ -908,16 +894,16 @@ disapproval of the applicant. Factors to be considered carefully by the admissio
 before making a recommendation about an applicant’s character, fitness, and moral qualifications
 shall include, but are not limited to, all of the following:
 
-       (a)     Commission or conviction of a crime, subject to division (D)(5) of this section;
+        (a)    Commission or conviction of a crime, subject to division (D)(5) of this section;
 
-       (b)     Evidence of an existing and untreated chemical (drug or alcohol) dependency;
+        (b)    Evidence of an existing and untreated chemical (drug or alcohol) dependency;
 
-       (c)     Commission of an act constituting the unauthorized practice of law;
+        (c)    Commission of an act constituting the unauthorized practice of law;
 
       (d)      Violation of the honor code of the applicant’s law school or any other academic
 misconduct;
 
-       (e)     A pattern of disregard of the laws of this state, another state, or the United States;
+        (e)    A pattern of disregard of the laws of this state, another state, or the United States;
 
         (f)    Failure to provide complete and accurate information concerning the applicant’s
 past;
@@ -945,25 +931,25 @@ and moral qualifications of an applicant qualify the applicant for admission to 
 In making this determination, the following factors shall be considered in assigning weight and
 significance to the applicant’s prior conduct:
 
-        (a)    Age of the applicant at the time of the conduct;
+       (a)     Age of the applicant at the time of the conduct;
 
-        (b)    Recency of the conduct;
+       (b)     Recency of the conduct;
 
-        (c)    Reliability of the information concerning the conduct;
+       (c)     Reliability of the information concerning the conduct;
 
-        (d)    Seriousness of the conduct;
+       (d)     Seriousness of the conduct;
 
-        (e)    Factors underlying the conduct;
+       (e)     Factors underlying the conduct;
 
-        (f)    Cumulative effect of the conduct;
+       (f)     Cumulative effect of the conduct;
 
-        (g)    Evidence of rehabilitation;
+       (g)     Evidence of rehabilitation;
 
-        (h)    Positive social contributions of the applicant since the conduct;
+       (h)     Positive social contributions of the applicant since the conduct;
 
-        (i)    Candor of the applicant in the admissions process;
+       (i)     Candor of the applicant in the admissions process;
 
-        (j)    Materiality of any omissions or misrepresentations.
+       (j)     Materiality of any omissions or misrepresentations.
 
         (5)(a) If an applicant has been convicted of a felony under the laws of this state, the laws
 of the United States, or the laws of another state or territory of the United States, or adjudicated a
@@ -977,8 +963,9 @@ but in no event may an applicant be approved before being released from parole, 
 community control, post-release control, or prison if no post-release control or parole was
 maintained;
 
-        (ii)    If the applicant was convicted in this state, whether the rights and privileges of the
+       (ii)    If the applicant was convicted in this state, whether the rights and privileges of the
 applicant that were forfeited by conviction have been restored by operation of law, expungement,
+
 or pardon under the laws of Ohio; or, if the applicant was convicted under the laws of the United
 States or the laws of another state or territory, whether the applicant would be eligible to have his
 rights and privileges restored under the laws of Ohio if convicted in this state for the same offense;
@@ -1008,9 +995,8 @@ race, color, national origin, or religion of the applicant;
          (b)    Disability of the applicant, provided that the applicant, though disabled, is able to
 satisfy the essential eligibility requirements for the practice of law.
 
-        (E)    After reviewing the character questionnaire and the report of the NCBE,
+         (E)     After reviewing the character questionnaire and the report of the NCBE,
 interviewing the applicant, and conducting any further investigation, the admissions committee
-
 shall file with the Office of Bar Admissions a written report with its recommendations on a form
 prescribed by the Board.
 
@@ -1034,7 +1020,7 @@ provided to it and ensure that it returns to the Office of Bar Admissions all Bo
 that it completes as part of the character and fitness process. Under no circumstances shall an
 admissions committee provide these documents to the applicant or any other person.
 
-       Section 14.     Appeal to Board of Commissioners on Character and Fitness.
+        Section 14.     Appeal to Board of Commissioners on Character and Fitness.
 
         (A)     If an admissions committee makes a recommendation other than an unqualified
 approval, or if the Board of Commissioners on Character and Fitness is required to review the
@@ -1057,7 +1043,6 @@ withdrawn.
         (C)(1) Upon receipt of a notice of appeal that has been timely filed, the secretary shall, by
 entry, appoint a panel consisting of three commissioners and designate one of them chair of the
 panel. No commissioner appointed to the panel shall be from the appellate district in which the
-
 admissions committee that made the recommendation is located. Except with the applicant’s
 consent, a commissioner shall not sit as a member of a hearing panel or otherwise participate in
 the Board’s investigation or recommendation of an applicant if it is reasonable to expect that the
@@ -1094,7 +1079,7 @@ accordingly.
 The parties and their counsel shall cooperate with the panel and shall not keep relevant information
 from the panel.
 
-       (6)     The burden of proof in such hearings shall be on the applicant to establish by clear
+        (6)    The burden of proof in such hearings shall be on the applicant to establish by clear
 and convincing evidence the applicant’s present character, fitness, and moral qualifications for
 admission to the practice of law in Ohio. An applicant’s failure to provide requested information,
 including information regarding expungements and juvenile court proceedings, or otherwise to
@@ -1104,7 +1089,7 @@ cooperate in proceedings before the Board may be grounds for a recommendation of
 Board or panel may proceed with its own investigation of the applicant, and base its
 recommendation on the results.
 
-      (8)    The Board may remand any matter on appeal to a local or regional admissions
+      (8)     The Board may remand any matter on appeal to a local or regional admissions
 committee with directions for further investigation by that committee with a report to the Board.
 
         (D)     An applicant reviewed by the Board will be approved only if the applicant receives
@@ -1162,8 +1147,9 @@ application for admission to the practice of law in another jurisdiction;
 
        (5)     Pursuant to divisions (C) and (D) of this section.
 
-        (B)    This section applies to members, employees, and agents of the Supreme Court;
+     (B)    This section applies to members, employees, and agents of the Supreme Court;
 members, employees, and agents of the Board of Commissioners on Character and Fitness;
+
 members and employees of local and regional admissions committees and the employees of the
 members of such committees; employees of local or regional bar associations; court reporters
 retained for character and fitness hearings or proceedings; witnesses; and attorneys representing
@@ -1214,104 +1200,69 @@ for admission to the practice of law by Ohio Bar Examination since the list was 
 The Court shall distribute copies of the list to all regional and local bar association admissions
 committees.
 
-       Section 18.     Military Spouse Attorneys Admission.
+        Section 18.    Military and Military Spouse Attorneys Admission.
 
         (A)    An applicant may apply for temporary admission to the practice of law in Ohio as
-a military spouse attorney pursuant to division (B) of this section if all of the following concerning
-the applicant apply:
+a military or military spouse attorney pursuant to division (B) of this section if all of the following
+concerning the applicant apply:
 
-       (1)    Is present in Ohio as the spouse of an active service member of the United States
-armed forces assigned to a military installation within the state;
+        (1)    Is licensed to practice law in another State, the District of Columbia, Puerto Rico,
+the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction
+of the United States;
 
-       (2)     Has earned a bachelor’s degree from an accredited college or university or, if not
-located in the United States, from a college or university evaluated and approved in accordance
-with division (B)(3) of this section;
+        (2)    Is present in Ohio, either as an active service member of the United States armed
+forces assigned to a military installation within the state or the spouse of such person;
 
-       (3)    Has earned a J.D. or an L.L.B. degree from a law school that was approved by the
-American Bar Association at the time the degree was earned or, if not located in the United States,
-from a law school evaluated and approved in accordance with division (B)(3) of this section;
+       (3)     Is in good standing in all jurisdictions in which the applicant is admitted or has been
+admitted to the practice of law;
 
-       (4)     Has not taken and failed an Ohio bar examination;
+        (4)     Is not currently subject to discipline or the subject of a pending disciplinary matter
+in any jurisdiction in which the applicant is admitted or has been admitted to the practice of law;
 
-       (5)     Is not admitted to the practice of law in this state;
-
-       (6)     Has not engaged in the unauthorized practice of law;
-
-       (7)     Is a citizen or a resident alien of the United States;
-
-        (8)    Has taken and passed a bar examination and has been admitted as an attorney at
-law in the highest court of another state or in the District of Columbia;
-
-        (9)    Is in good standing in all jurisdictions in which the applicant is admitted to the
-practice of law;
-
-        (10) Is not currently subject to discipline or the subject of a pending disciplinary matter
-in any jurisdiction in which the applicant is admitted to the practice of law;
-
-        (11)    Has not resigned from the practice of law with discipline pending in any
+        (5)     Has not resigned from the practice of law with discipline pending in any
 jurisdiction;
 
-        (12) Has not voluntarily or involuntarily relinquished a license to practice law in any
-jurisdiction in order to avoid discipline or as a result of discipline imposed by a relevant authority;
+        (6)     Has not voluntarily relinquished a license to practice law in any jurisdiction while
+the subject of a pending disciplinary matter;
 
-       (13) Has not been disciplined for professional misconduct within the past ten years or
-been disbarred by any jurisdiction.
+        (7)     Has not been disciplined or disbarred by any jurisdiction.
 
        (B)     An applicant for temporary admission to the practice of law in Ohio as a military
-spouse attorney shall file an application with the Office of Bar Admissions. The application shall
-be on a form furnished by the office and include all of the following:
+or military spouse attorney shall file an application with the Bar Admissions Section. The
+application shall be on a form furnished by the office and include all of the following:
 
         (1)     An affidavit from the applicant stating all of the following:
 
-        (a)     The applicant has not engaged in the unauthorized practice of law;
+        (a)     The applicant is the person described and identified in the application;
 
-        (b)     The applicant is a citizen or a resident alien of the United States;
+        (b)     All statements made in the application are true, correct, and complete;
 
-        (c)     The applicant has read, is familiar with, and agrees to be bound by the Rules for the
-Government of the Bar of Ohio and the Ohio Rules of Professional Conduct and to submit to the
-jurisdiction of the Supreme Court for disciplinary purposes pursuant to Gov. Bar R. V.
+        (c)    The applicant has read and understands requirements to receive a license to practice
+        law and the scope of practice of a license to practice law in Ohio;
 
-        (2)    A copy of the United States Military Orders of the spouse of the applicant,
-establishing that the spouse is in Ohio due to military orders;
+        (d)    The applicant meets and shall comply with requirements described in division
+        (B)(1)(c) of this rule;
 
-        (3)     Certificates or official transcripts evidencing compliance with division (A)(2) and
-(3) of this section. If the applicant’s undergraduate or legal education was not received in the
-United States, a one hundred fifty dollar fee shall accompany the application for evaluation of the
-applicant’s education. If the applicant’s undergraduate or legal education was not received in the
-United States, the application shall not be processed until the applicant’s education is approved by
-the Court.
+        (e)     The applicant is in good standing in all jurisdictions in which the applicant holds
+        or has held a license.
 
-       (4)     A certificate from the admissions authority in the jurisdiction from which the
-applicant seeks admission, demonstrating that the applicant has taken and passed a bar examination
-and has been admitted to the practice of law in that jurisdiction;
+       (2)     A copy of the United States Military Orders of the applicant or the applicant’s
+spouse, establishing that the applicant is in Ohio due to military orders;
 
-       (5)     A certificate of good standing from each jurisdiction in which the applicant is
-admitted to practice law, dated no earlier than sixty days prior to the submission of the application;
+        (3)     If the applicant is applying as a military spouse, a copy of the marriage certificate;
 
-       (6)    A typed questionnaire for use by the NCBE and the Board of Commissioners on
-Character and Fitness in conducting a character investigation and report of the applicant;
+       (C)     Upon filing a completed application that demonstrates the applicant’s eligibility
+under this section, the Bar Admissions Section shall issue the applicant a provisional temporary
+admission to the practice of law in Ohio as a military or military spouse attorney. The provisional
+temporary admission to the practice of law shall expire upon the approval or disapproval of the
+applicant.
 
-       (7)      A fee in the amount charged by the NCBE for conducting a character investigation
-and report of the applicant;
+       (D)     Before approval of the applicant for a temporary admission under this Section or
+carrying out division (C) of this Section, the Bar Admissions Section may conduct a background
+check of the applicant.
 
-          (8)   A nonrefundable application fee of seventy-five dollars.
-
-       (C)      Upon filing a completed application that demonstrates the applicant’s eligibility
-under this section, the Office of Bar Admissions shall issue the applicant a provisional temporary
-admission to the practice of law in Ohio as a military spouse attorney. The provisional temporary
-admission to the practice of law shall expire upon the approval or disapproval of the applicant.
-
-       (D)     Upon receipt of the character report of the applicant by the NCBE, the Office of
-Bar Admissions shall submit the report and the application to the Board of Commissioners on
-Character and Fitness, which shall review the report and the application. The Board may request
-additional information or materials from the applicant and may conduct a personal interview to
-determine the applicant’s character, fitness, and moral qualifications to practice law. The Board
-may recommend that the applicant be approved as possessing the requisite character, fitness, and
-moral qualifications for admission or may submit a recommendation to the Court as to the
-disapproval of the applicant in accordance with Section 14 of this rule.
-
-        (E)    Both of the following shall apply to a military spouse attorney temporarily licensed
-to practice law in Ohio pursuant to this section:
+      (E)      Both of the following shall apply to a military or military spouse attorney
+temporarily licensed to practice law in Ohio pursuant to this section:
 
         (1)     The attorney shall be entitled to all privileges, rights, and benefits and subject to all
 duties, obligations, and responsibilities of active members of the bar of this jurisdiction, including
@@ -1324,15 +1275,15 @@ Conduct and agencies of this jurisdiction with respect to the laws and rules of 
 governing the conduct and discipline of attorneys, to the same extent as members of the bar of this
 jurisdiction.
 
-       (F)(1) The authority of a military spouse attorney temporarily licensed to practice law in
-Ohio pursuant to this section shall automatically terminate upon the occurrence of any of the
-following:
+        (F)(1) The authority of a military or military spouse attorney temporarily licensed to
+practice law in Ohio pursuant to this section shall automatically terminate upon the occurrence of
+any of the following:
 
-          (a)   The spouse of the attorney is no longer an active member of the United States armed
-forces;
+     (a)      The military attorney or the attorney’s military spouse is no longer an active
+member of the United States armed forces;
 
-       (b)     The attorney is no longer married to the spouse who is an active member of the
-United States armed forces;
+       (b)     The attorney spouse is no longer married to the spouse who is an active member of
+the United States armed forces;
 
         (c)     A change in the military orders of the spouse reflecting a permanent change of
 station to a military installation other than Ohio, except that if the spouse has been assigned to an
@@ -1344,10 +1295,15 @@ authorized;
 rule of the Supreme Court;
 
        (e)     The attorney is suspended or disbarred in any jurisdiction in which the attorney is
-admitted to the practice of law.
+admitted to the practice of law;
 
-        (2)     Within sixty days of the occurrence of any event listed in division (F)(1) of this
-section, the attorney shall notify the Office of Bar Admissions of the event in writing.
+        (f)     The attorney permanently relocates outside of Ohio for reasons unrelated to the
+attorney’s, or the attorney’s military spouse’s, military orders;
+
+        (g)    The attorney requests termination of the temporary licensure.
+
+        (2)     Within thirty days of the occurrence of any event listed in division (F)(1) of this
+section, the attorney shall notify the Bar Admissions Section of the event in writing.
 
       Section 19.      Practice Pending Admission during the Admission to the Practice of
 Law Process.
@@ -1389,7 +1345,7 @@ days may petition the Office of Bar Admissions to waive this provision for good 
        (e)    Reasonably expects to fulfill all of the requirements for admission to the practice
 of law pursuant to this rule;
 
-       (f)    Associates with an active Ohio lawyer who is admitted to practice in Ohio, is in
+       (f)     Associates with an active Ohio lawyer who is admitted to practice in Ohio, is in
 good standing, and has agreed to associate with the applicant;
 
        (g)    Submits to the Office of Bar Admissions an affidavit attesting that the applicant has
@@ -1433,7 +1389,7 @@ June 1, 2000; October 1, 2000; February 1, 2003; October 1, 2003; February 1, 20
 October 1, 2007; January 1, 2008; February 1, 2009; August 1, 2010; January 1, 2013; January 1,
 2014, July 1, 2014; January 1, 2015; January 1, 2017; July 1, 2017; September 2, 2019; June 1,
 2020; March 2, 2021; September 1, 2021; January 17, 2023; April 1, 2024; October 15, 2024;
-January 31, 2025.]
+January 31, 2025; September 1, 2026; August 6, 2026.]
 
 RULE II.       LIMITED PRACTICE OF LAW BY A LEGAL INTERN
 
@@ -1461,8 +1417,8 @@ criminal cases for the state of Ohio or a municipal corporation.
 
        To be eligible for a legal intern certificate, either of the following shall apply:
 
-       (A)    The applicant shall be enrolled in a law school approved by the American Bar
-Association and meet all of the following requirements:
+      (A)      The applicant shall be enrolled in a law school approved by an accrediting agency
+and meet all of the following requirements:
 
        (1)     Have received at least one-third of the total hourly academic credits required for
 graduation;
@@ -1473,8 +1429,8 @@ applicant is enrolled;
        (3)     Have read and agreed to be bound by this rule, Gov. Bar R. IV, and the Ohio Rules
 of Professional Conduct as adopted by the Supreme Court.
 
-       (B)    The applicant shall be a graduate of a law school approved by the American Bar
-Association and meet both of the following requirements:
+      (B)     The applicant shall be a graduate of a law school approved by an accrediting agency
+and meet both of the following requirements:
 
       (1)     Have applied to take or has taken and is awaiting the results of the first Ohio bar
 examination following graduation;
@@ -1517,9 +1473,9 @@ section, the legal intern certificate shall automatically expire upon the occurr
 following:
 
        (1)    On the date, prior to graduation, the legal intern is no longer enrolled in a law school
-approved by the American Bar Association;
+approved by an accrediting agency;
 
-       (2)     On the date the legal intern graduates from law school, if the legal intern has not
+       (2)      On the date the legal intern graduates from law school, if the legal intern has not
 applied to take the first Ohio bar examination following graduation;
 
         (3)    On the Monday after distribution of the results of the first Ohio bar examination
@@ -1563,11 +1519,11 @@ the legal intern.
        (B)      Any entity supervising a legal intern pursuant to Section 5(A) must provide
 professional liability insurance coverage for the legal intern.
 
-       (C)     A legal intern may provide representation in civil and administrative actions,
+        (C)    A legal intern may provide representation in civil and administrative actions,
 misdemeanor and felony cases, or juvenile matters, including those juvenile matters involving an
 alleged offense that would be a felony if committed by an adult.
 
-       (D)     When a legal intern prepares and signs, in whole or in part, any correspondence,
+        (D)    When a legal intern prepares and signs, in whole or in part, any correspondence,
 legal documents, pleadings, or other papers, the legal intern's signature shall be followed by the
 designation “legal intern.”
 
@@ -1608,7 +1564,7 @@ ensure that the judge, referee, magistrate, or hearing officer is informed of th
 as a legal intern and shall be present with the legal intern in court or before the administrative
 board or agency, except as provided by Section 5(E) of this rule.
 
-        (B)     The supervising attorney shall provide the legal intern with the opportunity to
+        (B)      The supervising attorney shall provide the legal intern with the opportunity to
 engage in and observe the practice of law, shall discuss and counsel the intern regarding matters
 of professional responsibility that arise, and shall train and supervise the legal intern on matters
 assigned to the intern by that supervising attorney to the extent necessary to properly protect the
@@ -1619,12 +1575,12 @@ reporting or evaluation requirements regarding an award of academic credit to th
 
 [Effective: February 28, 1972; amended effective February 12, 1973; January 1, 1979; July 1,
 1983; January 1, 1992; October 1, 2000; February 1, 2007; May 1, 2007; August 1, 2009; April 1,
-2024.]
+2024; August 6, 2026.]
 
 RULE III. LEGAL             PROFESSIONAL             ASSOCIATIONS           AUTHORIZED            TO
 PRACTICE LAW
 
-       Section 1.      Firm Organization
+        Section 1.      Firm Organization
 
         An attorney who is otherwise authorized to practice as an active attorney under Gov. Bar
 R. VI may practice law in Ohio, to the same extent as individuals and groups of individuals,
@@ -1633,7 +1589,7 @@ or 1785. or licensed under Chapter 1703. of the Revised Code, a limited liabilit
 or registered under Chapter 1706. of the Revised Code, or a limited liability partnership, registered
 under former Chapter 1775. or Chapter 1776. of the Revised Code.
 
-       Section 2.      Name
+        Section 2.      Name
 
          The name of a legal professional association, corporation, legal clinic, limited liability
 company, or limited liability partnership shall comply with Rule 7.5 of the Ohio Rules of
@@ -1643,13 +1599,13 @@ Professional Association.” The name of a corporation, limited liability compan
 liability partnership shall include a descriptive designation as required under sections 1701.05(A),
 1706.07, or 1776.82, respectively, of the Revised Code.
 
-       Section 3.      Ethics and Discipline
+        Section 3.      Ethics and Discipline
 
          (A)   Participation in a legal professional association, corporation, legal clinic, limited
 liability company, or limited liability partnership shall not relieve an attorney of or diminish any
 obligation under the Ohio Rules of Professional Conduct or under these rules.
 
-       (B)      An attorney shall not use a legal professional association, corporation, legal clinic,
+        (B)     An attorney shall not use a legal professional association, corporation, legal clinic,
 limited liability company, or limited liability partnership to share legal fees with a person not
 authorized to practice law in Ohio or elsewhere, except as permitted by Rule 5.4 of the Ohio Rules
 of Professional Conduct. An attorney shall not participate in a legal professional association,
@@ -1674,11 +1630,11 @@ or other form of adequate financial responsibility for any liability of the firm
 omissions in the rendering of legal services by an officer, director, agent, employee, manager,
 member, partner, or equity holder.
 
-       (1)     “Adequate professional liability insurance” means one or more policies of
+        (1)    “Adequate professional liability insurance” means one or more policies of
 attorneys’ professional liability insurance that insure the legal professional association,
 corporation, legal clinic, limited liability company, or limited liability partnership both:
 
-        (a)    In an amount for each claim, in excess of any deductible, of at least fifty thousand
+        (a)     In an amount for each claim, in excess of any deductible, of at least fifty thousand
 dollars multiplied by the number of attorneys practicing with the firm; and
 
         (b)    An amount of one hundred thousand dollars for all claims during the policy year,
@@ -1760,7 +1716,7 @@ District, one commissioner; and Twelfth District, one commissioner. The active a
 commissioners shall be appointed at-large from separate appellate districts, and the nonattorney
 commissioners shall be appointed at-large from separate appellate districts.
 
-        (C)    Term of Office. The term of office of each commissioner of the Board shall be
+        (C)     Term of Office. The term of office of each commissioner of the Board shall be
 three years, beginning on the first day of January next following the commissioner’s appointment.
 Any commissioner whose term has expired and who has an uncompleted assignment as a member
 of a panel may continue to serve for the purpose of the assignment until it is concluded before the
@@ -1788,7 +1744,7 @@ maximum of two years. The chair and vice-chair may execute entries on behalf of 
 panels of the Board. In the absence or incapacity of the chair, the vice-chair shall perform the
 duties of the chair.
 
-        (F)    Meetings. The Board shall meet in Columbus at least six times each year. The
+        (F)     Meetings. The Board shall meet in Columbus at least six times each year. The
 chair or vice-chair may call additional meetings of the Board when necessary.
 
         (G)     Confidentiality; Oath of Office. No commissioner, Board-appointed master, or
@@ -2027,7 +1983,7 @@ investigate allegations of misconduct against any of the following:
        (1)   An attorney who is an officer of the bar association that established the certified
 grievance committee or a member of the certified grievance committee;
 
-       (2)    A judicial officer, except that the certified grievance committee of the Ohio State
+      (2)     A judicial officer, except that the certified grievance committee of the Ohio State
 Bar Association may investigate allegations of misconduct against a judicial officer;
 
         (3)    An attorney or judicial officer solely engaging in speech or conduct protected by
@@ -2049,13 +2005,13 @@ employed in the geographic area served by each bar association establishing the 
 
        (c)     The name of the lawyer who will serve as bar counsel to the grievance committee;
 
-       (d)     In the case of a petition to form a joint grievance committee, a copy of the written
+        (d)    In the case of a petition to form a joint grievance committee, a copy of the written
 agreement between or among the sponsoring bar associations that establishes and governs the
 operation of the grievance committee;
 
        (e)     Any other information the Board considers necessary to evaluate the petition.
 
-       (2)     Upon receipt of a completed petition, the Board promptly shall determine whether
+        (2)    Upon receipt of a completed petition, the Board promptly shall determine whether
 the proposed grievance committee satisfies the requirements to establish a grievance committee
 and the standards set forth in division (D) of this section. Upon determination that the grievance
 committee satisfies these requirements and standards and upon certification of bar counsel as
@@ -2112,7 +2068,7 @@ any matter in which the committee filed a formal complaint shall be retained per
         (ii)    Files related to any matter in which the committee initiated an investigation shall
 be retained for ten years;
 
-        (iii) Files related to any matter that the committee dismissed without investigation shall
+        (iii)   Files related to any matter that the committee dismissed without investigation shall
 be retained for two years.
 
         (f)    Funding. Be sufficiently funded by the sponsoring bar association or associations
@@ -2664,7 +2620,7 @@ engaging in further discovery;
        (c)     A list of any discipline or suspensions previously imposed against the respondent
 and the nature of the prior discipline or suspension;
 
-       (d)     The respondent’s attorney registration number and his or her last known address;
+        (d)     The respondent’s attorney registration number and his or her last known address;
 
       (e)      The signatures of one or more attorneys admitted to the practice of law in Ohio,
 who shall be counsel for the relator and, where applicable, by bar counsel;
@@ -2687,7 +2643,7 @@ appropriate representative of the relator documenting relator’s contacts with 
 the respondent prior to filing the complaint. The materials may include investigation reports,
 summaries, depositions, statements, and any other relevant material.
 
-     Section 11.       Probable Cause Determinations; Certification and Service of
+     Section 11.        Probable Cause Determinations; Certification and Service of
 Complaints.
 
         (A)      Probable Cause Panels. The Board shall establish two probable cause panels to
@@ -2713,7 +2669,7 @@ by electronic service address or certified mail to the respondent.
         (C)      Service, and Publication of Certified Complaint; Notice of Dismissal. The
 director shall take the following action based on the order of the probable cause panel:
 
-         (1)  If the panel certifies the complaint in its entirety, the director shall serve the
+         (1)   If the panel certifies the complaint in its entirety, the director shall serve the
 complaint on the respondent via electronic service address or certified mail and send a copy to the
 relator.
 
@@ -2808,7 +2764,7 @@ Amendment to, the United States Constitution as well as Article I, Section 11 or
 or count be dismissed. If a unanimous hearing panel dismisses a complaint in its entirety, the
 director shall send a dismissal entry to the relator, respondent, and all counsel of record.
 
-        (H)    Referral by Panel. In the alternative, if the hearing panel determines that findings
+        (H)     Referral by Panel. In the alternative, if the hearing panel determines that findings
 of fact and recommendations for dismissal should be referred to the Board for review and action
 by the full Board, the panel may submit its findings of fact to the Board and may recommend
 dismissal in the same manner as provided in this rule with respect to public reprimand, probation,
@@ -3024,7 +2980,7 @@ an order terminating the interim default judgment suspension;
 misconduct and recommending the respondent be indefinitely suspended from the practice of law,
 subject to reinstatement as provided in section 25 of this rule;
 
-      (iii) That there is clear and convincing evidence to establish that respondent is guilty of
+      (iii)  That there is clear and convincing evidence to establish that respondent is guilty of
 misconduct and recommending the respondent be disbarred.
 
         (b)      If the Supreme Court grants a motion for leave to answer and remands the matter
@@ -3065,7 +3021,7 @@ Supreme Court may suspend the respondent from the practice of law.
 a medical, psychological, or psychiatric examination of the respondent if any of the following
 applies:
 
-        (a)    The complaint, answer, or any subsequent pleading alleges an existing mental
+         (a)   The complaint, answer, or any subsequent pleading alleges an existing mental
 illness, alcohol and other drug abuse, or disorder that substantially impairs the ability of the
 respondent to practice law but is unsupported by a journal entry of a court of competent
 jurisdiction;
@@ -3208,7 +3164,7 @@ recommendation found or made in the report of the Board or make any argument in 
 recommendation not made in the report. No answering or responsive briefs may be filed in
 response to a no-objection brief.
 
-        (iii) If a no-objection brief violates the prohibitions of division (B)(2)(ii) of this section,
+        (iii)   If a no-objection brief violates the prohibitions of division (B)(2)(ii) of this section,
 the Court shall strike the brief in its entirety and assess the party or parties that filed the brief a fine
 not to exceed $1000 beyond any costs incurred to that date.
 
@@ -3488,7 +3444,7 @@ treatment and attendance at self-help programs;
        (3)     Cooperate fully with the efforts of each monitoring attorney to monitor the
 respondent's compliance.
 
-       (D)      Termination of Probation. At the expiration of the probation period, the
+        (D)     Termination of Probation. At the expiration of the probation period, the
 respondent shall apply for termination of probation. The application shall be in writing and filed
 with the clerk of the Supreme Court. The application shall indicate the date probation was ordered,
 include an affidavit by respondent stating that the respondent has complied with the conditions of
@@ -3656,10 +3612,10 @@ into the relationship with the disqualified or suspended attorney;
 supervising the disqualified or suspended attorney, if different than the attorney identified in
 division (C)(2) of this section;
 
-       (4)     The capacity in which the disqualified or suspended attorney will be employed,
+        (4)    The capacity in which the disqualified or suspended attorney will be employed,
 including a description of duties to be performed or services to be provided;
 
-       (5)     An affidavit executed by either the attorney filing the registration or the supervising
+        (5)    An affidavit executed by either the attorney filing the registration or the supervising
 attorney indicating that the attorney has read the Supreme Court’s order disbarring, accepting the
 resignation of, or suspending the attorney to be employed and understands the limitations
 contained in that order;
@@ -3720,7 +3676,7 @@ Gov. Bar R. X;
 
        (4)     No formal disciplinary proceedings are pending against the respondent;
 
-        (5)     The respondent has completed a term of probation, community control, intervention
+         (5)    The respondent has completed a term of probation, community control, intervention
 in lieu of conviction, or any sanction imposed as part of a sentence for a felony conviction.
 
         (D)     Reinstatement Prior to Completion of Probation or Other Sanction.
@@ -3863,7 +3819,7 @@ before the panel and the Board, whenever appropriate, shall be governed by the p
 rule governing disciplinary proceedings, including proceedings in the Supreme Court for an
 issuance of an order to show cause why the final report of the Board should not be confirmed.
 
-        (5)    Conditional Grant; Denial; Appeal. The Board may recommend that the
+        (5)     Conditional Grant; Denial; Appeal. The Board may recommend that the
 petitioner be required to take and pass a regular bar examination of the Supreme Court as a
 condition to readmission. If the final report recommends denial of the petition, the petitioner shall
 have twenty days from issuance of an order to show cause to file objections and a brief in support
@@ -3880,7 +3836,7 @@ under section 21 of this rule on conditions the Supreme Court determines and req
 petitioner to subsequently take and pass a regular bar examination of the Supreme Court and take
 the oath of office.
 
-       Section 26.     Appointed Attorney to Inventory Files.
+        Section 26.     Appointed Attorney to Inventory Files.
 
         (A)(1) Abandonment. An attorney is considered to have abandoned client files if the
 attorney has had no contact with the files or has not responded to inquiries about the files and
@@ -4003,7 +3959,7 @@ as set forth in the Application section of that code.
 have the same meanings as in the most recent edition of the American Psychiatric Association’s
 Diagnostic and Statistical Manual of Mental Disorders.
 
-      (J)      “Mental illness” has the same meaning as in R.C. 5122.01(A) [Mental Illness
+       (J)     “Mental illness” has the same meaning as in R.C. 5122.01(A) [Mental Illness
 Adjudication].
 
         (K)     “Misconduct” means any violation by a judicial officer or an attorney of any
@@ -4016,11 +3972,11 @@ lawyers’ honesty or trustworthiness.
        (L)   “Probable cause” means there is substantial, credible evidence that misconduct has
 been committed.
 
-       (M)     “Qualified health care professional” means an individual who is licensed, certified,
+        (M)    “Qualified health care professional” means an individual who is licensed, certified,
 or otherwise authorized or permitted by law to provide diagnoses and treatment of disorders and
 who is acting within the scope of his or her practice;
 
-       (N)       “Qualified chemical dependency professional” means an individual who is
+        (N)      “Qualified chemical dependency professional” means an individual who is
 licensed, certified, or otherwise authorized or permitted by law to provide diagnoses and treatment
 of substance use disorders and is acting within the scope of his or her practice.
 
@@ -4123,10 +4079,10 @@ Section 4.    Obligations of Attorney.
               (a)   The attorney’s current residence address, office address, office telephone
               number, office or residence email address, and email service address;
 
-             (b)    The name of all other states or territories of the United States in which the
+             (b)     The name of all other states or territories of the United States in which the
              attorney is admitted to the practice of law.
 
-      (2)    If an attorney fails to provide the Office of Attorney Services an email service
+      (2)     If an attorney fails to provide the Office of Attorney Services an email service
       address, the attorney’s office or residence email address shall be deemed to be the
       attorney’s email service address.
 
@@ -4153,10 +4109,10 @@ Section 4.    Obligations of Attorney.
 
              (1)     The attorney’s gender, race, and ethnicity;
 
-             (2)    The attorney’s past or present service in the United States armed forces,
+             (2)     The attorney’s past or present service in the United States armed forces,
              including any reserve component or the National Guard;
 
-             (3)    If the attorney is bilingual or multilingual, all languages in which the
+             (3)     If the attorney is bilingual or multilingual, all languages in which the
              attorney is proficient.
 
 (D)   Interest-bearing trust account information
@@ -4335,7 +4291,7 @@ Section 6.    Corporate Counsel Attorney Registration.
 
       (2)    An attorney registered under this section shall not do either of the following:
 
-             (a)    Appear before a court or any other tribunal in Ohio on behalf of the
+             (a)     Appear before a court or any other tribunal in Ohio on behalf of the
              attorney’s employer or any person except for the lawyer’s self, except if granted
              leave by the court or tribunal as provided in Gov. Bar R. XII;
 
@@ -4390,7 +4346,7 @@ Section 6.    Corporate Counsel Attorney Registration.
       An attorney registered for corporate counsel status under this section shall notify the Office
       of Attorney Services within ten days of any of the following:
 
-             (1)    Termination of the attorney’s employment that was the basis for the
+             (1)     Termination of the attorney’s employment that was the basis for the
              attorney’s registration as corporate counsel;
 
              (2)     Any change in the attorney’s license status in another jurisdiction, including
@@ -4409,7 +4365,7 @@ Section 6.    Corporate Counsel Attorney Registration.
               (1)    The employment that was the basis for the attorney’s registration for
               corporate counsel terminates;
 
-              (2)    The attorney ceases to maintain active status in at least one other state or
+              (2)     The attorney ceases to maintain active status in at least one other state or
               the District of Columbia or a territory of the United States;
 
               (3)     The attorney fails to maintain current good standing in at least one other
@@ -4475,7 +4431,7 @@ Section 7.    Military Legal Assistance Attorney Registration.
              (b)    Offer to provide legal services in Ohio to any person other than as
              authorized by the attorney’s military service and this section;
 
-             (c)    Render legal services for any person in Ohio other than as authorized by the
+             (c)     Render legal services for any person in Ohio other than as authorized by the
              attorney’s military service and this section;
 
              (d)     Hold the attorney’s self out as authorized to provide legal services in Ohio
@@ -4509,7 +4465,7 @@ Section 7.    Military Legal Assistance Attorney Registration.
              (1)     Any change in the attorney’s employment, service, or assignment that was
              the basis for the attorney’s registration as a military legal assistance attorney;
 
-             (2)    Any change in the attorney’s licensure status in another jurisdiction,
+             (2)     Any change in the attorney’s licensure status in another jurisdiction,
              including the attorney’s resignation from the practice of law;
 
              (3)     The imposition of any disciplinary finding or sanction in any United States
@@ -4624,7 +4580,7 @@ Section 8.    Emeritus Pro Bono Attorney Registration.
              (c)    Engage in activities necessary for any legal matter in which the attorney is
              involved pursuant to Section 8(D)(1)(a) and (b) of this rule.
 
-      (2)    The pro bono organization supervising an emeritus pro bono attorney pursuant to
+      (2)     The pro bono organization supervising an emeritus pro bono attorney pursuant to
       Section 8(D)(1) of this rule shall provide professional liability insurance coverage for the
       attorney.
 
@@ -4666,10 +4622,10 @@ Section 8.    Emeritus Pro Bono Attorney Registration.
 
 (I)   Duration of emeritus pro bono attorney status
 
-      (1)    Unless revoked earlier pursuant to Section 8(I)(2) of this rule, the emeritus pro bono
+      (1)     Unless revoked earlier pursuant to Section 8(I)(2) of this rule, the emeritus pro bono
       attorney status shall automatically expire upon the occurrence of any of the following:
 
-              (a)    The attorney provides notice to the Office of Attorney Services, in a manner
+              (a)     The attorney provides notice to the Office of Attorney Services, in a manner
               authorized by the office, that the attorney is withdrawing from emeritus pro bono
               attorney status;
 
@@ -4679,7 +4635,7 @@ Section 8.    Emeritus Pro Bono Attorney Registration.
               (c)     The attorney obtains active attorney status pursuant to Section 2 of this rule
               or inactive attorney status pursuant to Section 5 of this rule.
 
-       (2)    The Supreme Court, sua sponte, may revoke an emeritus pro bono attorney status
+       (2)     The Supreme Court, sua sponte, may revoke an emeritus pro bono attorney status
        without hearing or statement of cause by providing written notification to the attorney, the
        attorney’s supervising attorney, and the pro bono organization with which the attorney is
        associated.
@@ -4812,7 +4768,7 @@ Section 11.   Retirement or Resignation from the Practice of Law.
                      (c)   The attorney fully understands that the retirement or resignation is
                      unconditional, final, and irrevocable.
 
-             (2)    A written waiver allowing Disciplinary Counsel to review all proceedings
+             (2)     A written waiver allowing Disciplinary Counsel to review all proceedings
              and documents relating to review and investigation of grievances made against the
              attorney under the Rules for the Government of the Bar of Ohio and the Rules for
              the Government of the Judiciary of Ohio and to disclose to the Supreme Court any
@@ -4952,11 +4908,11 @@ Section 15.   Certificates of Good Standing.
 
              (1)     A request on a form provided by the office;
 
-             (2)    A nonrefundable fee of twenty dollars for a request for a standard certificate
+             (2)     A nonrefundable fee of twenty dollars for a request for a standard certificate
              of good standing or thirty-five dollars for a request for a certificate of good standing
              with disciplinary information;
 
-             (3)    A nonrefundable fee of fifty dollars for a request made by 2 p.m. eastern
+             (3)     A nonrefundable fee of fifty dollars for a request made by 2 p.m. eastern
              time for an expedited same-day certificate of good standing.
 
 (C)   Review of Supreme Court records
@@ -4987,10 +4943,10 @@ Section 15.   Certificates of Good Standing.
               (b)    The attorney is not in compliance with the continuing legal education
               requirements of Gov. Bar R. X;
 
-              (c)    The attorney is subject to an order of suspension pursuant to Gov. Bar R. V,
+              (c)     The attorney is subject to an order of suspension pursuant to Gov. Bar R. V,
               including any suspension that has been stayed, in whole or in part;
 
-              (d)    The attorney is subject to an order of probation pursuant to Gov. Bar R. V,
+              (d)     The attorney is subject to an order of probation pursuant to Gov. Bar R. V,
               including any probation that has not been terminated by order of the court;
 
               (e)     The attorney is subject to an order of suspension pursuant to Gov. Bar R.
@@ -5450,7 +5406,7 @@ Section 3.    Certified Unauthorized Practice of Law Committees.
                (ii)   Files related to any matter in which the committee initiated
                an investigation shall be retained for ten years;
 
-               (iii) Files related to any matter that the committee dismissed
+               (iii)  Files related to any matter that the committee dismissed
                without investigation shall be retained for two years.
 
              (f)     Funding
@@ -5695,7 +5651,7 @@ obligations. Reimbursement shall be made upon submission to the secretary of
 proof of the expenditures. Upon approval by the chairperson, reimbursement shall
 be made from the Attorney Services Fund.
 
-(2)     Annual reimbursement of indirect expenses. A certified unauthorized
+(2)      Annual reimbursement of indirect expenses. A certified unauthorized
 practice of law committee may apply to the Board prior to the first day of February
 each year for partial reimbursement of other expenses necessarily and reasonably
 incurred during the preceding calendar year in performing their obligations under
@@ -5801,7 +5757,7 @@ Section 6.     Public Access to Unauthorized Practice of Law Documents and Proce
        unauthorized practice of law by a certified unauthorized practice of law committee,
        disciplinary counsel, or the Attorney General shall be confidential except as follows:
 
-               (a)    Where the respondent expressly and voluntarily waives confidentiality of
+               (a)     Where the respondent expressly and voluntarily waives confidentiality of
                the proceedings. A waiver of confidentiality does not entitle the respondent or any
                other person access to documents or deliberations expressly designated as
                confidential under this section.
@@ -5814,7 +5770,7 @@ Section 6.     Public Access to Unauthorized Practice of Law Documents and Proce
                criminal violation and may provide the agency or authority with information
                concerning the criminal violation.
 
-       (2)    A certified unauthorized practice of law committee, disciplinary counsel, or the
+       (2)     A certified unauthorized practice of law committee, disciplinary counsel, or the
        Attorney General may share information with each other or with the unauthorized practice
        of law authority of another state or federal jurisdiction regarding the review, investigation
        and consideration of unauthorized practice of law allegations.
@@ -5825,15 +5781,15 @@ Section 6.     Public Access to Unauthorized Practice of Law Documents and Proce
       subsequent proceedings conducted and documents filed in connection with the complaint
       shall be public except as follows:
 
-             (1)    Deliberations by a hearing panel of the Board and the Board shall be
-             confidential.
+              (1)    Deliberations by a hearing panel of the Board and the Board shall be
+              confidential.
 
-             (2)     The report and recommendations of a hearing panel of the Board shall be
-             confidential until the report of the full Board is filed with the Court. If the case is
-             dismissed either by the hearing panel or the Board pursuant to Section 12(D) or (H)
-             of this rule, any report of the hearing panel shall be public upon the filing of an
-             order of dismissal. The report and recommendation of the Board shall be
-             confidential until the report is filed with the Court.
+              (2)     The report and recommendations of a hearing panel of the Board shall be
+              confidential until the report of the full Board is filed with the Court. If the case is
+              dismissed either by the hearing panel or the Board pursuant to Section 12(D) or (H)
+              of this rule, any report of the hearing panel shall be public upon the filing of an
+              order of dismissal. The report and recommendation of the Board shall be
+              confidential until the report is filed with the Court.
 
 (C)   Restricted access to case documents
 
@@ -6090,7 +6046,7 @@ Section 10.   Interim Cease and Desist Order.
        serious harm to the public, or upon the failure to cooperate with an investigation initiated
        under Section 7(C)(1) of this rule, the relator shall do both of the following:
 
-              (a)    Prior to filing a motion for an interim cease and desist order, make a
+              (a)     Prior to filing a motion for an interim cease and desist order, make a
               reasonable attempt to provide the respondent with notice, which may include notice
               by telephone, that a motion requesting an interim order that the respondent cease
               and desist engaging in the unauthorized practice of law will be filed with the
@@ -6317,7 +6273,7 @@ Section 13.   Settlement of Complaints; Consent Decree Agreements.
        acceptance of the agreement and concurs in the agreed recommended civil penalty, if any,
        the matter shall be submitted to the Board for consideration.
 
-              (1)    The motion shall be accompanied by a proposed consent decree agreement
+              (1)     The motion shall be accompanied by a proposed consent decree agreement
               that is signed by the respondent, respondent's counsel, if the respondent is
               represented by counsel, and the relator that shall contain the following:
 
@@ -6360,7 +6316,7 @@ Section 13.   Settlement of Complaints; Consent Decree Agreements.
                    (d)     Contains an admission that the conduct constitutes the unauthorized
                    practice of law;
 
-                   (e)    Contains an agreement by the respondent to cease and desist the
+                   (e)     Contains an agreement by the respondent to cease and desist the
                    alleged activities;
 
                    (f)    Furthers the stated purposes of this rule;
@@ -6591,14 +6547,14 @@ consent decree agreement.
                (ii)   Granted corporate status under Gov. Bar R. VI and rendering legal
                services in compliance with that rule;
 
-               (iii) Certified to temporarily practice law in legal services, public
+               (iii)   Certified to temporarily practice law in legal services, public
                defender, and law school programs under Gov. Bar R. IX and rendering
                legal services in compliance with that rule;
 
                (iv)   Registered as a foreign legal consultant under Gov. Bar R. XI and
                rendering legal services in compliance with that rule;
 
-                      (v)     Granted permission to appear pro hac vice by a tribunal in a
+                      (v)      Granted permission to appear pro hac vice by a tribunal in a
                       proceeding in accordance with Gov. Bar R. XII and rendering legal services
                       in that proceeding;
 
@@ -6608,22 +6564,22 @@ consent decree agreement.
 
               (b)     The rendering of legal services for another by any person:
 
-                      (i)    Disbarred from the practice of law in Ohio under Gov. Bar R. V;
+                      (i)     Disbarred from the practice of law in Ohio under Gov. Bar R. V;
 
                       (ii)   Designated as resigned or resigned with disciplinary action pending
                       under former Gov. Bar R. V (prior to September 1, 2007);
 
-                      (iii) Designated as retired or resigned with disciplinary action pending
+                      (iii)  Designated as retired or resigned with disciplinary action pending
                       under Gov. Bar R. VI.
 
               (c)     The rendering of legal services for another by any person admitted to the
               practice of law in Ohio under Gov. Bar R. I while the person is:
 
-                      (i)    Suspended from the practice of law under Gov. Bar R. V;
+                      (i)     Suspended from the practice of law under Gov. Bar R. V;
 
-                      (ii)   Registered as an inactive attorney under Gov. Bar R. VI;
+                      (ii)    Registered as an inactive attorney under Gov. Bar R. VI;
 
-                      (iii) Summarily suspended from the practice of law under Gov. Bar R.
+                      (iii)   Summarily suspended from the practice of law under Gov. Bar R.
                       VI for failure to register;
 
                       (iv)     Suspended from the practice of law under Gov. Bar R. X for failure
@@ -6787,7 +6743,7 @@ entity specified in division (F) of this section.
 
        Section 4.      Dishonest Conduct.
 
-       For purposes of this rule, dishonest conduct consists of wrongful acts or omissions by an
+        For purposes of this rule, dishonest conduct consists of wrongful acts or omissions by an
 attorney in the nature of defalcation or embezzlement of money, or the wrongful taking or
 conversion of money, property, or other things of value.
 
@@ -6832,7 +6788,7 @@ Associations.
         (1)     The Board shall investigate or cause to be investigated all claims received under
 this rule.
 
-       (2)      At the request of the Board, Disciplinary Counsel and local bar associations
+        (2)     At the request of the Board, Disciplinary Counsel and local bar associations
 authorized to investigate attorney discipline complaints under Gov. Bar R. V shall make available
 to the Board all reports of investigations and records of formal proceedings in their possession
 with respect to any attorney whose conduct is alleged to amount to dishonest conduct under this
@@ -6902,8 +6858,8 @@ SERVICES, PUBLIC DEFENDER, AND LAW SCHOOL PROGRAMS
         A person not admitted to the practice of law in Ohio may become certified to temporarily
 practice law in this state if that person satisfies all of the following:
 
-      (A)    The person has earned a degree from a law school that is accredited by the
-American Bar Association;
+       (A)     The person has earned a degree from a law school that is accredited by an
+accrediting agency;
 
          (B)     The person has taken and passed a bar examination, and has been admitted and is
 in good standing as an attorney at law in the highest court of another state, the District of Columbia,
@@ -6914,16 +6870,16 @@ or a territory of the United States;
         (D)    The person has not had an application for admission in Ohio denied on character
 and fitness grounds pursuant to Gov. Bar R. I;
 
-        (E)     The person is employed by or associated with a legal services or public defender
+         (E)    The person is employed by or associated with a legal services or public defender
 program that provides legal services solely to indigent clients, or is employed as a supervising
 attorney in a criminal or poverty law and litigation program administered by an Ohio law school
-that is accredited by the American Bar Association. For purposes of this rule, legal services
-program shall mean any organization that receives financial assistance from the state public
-defender pursuant to section 120.53 of the Revised Code.
+that is accredited by an accrediting agency. For purposes of this rule, legal services program shall
+mean any organization that receives financial assistance from the state public defender pursuant to
+section 120.53 of the Revised Code.
 
        Section 2.      Application.
 
-       An applicant for certification under this rule shall file with the Office of Bar Admissions
+        An applicant for certification under this rule shall file with the Office of Bar Admissions
 of the Supreme Court an Application for Temporary Certification. The application shall be on
 forms furnished by the Office of Bar Admissions and shall include all of the following:
 
@@ -6951,7 +6907,7 @@ defender, or law school program;
 cause him or her to doubt the applicant’s character, fitness, or moral qualifications to practice law
 or the applicant’s ability to discharge the duties of an attorney at law;
 
-       (3)      That the director or law school dean will notify the Office of Bar Admissions in
+        (3)     That the director or law school dean will notify the Office of Bar Admissions in
 writing immediately upon termination of the applicant’s employment or association with the legal
 services, public defender, or law school program;
 
@@ -7027,7 +6983,7 @@ initiative and at any time, may revoke a temporary certificate for disciplinary 
 
 [Not analogous to former Rule IX, effective January 1, 1981; amended effective July 2, 1990; July
 2, 1991; October 1, 2000; October 1, 2003; February 1, 2007; May 1, 2007; January 1, 2008; June
-1, 2020; April 1, 2024.]
+1, 2020; April 1, 2024; August 6, 2026.]
 
 The Supreme Court, on June 4, 1991, amended Section 5 of this rule, effective July 2, 1991, but
 did not modify the repeal provision of Section 7. The Supreme Court Reporter has advised that
@@ -7147,7 +7103,7 @@ Ohio Lawyers” adopted by the Supreme Court;
         (3)     Alcoholism, substance abuse, or mental health issues, which shall include
 instruction on any of their causes, prevention, detection, and treatment alternatives, as applicable;
 
-        (4)    Access to justice and fairness in the courts and how these issues impact public trust
+        (4)     Access to justice and fairness in the courts and how these issues impact public trust
 and confidence in the judicial system and the perception of justice in Ohio, which shall include
 instruction on one or any combination of the following topics:
 
@@ -7196,15 +7152,15 @@ required credit hours for teaching during the biennial compliance period.
         (1)     As used in this section, “semester credit hour” means the number of academic
 credit hours received by a student for successfully completing a specific higher education course.
 
-        (2)    The Commission may allow three credit hours for each semester credit hour taught
+       (2)     The Commission may allow three credit hours for each semester credit hour taught
 by an adjunct or part-time professor for a course that is part of the curriculum of a J.D., LL.M., or
-Ph.D. program at a law school accredited by the American Bar Association the first time the course
-is taught by that professor and one-half credit hour for each semester credit hour the course is
+Ph.D. program at a law school accredited by an accrediting agency the first time the course is
+taught by that professor and one-half credit hour for each semester credit hour the course is
 subsequently taught by that professor.
 
-        (3)     The Commission may allow one-half credit hour for each semester credit hour
-taught by a full-time professor at a law school accredited by the American Bar Association for a
-course that is part of the curriculum of a J.D., LL.M., or Ph.D. program.
+         (3)     The Commission may allow one-half credit hour for each semester credit hour
+taught by a full-time professor at a law school accredited by an accrediting agency for a course
+that is part of the curriculum of a J.D., LL.M., or Ph.D. program.
 
        (4)     Prorated credit may be granted for quarter or trimester hours.
 
@@ -7215,8 +7171,8 @@ maximum of twelve credit hours for publications during a biennial compliance per
        (E)     Law school course credit. The Commission may allow three credit hours for each
 semester credit hour of a course taken as part of the curriculum of a J.D., LL.M., or Ph.D. program
 
-at a law school accredited by the American Bar Association. Prorated credit may be granted for
-quarter or trimester hours.
+at a law school accredited by an accrediting agency. Prorated credit may be granted for quarter or
+trimester hours.
 
        (F)     Mayor’s court education credit. The Commission may allow one credit hour for
 every two credit hours of accredited mayor’s court education completed by an attorney for the
@@ -7310,7 +7266,7 @@ educational activity of the program or activity;
 
        Section 7.      Proration of Credit Hours.
 
-       (A)     Attorney who becomes subject to rule during biennial compliance period. An
+        (A)    Attorney who becomes subject to rule during biennial compliance period. An
 attorney who becomes subject to this rule during a biennial compliance period may have the
 continuing legal education requirements under Section 3 of this rule prorated by the Supreme Court
 Commission on Continuing Legal Education pursuant to CLE Regulation 305 for the biennial
@@ -7334,7 +7290,7 @@ have the attorney's continuing legal education requirements prorated pursuant to
 
        Section 8.      Carryover of Credit Hours.
 
-       If the Supreme Court Commission on Continuing Legal Education determines that an
+        If the Supreme Court Commission on Continuing Legal Education determines that an
 attorney has timely completed in a biennial compliance period more than the number of continuing
 legal education credit hours required by Section 3 of this rule, the Commission may apply a
 maximum of twelve general credit hours to the next biennial compliance period.
@@ -7390,7 +7346,7 @@ of the attorney’s biennial compliance period, by the end of the next biennial 
 
        Section 12.    Exemptions.
 
-       (A)     Exemption by Commission. Upon approval by the Supreme Court Commission on
+       (A)      Exemption by Commission. Upon approval by the Supreme Court Commission on
 Continuing Legal Education, the following attorneys may be exempted from the requirements of
 Section 3 of this rule:
 
@@ -7454,7 +7410,7 @@ practices; and sixty minutes of instruction on topics related to client fund man
        (b)     Nine credit hours of instruction in one or more substantive law topics that focus on
 handling legal matters in specific practice areas.
 
-       (2)     An attorney newly admitted to the practice of law may satisfy the New Lawyers
+        (2)    An attorney newly admitted to the practice of law may satisfy the New Lawyers
 Training instruction requirement of division (A)(1) of this section by participating in and
 successfully completing the Supreme Court Lawyer to Lawyer Mentoring Program, provided the
 attorney also completes three credit hours of instruction on professionalism, law office
@@ -7470,7 +7426,7 @@ educational activity of the program;
 
        (2)     The activity shall be a minimum of thirty minutes in length;
 
-       (3)      The activity shall include thorough, high-quality, written materials that emphasize
+        (3)     The activity shall include thorough, high-quality, written materials that emphasize
 and include, if applicable, checklists of procedures to follow, practical instructions, and forms with
 guidance as to how they should be completed and when they should be used.
 
@@ -7541,7 +7497,7 @@ the attendance occurred prior to notice of revocation.
 
        Section 17.     Sanctions for Failure to Comply.
 
-        (A)    Continuing legal education requirements. An attorney who fails to satisfy the
+        (A)     Continuing legal education requirements. An attorney who fails to satisfy the
 applicable requirements of this rule, except for failure to complete the New Lawyers Training
 instruction as required by Section 14 of this rule, or a full-time judge, part-time judge, retired
 judge, magistrate, or acting judge who fails to satisfy the applicable mandatory continuing legal
@@ -7570,7 +7526,7 @@ this rule or Gov. Jud. R. IV, but does so within ninety days of the deadline set
 of this rule, shall be assessed a late fee in accordance with the late fee schedule in CLE Regulation
 503.
 
-        (2)     An attorney, magistrate, or judge who fails to meet the applicable requirements of
+         (2)    An attorney, magistrate, or judge who fails to meet the applicable requirements of
 this rule or Gov. Jud. R. IV shall be notified of the apparent noncompliance by the Supreme Court
 Commission on Continuing Legal Education. The Commission shall send notice of the apparent
 noncompliance by regular mail to the attorney, magistrate, or judge at the most recent address
@@ -7624,7 +7580,7 @@ on November 22, 1989, shall be effective on December 15, 1989.
       (3)    The amendments to Section 3 of this rule, adopted by the Supreme Court of Ohio
 on May 8, 1990, shall be effective on May 28, 1990.
 
-        (4)    The amendments to Section 3 of this rule, adopted by the Supreme Court of Ohio
+       (4)     The amendments to Section 3 of this rule, adopted by the Supreme Court of Ohio
 on July 19, 1990, shall be effective on September 1, 1990 and shall apply to definite and indefinite
 suspensions imposed on or after that effective date.
 
@@ -7653,16 +7609,16 @@ on July 12, 1995, shall take effect on January 1, 1996.
        (F)    The amendments to Section 3 of this rule, adopted by the Supreme Court of Ohio
 on October 20, 1997, shall take effect on January 1, 1998.
 
-       (G)   The amendments to Section 3 of this rule, adopted by the Supreme Court of Ohio
+       (G)    The amendments to Section 3 of this rule, adopted by the Supreme Court of Ohio
 on September 28, 1998, shall be effective on November 1, 1998.
 
-       (H)   The amendments to Section 4 of this rule, adopted by the Supreme Court of Ohio
+       (H)    The amendments to Section 4 of this rule, adopted by the Supreme Court of Ohio
 on September 21, 1999, shall take effect on January 1, 2000.
 
        (I)     The amendment to Section 2 of this rule, adopted by the Supreme Court of Ohio on
 April 10, 2000, shall take effect on May 8, 2000.
 
-       (J)   The amendments to Sections 3 (C)(2), 3 (H), and Section 5 of this Rule, adopted
+        (J)  The amendments to Sections 3 (C)(2), 3 (H), and Section 5 of this Rule, adopted
 by the Supreme Court of Ohio on November 28, 2000 shall be effective on July 1, 2001.
 
        (K)   The amendments to Sections 2 and 3 of this rule, adopted by the Supreme Court of
@@ -7692,10 +7648,10 @@ admitted to the practice of law on or after November 1, 2008. Attorneys admitted
 of law or registered for corporate status prior to November 1, 2008, shall comply with former Sec.
 3 of this rule.
 
-      (Q)   The amendment to Section 3(H)(2) of this rule, adopted by the Supreme Court of
+       (Q)  The amendment to Section 3(H)(2) of this rule, adopted by the Supreme Court of
 Ohio on November 1, 2011, shall be effective December 1, 2011.
 
-       (R)   The amendments to Section 3 of this rule, adopted by the Supreme Court of Ohio
+       (R)    The amendments to Section 3 of this rule, adopted by the Supreme Court of Ohio
 on September 11, 2012, shall be effective January 1, 2013.
 
        (S)    The amendments to Sections 3 through 20 of this rule, adopted by the Supreme
@@ -7742,6 +7698,9 @@ on October 15, 2024, shall be effective on October 15, 2024.
        (EE) The amendments to Section 5 of this rule, adopted by the Supreme Court of Ohio
 on July 25, 2024, shall be effective on January 1, 2025.
 
+      (FF) The amendments to Section 5 of this rule, adopted by the Supreme Court of Ohio
+on August 6, 2026, shall be effective on August 6, 2026.
+
 [Effective: July 1, 1988 and January 1, 1989; amended effective January 1, 1989; July 1, 1989;
 December 15, 1989; May 28, 1990; September 1, 1990; January 1, 1991; February 18, 1991;
 September 1, 1991; January 1, 1992; July 1, 1992; January 1, 1994; January 1, 1995; January 1,
@@ -7749,7 +7708,7 @@ September 1, 1991; January 1, 1992; July 1, 1992; January 1, 1994; January 1, 19
 21, 2002; July 1, 2002, September 1, 2004, November 7, 2005; November 1, 2007; November 1,
 2008; December 1, 2011; January 1, 2014; January 1, 2015; July 1, 2017; November 1, 2017;
 January 1, 2019; July 1, 2019; February 1, 2020; June 1, 2020; August 1, 2022; September 1, 2022;
-January 1, 2023; March 13, 2024; October 15, 2024; January 1, 2025.]
+January 1, 2023; March 13, 2024; October 15, 2024; January 1, 2025; August 6, 2026.]
 
 RULE XI.       LIMITED PRACTICE OF LAW BY FOREIGN LEGAL CONSULTANTS
 
@@ -7796,7 +7755,7 @@ the executive body of the authority having final jurisdiction over admission to 
 or professional discipline, or from one of the judges of the highest law court of original jurisdiction
 of the foreign country, together with an authenticated English translation if it is not in English;
 
-        (4)      Letters of recommendation from at least two attorneys or counselors of law or the
+        (4)       Letters of recommendation from at least two attorneys or counselors of law or the
 equivalent admitted to and practicing in such foreign country, setting forth the length of time,
 when, and under what circumstances they have known the applicant, and their appraisal of the
 applicant’s character, fitness, and moral qualifications, together with an authenticated English
@@ -7871,7 +7830,7 @@ administrative agency in this state;
 affecting title to real property, or statement of opinion as to the legal effect or sufficiency thereof,
 located in the United States;
 
-       (2)      Any will or trust instrument affecting the disposition on death of any property
+        (2)     Any will or trust instrument affecting the disposition on death of any property
 located in the United States or owned by a resident thereof;
 
         (3)     Any instrument relating to the administration of a decedent’s estate in the United
@@ -7924,12 +7883,12 @@ in any action or proceeding thereafter brought against the Foreign Legal Consult
 or based upon any legal services rendered or offered to be rendered by the Foreign Legal
 Consultant within or to residents of the State of Ohio;
 
-        (c)     The Foreign Legal Consultant’s commitment to notify the Office of Bar
+        (c)      The Foreign Legal Consultant’s commitment to notify the Office of Bar
 Admissions of any resignation or revocation of the Foreign Legal Consultant’s admission to
 practice in the foreign country of admission, of any censure, suspension, or expulsion in respect to
 such admission, or of any change of address within the State of Ohio.
 
-        (B)     Service of process on the Director of Bar Admissions, pursuant to the designation
+        (B)      Service of process on the Director of Bar Admissions, pursuant to the designation
 required by division (A)(3)(b) of this section, shall be made by personally delivering to and leaving
 with the Director of Bar Admissions at his or her office, duplicate copies of such process together
 with a fee of ten dollars. Service of process shall be complete when the Director of Bar Admissions
@@ -8135,678 +8094,7 @@ June 5, 2025.]
 (Former Rule XIII entitled Funds for Dispute Resolution Program was repealed effective October
 12, 2004)
 
-RULE XIV. CERTIFICATION OF ATTORNEYS AS SPECIALISTS
-
-Section 1.     Purpose.
-
-The purpose of this rule is to enhance public access to appropriate legal services by regulating the
-certification of attorneys as specialists.
-
-Section 2.     Supreme Court Commission on Certification of Attorneys as Specialists.
-
-(A)     Creation
-
-       There is hereby created the Supreme Court Commission on Certification of Attorneys as
-       Specialists.
-
-(B)    Duties and authority
-
-       (1)     The Commission shall approve and regulate organizations that certify attorneys
-       practicing in Ohio as specialists and shall do all of the following:
-
-               (a)    Approve organizations as qualified to certify attorneys as specialists
-               pursuant to the standards set forth in this rule. Organizations approved by the
-               Commission shall be styled “accredited organizations.”
-
-               (b)    Review and evaluate the programs of accredited organizations to ensure
-               compliance with this rule;
-
-               (c)     Deny, suspend, or revoke the approval of an accredited organization upon
-               the determination of the Commission the organization has failed to comply with the
-               requirements of this rule;
-
-               (d)    Maintain records of accredited organizations approved by the Commission
-               under Section 3 of this rule;
-
-               (e)    Report to the Disciplinary Counsel or a certified grievance committee any
-               attorney who the Commission believes has violated this rule;
-
-               (f)     Cooperate with other organizations, boards, and organizations engaged in
-               the field of attorney specialization;
-
-               (g)     Enlist the assistance of advisory committees to advise the Commission;
-
-               (h)    Enhance public access to appropriate legal services by informing the
-               general public of the meaning of the certification of an attorney as a specialist;
-
-               (i)    Subject to the approval of the Supreme Court, adopt regulations reasonably
-               needed to implement this rule that are not inconsistent with this rule.
-
-      (2)    The Commission has no independent policy-setting authority.
-
-(C)   Membership
-
-      (1)    The Commission consists of the following eighteen members appointed by the
-      Chief Justice and Justices of the Supreme Court:
-
-             (a)    Twelve attorneys admitted to the practice of law in Ohio, one from each
-             appellate district. The appellate district of each of the twelve attorneys shall be
-             determined by the location of the attorney's principal office.
-
-             (b)    Three law faculty members from separate Ohio law schools engaged in full-
-             time legal education;
-
-             (c)    Two judges;
-
-             (d)     An attorney admitted to the practice of law in Ohio who is certified as a
-             specialist in an area recognized as a specialty by the Court.
-
-      (2)     Each Commission member shall have experience or an interest in attorney
-      specialization.
-
-      (3)    Commission membership should be broad-based and multi-disciplinary to
-      represent a cross section of interests related to attorney specialization and reflect the
-      gender, racial, ethnic, and geographical diversity of the state.
-
-      (4)     The term of a Commission member is three years. A Commission member is
-      eligible for reappointment, but shall not serve more than three consecutive full terms. A
-      Commission member is eligible for reappointment after serving three consecutive full
-      terms, but only upon at least a one-year break in service.
-
-      (5)     Each Commission member appointed because of the member’s elected position,
-      official position, employment, organizational affiliation, or other status ceases to be a
-      member at such time the member no longer holds that position, employment, affiliation, or
-      status.
-
-      (6)     Vacancies on the Commission shall be filled in the same manner as original
-      appointments. A Commission member appointed to fill a vacancy occurring prior to the
-      expiration of the term for which the appointee's predecessor was serving holds office for
-      the remainder of the term.
-
-(D)   Chairperson and vice-chairperson
-
-      At the first meeting each year of the Commission, the Commission members shall elect a
-      chairperson and vice-chairperson. The term of the chairperson and vice-chairperson is one
-      year. A chairperson and vice-chairperson shall not serve more than six consecutive terms.
-
-(E)   Secretary
-
-      The Administrative Director of the Court shall assign a Court employee to serve as
-      secretary to the Commission. The secretary assists the Commission as necessary in the
-      implementation of its work, but at all times is considered an employee of the Court.
-
-(F)   Meetings
-
-      (1)    The Commission may meet in person or by telephone or other electronic means
-      available to the Court.
-
-      (2)     The Commission shall meet as often as required to complete its work, provided the
-      Commission shall meet a minimum of two times per year. The Commission may meet at
-      the call of the chairperson or at the request of a majority of the Commission members.
-
-      (3)     All Commission meetings shall be scheduled for a time and place so as to minimize
-      costs to the Court and to be accessible to Commission members, Court staff, and the public.
-
-      (4)    Public notice of all Commission meetings shall be provided on the Court’s website.
-
-      (5)    All Commission meetings shall be open to the public.
-
-(G)   Member attendance
-
-      (1)      For a fully effective Commission, a Commission member shall make a good faith
-      effort to attend each Commission meeting at the place, or in the format, as scheduled.
-
-      (2)     A Commission member who is unable to attend a meeting due to an unavoidable
-      conflict may request the chairperson allow the member to participate by telephone or other
-      electronic means available to the Court. A Commission member participating in this
-      manner is considered present for meeting attendance, quorum, and voting purposes.
-
-      (3)    A Commission member may not designate a replacement for participation in or
-      voting at meetings.
-
-      (4)     The secretary for the Commission shall notify the Chief Justice and the
-      Administrative Director of the Court if a Commission member misses three meetings of
-      the Commission within a twelve-month period. Upon such notice, the Administrative
-      Director shall inform the Justices of the Court in order that the Court may consider the
-      replacement of the Commission member.
-
-(H)   Minutes
-
-      Minutes shall be kept at every Commission meeting and distributed to the Commission
-      members for review prior to and approval at the next meeting.
-
-(I)   Quorum
-
-      A quorum exists when a majority of the Commission members is present for the meeting,
-      including those members participating by telephone or other electronic means.
-
-(J)   Actions
-
-      At any Commission meeting at which a quorum is present, the Commission members may
-      take action by affirmative vote of a majority of the members in attendance.
-
-(K)   Subcommittees
-
-      (1)     The Commission may form such subcommittees it believes necessary to complete
-      the work of the Commission. A subcommittee should consist of select Commission
-      members and other persons who the chairperson believes will assist in a full exploration of
-      the issue under the review of the subcommittee.
-
-      (2)  A subcommittee should remain relatively small in size and have a ratio of
-      Commission members to non-Commission members not exceeding one to three.
-
-      (3)     Divisions (E), (F)(1) and (3), (F)(5), (G)(2), (G)(3), (I), (J), (L), and (N) through
-      (Q) of this section apply to the work and non-Commission members of a subcommittee.
-
-(L)   Code of ethics
-
-      A Commission member shall comply with the requirements of the Court’s “Code of Ethics
-      for Court Appointees.” The secretary for the Commission shall provide each Commission
-      member with a copy of the code following the member’s appointment to the Commission
-      and thereafter at the first meeting each year of the Commission.
-
-(M)   Annual report
-
-      By January 31st of each year, the chairperson of the Commission, with the assistance of
-      the secretary of the Commission, shall prepare a report for the Chief Justice, Justices, and
-      Administrative Director of the Court detailing the activities and accomplishments of the
-      Commission during the previous calendar year, the status of attorney specialization and
-      certification in the state, and the anticipated activities of the Commission during the
-      upcoming calendar year. The secretary shall submit the report to the Administrative
-      Director for distribution to the Chief Justice and Justices and publication on the Court’s
-      website.
-
-(N)    Work Product
-
-       The work product of the Commission is the property of the Court.
-
-(O)    Budget
-
-       The budget of the Commission is set by the Court through its internal budget process and
-       as implemented by the Court office, section, or program through which the Commission
-       operates. The Commission has no authority to set its own budget.
-
-(P)    Compensation
-
-       A Commission member serves without compensation.
-
-(Q)    Reimbursement of Expenses
-
-       A Commission member shall be reimbursed for reasonable and ordinary expenses incurred
-       in service to the Commission as permitted by the Court’s Guidelines for Travel by Court
-       Appointees. A member shall not be entitled to compensation beyond reasonable and
-       ordinary expenses.
-
-Section 3.    Standards for Approval of Accredited Organizations.
-
-(A)    Not-for-profit status
-
-       An accredited organization shall be a not-for-profit organization.
-
-(B)    Investigations
-
-       An accredited organization shall investigate recommendations and obtain any data that may
-       be required to ensure an attorney is in compliance with this rule.
-
-(C)    Cooperation
-
-       An accredited organization shall cooperate with the Commission and perform other duties
-       as may be required by the Commission.
-
-(D)    Filing of application
-
-       An organization may file an application for accreditation with the Commission by
-       completing an application provided by the Commission and paying the required application
-       fee. An application for accreditation shall be accompanied by all of the following
-       documents:
-
-(1)    The organization’s governing documents, including articles of
-incorporation, bylaws, resolutions, and other documents setting forth the standards,
-procedures, guidelines, or practices of the organization’s certification program;
-
-(2)    Documents demonstrating the financial stability of the organization and, if
-necessary, any supporting parent organization;
-
-(3)    Biographical summaries of members of the governing board or governing
-committee of the organization, including specific information concerning the
-degree of involvement in the specialty area of persons who review and pass upon
-attorneys’ applications for certification;
-
-(4)    Materials furnished to the attorneys seeking certification, including
-application forms, booklets, or pamphlets describing the certification program, peer
-reference forms, rules and procedures, and evaluation guides;
-
-(5)      Copies of examinations given by the organization in the past two years, or
-in the case of an organization with a new certification program, copies of proposed
-examinations. If an organization accepts examinations given by another entity, the
-organization shall provide copies of the examinations. The organization shall also
-provide evidence of the examination’s validity and reliability; an explanation of
-how the examinations are developed, conducted, and reviewed; and an explanation
-of the standards employed for grading and evaluating the examinations. The factors
-used to judge the suitability and rigor of any examination shall include all of the
-following:
-
-       (a)    Evidence the method by which pass/fail levels are established is a
-       true measure of expertise in the specialty area;
-
-       (b)   Evidence of both reliability and validity for each form of the
-       examination;
-
-       (c)    Evidence of periodic review of the examination to ensure relevance
-       to knowledge and skills needed in the specialty area as the law and practice
-       methods develop over time;
-
-       (d)     Evidence the law of Ohio, when different from the general law, is a
-       part of the examination;
-
-       (e)   Evidence effective measures are taken to protect the security of all
-       examinations;
-
-       (f)    Evidence the written          examination    includes    professional
-       responsibility and ethics.
-
-(E)   Organizational standard
-
-      (1)    An organization shall demonstrate it operates in accordance with the following
-      standards:
-
-             (a)     Its primary purpose includes the identification of attorneys who possess an
-             enhanced level of skill and expertise in the area of law or practice for which
-             specialist certification is being issued;
-
-             (b)   Its certification program develops and improves the professional
-             competence of attorneys;
-
-             (c)     It possesses and will continue to maintain the governance and
-             organizational structures, a reliable source of adequate financial resources, and the
-             established administrative processes needed to carry out a certification program in
-             an unbiased, professional, and ethically responsible manner. The primary criteria
-             for determining organizational capabilities are the following:
-
-                    (i)     The existence of management, administrative, and business
-                    practices that allow the accredited organization to operate its certification
-                    program effectively and provide efficient service to attorneys who submit
-                    applications for certification. The processes and procedures used in the
-                    certification process should include safeguards to ensure unbiased
-                    consideration of attorneys seeking certification.
-
-                    (ii)     A history of adequate financing during the three years preceding the
-                    filing of the application. If the accredited organization is newly formed,
-                    this criterion shall be applied to a parent or sponsoring organization or to
-                    the individual founders, if no founding organization is involved.
-
-                    (iii) The existence of a budget and financial plan for three years
-                    following a grant of accreditation should it be made. If an accredited
-                    organization has previously been accredited and has been in existence for
-                    at least five years, the existence of a budget and financial plan for the year
-                    following accreditation shall be sufficient.
-
-                    (iv)    The presence of persons retained by or on the governing board,
-                    evaluation committees, or staff of the organization who are qualified by
-                    experience, education, and background to carry out the program of
-                    certification, including persons with a background in evaluating the validity
-                    and reliability of examinations and experienced practitioners in the areas of
-                    law in which the organization conducts certification programs. The
-                    majority of the persons who implement and supervise each specialty
-                    program shall be attorneys who have expertise in the area for which
-                    accreditation is sought.
-
-                      (v)    The existence of a handbook, guide, or manual that outlines the
-                      standards, policies, procedures, guides for self-study, and application
-                      procedures;
-
-                      (vi)    Evidence the accredited organization maintains and publishes a
-                      policy providing an appeal procedure for an attorney seeking certification
-                      to challenge the decision of the persons who review and pass upon the
-                      applications of attorneys seeking certification. The policy shall provide an
-                      attorney seeking certification with the opportunity to present an appeal to
-                      an impartial decision-maker in the event of denial of eligibility or denial of
-                      certification. Impartial decision-makers may include persons associated
-                      with the accredited organization.
-
-                      (vii) The existence of policies and procedures for the revocation of
-                      certification and specialization, including the mandatory requirement an
-                      attorney who is certified as a specialist shall immediately report the
-                      attorney’s disbarment or suspension from the practice of law in any
-                      jurisdiction.
-
-      (2)     The materials published by the accredited organization shall not state or imply that
-      membership in, or the completion of education programs offered by, any specific
-      organization are required for certification. This prohibition does not apply to requirements
-      relating to the practice of law that are set out in statutes, rules, and regulations promulgated
-      by the government of the United States, by the government of any state or political
-      subdivision thereof, or by any agency or instrumentality of any of the foregoing.
-
-      (3)     The description of the program shall indicate the accredited organization does not
-      discriminate against attorneys seeking certification on the basis of race, color, national
-      origin, religion, gender, sexual orientation, disability, or age. Experience requirements for
-      attorneys seeking certification or recertification that may indirectly have an effect on a
-      particular age group shall be reasonable.
-
-(F)   Review and decision
-
-      An application for accreditation shall be reviewed and decided as follows:
-
-              (1)     Upon receipt of an application for accreditation, the secretary for the
-              Commission shall review materials submitted by the accredited organization for
-              conformance with this rule. If an application is incomplete or if other documents
-              or information are required, the secretary shall notify the accredited organization.
-              The accredited organization shall comply with the request within sixty days from
-              the receipt of the notice or request an extension. If the application is not completed
-              within this period, and if no extension is granted, the application shall be considered
-              lapsed and ineligible for consideration. The secretary shall give notice to the
-              accredited organization once an application is complete. Withdrawal of an
-
-application does not preclude a subsequent application by the accredited
-organization.
-
-(2)     After review by the secretary for the Commission, the Commission
-chairperson shall designate a review panel of not fewer than three members of the
-Commission for each completed application. The application and supporting
-materials shall be provided to the review panel for independent review and
-consideration. The review panel may seek comment and information from
-whatever sources it deems appropriate, including other attorneys admitted to
-practice in Ohio and professionals who practice in or are knowledgeable concerning
-the specialty. The review panel shall prepare a written report to the Commission
-concerning the application. The written report shall recommend the application be
-approved, denied, or deferred and shall state the reasons for the recommendation.
-
-(3)    If the Commission determines the accredited organization and its
-application satisfy all criteria required for the certification of specialists in an area
-of specialization included in the application, the accredited organization shall be
-designated an accredited organization.
-
-(4)     If the Commission determines the accredited organization or the application
-do not satisfy all criteria required for the certification of specialists in an area of
-specialization, the application shall be denied for that specific area. When an
-application is denied by the Commission, the accredited organization may request
-reconsideration of the denial within thirty days following its receipt of the
-Commission’s decision. Requests for reconsideration shall be made in writing to
-the Commission and should demonstrate why the Commission’s denial was
-unreasonable.
-
-(5)    The Commission shall not approve or deny an application until a written
-report from the review panel for that application has been presented to the
-Commission.
-
-(6)     In making a final decision regarding an application, the Commission shall
-consider all materials relating to an application. These materials include the final
-report of the review panel, copies of the application and supporting documents
-originally submitted by the accredited organization, and any further materials the
-accredited organization has submitted for consideration.
-
-(7)    The Commission shall review and make a decision on an application for
-accreditation as expeditiously as possible.
-
-(8)     The Commission shall promptly notify the accredited organization in
-writing of the decision of the Commission regarding an application for accreditation
-or a request for reconsideration.
-
-             (9)     The Commission may revoke an accredited organization’s accreditation
-             upon a determination the organization has ceased to exist; has failed to operate its
-             certification program in compliance with this rule; or has materially changed its
-             structure, operating standards, guidelines, or criteria for certification or
-             recertification. The Commission, on its own or acting upon a complaint from a
-             third party, may determine reasonable grounds exist for considering the revocation
-             of accreditation. The Commission shall schedule the matter for deliberation at one
-             of the Commission’s regularly scheduled meetings and promptly shall provide the
-             accredited organization with written notice of the meeting and an opportunity to be
-             heard at that meeting.
-
-             (10) An organization whose accreditation has been revoked may reapply for
-             accreditation in accordance with the Commission decision revoking accreditation
-             and as set forth in this rule.
-
-             (11) An accredited organization may request its accreditation be withdrawn by
-             providing written notice to the secretary for the Commission.
-
-(G)   Annual reporting
-
-      An accredited organization shall annually report the following in writing to the
-      Commission in accordance with a schedule as set by the Commission:
-
-             (1)     The current status of each area of specialization with information on the
-             names, attorney registration numbers, and current addresses of Ohio attorneys
-             certified or recertified as specialists by the accredited organization on a form
-             promulgated by the Commission;
-
-             (2)     Any proposed material changes in the accredited organization’s structure,
-             operating standards, guidelines, or criteria for certification or recertification, at least
-             sixty days before those changes are to become effective;
-
-             (3)    Any additional information as requested by the Commission, including but
-             not limited to the information set forth in divisions (D) and (E) of this section.
-
-(H)   Additional areas of specialization requested by an accredited organization
-
-      For any new areas of specialization offered by the accredited organization not previously
-      included in the organization’s initial application, the organization shall demonstrate the
-      organization meets the requirements of this rule for the specialty area on an application
-      form promulgated by the Commission consistent with Section 3 of this rule. The
-      application shall include the names, attorney registration numbers, and current addresses
-      of Ohio attorneys certified as a specialist in the new area. For any new areas of
-      specialization, the accredited organization shall also propose a definition for the new
-      specialization area which the Commission may adopt, modify, or reject.
-
-Section 4.     Minimum Standards for Certification of Specialists.
-
-(A)    Substantial involvement
-
-       An attorney seeking certification shall demonstrate substantial involvement in the specialty
-       area in the representation of clients during the three-year period immediately preceding
-       application to an accredited organization. At a minimum, an attorney shall demonstrate
-       that during the three-year period immediately preceding the attorney’s application the
-       attorney devoted at least twenty-five percent of the time a typical attorney devotes to a
-       normal, full-time legal practice to practicing in the specialty area.
-
-(B)    Peer review
-
-       (1)     An attorney seeking certification shall submit the names of at least five references
-       from attorneys or judges who are knowledgeable regarding the practice area and are
-       familiar with the competence of the attorney.
-
-       (2)    The accredited organization shall send the reference forms to potential references.
-
-       (3)    The reference forms shall inquire into the respondent’s area of practice, the
-       respondent’s familiarity with both the specialty area and the attorney seeking certification,
-       and the length of time the respondent has been practicing law and has known the attorney
-       seeking certification. The form also shall inquire about the qualifications of the attorney
-       seeking certification in various aspects of the practice and, as appropriate, the attorney’s
-       dealings with judges and opposing counsel.
-
-       (4)     The attorney may not submit as a reference any attorney or judge who is related to
-       the attorney seeking certification or who is currently engaged in legal practice with an
-       attorney or who has the same employer.
-
-       (5)    The accredited organization may seek and consider other references.
-
-(C)    Written examination
-
-       An attorney seeking certification shall pass a rigorous written examination testing at the
-       highest level the knowledge and skills of the substantive and procedural law in the specialty
-       area.
-
-(D)    Educational experience
-
-       (1)     An attorney seeking certification as a specialist shall complete a minimum of thirty-
-       six hours of continuing legal education in the specialty area in which the attorney is seeking
-       certification within the three-year period preceding the attorney’s application for
-       certification. The continuing legal education shall fully comply with Gov. Bar R. X and
-       the CLE Regulations.
-
-      (2)     In addition to the requirements of Gov. Bar R. X, a specialist shall complete twelve
-      hours of continuing legal education every two years in each specialty area for which the
-      specialist is certified.
-
-      (3)     An accredited organization may exempt an attorney from the continuing education
-      requirements in the event of a severe, prolonged illness or disability that prevents the
-      specialist from participating in accredited continuing legal education programs and
-      activities and in the requirements for certification renewal established by the Commission
-      and the accredited organization as follows:
-
-             (a)     Before the deadline for recertification, the attorney shows, by a
-             preponderance of the evidence and to the satisfaction of the accredited organization,
-             completing the requirements for recertification presents an extreme hardship and
-             recertification is significantly more difficult as a result of the severe, prolonged
-             illness or disability;
-
-             (b)     After the deadline for recertification, the attorney shows, by a
-             preponderance of the evidence and to the satisfaction of the accredited organization,
-             completing the requirements for recertification presented an extreme hardship,
-             recertification was significantly more difficult as a result of the severe, prolonged
-             illness or disability, and there exists an adequate explanation as to why the attorney
-             did not seek exemption prior to the end of the attorney’s certification period;
-
-             (c)    The duration of an exemption granted shall be dependent upon the severity
-             of the attorney’s illness or disability and may be limited, as determined by the
-             accredited organization;
-
-             (d)     An accredited organization shall develop standards to assess all exemption
-             requests and review all requests in accordance with those standards. The standards
-             shall include an appeal procedure for an attorney requesting an exemption to
-             challenge the decision of the member or members of the accredited organization
-             who reviewed and passed upon the attorney’s request. The appeal procedure shall
-             provide the attorney requesting the exemption with an opportunity to appeal to a
-             separate, impartial decision-maker in the event of denial of eligibility for or denial
-             of an exemption. The separate, impartial decision-maker may include a person
-             associated with the accredited organization.
-
-(E)   Good standing
-
-      An attorney seeking certification shall provide proof of both of the following:
-
-             (1)     The attorney is registered for active status pursuant to Gov. Bar R. VI, is in
-             good standing with the Supreme Court, and has no current or pending disciplinary
-             matter in Ohio or another state;
-
-             (2)(a) The attorney is covered by professional liability insurance through an
-             insurance company authorized to transact business in Ohio, in an amount not less
-             than five hundred thousand dollars per loss, and has demonstrated ability to pay all
-             claims that fall within the liability insurance deductible, except that attorneys who
-             meet the following criteria may be exempted from this requirement:
-
-                     (i)     An attorney who can demonstrate the attorney’s employment
-                     relationship will fully cover any professional liability claim or provide
-                     immunity;
-
-                     (ii)    An attorney employed by an entity, other than a law firm, whose
-                     sole professional practice is for that entity;
-
-                     (iii) An attorney employed by a governmental entity that would be
-                     immune from liability claims.
-
-             (b)    The attorney shall notify the accredited organization immediately of any
-             cancellation or change in the attorney’s professional liability insurance coverage.
-
-(F)   Attorney acknowledgement
-
-      The attorney shall sign and submit an attorney certification and acknowledgement on a
-      form promulgated by the Commission. Once the attorney is certified, this form shall be
-      collected annually by the accredited organization from the attorney and shall be stored and
-      maintained by the organization for the length of the attorney’s current certification period.
-
-(G)   Specialists who become judges or magistrates
-
-      No sitting, full-time judge or magistrate may represent or hold themselves out as a certified
-      specialist nor may any accrediting organization represent or hold out a sitting, full-time
-      judge or magistrate as a specialist. When a certified specialist assumes a position of sitting,
-      full-time judge or magistrate, the date on which the specialist’s certification would
-      otherwise expire shall be noted by the accrediting organization. If the specialist’s tenure
-      as a sitting, full-time judge or magistrate concludes before that expiration date, and
-      provided the specialist has in the interim continued to satisfy the continuing legal education
-      requirements of this rule, the judge’s or magistrate’s certification may resume upon
-      request, subject to any reasonable requirements of the accrediting organization, and
-      continue until the next expiration date.
-
-(H)   Length of certification
-
-      The period of certification as a specialist shall be set by the accredited organization, but
-      shall be not less than three or more than seven years. During the certification period, the
-      Commission may require directly, or through the accredited organization, evidence from
-      the specialist of continued qualification for certification as a specialist.
-
-(I)    Certification renewals
-
-       Application for and approval of continued certification as a specialist shall be required
-       prior to the end of each certification period. To qualify for continued certification as a
-       specialist, an attorney accredited organization shall pay the required fee and satisfy the
-       requirements for certification renewal established by the accredited organization.
-
-Section 5.    Privileges Conferred and Limitations Imposed.
-
-(A)    Communication of specialization
-
-       An attorney certified as a specialist by an organization accredited under this rule may
-       communicate that fact, provided the attorney shall identify the name of the accredited
-       organization in the communication. Additionally, the attorney may represent that the
-       accredited organization is approved by the Commission.
-
-(B)    Effect of specialization
-
-       (1)    This rule shall not limit the right of a certified specialist to practice in any field of
-       law.
-
-       (2)     An attorney shall not be required to be certified as a specialist in order to practice
-       in any field of law.
-
-(C)    Multiple specializations
-
-       An attorney may be certified as a specialist in more than one field of law.
-
-(D)    Communication by accredited organization
-
-       An accredited organization may hold itself out as “Accredited by the Supreme Court of
-       Ohio Commission on Certification of Attorneys as Specialists” under the following
-       conditions:
-
-              (1)     The accredited organization using this announcement or otherwise referring
-              to its accreditation by the Commission shall provide notice to attorneys applying
-              for certification that accreditation by the Commission indicates solely that the
-              accredited organization’s certification program has met the requirements of this
-              rule;
-
-              (2)    The accredited organization shall not permit certified attorneys to state or
-              imply that they are certified or accredited by the Commission or by the Court.
-
-Section 6.    Fees; Miscellaneous.
-
-(A)    Fees and funding
-
-       (1)    The Commission shall establish and collect reasonable fees from accredited
-       organizations.
-
-       (2)    The Commission shall be funded from the fees established pursuant to division
-       (A)(1) of this section.
-
-       (3)  At the request of the Administrative Director of the Supreme Court, the
-       Commission shall prepare and submit a proposed annual budget for approval by the Court.
-
-(B)    Liability
-
-       Accredited organizations shall hold and save the Commission and the Court, its member
-       volunteers, officers, agents, and employees harmless from liability of any kind, including
-       costs, expenses, and attorney fees, for any suit or damages sustained by any person or
-       property arising out of an accredited organization’s or accredited organization’s application
-       for accreditation by the Commission or arising out of any actions of the accredited
-       organization or attorneys to whom specialization is granted or denied.
-
-(C)    Public records
-
-       (1)     Except as provided in division (C)(2) of this section, the records of the Commission
-       shall be available for public access pursuant to Sup. R. 44 through 47.
-
-       (2)    An accredited organization may request the Commission limit distribution of
-       documents the organization has submitted to the Commission to those persons who need
-       the information to fulfill obligations specified in these rules. In such cases, the
-       Commission shall take reasonable steps to honor such a request, but the Commission shall
-       not be responsible for disclosure due to circumstances beyond its immediate control.
-       Actual or proposed written examinations submitted to the Commission shall be kept
-       confidential.
-
-Section 7.    Effective Date.
-
-[Effective: January 1, 1993; amended effective November 17, 1993; May 8, 2000; April 1, 2017;
-April 15, 2024; October 15, 2024.]
+RULE XIV. [RESERVED]
 
 RULE XV.       SUPREME COURT COMMISSION ON PROFESSIONALISM
 
@@ -8842,7 +8130,7 @@ the Supreme Court.
 shall serve three year terms beginning on the first day of January. Members shall be eligible for
 reappointment, but shall not serve more than two consecutive terms of three years.
 
-       (2)     Vacancies on the Commission shall be filled in the same manner as original
+       (2)      Vacancies on the Commission shall be filled in the same manner as original
 appointments. A member appointed to fill a vacancy occurring prior to the expiration of the term
 for which his or her predecessor was appointed shall hold office for the remainder of the unexpired
 term. If an attorney member no longer practices in Ohio, if a judge member leaves office, or if a
@@ -8896,7 +8184,7 @@ reimbursed for expenses incurred in the performance of their official duties.
 
        (A)     The Commission shall do all of the following:
 
-       (1)     Monitor and coordinate professionalism efforts and activities in Ohio courts, bar
+       (1)      Monitor and coordinate professionalism efforts and activities in Ohio courts, bar
 associations, and law schools and by other entities;
 
        (2)     Monitor professionalism efforts and activities in jurisdictions outside Ohio;
@@ -9071,7 +8359,7 @@ case and the amount of the attorney’s fee, and indicate that the disclosure is
 the service to satisfy its reporting requirements to the Supreme Court Office of Attorney Services.
 The notice shall be similar in substance to the following:
 
-                       ACKNOWLEDGEMENT OF UNDERSTANDING
+                        ACKNOWLEDGEMENT OF UNDERSTANDING
 
        Pursuant to the reporting requirements set forth by the Supreme Court Office of Attorney
      Services, I understand and acknowledge that (insert Attorney’s Name), my attorney, may be
@@ -9104,7 +8392,7 @@ advertising is solely to solicit clients for themselves;
         (D)      Any pro bono legal assistance program that does not accept fees from attorneys or
 clients for referral.
 
-       Section 5.       Legal Service Plans. Any bona fide organization that recommends,
+       Section 5.        Legal Service Plans. Any bona fide organization that recommends,
 furnishes, or pays for legal services to its members or beneficiaries shall satisfy all of the following:
 
         (A)     The organization, including any affiliate, is organized and operated so that no profit
@@ -9118,7 +8406,7 @@ with the lawyer or the lawyer’s firm, nor any nonlawyer, shall have initiated 
 organization for the primary purpose of providing financial or other benefit to the lawyer, partner,
 associate, or affiliated lawyer.
 
-        (C)   The organization is not operated for the purpose of procuring legal work or financial
+        (C)    The organization is not operated for the purpose of procuring legal work or financial
 benefit for any lawyer as a private practitioner outside of the legal services program of the
 organization.
 
@@ -9140,7 +8428,7 @@ services rendered by selected counsel to the extent that such services are cover
 and in an amount equal to the cost that would have been incurred by the plan if the plan had
 furnished designated counsel.
 
-        (G)    The lawyer does not know or have cause to know that the organization is in
+        (G)     The lawyer does not know or have cause to know that the organization is in
 violation of applicable laws, rules of court, and other legal requirements that govern its operations.
 
         (H)     The organization has filed with the Supreme Court Office of Attorney Services, on
@@ -9212,7 +8500,7 @@ I(3), adopted by the Supreme Court on December 5, 1991, shall take effect on Aug
 Gov.Bar R. VI, and Section 6 of Gov.Bar R. X adopted by the Supreme Court on May 19, 1992,
 shall take effect on July 1, 1992.
 
-       (L)   Gov.Bar R. XV, adopted by the Supreme Court on July 29, 1992, shall take effect
+       (L)    Gov.Bar R. XV, adopted by the Supreme Court on July 29, 1992, shall take effect
 on September 1, 1992.
 
         (M) The amendments to Section 9 of Gov.Bar R. I, Gov.Bar R. III, Sections 1 and 2 of
@@ -9259,7 +8547,7 @@ May 7, 1996, shall take effect on July 1, 1996.
        (Y)    The amendment to Gov.Bar R. V(11)(E)(3), adopted by the Supreme Court of Ohio
 on June 25, 1996, shall take effect on September 1, 1996.
 
-      (Z)    The amendment to Gov.Bar R. VIII(3)(F)(1), adopted by the Supreme Court of
+       (Z)   The amendment to Gov.Bar R. VIII(3)(F)(1), adopted by the Supreme Court of
 Ohio on October 8, 1996, shall take effect on December 1, 1996.
 
        (AA) The amendments to Gov.Bar R. I, adopted by the Supreme Court of Ohio on
@@ -9480,7 +8768,7 @@ Supreme Court on September 11, 2012, shall take effect on January 1, 2013.
       (OOOO)        The amendments to Gov.Bar R. I(9), adopted by the Supreme Court on
 October 23, 2012, shall take effect on January 1, 2013.
 
-      (PPPP)        The amendments to Gov.Bar R. VI(3), adopted by the Supreme Court on
+      (PPPP)       The amendments to Gov.Bar R. VI(3), adopted by the Supreme Court on
 August 22, 2013, shall take effect on November 1, 2013.
 
        (QQQQ)      The amendments to Gov.Bar R. X and Appendix I, adopted by the Supreme
@@ -9679,8 +8967,18 @@ November 20, 2025, shall take effect on January 1, 2026.
        (XXXXXX) The amendments to the Board of Bar Examiners Policy on Applicants with
 Disabilities adopted by the Supreme Court on January 8, 2026, shall take effect on January 22,
 2026.
-       (YYYYYY) The amendments to Gov.Bar R. XX(2) adopted by the Supreme court on
+       (YYYYYY) The amendments to Gov.Bar R. XX(2) adopted by the Supreme Court on
 March 25, 2026, shall take effect on April 8, 2026.
+
+       (ZZZZZZ)      Gov.Bar R. XIV, adopted effective January 1, 1993, was repealed effective
+May 1, 2026.
+
+      (AAAAAAA) The amendments to Gov.Bar R. I(18) adopted by the Supreme Court on
+May 19, 2026, shall take effect on September 1, 2026.
+
+       (BBBBBBB) The amendments to Gov.Bar R. I, Sections 1 through 3, 10; Gov.Bar R. II,
+Sections 2 and 4; Gov.Bar R. IX(1) and Gov.Bar R. X(5) adopted by the Supreme Court on August
+6, 2026, shall take effect on August 6, 2026.
 
                                    APPENDICES
 
@@ -10022,17 +9320,17 @@ Approved CLE Activity.
 
        401.2 Law School Teaching Credit
 
-         (A)    An Attorney, Magistrate, or Judge who is an adjunct or part-time professor may
+       (A)      An Attorney, Magistrate, or Judge who is an adjunct or part-time professor may
 receive three credit hours of CLE Credit for each Semester Credit Hour of a course that is part of
-the curriculum of a J.D., LL.M., or Ph.D. program taught at an ABA-accredited law school the
-first time the course is taught by that Attorney, Magistrate, or Judge and one-half credit hour for
-each Semester Credit Hour the course is subsequently taught by that Attorney, Magistrate, or
-Judge. Prorated credit will be granted for quarter or trimester hours.
+the curriculum of a J.D., LL.M., or Ph.D. program taught at a law school accredited by an
+accrediting agency the first time the course is taught by that Attorney, Magistrate, or Judge and
+one-half credit hour for each Semester Credit Hour the course is subsequently taught by that
+Attorney, Magistrate, or Judge. Prorated credit will be granted for quarter or trimester hours.
 
-        (B)     An Attorney, Magistrate, or Judge who is a full-time professor may receive one-
+        (B)    An Attorney, Magistrate, or Judge who is a full-time professor may receive one-
 half credit hour of CLE Credit for each Semester Credit Hour of a course that is part of the
-curriculum of a J.D., LL.M., or Ph.D. program taught at an ABA-accredited law school. Prorated
-credit will be granted for quarter or trimester hours.
+curriculum of a J.D., LL.M., or Ph.D. program taught at a law school accredited by an accrediting
+agency. Prorated credit will be granted for quarter or trimester hours.
 
       (C)     An Attorney, Magistrate, or Judge shall submit an application for CLE Credit in a
 manner authorized by the Commission within thirty days after the last day of the course.
@@ -10048,10 +9346,10 @@ by participating as a mentor in the Supreme Court Lawyer to Lawyer Mentoring Pro
 
        Regulation 402: Law School Course Credit
 
-        (A)    An Attorney, Magistrate, or Judge may receive three hours of CLE Credit for each
+       (A)      An Attorney, Magistrate, or Judge may receive three hours of CLE Credit for each
 Semester Credit Hour of a course that is part of the curriculum of a J.D., LL.M., or Ph.D. program
-completed at an ABA-accredited law school. Prorated credit will be granted for quarter or
-trimester hours.
+completed at an a law school accredited by an accrediting agency. Prorated credit will be granted
+for quarter or trimester hours.
 
       (B)     Taking an examination is not required for CLE Credit. The course may be
 completed for academic credit or on an audit basis.
@@ -10125,12 +9423,12 @@ presentation of a CLE Activity.
         (H)    Established Sponsors shall pay fees in connection with their designation as
 established by the Commission.
 
-        (I)    Any violations of these Regulations shall subject the Established Sponsor to late
+        (I)     Any violations of these Regulations shall subject the Established Sponsor to late
 fees established by the Commission or other sanctions as provided in Rule X or these Regulations.
 
-       404.2 An ABA-accredited law school acting as a Sponsor of CLE Activities shall be
-considered an Established Sponsor under this Regulation. The announcement required by
-Regulation 404.1(F) shall be accompanied by the applicable fee.
+        404.2 A law school accredited by an accrediting agency acting as a Sponsor of CLE
+Activities shall be considered an Established Sponsor under this Regulation. The announcement
+required by Regulation 404.1(F) shall be accompanied by the applicable fee.
 
        Regulation 405: Accreditation of Programs
 
@@ -10218,7 +9516,7 @@ section.
 
        Regulation 407: Accreditation of Special Programs
 
-       407.1(A)       A law firm; a corporation, including a corporate legal department; a
+       407.1(A)        A law firm; a corporation, including a corporate legal department; a
 governmental agency; or a group of Attorneys in public service, for example the Ohio Attorney
 General's Office, a County Prosecuting Attorney Office, a U.S. Attorney Office, a Public Defender
 Office, a legal department of a State or Federal agency, a legal services program, or a law
@@ -10312,7 +9610,7 @@ set forth in Regulation 409.
 requirements of this Regulation. The Self-Study Activity shall also meet the standards set forth in
 Regulation 406 to the extent they are applicable to a program of individualized learning.
 
-        (B)    Any Sponsor who has not been designated as an Established Sponsor shall submit
+        (B)     Any Sponsor who has not been designated as an Established Sponsor shall submit
 an application for approval in a manner authorized by the Commission no later than thirty days
 after the date of initial availability of the Self-Study Activity, together with the applicable fee.
 Only Sponsors may apply for accreditation of Self-Study Activities. Attorneys, Magistrates, and
@@ -10390,7 +9688,7 @@ filed.
          (O)     Any violation of these Regulations shall subject the Established Sponsor or Sponsor
 to late fees established by the Commission.
 
-       409.2(A) An Electronic Interactive Skill-Based Activity shall be classified as a Self-Study
+        409.2(A) An Electronic Interactive Skill-Based Activity shall be classified as a Self-Study
 Activity subject to the requirements of Regulation 409.
 
        (B)    An Electronic Interactive Skill-Based Activity shall include each element in the
@@ -10435,11 +9733,11 @@ provide any performance critique shall have one or more of the following qualifi
        (1)     At least seven years of active professional experience that includes the skill
 involved in that exercise;
 
-        (2)     Specialist certification by an accredited professional organization that includes the
+         (2)    Specialist certification by an accredited professional organization that includes the
 skill involved in that exercise;
 
-       (3)    Faculty service at an American Bar Association accredited law school for one or
-more courses that covers the skill involved in that exercise;
+       (3)     Faculty service at a law school accredited by an accrediting agency for one or more
+courses that covers the skill involved in that exercise;
 
         (4)   Faculty service for at least two CLE programs conducted by an Ohio CLE
 Established Sponsor pursuant to Regulation 406 that covers the skill involved in that exercise;
@@ -10447,7 +9745,7 @@ Established Sponsor pursuant to Regulation 406 that covers the skill involved in
        (5)     Previous Ohio CLE Commission faculty approval for the same skill-based
 program.
 
-       (H)     Faculty who provide any performance feedback in an Electronic Skill-Based
+        (H)    Faculty who provide any performance feedback in an Electronic Skill-Based
 Activity shall complete live or recorded training on providing feedback for the skill-based
 performance, including general feedback methodology and specific topics that apply to the skill-
 based performance. The feedback training may be independently certified for CLE Credit if it
@@ -10530,7 +9828,7 @@ appropriate.
         (D)     The Sponsor shall assure that a minimum of twenty-five percent of the available
 seating at the course is made available to Attorneys subject to Rule X, Section 14.
 
-        414.5 The Commission may revoke its accreditation of a New Lawyers Training course
+         414.5 The Commission may revoke its accreditation of a New Lawyers Training course
 if it determines that the course is not in Compliance with the requirements of this regulation.
 Revocation shall not be retroactive, but shall affect only presentations of the program occurring
 after the effective date of the revocation.
@@ -10621,7 +9919,7 @@ to Rule X, Section 17(A)(1) for failure to satisfy the CLE Requirements, includi
 modifications of those requirements contained in Regulation 305:
 
         DEFICIENCY:                                     RECOMMENDED SANCTION:
-        Six hours or less                                        $75
+        Six hours or less                                       $75
         More than six hours but not more than                   $150
         12 hours
         More than twelve hours but not more                             $225
@@ -10748,11 +10046,14 @@ on March 13, 2024, shall take effect on January 1, 2025.
         (U)     Amendments to the Regulations adopted by the Supreme Court on July 25, 2024,
 shall take effect on January 1, 2025.
 
+      (V) Amendments to Regulations 401.2, 402, 404.2, and 409.2 were adopted by the
+Supreme Court on August 6, 2026 and shall take effect on August 6, 2026.
+
 [Effective: January 1, 1989; amended effective December 15, 1989, May 29, 2000, August 7,
 2000; July 1, 2001, July 1, 2002, September 1, 2004, November 7, 2005; December 26, 2005;
 November 1, 2007; November 2008; January 1, 2013; January 1, 2014; November 1, 2017;
 September 1, 2018; July 1, 2019; February 1, 2020; August 1, 2022; January 1, 2023; January 1,
-2025.]
+2025; August 6, 2026.]
 
                                                                Schedule of Fees for Sponsors
                                                                (Pursuant to Regulation 901)
@@ -10858,7 +10159,7 @@ may conduct a hearing or phone conference prior to ruling on the motion.
         (A)    Depositions taken in disciplinary proceedings shall be filed with the director as
 prescribed in Civ. R. 32.
 
-       (B)     If relator and respondent stipulate to facts, the panel chair or a judge or lawyer
+        (B)    If relator and respondent stipulate to facts, the panel chair or a judge or lawyer
 commissioner member of the panel may either cancel a hearing and deem the matter submitted in
 writing or order that a hearing be held with all counsel and the respondent present.
 
@@ -10934,7 +10235,7 @@ appointment of a hearing panel, the motion shall be ruled upon by the chair or v
 Board. If a hearing panel has been appointed, the motion to quash shall be ruled on by the chair
 of the hearing panel.
 
-        (B)(1) Subpoena pursuant to law of another jurisdiction. A foreign disciplinary
+         (B)(1) Subpoena pursuant to law of another jurisdiction. A foreign disciplinary
 authority, pursuant to the law of that jurisdiction and where the issuance of the subpoena has been
 duly approved, if such approval is required by the law of that jurisdiction, may request issuance of
 a subpoena for use in an attorney or judicial discipline or impairment proceeding. The director
@@ -10952,7 +10253,7 @@ The director may provide assistance to facilitate a request made under this divi
 
        Reg. 7.     Board-Appointed Master.
 
-        (A)      Appointment. The Board may appoint one or more masters to perform duties set
+         (A)     Appointment. The Board may appoint one or more masters to perform duties set
 forth in Gov. Bar R. V and these regulations. A Board-appointed master shall have formerly served
 as a judge or attorney commissioner of the Board and shall be registered as active with the Supreme
 Court. At the request of a hearing panel chair, a master may assume any or all case management
@@ -10977,7 +10278,7 @@ of stipulations between the parties, the preparation of witness lists and exhibi
 chair, that occur after the appointment of a hearing panel and before the formal hearing on the
 complaint;
 
-       (4)     Fix a date for the formal hearing before the hearing panel after consultation with
+       (4)      Fix a date for the formal hearing before the hearing panel after consultation with
 the panel chair.
 
         (D)     Report. The master shall prepare a written report upon the matters submitted to or
@@ -11098,7 +10399,7 @@ requirements set forth in Gov. Bar R. V, Section 5 and 6:
               (ii)    Compliance by bar counsel duties and responsibilities set forth in Gov. Bar
        R. V, Section 6(C);
 
-              (iii) Compliance with the requirement to file quarterly case activity reports with
+              (iii)   Compliance with the requirement to file quarterly case activity reports with
        the Board, including any issues regarding the timeliness and accuracy of those reports;
 
              (iv)    Compliance with the minimum standards for each certified grievance
@@ -11139,7 +10440,7 @@ deadlines for remedying a particular instance of noncompliance;
 committee until each instance of noncompliance cited in the notice is addressed to the satisfaction
 of the Board;
 
-      (d)      A statement that the Board may initiate proceedings to decertify the grievance
+      (d)       A statement that the Board may initiate proceedings to decertify the grievance
 committee if it fails to timely rectify the instances of noncompliance cited in the notice.
 
         (2)     Conditions of Deferral. The Board may impose any conditions on the deferral of
@@ -11261,7 +10562,7 @@ organizations wanting to receive copies of issued opinions.
 opinion requests. The list shall include the question presented and the rule or statute potentially
 implicated by the request.
 
-        (2)    An advisory opinion that becomes withdrawn, modified, not current, or affected by
+        (2)     An advisory opinion that becomes withdrawn, modified, not current, or affected by
 other significant changes will be marked with an appropriate designation to indicate the status of
 the opinion.
 
@@ -11381,9 +10682,9 @@ provided an applicant shall wait at least twenty-four hours before retaking the 
 
 RULE IV.       VIOLATION OF EXAMINATION RULES AND IRREGULARITIES
 
-       Section 1.     Violations
+       Section 1.      Violations
 
-        An applicant may be subject to sanctions ranging from public reprimand to disqualification,
+         An applicant may be subject to sanctions ranging from public reprimand to disqualification,
 if the applicant does any of the following:
 
        (A)     Gives or receives aid in answering examination questions;
@@ -11399,7 +10700,7 @@ stop has been called;
 
        (F)     Otherwise violates any written or oral examination instructions.
 
-       Section 2.     Investigation by Board
+       Section 2.      Investigation by Board
 
         (A)     Upon an allegation of a breach of examination rules or other examination
 irregularity by an applicant, the Board of Bar Examiners shall provide the applicant an opportunity
@@ -11995,9 +11296,9 @@ APPENDIX VI:   [RESERVED]
 
 APPENDIX VII:   [RESERVED]
 
-APPENDIX VIII:      REGULATIONS GOVERNING PROCEDURE ON COMPLAINTS
-                         AND HEARINGS BEFORE THE
-                BOARD ON THE UNAUTHORIZED PRACTICE OF LAW
+APPENDIX VIII:       REGULATIONS GOVERNING PROCEDURE ON COMPLAINTS
+                          AND HEARINGS BEFORE THE
+                 BOARD ON THE UNAUTHORIZED PRACTICE OF LAW
 
 UPL Reg. 100       Title, Authority, and Application.
 
@@ -12152,7 +11453,7 @@ may require the testimony of witnesses and production of documents.
 
        205      Prehearing Procedure.
 
-        (A)    Prehearing conference. Within forty days of the appointment of a hearing panel,
+        (A)     Prehearing conference. Within forty days of the appointment of a hearing panel,
 the panel chair shall conduct a prehearing conference with the parties and counsel of record. At
 the discretion of the panel chair, the panel chair may hold a prehearing conference by telephone
 and may continue the hearing from day-to-day. The prehearing conference shall accomplish the
@@ -12343,7 +11644,7 @@ of eligibility under this regulation.
 the rules, opinions, statutes, case law, and any other authority that the requester has already
 consulted concerning the questions raised in the request.
 
-       (3)      The secretary will send to the requester a letter acknowledging the receipt of the
+        (3)     The secretary will send to the requester a letter acknowledging the receipt of the
 request.
 
        (E)    Review of advisory opinion requests. The procedure for review of a request for
@@ -12363,7 +11664,7 @@ submitted request for an advisory opinion be considered by the Board, such reque
 presented to the Board for consideration at the Board’s next business meeting. If the committee
 unanimously declines a request for an advisory opinion, that determination shall be final;
 
-       (5)     If the committee determines that adequate authority already exists that answers the
+        (5)    If the committee determines that adequate authority already exists that answers the
 inquiry posed, or if an advisory opinion is not issued for any other reason, the committee or Board
 may direct the secretary to provide guidance in a staff letter. The staff letter may be based on
 previous opinions of the Board, the views of the committee or the Board, or other relevant
@@ -12536,7 +11837,7 @@ report of the activity of the certified unauthorized-practice-of-law committee;
        (ii)    Reporting of compliance by bar counsel with the education requirements set forth
 in Gov. Bar R. VII, Sec. 4(C)(4);
 
-        (iii) Compliance with the requirement of Gov. Bar R. VII, Sec. 3(D)(1)(h) to file
+        (iii)  Compliance with the requirement of Gov. Bar R. VII, Sec. 3(D)(1)(h) to file
 quarterly case-activity reports with the Board, including any issues regarding the timeliness and
 accuracy of those reports;
 

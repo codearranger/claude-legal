@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 955 — Dogs — Strict-Liability Dog-Bite (955.28)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-955
-> **Fetched:** 2026-06-11
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 
@@ -938,7 +938,7 @@ Last updated January 16, 2026 at 8:32 AM
 
 Last updated January 16, 2026 at 8:34 AM
 
-## § 955.60. Vicious, dangerous, and nuisance dog acts
+## § 955.60. Dog complaint notification procedures
 
 (A) Any person authorized to enforce this chapter shall investigate any complaint that indicates a possible violation of any provision of this chapter involving a dog.
 
@@ -950,7 +950,7 @@ Last updated January 16, 2026 at 8:34 AM
 
 (C) The authorized person shall post the notice on the door of the dwelling at which the dog resides within twenty-four hours after the authorized person concludes the investigation.
 
-Last updated March 9, 2026 at 11:40 AM
+Last updated September 3, 2026 at 3:33 PM
 
 ## § 955.61. Dog attack notifications
 

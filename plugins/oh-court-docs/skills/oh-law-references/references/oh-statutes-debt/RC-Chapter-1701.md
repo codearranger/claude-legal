@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 1701 — General Corporation Law
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-1701
-> **Fetched:** 2026-06-11
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 
@@ -2181,6 +2181,8 @@ If the declaration of conversion would authorize any particular corporate action
 (F) Except as expressly provided in this section, nothing in this section shall be construed to affect or impair any right, remedy, obligation, duty, power, or authority of any acquiring person, any issuing public corporation, the directors of any acquiring person or issuing public corporation, or any other person under the laws of this or any other state or of the United States.
 
 (G) If any application of any provision of this section is for any reason held to be illegal or invalid, the illegality or invalidity shall not affect any legal and valid provision or application of this section, and the parts and applications of this section are severable.
+
+Last updated September 30, 2026 at 1:24 PM
 
 ## § 1701.832. State's responsibility as to tender offers
 

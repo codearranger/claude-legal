@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 1345 — Consumer Sales Practices Act (CSPA)
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-1345
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 
@@ -102,7 +102,7 @@ Last updated September 6, 2023 at 2:30 PM
 
 Last updated August 8, 2024 at 3:22 PM
 
-## § 1345.021. Ethanol blended or mixed into gasoline
+## § 1345.021. [Repealed effective 10/06/2026 by H.B. 433, 136th General Assembly] Ethanol blended or mixed into gasoline
 
 (A) As used in this section, "retail dealer" means a person who owns, operates, controls, or supervises an establishment at which gasoline is sold or offered for sale to the public.
 
@@ -115,6 +115,8 @@ Last updated August 8, 2024 at 3:22 PM
 (C) If a retail dealer elects to disclose any of the information specified in division (B) of this section, the dealer may make that disclosure in any form, using any type of sign or label and any size or style of letters, at the retail dealer's discretion.
 
 (D) A retail dealer shall not be required to disclose the fact that gasoline contains ethanol and shall not be required to disclose the percentage of ethanol in the gasoline by any law, rule, resolution, or ordinance of any agency or department of the state or any political subdivision of the state.
+
+Last updated July 21, 2026 at 5:17 PM
 
 ## § 1345.022. Installation of unsafe used tires
 

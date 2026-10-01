@@ -1,7 +1,7 @@
 # Ohio Revised Code Chapter 1901 — Municipal Court Act
 
 > **Source:** https://codes.ohio.gov/ohio-revised-code/chapter-1901
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-10-01
 > **Format:** verbatim conversion of the Ohio LSC HTML
 > publication at `codes.ohio.gov`
 
@@ -1178,23 +1178,17 @@ In addition to jurisdiction otherwise granted in this chapter, the environmental
 
 (C) The Tiffin-Fostoria municipal court does not have concurrent jurisdiction with the Seneca county court of common pleas in a criminal action or proceeding when any of the following applies:
 
-(1) The defendant is not a resident of Seneca county.
+(1) The defendant is charged with a first, second, or third degree felony offense of violence.
 
-(2) The defendant is charged with a felony offense of violence.
+(2) The defendant is charged with a felony sex offense or has a duty to comply with sections 2950.04, 2950.041, 2950.05, and 2950.06 of the Revised Code.
 
-(3) The defendant is charged with a felony sex offense or has a duty to comply with sections 2950.04, 2950.041, 2950.05, and 2950.06 of the Revised Code.
+(3) The defendant is charged with a felony violation of section 2925.04 or 2925.041 of the Revised Code.
 
-(4) The defendant is charged with a felony violation of section 2925.04 or 2925.041 of the Revised Code.
+(4) The defendant is serving a prison term imposed by another court.
 
-(5) The defendant is under a community control sanction or post-release control sanction imposed by another court or is on parole or probation under the supervision of another jurisdiction.
+(5) The defendant is engaged as an informant for a law enforcement agency.
 
-(6) Criminal proceedings are pending against the defendant for a felony offense in another jurisdiction.
-
-(7) The defendant is serving a prison term imposed by another court.
-
-(8) The defendant is engaged as an informant for a law enforcement agency.
-
-Last updated February 16, 2023 at 10:40 AM
+Last updated July 9, 2026 at 9:58 AM
 
 ## § 1901.19. Jurisdictional powers
 
