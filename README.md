@@ -252,6 +252,16 @@ These differences are captured throughout the skill bodies and reference files â
 
 Review all generated content carefully. Verify every rule, deadline, dollar threshold, and statutory citation against current law before filing. Court rules change, statutes are amended, and case law evolves â€” what these plugins encode at any given version may not reflect the law in force when the document is filed.
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=codearranger%2Fclaude-legal&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=codearranger/claude-legal&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=codearranger/claude-legal&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=codearranger/claude-legal&type=date&legend=bottom-right" />
+ </picture>
+</a>
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
