@@ -3,7 +3,7 @@
 practice and consumer-debt / landlord-tenant defense, and convert each
 law (or chapter / article slice) to verbatim Markdown.
 
-Output: plugins/ny-court-docs/skills/ny-law-references/references/ny-statutes-debt/
+Output: plugins/us-ny-legal/skills/ny-law-references/references/ny-statutes-debt/
 One MD file per (lawId, slice) pair, named `<LawID>-<ShortLabel>.md`
 (e.g. `CVP-Article-31-Disclosure.md` for CPLR Article 31).
 
@@ -99,7 +99,7 @@ libs.
 
 ## Usage
     python3 scripts/pull_ny_statutes.py \\
-        --out plugins/ny-court-docs/skills/ny-law-references/references/ny-statutes-debt \\
+        --out plugins/us-ny-legal/skills/ny-law-references/references/ny-statutes-debt \\
         --workers 4
 
     # Refresh one (law, slice) pair:
@@ -128,7 +128,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
 USER_AGENT = (
-    "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) "
+    "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) "
     "ny-statutes-puller"
 )
 
@@ -646,7 +646,7 @@ def main() -> int:
         "--out",
         type=Path,
         default=Path(
-            "plugins/ny-court-docs/skills/ny-law-references/"
+            "plugins/us-ny-legal/skills/ny-law-references/"
             "references/ny-statutes-debt"
         ),
         help="Output directory for the corpus.",

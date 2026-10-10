@@ -2,7 +2,7 @@
 
 The scaffolder generates a complete 21-skill directory tree
 with lint-clean SKILL.md stubs, a plugin.json, scripts copied
-from `or-court-docs`, and eval-directory scaffolding. After
+from `us-or-legal`, and eval-directory scaffolding. After
 the script runs, the agent (or a human) authors substantive
 content into each stub.
 
@@ -35,7 +35,7 @@ Run from the repo root.
 
 - `--state` — two-letter state abbreviation (lowercase),
   e.g., `ca`, `tx`, `fl`, `ny`. This determines the plugin
-  name (`<abbr>-court-docs`) and the skill name prefix
+  name (`us-<abbr>-legal`) and the skill name prefix
   (`<abbr>-`).
 - `--name` — full state name, used in skill bodies and
   descriptions. E.g., `California`, `Texas`.
@@ -64,7 +64,7 @@ Run from the repo root.
   you're running from a subdir.
 - `--force` — overwrite an existing plugin directory.
   Without this, the script refuses to write if
-  `plugins/<abbr>-court-docs/` already exists.
+  `plugins/us-<abbr>-legal/` already exists.
 - `--dry-run` — print what would be created without
   writing.
 
@@ -73,10 +73,10 @@ Run from the repo root.
 For state abbreviation `ca`, the script writes:
 
 ```
-plugins/ca-court-docs/
+plugins/us-ca-legal/
 ├── .claude-plugin/plugin.json     (NEW; from template)
 ├── scripts/
-│   ├── case-calendar.py           (COPIED from or-court-docs;
+│   ├── case-calendar.py           (COPIED from us-or-legal;
 │   │                                prefixed with TODO marker)
 │   └── format-check.py            (COPIED; prefixed with TODO)
 ├── skills/
@@ -93,8 +93,8 @@ plugins/ca-court-docs/
 │   │   ├── SKILL.md
 │   │   └── references/
 │   │       ├── court-rules/README.md          # real dir
-│   │       ├── federal-debt-laws -> ../../../../claude-legal-federal-laws/references/federal-debt-laws  (symlink)
-│   │       ├── ucc-model         -> ../../../../claude-legal-federal-laws/references/ucc-model          (symlink)
+│   │       ├── federal-debt-laws -> ../../../../us-federal-legal/references/federal-debt-laws  (symlink)
+│   │       ├── ucc-model         -> ../../../../us-federal-legal/references/ucc-model          (symlink)
 │   │       └── ca-statutes-debt/README.md     # real dir
 │   ├── ca-discovery/...
 │   ├── ca-hearings/...
@@ -125,9 +125,9 @@ plugins/ca-court-docs/
 That's 21 SKILL.md files, 2 corpus READMEs (only the state-specific
 corpora — `court-rules/` and `<state>-statutes-debt/` — get a real
 directory with a README; `federal-debt-laws` and `ucc-model` are
-created as symlinks into the shared `claude-legal-federal-laws`
+created as symlinks into the shared `us-federal-legal`
 plugin), 1 plugin.json declaring dependencies on
-`claude-legal-federal-laws` and on `document-skills` from the
+`us-federal-legal` and on `document-skills` from the
 `anthropic-agent-skills` marketplace, 1 evals README,
 2 copied scripts, and ~30 empty directories.
 
@@ -160,13 +160,13 @@ After running:
 python3 scripts/lint-skills.py
 
 # The new plugin's directory should be populated
-ls plugins/<abbr>-court-docs/
+ls plugins/us-<abbr>-legal/
 
 # The 21 SKILL.md files should exist
-find plugins/<abbr>-court-docs/skills -name SKILL.md | wc -l   # expects 21
+find plugins/us-<abbr>-legal/skills -name SKILL.md | wc -l   # expects 21
 
 # Scripts should be present and executable
-python3 plugins/<abbr>-court-docs/scripts/format-check.py --help
+python3 plugins/us-<abbr>-legal/scripts/format-check.py --help
 ```
 
 ## Idempotency
@@ -246,17 +246,17 @@ python3 .claude/skills/scaffold-state-plugin/scripts/scaffold-state.py \
 
 ## Troubleshooting
 
-### "Root doesn't look like the claude-legal repo"
+### "Root doesn't look like the legal-skills repo"
 
 The script requires `scripts/lint-skills.py` to exist at the
 specified root. Run from the marketplace root, or pass
-`--root /path/to/claude-legal`.
+`--root /path/to/legal-skills`.
 
 ### "Plugin already exists"
 
 The plugin directory exists. Either:
 
-- Delete it (`rm -rf plugins/<abbr>-court-docs/`) and re-run
+- Delete it (`rm -rf plugins/us-<abbr>-legal/`) and re-run
 - Pass `--force` (destructive)
 - Choose a different `--state` abbreviation
 

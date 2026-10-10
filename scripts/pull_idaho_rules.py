@@ -3,7 +3,7 @@
 site (isc.idaho.gov) and write one Markdown file per rule SET.
 
 Output (default):
-    plugins/id-court-docs/skills/id-law-references/references/court-rules/
+    plugins/us-id-legal/skills/id-law-references/references/court-rules/
 
 The set→file→slug→rule-list map is read from the corpus's own
 `_manifest.json`.
@@ -65,7 +65,7 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 )
 DEFAULT_OUT = (
-    "plugins/id-court-docs/skills/id-law-references/references/court-rules"
+    "plugins/us-id-legal/skills/id-law-references/references/court-rules"
 )
 PRINT_BASE = "https://isc.idaho.gov/rules-procedure/print"
 STUB_MARKER = "<!-- id-court-rules: pointer-stub -->"

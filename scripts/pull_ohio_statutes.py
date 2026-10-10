@@ -3,7 +3,7 @@
 authoritative `codes.ohio.gov` HTML mirror and convert each
 chapter to verbatim Markdown.
 
-Output: plugins/oh-court-docs/skills/oh-law-references/references/oh-statutes-debt/
+Output: plugins/us-oh-legal/skills/oh-law-references/references/oh-statutes-debt/
 One MD file per chapter, named `RC-Chapter-<chapter>.md`
 (e.g. `RC-Chapter-1345.md` for the Consumer Sales Practices
 Act).
@@ -81,7 +81,7 @@ from typing import Dict, List, Optional, Tuple
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 "
-    "Safari/537.36 claude-legal/1.0"
+    "Safari/537.36 legal-skills/1.0"
 )
 
 BASE_URL = "https://codes.ohio.gov/ohio-revised-code/chapter-"
@@ -516,7 +516,7 @@ def main() -> int:
         "--out",
         type=Path,
         default=Path(
-            "plugins/oh-court-docs/skills/oh-law-references/"
+            "plugins/us-oh-legal/skills/oh-law-references/"
             "references/oh-statutes-debt"
         ),
         help="Output directory for the corpus.",

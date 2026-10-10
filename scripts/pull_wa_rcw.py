@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Pull selected debt-related RCW chapters from app.leg.wa.gov and convert to MD.
 
-Output: plugins/wa-court-docs/skills/wa-law-references/references/wa-rcw-debt/
+Output: plugins/us-wa-legal/skills/wa-law-references/references/wa-rcw-debt/
 One MD file per chapter, each section as its own heading inside.
 """
 
@@ -18,7 +18,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date
 from pathlib import Path
 
-USER_AGENT = "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) wa-rcw-puller"
+USER_AGENT = "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) wa-rcw-puller"
 BASE = "https://app.leg.wa.gov"
 CHAPTER_URL = BASE + "/RCW/default.aspx?cite={chapter}"
 SECTION_URL = BASE + "/RCW/default.aspx?cite={cite}"
@@ -370,7 +370,7 @@ def render_chapter_md(
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default="plugins/wa-court-docs/skills/wa-law-references/references/wa-rcw-debt")
+    ap.add_argument("--out", default="plugins/us-wa-legal/skills/wa-law-references/references/wa-rcw-debt")
     ap.add_argument("--workers", type=int, default=8)
     ap.add_argument("--only", nargs="*", help="Optional list of chapter numbers to limit to.")
     args = ap.parse_args()

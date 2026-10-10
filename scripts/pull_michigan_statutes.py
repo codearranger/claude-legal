@@ -3,7 +3,7 @@
 sections from the official Michigan Legislature website and convert
 each section to verbatim Markdown.
 
-Output: plugins/mi-court-docs/skills/mi-law-references/references/mi-statutes-debt/
+Output: plugins/us-mi-legal/skills/mi-law-references/references/mi-statutes-debt/
 One MD file per TOPIC GROUP (e.g. `RJA-limitations.md`,
 `RCPA-collection-practices.md`, `MCPA.md`, `garnishment-exemptions.md`),
 each containing the verbatim text of the curated sections in that group
@@ -75,7 +75,7 @@ from typing import List, Optional, Tuple
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 "
-    "Safari/537.36 claude-legal/1.0"
+    "Safari/537.36 legal-skills/1.0"
 )
 
 # Per-section URL pattern on the Michigan Legislature site.
@@ -687,7 +687,7 @@ def main() -> int:
     ap.add_argument(
         "--out", type=Path,
         default=Path(
-            "plugins/mi-court-docs/skills/mi-law-references/"
+            "plugins/us-mi-legal/skills/mi-law-references/"
             "references/mi-statutes-debt"
         ),
         help="Output directory for the corpus.",

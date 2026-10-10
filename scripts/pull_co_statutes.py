@@ -4,7 +4,7 @@ articles from the official C.R.S. PDFs published by the Colorado
 General Assembly's Office of Legislative Legal Services and convert
 them to verbatim Markdown.
 
-Output: plugins/co-court-docs/skills/co-law-references/references/co-statutes-debt/
+Output: plugins/us-co-legal/skills/co-law-references/references/co-statutes-debt/
 One MD file per (title, article) pair, each section as its own heading.
 
 Source URL pattern (verified May 2026):
@@ -27,7 +27,7 @@ Dependencies: poppler (`brew install poppler`) for `pdftotext`.
 
 Usage:
     python3 scripts/pull_co_statutes.py \\
-        --out plugins/co-court-docs/skills/co-law-references/references/co-statutes-debt \\
+        --out plugins/us-co-legal/skills/co-law-references/references/co-statutes-debt \\
         --workers 4
 """
 
@@ -49,7 +49,7 @@ from pathlib import Path
 from typing import List, Optional, Tuple
 
 USER_AGENT = (
-    "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) "
+    "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) "
     "co-statutes-puller"
 )
 PDF_URL = (
@@ -366,7 +366,7 @@ def process_title(title: int, articles: List[Tuple[str, str]],
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--out", type=Path, default=Path(
-        "plugins/co-court-docs/skills/co-law-references/"
+        "plugins/us-co-legal/skills/co-law-references/"
         "references/co-statutes-debt"
     ))
     ap.add_argument("--workdir", type=Path, default=None,

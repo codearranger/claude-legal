@@ -33,7 +33,7 @@ content already committed.
 
 For the binding rules, no stub is needed — they are in ../immigration-regulations/.
 
-Output: plugins/claude-legal-immigration-laws/references/court-rules/
+Output: plugins/us-immigration-legal/references/court-rules/
 """
 
 from __future__ import annotations
@@ -108,7 +108,7 @@ MANUALS: list[ManualRow] = [
      "../immigration-regulations/8CFR-1003-eoir-bia.md."),
 ]
 
-STUB_MARKER = "<!-- claude-legal:eoir-manual-pointer-stub -->"
+STUB_MARKER = "<!-- legal-skills:eoir-manual-pointer-stub -->"
 
 
 def _file_is_stub(path: Path) -> bool:
@@ -237,7 +237,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/claude-legal-immigration-laws/references/court-rules",
+        default="plugins/us-immigration-legal/references/court-rules",
     )
     ap.add_argument("--stubs-only", action="store_true",
                     help="Skip the network probe and (re)write pointer stubs.")

@@ -44,7 +44,7 @@ is genuinely unreachable (e.g. an air-gapped CI runner) it falls back to a
 blocked re-run will NOT clobber verbatim content a previous successful run
 committed.
 
-Output: plugins/claude-legal-immigration-laws/references/foreign-affairs-manual/
+Output: plugins/us-immigration-legal/references/foreign-affairs-manual/
 """
 
 from __future__ import annotations
@@ -339,7 +339,7 @@ def page_to_markdown(raw: bytes) -> str:
 # Stub fallback (preserved for genuinely-unreachable environments).
 # ----------------------------------------------------------------------
 
-STUB_MARKER = "<!-- claude-legal:fam-pointer-stub -->"
+STUB_MARKER = "<!-- legal-skills:fam-pointer-stub -->"
 
 
 def _file_is_stub(path: Path) -> bool:
@@ -428,9 +428,9 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/claude-legal-immigration-laws/references/foreign-affairs-manual",
+        default="plugins/us-immigration-legal/references/foreign-affairs-manual",
     )
-    ap.add_argument("--cache", default="/tmp/claude-legal-cache",
+    ap.add_argument("--cache", default="/tmp/legal-skills-cache",
                     help="Where to cache the assembled TLS bundle.")
     ap.add_argument("--workers", type=int, default=4,
                     help="Concurrent section-page fetches.")

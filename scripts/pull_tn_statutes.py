@@ -3,7 +3,7 @@
 Justia mirror at `law.justia.com/codes/tennessee/` and convert
 each chapter to verbatim Markdown.
 
-Output: plugins/tn-court-docs/skills/tn-law-references/references/tn-statutes-debt/
+Output: plugins/us-tn-legal/skills/tn-law-references/references/tn-statutes-debt/
 One MD file per chapter, named `Tenn-Code-T<NN>-Ch<NN>.md`
 (e.g. `Tenn-Code-T28-Ch3.md` for limitations of actions in
 contract / tort).
@@ -104,7 +104,7 @@ from typing import List, Optional, Tuple
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 "
-    "Safari/537.36 claude-legal/1.0"
+    "Safari/537.36 legal-skills/1.0"
 )
 
 JUSTIA_BASE = "https://law.justia.com/codes/tennessee/"
@@ -690,7 +690,7 @@ def main() -> int:
         "--out",
         type=Path,
         default=Path(
-            "plugins/tn-court-docs/skills/tn-law-references/"
+            "plugins/us-tn-legal/skills/tn-law-references/"
             "references/tn-statutes-debt"
         ),
         help="Output directory for the corpus.",

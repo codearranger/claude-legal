@@ -3,7 +3,7 @@
 from the Indiana General Assembly's authoritative publication site and
 convert each (title, article) pair to verbatim Markdown.
 
-Output: plugins/in-court-docs/skills/in-law-references/references/in-statutes-debt/
+Output: plugins/us-in-legal/skills/in-law-references/references/in-statutes-debt/
 One MD file per (title, article) pair, named `IC-<title>-<article>.md`
 (e.g. `IC-34-11.md` for Title 34 Article 11 — Limitations).
 
@@ -42,7 +42,7 @@ Dependencies: Python 3.10+ stdlib only. No third-party libs.
 
 Usage:
     python3 scripts/pull_indiana_statutes.py \\
-        --out plugins/in-court-docs/skills/in-law-references/references/in-statutes-debt \\
+        --out plugins/us-in-legal/skills/in-law-references/references/in-statutes-debt \\
         --workers 4
 
     # Refresh one (title, article) pair:
@@ -72,7 +72,7 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
 USER_AGENT = (
-    "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) "
+    "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) "
     "indiana-statutes-puller"
 )
 
@@ -569,7 +569,7 @@ def write_article_md(out_dir: Path, year: int, result: ArticleResult) -> Path:
             "verbatim section text once upstream access is restored "
             "or an `IGA_API_KEY` secret is wired into the refresh "
             "workflow. See "
-            "`plugins/in-court-docs/skills/in-law-references/"
+            "`plugins/us-in-legal/skills/in-law-references/"
             "references/in-statutes-debt/README.md` for the "
             "current corpus status."
         )
@@ -631,7 +631,7 @@ def process_one(
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--out", type=Path, default=Path(
-        "plugins/in-court-docs/skills/in-law-references/"
+        "plugins/us-in-legal/skills/in-law-references/"
         "references/in-statutes-debt"
     ))
     ap.add_argument("--year", type=int, default=DEFAULT_YEAR,

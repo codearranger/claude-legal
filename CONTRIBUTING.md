@@ -1,4 +1,4 @@
-# Contributing to claude-legal
+# Contributing to legal-skills
 
 Thanks for thinking about contributing. This guide covers
 local setup, the kinds of changes the project takes, the
@@ -13,10 +13,9 @@ and the PR workflow.
 
 ## What the project is
 
-`claude-legal` is a Claude Code / Cowork marketplace of
+`legal-skills` is a Claude Code / Cowork marketplace of
 court-document plugins, organized **one plugin per state**
-plus a single shared data-only plugin (`claude-legal-
-federal-laws`) that every state plugin depends on.
+plus a single shared data-only plugin (`us-federal-legal`) that every state plugin depends on.
 
 - **Marketplace** — `.claude-plugin/marketplace.json` at
   the repo root lists every plugin and gates the
@@ -47,8 +46,8 @@ poppler`.
 
 ```bash
 # 1. Clone
-git clone https://github.com/codearranger/claude-legal
-cd claude-legal
+git clone https://github.com/codearranger/legal-skills
+cd legal-skills
 
 # 2. Install the pre-commit hook (one-time, per checkout)
 ln -sf ../../scripts/hooks/pre-commit .git/hooks/pre-commit
@@ -58,7 +57,7 @@ python3 scripts/lint-skills.py
 
 # 4. Validate JSON manifests
 python3 -m json.tool .claude-plugin/marketplace.json > /dev/null
-python3 -m json.tool plugins/wa-court-docs/.claude-plugin/plugin.json > /dev/null
+python3 -m json.tool plugins/us-wa-legal/.claude-plugin/plugin.json > /dev/null
 ```
 
 The lint also runs in CI on every push and PR
@@ -325,7 +324,7 @@ case law + agency guidance.
 - **Statutes** — pulled from each state's legislature by
   `scripts/pull_<state>_statutes.py`
 - **Federal law** — pulled once into the shared
-  `claude-legal-federal-laws` plugin; each state plugin
+  `us-federal-legal` plugin; each state plugin
   symlinks into it via `references/federal-debt-laws/`
   and `references/ucc-model/`
 

@@ -14,7 +14,7 @@ Add a row to CFR_PARTS to extend coverage.
 
 To refresh: bump ECFR_AS_OF (the eCFR returns the version in force on that date).
 
-Output: plugins/claude-legal-immigration-laws/references/immigration-regulations/
+Output: plugins/us-immigration-legal/references/immigration-regulations/
 """
 
 from __future__ import annotations
@@ -28,7 +28,7 @@ import xml.etree.ElementTree as ET
 from datetime import date
 from pathlib import Path
 
-USER_AGENT = "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) immigration-cfr-puller"
+USER_AGENT = "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) immigration-cfr-puller"
 
 ECFR_AS_OF = "2026-01-01"
 ECFR_BASE = "https://www.ecfr.gov/api/versioner/v1/full"
@@ -201,7 +201,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/claude-legal-immigration-laws/references/immigration-regulations",
+        default="plugins/us-immigration-legal/references/immigration-regulations",
     )
     ap.add_argument("--only", nargs="*", help="Limit to out-file tokens (e.g., 8CFR-1003-eoir-bia).")
     args = ap.parse_args()

@@ -4,7 +4,7 @@ Office of Court Administration publishes at txcourts.gov, and write one
 Markdown file per rule SET.
 
 Output (default):
-    plugins/tx-court-docs/skills/tx-law-references/references/court-rules/
+    plugins/us-tx-legal/skills/tx-law-references/references/court-rules/
 
 The set->file->pdf->rule-list map is read from the corpus's own
 `_manifest.json`.
@@ -77,7 +77,7 @@ TXCOURTS = "https://www.txcourts.gov"
 RULES_PAGE = "https://www.txcourts.gov/rules-forms/rules-standards/"
 
 DEFAULT_OUT = (
-    "plugins/tx-court-docs/skills/tx-law-references/references/court-rules"
+    "plugins/us-tx-legal/skills/tx-law-references/references/court-rules"
 )
 
 STUB_MARKER = "<!-- tx-court-rules: pointer-stub -->"

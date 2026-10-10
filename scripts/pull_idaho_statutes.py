@@ -3,7 +3,7 @@
 official Idaho Legislature website and convert each section to Markdown.
 
 Output (default):
-    plugins/id-court-docs/skills/id-law-references/references/id-statutes-debt/
+    plugins/us-id-legal/skills/id-law-references/references/id-statutes-debt/
 
 One Markdown file per TOPIC GROUP (e.g. `Title5-limitations.md`,
 `Title11-exemptions-garnishment.md`), each containing the fetched text of
@@ -76,7 +76,7 @@ USER_AGENT = (
 BASE = "https://legislature.idaho.gov/statutesrules/idstat"
 
 DEFAULT_OUT = (
-    "plugins/id-court-docs/skills/id-law-references/references/id-statutes-debt"
+    "plugins/us-id-legal/skills/id-law-references/references/id-statutes-debt"
 )
 
 STUB_MARKER = "<!-- id-statutes-debt: pointer-stub -->"

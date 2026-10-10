@@ -24,7 +24,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date
 from pathlib import Path
 
-USER_AGENT = "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) ucc-puller"
+USER_AGENT = "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) ucc-puller"
 BASE = "https://www.law.cornell.edu/ucc"
 
 ARTICLES: list[tuple[str, str]] = [
@@ -184,7 +184,7 @@ def render_article_md(article: str, title: str, sections: list[tuple[str, str, s
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default="plugins/claude-legal-federal-laws/references/ucc-model")
+    ap.add_argument("--out", default="plugins/us-federal-legal/references/ucc-model")
     # workers=2 (was 8) to avoid tripping Cornell LII's rate limiter
     ap.add_argument("--workers", type=int, default=2)
     ap.add_argument(

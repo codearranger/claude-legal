@@ -35,7 +35,7 @@ Regulations from ecfr.gov XML versioner API:
   - Reg DD = 12 C.F.R. Part 1030 (Truth in Savings Act)
   - TSR   = 16 C.F.R. Part 310   (FTC Telemarketing Sales Rule)
 
-Output: plugins/claude-legal-federal-laws/references/{federal-debt-laws,federal-bankruptcy}/
+Output: plugins/us-federal-legal/references/{federal-debt-laws,federal-bankruptcy}/
 """
 
 from __future__ import annotations
@@ -51,7 +51,7 @@ import zipfile
 from datetime import date
 from pathlib import Path
 
-USER_AGENT = "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) federal-debt-laws-puller"
+USER_AGENT = "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) federal-debt-laws-puller"
 
 # USC USLM release point. Every USC title is republished at every release
 # point, so one constant suffices. To refresh, browse
@@ -535,10 +535,10 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out-root",
-        default="plugins/claude-legal-federal-laws/references",
+        default="plugins/us-federal-legal/references",
         help="Root references/ dir; per-target corpus subdirs are written inside it.",
     )
-    ap.add_argument("--cache", default="/tmp/claude-legal-cache")
+    ap.add_argument("--cache", default="/tmp/legal-skills-cache")
     ap.add_argument("--only", nargs="*", help="Optional list of short names to limit to (e.g., FDCPA Reg-F TSR).")
     args = ap.parse_args()
 
