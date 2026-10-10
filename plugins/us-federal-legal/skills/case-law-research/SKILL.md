@@ -30,7 +30,7 @@ The marketplace deliberately snapshots **rules** (statutes, regulations, court r
 in each plugin's references corpus, but **case law is never snapshotted** — it is too large and
 moves too fast. This skill is the live-lookup layer. This plugin bundles two free remote MCP
 servers (declared in [`../../.mcp.json`](../../.mcp.json)), and because every state plugin
-depends on this plugin, they are connected anywhere any claude-legal plugin is installed:
+depends on this plugin, they are connected anywhere any legal-skills plugin is installed:
 
 | Server | Use it for |
 |---|---|

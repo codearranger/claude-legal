@@ -48,4 +48,4 @@ Under `skills/id-law-references/references/` (each corpus dir has its own README
 - `document-skills` (from the `anthropic-agent-skills` marketplace) — DOCX / PDF / PPTX / XLSX output.
 
 ---
-Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
+Part of the [legal-skills](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).

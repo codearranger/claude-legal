@@ -27,11 +27,11 @@ version: 0.1.0
 ## Purpose
 
 This plugin holds the single canonical copy of the federal corpora. Every state plugin in the
-claude-legal marketplace declares `us-federal-legal` as a dependency and links its
+legal-skills marketplace declares `us-federal-legal` as a dependency and links its
 `<state>-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and `ucc-model/`
 directories here.
 
-Those links resolve when a state plugin is installed from the claude-legal marketplace, which
+Those links resolve when a state plugin is installed from the legal-skills marketplace, which
 copies the targets into the install. They do **not** resolve when a state plugin is installed
 on its own folder (for example a `git-subdir` entry in another marketplace): the link survives
 but its target was never downloaded. The dependency itself is still installed, so the text is

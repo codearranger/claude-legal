@@ -87,7 +87,7 @@ Ohio Civ. R. 10 and per-court local rules do **not**
 themselves require line numbering, and an Ohio filing without
 it is rule-compliant across Common Pleas, Municipal, and
 County courts. But line-numbered pleading paper is universal
-practice across the `claude-legal` marketplace: it lets the
+practice across the `legal-skills` marketplace: it lets the
 court and opposing counsel cite to an exact location ("page 4,
 lines 12–15") and never harms an Ohio filing. Apply it **by
 default** to every motion, memorandum, affidavit, notice of
@@ -128,7 +128,7 @@ margin between the line numbers and the body text. It is the
 standard companion to line-numbered pleading paper. Like line
 numbering, Ohio Civ. R. 10 and per-court local rules do
 **not** require it, but it is universal convention across the
-`claude-legal` marketplace. Apply it **by default** to every
+`legal-skills` marketplace. Apply it **by default** to every
 line-numbered pleading; exhibits and attachments are exempt.
 
 Implement it as two independent full-height line shapes

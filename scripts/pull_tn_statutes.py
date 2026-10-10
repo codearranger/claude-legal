@@ -104,7 +104,7 @@ from typing import List, Optional, Tuple
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 "
-    "Safari/537.36 claude-legal/1.0"
+    "Safari/537.36 legal-skills/1.0"
 )
 
 JUSTIA_BASE = "https://law.justia.com/codes/tennessee/"

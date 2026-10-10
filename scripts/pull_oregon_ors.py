@@ -64,7 +64,7 @@ from pathlib import Path
 from typing import List, Optional, Tuple, Union
 
 USER_AGENT = (
-    "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) "
+    "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) "
     "oregon-ors-puller"
 )
 BASE_URL = "https://www.oregonlegislature.gov/bills_laws/ors/ors{slug}.html"

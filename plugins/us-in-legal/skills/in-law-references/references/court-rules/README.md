@@ -55,4 +55,4 @@ Long tail of other counties (Allen / LR02, St. Joseph / LR71, etc.) is reference
 
 ## NOT LEGAL ADVICE
 
-Each generated file repeats the standard claude-legal "not legal advice" disclaimer in its header block.
+Each generated file repeats the standard legal-skills "not legal advice" disclaimer in its header block.

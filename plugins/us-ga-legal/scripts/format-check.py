@@ -6,7 +6,7 @@ Georgia has no single statewide pleading-paper rule. Document form
 flows from O.C.G.A. § 9-11-10 (form of pleadings / caption), the
 Uniform Superior Court Rules, the Uniform State Court Rules, and the
 statewide e-filing standards. This checker validates the
-claude-legal marketplace baseline that produces a clean, universally
+legal-skills marketplace baseline that produces a clean, universally
 acceptable Georgia filing:
 
   - Letter paper (8.5" x 11" / 12240 x 15840 DXA)

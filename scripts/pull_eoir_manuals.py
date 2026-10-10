@@ -108,7 +108,7 @@ MANUALS: list[ManualRow] = [
      "../immigration-regulations/8CFR-1003-eoir-bia.md."),
 ]
 
-STUB_MARKER = "<!-- claude-legal:eoir-manual-pointer-stub -->"
+STUB_MARKER = "<!-- legal-skills:eoir-manual-pointer-stub -->"
 
 
 def _file_is_stub(path: Path) -> bool:

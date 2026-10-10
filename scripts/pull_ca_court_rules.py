@@ -59,7 +59,7 @@ BASE = "https://courts.ca.gov"
 INDEX_URL = BASE + "/forms-rules/rules-court"
 TITLE_INDEX_FMT = BASE + "/cms/rules/index/{slug}"
 USER_AGENT = (
-    "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) "
+    "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) "
     "ca-court-rules-puller"
 )
 

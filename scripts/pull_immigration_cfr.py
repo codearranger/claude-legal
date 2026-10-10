@@ -28,7 +28,7 @@ import xml.etree.ElementTree as ET
 from datetime import date
 from pathlib import Path
 
-USER_AGENT = "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) immigration-cfr-puller"
+USER_AGENT = "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) immigration-cfr-puller"
 
 ECFR_AS_OF = "2026-01-01"
 ECFR_BASE = "https://www.ecfr.gov/api/versioner/v1/full"

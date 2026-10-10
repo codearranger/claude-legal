@@ -70,7 +70,7 @@ from pathlib import Path
 from typing import Callable, Dict, List, Optional, Tuple
 
 USER_AGENT = (
-    "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) "
+    "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) "
     "oregon-rules-puller"
 )
 

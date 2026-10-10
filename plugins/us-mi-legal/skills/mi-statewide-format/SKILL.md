@@ -87,7 +87,7 @@ and **restart on each page**.
 MCR 1.109 and MCR 2.113 do **not** themselves require line
 numbering, and a Michigan document filed without line numbers is
 rule-compliant. But line-numbered pleading paper is the universal
-convention across the `claude-legal` marketplace: it lets the
+convention across the `legal-skills` marketplace: it lets the
 court and opposing counsel cite an exact location ("page 4, lines
 12–15") and never harms a Michigan filing. Apply it **by default**
 to every motion, brief, declaration, affidavit, notice, and

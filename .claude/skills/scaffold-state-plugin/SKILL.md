@@ -2,7 +2,7 @@
 name: scaffold-state-plugin
 description: >
   Use this skill when the user asks the coding agent to add a new
-  state plugin to the claude-legal marketplace. Triggers include
+  state plugin to the legal-skills marketplace. Triggers include
   "add California plugin", "create a Texas legal plugin",
   "scaffold a new state", "add Florida", "I want to cover Arizona",
   "build the New York plugin", "new state — same as Oregon but for
@@ -29,7 +29,7 @@ version: 0.6.0
 # Scaffold a New State Plugin
 
 Use this skill when adding a new state plugin to the
-`claude-legal` marketplace. The skill codifies the pattern
+`legal-skills` marketplace. The skill codifies the pattern
 established by `us-wa-legal` and `us-or-legal` so the
 addition stays consistent across states.
 
@@ -559,11 +559,11 @@ benefit.
 ### Marketplace-universal layout conventions
 
 Three layout conventions are **universal across every state
-plugin** in `claude-legal`, regardless of whether the state's
+plugin** in `legal-skills`, regardless of whether the state's
 format rule itself mandates them. The new state's
 `<abbr>-statewide-format` skill must adopt all three by
 default — the goal is that any document produced by the
-marketplace looks like a `claude-legal` document, not a
+marketplace looks like a `legal-skills` document, not a
 patchwork of per-state defaults.
 
 1. **Line-numbered pleading paper (default ON)** — apply

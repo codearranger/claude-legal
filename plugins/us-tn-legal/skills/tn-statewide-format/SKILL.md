@@ -79,7 +79,7 @@ generated Tennessee pleading. Line numbers count every body line and
 Tenn. R. Civ. P. 10 does **not** itself require line numbering, and a
 Tennessee pleading filed without line numbers is rule-compliant. But
 line-numbered pleading paper is universal practice across the
-`claude-legal` marketplace: it lets the court and opposing counsel
+`legal-skills` marketplace: it lets the court and opposing counsel
 cite an exact location ("page 4, lines 12-15") and never harms a
 Tennessee filing. Apply it **by default** to every motion, memorandum,
 declaration, affidavit, notice, and proposed order. Exhibits and

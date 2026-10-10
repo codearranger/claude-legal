@@ -24,7 +24,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date
 from pathlib import Path
 
-USER_AGENT = "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) ucc-puller"
+USER_AGENT = "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) ucc-puller"
 BASE = "https://www.law.cornell.edu/ucc"
 
 ARTICLES: list[tuple[str, str]] = [

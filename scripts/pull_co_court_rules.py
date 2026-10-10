@@ -67,7 +67,7 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
 USER_AGENT = (
-    "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) "
+    "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) "
     "co-court-rules-puller"
 )
 

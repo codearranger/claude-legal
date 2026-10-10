@@ -246,11 +246,11 @@ python3 .claude/skills/scaffold-state-plugin/scripts/scaffold-state.py \
 
 ## Troubleshooting
 
-### "Root doesn't look like the claude-legal repo"
+### "Root doesn't look like the legal-skills repo"
 
 The script requires `scripts/lint-skills.py` to exist at the
 specified root. Run from the marketplace root, or pass
-`--root /path/to/claude-legal`.
+`--root /path/to/legal-skills`.
 
 ### "Plugin already exists"
 

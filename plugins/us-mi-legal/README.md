@@ -21,4 +21,4 @@ Under `skills/mi-law-references/references/` (each corpus dir has its own README
 `scripts/pull_michigan_statutes.py` · `scripts/pull_michigan_rules.py`. Plugin scripts: `format-check.py` (MCR 1.109 / 2.113) · `case-calendar.py` (MCR 1.108 + MCL 435.101 holidays).
 
 ---
-Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
+Part of the [legal-skills](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).

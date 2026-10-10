@@ -1,4 +1,4 @@
-# Contributing to claude-legal
+# Contributing to legal-skills
 
 Thanks for thinking about contributing. This guide covers
 local setup, the kinds of changes the project takes, the
@@ -13,10 +13,9 @@ and the PR workflow.
 
 ## What the project is
 
-`claude-legal` is a Claude Code / Cowork marketplace of
+`legal-skills` is a Claude Code / Cowork marketplace of
 court-document plugins, organized **one plugin per state**
-plus a single shared data-only plugin (`claude-legal-
-federal-laws`) that every state plugin depends on.
+plus a single shared data-only plugin (`us-federal-legal`) that every state plugin depends on.
 
 - **Marketplace** — `.claude-plugin/marketplace.json` at
   the repo root lists every plugin and gates the
@@ -47,8 +46,8 @@ poppler`.
 
 ```bash
 # 1. Clone
-git clone https://github.com/codearranger/claude-legal
-cd claude-legal
+git clone https://github.com/codearranger/legal-skills
+cd legal-skills
 
 # 2. Install the pre-commit hook (one-time, per checkout)
 ln -sf ../../scripts/hooks/pre-commit .git/hooks/pre-commit

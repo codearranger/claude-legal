@@ -21,4 +21,4 @@ Under `skills/or-law-references/references/` (each corpus dir has its own README
 `scripts/pull_oregon_ors.py` · `scripts/pull_oregon_rules.py`. Plugin scripts: `format-check.py` (UTCR 2.010) · `case-calendar.py` (ORCP 10 + ORS 187 holidays).
 
 ---
-Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
+Part of the [legal-skills](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).

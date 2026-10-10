@@ -1,4 +1,4 @@
-# claude-legal
+# legal-skills
 
 A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents, organized one plugin per state plus a shared plugin for federal law.
 
@@ -40,25 +40,25 @@ All state plugins are architected the same way: matter-neutral civil-procedure s
 Add this marketplace and the Anthropic Agent Skills marketplace (which hosts the `document-skills` dependency) to Claude Code or Cowork, then install the state plugins you want. Optionally add Anthropic's Claude for Legal marketplace as well — a companion suite of practice-area plugins:
 
 ```
-/plugin marketplace add https://github.com/codearranger/claude-legal
+/plugin marketplace add https://github.com/codearranger/legal-skills
 /plugin marketplace add anthropics/skills
 /plugin marketplace add anthropics/claude-for-legal
-/plugin install us-wa-legal@claude-legal
-/plugin install us-or-legal@claude-legal
-/plugin install us-ca-legal@claude-legal
-/plugin install us-co-legal@claude-legal
-/plugin install us-in-legal@claude-legal
-/plugin install us-ny-legal@claude-legal
-/plugin install us-oh-legal@claude-legal
-/plugin install us-tn-legal@claude-legal
-/plugin install us-mi-legal@claude-legal
-/plugin install us-az-legal@claude-legal
-/plugin install us-id-legal@claude-legal
-/plugin install us-tx-legal@claude-legal
-/plugin install us-ga-legal@claude-legal
+/plugin install us-wa-legal@legal-skills
+/plugin install us-or-legal@legal-skills
+/plugin install us-ca-legal@legal-skills
+/plugin install us-co-legal@legal-skills
+/plugin install us-in-legal@legal-skills
+/plugin install us-ny-legal@legal-skills
+/plugin install us-oh-legal@legal-skills
+/plugin install us-tn-legal@legal-skills
+/plugin install us-mi-legal@legal-skills
+/plugin install us-az-legal@legal-skills
+/plugin install us-id-legal@legal-skills
+/plugin install us-tx-legal@legal-skills
+/plugin install us-ga-legal@legal-skills
 ```
 
-**Renamed in marketplace 0.39.0.** Plugins now follow `us-<jurisdiction>-legal`: `claude-legal-federal-laws` is `us-federal-legal`, `claude-legal-immigration-laws` is `us-immigration-legal`, and each `<state>-court-docs` is `us-<state>-legal` (e.g. `wa-court-docs` is `us-wa-legal`). Claude Code reserves the `claude-` prefix for Anthropic's own plugins. Skill names are unchanged. If you installed an old name, uninstall it and install the new one.
+**Renamed in marketplace 0.39.0.** Plugins now follow `us-<jurisdiction>-legal`: `claude-legal-federal-laws` is `us-federal-legal`, `claude-legal-immigration-laws` is `us-immigration-legal`, and each `<state>-court-docs` is `us-<state>-legal` (e.g. `wa-court-docs` is `us-wa-legal`). The marketplace and repository are now `legal-skills` (formerly `claude-legal`), since Claude Code reserves the `claude-` prefix for Anthropic's own plugins. Skill names are unchanged. If you installed from the old marketplace, remove it (`/plugin marketplace remove claude-legal`), add this one, and install the new plugin names.
 
 Each state plugin declares `us-federal-legal` as a `dependencies:` entry, so the marketplace runtime installs the shared plugin automatically — no need to install it explicitly. Every plugin (state + shared) also declares a cross-marketplace dependency on `document-skills` from the [`anthropic-agent-skills`](https://github.com/anthropics/skills) marketplace — Anthropic's DOCX / PDF / PPTX / XLSX document-creation skills — so generated filings can be produced as real Word/PDF documents. The dependency auto-installs as long as the `anthropics/skills` marketplace has been added (the `/plugin marketplace add anthropics/skills` line above); if it hasn't, the dependency is left unresolved until you add it.
 
@@ -75,7 +75,7 @@ Both connect automatically when the plugins are enabled; run `/mcp` in Claude Co
 
 ### Companion marketplace: Claude for Legal
 
-Anthropic's [`claude-for-legal`](https://github.com/anthropics/claude-for-legal) marketplace ships practice-area plugins for legal workflows — `commercial-legal` (vendor agreements, NDAs, SaaS review), `privacy-legal` (DPAs, DSARs, PIAs), `corporate-legal` (M&A diligence), `employment-legal`, `litigation-legal` (matter intake, chronologies, claim charts, briefs), `regulatory-legal`, `ai-governance-legal`, `ip-legal`, `law-student`, `legal-clinic`, `legal-builder-hub`, and the Thomson Reuters `cocounsel-legal` connector. None of these are installed automatically — install the ones you want with `/plugin install <plugin>@claude-for-legal` after adding the marketplace. This marketplace allowlists `claude-for-legal` in `allowCrossMarketplaceDependenciesOn`, so claude-legal plugins may declare dependencies on its plugins in the future without users hitting a `cross-marketplace` install error.
+Anthropic's [`claude-for-legal`](https://github.com/anthropics/claude-for-legal) marketplace ships practice-area plugins for legal workflows — `commercial-legal` (vendor agreements, NDAs, SaaS review), `privacy-legal` (DPAs, DSARs, PIAs), `corporate-legal` (M&A diligence), `employment-legal`, `litigation-legal` (matter intake, chronologies, claim charts, briefs), `regulatory-legal`, `ai-governance-legal`, `ip-legal`, `law-student`, `legal-clinic`, `legal-builder-hub`, and the Thomson Reuters `cocounsel-legal` connector. None of these are installed automatically — install the ones you want with `/plugin install <plugin>@claude-for-legal` after adding the marketplace. This marketplace allowlists `claude-for-legal` in `allowCrossMarketplaceDependenciesOn`, so legal-skills plugins may declare dependencies on its plugins in the future without users hitting a `cross-marketplace` install error.
 
 ## Reference corpora at a glance
 
@@ -100,7 +100,7 @@ Anthropic's [`claude-for-legal`](https://github.com/anthropics/claude-for-legal)
 ## Repo layout
 
 ```
-claude-legal/
+legal-skills/
 ├── .claude-plugin/
 │   └── marketplace.json              # Marketplace manifest
 ├── .github/workflows/
@@ -256,11 +256,11 @@ Review all generated content carefully. Verify every rule, deadline, dollar thre
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=codearranger%2Fclaude-legal&type=date&legend=bottom-right">
+<a href="https://www.star-history.com/?repos=codearranger%2Flegal-skills&type=date&legend=bottom-right">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=codearranger/claude-legal&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=codearranger/claude-legal&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=codearranger/claude-legal&type=date&legend=bottom-right" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=codearranger/legal-skills&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=codearranger/legal-skills&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=codearranger/legal-skills&type=date&legend=bottom-right" />
  </picture>
 </a>
 

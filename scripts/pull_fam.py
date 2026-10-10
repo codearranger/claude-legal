@@ -339,7 +339,7 @@ def page_to_markdown(raw: bytes) -> str:
 # Stub fallback (preserved for genuinely-unreachable environments).
 # ----------------------------------------------------------------------
 
-STUB_MARKER = "<!-- claude-legal:fam-pointer-stub -->"
+STUB_MARKER = "<!-- legal-skills:fam-pointer-stub -->"
 
 
 def _file_is_stub(path: Path) -> bool:
@@ -430,7 +430,7 @@ def main() -> int:
         "--out",
         default="plugins/us-immigration-legal/references/foreign-affairs-manual",
     )
-    ap.add_argument("--cache", default="/tmp/claude-legal-cache",
+    ap.add_argument("--cache", default="/tmp/legal-skills-cache",
                     help="Where to cache the assembled TLS bundle.")
     ap.add_argument("--workers", type=int, default=4,
                     help="Concurrent section-page fetches.")

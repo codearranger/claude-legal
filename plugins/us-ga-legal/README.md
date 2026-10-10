@@ -6,7 +6,7 @@ Draft and format pleadings, declarations, motions, notices, and proposed orders 
 
 ## What it covers
 
-Georgia has **no single statewide pleading-paper rule** — document form flows from **O.C.G.A. § 9-11-10** (caption, numbered paragraphs, separate counts), the **Uniform Superior Court Rules** / **Uniform State Court Rules** / **Uniform Magistrate Court Rules**, **§ 9-11-11** (signing) and **§ 9-11-5** (service + certificate of service), and the statewide e-filing standards (USCR 36). The plugin applies the `claude-legal` marketplace format baseline (US Letter, 1-inch margins, 12-pt serif, line-numbered pleading paper, "Page X of Y" footer) by default so every filing is clean and universally acceptable.
+Georgia has **no single statewide pleading-paper rule** — document form flows from **O.C.G.A. § 9-11-10** (caption, numbered paragraphs, separate counts), the **Uniform Superior Court Rules** / **Uniform State Court Rules** / **Uniform Magistrate Court Rules**, **§ 9-11-11** (signing) and **§ 9-11-5** (service + certificate of service), and the statewide e-filing standards (USCR 36). The plugin applies the `legal-skills` marketplace format baseline (US Letter, 1-inch margins, 12-pt serif, line-numbered pleading paper, "Page X of Y" footer) by default so every filing is clean and universally acceptable.
 
 The plugin is architected as **matter-neutral civil-procedure skills** plus **subject-matter bundles**, all auto-invoked from natural-language triggers (no slash commands).
 
@@ -52,4 +52,4 @@ Plugin scripts: `scripts/format-check.py` (marketplace format baseline) · `scri
 Corpus pullers (repo root `scripts/`): `pull_georgia_statutes.py` (O.C.G.A. → `ga-statutes-debt/`) and `pull_georgia_rules.py` (Uniform Rules → `court-rules/`).
 
 ---
-Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
+Part of the [legal-skills](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).

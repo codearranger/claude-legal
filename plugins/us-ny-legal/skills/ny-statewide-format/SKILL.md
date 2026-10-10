@@ -91,7 +91,7 @@ the body and restart on each page.
 themselves require line numbering, and a New York filing
 without it is rule-compliant and routine; NYSCEF accepts PDFs
 with or without line numbering. But line-numbered pleading
-paper is universal practice across the `claude-legal`
+paper is universal practice across the `legal-skills`
 marketplace: it lets the court and opposing counsel cite to an
 exact location ("page 4, lines 12–15") and never harms a New
 York filing. Apply it **by default** to every motion,
@@ -142,7 +142,7 @@ Draw a double vertical rule — two thin parallel lines
 margin between the line numbers and the body text. It is the
 standard companion to line-numbered pleading paper. Like line
 numbering, 22 NYCRR § 202.5 and § 202.5-b do **not** require
-it, but it is universal convention across the `claude-legal`
+it, but it is universal convention across the `legal-skills`
 marketplace. Apply it **by default** to every line-numbered
 pleading; exhibits and attachments are exempt.
 

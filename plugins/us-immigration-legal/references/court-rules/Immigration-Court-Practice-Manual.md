@@ -1,6 +1,6 @@
 # Immigration Court Practice Manual (ICPM)
 
-<!-- claude-legal:eoir-manual-pointer-stub -->
+<!-- legal-skills:eoir-manual-pointer-stub -->
 
 - Publisher: Executive Office for Immigration Review (EOIR), U.S. Department of Justice
 - Canonical landing: https://www.justice.gov/eoir/reference-materials/ic

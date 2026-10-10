@@ -41,7 +41,7 @@ import zipfile
 from datetime import date
 from pathlib import Path
 
-USER_AGENT = "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) ada-puller"
+USER_AGENT = "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) ada-puller"
 
 # USC USLM release point. Every USC title is republished at every release
 # point, so one constant suffices. To refresh, browse
@@ -407,7 +407,7 @@ def main() -> int:
         default="plugins/us-federal-legal/references/ada-laws",
         help="Output corpus directory.",
     )
-    ap.add_argument("--cache", default="/tmp/claude-legal-cache")
+    ap.add_argument("--cache", default="/tmp/legal-skills-cache")
     ap.add_argument("--only", nargs="*", help="Optional list of short names to limit to (e.g., ADA DOJ-Title-II-28-CFR-35).")
     args = ap.parse_args()
 

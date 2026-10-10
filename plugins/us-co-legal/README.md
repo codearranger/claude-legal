@@ -25,4 +25,4 @@ Under `skills/co-law-references/references/` (each corpus dir has its own README
 `scripts/pull_co_statutes.py` · `scripts/pull_co_court_rules.py`. Plugin scripts: `format-check.py` (C.R.C.P. 10 + CJD 11-01) · `case-calendar.py` (C.R.C.P. 6 + C.R.S. § 24-11-101 holidays).
 
 ---
-Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
+Part of the [legal-skills](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).

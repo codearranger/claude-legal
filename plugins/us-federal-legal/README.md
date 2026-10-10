@@ -1,6 +1,6 @@
 # us-federal-legal
 
-Shared reference corpus for the `claude-legal` marketplace, plus a nationwide consumer
+Shared reference corpus for the `legal-skills` marketplace, plus a nationwide consumer
 credit-report-rights skills layer.
 
 ## What's in here
@@ -25,7 +25,7 @@ credit-report-rights skills layer.
 
 The federal and model-UCC corpora live in one canonical place rather than being copy-pasted into every state plugin (`us-wa-legal`, `us-or-legal`, `us-ca-legal`, `us-co-legal`, `us-in-legal`, `us-ny-legal`, `us-oh-legal`). Because every state plugin depends on this one, the consumer credit-report-rights skills also ride along — they are available anywhere any state plugin is installed.
 
-State plugins declare this plugin in their `plugin.json` `dependencies` array. When a user runs `/plugin install us-<state>-legal@claude-legal`, the Claude Code marketplace runtime auto-installs this plugin alongside, dereferences the symlinks each state plugin uses to point into this directory (per the Claude Code plugin spec, symlinks within a marketplace are followed and the target content is copied into the install cache), and the federal/UCC files end up locally available under each state plugin's `references/` tree at runtime.
+State plugins declare this plugin in their `plugin.json` `dependencies` array. When a user runs `/plugin install us-<state>-legal@legal-skills`, the Claude Code marketplace runtime auto-installs this plugin alongside, dereferences the symlinks each state plugin uses to point into this directory (per the Claude Code plugin spec, symlinks within a marketplace are followed and the target content is copied into the install cache), and the federal/UCC files end up locally available under each state plugin's `references/` tree at runtime.
 
 ## Bundled MCP servers
 

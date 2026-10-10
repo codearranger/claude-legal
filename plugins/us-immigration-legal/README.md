@@ -35,4 +35,4 @@ The `immigration-case-law` skill drives both servers — forum-aware routing (ci
 `scripts/pull_ina.py` · `scripts/pull_immigration_cfr.py` · `scripts/pull_fam.py` (AIA-chases fam.state.gov's omitted TLS intermediate, then crawls its JSON TOC API) · `scripts/pull_eoir_manuals.py`.
 
 ---
-Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
+Part of the [legal-skills](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).

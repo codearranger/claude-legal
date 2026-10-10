@@ -18,7 +18,7 @@ Title 11 of the United States Code — the Bankruptcy Code. One Markdown file pe
 | [Chapter-13.md](Chapter-13.md) | 11 U.S.C. §§ 1301–1330 | Chapter 13 — Adjustment of Debts of an Individual with Regular Income |
 | [Chapter-15.md](Chapter-15.md) | 11 U.S.C. §§ 1501–1532 | Chapter 15 — Ancillary and Other Cross-Border Cases |
 
-Chapter 9 (Adjustment of Debts of a Municipality) is intentionally omitted — outside the consumer- and small-business-bankruptcy scope of every claude-legal state plugin to date. If a future plugin needs it, add a single new row to `USC_TARGETS` in `scripts/pull_federal_debt_laws.py`.
+Chapter 9 (Adjustment of Debts of a Municipality) is intentionally omitted — outside the consumer- and small-business-bankruptcy scope of every legal-skills state plugin to date. If a future plugin needs it, add a single new row to `USC_TARGETS` in `scripts/pull_federal_debt_laws.py`.
 
 ## Re-pulling
 

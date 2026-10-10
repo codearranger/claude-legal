@@ -21,4 +21,4 @@ Under `skills/az-law-references/references/` (each corpus dir has its own README
 `scripts/pull_arizona_statutes.py` · `scripts/pull_arizona_rules.py`. Plugin scripts: `format-check.py` (Ariz. R. Civ. P. 10 / 7.1) · `case-calendar.py` (Ariz. R. Civ. P. 6 + A.R.S. § 1-301 holidays).
 
 ---
-Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
+Part of the [legal-skills](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).

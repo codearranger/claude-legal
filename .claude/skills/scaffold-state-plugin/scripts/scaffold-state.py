@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-scaffold-state.py — Scaffold a new state plugin for claude-legal.
+scaffold-state.py — Scaffold a new state plugin for legal-skills.
 
 Generates the directory tree + lint-clean stub SKILL.md files +
 plugin.json + scripts (copied from us-or-legal with parameters
@@ -570,8 +570,8 @@ def render_plugin_json(cfg: StateConfig) -> str:
                 "name": "codearranger",
                 "url": "https://github.com/codearranger",
             },
-            "homepage": "https://github.com/codearranger/claude-legal",
-            "repository": "https://github.com/codearranger/claude-legal",
+            "homepage": "https://github.com/codearranger/legal-skills",
+            "repository": "https://github.com/codearranger/legal-skills",
             "license": "MIT",
             "keywords": [
                 cfg.name.lower().replace(" ", "-"),
@@ -626,7 +626,7 @@ def render_plugin_readme(cfg: StateConfig) -> str:
         f"Plugin scripts: `format-check.py` ({cfg.format_rule}) · "
         f"`case-calendar.py`.\n\n"
         f"---\n"
-        f"Part of the [claude-legal](../../README.md) marketplace. Skills are "
+        f"Part of the [legal-skills](../../README.md) marketplace. Skills are "
         f"indexed in [CLAUDE.md](../../CLAUDE.md).\n"
     )
 
@@ -829,7 +829,7 @@ def parse_court_arg(arg: str) -> tuple[str, str]:
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Scaffold a new state plugin for claude-legal"
+        description="Scaffold a new state plugin for legal-skills"
     )
     parser.add_argument(
         "--state",
@@ -925,7 +925,7 @@ def main() -> int:
     if not (root / "scripts" / "lint-skills.py").exists():
         print(
             f"ERROR: --root '{root}' does not look like the"
-            " claude-legal repo (scripts/lint-skills.py not found)",
+            " legal-skills repo (scripts/lint-skills.py not found)",
             file=sys.stderr,
         )
         return 1

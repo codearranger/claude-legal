@@ -35,7 +35,7 @@ import zipfile
 from datetime import date
 from pathlib import Path
 
-USER_AGENT = "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) ina-puller"
+USER_AGENT = "legal-skills/1.0 (+https://github.com/codearranger/legal-skills) ina-puller"
 
 # USC USLM release point. Every USC title is republished at every release point.
 # To refresh, browse https://uscode.house.gov/download/releasepoints.shtml and
@@ -264,7 +264,7 @@ def main() -> int:
         "--out",
         default="plugins/us-immigration-legal/references/immigration-statutes",
     )
-    ap.add_argument("--cache", default="/tmp/claude-legal-cache")
+    ap.add_argument("--cache", default="/tmp/legal-skills-cache")
     ap.add_argument("--only", nargs="*", help="Limit to subchapter ids (e.g., schII schIII).")
     args = ap.parse_args()
 

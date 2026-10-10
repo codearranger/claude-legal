@@ -58,7 +58,7 @@ Indiana Trial Rule 5(E) does **not** require line numbering on
 the left margin. Numbered paragraphs ARE required under T.R.
 10(B) — see the paragraph-numbering section below. (Line-
 numbered pleading paper is applied by default by this skill
-as a `claude-legal` marketplace convention — see the "Line
+as a `legal-skills` marketplace convention — see the "Line
 numbering (pleading paper)" section below.)
 
 When producing a `.docx` for conversion to PDF and upload to
@@ -113,7 +113,7 @@ Indiana Trial Rule 5(E) does **not** itself require line
 numbering, and an Indiana filing without it is rule-compliant
 and accepted by the Odyssey statewide e-filing system. But
 line-numbered pleading paper is universal practice across the
-`claude-legal` marketplace: it lets the court and opposing
+`legal-skills` marketplace: it lets the court and opposing
 counsel cite to an exact location ("page 4, lines 12–15") and
 never harms an Indiana filing. Apply it **by default** to every
 motion, memorandum, declaration, notice, and proposed order.
@@ -152,7 +152,7 @@ Draw a double vertical rule — two thin parallel lines
 margin between the line numbers and the body text. It is the
 standard companion to line-numbered pleading paper. Like line
 numbering, Indiana Trial Rule 5(E) does **not** require it,
-but it is universal convention across the `claude-legal`
+but it is universal convention across the `legal-skills`
 marketplace. Apply it **by default** to every line-numbered
 pleading; exhibits and attachments are exempt.
 

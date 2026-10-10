@@ -25,4 +25,4 @@ Under `skills/in-law-references/references/` (each corpus dir has its own README
 `scripts/pull_indiana_statutes.py` (api.iga.in.gov; stubs without `IGA_API_KEY`) · `scripts/pull_indiana_rules.py`. Plugin scripts: `format-check.py` · `case-calendar.py`.
 
 ---
-Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
+Part of the [legal-skills](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
