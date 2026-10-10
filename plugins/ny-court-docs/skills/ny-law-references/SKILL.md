@@ -17,13 +17,18 @@ description: >
   online sources, and a key-cases reference. **Canonical
   reference corpora live in this skill's references/
   directory.**
-version: 0.2.0
+version: 0.3.0
 ---
 
 # New York Law References
 
 > **NOT LEGAL ADVICE.** Reference catalog. Verify against
 > current rules before relying.
+
+> **Federal corpora.** `ny-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 ## What lives here
 

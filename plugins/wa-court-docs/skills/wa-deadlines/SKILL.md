@@ -10,10 +10,15 @@ description: >
   6.27), post-judgment motion deadlines (CR 59 / 60 / RAP 5.2), and WA
   statutes of limitation (RCW 4.16). Date arithmetic delegated to
   `scripts/case-calendar.py` (canonical source for day counts and holidays).
-version: 0.2.1
+version: 0.3.0
 ---
 
 # Washington Case Deadlines
+
+> **Federal corpora.** `wa-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 Compute and track deadlines for Washington civil cases. The agent
 should invoke this skill automatically when the user asks a timing

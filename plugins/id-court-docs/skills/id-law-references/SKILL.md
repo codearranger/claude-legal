@@ -15,7 +15,7 @@ description: >
   "Idaho time computation", "I.R.E.", "I.R.F.L.P.", "Idaho Code section",
   "Idaho citation format", "look up Idaho law on X". Host skill for reference
   corpora.
-version: 0.1.1
+version: 0.2.0
 ---
 
 # Idaho Law References
@@ -23,6 +23,11 @@ version: 0.1.1
 > **NOT LEGAL ADVICE.** Reference catalog only. Read the cited rule,
 > statute, or case in full — and confirm it is current — before relying
 > on it.
+
+> **Federal corpora.** `id-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 This is the **matter-neutral** reference index for Idaho civil practice.
 Other skills in the `id-court-docs` plugin point here for rule numbers,

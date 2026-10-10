@@ -13,7 +13,7 @@ description: >
   mailing), **NY GBL § 600** collection-agency licensing, **GBL § 349**
   deceptive acts, **CPLR 4544** small-print contracts, **chain of title**
   under NY UCC Article 9, fact-pattern triage, and RFP/RFA banks.
-version: 0.1.2
+version: 0.2.0
 ---
 
 # New York Consumer-Debt Defense
@@ -21,6 +21,11 @@ version: 0.1.2
 > **NOT LEGAL ADVICE.** Consumer-debt defense is a specialty
 > with high stakes; this bundle is a drafting aid for pro se
 > defendants. Verify every statute and rule before filing.
+
+> **Federal corpora.** `ny-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 ## The New York consumer-debt landscape
 

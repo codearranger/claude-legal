@@ -2,13 +2,18 @@
 name: oh-law-references
 description: >
   Use to look up Ohio civil-procedure rules (Civ. R.), evidence rules (Evid. R.), Rules of Superintendence, Rules of Professional Conduct, statutes (R.C.), and citation format. Triggers include 'Ohio Civ. R.', 'Ohio Evid. R.', 'Ohio Revised Code', 'R.C. lookup', 'Ohio Sup. R.', 'Ohio Prof. Cond. R.', 'Ohio public-domain citation', 'codes.ohio.gov', 'Ohio rule of court'. Canonical reference corpora for the plugin live in this skill's references/ directory.
-version: 0.5.0
+version: 0.6.0
 ---
 
 # Ohio Law References
 
 > **NOT LEGAL ADVICE.** Verify against the current
 > authoritative source before relying on any reference here.
+
+> **Federal corpora.** `oh-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 This skill is the canonical reference host for the Ohio
 plugin. Verbatim text of every major Ohio rule of court +

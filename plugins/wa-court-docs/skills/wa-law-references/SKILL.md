@@ -11,10 +11,15 @@ description: >
   civil rules (CR / CRLJ), evidence rules, GR 14 citation format, RCW 4.84
   fees-and-costs, local rules (King County Superior/District), general
   civil key cases, and canonical online-sources catalog.
-version: 0.5.1
+version: 0.6.0
 ---
 
 # Washington Law References — General Civil Practice
+
+> **Federal corpora.** `wa-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 This skill is a matter-neutral reference index — a pointer to the
 statutes, rules, and doctrines most often invoked in Washington

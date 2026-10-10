@@ -11,7 +11,7 @@ description: >
   under Michigan UCC Article 9; statutes of limitations (MCL 600.5807); and the
   District Court forum. Includes five fact-pattern triage, discovery banks, and
   affirmative-defenses catalog.
-version: 0.2.0
+version: 0.3.0
 ---
 
 # Michigan Consumer-Debt Defense
@@ -22,6 +22,11 @@ version: 0.2.0
 > litigant (and any counsel the litigant retains). Statute numbers, dollar thresholds, and day counts
 > change — verify every citation against the current Michigan Compiled Laws (legislature.mi.gov) and
 > the Michigan Court Rules before filing, and consult a licensed Michigan attorney.
+
+> **Federal corpora.** `mi-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 Use this bundle when a Michigan consumer has been sued by a **debt collector** — typically a **debt
 buyer** (Midland Credit Management, Portfolio Recovery Associates, LVNV Funding, Jefferson Capital,

@@ -9,10 +9,15 @@ description: >
   Trial Rule...", "Indiana Code...", "filing fees", "legal holidays",
   "citation format". Triggers: "Indiana civil rules", "Ind. Trial R.",
   "Ind. Evid. R.", "Indiana Code lookup", "IC SOL".
-version: 0.1.1
+version: 0.2.0
 ---
 
 # Indiana Law References — Canonical Catalog
+
+> **Federal corpora.** `in-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 This is the matter-neutral reference catalog for Indiana civil
 practice. It indexes every authoritative source the other

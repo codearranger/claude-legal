@@ -1,6 +1,6 @@
 ---
 name: or-law-references
-version: 0.3.1
+version: 0.4.0
 description: >
   Use this skill to cite, apply, or research Oregon civil law.
   Triggers include "ORCP 21", "ORCP 43", "ORCP 46", "ORCP 47",
@@ -17,6 +17,11 @@ description: >
 ---
 
 # Oregon Law References — General Civil Practice
+
+> **Federal corpora.** `or-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 This skill is a matter-neutral reference index — a pointer to the
 statutes, rules, and doctrines most often invoked in Oregon civil

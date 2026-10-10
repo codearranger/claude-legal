@@ -15,7 +15,7 @@ description: >
   as modified for district court, how cases are commenced and noticed,
   MiFILE/MiCOURT e-filing, and the high default-judgment volume in
   consumer-debt cases. Layer on top of `mi-statewide-format`.
-version: 0.1.0
+version: 0.2.0
 ---
 
 # 36th District Court (Detroit)
@@ -25,6 +25,11 @@ version: 0.1.0
 > unforgiving. Verify every date and every local-rule requirement
 > against the current Michigan Court Rules and the court's own
 > administrative orders before acting.
+
+> **Federal corpora.** `mi-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 Use this skill in addition to `mi-statewide-format` whenever a civil
 case is in the **36th District Court**, located at **421 Madison

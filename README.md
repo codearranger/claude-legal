@@ -12,7 +12,7 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 
 | Plugin | What it covers |
 |---|---|
-| [`claude-legal-federal-laws`](plugins/claude-legal-federal-laws/README.md) | Canonical federal consumer-finance corpora (FDCPA / FCRA / TILA / ECOA / Reg B-Z, RESPA / SCRA / FHA / TSR), the Bankruptcy Code, the model UCC, and the Americans with Disabilities Act (42 U.S.C. ch. 126) with its DOJ/EEOC regulations (29 CFR 1630, 28 CFR 35/36) — a dependency of every state plugin — plus a nationwide FCRA consumer credit-report-rights skills layer, an `ada-rights` ADA self-help skill, bundled CourtListener + Legal Data Hunter MCP servers, and a `case-law-research` skill that drives them. |
+| [`claude-legal-federal-laws`](plugins/claude-legal-federal-laws/README.md) | Canonical federal consumer-finance corpora (FDCPA / FCRA / TILA / ECOA / Reg B-Z, RESPA / SCRA / FHA / TSR), the Bankruptcy Code, the model UCC, and the Americans with Disabilities Act (42 U.S.C. ch. 126) with its DOJ/EEOC regulations (29 CFR 1630, 28 CFR 35/36) — a dependency of every state plugin — plus a nationwide FCRA consumer credit-report-rights skills layer, an `ada-rights` ADA self-help skill, bundled CourtListener + Legal Data Hunter MCP servers, a `case-law-research` skill that drives them, and a `federal-law-references` skill that resolves the federal corpora when a state plugin's links don't. |
 | [`claude-legal-immigration-laws`](plugins/claude-legal-immigration-laws/README.md) | U.S. immigration law (INA / 8 CFR / 22 CFR / FAM mirrored verbatim + EOIR court rules), an on-demand case-law index (circuits / BIA / AAO), and a 12-skill venue-independent self-help layer (incl. `immigration-case-law`, which drives the bundled MCP servers). |
 
 ### State plugins

@@ -14,13 +14,18 @@ description: >
   authorities; the heavy reference corpora (court-rules, federal-debt-
   laws, ucc-model, co-statutes-debt) live in this skill's
   `references/` subdirectory.
-version: 0.2.0
+version: 0.3.0
 ---
 
 # Colorado Law References
 
 > **NOT LEGAL ADVICE.** Reference catalog only. Read the cited rule,
 > statute, or case in full before relying on it.
+
+> **Federal corpora.** `co-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 This is the **matter-neutral** reference index for Colorado civil
 practice. Other skills in the `co-court-docs` plugin point here for

@@ -233,6 +233,13 @@ def disclaimer_for_skill(role: str, cfg: "StateConfig") -> str:
 
 # ---- Skill stub templates ---------------------------------------
 
+FEDERAL_CORPORA_NOTE = (
+    "\n\n> **Federal corpora.** `{abbr}-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and\n"
+    "> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling\n"
+    "> link (some install methods copy only this plugin's folder), read the same file from\n"
+    "> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical."
+)
+
 SKILL_STUB_TEMPLATE = """---
 name: {abbr}-{role}
 description: >
@@ -495,12 +502,18 @@ def description_for_skill(role: str, cfg: StateConfig) -> str:
 
 def render_skill_stub(role: str, cfg: StateConfig) -> str:
     """Render the full SKILL.md stub for a skill role."""
+    disclaimer = disclaimer_for_skill(role, cfg)
+    if role in ("law-references", "consumer-debt"):
+        # The federal-* / ucc-model dirs are symlinks that dangle when the
+        # plugin is installed alone (e.g. a git-subdir entry in another
+        # marketplace); point the agent at the dependency's resolver skill.
+        disclaimer += FEDERAL_CORPORA_NOTE.format(abbr=cfg.abbr)
     return SKILL_STUB_TEMPLATE.format(
         abbr=cfg.abbr,
         role=role,
         description=description_for_skill(role, cfg),
         title=title_for_skill(role, cfg),
-        disclaimer=disclaimer_for_skill(role, cfg),
+        disclaimer=disclaimer,
         state=cfg.name,
         format_rule=cfg.format_rule,
         civil_rules=cfg.civil_rules,

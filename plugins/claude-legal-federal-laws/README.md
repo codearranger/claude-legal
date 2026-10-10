@@ -19,6 +19,7 @@ credit-report-rights skills layer.
   | `consumer-credit-monitoring` | Adverse-action proof; § 1681i(d) re-notification; ongoing review |
   | `ada-rights` | Nationwide ADA self-help: reasonable-accommodation / reasonable-modification requests, ADA grievances, DOJ ADA complaints, and EEOC charge intake — routed across Title I (employment / 29 CFR 1630), Title II (state & local government / 28 CFR 35), and Title III (public accommodations / 28 CFR 36 + 2010 Standards) |
   | `case-law-research` | Live legal research via the bundled MCP servers (below): U.S. case law / RECAP dockets / judges via CourtListener, multi-jurisdictional + foreign law via Legal Data Hunter; never-cite-from-memory + quote-check discipline |
+  | `federal-law-references` | Index and path resolver for the bundled federal corpora (debt / consumer-finance, Bankruptcy Code, model UCC, ADA); the fallback state plugins use when their linked `federal-*` / `ucc-model` directories don't resolve (for example a git-subdir install from another marketplace) |
 
 ## Why it's a plugin
 

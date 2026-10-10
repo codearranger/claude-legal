@@ -12,7 +12,7 @@ description: >
   torts (tortious interference, civil conspiracy, conversion), Tennessee
   Uniform Arbitration Act (§ 29-5-301 et seq.) with FAA preemption, and
   Tennessee Securities Act (§ 48-1-101 et seq.).
-version: 0.1.1
+version: 0.2.0
 ---
 
 # Tennessee Commercial Disputes
@@ -25,6 +25,11 @@ version: 0.1.1
 > available remedies and pace. Verify every statute number and
 > case citation against the current Tenn. Code Ann. and Tennessee
 > reporters before relying.
+
+> **Federal corpora.** `tn-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 Use this subject-matter bundle for Tennessee commercial /
 business-to-business civil litigation — contract, trade secret,
