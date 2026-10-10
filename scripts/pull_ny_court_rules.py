@@ -2,7 +2,7 @@
 """Pull New York court-rule canonical sources and convert each to a
 verbatim Markdown file.
 
-Output: plugins/ny-court-docs/skills/ny-law-references/references/court-rules/
+Output: plugins/us-ny-legal/skills/ny-law-references/references/court-rules/
 
 Targets:
 
@@ -66,7 +66,7 @@ republishes its consolidated rules as a single PDF.
 
 Usage:
     python3 scripts/pull_ny_court_rules.py \\
-        --out plugins/ny-court-docs/skills/ny-law-references/references/court-rules
+        --out plugins/us-ny-legal/skills/ny-law-references/references/court-rules
 
     # Refresh one rule set:
     python3 scripts/pull_ny_court_rules.py --only 202
@@ -794,7 +794,7 @@ def main() -> int:
         "--out",
         type=Path,
         default=Path(
-            "plugins/ny-court-docs/skills/ny-law-references/"
+            "plugins/us-ny-legal/skills/ny-law-references/"
             "references/court-rules"
         ),
         help="Output directory for the corpus.",

@@ -532,4 +532,4 @@ sources and update this catalog as well.
   the rules
 - `references/skill-templates/` — canonical SKILL.md templates
 - Existing state plugins as concrete examples:
-  `plugins/wa-court-docs/` and `plugins/or-court-docs/`
+  `plugins/us-wa-legal/` and `plugins/us-or-legal/`

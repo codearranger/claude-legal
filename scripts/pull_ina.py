@@ -19,7 +19,7 @@ Subchapters of 8 U.S.C. Chapter 12:
 To refresh: visit https://uscode.house.gov/download/releasepoints.shtml, find
 the latest public-law release point, and bump USC_RELEASE below.
 
-Output: plugins/claude-legal-immigration-laws/references/immigration-statutes/
+Output: plugins/us-immigration-legal/references/immigration-statutes/
 """
 
 from __future__ import annotations
@@ -262,7 +262,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/claude-legal-immigration-laws/references/immigration-statutes",
+        default="plugins/us-immigration-legal/references/immigration-statutes",
     )
     ap.add_argument("--cache", default="/tmp/claude-legal-cache")
     ap.add_argument("--only", nargs="*", help="Limit to subchapter ids (e.g., schII schIII).")

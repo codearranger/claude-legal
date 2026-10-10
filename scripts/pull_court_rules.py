@@ -6,7 +6,7 @@ Each rule set's list page links out to per-rule PDFs. We fetch each list page,
 extract (rule_num, title, pdf_url) tuples, download every PDF, run pdftotext,
 and concatenate the results into a single MD file per rule set.
 
-Output: plugins/wa-court-docs/skills/wa-law-references/references/court-rules/<SET>.md
+Output: plugins/us-wa-legal/skills/wa-law-references/references/court-rules/<SET>.md
 """
 
 from __future__ import annotations
@@ -295,7 +295,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/wa-court-docs/skills/wa-law-references/references/court-rules",
+        default="plugins/us-wa-legal/skills/wa-law-references/references/court-rules",
         help="Output directory (relative to repo root or absolute).",
     )
     ap.add_argument("--workers", type=int, default=8, help="Parallel PDF fetch workers.")

@@ -2,7 +2,7 @@
 """Pull Oregon court-rule canonical sources and convert each to a
 verbatim Markdown file.
 
-Output: plugins/or-court-docs/skills/or-law-references/references/court-rules/
+Output: plugins/us-or-legal/skills/or-law-references/references/court-rules/
 
 Seven outputs total, mirroring the existing hand-authored corpus:
 
@@ -42,7 +42,7 @@ poppler-utils`) for `pdftotext`. Stdlib for everything else.
 
 Usage:
     python3 scripts/pull_oregon_rules.py \\
-        --out plugins/or-court-docs/skills/or-law-references/references/court-rules
+        --out plugins/us-or-legal/skills/or-law-references/references/court-rules
 
     # Refresh one rule set:
     python3 scripts/pull_oregon_rules.py --only OEC --out /tmp/or-rules-test
@@ -539,7 +539,7 @@ def main() -> int:
         "--out",
         type=Path,
         default=Path(
-            "plugins/or-court-docs/skills/or-law-references/"
+            "plugins/us-or-legal/skills/or-law-references/"
             "references/court-rules"
         ),
         help="Output directory for the corpus (default matches the "

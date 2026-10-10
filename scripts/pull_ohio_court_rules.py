@@ -2,7 +2,7 @@
 """Pull Ohio court-rule canonical sources and convert each to a
 verbatim Markdown file.
 
-Output: plugins/oh-court-docs/skills/oh-law-references/references/court-rules/
+Output: plugins/us-oh-legal/skills/oh-law-references/references/court-rules/
 
 ## Targets (all consolidated PDFs at supremecourt.ohio.gov)
 
@@ -299,7 +299,7 @@ def main() -> int:
         "--out",
         type=Path,
         default=Path(
-            "plugins/oh-court-docs/skills/oh-law-references/"
+            "plugins/us-oh-legal/skills/oh-law-references/"
             "references/court-rules"
         ),
         help="Output directory for the corpus.",

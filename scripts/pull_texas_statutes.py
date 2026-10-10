@@ -4,7 +4,7 @@ official Texas Constitution and Statutes service and convert each section
 to Markdown.
 
 Output (default):
-    plugins/tx-court-docs/skills/tx-law-references/references/tx-statutes-debt/
+    plugins/us-tx-legal/skills/tx-law-references/references/tx-statutes-debt/
 
 One Markdown file per TOPIC GROUP (e.g. `CPRC-limitations.md`,
 `finance-code-debt-collection.md`), each containing the fetched text of
@@ -85,7 +85,7 @@ RESOURCE_BASE = "https://tcss.legis.texas.gov/resources"
 VIEWER = "https://statutes.capitol.texas.gov/Docs"
 
 DEFAULT_OUT = (
-    "plugins/tx-court-docs/skills/tx-law-references/references/tx-statutes-debt"
+    "plugins/us-tx-legal/skills/tx-law-references/references/tx-statutes-debt"
 )
 
 STUB_MARKER = "<!-- tx-statutes-debt: pointer-stub -->"

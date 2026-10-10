@@ -189,7 +189,7 @@ jobs:
         timeout-minutes: 15
         run: |
           python3 scripts/pull_court_rules.py --workers 12 \
-            --manifest plugins/wa-court-docs/skills/wa-law-references/references/court-rules/_manifest.json
+            --manifest plugins/us-wa-legal/skills/wa-law-references/references/court-rules/_manifest.json
 
       - name: WA — RCW debt chapters
         if: matrix.target == 'wa'
@@ -499,9 +499,9 @@ jobs:
           T: ${{ matrix.target }}
         run: |
           case "$T" in
-            federal)     path='plugins/claude-legal-federal-laws/references/**' ;;
-            immigration) path='plugins/claude-legal-immigration-laws/references/**' ;;
-            *)           path="plugins/${T}-court-docs/skills/${T}-law-references/references/**" ;;
+            federal)     path='plugins/us-federal-legal/references/**' ;;
+            immigration) path='plugins/us-immigration-legal/references/**' ;;
+            *)           path="plugins/us-${T}-legal/skills/${T}-law-references/references/**" ;;
           esac
           echo "path=$path" >> "$GITHUB_OUTPUT"
 

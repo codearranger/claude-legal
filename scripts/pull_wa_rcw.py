@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Pull selected debt-related RCW chapters from app.leg.wa.gov and convert to MD.
 
-Output: plugins/wa-court-docs/skills/wa-law-references/references/wa-rcw-debt/
+Output: plugins/us-wa-legal/skills/wa-law-references/references/wa-rcw-debt/
 One MD file per chapter, each section as its own heading inside.
 """
 
@@ -370,7 +370,7 @@ def render_chapter_md(
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default="plugins/wa-court-docs/skills/wa-law-references/references/wa-rcw-debt")
+    ap.add_argument("--out", default="plugins/us-wa-legal/skills/wa-law-references/references/wa-rcw-debt")
     ap.add_argument("--workers", type=int, default=8)
     ap.add_argument("--only", nargs="*", help="Optional list of chapter numbers to limit to.")
     args = ap.parse_args()

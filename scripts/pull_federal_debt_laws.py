@@ -35,7 +35,7 @@ Regulations from ecfr.gov XML versioner API:
   - Reg DD = 12 C.F.R. Part 1030 (Truth in Savings Act)
   - TSR   = 16 C.F.R. Part 310   (FTC Telemarketing Sales Rule)
 
-Output: plugins/claude-legal-federal-laws/references/{federal-debt-laws,federal-bankruptcy}/
+Output: plugins/us-federal-legal/references/{federal-debt-laws,federal-bankruptcy}/
 """
 
 from __future__ import annotations
@@ -535,7 +535,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out-root",
-        default="plugins/claude-legal-federal-laws/references",
+        default="plugins/us-federal-legal/references",
         help="Root references/ dir; per-target corpus subdirs are written inside it.",
     )
     ap.add_argument("--cache", default="/tmp/claude-legal-cache")

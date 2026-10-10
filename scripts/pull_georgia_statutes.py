@@ -3,7 +3,7 @@
 (O.C.G.A.) sections from open mirrors and convert each section to Markdown.
 
 Output (default):
-    plugins/ga-court-docs/skills/ga-law-references/references/ga-statutes-debt/
+    plugins/us-ga-legal/skills/ga-law-references/references/ga-statutes-debt/
 
 One Markdown file per TOPIC GROUP (e.g. `title-9-ch-11-civil-practice-act.md`,
 `title-9-ch-3-limitations.md`), each containing the fetched text of the curated
@@ -81,7 +81,7 @@ USER_AGENT = (
 )
 
 DEFAULT_OUT = (
-    "plugins/ga-court-docs/skills/ga-law-references/references/ga-statutes-debt"
+    "plugins/us-ga-legal/skills/ga-law-references/references/ga-statutes-debt"
 )
 
 STUB_MARKER = "<!-- ga-statutes-debt: pointer-stub -->"

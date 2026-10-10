@@ -184,7 +184,7 @@ def render_article_md(article: str, title: str, sections: list[tuple[str, str, s
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default="plugins/claude-legal-federal-laws/references/ucc-model")
+    ap.add_argument("--out", default="plugins/us-federal-legal/references/ucc-model")
     # workers=2 (was 8) to avoid tripping Cornell LII's rate limiter
     ap.add_argument("--workers", type=int, default=2)
     ap.add_argument(

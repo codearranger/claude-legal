@@ -3,7 +3,7 @@
 official Oregon Legislative Assembly website and convert each chapter
 to verbatim Markdown.
 
-Output: plugins/or-court-docs/skills/or-law-references/references/or-ors-debt/
+Output: plugins/us-or-legal/skills/or-law-references/references/or-ors-debt/
 One MD file per chapter (e.g. ORS-12.md, ORS-79A.md).
 
 Source URL pattern (verified May 2026):
@@ -37,7 +37,7 @@ Dependencies: Python 3.10+ stdlib only (urllib, html.parser, re, etc.).
 
 Usage:
     python3 scripts/pull_oregon_ors.py \\
-        --out plugins/or-court-docs/skills/or-law-references/references/or-ors-debt \\
+        --out plugins/us-or-legal/skills/or-law-references/references/or-ors-debt \\
         --workers 4
 
     # Refresh one chapter:
@@ -419,7 +419,7 @@ def main() -> int:
         "--out",
         type=Path,
         default=Path(
-            "plugins/or-court-docs/skills/or-law-references/"
+            "plugins/us-or-legal/skills/or-law-references/"
             "references/or-ors-debt"
         ),
         help="Output directory for the corpus (default matches the "

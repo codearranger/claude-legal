@@ -3,7 +3,7 @@
 indexes from courts.ca.gov and convert them to per-Title Markdown
 files.
 
-Output: plugins/ca-court-docs/skills/ca-law-references/references/court-rules/
+Output: plugins/us-ca-legal/skills/ca-law-references/references/court-rules/
 
 The script fetches the rule-set index pages, extracts per-rule
 links, downloads the HTML for each rule, and concatenates the
@@ -441,7 +441,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/ca-court-docs/skills/ca-law-references/references/court-rules",
+        default="plugins/us-ca-legal/skills/ca-law-references/references/court-rules",
     )
     ap.add_argument("--workers", type=int, default=8)
     ap.add_argument(

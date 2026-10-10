@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Pull the Michigan Court Rules (MCR) + Michigan Rules of Evidence (MRE).
 
-Output: plugins/mi-court-docs/skills/mi-law-references/references/court-rules/
+Output: plugins/us-mi-legal/skills/mi-law-references/references/court-rules/
 
 The canonical publisher is the Michigan Supreme Court / State Court
 Administrative Office (courts.michigan.gov), but its rules library serves the
@@ -277,7 +277,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/mi-court-docs/skills/mi-law-references/references/court-rules",
+        default="plugins/us-mi-legal/skills/mi-law-references/references/court-rules",
     )
     ap.add_argument("--only", nargs="*", help="Limit to output slugs.")
     ap.add_argument("--workers", type=int, default=4)

@@ -2,7 +2,7 @@
 """Pull selected debt-relevant California statutory chapters from
 leginfo.legislature.ca.gov and convert to MD.
 
-Output: plugins/ca-court-docs/skills/ca-law-references/references/ca-statutes-debt/
+Output: plugins/us-ca-legal/skills/ca-law-references/references/ca-statutes-debt/
 One MD file per topic, each section as its own heading inside.
 
 Modeled on scripts/pull_wa_rcw.py. The CA target is the
@@ -941,7 +941,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/ca-court-docs/skills/ca-law-references/references/ca-statutes-debt",
+        default="plugins/us-ca-legal/skills/ca-law-references/references/ca-statutes-debt",
     )
     ap.add_argument("--workers", type=int, default=8)
     ap.add_argument(

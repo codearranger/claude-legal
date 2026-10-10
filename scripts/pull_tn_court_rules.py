@@ -3,7 +3,7 @@
 authoritative `tncourts.gov` HTML mirror and convert each rule
 set to a verbatim Markdown corpus file.
 
-Output: plugins/tn-court-docs/skills/tn-law-references/references/court-rules/
+Output: plugins/us-tn-legal/skills/tn-law-references/references/court-rules/
 One MD file per rule set, named after the rule set.
 
 ## Source
@@ -450,7 +450,7 @@ def main() -> int:
         "--out",
         type=Path,
         default=Path(
-            "plugins/tn-court-docs/skills/tn-law-references/"
+            "plugins/us-tn-legal/skills/tn-law-references/"
             "references/court-rules"
         ),
         help="Output directory for the corpus.",

@@ -3,18 +3,18 @@ name: scaffold-state-plugin
 description: >
   Use this skill when the user asks the coding agent to add a new
   state plugin to the claude-legal marketplace. Triggers include
-  "add California plugin", "create a Texas court-docs plugin",
+  "add California plugin", "create a Texas legal plugin",
   "scaffold a new state", "add Florida", "I want to cover Arizona",
   "build the New York plugin", "new state — same as Oregon but for
   [STATE]", "port the WA plugin to [STATE]". Generates the
-  complete 21-skill directory tree (mirroring wa-court-docs and
-  or-court-docs), authors SKILL.md files for every role, lays
+  complete 21-skill directory tree (mirroring us-wa-legal and
+  us-or-legal), authors SKILL.md files for every role, lays
   down the reference-corpus scaffolding (court-rules,
   federal-debt-laws, ucc-model, <state>-statutes-debt), copies
   the format-check and case-calendar scripts parameterized to
   the new state's holidays and format rule, registers the plugin
   in marketplace.json, and updates CLAUDE.md and README.md. The
-  scaffolder declares dependencies on claude-legal-federal-laws
+  scaffolder declares dependencies on us-federal-legal
   and on document-skills from the anthropic-agent-skills
   marketplace (Anthropic's DOCX/PDF/PPTX/XLSX skills) in the new
   plugin.json and lays down symlinks at references/
@@ -30,7 +30,7 @@ version: 0.6.0
 
 Use this skill when adding a new state plugin to the
 `claude-legal` marketplace. The skill codifies the pattern
-established by `wa-court-docs` and `or-court-docs` so the
+established by `us-wa-legal` and `us-or-legal` so the
 addition stays consistent across states.
 
 > **Project-scoped skill**. This skill lives in `.claude/skills/`
@@ -121,7 +121,7 @@ and 35 skills depending on state complexity.
 The 23-skill base, parameterized by the items above:
 
 ```
-plugins/<abbr>-court-docs/
+plugins/us-<abbr>-legal/
   .claude-plugin/plugin.json
   scripts/
     format-check.py            # state format-rule compliance
@@ -215,7 +215,7 @@ python3 .claude/skills/scaffold-state-plugin/scripts/scaffold-state.py \
 
 The script:
 
-- Creates `plugins/<abbr>-court-docs/` and all 21 skill dirs
+- Creates `plugins/us-<abbr>-legal/` and all 21 skill dirs
 - Generates a `plugin.json` from the provided metadata
 - Copies the OR `format-check.py` and `case-calendar.py` to
   the new plugin, parameterizing the format rule and the
@@ -309,11 +309,11 @@ dive. Each `<state>-law-references` skill needs:
     courts, justice / town / village courts, special civil
     parts, etc.)
 - `federal-debt-laws/` *(symlink)* — points into the shared
-  `claude-legal-federal-laws/references/federal-debt-laws/`
-  plugin via `../../../../claude-legal-federal-laws/...`. Do
+  `us-federal-legal/references/federal-debt-laws/`
+  plugin via `../../../../us-federal-legal/...`. Do
   NOT create a real directory here. The scaffold script lays
   this symlink down automatically; if you author the plugin by
-  hand, declare `"dependencies": ["claude-legal-federal-laws",
+  hand, declare `"dependencies": ["us-federal-legal",
   {"name": "document-skills", "marketplace":
   "anthropic-agent-skills"}]` in plugin.json and run `ln -s`
   for the symlink.
@@ -646,8 +646,8 @@ What this means in practice when authoring the new plugin:
   state allows 25 interrogatories under [cite]."
 - **Don't reference sibling-state SKILL.md files.** The new
   plugin's `README.md`, `evals/README.md`, and reference-
-  corpus READMEs must not say "see `xx-court-docs/evals/`"
-  or "mirrors `yy-court-docs/skills/yy-law-references/...`".
+  corpus READMEs must not say "see `us-xx-legal/evals/`"
+  or "mirrors `us-yy-legal/skills/yy-law-references/...`".
   The end user will not have those plugins installed.
 - **Don't import another state's terminology.** Each state
   has its own pleading and motion vocabulary; don't carry
@@ -668,10 +668,10 @@ deletion or rewording into a state-only statement:
 ```bash
 # In the new plugin's directory:
 grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
-|wa-court-docs|or-court-docs|ca-court-docs|co-court-docs|in-court-docs|ny-court-docs\
+|us-wa-legal|us-or-legal|us-ca-legal|us-co-legal|us-in-legal|us-ny-legal\
 |like (Oregon|California|Colorado|Indiana|Washington|New York)\
 |unlike (Oregon|California|Colorado|Indiana|Washington|New York)\
-|federal/(WA|OR|CA|CO|IN|NY)" plugins/<abbr>-court-docs/ \
+|federal/(WA|OR|CA|CO|IN|NY)" plugins/us-<abbr>-legal/ \
   --include="*.md" --include="*.json"
 ```
 
@@ -682,7 +682,7 @@ grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
   most states' General Construction or Government Codes,
   **not** a cross-state comparison. Keep it.
 - **`in-person`** as a hyphenated phrase — matches the
-  `\bin-` pattern when looking for `in-court-docs`
+  `\bin-` pattern when looking for `us-in-legal`
   references. Keep it.
 - **`co-parents`, `co-counsel`, `co-defendant`** — match
   the `\bco-` pattern. Keep them.

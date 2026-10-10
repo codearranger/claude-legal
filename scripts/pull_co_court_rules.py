@@ -2,7 +2,7 @@
 """Pull Colorado Chief Justice Directives (CJDs) from the Colorado
 Judicial Branch website and convert them to verbatim Markdown.
 
-Output: plugins/co-court-docs/skills/co-law-references/references/court-rules/
+Output: plugins/us-co-legal/skills/co-law-references/references/court-rules/
 
 The script walks the paginated CJD index at
 `https://www.coloradojudicial.gov/supreme-court/chief-justice-directives`,
@@ -43,7 +43,7 @@ Dependencies: poppler (`brew install poppler`) for `pdftotext`.
 
 Usage:
     python3 scripts/pull_co_court_rules.py \\
-        --out plugins/co-court-docs/skills/co-law-references/references/court-rules \\
+        --out plugins/us-co-legal/skills/co-law-references/references/court-rules \\
         --workers 4
 """
 
@@ -554,7 +554,7 @@ def write_corpus_readme(out_dir: Path, cjd_count: int, stub_count: int,
         "python3 scripts/pull_co_court_rules.py \\"
     )
     out.append(
-        "  --out plugins/co-court-docs/skills/co-law-references/references/court-rules \\"
+        "  --out plugins/us-co-legal/skills/co-law-references/references/court-rules \\"
     )
     out.append("  --workers 4")
     out.append("```")
@@ -593,7 +593,7 @@ def main() -> int:
         "--out",
         type=Path,
         default=Path(
-            "plugins/co-court-docs/skills/co-law-references/"
+            "plugins/us-co-legal/skills/co-law-references/"
             "references/court-rules"
         ),
         help="Output directory (default: the canonical CO court-rules corpus).",

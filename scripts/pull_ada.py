@@ -26,7 +26,7 @@ Regulations (ecfr.gov XML versioner API):
     accommodations); its appendices carry the 2010 ADA Standards for Accessible
     Design (figures flatten to text; dimensional specs are preserved)
 
-Output: plugins/claude-legal-federal-laws/references/ada-laws/
+Output: plugins/us-federal-legal/references/ada-laws/
 """
 
 from __future__ import annotations
@@ -404,7 +404,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/claude-legal-federal-laws/references/ada-laws",
+        default="plugins/us-federal-legal/references/ada-laws",
         help="Output corpus directory.",
     )
     ap.add_argument("--cache", default="/tmp/claude-legal-cache")

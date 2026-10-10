@@ -45,16 +45,16 @@ def _load_calendar(plugin_dir_name: str):
 
 
 # Load all ten state modules once at import time.
-WA = _load_calendar("wa-court-docs")
-OR = _load_calendar("or-court-docs")
-CA = _load_calendar("ca-court-docs")
-CO = _load_calendar("co-court-docs")
-IN = _load_calendar("in-court-docs")
-MI = _load_calendar("mi-court-docs")
-NY = _load_calendar("ny-court-docs")
-OH = _load_calendar("oh-court-docs")
-TN = _load_calendar("tn-court-docs")
-AZ = _load_calendar("az-court-docs")
+WA = _load_calendar("us-wa-legal")
+OR = _load_calendar("us-or-legal")
+CA = _load_calendar("us-ca-legal")
+CO = _load_calendar("us-co-legal")
+IN = _load_calendar("us-in-legal")
+MI = _load_calendar("us-mi-legal")
+NY = _load_calendar("us-ny-legal")
+OH = _load_calendar("us-oh-legal")
+TN = _load_calendar("us-tn-legal")
+AZ = _load_calendar("us-az-legal")
 
 ALL_MODULES = [
     pytest.param(WA, id="wa"),

@@ -4,7 +4,7 @@
 Rules of Family Law Procedure (ARFLP), and the Justice Court Rules of
 Civil Procedure (JCRCP).
 
-Output: plugins/az-court-docs/skills/az-law-references/references/court-rules/
+Output: plugins/us-az-legal/skills/az-law-references/references/court-rules/
 
 The canonical publisher is the Arizona Supreme Court (azcourts.gov /
 govt.westlaw.com Arizona Court Rules), but that library is Cloudflare-
@@ -317,7 +317,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/az-court-docs/skills/az-law-references/"
+        default="plugins/us-az-legal/skills/az-law-references/"
                 "references/court-rules",
     )
     ap.add_argument("--only", nargs="*", help="Limit to output slugs.")

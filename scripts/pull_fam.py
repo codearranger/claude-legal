@@ -44,7 +44,7 @@ is genuinely unreachable (e.g. an air-gapped CI runner) it falls back to a
 blocked re-run will NOT clobber verbatim content a previous successful run
 committed.
 
-Output: plugins/claude-legal-immigration-laws/references/foreign-affairs-manual/
+Output: plugins/us-immigration-legal/references/foreign-affairs-manual/
 """
 
 from __future__ import annotations
@@ -428,7 +428,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/claude-legal-immigration-laws/references/foreign-affairs-manual",
+        default="plugins/us-immigration-legal/references/foreign-affairs-manual",
     )
     ap.add_argument("--cache", default="/tmp/claude-legal-cache",
                     help="Where to cache the assembled TLS bundle.")

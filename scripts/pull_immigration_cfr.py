@@ -14,7 +14,7 @@ Add a row to CFR_PARTS to extend coverage.
 
 To refresh: bump ECFR_AS_OF (the eCFR returns the version in force on that date).
 
-Output: plugins/claude-legal-immigration-laws/references/immigration-regulations/
+Output: plugins/us-immigration-legal/references/immigration-regulations/
 """
 
 from __future__ import annotations
@@ -201,7 +201,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/claude-legal-immigration-laws/references/immigration-regulations",
+        default="plugins/us-immigration-legal/references/immigration-regulations",
     )
     ap.add_argument("--only", nargs="*", help="Limit to out-file tokens (e.g., 8CFR-1003-eoir-bia).")
     args = ap.parse_args()

@@ -3,7 +3,7 @@
 scaffold-state.py — Scaffold a new state plugin for claude-legal.
 
 Generates the directory tree + lint-clean stub SKILL.md files +
-plugin.json + scripts (copied from or-court-docs with parameters
+plugin.json + scripts (copied from us-or-legal with parameters
 substituted) + eval directories + reference-corpus READMEs/manifests.
 After the script runs, the agent (or a human) authors substantive
 content into each stub.
@@ -235,9 +235,9 @@ def disclaimer_for_skill(role: str, cfg: "StateConfig") -> str:
 
 FEDERAL_CORPORA_NOTE = (
     "\n\n> **Federal corpora.** `{abbr}-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and\n"
-    "> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling\n"
+    "> `ucc-model/` are links into the `us-federal-legal` dependency. If one is missing or a dangling\n"
     "> link (some install methods copy only this plugin's folder), read the same file from\n"
-    "> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical."
+    "> `us-federal-legal` via its `federal-law-references` skill; file names are identical."
 )
 
 SKILL_STUB_TEMPLATE = """---
@@ -528,7 +528,7 @@ def render_plugin_json(cfg: StateConfig) -> str:
     """Render the plugin.json file."""
     return json.dumps(
         {
-            "name": f"{cfg.abbr}-court-docs",
+            "name": f"us-{cfg.abbr}-legal",
             "version": "0.1.0",
             # State plugins depend on the shared federal-laws plugin
             # rather than embedding federal-debt-laws / ucc-model
@@ -541,7 +541,7 @@ def render_plugin_json(cfg: StateConfig) -> str:
             # marketplace; the root marketplace.json allowlists it via
             # allowCrossMarketplaceDependenciesOn.
             "dependencies": [
-                "claude-legal-federal-laws",
+                "us-federal-legal",
                 {
                     "name": "document-skills",
                     "marketplace": "anthropic-agent-skills",
@@ -596,11 +596,11 @@ def render_plugin_json(cfg: StateConfig) -> str:
 
 
 def render_plugin_readme(cfg: StateConfig) -> str:
-    """Render the top-level plugins/<abbr>-court-docs/README.md — the
+    """Render the top-level plugins/us-<abbr>-legal/README.md — the
     canonical human-facing plugin detail (the marketplace standard). The
     root README.md links here; marketplace.json carries only a short blurb."""
     return (
-        f"# {cfg.abbr}-court-docs — {cfg.name}\n\n"
+        f"# us-{cfg.abbr}-legal — {cfg.name}\n\n"
         f"Draft and format pleadings, declarations, motions, and proposed "
         f"orders for {cfg.name} courts.\n\n"
         f"> **NOT LEGAL ADVICE.** Output is a drafting aid; verify every "
@@ -621,7 +621,7 @@ def render_plugin_readme(cfg: StateConfig) -> str:
         f"Under `skills/{cfg.abbr}-law-references/references/` (each corpus dir "
         f"has its own README): `{cfg.abbr}-statutes-debt/`, `court-rules/`, plus "
         f"the shared `federal-debt-laws/` / `federal-bankruptcy/` / `ucc-model/` "
-        f"symlinks into `claude-legal-federal-laws`.\n\n"
+        f"symlinks into `us-federal-legal`.\n\n"
         f"## Refresh\n\n"
         f"Plugin scripts: `format-check.py` ({cfg.format_rule}) · "
         f"`case-calendar.py`.\n\n"
@@ -651,7 +651,7 @@ def render_eval_readme(cfg: StateConfig) -> str:
     return f"""# Evals — Skill Regression Tests ({cfg.name})
 
 This folder contains prompt-based regression tests for each
-skill in the `{cfg.abbr}-court-docs` plugin.
+skill in the `us-{cfg.abbr}-legal` plugin.
 
 > **TODO**: Author evals across the five categories
 > (drafting, formatting, procedural, subject-matter,
@@ -672,7 +672,7 @@ skill in the `{cfg.abbr}-court-docs` plugin.
 
 def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool) -> None:
     """Generate the full plugin directory tree."""
-    plugin_dir = root / "plugins" / f"{cfg.abbr}-court-docs"
+    plugin_dir = root / "plugins" / f"us-{cfg.abbr}-legal"
 
     if plugin_dir.exists() and not force:
         print(
@@ -729,7 +729,7 @@ def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool
 
     # law-references corpora — state-specific only. federal-debt-laws
     # and ucc-model are NOT state-specific; they live in the shared
-    # claude-legal-federal-laws plugin and are reached via symlinks
+    # us-federal-legal plugin and are reached via symlinks
     # laid down further below.
     corpora_root = plugin_dir / "skills" / f"{cfg.abbr}-law-references" / "references"
     for corpus in ["court-rules", f"{cfg.abbr}-statutes-debt"]:
@@ -737,12 +737,12 @@ def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool
         corpus_dir.mkdir(parents=True, exist_ok=True)
         write(corpus_dir / "README.md", render_corpus_readme(corpus, cfg))
 
-    # Symlinks into the shared claude-legal-federal-laws plugin.
+    # Symlinks into the shared us-federal-legal plugin.
     # Relative path from corpora_root (5 levels deep under repo root)
     # back up to plugins/ then down into the shared plugin.
     if not dry_run:
         corpora_root.mkdir(parents=True, exist_ok=True)
-    shared_target_prefix = Path("../../../../claude-legal-federal-laws/references")
+    shared_target_prefix = Path("../../../../us-federal-legal/references")
     for corpus in ["federal-debt-laws", "federal-bankruptcy", "ucc-model"]:
         link_path = corpora_root / corpus
         target = shared_target_prefix / corpus
@@ -763,8 +763,8 @@ def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool
     (plugin_dir / "skills" / f"{cfg.abbr}-family-law" /
      "references" / "examples").mkdir(parents=True, exist_ok=True)
 
-    # Scripts (copy from or-court-docs as starting point)
-    or_scripts = root / "plugins" / "or-court-docs" / "scripts"
+    # Scripts (copy from us-or-legal as starting point)
+    or_scripts = root / "plugins" / "us-or-legal" / "scripts"
     new_scripts = plugin_dir / "scripts"
     if not dry_run:
         new_scripts.mkdir(parents=True, exist_ok=True)
@@ -802,12 +802,12 @@ def create_state_plugin(cfg: StateConfig, root: Path, force: bool, dry_run: bool
           f" for {cfg.name}")
     print("  4. Add 18+ evals across the five categories")
     print(f"  5. Flesh out the plugin README at"
-          f" plugins/{cfg.abbr}-court-docs/README.md (the canonical detail;"
+          f" plugins/us-{cfg.abbr}-legal/README.md (the canonical detail;"
           " a starter was written — fill in the TODO)")
-    print(f"  6. Register {cfg.abbr}-court-docs in"
+    print(f"  6. Register us-{cfg.abbr}-legal in"
           " .claude-plugin/marketplace.json (short blurb ending"
           " \"Full detail in the plugin README.\")")
-    print(f"  7. Add a one-row link to plugins/{cfg.abbr}-court-docs/README.md"
+    print(f"  7. Add a one-row link to plugins/us-{cfg.abbr}-legal/README.md"
           " in the root README.md table; update CLAUDE.md")
     print("  8. Run `python3 scripts/lint-skills.py`")
 

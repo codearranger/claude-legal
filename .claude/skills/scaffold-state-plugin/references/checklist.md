@@ -151,13 +151,13 @@ for the full puller-design discipline.
 
 ## Phase 1 — Plugin manifest
 
-- [ ] Create `plugins/<abbr>-court-docs/.claude-plugin/plugin.json`
+- [ ] Create `plugins/us-<abbr>-legal/.claude-plugin/plugin.json`
 - [ ] Set `name`, `version: "0.1.0"`, `description`, keywords
-- [ ] **Add `"dependencies": ["claude-legal-federal-laws",
+- [ ] **Add `"dependencies": ["us-federal-legal",
       {"name": "document-skills", "marketplace":
       "anthropic-agent-skills"}]`** — the new plugin reaches
       federal-debt-laws / ucc-model via symlinks into the shared
-      `claude-legal-federal-laws` plugin. Without this
+      `us-federal-legal` plugin. Without this
       declaration, the marketplace runtime won't auto-install
       the shared plugin and the symlinks won't resolve at
       install time. The document-skills entry pulls in
@@ -173,7 +173,7 @@ for the full puller-design discipline.
 ## Phase 2 — Directory scaffolding
 
 - [ ] Create the 21 skill directories under
-      `plugins/<abbr>-court-docs/skills/`:
+      `plugins/us-<abbr>-legal/skills/`:
   - [ ] `<abbr>-statewide-format/references/templates/`
   - [ ] `<abbr>-<primary-court-slug>/references/`
   - [ ] `<abbr>-<secondary-court-slug>/references/`
@@ -182,10 +182,10 @@ for the full puller-design discipline.
   - [ ] `<abbr>-law-references/references/`
     - [ ] `court-rules/` (real directory)
     - [ ] `federal-debt-laws` — **SYMLINK** pointing to
-          `../../../../claude-legal-federal-laws/references/federal-debt-laws`.
+          `../../../../us-federal-legal/references/federal-debt-laws`.
           Do NOT create a real directory here.
     - [ ] `ucc-model` — **SYMLINK** pointing to
-          `../../../../claude-legal-federal-laws/references/ucc-model`.
+          `../../../../us-federal-legal/references/ucc-model`.
           Do NOT create a real directory here.
     - [ ] `<state>-statutes-debt/` (e.g., `ca-statutes-debt/`)
   - [ ] `<abbr>-discovery/references/`
@@ -207,8 +207,8 @@ for the full puller-design discipline.
   - [ ] `<abbr>-consumer-debt/references/examples/`
   - [ ] `<abbr>-family-law/references/examples/` (NEW
         BASELINE — subject bundle alongside consumer-debt)
-- [ ] Create `plugins/<abbr>-court-docs/scripts/`
-- [ ] Create `plugins/<abbr>-court-docs/evals/` with the five
+- [ ] Create `plugins/us-<abbr>-legal/scripts/`
+- [ ] Create `plugins/us-<abbr>-legal/evals/` with the five
       subdirs: drafting, formatting, procedural, subject-
       matter, integration
 
@@ -242,7 +242,7 @@ Required for every SKILL.md:
 ```bash
 # In the new SKILL.md, look for drift hazards:
 grep -nE '\$[0-9]+|[0-9]+ days|[0-9]+ years|[0-9]+%|RCW [0-9]+\.[0-9]+\.[0-9]+\(' \
-  plugins/<abbr>-court-docs/skills/<abbr>-*/SKILL.md
+  plugins/us-<abbr>-legal/skills/<abbr>-*/SKILL.md
 ```
 
 Each hit should be one of:
@@ -458,13 +458,13 @@ The substantive bundle. Mirror `co-family-law` structure:
 
 ## Phase 5 — Scripts
 
-- [ ] Adapt `plugins/<abbr>-court-docs/scripts/format-check.py`
+- [ ] Adapt `plugins/us-<abbr>-legal/scripts/format-check.py`
       from the OR plugin
   - Update rule reference in the report header
   - Adjust acceptable-fonts list to state convention
   - Adjust color-handling per state rule (some states allow
     color in certain contexts)
-- [ ] Adapt `plugins/<abbr>-court-docs/scripts/case-calendar.py`
+- [ ] Adapt `plugins/us-<abbr>-legal/scripts/case-calendar.py`
       from the OR plugin
   - Update FIXED_HOLIDAYS list with state-specific holidays
   - Update WEEK_HOLIDAYS list if state has unique week-based
@@ -505,7 +505,7 @@ subject-matter category needs evals covering both:
 
 ## Phase 7 — Marketplace updates
 
-- [ ] Flesh out `plugins/<state>-court-docs/README.md` — the **canonical
+- [ ] Flesh out `plugins/us-<state>-legal/README.md` — the **canonical
       human-facing plugin detail** (the scaffolder writes a starter with a
       TODO). Coverage, venues, subject bundles, corpus sizes, SKILL.md count,
       procedural quirks.
@@ -519,7 +519,7 @@ subject-matter category needs evals covering both:
   - Add new plugin's scripts to "Common commands"
   - Bump comparison-state count if applicable
 - [ ] Update `README.md`:
-  - Add a **one-row link** to `plugins/<state>-court-docs/README.md` in the
+  - Add a **one-row link** to `plugins/us-<state>-legal/README.md` in the
     plugins table (not an embedded paragraph)
   - Add new plugin to the directory-tree section
   - Update the install command
@@ -547,10 +547,10 @@ hit needs to be resolved before the plugin ships:
 
 ```bash
 grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
-|wa-court-docs|or-court-docs|ca-court-docs|co-court-docs|in-court-docs|ny-court-docs\
+|us-wa-legal|us-or-legal|us-ca-legal|us-co-legal|us-in-legal|us-ny-legal\
 |like (Oregon|California|Colorado|Indiana|Washington|New York)\
 |unlike (Oregon|California|Colorado|Indiana|Washington|New York)\
-|federal/(WA|OR|CA|CO|IN|NY)" plugins/<abbr>-court-docs/ \
+|federal/(WA|OR|CA|CO|IN|NY)" plugins/us-<abbr>-legal/ \
   --include="*.md" --include="*.json"
 ```
 
@@ -568,7 +568,7 @@ grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
 
 - [ ] `python3 -m json.tool .claude-plugin/marketplace.json`
       — must round-trip
-- [ ] `python3 -m json.tool plugins/<abbr>-court-docs/.claude-plugin/plugin.json`
+- [ ] `python3 -m json.tool plugins/us-<abbr>-legal/.claude-plugin/plugin.json`
       — must round-trip
 - [ ] Any `_manifest.json` files produced by pull scripts
       round-trip cleanly
@@ -581,11 +581,11 @@ Run this scan to confirm every `<state>-XXX` reference inside
 the plugin resolves to an actual skill directory:
 
 ```bash
-for f in plugins/<abbr>-court-docs/skills/*/SKILL.md; do
+for f in plugins/us-<abbr>-legal/skills/*/SKILL.md; do
   base=$(basename $(dirname $f))
   grep -oE '<abbr>-[a-z0-9][a-z0-9-]+' "$f" | sort -u | while read ref; do
-    if [ "$ref" = "$base" ] || [ "$ref" = "<abbr>-court-docs" ]; then continue; fi
-    if [ ! -d "plugins/<abbr>-court-docs/skills/$ref" ]; then
+    if [ "$ref" = "$base" ] || [ "$ref" = "us-<abbr>-legal" ]; then continue; fi
+    if [ ! -d "plugins/us-<abbr>-legal/skills/$ref" ]; then
       echo "  $base -> BROKEN: $ref"
     fi
   done
@@ -604,7 +604,7 @@ corpus instead:
 # Look for embedded dollar amounts, year-tagged thresholds,
 # specific day counts, and subsection-level cites:
 grep -nE '\$[0-9]+|[0-9]+ days|[0-9]+ years|[0-9]+%|RCW [0-9]+\.[0-9]+\.[0-9]+\(|2024 threshold|2025 threshold' \
-  plugins/<abbr>-court-docs/skills/*/SKILL.md
+  plugins/us-<abbr>-legal/skills/*/SKILL.md
 ```
 
 For each hit, classify:
@@ -623,7 +623,7 @@ hazards:
 
 ```bash
 grep -nE '\$[0-9]+|[0-9]+ days|[0-9]+ years|[0-9]+%|2024 threshold|2025 threshold' \
-  plugins/<abbr>-court-docs/evals/**/*.md
+  plugins/us-<abbr>-legal/evals/**/*.md
 ```
 
 Same classification. User-prompt facts are fine; embedded

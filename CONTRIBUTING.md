@@ -58,7 +58,7 @@ python3 scripts/lint-skills.py
 
 # 4. Validate JSON manifests
 python3 -m json.tool .claude-plugin/marketplace.json > /dev/null
-python3 -m json.tool plugins/wa-court-docs/.claude-plugin/plugin.json > /dev/null
+python3 -m json.tool plugins/us-wa-legal/.claude-plugin/plugin.json > /dev/null
 ```
 
 The lint also runs in CI on every push and PR
@@ -325,7 +325,7 @@ case law + agency guidance.
 - **Statutes** — pulled from each state's legislature by
   `scripts/pull_<state>_statutes.py`
 - **Federal law** — pulled once into the shared
-  `claude-legal-federal-laws` plugin; each state plugin
+  `us-federal-legal` plugin; each state plugin
   symlinks into it via `references/federal-debt-laws/`
   and `references/ucc-model/`
 

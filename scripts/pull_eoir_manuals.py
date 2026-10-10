@@ -33,7 +33,7 @@ content already committed.
 
 For the binding rules, no stub is needed — they are in ../immigration-regulations/.
 
-Output: plugins/claude-legal-immigration-laws/references/court-rules/
+Output: plugins/us-immigration-legal/references/court-rules/
 """
 
 from __future__ import annotations
@@ -237,7 +237,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out",
-        default="plugins/claude-legal-immigration-laws/references/court-rules",
+        default="plugins/us-immigration-legal/references/court-rules",
     )
     ap.add_argument("--stubs-only", action="store_true",
                     help="Skip the network probe and (re)write pointer stubs.")

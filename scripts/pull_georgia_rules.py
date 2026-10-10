@@ -3,7 +3,7 @@
 SET.
 
 Output (default):
-    plugins/ga-court-docs/skills/ga-law-references/references/court-rules/
+    plugins/us-ga-legal/skills/ga-law-references/references/court-rules/
 
 The set->file->source->rule-list map is read from the corpus's own
 `_manifest.json`.
@@ -82,7 +82,7 @@ GEORGIACOURTS = "https://georgiacourts.gov"
 RULES_PAGE = "https://georgiacourts.gov/"
 
 DEFAULT_OUT = (
-    "plugins/ga-court-docs/skills/ga-law-references/references/court-rules"
+    "plugins/us-ga-legal/skills/ga-law-references/references/court-rules"
 )
 
 STUB_MARKER = "<!-- ga-court-rules: pointer-stub -->"
