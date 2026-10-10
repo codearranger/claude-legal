@@ -16,7 +16,7 @@ description: >
   case law", "what's the Georgia rule on X". Every other ga- skill
   cites into this corpus for rule numbers, statute sections, and case
   authorities.
-version: 0.2.0
+version: 0.3.0
 ---
 
 # Georgia Law References
@@ -25,6 +25,11 @@ version: 0.2.0
 > not legal advice. Verify current rules, deadlines, and citations
 > against the authoritative source before relying on anything here.
 > Pair with substantive review by counsel where stakes warrant.
+
+> **Federal corpora.** `ga-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 This is the **matter-neutral reference hub** for Georgia civil
 practice. It is a pointer index: it tells the other `ga-` skills

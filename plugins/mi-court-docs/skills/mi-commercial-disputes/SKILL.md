@@ -12,7 +12,7 @@ description: >
   interference, conspiracy, statutory conversion with treble damages),
   fraud-with-particularity pleading (MCR 2.112(B)(1)), and Uniform
   Arbitration Act (MCL 691.1681) plus FAA preemption.
-version: 0.2.0
+version: 0.3.0
 ---
 
 # Michigan Commercial Disputes
@@ -26,6 +26,11 @@ version: 0.2.0
 > precise thresholds and multipliers. Verify every statute number,
 > dollar threshold, and limitations count against the current
 > Michigan Compiled Laws and Michigan reporters before relying.
+
+> **Federal corpora.** `mi-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 Use this subject-matter bundle for Michigan commercial /
 business-to-business civil litigation — contract, trade secret,

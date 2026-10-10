@@ -1,6 +1,6 @@
 {
   "name": "or-court-docs",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "dependencies": [
     "claude-legal-federal-laws",
     {

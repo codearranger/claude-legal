@@ -15,10 +15,15 @@ description: >
   CCP §§ 1032 and 1033.5, local rules, general civil key cases,
   California Style Manual citation conventions, and online-sources
   catalog.
-version: 0.1.1
+version: 0.2.0
 ---
 
 # California Law References — General Civil Practice
+
+> **Federal corpora.** `ca-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 This skill is a matter-neutral reference index — a pointer to the
 statutes, rules, and doctrines most often invoked in California

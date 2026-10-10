@@ -11,10 +11,15 @@ description: >
   cardholder agreement", "Certificate of Indebtedness". Covers substantive law,
   fact-pattern triage, chain-of-title doctrine, and discovery targeting
   plaintiff's elements.
-version: 0.3.2
+version: 0.4.0
 ---
 
 # Washington Consumer-Debt Defense
+
+> **Federal corpora.** `wa-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 The subject-matter bundle for Washington consumer-debt cases. This
 skill is the container for the substantive law, fact patterns,

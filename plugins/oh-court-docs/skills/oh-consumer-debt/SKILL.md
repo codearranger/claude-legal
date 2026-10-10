@@ -10,7 +10,7 @@ description: >
   — defenses lean on chain-of-title and FDCPA. Triggers: "Ohio consumer
   debt", "Ohio CSPA", "R.C. 1345 treble damages", "Ohio chain of title",
   "Ohio debt buyer", "medical debt Ohio".
-version: 0.2.1
+version: 0.3.0
 ---
 
 # Ohio Consumer Debt — Statutory + Common-Law Defenses
@@ -18,6 +18,11 @@ version: 0.2.1
 > **NOT LEGAL ADVICE.** Verify every cite against current
 > R.C. text and current case law before filing. The Ohio
 > CSPA has been amended materially in 2012, 2021, and 2023.
+
+> **Federal corpora.** `oh-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 ## Five fact-pattern triage
 

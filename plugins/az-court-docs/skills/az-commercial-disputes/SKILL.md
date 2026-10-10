@@ -13,7 +13,7 @@ description: >
   LLC Act, Business Corporation Act, Arizona Uniform Trade Secrets Act, Uniform
   Fraudulent Transfer Act, contract-action attorney-fee statute (A.R.S. §
   12-341.01), civil racketeering with treble damages, Rule 9(b) fraud pleading.
-version: 0.1.8
+version: 0.2.0
 ---
 
 # Arizona Commercial Disputes
@@ -26,6 +26,11 @@ version: 0.1.8
 > multipliers and thresholds. Verify every statute number, dollar
 > threshold, multiplier, and limitations count against the current
 > Arizona Revised Statutes and Arizona reporters before relying.
+
+> **Federal corpora.** `az-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 Use this subject-matter bundle for Arizona commercial /
 business-to-business civil litigation — contract, trade secret,

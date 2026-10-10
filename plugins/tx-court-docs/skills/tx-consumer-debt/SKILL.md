@@ -16,7 +16,7 @@ description: >
   denial TRCP 93(10)), chain-of-title / standing and debt-buyer
   evidence foundation (TRE 803(6) / 902(10)), discovery, exemptions and
   the wage-garnishment bar, and CPRC Ch. 38.
-version: 0.1.0
+version: 0.2.0
 ---
 
 # Texas Consumer-Debt Defense
@@ -29,6 +29,11 @@ version: 0.1.0
 > (Tex. Fin. Code, Tex. Bus. & Com. Code, Tex. Civ. Prac. & Rem. Code, Tex. Prop. Code), the Texas
 > Rules of Civil Procedure, and the Texas Rules of Evidence before filing, and consult a licensed
 > Texas attorney.
+
+> **Federal corpora.** `tx-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 Use this bundle when a Texas consumer has been sued by a **debt collector** — typically a **debt
 buyer** (Midland Credit Management, Portfolio Recovery Associates, LVNV Funding, Cavalry SPV,

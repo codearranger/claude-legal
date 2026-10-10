@@ -13,7 +13,7 @@ description: >
   23-350 et seq.) with treble-damages (§ 23-355), minimum wage and paid sick time
   (§ 23-363/23-371), non-compete per *Valley Medical Specialists v.
   Farber*, workers'-compensation exclusive remedy (§ 23-1022), right-to-work.
-version: 0.1.7
+version: 0.2.0
 ---
 
 # Arizona Employment Law
@@ -28,6 +28,11 @@ version: 0.1.7
 > wage / sick-time figures, and forum selection against the
 > current A.R.S. and the reference corpus before drafting, and
 > consult a licensed Arizona attorney about your specific case.
+
+> **Federal corpora.** `az-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 Use this subject-matter bundle for Arizona employment civil
 actions — wrongful discharge, discrimination / harassment /

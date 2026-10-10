@@ -1,10 +1,15 @@
 ---
 name: wa-post-judgment
 description: Navigate post-judgment procedures in Washington State — motions to vacate under CR 60, garnishment under RCW 6.27, supplemental proceedings, exemption claims, and satisfaction of judgment. Use when the user asks about vacating a default judgment, responding to a wage garnishment or bank levy, exempting property from collection, answering supplemental interrogatories, or filing a satisfaction of judgment.
-version: 0.2.1
+version: 0.3.0
 ---
 
 # Washington Post-Judgment Procedure
+
+> **Federal corpora.** `wa-law-references/references/federal-debt-laws/`, `federal-bankruptcy/`, and
+> `ucc-model/` are links into the `claude-legal-federal-laws` dependency. If one is missing or a dangling
+> link (some install methods copy only this plugin's folder), read the same file from
+> `claude-legal-federal-laws` via its `federal-law-references` skill; file names are identical.
 
 When a judgment has been entered — against the defendant or for the
 defendant — a separate body of rules governs what happens next. Pro
